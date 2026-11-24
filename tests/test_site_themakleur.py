@@ -139,9 +139,11 @@ def test_the_icon_in_a_tile_keeps_its_own_size():
 def test_a_claim_in_a_list_stays_a_readable_line():
     """Een leesbare regel (PO 2026-11-15: "Leesbaarheid werkt volgens mij tot 55-64 characters"): de bewering en het
     origineel in een kaart hoogstens 44ch breed, in Geist (PLAN #34.2aw); in de browser gemeten op echte beweringen 50 tot
-    66 tekens per volle regel, mediaan 60, in het Engels en het Nederlands."""
-    regel = re.search(r"\.fz \.rij-bewering, \.fz \.rij-origineel \{ max-width: (\d+)ch; \}", CSS)
-    assert regel and int(regel.group(1)) <= 48
+    66 tekens per volle regel, mediaan 60, in het Engels en het Nederlands. Sinds 2026-11-24 (PO: "ook hier is de minimal
+    width een beetje kort") op 17 px en de leesmaat van 48ch: ongeveer 66 tekens, nooit breder dan lopende tekst."""
+    regel = re.search(r"\.fz \.rij-bewering, \.fz \.rij-origineel \{ max-width: (?:(\d+)ch|var\(--maat-tekst\)); \}", CSS)
+    assert regel and (regel.group(1) is None or int(regel.group(1)) <= 48)
+    assert re.search(r"--maat-tekst: (\d+)ch;", CSS) and int(re.search(r"--maat-tekst: (\d+)ch;", CSS).group(1)) <= 48
 
 
 def test_a_stretched_bar_has_square_corners():
@@ -168,3 +170,79 @@ def test_running_text_keeps_one_measure_of_about_seventy_characters():
         if p.suffix in (".astro", ".jsx"):
             for alinea in re.findall(r"<p [^>]*>", p.read_text(encoding="utf-8")):
                 assert not re.search(r"max-w-\[(6\d|7\d)ch\]", alinea), (p.name, alinea)
+
+
+def test_reading_text_has_one_size_of_seventeen_pixels_and_the_measure_grows_with_it():
+    """De leesmaat (PO 2026-11-24, na een proef met 15,5, 17 en 18 pixels: "17 pixels"). Op 15,5 pixels was de regel met
+    gemiddeld 67 tekens goed, maar de letter klein en de kolom 493 px; op 17 pixels telt een regel nog steeds ongeveer 66
+    tekens en wordt de kolom 541 px, omdat de maat in ch staat. Eén klasse voor lopende tekst in een lang stuk (een eigen
+    check, Over, Platform, de databasepagina, de inleiding van een dossier), met de leeskop van 18 px erboven."""
+    assert re.search(r"--lees: 17px;", CSS)
+    regel = re.search(r"\.fz \.leestekst[^{]*\{([^}]*)\}", CSS).group(1)
+    assert "font-size: var(--lees)" in regel and "line-height: 1.6" in regel and "max-width: var(--maat-tekst)" in regel
+    for kiezer in (r"\.fz \.fz-eigen-tekst p", r"\.fz \.fz-eigen-uitzoeken"):
+        assert re.search(kiezer + r"[^{]*\{[^}]*font-size: var\(--lees\)", CSS), kiezer
+    # de inleiding van een eigen check blijft een stap groter dan de tekst eronder
+    kort = re.search(r"\.fz \.fz-eigen-kort \{([^}]*)\}", CSS).group(1)
+    assert re.search(r"font-size: (19|20)px", kort), kort
+    paginas = WORTEL / "site" / "src" / "components" / "site" / "paginas"
+    eigen = (paginas / "EigenCheck.astro").read_text(encoding="utf-8")
+    koppen = re.findall(r'<div class="sectiekop"><h2([^>]*)>', eigen)
+    assert koppen and all('class="leeskop"' in k for k in koppen), koppen
+    for naam in ("Over.astro", "Platform.astro"):
+        bron = (paginas / naam).read_text(encoding="utf-8")
+        assert '<p class="leading-relaxed">' not in bron and 'class="leestekst"' in bron, naam
+    dossier = (paginas / "Dossier.astro").read_text(encoding="utf-8")
+    assert '<p class="leestekst">{d.inleiding}</p>' in dossier
+
+
+def _token(blok: str, naam: str) -> str:
+    return re.search(r"--" + naam + r":\s*(#[0-9a-fA-F]{6})", blok).group(1)
+
+
+def test_running_text_is_not_white_on_pitch_black_nor_black_on_white():
+    """De inkt van lopende tekst (PO 2026-11-24: "Nu lijkt het heel erg wit op pikzwart, wat niet zo prettig leest. En in
+    light modus is dit misschien ook zo"). Lichte tekst op bijna zwart straalt uit, vooral bij wie astigmatisch is; de
+    richtlijn van Material voor donker is een grond van #121212 met tekst op 87% wit, ongeveer 14:1. Wij: een eigen inkt
+    voor lopende tekst (`--tekst`) van 12:1 tot 15:1 op de grond, in licht en donker; koppen en knoppen houden `--inkt`;
+    en de donkere grond niet meer zo zwart als #0a0a0a. Ruim boven AAA (7:1)."""
+    licht = re.search(r"\.fz \{(.*?)\n\}", CSS, re.S).group(1)
+    donker = re.search(r'@media \(prefers-color-scheme: dark\) \{\s*:root:not\(\[data-weergave="licht"\]\) \.fz \{(.*?)\}', CSS, re.S).group(1)
+    gekozen = re.search(r':root\[data-weergave="donker"\] \.fz \{(.*?)\}', CSS, re.S).group(1)
+    for naam in ("grond", "paneel", "inkt", "tekst", "lijn"):
+        assert _token(donker, naam) == _token(gekozen, naam), naam
+    for blok in (licht, donker):
+        grond, paneel, tekst, inkt = (_token(blok, n) for n in ("grond", "paneel", "tekst", "inkt"))
+        for vlak in (grond, paneel):
+            assert 12 <= _contrast(tekst, vlak) <= 15.5, (tekst, vlak, _contrast(tekst, vlak))
+        assert _contrast(inkt, grond) > _contrast(tekst, grond)
+    assert sum(_rgb(_token(donker, "grond"))) > sum(_rgb("#0a0a0a"))
+    for kiezer in (r"\.fz \.fz-eigen-tekst p", r"\.fz \.fz-eigen-uitzoeken", r"\.fz main article \.leestekst"):
+        assert re.search(kiezer + r"[^{]*\{[^}]*color: var\(--tekst\)", CSS), kiezer
+
+
+def test_every_kind_of_text_follows_one_scale():
+    """De volle ronde over tekst (PO 2026-11-24: "Doe maar even gewoon een full sweep op alle teksten en regels en de
+    breedte van blokken tekst"), gemeten op 14 pagina's op 1440 en 390 px. Een bewering in een rij leest als titel op
+    17 px tot ongeveer 66 tekens; de inleiding van elke pagina op de leesmaat; zinnen in een kaart nooit onder 14 px en
+    een noot nooit onder 12,5; geen blok tekst breder dan de maat (een bijschrift van 234 tekens per regel, een tijdlijn
+    van 95); de bronnen van een eigen check in kolommen van de leesmaat in plaats van één smalle strook."""
+    def regel(kiezer):
+        return re.search(r"\.fz " + kiezer + r" \{([^}]*)\}", CSS).group(1)
+    bewering = regel(r"\.rij-bewering")
+    assert "font-size: 17px" in bewering
+    assert re.search(r"\.fz \.rij-bewering, \.fz \.rij-origineel \{ max-width: var\(--maat-tekst\); \}", CSS)
+    for kiezer, minimum in ((r"\.ck-zin", 14), (r"\.ck-naam", 14), (r"\.ck-namen", 14), (r"\.ck-noot", 13),
+                            (r"\.filteruitleg", 12.5), (r"\.fz-eigen-zin", 16)):
+        maat = float(re.search(r"font-size: ([\d.]+)px", regel(kiezer)).group(1))
+        assert maat >= minimum, (kiezer, maat)
+    assert re.search(r"\.fz \.fz-eigen-tijd li > \* \+ \* \{[^}]*\}", CSS)
+    assert re.search(r"\.fz \.fz-eigen-tijd li > :last-child \{[^}]*max-width: var\(--maat-tekst\)", CSS)
+    bronnen = re.search(r"^\.fz \.fz-eigen-bronnen \{([^}]*)\}", CSS, re.M).group(1)
+    assert "columns:" in bronnen
+    paginas = WORTEL / "site" / "src" / "components" / "site" / "paginas"
+    verkennen = (paginas / "Verkennen.astro").read_text(encoding="utf-8")
+    assert re.search(r'<figcaption class="[^"]*max-w-\[var\(--maat-tekst\)\]', verkennen)
+    for p in paginas.glob("*.astro"):
+        tekst = p.read_text(encoding="utf-8")
+        assert "text-[15.5px] leading-relaxed" not in tekst and "text-[17px] leading-relaxed" not in tekst, p.name

@@ -18,26 +18,26 @@ const ga = meetId();
     <Kruimel taal={taal} stappen={[[t('nav_over')]]} />
     <header class="paginakop">
       <h1 class="groot-kop">{t('nav_over')}</h1>
-      <p class="text-[17px] leading-relaxed">{t('over_inleiding')}</p>
+      <p class="leestekst">{t('over_inleiding')}</p>
     </header>
     <article class="mt-10 grid max-w-[65ch] gap-10">
       <section id="wat" aria-labelledby="k-wat" class="grid gap-3">
         <h2 id="k-wat" class="leeskop">{t('over_wat_kop')}</h2>
-        <p class="leading-relaxed">{t('over_wat_p1')}</p>
-        <p class="leading-relaxed">{t('over_wat_p2')}</p>
+        <p class="leestekst">{t('over_wat_p1')}</p>
+        <p class="leestekst">{t('over_wat_p2')}</p>
       </section>
       <section id="corrections" aria-labelledby="k-fout" class="grid gap-3">
         <h2 id="k-fout" class="leeskop">{t('over_fout_kop')}</h2>
-        <p class="leading-relaxed">{t('over_fout_p1')}</p>
-        <p class="leading-relaxed">{t('over_fout_adres')} <span class="mono text-[14px] text-[var(--inkt)] select-all">{CONTACT}</span></p>
+        <p class="leestekst">{t('over_fout_p1')}</p>
+        <p class="leestekst">{t('over_fout_adres')} <span class="mono text-[14px] text-[var(--inkt)] select-all">{CONTACT}</span></p>
       </section>
       <section id="privacy" aria-labelledby="k-privacy" class="grid gap-3">
         <h2 id="k-privacy" class="leeskop">{t('over_privacy_kop')}</h2>
-        <p class="leading-relaxed">{t(ga ? 'over_privacy_p1_meten' : 'over_privacy_p1')}</p>
-        {ga && <p class="leading-relaxed">{t('over_privacy_meten')}</p>}
-        <p class="leading-relaxed">{t('over_privacy_tellen')}</p>
-        <p class="leading-relaxed">{t('over_privacy_weergave')}</p>
-        <p class="leading-relaxed">{t('over_privacy_herkomst')}</p>
+        <p class="leestekst">{t(ga ? 'over_privacy_p1_meten' : 'over_privacy_p1')}</p>
+        {ga && <p class="leestekst">{t('over_privacy_meten')}</p>}
+        <p class="leestekst">{t('over_privacy_tellen')}</p>
+        <p class="leestekst">{t('over_privacy_weergave')}</p>
+        <p class="leestekst">{t('over_privacy_herkomst')}</p>
       </section>
     </article>
   </div>

@@ -90,6 +90,32 @@ regel. Reken nooit in ch als in tekens: in Geist is een ch (de breedte van een 0
 was 90 tekens. Een nieuwe alinea krijgt `max-w-[var(--maat-tekst)]` of valt in een `header` of `article` onder de regel in
 `site.css`; `tests/test_site_themakleur.py` weigert een alinea op 60ch of breder. Alinea's hebben `text-wrap: pretty`.
 
+**De schaal van tekst en de inkt** *(2026-11-24, PO: "Doe maar even gewoon een full sweep op alle teksten en regels en de
+breedte van blokken tekst", na een proef met 15,5, 17 en 18 pixels: "17 pixels")*. Gemeten op 14 pagina's op 1440 en
+390 px. De regel had al de goede lengte (gemiddeld 67 tekens), maar de letter was klein (15,5 px; Medium zet 20 à 21).
+Omdat de maat in ch staat, groeit de kolom mee met de letter: op 17 px nog steeds ongeveer 66 tekens, en 541 in plaats
+van 493 px breed.
+
+| wat | maat | regelafstand | breedte | waar |
+|---|---|---|---|---|
+| lopende tekst in een lang stuk | 17 px (`--lees`) | 1,6 | `--maat-tekst`, ~66 tekens | `.leestekst`, `.fz-eigen-tekst p`, `.fz-eigen-uitzoeken`, de inleiding van elke pagina |
+| inleiding van een eigen check | 19 px | 1,55 | `--maat-tekst` | `.fz-eigen-kort` |
+| kop in een lang stuk | 18 px, 600 | 1,3 | | `.leeskop`, ook de sectiekoppen van een eigen check |
+| bewering in een rij | 17 px, 500 | 1,45 | `--maat-tekst`, ~66 tekens (was 16 px op 44ch) | `.rij-bewering` |
+| zin bij een oordeel | 16 px | 1,5 | `--maat-tekst` | `.fz-eigen-zin` |
+| tijdlijn | 15 px | 1,55 | tekst op `--maat-tekst` (was 95 tekens) | `.fz-eigen-tijd` |
+| bronnen van een eigen check | 14 px | 1,5 | kolommen van 20 rem, op een breed scherm twee | `.fz-eigen-bronnen` |
+| zin in een kaart naast een factcheck | 14 px (was 13) | 1,45 | de kaart | `.ck-zin`, `.ck-naam`, `.ck-namen` |
+| noot | 13 px (was 12), uitleg bij een filter 12,5 (was 11,5) | | | `.ck-noot`, `.filteruitleg` |
+| bijschrift | 12,5 px | | `--maat-tekst` (was 234 tekens per regel) | de kaart op Verkennen |
+
+*De inkt.* Lichte tekst op bijna zwart straalt uit, vooral voor wie astigmatisch is; Material Design zet donker op
+`#121212` met tekst op 87% wit, ongeveer 14:1. Lopende tekst heeft daarom een eigen inkt, `--tekst`: `#262626` op
+`#fafafa` in licht (14,5:1, was 17,2:1) en `#d9d9d9` op `#111111` in donker (13,4:1, was `#ededed` op `#0a0a0a`, 16,9:1).
+Koppen, knoppen en een bewering in een rij houden `--inkt`. De donkere grond is `#111111` (was `#0a0a0a`), het paneel
+`#171717`, de lijnen `#262626` en `#363636`. Alles ruim boven AAA (7:1). `tests/test_site_themakleur.py` houdt lopende tekst
+tussen 12:1 en 15,5:1 op grond en paneel, in licht en donker.
+
 | | factiz.org | platform | proef (Tailwind) |
 |---|---|---|---|
 | breedte van de inhoud | 66 rem (`.baan`) | 74 rem (`--breed`) | 74 rem |

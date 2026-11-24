@@ -136,7 +136,7 @@ const ld = e.concept ? '' : JSON.stringify({
         )}
 
         <section id="wat-we-weten" class="mt-10">
-          <div class="sectiekop"><h2>{t('eigen_weten')}</h2></div>
+          <div class="sectiekop"><h2 class="leeskop">{t('eigen_weten')}</h2></div>
           <div class="fz-eigen-tekst">{e.tekst.map((a) => <p><Stukken s={a} taal={taal} /></p>)}</div>
           {e.rekensom.length > 0 && (
             <div class="fz-eigen-rol">
@@ -151,7 +151,7 @@ const ld = e.concept ? '' : JSON.stringify({
 
         {e.niet_weten.length > 0 && (
           <section id="niet-weten" class="mt-10">
-            <div class="sectiekop"><h2>{t('eigen_niet_weten')}</h2></div>
+            <div class="sectiekop"><h2 class="leeskop">{t('eigen_niet_weten')}</h2></div>
             <div class="fz-eigen-tekst">{e.niet_weten.map((a) => <p><Stukken s={a} taal={taal} /></p>)}</div>
           </section>
         )}
@@ -162,7 +162,7 @@ const ld = e.concept ? '' : JSON.stringify({
           <section id="nog-uitzoeken" class="mt-10">
             {/* zonder aantal: de lijst staat in de smalle tekstkolom, en een getal rechts in de koprij hing daar los (PO
                 2026-11-19: "this placement is a bit weird"); de punten staan er direct onder */}
-            <div class="sectiekop"><h2>{t('eigen_nog_uitzoeken')}</h2></div>
+            <div class="sectiekop"><h2 class="leeskop">{t('eigen_nog_uitzoeken')}</h2></div>
             <ul class="fz-eigen-uitzoeken">{e.nog_uitzoeken.map((n) => <li>{n}</li>)}</ul>
             <div class="paneel vak fz-eigen-bijdragen mt-4">
               <h3 class="kaartkop">{t('eigen_bijdragen_kop')}</h3>
@@ -175,13 +175,13 @@ const ld = e.concept ? '' : JSON.stringify({
 
         {e.tijdlijn.length > 0 && (
           <section id="tijdlijn" class="mt-10">
-            <div class="sectiekop"><h2>{t('eigen_tijdlijn')}</h2></div>
+            <div class="sectiekop"><h2 class="leeskop">{t('eigen_tijdlijn')}</h2></div>
             <ol class="fz-eigen-tijd">{e.tijdlijn.map((r) => <li><span class="fz-eigen-wanneer">{r.datum}{r.tijd && <span class="fz-eigen-tijdstip">{r.tijd}</span>}</span><span>{r.wat}</span></li>)}</ol>
           </section>
         )}
 
         <section id="bronnen" class="mt-10">
-          <div class="sectiekop"><h2>{t('eigen_bronnen')}</h2><span class="mono">{e.bronnen.length}</span></div>
+          <div class="sectiekop"><h2 class="leeskop">{t('eigen_bronnen')}</h2><span class="mono">{e.bronnen.length}</span></div>
           <ol class="fz-eigen-bronnen">
             {e.bronnen.map((b) => (
               <li id={`bron-${b.nr}`}>
@@ -206,7 +206,7 @@ const ld = e.concept ? '' : JSON.stringify({
 
         {verbanden && (
           <section id="verbanden" class="mt-10">
-            <div class="sectiekop"><h2>{t('verbanden_kop')}</h2></div>
+            <div class="sectiekop"><h2 class="leeskop">{t('verbanden_kop')}</h2></div>
             <div class="grid gap-4">
               {(p?.dossiers ?? []).map((d) => (
                 <a class="kaart flex items-center gap-4 p-3" href={pad(taal, 'dossiers', d.sleutel)}>

@@ -14,33 +14,33 @@ const t = maakT(taal);
     <Kruimel taal={taal} stappen={[[t('nav_platform')]]} />
     <header class="paginakop">
       <h1 class="groot-kop">{t('platform_kop')}</h1>
-      <p class="text-[17px] leading-relaxed">{t('platform_inleiding')}</p>
+      <p class="leestekst">{t('platform_inleiding')}</p>
     </header>
     <article class="mt-10 grid max-w-[65ch] gap-10">
       <section id="products" aria-labelledby="k-products" class="grid gap-3">
         <span class="mono">{t('platform_producten_stand')}</span>
         <h2 id="k-products" class="leeskop">{t('platform_producten')}</h2>
-        <p class="leading-relaxed">{t('platform_producten_p1')}</p>
-        <p class="leading-relaxed">{t('platform_producten_p2')}</p>
+        <p class="leestekst">{t('platform_producten_p1')}</p>
+        <p class="leestekst">{t('platform_producten_p2')}</p>
         <p><a class="link" href={pad(taal, 'fact-checks')}>{t('lijst_titel')}</a></p>
       </section>
       <section id="developers" aria-labelledby="k-developers" class="grid gap-3">
         <span class="mono">{t('platform_ontwikkelaars_stand')}</span>
         <h2 id="k-developers" class="leeskop">{t('platform_ontwikkelaars')}</h2>
-        <p class="leading-relaxed">{t('platform_ontwikkelaars_p1')}</p>
-        <p class="leading-relaxed">{t('platform_ontwikkelaars_p2')}</p>
+        <p class="leestekst">{t('platform_ontwikkelaars_p1')}</p>
+        <p class="leestekst">{t('platform_ontwikkelaars_p2')}</p>
       </section>
       <section id="how-it-works" aria-labelledby="k-how" class="grid gap-3">
         <span class="mono">{t('platform_motorkap_stand')}</span>
         <h2 id="k-how" class="leeskop">{t('platform_motorkap')}</h2>
-        <ol class="grid list-decimal gap-2 ps-5 leading-relaxed">
+        <ol class="leestekst grid list-decimal gap-2 ps-5">
           {[1, 2, 3, 4, 5, 6].map((i) => <li>{t(`platform_motorkap_stap${i}`)}</li>)}
         </ol>
       </section>
       <section id="documentation" aria-labelledby="k-docs" class="grid gap-3">
         <span class="mono">{t('platform_documentatie_stand')}</span>
         <h2 id="k-docs" class="leeskop">{t('platform_documentatie')}</h2>
-        <p class="leading-relaxed">{t('platform_documentatie_p1')}</p>
+        <p class="leestekst">{t('platform_documentatie_p1')}</p>
         <p><a class="link" href={pad(taal, 'sources')}>{t('nav_bronnen')}</a></p>
       </section>
     </article>

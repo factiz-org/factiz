@@ -2116,6 +2116,21 @@ dan een commit. Niets gaat live zonder een ja van de PO.
       wijziging al in de bouw. Live als Worker b837bef1 op dezelfde uitgave (PO: "Ja, live en pushen"), nagekeken op
       factiz.org: vijf pagina's op 320 px zonder overloop of te klein tikdoel, en de kaarten van een factcheck.
 
+- [x] **34.2cj Eén schaal voor tekst, en geen wit op pikzwart** *(PO 2026-11-24, bij een eigen check: "Ook bij body text heb
+      ik nog het gevoel dat de maximale breedte oncomfortabel smal is", na een proef "17 pixels", dan "Doe maar even gewoon
+      een full sweep op alle teksten en regels en de breedte van blokken tekst" en "Kijk ook even naar de best practices
+      voor wit op zwart")*. Gemeten op 14 pagina's op 1440 en 390 px met een eigen meting per soort tekst (grootte,
+      regelafstand, breedte, tekens per volle regel). De regel was al goed (gemiddeld 67 tekens), de letter klein (15,5 px):
+      lopende tekst nu 17 px (`--lees`, `.leestekst`) op dezelfde maat in ch, dus 541 in plaats van 493 px breed; een bewering
+      in een rij 17 px op de leesmaat (was 16 px op 44ch); de zin bij een oordeel 16, de tijdlijn 15 px op de leesmaat (was
+      95 tekens per regel), zinnen in een kaart 14 (was 13), een noot 13, het bijschrift op Verkennen op de leesmaat (was 234
+      tekens); de bronnen van een eigen check in twee kolommen; elke inleiding van een pagina op de leesmaat. De inkt: lopende
+      tekst `--tekst`, `#262626` in licht (14,5:1, was 17,2:1) en `#d9d9d9` in donker op een grond van `#111111` in plaats van
+      `#0a0a0a` (13,4:1, was 16,9:1), naar Material Design. Regels in DESIGNSYSTEEM §3.3, tests in
+      `tests/test_site_themakleur.py`; geen overloop op 12 pagina's op 320 en 414 px. Live als Worker a4770fdd op dezelfde
+      uitgave (PO: "Ja, live en pushen"), nagekeken op factiz.org (17 px en 541 px, de inkt, vier pagina's op 320 px). Vlak na
+      de uitrol gaf het nieuwe stylesheet een paar seconden fout 500; daarna 200 uit de cache.
+
 - [x] **34.2bz Tot wanneer de site bij is** *(PO 2026-11-17: "Zullen we een versienummer met datum in de footer zetten
       zodat we zien tot wanneer de pagina up to date is? Misschien ook handig voor google?", "Ja, bouw ze allebei", en "is
       het niet 'latest' ipv newest?"; SPECS E9.S8 AC10)*. In de voet van elke pagina één regel: *Edition 16 November 2026 ·

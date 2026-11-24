@@ -35,7 +35,7 @@ const ld = JSON.stringify({
     </header>
     <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]">
       <div class="min-w-0">
-        <p class="max-w-[var(--maat-tekst)] text-[15.5px] leading-relaxed">{d.inleiding}</p>
+        <p class="leestekst">{d.inleiding}</p>
         <dl class="mt-6 grid grid-cols-2 gap-2 sm:grid-cols-5">
           {[[t('dossier_eerste'), s.eerste], [t('nav_lijst'), s.factchecks], [t('nav_redacties'), s.redacties], [t('dossier_talen'), s.talen], [t('dossier_laatste'), s.laatste]].map(([k, w]) => (
             <div class="paneel px-3 py-2.5"><dt class="text-[12px] text-[var(--zacht)]">{k}</dt><dd class="getal mt-0.5 text-[15px] font-medium">{w}</dd></div>))}

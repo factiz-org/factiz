@@ -15,7 +15,11 @@
   /* de maat van een regel (PO 2026-11-20: "de ideale breedte van een stuk tekst ... zo rond de 60 characters"): ch is de
      breedte van een 0, in Geist 1,45 keer een gemiddelde letter; 48ch is ongeveer 68 tekens, 52ch voor een kop ongeveer 75 */
   --maat-tekst: 48ch; --maat-kop: 52ch;
-  --grond: #fafafa; --paneel: #ffffff; --inkt: #171717; --zacht: #5f6461; --zwak: #8b908d; --lijn: #ebebeb;
+  /* de letter van lopende tekst in een lang stuk (PO 2026-11-24, na een proef met 15,5, 17 en 18: "17 pixels"); de maat
+     hierboven staat in ch en groeit mee: op 17 px ongeveer 66 tekens per regel en 541 px breed */
+  --lees: 17px;
+  /* lopende tekst krijgt een eigen inkt, iets zachter dan koppen (PO 2026-11-24): 14,5:1 in plaats van 17:1 */
+  --grond: #fafafa; --paneel: #ffffff; --inkt: #171717; --tekst: #262626; --zacht: #5f6461; --zwak: #8b908d; --lijn: #ebebeb;
   --lijn-sterk: #d9dbd9; --vlak: #f3f4f3; --accent: #0b6b47; --accent-zacht: #e7f1eb; --markeer: #fbeea8;
   --primair: #171717; --primair-inkt: #ffffff; --schaduw: 0 1px 2px rgb(0 0 0 / .05), 0 4px 12px rgb(0 0 0 / .04);
   --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .18), 0 2px 6px rgb(0 0 0 / .06);
@@ -77,10 +81,11 @@
 .fz .taalnaam { font-family: "Geist Variable", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
 :root:lang(ar) .fz .taalnaam:lang(ar), :root:lang(fa) .fz .taalnaam:lang(fa), :root:lang(hi) .fz .taalnaam:lang(hi),
 :root:lang(ja) .fz .taalnaam:lang(ja), :root:lang(zh-Hant) .fz .taalnaam:lang(zh-Hant) { font-family: var(--sans); }
-/* Donker volgt het apparaat, tenzij de bezoeker in de voet licht of donker koos (PLAN #34.2c): dan staat dat op <html>. */
+/* Donker volgt het apparaat, tenzij de bezoeker in de voet licht of donker koos (PLAN #34.2c): dan staat dat op <html>.
+   Geen wit op pikzwart (PO 2026-11-24): de grond #111111 in plaats van #0a0a0a, lopende tekst #d9d9d9 (13,4:1). */
 @media (prefers-color-scheme: dark) {
-  :root:not([data-weergave="licht"]) .fz { --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a1a1; --zwak: #7a7a7a; --lijn: #222222;
-        --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
+  :root:not([data-weergave="licht"]) .fz { --grond: #111111; --paneel: #171717; --inkt: #ededed; --tekst: #d9d9d9; --zacht: #a1a1a1; --zwak: #7a7a7a;
+        --lijn: #262626; --lijn-sterk: #363636; --vlak: #1e1e1e; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
         --primair: #ededed; --primair-inkt: #0a0a0a; --schaduw: 0 0 0 1px rgb(255 255 255 / .02);
         --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .7), 0 0 0 1px rgb(255 255 255 / .06);  color-scheme: dark;
         --onwaar-inkt: #f6c690; --onwaar-vlak: #36210a; --onwaar-rand: #6e4618; --onwaar-stip: #e39642;
@@ -93,8 +98,8 @@
         --f-leisteen: #93BFE6; --f-nacht: #886EE6; --f-groen: #5CE6AE; --f-olijf: #A6A85E; --f-hemel: #337180; --f-icoon: #111111;
         --plaat-papier: #121316; --plaat-dek: .62; }
 }
-:root[data-weergave="donker"] .fz { --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a1a1; --zwak: #7a7a7a; --lijn: #222222;
-        --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
+:root[data-weergave="donker"] .fz { --grond: #111111; --paneel: #171717; --inkt: #ededed; --tekst: #d9d9d9; --zacht: #a1a1a1; --zwak: #7a7a7a;
+        --lijn: #262626; --lijn-sterk: #363636; --vlak: #1e1e1e; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
         --primair: #ededed; --primair-inkt: #0a0a0a; --schaduw: 0 0 0 1px rgb(255 255 255 / .02);
         --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .7), 0 0 0 1px rgb(255 255 255 / .06);  color-scheme: dark;
         --onwaar-inkt: #f6c690; --onwaar-vlak: #36210a; --onwaar-rand: #6e4618; --onwaar-stip: #e39642;
@@ -231,13 +236,13 @@
    104 px breder, in het Russisch) */
 .fz .rij-kop { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .35rem .75rem; min-width: 0; }
 .fz .rij-kop .mono { white-space: nowrap; color: var(--zwak); }
-.fz .rij-bewering { font-size: 16px; font-weight: 500; line-height: 1.45; color: var(--inkt); overflow-wrap: anywhere;
+.fz .rij-bewering { font-size: 17px; font-weight: 500; line-height: 1.45; color: var(--inkt); overflow-wrap: anywhere;
   display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
 .fz .rij:hover .rij-bewering { text-decoration: underline; text-decoration-color: var(--lijn-sterk); text-underline-offset: .2em; }
 .fz .rij-origineel { margin-top: -.3rem; font-size: 12.5px; color: var(--zacht); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 /* een leesbare regel (PO 2026-11-15: "Leesbaarheid werkt volgens mij tot 55-64 characters"): de bewering en het origineel
    in een kaart hoogstens zo breed; gemeten in de browser op echte beweringen */
-.fz .rij-bewering, .fz .rij-origineel { max-width: 44ch; }
+.fz .rij-bewering, .fz .rij-origineel { max-width: var(--maat-tekst); }
 /* een bewering van rechts naar links begint rechts in de kaart (de kaart zelf is links naar rechts) */
 .fz .rij-bewering[dir="rtl"] { margin-left: auto; }
 /* en een bewering van links naar rechts links, ook op een pagina van rechts naar links (PLAN #34.2bd, E9.S29 AC4) */
@@ -261,7 +266,7 @@
   border: 1px solid var(--lijn-sterk); border-radius: 999px; font-size: 12.5px; color: var(--inkt); }
 .fz .kenmerk-knop:hover { background: var(--vlak); }
 @media (pointer: coarse) { .fz .kenmerk-knop { min-height: 2.75rem; } }
-.fz .filteruitleg { margin: -.15rem 0 .35rem; font-size: 11.5px; color: var(--zwak); line-height: 1.35; }
+.fz .filteruitleg { margin: -.15rem 0 .35rem; font-size: 12.5px; color: var(--zwak); line-height: 1.35; }
 
 /* Filters: een kolom op een breed scherm, met een lijn en lucht tussen de groepen (PLAN #34.2l), in één paneel met de rand,
    hoek en achtergrond van de kaarten ernaast en zo hoog als de filters (PLAN #34.2bf; PO 2026-11-15: "subtiele border, net
@@ -423,7 +428,9 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 /* vaste koppen (PO 2026-11-21: "zullen we alles een beetje gelijk trekken"): de sectiekop hierboven op een pagina met
    gegevens, de leeskop in een lange tekst (Over, Platform, de database), de kaartkop als titel van een kaart of vak, en de
    vakkop als klein label in een vak (het antwoord, waarom het niet klopt) */
-.fz .leeskop { font-size: 18px; font-weight: 600; letter-spacing: -.01em; line-height: 1.3; }
+.fz .leeskop, .fz .sectiekop h2.leeskop { font-size: 18px; font-weight: 600; letter-spacing: -.01em; line-height: 1.3; }
+.fz .leestekst { font-size: var(--lees); line-height: 1.6; max-width: var(--maat-tekst); }
+.fz main article .leestekst { color: var(--tekst); }
 .fz .kaartkop { font-size: 16px; font-weight: 600; letter-spacing: -.01em; line-height: 1.25; }
 .fz .vakkop { font-size: 13px; font-weight: 600; color: var(--zacht); }
 .fz .groot-kop { font-size: clamp(1.9rem, 4.2vw, 3rem); line-height: 1.05; letter-spacing: -.04em; font-weight: 600; text-wrap: balance; }
@@ -584,9 +591,9 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 /* een contextkaart die zelf een link is (de zijkolom van een dossier): net als een kaart een rand bij aanwijzen */
 .fz a.ck-klik { color: var(--inkt); text-decoration: none; transition: border-color .15s, box-shadow .15s; }
 .fz a.ck-klik:hover { border-color: var(--lijn-sterk); box-shadow: var(--schaduw); }
-.fz .ck-naam { font-size: 13.5px; font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
-.fz .ck-zin { font-size: 13px; line-height: 1.45; overflow-wrap: anywhere; }
-.fz .ck-noot { font-size: 12px; line-height: 1.4; color: var(--zacht); }
+.fz .ck-naam { font-size: 14px; font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
+.fz .ck-zin { font-size: 14px; line-height: 1.45; overflow-wrap: anywhere; }
+.fz .ck-noot { font-size: 13px; line-height: 1.4; color: var(--zacht); }
 .fz .ck-link { justify-self: start; display: inline-flex; align-items: center; min-height: 1.75rem; font-size: 13px; color: var(--accent); }
 .fz .ck-link:hover { text-decoration: underline; text-underline-offset: .2em; }
 .fz .ck-kaartje { display: block; width: 100%; height: auto; aspect-ratio: 1.6; border-radius: var(--r); background: var(--grond); }
@@ -610,9 +617,9 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 .fz .ck-j { flex: 1; min-width: 0; display: flex; justify-content: center; font-family: var(--mono); font-size: 10px; line-height: 1;
   color: var(--zacht); white-space: nowrap; }
 .fz .ck-j.aan { color: var(--inkt); font-weight: 600; }
-.fz .ck-namen { display: grid; gap: .3rem; font-size: 13px; line-height: 1.4; }
+.fz .ck-namen { display: grid; gap: .3rem; font-size: 14px; line-height: 1.4; }
 .fz .ck-namen a:hover { text-decoration: underline; text-underline-offset: .2em; }
-.fz .ck-namen span { color: var(--zacht); font-size: 12.5px; }
+.fz .ck-namen span { color: var(--zacht); font-size: 13px; }
 .fz .ck-kenmerken { display: grid; gap: .25rem; }
 .fz .ck-kenmerken a { display: grid; gap: .15rem; margin-inline: -.4rem; padding: .35rem .4rem; border-radius: var(--r); }
 .fz .ck-kenmerken a:hover { background: var(--vlak); }
@@ -704,9 +711,9 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 .fz .fz-eigen-kop { font-size: clamp(1.7rem, 5vw, 2.4rem); font-weight: 700; letter-spacing: -.035em; line-height: 1.08; margin: 0 0 1.2rem;
   hyphens: auto; overflow-wrap: break-word;
   text-wrap: balance; color: var(--inkt); }
-.fz .fz-eigen-zin { margin: .7rem 0 0; font-size: 14px; line-height: 1.5; }
-.fz .fz-eigen-kort { font-size: 1.12rem; line-height: 1.55; margin: 1.4rem 0; font-weight: 450; max-width: var(--maat-tekst); }
-.fz .fz-eigen-tekst p { margin: 0 0 1rem; max-width: var(--maat-tekst); font-size: 15.5px; line-height: 1.65; }
+.fz .fz-eigen-zin { margin: .7rem 0 0; font-size: 16px; line-height: 1.5; max-width: var(--maat-tekst); }
+.fz .fz-eigen-kort { font-size: 19px; line-height: 1.55; margin: 1.4rem 0; font-weight: 450; max-width: var(--maat-tekst); }
+.fz .fz-eigen-tekst p { margin: 0 0 1rem; max-width: var(--maat-tekst); font-size: var(--lees); line-height: 1.6; color: var(--tekst); }
 .fz .fz-eigen-noot a { font-family: var(--mono); font-size: .72em; text-decoration: none; color: var(--accent); padding-inline: .12em; }
 .fz .fz-eigen-nodig { background: var(--markeer); color: inherit; padding: .05em .3em; border-radius: 3px; font-size: .88em; }
 .fz .fz-eigen-beelden { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; margin: 1.5rem 0; }
@@ -730,12 +737,17 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 .fz .fz-eigen-som th, .fz .fz-eigen-som td { text-align: start; padding: .5rem .6rem; border-bottom: 1px solid var(--lijn); vertical-align: top; }
 .fz .fz-eigen-som td:last-child, .fz .fz-eigen-som th:last-child { text-align: end; white-space: nowrap; }
 .fz .fz-eigen-tijd, .fz .fz-eigen-bronnen { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+/* de bronnen in kolommen van de leesmaat (PO 2026-11-24: "het is immers niet echt een stuk wat je leest, maar eerder een
+   bronvermelding"): op een breed scherm twee naast elkaar, op een smal scherm één; een bron breekt nooit over twee */
+.fz .fz-eigen-bronnen { display: block; columns: 2 20rem; column-gap: 2.5rem; }
+.fz .fz-eigen-bronnen li { break-inside: avoid; margin-bottom: .6rem; }
 /* de tijdlijn als inzetje (PO 2026-11-19: "Mag je meer zien als een echt inzetje, dus iets meer afstand van elkaar en
    wellicht Divide ertussen, rij en kolommen"): elke rij met ruimte en een lijn ertussen, de datum links met het tijdstip
    zacht eronder, een lijn tussen datum en gebeurtenis; op een telefoon de datum boven de gebeurtenis; sinds 2026-11-18 op
    een eigen vlak, zodat ze zich onderscheidt van de lopende tekst erboven */
 .fz .fz-eigen-tijd { gap: 0; background: var(--vlak); border: 1px solid var(--lijn); border-radius: 10px; overflow: hidden; }
-.fz .fz-eigen-tijd li { display: grid; grid-template-columns: 10rem minmax(0, 1fr); font-size: 14.5px; line-height: 1.55; }
+.fz .fz-eigen-tijd li { display: grid; grid-template-columns: 10rem minmax(0, 1fr); font-size: 15px; line-height: 1.55; }
+.fz .fz-eigen-tijd li > :last-child { max-width: var(--maat-tekst); }
 .fz .fz-eigen-tijd li + li { border-top: 1px solid var(--lijn); }
 .fz .fz-eigen-tijd li > * { padding: .8rem 1.1rem; }
 .fz .fz-eigen-tijd li > * + * { border-inline-start: 1px solid var(--lijn); }
@@ -762,7 +774,7 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
   border-top: 1px solid var(--lijn); padding-top: 1rem; }
 /* wat nog uit te zoeken is (B84): een gewone lijst, open punten, geen vinkjes; de oproep eronder op een paneel */
 .fz .fz-eigen-uitzoeken { margin: 0; padding-inline-start: 1.2rem; display: grid; gap: .45rem; list-style: disc;
-  max-width: var(--maat-tekst); font-size: 15px; line-height: 1.55; }
+  max-width: var(--maat-tekst); font-size: var(--lees); line-height: 1.6; color: var(--tekst); }
 .fz .fz-eigen-uitzoeken li::marker { color: var(--zacht); }
 .fz .fz-eigen-nogdoen { margin-top: 2rem; border: 1px dashed var(--lijn-sterk); border-radius: 8px; padding: 1rem 1.1rem;
   background: var(--vlak); font-size: 14px; }

@@ -14,7 +14,7 @@ const t = maakT(taal);
     <header class="paginakop">
       <h1 class="groot-kop">{g.titel}</h1>
       {/* wat erin zit en wie nog ontbreekt (PLAN #34.2az), uit de uitgave geteld */}
-      {g.dekking?.length > 0 && <p class="text-[15.5px] leading-relaxed">{g.dekking.join(' ')}</p>}
+      {g.dekking?.length > 0 && <p class="leestekst">{g.dekking.join(' ')}</p>}
     </header>
     <ul class="paneel mt-8 grid grid-cols-1 gap-x-8 p-4 sm:grid-cols-2 lg:grid-cols-3">
       {g.redacties.map((r) => (

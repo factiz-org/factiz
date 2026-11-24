@@ -33,7 +33,7 @@ const ld = JSON.stringify({
     <Kruimel taal={taal} stappen={[[t('db_naam')]]} />
     <header class="paginakop">
       <h1 class="groot-kop">{t('db_kop')}</h1>
-      <p class="text-[17px] leading-relaxed">{t('db_antwoord', getallen)}</p>
+      <p class="leestekst">{t('db_antwoord', getallen)}</p>
       <div class="mt-2 flex flex-wrap gap-2">
         <a class="knop knop-primair" href={pad(taal, 'fact-checks')}>{t('db_zoeken')}</a>
         <a class="knop" href={pad(taal, 'radar')}>{t('db_radar')}</a>
@@ -42,12 +42,12 @@ const ld = JSON.stringify({
     <article class="mt-10 grid max-w-[65ch] gap-10">
       <section id="elders" aria-labelledby="k-elders" class="grid gap-3">
         <h2 id="k-elders" class="leeskop">{t('db_elders_kop')}</h2>
-        <p class="leading-relaxed">{t('db_elders')}</p>
+        <p class="leestekst">{t('db_elders')}</p>
       </section>
       <section id="vragen" aria-labelledby="k-vragen" class="grid gap-5">
         <h2 id="k-vragen" class="leeskop">{t('db_vragen_kop')}</h2>
         {vragen.map(([v, a]) => (
-          <div class="grid gap-1.5"><h3 class="kaartkop">{v}</h3><p class="leading-relaxed">{a}</p></div>
+          <div class="grid gap-1.5"><h3 class="kaartkop">{v}</h3><p class="leestekst">{a}</p></div>
         ))}
       </section>
     </article>

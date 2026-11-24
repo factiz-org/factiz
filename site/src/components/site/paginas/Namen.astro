@@ -18,7 +18,7 @@ const titel = gekozen ? `${g.groepen.find((x) => x.soort === gekozen.soort)?.kop
     <header class="paginakop">
       {g.concept && <span class="mono">{t('dossier_concept')}</span>}
       <h1 class="groot-kop">{t('nav_namen')}</h1>
-      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{t('namen_inleiding')}</p>
+      <p class="leestekst text-[var(--zacht)]">{t('namen_inleiding')}</p>
       <p><a class="link text-[13.5px]" href={pad(taal, 'explore', 'network')}>{t('netwerk_titel')} <Pijl /></a></p>
     </header>
     <div class="mt-8 grid gap-6">

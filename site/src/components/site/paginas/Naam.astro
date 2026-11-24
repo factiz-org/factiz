@@ -17,7 +17,7 @@ const t = maakT(taal);
     <header class="paginakop">
       <span class="mono">{n.soort_tekst}{n.concept && <> · {t('dossier_concept')}</>}</span>
       <h1 class="groot-kop">{n.naam}</h1>
-      <p class="text-[15.5px] leading-relaxed">{n.zin}</p>
+      <p class="leestekst">{n.zin}</p>
       <p class="zacht text-[13.5px]">{n.bedoeld} <a class="link" href={n.wikidata} rel="noopener">Wikidata {n.nummer}</a></p>
     </header>
     <section class="mt-10" aria-labelledby="nieuwste">
