@@ -2,8 +2,12 @@
 
 ## Reporting a vulnerability
 
-Write to **security@factiz.org**. Please do not open a public issue for a security problem, and do not test against
-factiz.org in a way that slows it down for readers.
+Use **[Report a vulnerability](https://github.com/factiz-org/factiz/security/advisories/new)** on the Security tab of
+this repository. Your report stays private between you and us until a fix is out. No GitHub account? Write to
+**info@factiz.org**, the address that `factiz.org/.well-known/security.txt` also names.
+
+Please do not open a public issue for a security problem, and do not test against factiz.org in a way that slows it
+down for readers.
 
 What you can expect:
 
@@ -33,4 +37,4 @@ know.
   added up per day and language; never an IP address, a cookie or a user agent.
 - Until a visitor says yes to Google Analytics, their browser loads nothing from any domain but factiz.org.
 - No key, token or private address belongs in this repository. If you find one, in the files or anywhere in the
-  history, that is a report for this address.
+  history, report it privately, as above.

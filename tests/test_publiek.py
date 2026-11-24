@@ -54,7 +54,12 @@ def test_the_english_readme_is_the_front_door():
 
 def test_security_reporting_and_contributing_exist():
     beveiliging = (WORTEL / "SECURITY.md").read_text(encoding="utf-8")
-    assert "security@factiz.org" in beveiliging
+    # melden via de meldknop van GitHub, of via het adres dat ook in security.txt van de site staat (PLAN #34.2bl,
+    # PO 2026-11-24): security@factiz.org bestaat niet en mag er dus nooit in staan
+    assert "/security/advisories/new" in beveiliging and "info@factiz.org" in beveiliging
+    assert "security@factiz.org" not in beveiliging
+    koppen = (WORTEL / "site" / "src" / "lib" / "koppen.js").read_text(encoding="utf-8")
+    assert "Contact: mailto:info@factiz.org" in koppen
 
     bijdragen = (WORTEL / "CONTRIBUTING.md").read_text(encoding="utf-8")
     assert "pytest" in bijdragen

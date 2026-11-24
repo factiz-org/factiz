@@ -1430,8 +1430,10 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         met een banner, een rij links, de cijfers van de uitgave als tabel en twee schermafdrukken van factiz.org (de
         start en een bewering met drie redacties, boven de toestemmingsbanner afgesneden), de Nederlandse met dezelfde
         kop; de social preview (1280×640) en de banner getekend door `python -m doublecheck.merkbeelden` op het veld
-        corpus, in `.github/assets/`. De social preview stelt GitHub alleen in via Settings, er is geen API voor. Open: of
-        info@ en security@factiz.org mail ontvangen.
+        corpus, in `.github/assets/`. De social preview stelt GitHub alleen in via Settings, er is geen API voor; de PO
+        zette haar erin. security@factiz.org bestond niet (550 van Cloudflare Email Routing): `SECURITY.md` wijst nu naar
+        de meldknop van GitHub (private vulnerability reporting, aan) en naar info@factiz.org, zoals security.txt van de
+        site (PO: "Ja, doe maar").
 
 - [ ] **34.2bm Een pagina over Factiz op ideelab.nl** *(PO 2026-11-15: "Speciale landingspagina daar maken? (roadmap)";
       roadmap)*. Een pagina op de site van Ideelab (een ander repo, `Ideelab Website`) over Factiz als eigen product: wat het
