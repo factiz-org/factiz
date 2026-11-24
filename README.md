@@ -4,7 +4,7 @@
   <a href="https://factiz.org"><b>factiz.org</b></a> &nbsp;·&nbsp;
   <a href="docs/PROTOCOL.md">Resolver protocol</a> &nbsp;·&nbsp;
   <a href="CONTRIBUTING.md">Contributing</a> &nbsp;·&nbsp;
-  <a href="docs/GOOD-FIRST-ISSUES.md">Good first issues</a> &nbsp;·&nbsp;
+  <a href="https://github.com/factiz-org/factiz/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">Good first issues</a> &nbsp;·&nbsp;
   <a href="https://github.com/factiz-org/factiz/discussions">Discussions</a> &nbsp;·&nbsp;
   <a href="README.nl.md">Nederlands</a>
 </p>

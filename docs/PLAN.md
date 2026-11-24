@@ -1434,6 +1434,10 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         zette haar erin. security@factiz.org bestond niet (550 van Cloudflare Email Routing): `SECURITY.md` wijst nu naar
         de meldknop van GitHub (private vulnerability reporting, aan) en naar info@factiz.org, zoals security.txt van de
         site (PO: "Ja, doe maar").
+        De acht taken van `docs/GOOD-FIRST-ISSUES.md` staan als issues #1 tot #8 op het openbare repo, op het account
+        van de PO (PO 2026-11-24: ja, op het eigen account; een tweede gratis account mag bij GitHub alleen voor geautomatiseerd
+        werk), met `good first issue` en waar het past `translation`, `sources`, `enhancement` of `help wanted`; het
+        document wijst er nu naar.
 
 - [ ] **34.2bm Een pagina over Factiz op ideelab.nl** *(PO 2026-11-15: "Speciale landingspagina daar maken? (roadmap)";
       roadmap)*. Een pagina op de site van Ideelab (een ander repo, `Ideelab Website`) over Factiz als eigen product: wat het
