@@ -1,0 +1,21 @@
+---
+// Het zegel van de eigen redactie (DESIGN §4x, de stijl Stempel, PO 2026-11-18): een ring met twee keer CHECKED BY FACTIZ,
+// in elke taal hetzelfde (PO 2026-11-19: "Die zegel moet nog wat universeler ... en dan twee keer achter elkaar, zodat het
+// mooi is als je het rond schrijft"), en in het midden de F van het logo, de drie bellen ("en die f mag je bubbel F worden
+// uit ons eigen logo").
+// Alleen vorm, in de kleur van de tekst eromheen, dus ook herkenbaar in grijstinten (D12).
+// De tekst loopt op straal 35,2: de hoofdletters (0,726 van de letter hoog) staan dan midden in de ring tussen 29 en 47, en
+// de tussenruimte is zo gekozen dat de 40 tekens de cirkel precies rondmaken (PO: "de tekst die rondloopt zit net niet
+// midden"). De vaste spaties blijven staan, en de draai van 4,5 graden (een half teken) zet de ene keer CHECKED BY FACTIZ
+// precies bovenaan en de andere precies onderaan.
+const RING = '·\u00a0CHECKED BY FACTIZ\u00a0'.repeat(2);
+import { BELLEN_F, bellenOp } from '../../../lib/bellenf.js';
+const { id, klasse = '' } = Astro.props;
+---
+<svg class={`fz-zegel ${klasse}`} viewBox="0 0 100 100" aria-hidden="true">
+  <defs><path id={id} d="M50,50 m-35.24,0 a35.24,35.24 0 1,1 70.48,0 a35.24,35.24 0 1,1 -70.48,0" /></defs>
+  <circle cx="50" cy="50" r="47" fill="none" stroke="currentColor" stroke-width="2" />
+  <circle cx="50" cy="50" r="29" fill="none" stroke="currentColor" stroke-width="1" />
+  <text font-size="7.6" letter-spacing="0.975" fill="currentColor" class="fz-zegel-ring" transform="rotate(-4.5 50 50)"><textPath href={`#${id}`}>{RING}</textPath></text>
+  <g transform={bellenOp(50, 50, 0.62)} fill="currentColor">{BELLEN_F.map((d) => <path d={d} />)}</g>
+</svg>

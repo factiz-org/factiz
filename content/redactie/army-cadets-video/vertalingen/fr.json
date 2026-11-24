@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck army-cadets-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "610f12eb8fc652ca",
+ "veldafdrukken": {
+  "kop": "981c7653097d8efb",
+  "oordeel_zin": "515871080d5eac60",
+  "bewering": "8b1304f42967ca1c",
+  "kort": "7f86ed5ec1c5030f",
+  "tekst": "56457584bd7bc04e",
+  "niet_weten": "549459f8f8ab8e86",
+  "bereik": "9be15c70e4bf9915",
+  "nog_uitzoeken": "430f1263b12fe863",
+  "tijdlijn": "8cfdb758e3d6cc9e",
+  "beeld_bijschrift": "1617bb751dd34fba",
+  "beeld_alt": "f1e7ab436a8a5ac2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo de marcheurs sur Whitehall montre des cadets de l'armée adolescents lors du Remembrance Sunday, et non des soldats britanniques",
+  "oordeel_zin": "Le premier clip montre des bénévoles de l'Army Cadet Force lors du défilé du Remembrance Sunday sur Whitehall, des jeunes qui ne font pas partie des forces armées, et non des soldats britanniques [3] [4] [5].",
+  "bewering": "Comparez les méthodes de marche britannique et russe. Les 3 premiers clips viennent d'Angleterre. Une honte !",
+  "kort": "Depuis le 14 novembre, des publications sur X montrent une colonne en tenue de camouflage qui marche sans être au pas à Londres [2]. Le 15 novembre, un compte a placé le clip à côté de soldats russes sur la place Rouge comme exemple de marche britannique [1]. Les marcheurs sont des cadets, généralement âgés de 12 à 18 ans et ne faisant pas partie des forces armées, lors du défilé sur Whitehall le Remembrance Sunday, le 8 novembre 2026 [3] [5]. Nous le savons grâce au monument devant lequel ils passent et à une photo du même groupe publiée par la Suffolk Army Cadet Force [4] [8].",
+  "tekst": "Le dimanche 15 novembre 2026, le compte Alternative News a publié sur X une vidéo accompagnée du texte « Comparez les méthodes de marche britannique et russe. Les 3 premiers clips viennent d'Angleterre. » [1]. Le reste de la vidéo montre des troupes russes sur la place Rouge à Moscou [1]. Le premier clip circulait déjà un jour plus tôt, lorsque le compte RadioGenoa l'a publié avec la mention « Les cadets de l'armée britannique à Londres ne semblent pas très synchronisés. » [2]. Dans la comparaison avec la Russie, le mot cadets a disparu [1].\n\nLe clip a été filmé sur Whitehall. La colonne passe devant le Monument to the Women of World War II, qui se dresse au milieu de Whitehall [2] [8]. Un cadet placé en tête porte une couronne de coquelicots [2]. Le dimanche 8 novembre, le National Service of Remembrance s'est tenu au Cénotaphe, sur Whitehall [6]. Les militaires en service ne sont pas autorisés à participer au défilé devant le Cénotaphe [7].\n\nL'un des groupes qui ont défilé était un contingent de la Suffolk Army Cadet Force et de la Combined Cadet Force de la Westbourne Academy [3]. Une photo de la galerie de la Suffolk ACF montre le contingent sur Whitehall dans le même ordre que dans la vidéo : un adulte portant des médailles en tête à gauche, et en tête à droite un cadet portant une couronne de l'Army Cadet Force [4]. Nous pensons que la vidéo montre ce groupe. Le média espagnol de vérification Maldita a comparé la vidéo avec la même galerie le 16 novembre et est arrivé à la même conclusion [13].\n\nSelon le ministère de la Défense, qui parraine les deux forces de cadets, les cadets sont généralement âgés de 12 à 18 ans et ne font pas partie des forces armées [5].",
+  "niet_weten": "Nous ne savons pas qui a filmé la vidéo sur Whitehall ni où elle a été publiée en premier. Nous avons identifié le groupe d'après l'ordre de la colonne et la couronne, et non d'après les visages. Nous n'avons pas pu identifier les deuxième et troisième clips britanniques du montage [1].",
+  "bereik": "2 612 mentions J'aime et 308 réponses au 22 novembre ; la première publication avec le clip de Whitehall, du 14 novembre, comptait 9 494 mentions J'aime et 1 355 réponses",
+  "nog_uitzoeken": [
+   "Qui a filmé la vidéo sur Whitehall le 8 novembre, et où elle a été publiée en premier.",
+   "Qui sont les jeunes en uniforme de cérémonie noir avec des écharpes rouges dans le deuxième clip du montage, et où et quand le troisième clip a été filmé.",
+   "Si la deuxième vidéo de RadioGenoa a été filmée devant les Royal Courts of Justice pendant le Lord Mayor's Show du 14 novembre 2026, et quels cadets y défilent.",
+   "Nous avons hésité entre Trompeur et Manque de contexte. RadioGenoa a quand même appelé les marcheurs des cadets, mais la publication avec les soldats russes présente les clips comme de la marche britannique sans dire qui marche. Si vous en savez plus sur l'un des clips, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "La Suffolk Army Cadet Force arrive à Londres et répète en rangs de six [3].",
+   "Deux minutes de silence lors du National Service of Remembrance au Cénotaphe [6].",
+   "La Suffolk ACF et la CCF de la Westbourne Academy défilent sur Whitehall [3] [4].",
+   "La Suffolk ACF publie son compte rendu et les photos du week-end [3] [4].",
+   "RadioGenoa publie la vidéo de Whitehall en la présentant comme des cadets de l'armée britannique [2].",
+   "Mario Nawfal la republie en parlant de l'avenir des guerriers du Royaume-Uni [9].",
+   "Le cortège du Lord Mayor's Show se rend aux Royal Courts of Justice [12].",
+   "Alternative News publie le clip à côté de soldats russes sur la place Rouge [1].",
+   "Maldita : les marcheurs britanniques sont des bénévoles de l'Army Cadet Force [13].",
+   "RadioGenoa publie une deuxième vidéo de cadets à Londres [10].",
+   "Un autre compte partage la deuxième vidéo [11]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 15 novembre 2026, 11 h 42 heure du Royaume-Uni.",
+   "Suffolk Army Cadet Force sur armycadets.com, 11 novembre 2026 : la galerie de son week-end à Londres, avec son contingent défilant sur Whitehall le Remembrance Sunday."
+  ],
+  "beeld_alt": [
+   "La publication sur X d'Alternative News comparant la marche britannique et la marche russe, avec une capture de la vidéo sur Whitehall à Londres : un homme en uniforme de marine devant, une colonne de cadets en tenue de camouflage derrière lui, un policier et des spectateurs sur le côté. Tampon : TROMPEUR.",
+   "Photo de la Suffolk Army Cadet Force de son contingent défilant sur Whitehall le 8 novembre 2026, un adulte portant des médailles devant et un cadet portant une couronne de l'Army Cadet Force."
+  ]
+ }
+}

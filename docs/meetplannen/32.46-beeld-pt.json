@@ -1,0 +1,63 @@
+{
+ "taak": "32.46-beeld-pt",
+ "toelichting": "Bekende nepbeelden in het Portugees, zoals het product (PLAN #32.46, stap 3, PO 2026-11-07: \"Alleen nepbeelden (~$6)\"). 60 beelden uit M4FC, alle van één factchecker (Polígrafo), met de bewering zoals ze rondging in die taal (`python -m doublecheck.talenset beeld --taal pt`). Het beeld wordt bij het meten opgehaald, alleen in het geheugen, met de Wayback Machine als reserve. Kring 1, de database en het beeld zoals in het product; de lezer is `lezer-v11`. Een alarm met de eigen check als bron bewijst zichzelf. De beelden komen uit de factcheckartikelen en kunnen een stempel van de redactie dragen. Vastgelegd vóór de eerste vraag; eerst `draaien --proef 2`.",
+ "map": "data/meting/32.46-beeld-pt",
+ "labels": "docs/steekproeven/32.46-beeld-pt.json",
+ "budget": 2.5,
+ "zaad": 3253,
+ "sets": {
+  "N": {
+   "bron": "data/talen/beeld/pt.jsonl",
+   "set": "N",
+   "beeld": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v11",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "N"
+ ],
+ "waar": [],
+ "eisen": [
+  {
+   "naam": "1. N: rood of oranje met bewijs minstens 54 van de 60 (90%, besluit D, zoals het Engels)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "N"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 54
+  },
+  {
+   "naam": "2. N: hoogstens 1 onterecht groen",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "N"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 1
+  }
+ ],
+ "zoekvragen_max": 300
+}

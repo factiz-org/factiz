@@ -1,0 +1,194 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/el-salvador-promovideo/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "el-salvador-promovideo"
+status = "gepubliceerd"
+taal = "en"
+adres = "robot-dog-video-haiti-el-salvador"
+kop = "Video of armed robot dog leading soldiers was online in October and is not from Haiti"
+oordeel = "misleidend"
+oordeel_zin = "The clip was on TikTok on October 7, 2026, before El Salvador sent more than 2,000 troops to Haiti; armed robot dogs do appear in Bukele's own footage from the stadium in Port-au-Prince, but this clip is not part of it [3] [5] [8]."
+soort = "context"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "Look at what these Robot dogs are doing to Haiti gangs. This is one of the best military invention ever. It reduces human (soldiers) casualties to the lowest level."
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 1
+bereik = "662 likes and 23 replies on November 23"
+
+kort = """
+Since November 14, a post on X has presented a video of an armed robot dog moving ahead of soldiers as what robot \
+dogs are doing to gangs in Haiti [1]. A radio station in Ecuador posted the same clip on TikTok on October 7, 2026, \
+before El Salvador sent more than 2,000 troops to Haiti [3] [8]. Salvadoran forces did bring armed robot dogs to the national \
+stadium in Port-au-Prince, but those appear in President Bukele's own video, not in this clip [5] [6]."""
+
+tekst = """
+On November 14, 2026, an account on X posted a 26-second video with the text "Look at what these Robot dogs are doing \
+to Haiti gangs." [1]. It quoted a post by the same account a day earlier, which said El Salvador was using robot dogs to \
+hunt down gang members in Haiti [2]. In the video, a robot dog with a rifle on its back moves ahead of soldiers past a \
+wall with a camouflage pattern, and a drone circles a white concrete building [1].
+
+The clip carries a Spanish caption, "Perros robot con armamento", the date 07-10-2026 and the logo of Ritmo 93.9 [1]. \
+Ritmo 93.9 is a radio station in the province of Pastaza, Ecuador [4]. It posted the same clip on TikTok on October 7, \
+2026, without a word about Haiti or El Salvador, and wrote that it might have been made with AI [3]. Chinese text at the top of the clip, partly hidden by the radio logo, names a company from Shandong \
+province in China [1].
+
+Eleven days later, on October 18, four Salvadoran aviation technicians went missing after a gang attack in Haiti [8] \
+[9]. About 200 Salvadorans were already serving there, mainly in medical support [9]. After the attack, El Salvador \
+sent more than 2,000 troops [8] [9].
+
+On November 12, Haitian police and army units and Salvadoran special forces took the Sylvio Cator stadium in \
+Port-au-Prince [5] [9]. Bukele posted a 76-second video of the operation on X [5]. Its last 20 seconds show soldiers \
+mounting rifles on robot dogs on the pitch, and the robots walking through blue corridors and up stairs [5] [7]. \
+According to Newsweek, the footage does not show the robots firing [6]. The compound with the camouflage wall does not appear in Bukele's video [1] [5]."""
+
+niet_weten = """
+We do not know who filmed the clip, where or when, or whether it is real footage. The oldest copy we found is the one \
+Ritmo 93.9 posted on October 7 [3]. We do not know whether the robot dogs in Bukele's video took part in any fighting \
+[6] [7]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who made the clip with the robot dog and the drone, where and when it was filmed, and whether it is real footage or made with AI.",
+  "Which Shandong company the Chinese text at the top of the clip names, since part of the name is hidden behind the logo of Ritmo 93.9, and whether that company published the footage first.",
+  "Whether the robot dogs in Bukele's video of November 12 took part in any fighting in Haiti.",
+  "We weighed Misleading against False. The clip is not from Haiti and shows nothing done to gangs there, but Salvadoran forces did bring armed robot dogs to the stadium in Port-au-Prince. If you know more about the clip, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 14, 2026, 20:08 UTC."
+alt = "The post on X by Benkingsley Nwashara saying Look at what these Robot dogs are doing to Haiti gangs, with a still from the video: a soldier with a rifle at a corner of a wall with a camouflage pattern, the Spanish caption Perros robot con armamento and the date 07-10-2026. Below it the quoted post of November 13 with an aerial view of a football stadium. Stamp: MISLEADING."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.tiktok.com/@ritmo93.9/video/7693934941016509704"
+stempel = false
+bijschrift = "Ritmo 93.9 FM on TikTok, October 7, 2026: the same clip, with the same caption and date, five weeks before Salvadoran forces took the stadium in Port-au-Prince."
+alt = "Still from the TikTok video of Ritmo 93.9: a robot dog with a rifle on a dirt yard next to a wall with a camouflage pattern, with the caption Perros robot con armamento and the date 07-10-2026."
+
+[[tijdlijn]]
+datum = "2026-10-07"
+wat = "Ritmo 93.9 posts the clip on TikTok as a video shared recently [3]."
+
+[[tijdlijn]]
+datum = "2026-10-18"
+wat = "Four Salvadoran aviation technicians go missing after a gang attack in Haiti [8] [9]."
+
+[[tijdlijn]]
+datum = "2026-11-05"
+wat = "Al Jazeera and AP report more than 2,000 Salvadoran troops in Haiti [8]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "Haitian and Salvadoran forces take the Sylvio Cator stadium in Port-au-Prince [9]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "00:14"
+wat = "Bukele posts his video of the operation, with armed robot dogs at the end (UTC) [5]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "06:28"
+wat = "The account says El Salvador is using robot dogs to hunt gang members in Haiti (UTC) [2]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "18:19"
+wat = "Newsweek reports on the robot dogs in Bukele's video (UTC) [6]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "20:08"
+wat = "The same account posts the clip of Ritmo 93.9 as robot dogs in Haiti (UTC) [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post with the robot dog video: Look at what these Robot dogs are doing to Haiti gangs"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261114200845/https://twitter.com/Benking443/status/2121696860079542442"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "The earlier post by the same account: El Salvador is now using robot dogs to hunt down gang members in Haiti"
+datum = "2026-11-13"
+prive = true
+archief = "https://web.archive.org/web/20261113062801/https://twitter.com/Benking443/status/2121127927840481665"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Ritmo 93.9 FM on TikTok"
+titel = "Unidades robóticas lideran las batallas en el mundo mientras los soldados avanzan detrás"
+datum = "2026-10-07"
+url = "https://www.tiktok.com/@ritmo93.9/video/7693934941016509704"
+archief = "https://web.archive.org/web/20261123005346/https://www.tiktok.com/@ritmo93.9/video/7693934941016509704"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Ritmo 93.9 FM"
+titel = "Ritmo 93.9 FM, programming and coverage in Pastaza, Napo and Morona Santiago (consulted November 23, 2026)"
+datum = "2026-11-23"
+url = "https://www.ritmo939.com/"
+archief = "https://web.archive.org/web/20261123005435/https://www.ritmo939.com/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Nayib Bukele on X"
+titel = "Post in Haitian Creole with a 76-second video of the joint operation at the Sylvio Cator stadium"
+datum = "2026-11-13"
+url = "https://x.com/nayibbukele/status/2121033839468306541"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Newsweek"
+titel = "Machine-Gun-Armed Robot Dogs Appear in Haiti Offensive"
+datum = "2026-11-13"
+url = "https://www.newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398"
+archief = "https://web.archive.org/web/20261113232354/https://www.newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "Fox News"
+titel = "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti"
+datum = "2026-11-14"
+url = "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+archief = "https://web.archive.org/web/20261115012153/https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "Al Jazeera (with AP)"
+titel = "El Salvador's Bukele touts military intervention in Haiti"
+datum = "2026-11-05"
+url = "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti"
+archief = "https://web.archive.org/web/20261105060656/https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Latin Times"
+titel = "El Salvador Turned Haiti's Captured Football Stadium Into a War Base, Troops Pushing Deeper in Port-au-Prince"
+datum = "2026-11-13"
+url = "https://www.latintimes.com/salvadoran-haitian-forces-seize-haiti-stadium-601282"
+archief = "https://web.archive.org/web/20261113190720/https://www.latintimes.com/salvadoran-haitian-forces-seize-haiti-stadium-601282"

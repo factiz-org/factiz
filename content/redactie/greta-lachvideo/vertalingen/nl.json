@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg lacht om een klimaatdemonstratie in een documentaire waarin ze zulke protesten ineffectief noemt",
+  "oordeel_zin": "De clip is echt en komt uit een documentaire van Hubertus Koch, waarin Thunberg zegt dat ze klassieke demonstraties ineffectief vindt; ze zet zich nog steeds in voor het klimaat [1] [7] [11].",
+  "bewering": "Greta Thunberg lacht hysterisch als haar wordt verteld dat Fridays for Future, de klimaatgroep die zij oprichtte, nog steeds protesteert: 'They still do that?'",
+  "kort": "Sinds 11 november delen berichten op X een clip van Greta Thunberg die lacht als haar wordt verteld over een demonstratie van Fridays for Future in Berlijn, sommige als teken dat ze klimaatbetogers bespot [2] [3] [4]. De clip is echt en komt uit een documentaire van Hubertus Koch, die sinds 28 oktober op YouTube staat [1] [5]. In de film noemt ze klassieke demonstraties ineffectief, en ze zet zich nog steeds in voor het klimaat [6] [7] [11].",
+  "tekst": "Op 11 november om 10.20 uur Duitse tijd plaatste een anoniem account op X de clip van 27 seconden [4]. Die avond deelde columnist Jan Fleischhauer dezelfde video en vroeg waarom Friedrich Merz naar de klimaattop zou vliegen als Thunberg zich een deuk lacht om mensen die nog voor het klimaat demonstreren [3]. De New York Post plaatste er op 12 november een bericht over [2].\n\nDe clip komt uit een documentaire van 91 minuten over de klimaatbeweging en de staatsrepressie waarmee die te maken kreeg. De Duitse filmmaker Hubertus Koch zette de film op 28 oktober op YouTube [1] [9].\n\nKoch ontmoet Thunberg en twee vrienden van haar in een Palestijns restaurant in Berlijn [1] [5]. Ongeveer zes minuten na het begin zegt hij dat het symbolisch is dat ze elkaar treffen op de dag van een demonstratie van Fridays for Future [1] [9]. Thunberg vraagt \"Is it?\", lacht en vraagt: \"Really? They still do that?\" [9]. Daarna vraagt ze om een cut [1] [5]. Direct na de scène zegt Kochs voice-over dat ze klaar is met protest dat zichtbaar is maar in haar ogen niet consequent genoeg [1].\n\nKoch zei later dat haar lach ging over de vraag of conventionele demonstraties nog iets bereiken, niet over de mensen [6] [8]. Thunberg schreef op Instagram dat zij en andere activisten die dag een wapenfabrikant hadden geblokkeerd en daarna hoorden van een door de politie toegestane klimaatdemonstratie [8] [9]. Fridays for Future in Duitsland heeft zich van haar gedistantieerd vanwege haar uitspraken over het Midden-Oosten [7] [12].\n\nIn november was ze op de klimaattop COP31 in Antalya, waar ze de gesprekken hypocriet noemde en zei: \"everything and everyone we love is at stake\" [11]. De film stond meer dan twee weken online voordat Fridays for Future op 13 november in meer dan 70 Duitse steden protesteerde [1] [10].\n\nDemagog in Polen en Open in Italië concludeerden op 16 november eveneens dat de clip uit de context is gehaald [12] [13].",
+  "niet_weten": "We weten niet op welke dag Koch en Thunberg elkaar ontmoetten [1] [5]. Niemand kan met zekerheid zeggen wat een lach betekent; we houden ons aan haar woorden in de film en aan wat zij en Koch daarna hebben gezegd [8] [9].",
+  "bereik": "139.805 likes op de acht berichten die we op 23 november lazen, in het Engels, Duits en Japans; alleen het bericht van de New York Post had er 82.003",
+  "nog_uitzoeken": [
+   "Op welke dag Koch en Thunberg elkaar in Berlijn ontmoetten, en welke wapenfabrikant ze die dag blokkeerde. Een mogelijkheid is een blokkade van het Berlijnse kantoor van Rheinmetall in juli 2026.",
+   "We hebben Ontbrekende context afgewogen tegen Misleidend. De lach en de vraag zijn echt, dus Ontbrekende context; berichten die zeggen dat ze lacht om de klimaatbeweging of het klimaat heeft opgegeven, gaan verder dan wat haar woorden in de film dragen. Als u meer weet, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch zet de film op YouTube [1].",
+   "Het vroegste bericht met de clip dat we vonden verschijnt op X [4].",
+   "Jan Fleischhauer deelt de clip met een vraag over Friedrich Merz [3].",
+   "Al Jazeera doet verslag vanaf COP31 in Antalya: Thunberg noemt de top hypocriet [11].",
+   "De Stuttgarter Zeitung meldt waar de scène is opgenomen; de New York Post plaatst een bericht op X [2] [5].",
+   "20 Minuten met AFP: Koch noemt de clip uit de context gehaald [6].",
+   "Fridays for Future protesteert in meer dan 70 Duitse steden, in Berlijn met ongeveer 700 mensen [10].",
+   "leinetal24 meldt Thunbergs Instagrambericht: die dag had ze een wapenfabrikant geblokkeerd [8].",
+   "Demagog en Open: de clip is uit de context gehaald [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X van de New York Post, 12 november 2026, 17.35 uur UTC.",
+   "Hubertus Koch op YouTube, \"Auf Panzern in die Klimakrise\", 28 oktober 2026: de scène begint rond 6:19."
+  ],
+  "beeld_alt": [
+   "Het bericht van de New York Post op X waarin staat dat Greta Thunberg hysterisch lacht als haar wordt verteld dat Fridays for Future nog steeds protesteert, met twee stills van een lachende Thunberg, op één met haar hand voor haar mond. Stempel: ONTBREKENDE CONTEXT.",
+   "De documentaire van Hubertus Koch op YouTube."
+  ]
+ }
+}

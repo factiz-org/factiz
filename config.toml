@@ -1,0 +1,390 @@
+# Doublecheck — drempels en modelversies (DR6).
+# Dit bestand is de enige plek waar deze waarden bestaan; code kent geen defaults.
+# Startwaarden — kalibratie volgt uit de benchmark (etappe 3).
+
+[thresholds]
+# Cosinusgelijkenis tussen tekst-embeddings, bereik 0..1 (hoger = dichterbij).
+# Herijkt bij etappe 12: casefold verschuift de hele gelijkenisverdeling omhoog,
+# dus 0,85 werd daar een lóssere drempel. Gemeten (BENCHMARK.md §23b): casefold
+# met 0,90 geeft 6 fouten bij 542/799 dekking, tegen 18 fouten bij 538/799 voor
+# de oude fingerprint met 0,85 — beter op beide assen.
+# Vervangt de gate-7-keuze voor 0,85, die bij een ándere fingerprint hoorde.
+#
+# Herijkt naar 0,92 bij de corpusomzetting (#14.4, PO 2026-08-30). Het corpus
+# groeide 4,4× en meer buren betekent meer kans op een verkeerde: op 0,90 gaf
+# het nieuwe corpus 9 fouten (1,03%) tegen 6 (0,77%) op het oude. 0,92 geeft
+# 5 fouten (0,69%) — strenger dan de oude instelling — bij 64,6% dekking, en
+# 0,93/0,94 geven hetzelfde foutcijfer bij minder dekking. Efficiënt punt van
+# een plateau (BENCHMARK.md §36d).
+#
+# Naar 0,87 bij de wissel naar bge-m3 (#25.14c, PO 2026-10-11). Op de schaal
+# van dat model is 0,87 op elke as beter dan MiniLM op 0,92: 5 fouten tegen
+# 12, dekking 81,4% tegen 64,2%, natuurlijke parafrasen 16,5% tegen 10,6% en
+# minder "ander record" (49 tegen 53). De kalibratie gaf zelf 0,81, maar daar
+# maakt het model echte verkeerde koppelingen die de benchmark niet ziet
+# (steekproef, BENCHMARK.md §74).
+text_match = 0.87
+# Herijkt bij 12.5, ná de fingerprintwissel. Op 0,70 kreeg 51,2% van de
+# artefacten zónder tegenhanger in de index tóch een factcheck voorgeschoteld —
+# dan zegt `related` niets meer. Op 0,80 is dat 22,5%, terwijl nog steeds 54,5%
+# van de gemiste zelfde-paren wordt teruggewonnen. De marginale ruil is gunstig
+# tot ~0,82 en slaat daarna om (BENCHMARK.md §25).
+# Meet zelf opnieuw met: python -m doublecheck.benchmark --related-sweep
+#
+# Naar 0,79 bij de wissel naar bge-m3: de hoogste waarde die niet vaker een
+# valse "verwant" geeft dan MiniLM op 0,80 (20,3% tegen 22,6%, steekproef van
+# 2.000), en die 71% van de gemiste zelfde-paren terugwint (MiniLM 63%).
+text_related = 0.79
+# Matchdrempel voor paren waarvan vaststaat dat ze cross-linguaal zijn (#12.4).
+# Cross-linguale gelijkenis ligt structureel lager: op de gewone drempel van
+# 0,90 wordt maar 50% van de vertaalparen gevonden, op 0,85 is dat 64%
+# (BENCHMARK.md §26b). Alleen toegepast als béíde talen herkend zijn én
+# verschillen — twijfel valt terug op text_match.
+#
+# Gelijk aan text_match bij de wissel naar bge-m3: dat model heeft geen
+# lagere drempel nodig over taalgrenzen, en de benchmark kan deze drempel
+# met 50 vertaalparen niet kalibreren. Een lagere waarde liet echte
+# verkeerde koppelingen door bij een fout taallabel (BENCHMARK.md §74).
+text_match_crosslingual = 0.87
+# Hammingafstand tussen perceptuele beeldhashes (lager = dichterbij). Hoort bij
+# `image_hash`: 31 van 256 is de canonieke PDQ-drempel. Bij de oude 64-bits pHash
+# hoorde 10 — een andere grootheid, dus deze twee wisselen altijd samen (#4P.3).
+image_same = 31
+# Wanneer twee claims dezelfde bewering zijn en samengevoegd worden (E2.S5).
+# Bewust strenger dan text_match: samenvoegen is ingrijpender dan matchen, en
+# een verkeerde samenvoeging plakt het oordeel van claim A op bewering B.
+# Meebewogen met text_match bij etappe 12. Het venster 0,90–0,93 bevat vooral
+# terechte samenvoegingen (vertalingen, typo-varianten) maar ook twijfelgevallen
+# — 2 van 8 in een steekproef. Op 0,90 zou DR7 204 claims met >=2 onafhankelijke
+# uitgevers tellen in plaats van 110; B5 kiest hier de marge. Clustering heeft
+# nog geen eigen precisiemeting (BENCHMARK.md §23d).
+#
+# Naar 0,91 bij de wissel naar bge-m3: de laagste waarde die op beide
+# strengheidsmaten minstens zo streng is als MiniLM op 0,93 (benchmark 2
+# fouten tegen 11, "ander record" op natuurlijke parafrasen 30 tegen 30).
+cluster_same = 0.91
+# Vanaf welke NLI-score een samenvoeging wordt tegengehouden. Alleen offline in
+# clustering gebruikt — nooit in het aanvraagpad (BENCHMARK.md §15d).
+nli_contradiction = 0.5
+# Vanaf welke entailment-score de batchcontrole (#21.2) een zin als "beweert
+# deze weerlegde claim" vlagt; weerlegt spiegelbeeldig via contradiction.
+# Gemeten (BENCHMARK.md §56): beweert-documenten scoren minimaal 0,79,
+# weerlegt- en bespreekt-documenten maximaal 0,66 — 0,7 ligt in het gat.
+# Uitsluitend offline/batch (B17), nooit in het aanvraagpad.
+stance_entailment = 0.7
+# Kandidaatpoort van de batchcontrole (#21.5): vanaf welke gelijkenis een zin
+# naar de stance-laag gaat. Bewust onder text_match: parafrase van een claim
+# landt op 0,63-0,87 (BENCHMARK.md §59d), en de stance-laag — niet de poort —
+# draagt daar de precisie. Startwaarde uit het §59d-tegenfeitelijk; de
+# gemeten keuze staat in §60. Uitsluitend offline/batch.
+#
+# 0,82 onder bge-m3, gemeten op de herbouwde 21.3-proefset (#25.14d a,
+# BENCHMARK §77): de meeste terechte vlaggen bij hoogstens tien valse, zoals
+# MiniLM in §60. 0,84 gaf 1 terecht en 6 vals, 0,82 gaf 2 en 7, 0,80 gaf 2 en
+# 10, 0,78 (de voorlopige afleiding) gaf 2 en 11. MiniLM haalde 3 bij 10.
+screening_poort = 0.82
+# De rechter (#30.3, B36): een bijgetrainde cross-encoder leest de bovenste
+# kandidaten en beslist mee over `matched`. Tussen `rechter_vloer` en
+# `text_match` moet hij `rechter_zelfde` halen; vanaf `text_match` is hij een
+# veto, en een kandidaat onder `rechter_veto` blijft daar onder `matched`.
+# Gekozen met de vooraf vastgelegde regel op de ontwikkelhelft van de zeef
+# (BENCHMARK §128–§130), met de lat van 2% echte fouten op de valkuilen
+# (PO 2026-10-17). Aan sinds de tussenrelease van 2026-10-17 (PO).
+rechter_vloer = 0.79
+rechter_zelfde = 0.95
+rechter_veto = 0.6
+# De feitenlaag (#30.3b): een vraag die een vastgesteld feit uit de kern is
+# (gelijkenis met een laagformulering vanaf `feit_vloer`, dan de rechter vanaf
+# `feit_zelfde`), krijgt geen rood of omstreden oordeel als `matched`. Vóór de
+# meting gelijk gezet aan de drempels van de rechter, niet apart afgesteld
+# (BENCHMARK §131).
+feit_vloer = 0.79
+feit_zelfde = 0.95
+
+[model_versions]
+# Versie = model + voorbewerking. `+casefold` haalt kapitalisatie eruit vóór het
+# embedden (#12.1): het model zette hoofdlettertekst bij hoofdlettertekst, wat een
+# artefact in kapitalen 45% van de tijd op een all-caps claim liet landen
+# (BENCHMARK.md §22e). Een wijziging hier vereist herindexeren (DR6).
+#
+# bge-m3 sinds #25.14c (PO 2026-10-11, BENCHMARK.md §73–§74), vastgezet op een
+# commit: een model op Hugging Face kan onder dezelfde naam veranderen.
+text_embedding = "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold"
+# PDQ i.p.v. pHash sinds #4P.3. pHash zette verschillende tekstkoppen op afstand
+# 0–6 van 64 en gaf daardoor 250 van 250 valse koppelingen op niet-geïndexeerde
+# screenshots; PDQ geeft er 0 van 1.000 (BENCHMARK.md §29). Bijsnijden lost het
+# níét op — dat blijft een gedocumenteerde beperking.
+image_hash = "pdq-256-v1"
+# Relatiemodel voor de clustering-veto. Draait lokaal (DR3) en uitsluitend
+# offline: het is te traag en te grof voor het aanvraagpad (BENCHMARK.md §15).
+nli = "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+
+[ocr]
+# Tesseract-taalpakketten, in volgorde van voorkeur; dekt de corpustalen.
+# `spa` toegevoegd bij de ES-uitrol (#11.4, B14).
+languages = "nld+eng+deu+fra+spa"
+# Minder dan dit aantal leesbare tekens telt als "geen tekst": dan draait
+# alleen de beeldroute (E1.S3-AC2).
+min_chars = 12
+# Harde grens op tesseract-tijd per beeld, in seconden (#20.1). De zwaarste
+# legale plaat kost 4,8s ná de pixelgrens (§54); 10s dekt dat ruim en snijdt een
+# pathologisch beeld af. De subprocess wordt bij overschrijding gekillt.
+timeout_seconds = 10
+# OCR per schrift (#25.21, BENCHMARK §80): aan sinds de release van
+# 2026-10-12, samen met de claimvarianten (PO). Op 1.103 M4FC-beelden van
+# ~10 naar ~13 herkend, geen Latijns beeld anders.
+per_schrift = true
+# OCR per schrift (#25.21): Tesseract herkent eerst het schrift (OSD) en
+# leest dan met de pakketten uit [ocr.schriften]. Onder deze zekerheid, bij een
+# schrift dat niet in de tabel staat, bij Latijn of als de OSD opgeeft, blijft
+# het `languages`. Geijkt op de M4FC-beelden (§78, #25.21): op 2,0 en 2,2
+# zag OSD een keer Hebreeuws op een Indiaas beeld en kostte dat twee
+# "verwant"; de echte herkenningen lagen tussen 3,3 en 26,7.
+schrift_zekerheid = 3.0
+# OSD geeft standaard op onder 50 tekens; een kop van één regel heeft er minder.
+# Op 10 herkende een proef Telugu, Latijn, Arabisch en Bengaals op één regel goed.
+schrift_min_tekens = 10
+# Twee keer lezen bij twijfel (#25.22, BENCHMARK §107): ziet OSD een schrift uit
+# de tabel met een zekerheid vanaf deze ondergrens en onder `schrift_zekerheid`,
+# dan leest de OCR met `languages` én met het pakket van dat schrift, en houdt
+# de lezing met de hoogste woordzekerheid. Aan sinds de release van 2026-10-14
+# (PO): gemengde benchmark "beide verschillend" van 7 naar 9 van 10 (Perzisch op
+# 2,00 en Tamil op 2,22), M4FC één beeld van niets naar verwant, geen ander.
+schrift_ondergrens = 1.5
+# Een tweede lezing telt alleen als minstens dit deel van haar letters in het
+# herkende schrift staat; anders was de herkenning fout (Cyrillisch op een
+# Engelse kop, §107).
+schrift_min_aandeel = 0.5
+
+[ocr.schriften]
+# De niet-Latijnse schriften van de toegelaten corpustalen
+# (taalgeschiktheid.GEMETEN_BRUIKBAAR). Namen zoals OSD ze noemt.
+Arabic = "ara+fas+urd+eng"
+Bengali = "ben+asm+eng"
+Cyrillic = "rus+mon+eng"
+Devanagari = "hin+mar+nep+eng"
+Ethiopic = "amh+eng"
+Gujarati = "guj+eng"
+Gurmukhi = "pan+eng"
+HanS = "chi_sim+eng"
+HanT = "chi_tra+eng"
+Hangul = "kor+eng"
+Hebrew = "heb+eng"
+Japanese = "jpn+eng"
+Kannada = "kan+eng"
+Khmer = "khm+eng"
+Lao = "lao+eng"
+Malayalam = "mal+eng"
+Sinhala = "sin+eng"
+Tamil = "tam+eng"
+Telugu = "tel+eng"
+Thai = "tha+eng"
+
+[varianten]
+# Claimvarianten in de resolver (#25.17, BENCHMARK §84): 460.698 vertalingen
+# van claude-haiku-5-5/vertalingen-v1 in claim_variant. Aan sinds de release
+# van 2026-10-12 (PO). Met de schakelaar aan weigert de resolver als er voor
+# het geconfigureerde model geen varianten zijn (DR6).
+in_resolver = true
+# De stance in de taal van de zin (#25.31): bij een cross-linguaal paar in de
+# batchcontrole moet ook de variant van de claim in de taal van de zin de
+# stance-drempel halen. Uit tot de meting van #25.31 zegt dat het geen terechte
+# vlag kost.
+stance_in_zinstaal = false
+
+[vraagvorm]
+# Vraag en bewering vinden elkaar (#25.36): een vraag wordt ook als bewering
+# gezocht ("Did X start the war?" ook als "X start the war"), per claim de
+# hoogste gelijkenis. Aan sinds 2026-10-16 (PO, tussenrelease): op de toetshelft
+# van de meetset van 52% naar 60% gevonden, Ask 40 van 53, 0 valse matched op
+# 15.376 stilteteksten (BENCHMARK §118).
+aan = true
+
+[rechter]
+# De gewichten van D5 (#30.3): bge-reranker-v2-m3, de bovenste zes lagen en
+# de kop bijgetraind op de rechterset. `model` is de hash van de gewichten
+# (DR6): met andere gewichten in `pad` weigert de resolver. Het pad is
+# relatief aan de kloon; de gewichten (2,1 GB) zitten niet in git, zie
+# RUNBOOK §Deploy. `diepte`: hoeveel kandidaten boven de vloer hij leest.
+aan = true
+model = "rechter-d@0744e8eea8ce"
+pad = "data/rechterset/rechter-d@0744e8eea8ce"
+diepte = 5
+
+[feiten]
+# De feitenlaag (#30.3b) op de kern in `doublecheck/feiten/kern.json`.
+# Vraagt de rechter. Op de verse poort van 317 formuleringen: 0 rood met de
+# laag, 1 zonder (BENCHMARK §131).
+aan = true
+
+[retention]
+# Hoe lang een artefact bewaard blijft ná expliciete toestemming bij een
+# betwisting (E6.S3, DR9). Daarna wordt alleen het artefact gewist; de
+# fingerprint en de betwistingstekst blijven bestaan.
+artifact_days = 90
+# Hoe vaak de draaiende applicatie zelf opruimt. Een server die maanden
+# doorloopt zou anders pas bij een herstart de bewaartermijn afdwingen.
+sweep_interval_hours = 24
+
+[consensus]
+# Wat gebeurt er met een factcheck op een host die niet in `uitgevers.json`
+# staat (DR7, B12, #17.7)? `telt-niet-mee` is de strenge stand: een uitgever
+# die we niet kennen mag geen onafhankelijke bevestiging dragen — "twijfel
+# versoepelt nooit". `telt-mee` valt terug op de naamregel uit #17.6.
+#
+# Het verschil is groot (578 tegen 637 clusters) en zit vooral in de
+# onvolledigheid van het register, niet in echte afhankelijkheid. Wie het
+# register aanvult, mag deze stand strenger houden zonder cijfer te verliezen.
+onbekende_uitgever = "telt-niet-mee"
+
+[resolver]
+# Wie geeft dit antwoord (PROTOCOL §7, #11.3)? Een client die meerdere
+# resolvers bevraagt hoort ze naast elkaar te tonen mét de bron erbij, en dat
+# kan alleen als het antwoord zelf zegt waar het vandaan komt.
+#
+# `id` hoort stabiel en wereldwijd uniek te zijn; een domeinnaam voldoet.
+# De publieke instantie draait als id = "factiz.org" (B19); dit hieronder is
+# de lokale ontwikkel-identiteit.
+id = "doublecheck.local"
+name = "Factiz (local instance)"
+
+[ratelimit]
+# Per-IP token-bucket (#20.2). Beschermt de enkelvoudige instantie tegen een
+# verzoekstroom van één bron. `requests_per_minute` is het duurzame tempo,
+# `burst` de emmergrootte voor een korte reeks. Een mens die checkt doet er een
+# paar per minuut; deze grens stopt een flood, niet een gebruiker. Bij meerdere
+# werkers of achter een reverse proxy hoort de grens in de infra (roadmap).
+enabled = true
+requests_per_minute = 60
+burst = 30
+
+[bonnetjes]
+# Wanneer een check-link offline heet (#25.9): pas als twee dode waarnemingen
+# (404/410, domein weg, doorverwezen naar de voorpagina) minstens zoveel uur uit
+# elkaar liggen. Ten onrechte "offline" is een foute uitspraak over het werk van
+# een redactie; twijfel versoepelt nooit, dus nooit korter dan een dag.
+offline_na_uren = 24
+# Een uitgever krijgt in het rapport een waarschuwing vanaf zoveel dode links
+# én dit aandeel dood: de kandidaten voor een gerichte archiefronde.
+waarschuwing_min_dood = 10
+waarschuwing_aandeel = 0.2
+
+[berichtcontrole]
+# De controle per bericht, `POST /check` (B43, B45, PLAN #31.12): een tekst of
+# screenshot wordt op de server gelezen en gemaskeerd; alleen de gemaskeerde
+# bewering gaat naar het model. Staat uit tot de livegang: uit = antwoord 503
+# en geen vraag aan een model. Zero data retention is geen voorwaarde meer
+# (B54): de standaard van Anthropic, hoogstens 30 dagen en geen training.
+# Aanzetten is een release (B22).
+aan = false
+# De versies waarmee gemeten is (DR6; BENCHMARK §150, §154, §156). Wijkt de
+# code af, dan weigert de controle te draaien.
+model_id = "claude-sonnet-5-5"
+vraag = "verificatie-v4"
+herkansing = "herkansing-v1"
+feitenstap = "feitstap-v3"
+ijking = "doublecheck/ijking-verificatie-v4.json"
+# De vormvraag van de twee regels (PLAN #31.15, BENCHMARK §159): na het oordeel,
+# alleen bij rood of groen. Een bericht over een bewering van een ander krijgt
+# geen kleur; een bewering over wat een beeld toont is zonder het beeld nooit
+# groen. Leeg = geen regels.
+vorm = "vorm-v2"
+# De detailvraag van B48 (PLAN #32.3a, BENCHMARK §166): na *klopt* zoekt een
+# tweede vraag een datum, getal, plaats of naam die een geciteerde bron anders
+# noemt. Eén zo'n detail geeft *klopt grotendeels* zonder kleur, met de
+# verbetering en de plaats van de foute woorden; twee of meer *klopt niet*.
+# Leeg = geen detailvraag.
+detail = "detail-v3"
+# "Beweringen eerst" (PLAN #32.6, BENCHMARK §162): bij een screenshot haalt
+# Haiku eerst hoogstens drie beweringen met elk twee zoekvragen uit de
+# gemaskeerde tekst, en het geheugen zoekt met alles samen. Leeg = alleen met
+# de tekst zoeken. Uit tot de meting van #32.6.
+beweringen = ""
+beweringen_model = "claude-haiku-5-5"
+# De vloerstap (B50, PLAN #32.0m, BENCHMARK §169): zegt de machine zonder bron
+# onzeker of let op bij een Engels bericht, dan vragen twee korte vragen zonder
+# zoeken of de bewering duidelijk in strijd is met algemeen bekende kennis.
+# Zeggen beide ja en draagt de ijking van de laag stand 3, dan klopt niet op
+# algemene kennis. Leeg = uit. Sinds #32.0n (BENCHMARK §171): `vloer-v2`, ook
+# als de machine wel bronnen had; de ijking van de laag staat in het ijkbestand.
+vloer = "vloer-v2"
+vloer_model = "claude-haiku-5-5"
+# De controle is de simpele versie (B51, PLAN #32.10): eerst de database (kring 1), anders één
+# zoekvraag bij de zoekdienst (`zoeker`, de sleutel in BRAVE_API_KEY), en Sonnet die de top 10 leest
+# (`lezer`). De bronnenlijst beslist de kleur. `beeld`: het beeld mee naar het model, alleen na een
+# besluit van de PO (REQUIREMENTS §9). Wie de lezer of de zoeker wisselt, doet een release (B22).
+# lezer-v3 (PO 2026-10-29, #32.12, BENCHMARK §181–§182): misleidend als oranje, de ruime regel voor
+# groen, en een bewering over wat een beeld toont zonder het beeld nooit groen.
+# lezer-v5 (PO 2026-11-03, tussenrelease, #32.28, #32.30, BENCHMARK §201, §206): leest daarbij de 5 checks uit de
+# database die het meest op het bericht lijken; een check over dezelfde bewering met onwaar of misleidend telt als
+# goede tegenspraak, een check maakt nooit groen. De zoekdienst is Brave, met het gewone plan (B52).
+# lezer-v7 (PO 2026-11-03: "lezer mag jij kiezen", tussenrelease, #32.31, #32.32, BENCHMARK §207, §208): lezer-v5 met
+# de negen uitkomsten van besluit A en B48 (geen bewering, satire alleen met een bron, klopt grotendeels alleen met de
+# verbetering uit een goede bron, over een bewering van een ander, beeld nodig); wie als feit meldt wat iemand zei,
+# doet die bewering zelf (de zin uit vorm-v2).
+# lezer-v9 (B57, PO 2026-11-05, tussenrelease, #32.41, BENCHMARK §219, §220): één lezing. Haiku 5.5 bedenkt
+# vooraf tot drie zoekvragen zoals een factchecker (`speurvraag_model`, `speurvraag-v1`: de eigen site van wie het
+# bericht noemt, het echte nieuws, de bron zelf), het bericht zelf en die zoekvragen gaan tegelijk naar Brave, en de
+# lezer leest één keer; *niet bevestigd* als tiende uitkomst, zonder kleur.
+# De foto bij de bron (PLAN #32.54, DESIGN §4m, BENCHMARK §248, §249): na het oordeel kijkt Factiz of een foto bij een
+# groen antwoord staat op de goede pagina's die het bericht bevestigen; anders *foto niet bij de bron*, zonder groen
+# voor het bericht als geheel. Leeg = uit; aanzetten is een release (B22). Aan sinds de tussenrelease van 2026-11-09
+# (PO: "yes", B66).
+fotobron = "fotobron-v2"
+# lezer-v17 (PO 2026-11-08: "dat mag", tussenrelease, #32.43–#32.64, BENCHMARK §223–§247): v9 plus geen *niet
+# bevestigd* bij oud nieuws of een bevestiging zonder band (v10); een echte kop op de eigen site van het genoemde medium
+# is *klopt* en groen (v11, v13, B60); één goede bron genoeg voor groen als niets het tegenspreekt, niet het bericht
+# zelf en niet over een beeld (v14, v15, B61); een uitleg van drie tot vijf zinnen, elke zin met het nummer van zijn
+# bron, en een getal alleen als het in die bron of het bericht staat (v12, v15, v16); het vaste deel van de vraag
+# vooraan en bewaard tussen vragen (v17).
+# lezer-v18 (PO 2026-11-09: "yes", tussenrelease, #32.54, BENCHMARK §249): v17 met een eerste zin van de uitleg die bij de
+# uitkomst past; dezelfde vraag aan het model.
+lezer = "lezer-v18"
+speurvraag_model = "claude-haiku-5-5"
+zoeker = "brave-v1"
+# Het beeld gaat mee (B55, PO 2026-11-03, tussenrelease, #32.36, BENCHMARK §212): altijd, zonder goedkeuring per
+# controle, met eerst zwart wat de tekstherkenning als persoonsgegeven vindt (`opknippen.zwart_beeld`), zonder metadata.
+beeld = true
+# De eerste kring (PLAN #32.7a): raakt het bericht een check uit de database die één kant op
+# wijst (het snelle antwoord, nooit fout op 1.489, BENCHMARK §172), dan dat antwoord meteen,
+# zonder model en zonder kosten.
+kring1 = true
+# De herkomstcontrole (PLAN #32.3e): noemt de gelezen tekst een site met band goed
+# in de lijst met betrouwbare bronnen (#32.3c), dan één zoekvraag alleen op die
+# site, tegelijk met de machine: gelijk, anders of niet gevonden. Een bewezen
+# verschil in de inhoud geeft rood met het echte artikel; anders of niet
+# gevonden nooit groen. Leeg = uit, tot de toets en een besluit van de PO.
+herkomst = ""
+# Het plafond per dag in dollar, zonder batchkorting; daarboven antwoord 503.
+dagplafond_dollar = 2.0
+# De kosten per dag, één getal per dag, in een eigen bestand: een schrijfactie op
+# de index leegt de zoekcache, en dan leest elke vraag de checks opnieuw in.
+kosten_db = "data/berichtcontrole-kosten.db"
+# Het vaste deel van de vraag (de zoekfunctie en de systeemtekst) laten
+# onthouden (prompt caching; PLAN, Koers, besluit A). Sonnet krijgt precies
+# dezelfde tekst.
+cache = true
+
+[benchmark]
+# Vanaf hoeveel claims een taal een eigen cijfer moet hebben (#25.1). Het
+# foutcijfer gold lang voor vijf talen terwijl 29% van het corpus in talen
+# zonder testpaar stond. Daarboven weigert de benchmark tot de testset is
+# uitgebreid (`python -m doublecheck.testset --ontbrekende-talen`).
+min_claims_voor_cijfer = 500
+
+[beeldstap]
+# De beeldstap (PLAN #32.35, deel 2 van het releasevoorstel, BENCHMARK §201): het beeld van een screenshot bevestigt
+# checks via de punten van de virale beelden in de factcheckartikelen, lokaal, naast de zoekvraag. Kandidaten: de
+# artikelen van de checks uit de database en de `top_beeldtekst` artikelen waarvan de tekst op een viraal beeld het
+# meest op de screenshot lijkt. Bevestigd: PDQ binnen `drempel_pdq`, of `min_punten` punten met één gelijkvormigheid
+# die samen `min_dekking` van de screenshot beslaan (vooraf in #32.17). De index draagt zijn versies (DR6). Uit tot de
+# volle index en een meting; aanzetten is een release (B22).
+aan = false
+index = "data/beeldindex-vol"
+punten = "sift-1000-v1"
+vergelijking = "sift-ransac-v2"
+rol = "rol-v3"
+drempel_pdq = 31
+min_punten = 50
+min_dekking = 0.10
+top_beeldtekst = 5

@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "燃燒校車的影片是2023年1月在Nîmes拍攝的，並非學生抗議現場",
+  "oordeel_zin": "這段影片是真的，但拍到的是2023年1月13日在Nîmes因引擎起火而燒起來的一輛校車，現場沒有任何抗議 [1] [10]。",
+  "bewering": "法國學生抗議活動現場的一輛燃燒中的巴士。",
+  "kort": "10月2日，X上流傳一段燃燒巴士的影片，被當作法國學生抗議的畫面 [7]。這段影片是2023年1月13日在Nîmes拍攝的，當時一輛校車在行駛途中引擎起火 [1] [2]。現場沒有抗議，車上的孩子也平安下車 [1] [8]。",
+  "tekst": "10月2日星期五9:18，X上出現一則荷蘭語貼文，附有一段影片，內容是一輛起火的巴士在街上行駛，被說成是法國學生抗議中的場景 [7]。同一天，同樣的畫面也配上阿拉伯語文字流傳 [8]。美國評論人Benny Johnson向其410萬名追蹤者分享了這段影片，並寫道這是大規模移民造成的後果 [10]。\n\n這段影片已有將近四年：2023年1月13日星期五中午前後，一輛校車在法國南部Nîmes的route de Sauve起火 [1]。引擎在行駛途中突然著火 [1]。當地新聞網站Objectif Gard當天上傳了這輛燃燒巴士的影片 [1]。根據An-Nahar和ZDFheute的事實查核，貼文中的畫面即源自該影片 [8] [10]。\n\n車上有十名collège的學生，collège是招收11至15歲孩子的學校 [2]。消防隊趕到時，他們和司機已經下車，無人受傷 [1] [8]。空車又向前滑行約20公尺，撞上一堵牆後停下 [8]。Gard省消防隊當天下午在X上通報了這場火災 [4]。Midi Libre當晚刊出畫面，TF1 Info則在隔天刊出 [2] [3]。Objectif Gard只提到起因是引擎起火，ZDFheute則稱是技術故障 [1] [10]。\n\n學生抗議本身是真實的：自9月下半月起，法國各地的學生封鎖自己的lycée，抗議班級人數過多、教師短缺和校舍老舊 [6]。其間也有一輛巴士陷入火海：10月1日星期四，在Marseille的封鎖行動期間，一輛巴士被縱火，司機遭到攻擊 [5]。影片中的並不是那輛巴士，因為這段影片是2023年1月在Nîmes拍的 [1]。\n\n黎巴嫩日報An-Nahar在10月3日發表查核，是我們找到的最早一家事實查核機構 [8]。AFP Factcheck Nederland在10月7日得出相同結論 [9]。",
+  "niet_weten": "我們不知道是誰最先把這段影片與2026年的抗議活動連結在一起。至於摩托車為何起火,我們沒有找到確定的說法。這段影片在2023年之後,是否已經更早以抗議畫面的名義流傳,我們也不清楚。",
+  "nog_uitzoeken": [
+   "這段影片在2023年1月之後,是否已經更早以抗議畫面的名義流傳。若是如此,這就是一再出現的說法。"
+  ],
+  "tijdlijn": [
+   "一輛校車在Nîmes的route de Sauve行駛途中起火；孩子們平安下車 [1]。",
+   "Gard省消防隊在X上通報這場火災 [4]。",
+   "TF1 Info刊出畫面：十名孩子被疏散 [2]。",
+   "在Marseille，lycée的封鎖行動期間一輛巴士被縱火 [5]。",
+   "荷蘭語貼文附上Nîmes的這段影片 [7]。",
+   "An-Nahar：這段影片拍攝於2023年1月 [8]。",
+   "AFP Factcheck Nederland：這段影片拍到的不是學生抗議 [9]。",
+   "ZDFheute：這輛巴士在2023年因技術故障起火 [10]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文，2026年10月2日9:18。",
+   "Objectif Gard（現為Objectif Sud），2023年1月13日：Nîmes route de Sauve上燃燒校車的影片。"
+  ],
+  "beeld_alt": [
+   "影片的靜止畫面：一輛巴士在街上燃燒。標記：虛假。",
+   "Objectif Gard拍攝的校車在Nîmes起火的影片。"
+  ]
+ }
+}

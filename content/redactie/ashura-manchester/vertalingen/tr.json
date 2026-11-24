@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck ashura-manchester van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "4e9bb52ec84eb34c",
+ "veldafdrukken": {
+  "kop": "b757018192faa184",
+  "oordeel_zin": "fb18c44ea6e0fa0f",
+  "bewering": "69a4eab734457163",
+  "kort": "6ff70d14cacfac95",
+  "tekst": "40640fb96f33a174",
+  "niet_weten": "eb65e1b45a5c04ce",
+  "bereik": "4e2b997aac427916",
+  "nog_uitzoeken": "333c7a0263a26b44",
+  "tijdlijn": "aa68f4d2becd3c2c",
+  "beeld_bijschrift": "3e3aee52d7a5df4d",
+  "beeld_alt": "28462c8f6f8eeaec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Manchester'dan çekilen bu video, 21 Haziran 2026'daki yıllık Şii yas yürüyüşünü gösteriyor",
+  "oordeel_zin": "Video gerçek, ancak 21 Haziran 2026'da Wilmslow Road'da yapılan Muharrem yürüyüşünü gösteriyor ve hiçbir kaynakta yer almayan bir sloganla beş ay sonra paylaşıldı [3] [4] [7].",
+  "bewering": "Birleşik Krallık sokaklarında “biz Allah'ın askerleriyiz diye bağıran Müslüman erkek güruhları ….. Bu neden hiç haberlere çıkmıyor ??",
+  "kort": "X'teki paylaşımlar, Manchester'da bir sokakta siyah giyinmiş bir erkek kalabalığını gösteriyor ve bu kişilerin \"biz Allah'ın askerleriyiz\" diye bağırdığını söylüyor [1] [2]. Video, Jaffaria Islamic Centre'ın her yıl düzenlediği Muharrem yürüyüşünü gösteriyor. Bu, paylaşımlardan beş ay önce, 21 Haziran 2026 Pazar günü Rusholme'daki Wilmslow Road'da yapılan Şii yas yürüyüşüdür [3] [4]. Videodaki sloganlar İngilizce değil ve bulduğumuz hiçbir kaynak bu sloganı kayda geçirmiyor [1] [4] [7].",
+  "tekst": "15 Kasım 2026'da X'te bir hesap, videoyu Müslüman erkek güruhlarının Birleşik Krallık sokaklarında \"biz Allah'ın askerleriyiz\" diye bağırdığı metniyle paylaştı ve bunun neden hiç haberlere çıkmadığını sordu [1]. Video, Javier Negre'nin bir önceki akşam İspanyolca yaptığı bir paylaşımdan geliyor. Bu paylaşım, erkeklerin şeriat yasası talep etmek için Manchester'ın bir banliyösünde yürüdüğünü söylüyor [2].\n\nVideodaki Sanam ve Delhi Sweet Centre gibi tabelalar, Rusholme'da Wilmslow Road üzerinde 141 ile 151 ve 137 numaralardaki işletmelere ait [5] [6]. Yürüyenler siyah giyiyor, birçok erkek göğsüne vuruyor ve kalabalık yeşil ve siyah bayraklar ile uzun bir sancak taşıyor [1]. Şii Müslümanlar, Muharrem ayında Kerbela'da öldürülen İmam Hüseyin için böyle yas tutar. Göğse vurmaya matem denir [4] [7].\n\nManchester'daki en eski Şii imambargah, yani dini toplantılar için kullanılan salon, olduğunu söyleyen Jaffaria Islamic Centre, yürüyüşünü 21 Haziran 2026 Pazar günü için Platt Fields Park'tan Moss Lane East'teki merkeze doğru olacak şekilde duyurdu [3] [10]. 22 Haziran'da paylaşılan bir TikTok videosu, X'teki videonun açılışındaki aynı kalabalığı aynı dükkânların önünde gösteriyor ve açıklaması 2026'nın yıllık Muharrem yürüyüşünden söz ediyor [1] [4].\n\nVideodaki sloganlar İngilizce değil [1]. Merkezin afişi ve TikTok açıklaması bir yas yürüyüşünü anlatıyor ve ikisi de bu sloganı ya da şeriat yasası talebini anmıyor [3] [4]. 2018'de aynı caddedeki yürüyüşle ilgili bir haber de anmıyor. O tarihte Pakistan'ın günlük gazetesi The News, binlerce Şii Müslümanın Wilmslow Road'u durma noktasına getirdiğini yazmıştı [7].",
+  "niet_weten": "Videoyu kimin çektiğini ya da videodaki her klibin 21 Haziran'dan olup olmadığını bilmiyoruz: video en az üç kamera konumu arasında geçiş yapıyor ve biz yalnızca açılışı tarihli bir paylaşımla karşılaştırdık [1] [4].",
+  "bereik": "22 Kasım'da 134 beğeni ve 51 yanıt. Aynı videoyla yapılan İspanyolca paylaşım 65.500 beğeni aldı",
+  "nog_uitzoeken": [
+   "1:54 uzunluğundaki videodaki her klibin nerede ve ne zaman çekildiği. Video en az üç kamera konumu arasında geçiş yapıyor.",
+   "Videoyu sloganla birlikte ilk kimin internete koyduğu ve 14 Kasım tarihli İspanyolca paylaşımdan önce İngilizce bir paylaşım olup olmadığı.",
+   "Manchester Belediye Meclisi'nin ya da Greater Manchester Polisi'nin 21 Haziran 2026'daki yürüyüş için Wilmslow Road'u kapatıp kapatmadığı.",
+   "Yanıltıcı ile Yanlış arasında tarttık. Video ve sokak gerçek, sloganlar İngilizce değil, slogan ve şeriat talebi ise hiçbir kaynakta yok. Bu videoda ne söylendiğini biliyorsanız, lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Jaffaria Islamic Centre'ın Muharrem yürüyüşü Platt Fields Park'tan yola çıkıyor [3].",
+   "Bir TikTok videosu, aynı kalabalığı Wilmslow Road'da Manchester Muharram Jaloos olarak gösteriyor [4].",
+   "Maldita, Dearborn, Michigan'dan bir videoda şeriat talep eden Allah'ın askerleri sözlerini buluyor [9].",
+   "Javier Negre, Manchester videosunu şeriat talep eden Allah'ın askerlerinin yürüyüşü olarak paylaşıyor [2].",
+   "Sloganlı İngilizce paylaşım [1].",
+   "AFP: protesto olarak yanlış tanıtılan dini bir yürüyüş [8]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 15 Kasım 2026, 10:26 UTC."
+  ],
+  "beeld_alt": [
+   "X'te videodan bir kareyle yapılan bir paylaşım: Manchester'daki Wilmslow Road'da siyah giyinmiş bir kalabalık, Allah'ın askerleri diye bağıran Müslüman erkekler olarak paylaşılmış. Damga: YANILTICI."
+  ]
+ }
+}

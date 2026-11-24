@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imane Khelif hat das SRY-Gen, doch es ist nicht festgestellt, dass sie biologisch ein Mann ist",
+  "oordeel_zin": "Khelif sagte im Februar 2026 selbst, dass sie das SRY-Gen hat, doch ein Testergebnis ist nicht öffentlich, und weder ein Sportverband noch ein Gericht hat festgestellt, dass sie biologisch ein Mann ist [4] [7] [8].",
+  "bewering": "OMG. Dass ein biologisch männlicher Boxer gegen Frauen boxt, muss und wird als sportlicher Höhepunkt gefeiert werden. Aber wer das Frauenmisshandlung nennt, muss und wird gecancelt werden. Anscheinend darf nur eine Sichtweise siegen.",
+  "kort": "Ein Post auf X nennt einen Boxer, der gegen Frauen boxt, vermutlich Imane Khelif, biologisch männlich [1] [3]. Khelif sagte im Februar 2026 selbst, dass sie das SRY-Gen hat, das nach Angaben des IOC auf eine männliche Geschlechtsentwicklung hinweist, und dass sie als Mädchen großgezogen wurde und nicht transgender ist [4] [8]. Ob sie im Sport als Mann gilt, hängt von einem Test und einer medizinischen Beurteilung ab, von denen nichts öffentlich ist, und weder ein Sportverband noch ein Gericht hat darüber entschieden [6] [7] [8].",
+  "tekst": "Der Post nennt keinen Namen und zitiert einen eigenen Post vom 9. November über etwas, das HLN einen sportlichen Höhepunkt nannte [1] [2]. Dass er von Khelif handelt, schließen wir aus dem Zeitpunkt: Am 6. November kündigte sie ihren ersten Profikampf an [3]. In jener Woche kursierte auch ein englischsprachiger Post über einen Mann im olympischen Frauenboxen [11].\n\nKhelif, eine algerische Boxerin, gewann 2024 olympisches Gold bei den Frauen [3]. In der französischen Sportzeitung L'Équipe bestätigte sie am 4. Februar 2026, dass sie das SRY-Gen hat, ein Gen, das meist auf dem Y-Chromosom liegt [4] [8]. Ihre Antwort: „Ja, und das ist natürlich.“ [4] Sie sagte auch, dass sie vor Wettkämpfen ihr Testosteron mit Hormonen senkte, und dass sie als Mädchen großgezogen wurde und keine Transfrau ist [4]. Eine Diagnose nannte sie nicht [4].\n\nWorld Boxing zählt einen Boxer mit dem SRY-Gen seit August 2025 als Mann, außer bei einer vollständigen Unempfindlichkeit gegenüber männlichen Hormonen [4] [6]. Das IOC beschloss im März 2026, dass ab den Spielen 2028 nur Frauen ohne das SRY-Gen in der Frauenkategorie antreten, außer bei seltenen Erkrankungen, bei denen Testosteron keinen Vorteil bringt [8]. Diese Regel wirkt nicht rückwirkend und sagt nach Angaben des IOC nichts über das rechtliche Geschlecht einer Person aus [8].\n\nWorld Boxing ließ Khelif 2025 nicht mehr antreten, bis sie einen Gentest gemacht hatte, und das Sportgericht CAS lehnte es am 1. September 2025 ab, diese Entscheidung auszusetzen [7]. Das Verfahren läuft vertraulich, und ein Urteil fanden wir nicht [7]. Khelif sagte im Februar, sie habe World Boxing ihre Krankenakte geschickt, ohne Antwort [4].\n\nDokumente in einer französischen Zeitschrift, die 2024 beweisen sollten, dass sie ein Mann ist, nannte das IOC nicht verifiziert [9]. Im August 2024, vor dem Interview, nannten RTBF und FactCheck.org die Behauptung, Khelif sei ein Mann, falsch [12] [13].",
+  "niet_weten": "Wir wissen nicht, ob Khelif einen Test auf das SRY-Gen für World Boxing oder das IOC gemacht hat und was Ärzte bei ihr festgestellt haben. Wir wissen auch nicht sicher, dass sich der Post auf sie bezieht.",
+  "bereik": "437 Likes und 18 Antworten am 22. November",
+  "nog_uitzoeken": [
+   "Wie das CAS im Fall Khelif gegen World Boxing entscheidet.",
+   "Ob Khelif einen Test auf das SRY-Gen für World Boxing oder das IOC gemacht hat und mit welchem Ergebnis.",
+   "Welchen Post des Accounts X in der Europäischen Union abgeschirmt hat und auf wessen Antrag.",
+   "Auf welchen Artikel von HLN sich der Post vom 9. November bezieht.",
+   "Wir schwankten zwischen Unbewiesen und Irreführend. Irreführend, weil der Post als feststehend darstellt, was kein Sportverband und kein Gericht festgestellt hat; Unbewiesen, weil Khelif selbst sagte, dass sie das SRY-Gen hat, was nach den Regeln von World Boxing und des IOC als männliche Geschlechtsentwicklung gilt, außer bei einer Ausnahme, über die nichts öffentlich ist. Wir entschieden uns für Unbewiesen."
+  ],
+  "tijdlijn": [
+   "Das IOC: Bei den Spielen in Paris gilt das Geschlecht im Pass [5].",
+   "Khelif legt beim CAS Berufung gegen die Entscheidung von World Boxing ein [7].",
+   "Die Regeln von World Boxing zum Geschlecht, mit einem Test auf das SRY-Gen, treten in Kraft [6].",
+   "Das CAS lehnt es ab, die Entscheidung von World Boxing bis zur Verhandlung der Sache auszusetzen [7].",
+   "Khelif sagt in L'Équipe, dass sie das SRY-Gen hat und ihr Testosteron mit Hormonen senkte [4].",
+   "Das IOC beschränkt die Frauenkategorie ab den Spielen 2028 auf Personen ohne SRY-Gen, mit einer Ausnahme [8].",
+   "Khelif kündigt ihren ersten Profikampf an, am 15. Dezember in Paris gegen Clarida Sarabia [3].",
+   "Der Account schreibt, dass HLN etwas einen sportlichen Höhepunkt nannte [2].",
+   "Der Post auf X [1].",
+   "Die NOS meldet, dass sich Clarida Sarabia vom Kampf mit Khelif zurückzieht [10]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 12. November 2026, 20.42 Uhr."
+  ],
+  "beeld_alt": [
+   "Ein Post auf X, der besagt, dass ein biologisch männlicher Boxer gegen Frauen boxt, mit einem Screenshot einer Meldung, dass ein Post in der Europäischen Union abgeschirmt wurde, und einem zitierten Post über einen sportlichen Höhepunkt laut HLN. Stempel: UNBEWIESEN."
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van het overzicht global-blackout-17-november van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "329ccec2c5f04d8a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "訊息警告,全球性停電與斷網將從 2026 年 11 月 17 日開始,持續 72 小時,銀行和提款機都會停擺。",
+  "kern": [
+   "沒有任何官方機構針對 2026 年 11 月 17 日發出全球大停電的警告。[1] [2]",
+   "這個日期與美國一項已規劃的緊急警報測試吻合,該測試由聯邦機構 FEMA 公布,並會透過電視和廣播播出。[1] [2]",
+   "這些貼文還混入了歐洲關於儲備 72 小時緊急物資的建議,以及一集《辛普森家庭》,而這兩者都沒有指向當天會發生停電。[1] [2]"
+  ],
+  "rondgang": "Facebook、TikTok 和 X 上的貼文散播了這則警告,西班牙和義大利的事實查核機構對此進行了查證;EFE 早在 2026 年 10 月 27 日就在 X 上發現了英文版本。[1] [2]"
+ }
+}

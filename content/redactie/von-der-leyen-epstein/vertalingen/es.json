@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La imagen de Ursula von der Leyen con Jeffrey Epstein ha sido creada con IA",
+  "oordeel_zin": "La imagen lleva una marca de agua de IA, ya estaba en julio en Facebook con una etiqueta de IA, y los números que aparecen en ella no figuran en los archivos de Epstein [1] [2] [11].",
+  "bewering": "Esta foto de los archivos de Epstein muestra a Ursula von der Leyen con Jeffrey Epstein.",
+  "kort": "Desde el 7 de octubre circula en X, en neerlandés, una imagen de Ursula von der Leyen con Jeffrey Epstein, con un número de expediente y un número de documento [10]. La imagen está creada con IA: está en Facebook desde el 12 de julio con una etiqueta de contenido de IA, y varias redacciones encontraron en ella una marca de agua invisible de IA [11] [1] [2]. Los números de la imagen no aparecen en los archivos de Epstein publicados por el Departamento de Justicia de Estados Unidos [1] [3] [6].",
+  "tekst": "El miércoles 7 de octubre de 2026 a las 23:21 apareció en X una publicación en neerlandés con una imagen de Ursula von der Leyen, presidenta de la Comisión Europea, junto a Jeffrey Epstein [10]. En la imagen figuran un número de expediente y un número de documento, que pretenden sugerir que procede de los archivos de Epstein [1] [4].\n\nLa imagen es anterior a la publicación. El ejemplar más antiguo que encontraron las redacciones está en Facebook desde el 12 de julio de 2026, en la cuenta de un particular, con la etiqueta que Meta pone al contenido creado con IA [11] [1]. Un día después estaba en el sitio en francés de la red Pravda [1]. Se trata de una red de sitios prorrusos que se hacen pasar por medios de noticias [9]. Después la imagen circuló en italiano, español, alemán, inglés, georgiano y ruso, entre otros idiomas [1] [2] [4] [5].\n\nEl medio italiano Open y el español Maldita.es encontraron SynthID en la imagen [1] [2]. Es una marca de agua invisible que Google incorpora a las imágenes creadas o editadas con su IA [8]. También Lead Stories y TheJournal.ie informaron de una marca de agua de IA [3] [4]. Open no encontró en archivos de prensa ni en los documentos publicados ninguna foto real de los dos juntos [1].\n\nVeamos ahora los números. El Departamento de Justicia de Estados Unidos publica en línea los documentos de la investigación sobre Epstein en la Epstein Library [6]. En enero de 2026 se añadieron allí unos 3 millones de páginas, tras publicaciones anteriores [7]. Según Open, Lead Stories y Myth Detector, los números de la imagen no aparecen en esos documentos, y el Departamento usa una numeración muy distinta [1] [3] [5].\n\nLa publicación en neerlandés llegó casi tres meses después de la primera verificación que encontramos, la de Open del 15 de julio, y cinco semanas después de la de Lead Stories [1] [3] [10]. No encontramos ninguna verificación en neerlandés.",
+  "niet_weten": "No sabemos quién creó la imagen. Lead Stories y TheJournal.ie escriben que un programa de OpenAI encontró la marca de agua SynthID [3] [4]. SynthID es de Google [8]; por qué un programa de OpenAI lo detecta, no lo sabemos. Eso no cambia el veredicto: Open y Maldita.es encontraron la marca de agua con los programas de Google [1] [2].",
+  "nog_uitzoeken": [
+   "Qué versión de la imagen mostraba la publicación, en blanco y negro o en color, y qué texto la acompañaba. La publicación ya no está disponible."
+  ],
+  "tijdlijn": [
+   "El Departamento de Justicia publica en línea unos 3 millones de páginas sobre Epstein [7].",
+   "La imagen en Facebook, con la etiqueta de Meta de contenido de IA [11] [1].",
+   "La imagen en el sitio en francés de la red Pravda [1].",
+   "Open: la imagen está creada con IA [1].",
+   "Maldita.es: falso, con la marca de agua de Google [2].",
+   "Lead Stories: creada con IA, números que no figuran en los archivos [3].",
+   "TheJournal.ie: creada con IA, compartida más de mil veces en Facebook [4].",
+   "La publicación en neerlandés en X [10].",
+   "Myth Detector: la imagen circula en georgiano y ruso [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

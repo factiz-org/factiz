@@ -1,0 +1,213 @@
+{
+ "toelichting": "PLAN #32.43, Duits: elk rood en oranje, elk groen bij O en elke niet bevestigd bij W en W-merk, gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, met de bron zelf waar nodig; geen andere User-Agent, een pagina die niet opent telt niet (BENCHMARK §228).",
+ "labels": {
+  "O:gfc-04f45824041bf9f9#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van Reuters zegt in de kop dat de oefening van het NTI uit 2021 niet bewijst dat een uitbraak van (m)pox gepland was, en dat is precies de gevolgtrekking van het bericht."
+  },
+  "O:gfc-087a856c821d2d13#C": {
+   "label": "bewijst",
+   "toelichting": "NASA (goed) legt uit dat de ruwe stationsdata nooit worden aangepast, dat de correcties gedocumenteerd zijn en de wereldwijde trend nauwelijks veranderen (vóór 1950 zelfs verlagen), en Bild noemt het een 'irre Verschwörungstheorie'; dat is niet te verenigen met manipulatie, al is het deels NASA over zichzelf (Focus niet te openen)."
+  },
+  "O:gfc-12cfd68e6574fcd2#C": {
+   "label": "bewijst",
+   "toelichting": "Gwara Media (26 juni 2024) noemt het nep: de foto komt uit een artikel van Reuters uit mei 2021 en toont een kluis met geld uit cannabisverkoop in Californië, niet de kluis van volksvertegenwoordiger Tysjtsjenko."
+  },
+  "O:gfc-157256092d92f281#C": {
+   "label": "bewijst niet",
+   "toelichting": "Geen enkele bron gaat over het verwarren van mpox met gordelroos; de SZ noemt het onderzoek naar gordelroos na de coronaprik tegenstrijdig (een studie in de NEJM vond wel een verband), en de PEI-rapporten zijn alleen achtergrond."
+  },
+  "O:gfc-170ebf9c1725fdf0#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO (AFP, 29 juni 2023) laat zien dat de ARD-weerkaarten met vlammen vervalst zijn: in de tagesthemen van 8 juni 2023 staan geen vlammen en de HR zegt 'Die ARD verwendet bei Wetterdarstellungen keine Flammen'."
+  },
+  "O:gfc-17446a8aab905768#C": {
+   "label": "bewijst",
+   "toelichting": "In het persbericht van de STIKO op rki.de staat dat pasgeborenen nirsevimab zo snel mogelijk na de geboorte moeten krijgen, bij voorkeur bij het ontslag uit de kraamkliniek, en dat het middel veilig is en meestal goed wordt verdragen."
+  },
+  "O:gfc-19974a838f1d192c#C": {
+   "label": "bewijst",
+   "toelichting": "Volgens Spiegel en de historicicommissie van Dresden vielen er hoogstens ongeveer 25.000 doden, geen honderdduizenden."
+  },
+  "O:gfc-3b9fd36cbe58058a#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia (Feindstaatenklausel) zegt dat de VN de clausules in 1994/1995 achterhaald noemde, dat Duitsland sinds 1973 als gelijkwaardige staat de volle rechten heeft en dat het Twee-plus-Vierverdrag de bezettingsrechten uitsluit; 'daardoor niet soeverein' klopt dus niet."
+  },
+  "O:gfc-4f9e720030df4bcb#C": {
+   "label": "bewijst",
+   "toelichting": "RFA en The Dispatch citeren de Secret Service: 'categorically false', er werkt niemand met de naam Jonathan Willis; het citaat komt van een anonieme 4chan-post."
+  },
+  "O:gfc-5962e3fc4b015fcd#C": {
+   "label": "bewijst",
+   "toelichting": "PBS, de Washington Post, BBC en NZZ leggen uit dat de zaak tegen Trump verschilt door het bewust achterhouden en het tegenwerken van de teruggave, wat Biden en Clinton niet deden; dat ondergraaft het idee dat het verschil corruptie is (het is wel een mening met een feitelijke kern)."
+  },
+  "O:gfc-5af5de892fce99ac#C": {
+   "label": "bewijst",
+   "toelichting": "Merkur meldt in de titel dat de man (41) 'weder Machete noch Messer dabei' had en BR24 dat de politie na het voorval in Großostheim voor fake news waarschuwt; dat spreekt de machete direct tegen."
+  },
+  "O:gfc-5cff5d7a2fd1a3d6#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia (Rothschild (Familie)) zegt dat er geen gemeenschappelijk netwerk van banken meer is, alleen drie financiële groepen van verschillende familietakken, en noemt de verhalen over de macht van de familie over de financiële wereld antisemitisch; de pagina's van SWR en theconspiratory openden niet, derwaechter.net is de bewering zelf."
+  },
+  "O:gfc-5dfd94e9a8af806c#C": {
+   "label": "bewijst",
+   "toelichting": "De Copenhagen Post, EBU Spotlight en Sardarizadeh noemen de video vals: hij is gefilmd tijdens een pro-Palestijnse betoging in Malmö en toont een man op het balkon van zijn eigen flat, niet koning Frederik X."
+  },
+  "O:gfc-5edd777c6ac81735#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO controleert dezelfde rekensom (bij een AfD-politicus 0,000027 procent) en noemt die misleidend: de natuurlijke uitwisseling komt per saldo op nul, de mens deed de concentratie stijgen van 280 naar ongeveer 420 ppm, en het Duitse aandeel was vroeger hoger."
+  },
+  "O:gfc-63256108fdaa6b80#C": {
+   "label": "bewijst",
+   "toelichting": "In de factcheck van USA Today (via AOL) staat al in de kop dat het Ninth Circuit niet heeft geoordeeld dat covidprikken geen vaccins zijn."
+  },
+  "O:gfc-676565014bb6d975#C": {
+   "label": "bewijst",
+   "toelichting": "Sci.News (Queen Mary University) en grewi melden dat insecten volgens onderzoek waarschijnlijk wel pijn voelen, en dat weerspreekt de absolute bewering dat ze het niet kunnen; twijfel: de bronnen zeggen 'waarschijnlijk', geen zekerheid."
+  },
+  "O:gfc-677407241f457a17#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesspiegel (de VIP-pedofielenring), FAZ (Scotland Yard onderzoekt een pedofielenring), Spiegel (Savile) en Stern berichten zelf over de Britse misbruikschandalen, dus de bewering dat de media er niet over berichten klopt niet."
+  },
+  "O:gfc-685c9918f5b1101a#C": {
+   "label": "bewijst",
+   "toelichting": "Newsweek meldt dat de berichten dat Gibson de vierdelige serie maakt 'not accurate' zijn (de serie is van Nick Nanton), dat zijn woordvoerder ontkent en dat de bloeddrink-citaten volgens een factcheck van Newsweek onwaar zijn; Rolling Stone meldt ook de ontkenning."
+  },
+  "O:gfc-6e3061a2881a34b1#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO ('Grüne fordern noch immer kein Haustierverbot') en Tagesspiegel ('Die CSU lügt!') zeggen dat er geen huisdierenverbod van de Grünen is; het zogenaamde Baerbock-citaat is vals."
+  },
+  "O:gfc-7cb71d5bdc16a977#C": {
+   "label": "bewijst",
+   "toelichting": "De metingen van NOAA (de Keeling-curve van Mauna Loa), het Umweltbundesamt en GADMO tonen een sterke stijging van het CO2-gehalte in de afgelopen eeuw."
+  },
+  "O:gfc-808603f68088a34d#C": {
+   "label": "bewijst",
+   "toelichting": "Kleine Zeitung ('Covid-19-Impfung ist nicht für Anstieg von Totgeburten verantwortlich') en het ministerie op factually.gov.sg leggen de stijging uit met een verruimde definitie van doodgeboorte, en Berenson trok zijn stuk zelf in."
+  },
+  "O:gfc-8272482ef96b2eb8#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het geopende Al Jazeera-artikel noemt als reactie van de VAE alleen dat ze de zaak volgen en consulaire bijstand vroegen, zonder iets over Rafales; het tweede gaat over het onderzoek tegen Durov; geen van beide zegt dat de bevriezing niet gebeurde, ze bevestigen alleen niets."
+  },
+  "O:gfc-854c3daeb1157498#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over andere beelden: GMX/web.de over een video uit Berlijn (september 2026, doorgesneden briefstemmen) en NOZ over een video bij de Bundestagswahl 2025 in Hamburg (pagina niet te openen); de foto uit september 2024 (volgens Correctiv stembiljetten van 2017) komt er niet in voor, dus het alarm klopt toevallig."
+  },
+  "O:gfc-871cf872e6ee170f#C": {
+   "label": "bewijst",
+   "toelichting": "DW en Die Presse melden dat de lijkschouwing de dood toeschrijft aan politiegeweld, en dat kan niet samen waar zijn met 'niet door een agent gedood, maar een overdosis'."
+  },
+  "O:gfc-87474beb8dacbe03#C": {
+   "label": "bewijst",
+   "toelichting": "De factsheet van de WHO over uv-straling en het WHO/ILO-bericht dat werken in de zon een op de drie sterfgevallen aan niet-melanoom huidkanker veroorzaakt, laten zien dat de zon wel gevaarlijk is."
+  },
+  "O:gfc-87fbe4c406fda85a#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO zegt in een factcheck dat HAARP geen noodweer, aardbevingen of vulkaanuitbarstingen kan veroorzaken; derStandard en Tagesschau beschrijven de echte oorzaak, extreme regenval."
+  },
+  "O:gfc-934380928bceaea1#C": {
+   "label": "bewijst",
+   "toelichting": "Pharmazeutische Zeitung en t-online behandelen de bewering 'Rapsöl verursacht Entzündungen' letterlijk: volgens vakverenigingen is er geen betrouwbaar bewijs voor, en rapsolie heeft juist een gunstige verhouding tussen omega-6 en omega-3."
+  },
+  "O:gfc-970c2e116f8ae889#C": {
+   "label": "bewijst",
+   "toelichting": "Volgens t-online (antwoord van de regering) stoten de vliegtuigen van Air Defender 2023 ongeveer 35.235 ton CO2-equivalent uit, ver onder 222.000 ton; het artikel zegt wel dat het totaal hoger zal liggen omdat ander vervoer niet is meegeteld (de BR-pagina opende niet)."
+  },
+  "O:gfc-a1e3435eac79fccd#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO (25 januari 2023) en de Jüdische Allgemeine laten zien dat het vonnis van april 2022 (een jaar cel) onherroepelijk is en niet is opgeheven, alleen een beslissing over een schrijven van Haverbeck; de celstraf moet worden uitgezeten (de Spiegel-link uit 2018 telt niet)."
+  },
+  "O:gfc-a5f797a8c5858210#C": {
+   "label": "bewijst",
+   "toelichting": "CBS ('Russia targets Americans ... with fake CIA video') en de factcheck op Yahoo ('False claim CIA warned to avoid Paris Metro') zeggen dat de video nep is en niet van de CIA komt."
+  },
+  "O:gfc-a6edb605b88daa17#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesspiegel, Zeit, n-tv en Stern melden dat de doodsmelding vals was en dat Jelinek leeft; ze leeft nog steeds (Jelinek-jaar 2026 voor haar 80ste verjaardag)."
+  },
+  "O:gfc-ac04f325f5fca9d9#C": {
+   "label": "bewijst",
+   "toelichting": "De faktenfinder van tagesschau.de citeert precies deze post en meldt dat de foto uit een video van minstens 2017 komt, zonder verband met het geweld in Syrië in maart 2025."
+  },
+  "O:gfc-b41a379df215532e#C": {
+   "label": "bewijst",
+   "toelichting": "France 24 en GADMO melden dat het brandende gebouw in de video het hoofdpostkantoor van Manila is en niet de Alcazar-bibliotheek in Marseille."
+  },
+  "O:gfc-b81d1b3bf0ae8ecd#C": {
+   "label": "bewijst",
+   "toelichting": "Het ministerie van Volksgezondheid, de WHO, het RKI en berlin.de ('keine harmlose Kinderkrankheit') beschrijven de ernstige complicaties en sterfgevallen door mazelen."
+  },
+  "O:gfc-b87c61720c906116#C": {
+   "label": "bewijst",
+   "toelichting": "In de dpa-factcheck op European Newsroom (23 mei 2023) staat dat de Ierse wet tegen haatzaaien geen verbod bevat op het lezen of delen van alternatieve media; dat zeggen ook het ministerie van Justitie en de ICCL."
+  },
+  "O:gfc-bb10f8a9c8911dd3#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters en dpa (Presseportal) melden dat de foto van de astronauten zonder helm tijdens een training op aarde is genomen, niet na de maanlanding."
+  },
+  "O:gfc-c57289a53bbf84a9#C": {
+   "label": "bewijst",
+   "toelichting": "Greenkama en Cadena SER melden dat het afval na de Sint-Jansnacht kwam en niet na een ecofestival, en dat is een andere herkomst dan de bewering."
+  },
+  "O:gfc-c7c12398fe4aa32a#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesschau ('Falsche Zahlen zu angeblichen Impf-Toten') weerlegt de doden-cijfers en de veiligheidsberichten van het PEI en de RKI-pagina tonen dat vermoedelijke bijwerkingen openbaar worden gemeld en gepubliceerd, dus niet verheimelijkt (tagesschau en NZZ zelf niet te openen)."
+  },
+  "O:gfc-c93ba52bcecdf44c#C": {
+   "label": "bewijst",
+   "toelichting": "Volksstimme ('Achtung, Falschmeldung!') meldt dat de video een 24-jarige toont die in het City Carré door een getuige vastgehouden werd na overlast en een vechtpartij, zonder mes, en die ten onrechte met een messenzaak bij het station werd verbonden (tag24 opende niet; het woord 'angeblichen' maakt het bericht wat zachter)."
+  },
+  "O:gfc-cfb45063ba3383ac#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO controleerde precies deze sharepic uit januari 2024: het scenario zonder bezit komt uit een blog van een Deense politica uit 2016 en heeft niets met Davos 2024 of de doelen van het WEF te maken; een wereldregering via de VN is juridisch niet mogelijk."
+  },
+  "O:gfc-d045d6ff7f0ff06c#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters noemt het in de titel een 'False Pope Francis quote about euthanizing to fight climate change', en Vatican News en katholisch.de melden dat de paus elke vorm van euthanasie afwijst."
+  },
+  "O:gfc-d75c573bb8fc5ecf#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO ('Ein Wahlzettel mit Kreuz über den Rand hinaus ist eine gültige Stimme', 'Wählerwille muss zweifelsfrei zu erkennen sein') en de Bundeswahlleiterin zeggen dat het kruis niet in het midden hoeft te staan zolang de wil van de kiezer duidelijk is."
+  },
+  "O:gfc-da51ba06d15ee32a#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesschau meldt in de titel 'Kein \"Turbokrebs\"-Notstand in Japan', en Focus en Tageblatt behandelen 'Turbokrebs' als gerucht; dat spreekt de noodtoestand direct tegen."
+  },
+  "O:gfc-dc30c554bc826b34#C": {
+   "label": "bewijst",
+   "toelichting": "European Newsroom en GADMO melden dat de details van het Pfizer-contract al jaren openbaar zijn, niet pas in de herfst van 2023, en Ärzteblatt, Tagesspiegel en t-online noemen 'Turbokrebs' door de vaccinatie een Falschmeldung."
+  },
+  "O:gfc-f3a24a4f015b0812#C": {
+   "label": "bewijst",
+   "toelichting": "Meerdere meta-analyses op PubMed en Alzheimer's Research UK vinden dat statines het risico op dementie en Alzheimer niet verhogen maar eerder verlagen, wat de hoofdbewering tegenspreekt; het tweede deel (Alzheimer bestond 40 jaar geleden niet) behandelen ze niet."
+  },
+  "O:gfc-f3e273e4d28629e3#C": {
+   "label": "bewijst",
+   "toelichting": "Web.de en de Deutsche Handwerks Zeitung citeren de Deutsche Rentenversicherung: 'Es liegt kein Rechenfehler vor. Die 22 Millionen Bescheide sind korrekt.'; de bronnen gaan over 22 miljoen en niet over 2,2 miljoen, maar kennelijk om hetzelfde verhaal (een los verhaal over 2,2 miljoen vond ik niet; Spiegel en fr.de openden niet)."
+  },
+  "O:gfc-f5e82162c4697b43#C": {
+   "label": "bewijst",
+   "toelichting": "De Deutsche Rentenversicherung zegt in een eigen factcheck dat er geen pensioenregels apart voor Oekraïense vluchtelingen zijn; ZDF en t-online noemen het pensioen vanaf 57 nepnieuws."
+  },
+  "O:gfc-fbe0b15f16aafd07#C": {
+   "label": "bewijst",
+   "toelichting": "Mainpost en GADMO melden dat de video niet uit Würzburg komt maar in Stuttgart is gemaakt, een andere plaats dan het bericht noemt."
+  },
+  "O:gfc-fc3e15df6c8a3fd1#C": {
+   "label": "bewijst",
+   "toelichting": "De politie van Koblenz (Presseportal) en lokale media zeggen dat de vermiste vijfjarige Julie niet bestaat en dat het verhaal verzonnen is."
+  },
+  "O:gfc-fe7ec59f3ae3985d#C": {
+   "label": "bewijst",
+   "toelichting": "Klimafakten weerlegt het argument van de kleine menselijke CO2-stroom rechtstreeks, en de IPCC-samenvattingen noemen de mens de hoofdoorzaak van de opwarming; dat kan niet samen waar zijn met 4 procent mens en 96 procent natuur."
+  },
+  "W:wikinews:de:73673#C": {
+   "label": "set fout",
+   "toelichting": "Volgens de SZ (6 december 2012, dpa) vermoedde de politie later dat de soldate de verkrachting had verzonnen: geen verwondingen en tegenstrijdige verklaringen; het artikel brengt de verkrachting als feit, dus het misleidend van Factiz klopt; twijfel: een eindoordeel van het OM heb ik niet gevonden."
+  },
+  "W:wikinews:de:77949#C": {
+   "label": "set fout",
+   "toelichting": "Het Wikinews-artikel van 24.01.2015 verscheen voor het vonnis maar stelt in de kop als feit dat de fans de mannen in elkaar sloegen; Spiegel en Welt melden de vrijspraak, en volgens een stuk van de Hamburgse gemeente uit 2016 bleek de aanklacht 'haltlos', dus de kop bevat de fout die Factiz noemt (Factiz zegt wel te stellig dat er geen geweld was)."
+  }
+ }
+}

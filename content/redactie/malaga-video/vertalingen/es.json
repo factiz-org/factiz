@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "El vídeo de una multitud que detiene a un presunto ladrón es de Málaga, no de Milán",
+  "oordeel_zin": "El vídeo muestra un intento de atraco a una joyería en Málaga el 16 de julio, y no a una banda en Milán el 17 de octubre [1] [4].",
+  "bewering": "Un vídeo muestra a italianos en Milán que detienen el 17 de octubre a una banda propalestina.",
+  "kort": "Desde el 20 de octubre circula en X un vídeo como imagen de italianos que detienen en Milán a una banda propalestina [4]. Las imágenes proceden de Málaga, en España, donde unos vecinos retuvieron el 16 de julio a un hombre que había intentado atracar una joyería [1]. Los disturbios de Milán del 17 de octubre empezaron en una protesta contra el alto coste de la vida, y según Avvenire los alborotadores no llevaban bandera ni símbolo político [2] [3].",
+  "tekst": "En la noche del 19 al 20 de octubre, a las 02:07, apareció en X una publicación en neerlandés con un vídeo de 79 segundos [4]. El texto habla de bandas con kufiyas en ciudades italianas y de italianos en Milán que no se dejan someter por los anarquistas de «fripalestin» [4]. Debajo figuran los hashtags #Milano y #17octobre [4]. El 18 de noviembre la publicación tenía 105.671 visualizaciones [4].\n\nEl mismo vídeo circulaba unas horas antes en inglés. La cuenta Visegrád 24 lo presentó el 19 de octubre a las 23:07 como ciudadanos italianos que atrapan a un ladrón extranjero [5]. Una publicación francesa del 20 de octubre hizo lo mismo, con un vídeo de la misma duración [6].\n\nLa escena no se grabó en Italia. El jueves 16 de julio, hacia las 21:00, un hombre intentó atracar una joyería de la Calle Martínez Maldonado, en Málaga, según escribió El Español un día después [1]. Huyó a pie hacia un cómplice que esperaba en una moto, le pusieron la zancadilla por el camino y lo embistió alguien en un patinete [1]. Después lo retuvieron unos vecinos, mientras el cómplice se marchaba [1]. Un vecino lo grabó [1]. La Policía Nacional detuvo al hombre y seguía buscando al segundo sospechoso [1].\n\nEn Milán sí hubo disturbios el sábado 17 de octubre. Una marcha de unas 5.000 personas contra el alto coste de la vida acabó en disturbios en los alrededores de la Piazza del Duomo [2]. Una parte de los manifestantes, sobre todo jóvenes con el rostro cubierto, lanzó piedras y saqueó tiendas [2]. La policía detuvo a unas cincuenta personas [2] [3]. Según Avvenire, los alborotadores eran muy jóvenes, iban vestidos de negro y no llevaban bandera ni símbolo político [3]. Il Post y Avvenire no escriben nada sobre grupos palestinos [2] [3].\n\nLa publicación presenta, por tanto, una detención en España de tres meses antes como una escena de los disturbios de Milán [1] [4]. Las imágenes en sí son reales [1].",
+  "niet_weten": "No sabemos quién fue el primero en dar a la vídeo una explicación italiana. La copia más antigua que encontramos estaba en X el 19 de octubre a las 22:40, pero esa publicación ya no está visible, así que no sabemos qué texto la acompañaba. No sabemos quién filmó el vídeo en julio.",
+  "bereik": "105.671 visualizaciones el 18 de noviembre",
+  "nog_uitzoeken": [
+   "Qué texto acompañaba a la copia más antigua, la publicación del 19 de octubre a las 22:40. Ya no está visible."
+  ],
+  "tijdlijn": [
+   "Intento de atraco a una joyería en Málaga; los vecinos retienen al hombre hasta que llega la policía [1].",
+   "El Español informa del atraco y de la detención [1].",
+   "Una marcha contra el alto coste de la vida acaba en disturbios en Milán [2] [3].",
+   "Visegrád 24 difunde el vídeo en inglés como ciudadanos italianos que atrapan a un ladrón [5].",
+   "La publicación neerlandesa sobre Milán y el 17 de octubre [4].",
+   "Una publicación francesa con el mismo vídeo de 79 segundos [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 20 de octubre de 2026, 02:07.",
+   "El Español, 17 de julio de 2026: la huida tras el intento de atraco a una joyería en Málaga. Foto de El Español."
+  ],
+  "beeld_alt": [
+   "Imagen fija del vídeo: una multitud en la calle alrededor de un hombre. Sello: FALSO.",
+   "Foto de El Español del hombre que huye tras el intento de atraco en Málaga."
+  ]
+ }
+}

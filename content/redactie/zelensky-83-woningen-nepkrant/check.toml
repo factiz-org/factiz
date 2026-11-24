@@ -1,0 +1,260 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/zelensky-83-woningen-nepkrant/dossier.md. Hoort bij het dossier content/dossiers/zelensky-luxury/.
+
+sleutel = "zelensky-83-woningen-nepkrant"
+status = "gepubliceerd"
+taal = "nl"
+adres = "zelensky-83-panden-buitenland"
+adres_en = "zelensky-83-properties-abroad"
+kop = "Verhaal over 83 panden van Zelensky in het buitenland komt van een nagemaakte Britse nieuwssite"
+oordeel = "onwaar"
+reikwijdte = "internationaal"
+oordeel_zin = "De bron is een site die twaalf dagen voor het verhaal werd geregistreerd, en NABU zegt dat de vrouw in de video er niet werkte [3] [6]."
+soort = "verzonnen"
+vorm = "video"
+
+bewering = "Voormalig hoofd van de Oekraïense anticorruptiedienst: Zelensky bezit 6 panden in Spanje, 14 in het Verenigd Koninkrijk, 21 in Frankrijk, 8 in Italië en 34 in de Verenigde Arabische Emiraten."
+platform = "X"
+eerst_gezien = "2026-09-07"
+posts = 1
+bereik = "39.340 keer bekeken op 18 november"
+
+kort = """
+Op 7 september ging op X een video rond waarin een oud-medewerker van de Oekraïense anticorruptiedienst zou onthullen \
+dat Zelensky 83 panden in vijf landen bezit [1]. Het verhaal begon in augustus 2025 op londontelegraph.uk, een site die \
+twaalf dagen eerder was geregistreerd en een gestolen foto bij de naam van de schrijver zette [3] [4]. De dienst zegt \
+dat de vrouw in de video er niet werkte, en in de vermogensverklaring van Zelensky is geen spoor van 83 panden in het \
+buitenland [6] [9] [10]."""
+
+tekst = """
+De post verscheen op maandag 7 september om 05:58 op X, met een video van 77 seconden [1]. Volgens de tekst zegt een \
+voormalig hoofd van de Oekraïense anticorruptiedienst dat Zelensky 6 panden in Spanje bezit, 14 in het Verenigd \
+Koninkrijk, 21 in Frankrijk, 8 in Italië en 34 in de Verenigde Arabische Emiraten [1]. Samen zijn dat er 83. Op 18 \
+november was de post 39.340 keer bekeken [1]. In het beeld uit de video heet de vrouw Olena K., van het National \
+Anti-Corruption Bureau of Ukraine, en de Franse ondertitel noemt een onderzoekster van dat bureau [1]. Alleen de tekst \
+van de post maakt van haar een voormalig hoofd [1].
+
+Het verhaal is ouder dan de post. Op 26 augustus 2025 ging op X een Engelse video rond over Olena K., een voormalige rechercheur van \
+NABU, het Nationaal Antikorruptiebureau van Oekraïne [2]. Zij zou met duizenden pagina's naar Europa zijn gevlucht, met \
+bewijs dat Zelensky via brievenbusfirma's meer dan 100 panden kocht, samen 1,2 miljard dollar waard [5]. Als bron \
+noemde de video een artikel van The London Telegraph [2]. Dat artikel noemde dezelfde getallen als de post, op Spanje \
+na: 26 in plaats van 6, samen 103 [2]. In april 2026 kwam een kortere versie terug, met 83 panden, \
+eerst in het Pools en het Duits [6] [13].
+
+The London Telegraph is geen krant. De naam londontelegraph.uk werd op 14 augustus 2025 geregistreerd, twaalf dagen \
+voor het artikel [3]. Bij de naam van de schrijver stond de foto van Helen Brown, een Britse journalist die onder meer \
+voor The Daily Telegraph schrijft en niets met het artikel te maken had [4]. Volgens Euronews stond er op de site bijna \
+niets behalve dit ene stuk, en klonk de Engelse stem in de video van 2025 door een computer gemaakt [5]. De registratie is op 14 augustus \
+2026 verlopen [3].
+
+De vrouw in de video werkte niet bij NABU. Dat zei NABU tegen Correctiv, en een woordvoerder zei het ook tegen AFP [6] \
+[13]. Volgens NABU heeft geen huidige of vroegere medewerker stukken gepubliceerd over panden van Zelensky in het \
+buitenland [6]. De documenten die wazig in beeld komen, zijn volgens Myth Detector stukken die het Oekraïense Openbaar \
+Ministerie en de veiligheidsdienst SBU op 22 juli 2025 lieten zien [8]. Die kwamen uit een huiszoeking bij familie van \
+parlementslid Fedir Khrystenko, in een zaak over gelekte gegevens van NABU, en gaan niet over Zelensky [7].
+
+Wat Zelensky bezit, staat in de vermogensverklaring die hij elk jaar openbaar maakt. Die over 2025 kwam op 30 maart \
+2026 [10]. Er staan appartementen in Kyiv in, waarvan twee in gedeeld bezit [9] [10]. Buiten Oekraïne noemen Slovo i \
+Dilo en Fakty ICTV één woning: een appartement in Groot-Brittannië, op naam van Olena Zelenska [9] [10]. Volgens Slovo i \
+Dilo heeft het echtpaar dat sinds 2014 in leasehold, een Brits recht van gebruik [9]. Aan de panden veranderde in 2025 \
+niets wezenlijks [9] [10]. Wel kocht het Italiaanse bedrijf San Tommaso, dat in de verklaring van Zelensky \
+stond, in 2017 een villa in Forte dei Marmi; dat meldde RFE/RL in 2019 op gezag van Slidstvo.info [14]. Volgens Slovo i \
+Dilo is Olena Zelenska nog altijd uiteindelijk begunstigde van dat bedrijf [9]. Of het de villa nog heeft, weten we \
+niet. Ook met die villa erbij is het hoogstens één pand in Italië, geen acht.
+
+Het verhaal van 2025 noemde ook Timur Mindich, mede-eigenaar van het productiebedrijf Kvartal 95 en een oude bekende van \
+Zelensky [2] [12]. Tegen Mindich loopt sinds november 2025 een echt onderzoek van NABU, naar smeergeld bij het \
+staatsbedrijf Energoatom [12]. NABU-directeur Semen Kryvonos zei op 12 mei 2026 dat Zelensky in dat onderzoek niet \
+voorkomt en nooit voorkwam [11]. Dat Mindich verdachte is, maakt het verhaal over 83 panden dus niet waar.
+
+Lead Stories, Euronews, Myth Detector, Demagog en Correctiv noemden het verhaal eerder onwaar [2] [5] [6] [8] [13]. Een \
+check in het Nederlands vonden we niet."""
+
+niet_weten = """
+We weten niet wie de video's maakte. Volgens NewsGuard, aangehaald door Demagog, lijkt de site op het werk van \
+Storm-1516, een Russische beïnvloedingsoperatie; dat konden we niet zelf nagaan [13]. Volgens Slovo i Dilo is Olena Zelenska ook uiteindelijk \
+begunstigde van bedrijven op Cyprus, in Italië en in Belize [9]. Het bedrijf in Italië kocht in 2017 een villa; of \
+het die nog heeft, staat niet in die berichten [14]. En we vonden één Nederlandse post; hoeveel er \
+waren, weten we niet."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+# De archiefkopie van de post [1] (19 november) zijn de openbare gegevens van X (cdn.syndication.twimg.com), met de tekst en
+# de datum; X zelf laat de Wayback Machine niet binnen. De kopie van de WHOIS [3] is van 4 september 2026, van vóór onze
+# opvraging van 18 november.
+nog_doen = []
+
+nog_uitzoeken = [
+  "Of NABU een eigen verklaring over de video heeft. Nu komt die alleen via CORRECTIV en AFP; op de site van NABU vonden we er geen.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 7 september 2026, 05:58."
+alt = "Screenshot van de post op X met de tekst over 83 panden van Zelensky in vijf landen en een beeld uit de video van een vrouw met een onherkenbaar gemaakt gezicht en het onderschrift Olena K., National Anti-Corruption Bureau of Ukraine. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2025-07-22"
+wat = "Het Openbaar Ministerie en de SBU tonen stukken over NABU uit een huiszoeking bij familie van parlementslid Fedir Khrystenko [7]."
+
+[[tijdlijn]]
+datum = "2025-08-14"
+wat = "De naam londontelegraph.uk wordt geregistreerd [3]."
+
+[[tijdlijn]]
+datum = "2025-08-26"
+wat = "Het artikel op londontelegraph.uk en de Engelse video over Olena K. verschijnen [2]."
+
+[[tijdlijn]]
+datum = "2025-08-27"
+wat = "Lead Stories noemt het verhaal onwaar [2]."
+
+[[tijdlijn]]
+datum = "2025-11-11"
+wat = "NABU maakt het onderzoek naar smeergeld bij Energoatom bekend; Mindich is verdachte [12]."
+
+[[tijdlijn]]
+datum = "2026-04-25"
+wat = "De versie met 83 panden verschijnt in het Pools en het Duits op X [6] [13]."
+
+[[tijdlijn]]
+datum = "2026-05-12"
+wat = "NABU zegt dat Zelensky niet voorkomt in het onderzoek naar Energoatom [11]."
+
+[[tijdlijn]]
+datum = "2026-08-14"
+wat = "De registratie van londontelegraph.uk verloopt [3]."
+
+[[tijdlijn]]
+datum = "2026-09-07"
+tijd = "05:58"
+wat = "De Nederlandse post met de 83 panden [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post met de bewering en de video"
+datum = "2026-09-07"
+prive = true
+archief = "https://web.archive.org/web/20261119125344/https://cdn.syndication.twimg.com/tweet-result?id=2096810277064913278&token=52zbnlgi6kj&lang=nl"
+
+[[bron]]
+nr = 2
+soort = "factcheck"
+uitgever = "Lead Stories"
+titel = "Fact Check: No Proof For Zelenskyy $1.2B Real Estate Empire In 'London Telegraph' Story: New Website Using Stolen Profile Picture"
+datum = "2025-08-27"
+url = "https://leadstories.com/hoax-alert/2025/08/fact-check-olena-k-zelenskyy-1-2-billion-real-estate.html"
+archief = "https://web.archive.org/web/20261116135716/https://leadstories.com/hoax-alert/2025/08/fact-check-olena-k-zelenskyy-1-2-billion-real-estate.html"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Nominet, via whois.com"
+titel = "Registratie van londontelegraph.uk, opgevraagd op 18 november 2026"
+datum = "2026-11-18"
+url = "https://www.whois.com/whois/londontelegraph.uk"
+archief = "https://web.archive.org/web/20260904140719/https://www.whois.com/whois/londontelegraph.uk"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "False claims and stolen bylines: The Russian propaganda strategy haunting the newsroom"
+datum = "2025-11-04"
+url = "https://www.euronews.com/2025/11/04/false-claims-and-stolen-bylines-the-russian-propaganda-strategy-haunting-the-newsroom"
+archief = "https://web.archive.org/web/20261020145134/https://www.euronews.com/2025/11/04/false-claims-and-stolen-bylines-the-russian-propaganda-strategy-haunting-the-newsroom"
+
+[[bron]]
+nr = 5
+soort = "factcheck"
+uitgever = "Euronews (EuroVerify)"
+titel = "Zelenskyy once again hit with false property empire allegations"
+datum = "2025-09-02"
+url = "https://www.euronews.com/my-europe/2025/09/02/zelenskyy-once-again-hit-with-false-property-empire-allegations"
+archief = "https://web.archive.org/web/20250910200707/https://www.euronews.com/my-europe/2025/09/02/zelenskyy-once-again-hit-with-false-property-empire-allegations"
+
+[[bron]]
+nr = 6
+soort = "factcheck"
+uitgever = "Correctiv"
+titel = "Selenskyj soll über 80 Auslandsimmobilien besitzen? Vermeintliche Belege sind gefälscht"
+datum = "2026-06-18"
+url = "https://correctiv.org/faktencheck/2026/06/18/selenskyj-soll-ueber-80-auslandsimmobilien-besitzen-vermeintliche-belege-sind-gefaelscht/"
+archief = "https://web.archive.org/web/20260621073339/https://correctiv.org/faktencheck/2026/06/18/selenskyj-soll-ueber-80-auslandsimmobilien-besitzen-vermeintliche-belege-sind-gefaelscht/"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Openbaar Ministerie van Oekraïne"
+titel = "Het OM en de SBU documenteren nieuwe lekken van vertrouwelijke gegevens van NABU"
+datum = "2025-07-22"
+url = "https://gp.gov.ua/ua/posts/ofis-generalnogo-prokurora-spilno-z-sbu-zadokumentuvali-novi-fakti-vitoku-z-nabu-informaciyi-z-obmezenim-dostupom"
+archief = "https://web.archive.org/web/20250722105511/https://gp.gov.ua/ua/posts/ofis-generalnogo-prokurora-spilno-z-sbu-zadokumentuvali-novi-fakti-vitoku-z-nabu-informaciyi-z-obmezenim-dostupom"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "Myth Detector"
+titel = "Disinformation Claims an Anti-Corruption Bureau Employee Discovered Zelenskyy's $1.2 Billion Property"
+datum = "2025-09-04"
+url = "https://mythdetector.com/en/anti-corruption-bureau-employee/"
+archief = "https://web.archive.org/web/20260122071842/https://mythdetector.com/en/anti-corruption-bureau-employee/"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Slovo i Dilo"
+titel = "De verklaring van Zelensky: de inkomsten van 2024 en 2025 vergeleken"
+datum = "2026-03-31"
+url = "https://www.slovoidilo.ua/2026/03/31/infografika/polityka/deklaracziya-zelenskoho-porivnyuyemo-doxody-2024-ta-2025-rokiv"
+archief = "https://web.archive.org/web/20260401102114/https://www.slovoidilo.ua/2026/03/31/infografika/polityka/deklaracziya-zelenskoho-porivnyuyemo-doxody-2024-ta-2025-rokiv"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "Fakty ICTV"
+titel = "De verklaring van Zelensky: 15,8 miljoen hryvnja inkomen en nieuwe handelsmerken"
+datum = "2026-03-31"
+url = "https://fakty.com.ua/ua/ukraine/20260331-deklaracziya-zelenskogo-158-mln-grn-dohodiv-i-novi-torgovelni-marky/"
+archief = "https://web.archive.org/web/20260415021649/https://fakty.com.ua/ua/ukraine/20260331-deklaracziya-zelenskogo-158-mln-grn-dohodiv-i-novi-torgovelni-marky/"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "Kyiv Post"
+titel = "Zelensky Not Part of 'Midas' Corruption Probe, NABU Says"
+datum = "2026-05-12"
+url = "https://www.kyivpost.com/post/75966"
+archief = "https://web.archive.org/web/20261023124703/https://www.kyivpost.com/post/75966"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Ukrainska Pravda"
+titel = "Operation Midas: five detained, seven served notices of suspicion"
+datum = "2025-11-11"
+url = "https://www.pravda.com.ua/eng/news/2025/11/11/8006815/"
+archief = "https://web.archive.org/web/20260505060948/https://www.pravda.com.ua/eng/news/2025/11/11/8006815/"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "Demagog"
+titel = "Zełenski nie posiada imperium nieruchomości za granicą. W tle rosyjska propaganda"
+datum = "2026-05-18"
+url = "https://demagog.org.pl/fake_news/zelenski-nie-posiada-imperium-nieruchomosci-za-granica-w-tle-rosyjska-propaganda/"
+archief = "https://web.archive.org/web/20260518185447/https://demagog.org.pl/fake_news/zelenski-nie-posiada-imperium-nieruchomosci-za-granica-w-tle-rosyjska-propaganda/"
+
+[[bron]]
+nr = 14
+soort = "nieuws"
+uitgever = "RFE/RL"
+titel = "Ukrainian Presidential Front-Runner Did Not Declare A 15-Room Italian Villa, Ukrainian Journalists Discover"
+datum = "2019-03-28"
+url = "https://www.rferl.org/amp/ukrainian-presidential-front-runner-did-not-declare-a-15-room-italian-villa-ukrainian-journalists-discover/29848105.html"

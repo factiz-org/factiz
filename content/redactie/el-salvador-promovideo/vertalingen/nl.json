@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video van gewapende robothond die soldaten voorgaat stond al in oktober online en is niet uit Haïti",
+  "oordeel_zin": "De clip stond op 7 oktober 2026 op TikTok, voordat El Salvador meer dan 2.000 militairen naar Haïti stuurde; gewapende robothonden zijn wel te zien in Bukele's eigen beelden van het stadion in Port-au-Prince, maar deze clip maakt daar geen deel van uit [3] [5] [8].",
+  "bewering": "Kijk wat deze Robothonden doen met de bendes in Haïti. Dit is een van de beste militaire uitvindingen ooit. Het brengt het aantal slachtoffers onder mensen (soldaten) terug tot het laagste niveau.",
+  "kort": "Sinds 14 november wordt een bericht op X verspreid met een video van een gewapende robothond die soldaten voorgaat, als zou dit laten zien wat robothonden doen met bendes in Haïti [1]. Een radiozender in Ecuador plaatste dezelfde clip op 7 oktober 2026 op TikTok, voordat El Salvador meer dan 2.000 militairen naar Haïti stuurde [3] [8]. Salvadoraanse troepen namen wel gewapende robothonden mee naar het nationale stadion in Port-au-Prince, maar die zijn te zien in de eigen video van president Bukele, niet in deze clip [5] [6].",
+  "tekst": "Op 14 november 2026 plaatste een account op X een video van 26 seconden met de tekst \"Kijk wat deze Robothonden doen met de bendes in Haïti.\" [1]. Het citeerde een bericht van hetzelfde account van een dag eerder, waarin stond dat El Salvador robothonden inzet om bendeleden in Haïti op te sporen [2]. In de video loopt een robothond met een geweer op zijn rug voor soldaten uit langs een muur met een camouflagepatroon, terwijl een drone rond een wit betonnen gebouw cirkelt [1].\n\nDe clip heeft een Spaans onderschrift, \"Perros robot con armamento\", de datum 07-10-2026 en het logo van Ritmo 93.9 [1]. Ritmo 93.9 is een radiozender in de provincie Pastaza in Ecuador [4]. De zender plaatste dezelfde clip op 7 oktober 2026 op TikTok, zonder een woord over Haïti of El Salvador, en schreef dat hij met AI gemaakt kon zijn [3]. Chinese tekst bovenaan de clip, deels verborgen achter het logo van de radiozender, noemt een bedrijf uit de provincie Shandong in China [1].\n\nElf dagen later, op 18 oktober, raakten vier Salvadoraanse luchtvaarttechnici vermist na een aanval van een bende in Haïti [8] [9]. Er waren daar al ongeveer 200 Salvadoranen aan het werk, vooral in medische ondersteuning [9]. Na de aanval stuurde El Salvador meer dan 2.000 militairen [8] [9].\n\nOp 12 november namen Haïtiaanse politie- en legereenheden samen met Salvadoraanse speciale eenheden het Sylvio Cator-stadion in Port-au-Prince in [5] [9]. Bukele plaatste een video van 76 seconden van de operatie op X [5]. In de laatste 20 seconden monteren soldaten geweren op robothonden op het veld en lopen de robots door blauwe gangen en de trap op [5] [7]. Volgens Newsweek is in de beelden niet te zien dat de robots schieten [6]. Het terrein met de camouflagemuur komt in Bukele's video niet voor [1] [5].",
+  "niet_weten": "We weten niet wie de clip heeft gefilmd, waar of wanneer, en ook niet of het echte beelden zijn. De oudste kopie die we vonden is die Ritmo 93.9 op 7 oktober plaatste [3]. We weten niet of de robothonden in Bukele's video aan gevechten hebben deelgenomen [6] [7].",
+  "bereik": "662 likes en 23 reacties op 23 november",
+  "nog_uitzoeken": [
+   "Wie de clip met de robothond en de drone heeft gemaakt, waar en wanneer die is gefilmd, en of het echte beelden zijn of met AI gemaakt.",
+   "Welk bedrijf uit Shandong de Chinese tekst bovenaan de clip noemt, aangezien een deel van de naam achter het logo van Ritmo 93.9 verborgen zit, en of dat bedrijf de beelden als eerste publiceerde.",
+   "Of de robothonden in Bukele's video van 12 november in Haïti aan gevechten hebben deelgenomen.",
+   "We hebben Misleidend afgewogen tegen Onwaar. De clip komt niet uit Haïti en laat niets zien van wat er daar met bendes gebeurt, maar Salvadoraanse troepen namen wel gewapende robothonden mee naar het stadion in Port-au-Prince. Weet u meer over de clip, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9 plaatst de clip op TikTok als een recent gedeelde video [3].",
+   "Vier Salvadoraanse luchtvaarttechnici raken vermist na een aanval van een bende in Haïti [8] [9].",
+   "Al Jazeera en AP melden meer dan 2.000 Salvadoraanse militairen in Haïti [8].",
+   "Haïtiaanse en Salvadoraanse troepen nemen het Sylvio Cator-stadion in Port-au-Prince in [9].",
+   "Bukele plaatst zijn video van de operatie, met aan het eind gewapende robothonden (UTC) [5].",
+   "Het account zegt dat El Salvador robothonden inzet om bendeleden in Haïti op te sporen (UTC) [2].",
+   "Newsweek bericht over de robothonden in Bukele's video (UTC) [6].",
+   "Hetzelfde account plaatst de clip van Ritmo 93.9 als robothonden in Haïti (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 14 november 2026, 20:08 UTC.",
+   "Ritmo 93.9 FM op TikTok, 7 oktober 2026: dezelfde clip, met hetzelfde onderschrift en dezelfde datum, vijf weken voordat Salvadoraanse troepen het stadion in Port-au-Prince innamen."
+  ],
+  "beeld_alt": [
+   "Het bericht op X van Benkingsley Nwashara met de tekst Kijk wat deze Robothonden doen met de bendes in Haïti, met een still uit de video: een soldaat met een geweer bij de hoek van een muur met een camouflagepatroon, het Spaanse onderschrift Perros robot con armamento en de datum 07-10-2026. Daaronder het geciteerde bericht van 13 november met een luchtfoto van een voetbalstadion. Stempel: MISLEIDEND.",
+   "Still uit de TikTok-video van Ritmo 93.9: een robothond met een geweer op een zandterrein naast een muur met een camouflagepatroon, met het onderschrift Perros robot con armamento en de datum 07-10-2026."
+  ]
+ }
+}

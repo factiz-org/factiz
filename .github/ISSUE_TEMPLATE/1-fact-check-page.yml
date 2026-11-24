@@ -1,0 +1,43 @@
+name: A fact-check page is wrong
+description: A page on factiz.org shows a wrong verdict, merges two different claims, names someone it should not, or links to the wrong article.
+title: "Page: "
+labels: ["archive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking our work. We never judge claims ourselves, so most mistakes are in how we read or connect a newsroom's fact-check. Tell us what you see; a link to the newsroom's own article helps most.
+
+        If the page names a private person or a child and you want it taken down quickly, write to info@factiz.org instead of opening a public issue.
+  - type: input
+    id: page
+    attributes:
+      label: Page on factiz.org
+      placeholder: https://factiz.org/fact-checks/...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - The verdict does not match what the newsroom wrote
+        - Two different claims are on one page
+        - The claim is in the wrong language or badly cut
+        - A link is broken or goes to the wrong article
+        - A newsroom or date is wrong
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What you see, and what it should be
+      description: Quote the part of the page that is wrong, and what the newsroom's article says instead.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: The newsroom's article
+      placeholder: https://

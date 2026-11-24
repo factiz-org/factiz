@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck kiev-martelkelder van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1 (direct, met herinnering); doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "b2134af515c3348f",
+ "veldafdrukken": {
+  "kop": "5a70debfa3b45c55",
+  "oordeel_zin": "c8f3bc32c55fe083",
+  "bewering": "6d30fd023112be5c",
+  "kort": "f3a50c150a2eee9c",
+  "tekst": "683d12caa198e9d5",
+  "niet_weten": "18bfdb54b10715d9",
+  "bereik": "251ea57543ab84f6",
+  "nog_uitzoeken": "20ce8325de6da464",
+  "tijdlijn": "c62d76ca1375694b",
+  "beeld_bijschrift": "c65cb4a326e3c662",
+  "beeld_alt": "26da6a5b30f32430"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1 (direct, met herinnering)",
+ "velden": {
+  "kop": "Vídeo de Kyiv não mostra um menino sendo libertado de um porão de tortura",
+  "oordeel_zin": "As imagens são reais, mas o menino caiu de um muro para dentro do terreno da Guarda Nacional durante um protesto; nenhum porão de tortura foi encontrado ali [1] [2] [3].",
+  "bewering": "Lembre-se do rosto deste menino de 14 anos, que foi retirado de uma câmara de tortura do Azov perto de Kiev.",
+  "kort": "Desde a noite de 2 de novembro, circulam em holandês um vídeo e uma foto de um menino com um cobertor cinza, que teria sido libertado de um porão de tortura ucraniano perto de Kyiv [13]. As imagens são reais e vêm de um protesto em frente a uma casa da Guarda Nacional em Petropavlivska Borshchahivka, na periferia de Kyiv [2] [3]. O menino, de 14 anos, subiu no muro durante esse protesto e caiu dentro do terreno; ele não estava sendo mantido ali [1] [3].",
+  "tekst": "Uma unidade da Guarda Nacional usava a casa como alojamento provisório para homens mobilizados que aguardavam o início do treinamento [2] [4]. Em 2 de novembro, passou a circular na internet que homens armados mantinham cerca de 40 pessoas num porão e as torturavam. A polícia classificou isso como falso naquela mesma tarde [5]. Mesmo assim, uma multidão se dirigiu ao local e, à noite, ovos, garrafas e pedras foram atirados contra a polícia e a Guarda Nacional [3].\n\nUm repórter do The Kyiv Independent viu o menino subir em uma árvore e no muro, xingar os soldados, atirar pedras e depois cair do muro para dentro do terreno [3]. Segundo o Serviço Estatal para a Infância da Ucrânia, ele mora nas proximidades, foi ao protesto depois da escola e caiu quando pessoas começaram a sacudir o portão [1]. Lá dentro, foi enrolado em um cobertor. A irmã dele foi buscá-lo naquela noite, e ele foi internado no hospital infantil de Kyiv, sem risco de vida [1]. Essa saída é o que o vídeo mostra: um menino de cobertor sendo conduzido para longe pela multidão.\n\nNenhum porão de tortura foi encontrado. Um veterano que entrou na casa naquela noite disse ao veículo de jornalismo investigativo Slidstvo.Info que não viu nenhum local de tortura [2]. O boato partiu de uma mulher com uniforme de ambulância, que dizia ter um serviço de ambulância. Esse serviço não funciona mais desde 2023 [2] [4]. A polícia a deteve em 3 de novembro e fala em provocação planejada [6].\n\nEm holandês, o vídeo já estava no X em 2 de novembro, às 22h25, com a alegação de que o menino teria sido torturado com uma pá [13]. Um dia depois, a embaixada da Rússia nos Países Baixos compartilhou as mesmas imagens em inglês [12]. A VRT NWS classificou a alegação como falsa em 5 de novembro, e a AFP Factcheck Nederland seguiu em 12 de novembro [10] [11].",
+  "niet_weten": "Ainda não está claro se houve violência dentro da casa. O menino diz, em um vídeo próprio, que foi agredido lá dentro; o ministro do Interior nega isso [1] [9]. Militares que ficaram alojados ali reclamaram de agressões ao ombudsman militar, e o Departamento Estatal de Investigação está apurando o caso [7] [8]. Isso não muda o que o vídeo mostra: um menino que caiu para dentro do terreno durante o protesto, não um prisioneiro sendo libertado. Também não está comprovado se a Rússia orquestrou o protesto; o que se sabe é que redes russas amplificaram a história depois [14].",
+  "bereik": "no Facebook, em holandês, mais de 1.200 compartilhamentos, segundo a AFP",
+  "nog_uitzoeken": [
+   "O que a investigação do Staatsbureau voor Onderzoek vai revelar. Se houver novidades, atualizaremos esta checagem, com a data.",
+   "Se a frase \"Onthoud het gezicht van deze 14-jarige\" já circulou antes em outro idioma."
+  ],
+  "tijdlijn": [
+   "A polícia classifica como falsas as mensagens sobre pessoas trancadas e um morto [5].",
+   "À noite: o menino sobe no muro, cai dentro do terreno e é conduzido para fora com um cobertor [3].",
+   "O vídeo aparece em holandês no X, com a alegação de câmara de tortura [13].",
+   "A embaixada da Rússia nos Países Baixos compartilha as imagens [12].",
+   "O Serviço Estatal para a Infância: o menino caiu do portão e está no hospital [1].",
+   "VRT NWS: falso, a primeira verificação em holandês [10].",
+   "A AFP Factcheck Nederland publica a sua verificação [11].",
+   "Militares reclamam ao ombudsman de agressões no local [8]."
+  ],
+  "beeld_bijschrift": [
+   "Imagem do vídeo no X, 2 de novembro de 2026. O menino tem 14 anos; os rostos no meio estão desfocados.",
+   "As imagens da agência UNIAN da saída do menino, no LIGA.net, 2 de novembro de 2026."
+  ],
+  "beeld_alt": [
+   "Imagem congelada do vídeo: no escuro, uma multidão com celulares em volta de um militar de camuflagem; os rostos no meio estão desfocados. Carimbo: FALSO.",
+   "A reportagem do LIGA.net com o vídeo da UNIAN."
+  ]
+ }
+}

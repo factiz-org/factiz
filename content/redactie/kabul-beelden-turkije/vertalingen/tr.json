@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck kabul-beelden-turkije van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "49291058a1e10941",
+ "veldafdrukken": {
+  "kop": "2f8eaae2bafdd900",
+  "oordeel_zin": "9fdeee9fad6e3384",
+  "bewering": "78cba22578fa9c0a",
+  "kort": "f0489b0486d3aec6",
+  "tekst": "be06e8a18136d46c",
+  "niet_weten": "0febbc803080a097",
+  "bereik": "46f43bf117027708",
+  "nog_uitzoeken": "c9a6342748359bd6",
+  "tijdlijn": "71a1685d2918abaf",
+  "beeld_bijschrift": "0605bdb69b6ae6ce",
+  "beeld_alt": "856248c240f3a55f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bir Apache ile bir C-17'nin videosu 2021'de Kabil'de çekildi, Türkiye'de değil",
+  "oordeel_zin": "Görüntüler 16 Ağustos 2021'de Kabil Havalimanı'nda çekildi ve Eylül 2026'da Amerikan hava kuvvetleri hâlâ İncirlik'teydi [1] [3].",
+  "bewering": "Amerikan kargo uçakları Türkiye'deki hava üssündeki her şeyi alıp götürüyor ve sonsuza dek ayrılıyor.",
+  "kort": "27 Ağustos'ta X'te, Amerikan uçaklarının Türkiye'deki bir üssü sonsuza dek terk ettiğini öne süren bir video dolaştı [4]. Görüntüler 16 Ağustos 2021'e ait ve Kabil Havalimanı'nda çekildi; orada bir Apache helikopteri insanları bir C-17'den uzaklaştırıyordu [1] [2]. Eylül ayında Amerikan hava kuvvetleri, Türkiye'deki İncirlik Üssü'nde faaliyetleri hâlâ normal şekilde bildirdi [3] [6].",
+  "tekst": "27 Ağustos Perşembe günü saat 19:04'te Felemenkçe yayın yapan bir X hesabı 37 saniyelik bir video paylaştı [4]. Metinde, Amerikan kargo uçaklarının \"Türkiye'deki hava üssünden\" ekipman ve malzemeleri Amerika Birleşik Devletleri'ne geri götürdüğü ve üssü tamamen terk ettiği yazıyor [4]. Hangi üs olduğunu paylaşım söylemiyor [4]. 18 Kasım'da 9.252 kez izlenmişti [4].\n\nAynı iddia sekiz saat önce, saat 11:15'te, aynı uzunlukta bir videoyla X'te İngilizce olarak yer almıştı [5]. Bu paylaşım 685.711 kez izlendi [5]. Felemenkçe metin bunun bir çevirisine benziyor [4] [5].\n\nGörüntüler beş yıllık. Amerika'nın Afganistan'dan tahliyesinin yaşandığı günlerde, 16 Ağustos 2021 Pazartesi günü Kabil Havalimanı'nda çekildi [1] [2]. O sırada büyük Afgan grupları, taksi yapan bir C-17'nin çevresinde pistte yürüyordu [1]. Amerikan ordusuna ait bir Apache helikopteri, onları uzaklaştırmak için yere çok yakın uçtu [1] [2]. The War Zone videoyu aynı gün, kaynak olarak bir sosyal medya paylaşımını göstererek yayımladı [1]. The Aviationist sahneyi bir gün sonra anlattı [2].\n\nYani video, 2026'da Türkiye hakkında hiçbir şey söylemiyor [1] [4]. C-17, Amerikan hava kuvvetlerine ait büyük bir nakliye uçağıdır; bu tür uçaklar 2021'de Kabil'den yapılan hava köprüsünde uçtu [2].\n\nAmerikalılar Türkiye'den de ayrılmadı. 18 ve 19 Eylül'de 39th Air Base Wing'in askerleri İncirlik Üssü'nde savaş esirleri ve kayıplar için 24 saatlik bir anma düzenledi [3]. 25 Eylül'de aynı birim, 949 günlük bir yenilemenin ardından askerler için odaların bulunduğu bir binayı orada yeniden açtı [6]. Her iki haber de doğrudan Amerikan silahlı kuvvetlerinden geliyor [3] [6].",
+  "niet_weten": "Görüntüleri Türkiye ile ilk kimin ilişkilendirdiğini bilmiyoruz. Bu açıklamayı içeren bulabildiğimiz en eski paylaşım, 27 Ağustos saat 11:15'teki İngilizce paylaşım. Videoyu 2021'de kimin çektiğini de bilmiyoruz. Ağustos 2026'da Türkiye'deki Amerikan askerlerinde bir değişiklik olup olmadığını daha fazla araştırmadık; okuduğumuz Eylül ayına ait iki haberde bir ayrılıktan söz edilmiyor.",
+  "bereik": "18 Kasım'da 9.252 kez izlendi",
+  "nog_uitzoeken": [
+   "Ağustos 2026 sonunda, gönderinin açıklayabileceği Türkiye'deki Amerikan askerlerine ilişkin bir haber olup olmadığı."
+  ],
+  "tijdlijn": [
+   "Kabil Havalimanı'nda bir Apache, insanları bir C-17'den uzaklaştırıyor; The War Zone videoyu yayımlıyor [1].",
+   "The Aviationist aynı sahneyi anlatıyor [2].",
+   "İngilizce bir paylaşım videoyu, Türkiye'deki bir üssü terk eden Amerikalılar olarak sunuyor [5].",
+   "Aynı iddiayı içeren Felemenkçe paylaşım [4].",
+   "İncirlik Üssü'nde 24 saatlik anma [3].",
+   "İncirlik'te yenilenen, askerler için odaların bulunduğu bir bina yeniden açılıyor [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 27 Ağustos 2026, 19:04.",
+   "The War Zone, 16 Ağustos 2021: Kabil Havalimanı'nda bir Apache, Afganları bir C-17'den uzaklaştırıyor."
+  ],
+  "beeld_alt": [
+   "Videodan durağan görüntü: büyük bir nakliye uçağının yanında, bir pistin üzerinde alçakta uçan bir helikopter. Damga: YANLIŞ.",
+   "The War Zone'daki video: Kabil pistinin üzerinde, bir C-17'nin yanında bir Apache helikopteri."
+  ]
+ }
+}

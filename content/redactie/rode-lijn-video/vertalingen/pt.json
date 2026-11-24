@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de 'ativistas da Rode Lijn' e da polícia foi filmado no protesto contra o data center em Sloterdijk",
+  "oordeel_zin": "O vídeo é real, mas vem da ocupação de um canteiro de obras em 6 de novembro e já estava no X antes de a Rode Lijn começar [8].",
+  "bewering": "Ativistas da Rode Lijn avisam a polícia.",
+  "kort": "Em 8 de novembro circulou um vídeo de um manifestante falando com um policial, como imagem de ativistas da Rode Lijn. A cena foi filmada dois dias antes, durante a ocupação do canteiro de obras de um data center para a Microsoft em Sloterdijk [1] [2]. O vídeo já estava no X antes de a manifestação da Rode Lijn começar na Museumplein [5] [8].",
+  "tekst": "No domingo, 8 de novembro, às 12h23, apareceu no X um vídeo de 28 segundos com o texto \"Ativistas da Rode Lijn avisam a polícia.\" [8]. Meia hora depois, começou na Museumplein, em Amsterdã, a quarta manifestação da Rode Lijn [5].\n\nA própria cena também está na AT5. A AT5 a postou no X na sexta-feira, 6 de novembro, às 15h49, como uma discussão acalorada entre um policial e um manifestante [2]. No blog ao vivo daquela tarde, a AT5 descreve como um manifestante diz a um policial que ele deve tomar cuidado, ao que o policial pergunta se está sendo ameaçado [1]. Isso foi do lado de fora das cercas do canteiro de obras na Plimsollweg, enquanto a ME desocupava o terreno [1].\n\nA ocupação foi uma ação do grupo Geef Tegengas contra a construção de um data center para a Microsoft [3]. Manifestantes pró-Palestina também participaram, e havia bandeiras palestinas no terreno [3] [9]. A ME usou cassetetes e spray de pimenta [9]. A polícia deteve 218 pessoas, que um dia depois já estavam todas livres [4].\n\nO vídeo da postagem já estava no X no sábado, 7 de novembro, às 18h46, em outra conta. Deduzimos isso do número que o X dá a cada vídeo, pois nele está contido o momento do upload. O mesmo cálculo dá, para o vídeo da AT5, exatamente a hora da postagem deles [2] [8].\n\nNa própria Rode Lijn a polícia também atuou. Às 15h34, na Overtoom, ela usou cassetetes durante uma detenção [6]. Esse não pode ser o vídeo da postagem, pois ele já estava lá três horas antes [8]. A polícia classificou a manifestação como calma e controlada, com quatro detenções [6]. Segundo a organização, pelo menos 200.000 pessoas participaram da caminhada [7]. O trajeto foi da Museumplein por Oud-West e de volta, não por Sloterdijk [5].",
+  "niet_weten": "Não sabemos quem foi o primeiro a dar outra interpretação ao vídeo. A conta que o colocou no X em 7 de novembro nós encontramos, mas não a postagem em si, e portanto também não o que estava escrito nela. Se o manifestante depois participou da Rode Lijn, não sabemos. A postagem também não trata disso: ela mostra uma cena de 6 de novembro como se fosse de 8 de novembro.",
+  "bereik": "Visualizado 68.296 vezes em 18 de novembro",
+  "nog_uitzoeken": [
+   "O que dizia a postagem de 7 de novembro. Encontramos a conta, mas não a postagem.",
+   "Quem lê a postagem como \"isto aconteceu na Linha Vermelha\" pode defender o veredito falso. Nós escolhemos enganoso."
+  ],
+  "tijdlijn": [
+   "A AT5 coloca no X o vídeo da discussão no canteiro de obras [2].",
+   "Os 218 manifestantes detidos já estão todos livres [4].",
+   "O vídeo da postagem aparece no X, em outra conta [8].",
+   "A postagem com o texto sobre ativistas da Rode Lijn [8].",
+   "A manifestação da Rode Lijn começa na Museumplein [5].",
+   "A polícia usa cassetetes durante uma detenção na Overtoom [6]."
+  ],
+  "beeld_bijschrift": [
+   "Postagem no X, 8 de novembro de 2026, 12h23.",
+   "AT5 no X, 6 de novembro de 2026, 15h49: a mesma discussão no canteiro de obras em Sloterdijk."
+  ],
+  "beeld_alt": [
+   "Imagem parada do vídeo: um manifestante e um policial junto a uma cerca. Carimbo: ENGANOSO.",
+   "O vídeo da AT5 da discussão entre um manifestante e um policial."
+  ]
+ }
+}

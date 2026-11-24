@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van de eigen factcheck huang-citaten van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "f6c108d1598d69c5",
+ "veldafdrukken": {
+  "kop": "8352433f95dc153b",
+  "oordeel_zin": "7fe4e7e4003d7324",
+  "bewering": "7a68058bd4c0c68d",
+  "kort": "419b49c08384fd84",
+  "tekst": "859bdcf1a7f3cfeb",
+  "niet_weten": "16a6e002a397d90a",
+  "bereik": "ede32074295547d0",
+  "nog_uitzoeken": "7c2957ecf1bbeee9",
+  "tijdlijn": "4f215e483240391a",
+  "beeld_bijschrift": "3e9e876c810b3ee8",
+  "beeld_alt": "130ae89ac139bc3c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Este \"comunicado oficial\" de Jensen Huang é inventado: a Nvidia nunca o publicou",
+  "oordeel_zin": "A Nvidia nunca publicou este comunicado, e o e-mail de Huang que a empresa de fato publicou, três dias antes da data da carta, diz o oposto: ele pediu desculpas e assumiu total responsabilidade [1] [5].",
+  "bewering": "URGENTE: JENSEN HUANG FINALMENTE QUEBRA O SILÊNCIO [...]",
+  "kort": "Em 12 de novembro, uma publicação no X mostrou um \"comunicado oficial\" da Nvidia, datado de 11 de novembro, no qual Jensen Huang nega as notícias sobre ele [6]. A Nvidia nunca o publicou: sua sala de imprensa não tem nenhum item de 11 de novembro, e a única mensagem de Huang que a empresa publicou é um e-mail de 8 de novembro no qual ele pediu desculpas [1] [5]. Em suas primeiras palavras públicas após renunciar, em 17 de novembro, Huang escreveu que cometeu erros graves [7] [9].",
+  "tekst": "Em 8 de novembro, o conselho da Nvidia abriu uma investigação independente após notícias de que Huang teria sido alvo de uma ação de inteligência estrangeira [2]. No mesmo dia, a Nvidia publicou um e-mail que Huang enviou aos funcionários, no qual ele pediu desculpas, assumiu total responsabilidade e prometeu cooperar plenamente [1]. Em 12 de novembro, a Nvidia anunciou que ele havia renunciado ao cargo de CEO e ao de conselheiro [4]. O comunicado não traz nenhuma fala dele [4].\n\nÀs 03:29 UTC de 12 de novembro, uma conta no X publicou que Huang havia \"finalmente\" quebrado o silêncio [6]. Junto vinha a imagem de uma carta sob o logotipo da Nvidia, intitulada \"Official Statement\", datada de 11 de novembro e assinada por Huang, na qual ele afirma que as notícias recentes sobre ele são completamente falsas [6]. A publicação não citava nenhuma fonte, e seu autor a apagou desde então [6].\n\nA sala de imprensa da Nvidia não tem nenhum item datado de 11 de novembro, e nenhum dos seus quatro itens sobre a investigação e a mudança de liderança contém uma negação de Huang [1] [2] [3] [4] [5]. A carta também contradiz o e-mail que ele de fato enviou, três dias antes da data dela [1]. E tem um erro de digitação: \"cntire\" em vez de \"entire\" [6].\n\nEm 17 de novembro, na sua própria conta no X, Huang escreveu que cometeu erros graves e lamenta profundamente os problemas que criou para o conselho [7] [9]. Ele escreveu que se sentiria honrado em voltar como CEO, se o conselho decidisse que isso é o melhor [8] [9]. No mesmo dia, o presidente do conselho, Harvey Jones, disse que o conselho não pretende reintegrá-lo [8].\n\nA única negação do lado de Huang que encontramos veio em 20 de novembro, quando seu porta-voz descartou como invenções as acusações do The New York Times sobre como ele tratava os funcionários [13]. Essas são outras reportagens, publicadas depois da data da carta [13].",
+  "niet_weten": "Não sabemos quem fez a carta, nem se ela apareceu antes em outro lugar [6]. Vimos uma publicação com ela [6]. Não encontramos nenhuma notícia de que Huang tenha falado com jornalistas entre 8 e 17 de novembro [8] [9] [10].",
+  "bereik": "90 curtidas e 21 respostas em 19 de novembro; apagada pelo autor até 23 de novembro",
+  "nog_uitzoeken": [
+   "Quem fez a carta e onde ela apareceu primeiro, em inglês ou em outro idioma.",
+   "Quantas publicações traziam a carta. Vimos uma, já apagada pelo autor; uma segunda publicação sobre o mesmo assunto, de 12 de novembro, também foi apagada.",
+   "Se outras mensagens em nome de Huang, como uma mensagem de despedida, também circularam, e se essas também são inventadas.",
+   "Se Huang disse algo a jornalistas entre o e-mail de 8 de novembro e a publicação de 17 de novembro."
+  ],
+  "tijdlijn": [
+   "O conselho da Nvidia abre uma investigação independente [2]. A Nvidia publica o e-mail de Huang aos funcionários, com um pedido de desculpas [1].",
+   "Os conselheiros independentes contratam um advogado externo e o escritório dele para a investigação [3].",
+   "Uma publicação no X mostra o \"comunicado oficial\" datado de 11 de novembro, no qual Huang nega as notícias [6].",
+   "A Nvidia anuncia que Huang renunciou; o comunicado não traz nenhuma fala dele [4].",
+   "Uma carta em nome de executivos da Nvidia, exigindo a volta de Huang, se revela uma cópia quase idêntica de uma carta de 2023 de funcionários da OpenAI [11].",
+   "Primeira declaração pública de Huang desde que renunciou, na sua própria conta no X [7] [9].",
+   "O presidente do conselho, Harvey Jones: o conselho não pretende reintegrar Huang [8].",
+   "O porta-voz de Huang chama de invenções as acusações do The New York Times sobre como Huang tratava os funcionários [13].",
+   "O presidente Trump diz que gostaria que Huang tivesse uma segunda chance; o conselho continua sem planos de reintegrá-lo [12].",
+   "A publicação com a carta não está mais no X: o autor a apagou [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 12 de novembro de 2026, 03:29 UTC, apagada desde então pelo autor."
+  ],
+  "beeld_alt": [
+   "Uma publicação no X dizendo que Jensen Huang quebrou o silêncio, com a imagem de uma carta sob o logotipo da Nvidia intitulada Official Statement, datada de 11 de novembro de 2026, na qual Huang nega as notícias sobre ele. Carimbo: FALSO."
+  ]
+ }
+}

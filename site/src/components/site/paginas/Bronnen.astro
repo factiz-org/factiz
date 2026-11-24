@@ -1,0 +1,32 @@
+---
+// De site, bronnen en licenties (PLAN #34.2t): elke bron van de uitgave met haar licentie, de naamsvermelding die ze
+// vraagt en de link. Het oordeel en het artikel zijn van de redactie; wij noemen waar elk gegeven vandaan komt.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={g.titel} omschrijving={g.inleiding} taal={taal} delen={['sources']} aangeboden={TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[g.titel]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{g.inleiding}</p>
+    </header>
+    <div class="mt-8 grid max-w-[var(--maat-tekst)] gap-4">
+      {g.bronnen.map((b) => (
+        <section class="paneel vak">
+          <h2 class="kaartkop">{b.naam}</h2>
+          <dl class="grid gap-x-4 gap-y-1.5 text-[14px] sm:grid-cols-[10rem_minmax(0,1fr)]">
+            <dt class="text-[var(--zacht)]">{g.licentie_kop}</dt><dd class="min-w-0">{b.licentie}</dd>
+            <dt class="text-[var(--zacht)]">{g.vermelding_kop}</dt><dd class="min-w-0">{b.naamsvermelding}</dd>
+            {b.meting && <><dt class="text-[var(--zacht)]">{g.meting_kop}</dt><dd class="min-w-0">{b.meting}</dd></>}
+          </dl>
+          {b.url && <p class="text-[13.5px]"><a class="link break-all" href={b.url} rel="noopener">{b.url}</a></p>}
+        </section>
+      ))}
+    </div>
+  </div>
+</Site>

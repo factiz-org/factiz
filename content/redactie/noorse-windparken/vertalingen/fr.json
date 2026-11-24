@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Les parcs éoliens norvégiens de Storheia et de Roan ne sont pas démantelés, et des rennes difformes n'y ont joué aucun rôle",
+  "oordeel_zin": "Le juge a statué en 2021 sur les pâturages des éleveurs de rennes samis, et non sur des malformations, et après deux accords les 151 éoliennes continuent de tourner [1] [2] [3].",
+  "bewering": "La Norvège démantèle des parcs éoliens parce que les éoliennes font naître des rennes difformes.",
+  "kort": "Depuis le 11 août, un message circule sur X selon lequel la Norvège démantèle deux parcs éoliens parce que des rennes difformes y naissent [9]. La Cour suprême de Norvège a déclaré en 2021 les permis de Storheia et de Roan invalides parce que les éleveurs de rennes samis avaient perdu leurs pâturages d'hiver, et non pour des raisons liées à la santé des animaux [1]. Après des accords en décembre 2023 et en mars 2024, les 151 éoliennes continuent de tourner [2] [3].",
+  "tekst": "Le message sur X évoque deux parcs éoliens totalisant 151 éoliennes, Storheia et Roan, sur la péninsule de Fosen, dans le centre de la Norvège [9]. Ces parcs existent : Storheia compte 80 éoliennes et Roan 71, et les deux ont ouvert en 2019 [4]. Le message contient un lien vers une revue spécialisée allemande d'octobre 2021, qui écrivait alors que les 151 éoliennes devaient disparaître [5] [9].\n\nLe procès a bien eu lieu. Le 11 octobre 2021, la Cour suprême de Norvège a jugé à l'unanimité que les permis des deux parcs étaient invalides [1]. Les parcs portaient atteinte au droit des éleveurs de rennes samis de Fosen de pratiquer leur propre culture, droit inscrit à l'article 27 du Pacte international relatif aux droits civils et politiques de l'ONU [1]. L'essentiel était que, dans la pratique, les rennes avaient perdu les pâturages d'hiver situés près des parcs, ce qui menaçait l'élevage de rennes à Fosen [1].\n\nLe jugement ne dit rien de la santé des rennes, ni de veaux difformes [1]. La Cour n'a pas non plus précisé ce qu'il devait advenir des éoliennes [4].\n\nElles n'ont pas été démantelées. En décembre 2023, les éleveurs de rennes de Sør-Fosen ont conclu un accord sur Storheia, comprenant des terres supplémentaires, une indemnisation et un droit de veto sur toute nouvelle énergie éolienne après la fin du permis [2]. L'Institut norvégien des droits humains a écrit que cet accord semble mettre fin à la violation [2]. Le 6 mars 2024, un accord a suivi pour Roan : 7 millions de couronnes par an jusqu'à l'expiration du permis en 2043, puis un nouveau permis seulement si les éleveurs de rennes y consentent [3]. L'électricité continue d'être produite [3].\n\nLes rennes difformes proviennent d'une lettre de lecteur parue le 9 octobre 2023 dans la Landshuter Zeitung, un journal bavarois [6] [7]. La lettre attribuait les malformations aux vibrations des éoliennes, puis a circulé sur Facebook et sur X [6]. L'AFP a interrogé six chercheurs spécialistes des rennes en Norvège, en Suède et en Autriche, et aucun d'eux ne connaissait d'étude démontrant des malformations ou des fausses couches dues aux éoliennes [6]. Il ressort en revanche de recherches que les rennes évitent les zones autour des éoliennes, surtout à l'époque de la mise bas [6].\n\nL'histoire n'est donc pas nouvelle. Début 2024, l'EDMO, le réseau européen de vérificateurs de faits, signalait qu'elle circulait aussi dans une traduction néerlandaise [11].",
+  "niet_weten": "Nous ne savons pas qui a traduit en premier la lettre de 2023 en néerlandais, ni si le message d'août en découle. Nous n'avons pas lu la lettre elle-même ; ce qu'elle contenait, nous le savons par les vérifications de l'AFP et de Mimikama. Que les éoliennes tournent encore aujourd'hui, nous le déduisons d'Aneo, du Store norske leksikon et d'Euronews ; nous n'avons pas vu de chiffres de production postérieurs à septembre 2026.",
+  "bereik": "101 303 vues le 18 novembre",
+  "nog_uitzoeken": [
+   "Si une vérification en néerlandais existait déjà en 2023 ou 2024, chez Nieuwscheckers, Factcheck Vlaanderen ou Knack.",
+   "Le procès est réel, la démolition et les rennes difformes ne le sont pas. Nous avons retenu « faux » ; « trompeur » est aussi défendable."
+  ],
+  "tijdlijn": [
+   "La Cour suprême de Norvège déclare invalides les permis de Storheia et de Roan [1].",
+   "Agrarheute écrit que les 151 éoliennes doivent disparaître [5].",
+   "Une lettre de lecteur dans la Landshuter Zeitung évoque des veaux de rennes difformes [6].",
+   "AFP Faktencheck : il n'existe aucune preuve de malformations dues aux éoliennes [6].",
+   "Mimikama parvient à la même conclusion [7].",
+   "L'Institut norvégien des droits humains annonce l'accord pour Storheia [2].",
+   "Accord pour Roan ; les éoliennes continuent de tourner [3].",
+   "Le message sur le démantèlement et les rennes difformes sur X [9].",
+   "AFP Factcheck Nederland vérifie le message [8].",
+   "Euronews : nulle part on n'a décrit de rennes présentant des malformations dues aux éoliennes [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 11 août 2026, 20 h 15, avec un lien vers agrarheute datant de 2021."
+  ],
+  "beeld_alt": [
+   "Capture d'écran d'une publication sur X à propos de parcs éoliens norvégiens et de rennes difformes, avec une carte de lien d'une revue spécialisée allemande. Tampon : FAUX."
+  ]
+ }
+}

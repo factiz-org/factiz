@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Karalanmış bir Anne Frank heykeli görseli yapay zekâ ile üretildi",
+  "oordeel_zin": "Görsel var olmayan bir heykeli gösteriyor ve Ağustos 2024'ten beri herhangi bir karalama bildirilmedi [5] [6].",
+  "bewering": "Amsterdam'daki Anne Frank heykeli karalanmış.",
+  "kort": "8 Kasım'dan beri X'te, az önce karalanmış olduğu öne sürülen bir Anne Frank heykelinin görseli dolaşıyor [9]. Görsel yapay zekâ ile üretildi ve var olmayan bir heykeli gösteriyor [5]. Amsterdam'daki Merwedeplein'de bulunan gerçek heykel Temmuz ve Ağustos 2024'te karalandı, o günden beri yeni bir karalama bildirilmedi [1] [6].",
+  "tekst": "Amsterdam'da Anne Frank'in iki heykeli var. Biri Westerkerk'in yanında, Anne Frank Evi'ne çok yakın. Diğeri Rivierenbuurt'taki Merwedeplein'de, Frank ailesinin 1933'ten 1942'ye kadar yaşadığı evin karşısında. Jet Schepp'in yaptığı bu ikinci heykel, pembe taştan bir sütun üzerinde duran, okul çantalı ve meydana dönüp bakan bronz bir kız çocuğu [4].\n\nMerwedeplein'deki bu heykel 2024'te iki kez karalandı. 9 Temmuz'da kaidenin üzerine kırmızı boyayla \"Gaza\" yazıldı, ayaklarının yanında kırmızı lekeler vardı; ilçe yönetimi aynı gün temizletti [3] [8]. 3 Ağustos'u 4 Ağustos'a bağlayan gece \"Free Gaza\" yazıldı ve heykelin elleri kırmızıya boyandı; bu, Achterhuis'te saklananların tutuklanmasından tam 80 yıl sonraydı [1] [2]. O gece Amsterdam-Zuid'de en az altı heykel karalandı [2].\n\nŞimdi dolaşan görsel ise başka bir şey. Avustralya haber ajansının doğrulama editörlüğü AAP FactCheck, görseli 6 Kasım'da Facebook'ta ve X'te buldu: boynunda keffiyeh bulunan bir Anne Frank heykeline \"Free Palestine\" püskürten maskeli bir kişi [5]. Bu heykel Amsterdam'daki iki heykelden hiçbirine benzemiyor. Yanındaki levhada günlükten yanlış bir alıntı var, içinde bir yazım hatası da bulunuyor [5].\n\nYeni bir karalama bulamadık. Anne Frank Evi, Ağustos 2024'ten beri heykelle ilgili hiçbir şey bildirmiyor [7]. Belediye başkanı Eylül 2025'te Merwedeplein'deki kamera gözetimini uzattığında, belediye gerekçe olarak yalnızca 2024'teki iki karalamayı gösterdi [6]. Kendisi de yakın zamandaki karalamaları arayan AAP de yalnızca 2024'tekileri buldu [5].",
+  "niet_weten": "Görseli kimin yaptığını bilmiyoruz. Ekim ve Kasım 2026'da karalama olmadığı sonucunu, Anne Frank Evi'nde, NOS'ta ve belediyede bulunmayan haberlerden çıkarıyoruz. Polisin haberlerini ve Het Parool arşivini taramadık.",
+  "nog_uitzoeken": [
+   "Çiftin ikinci görüntüsünün ne olduğu. Eğer 4 Ağustos 2024 tarihli gerçek bir fotoğrafsa ve yeni bir görüntü olarak sunulduysa, bu görüntü için daha çok yanıltıcı değerlendirmesi uygun olur.",
+   "Polisin ya da AT5'in 2026 yılının Ekim veya Kasım ayında heykelin boyayla kirletildiğini bildirip bildirmediği. Bu haberleri taramadık."
+  ],
+  "tijdlijn": [
+   "Jet Schepp'in Merwedeplein'deki heykeli açılır [4].",
+   "İlk karalama: kaidede 'Gaza', aynı gün temizlendi [3].",
+   "İkinci karalama: 'Free Gaza' ve kırmızıya boyanmış eller [1].",
+   "Belediye başkanı kamera gözetimini uzatır, gerekçe olarak yalnızca 2024'teki karalamalar gösterilir [6].",
+   "Yapay zekâ görseli Facebook'ta ve X'te yer alır [5].",
+   "X'te en az beş gönderi, karalanmış bir heykeli haber olarak sunar [9].",
+   "AAP FactCheck: görsel yapay zekâ ile üretildi [5]."
+  ],
+  "beeld_bijschrift": [
+   "X'te gönderi, 8 Kasım 2026, en az beş gönderiden biri.",
+   "Merwedeplein'deki gerçek heykel, Jet Schepp'e ait, 9 Temmuz 2005'te açıldı. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "Karalanmış bir Anne Frank heykelinin yapay zekâ ile üretilmiş görseli. Damga: YANLIŞ.",
+   "Amsterdam'daki Merwedeplein'de bulunan Anne Frank'in bronz heykeli."
+  ]
+ }
+}

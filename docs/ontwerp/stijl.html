@@ -1,0 +1,243 @@
+<!doctype html>
+<!-- De stijlgids van Factiz (#22.9, sinds #23.14 het systeem van DESIGN §4h).
+
+     Een intern werkdocument: wat de site en try.factiz.org dragen, werkend,
+     met de echte velden uit `python -m doublecheck.velden`. Open dit bestand
+     van schijf; de beelden komen uit web/public/beeld/. De vorige gids (de
+     waterverf, riso en het rasterpunt van #22.9 en #22.11) staat in de
+     geschiedenis van git, tot en met de commit vóór #23.14 stap 2.
+-->
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Factiz, stijlgids</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --papier: #f3efe8;
+    --kaart: #fbf9f5;
+    --inkt: #1d1b18;
+    --zacht: #6b665e;
+    --rand: #ddd6ca;
+    --groen: #0e8a5b;
+    --groen-donker: #0b6b47;
+    --oranje: #d85a1f;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --serif: ui-serif, "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
+    --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --papier: #141517;
+      --kaart: #1b1c1f;
+      --inkt: #ecebe8;
+      --zacht: #a5a199;
+      --rand: #2b2d31;
+      --groen: #35b981;
+      --groen-donker: #7fd1ae;
+      --oranje: #ff8b4d;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: var(--sans); background: var(--papier); color: var(--inkt); line-height: 1.6;
+         -webkit-font-smoothing: antialiased; }
+  .baan { max-width: 66rem; margin: 0 auto; padding: 0 1.25rem; }
+  header.gids { padding: 4rem 0 2.5rem; border-bottom: 1px solid var(--rand); }
+  h1, h2 { font-weight: 300; letter-spacing: -.035em; line-height: 1.08; }
+  h1 { font-size: clamp(2.6rem, 6vw, 4rem); }
+  h2 { font-size: clamp(1.9rem, 3.6vw, 2.6rem); margin-bottom: .8rem; }
+  h3 { font-weight: 600; letter-spacing: -.01em; font-size: 1.05rem; margin: 1.6rem 0 .4rem; }
+  p { max-width: 64ch; margin-top: .7rem; }
+  .stil { color: var(--zacht); }
+  .label { font-family: var(--mono); font-size: .78rem; letter-spacing: .14em; text-transform: uppercase;
+           color: var(--groen-donker); font-weight: 500; }
+  section { padding: 3.5rem 0; border-bottom: 1px solid var(--rand); }
+  code { font-family: var(--mono); font-size: .9em; }
+  table { border-collapse: collapse; margin-top: 1.2rem; width: 100%; max-width: 52rem; font-size: .92rem; }
+  th, td { text-align: left; padding: .55rem .6rem; border-top: 1px solid var(--rand); vertical-align: middle; }
+  th { font-family: var(--mono); font-size: .72rem; letter-spacing: .1em; text-transform: uppercase;
+       color: var(--zacht); font-weight: 400; border-top: 0; }
+  .staal { display: inline-block; width: 2.2rem; height: 1.4rem; border-radius: 6px; border: 1px solid var(--rand);
+           vertical-align: middle; }
+  .rij { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; margin-top: 1rem; }
+  .knop { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem;
+          padding: .55rem 1.25rem; border-radius: 999px; border: 1px solid var(--rand); font: inherit;
+          font-size: .95rem; font-weight: 500; text-decoration: none; color: var(--inkt); }
+  .knop.primair { background: var(--inkt); border-color: var(--inkt); color: var(--papier); }
+  .knop.omlijnd { border-color: var(--zacht); }
+  .knop.wit { background: #fff; border-color: #fff; color: #111; }
+  .knop.witrand { border-color: rgba(255, 255, 255, .7); color: #fff; }
+  .veldvlak { border-radius: 16px; background-size: cover; background-position: center; color: #fff;
+              padding: 2rem; margin-top: 1rem; }
+  .velden { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem;
+            margin-top: 1.4rem; }
+  .velden figure { border: 1px solid var(--rand); border-radius: 14px; overflow: hidden; background: var(--kaart); }
+  .velden img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+  .velden figcaption { padding: .7rem .9rem .9rem; font-size: .88rem; }
+  .velden figcaption b { display: block; font-family: var(--mono); font-weight: 500; }
+  .typo > * { margin-top: 1rem; }
+  .claim { font-family: var(--serif); font-size: 1.25rem; border-left: 3px solid var(--groen);
+           padding-left: 1rem; max-width: 40rem; }
+  .uitslag { background: var(--kaart); border: 1px solid var(--rand); border-radius: 14px; padding: 1.1rem 1.25rem;
+             max-width: 26rem; color: var(--inkt); }
+  .uitslag ul { list-style: none; padding: 0; margin-top: .6rem; border-top: 1px solid var(--rand); }
+  .uitslag li { display: flex; justify-content: space-between; padding: .45rem 0; border-bottom: 1px solid var(--rand); }
+  .voetproef { border-radius: 16px; overflow: hidden; margin-top: 1rem; text-align: center; color: #fff;
+               padding: 3rem 1.5rem 1.5rem;
+               background: linear-gradient(rgba(12, 11, 9, 0.32), rgba(12, 11, 9, 0.32)), #14120f url(../../web/public/beeld/nacht.webp) center / cover; }
+  .voetproef .missie { font-weight: 300; font-size: 2rem; letter-spacing: -.035em; line-height: 1.1; }
+  .glas { margin: 2rem auto 0; max-width: 40rem; text-align: left; border-radius: 22px; padding: 1.3rem 1.5rem;
+          background: rgba(12, 11, 9, 0.42); border: 1px solid rgba(255, 255, 255, .14);
+          -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px); font-size: .88rem; }
+  .regels li { margin-top: .5rem; max-width: 64ch; }
+  a { color: var(--groen-donker); }
+  a:focus-visible, .knop:focus-visible { outline: 2px solid var(--groen); outline-offset: 3px; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<header class="gids">
+  <div class="baan">
+    <span class="label">Stijlgids · DESIGN §4h · PLAN #23.14</span>
+    <h1 style="margin-top:.8rem">Licht, met velden als beelden</h1>
+    <p class="stil">Papier als grond, grote dunne koppen, haarlijnen, en wazige kleurvelden met filmkorrel.
+    Moderner, subtieler, organisch technologisch (PO, 2026-10-27). Dit is wat factiz.org en
+    try.factiz.org dragen; de bron is <code>web/src/styles/global.css</code>.</p>
+  </div>
+</header>
+
+<section>
+  <div class="baan">
+    <span class="label">01 · Kleur</span>
+    <h2 style="margin-top:.6rem">Papier, inkt, één groen</h2>
+    <p>Elke kleur heeft een stand voor licht en voor donker. Het contrast is nagerekend volgens WCAG,
+    tegen het papier van dezelfde stand.</p>
+    <table>
+      <tr><th>rol</th><th>licht</th><th>donker</th><th>contrast</th></tr>
+      <tr><td>papier, de grond</td><td><span class="staal" style="background:#f3efe8"></span> <code>--papier: #f3efe8</code></td><td><span class="staal" style="background:#141517"></span> <code>--papier: #141517</code></td><td></td></tr>
+      <tr><td>inkt, de tekst en de knop</td><td><span class="staal" style="background:#1d1b18"></span> <code>--inkt: #1d1b18</code></td><td><span class="staal" style="background:#ecebe8"></span> <code>--inkt: #ecebe8</code></td><td>15,0 / 15,3</td></tr>
+      <tr><td>zacht, de bijtekst</td><td><span class="staal" style="background:#6b665e"></span> <code>--zacht: #6b665e</code></td><td><span class="staal" style="background:#a5a199"></span> <code>--zacht: #a5a199</code></td><td>5,0 / 7,1</td></tr>
+      <tr><td>groen, het merk en de labels</td><td><span class="staal" style="background:#0b6b47"></span> <code>--groen-donker: #0b6b47</code></td><td><span class="staal" style="background:#7fd1ae"></span> <code>--groen-donker: #7fd1ae</code></td><td>5,7 / 10,1</td></tr>
+      <tr><td>haarlijn</td><td><span class="staal" style="background:#ddd6ca"></span> <code>--rand: #ddd6ca</code></td><td><span class="staal" style="background:#2b2d31"></span> <code>--rand: #2b2d31</code></td><td>versiering</td></tr>
+      <tr><td>oranje, alleen wat verschilt</td><td><span class="staal" style="background:#d85a1f"></span> <code>--oranje: #d85a1f</code></td><td><span class="staal" style="background:#ff8b4d"></span> <code>--oranje: #ff8b4d</code></td><td>3,4 / 7,9</td></tr>
+    </table>
+    <ul class="regels">
+      <li><b>Groen is het merk:</b> de punt achter Factiz, de kleine labels, de links, de focusrand
+      (<code>--groen: #0e8a5b</code>, 3,8:1).</li>
+      <li><b>Oranje is geen knopkleur meer.</b> Het markeert alleen wat verschilt, zoals de bits in
+      <i>How it works</i>.</li>
+      <li><b>Rood</b> staat alleen in de schaal van de meter (D6), nooit in een veld of een knop.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="baan typo">
+    <span class="label">02 · Letter</span>
+    <h2>De letter van het apparaat, dun</h2>
+    <p>SF Pro op Apple, Segoe UI op Windows, Roboto op Android. Er wordt niets geladen. Koppen in 300,
+    krap gespatieerd (<code>letter-spacing: -.035em</code>); lopende tekst in 400; mono voor labels.</p>
+    <h1>Search 109,592 fact-checks in 47 languages</h1>
+    <h2>We publish our misses.</h2>
+    <h3>47 languages, measured</h3>
+    <p>Paste a claim or drop a screenshot. Factiz shows which newsrooms checked it and links to their
+    article.</p>
+    <p class="label">The internet's memory for fact-checks</p>
+    <p><b>De serif is alleen voor wat een ander zei:</b> de bewering en citaten. Wat Factiz zelf zegt,
+    staat in de schreefloze.</p>
+    <p class="claim">"Fake fingers will be used to cast multiple votes."</p>
+  </div>
+</section>
+
+<section>
+  <div class="baan">
+    <span class="label">03 · Knoppen</span>
+    <h2 style="margin-top:.6rem">Pillen</h2>
+    <p>Alle knoppen zijn pillen (<code>border-radius: 999px</code>) van minstens 44 pixels hoog (§5).
+    Op papier in inkt of met een rand; op een veld wit of met een witte rand. In donker draaien
+    inkt en papier vanzelf om.</p>
+    <div class="rij">
+      <a class="knop primair" href="#">Try it free</a>
+      <a class="knop omlijnd" href="#">Read our error rates</a>
+    </div>
+    <div class="veldvlak rij" style="background-image:url(../../web/public/beeld/groen.webp)">
+      <a class="knop wit" href="#">Try it live</a>
+      <a class="knop witrand" href="#">Read our error rates</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="baan">
+    <span class="label">04 · De velden</span>
+    <h2 style="margin-top:.6rem">Licht, met beweging gefotografeerd</h2>
+    <p>Geen foto's, geen beeldmodel, geen download: <code>python -m doublecheck.velden</code> tekent
+    lichtstrepen, vervaagd in de bewegingsrichting, met filmkorrel, een warme gloed rond het licht en
+    zwart dat nooit zwart is. Elk veld heeft een vaste seed; hetzelfde commando geeft hetzelfde beeld.
+    De herkomst staat in <code>web/public/beeld/HERKOMST.md</code>.</p>
+    <div class="velden">
+      <figure><img src="../../web/public/beeld/corpus.webp" alt=""><figcaption><b>corpus</b>Bovenaan de
+        homepage. Getekend uit de checks: elk spoor een taal, de maanden van links naar rechts, hoe
+        feller hoe meer checks.</figcaption></figure>
+      <figure><img src="../../web/public/beeld/nacht.webp" alt=""><figcaption><b>nacht</b>De voet van
+        elke pagina, met de halfdoorzichtige kaart.</figcaption></figure>
+      <figure><img src="../../web/public/beeld/groen.webp" alt=""><figcaption><b>groen</b>De band
+        bovenaan de andere pagina's en op try.factiz.org. Het merk.</figcaption></figure>
+      <figure><img src="../../web/public/beeld/hemel.webp" alt=""><figcaption><b>hemel</b>De kaart
+        <i>Check a claim</i>.</figcaption></figure>
+      <figure><img src="../../web/public/beeld/olijf.webp" alt=""><figcaption><b>olijf</b>De kaart
+        <i>Ask a question</i>.</figcaption></figure>
+      <figure><img src="../../web/public/beeld/leisteen.webp" alt=""><figcaption><b>leisteen</b>De kaart
+        <i>The numbers</i>, en de blog.</figcaption></figure>
+    </div>
+    <h3>Tekst op een veld</h3>
+    <p>Elk veld heeft tekstzones waar het script het licht zacht dempt. Daaroverheen legt de pagina een
+    schaduwlaag. Wit haalt daar dan minstens 3:1 voor koppen en 4,5:1 voor alle andere tekst, tegen de
+    lichtste 5% van de pixels; <code>tests/test_velden.py</code> meet dat op elk bestand. Haalt een licht
+    veld het niet, dan gaat de tekst in inkt.</p>
+    <h3>Waar een veld nooit komt</h3>
+    <p>Nooit een veld achter of in een uitslag, een label, een bonnetjeslijst of de meter (D11). De uitslag
+    blijft de laboratoriumuitslag op papier. Op de marketingsite mag een voorbeelduitslag op een veld
+    liggen, met het veld als lijst eromheen:</p>
+    <div class="veldvlak" style="background-image:url(../../web/public/beeld/hemel.webp)">
+      <div class="uitslag">
+        <b>Checked 5 times by 4 newsrooms</b>
+        <div class="claim" style="font-size:1rem;border:0;padding:0;margin-top:.3rem;color:var(--zacht)">"Fake fingers will be used to cast multiple votes."</div>
+        <ul><li><span>The Quint</span><span>2019</span></li><li><span>Fact Crescendo</span><span>2019</span></li><li><span>YouTurn</span><span>2024</span></li></ul>
+      </div>
+    </div>
+    <p class="stil">De velden staan stil; er beweegt niets.</p>
+  </div>
+</section>
+
+<section>
+  <div class="baan">
+    <span class="label">05 · Kop en voet</span>
+    <h2 style="margin-top:.6rem">Een smalle balk, en de voet op de nacht</h2>
+    <p>De kop is een smalle balk met het merk, het menu en één pil, met een haarlijn eronder. Ligt er een
+    veld bovenaan, dan ligt de kop erop, in wit. De voet staat op het veld nacht: de missie met de knop,
+    en een halfdoorzichtige kaart met de links. Kop en voet komen uit <code>web/src/data/site.json</code>
+    en zijn op beide hosts gelijk.</p>
+    <div class="voetproef">
+      <p class="missie" style="margin:0 auto;max-width:18ch">No lie should have to be debunked twice.</p>
+      <a class="knop wit" href="#" style="margin-top:1.2rem">Try it free</a>
+      <div class="glas"><b>Factiz.</b> Open source, runs locally, shows counts, never probabilities.</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="baan">
+    <span class="label">06 · Foto's</span>
+    <h2 style="margin-top:.6rem">Alleen waar de foto zelf iets bewijst</h2>
+    <p>De beelden zijn abstract (PO, 2026-10-27). Er staat nog één foto: de typemachine van
+    Markus Winkler, via Unsplash, in <i>How it works</i>, want de 256 bits daar zijn uit die foto berekend. Hij
+    draagt daar zijn naamsvermelding; de bron staat in <code>web/public/foto/BRONNEN.md</code>. De krant
+    met bril en de lezer gingen in stap 4 van #23.14 van de site.</p>
+  </div>
+</section>
+
+</body>
+</html>

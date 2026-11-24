@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "nagelezen": {
+  "door": "De redactie van Factiz",
+  "datum": "2026-11-21",
+  "afdruk": "d516b1f08c5f9ca3"
+ },
+ "velden": {
+  "kop": "Jesse Klaver never said he wants to abolish private ownership, the quote dates from 2020",
+  "oordeel_zin": "The quote comes from an anonymous blog on Medium from October 2020, and according to his spokesperson Klaver never said it [2] [7].",
+  "bewering": "Jesse Klaver (GL): \"If I win the elections, I will abolish private ownership.\"",
+  "kort": "On 5 October a screenshot circulated on X of a quote in which Jesse Klaver says he will abolish private ownership if he wins the elections [1]. Klaver never said that: the quote comes from a blog that an anonymous writer put on Medium in October 2020 [2] [7]. The blog is gone, but the quote kept coming back in 2022, 2025 and 2026 [1] [7] [8].",
+  "tekst": "The screenshot appeared on Monday 5 October at 2:37 pm on X, with the text \"Look, this is a real communist.\" [1]. On 18 November the post had 953 likes and 186 replies [1]. Context was added to it that same afternoon [1].\n\nThe quote is older than the post. On Wednesday 14 October 2020, an account on X shared a link to a blog on Medium, a platform where anyone can write [2]. The headline of that blog was the quote [2]. A few hours later, the CIDI, the Centrum Informatie en Documentatie Israël, wrote that Klaver was trending because of an antisemitic article claiming that he wanted to abolish private ownership [3]. According to the CIDI, the author also wrote that Klaver supposedly has a Jewish mother [3].\n\nThere is no interview, speech or manifesto in which Klaver says this. In 2022, dpa found no medium that had recorded the statement; all references led back to the blog, which the writer had meanwhile taken down [7]. Klaver's spokesperson told dpa that he never said it [7]. The 2021 election manifesto of GroenLinks was called Tijd voor nieuw realisme, with Klaver as lead candidate [5]. According to dpa, the words \"privébezit\" and \"privé-eigendom\" do not appear in it [7].\n\nAfter that, the quote kept returning. In February 2022 it was on Facebook [7]. In October 2025, during the campaign for the House of Representatives elections of 29 October, screenshots circulated again, and the spokesperson called it fake news [8]. After the post of 5 October 2026, Knack also wrote that there is no evidence for the quote [9].\n\nIn 2020, Klaver was parliamentary leader of GroenLinks [4]. GroenLinks and the PvdA merged into Progressief Nederland, PRO, on 13 June 2026 [6]. Klaver is now parliamentary leader of PRO in the House of Representatives [4].",
+  "niet_weten": "We don't know who wrote the blog, nor whether it was meant as a joke.",
+  "bereik": "953 likes and 186 replies on 18 November",
+  "nog_uitzoeken": [
+   "Whether the quote was also circulating in March 2021 and November 2023.",
+   "A response from Klaver's spokesperson at PRO to the 2026 post."
+  ],
+  "tijdlijn": [
+   "An account on X shares the link to the blog on Medium, with the quote as headline [2].",
+   "The CIDI calls the article antisemitic and fake [3].",
+   "dpa: the statement is made up [7].",
+   "AFP Factcheck Nederland, taken over by deCheckers: false [8].",
+   "GroenLinks and PvdA merge into PRO [6].",
+   "The post on X with the screenshot [1].",
+   "Knack: no evidence for the quote [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 5 October 2026, 2:37 pm."
+  ],
+  "beeld_alt": [
+   "Screenshot of an article with a made-up quote from Jesse Klaver about abolishing private ownership. Stamp: FALSE."
+  ]
+ }
+}

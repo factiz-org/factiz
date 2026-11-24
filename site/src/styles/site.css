@@ -1,0 +1,834 @@
+/* De site (PLAN #34.2b, DESIGNSYSTEEM §4): de bibliotheek als gereedschap, klein en strak zoals Vercel;
+   de voorpagina, het dossier en de factcheck vriendelijker, met meer lucht en de velden. Eén set tokens voor beide. */
+/* De lettertypen (PLAN #34.2aw, #34.2as, #34.2bs, B78): wat wij schrijven in Geist, de kop van een factcheck in
+   Newsreader, en daarachter Noto alleen voor de schriften van de sitetalen (Arabisch, Devanagari, Chinees, Japans); elk
+   ander schrift in de letters van het toestel. Pakketten van Fontsource, van de eigen site geladen; de lijst maakt
+   `npm --prefix site run lettertypen` uit de pakketten, met per lettertype alleen de delen van zijn schrift, en elk deel
+   draagt een unicode-range, dus een pagina laadt alleen wat haar tekens nodig hebben. */
+@import "./lettertypen.css";
+
+/* In de laag voor onderdelen, zodat de hulpklassen van Tailwind (md:hidden, grid) altijd winnen. */
+@layer components {
+
+.fz {
+  /* neutrale grijzen met een zweem van groen; zwart is alleen de primaire knop (#730) */
+  /* de maat van een regel (PO 2026-11-20: "de ideale breedte van een stuk tekst ... zo rond de 60 characters"): ch is de
+     breedte van een 0, in Geist 1,45 keer een gemiddelde letter; 48ch is ongeveer 68 tekens, 52ch voor een kop ongeveer 75 */
+  --maat-tekst: 48ch; --maat-kop: 52ch;
+  --grond: #fafafa; --paneel: #ffffff; --inkt: #171717; --zacht: #5f6461; --zwak: #8b908d; --lijn: #ebebeb;
+  --lijn-sterk: #d9dbd9; --vlak: #f3f4f3; --accent: #0b6b47; --accent-zacht: #e7f1eb; --markeer: #fbeea8;
+  --primair: #171717; --primair-inkt: #ffffff; --schaduw: 0 1px 2px rgb(0 0 0 / .05), 0 4px 12px rgb(0 0 0 / .04);
+  --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .18), 0 2px 6px rgb(0 0 0 / .06);
+  --r: 6px; --r-groot: 10px;
+  /* Het oordeel van een redactie (PLAN #34.2l): een as van amber via geel en zand naar blauw, violet voor omstreden, roze
+     voor satire, grijs voor onbewezen. Geen rood, oranje of groen: geen stoplicht (DESIGN principe 1 en 3). */
+  --onwaar-inkt: #7a3600; --onwaar-vlak: #fbe0c2; --onwaar-rand: #eeb27a; --onwaar-stip: #c45f0a;
+  --misleidend-inkt: #5c5000; --misleidend-vlak: #fbf7dc; --misleidend-rand: #e5d98f; --misleidend-stip: #a38900;
+  --deels-inkt: #5f5240; --deels-vlak: #f3eee5; --deels-rand: #ddd1bd; --deels-stip: #9c8763;
+  --waar-inkt: #1d4a8c; --waar-vlak: #e8f0fc; --waar-rand: #bdd1f1; --waar-stip: #3a6fc6;
+  --omstreden-inkt: #573a8e; --omstreden-vlak: #f1ecfa; --omstreden-rand: #d6caef; --omstreden-stip: #7b58c2;
+  --satire-inkt: #86306a; --satire-vlak: #fbedf6; --satire-rand: #edc6df; --satire-stip: #b4468c;
+  --onbewezen-inkt: #474d5c; --onbewezen-vlak: #f0f1f4; --onbewezen-rand: #d1d5dd; --onbewezen-stip: #868d9e;
+  /* Kleur per onderwerp (PLAN #34.2ag, SPECS E9.S16): vijf families met de namen van de velden, gemeten op
+     kleurenblindheid (Machado e.a. 2009, ΔE 20 of meer), op contrast met het icoon en het paneel (3:1) en op afstand tot
+     de kleuren van het oordeel (ΔE 18); tests/test_site_themakleur.py meet ze opnieuw. */
+  --f-leisteen: #7787B8; --f-nacht: #252552; --f-groen: #49A385; --f-olijf: #525235; --f-hemel: #245866; --f-icoon: #ffffff;
+  --plaat-papier: #fcfcfb; --plaat-dek: .72;
+  /* de schriften van de sitetalen in Noto Sans (PLAN #34.2as, #34.2bs), elk ander uit het toestel: na de eigen lettertypen
+     zoekt de browser daar. Een browser kiest een lettertype op de volgorde van de lijst, niet op de taal: Chinese tekens
+     dus in drie volgordes, en de taal van de pagina of de bewering kiest er een (hieronder). Vereenvoudigd is de standaard. */
+  --sans-zh: "Geist Variable", "Noto Sans Variable", "Noto Sans Arabic Variable", "Noto Sans Devanagari Variable",
+    "Noto Sans SC Variable", "Noto Sans TC Variable", "Noto Sans JP Variable",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --sans-tw: "Geist Variable", "Noto Sans Variable", "Noto Sans Arabic Variable", "Noto Sans Devanagari Variable",
+    "Noto Sans TC Variable", "Noto Sans SC Variable", "Noto Sans JP Variable",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --sans-ja: "Geist Variable", "Noto Sans Variable", "Noto Sans Arabic Variable", "Noto Sans Devanagari Variable",
+    "Noto Sans JP Variable", "Noto Sans SC Variable", "Noto Sans TC Variable",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --sans: var(--sans-zh);
+  --mono: "Geist Mono Variable", ui-monospace, SFMono-Regular, Menlo, monospace;
+  /* de kop van een factcheck (PLAN #34.2aw): Newsreader voor Latijn en Vietnamees, Noto Serif voor Cyrillisch en Grieks,
+     dan per schrift, in dezelfde drie volgordes */
+  --serif-zh: "Newsreader Variable", "Noto Serif Variable", "Noto Naskh Arabic Variable", "Noto Serif Devanagari Variable",
+    "Noto Serif SC Variable", "Noto Serif TC Variable", "Noto Serif JP Variable", ui-serif, Georgia, serif;
+  --serif-tw: "Newsreader Variable", "Noto Serif Variable", "Noto Naskh Arabic Variable", "Noto Serif Devanagari Variable",
+    "Noto Serif TC Variable", "Noto Serif SC Variable", "Noto Serif JP Variable", ui-serif, Georgia, serif;
+  --serif-ja: "Newsreader Variable", "Noto Serif Variable", "Noto Naskh Arabic Variable", "Noto Serif Devanagari Variable",
+    "Noto Serif JP Variable", "Noto Serif SC Variable", "Noto Serif TC Variable", ui-serif, Georgia, serif;
+  --serif: var(--serif-zh);
+  background: var(--grond); color: var(--inkt); font-family: var(--sans); font-size: 14px; line-height: 1.5;
+  -webkit-font-smoothing: antialiased; min-height: 100vh;
+}
+/* De taal kiest de vorm van de Chinese tekens (PLAN #34.2bs): een pagina in het Japans of traditioneel Chinees, en een
+   bewering in zo'n taal, eerst haar eigen Noto. Zonder dit stond een Japanse pagina in de Chinese letters, en laadde ze
+   4,2 MB aan lettertypen. Een element met een eigen taal zet zijn lettertype opnieuw, want het erft anders de lijst van
+   de pagina; de kop van een factcheck houdt Newsreader, want die hulpklasse wint (laag utilities). */
+.fz:lang(ja) { --sans: var(--sans-ja); --serif: var(--serif-ja); }
+.fz:lang(zh-Hant) { --sans: var(--sans-tw); --serif: var(--serif-tw); }
+/* een Chinese bewering draagt `zh`, zonder te zeggen of ze vereenvoudigd of traditioneel is: ze volgt de pagina, behalve
+   op een Japanse pagina, waar ze in de Chinese vorm blijft */
+.fz:lang(ja) [lang="zh"] { --sans: var(--sans-zh); --serif: var(--serif-zh); font-family: var(--sans); }
+.fz [lang="zh-Hant"], .fz [lang|="zh-TW"], .fz [lang|="zh-HK"] { --sans: var(--sans-tw); --serif: var(--serif-tw); font-family: var(--sans); }
+.fz [lang|="ja"] { --sans: var(--sans-ja); --serif: var(--serif-ja); font-family: var(--sans); }
+/* De namen van de talen in de taalkiezer en de voet (PLAN #34.2bs) in de letters van het toestel: anders haalde elke
+   pagina voor "العربية", "हिन्दी", "日本語" en "繁體中文" Noto Sans Arabic en Devanagari en een stuk of tien Chinese en
+   Japanse delen op, ~0,6 MB voor vier woorden. De naam van de taal van de pagina zelf houdt de letters van de pagina. */
+.fz .taalnaam { font-family: "Geist Variable", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+:root:lang(ar) .fz .taalnaam:lang(ar), :root:lang(fa) .fz .taalnaam:lang(fa), :root:lang(hi) .fz .taalnaam:lang(hi),
+:root:lang(ja) .fz .taalnaam:lang(ja), :root:lang(zh-Hant) .fz .taalnaam:lang(zh-Hant) { font-family: var(--sans); }
+/* Donker volgt het apparaat, tenzij de bezoeker in de voet licht of donker koos (PLAN #34.2c): dan staat dat op <html>. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-weergave="licht"]) .fz { --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a1a1; --zwak: #7a7a7a; --lijn: #222222;
+        --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
+        --primair: #ededed; --primair-inkt: #0a0a0a; --schaduw: 0 0 0 1px rgb(255 255 255 / .02);
+        --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .7), 0 0 0 1px rgb(255 255 255 / .06);  color-scheme: dark;
+        --onwaar-inkt: #f6c690; --onwaar-vlak: #36210a; --onwaar-rand: #6e4618; --onwaar-stip: #e39642;
+        --misleidend-inkt: #e3d77f; --misleidend-vlak: #211f0b; --misleidend-rand: #4a4414; --misleidend-stip: #c4b03e;
+        --deels-inkt: #d8cab1; --deels-vlak: #221f19; --deels-rand: #4a4234; --deels-stip: #a6936e;
+        --waar-inkt: #a9c5f4; --waar-vlak: #0f1b2d; --waar-rand: #25416c; --waar-stip: #6a99de;
+        --omstreden-inkt: #cab7ef; --omstreden-vlak: #1c162f; --omstreden-rand: #3e3064; --omstreden-stip: #9b7fd6;
+        --satire-inkt: #eeb0d7; --satire-vlak: #291221; --satire-rand: #5a2848; --satire-stip: #ce6fab;
+        --onbewezen-inkt: #c1c5cf; --onbewezen-vlak: #1a1c21; --onbewezen-rand: #3a3e48; --onbewezen-stip: #8a90a0;
+        --f-leisteen: #93BFE6; --f-nacht: #886EE6; --f-groen: #5CE6AE; --f-olijf: #A6A85E; --f-hemel: #337180; --f-icoon: #111111;
+        --plaat-papier: #121316; --plaat-dek: .62; }
+}
+:root[data-weergave="donker"] .fz { --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a1a1; --zwak: #7a7a7a; --lijn: #222222;
+        --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c; --markeer: #4d3f0f;
+        --primair: #ededed; --primair-inkt: #0a0a0a; --schaduw: 0 0 0 1px rgb(255 255 255 / .02);
+        --schaduw-hoog: 0 12px 40px -8px rgb(0 0 0 / .7), 0 0 0 1px rgb(255 255 255 / .06);  color-scheme: dark;
+        --onwaar-inkt: #f6c690; --onwaar-vlak: #36210a; --onwaar-rand: #6e4618; --onwaar-stip: #e39642;
+        --misleidend-inkt: #e3d77f; --misleidend-vlak: #211f0b; --misleidend-rand: #4a4414; --misleidend-stip: #c4b03e;
+        --deels-inkt: #d8cab1; --deels-vlak: #221f19; --deels-rand: #4a4234; --deels-stip: #a6936e;
+        --waar-inkt: #a9c5f4; --waar-vlak: #0f1b2d; --waar-rand: #25416c; --waar-stip: #6a99de;
+        --omstreden-inkt: #cab7ef; --omstreden-vlak: #1c162f; --omstreden-rand: #3e3064; --omstreden-stip: #9b7fd6;
+        --satire-inkt: #eeb0d7; --satire-vlak: #291221; --satire-rand: #5a2848; --satire-stip: #ce6fab;
+        --onbewezen-inkt: #c1c5cf; --onbewezen-vlak: #1a1c21; --onbewezen-rand: #3a3e48; --onbewezen-stip: #8a90a0;
+        --f-leisteen: #93BFE6; --f-nacht: #886EE6; --f-groen: #5CE6AE; --f-olijf: #A6A85E; --f-hemel: #337180; --f-icoon: #111111;
+        --plaat-papier: #121316; --plaat-dek: .62; }
+:root[data-weergave="licht"] { color-scheme: light; }
+:root[data-weergave="donker"] { color-scheme: dark; }
+
+.fz a { color: inherit; text-decoration: none; }
+.fz a.link { color: var(--accent); }
+.fz a.link:hover { text-decoration: underline; text-underline-offset: .2em; }
+.fz :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.fz mark { background: var(--markeer); color: inherit; border-radius: 2px; padding-inline: 1px; }
+.fz .mono { font-family: var(--mono); font-size: 12px; color: var(--zacht); }
+.fz .zacht { color: var(--zacht); }
+.fz .getal { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.fz .woordmerk { height: 1.35rem; width: auto; display: block; }
+/* één breedte voor elke pagina, gelijk aan de kop en de voet (PO 2026-11-17: "check even of alle pagina netjes uitlijnen met
+   de navigatie en dezelfde breedte hebben"); tekst houdt binnen die baan haar eigen leesbreedte (max-w-[62ch]) */
+.fz .baan { max-width: 80rem; margin-inline: auto; padding-inline: max(1rem, env(safe-area-inset-left)); }
+
+/* De kop: merk, menu, zoeken; daaronder een strook veld van twee punten. */
+/* zijn hoogte, voor wat eronder blijft staan (de rij met zoeken en het filterpaneel, PLAN #34.2bj) */
+.fz { --kop-hoogte: calc(3.5rem + 3px + env(safe-area-inset-top, 0px)); }
+.fz .kop { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 30; background: color-mix(in srgb, var(--grond) 85%, transparent);
+  -webkit-backdrop-filter: saturate(1.4) blur(10px); backdrop-filter: saturate(1.4) blur(10px); border-bottom: 1px solid var(--lijn); }
+.fz .kop-in { display: flex; align-items: center; gap: .75rem; height: 3.5rem; }
+.fz .strook { height: 2px; background: #0d1712 url(/static/beeld/groen.webp) center 60% / cover no-repeat; opacity: .9; }
+.fz .navlink { display: inline-flex; align-items: center; gap: .3rem; height: 2rem; padding-inline: .6rem; border-radius: var(--r);
+  color: var(--zacht); font-size: 13.5px; cursor: pointer; background: none; border: 0; font-family: inherit; }
+.fz .navlink:hover, .fz .navlink[data-state="open"], .fz .navlink[aria-current="page"] { color: var(--inkt); background: var(--vlak); }
+@media (pointer: coarse) { .fz .navlink { height: 2.75rem; } }
+
+/* Knoppen: klein, licht afgerond. Primair zwart (in donker wit), nergens anders zo. */
+.fz .knop { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; height: 2rem; padding-inline: .75rem;
+  border-radius: var(--r); border: 1px solid var(--lijn-sterk); background: var(--paneel); color: var(--inkt); font: inherit;
+  font-size: 13.5px; font-weight: 500; cursor: pointer; white-space: nowrap; transition: background .15s, border-color .15s; }
+.fz .knop:hover { background: var(--vlak); }
+.fz .knop-primair { background: var(--primair); color: var(--primair-inkt); border-color: var(--primair); }
+.fz .knop-primair:hover { background: var(--primair); opacity: .88; }
+.fz .knop-stil { border-color: transparent; background: transparent; color: var(--zacht); }
+.fz .knop-stil:hover { color: var(--inkt); background: var(--vlak); }
+.fz .knop-groot { height: 2.5rem; padding-inline: 1rem; font-size: 14px; }
+@media (pointer: coarse) { .fz .knop { height: 2.75rem; } }
+/* De regel onder de voet (PLAN #34.2bk): links in een zin, dus onderstreept en niet alleen een andere kleur (WCAG 1.4.1) */
+.fz .voet-b p a { color: var(--inkt); text-decoration: underline; text-decoration-color: var(--lijn-sterk); text-underline-offset: 3px; }
+.fz .voet-b p a:hover { text-decoration-color: currentColor; }
+/* Het kruimelpad, één onderdeel op elke pagina (`Kruimel.astro`, PO 2026-11-21): klein en zacht, een link wordt donker
+   bij aanwijzen */
+.fz .kruimel { font-size: 12.5px; color: var(--zacht); }
+.fz .kruimel a:hover { color: var(--inkt); }
+/* Op een aanraakscherm is elke losse link minstens 44 punten hoog: het logo, het kruimelpad, de voet (DESIGN D-regels). */
+@media (pointer: coarse) {
+  .fz .merk, .fz [data-kruimel] a, .fz .voet-b li a, .fz a.link { display: inline-flex; align-items: center; min-height: 2.75rem; }
+  /* een kort woord in een lijst ("LCI", "Fiji") ook minstens 44 breed (2026-11-17, de mobiele sweep) */
+  .fz .voet-b li a { min-width: 2.75rem; }
+  /* een link die afkapt blijft een blok: in een flex-vak tekent de browser geen beletselteken */
+  .fz a.link.truncate { display: block; line-height: 2.75rem; }
+  .fz .voet-b ul { gap: 0; }
+}
+.fz kbd { font-family: var(--mono); font-size: 11px; line-height: 1; border: 1px solid var(--lijn-sterk); border-radius: 4px; padding: 3px 5px;
+  color: var(--zacht); background: var(--paneel); }
+
+/* Het label: een pil met een rand. Het oordeel van een redactie (`data-soort`) kleurt naar zijn soort, altijd met het
+   woord en een stip ervoor: kleur is nooit de enige drager (D5, PLAN #34.2l). Zonder soort, of bij een soort zonder kleur
+   (gecheckt zonder oordeel), blijft het neutraal met een grijze stip. */
+.fz .label { display: inline-flex; align-items: center; gap: .4rem; height: 1.5rem; padding-inline: .55rem; border-radius: 999px;
+  border: 1px solid var(--lijn-sterk); background: var(--paneel); font-size: 12px; font-weight: 500; white-space: nowrap; color: var(--inkt);
+  max-width: 100%; }
+/* het label op het beeld van een dossierkaart: dicht, linksonder, boven de korrel (PO 2026-11-19, uitzondering op D11) */
+.fz .fz-kaart-label { position: absolute; inset-inline-start: .75rem; bottom: .75rem; background: var(--paneel); }
+.fz .label[data-soort] { color: var(--l-inkt, var(--inkt)); background: var(--l-vlak, var(--paneel)); border-color: var(--l-rand, var(--lijn-sterk));
+  font-weight: 600; }
+.fz .label[data-soort]::before { content: ""; width: 7px; height: 7px; border-radius: 50%; flex: none; background: var(--l-stip, var(--zwak)); }
+.fz .stip { display: inline-block; width: 8px; height: 8px; border-radius: 50%; flex: none; background: var(--l-stip, var(--zwak)); }
+.fz [data-soort="onwaar"], .fz [data-soort="onwaar-of-misleidend"] { --l-inkt: var(--onwaar-inkt); --l-vlak: var(--onwaar-vlak); --l-rand: var(--onwaar-rand); --l-stip: var(--onwaar-stip); }
+.fz [data-soort="misleidend"] { --l-inkt: var(--misleidend-inkt); --l-vlak: var(--misleidend-vlak); --l-rand: var(--misleidend-rand); --l-stip: var(--misleidend-stip); }
+.fz [data-soort="deels-waar"] { --l-inkt: var(--deels-inkt); --l-vlak: var(--deels-vlak); --l-rand: var(--deels-rand); --l-stip: var(--deels-stip); }
+.fz [data-soort="waar"] { --l-inkt: var(--waar-inkt); --l-vlak: var(--waar-vlak); --l-rand: var(--waar-rand); --l-stip: var(--waar-stip); }
+.fz [data-soort="omstreden"] { --l-inkt: var(--omstreden-inkt); --l-vlak: var(--omstreden-vlak); --l-rand: var(--omstreden-rand); --l-stip: var(--omstreden-stip); }
+.fz [data-soort="satire"] { --l-inkt: var(--satire-inkt); --l-vlak: var(--satire-vlak); --l-rand: var(--satire-rand); --l-stip: var(--satire-stip); }
+.fz [data-soort="onbewezen"] { --l-inkt: var(--onbewezen-inkt); --l-vlak: var(--onbewezen-vlak); --l-rand: var(--onbewezen-rand); --l-stip: var(--onbewezen-stip); }
+.fz .label-groot { height: 1.875rem; padding-inline: .8rem; font-size: 13.5px; gap: .5rem; }
+/* Het antwoord op een factcheckpagina (Klopt dit?): het oordeel van de redactie als vlak in zijn kleur, het woord groot met
+   een stip ervoor, de zin en hun eigen woorden in dezelfde inkt (getoetst op 4,5:1 op het vlak). Zonder soort neutraal. */
+.fz .uitspraak { display: grid; gap: .35rem; padding: 1rem 1.1rem 1.05rem; border-radius: var(--r-groot);
+  background: var(--l-vlak, var(--grond)); border: 1px solid var(--l-rand, var(--lijn)); color: var(--l-inkt, var(--inkt));
+  font-size: 15px; line-height: 1.5; }
+.fz .uitspraak-label { display: flex; align-items: center; gap: .65rem; margin-bottom: .15rem; font-size: clamp(1.4rem, 2.6vw, 1.75rem);
+  font-weight: 600; line-height: 1.2; letter-spacing: -.015em; }
+.fz .uitspraak-label::before { content: ""; width: .5em; height: .5em; border-radius: 50%; flex: none; background: var(--l-stip, var(--zwak)); }
+.fz .uitspraak-woorden { font-weight: 500; overflow-wrap: anywhere; }
+.fz .label-groot::before { width: 8px; height: 8px; }
+.fz .thema { display: inline-flex; align-items: center; gap: .35rem; color: var(--zacht); font-size: 12.5px; }
+/* De tegel van een onderwerp (PLAN #34.2ag): vierkant met een icoon, zodat ze nooit lijkt op het rondje van een oordeel. */
+.fz .tegel { display: inline-grid; place-items: center; flex: none; width: 16px; height: 16px; border-radius: 4px;
+  background: var(--tegel); color: var(--f-icoon); }
+.fz .tegel svg { width: 11px; height: 11px; }
+.fz .tegel-midden { width: 20px; height: 20px; border-radius: 5px; }
+.fz .tegel-midden svg { width: 13px; height: 13px; }
+.fz .tegel-groot { width: 30px; height: 30px; border-radius: 7px; }
+.fz .tegel-groot svg { width: 18px; height: 18px; }
+.fz .tegel[data-familie="leisteen"] { --tegel: var(--f-leisteen); }
+.fz .tegel[data-familie="nacht"] { --tegel: var(--f-nacht); }
+.fz .tegel[data-familie="groen"] { --tegel: var(--f-groen); }
+.fz .tegel[data-familie="olijf"] { --tegel: var(--f-olijf); }
+.fz .tegel[data-familie="hemel"] { --tegel: var(--f-hemel); }
+
+/* Vlakken. */
+.fz .paneel { background: var(--paneel); border: 1px solid var(--lijn); border-radius: var(--r-groot); }
+.fz .paneel-kop { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .75rem 1rem; border-bottom: 1px solid var(--lijn); }
+
+/* De lijst: elke factcheck een kaart in drie lagen, met dezelfde gegevens in dezelfde volgorde (#443, PLAN #34.2l):
+   boven het oordeel en de datum, in het midden de bewering, onder de context. Ruimte tussen de kaarten, zodat veel
+   talen en schriften naast elkaar niet in één blok lopen. */
+.fz .rijen { list-style: none; margin: 0; padding: 0; display: grid; gap: .625rem; }
+.fz .rij { display: grid; grid-template-columns: minmax(0, 1fr); gap: .6rem; padding: 1rem 1.125rem 1.05rem; background: var(--paneel); border: 1px solid var(--lijn);
+  border-radius: var(--r-groot); box-shadow: 0 1px 2px rgb(0 0 0 / .03); transition: border-color .15s, box-shadow .15s; }
+.fz .rij:hover { border-color: var(--lijn-sterk); box-shadow: var(--schaduw); }
+/* oordeel en datum naast elkaar, en op een smal scherm de datum eronder (2026-11-17, 320 px: de datum duwde de pagina tot
+   104 px breder, in het Russisch) */
+.fz .rij-kop { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .35rem .75rem; min-width: 0; }
+.fz .rij-kop .mono { white-space: nowrap; color: var(--zwak); }
+.fz .rij-bewering { font-size: 16px; font-weight: 500; line-height: 1.45; color: var(--inkt); overflow-wrap: anywhere;
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+.fz .rij:hover .rij-bewering { text-decoration: underline; text-decoration-color: var(--lijn-sterk); text-underline-offset: .2em; }
+.fz .rij-origineel { margin-top: -.3rem; font-size: 12.5px; color: var(--zacht); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+/* een leesbare regel (PO 2026-11-15: "Leesbaarheid werkt volgens mij tot 55-64 characters"): de bewering en het origineel
+   in een kaart hoogstens zo breed; gemeten in de browser op echte beweringen */
+.fz .rij-bewering, .fz .rij-origineel { max-width: 44ch; }
+/* een bewering van rechts naar links begint rechts in de kaart (de kaart zelf is links naar rechts) */
+.fz .rij-bewering[dir="rtl"] { margin-left: auto; }
+/* en een bewering van links naar rechts links, ook op een pagina van rechts naar links (PLAN #34.2bd, E9.S29 AC4) */
+.fz .rij-bewering:not([dir="rtl"]) { margin-right: auto; }
+.fz .rij-voet { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 0; font-size: 12.5px; color: var(--zacht); }
+.fz .rij-voet > * { display: inline-flex; align-items: center; gap: .35rem; }
+.fz .rij-voet > * + *::before { content: ""; width: 3px; height: 3px; margin-inline: .6rem; border-radius: 50%; background: var(--zwak); }
+/* Het lijnicoon van een soort of vorm (PLAN #34.2ak): een lijn in de kleur van de tekst, nooit een vlak; de soort met
+   wie het zegt, zachter erachter. */
+.fz .lijnicoon { width: 14px; height: 14px; flex: none; }
+.fz .kenmerk { color: var(--zacht); }
+.fz .kenmerk-regel { color: var(--zwak); font-size: 11.5px; }
+.fz .kenmerk-knop { display: inline-flex; align-items: center; gap: .4rem; min-height: 1.75rem; padding-inline: .6rem;
+  border: 1px solid var(--lijn-sterk); border-radius: 999px; font-size: 12.5px; color: var(--inkt); }
+.fz .kenmerk-knop:hover { background: var(--vlak); }
+@media (pointer: coarse) { .fz .kenmerk-knop { min-height: 2.75rem; } }
+.fz .filteruitleg { margin: -.15rem 0 .35rem; font-size: 11.5px; color: var(--zwak); line-height: 1.35; }
+
+/* Filters: een kolom op een breed scherm, met een lijn en lucht tussen de groepen (PLAN #34.2l), in één paneel met de rand,
+   hoek en achtergrond van de kaarten ernaast en zo hoog als de filters (PLAN #34.2bf; PO 2026-11-15: "subtiele border, net
+   als de rest"). */
+.fz .filterkolom { align-self: start; padding: .5rem .75rem .25rem; background: var(--paneel); border: 1px solid var(--lijn);
+  border-radius: var(--r-groot); }
+/* Zoeken, sorteren en filters blijven staan op een breed scherm (PLAN #34.2bj): de rij onder de kop van de site, met de
+   achtergrond van de pagina, zodat de berichten eronder door schuiven; het paneel ernaast, met een eigen scroll als het
+   langer is dan het scherm. Op een telefoon niets vast: daar staan de filters in de lade. */
+@media (min-width: 48rem) {
+  .fz [data-rij="zoeken"] { position: sticky; top: var(--kop-hoogte); z-index: 20; margin-top: -.75rem; padding-top: .75rem;
+    background: var(--grond); }
+  .fz .filterkolom { position: sticky; top: calc(var(--kop-hoogte) + .75rem); max-height: calc(100dvh - var(--kop-hoogte) - 1.5rem);
+    overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: transparent transparent; }
+  /* geen balk in beeld tot de muis op het paneel staat of de focus erin (PO: "Zo introduceren we wel een scrollbalk");
+     zolang er onder de rand meer filters zitten, vervaagt de onderkant zacht (`data-meer`, gezet in Bibliotheek.jsx) */
+  .fz .filterkolom:hover, .fz .filterkolom:focus-within { scrollbar-color: var(--lijn-sterk) transparent; }
+  .fz .filterkolom::-webkit-scrollbar { width: 6px; }
+  .fz .filterkolom::-webkit-scrollbar-thumb { background: transparent; border-radius: 999px; }
+  .fz .filterkolom:hover::-webkit-scrollbar-thumb { background: var(--lijn-sterk); }
+  .fz .filterkolom[data-meer]::after { content: ""; display: block; position: sticky; bottom: 0; height: 2.5rem;
+    margin: -2.5rem -.75rem 0; background: linear-gradient(to bottom, transparent, var(--paneel)); pointer-events: none; }
+}
+.fz .filtergroep { margin: 0; min-width: 0; border: 0; padding: .85rem 0 .7rem; border-top: 1px solid var(--lijn-sterk); }
+.fz .filtergroep:first-child { border-top: 0; padding-top: .35rem; }
+/* De kop van een groep is een legend: zonder float zet de browser hem in de bovenrand, wist hij de lijn en komt de lucht
+   van de groep onder de kop. Klein, in hoofdletters en in de zachte kleur, zodat hij van de waarden verschilt; een
+   schrift zonder hoofdletters blijft zoals het is (PLAN #34.2bh). */
+.fz .filterkop { float: inline-start; display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0;
+  margin: 0 0 .3rem; font-size: 11px; font-weight: 600; line-height: 1.4; text-transform: uppercase; letter-spacing: .06em;
+  color: var(--zacht); }
+.fz .filterkop + * { clear: both; }
+.fz .vink { display: flex; align-items: center; gap: .55rem; min-height: 2rem; padding-inline: .25rem; border-radius: var(--r); cursor: pointer; font-size: 13.5px; }
+.fz .vink:hover { background: var(--vlak); }
+.fz .rondje { appearance: none; flex: none; width: 16px; height: 16px; margin: 0; border: 1px solid var(--lijn-sterk);
+  border-radius: 999px; background: var(--paneel); transition: box-shadow .12s, border-color .12s; }
+.fz .rondje:checked { border-color: var(--primair); box-shadow: inset 0 0 0 4px var(--paneel), inset 0 0 0 8px var(--primair); }
+.fz .rondje:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.fz .vink .tel { margin-inline-start: auto; font-family: var(--mono); font-size: 11.5px; color: var(--zwak); }
+@media (pointer: coarse) { .fz .vink { min-height: 2.75rem; } }
+.fz .invoer { height: 2rem; width: 100%; border: 1px solid var(--lijn-sterk); border-radius: var(--r); background: var(--paneel); color: var(--inkt);
+  padding-inline: .6rem; font: inherit; font-size: 13.5px; outline: none; }
+.fz .invoer:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-zacht); }
+@media (pointer: coarse) { .fz .invoer { height: 2.75rem; font-size: 16px; } }
+
+/* De zoekknop in de kop, die het zoekvenster opent. */
+.fz .zoekknop { display: flex; align-items: center; gap: .5rem; height: 2rem; width: 100%; max-width: 22rem; padding-inline: .6rem; border-radius: var(--r);
+  border: 1px solid var(--lijn-sterk); background: var(--paneel); color: var(--zwak); font: inherit; font-size: 13.5px; cursor: pointer; }
+.fz .zoekknop:hover { border-color: var(--zacht); color: var(--zacht); }
+@media (pointer: coarse) { .fz .zoekknop { height: 2.75rem; } }
+
+/* Overlays van Radix: het zoekvenster, de lades, de keuzelijst, het menu. */
+.fz-overlay { position: fixed; inset: 0; z-index: 50; background: rgb(0 0 0 / .35); }
+@media (prefers-reduced-motion: no-preference) {
+  .fz-overlay[data-state="open"] { animation: fz-in .15s ease-out; }
+  .fz-venster[data-state="open"] { animation: fz-op .18s cubic-bezier(.2, .8, .2, 1); }
+  .fz-lade[data-state="open"] { animation: fz-lade .22s cubic-bezier(.2, .8, .2, 1); }
+  .fz-keuzes { animation: fz-keuzes .14s ease-out; }
+  .fz-keuzes.fz-direct { animation: none; }   /* het menu van de thema's opent meteen (PO 2026-11-15) */
+}
+@keyframes fz-keuzes { from { opacity: 0; transform: translateY(-3px) scale(.98); } }
+@keyframes fz-in { from { opacity: 0; } }
+@keyframes fz-op { from { opacity: 0; transform: translate(-50%, -48%) scale(.98); } }
+@keyframes fz-lade { from { transform: translateY(100%); } }
+.fz-venster { position: fixed; left: 50%; top: 12vh; z-index: 51; transform: translate(-50%, 0); width: min(40rem, calc(100vw - 2rem));
+  background: var(--paneel); color: var(--inkt); border: 1px solid var(--lijn); border-radius: 12px; box-shadow: var(--schaduw-hoog); overflow: hidden; }
+.fz-lade { position: fixed; inset: auto 0 0 0; z-index: 51; max-height: 88dvh; display: flex; flex-direction: column; background: var(--paneel);
+  color: var(--inkt); border-radius: 14px 14px 0 0; box-shadow: var(--schaduw-hoog); padding-bottom: env(safe-area-inset-bottom, 0px); }
+/* Elke keuzelijst (PLAN #34.2af): taal, volgorde, het menu en licht of donker. Regels die hun inhoud laten ademen, dezelfde
+   zachte achtergrond onder de muis, bij het toetsenbord en bij Radix, een ring bij het toetsenbord, een vinkje in groen. */
+.fz-keuzes { z-index: 60; min-width: 12rem; background: var(--paneel); color: var(--inkt); border: 1px solid var(--lijn); border-radius: 12px;
+  box-shadow: var(--schaduw-hoog); padding: 6px; transform-origin: var(--radix-select-content-transform-origin, top right); }
+.fz-keuze { display: flex; align-items: center; gap: .625rem; min-height: 2.25rem; padding: .375rem .625rem; border-radius: 8px;
+  font-size: 14px; line-height: 1.35; color: var(--inkt); cursor: pointer; outline: none; transition: background-color .08s ease-out; }
+.fz-keuze:hover { background: var(--vlak); }
+/* een kopje in een keuzelijst (de taalkiezer: Voorgesteld, Alle talen; PLAN #34.2bi), zoals de koppen van de filters */
+.fz-keuzes-kop { margin: .5rem .625rem .25rem; font-size: 11px; font-weight: 600; line-height: 1.4; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--zacht); }
+.fz-keuzes-kop:first-child, .fz-keuzes .invoer + .fz-keuzes-kop { margin-top: .375rem; }
+.fz-keuzes ul + .fz-keuzes-kop { margin-top: .375rem; padding-top: .5rem; border-top: 1px solid var(--lijn); }
+/* geen rand om een regel (de algemene focusregel `.fz :focus-visible` hierboven gaat anders voor): de achtergrond zegt waar je staat */
+.fz .fz-keuze:focus-visible { outline: none; background: var(--vlak); }
+/* een ring alleen bij een gewone link (taal, menu); in een lijst van Radix zet Radix de focus zelf, en toont de
+   achtergrond waar je staat, zoals shadcn/ui */
+a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+.fz-keuze[data-highlighted] { background: var(--vlak); }
+.fz-keuze[aria-current="true"], .fz-keuze[data-state="checked"] { font-weight: 500; }
+.fz-keuze .keuze-vink { margin-inline-start: auto; flex: none; color: var(--accent); }
+.fz-keuze .code { flex: none; width: 2.25rem; font-family: var(--mono); font-size: 12px; font-weight: 600; letter-spacing: .03em;
+  color: var(--inkt); }
+@media (pointer: coarse) { .fz-keuze { min-height: 2.75rem; } }
+
+/* Het zoekvenster: groepen, de actieve regel gemarkeerd, het afgemaakte deel zachter (#404). */
+.fz-palet-groep { padding: .4rem .5rem; }
+.fz-palet-kop { padding: .35rem .5rem; font-size: 11.5px; font-weight: 500; color: var(--zwak); }
+.fz-palet-regel { display: flex; align-items: center; gap: .6rem; min-height: 2.5rem; padding: .35rem .5rem; border-radius: var(--r); cursor: pointer; }
+.fz-palet-regel[aria-selected="true"] { background: var(--vlak); }
+.fz-palet-regel .rechts { margin-inline-start: auto; font-family: var(--mono); font-size: 11.5px; color: var(--zwak); white-space: nowrap; }
+.fz-palet-regel .aanvulling { color: var(--zwak); }
+/* De suggesties onder een zoekveld op de pagina (PLAN #34.2ac): dezelfde regels als het zoekvenster, in een laag erboven. */
+.fz-zoeklaag { position: absolute; z-index: 45; max-width: calc(100vw - 2rem); background: var(--paneel); color: var(--inkt);
+  border: 1px solid var(--lijn); border-radius: 12px; box-shadow: var(--schaduw-hoog); overflow: hidden; font-size: 14px; }
+.fz-zoeklaag-voet { display: flex; gap: 1rem; padding: .45rem 1rem; border-top: 1px solid var(--lijn); font-size: 12px; color: var(--zwak); }
+@media (pointer: coarse) { .fz-zoeklaag-voet { display: none; } }
+/* Het woord dat je typt, grijs afgemaakt in het veld zelf (AC2): op de letters van de invoer, het getypte onzichtbaar. */
+.fz-spook { position: absolute; display: flex; align-items: center; box-sizing: border-box; overflow: hidden; white-space: pre;
+  pointer-events: none; background: transparent; }
+.fz-spook-rest { color: var(--zwak); }
+
+/* De vriendelijke pagina's: meer lucht, de velden als beeld. */
+.fz .held { position: relative; overflow: hidden; border-radius: 14px; border: 1px solid var(--lijn); color: #fff; isolation: isolate;
+  background: #0d0e10 url(/static/beeld/corpus.webp) center 85% / cover no-repeat; }
+/* De sluier van de start is nergens lichter dan de 0,2 waarmee de tekstzones van corpus gemeten zijn (PLAN #34.2v). */
+.fz .held::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(10 10 10 / .35), rgb(10 10 10 / .2) 60%, rgb(10 10 10 / .45)); }
+/* De link naar de inhoud (#34.2bq): buiten beeld tot hij focus krijgt, dan linksboven (rechtsboven van rechts naar links). */
+.fz .naar-inhoud { position: absolute; inset-inline-start: 0.75rem; top: -4rem; z-index: 60; padding: 0.6rem 1rem;
+  border-radius: var(--r); background: var(--inkt); color: var(--grond); font-weight: 600; }
+.fz .naar-inhoud:focus { top: calc(0.75rem + env(safe-area-inset-top, 0px)); }
+.fz main:focus { outline: none; }
+/* De links in de zinnen van de voet minstens 24 px hoog (WCAG 2.5.8), zonder dat de regel verspringt. */
+.fz .voet-licenties a, .fz .voet-maker a { display: inline-block; min-height: 24px; line-height: 24px; }
+@media (pointer: coarse) { .fz .voet-licenties a, .fz .voet-maker a { min-height: 2.75rem; line-height: 2.75rem; } }
+
+.fz .kaartveld { position: relative; overflow: hidden; isolation: isolate; border-radius: var(--r-groot); color: #fff;
+  background: #1c1e21 var(--beeld) center / cover no-repeat; }
+.fz .kaartveld::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(12 13 16 / .1), rgb(12 13 16 / .55)); }
+.fz .kaart { display: block; border: 1px solid var(--lijn); border-radius: var(--r-groot); background: var(--paneel); transition: border-color .15s, box-shadow .15s; }
+.fz .kaart:hover { border-color: var(--lijn-sterk); box-shadow: var(--schaduw); }
+/* waarom het niet klopt (PLAN #34.2j): korte punten onder elkaar, leesbaar, zonder kleur die iets zegt */
+.fz .waarom { display: grid; gap: .45rem; margin: 0; padding-inline-start: 1.15rem; list-style: disc; font-size: 14.5px; line-height: 1.5; }
+.fz .waarom li::marker { color: var(--zwak); }
+.fz .omveld { display: grid; gap: .55rem 1.5rem; font-size: 13.5px; }
+@media (min-width: 40rem) { .fz .omveld { grid-template-columns: 9rem minmax(0, 1fr); } }
+.fz .omveld dt { color: var(--zacht); }
+.fz .omveld dd { margin: 0; min-width: 0; }
+@media (max-width: 39.99rem) { .fz .omveld dd { margin-bottom: .35rem; } }
+.fz .jarenrij { display: flex; align-items: flex-end; gap: .5rem; line-height: 1; }
+.fz .jaren { display: flex; align-items: flex-end; gap: 3px; height: 1.5rem; margin: 0; padding: 0; list-style: none; overflow: hidden; }
+.fz .jaren li { flex: 0 0 .5rem; height: 100%; display: flex; align-items: flex-end; }
+.fz .jaren .balk { display: block; width: 100%; border-radius: 2px 2px 0 0; background: var(--inkt); opacity: .7; }
+.fz .jaren .balk.leeg { background: var(--lijn-sterk); opacity: 1; }
+.fz .sectiekop { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: .9rem; }
+.fz .sectiekop h2 { font-size: 15px; font-weight: 600; letter-spacing: -.01em; }
+/* de banner boven een voorlopige vertaling (B93): rustig, met de kleur van een markering, geen waarschuwing */
+.fz .fz-voorlopig { background: var(--markeer); color: var(--inkt); border-radius: var(--r); padding: .55rem .8rem;
+  font-size: 13.5px; margin-bottom: .75rem; max-width: var(--maat-tekst); }
+/* de link naar alles rechts van de kop: op een aanraakscherm een tikvlak van 44 px, zonder dat hij er anders uitziet */
+@media (pointer: coarse) { .fz .sectiekop > a { display: inline-flex; align-items: center; min-height: 2.75rem; } }
+/* een vak op een paneel (PO 2026-11-21): overal dezelfde binnenmarge en tussenruimte; en de kop boven een groep in een
+   lijst (de jaren van een dossier, de groepen van de Radar) */
+@layer components {
+  .fz .vak { display: grid; gap: .75rem; padding: 1rem; align-content: start; }
+  .fz .lijstkop { font-size: 12.5px; font-weight: 600; color: var(--zacht); padding-block: .5rem; }
+}
+/* de kop van een pagina: kruimelpad erboven, dan de titel en de inleiding, overal dezelfde maat (PO 2026-11-21) */
+@layer components {
+  .fz .paginakop { display: grid; gap: .75rem; margin-top: 1.5rem; max-width: 62ch; }
+}
+/* vaste koppen (PO 2026-11-21: "zullen we alles een beetje gelijk trekken"): de sectiekop hierboven op een pagina met
+   gegevens, de leeskop in een lange tekst (Over, Platform, de database), de kaartkop als titel van een kaart of vak, en de
+   vakkop als klein label in een vak (het antwoord, waarom het niet klopt) */
+.fz .leeskop { font-size: 18px; font-weight: 600; letter-spacing: -.01em; line-height: 1.3; }
+.fz .kaartkop { font-size: 16px; font-weight: 600; letter-spacing: -.01em; line-height: 1.25; }
+.fz .vakkop { font-size: 13px; font-weight: 600; color: var(--zacht); }
+.fz .groot-kop { font-size: clamp(1.9rem, 4.2vw, 3rem); line-height: 1.05; letter-spacing: -.04em; font-weight: 600; text-wrap: balance; }
+.fz .inhoud a[aria-current="true"] { color: var(--inkt); border-inline-start-color: var(--inkt); }
+.fz .inhoud a { display: block; padding: .3rem 0; padding-inline-start: .75rem; border-inline-start: 1px solid var(--lijn); color: var(--zacht); font-size: 13px; }
+.fz .inhoud a:hover { color: var(--inkt); }
+@media (prefers-reduced-motion: no-preference) { html:has(.fz) { scroll-behavior: smooth; } }
+.fz section[id] { scroll-margin-top: 5rem; }
+
+/* Verkennen (PLAN #34.2ah, SPECS E9.S17): de ring, de jaren en de landen. De kleur is die van de familie van het gekozen
+   thema; zonder keuze grijs, want dan gaat het over alle thema's samen. Alles is SVG of tekst, zonder script. */
+.fz [data-familie=""], .fz .vk-jaren:not([data-familie]), .fz .vk-landen:not([data-familie]) { --tegel: var(--zacht); }
+.fz .vk-jaren[data-familie="leisteen"], .fz .vk-landen[data-familie="leisteen"], .fz .vk-stuk[data-familie="leisteen"], .fz .vk-deel[data-familie="leisteen"] { --tegel: var(--f-leisteen); }
+.fz .vk-jaren[data-familie="nacht"], .fz .vk-landen[data-familie="nacht"], .fz .vk-stuk[data-familie="nacht"], .fz .vk-deel[data-familie="nacht"] { --tegel: var(--f-nacht); }
+.fz .vk-jaren[data-familie="groen"], .fz .vk-landen[data-familie="groen"], .fz .vk-stuk[data-familie="groen"], .fz .vk-deel[data-familie="groen"] { --tegel: var(--f-groen); }
+.fz .vk-jaren[data-familie="olijf"], .fz .vk-landen[data-familie="olijf"], .fz .vk-stuk[data-familie="olijf"], .fz .vk-deel[data-familie="olijf"] { --tegel: var(--f-olijf); }
+.fz .vk-jaren[data-familie="hemel"], .fz .vk-landen[data-familie="hemel"], .fz .vk-stuk[data-familie="hemel"], .fz .vk-deel[data-familie="hemel"] { --tegel: var(--f-hemel); }
+.fz .vk-ring { position: relative; width: 100%; max-width: 22rem; margin-inline: auto; aspect-ratio: 1; }
+.fz .vk-ring > svg { display: block; width: 100%; height: 100%; overflow: visible; }   /* alleen de ring, niet het icoon in de tegel */
+.fz .vk-stuk { fill: var(--tegel); stroke: var(--grond); stroke-width: 1; transition: opacity .15s; }
+.fz .vk-stuk.vk-stil { opacity: .4; }
+.fz .vk-ring a:hover .vk-stuk { opacity: 1; }
+.fz .vk-deel { fill: var(--tegel); opacity: .55; stroke: var(--grond); stroke-width: 1; }
+.fz .vk-ring a:hover .vk-deel { opacity: .9; }
+.fz .vk-midden { position: absolute; inset: 0; display: grid; place-content: center; justify-items: center; gap: .3rem; padding: 26%;
+  text-align: center; pointer-events: none; }
+.fz .vk-midden-naam { font-weight: 600; font-size: 14px; line-height: 1.25; text-wrap: balance; }
+.fz .vk-midden-getal { font-family: var(--mono); font-size: 12px; color: var(--zacht); font-variant-numeric: tabular-nums; }
+.fz .vk-alles { font-size: 13px; color: var(--accent); }
+.fz .vk-alles[aria-current="true"] { color: var(--inkt); font-weight: 500; }
+@media (pointer: coarse) { .fz .vk-alles { display: inline-flex; align-items: center; min-height: 2.75rem; } }
+.fz .vk-legenda { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); }
+.fz .vk-familie .mono { margin-bottom: .35rem; }
+.fz .vk-familie ul { display: grid; gap: 1px; }
+.fz .vk-thema { display: flex; align-items: center; gap: .6rem; min-height: 2.25rem; padding: .3rem .5rem; border-radius: var(--r);
+  font-size: 13.5px; }
+.fz .vk-thema:hover { background: var(--vlak); }
+.fz .vk-thema[aria-current="true"] { background: var(--vlak); box-shadow: inset 0 0 0 1px var(--lijn-sterk); font-weight: 600; }
+.fz .vk-thema .getal { font-family: var(--mono); font-size: 11.5px; color: var(--zwak); font-variant-numeric: tabular-nums; }
+.fz .vk-jaren { display: grid; grid-template-columns: repeat(11, minmax(0, 1fr)); gap: clamp(3px, 1vw, 10px); margin: 0; padding: 0;
+  list-style: none; }
+/* op 320 px elf staven van minstens 24 breed (de mobiele sweep, 2026-11-17) */
+@media (max-width: 24rem) { .fz .vk-jaren { gap: 2px; } }
+.fz .vk-jaar { display: grid; grid-template-rows: auto 10rem auto; gap: .3rem; justify-items: stretch; border-radius: var(--r);
+  padding: .25rem 0; }
+.fz .vk-jaar > svg { width: 100%; height: 100%; overflow: visible; }
+.fz .vk-jaar rect { fill: var(--tegel); transition: opacity .15s; }
+.fz .vk-jaar line { stroke: var(--lijn-sterk); stroke-width: 1; }
+.fz .vk-lopend rect { opacity: .45; }
+.fz .vk-jaar:hover rect { opacity: .8; }
+.fz .vk-jaar-getal { font-family: var(--mono); font-size: 11px; color: var(--zacht); text-align: center; white-space: nowrap;
+  font-variant-numeric: tabular-nums; visibility: hidden; }
+.fz .vk-piek .vk-jaar-getal, .fz .vk-jaar:hover .vk-jaar-getal, .fz .vk-jaar:focus-visible .vk-jaar-getal { visibility: visible; }
+@media (min-width: 48rem) { .fz .vk-jaar-getal { visibility: visible; } }
+.fz .vk-jaar-naam { font-family: var(--mono); font-size: 11px; color: var(--zwak); text-align: center; }
+.fz .vk-landen { display: grid; grid-template-columns: minmax(6rem, 11rem) minmax(0, 1fr) auto; column-gap: .75rem; row-gap: 2px;
+  margin: 0; padding: 0; list-style: none; }
+/* één raster voor alle rijen (subgrid): dezelfde breedte voor elke staaf, dus dezelfde schaal en de streep op dezelfde plek */
+.fz .vk-landen li, .fz .vk-land { display: grid; grid-column: 1 / -1; grid-template-columns: subgrid; }
+.fz .vk-land { align-items: center; min-height: 2.25rem; padding: .25rem .5rem; border-radius: var(--r); font-size: 13.5px; }
+.fz .vk-land:hover { background: var(--vlak); }
+.fz .vk-land-naam { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fz .vk-land > svg { width: 100%; height: .75rem; overflow: visible; }
+.fz .vk-land rect { fill: var(--tegel); }
+.fz .vk-land-getal { font-family: var(--mono); font-size: 11.5px; color: var(--zacht); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.fz .vk-gemiddeld, .fz .vk-sleutel line { stroke: var(--inkt); stroke-width: 1.25; stroke-dasharray: 3 3; }
+/* een lichte streep onder de stippellijn, zodat gemiddeld ook op de donkerste staaf te zien is */
+.fz .vk-gemiddeld-onder { stroke: var(--grond); stroke-width: 3.5; }
+.fz .vk-sleutel { width: .7rem; height: 1rem; flex: none; }
+.fz .vk-maten { display: inline-flex; padding: 2px; gap: 2px; border: 1px solid var(--lijn); border-radius: 8px; background: var(--paneel); }
+.fz .vk-maten a { display: inline-flex; align-items: center; min-height: 2rem; padding-inline: .75rem; border-radius: 6px; font-size: 13px;
+  color: var(--zacht); }
+.fz .vk-maten a:hover { color: var(--inkt); }
+.fz .vk-maten a[aria-current="page"] { background: var(--vlak); color: var(--inkt); font-weight: 500; }
+/* op een telefoon de naam en het getal op één regel en de staaf eronder, over de hele breedte */
+@media (max-width: 40rem) {
+  .fz .vk-landen { grid-template-columns: minmax(0, 1fr) auto; column-gap: .5rem; }
+  .fz .vk-land { row-gap: .3rem; padding-block: .4rem; }
+  .fz .vk-land-naam { grid-row: 1; grid-column: 1; }
+  .fz .vk-land-getal { grid-row: 1; grid-column: 2; text-align: end; }
+  .fz .vk-land > svg { grid-row: 2; grid-column: 1 / -1; }
+}
+@media (pointer: coarse) { .fz .vk-thema, .fz .vk-land, .fz .vk-maten a { min-height: 2.75rem; } }
+/* De wereldkaart (PLAN #34.2am, SPECS E9.S20): vijf trappen van dezelfde kleur, donkerder bij een hogere maat; een land
+   zonder maat in het grijs van een lijn. Een land krijgt nooit een eigen kleur. */
+.fz .vk-kaart[data-familie=""], .fz .vk-kaart:not([data-familie]) { --tegel: var(--zacht); }
+.fz .vk-kaart[data-familie="leisteen"] { --tegel: var(--f-leisteen); }
+.fz .vk-kaart[data-familie="nacht"] { --tegel: var(--f-nacht); }
+.fz .vk-kaart[data-familie="groen"] { --tegel: var(--f-groen); }
+.fz .vk-kaart[data-familie="olijf"] { --tegel: var(--f-olijf); }
+.fz .vk-kaart[data-familie="hemel"] { --tegel: var(--f-hemel); }
+.fz .vk-kaart > svg { display: block; width: 100%; height: auto; }
+.fz .vk-vlak { fill: var(--vlak); stroke: var(--lijn-sterk); stroke-width: .5; stroke-linejoin: round; }
+.fz .vk-vlak[data-trap] { stroke: var(--paneel); }
+.fz .vk-vlak[data-trap], .fz .vk-trap { fill: var(--tegel); }
+.fz .vk-vlak[data-trap="1"], .fz .vk-trap[data-trap="1"] { fill-opacity: .24; --trap: .24; }
+.fz .vk-vlak[data-trap="2"], .fz .vk-trap[data-trap="2"] { fill-opacity: .38; --trap: .38; }
+.fz .vk-vlak[data-trap="3"], .fz .vk-trap[data-trap="3"] { fill-opacity: .56; --trap: .56; }
+.fz .vk-vlak[data-trap="4"], .fz .vk-trap[data-trap="4"] { fill-opacity: .76; --trap: .76; }
+.fz .vk-vlak[data-trap="5"], .fz .vk-trap[data-trap="5"] { fill-opacity: 1; --trap: 1; }
+/* een land onder de muis krijgt de kleur van een link, zonder rand; bij de groene familie de kleur van de tekst, want
+   de linkkleur is daar te dichtbij */
+.fz .vk-kaart { --kaart-aan: var(--accent); }
+.fz .vk-kaart[data-familie="groen"] { --kaart-aan: var(--inkt); }
+.fz .vk-kaart a:hover .vk-vlak { fill: var(--kaart-aan); fill-opacity: 1; }
+.fz .vk-trap { display: inline-block; width: 14px; height: 10px; border-radius: 2px;
+  background: color-mix(in srgb, var(--tegel) calc(var(--trap) * 100%), transparent); }
+.fz .vk-trap-geen { background: var(--vlak); box-shadow: inset 0 0 0 1px var(--lijn-sterk); }
+.fz .vk-alle summary { cursor: pointer; font-size: 13px; color: var(--accent); }
+@media (pointer: coarse) { .fz .vk-alle summary { padding-block: .75rem; } }
+
+/* Het netwerk van namen (PLAN #34.2ai, SPECS E9.S18): cirkels in de kleur van hun familie, lijnen in grijs; bij een
+   gekozen of aangewezen naam lichten hij en zijn buren op en zakt de rest weg. Op een telefoon schuift alleen het vlak. */
+.fz .nw { display: grid; gap: .75rem; min-width: 0; }
+.fz .nw-zoek { display: grid; gap: .35rem; max-width: 24rem; }
+.fz .nw-treffers { display: flex; flex-wrap: wrap; gap: .35rem; }
+.fz .nw-treffers a { display: inline-flex; align-items: center; min-height: 2rem; padding-inline: .6rem; border: 1px solid var(--lijn-sterk);
+  border-radius: var(--r); background: var(--paneel); font-size: 13px; }
+.fz .nw-treffers a:hover { background: var(--vlak); }
+.fz .nw-vlak { overflow-x: auto; border: 1px solid var(--lijn); border-radius: var(--r-groot); background: var(--paneel); }
+.fz .nw-vlak > svg { display: block; width: 100%; min-width: 42rem; height: auto; }
+.fz .nw-schuif { display: none; }
+@media (max-width: 47.99rem) { .fz .nw-schuif { display: block; } }
+.fz .nw-rand { stroke: var(--lijn-sterk); stroke-linecap: round; transition: opacity .15s, stroke .15s; }
+.fz .nw-rand.nw-aan { stroke: var(--inkt); opacity: .7; }
+.fz .nw-rand.nw-stil { opacity: .25; }
+.fz .nw-knoop circle { fill: var(--zacht); stroke: var(--paneel); stroke-width: 1.5; transition: opacity .15s; }
+.fz .nw-knoop circle[data-familie="leisteen"] { fill: var(--f-leisteen); }
+.fz .nw-knoop circle[data-familie="nacht"] { fill: var(--f-nacht); }
+.fz .nw-knoop circle[data-familie="groen"] { fill: var(--f-groen); }
+.fz .nw-knoop circle[data-familie="olijf"] { fill: var(--f-olijf); }
+.fz .nw-knoop circle[data-familie="hemel"] { fill: var(--f-hemel); }
+.fz .nw-knoop text { font-size: 11px; fill: var(--inkt); paint-order: stroke; stroke: var(--paneel); stroke-width: 3px;
+  stroke-linejoin: round; }
+.fz .nw-knoop.nw-stil { opacity: .25; }
+.fz .nw-knoop.nw-midden circle, .fz .nw-knoop.nw-gevonden circle { stroke: var(--inkt); stroke-width: 2.5; }
+.fz .nw-knoop.nw-midden text { font-weight: 600; }
+.fz .nw-let-op { font-size: 13px; color: var(--zacht); border-inline-start: 2px solid var(--lijn-sterk); padding-inline-start: .75rem; }
+.fz .nw-buur { display: flex; align-items: baseline; gap: .75rem; padding: .3rem .4rem; border-radius: var(--r); font-size: 13.5px; }
+.fz .nw-buur:hover { background: var(--vlak); }
+.fz .nw-buur .mono { font-size: 11.5px; color: var(--zwak); }
+.fz a.knop[aria-current="true"] { background: var(--vlak); border-color: var(--inkt); font-weight: 600; }
+@media (pointer: coarse) { .fz .nw-buur, .fz .nw-treffers a { min-height: 2.75rem; } }
+
+/* Contextkaarten naast een factcheck (PLAN #34.2an, SPECS E9.S21): een vraag, een beeld, een zin en een link; het beeld
+   in de kleur van het thema en voor schermlezers verborgen. Naast het artikel op een breed scherm, eronder op een
+   telefoon, dan naast elkaar zolang er plaats is. */
+.fz .ck-rij { display: grid; gap: .75rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); }
+@media (min-width: 64rem) { .fz .ck-rij { grid-template-columns: minmax(0, 1fr); } }
+.fz .ck { display: grid; gap: .5rem; align-content: start; min-width: 0; padding: .85rem .9rem .8rem; border: 1px solid var(--lijn);
+  border-radius: var(--r-groot); background: var(--paneel); --tegel: var(--zacht); }
+.fz .ck[data-familie="leisteen"] { --tegel: var(--f-leisteen); }
+.fz .ck[data-familie="nacht"] { --tegel: var(--f-nacht); }
+.fz .ck[data-familie="groen"] { --tegel: var(--f-groen); }
+.fz .ck[data-familie="olijf"] { --tegel: var(--f-olijf); }
+.fz .ck[data-familie="hemel"] { --tegel: var(--f-hemel); }
+.fz .ck-vraag { font-size: 12px; font-weight: 600; color: var(--zacht); }
+/* een contextkaart die zelf een link is (de zijkolom van een dossier): net als een kaart een rand bij aanwijzen */
+.fz a.ck-klik { color: var(--inkt); text-decoration: none; transition: border-color .15s, box-shadow .15s; }
+.fz a.ck-klik:hover { border-color: var(--lijn-sterk); box-shadow: var(--schaduw); }
+.fz .ck-naam { font-size: 13.5px; font-weight: 600; line-height: 1.35; overflow-wrap: anywhere; }
+.fz .ck-zin { font-size: 13px; line-height: 1.45; overflow-wrap: anywhere; }
+.fz .ck-noot { font-size: 12px; line-height: 1.4; color: var(--zacht); }
+.fz .ck-link { justify-self: start; display: inline-flex; align-items: center; min-height: 1.75rem; font-size: 13px; color: var(--accent); }
+.fz .ck-link:hover { text-decoration: underline; text-underline-offset: .2em; }
+.fz .ck-kaartje { display: block; width: 100%; height: auto; aspect-ratio: 1.6; border-radius: var(--r); background: var(--grond); }
+.fz .ck-kaartje path { stroke-width: .75px; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
+.fz .ck-kaartje .rest { fill: var(--vlak); stroke: var(--lijn-sterk); }
+.fz .ck-kaartje .aan { fill: var(--tegel); stroke: var(--paneel); }
+.fz .ck-kaartje .ring { fill: none; stroke: var(--tegel); stroke-width: 1.5px; vector-effect: non-scaling-stroke; }
+.fz .ck-reeks { position: relative; display: block; height: 44px; }
+.fz .ck-reeks > svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.fz .ck-reeks .vlak { fill: var(--tegel); fill-opacity: .16; }
+.fz .ck-reeks .lijn { fill: none; stroke: var(--tegel); stroke-width: 1.6px; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
+.fz .ck-stip { position: absolute; width: 9px; height: 9px; margin: -4.5px 0 0 -4.5px; border-radius: 50%; background: var(--tegel);
+  box-shadow: 0 0 0 2px var(--paneel); }
+.fz .ck-as { display: flex; justify-content: space-between; margin-top: -.25rem; font-family: var(--mono); font-size: 10.5px; color: var(--zacht); }
+.fz .ck-staafjes { display: flex; align-items: stretch; gap: 5px; height: 56px; }
+.fz .ck-staaf { flex: 1; min-width: 0; display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 3px; }
+.fz .ck-h { align-self: end; display: block; border-radius: 2px 2px 0 0; background: var(--tegel); opacity: .35; }
+.fz .ck-staaf.aan .ck-h { opacity: 1; }
+.fz .ck-j { font-family: var(--mono); font-size: 10px; line-height: 1; color: var(--zacht); text-align: center; white-space: nowrap; }
+.fz .ck-staaf.aan .ck-j { color: var(--inkt); font-weight: 600; }
+.fz .ck-namen { display: grid; gap: .3rem; font-size: 13px; line-height: 1.4; }
+.fz .ck-namen a:hover { text-decoration: underline; text-underline-offset: .2em; }
+.fz .ck-namen span { color: var(--zacht); font-size: 12.5px; }
+.fz .ck-kenmerken { display: grid; gap: .25rem; }
+.fz .ck-kenmerken a { display: grid; gap: .15rem; margin-inline: -.4rem; padding: .35rem .4rem; border-radius: var(--r); }
+.fz .ck-kenmerken a:hover { background: var(--vlak); }
+.fz .ck-kenmerk { display: inline-flex; align-items: center; gap: .4rem; font-size: 13px; font-weight: 600; }
+@media (pointer: coarse) { .fz .ck-link, .fz .ck-namen a { min-height: 2.75rem; display: inline-flex; align-items: center; } }
+/* Het vlak onder de bewering en het oordeel (PLAN #34.2an): een zachte tint die het hoofdstuk van de pagina vrijzet; op een
+   breed scherm loopt het vlak iets buiten de tekstlijn, zodat de tekst op zijn plek blijft. */
+.fz .podium { padding: 1rem; border-radius: var(--r-groot); background: var(--vlak); }
+/* Verbanden op een factcheck: tussen twee groepen 40px, binnen een groep de 10px van de lijst (PO 2026-11-15) */
+.fz .verband-groep:not(:first-child) { margin-top: 1.5rem; }
+@media (min-width: 48rem) { .fz .podium { padding: 1.25rem 1.25rem 1.35rem; } }
+@media (min-width: 80rem) { .fz .podium { margin-inline: -1.25rem; } }
+/* Een tekening per thema en per dossier (PLAN #34.2ap, SPECS E9.S22): een halfdoorzichtig vel op het veld, vormen in de
+   kleur van de familie die naar onder vervagen; de korrel is die van het veld (PLAN #34.2bf). Op de kaart vult ze het
+   beeld; in de kop staat ze rechts naast de naam, en op een telefoon niet. Achter de tekst van de kop (z-index -1, boven
+   de sluier). */
+.fz .plaat { position: absolute; inset: 0; z-index: -1; color: var(--zacht); pointer-events: none; }
+.fz .plaat[data-familie="leisteen"] { color: var(--f-leisteen); }
+.fz .plaat[data-familie="nacht"] { color: var(--f-nacht); }
+.fz .plaat[data-familie="groen"] { color: var(--f-groen); }
+.fz .plaat[data-familie="olijf"] { color: var(--f-olijf); }
+.fz .plaat[data-familie="hemel"] { color: var(--f-hemel); }
+.fz .plaat > svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.fz .plaat-vel rect { fill: var(--plaat-papier); fill-opacity: var(--plaat-dek); }
+.fz .plaat-open { fill: var(--plaat-papier); fill-opacity: .8; }
+.fz .plaat-vormen { -webkit-mask-image: linear-gradient(#000 55%, transparent); mask-image: linear-gradient(#000 55%, transparent); }
+.fz .plaat-band { inset-inline-start: auto; width: min(50%, 30rem); }
+@media (max-width: 39.99rem) { .fz .plaat-band { display: none; } }
+/* Factiz Radar op de start (PO 2026-11-19, DESIGN §4x): drie ringen in het oranje van het logo, als link naar de eigen
+   checks. Een golf loopt alleen naar buiten als er deze week een nieuwe check is (rust boven urgentie, principe 3), en
+   nooit voor wie minder beweging wil (§5). Op de held, die altijd donker is, haalt het oranje genoeg contrast. */
+.fz .fz-radar { display: inline-flex; align-items: center; gap: .75rem; margin-top: 1.25rem; min-height: 44px; color: #fff; text-decoration: none; }
+.fz .fz-radar svg { --lijn: 3.6px; width: 3.25rem; height: 3.25rem; flex: none; overflow: visible; fill: none; stroke: #ff5900; }
+/* de ringen naar buiten toe dunner, zoals op een radarscherm; de stip in het midden gevuld */
+.fz .fz-radar-ring-1 { stroke-width: calc(var(--lijn) * 1.05); }
+.fz .fz-radar-ring-2 { stroke-width: calc(var(--lijn) * .75); }
+.fz .fz-radar-ring-3 { stroke-width: calc(var(--lijn) * .5); }
+.fz .fz-radar-midden { fill: #ff5900; stroke: none; transform-box: view-box; transform-origin: 50px 50px; }
+.fz .fz-radar-tekst { display: grid; line-height: 1.35; font-size: 13.5px; }
+.fz .fz-radar-tekst b { font-size: 15px; font-weight: 600; }
+.fz .fz-radar-tekst span { color: rgb(255 255 255 / .8); }
+.fz .fz-radar:hover b, .fz .fz-radar:focus-visible b { text-decoration: underline; text-underline-offset: 3px; }
+/* de golf loopt van de stip tot de buitenste ring en wordt onderweg wat dikker, als een rimpeling; de stip ademt mee.
+   Geen vector-effect: Chrome tekent een geschaalde golf met non-scaling-stroke niet groter. */
+.fz .fz-radar-golf { opacity: 0; stroke-width: calc(var(--lijn) * .2);
+                     transform-box: view-box; transform-origin: 50px 50px; }
+.fz .fz-radar[data-nieuw] .fz-radar-golf { animation: fz-radar-golf 2.6s cubic-bezier(.3, .5, .5, 1) infinite; }
+.fz .fz-radar[data-nieuw] .fz-radar-midden { animation: fz-radar-adem 2.6s ease-in-out infinite; }
+@keyframes fz-radar-golf { 0% { opacity: .95; transform: scale(1); } 65% { opacity: .55; } 100% { opacity: 0; transform: scale(5.75); } }
+@keyframes fz-radar-adem { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.3); } 45% { transform: scale(1); } }
+@media (prefers-reduced-motion: reduce) { .fz .fz-radar[data-nieuw] .fz-radar-golf, .fz .fz-radar[data-nieuw] .fz-radar-midden { animation: none; } }
+@media (min-width: 64rem) {
+  .fz .held .fz-radar { position: absolute; inset-inline-end: 3rem; top: 50%; transform: translateY(-50%); margin-top: 0;
+                        flex-direction: column; gap: .9rem; text-align: center; }
+  .fz .held .fz-radar svg { --lijn: 2.8px; width: 7.5rem; height: 7.5rem; }
+}
+/* de zijkolom van Factiz Radar: genummerde stappen en tellingen die elk naar hun lijst in het archief gaan */
+.fz .fz-radar-tellingen { display: grid; margin-top: .25rem; }
+.fz .fz-radar-tellingen a { display: flex; align-items: baseline; justify-content: space-between; gap: .75rem; min-height: 2rem;
+                            padding-block: .3rem; font-size: 13px; line-height: 1.35; border-top: 1px solid var(--lijn); }
+.fz .fz-radar-tellingen li:first-child a { border-top: 0; }
+.fz .fz-radar-tellingen a span:first-child { min-width: 0; overflow-wrap: anywhere; }
+.fz .fz-radar-tellingen a:hover span:first-child { text-decoration: underline; text-underline-offset: .2em; }
+.fz .fz-radar-tellingen .getal { flex: none; font-size: 12px; color: var(--zacht); }
+/* een vertaalde eigen check: de regel bovenaan, klein en rustig, met de link naar het origineel (#37.8) */
+.fz .fz-eigen-vertaling { margin-bottom: .9rem; padding: .5rem .8rem; font-size: 13px; color: var(--zacht);
+                          border-inline-start: 3px solid var(--lijn-sterk); background: var(--vlak); border-radius: 0 var(--r) var(--r) 0; }
+/* de stip bij Radar in het menu: een vorm, dus 3:1 is genoeg, en dat haalt het oranje op licht en donker */
+.fz .fz-radar-stip { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #ff5900;
+                     margin-inline-end: 6px; vertical-align: middle; position: relative; top: -1px; }
+/* in het menu doet de tussenruimte van de link het werk: de stip dichter op het woord (PO 2026-11-19: "punt mag iets
+   dichter op de tekst") */
+.fz .navlink .fz-radar-stip { margin-inline-end: 0; top: 0; }
+/* De eigen factcheck (PLAN #37.4, B82, DESIGN §4x): de stijl Stempel, gekozen door de PO op 2026-11-18, sinds 2026-11-19 op
+   de opbouw van een factcheck (PO: "meer in lijn komen met het pagina design van de andere checks"). Eigen blijven het zegel
+   met de kop, het stempel van Factiz in het antwoord en de bronnen met hun nummer. Het onderscheid met het archief zit in de
+   vorm, ook in grijstinten (D12); de kleur van het oordeel is die van het archief, zonder rood. */
+.fz .fz-eigen-concept { display: inline-flex; align-items: center; min-height: 1.75rem; padding-inline: .7rem; border-radius: 999px;
+  border: 1px dashed var(--lijn-sterk); color: var(--zacht); font-size: 12.5px; margin: 0 0 1rem; }
+.fz .fz-eigen-top { display: flex; align-items: center; gap: .9rem; margin-bottom: 1rem; }
+.fz .fz-eigen-top > div { font-size: 13px; color: var(--zacht); line-height: 1.4; min-width: 0; }
+.fz .fz-eigen-top b { display: block; color: var(--inkt); font-weight: 600; font-size: 14px; }
+.fz .fz-zegel { width: 64px; height: 64px; flex: none; color: var(--inkt); }
+.fz .fz-zegel text { font-family: var(--sans); }
+.fz .fz-zegel .fz-zegel-ring { font-family: var(--mono); }
+.fz .fz-zegel-klein { width: 40px; height: 40px; }
+/* het zegel voor de kop van de Radar: zo hoog als de letters van de kop */
+.fz .fz-zegel-kop { width: 1.15em; height: 1.15em; }
+.fz .fz-eigen-kop { font-size: clamp(1.7rem, 5vw, 2.4rem); font-weight: 700; letter-spacing: -.035em; line-height: 1.08; margin: 0 0 1.2rem;
+  hyphens: auto; overflow-wrap: break-word;
+  text-wrap: balance; color: var(--inkt); }
+.fz .fz-eigen-zin { margin: .7rem 0 0; font-size: 14px; line-height: 1.5; }
+.fz .fz-eigen-kort { font-size: 1.12rem; line-height: 1.55; margin: 1.4rem 0; font-weight: 450; max-width: var(--maat-tekst); }
+.fz .fz-eigen-tekst p { margin: 0 0 1rem; max-width: var(--maat-tekst); font-size: 15.5px; line-height: 1.65; }
+.fz .fz-eigen-noot a { font-family: var(--mono); font-size: .72em; text-decoration: none; color: var(--accent); padding-inline: .12em; }
+.fz .fz-eigen-nodig { background: var(--markeer); color: inherit; padding: .05em .3em; border-radius: 3px; font-size: .88em; }
+.fz .fz-eigen-beelden { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; margin: 1.5rem 0; }
+.fz .fz-eigen-beelden figure { margin: 0; min-width: 0; }
+.fz .fz-eigen-beelden figcaption { font-size: 12.5px; color: var(--zacht); margin-top: .45rem; line-height: 1.45; }
+.fz .fz-eigen-plek { position: relative; display: grid; place-items: center; aspect-ratio: 4 / 3; max-width: 100%;
+  border: 1px solid var(--lijn-sterk); border-radius: var(--r); overflow: hidden;
+  background: repeating-linear-gradient(135deg, var(--vlak) 0 10px, var(--paneel) 10px 20px); }
+.fz .fz-eigen-foto { display: block; width: 100%; max-width: min(100%, 36rem); height: auto; border: 1px solid var(--lijn-sterk);
+  border-radius: var(--r); background: var(--paneel); }
+.fz .fz-eigen-wacht { position: absolute; inset-inline-start: .5rem; bottom: .5rem; font-family: var(--mono); font-size: 11px;
+  color: var(--zacht); background: var(--paneel); padding: .15rem .45rem; border-radius: 4px; }
+.fz .fz-eigen-afdruk { transform: rotate(-12deg); color: var(--l-inkt);
+  font-weight: 800; letter-spacing: .12em; font-size: clamp(1rem, 3.4vw, 1.5rem); text-transform: uppercase; padding: .2em .6em;
+  border: 3px double currentColor; border-radius: 4px; background: color-mix(in srgb, var(--paneel) 75%, transparent); white-space: nowrap; }
+.fz .fz-eigen-host { font-family: var(--mono); font-size: 12px; color: var(--zacht); overflow-wrap: anywhere; }
+.fz .fz-eigen-rol { overflow-x: auto; margin: 1.25rem 0; }
+.fz .fz-eigen-som { width: 100%; border-collapse: collapse; font-size: 14px; font-variant-numeric: tabular-nums; }
+.fz .fz-eigen-som caption { text-align: start; font-weight: 600; margin-bottom: .4rem; }
+.fz .fz-eigen-som th { font-size: 12px; color: var(--zacht); font-weight: 500; }
+.fz .fz-eigen-som th, .fz .fz-eigen-som td { text-align: start; padding: .5rem .6rem; border-bottom: 1px solid var(--lijn); vertical-align: top; }
+.fz .fz-eigen-som td:last-child, .fz .fz-eigen-som th:last-child { text-align: end; white-space: nowrap; }
+.fz .fz-eigen-tijd, .fz .fz-eigen-bronnen { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+/* de tijdlijn als inzetje (PO 2026-11-19: "Mag je meer zien als een echt inzetje, dus iets meer afstand van elkaar en
+   wellicht Divide ertussen, rij en kolommen"): elke rij met ruimte en een lijn ertussen, de datum links met het tijdstip
+   zacht eronder, een lijn tussen datum en gebeurtenis; op een telefoon de datum boven de gebeurtenis; sinds 2026-11-18 op
+   een eigen vlak, zodat ze zich onderscheidt van de lopende tekst erboven */
+.fz .fz-eigen-tijd { gap: 0; background: var(--vlak); border: 1px solid var(--lijn); border-radius: 10px; overflow: hidden; }
+.fz .fz-eigen-tijd li { display: grid; grid-template-columns: 10rem minmax(0, 1fr); font-size: 14.5px; line-height: 1.55; }
+.fz .fz-eigen-tijd li + li { border-top: 1px solid var(--lijn); }
+.fz .fz-eigen-tijd li > * { padding: .8rem 1.1rem; }
+.fz .fz-eigen-tijd li > * + * { border-inline-start: 1px solid var(--lijn); }
+@media (max-width: 30rem) {
+  .fz .fz-eigen-tijd li { grid-template-columns: minmax(0, 1fr); }
+  .fz .fz-eigen-tijd li > * + * { border-inline-start: 0; padding-top: 0; }
+  .fz .fz-eigen-tijd li > :first-child { padding-bottom: .2rem; }
+}
+.fz .fz-eigen-wanneer { font-weight: 600; font-size: 13px; font-variant-numeric: tabular-nums; }
+/* de datum is kleiner dan de gebeurtenis: iets lager, zodat beide op één regel lijnen */
+@media (min-width: 30.01rem) { .fz .fz-eigen-tijd li > .fz-eigen-wanneer { padding-top: calc(.8rem + 2px); } }
+.fz .fz-eigen-tijdstip { display: block; font-weight: 400; color: var(--zacht); }
+/* de bronnen op de maat van de lopende tekst (DESIGNSYSTEEM §3.3, PO 2026-11-23): niet over de hele kolom */
+.fz .fz-eigen-bronnen li { display: grid; grid-template-columns: 1.8rem minmax(0, 1fr); gap: .5rem; font-size: 14px;
+  max-width: var(--maat-tekst); overflow-wrap: anywhere; scroll-margin-top: 5rem; }
+.fz .fz-eigen-bronnen li:target { background: var(--markeer); border-radius: 4px; }
+.fz .fz-eigen-nr { font-weight: 700; }
+.fz .fz-eigen-bronlink { color: var(--inkt); text-decoration: none; border-radius: 4px; }
+.fz .fz-eigen-bronlink .fz-eigen-host { color: var(--accent); }
+.fz .fz-eigen-bronlink:hover .fz-eigen-brontitel, .fz .fz-eigen-bronlink:focus-visible .fz-eigen-brontitel { text-decoration: underline; }
+.fz .fz-eigen-bronlink:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.fz .fz-eigen-zacht { color: var(--zacht); }
+.fz .fz-eigen-voet { margin-top: 2rem; display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; font-size: 13.5px; color: var(--zacht);
+  border-top: 1px solid var(--lijn); padding-top: 1rem; }
+/* wat nog uit te zoeken is (B84): een gewone lijst, open punten, geen vinkjes; de oproep eronder op een paneel */
+.fz .fz-eigen-uitzoeken { margin: 0; padding-inline-start: 1.2rem; display: grid; gap: .45rem; list-style: disc;
+  max-width: var(--maat-tekst); font-size: 15px; line-height: 1.55; }
+.fz .fz-eigen-uitzoeken li::marker { color: var(--zacht); }
+.fz .fz-eigen-nogdoen { margin-top: 2rem; border: 1px dashed var(--lijn-sterk); border-radius: 8px; padding: 1rem 1.1rem;
+  background: var(--vlak); font-size: 14px; }
+.fz .fz-eigen-nogdoen h3 { margin: 0 0 .4rem; font-size: 11px; font-family: var(--mono); letter-spacing: .08em; text-transform: uppercase;
+  color: var(--zacht); font-weight: 500; }
+.fz .fz-eigen-nogdoen ol { margin: 0; padding-inline-start: 1.2rem; display: grid; gap: .3rem; list-style: decimal; }
+.fz .fz-eigen-conceptje { border: 1px dashed var(--lijn-sterk); border-radius: 999px; padding: 0 .5rem; }
+/* in een lijst van het archief: het kleine zegel, het stempeltje en de naam van de redactie */
+.fz .fz-eigen-rijgroep { display: inline-flex; flex-wrap: wrap; align-items: center; gap: .5rem; min-width: 0; }
+.fz .fz-eigen-rijmerk { display: inline-flex; width: 20px; height: 20px; flex: none; color: var(--inkt); }
+.fz .fz-eigen-rijmerk > svg { width: 100%; height: 100%; }
+.fz .fz-eigen-rijmerk text { font-family: var(--sans); }
+.fz .fz-eigen-wie { font-size: 12px; font-weight: 600; color: var(--inkt); }
+}
+
+/* Een pagina van rechts naar links (PLAN #34.2bd, SPECS E9.S29): een pijl opzij draait mee, en de balken van de landen
+   groeien vanaf het begin van de regel. De wereldkaart en de jaren draaien niet om. */
+/* de korte pijl (`Pijl.astro`): zo hoog als een kleine letter, op de regel van de tekst */
+.fz .pijl { display: inline-block; width: .95em; height: .95em; vertical-align: -.14em; }
+[dir="rtl"] .fz .pijl { display: inline-block; transform: scaleX(-1); }
+[dir="rtl"] .fz .vk-land svg { transform: scaleX(-1); }
+
+/* De zijbalk van een dossier (#34.2ca, DESIGN §4r): de verwante dossiers onder één kop, en de begrippen als knoppen die
+   elk een zoekvraag naar het archief sturen */
+@layer components {
+  .fz .fz-zijlijst { list-style: none; margin: .35rem 0 0; padding: 0; }
+  .fz .fz-zijlijst a { display: block; padding: .5rem 0; font-weight: 500; color: var(--inkt); text-decoration: none;
+    border-top: 1px solid var(--lijn); line-height: 1.35; }
+  .fz .fz-zijlijst li:first-child a { border-top: 0; padding-top: .25rem; }
+  .fz .fz-zijlijst a:hover { color: var(--accent); }
+  .fz .fz-begrippen { list-style: none; margin: .6rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+  .fz .fz-begrippen form { margin: 0; }
+  .fz .fz-begrippen button { min-height: 2rem; padding: .25rem .75rem; border: 1px solid var(--lijn-sterk); border-radius: 999px;
+    background: var(--grond); color: var(--inkt); font: inherit; font-size: 13.5px; line-height: 1.2; cursor: pointer; }
+  .fz .fz-begrippen button:hover, .fz .fz-begrippen button:focus-visible { border-color: var(--accent); color: var(--accent); }
+  @media (pointer: coarse) { .fz .fz-zijlijst a, .fz .fz-begrippen button { min-height: 44px; } }
+}
+
+/* Het oordeel van de redacties als stempel (#34.2cc, DESIGN §4y): het woord in een dubbel kader, licht schuin, zoals de
+   eigen check, met klein erachter wie het zegt. De eigen check houdt haar zegel en Factiz (D12). */
+@layer components {
+  .fz .fz-stempelgroep { display: inline-flex; align-items: center; gap: .5rem; flex-wrap: wrap; min-width: 0; }
+  .fz .fz-stempel { border: 2px double var(--l-stip, var(--lijn-sterk)); color: var(--l-inkt, var(--inkt)); font-weight: 800;
+    letter-spacing: .1em; text-transform: uppercase; font-size: 11px; line-height: 1.5; padding: .05rem .4rem;
+    transform: rotate(-3deg); display: inline-block; white-space: nowrap; }
+  .fz .fz-stempel-groot { font-size: 15px; border-width: 3px; padding: .1rem .55rem; }
+  .fz .fz-stempel-wie { font-size: 12.5px; color: var(--zacht); font-weight: 500; letter-spacing: 0; text-transform: none; }
+  /* wie het checkte en wat elk zegt (PLAN #34.2cd): per redactie het stempel en de naam, de hele regel een link naar hun
+     checks; de namen onderstreept bij aanwijzen */
+  /* onder elkaar, de namen in één kolom achter de stempels; elke redactie een eigen link naar haar check eronder, en
+     alleen die naam licht op */
+  .fz .fz-eens { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .45rem .6rem; font-size: 13.5px; }
+  .fz .fz-eens > li { display: grid; grid-column: 1 / -1; grid-template-columns: subgrid; }
+  .fz a.fz-eens-soort { display: grid; grid-column: 1 / -1; grid-template-columns: subgrid; align-items: center;
+    justify-items: start; color: var(--inkt); text-decoration: none; }
+  .fz a.fz-eens-soort:hover .fz-eens-naam, .fz a.fz-eens-soort:focus-visible .fz-eens-naam { text-decoration: underline;
+    text-underline-offset: 3px; }
+  @media (pointer: coarse) { .fz .fz-eens { row-gap: 0; } .fz a.fz-eens-soort { min-height: 2.75rem; } }
+  /* de check waar een link heen springt: onder de kop vandaan, en even gemarkeerd */
+  .fz .fz-doel { scroll-margin-top: 5rem; }
+  .fz .fz-doel:target { background: var(--markeer); }
+  /* een naam die Factiz bewust weglaat (PLAN #34.2bw, SPECS E9.S8 AC13): een sticker in de kleur van een markeerstift,
+     geen zwarte balk; de naam zelf staat niet in de pagina */
+  .fz .fz-weg { display: inline-block; background: var(--markeer); color: var(--inkt); font-family: var(--sans);
+    font-size: .7em; font-weight: 600; letter-spacing: .02em; line-height: 1.55; padding: 0 .5em; border-radius: .35em;
+    vertical-align: .14em; white-space: nowrap; }
+  .fz .fz-weg sup { font-size: .8em; margin-inline-start: .15em; }
+  /* de vraag of we mogen meten (B88, SPECS E9.S36): onderaan, klein, ja en nee even groot; nooit over de hele pagina */
+  .fz .fz-meten { position: fixed; z-index: 40; inset-inline: 0; bottom: 0; margin: 0 auto .75rem; width: min(40rem, calc(100% - 1.5rem));
+    display: grid; gap: .75rem; padding: 1rem 1.1rem; background: var(--paneel); color: var(--inkt);
+    border: 1px solid var(--lijn-sterk); border-radius: .75rem; box-shadow: 0 6px 24px rgb(0 0 0 / .12);
+    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); }
+  .fz .fz-meten-knop { flex: 1 1 0; height: 2.75rem; font-size: 14px; }
+}
+@layer components {
+  /* op de factcheckpagina draagt het stempel het oordeel; de stip en de grote letter van het oude label vallen weg */
+  .fz .uitspraak-label.fz-stempelgroep { font-size: inherit; margin-bottom: .35rem; }
+  .fz .uitspraak-label.fz-stempelgroep::before { display: none; }
+}
+
+/* lopende tekst in de inhoud op de maat van een regel, en geen los woord op de laatste regel (PO 2026-11-20); een kaart of rij
+   die smaller is, blijft zoals ze is */
+@layer components {
+  .fz main header p, .fz main article p { max-width: var(--maat-tekst); }
+  .fz main p { text-wrap: pretty; }
+}

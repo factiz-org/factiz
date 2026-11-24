@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar ja) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "ja",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaverは私有財産を廃止したいと発言したことはなく、この引用は2020年のものだ",
+  "oordeel_zin": "この引用は2020年10月に匿名の書き手がMediumに投稿したブログに由来し、Klaverの報道官によれば、Klaverがそう発言したことは一度もない [2] [7]。",
+  "bewering": "Jesse Klaver（GL）：「選挙に勝ったら、私有財産を廃止する。」",
+  "kort": "10月5日、Jesse Klaverが選挙に勝ったら私有財産を廃止すると述べたとされる引用のスクリーンショットがXで出回った [1]。Klaverはそのような発言をしたことがない。この引用は、匿名の書き手が2020年10月にMediumに投稿したブログに由来する [2] [7]。ブログは削除されているが、引用は2022年、2025年、2026年とたびたび再浮上した [1] [7] [8]。",
+  "tekst": "このスクリーンショットは、10月5日月曜日の14時37分に「これを見ろ、本物の共産主義者だ。」という文言付きでXに現れた [1]。11月18日の時点で、この投稿には953件のいいねと186件の返信がついていた [1]。同日の午後には、コンテキストが付記された [1]。\n\nこの引用は、投稿よりも古い。2020年10月14日水曜日、Xのあるアカウントが、誰でも書き込めるプラットフォームであるMediumのブログへのリンクを共有した [2]。そのブログの見出しが、この引用だった [2]。数時間後、CIDI（Centrum Informatie en Documentatie Israël）は、Klaverが私有財産を廃止しようとしていると主張する反ユダヤ的な記事のせいで、Klaverの名前がトレンド入りしていると書いた [3]。CIDIによれば、筆者はKlaverにはユダヤ人の母親がいるらしいとも書き添えていた [3]。\n\nKlaverがこう発言したインタビュー、演説、綱領は存在しない。dpaは2022年に、この発言を記録したメディアを一つも見つけられなかった。すべての参照元はそのブログに行き着き、書き手はその時点でブログを削除していた [7]。Klaverの報道官はdpaに対し、彼はそんなことを言ったことはないと述べた [7]。GroenLinksの2021年の選挙綱領は「Tijd voor nieuw realisme」という題で、Klaverが筆頭候補だった [5]。dpaによれば、その中に「privébezit」や「privé-eigendom」という語は出てこない [7]。\n\nその後、この引用は繰り返し現れた。2022年2月にはFacebookに載っていた [7]。2025年10月、10月29日の下院選挙に向けた選挙戦のさなかに、スクリーンショットが再び出回り、報道官はそれをフェイクニュースと呼んだ [8]。2026年10月5日の投稿を受けて、Knackもこの引用を裏付ける証拠はないと書いた [9]。\n\nKlaverは2020年当時、GroenLinksの会派代表だった [4]。GroenLinksとPvdAは2026年6月13日に合流し、Progressief Nederland、PROとなった [6]。Klaverは現在、下院のPRO会派代表である [4]。",
+  "niet_weten": "このブログを誰が書いたのかは分かっていません。また、冗談のつもりで書かれたものかどうかも分かっていません。",
+  "bereik": "11月18日時点で、いいね953件、返信186件",
+  "nog_uitzoeken": [
+   "この引用が2021年3月と2023年11月にも出回っていたかどうか。",
+   "2026年の投稿について、PROのクラーフェルの広報担当者からのコメント。"
+  ],
+  "tijdlijn": [
+   "Xのアカウントが、この引用を見出しにしたMediumのブログへのリンクを共有する [2]。",
+   "CIDIがその記事を反ユダヤ的でフェイクだと指摘する [3]。",
+   "dpa：この発言は捏造である [7]。",
+   "AFP Factcheck Nederland（deCheckersが転載）：虚偽 [8]。",
+   "GroenLinksとPvdAがPROとして合流する [6]。",
+   "スクリーンショット付きのXの投稿 [1]。",
+   "Knack：この引用を裏付ける証拠はない [9]。"
+  ],
+  "beeld_bijschrift": [
+   "Xの投稿、2026年10月5日、14時37分。"
+  ],
+  "beeld_alt": [
+   "Jesse Klaverが私有財産の廃止について述べたとする捏造された引用が載った記事のスクリーンショット。スタンプ：虚偽。"
+  ]
+ }
+}

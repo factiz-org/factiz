@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "Angka 1,4 juta orang Rusia menyangkut tentara yang terluka dan gugur, bukan korban tewas warga sipil",
+  "oordeel_zin": "Satu setengah juta kira-kira adalah jumlah tentara Rusia yang gugur, terluka, atau hilang; yang gugur paling banyak sekitar 450.000, dan warga sipil di Rusia yang tewas menurut hitungan Novaja Gazeta Europa lebih dari 1.400 [1] [5].",
+  "bewering": "Di mana kemarahan ketika warga sipil Rusia tewas? Hampir satu setengah juta orang Rusia kehilangan nyawa.",
+  "kort": "Sebuah unggahan di X tanggal 22 Oktober menyebut hampir satu setengah juta orang Rusia tewas, dalam perbandingan dengan korban sipil di Gaza [7]. Angka 1,4 juta adalah perkiraan jumlah tentara Rusia yang gugur, terluka, atau hilang; yang gugur menurut lembaga Amerika CSIS sebanyak 400.000 sampai 450.000 [1]. Korban sipil tewas di Rusia dihitung Novaja Gazeta Europa setidaknya 1.406 hingga Mei [5].",
+  "tekst": "Pada 22 Oktober pukul 09.08, sebuah akun di X bertanya mengapa air mata mengalir untuk korban sipil di Gaza, tetapi tidak ketika warga sipil Rusia tewas [7]. Disusul pernyataan bahwa hampir satu setengah juta orang Rusia kehilangan nyawa [7]. Unggahan itu mendapat hampir 1.200 balasan [7].\n\nAngka sebesar itu memang ada, tetapi menyangkut tentara, dan tidak hanya yang tewas. Lembaga penelitian Amerika CSIS memperkirakan pada 1 Juli bahwa Rusia dari Februari 2022 hingga Juni 2026 memiliki sekitar 1,4 juta korban militer [1]. Di dalamnya terhitung tentara yang gugur, terluka, atau hilang [1]. Yang gugur menurut CSIS sebanyak 400.000 sampai 450.000 [1].\n\nStaf umum Ukraina menyimpan hitungan sendiri. Pada 22 Oktober angkanya 1.572.790 personel militer Rusia [4]. Di halaman itu tidak disebutkan apakah itu gabungan korban tewas dan terluka [4]. Ini adalah hitungan salah satu pihak dalam perang, bukan perkiraan independen.\n\nBerapa banyak tentara Rusia yang pasti tewas dihitung berdasarkan nama oleh Mediazona dan layanan bahasa Rusia BBC. Mereka memakai pengumuman duka, kabar dari keluarga, media lokal, dan pemberitahuan dari pemerintah daerah [3]. Hingga 23 Oktober mereka menemukan 282.993 orang [2]. Mereka sendiri menyebutnya batas bawah: jumlah sebenarnya menurut mereka kemungkinan jauh lebih tinggi [2].\n\nJadi ini bukan soal warga sipil. Novaja Gazeta Europa, surat kabar Rusia yang bekerja dari luar negeri, menghitung hingga 11 Mei 2026 setidaknya 1.406 korban sipil tewas di Rusia dan di Krimea yang diduduki sejak 2022 [5]. Di antaranya 524 jatuh di wilayah Kursk, di bagian yang diduduki Ukraina dari Agustus 2024 hingga Maret 2025 [5]. Surat kabar itu menyebut hitungannya sendiri terlalu rendah, karena pemerintah tidak melaporkan semua korban [5]. Kementerian Luar Negeri Rusia menyebut lebih dari 8.000 korban sipil tewas; menurut surat kabar itu, kementerian tersebut kemungkinan juga menghitung penduduk wilayah yang diduduki Rusia setelah 2022 [5].\n\nBahkan dengan angka tertinggi itu, selisihnya tetap besar. Satu setengah juta hampir 190 kali 8.000, dan lebih dari seribu kali hitungan Novaja Gazeta Europa.\n\nKerancuan antara korban dan korban tewas bukan hal baru. Pada Maret 2025 Nieuwscheckers memeriksa sebuah laporan yang menyebut satu juta korban tewas dalam perang; menurut mereka saat itu jumlahnya paling banyak 344.000 [6].",
+  "niet_weten": "Kami tidak tahu berapa banyak tentara Rusia yang sebenarnya gugur: angkanya berkisar dari 282.993 yang diketahui namanya hingga 450.000 menurut CSIS. Jumlah korban sipil Rusia yang tewas juga tidak pasti, dan wilayah mana yang dihitung sangat berpengaruh. Kami tidak tahu dari mana unggahan itu mendapat angkanya.",
+  "bereik": "234 suka dan 1.197 balasan pada 18 November",
+  "nog_uitzoeken": [
+   "Apa persisnya yang dihitung staf umum Ukraina sebagai kerugian: korban tewas dan terluka, dan juga tawanan?",
+   "Angka Mediazona di halaman mereka sendiri. Halaman mereka tertanggal 6 November menyebut 272.100 kasus dengan tanggal kematian yang diketahui.",
+   "Dari mana Kementerian Luar Negeri Rusia mendapat angka 8.000 korban sipil tewas.",
+   "Angka itu memang ada, tetapi bukan untuk korban tewas dan bukan untuk warga sipil. Kami memilih salah; menyesatkan juga bisa dibenarkan."
+  ],
+  "tijdlijn": [
+   "Novaja Gazeta Europa menghitung setidaknya 1.406 korban sipil tewas di Rusia dan Krimea sejak 2022 [5].",
+   "CSIS memperkirakan sekitar 1,4 juta korban militer Rusia, dengan 400.000 sampai 450.000 di antaranya gugur [1].",
+   "Sebuah unggahan berbahasa Belanda di X menyebut hampir satu setengah juta orang Rusia tewas [7].",
+   "Hitungan staf umum Ukraina berada di angka 1.572.790 personel militer Rusia [4].",
+   "Mediazona dan BBC mengetahui nama 282.993 personel militer Rusia yang gugur, hingga 23 Oktober [2]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 22 Oktober 2026, 09.08."
+  ],
+  "beeld_alt": [
+   "Sebuah unggahan di X yang menyebut hampir satu setengah juta orang Rusia tewas, dalam perbandingan dengan Gaza. Cap: SALAH."
+  ],
+  "rekensom": [
+   [
+    "Korban militer Rusia, Februari 2022 hingga Juni 2026 (CSIS)",
+    "gugur, terluka, dan hilang digabung",
+    "sekitar 1,4 juta"
+   ],
+   [
+    "Personel militer Rusia yang gugur, periode yang sama (CSIS)",
+    "perkiraan",
+    "400.000 sampai 450.000"
+   ],
+   [
+    "Personel militer Rusia yang gugur dan diketahui namanya, hingga 23 Oktober (Mediazona dan BBC)",
+    "hitungan dari sumber terbuka, batas bawah",
+    "282.993"
+   ],
+   [
+    "Korban sipil tewas di Rusia dan Krimea, hingga 11 Mei 2026 (Novaja Gazeta Europa)",
+    "882 dari laporan ditambah 524 di Kursk",
+    "setidaknya 1.406"
+   ],
+   [
+    "Satu setengah juta dibandingkan korban sipil tewas",
+    "1.500.000 dibagi 1.406, dan dibagi 8.000",
+    "lebih dari 1.000 kali, dan hampir 190 kali"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,1008 @@
+{
+ "_meta": "Labels van de toets voor de beta (ronde 4, PLAN #31.14, B45), 2026-10-27, gelezen door Claude. 'oordelen': per uitkomst (id en oordeel, of id, 10 en feit). Rood bij een waar bericht of een bericht zonder bewering: 'vals' (onterecht rood) of 'set fout' (het bericht is zelf niet waar of bevat wel een bewering). Groen bij nepnieuws: 'vals', 'beeld nodig' (de tekst klopt, de onwaarheid zit in het beeld) of 'set fout'. Rood bij nepnieuws, apart gelezen: 'bewijst', 'bewijst niet' of 'set fout'. Een 10: 'goed' of 'fout'. 'steekproef': rood bij nepnieuws met een andere bron dan de eigen check, 'past' of 'past niet'.",
+ "oordelen": [
+  {
+   "id": "b-000069",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "de tekst in het beeld klopt (Modi kondigde in 2015 het pakket van 1,25 lakh crore aan); wat onwaar is, zit in het beeld, dat lokaal blijft",
+   "bij": "proef"
+  },
+  {
+   "id": "b-019301",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "SL Guardian en SATP: de vader stond niet terecht in de hoofdzaak en kreeg eerder borgtocht; niet vrijgesproken in die zaak",
+   "bij": "proef"
+  },
+  {
+   "id": "b-019318",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "doesitstand.com neemt de check van Vera Files over (rated False)",
+   "bij": "proef"
+  },
+  {
+   "id": "b-019443",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Rappler en BusinessWorld: de COA kreeg miljarden pesos; alleen het IT-plan en de kapitaaluitgaven kregen nul",
+   "bij": "proef"
+  },
+  {
+   "id": "b-019421",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Yahoo neemt de check van AFP over: de video is uit 2011",
+   "bij": "proef"
+  },
+  {
+   "id": "b-013240",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "een factcheck van FactCheck.org; Sonnet beoordeelde de weerlegde bewering in plaats van het artikel"
+  },
+  {
+   "id": "b-012065",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "kop van Politico over de brief van oud-inlichtingenfunctionarissen; de kop overdrijft volgens Wikipedia, maar het is een betrouwbaar artikel; twijfel telt tegen ons"
+  },
+  {
+   "id": "b-008920",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "onze knip brak de weerlegging af ('In fact, the U.S.'); zo geeft het bericht alleen de onware bewering van Rogozin door"
+  },
+  {
+   "id": "b-015648",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "informatief artikel over het Oekraïense leger; Sonnet maakte van een losse omschrijving (Airmobile als special forces) de hoofdbewering en gaf 1"
+  },
+  {
+   "id": "b-013659",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "Russia Matters bericht wat de Russische veiligheidschef zegt; Sonnet beoordeelde zijn bewering"
+  },
+  {
+   "id": "b-011398",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "Meduza onderzoekt de beschuldigingen tegen Protasevich; Sonnet beoordeelde de beschuldiging"
+  },
+  {
+   "id": "b-006859",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "21st Century Wire (Vanessa Beeley) is een desinformatiesite, ten onrechte 'trustworthy' in de Sheffield-set"
+  },
+  {
+   "id": "b-013069",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "een weerlegging ('No, a man was not convicted'); Sonnet beoordeelde de weerlegde bewering"
+  },
+  {
+   "id": "b-005538",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "bericht over een echte oefening in Riga; Sonnet koppelde het aan EUvsDisinfo-zaken over de Russische versie; twijfel telt tegen ons"
+  },
+  {
+   "id": "tipline:03827",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "vraagt of een audiofragment van dr. Trehan is: bevat een bewering, en die is onwaar"
+  },
+  {
+   "id": "tipline:03799",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "een bewering (Amit Shah naar New York), ten onrechte 'No' in de tiplineset"
+  },
+  {
+   "id": "tipline:04014",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "vraagt naar een bewering (leeuwen in Rusland) die onwaar is"
+  },
+  {
+   "id": "tipline:03597",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "een gezondheidsbewering (koude dranken mijden tegen corona)"
+  },
+  {
+   "id": "tipline:03191",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "vraagt of een Johns Hopkins-rapport nep is: bevat de bewering, en die is onwaar"
+  },
+  {
+   "id": "b-017271",
+   "oordeel": "klopt",
+   "label": "set fout",
+   "waarom": "de claimtekst in de check is waar opgeschreven ('Glaxo en het Wuhan-instituut zijn verschillende bedrijven'); de check ging over het omgekeerde"
+  },
+  {
+   "id": "b-019323",
+   "oordeel": "klopt",
+   "label": "vals",
+   "waarom": "'Thailand pakt Sri Lanka er specifiek uit' is onwaar; Sonnet zag zelf dat het een bredere hervorming was en zei toch klopt"
+  },
+  {
+   "id": "b-019364",
+   "oordeel": "klopt",
+   "label": "vals",
+   "waarom": "niet het Europees Parlement maar een groep europarlementariërs; Sonnet zag het zelf en zei toch klopt"
+  },
+  {
+   "id": "b-019472",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019431",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019054",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019297",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019403",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019328",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-019100",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "een bewering over wat een video of foto toont; de gebeurtenis was echt, het beeld niet; Sonnet zag het beeld niet en zei toch klopt"
+  },
+  {
+   "id": "b-000032",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000299",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000238",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000554",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000071",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000408",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000657",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000673",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000035",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000826",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000629",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000350",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000799",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000384",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000442",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000345",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000062",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-000599",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000386",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000029",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-000346",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-000220",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019117",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019109",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019192",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019295",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019442",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019169",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019299",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019087",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019337",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019136",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019303",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019246",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019332",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019188",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019259",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019350",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019231",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019346",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019213",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019114",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019190",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019422",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019164",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019069",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019252",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019357",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019407",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019198",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019099",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019104",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019250",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-016601",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019292",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019187",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019363",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019258",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019424",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019185",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019362",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019212",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019194",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019436",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019090",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019221",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019115",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019432",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019352",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019209",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019279",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019218",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019219",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019156",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019355",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019476",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019159",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019155",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019230",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-019351",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019335",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019113",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019274",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019257",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019385",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019093",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019377",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019370",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019149",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019415",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019280",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019068",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019251",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-019184",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019177",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019465",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-019168",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019094",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019367",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019366",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-016388",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019482",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019394",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019224",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019288",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019302",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019414",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019083",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "gelezen: de geciteerde passages tonen het beslissende punt niet, of de bron is niet betrouwbaar genoeg (OpIndia)"
+  },
+  {
+   "id": "b-019418",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019256",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019079",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019140",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-016449",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019376",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019457",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019057",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019460",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019132",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019459",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019340",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019110",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019413",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019451",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019253",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019162",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "gelezen: de beslissende passage komt uit een factcheck, of uit een artikel dat een factcheck overneemt (bv. AFP via Yahoo, Alt News via Radio Free, SouthCheck, CyberPeace, Rappler)"
+  },
+  {
+   "id": "b-019402",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  },
+  {
+   "id": "b-019478",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde passage uit nieuws, een overheid of een andere betrouwbare bron die geen factcheck is, spreekt de bewering direct tegen"
+  }
+ ],
+ "steekproef": [
+  {
+   "id": "b-000299",
+   "label": "past",
+   "waarom": "factchecks over Gandhi in het Britse leger"
+  },
+  {
+   "id": "b-000554",
+   "label": "past",
+   "waarom": "Fact Crescendo: Mamata veinsde haar verwonding niet"
+  },
+  {
+   "id": "b-000408",
+   "label": "past",
+   "waarom": "The Quint over precies deze virale tekst"
+  },
+  {
+   "id": "b-000657",
+   "label": "past",
+   "waarom": "The Quint over de JNU-student"
+  },
+  {
+   "id": "b-000035",
+   "label": "past",
+   "waarom": "Vishvas News en Factly: oude foto, valse claim over Ambani's kleinzoon"
+  },
+  {
+   "id": "b-000826",
+   "label": "past",
+   "waarom": "factchecks over de vicepresident van Bharat Biotech"
+  },
+  {
+   "id": "b-000629",
+   "label": "past",
+   "waarom": "factchecks over deze foto uit Assam"
+  },
+  {
+   "id": "b-000799",
+   "label": "past",
+   "waarom": "NewsMeter: de foto is bewerkt"
+  },
+  {
+   "id": "b-000345",
+   "label": "past",
+   "waarom": "The Quint: oud TMC-affiche als steun voor Congress"
+  },
+  {
+   "id": "b-000220",
+   "label": "past",
+   "waarom": "Factly: bewerkte exitpoll"
+  },
+  {
+   "id": "b-000062",
+   "label": "past niet",
+   "waarom": "de check gaat over een oude overstromingsfoto uit Bihar, niet over terroristen in Uttarakhand; daarom wordt elk rood bij bekend nepnieuws met een andere bron gelezen"
+  },
+  {
+   "id": "b-000346",
+   "label": "past niet",
+   "waarom": "onzeker of de bewerkte foto van Shah Rukh Khan over de AIMIM-campagne gaat; de andere checks gaan over iets anders"
+  }
+ ]
+}

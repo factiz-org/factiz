@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "米国の公式データによると、1995年以降、はしかワクチンは、はしかの感染よりも1,700パーセント多い死亡と関連づけられている。",
+  "kern": [
+   "この数字は、誰でも報告を提出できる米国のワクチン安全性データベースVAERSへの報告と、確認されたはしかによる死亡を比較したものだが、専門家はAFPに対し、こうした報告ではワクチンが死亡の原因だったことは示せないと述べた [1]。",
+   "大規模な安全性研究によると、麻疹・おたふくかぜ・風疹ワクチンによる重篤な有害事象はまれである [1]。"
+  ],
+  "rondgang": "この主張はSubstackの記事に由来し、汎米保健機構(Pan American Health Organization)が、米国はもはやはしかの排除基準を満たしていないと判断したのと時を同じくして、X、Facebook、Instagramで拡散した [1]。"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "_meta": "Labels van bekend nepnieuws in echte vorm (P6 van fase 0, PLAN #32.0d, B47), 2026-10-27, gelezen door Claude. 'set': herschrijvingen van deel D die vóór de toets zijn afgewezen, met reden (id = de claim); het volgende bericht in dezelfde vaste volgorde neemt de plek in. 'oordelen': per rood met een andere bron dan de eigen groep of het eigen cluster (id, wat: bewijs): 'bewijst', 'bewijst via factcheck', 'bewijst niet' of 'set fout'.",
+ "set": [
+  {
+   "id": "gfc-05e986a682544961",
+   "label": "afgewezen",
+   "waarom": "Haiku weigerde de herschrijving (Murmu)"
+  },
+  {
+   "id": "gfc-3488d10af421f29a",
+   "label": "afgewezen",
+   "waarom": "de herschrijving zegt dat WhatsApp Gold een oplichterij is; dat is waar, de bewering is omgedraaid"
+  },
+  {
+   "id": "gfc-f944c09a75cf3a4c",
+   "label": "afgewezen",
+   "waarom": "de claimtekst mengt de kop van de ontkrachting met de bewering; de herschrijving is verward"
+  },
+  {
+   "id": "gfc-abaa0f58b6b3ad9f",
+   "label": "afgewezen",
+   "waarom": "de claim noemt het citaat van Kissinger niet; Haiku verzon de inhoud"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "R:gfc-93506dd35af6815a",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "waarom": "BOOM en Deccan Chronicle: de video is een oude advertentie van Prega News"
+  },
+  {
+   "id": "R:gfc-a81a8cb0becb133c",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "waarom": "Factly: de video komt uit Erbil, Irak, en stond online vóór de uitspraak"
+  },
+  {
+   "id": "R:gfc-b2f544c323470518",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "waarom": "Alt News en The Quint: gescripte video voor vermaak"
+  },
+  {
+   "id": "R:gfc-78f0cd2d9ba3302e",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "waarom": "BOOM: de woordvoerder van AIIMS bevestigt dat AIIMS de lijst nooit verspreidde"
+  }
+ ],
+ "set_fout": [
+  {
+   "id": "R:gfc-500afe20b20d4ac6",
+   "waarom": "de claimtekst van redactie A is de ontkrachting zelf ('The viral video does not [show the] Chief Electoral Officer of Gujarat. It shows Atul Patel ...'); Factiz zei terecht klopt, regel 2 haalde de kleur weg. Streng geteld blijft het een misser."
+  }
+ ]
+}

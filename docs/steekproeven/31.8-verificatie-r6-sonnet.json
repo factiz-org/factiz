@@ -1,0 +1,220 @@
+{
+ "_meta": "Labels van ronde 6, in het wild (verificatie-v4, sonnet, a), PLAN #31.8, 2026-10-26, gelezen door Claude. Elk oordeel met bron (klopt niet, klopt): 'houdt stand' als de geciteerde bron of check het oordeel over de tekst van dit bericht draagt, anders 'houdt geen stand'. let op: 'terecht' als de reden een van de drie is en klopt. Bij twijfel het strengste label.",
+ "labels": [
+  {
+   "sleutel": "a:t-00668",
+   "label": "houdt stand",
+   "waarom": "gelezen: Youturn en Fact Crescendo: dezelfde bewering over nepvingers voor stemfraude"
+  },
+  {
+   "sleutel": "a:t-01246",
+   "label": "houdt stand",
+   "waarom": "gelezen: The Quint, Factly: WHO en ICMR gaven deze waarschuwing niet"
+  },
+  {
+   "sleutel": "a:t-01847",
+   "label": "houdt stand",
+   "waarom": "gelezen: Fact Crescendo: dezelfde bewering over de prijsstijging na de verkiezingen"
+  },
+  {
+   "sleutel": "a:t-03164",
+   "label": "houdt stand",
+   "waarom": "gelezen: Factly en anderen: 'National Geographic betaalde 1 miljoen' is een terugkerende hoax"
+  },
+  {
+   "sleutel": "a:t-03248",
+   "label": "houdt stand",
+   "waarom": "gelezen: The Quint, Fact Crescendo, Vishvas: precies deze virale 'High Court-order' (een Pakistaanse order, in India gedeeld)"
+  },
+  {
+   "sleutel": "a:t-03260",
+   "label": "houdt stand",
+   "waarom": "gelezen: The Quint: licht van kaarsen doodt het virus niet"
+  },
+  {
+   "sleutel": "a:t-03311",
+   "label": "houdt stand",
+   "waarom": "gelezen: Youturn, The Quint, Vishvas: precies deze bewering over de Janata-avondklok"
+  },
+  {
+   "sleutel": "a:t-03476",
+   "label": "houdt stand",
+   "waarom": "gelezen: Factly, Fact Crescendo: het verhaal van de 'Masha Allah'-biryani is vals"
+  },
+  {
+   "sleutel": "a:t-04021",
+   "label": "houdt stand",
+   "waarom": "gelezen: Youturn en anderen: de bekende kettingbrief over nieuwe communicatieregels"
+  },
+  {
+   "sleutel": "a:t-04030",
+   "label": "houdt stand",
+   "waarom": "gelezen: Fact Crescendo, Factly: de zangeres is een Britse vrouw, geen Spaanse radio"
+  },
+  {
+   "sleutel": "a:t-04321",
+   "label": "houdt stand",
+   "waarom": "gelezen: The Quint, Fact Crescendo, Youturn: Jyoti Paswan is niet verkracht en vermoord"
+  },
+  {
+   "sleutel": "a:t-04338",
+   "label": "houdt stand",
+   "waarom": "gelezen: Factly: het hantavirus is niet nieuw; het bericht doet een bekende ziekte voor als nieuwe uitbraak"
+  },
+  {
+   "sleutel": "a:t-04480",
+   "label": "houdt stand",
+   "waarom": "gelezen: Aaj Tak: de stem is niet van dr. Trehan"
+  },
+  {
+   "sleutel": "a:t-04509",
+   "label": "houdt stand",
+   "waarom": "gelezen: Fact Crescendo: Kamal Nath zei dit niet"
+  },
+  {
+   "sleutel": "a:t-04635",
+   "label": "houdt stand",
+   "waarom": "gelezen: Fact Crescendo, The Quint: het citaat is niet van Ratan Tata"
+  },
+  {
+   "sleutel": "a:t-04798",
+   "label": "houdt stand",
+   "waarom": "gelezen: Aaj Tak, Amar Ujala: Congress stelde Mahesh Pathak op in Mathura, niet Sapna Chaudhary"
+  },
+  {
+   "sleutel": "a:t-05037",
+   "label": "houdt stand",
+   "waarom": "gelezen: Youturn, Factly: de Luppo-cake verlamt geen kinderen"
+  },
+  {
+   "sleutel": "a:t-02528",
+   "label": "houdt geen stand",
+   "waarom": "de bronnen zeggen zelf dat de kerk in Ceuta (2017) de Ganesh-stoet binnenliet (NewsMobile: 'did welcome Ganesha'); 'kerkleiding' tegen 'vicaris' is muggenziften"
+  },
+  {
+   "sleutel": "a:t-03727",
+   "label": "houdt geen stand",
+   "waarom": "de vlag van 360 ft bij Attari/Wagah bestaat (2017, Rs 3,5 crore); de checks gingen over een video uit Hyderabad bij het bericht, niet over deze tekst"
+  },
+  {
+   "sleutel": "a:t-00055",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00092",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00100",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00364",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00647",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00679",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00781",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00804",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-00906",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-01538",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02133",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02399",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02526",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02538",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02612",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02730",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-02869",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-03059",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-03072",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-03806",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-04455",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-04810",
+   "label": "houdt stand",
+   "waarom": "gelezen: de geciteerde bron bevestigt de kern van het bericht"
+  },
+  {
+   "sleutel": "a:t-03751",
+   "label": "terecht",
+   "waarom": "reden 2 en 3: de bekende kettingbrief over 'de piek in twee weken', verder dan het bewijs"
+  },
+  {
+   "sleutel": "a:t-04937",
+   "label": "terecht",
+   "waarom": "reden 2 en 3: corona-kettingbericht met huismiddeltjes die niet beschermen"
+  }
+ ]
+}

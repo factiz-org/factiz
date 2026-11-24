@@ -1,0 +1,55 @@
+---
+// Is er een wereldwijde database van factchecks? (docs/voorstellen/2026-11-20-seo-geo.md, A3; PO 2026-11-20: "Yes, start
+// week 1"): de vraag die mensen en AI-machines stellen, recht en eerlijk beantwoord, met wat er nog meer bestaat en de
+// vragen eronder. Gestructureerde gegevens: een FAQPage met dezelfde vragen en een Dataset voor het archief. De tekst in de
+// woordenlijsten, de getallen uit de uitgave.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, BASIS, BCP47, adresSite, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const tk = g.tellingen;
+const getallen = { paginas: tk.paginas, redacties: tk.redacties, talen: tk.talen };
+const vragen = [1, 2, 3, 4, 5, 6].map((i) => [t(`db_v${i}`), t(`db_a${i}`, getallen)]);
+const hier = adresSite(taal, 'global-fact-check-database');
+const ld = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'FAQPage', '@id': `${hier}#vragen`, url: hier, inLanguage: BCP47[taal],
+      mainEntity: vragen.map(([v, a]) => ({ '@type': 'Question', name: v, acceptedAnswer: { '@type': 'Answer', text: a } })) },
+    { '@type': 'Dataset', '@id': `${BASIS}/#archief`, name: t('db_naam'), description: t('kernzin', getallen),
+      url: adresSite(taal), inLanguage: TALEN.map((x) => BCP47[x]), isAccessibleForFree: true,
+      // de maker voluit: Google volgt een verwijzing naar de Organization op de startpagina niet (Search Console, 2026-11-21:
+      // "Ongeldig objecttype voor veld 'creator'"); dezelfde @id, zodat het één organisatie blijft
+      license: adresSite(taal, 'sources'),
+      creator: { '@type': 'Organization', '@id': `${BASIS}/#factiz`, name: 'Factiz', url: `${BASIS}/` },
+      keywords: [t('db_naam'), 'fact-check', 'ClaimReview', 'misinformation', 'disinformation'] },
+  ],
+}).replaceAll('<', '\\u003c');
+---
+<Site titel={t('db_kop')} omschrijving={t('db_antwoord', getallen)} taal={taal} delen={['global-fact-check-database']} aangeboden={TALEN} ld={ld}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[t('db_naam')]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{t('db_kop')}</h1>
+      <p class="text-[17px] leading-relaxed">{t('db_antwoord', getallen)}</p>
+      <div class="mt-2 flex flex-wrap gap-2">
+        <a class="knop knop-primair" href={pad(taal, 'fact-checks')}>{t('db_zoeken')}</a>
+        <a class="knop" href={pad(taal, 'radar')}>{t('db_radar')}</a>
+      </div>
+    </header>
+    <article class="mt-10 grid max-w-[65ch] gap-10">
+      <section id="elders" aria-labelledby="k-elders" class="grid gap-3">
+        <h2 id="k-elders" class="leeskop">{t('db_elders_kop')}</h2>
+        <p class="leading-relaxed">{t('db_elders')}</p>
+      </section>
+      <section id="vragen" aria-labelledby="k-vragen" class="grid gap-5">
+        <h2 id="k-vragen" class="leeskop">{t('db_vragen_kop')}</h2>
+        {vragen.map(([v, a]) => (
+          <div class="grid gap-1.5"><h3 class="kaartkop">{v}</h3><p class="leading-relaxed">{a}</p></div>
+        ))}
+      </section>
+    </article>
+  </div>
+</Site>

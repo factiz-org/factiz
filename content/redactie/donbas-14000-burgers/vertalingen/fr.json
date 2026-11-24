@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck donbas-14000-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "ba06cccae7cdcddc",
+ "veldafdrukken": {
+  "kop": "b723d09f6cdf1853",
+  "oordeel_zin": "239f5f4655dc9207",
+  "bewering": "cc09a248b7b67871",
+  "kort": "de77eb1252edda56",
+  "tekst": "029927f65df9bea0",
+  "niet_weten": "4606172cf1217424",
+  "bereik": "99d2dd69ec6886a1",
+  "nog_uitzoeken": "d56dadd482824e29",
+  "tijdlijn": "ea0958e54e3433d1",
+  "beeld_bijschrift": "a9f608bb44ba9a5f",
+  "beeld_alt": "6194cf5c4dace36b",
+  "rekensom": "d25a696eb228bcc0"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Dans le Donbass, avant 2022, 3 404 civils ont été tués des deux côtés, et non 14 000 par l'Ukraine",
+  "oordeel_zin": "L'ONU a recensé de avril 2014 à fin 2021 14 200 à 14 400 morts dans la guerre dans l'est, dont au moins 3 404 civils des deux côtés de la ligne de front, et nous n'avons trouvé aucune déclaration dans laquelle Zelensky appelle à détruire la Russie [1] [3].",
+  "bewering": "L'Ukraine bombarde le Donbass depuis 2014 et y a tué des milliers de civils ; maintenant Zelensky veut que le monde détruise la Russie.",
+  "kort": "En août, il a circulé sur X que l'Ukraine avait tué 10 000 civils dans le Donbass depuis 2014, et en octobre que Zelensky avait appelé le monde à détruire la Russie [6] [7]. Selon l'ONU, de avril 2014 à fin 2021, 14 200 à 14 400 personnes ont été tuées, dont au moins 3 404 civils, des deux côtés de la ligne de front [1]. Nous n'avons pas trouvé de déclaration dans laquelle Zelensky appelle à détruire la Russie ; à cette époque, il demandait plus de pression sur la Russie [3].",
+  "tekst": "Le 12 octobre à 11 h 53, un compte sur X a écrit que Zelensky appelait le monde à une réponse forte pour détruire aussi la Russie [6]. Le texte parle ensuite de la destruction de toute vie dans une région [6]. L'image en dessous est un portrait de Zelensky, sans texte. Le post a reçu plus de 11 000 likes [6]. En août, un autre compte a écrit que l'Ukraine bombardait le Donbass depuis 2014, avec 10 000 morts civils, et que Zelensky continuait sur cette voie [7].\n\nLe chiffre de 14 000 circule depuis 2022 comme preuve que l'Ukraine a tué 14 000 civils dans le Donbass [2] [5]. Il provient du décompte de l'ONU. Le Haut-Commissariat des Nations unies aux droits de l'homme (HCDH) estimait en janvier 2022 que, du 14 avril 2014 au 31 décembre 2021, 14 200 à 14 400 personnes avaient péri à cause de la guerre dans l'est de l'Ukraine [1]. Ce sont tous les morts, des deux côtés : environ 4 400 militaires ukrainiens, environ 6 500 combattants des groupes armés et au moins 3 404 civils [1].\n\nParmi ces 3 404 civils, 298 sont morts à bord du vol MH17, le 17 juillet 2014 [1]. La plupart des autres civils sont tombés en 2014 et 2015, quand les combats étaient les plus intenses : 2 084 et 955 [1]. De 2016 à 2021, ils étaient 365 au total [1].\n\nZelensky est devenu président en mai 2019. En 2019, 2020 et 2021, l'ONU a recensé 78 morts civils au total, des deux côtés de la ligne de front et toutes causes confondues [1]. En 2021, plus de la moitié de toutes les victimes civiles ont été causées par des mines et des explosifs restés sur place [1].\n\nDes civils sont toutefois tombés plus souvent du côté des groupes armés ces dernières années. De 2018 à 2021, 310 des 381 civils tués ou blessés l'ont été par des tirs dans la zone des soi-disant républiques populaires de Donetsk et de Louhansk [1]. Qui a tiré, ce rapport ne le dit pas. Des analystes qui ont vérifié les chiffres soulignent que des civils ont été tués par les deux camps [2]. EUvsDisinfo, la base de données de l'UE sur la désinformation, a de nouveau décrit en mars 2025 le récit selon lequel la Russie a dû intervenir en 2022 parce que des Ukrainiens massacraient des Russes dans le Donbass [8].\n\nNous n'avons trouvé aucune source pour l'appel à détruire la Russie. Dans ses propres textes de ces jours-là, Zelensky demande à l'Europe et aux États-Unis d'exercer plus de pression sur la Russie, afin d'obtenir un vrai cessez-le-feu pour les installations énergétiques [3]. Début octobre, il y a eu de lourdes attaques russes : le 7 octobre, 28 personnes ont péri selon le ministre ukrainien de l'Intérieur [4].",
+  "niet_weten": "Nous ne savons pas à quelle déclaration de Zelensky le post fait référence, ni de quelle attaque à 33 morts il s'agit. Le rapport de l'ONU ne dit pas qui a tué les civils, seulement où ils sont tombés et à cause de quoi.",
+  "bereik": "11 682 j'aime et 786 réponses le 18 novembre, sous la publication du 12 octobre",
+  "nog_uitzoeken": [
+   "À quelle déclaration de Zelensky le post fait référence. Nous voulons comparer ses propos du 11 ou du 12 octobre, en ukrainien et en anglais, avec la traduction donnée dans le post : « détruire » peut-il renvoyer à autre chose, comme la machine de guerre russe ou les raffineries ?",
+   "De quelle attaque à 33 morts le post parle.",
+   "Comment les morts civils de 2014 et 2015 se répartissaient entre les deux côtés de la ligne de front, si l'ONU le précise quelque part."
+  ],
+  "tijdlijn": [
+   "298 personnes meurent à bord du vol MH17 ; l'ONU les compte parmi les civils tués [1].",
+   "L'OHCHR publie le décompte jusqu'à fin 2021 : 14 200 à 14 400 morts, dont au moins 3 404 civils [1].",
+   "Detector Media vérifie le récit d'un génocide dans le Donbass [5].",
+   "Une publication néerlandaise sur X évoque 10 000 civils tués dans le Donbass depuis 2014 [7].",
+   "Une attaque russe avec des missiles et des drones coûte la vie à 28 personnes en Ukraine [4].",
+   "Une publication néerlandaise sur X affirme que Zelensky appelle le monde à détruire la Russie [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 12 octobre 2026, 11 h 53."
+  ],
+  "beeld_alt": [
+   "Une publication sur X indiquant que Zelensky appelle le monde à détruire la Russie, avec un portrait de Zelensky en dessous. Tampon : FAUX."
+  ],
+  "rekensom": [
+   [
+    "Tous les morts, du 14 avril 2014 à 2021 inclus",
+    "civils, militaires ukrainiens et groupes armés ensemble",
+    "14 200 à 14 400"
+   ],
+   [
+    "Civils",
+    "3 106 plus 298 à bord du vol MH17",
+    "au moins 3 404"
+   ],
+   [
+    "Civils en 2014 et 2015",
+    "2 084 plus 955",
+    "3 039"
+   ],
+   [
+    "Civils de 2016 à 2021 inclus",
+    "112 + 117 + 58 + 27 + 26 + 25",
+    "365"
+   ],
+   [
+    "Civils en 2019, 2020 et 2021",
+    "27 + 26 + 25",
+    "78"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck donbas-14000-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "ba06cccae7cdcddc",
+ "veldafdrukken": {
+  "kop": "b723d09f6cdf1853",
+  "oordeel_zin": "239f5f4655dc9207",
+  "bewering": "cc09a248b7b67871",
+  "kort": "de77eb1252edda56",
+  "tekst": "029927f65df9bea0",
+  "niet_weten": "4606172cf1217424",
+  "bereik": "99d2dd69ec6886a1",
+  "nog_uitzoeken": "d56dadd482824e29",
+  "tijdlijn": "ea0958e54e3433d1",
+  "beeld_bijschrift": "a9f608bb44ba9a5f",
+  "beeld_alt": "6194cf5c4dace36b",
+  "rekensom": "d25a696eb228bcc0"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "In the Donbas before 2022 there were 3,404 civilian deaths on both sides, not 14,000 caused by Ukraine",
+  "oordeel_zin": "From April 2014 to the end of 2021 the UN counted 14,200 to 14,400 deaths in the war in the east, of whom at least 3,404 were civilians on both sides of the front line, and we found no statement in which Zelensky calls for destroying Russia [1] [3].",
+  "bewering": "Ukraine bombed the Donbas from 2014 on and killed thousands of civilians there; now Zelensky wants the world to destroy Russia.",
+  "kort": "In August a claim circulated on X that Ukraine killed 10,000 civilians in the Donbas since 2014, and in October that Zelensky called on the world to destroy Russia [6] [7]. According to the UN, from April 2014 to the end of 2021 14,200 to 14,400 people were killed, of whom at least 3,404 were civilians, on both sides of the front line [1]. We did not find a statement in which Zelensky calls for destroying Russia; in those days he asked for more pressure on Russia [3].",
+  "tekst": "On 12 October at 11:53, an account on X wrote that Zelensky is calling on the world for a forceful response to destroy Russia as well [6]. The text then goes on to talk about destroying all life in an area [6]. The image below it is a portrait of Zelensky, without text. The post received more than 11,000 likes [6]. In August, another account wrote that Ukraine had been bombing the Donbas since 2014, with 10,000 civilian deaths, and that Zelensky was continuing to do so [7].\n\nThe figure of 14,000 has been circulating since 2022 as proof that Ukraine killed 14,000 civilians in the Donbas [2] [5]. It comes from the UN count. The Office of the United Nations High Commissioner for Human Rights (OHCHR) estimated in January 2022 that from 14 April 2014 to 31 December 2021, 14,200 to 14,400 people were killed because of the war in eastern Ukraine [1]. That is all deaths, on both sides: about 4,400 Ukrainian military personnel, about 6,500 members of armed groups and at least 3,404 civilians [1].\n\nOf those 3,404 civilians, 298 died on board flight MH17, on 17 July 2014 [1]. Most of the other civilians fell in 2014 and 2015, when the fighting was fiercest: 2,084 and 955 [1]. From 2016 to 2021 inclusive the total was 365 [1].\n\nZelensky became president in May 2019. In 2019, 2020 and 2021, the UN counted a total of 78 civilian deaths, on both sides of the front line and from all causes [1]. In 2021, more than half of all civilian casualties were caused by mines and explosive remnants left behind [1].\n\nIn those last years, civilians did more often fall on the side of the armed groups. From 2018 to 2021 inclusive, 310 of the 381 civilian deaths and injuries were caused by shelling in the area of the self-proclaimed people's republics of Donetsk and Luhansk [1]. Who fired is not stated in this overview. Analysts who checked the figures point out that civilians were killed by both sides [2]. EUvsDisinfo, the EU's database on disinformation, described again in March 2025 the story that Russia had to intervene in 2022 because Ukrainians in the Donbas were slaughtering Russians [8].\n\nWe found no source for the call to destroy Russia. In his own texts from those days, Zelensky asks Europe and the United States for more pressure on Russia, so that there is a real ceasefire for the energy installations [3]. In early October there were heavy Russian attacks: on 7 October, according to the Ukrainian Minister of the Interior, 28 people were killed [4].",
+  "niet_weten": "We do not know which statement by Zelensky the post refers to, or which attack with 33 deaths. The UN overview does not say who killed the civilians, only where they fell and by what means.",
+  "bereik": "11,682 likes and 786 replies on November 18, on the post of October 12",
+  "nog_uitzoeken": [
+   "Which statement by Zelensky the post refers to. We want to compare his words of 11 or 12 October in Ukrainian and English with the translation in the post: could 'destroy' refer to something else, such as the Russian war machine or refineries?",
+   "Which attack with 33 deaths the post refers to.",
+   "How the civilian deaths of 2014 and 2015 were divided between the two sides of the front line, if the UN gives that anywhere."
+  ],
+  "tijdlijn": [
+   "298 people are killed on board flight MH17; the UN counts them among the civilian deaths [1].",
+   "OHCHR publishes the count through the end of 2021: 14,200 to 14,400 deaths, of whom at least 3,404 civilians [1].",
+   "Detector Media checks the story of a genocide in the Donbas [5].",
+   "A Dutch post on X mentions 10,000 civilian deaths in the Donbas since 2014 [7].",
+   "A Russian attack with missiles and drones costs 28 people their lives in Ukraine [4].",
+   "A Dutch post on X says Zelensky is calling on the world to destroy Russia [6]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, October 12, 2026, 11:53."
+  ],
+  "beeld_alt": [
+   "A post on X with the text that Zelensky is calling on the world to destroy Russia, with a portrait of Zelensky below it. Stamp: FALSE."
+  ],
+  "rekensom": [
+   [
+    "All deaths, April 14, 2014 through 2021",
+    "civilians, Ukrainian servicemen and armed groups combined",
+    "14,200 to 14,400"
+   ],
+   [
+    "Civilians",
+    "3,106 plus 298 on board MH17",
+    "at least 3,404"
+   ],
+   [
+    "Civilians in 2014 and 2015",
+    "2,084 plus 955",
+    "3,039"
+   ],
+   [
+    "Civilians from 2016 through 2021",
+    "112 + 117 + 58 + 27 + 26 + 25",
+    "365"
+   ],
+   [
+    "Civilians in 2019, 2020 and 2021",
+    "27 + 26 + 25",
+    "78"
+   ]
+  ]
+ }
+}

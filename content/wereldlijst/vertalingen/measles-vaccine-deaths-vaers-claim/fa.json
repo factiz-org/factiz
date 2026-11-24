@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar fa) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fa",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "داده‌های رسمی آمریکا نشان می‌دهد که از سال ۱۹۹۵ تاکنون، واکسن‌های سرخک با ۱٬۷۰۰ درصد مرگ بیشتر از خود بیماری سرخک مرتبط بوده‌اند.",
+  "kern": [
+   "این رقم گزارش‌های ثبت‌شده در VAERS، یک پایگاه داده ایمنی واکسن در آمریکا که هر کسی می‌تواند در آن گزارش ثبت کند، را با مرگ‌های تأییدشده سرخک مقایسه می‌کند، و کارشناسان به خبرگزاری فرانسه (AFP) گفتند که چنین گزارش‌هایی نمی‌توانند نشان دهند که واکسن عامل مرگی بوده است [1].",
+   "مطالعات گسترده ایمنی نشان می‌دهند که پیامدهای جدی ناخواسته ناشی از واکسن سرخک، اوریون و سرخجه نادر است [1]."
+  ],
+  "rondgang": "این ادعا که از یک مقاله در Substack منتشر شد، در X، فیسبوک و اینستاگرام دست‌به‌دست شد، در حالی که سازمان پان‌آمریکایی بهداشت (Pan American Health Organization) اعلام کرد ایالات متحده دیگر معیارهای حذف سرخک را برآورده نمی‌کند [1]."
+ }
+}

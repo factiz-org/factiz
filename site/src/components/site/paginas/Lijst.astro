@@ -1,0 +1,19 @@
+---
+// De site, de bibliotheek (PLAN #34.2b): zoeken, filteren en sorteren; het kruimelpad boven (#537). Vindbaar alleen
+// zonder filters en zonder andere volgorde; een volgend blad wel (DESIGNSYSTEEM §6).
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import Bibliotheek from '../Bibliotheek.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { bibliotheektekst } from '../../../lib/tekstset.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const tekst = bibliotheektekst(taal);
+const filters = (g.paren ?? []).filter(([k]) => k !== 'p');
+const aangeboden = g.vraag || filters.length ? [] : TALEN;
+---
+<Site titel={g.vraag ? t('zoek_titel') : t('lijst_titel')} hier="lijst" taal={taal} delen={['fact-checks']} aangeboden={aangeboden} zoekdeel={Astro.url.search}>
+  <Kruimel taal={taal} klasse="baan pt-4" stappen={[[t('nav_lijst')]]} />
+  <Bibliotheek client:load begin={g} tekst={tekst} beginVraag={g.vraag} beginParen={g.paren} actie={`${pad(taal, 'fact-checks')}${Astro.url.search}`} taal={taal} />
+</Site>

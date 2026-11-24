@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar es) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Los datos oficiales de Estados Unidos muestran que las vacunas contra el sarampión se han vinculado con un 1700 por ciento más de muertes que las infecciones de sarampión desde 1995.",
+  "kern": [
+   "La cifra compara los reportes enviados a VAERS, una base de datos estadounidense sobre la seguridad de las vacunas a la que cualquier persona puede enviar un reporte, con las muertes confirmadas por sarampión, y expertos dijeron a AFP que esos reportes no pueden demostrar que una vacuna causara una muerte [1].",
+   "Los grandes estudios de seguridad muestran que los resultados adversos graves de la vacuna contra el sarampión, las paperas y la rubéola son poco frecuentes [1]."
+  ],
+  "rondgang": "La afirmación, procedente de un artículo de Substack, se difundió en X, Facebook e Instagram mientras la Organización Panamericana de la Salud dictaminaba que Estados Unidos ya no cumple los criterios de eliminación del sarampión [1]."
+ }
+}

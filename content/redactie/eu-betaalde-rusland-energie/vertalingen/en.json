@@ -1,0 +1,69 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck eu-betaalde-rusland-energie van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "625d922210a5ae47",
+ "veldafdrukken": {
+  "kop": "038ec37e1b7fad51",
+  "oordeel_zin": "13ccb908c26f6d46",
+  "bewering": "cdd29ed19552d886",
+  "kort": "bd0f20af765bd61e",
+  "tekst": "6ac5dadaec175a68",
+  "niet_weten": "a8ce290628ec9e78",
+  "nog_uitzoeken": "85c3a9926b497ecd",
+  "tijdlijn": "140767c64a9fa20f",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c",
+  "rekensom": "8fd9d6fe24ed11aa"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "The EU paid Russia more than 200 billion euros for energy since 2022, not 302 billion",
+  "oordeel_zin": "The EU bought a lot of Russian energy, but according to its own figures for 197 to 213 billion euros, depending on the period, and even with 2026 included, Novak's 302 billion remains about 70 billion too high [1] [3] [5].",
+  "bewering": "The EU paid Russia 302 billion euros for energy since 2022, much more than the official figures say.",
+  "kort": "According to Russian Deputy Prime Minister Alexander Novak, the EU paid Russia 302 billion euros for energy since 2022; Donald Trump named 250 billion dollars the same day [1] [4]. The EU's own figures come to 197 billion euros from March 2022, and to 213 billion from January 2022 to the end of 2025 [3] [5]. Even with 2026 included, Novak's amount remains about 70 billion euros too high; Trump's is in the vicinity [2] [5].",
+  "tekst": "On Monday 12 October, Russian Deputy Prime Minister Alexander Novak told the state broadcaster Vesti that the EU had bought 302 billion euros of Russian energy since 2022 [1] [2]. He did not say which fuels he counted, at what price, or up to which day [1]. The same day, Donald Trump wrote on Truth Social that the EU had paid Russia 250 billion dollars for energy [4]. He named no period [4]. According to Euronews, he wanted to show that European countries keep financing Russia [1]. Three days earlier, Trump had announced an agreement with Putin on Russian diesel for the United States [6].\n\nThe European Commission came out with its own figure on 13 October. From March 2022 through July 2026, the EU imported 197 billion euros of energy from Russia [1] [3]. That number comes from COMEXT, the trade database of Eurostat, the EU's statistics office [1].\n\nThat 197 billion starts in March 2022, after the invasion. January and February 2022 are not included, and those were expensive months. In an answer to the European Parliament, EU Commissioner Marta Kos named 213 billion euros for January 2022 through December 2025 [5]. Of that, 144 billion came from 2022 alone, and 17 billion from 2025 [5].\n\nEven with those two months added, the EU does not reach 302 billion. Novak himself said that Russia supplied Europe with 21.3 billion dollars of energy in the first nine months of 2026 [1] [2]. At the same exchange rate as his 302 billion, that is about 20 billion euros. Add that to the 213 billion and you get about 233 billion euros. That is still almost 70 billion less than Novak named.\n\nTrump's amount is closer. According to Euronews's conversion, 250 billion dollars is 223 billion euros [1]. That sits between the 213 billion to the end of 2025 and the total with 2026 included. Anyone who counts only from March 2022, as the Commission did, ends up lower: 197 billion euros, 26 billion less [1] [3].\n\nSo there is something to it. The EU paid Russia more than 200 billion euros for oil, gas and coal since 2022. But the amount fell fast, from 144 billion in 2022 to 17 billion in 2025 [5]. According to the research organisation CREA, from the end of February 2025 to the end of February 2026 the EU imported 14.5 billion euros of Russian fuels, 36% less than the year before [7]. From 1 January 2027, the EU wants to stop buying Russian gas, with exceptions for Hungary and Slovakia, among others [1].\n\nIn Dutch, the talk on X was mostly about the diesel deal itself. A post of 10 October called it a way to finance the Russian war machine [8].",
+  "niet_weten": "We do not know how Novak calculated: which fuels and prices, and whether by Europe he meant only the EU or also countries such as Turkey and Serbia. We also do not know what the EU has paid so far in 2026; for that we used Novak's own figure, which covers all of Europe. And we found no Dutch post repeating the 302 billion or the 250 billion dollars.",
+  "nog_uitzoeken": [
+   "What the EU paid from January through October 2026, according to Eurostat's trade figures. For now we are using Novak's own figure for this.",
+   "What Novak counted: only the EU, or also Turkey, Serbia and other European countries.",
+   "The conversion from dollars to euros using the ECB rate of 12 October. Euronews uses two different rates."
+  ],
+  "tijdlijn": [
+   "Trump announces an agreement with Putin on Russian diesel for the United States [6].",
+   "A Dutch post on X calls the diesel deal a way to finance the Russian war machine [8].",
+   "Novak says on Vesti that the EU bought 302 billion euros of Russian energy since 2022; Trump writes on Truth Social about 250 billion dollars [1] [4].",
+   "The European Commission names 197 billion euros, from March 2022 through July 2026 [1] [3].",
+   "Eunews reports Commissioner Kos's answer: 213 billion euros from January 2022 to the end of 2025 [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": [],
+  "rekensom": [
+   [
+    "The Commission: March 2022 through July 2026",
+    "imports of energy from Russia according to COMEXT",
+    "197 billion euros"
+   ],
+   [
+    "Commissioner Kos: January 2022 through December 2025",
+    "144 billion in 2022, 17 billion in 2025, the rest in 2023 and 2024",
+    "213 billion euros"
+   ],
+   [
+    "With 2026 included, generously counted",
+    "213 billion plus about 20 billion, the 21.3 billion dollars Novak named for nine months",
+    "about 233 billion euros"
+   ],
+   [
+    "Novak",
+    "302 minus 233 billion",
+    "about 69 billion euros more"
+   ],
+   [
+    "Trump",
+    "250 billion dollars, converted by Euronews",
+    "223 billion euros"
+   ]
+  ]
+ }
+}

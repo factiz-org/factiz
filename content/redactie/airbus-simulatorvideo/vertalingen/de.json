@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video einer Airbus Beluga, die auf der winzigen Landebahn von Saba wendet, wurde in Microsoft Flight Simulator erstellt",
+  "oordeel_zin": "Das Video war im August 2025 auf YouTube, aufgeführt unter dem Spiel Microsoft Flight Simulator 2024, und die darin gezeigte Landebahn auf Saba ist 401 Meter lang und 18 Meter breit; eine BelugaXL ist 63,1 Meter lang [5] [7] [8].",
+  "bewering": "Das ist so unglaublich... wie kann ein so großes Flugzeug wie dieses auf dieser winzigen Straße wenden... größten Respekt an den Piloten",
+  "kort": "Seit dem 11. November verbreiten Beiträge auf X ein Video einer Airbus BelugaXL, die auf einer winzigen Landebahn über einer Klippe wendet und abhebt, als handle es sich um einen echten Flug [1] [3]. Das Video stammt aus einem Flugsimulator. Es war im August 2025 auf YouTube, aufgeführt unter dem Spiel Microsoft Flight Simulator 2024 [5]. Die Landebahn ist die von Saba, 401 Meter lang und 18 Meter breit, und eine BelugaXL ist 63,1 Meter lang [7] [8].",
+  "tekst": "Am 16. November 2026 schrieb das Konto Amelia Collins auf X, es sei unglaublich, wie „ein so großes Flugzeug wie dieses“ „auf dieser winzigen Straße“ wenden könne, mit „größtem Respekt an den Piloten“ [1]. Ihr Beitrag verlinkt auf ein Video von 2 Minuten und 41 Sekunden, das ein anderes Konto am 9. März 2026 auf X gepostet hatte, mit dem Text „Eine der kürzesten Landebahnen, auf denen ein Flugzeug landen muss“ [2]. Dieses Konto hat den Beitrag inzwischen gelöscht [2]. Vom 11. bis 19. November zählten wir 55 Beiträge von 47 Konten auf X, die auf das Video verlinken [1] [3]. Am 22. November lud ein Konto eine gekürzte Kopie hoch [4].\n\nDas Video zeigt ein großes weißes Frachtflugzeug mit den Aufschriften BELUGA XL und AIRBUS an der Seite [2]. Neben Reihen von Solarmodulen wendet es auf einer mit 30 markierten Landebahn, hebt über dem Meer ab und landet an einem anderen Ort [2].\n\nDasselbe Video, mit denselben Einstellungen zu denselben Zeitpunkten, wurde am 6. August 2025 vom YouTube-Kanal Smilo Fly gepostet, mit dem Titel „Airbus Beluga XL Impossible takeoff from SABA Airport“ [5]. YouTube führt darunter das Spiel Microsoft Flight Simulator 2024 auf [5].\n\nSaba ist eine niederländische Insel in der Karibik, und ihr Solarpark liegt direkt neben dem Flughafen [6] [7]. Laut den offiziellen Luftfahrtinformationen zu Saba ist die Landebahn 401 Meter lang und 18 Meter breit, und nur Flugzeuge, die von der niederländischen Regierung zugelassen sind, dürfen den Flughafen nutzen [7]. Airbus gibt an, die BelugaXL sei 63,1 Meter lang und die sechs BelugaXL beförderten Flugzeugteile zwischen 11 Zielen in Europa [8].\n\nDer eine BelugaXL-Vorfall, den wir in der Datenbank des Aviation Safety Network gefunden haben, ereignete sich in Frankreich [9]. Am 18. November 2022 verließ eine BelugaXL in Albert bei einer 180-Grad-Wendung nach der Landung teilweise die befestigte Fläche [9].",
+  "niet_weten": "Wir wissen nicht, wer den Flug im Simulator aufgezeichnet hat: Der Upload von Smilo Fly vom 6. August 2025 ist der früheste, den wir gefunden haben, aber der Kanal könnte ihn kopiert haben [5]. Wir wissen nicht, warum das Konto auf X seinen Beitrag vom 9. März gelöscht hat [2].",
+  "bereik": "Die 55 Beiträge, die auf das Video verlinken, hatten am 23. November zusammen 4.229 Likes und 2.151 Antworten; der Beitrag vom 16. November hatte 70 Likes und 27.300 Aufrufe",
+  "nog_uitzoeken": [
+   "Wer den Flug in Microsoft Flight Simulator 2024 aufgezeichnet hat und ob Smilo Fly das Video selbst erstellt oder von einem anderen Urheber übernommen hat.",
+   "Ob die Konten, die mit dem Link dieselben Sätze gepostet haben, etwa „Es läuft wirklich ungeplant“, zusammenarbeiten.",
+   "Wenn Sie mehr darüber wissen, wo dieses Video zuerst erschien, teilen Sie es uns bitte mit."
+  ],
+  "tijdlijn": [
+   "Eine echte BelugaXL verlässt bei einer 180-Grad-Wendung in Albert, Frankreich, teilweise die befestigte Fläche [9].",
+   "Smilo Fly postet das Video auf YouTube, aufgeführt unter Microsoft Flight Simulator 2024 [5].",
+   "Ein Konto postet dasselbe Video auf X als eine der kürzesten Landebahnen [2].",
+   "Der erste Beitrag, den wir im November gefunden haben, verlinkt auf dieses Video [3].",
+   "Amelia Collins: größten Respekt an den Piloten [1].",
+   "Ein Konto lädt eine gekürzte Kopie des Videos hoch [4]."
+  ],
+  "beeld_bijschrift": [
+   "Eine Kopie des Videos in einem Beitrag auf X, 22. November 2026, 04:12 UTC.",
+   "Smilo Fly auf YouTube, 6. August 2025: dasselbe Video von 2 Minuten und 41 Sekunden, aufgeführt unter dem Spiel Microsoft Flight Simulator 2024."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag auf X, in dem es heißt, dies sei eine der kürzesten Landebahnen der Welt und der Pilot müsse perfekt landen, mit einem Standbild aus dem Video: eine Airbus BelugaXL auf einem Vorfeld neben einem Solarpark und einer kurzen, mit 30 markierten Landebahn. Stempel: FALSCH.",
+   "Standbild aus dem YouTube-Video von Smilo Fly: eine Airbus BelugaXL auf dem Vorfeld neben dem Solarpark des Flughafens von Saba, mit der mit 30 markierten Landebahn über einer Klippe."
+  ]
+ }
+}

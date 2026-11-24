@@ -1,0 +1,164 @@
+{
+ "_meta": "Labels van de herstelronde (ronde 5, PLAN #31.15, B45), 2026-10-27, gelezen door Claude. 'oordelen': per uitkomst zonder de regels (id en oordeel, of id, 10 en feit). Rood bij een waar artikel (W5): 'vals' (onterecht rood) of 'set fout' (het artikel is zelf niet betrouwbaar, of de knip maakte het onwaar). Rood bij nepnieuws (B5, N5) met een andere bron dan de eigen check: 'bewijst', 'bewijst via factcheck' (een overgenomen factcheck), 'bewijst niet' of 'set fout'. Groen bij nepnieuws: 'vals', 'beeld nodig' (de gebeurtenis is echt, het beeld niet) of 'set fout'. Een 10: 'goed' of 'fout'. 'vorm': elk bekend nepnieuwsbericht (N5) met 'over een bewering': 'doet zelf' (de vormvraag vergiste zich) of 'bericht erover' (terecht); dat label verklaart, maar telt niet weg voor eis 3.",
+ "oordelen": [
+  {
+   "id": "b-017017",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "UN Watch: de video is van maart 2017 en toont Hillel Neuer van UN Watch, niet Israël, en geen recente confrontatie",
+   "bij": "proef"
+  },
+  {
+   "id": "b-016275",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "de padyatra begon echt op 7 november 2025; Sonnet zegt zelf dat de video niet geverifieerd is, en de onwaarheid zit in het beeld",
+   "bij": "proef"
+  },
+  {
+   "id": "b-009083",
+   "oordeel": "klopt niet",
+   "label": "vals",
+   "waarom": "Polygraph-factcheck 'Disinfo: Russian Warning Shots at British Warship' is een betrouwbaar artikel over een onware Russische bewering; Sonnet beoordeelde die bewering"
+  },
+  {
+   "id": "b-012778",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "EUobserver-artikel uit juli 2015 ('comes into force this week'); de set gaf als datum 2021-03-01 (de datum uit de Sheffield-set, niet die van het artikel), dus zag Sonnet oud nieuws als actueel gebracht"
+  },
+  {
+   "id": "b-019405",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "VERA Files: de heldere mugshot die rondgaat is nep; er bestaat wel een echte mugshot, die Sonnet vond"
+  },
+  {
+   "id": "b-017344",
+   "oordeel": "klopt",
+   "label": "set fout",
+   "waarom": "de vraag 'has priyanka gandhi shared old images as assam bihar flood?' is met ja te beantwoorden (The Week, Hoax Slayer); The Quint noemde haar bericht onwaar omdat de foto's oud waren, dus het label onwaar past niet bij deze tekst"
+  },
+  {
+   "id": "b-017575",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "India TV en Lokmat Times, factchecks: de video is een montage uit Mumbai en Ahmedabad"
+  },
+  {
+   "id": "b-019092",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Factly via theconspiratory.com: de video is uit Deoband, India"
+  },
+  {
+   "id": "b-019397",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "AFP via Yahoo, Telugu Post en offbeatconcerns: een huis in Pabna, Bangladesh"
+  },
+  {
+   "id": "b-019287",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Times Headline en NewsMobile, factchecks: video uit 2021, Jalna"
+  },
+  {
+   "id": "b-019275",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Sentinel en OpIndia, factchecks met PIB Fact Check en het Indiase leger"
+  },
+  {
+   "id": "b-016346",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "NewsMobile-factcheck: foto uit Australië, april 2022"
+  },
+  {
+   "id": "b-017163",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Organiser en AFP via Yahoo: met AI bewerkt uit een bruiloftsvideo"
+  },
+  {
+   "id": "b-019215",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "The Logical Indian en CyberPeace, factchecks: Perambur, Chennai"
+  },
+  {
+   "id": "b-019078",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "harinayak.in, factcheck: de grafiek van NBT is vervalst"
+  },
+  {
+   "id": "b-019158",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "AFP via Bundle en SouthCheck: Ashok Nagar, Delhi, februari 2020"
+  },
+  {
+   "id": "b-019485",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "Only Fact: gescripte video"
+  },
+  {
+   "id": "b-017704",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "NewsMobile en AFP via Khaleej Times: bewerkte video uit een interview van vóór de arrestatie"
+  },
+  {
+   "id": "b-019289",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "LatestLY bericht over PIB Fact Check: met AI gemanipuleerd"
+  },
+  {
+   "id": "b-019089",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "SouthCheck: de video ging al op 20 juli rond"
+  },
+  {
+   "id": "b-019191",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "PIB Fact Check en CyberPeace: met AI gemaakt, origineel over de Durand Cup"
+  },
+  {
+   "id": "b-019269",
+   "oordeel": "klopt niet",
+   "label": "bewijst via factcheck",
+   "waarom": "AFP via Yahoo en SouthCheck: Kiss of Love-protest aan de JNU, 2014"
+  },
+  {
+   "id": "b-017500",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "The Logical Indian citeert Kanwal volledig: hij noemde het aanvallen van iemand onder het scanderen van Vande Mataram anti-nationaal; de clip is uit zijn verband"
+  },
+  {
+   "id": "b-019118",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Free Press Journal: de aangehouden verdachte is Manpreet Singh uit Punjab, geen moslim"
+  }
+ ],
+ "vorm": [
+  {
+   "id": "b-017397",
+   "label": "bericht erover",
+   "waarom": "'Claim fact-check muslim girl ...' is de omschrijving van een factchecker; het patroon ving haar niet (geen dubbele punt na Claim); telt toch mee voor eis 3",
+   "bij": "proef"
+  },
+  {
+   "id": "b-016409",
+   "label": "bericht erover",
+   "waarom": "'Claim fact-check 735 killed in train accident at Mirzapur' is de omschrijving van een factchecker die het patroon niet ving; telt toch mee voor eis 3"
+  }
+ ]
+}

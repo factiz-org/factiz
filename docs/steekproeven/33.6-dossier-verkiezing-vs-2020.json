@@ -1,0 +1,1310 @@
+{
+ "gelezen_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "labels": {
+  "f661ee0e8d794a56": "nee",
+  "36695c5d2918656e": "nee",
+  "f48af44f93443dd1": "ja",
+  "c20cf508d257061d": "ja",
+  "f989e91f45c4e839": "ja",
+  "26c60166949fe094": "ja",
+  "ea7f7d472ac3e9f6": "ja",
+  "6aae42300055e3fd": "ja",
+  "35d425624dba7899": "ja",
+  "52de267504d90fc2": "ja",
+  "7c57f73eb86a8f92": "ja",
+  "c88d93c9aa67395d": "ja",
+  "3535857d4a09d8f2": "ja",
+  "3f712b6e78e54515": "ja",
+  "cbbdd8c772bf171f": "ja",
+  "7ef0c2ea139dd988": "ja",
+  "e8d1b9cbff4fe83d": "ja",
+  "b5ebdba6119a64ce": "ja",
+  "86e896d760ef2718": "ja",
+  "fd76d39eabdcf2d6": "ja",
+  "ffa9b90083c57fdb": "ja",
+  "0fb4270d25507239": "ja",
+  "295bbe2bfd0a5a73": "ja",
+  "438983adb1bd0e4b": "ja",
+  "5324cc3241d1002d": "ja",
+  "70afe733e0d977c3": "ja",
+  "7d3a7d437d11904c": "ja",
+  "a0acd4990553d7bd": "ja",
+  "e640f07d5714ccc4": "nee",
+  "f206e87b0acbee69": "ja",
+  "47ecf0b0ca70defa": "ja",
+  "4bb5b418291ef981": "ja",
+  "5d4be3d8694cd2f0": "ja",
+  "afbab0515ee86026": "ja",
+  "cfff5237d1982c6e": "ja",
+  "0437a1c054fbefa7": "ja",
+  "7496dfb01b20ebb2": "ja",
+  "3167cef57ea01985": "ja",
+  "8cfe10e1405b5686": "ja",
+  "9affcd427b7a9f04": "ja",
+  "aa59a209a843d837": "ja",
+  "b07b1a54f23eb328": "ja",
+  "ce99d2301addd830": "ja",
+  "1bde651bc13e21cd": "ja",
+  "68a7ebca68f7307d": "ja",
+  "dc36bfe11f63e3b4": "ja",
+  "72b92a0228fe194a": "ja",
+  "73c74225ef4828b5": "ja",
+  "7c1995f1f357ad6f": "ja",
+  "6b5bbd6fc511366e": "ja",
+  "7dc6e3872a672944": "ja",
+  "9df0050e8834556d": "ja",
+  "afac8f8dc812bfab": "ja",
+  "08904b8e92619647": "ja",
+  "49757a898105c9a5": "ja",
+  "d05add0c65fa1ece": "ja",
+  "43048f02b5c7ee3e": "ja",
+  "cd6c321037033076": "ja",
+  "17c32242f17af1e6": "ja",
+  "194866f33a33c1cc": "ja",
+  "24c720ad60b5420c": "ja",
+  "ac7226f46df03a61": "ja",
+  "b41166505a2d4068": "ja",
+  "b5d39c673612d487": "ja",
+  "0a54a94ddcd0995f": "ja",
+  "9c144c56232ee1e3": "ja",
+  "d46486f2ce7a0d06": "ja",
+  "97b6b46322544d9e": "ja",
+  "00787fe745870832": "ja",
+  "04ab91180ff49042": "ja",
+  "685b6fa84b37948b": "ja",
+  "9799238bb425b92b": "ja",
+  "c415e148289195cf": "ja",
+  "8838dc2b3852dbd6": "ja",
+  "13d1fc2cf11509b5": "ja",
+  "5092701479474a17": "ja",
+  "b98a02386dbaeff8": "ja",
+  "4b98a7d974a77e58": "ja",
+  "be6d70c157f691e1": "ja",
+  "e9781dae9f4ceb41": "ja",
+  "80cef2eb9dbe9e1b": "ja",
+  "2296e8d3ddeeaa32": "ja",
+  "e5f190f04d379c49": "ja",
+  "4b1de0ecd3752bb5": "ja",
+  "42eb0dae7261bd06": "ja",
+  "47bc1724c5a8d227": "ja",
+  "e9b7696d4489161c": "ja",
+  "4dba0b95361a2532": "ja",
+  "e8e2cdba506473a5": "ja",
+  "feba4048ce892ba0": "ja",
+  "a6201104e85ef9e2": "ja",
+  "e46ecf33e5d5989c": "ja",
+  "318dc1d80867d8a7": "ja",
+  "b13ed84c4600eb85": "ja",
+  "656a28b9809e9366": "ja",
+  "b3a4c9afac9d9701": "ja",
+  "a0d7328626024988": "ja",
+  "607a0bf501c954d4": "ja",
+  "4d704698bd2c60e8": "ja",
+  "8ffe1e8242f78732": "ja",
+  "b855fb6846b1ebbc": "ja",
+  "8575c194e4645e4f": "ja",
+  "76b52193fdddbc90": "ja",
+  "51c90611eea9f343": "ja",
+  "d6888b6d66c11284": "ja",
+  "0d3bdedb9bc80d26": "ja",
+  "451a4e0a0e5b49bf": "ja",
+  "a3c212aefc3844e3": "ja",
+  "7c1596b94978b3ad": "ja",
+  "2def3d0bcb97c761": "ja",
+  "447f7a0abb8f8b48": "ja",
+  "9eb5a56aed1ac73e": "ja",
+  "c84ed905d903b175": "ja",
+  "4d9543ac794841ae": "nee",
+  "476a3345c1cebea7": "nee",
+  "29b75c592dac616d": "nee",
+  "3d44756cf2c8d2f2": "nee",
+  "cbba1837f971b930": "ja",
+  "fd17c7a7a030bcec": "ja",
+  "5e6c1fc8b232417d": "nee",
+  "bc963d2cce078955": "ja",
+  "1fb5c5ed817800ce": "ja",
+  "f9ce5c244b7ed334": "ja",
+  "82f4da871e84e656": "ja",
+  "ab313afa690b805b": "ja",
+  "5724e5ba64dd6470": "ja",
+  "f56d78f2a0294458": "ja",
+  "027d49b75f177a98": "ja",
+  "e8dc5147d8c0850b": "ja",
+  "13c290299e413912": "ja",
+  "4cf723586ffd5cb2": "ja",
+  "b7dd12c8335b34c1": "nee",
+  "3624782d68558cb9": "nee",
+  "58e5c7c793cdf260": "nee",
+  "507df8e62aee0eb5": "nee",
+  "0091ffcd2eee2aa8": "ja",
+  "028f5fc0abce9a59": "ja",
+  "0402cef0853c6cba": "ja",
+  "045a2d97f5809eff": "ja",
+  "06db9c2b7aae9850": "nee",
+  "091db0d876e6729f": "ja",
+  "093e2ec1f35d6126": "ja",
+  "09852e0d9aae2d89": "ja",
+  "0b76bdbeed72404f": "ja",
+  "0bf2639968bee5a2": "ja",
+  "0bf3366735549726": "ja",
+  "0d090a9575a24cbc": "ja",
+  "0d90ca9f8c9d5efd": "ja",
+  "101afd7a111f8833": "nee",
+  "10e28f3ac932d4a5": "ja",
+  "12668491a492428f": "ja",
+  "134fb986d483786b": "ja",
+  "176a81b22b293640": "ja",
+  "178452cc0aab9b0a": "ja",
+  "1bc519a0dcd930a2": "ja",
+  "1c79dc827ecf9e40": "ja",
+  "1da346305cf25bef": "ja",
+  "1e20f8a8929fdf3f": "ja",
+  "1f17a25a262939c5": "ja",
+  "1f87454ac0571307": "nee",
+  "2068b7ee1c33e664": "ja",
+  "22e52e9550789103": "ja",
+  "2452a1b596acfbcd": "ja",
+  "24d3c592d4983e83": "ja",
+  "24daf3f822ba4eba": "nee",
+  "26ace966f7dad66d": "ja",
+  "2736caafcce19976": "ja",
+  "274a44bbef6c7c45": "ja",
+  "292aecfb8b7eba7f": "nee",
+  "29a0e6136602ad8f": "ja",
+  "2dc3dabcf5ff11b7": "ja",
+  "2e028bf096f15ef4": "nee",
+  "2edd947ff88eee30": "ja",
+  "3026e264c46abf20": "ja",
+  "338f24008888c7f5": "ja",
+  "378eb9b98fd590a0": "nee",
+  "37f798383c3edfef": "ja",
+  "39269bfec51efc15": "ja",
+  "3ab17af5ce71b457": "ja",
+  "3b3f65f7d4f6ba69": "ja",
+  "3c4e1da16880ed7a": "ja",
+  "3cc0ef8d586a39b9": "ja",
+  "3d6ab92d6d77195d": "nee",
+  "3dc2c14a3a70be46": "ja",
+  "41e0592e2be7dcd7": "ja",
+  "434a0a1bae7fcee2": "ja",
+  "465ef89c7978074b": "ja",
+  "46ba917bd5791987": "ja",
+  "49f89d0787379e21": "ja",
+  "4a914b167dcfe31a": "ja",
+  "4de839a31cee877a": "ja",
+  "4eec9e14ca3d19d3": "nee",
+  "4f4ac081a9c7137c": "ja",
+  "4fb1c583d741ea70": "ja",
+  "510aab387fb5a4fb": "ja",
+  "54b84cc0eb3405fd": "ja",
+  "55156f01649b8b0a": "ja",
+  "581b636ff25fbfb8": "ja",
+  "58e22b22fbf7328e": "ja",
+  "58fef867a385d827": "ja",
+  "5bdb52ae3d80434c": "ja",
+  "5ca03e1137558f79": "ja",
+  "5d2954275f549e5d": "ja",
+  "5e640c6864f2afcc": "ja",
+  "5f5e5f803d78c684": "ja",
+  "5fdfe47888e2e543": "ja",
+  "617fbd7795e35a71": "ja",
+  "62a4cea96760b3fd": "ja",
+  "62be9fdd22e8d1ef": "nee",
+  "685b0a2f6e78fd79": "ja",
+  "6c2afc0d6d801695": "ja",
+  "766e0699cc8a9fa9": "nee",
+  "76f71757112784f9": "ja",
+  "76f8659528043da3": "ja",
+  "7752b8fcd2599a8d": "nee",
+  "775715008be7ba93": "ja",
+  "7943dcc235046636": "ja",
+  "796abf9790de81de": "ja",
+  "7a118f5367103e60": "ja",
+  "7ad31421df5de756": "nee",
+  "7ccce45aca594fc1": "ja",
+  "7eda817bac28e957": "ja",
+  "7f3ac7f8557138d5": "ja",
+  "80309b379e19a884": "ja",
+  "804e970ba8e744ff": "ja",
+  "80dca6af96945ec2": "ja",
+  "812b5972fb20897b": "ja",
+  "8134be289e2b3caa": "ja",
+  "81f1285db1e380bc": "nee",
+  "827c1f9450458ec3": "ja",
+  "83b185deb8f01a76": "ja",
+  "84188410eabc893a": "ja",
+  "902ac248fbfa5cd2": "ja",
+  "93868c83007ecbe5": "ja",
+  "942b1019e2a33f90": "ja",
+  "96bf4515e3677797": "ja",
+  "979274456736a051": "ja",
+  "97f082131d1eab40": "ja",
+  "98a57187e56ef16a": "ja",
+  "9a2bfadbb583c5e6": "ja",
+  "9c1416eb60124ebf": "ja",
+  "9e8e2ecebf6a480a": "ja",
+  "a0cda265a23764c9": "ja",
+  "a3857a0b54d530b1": "ja",
+  "a4e76c1418647504": "nee",
+  "a517f862fee0ef6e": "ja",
+  "a583ed46eb3f9f6c": "ja",
+  "a94039ef085d392b": "nee",
+  "aa66344d9f19db8c": "ja",
+  "ac419cf0bddf8293": "ja",
+  "b12e99e2d5ef0b49": "ja",
+  "b48c3a05f8e3a0bc": "ja",
+  "b52ee6526e5649c1": "nee",
+  "b7dfd0b53d5d85ad": "ja",
+  "b867c93ddddb367e": "ja",
+  "b8a25bc017ed61cf": "ja",
+  "b8a6ce80edbb6750": "ja",
+  "be73ad54df150986": "nee",
+  "bfdc26a6071d4a15": "ja",
+  "c625e78dbfd19913": "ja",
+  "c69c27e5b23883a5": "ja",
+  "c7f6ab538bb0b298": "ja",
+  "c91e0248659a343b": "ja",
+  "cabdd099af53d719": "ja",
+  "cb51dcdeef898f3d": "nee",
+  "cca0b1040eeb37eb": "ja",
+  "cdefe62df584eb12": "ja",
+  "ce10dbf46b6a8c2a": "ja",
+  "d170a53abcf4aa32": "ja",
+  "d574c2f2c51d8794": "ja",
+  "d5908371cb40b961": "ja",
+  "d6eacf7e99e07142": "ja",
+  "d845ce38d533a959": "ja",
+  "da4e470f789ac836": "nee",
+  "dc72f9153c03672b": "ja",
+  "dcacc2a3a8d6c830": "ja",
+  "de9998d70dfd9ad1": "ja",
+  "df07b9bfe9317cd7": "ja",
+  "e05a4ac9b72584c8": "ja",
+  "e21ce3c82de5d8d0": "ja",
+  "e22c2d33a1ab79a6": "ja",
+  "e2d0a3368142ba54": "ja",
+  "e60281d22ffcb917": "ja",
+  "e771fb6e09921050": "nee",
+  "e84af4e9fc7febc2": "ja",
+  "e89450c5d7b6f534": "ja",
+  "eae2b834b1b78707": "ja",
+  "f06f31c2e4e3b274": "ja",
+  "f28b600ea34e2d8e": "nee",
+  "f60349efbfa37c27": "ja",
+  "f6fa786ceaceb1e1": "nee",
+  "f78753c550c81412": "ja",
+  "f7d7e57a27885215": "ja",
+  "f8a2d9a469e2fed4": "ja",
+  "f8d73076f8818566": "ja",
+  "f907402e6235ae74": "ja",
+  "f940354fb056c650": "ja",
+  "fa772b980403355f": "ja",
+  "fbfa4afe2f7db797": "nee",
+  "fe06d3d7231f5436": "ja",
+  "fe559f52a2926539": "ja",
+  "fee8aa3a97a51537": "ja",
+  "ffdd5cb5354698ad": "ja",
+  "8f1d6457183acd5d": "nee",
+  "6702a2b9c9ad77f4": "nee",
+  "8fb9542e95e4d701": "nee",
+  "845f28a5b31b56c6": "nee",
+  "fd21ca5db3361303": "nee",
+  "05aab06bda589bf5": "ja",
+  "7905c9ac6e3ddf65": "ja",
+  "eaf24c3920a52bee": "ja",
+  "fd9ba73b72e5771b": "ja",
+  "a379514f9bb940b7": "ja",
+  "8ff35c353d095751": "ja",
+  "2ea516948f1cde13": "ja",
+  "8916ab8a2d3b57dd": "ja",
+  "cbfbd85d447414fc": "ja",
+  "d9fb7782ff9823f3": "ja",
+  "f84911bfa5b1191a": "ja",
+  "bfdadad87551b8eb": "ja",
+  "819cfd9421b217f6": "ja",
+  "bfba4fd15bda4c1e": "ja",
+  "07109768dd25d5e2": "nee",
+  "168cf8fed3833959": "ja",
+  "9cdd6a41468aa940": "nee",
+  "a540e996959cb46a": "ja",
+  "830b8d4c0e4bb6de": "ja",
+  "03d395d6911e219e": "nee",
+  "39a46b04f38cb96c": "nee",
+  "40263509f8166e2b": "ja",
+  "eeead4679f3f7750": "nee",
+  "bb4ee38840f183f9": "ja",
+  "f8646e0b27221ba0": "ja",
+  "9e72e097aba89d4d": "ja",
+  "14a7ec936de8a689": "ja",
+  "6a7bfe598b196bf9": "ja",
+  "7968dac6f68b7e45": "ja",
+  "809100ecbc123036": "ja",
+  "9225a7af4f67fbea": "ja",
+  "e1c2d917917ff867": "ja",
+  "e609052cf240b4c0": "ja",
+  "0aed94877b0040ab": "nee",
+  "d3739deb808f812b": "ja",
+  "df0b91403641299c": "ja",
+  "93b9d1fe92095f40": "ja",
+  "57a97b3e3863b025": "ja",
+  "98267e0f8a97e148": "ja",
+  "00aca3d8a4cae15d": "ja",
+  "26523e2d0fa272b8": "ja",
+  "741f8af21c6a9a3d": "ja",
+  "aaa95c7e476c8bf8": "ja",
+  "bbeba89a88481e43": "ja",
+  "d11b16c343ed4ddd": "ja",
+  "906cecee83f4a85a": "ja",
+  "4e936c4e7d307758": "ja",
+  "b52c1f60e7017044": "ja",
+  "90f109e175055142": "ja",
+  "facafa2159a04655": "ja",
+  "1d4bdeef438894ec": "ja",
+  "c333825af452c0b1": "ja",
+  "9fe0033d924956e1": "nee",
+  "f8e6d250adc80629": "ja",
+  "c08c5c217fe811c3": "nee",
+  "dc9e0e1c20f8b3a5": "nee",
+  "579847ab965ac541": "ja",
+  "b0c90cdef797ee73": "nee",
+  "e4642afb83ae21a1": "nee",
+  "f5cc93aa4ea028b0": "nee",
+  "2ee6bc5f31c79ff3": "nee",
+  "f705b260341052db": "nee",
+  "a4d049f05503e255": "nee",
+  "a71a627c416349ae": "nee",
+  "d8adc0544273b41b": "nee",
+  "d900ce6ef5059e7d": "nee",
+  "dd676380d2c3e675": "nee",
+  "7984841cdad03713": "nee",
+  "3bc8fc5621a5765c": "nee",
+  "58fb08e2582812ea": "nee",
+  "d5c1efd1ecaa1fa5": "nee",
+  "051b7ff905ef3305": "nee",
+  "fcbf020a4dc466aa": "nee",
+  "eaad12459c1ac6d3": "nee",
+  "4dd24492a77c442b": "nee",
+  "9474c1a6ce08c042": "nee",
+  "b15b854a68f2b367": "nee",
+  "e59839c9ee37bb55": "nee",
+  "8813d987ffeb7a58": "nee",
+  "8e6364e781c39f4d": "nee",
+  "56115b8912baffbb": "nee",
+  "68c9af30605cea91": "nee",
+  "2c5323d1ed645c66": "nee",
+  "2946cc21c7f39e7b": "nee",
+  "e62ce40bad803480": "nee",
+  "da8cd394f1147efd": "nee",
+  "286c0308d7734405": "nee",
+  "c6a4f09efcd5d684": "nee",
+  "6099db141656b7e7": "nee",
+  "5f03fcd82f716d19": "nee",
+  "7ac517f5771b8351": "nee",
+  "fcab4e55ca5a42d1": "nee",
+  "fa933c33594dafd3": "nee",
+  "4e50df1eb53bcb03": "nee",
+  "aede8fa3b3139d04": "nee",
+  "ae1f436372d6fc4c": "nee",
+  "539044b542f5d229": "nee",
+  "cc6b9048945ba8d8": "nee",
+  "18f77034b4d18142": "nee",
+  "134878c1da02c1b9": "nee",
+  "e4f2728e91fc00dd": "nee",
+  "3d627e602092699e": "nee",
+  "59ff5813423412c8": "nee",
+  "c708fc1f109fa657": "nee",
+  "06c83d840c0b3f6d": "nee",
+  "10ae7acdd5c77424": "nee",
+  "fe84cb1f30285262": "nee",
+  "c935a75da79f6e4a": "nee",
+  "0449953729270dc5": "ja",
+  "04b6ade6233183ca": "ja",
+  "0b9742d96f73a5dc": "nee",
+  "0c82ae5bca11bc09": "nee",
+  "0d27c7047109cf57": "nee",
+  "10a3527957bed316": "ja",
+  "10e1c56df6c2aa24": "ja",
+  "16043fe0d94f0e52": "ja",
+  "19da24ac5aded390": "ja",
+  "1a6e4f1ee0c3fdc3": "nee",
+  "1b1060d8046bae2c": "nee",
+  "23ce3c779aea1e40": "nee",
+  "2721cca41ab0823e": "ja",
+  "27dc2d71ddabaabd": "ja",
+  "2ae823aa8d266b99": "ja",
+  "2bd2eb7f974f3448": "nee",
+  "2fa2c0cf08eac04a": "nee",
+  "31dc5a0a31fc2ae8": "ja",
+  "31e45a5bbbca36ab": "nee",
+  "321b59b5e1068539": "ja",
+  "378e32afafc7e4dc": "nee",
+  "3c7d4ca3a96bc152": "ja",
+  "44350caf7cd59cd8": "ja",
+  "452da927df0284b3": "ja",
+  "45b1a4a500f0a6b0": "nee",
+  "489cd9727a56e3c1": "ja",
+  "49b0528183d9dc5e": "nee",
+  "4bd9fc24afd831b5": "ja",
+  "4cc37831ef1b6237": "nee",
+  "4e77f6315454b6ee": "ja",
+  "50b47992d2079fc9": "nee",
+  "5261c90480fa4725": "ja",
+  "54cb65125026acdc": "nee",
+  "58a111b5af22daee": "nee",
+  "58eaa3c11cb5abd3": "ja",
+  "590541bd6b530e50": "nee",
+  "59652db530daa604": "nee",
+  "5d6eaec5fba86846": "ja",
+  "5e105811c7555a81": "ja",
+  "5ec9253a2d8c6583": "ja",
+  "6004264b0019e4e9": "nee",
+  "64cc969313f38c0c": "nee",
+  "67ba550ea866a584": "nee",
+  "6fc40991ac2a09db": "ja",
+  "70761c95de2d9e0b": "ja",
+  "71c87cd5c5c5bd25": "ja",
+  "73c727488da42d25": "ja",
+  "7621a629b164b43c": "ja",
+  "778f719f43eff983": "ja",
+  "77fd9dbd1b8abd61": "ja",
+  "7dc9cad0c7aacfb7": "ja",
+  "7f03529b4fa76e08": "nee",
+  "7f0a35957657010f": "nee",
+  "82785b226330243e": "ja",
+  "86f94ba0757bde4e": "ja",
+  "88a9298044a04314": "ja",
+  "8cf4d5997558f194": "nee",
+  "9083617b0185a95b": "nee",
+  "90bdf42a0aee4860": "ja",
+  "93155e8871060385": "nee",
+  "93ecc1cbf3cf66a9": "nee",
+  "95ef4dd9d8f525cb": "nee",
+  "9bd6b1eba10b9204": "nee",
+  "9ca3010803a0141f": "ja",
+  "9d70f6afa9977770": "ja",
+  "9de9a09643ef8088": "nee",
+  "a345c6c3d8033a89": "ja",
+  "a5e2e4426e59709c": "ja",
+  "ab9c588df541112f": "nee",
+  "abfd27aba544dd7a": "ja",
+  "aeb531cb3230e6e2": "nee",
+  "b80e584d74f5397b": "ja",
+  "bbf4844ea806e7cf": "ja",
+  "bca127d085c35d97": "ja",
+  "be0c46f8da3ba4f5": "ja",
+  "bf4db57aebc9ab92": "nee",
+  "c3a7531fc526afd6": "nee",
+  "c7ee2aac4a39a93e": "nee",
+  "ca78044f6811ba5d": "ja",
+  "cf9d556cc91d9285": "ja",
+  "d2823380e1e4081f": "nee",
+  "d656e149fb797cc3": "nee",
+  "d854445315b95f12": "nee",
+  "d9448c79fd3339a2": "nee",
+  "d9ea2a55fd2090be": "nee",
+  "daa9d9ff3b03a9fa": "ja",
+  "db2b15b85b0fca31": "ja",
+  "dc1479608cb7d0d8": "nee",
+  "de40c678a170e512": "ja",
+  "df17c95e3a32ea68": "ja",
+  "e0abe9dfcda4d8a2": "nee",
+  "ebddbcf6abd36ab7": "nee",
+  "eecbb2a829f1133f": "ja",
+  "f17e25313a766e78": "ja",
+  "f32912f232450797": "nee",
+  "f64b6fdc383ca593": "nee",
+  "f8ef2526c714962c": "ja",
+  "f986e0ecb9b4c45e": "ja",
+  "f9b84db07bfdddd3": "nee",
+  "fa562bd0fa87574d": "ja",
+  "fb964f397244117f": "nee",
+  "fd87bbddeff3b2fb": "ja"
+ },
+ "opmerkingen": {},
+ "door_po": [
+  "24daf3f822ba4eba",
+  "1a6e4f1ee0c3fdc3",
+  "9474c1a6ce08c042",
+  "a94039ef085d392b",
+  "4cc37831ef1b6237",
+  "4d9543ac794841ae",
+  "64cc969313f38c0c",
+  "b52ee6526e5649c1",
+  "fbfa4afe2f7db797",
+  "bf4db57aebc9ab92",
+  "292aecfb8b7eba7f",
+  "0aed94877b0040ab",
+  "378eb9b98fd590a0"
+ ],
+ "akkoord": "2026-11-12, PO: \"Ja, jij leest eerst, ik daarna de twijfelgevallen\"",
+ "notities_claude": {
+  "f661ee0e8d794a56": "Verkiezing van 2016 (Clinton), niet 2020.",
+  "36695c5d2918656e": "Taiwanese verkiezing van januari 2020, niet de VS.",
+  "e640f07d5714ccc4": "Oproep om afgekeurde briefstemmen in DeKalb te herstellen; geen bewering dat de verkiezing gestolen is.",
+  "4d9543ac794841ae": "Over de menigte bij het Capitool op 6 januari, niet zelf een bewering dat 2020 gestolen is. Horen beweringen over 6 januari erbij?",
+  "476a3345c1cebea7": "Zuid-Korea, niet de VS.",
+  "29b75c592dac616d": "Maricopa bij de tussentijdse verkiezingen van 2022; gaat niet over 2020.",
+  "3d44756cf2c8d2f2": "Detroit bij de tussentijdse verkiezingen van 2022 (Trump); gaat niet over 2020.",
+  "5e6c1fc8b232417d": "Cambodja (2023), niet de VS.",
+  "b7dd12c8335b34c1": "Video over de verkiezing van 2024 in Bucks County; gaat niet over 2020.",
+  "3624782d68558cb9": "Zelfde video over 2024 in Bucks County; gaat niet over 2020.",
+  "58e5c7c793cdf260": "Volgens de kop van DW gaat het om de verkiezing van 2024. (nagelezen door Claude)",
+  "507df8e62aee0eb5": "Wisconsin in 2025 (tekort aan stembiljetten); gaat niet over 2020.",
+  "06db9c2b7aae9850": "Katie Hobbs als kandidaat-gouverneur: de verkiezing van 2022.",
+  "101afd7a111f8833": "Maricopa op de verkiezingsdag van 2022.",
+  "1f87454ac0571307": "Gouverneursverkiezing van 2022 in Pennsylvania (Mastriano tegen Shapiro).",
+  "24daf3f822ba4eba": "Waarschijnlijk Trump bij de tussentijdse verkiezingen van 2022 ('playing games again'); hoort een latere claim die alleen met 'again' naar 2020 verwijst erbij?",
+  "292aecfb8b7eba7f": "Neptweet van Musk over censuur door Twitter tijdens de verkiezing van 2020; geen fraude met stemmen. Hoort 'gemanipuleerd via Big Tech' zonder het woord gestolen erbij?",
+  "2e028bf096f15ef4": "Gemeenteraadsverkiezing in Paterson, New Jersey (2020), niet de presidentsverkiezing.",
+  "378eb9b98fd590a0": "Gaat over de verkiezing in Myanmar, maar koppelt die aan Dominion. Buitenland (eruit) of deel van het Dominion-verhaal (erin)?",
+  "3d6ab92d6d77195d": "Gouverneursverkiezing in Californië (Newsom), niet 2020.",
+  "4eec9e14ca3d19d3": "Senaatsverkiezing in Wisconsin (2024); herhaalt het beeld van de nachtelijke 'ballot dump' in Milwaukee, maar gaat niet over 2020.",
+  "62be9fdd22e8d1ef": "Beschuldiging dat Trump zelf twee keer stemde; niet het verhaal van de gestolen verkiezing.",
+  "766e0699cc8a9fa9": "Over een wetsvoorstel dat 'ballot harvesting' zou toestaan; algemene kiesregels.",
+  "7752b8fcd2599a8d": "PolitiFact, november 2021: de verkiezing in New Jersey van 2021. (nagelezen door Claude)",
+  "7ad31421df5de756": "Voorverkiezing van de Democraten in 2020 (Biden tegen Sanders), niet de presidentsverkiezing.",
+  "81f1285db1e380bc": "Gaat uitdrukkelijk over de verkiezing van 2022.",
+  "a4e76c1418647504": "Trumps advies om na te gaan of je briefstem geteld is en anders te stemmen; geen bewering over fraude (zelfde keuze als de kaart over dubbel stemmen).",
+  "a94039ef085d392b": "Senaatsronde in Georgia van januari 2021, geen presidentsverkiezing. Hoort de nasleep in Georgia (de Senaatsronde) erbij? Zelfde vraag bij de andere kaarten over die ronde.",
+  "b52ee6526e5649c1": "Een peiling naar hoeveel Amerikanen geloven dat de verkiezing gestolen is; over het verhaal, niet het verhaal zelf.",
+  "be73ad54df150986": "Vooraf ingevulde stembiljetten met 'de verkeerde naam' na de wissel van Biden naar Harris: 2024.",
+  "cb51dcdeef898f3d": "Senaatsverkiezing in Pennsylvania (2022); in 2020 was die er niet.",
+  "da4e470f789ac836": "Lagere zetels die na de verkiezing van 2024 zouden zijn omgezet; gaat niet over 2020.",
+  "e771fb6e09921050": "Over de financiering van briefstemmen door Republikeinen in 2020; geen fraudeclaim.",
+  "f28b600ea34e2d8e": "Katie Hobbs bij het tellen: de verkiezing van 2022, zoals de andere kaart over Hobbs.",
+  "f6fa786ceaceb1e1": "Over aanklager Fani Willis en haar campagnegeld; niet over fraude bij de verkiezing van 2020.",
+  "fbfa4afe2f7db797": "Uitspraak van een tegenstander over de resolutie-Ramthun om 2020 terug te draaien; over de nasleep, zelf geen fraudeclaim.",
+  "05aab06bda589bf5": "Trump in mei 2020 over briefstemmen in Michigan als 'Voter Fraud path': de aanloop van het verhaal over 2020.",
+  "7905c9ac6e3ddf65": "Trump in mei 2020 over Nevada en 'Voter Fraud'; aanloop naar 2020.",
+  "eaf24c3920a52bee": "Zelfde tweet over Michigan (mei 2020).",
+  "fd9ba73b72e5771b": "Zelfde tweet over Nevada (mei 2020).",
+  "a379514f9bb940b7": "Trump in juli 2020 over fraude met briefstemmen; aanloop naar 2020.",
+  "8ff35c353d095751": "Trump in augustus 2020: handtekeningen bij briefstemmen niet gecontroleerd; aanloop naar 2020.",
+  "2ea516948f1cde13": "Trump in september 2020 over 80 miljoen stembiljetten naar Democratische gebieden.",
+  "8916ab8a2d3b57dd": "Stembiljetten naar doden en honden (september 2020).",
+  "cbfbd85d447414fc": "Nevada 2020: 'They're trying to rig an election'.",
+  "d9fb7782ff9823f3": "Trump september 2020: 'It's a rigged election'.",
+  "f84911bfa5b1191a": "80 miljoen ongevraagde stembiljetten om fraude te plegen (september 2020).",
+  "bfdadad87551b8eb": "Twee stembiljetten in North Carolina, 'RIGGED ELECTION' (september 2020).",
+  "819cfd9421b217f6": "Trump oktober 2020: 'It's a rigged election'.",
+  "bfba4fd15bda4c1e": "Trump oktober 2020: briefstemmen leiden tot fraude.",
+  "168cf8fed3833959": "Zelfde datum en bron als de kaart over de Democraten en briefstemmen: Trumps lijn in de VS in 2020.",
+  "9cdd6a41468aa940": "Wie profiteert van briefstemmen; geen fraudeclaim.",
+  "a540e996959cb46a": "Massale fraude bij de presidentsverkiezing, weggegooide stembiljetten (oktober 2020).",
+  "830b8d4c0e4bb6de": "Project Veritas over 'ballot harvesting' rond Ilhan Omar (2020); deel van de fraudeclaims van 2020.",
+  "39a46b04f38cb96c": "Gerucht dat stembureauleden met tekens stembiljetten ongeldig maken; kiesregels, geen gestolen verkiezing.",
+  "40263509f8166e2b": "Trump oktober 2020 over problemen met briefstemmen en een einduitslag op 3 november.",
+  "eeead4679f3f7750": "Zelfde gerucht over tekens op stembiljetten; kiesregels.",
+  "bb4ee38840f183f9": "Trump (november 2020) over stembiljetten zonder zijn naam.",
+  "f8646e0b27221ba0": "Trump 2020: verliezen kan alleen door fraude; militaire stembiljetten in een vuilnisbelt.",
+  "9e72e097aba89d4d": "Rechter beveelt te zoeken naar 300.000 zoekgeraakte stembiljetten (2020); de ware kern achter de claim over ontbrekende stembiljetten.",
+  "14a7ec936de8a689": "Biden zou een fraudeoperatie hebben bekend (november 2020).",
+  "6a7bfe598b196bf9": "Telemundo, 5 november 2020: over de valse fraudeclaims van Trump bij deze verkiezing. (nagelezen door Claude)",
+  "7968dac6f68b7e45": "Trump in november 2020: briefstemmen zijn corrupt.",
+  "809100ecbc123036": "Trump in november 2020: briefstemmen 'so one-sided'.",
+  "9225a7af4f67fbea": "Zelfde uitspraak van Trump over briefstemmen (november 2020).",
+  "e1c2d917917ff867": "Trump november 2020: ongevraagde stembiljetten zonder controle.",
+  "e609052cf240b4c0": "Watermerk op stembiljetten tegen fraude: het watermerkverhaal van 2020.",
+  "0aed94877b0040ab": "Prokremlintekst over de VS als mislukte staat die haar verkiezingen niet in de hand heeft ('kleurenrevolutie'); geen concrete fraudeclaim. Ruim genoeg voor het dossier?",
+  "d3739deb808f812b": "Sharpiegate (Arizona, 2020).",
+  "df0b91403641299c": "Video waarin Biden fraude zou toegeven (november 2020).",
+  "93b9d1fe92095f40": "Watermerkverhaal: Trump zou stembiljetten geheim gemerkt hebben.",
+  "57a97b3e3863b025": "Smartmatic en fraude, november 2020; in het Amerikaanse verhaal.",
+  "98267e0f8a97e148": "Dominion-servers in Duitsland in beslag genomen (2020).",
+  "00aca3d8a4cae15d": "Smartmatic opgericht door Chávez (november 2020).",
+  "26523e2d0fa272b8": "100.000 stembiljetten om 4 uur 's nachts (2020).",
+  "741f8af21c6a9a3d": "Telemundo, november 2020: een video van vermeende fraude in Californië die Trump deelde. (nagelezen door Claude)",
+  "aaa95c7e476c8bf8": "Trump: Dominion in handen van radicaal links.",
+  "bbeba89a88481e43": "Fraude via Dominion.",
+  "d11b16c343ed4ddd": "Dominion eigendom van Smartmatic via Indra.",
+  "906cecee83f4a85a": "Vrachtwagen vol stembiljetten bij het telcentrum in Detroit (2020).",
+  "4e936c4e7d307758": "Georgia na de verkiezing van 2020: geen controle van handtekeningen.",
+  "b52c1f60e7017044": "Campagnemedewerker van Biden gearresteerd wegens fraude (november 2020).",
+  "90f109e175055142": "130.000 gevallen van fraude in Nevada (december 2020).",
+  "facafa2159a04655": "Dominion gehackt via SolarWinds (december 2020).",
+  "1d4bdeef438894ec": "Trump januari 2021: 'They're shredding ballots' (Georgia).",
+  "c333825af452c0b1": "Campagnemedewerker van Biden gearresteerd (zelfde verhaal).",
+  "9fe0033d924956e1": "Over een volgende verkiezing; de zichtbare tekst noemt geen fraude in 2020.",
+  "f8e6d250adc80629": "Dominion-machines aan het internet (2021).",
+  "579847ab965ac541": "Trump in oktober 2021 over 2020: stem al uitgebracht.",
+  "3bc8fc5621a5765c": "Tussentijdse verkiezingen van 2022.",
+  "58fb08e2582812ea": "Tussentijdse verkiezingen van 2022.",
+  "d5c1efd1ecaa1fa5": "Check van de dag na de tussentijdse verkiezingen van 2022.",
+  "fcbf020a4dc466aa": "Tussentijdse verkiezingen van 2022.",
+  "4dd24492a77c442b": "BlackRock, Dominion en Fox; geen fraudeclaim.",
+  "9474c1a6ce08c042": "Trump in 2023: 'onze verkiezingen zijn gemanipuleerd', naast open grenzen; geen jaartal, kan op 2020 slaan of algemeen zijn.",
+  "8813d987ffeb7a58": "Trump na 2020, algemeen over briefstemmen; noemt 2020 niet.",
+  "e62ce40bad803480": "Volgens de kop van Knack: de midterms van 2022, niet 2020. (nagelezen door Claude)",
+  "da8cd394f1147efd": "Trump in 2024, algemeen over briefstemmen; noemt 2020 niet.",
+  "fcab4e55ca5a42d1": "Over 2024 (mpox).",
+  "fa933c33594dafd3": "Over 2024 (mpox).",
+  "c935a75da79f6e4a": "Trump in 2026, algemeen over briefstemmen; noemt 2020 niet.",
+  "0449953729270dc5": "Trump over stembiljetten zonder zijn naam (2020), zoals de andere kaarten daarover.",
+  "04b6ade6233183ca": "Stembureaulid in Clark County zou stembiljetten illegaal verzamelen; geen jaartal, past bij 2020.",
+  "10a3527957bed316": "Video van fraude in Flint, Michigan; geen jaartal, past bij 2020.",
+  "10e1c56df6c2aa24": "Trump over handtekeningen in Nevada (2020).",
+  "16043fe0d94f0e52": "Trump zou over de fraude 'we caught them all' gezegd hebben.",
+  "19da24ac5aded390": "20% van de briefstemmen in Pennsylvania frauduleus (2020).",
+  "1a6e4f1ee0c3fdc3": "Waarschijnlijk 2022 (onverifieerde kiezers in Pennsylvania, zelfde verhaal als de kaart met 'playing games again'); hoort het bij 2020?",
+  "2721cca41ab0823e": "Dubbel verstuurde stembiljetten, twee keer stemmen (Trump 2020).",
+  "27dc2d71ddabaabd": "Dallas Jones gearresteerd, zelfde verhaal als de andere arrestaties.",
+  "2ae823aa8d266b99": "Trump: briefstemmen corrupt en frauduleus (2020).",
+  "2bd2eb7f974f3448": "BlackRock, Dominion en Fox; geen fraudeclaim.",
+  "2fa2c0cf08eac04a": "PolitiFact, december 2022: de Senaatsronde in Georgia van 2022, een latere verkiezing. (nagelezen door Claude)",
+  "31dc5a0a31fc2ae8": "Trump oktober 2020 over problemen met briefstemmen.",
+  "31e45a5bbbca36ab": "Zaak uit Indiana in 2012.",
+  "321b59b5e1068539": "Minder afgekeurde stembiljetten op 3 november als teken van fraude.",
+  "378e32afafc7e4dc": "Militaire stembiljetten niet verstuurd; geen fraudeclaim.",
+  "3c7d4ca3a96bc152": "Stembus weggedragen door een onbekende; geen jaartal, past bij 2020.",
+  "44350caf7cd59cd8": "De pandemie zou om de verkiezing (briefstemmen) draaien; zoals 'COVID gebruikt om vals te spelen'.",
+  "452da927df0284b3": "Stembiljetten volstoppen in Flint; geen jaartal, past bij 2020.",
+  "45b1a4a500f0a6b0": "Paxton zou briefstemmen weggooien; niet het verhaal van een van Trump gestolen verkiezing.",
+  "489cd9727a56e3c1": "China achter de verkiezingsfraude.",
+  "4bd9fc24afd831b5": "Trump over 80 miljoen ongevraagde stembiljetten (2020).",
+  "4cc37831ef1b6237": "Trump in zijn toespraak van 6 januari over de Senaatsronde in Georgia; zelfde vraag als bij de andere kaarten over die ronde.",
+  "4e77f6315454b6ee": "Trump: mensen tekenen stembiljetten in een woonkamer.",
+  "50b47992d2079fc9": "Algemene bewering over briefstemmen, zonder jaartal of fraude.",
+  "5261c90480fa4725": "Video waarin Jim Jordan zou zeggen dat 2020 gestolen is.",
+  "54cb65125026acdc": "Verhuizers in het Witte Huis; geen fraudeclaim.",
+  "58a111b5af22daee": "Beschuldiging tegen Sunny Hostin; niet over de uitslag.",
+  "58eaa3c11cb5abd3": "Vrouw in Indiana met 400 vooraf ingevulde stembiljetten; geen jaartal, gedeeld als bewijs van fraude met briefstemmen.",
+  "590541bd6b530e50": "Dode kandidaat die won: Pennsylvania, 2022.",
+  "5d6eaec5fba86846": "Uitspraak over afgiftebussen in Wisconsin zou ook de verkiezing van 2020 raken.",
+  "5e105811c7555a81": "Laat tellen als manier om vals te spelen; geen jaartal, zelfde lijn als Trump in 2020.",
+  "5ec9253a2d8c6583": "Wisconsin: meer stemmers dan kiezers.",
+  "6004264b0019e4e9": "Waarschijnlijk de zaak van Kari Lake over 2022.",
+  "64cc969313f38c0c": "Over een foto van een protest tegen de uitslag van 2020 (5 januari 2021); zelf geen fraudeclaim. Horen de protesten erbij?",
+  "6fc40991ac2a09db": "Trump over briefstemmen in New York (2020): 'Rigged Election'.",
+  "70761c95de2d9e0b": "Versnipperde aanvragen voor briefstemmen voor Trump (2020).",
+  "71c87cd5c5c5bd25": "Ambtenaren in Arizona zouden stembiljetten veranderd hebben; geen jaartal.",
+  "73c727488da42d25": "Michigan, 7,7 miljoen stembiljetten (Trump, mei 2020).",
+  "7621a629b164b43c": "Trump november 2020: weken na de verkiezingsdag tellen is ongepast.",
+  "778f719f43eff983": "Man verbrandt 80 stembiljetten voor Trump.",
+  "77fd9dbd1b8abd61": "Vrouw in Delaware zou stembiljetten invullen.",
+  "7dc9cad0c7aacfb7": "Nevada: 3.062 gevallen van fraude (2020).",
+  "7f03529b4fa76e08": "FactCheck.org, december 2022: de Senaatsronde in Georgia van 2022, een latere verkiezing. (nagelezen door Claude)",
+  "82785b226330243e": "Pennsylvania zou stembiljetten tot 14 november tellen (2020).",
+  "86f94ba0757bde4e": "Kiezers in Virginia weggestuurd omdat ze al een briefstem zouden hebben aangevraagd (2020).",
+  "88a9298044a04314": "Briefstemmen laat 'de slechteriken' weten hoeveel stembiljetten ze moeten maken.",
+  "90bdf42a0aee4860": "DHS zou de officiële stembiljetten maken, Democraten drukken er extra bij.",
+  "93155e8871060385": "Militaire stembiljetten niet verstuurd; geen fraudeclaim.",
+  "9ca3010803a0141f": "Census Bureau en het aantal kiezers in 2020.",
+  "9d70f6afa9977770": "Afwijking in afgekeurde briefstemmen in november (2020).",
+  "a345c6c3d8033a89": "Watermerken op stembiljetten in Arizona.",
+  "a5e2e4426e59709c": "Stembureaulid in Delaware County zou fraude plegen.",
+  "abfd27aba544dd7a": "Biden zou fraude toegeven.",
+  "b80e584d74f5397b": "Miljoenen briefstemmen zoek of op de vuilnisbelt.",
+  "bbf4844ea806e7cf": "Michigan, 7,7 miljoen (zelfde tweet van Trump).",
+  "bca127d085c35d97": "Versnipperde stembiljetten in Georgia.",
+  "be0c46f8da3ba4f5": "Dominion zou zaken tegen Giuliani en Powell verloren hebben: het Dominion-verhaal.",
+  "bf4db57aebc9ab92": "Weerwoord van een functionaris in Georgia dat de fraudeclaims vals zijn; over het verhaal, geen versie ervan.",
+  "ca78044f6811ba5d": "Betwisting van de uitslag van 2020 ('recount territory').",
+  "cf9d556cc91d9285": "Dominion-servers in Duitsland in beslag genomen.",
+  "d2823380e1e4081f": "Dubbel stemmen als zwak punt van het systeem; geen bewering dat het gebeurde (zelfde keuze als Trumps stemadvies).",
+  "daa9d9ff3b03a9fa": "Raffensperger en het onderzoek naar fraude in Georgia.",
+  "db2b15b85b0fca31": "Sharpiegate.",
+  "de40c678a170e512": "Abrams zou opscheppen dat Democraten 2020 kunnen manipuleren.",
+  "df17c95e3a32ea68": "Latere verkiezing, maar zegt zelf 'exactly the kind of fraud we saw in 2020'.",
+  "ebddbcf6abd36ab7": "Over Vance en het plan om 2020 terug te draaien; geen fraudeclaim.",
+  "eecbb2a829f1133f": "Barr zou fraude en dubbel stemmen hebben aangeklaagd.",
+  "f17e25313a766e78": "Barr in september 2020 over een zaak in Texas als bewijs van fraude met briefstemmen.",
+  "f32912f232450797": "Lancaster County: problemen met briefstemmen bij de voorverkiezing van 2022.",
+  "f8ef2526c714962c": "Trump 2020: twaalf dagen extra tellen.",
+  "f986e0ecb9b4c45e": "Biden zou fraude toegeven.",
+  "fa562bd0fa87574d": "Barr in september 2020: fraude met briefstemmen, de zaak in Texas.",
+  "fd87bbddeff3b2fb": "Video van stembiljetten die in Maryland veranderd worden; geen jaartal."
+ },
+ "groepen": [
+  {
+   "sleutel": "later",
+   "vraag": "Latere verkiezingen las ik als nee, tenzij ze 2020 zelf noemen. Deze drie verwijzen er vaag naar: horen ze erbij?",
+   "kaarten": [
+    "24daf3f822ba4eba",
+    "1a6e4f1ee0c3fdc3",
+    "9474c1a6ce08c042"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "georgia",
+   "vraag": "Fraude bij de Senaatsronde in Georgia van januari 2021: hoort die erbij?",
+   "kaarten": [
+    "a94039ef085d392b",
+    "4cc37831ef1b6237"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "zes-januari",
+   "vraag": "6 januari en de protesten tegen de uitslag, zonder eigen fraudeclaim: horen die erbij?",
+   "kaarten": [
+    "4d9543ac794841ae",
+    "64cc969313f38c0c"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "over-het-verhaal",
+   "vraag": "Beweringen óver het verhaal (een peiling, een politiek verwijt, een weerwoord): horen die erbij?",
+   "kaarten": [
+    "b52ee6526e5649c1",
+    "fbfa4afe2f7db797",
+    "bf4db57aebc9ab92"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "zonder-stemmen",
+   "vraag": "2020 'gemanipuleerd' zonder fraude met stemmen (censuur door Twitter, de VS als mislukte staat): hoort dat erbij?",
+   "kaarten": [
+    "292aecfb8b7eba7f",
+    "0aed94877b0040ab"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "dominion-buitenland",
+   "vraag": "'Myanmar gebruikte Dominion': hoort deze buitenlandse uitloper van het Dominion-verhaal erbij?",
+   "kaarten": [
+    "378eb9b98fd590a0"
+   ],
+   "keuze": "nee"
+  }
+ ],
+ "toelichting": "De lezing van de voorstellen bij het dossier verkiezing-vs-2020 (PLAN #33.6, SPECS E9.S7 AC3): Claude las elke kaart (zijn reden onder `notities_claude`), de PO besliste over zijn twijfel per groep (`groepen`) of per kaart; `door_po` zegt welke kaarten zij besliste, `akkoord` haar woorden. Onder `versies` de lezing van welke factchecks hetzelfde bericht zijn. Wat hier staat, vraagt een volgende ronde niet opnieuw.",
+ "versies": {
+  "michigan-absentee-applications": {
+   "oordeel": "ja",
+   "leden": [
+    "05aab06bda589bf5",
+    "f48af44f93443dd1"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "nevada-illegal-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "7905c9ac6e3ddf65",
+    "fd9ba73b72e5771b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "mail-voting-unsafe": {
+   "oordeel": "ja",
+   "leden": [
+    "a379514f9bb940b7",
+    "168cf8fed3833959",
+    "2ae823aa8d266b99"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "signature-verification-waived": {
+   "oordeel": "ja",
+   "leden": [
+    "8ff35c353d095751",
+    "a3857a0b54d530b1"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "ballots-sent-to-dead": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "8916ab8a: overledenen en honden krijgen stembiljetten; 0437a1c0: 80 miljoen ongevraagde stembiljetten en dubbel stemmen na een verhuizing."
+  },
+  "election-was-rigged": {
+   "oordeel": "ja",
+   "leden": [
+    "d9fb7782ff9823f3",
+    "819cfd9421b217f6",
+    "fd17c7a7a030bcec",
+    "1fb5c5ed817800ce",
+    "5ca03e1137558f79"
+   ],
+   "zonder": [
+    "82f4da871e84e656"
+   ],
+   "opmerking": "82f4da87 zegt dat de media de verkiezingen van 2016 en 2020 manipuleerden; de rest dat de verkiezing van 2020 gemanipuleerd is of wordt."
+  },
+  "no-nevada-signature-check": {
+   "oordeel": "ja",
+   "leden": [
+    "cbfbd85d447414fc",
+    "10e1c56df6c2aa24"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "unsolicited-ballots-mailed": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Andere getallen en plaatsen: miljoenen in Nevada, duizenden in de vuilnisbak, tientallen miljoenen zonder controle, 80 miljoen."
+  },
+  "duplicate-ballots-sent": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Andere plaatsen: North Carolina, een niet genoemd Democratisch gebied, Pennsylvania."
+  },
+  "fraud-like-never-seen": {
+   "oordeel": "ja",
+   "leden": [
+    "c88d93c9aa67395d",
+    "bfba4fd15bda4c1e"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "ballots-lost-in-mail": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "7ef0c2ea: miljoenen stembiljetten kwamen niet aan; a0acd499: de vuilste verkiezing ooit; b80e584d: honderdduizenden afgekeurd en miljoenen kwijt. Geen twee met dezelfde kern."
+  },
+  "biden-admits-fraud-video": {
+   "oordeel": "ja",
+   "leden": [
+    "b5ebdba6119a64ce",
+    "df0b91403641299c",
+    "a0cda265a23764c9",
+    "abfd27aba544dd7a",
+    "f986e0ecb9b4c45e"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "mail-ballot-discrepancies": {
+   "oordeel": "ja",
+   "leden": [
+    "40263509f8166e2b",
+    "31dc5a0a31fc2ae8"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "erie-county-poll-worker": {
+   "oordeel": "ja",
+   "leden": [
+    "fd76d39eabdcf2d6",
+    "274a44bbef6c7c45",
+    "c69c27e5b23883a5"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "trump-ballots-destroyed": {
+   "oordeel": "ja",
+   "leden": [
+    "438983adb1bd0e4b",
+    "778f719f43eff983"
+   ],
+   "zonder": [
+    "86e896d760ef2718",
+    "55156f01649b8b0a",
+    "fe559f52a2926539"
+   ],
+   "opmerking": "Kern: een man verbrandt stembiljetten voor Trump op video (438983ad, 778f719f). 86e896d7 gaat over weggooien, 55156f01 over verscheuren, fe559f52 over stembiljetten in de vuilnisbak."
+  },
+  "v-300-000-missing-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "9e72e097aba89d4d",
+    "afbab0515ee86026"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "biden-fraud-team": {
+   "oordeel": "ja",
+   "leden": [
+    "14a7ec936de8a689",
+    "00787fe745870832"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "late-ballots-erased-lead": {
+   "oordeel": "ja",
+   "leden": [
+    "ffa9b90083c57fdb",
+    "0fb4270d25507239"
+   ],
+   "zonder": [
+    "cfff5237d1982c6e"
+   ],
+   "opmerking": "cfff5237 is een andere uitspraak, over North Carolina; de andere twee zijn dezelfde tweet."
+  },
+  "sharpie-ballots-invalidated": {
+   "oordeel": "ja",
+   "leden": [
+    "d3739deb808f812b",
+    "09852e0d9aae2d89"
+   ],
+   "zonder": [
+    "70afe733e0d977c3"
+   ],
+   "opmerking": "De tekst van 70afe733 zegt het omgekeerde (er werden geen stemmen afgekeurd): de conclusie staat in het veld van de bewering."
+  },
+  "mail-voting-corrupts-people": {
+   "oordeel": "ja",
+   "leden": [
+    "7968dac6f68b7e45",
+    "9225a7af4f67fbea"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "more-votes-than-people": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "4bb5b418: in sommige county's meer stemmen dan kiezers, zonder plaats; 8575c194: Detroit en Pennsylvania, met getallen."
+  },
+  "secret-ballot-watermark": {
+   "oordeel": "ja",
+   "leden": [
+    "e609052cf240b4c0",
+    "afac8f8dc812bfab",
+    "0402cef0853c6cba",
+    "e05a4ac9b72584c8"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "ballots-dumped-in-trash": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "3167cef5: rechtszaken, 300.000 kwijtgeraakte stembiljetten en Michigan; 73c74225: video's van teruggevonden stembiljetten."
+  },
+  "dominion-machine-glitch": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "ce99d230: een fout in de software in Michigan; cd6c3210: de verkiezing werd gemanipuleerd, waarnemers geweerd, Dominion links-radicaal."
+  },
+  "smartmatic-rigged-venezuelan-elections": {
+   "oordeel": "ja",
+   "leden": [
+    "57a97b3e3863b025",
+    "24c720ad60b5420c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "v-2-7-million-votes-deleted": {
+   "oordeel": "ja",
+   "leden": [
+    "6b5bbd6fc511366e",
+    "7dc6e3872a672944",
+    "d05add0c65fa1ece",
+    "685b0a2f6e78fd79"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "frankfurt-servers-seized": {
+   "oordeel": "ja",
+   "leden": [
+    "49757a898105c9a5",
+    "98267e0f8a97e148",
+    "cf9d556cc91d9285"
+   ],
+   "zonder": [
+    "685b6fa84b37948b"
+   ],
+   "opmerking": "In de tekst van 685b6fa8 staan geen in beslag genomen servers, alleen dat de software van Dominion stemmen manipuleerde."
+  },
+  "ballots-brought-4-30am": {
+   "oordeel": "ja",
+   "leden": [
+    "b5d39c673612d487",
+    "0a54a94ddcd0995f",
+    "26523e2d0fa272b8"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "dallas-jones-arrest": {
+   "oordeel": "ja",
+   "leden": [
+    "ac7226f46df03a61",
+    "b52c1f60e7017044",
+    "c333825af452c0b1",
+    "27dc2d71ddabaabd",
+    "e21ce3c82de5d8d0",
+    "f60349efbfa37c27"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "radical-left-dominion-ownership": {
+   "oordeel": "ja",
+   "leden": [
+    "194866f33a33c1cc",
+    "aaa95c7e476c8bf8"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "smartmatic-founded-by-ch-vez": {
+   "oordeel": "ja",
+   "leden": [
+    "b41166505a2d4068",
+    "00aca3d8a4cae15d",
+    "0d090a9575a24cbc"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "dominion-fraud-in-states": {
+   "oordeel": "ja",
+   "leden": [
+    "bbeba89a88481e43",
+    "4dba0b95361a2532"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "lower-mail-ballot-rejection": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "d46486f2: in Pennsylvania 30 keer minder afgekeurd dan in 2016; 321b59b5 noemt geen staat en geen getal."
+  },
+  "nevada-commissioner-race-thrown-out": {
+   "oordeel": "ja",
+   "leden": [
+    "9c144c56232ee1e3",
+    "7f3ac7f8557138d5"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "merlino-mob-fake-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "8838dc2b3852dbd6",
+    "1c79dc827ecf9e40",
+    "5f5e5f803d78c684"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "detroit-late-night-ballot-trucks": {
+   "oordeel": "ja",
+   "leden": [
+    "906cecee83f4a85a",
+    "812b5972fb20897b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "georgia-signature-verification": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "4e936c4e: Georgia controleert geen handtekeningen; 804e970b: bij de hertelling mag men de handtekeningen niet controleren."
+  },
+  "at-t-forensic-audit": {
+   "oordeel": "ja",
+   "leden": [
+    "4b1de0ecd3752bb5",
+    "902ac248fbfa5cd2"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "fulton-county-ballot-shredding": {
+   "oordeel": "ja",
+   "leden": [
+    "e9b7696d4489161c",
+    "1d4bdeef438894ec"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "georgia-shredded-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "a6201104e85ef9e2",
+    "bca127d085c35d97"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "courts-dismissed-fraud-suits": {
+   "oordeel": "ja",
+   "leden": [
+    "b3a4c9afac9d9701",
+    "a0d7328626024988"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "dominion-switched-trump-votes": {
+   "oordeel": "ja",
+   "leden": [
+    "b855fb6846b1ebbc",
+    "b7dfd0b53d5d85ad",
+    "fa772b980403355f"
+   ],
+   "zonder": [
+    "df17c95e3a32ea68"
+   ],
+   "opmerking": "df17c95e gaat over een latere verkiezing in Whitfield County en noemt 2020 alleen ter vergelijking."
+  },
+  "trump-won-the-election": {
+   "oordeel": "ja",
+   "leden": [
+    "d6888b6d66c11284",
+    "c84ed905d903b175",
+    "80309b379e19a884"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "maricopa-74-000-unmailed-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "0d3bdedb9bc80d26",
+    "796abf9790de81de"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "voters-turned-away": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "579847ab: hun stem was al uitgebracht; 86f94ba0: in Virginia, ze hadden al een briefstem aangevraagd."
+  },
+  "covid-used-to-cheat": {
+   "oordeel": "ja",
+   "leden": [
+    "e8dc5147d8c0850b",
+    "13c290299e413912",
+    "c91e0248659a343b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "census-voter-count-conflict": {
+   "oordeel": "ja",
+   "leden": [
+    "9ca3010803a0141f",
+    "eae2b834b1b78707"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "counting-after-election-day": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "5e105811: na de verkiezingsdag tellen is valsspelen; 7621a629: wekenlang tellen is ongepast en niet volgens de wet."
+  },
+  "delaware-county-poll-worker-fraud": {
+   "oordeel": "ja",
+   "leden": [
+    "338f24008888c7f5",
+    "77fd9dbd1b8abd61",
+    "a5e2e4426e59709c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "dominion-designed-for-fraud": {
+   "oordeel": "ja",
+   "leden": [
+    "24d3c592d4983e83",
+    "84188410eabc893a"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "foreign-printed-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "3dc2c14a3a70be46",
+    "a583ed46eb3f9f6c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "georgia-suitcases-of-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "cdefe62df584eb12",
+    "ffdd5cb5354698ad"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "georgia-worker-manipulated-data": {
+   "oordeel": "ja",
+   "leden": [
+    "1bc519a0dcd930a2",
+    "2dc3dabcf5ff11b7"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "michigan-7-7-million-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "73c727488da42d25",
+    "bbf4844ea806e7cf"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "michigan-wisconsin-fraud-evidence": {
+   "oordeel": "ja",
+   "leden": [
+    "c7f6ab538bb0b298",
+    "e2d0a3368142ba54"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "milwaukee-late-ballot-dump": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "045a2d97: Biden kreeg plots 100.000 stemmen in Wisconsin; 178452cc: een medewerker in Milwaukee bracht om 3 uur precies de marge binnen."
+  },
+  "newsom-sends-ballots-widely": {
+   "oordeel": "ja",
+   "leden": [
+    "f06f31c2e4e3b274",
+    "f8d73076f8818566"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "pennsylvania-excess-mail-ballots": {
+   "oordeel": "ja",
+   "leden": [
+    "46ba917bd5791987",
+    "97f082131d1eab40"
+   ],
+   "zonder": [
+    "12668491a492428f",
+    "3026e264c46abf20"
+   ],
+   "opmerking": "Kern: Pennsylvania telde meer briefstemmen dan het verstuurde (46ba917b, 97f08213). 12668491 en 3026e264 gaan over één county (een tv-beeld, Lancaster) en meer stemmen dan teruggestuurd."
+  }
+ },
+ "versies_gelezen": {
+  "door": "Claude en PO",
+  "datum": "2026-11-12",
+  "akkoord": "2026-11-12, PO: \"Ziet goed uit, ga door met de versies\""
+ }
+}

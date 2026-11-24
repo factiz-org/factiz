@@ -1,0 +1,12 @@
+# try.factiz.org: TLS op de machine zelf (Let's Encrypt), geen proxy ervoor
+# (B21). Bewust géén log-directief: accesslogs blijven uit, zoals de
+# privacyverklaring belooft.
+try.factiz.org {
+    reverse_proxy 127.0.0.1:8787
+    header {
+        Strict-Transport-Security "max-age=31536000"
+        X-Content-Type-Options "nosniff"
+        Referrer-Policy "no-referrer"
+        Permissions-Policy "camera=(), microphone=(), geolocation=()"
+    }
+}

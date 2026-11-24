@@ -1,0 +1,170 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/trump-poetin-xi-verklaring/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "trump-poetin-xi-verklaring"
+status = "gepubliceerd"
+taal = "en"
+adres = "putin-ceasefire-after-shenzhen-summit"
+kop = "Putin did not declare a ceasefire after meeting Trump and Xi in Shenzhen"
+oordeel = "onwaar"
+oordeel_zin = "No ceasefire was declared: the joint declaration from Shenzhen does not mention Ukraine, Putin said that day that Russia would retaliate for the strikes on the Crimean Bridge, and that night Russia fired 84 cruise missiles at Ukraine [2] [4] [6]."
+soort = "verzonnen"
+reikwijdte = "internationaal"
+
+bewering = "BREAKING: RUSSIAN PRESIDENT VLADIMIR PUTIN HAS JUST DECLARED A CEASEFIRE AND WITHDRAWN ALL HIS TROOPS FROM THE UKRAINIAN BORDER FOLLOWING HIS MEETING YESTERDAY."
+platform = "X"
+eerst_gezien = "2026-11-19"
+posts = 1
+bereik = "895 likes, 260 reposts and 99 replies on November 23"
+
+kort = """
+On November 19, a post on X claimed that Vladimir Putin had declared a ceasefire and withdrawn all his troops from \
+the Ukrainian border after meeting Donald Trump and Xi Jinping [1]. The three leaders did meet in Shenzhen that day, \
+but their joint declaration does not mention Ukraine, and Putin said Russia would retaliate for Ukraine's strikes on \
+the Crimean Bridge [2] [3] [4]. That night Russia attacked Ukraine with 84 cruise missiles and 404 drones [6]."""
+
+tekst = """
+At 10:21 UTC on November 19, 2026, an account on X wrote in capitals that Putin had just declared a ceasefire and \
+withdrawn all his troops from the Ukrainian border [1]. The post gives Trump the credit and quotes Putin as saying he \
+wants peace and that Zelenskyy keeps pushing him [1]. It names no source [1].
+
+That day, on the sidelines of the APEC summit in Shenzhen, Trump, Putin and Xi held a three-way meeting, and Trump \
+and Putin also met on their own [5]. The three adopted a four-point Declaration toward Peace, published by the Kremlin \
+and by the Chinese foreign ministry [2] [3]. In it they commit to reform the United Nations, supply more refined \
+petroleum products and hold talks on nuclear risks, and say the International Criminal Court must not abuse its \
+jurisdiction [2] [3]. It says nothing about Ukraine, a ceasefire or troops [2] [3]. The Associated Press reported no \
+breakthroughs [5].
+
+At his press conference that day, Putin said Russia had no desire to continue the conflict, and that Ukraine should \
+accept the compromises the Americans proposed before the talks in Anchorage [4]. Asked about the Ukrainian strikes on the Crimean Bridge, he \
+said there would now be no talks on a pause in strikes at sea or on energy, and that Russia's response would follow \
+[4]. He said Russia would expand its presence in the Zaporizhzhia and Kherson regions and push Ukrainian forces \
+further back [4]. The words the post puts in his mouth are not in the Kremlin's transcript [4].
+
+Overnight into November 20, Russia attacked Ukraine with ballistic missiles, 84 cruise missiles and 404 drones, \
+according to Ukraine's Air Force [6]. At least nine people died, seven of them in Kyiv, \
+where three bridges were damaged [7]. The next night the Air Force counted 3 ballistic missiles and \
+148 drones [8]."""
+
+niet_weten = """
+We do not know who runs the account or where the quote attributed to Putin first appeared [1]. We found no statement \
+from the Kremlin or Beijing, and no news report, that mentions a ceasefire after the meeting in Shenzhen [2] [3] [4] \
+[5]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "The Radar first picked up this summit through another post of November 19 that went round with an image. Its author deleted it before we could read it, so we do not know what exactly it claimed.",
+  "A post in Russian claimed the opposite outcome: that Trump and Xi gave Putin three days to capitulate and that Zelenskyy had flown to China. We did not check it separately.",
+  "Whether the quote attributed to Putin, in which he says Zelenskyy keeps pushing him, appeared earlier in other posts or on other platforms.",
+  "We chose False over Misleading because the post presents a ceasefire and a withdrawal as done, and neither happened. If you know more, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 19, 2026, 10:21 UTC."
+alt = "The post on X by the account madrid_xtraq saying in capitals that Putin has declared a ceasefire and withdrawn all his troops from the Ukrainian border, with a still of Putin at a microphone and a photo of Trump at a lectern, above a quoted post showing Trump and Putin shaking hands. Stamp: FALSE."
+
+[[tijdlijn]]
+datum = "2026-11-19"
+wat = "Trump, Putin and Xi hold a three-way meeting in Shenzhen, on the sidelines of the APEC summit [5]."
+
+[[tijdlijn]]
+datum = "2026-11-19"
+wat = "The three leaders adopt the Declaration toward Peace; it does not mention Ukraine [2] [3]."
+
+[[tijdlijn]]
+datum = "2026-11-19"
+tijd = "10:21 UTC"
+wat = "A post on X claims Putin has declared a ceasefire and withdrawn his troops [1]."
+
+[[tijdlijn]]
+datum = "2026-11-19"
+wat = "Putin's press conference in Shenzhen: no talks after the strikes on the Crimean Bridge, a response will follow [4]."
+
+[[tijdlijn]]
+datum = "2026-11-20"
+wat = "Overnight, Russia attacks Ukraine with 84 cruise missiles and 404 drones; at least nine people die [6] [7]."
+
+[[tijdlijn]]
+datum = "2026-11-21"
+wat = "Overnight, Russia attacks Ukraine with 3 ballistic missiles and 148 drones [8]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post claiming that Putin declared a ceasefire after meeting Trump and Xi"
+datum = "2026-11-19"
+prive = true
+archief = "https://web.archive.org/web/20261123004207/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2123360991526244799&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "President of Russia (Kremlin)"
+titel = "Russia-China-U.S. Heads of State Declaration toward Peace"
+datum = "2026-11-19"
+url = "http://en.kremlin.ru/supplement/6618"
+archief = "https://web.archive.org/web/20261123004323/http://en.kremlin.ru/supplement/6618"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Ministry of Foreign Affairs of the People's Republic of China"
+titel = "China-Russia-U.S. Heads of State Declaration toward Peace"
+datum = "2026-11-19"
+url = "https://www.mfa.gov.cn/mfa_eng./xw/zyxw/202611/t20261119_12063224.html"
+archief = "https://web.archive.org/web/20261123004451/https://www.mfa.gov.cn/mfa_eng./xw/zyxw/202611/t20261119_12063224.html"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "President of Russia (Kremlin)"
+titel = "Press conference following visit to China (transcript)"
+datum = "2026-11-19"
+url = "http://en.kremlin.ru/events/president/news/81305"
+archief = "https://web.archive.org/web/20261123004539/http://en.kremlin.ru/events/president/news/81305"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "The Associated Press (on WRDW-TV)"
+titel = "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs"
+datum = "2026-11-19"
+url = "https://www.wrdw.com/2026/11/19/nuclear-arms-ending-wars-iran-ukraine-top-agenda-trump-xi-putin-meeting/"
+archief = "https://web.archive.org/web/20261123004643/https://www.wrdw.com/2026/11/19/nuclear-arms-ending-wars-iran-ukraine-top-agenda-trump-xi-putin-meeting/"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "Air Force of the Armed Forces of Ukraine (Telegram)"
+titel = "Shot down or suppressed 462 enemy targets: the attack in the night of November 20"
+datum = "2026-11-20"
+url = "https://t.me/kpszsu/97713"
+archief = "https://web.archive.org/web/20261123004731/https://t.me/kpszsu/97713"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "The Kyiv Independent"
+titel = "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead"
+datum = "2026-11-20"
+url = "https://kyivindependent.com/ukraine-war-latest-russia-strikes-3-kyiv-bridges-in-massive-aerial-assault-on-ukraine-at-least-9-dead/"
+archief = "https://web.archive.org/web/20261123004933/https://kyivindependent.com/ukraine-war-latest-russia-strikes-3-kyiv-bridges-in-massive-aerial-assault-on-ukraine-at-least-9-dead/"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Air Force of the Armed Forces of Ukraine (Telegram)"
+titel = "Shot down or suppressed 117 enemy targets: the attack in the night of November 21"
+datum = "2026-11-21"
+url = "https://t.me/kpszsu/97974"
+archief = "https://web.archive.org/web/20261123005023/https://t.me/kpszsu/97974"

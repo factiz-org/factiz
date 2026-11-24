@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La «revendication iranienne» du ground stop américain est un message de deux emoji",
+  "oordeel_zin": "Un compte nommé Iran Military Media a publié un avion et une croix après le début du ground stop, mais il n'a rien revendiqué, et la FAA a attribué l'arrêt à un afflux de données sur son propre réseau [1] [3] [11].",
+  "bewering": "Les comptes iraniens tweetent maintenant en suggérant qu'ils sont responsables du ground stop aux États-Unis aujourd'hui.   Il est temps que le président Trump en finisse avec le régime iranien.",
+  "kort": "Le 13 novembre, Laura Loomer a écrit sur X que des comptes iraniens suggéraient être à l'origine du ground stop à l'échelle nationale aux États-Unis, et a appelé le président Trump à en finir avec le régime iranien [2]. Le message qu'elle citait ne montre qu'un avion et une croix, publiés par un compte nommé Iran Military Media après le début du ground stop [3] [6]. La FAA a attribué l'arrêt à un afflux de données sur son propre réseau, et des responsables américains ont dit ne voir aucun signe d'un acteur étranger [1] [9] [13].",
+  "tekst": "Le vendredi 13 novembre, le contrôle aérien américain a commencé à perdre des liaisons radar et radio à 15 h 36, heure de l'Est (20 h 36 UTC), selon le secrétaire aux Transports Sean Duffy [5]. Peu avant 16 h, la Federal Aviation Administration (FAA) a interrompu tous les départs des aéroports américains, un « ground stop » [6]. Les avions déjà en vol pouvaient atterrir; Duffy a dit que plus de 3 500 étaient en l'air à ce moment-là [7] [8]. La FAA a levé l'arrêt vers 20 h 15, heure de l'Est, soit 1 h 15 UTC le 14 novembre [5].\n\nC'était le premier ground stop national depuis janvier 2023, et le deuxième depuis les attentats du 11 septembre 2001 [6].\n\nÀ 21 h 20 UTC, environ 45 minutes après le début des problèmes, un compte nommé Iran Military Media a publié deux emoji sur X : un avion et une croix [3] [5]. Le message ne contient ni mots, ni image, ni lien [3]. Il ne mentionne ni la FAA, ni une cyberattaque, ni un drone, et il ne dit pas qui a fait quoi [3]. À 23 h 00 UTC, Laura Loomer l'a cité, avec le texte selon lequel des comptes iraniens suggéraient être responsables du ground stop [2]. Son message comptait 19 468 mentions « j'aime » et 1 842 réponses le 19 novembre [2].\n\nLe compte ne porte sur X aucune mention d'un gouvernement ou d'une organisation officielle, et nous n'avons trouvé aucune source qui le relie aux forces armées iraniennes [3]. Les Gardiens de la révolution iraniens revendiquent bien des attaques publiquement : le même jour, ils ont revendiqué une attaque de drones contre un site radar américain à Bahreïn, et le Commandement central américain a dit avoir intercepté les drones [15]. Aucun des articles sur le ground stop que nous avons lus ne mentionne une revendication de responsabilité iranienne [9] [14] [15].\n\nAu moment où Loomer a publié son message, des responsables avaient déjà dit ne voir aucun signe d'attaque [4] [7]. À 16 h 53, heure de l'Est, deux responsables des forces de l'ordre ont dit à CNN que, selon les informations préliminaires, il ne s'agissait pas d'une cyberattaque [7]. Le secrétaire à la Sécurité intérieure Markwayne Mullin a déclaré aux journalistes à la Maison-Blanche qu'il n'y avait aucune indication d'une attaque malveillante, et a parlé d'une panne de télécommunications [4].\n\nLes premières conclusions de la FAA, publiées le 15 novembre, désignent son propre réseau de télécommunications, géré par le sous-traitant L3Harris [1]. Le réseau a été inondé de données provenant de deux sites : un site radar à Amarillo, au Texas, et un site radio à El Dorado, en Arkansas, où L3Harris avait installé un nouveau routeur [1] [11]. L'équipement plus ancien recevait environ 1 000 tentatives de connexion toutes les quatre à cinq secondes et est devenu instable [11]. Le trafic s'est stabilisé après que L3Harris a coupé les deux sites [11]. Duffy a dit que les travaux à El Dorado remplaçaient d'anciennes lignes en cuivre par de la fibre [9] [11].\n\nLe 14 novembre, Duffy a déclaré : « Ce n'était pas un acteur étranger. » [9] L'administrateur de la FAA Bryan Bedford a dit que la Situation Room de la Maison-Blanche et le FBI avaient été associés, et que tous les participants avaient conclu qu'il ne s'agissait pas d'un problème informatique malveillant [9]. Le 17 novembre, le directeur du Renseignement national Jay Clayton a dit sur Fox Business qu'il ne voyait aucun signe d'une cyberattaque coordonnée derrière la récente série de pannes, et il les a attribuées à des correctifs et à des mises à niveau de systèmes [13]. Dans une dépêche de Reuters ce jour-là, une porte-parole de la Maison-Blanche a dit qu'il n'y avait aucune preuve d'une cyberattaque derrière elles [12].\n\nL'Iran a été évoqué pour une raison : les États-Unis sont en guerre avec l'Iran, et l'Iran avait averti qu'il riposterait dans le cyberespace [9]. Le 18 novembre, Mullin a indiqué par écrit au Congrès que le gouvernement iranien et des groupes soutenus par Téhéran ont ciblé des infrastructures américaines, mais il n'a pas relié l'Iran au ground stop [14].\n\nLa cause exacte n'est pas encore établie : la FAA et L3Harris cherchent toujours à savoir si une erreur d'installation, un appareil défectueux ou autre chose a déclenché l'afflux de données [11]. Le 15 novembre, Duffy a dit n'avoir aucune indication d'un piratage, et que le FBI apportait son aide et partagerait tout ce qu'il trouverait [10].\n\nNous n'avons trouvé aucune vérification d'une autre rédaction sur l'affirmation concernant l'Iran; le vérificateur de faits autrichien Mimikama a confirmé le 14 novembre que la FAA avait interrompu les départs dans tout le pays, et n'a trouvé aucune preuve d'une cyberattaque [16]. PolitiFact a vérifié le 17 novembre à qui revenait la responsabilité politique de la panne, et non un lien avec l'Iran [17].",
+  "niet_weten": "Nous ne savons pas qui gère le compte Iran Military Media, depuis quel pays, ni ce qu'il voulait dire avec l'avion et la croix [3]. Loomer a parlé de comptes iraniens, au pluriel ; nous n'avons trouvé que la seule publication qu'elle a citée [2] [3]. La cause finale de l'arrêt des vols au sol n'est pas encore connue [10] [11].",
+  "bereik": "19 468 mentions « j'aime » et 1 842 réponses le 19 novembre",
+  "nog_uitzoeken": [
+   "Qui gère le compte Iran Military Media, et quel pays X affiche pour lui.",
+   "Si d'autres comptes se présentant comme iraniens ont revendiqué l'arrêt des vols au sol ce jour-là, en persan ou en anglais.",
+   "Ce que conclura l'enquête finale de la FAA : une erreur d'installation, un routeur défectueux ou autre chose, et le rôle du site d'Amarillo.",
+   "Nous avons hésité entre Trompeur et Faux. La publication avec les émojis existe, ce qui nous a fait choisir Trompeur ; elle n'affirme rien et rien n'indique que l'Iran ait été impliqué, ce qui plaide pour Faux."
+  ],
+  "tijdlijn": [
+   "Les liaisons radar et radio du contrôle aérien américain deviennent instables, selon Duffy [5].",
+   "Peu avant 16 h, heure de l'Est, la FAA interrompt tous les départs des aéroports américains [6].",
+   "Iran Military Media publie un avion et une croix sur X [3].",
+   "Deux responsables des forces de l'ordre disent à CNN qu'il ne s'agit pas d'une cyberattaque, selon les informations préliminaires [7].",
+   "NPR rapporte les propos de Mullin : aucune indication d'une attaque malveillante, une panne de télécommunications [4].",
+   "Laura Loomer cite le message en emoji : des comptes iraniens suggèrent être responsables [2].",
+   "La FAA lève le ground stop, à 20 h 15, heure de l'Est, le 13 novembre [5].",
+   "Duffy : la cause se trouve dans des travaux d'un sous-traitant de L3Harris, et ce n'était pas un acteur étranger [9].",
+   "Premières conclusions de la FAA : un afflux de données provenant de deux sites, à Amarillo et à El Dorado [1] [11].",
+   "Le directeur du Renseignement national Clayton ne voit aucun signe d'une cyberattaque coordonnée [13].",
+   "Mullin au Congrès : l'Iran cible des infrastructures américaines, sans lien avec le ground stop [14]."
+  ],
+  "beeld_bijschrift": [
+   "Message sur X, 13 novembre 2026, 23 h 00 UTC."
+  ],
+  "beeld_alt": [
+   "Un message sur X de Laura Loomer disant que des comptes iraniens suggèrent être responsables du ground stop aux États-Unis, citant un message d'Iran Military Media avec un avion et une croix. Tampon : TROMPEUR."
+  ]
+ }
+}

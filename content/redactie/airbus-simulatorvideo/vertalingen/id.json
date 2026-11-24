@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video Airbus Beluga berputar di landasan pacu mungil Saba dibuat di Microsoft Flight Simulator",
+  "oordeel_zin": "Video itu sudah ada di YouTube pada Agustus 2025, dicantumkan di bawah gim Microsoft Flight Simulator 2024, dan landasan pacu yang ditampilkan, di Saba, panjangnya 401 meter dan lebarnya 18 meter; panjang BelugaXL adalah 63,1 meter [5] [7] [8].",
+  "bewering": "Ini sungguh tidak masuk akal... bagaimana pesawat yang sangat besar seperti ini bisa berputar di jalan kecil ini... respek maksimal untuk pilotnya",
+  "kort": "Sejak 11 November, unggahan di X membagikan video Airbus BelugaXL yang berputar di landasan pacu mungil di atas tebing lalu lepas landas, seolah-olah itu penerbangan sungguhan [1] [3]. Video itu berasal dari simulator penerbangan. Video tersebut sudah ada di YouTube pada Agustus 2025, dicantumkan di bawah gim Microsoft Flight Simulator 2024 [5]. Landasan pacu itu adalah milik Saba, panjangnya 401 meter dan lebarnya 18 meter, sedangkan panjang BelugaXL adalah 63,1 meter [7] [8].",
+  "tekst": "Pada 16 November 2026, akun Amelia Collins menulis di X bahwa sungguh tidak masuk akal bagaimana \"pesawat yang sangat besar seperti ini\" bisa berputar \"di jalan kecil ini\", dengan \"respek maksimal untuk pilotnya\" [1]. Unggahannya menautkan video berdurasi 2 menit 41 detik yang diunggah akun lain di X pada 9 Maret 2026 dengan keterangan \"Salah satu landasan pacu terpendek yang harus didarati pesawat\" [2]. Akun itu kini telah menghapus unggahan tersebut [2]. Dari 11 hingga 19 November, kami menghitung 55 unggahan dari 47 akun di X yang menautkan video itu [1] [3]. Pada 22 November, sebuah akun mengunggah salinan yang dipersingkat [4].\n\nVideo itu menampilkan pesawat kargo besar berwarna putih dengan tulisan BELUGA XL dan AIRBUS di badannya [2]. Di samping deretan panel surya, pesawat itu berputar di landasan pacu bertanda 30, lepas landas di atas laut, dan mendarat di tempat lain [2].\n\nVideo yang sama, dengan adegan yang sama pada momen yang sama, diunggah pada 6 Agustus 2025 oleh kanal YouTube Smilo Fly, dengan judul \"Airbus Beluga XL Impossible takeoff from SABA Airport\" [5]. YouTube mencantumkan gim Microsoft Flight Simulator 2024 di bawahnya [5].\n\nSaba adalah pulau Belanda di Karibia, dan taman surya di pulau itu berada tepat di sebelah bandara [6] [7]. Menurut informasi aeronautika resmi untuk Saba, landasan pacu itu panjangnya 401 meter dan lebarnya 18 meter, dan hanya pesawat yang diizinkan oleh pemerintah Belanda yang boleh menggunakan bandara tersebut [7]. Airbus menyatakan bahwa panjang BelugaXL adalah 63,1 meter dan bahwa enam BelugaXL miliknya mengangkut komponen pesawat antara 11 tujuan di Eropa [8].\n\nSatu-satunya insiden BelugaXL yang kami temukan di basis data Aviation Safety Network terjadi di Prancis [9]. Pada 18 November 2022, sebuah BelugaXL sebagian keluar dari permukaan beraspal di Albert saat berputar 180 derajat setelah mendarat [9].",
+  "niet_weten": "Kami tidak tahu siapa yang merekam penerbangan itu di simulator: unggahan Smilo Fly pada 6 Agustus 2025 adalah yang paling awal kami temukan, tetapi kanal itu mungkin menyalinnya [5]. Kami tidak tahu mengapa akun di X itu menghapus unggahannya pada 9 Maret [2].",
+  "bereik": "55 unggahan yang menautkan video itu mendapat total 4.229 suka dan 2.151 balasan pada 23 November; unggahan 16 November mendapat 70 suka dan 27.300 tayangan",
+  "nog_uitzoeken": [
+   "Siapa yang merekam penerbangan itu di Microsoft Flight Simulator 2024, dan apakah Smilo Fly membuat videonya sendiri atau mengambilnya dari kreator lain.",
+   "Apakah akun-akun yang mengunggah kalimat yang sama beserta tautannya, seperti \"Ini benar-benar terjadi di luar rencana\", bekerja sama.",
+   "Jika Anda tahu lebih banyak tentang di mana video ini pertama kali muncul, tolong beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Sebuah BelugaXL sungguhan sebagian keluar dari permukaan beraspal saat berputar 180 derajat di Albert, Prancis [9].",
+   "Smilo Fly mengunggah video itu di YouTube, dicantumkan di bawah Microsoft Flight Simulator 2024 [5].",
+   "Sebuah akun mengunggah video yang sama di X sebagai salah satu landasan pacu terpendek [2].",
+   "Unggahan pertama yang kami temukan pada November menautkan video itu [3].",
+   "Amelia Collins: respek maksimal untuk pilotnya [1].",
+   "Sebuah akun mengunggah salinan video yang dipersingkat [4]."
+  ],
+  "beeld_bijschrift": [
+   "Salinan video dalam sebuah unggahan di X, 22 November 2026, 04.12 UTC.",
+   "Smilo Fly di YouTube, 6 Agustus 2025: video yang sama berdurasi 2 menit 41 detik, dicantumkan di bawah gim Microsoft Flight Simulator 2024."
+  ],
+  "beeld_alt": [
+   "Unggahan di X yang menyebut ini salah satu landasan pacu terpendek di dunia dan pilot harus mendarat dengan sempurna, dengan tangkapan layar dari video: sebuah Airbus BelugaXL di apron di samping taman surya dan landasan pacu pendek bertanda 30. Cap: SALAH.",
+   "Tangkapan layar dari video YouTube Smilo Fly: sebuah Airbus BelugaXL di apron di samping taman surya bandara Saba, dengan landasan pacu bertanda 30 di atas tebing."
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck trump-poetin-xi-verklaring van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "9ce048fccbb65b10",
+ "veldafdrukken": {
+  "kop": "c819d8b116205daf",
+  "oordeel_zin": "06a72015262c64bd",
+  "bewering": "8114d5623a06a128",
+  "kort": "bd68417202b819e2",
+  "tekst": "469af6912b32a5cd",
+  "niet_weten": "60deae92ec310c23",
+  "bereik": "91cc290196d3df18",
+  "nog_uitzoeken": "4c4293470da0519f",
+  "tijdlijn": "0563191833ccd753",
+  "beeld_bijschrift": "a4f87ca87b1efda0",
+  "beeld_alt": "cc78ac8147daf24f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Poetin heeft na de ontmoeting met Trump en Xi in Shenzhen geen staakt-het-vuren afgekondigd",
+  "oordeel_zin": "Er is geen staakt-het-vuren afgekondigd: de gezamenlijke verklaring uit Shenzhen noemt Oekraïne niet, Poetin zei die dag dat Rusland wraak zou nemen voor de aanvallen op de Krimbrug, en die nacht vuurde Rusland 84 kruisraketten af op Oekraïne [2] [4] [6].",
+  "bewering": "NIEUWS: DE RUSSISCHE PRESIDENT VLADIMIR POETIN HEEFT NET EEN BESTAND AANGEKONDIGD EN AL ZIJN TROEPEN TERUGGETROKKEN VAN DE OEKRAÏENSE GRENS NA ZIJN ONTMOETING VAN GISTEREN.",
+  "kort": "Op 19 november beweerde een bericht op X dat Vladimir Poetin een staakt-het-vuren had afgekondigd en al zijn troepen van de Oekraïense grens had teruggetrokken na een ontmoeting met Donald Trump en Xi Jinping [1]. De drie leiders kwamen die dag inderdaad samen in Shenzhen, maar hun gezamenlijke verklaring noemt Oekraïne niet, en Poetin zei dat Rusland wraak zou nemen voor de Oekraïense aanvallen op de Krimbrug [2] [3] [4]. Die nacht viel Rusland Oekraïne aan met 84 kruisraketten en 404 drones [6].",
+  "tekst": "Op 19 november 2026 om 10.21 uur UTC schreef een account op X in hoofdletters dat Poetin zojuist een staakt-het-vuren had afgekondigd en al zijn troepen van de Oekraïense grens had teruggetrokken [1]. Het bericht geeft Trump de eer en citeert Poetin, die zou hebben gezegd dat hij vrede wil en dat Zelensky hem blijft aansporen [1]. Het noemt geen bron [1].\n\nDie dag hielden Trump, Poetin en Xi in de marge van de APEC-top in Shenzhen een ontmoeting met zijn drieën, en spraken Trump en Poetin ook onderling [5]. De drie namen een Verklaring richting vrede met vier punten aan, die door het Kremlin en het Chinese ministerie van Buitenlandse Zaken is gepubliceerd [2] [3]. Daarin beloven ze de Verenigde Naties te hervormen, meer geraffineerde aardolieproducten te leveren en overleg te voeren over nucleaire risico's, en zeggen ze dat het Internationaal Strafhof zijn rechtsmacht niet mag misbruiken [2] [3]. Over Oekraïne, een staakt-het-vuren of troepen staat er niets in [2] [3]. The Associated Press meldde geen doorbraken [5].\n\nOp zijn persconferentie die dag zei Poetin dat Rusland het conflict niet wil voortzetten, en dat Oekraïne de compromissen moet accepteren die de Amerikanen voor de gesprekken in Anchorage voorstelden [4]. Gevraagd naar de Oekraïense aanvallen op de Krimbrug zei hij dat er nu geen gesprekken zouden komen over een pauze in de aanvallen op zee of op energie, en dat het Russische antwoord zou volgen [4]. Hij zei dat Rusland zijn aanwezigheid in de regio's Zaporizja en Cherson zou uitbreiden en de Oekraïense troepen verder zou terugdringen [4]. De woorden die het bericht hem in de mond legt, staan niet in het transcript van het Kremlin [4].\n\nIn de nacht naar 20 november viel Rusland Oekraïne aan met ballistische raketten, 84 kruisraketten en 404 drones, volgens de Oekraïense luchtmacht [6]. Minstens negen mensen kwamen om, van wie zeven in Kyiv, waar drie bruggen werden beschadigd [7]. De nacht erop telde de luchtmacht 3 ballistische raketten en 148 drones [8].",
+  "niet_weten": "We weten niet wie het account beheert of waar het aan Poetin toegeschreven citaat voor het eerst opdook [1]. We vonden geen verklaring van het Kremlin of Peking, en geen nieuwsbericht, waarin een staakt-het-vuren na de ontmoeting in Shenzhen wordt genoemd [2] [3] [4] [5].",
+  "bereik": "895 likes, 260 reposts en 99 reacties op 23 november",
+  "nog_uitzoeken": [
+   "De Radar kwam deze top voor het eerst op het spoor via een ander bericht van 19 november dat met een afbeelding rondging. De maker verwijderde het voordat we het konden lezen, dus we weten niet wat het precies beweerde.",
+   "Een bericht in het Russisch beweerde de omgekeerde uitkomst: dat Trump en Xi Poetin drie dagen gaven om te capituleren en dat Zelensky naar China was gevlogen. Dat hebben we niet apart gecontroleerd.",
+   "Of het aan Poetin toegeschreven citaat, waarin hij zegt dat Zelensky hem blijft aansporen, eerder in andere berichten of op andere platforms opdook.",
+   "We kozen voor Onwaar in plaats van Misleidend, omdat het bericht een staakt-het-vuren en een terugtrekking als voldongen feit presenteert, terwijl geen van beide heeft plaatsgevonden. Weet u meer, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "Trump, Poetin en Xi houden een ontmoeting met zijn drieën in Shenzhen, in de marge van de APEC-top [5].",
+   "De drie leiders nemen de Verklaring richting vrede aan; Oekraïne wordt er niet in genoemd [2] [3].",
+   "Een bericht op X beweert dat Poetin een staakt-het-vuren heeft afgekondigd en zijn troepen heeft teruggetrokken [1].",
+   "Persconferentie van Poetin in Shenzhen: geen gesprekken na de aanvallen op de Krimbrug, een antwoord zal volgen [4].",
+   "In de nacht valt Rusland Oekraïne aan met 84 kruisraketten en 404 drones; minstens negen mensen komen om [6] [7].",
+   "In de nacht valt Rusland Oekraïne aan met 3 ballistische raketten en 148 drones [8]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 19 november 2026, 10.21 uur UTC."
+  ],
+  "beeld_alt": [
+   "Het bericht op X van het account madrid_xtraq dat in hoofdletters meldt dat Poetin een staakt-het-vuren heeft afgekondigd en al zijn troepen van de Oekraïense grens heeft teruggetrokken, met een still van Poetin bij een microfoon en een foto van Trump achter een spreekgestoelte, boven een geciteerd bericht met Trump en Poetin die elkaar de hand schudden. Stempel: ONWAAR."
+  ]
+ }
+}

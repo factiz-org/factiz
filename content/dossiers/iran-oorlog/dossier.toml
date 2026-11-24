@@ -1,0 +1,192 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5). De PO las het en gaf akkoord op 2026-11-19.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "war"                # uit content/themas.json
+onderdeel = "middle-east"
+verwant = ["gaza-oorlog"]
+
+[naam]
+nl = "De oorlog tussen Iran, Israël en de VS: wat er sinds 2024 rondging"
+en = "The war between Iran, Israel and the US: what has circulated since 2024"
+de = "Der Krieg zwischen Iran, Israel und den USA: was seit 2024 kursiert"
+es = "La guerra entre Irán, Israel y EE. UU.: lo que circula desde 2024"
+fr = "La guerre entre l’Iran, Israël et les États-Unis : ce qui circule depuis 2024"
+
+[inleiding]
+nl = """
+In april 2024 viel Iran Israël voor het eerst rechtstreeks aan, met honderden drones en raketten. Daarna volgden meer
+rondes: in oktober 2024, in juni 2025 een oorlog van twaalf dagen waarin de Verenigde Staten ook Iraanse
+atoomlocaties bombardeerden, en op 28 februari 2026 een nieuwe oorlog van de VS en Israël met Iran. Op de eerste dag
+kwam opperste leider Ali Khamenei om; zijn zoon Mojtaba volgde hem op. Iran schoot terug op Israël, op Amerikaanse
+bases en op buurlanden in de Golf. In april kwam er een bestand, maar daarna laaide de strijd weer op, rond de Straat
+van Hormuz en in de Golf. Bij elke ronde gaan beelden rond die bij een andere aanval of een ander jaar horen of met AI
+zijn gemaakt, en beweringen over doden, schade, atoomlocaties en de leiders van Iran. Dit dossier zet de factchecks
+daarover op een tijdlijn. Elke factcheck zegt wie hem maakte en wat die vond. De lijst heeft alleen factchecks die we
+mogen overnemen en is dus niet volledig. De oorlog in Gaza heeft een eigen dossier."""
+en = """
+In April 2024 Iran attacked Israel directly for the first time, with hundreds of drones and missiles. More rounds
+followed: in October 2024, in June 2025 a twelve-day war in which the United States also bombed Iranian nuclear sites,
+and on 28 February 2026 a new war of the US and Israel with Iran. On the first day Supreme Leader Ali Khamenei was
+killed; his son Mojtaba succeeded him. Iran struck back at Israel, at US bases and at neighbouring Gulf states. A
+ceasefire came in April, but fighting flared up again afterwards, around the Strait of Hormuz and in the Gulf. With
+every round, images circulate that belong to another attack or another year or were made with AI, along with claims
+about the dead, the damage, the nuclear sites and Iran's leaders. This dossier puts the fact-checks about them on a
+timeline. Each fact-check says who made it and what they found. The list holds only fact-checks we may republish, so
+it is not complete. The war in Gaza has a dossier of its own."""
+de = """
+Im April 2024 griff Iran Israel zum ersten Mal direkt an, mit Hunderten Drohnen und Raketen. Weitere Runden folgten:
+im Oktober 2024, im Juni 2025 ein Krieg von zwölf Tagen, in dem auch die USA iranische Atomanlagen bombardierten, und
+am 28. Februar 2026 ein neuer Krieg der USA und Israels gegen Iran. Am ersten Tag wurde der Oberste Führer Ali
+Chamenei getötet; sein Sohn Modschtaba folgte ihm nach. Iran schlug gegen Israel, US-Stützpunkte und Nachbarstaaten
+am Golf zurück. Im April kam eine Waffenruhe, doch danach flammten die Kämpfe wieder auf, um die Straße von Hormus und
+am Golf. Bei jeder Runde kursieren Bilder, die zu einem anderen Angriff oder Jahr gehören oder mit KI gemacht wurden,
+und Behauptungen über Tote, Schäden, Atomanlagen und die Führung Irans. Dieses Dossier ordnet die Faktenchecks dazu
+auf einer Zeitleiste. Jeder Faktencheck sagt, wer ihn gemacht hat und was er ergab. Die Liste enthält nur
+Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig. Der Krieg in Gaza hat ein eigenes Dossier."""
+es = """
+En abril de 2024 Irán atacó a Israel directamente por primera vez, con cientos de drones y misiles. Siguieron más
+rondas: en octubre de 2024, en junio de 2025 una guerra de doce días en la que EE. UU. también bombardeó instalaciones
+nucleares iraníes, y el 28 de febrero de 2026 una nueva guerra de EE. UU. e Israel contra Irán. El primer día murió
+el líder supremo Alí Jamenei; le sucedió su hijo Mojtaba. Irán respondió contra Israel, bases estadounidenses y
+países vecinos del Golfo. En abril llegó un alto el fuego, pero después los combates volvieron, en torno al estrecho
+de Ormuz y en el Golfo. En cada ronda circulan imágenes de otro ataque u otro año o hechas con IA, y afirmaciones
+sobre los muertos, los daños, las instalaciones nucleares y los líderes de Irán. Este dosier ordena en una cronología
+las verificaciones sobre ello. Cada verificación dice quién la hizo y qué encontró. La lista solo contiene
+verificaciones que podemos reproducir, así que no está completa. La guerra en Gaza tiene su propio dosier."""
+fr = """
+En avril 2024, l’Iran a attaqué Israël directement pour la première fois, avec des centaines de drones et de
+missiles. D’autres séquences ont suivi : en octobre 2024, en juin 2025 une guerre de douze jours où les États-Unis ont
+aussi bombardé des sites nucléaires iraniens, et le 28 février 2026 une nouvelle guerre des États-Unis et d’Israël
+contre l’Iran. Le premier jour, le guide suprême Ali Khamenei a été tué ; son fils Mojtaba lui a succédé. L’Iran a
+riposté contre Israël, des bases américaines et des pays voisins du Golfe. Un cessez-le-feu est venu en avril, mais
+les combats ont repris ensuite, autour du détroit d’Ormuz et dans le Golfe. À chaque séquence circulent des images
+d’une autre attaque ou d’une autre année, ou faites avec l’IA, et des affirmations sur les morts, les dégâts, les sites
+nucléaires et les dirigeants iraniens. Ce dossier place sur une chronologie les vérifications qui les concernent.
+Chaque vérification dit qui l’a faite et ce qu’elle a trouvé. La liste ne contient que des vérifications que nous
+pouvons reprendre ; elle n’est donc pas complète. La guerre à Gaza a son propre dossier."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: persstukken over de aanvallen en over de nepbeelden, elk door Claude geopend en
+# gelezen op 2026-11-19.
+
+[[item]]
+soort = "pers"
+datum = "2024-04-14"
+bron = "Voice of America"
+url = "https://www.voanews.com/a/at-un-israel-demands-iran-be-punished-for-attack-/7570181.html"
+[item.titel]
+nl = "In de Veiligheidsraad eist Israël een straf voor de aanval van Iran met 170 drones, 120 ballistische en 30 kruisraketten"
+en = "At the Security Council, Israel demands punishment for Iran's attack with 170 drones, 120 ballistic and 30 cruise missiles"
+de = "Im Sicherheitsrat fordert Israel eine Strafe für den Angriff Irans mit 170 Drohnen, 120 ballistischen und 30 Marschflugkörpern"
+es = "En el Consejo de Seguridad, Israel exige castigar el ataque de Irán con 170 drones, 120 misiles balísticos y 30 de crucero"
+fr = "Au Conseil de sécurité, Israël exige une sanction pour l’attaque de l’Iran avec 170 drones, 120 missiles balistiques et 30 de croisière"
+
+[[item]]
+soort = "pers"
+datum = "2025-06-17"
+bron = "Eurovision News Spotlight (EBU)"
+url = "https://spotlight.ebu.ch/p/fact-check-dispatch-old-and-ai-generated"
+[item.titel]
+nl = "Factcheckers van Europese omroepen vinden oude beelden en AI-video's die rondgaan als beelden van de oorlog tussen Israël en Iran"
+en = "Fact-checkers at European broadcasters find old footage and AI videos circulating as images of the war between Israel and Iran"
+de = "Faktenchecker europäischer Sender finden alte Aufnahmen und KI-Videos, die als Bilder des Kriegs zwischen Israel und Iran kursieren"
+es = "Verificadores de emisoras europeas encuentran imágenes antiguas y vídeos de IA que circulan como imágenes de la guerra entre Israel e Irán"
+fr = "Des vérificateurs de radiodiffuseurs européens trouvent de vieilles images et des vidéos d’IA présentées comme la guerre entre Israël et l’Iran"
+
+[[item]]
+soort = "pers"
+datum = "2025-06-23"
+bron = "UN News"
+url = "https://news.un.org/en/story/2025/06/1164766"
+[item.titel]
+nl = "Het hoofd van het IAEA ziet kraters bij Fordow na de Amerikaanse aanval en vraagt toegang tot de beschadigde atoomlocaties"
+en = "The head of the IAEA sees craters at Fordow after the US strike and asks for access to the damaged nuclear sites"
+de = "Der Chef der IAEO sieht nach dem US-Angriff Krater in Fordo und fordert Zugang zu den beschädigten Atomanlagen"
+es = "El jefe del OIEA ve cráteres en Fordo tras el ataque de EE. UU. y pide acceso a las instalaciones nucleares dañadas"
+fr = "Le chef de l’AIEA voit des cratères à Fordo après la frappe américaine et demande l’accès aux sites nucléaires endommagés"
+
+[[item]]
+soort = "pers"
+datum = "2026-03-02"
+bron = "Inter Press Service"
+url = "https://www.ipsnews.net/2026/03/un-leaders-diplomats-warn-of-middle-east-instability-following-weekend-air-strikes-in-iran/"
+[item.titel]
+nl = "De VN waarschuwen voor een regionale oorlog na de aanvallen van de VS en Israël op Iran, waarbij Khamenei omkwam"
+en = "The UN warns of a regional war after the US and Israeli strikes on Iran, in which Khamenei was killed"
+de = "Die UN warnen vor einem regionalen Krieg nach den Angriffen der USA und Israels auf Iran, bei denen Chamenei getötet wurde"
+es = "La ONU advierte de una guerra regional tras los ataques de EE. UU. e Israel contra Irán, en los que murió Jamenei"
+fr = "L’ONU met en garde contre une guerre régionale après les frappes américaines et israéliennes sur l’Iran, où Khamenei a été tué"
+
+[[item]]
+soort = "pers"
+datum = "2026-03-04"
+bron = "Eurovision News Spotlight (EBU)"
+url = "https://spotlight.ebu.ch/p/verifying-iran-war-strikes-fact-check"
+[item.titel]
+nl = "Volgens BBC Verify gaan in de nieuwe oorlog met Iran mogelijk meer AI-beelden rond dan ooit in een conflict"
+en = "According to BBC Verify, the new war with Iran may have set a record for AI images going viral in a conflict"
+de = "Laut BBC Verify kursieren im neuen Krieg mit Iran womöglich mehr KI-Bilder als je zuvor in einem Konflikt"
+es = "Según BBC Verify, en la nueva guerra con Irán quizá circulan más imágenes de IA que nunca en un conflicto"
+fr = "Selon BBC Verify, la nouvelle guerre avec l’Iran a peut-être battu le record d’images d’IA virales dans un conflit"
+
+[[item]]
+soort = "pers"
+datum = "2026-04-07"
+bron = "Foreign Policy"
+url = "https://foreignpolicy.com/2026/04/07/iran-accepts-ceasefire-trump-hormuz-10-point-plan/"
+[item.titel]
+nl = "De VS en Iran spreken een bestand van twee weken af, op voorwaarde dat de Straat van Hormuz weer opengaat"
+en = "The US and Iran agree a two-week ceasefire, on condition that the Strait of Hormuz reopens"
+de = "Die USA und Iran vereinbaren eine Waffenruhe von zwei Wochen, unter der Bedingung, dass die Straße von Hormus wieder öffnet"
+es = "EE. UU. e Irán acuerdan un alto el fuego de dos semanas, con la condición de que se reabra el estrecho de Ormuz"
+fr = "Les États-Unis et l’Iran conviennent d’un cessez-le-feu de deux semaines, à condition que le détroit d’Ormuz rouvre"
+
+[[item]]
+soort = "pers"
+datum = "2026-11-17"
+bron = "PBS News (AP)"
+url = "https://www.pbs.org/newshour/world/iran-fires-at-u-s-facility-in-bahrain-as-tehran-resumes-strikes-on-arab-neighbors"
+[item.titel]
+nl = "Na zo'n twee maanden rust valt Iran opnieuw Amerikaanse radars in Bahrein aan, in de achtste maand van de oorlog"
+en = "After about two months of calm, Iran again attacks US radars in Bahrain, in the eighth month of the war"
+de = "Nach etwa zwei Monaten Ruhe greift Iran erneut US-Radaranlagen in Bahrain an, im achten Monat des Kriegs"
+es = "Tras unos dos meses de calma, Irán vuelve a atacar radares estadounidenses en Baréin, en el octavo mes de la guerra"
+fr = "Après environ deux mois de calme, l’Iran attaque de nouveau des radars américains à Bahreïn, au huitième mois de la guerre"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "iran", "irán", "iraní", "ایران", "إيران", "ايران", "иран", "ईरान", "इरान", "ఇరాన్", "ஈரான்", "ইরান", "ഇറാൻ",
+  "イラン", "伊朗", "איראן",
+  "tehran", "teheran", "téhéran", "تهران", "طهران", "тегеран",
+  "khamenei", "jamenei", "chamenei", "خامنه", "خامنئي", "хаменеи", "mojtaba", "مجتبی", "مجتبى",
+  "pezeshkian", "پزشکیان", "araghchi", "عراقچی",
+  "fordo", "natanz", "isfahan", "ispahan", "فردو", "نطنز", "اصفهان", "bushehr", "بوشهر",
+  "hormuz", "ormuz", "هرمز", "bandar abbas", "بندرعباس", "minab", "میناب", "persian gulf", "خلیج فارس",
+  "irgc", "pasdaran", "سپاه", "الحرس الثوري", "true promise", "وعده صادق", "udeid",
+  "tel aviv", "تل أبيب", "تل‌آویو", "तेल अवीव", "டெல் அவிவ்", "haifa", "حيفا", "حیفا", "nevatim", "soroka",
+  "iron dome", "گنبد آهنین", "القبة الحديدية", "b-2", "bunker buster", "midnight hammer", "rising lion",
+  "mossad", "موساد", "ayatollah", "آیت‌الله",
+  "dubai", "burj", "qatar", "doha", "bahrain", "kuwait", "riyadh", "missile", "aircraft carrier", "f-35",
+]
+omschrijving = """
+Claims about the direct war between Iran and Israel and the United States, from April 2024 to now: Iran's drone and
+missile attacks on Israel and Israel's strikes on Iran (April and October 2024); the twelve-day war of June 2025 and
+the US bombing of Fordow, Natanz and Isfahan; the war of the US and Israel with Iran from 28 February 2026, the killing
+of Ali Khamenei, Mojtaba Khamenei, Iranian strikes on US bases, ships and Gulf states, the Strait of Hormuz and the
+ceasefire. Images or videos presented as an attack, damage, a downed plane or a captured soldier in this war belong
+here, also when old or made with AI; so do claims about the dead, the damage, the nuclear sites, Iran's leaders in this
+war, and statements attributed to governments about this war. Not included: the war in Gaza and Hamas (another
+dossier); Lebanon, Hezbollah, the Houthis, Iraq and Syria unless the claim is about the war with Iran; Iranian
+domestic matters not linked to the war (hijab, protests, executions, prices, internet); the Raisi helicopter crash;
+and Iran before April 2024, such as Soleimani or the 2015 nuclear deal."""

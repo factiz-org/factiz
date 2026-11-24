@@ -1,0 +1,291 @@
+{
+  "toelichting": "Bevroren releases (PLAN #28.6 d): per release het moment, de commit, de motor en de index (aantal claims en een hash over hun id's), geschreven door `python -m doublecheck.vooruitblik bevriezen`. Eigen meetgegevens, geen corpustekst. Een release wordt één keer bevroren.",
+  "bevroren": [
+    {
+      "release": "factiz-1-rechter-2026-10-17",
+      "moment": "2026-10-17T20:36:26+00:00",
+      "commit": "f6bbaa47d8ff47f430708333f774470882413c37",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 108558,
+      "index": "c2351404973ab423",
+      "jongste_check": "2026-10-03"
+    },
+    {
+      "release": "factiz-1-controle-lezer-v3-2026-10-29",
+      "moment": "2026-10-29T11:17:38+00:00",
+      "commit": "74c1b5d03b918eaeb689f178e94eb87ac8098c92",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 108795,
+      "index": "fac5e3fb51bf6ede",
+      "jongste_check": "2026-10-28"
+    },
+    {
+      "release": "factiz-1-controle-lezer-v5-2026-11-03",
+      "moment": "2026-11-03T00:52:17+00:00",
+      "commit": "32af1a088d2d500d8c5432f38344892d64930122",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 108795,
+      "index": "fac5e3fb51bf6ede",
+      "jongste_check": "2026-10-28"
+    },
+    {
+      "release": "factiz-1-controle-lezer-v7-2026-11-03",
+      "moment": "2026-11-03T16:40:06+00:00",
+      "commit": "5464de003716007e6f5a3e62917c91d461a68c12",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 108795,
+      "index": "fac5e3fb51bf6ede",
+      "jongste_check": "2026-10-28"
+    },
+    {
+      "release": "factiz-1-controle-beeld-2026-11-03",
+      "moment": "2026-11-03T21:42:06+00:00",
+      "commit": "2747ea2557e22e69aedae07b28dda4b33b4846bb",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 108795,
+      "index": "fac5e3fb51bf6ede",
+      "jongste_check": "2026-10-28"
+    },
+    {
+      "release": "factiz-1-controle-lezer-v9-2026-11-05",
+      "moment": "2026-11-05T12:03:47+00:00",
+      "commit": "6257ae7b5c57bc4251e6f9ba61e7956500e091b1",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 138931,
+      "index": "131444813894de30",
+      "jongste_check": "2026-11-03"
+    },
+    {
+      "release": "factiz-1-controle-lezer-v17-2026-11-08",
+      "moment": "2026-11-08T20:07:35+00:00",
+      "commit": "0a8525656a6cd08e07c3666dfbfcbe433fb5ee03",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 138931,
+      "index": "131444813894de30",
+      "jongste_check": "2026-11-03"
+    },
+    {
+      "release": "factiz-1-controle-fotobron-v2-2026-11-09",
+      "moment": "2026-11-09T00:00:51+00:00",
+      "commit": "e3df8e32435cca4ebadd333a84bc9c21e878aad9",
+      "motor": {
+        "text_embedding": "BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181+casefold",
+        "drempels": {
+          "text_match": 0.87,
+          "text_related": 0.79,
+          "image_same": 31,
+          "text_match_crosslingual": 0.87,
+          "cluster_same": 0.91,
+          "nli_contradiction": 0.5,
+          "stance_entailment": 0.7,
+          "screening_poort": 0.82,
+          "rechter_zelfde": 0.95,
+          "rechter_vloer": 0.79,
+          "rechter_veto": 0.6,
+          "feit_vloer": 0.79,
+          "feit_zelfde": 0.95,
+          "artikel_vloer": null,
+          "artikel_zelfde": null
+        },
+        "vraagvorm": true,
+        "rechter": {
+          "model": "rechter-d@0744e8eea8ce",
+          "diepte": 5
+        },
+        "feiten": {
+          "kern": "25ac9112e829ce8bfb5c5c4a16b087cf7bd7012ccfd8c0f082a3738a1719e187"
+        }
+      },
+      "claims_in_index": 138931,
+      "index": "131444813894de30",
+      "jongste_check": "2026-11-03"
+    }
+  ]
+}

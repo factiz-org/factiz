@@ -1,0 +1,138 @@
+{
+ "_meta": "De Franse oordelen in zinsvorm (PLAN #32.59, B63), 2026-11-08, gelezen door Claude: de vaste steekproef van 30 uit talen.steekproef; 'label' is de categorie die het oordeel van de redactie uitdrukt; waar het van Haiku afwijkt staan 'haiku' en 'waarom' erbij.",
+ "toelichting": "De Franse oordelen in zinsvorm (PLAN #32.59, B63), 2026-11-08, gelezen door Claude: de vaste steekproef van 30 uit talen.steekproef; 'label' is de categorie die het oordeel van de redactie uitdrukt; waar het van Haiku afwijkt staan 'haiku' en 'waarom' erbij.",
+ "oordelen": [
+  {
+   "id": "22677",
+   "label": "onwaar"
+  },
+  {
+   "id": "65795",
+   "label": "misleidend"
+  },
+  {
+   "id": "61996",
+   "label": "onwaar"
+  },
+  {
+   "id": "46354",
+   "label": "onwaar"
+  },
+  {
+   "id": "76711",
+   "label": "deels-waar"
+  },
+  {
+   "id": "33384",
+   "label": "onwaar"
+  },
+  {
+   "id": "14767",
+   "label": "onwaar"
+  },
+  {
+   "id": "81127",
+   "label": "waar",
+   "haiku": "deels-waar",
+   "waarom": "het oordeel bevestigt de 220 miljoen met de Cour des comptes en noemt niets onjuist; het voorbehoud gaat alleen over hoe recent het cijfer is"
+  },
+  {
+   "id": "63669",
+   "label": "onwaar"
+  },
+  {
+   "id": "25420",
+   "label": "onwaar"
+  },
+  {
+   "id": "74306",
+   "label": "onwaar",
+   "haiku": "deels-waar",
+   "waarom": "de cijfers kloppen niet en het beeld is onvolledig: twee bezwaren en geen deel dat klopt, dus onwaar en niet deels waar"
+  },
+  {
+   "id": "26225",
+   "label": "onwaar",
+   "haiku": "misleidend",
+   "waarom": "de foto is een geënsceneerde actie uit Damascus in 2015 zonder verband met Irak: een foto uit een andere plaats is onwaar (over de gebeurtenis zelf zegt het oordeel niets)"
+  },
+  {
+   "id": "74817",
+   "label": "onwaar"
+  },
+  {
+   "id": "26011",
+   "label": "onwaar"
+  },
+  {
+   "id": "55234",
+   "label": "onwaar"
+  },
+  {
+   "id": "53441",
+   "label": "deels-waar",
+   "haiku": "onwaar",
+   "waarom": "'essentiellement faux' is grotendeels onwaar, en verdicts.py zet 'mostly false', 'grotendeels onwaar' en 'falso en su mayor parte' op deels-waar"
+  },
+  {
+   "id": "58837",
+   "label": "onwaar"
+  },
+  {
+   "id": "15481",
+   "label": "onwaar"
+  },
+  {
+   "id": "84800",
+   "label": "onbewezen",
+   "haiku": "onbekend",
+   "waarom": "'incertain' zegt dat de redactie het niet kon vaststellen, de ene kant noch de andere: onbewezen, geen oordeel dat niets zegt"
+  },
+  {
+   "id": "74206",
+   "label": "onwaar"
+  },
+  {
+   "id": "70739",
+   "label": "deels-waar"
+  },
+  {
+   "id": "55242",
+   "label": "onwaar"
+  },
+  {
+   "id": "51318",
+   "label": "onwaar"
+  },
+  {
+   "id": "45569",
+   "label": "onwaar"
+  },
+  {
+   "id": "35804",
+   "label": "onwaar"
+  },
+  {
+   "id": "63148",
+   "label": "onwaar"
+  },
+  {
+   "id": "57702",
+   "label": "misleidend"
+  },
+  {
+   "id": "47786",
+   "label": "onwaar"
+  },
+  {
+   "id": "65729",
+   "label": "onwaar",
+   "haiku": "misleidend",
+   "waarom": "'il n'est pas question de blague': de grap wordt ontkend, de prins droeg zijn eigen uniform als kolonel; een echt beeld met een verzonnen uitleg is onwaar, zoals 14767"
+  },
+  {
+   "id": "65235",
+   "label": "onwaar"
+  }
+ ]
+}

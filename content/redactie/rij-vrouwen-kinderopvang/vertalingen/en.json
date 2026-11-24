@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "The line of women in this video was in Amsterdam, for a clothing sale",
+  "oordeel_zin": "The video is real, but it was made on 19 September in Amsterdam-West, at a fashion brand's sale; it has nothing to do with Dublin [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "Since 21 September a video has been circulating on X of a long line of women on a street, with only the words \"Dublin 2027\" [5]. The video was made on 19 September in Amsterdam-West, at a fashion brand's sale, and the brand itself was the first to put it online [1] [9]. The same video also circulated as a line of Muslim women waiting for free childcare; that is not true either [7] [8] [9].",
+  "tekst": "On Monday 21 September at 9:36, an account with an Irish flag after its name put a video of a long line of women on a street on X [5]. The only text with it is \"Dublin 2027\" [5]. What the writer means by that, the post does not say, but without explanation it looks like a picture of Dublin, now or in the future.\n\nThe same video also circulated that week with a different explanation. In Dutch, as Muslim women waiting for free childcare [8]. In Spanish, as a line supposedly filmed by a Dutch woman, of Muslim women enrolling their children in a free crèche [7]. And in English on Instagram and Facebook, with the explanation that the women had come to enrol their children for free state-provided care [9].\n\nThe line is real, but it was for something else: the brand Oemaayah, which sells modest fashion, held a sample sale on Saturday 19 September: a sale of sample pieces and leftover stock at low prices [2] [9]. The brand had announced the sale in advance on Instagram and TikTok, at an events venue in Amsterdam-West [2] [7]. On Sunday 20 September the brand itself put the video of the line online, with a thank-you to everyone who came [1] [9]. The brand confirmed to Full Fact and Reuters that the video shows visitors waiting to enter the sale [9].\n\nAccording to Full Fact and Maldita, the location is De Hallen Studio's, where the fences, the houses and the building match the Google images [7] [9]. Those studios are in the old tram depot in Oud-West and are rented out for events [4]. The post with \"Dublin 2027\" came about sixteen hours after the brand's video. We infer this from the numbers that X and Instagram give to a post, because they contain the moment of posting [1] [5]. So the video has nothing to do with Dublin.\n\nThe explanation about childcare is not correct either. Free childcare for which you have to stand in line does not exist in the Netherlands [3]. From 2029 the cabinet wants to make childcare almost free for working parents: everyone will then get 96 percent reimbursed, regardless of income, and the government will pay that directly to the childcare provider [3]. Parents will then no longer have to apply for that reimbursement themselves [3].\n\nEFE Verifica was the first fact-checker we found, on 22 September [6]. AFP Factcheck Nederland and Maldita followed on 24 September, Full Fact on 29 September [7] [8] [9].",
+  "niet_weten": "We do not know what the author of the post with \"Dublin 2027\" means exactly, nor who was the first to give the brand's video a different explanation. We did not find a Dutch-language post with the explanation about childcare ourselves; we know of it from the check by AFP Factcheck Nederland [8]. We do not know whether the women in the queue are Muslim, and for this check it does not matter: they were queueing for clothing.",
+  "nog_uitzoeken": [
+   "What the author means by 'Dublin 2027'.",
+   "A Dutch-language post with the explanation about childcare. We only know of it from the check by AFP Factcheck Nederland."
+  ],
+  "tijdlijn": [
+   "Oemaayah's sample sale in Amsterdam-West [2] [9].",
+   "The brand puts the video of the line on Instagram, with a thank-you to the visitors [1].",
+   "A post on X puts the video online with only the words \"Dublin 2027\" [5].",
+   "EFE Verifica: the women are customers of a shop [6].",
+   "AFP Factcheck Nederland and Maldita: a line for a sale [7] [8].",
+   "Full Fact: a pop-up sale by a clothing brand in Amsterdam [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 21 September 2026, 9:36.",
+   "Oemaayah on Instagram, 20 September 2026: the video of the line at the sample sale in Amsterdam-West."
+  ],
+  "beeld_alt": [
+   "The post on X with the words Dublin 2027 and a video of a long line of women on a street. Stamp: MISLEADING.",
+   "The brand's video of the line of visitors in front of the sample sale."
+  ]
+ }
+}

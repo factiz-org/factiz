@@ -1,0 +1,93 @@
+---
+// De site, de voorpagina (PLAN #34.2b): vriendelijk. Zoeken voorop op corpus, veel thema's in beeld (#237, #236),
+// de dossiers als begeleide routes (#249), de nieuwste factchecks met "Alle factchecks" (#1006); geen carrousel (#242).
+import DossierKaart from '../DossierKaart.astro';
+import Site from '../../../layouts/Site.astro';
+import Rij from '../Rij.jsx';
+import ThemaTegel from '../ThemaTegel.jsx';
+import Plaat from '../Plaat.jsx';
+import Zoekveld from '../Zoekveld.jsx';
+import { zoektekst } from '../../../lib/tekstset.js';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, BASIS, BCP47, adresSite, pad, naarSite } from '../../../lib/talen.js';
+import Pijl from '../Pijl.astro';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const tk = g.tellingen;
+// De smalle harde spatie in een Frans getal (106 988) tekent Geist in de grote kop bijna zonder breedte: daar een gewone.
+const kopgetal = tk.paginas.replace(/\u202f/g, '\u00a0');
+const themas = g.filters.lijsten.thema;
+const lijst = pad(taal, 'fact-checks');
+// gestructureerde gegevens (#34.2bq): de site, met Factiz als uitgever; sinds 2026-11-20 met de kernzin en Factiz als
+// organisatie op zichzelf (docs/voorstellen/2026-11-20-seo-geo.md, A1 en B5); geen zoekactie, want een zoekvraag staat
+// nooit in een adres (B78)
+const kernzin = t('kernzin', { paginas: tk.paginas, redacties: tk.redacties, talen: tk.talen });
+const ld = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'WebSite', '@id': `${BASIS}/#site`, url: adresSite(taal), name: 'Factiz', inLanguage: BCP47[taal],
+      description: kernzin, publisher: { '@id': `${BASIS}/#factiz` } },
+    { '@type': 'Organization', '@id': `${BASIS}/#factiz`, name: 'Factiz', url: `${BASIS}/`, description: kernzin,
+      logo: { '@type': 'ImageObject', url: `${BASIS}/static/merk/avatar.png` } },
+  ],
+}).replaceAll('<', '\\u003c');
+---
+<Site titel={t('start_paginatitel', { n: kopgetal })} taal={taal} aangeboden={TALEN} omschrijving={kernzin} ld={ld}>
+  <div class="baan pt-6">
+    <section class="held px-6 py-12 sm:px-12 sm:py-20">
+      <p class="font-[family-name:var(--mono)] text-[12px] tracking-[.08em] text-white/75 uppercase">{t('held_boventitel')}</p>
+      <h1 class="groot-kop mt-3 max-w-[18ch]">{t('held_label', { n: kopgetal })}</h1>
+      <p class="mt-3 max-w-[52ch] text-[15px] text-white/85">{t('start_omschrijving')} {t('held_talen', { talen: tk.talen })}</p>
+      <Zoekveld client:load id="voor-q" groot taal={taal} tekst={zoektekst(taal)} lijst={lijst} actie={lijst} label={t('zoek_label')}
+                hint={t('held_hint')} knop={t('zoek_knop')} />
+      {/* dezelfde factchecks als in de kop, de pagina's, niet elke check van een redactie (PO 2026-11-19: "Ja, één getal") */}
+      <p class="mt-3 text-[12.5px] text-white/70">{t('start_tellingen', { checks: tk.paginas, redacties: tk.redacties })} {t('zoek_privacy')}</p>
+      {/* Factiz Radar (PO 2026-11-19: "een soort pulserende cirkel op de homepage ... voor als je direct naar de meest recente
+          fact-checks van onszelf wil"): de ringen, de naam en wat er deze week nieuw is; alleen in een taal met eigen checks */}
+      {g.radar && (
+        <a class="fz-radar" href={g.radar.href} data-nieuw={g.radar.nieuw ? '' : undefined}>
+          {/* een radar (PO 2026-11-19: "als de streepjes naar buiten toe iets dunner worden, en als hij ook een stip in het
+              midden heeft"): de ringen dunner naar buiten, een stip die ademt en een golf vanaf de stip naar buiten */}
+          <svg viewBox="0 0 100 100" aria-hidden="true">
+            <circle class="fz-radar-golf" cx="50" cy="50" r="8" />
+            <circle class="fz-radar-ring fz-radar-ring-3" cx="50" cy="50" r="46" />
+            <circle class="fz-radar-ring fz-radar-ring-2" cx="50" cy="50" r="31" />
+            <circle class="fz-radar-ring fz-radar-ring-1" cx="50" cy="50" r="16" />
+            <circle class="fz-radar-midden" cx="50" cy="50" r="5.5" />
+          </svg>
+          <span class="fz-radar-tekst"><b>{t('eigen_titel')}</b><span>{g.radar.nieuw_tekst || g.radar.aantal_tekst}</span></span>
+        </a>
+      )}
+    </section>
+  </div>
+
+  <section class="baan mt-12" aria-labelledby="themas">
+    <div class="sectiekop"><h2 id="themas">{t('nav_themas')}</h2><a class="link text-[13px]" href={pad(taal, 'themes')}>{t('start_alle_themas', { n: String(themas.length) })} <Pijl /></a></div>
+    {/* een korte keuze (PO 2026-11-23: "vijf op een rij doen en er tien tonen"): de eerste tien in de vaste volgorde, de
+        rest onder Alle thema's */}
+    <ul class="grid grid-cols-2 gap-3 lg:grid-cols-5">
+      {themas.slice(0, 10).map((th) => (
+        <li><a class="kaart flex h-full flex-col overflow-hidden" href={pad(taal, 'themes', th.waarde)}>
+          <span class={`kaartveld veld-klein-thema-${th.waarde} block aspect-[16/6] rounded-none`} aria-hidden="true"><Plaat sleutel={th.waarde} /></span>
+          <span class="flex flex-1 flex-wrap items-center justify-between gap-x-2 gap-y-0.5 px-3 py-2.5"><span class="flex min-w-0 items-center gap-2"><ThemaTegel thema={th.waarde} maat="midden" /><span class="min-w-0 font-medium leading-tight hyphens-auto [overflow-wrap:anywhere]">{th.naam}</span></span><span class="getal ms-auto text-[12px] text-[var(--zwak)]">{th.aantal}</span></span>
+        </a></li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="baan mt-12" aria-labelledby="nieuwste">
+    <div class="sectiekop"><h2 id="nieuwste">{t('start_nieuwste')}</h2><a class="link text-[13px]" href={lijst}>{t('start_alle_factchecks', { n: tk.paginas })} <Pijl /></a></div>
+    <ol class="rijen">
+      {g.rijen.slice(0, 6).map((r) => <Rij r={r} />)}
+    </ol>
+  </section>
+
+  {g.dossiers.length > 0 && (
+    <section class="baan mt-12" aria-labelledby="dossiers">
+      <div class="sectiekop"><h2 id="dossiers">{t('nav_dossiers')}</h2><a class="link text-[13px]" href={pad(taal, 'dossiers')}>{t('start_alle_dossiers', { n: g.dossiers_aantal })} <Pijl /></a></div>
+      <ul class="grid grid-cols-1 gap-3 md:grid-cols-2">
+        {g.dossiers.map((d) => <li><DossierKaart d={d} href={pad(taal, 'dossiers', d.sleutel)} taal={taal} /></li>)}
+      </ul>
+    </section>
+  )}
+</Site>

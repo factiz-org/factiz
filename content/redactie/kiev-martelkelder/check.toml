@@ -1,0 +1,241 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/kiev-martelkelder/dossier.md.
+
+sleutel = "kiev-martelkelder"
+status = "gepubliceerd"
+taal = "nl"
+adres = "kyiv-jongen-martelkelder-video"
+adres_en = "kyiv-boy-torture-cellar-video"
+kop = "Video uit Kyiv toont geen jongen die uit een martelkelder wordt bevrijd"
+oordeel = "onwaar"
+oordeel_zin = "De beelden zijn echt, maar de jongen viel tijdens een protest van een muur op het terrein van de Nationale Garde; een martelkelder is daar niet gevonden [1] [2] [3]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Onthoud het gezicht van deze 14-jarige die uit een martelkamer van Azov nabij Kiev werd gehaald."
+platform = "X en Facebook"
+eerst_gezien = "2026-11-02"
+posts = 2
+bereik = "op Facebook in het Nederlands meer dan 1.200 keer gedeeld, volgens AFP"
+
+kort = """
+Sinds de avond van 2 november gaan in het Nederlands een video en een foto rond van een jongen in een grijze deken, \
+die uit een Oekraïense martelkelder bij Kyiv bevrijd zou zijn [13]. De beelden zijn echt en komen van een protest bij een \
+huis van de Nationale Garde in Petropavlivska Borsjtsjahivka, aan de rand van Kyiv [2] [3]. De jongen van 14 klom \
+tijdens dat protest op de muur en viel op het terrein; hij werd er niet vastgehouden [1] [3]."""
+
+tekst = """
+Een eenheid van de Nationale Garde gebruikte het huis als tijdelijk onderkomen voor gemobiliseerde mannen die op hun \
+opleiding wachtten [2] [4]. Op 2 november ging online rond dat gewapende mannen er zo'n 40 mensen in een kelder \
+vasthielden en martelden. De politie noemde dat dezelfde middag onjuist [5]. Toch kwam er een menigte op af, en 's \
+avonds werden er eieren, flessen en stenen naar de politie en de Nationale Garde gegooid [3].
+
+Een verslaggever van The Kyiv Independent zag hoe de jongen in een boom en op de muur klom, de soldaten uitschold, \
+stenen gooide en daarna van de muur op het terrein viel [3]. Volgens de Oekraïense Staatsdienst voor Kinderen woont hij \
+in de buurt, kwam hij na school naar het protest en viel hij toen mensen aan het hek begonnen te schudden [1]. Binnen \
+werd hij in een deken gewikkeld. Zijn zus haalde hem die avond op, en hij werd opgenomen in het kinderziekenhuis van \
+Kyiv, zonder gevaar voor zijn leven [1]. Dat vertrek is wat de video laat zien: een jongen in een deken die door de \
+menigte wordt weggeleid.
+
+Een martelkelder is er niet gevonden. Een veteraan die die avond het huis binnenging, zei tegen het onderzoeksmedium \
+Slidstvo.Info dat hij er geen martelplekken zag [2]. Het gerucht kwam van een vrouw in een ambulance-uniform, die zei \
+een ambulancedienst te hebben. Die dienst werkt sinds 2023 niet meer [2] [4]. De politie hield haar op 3 november aan en \
+spreekt van een geplande provocatie [6].
+
+In het Nederlands stond de video al op 2 november om 22:25 op X, met de bewering dat de jongen met een schep was \
+gemarteld [13]. Een dag later deelde de Russische ambassade in Nederland dezelfde beelden in het Engels [12]. VRT NWS \
+noemde de bewering op 5 november onwaar, AFP Factcheck Nederland volgde op 12 november [10] [11]."""
+
+niet_weten = """
+Of er in het huis geweld is gebruikt, is nog niet duidelijk. De jongen zegt in een eigen video dat hij binnen is \
+geslagen; de minister van Binnenlandse Zaken ontkent dat [1] [9]. Militairen die er verbleven, klaagden bij de militaire \
+ombudsman over slaag, en het Staatsbureau voor Onderzoek zoekt het uit [7] [8]. Dat verandert niet wat de video toont: \
+een jongen die tijdens het protest naar binnen viel, geen gevangene die werd bevrijd. Of Rusland het protest aanstuurde, \
+is ook niet vastgesteld; wel versterkten Russische netwerken het verhaal daarna [14]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat het onderzoek van het Staatsbureau voor Onderzoek oplevert. Bij nieuws vullen we deze check aan, met de datum.",
+  "Of de zin 'Onthoud het gezicht van deze 14-jarige' eerder in een andere taal rondging.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+vervaag = [[0.41, 0.33, 0.33, 0.10]]
+vervaag_reden = "minderjarige"
+bijschrift = "Beeld uit de video op X, 2 november 2026. De jongen is 14; de hoofden in het midden zijn vervaagd."
+alt = "Stilstaand beeld uit de video: in het donker een menigte met telefoons rond een militair in camouflage; de hoofden in het midden zijn vervaagd. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://news.liga.net/en/war/news/disturbance-in-borshchahivka-budanov-led-a-14-year-old-boy-out-of-the-building"
+stempel = false
+bijschrift = "De beelden van het persbureau UNIAN van het vertrek van de jongen, bij LIGA.net, 2 november 2026."
+alt = "Het bericht van LIGA.net met de video van UNIAN."
+
+[[tijdlijn]]
+datum = "2026-11-02"
+tijd = "18:07"
+wat = "De politie noemt de berichten over opsluiting en een dode onjuist [5]."
+
+[[tijdlijn]]
+datum = "2026-11-02"
+wat = "'s Avonds: de jongen klimt op de muur, valt op het terrein en wordt in een deken naar buiten geleid [3]."
+
+[[tijdlijn]]
+datum = "2026-11-02"
+tijd = "22:25"
+wat = "De video staat in het Nederlands op X, met de bewering over een martelkamer [13]."
+
+[[tijdlijn]]
+datum = "2026-11-03"
+wat = "De Russische ambassade in Nederland deelt de beelden [12]."
+
+[[tijdlijn]]
+datum = "2026-11-04"
+wat = "De Staatsdienst voor Kinderen: de jongen viel van het hek en ligt in het ziekenhuis [1]."
+
+[[tijdlijn]]
+datum = "2026-11-05"
+wat = "VRT NWS: onwaar, de eerste check in het Nederlands [10]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "AFP Factcheck Nederland publiceert zijn check [11]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Militairen klagen bij de ombudsman over slaag op de locatie [8]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "Ukrainska Pravda Zjyttja"
+titel = "Met de ouders is gesproken: wat bekend is over de 14-jarige deelnemer aan de onrust in Borsjtsjahivka (Oekraïens)"
+datum = "2026-11-04"
+url = "https://life.pravda.com.ua/society/shcho-vidomo-pro-pidlitka-z-miscya-sutichok-u-borshchagivci-318832/"
+archief = "https://web.archive.org/web/20261105141746/https://life.pravda.com.ua/society/shcho-vidomo-pro-pidlitka-z-miscya-sutichok-u-borshchagivci-318832/"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "Slidstvo.Info"
+titel = "Er waren daar geen martelplekken (Oekraïens)"
+datum = "2026-11-03"
+url = "https://www.slidstvo.info/news/niiakykh-mists-katuvan-tam-ne-bulo-shcho-vidbuvalosia-v-budynku-u-petropavlivskiy-borshchahivtsi-i-zvidky-vzialysia-zaiavy-pro-kativniu/"
+archief = "https://web.archive.org/web/20261116212914/https://www.slidstvo.info/news/niiakykh-mists-katuvan-tam-ne-bulo-shcho-vidbuvalosia-v-budynku-u-petropavlivskiy-borshchahivtsi-i-zvidky-vzialysia-zaiavy-pro-kativniu/"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "The Kyiv Independent"
+titel = "What really happened during the clash at a National Guard facility near Kyiv?"
+datum = "2026-11-03"
+url = "https://kyivindependent.com/what-really-happened-during-the-clash-at-a-national-guard-facility-near-kyiv/"
+archief = "https://web.archive.org/web/20261119081054/https://kyivindependent.com/what-really-happened-during-the-clash-at-a-national-guard-facility-near-kyiv/"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Suspilne"
+titel = "Onderzoek naar de vrouw met de ambulance en het huis (Engels)"
+datum = "2026-11-03"
+url = "https://suspilne.media/1444121-a-beautymedic-a-tiktok-awol-a-house-forauction-fueled-story-a-torture-chamber-kyiv/"
+archief = "https://web.archive.org/web/20261110045714/https://suspilne.media/1444121-a-beautymedic-a-tiktok-awol-a-house-forauction-fueled-story-a-torture-chamber-kyiv/"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "LIGA.net"
+titel = "Incident in Petropavlivska Borshchahivka: online claims of illegal actions denied by police"
+datum = "2026-11-02"
+url = "https://news.liga.net/en/politics/news/incident-in-petropavlivska-borshchahivka-online-claims-of-illegal-actions-denied-by-police"
+archief = "https://web.archive.org/web/20261109153531/https://news.liga.net/en/politics/news/incident-in-petropavlivska-borshchahivka-online-claims-of-illegal-actions-denied-by-police"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Texty.org.ua"
+titel = "Bij de onrust in Borsjtsjahivka is een nepmedewerker aangehouden: de politie vermoedt een geplande provocatie (Oekraïens)"
+datum = "2026-11-03"
+url = "https://texty.org.ua/fragments/118627/u-spravi-pro-sutychky-na-borshchahivci-zatrymaly-psevdomedykynyu-policiya-pidozryuye-splanovanu-provokaciyu/"
+archief = "https://web.archive.org/web/20261106002109/https://texty.org.ua/fragments/118627/u-spravi-pro-sutychky-na-borshchahivci-zatrymaly-psevdomedykynyu-policiya-pidozryuye-splanovanu-provokaciyu/"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "Interfax-Oekraïne"
+titel = "Het interne onderzoek van de Nationale Garde gaat naar het Staatsbureau voor Onderzoek (Engels)"
+datum = "2026-11-13"
+url = "https://en.interfax.com.ua/news/general/1235975.html"
+archief = "https://web.archive.org/web/20261113141504/https://en.interfax.com.ua/news/general/1235975.html"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "Novyny.LIVE"
+titel = "Militairen zeggen dat ze in het huis in Borsjtsjahivka zijn geslagen (Oekraïens)"
+datum = "2026-11-13"
+url = "https://novyny.live/tck-uk/viiskovi-zaiavili-shcho-yikh-bili-v-budinku-na-petropavlivskii-borshchagivtsi-354118.html"
+archief = "https://web.archive.org/web/20261113170532/https://novyny.live/tck-uk/viiskovi-zaiavili-shcho-yikh-bili-v-budinku-na-petropavlivskii-borshchagivtsi-354118.html"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "Here's what we know three days after the clash at a temporary base for the National Guard's Azov Corps outside Kyiv"
+datum = "2026-11-06"
+url = "https://meduza.io/en/feature/2026/11/06/here-s-what-we-know-three-days-after-the-clash-at-a-temporary-base-for-the-national-guard-s-azov-corps-outside-kyiv"
+archief = "https://web.archive.org/web/20261111000913/https://meduza.io/en/feature/2026/11/06/here-s-what-we-know-three-days-after-the-clash-at-a-temporary-base-for-the-national-guard-s-azov-corps-outside-kyiv"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "VRT NWS"
+titel = "Foto van jongen (14) gaat viraal als bewijs van Oekraïense martelkamer, maar de werkelijkheid is veel complexer"
+datum = "2026-11-05"
+url = "https://www.vrt.be/vrtnws/nl/2026/11/05/check-14-jarige-jongen-kiev-protesten-martelkamer/"
+archief = "https://web.archive.org/web/20261117145059/https://www.vrt.be/vrtnws/nl/2026/11/05/check-14-jarige-jongen-kiev-protesten-martelkamer/"
+
+[[bron]]
+nr = 11
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Virale video toont niet hoe een jongen wordt vrijgelaten uit een vermeend Oekraïens martelhuis"
+datum = "2026-11-12"
+url = "https://factchecknederland.afp.com/doc.afp.com.D6ZF7T7"
+archief = "https://web.archive.org/web/20261119143555/https://factchecknederland.afp.com/doc.afp.com.D6ZF7T7"
+
+[[bron]]
+nr = 12
+soort = "bron"
+uitgever = "Russische ambassade in Nederland op X, gearchiveerd"
+titel = "Draadje met de video en de foto"
+datum = "2026-11-03"
+url = "https://perma.cc/RQT3-D3CR"
+
+[[bron]]
+nr = 13
+soort = "bron"
+uitgever = "X"
+titel = "Twee posts van een anoniem Nederlandstalig account, 2 november 2026, 22:19 en 22:25"
+datum = "2026-11-02"
+prive = true
+archief = "https://web.archive.org/web/20261119143714/https://cdn.syndication.twimg.com/tweet-result?id=2117367454565581136&token=54rwm87n4h&lang=nl"
+
+[[bron]]
+nr = 14
+soort = "factcheck"
+uitgever = "The Kyiv Independent"
+titel = "Fact check: How clashes on Kyiv's outskirts fueled Russian disinformation blitz"
+datum = "2026-11-06"
+url = "https://kyivindependent.com/fact-check-how-clashes-on-kyivs-outskirts-fueled-russian-disinformation-blitz/"
+archief = "https://web.archive.org/web/20261113093305/https://kyivindependent.com/fact-check-how-clashes-on-kyivs-outskirts-fueled-russian-disinformation-blitz/"

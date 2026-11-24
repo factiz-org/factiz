@@ -1,0 +1,27 @@
+---
+// De site, de redacties (PLAN #34.2t): elke redactie van de uitgave met het aantal beweringen dat ze checkte; elke naam
+// is de lijst met dat filter. Een naam staat in zijn eigen schrift (bdi), ook tussen namen in een ander schrift.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={g.titel} omschrijving={g.inleiding} taal={taal} delen={['newsrooms']} aangeboden={TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[g.titel]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+      {/* wat erin zit en wie nog ontbreekt (PLAN #34.2az), uit de uitgave geteld */}
+      {g.dekking?.length > 0 && <p class="text-[15.5px] leading-relaxed">{g.dekking.join(' ')}</p>}
+    </header>
+    <ul class="paneel mt-8 grid grid-cols-1 gap-x-8 p-4 sm:grid-cols-2 lg:grid-cols-3">
+      {g.redacties.map((r) => (
+        <li class="flex min-w-0 items-baseline justify-between gap-3 border-b border-[var(--lijn)] py-2">
+          <a class="link min-w-11 truncate" href={r.href}><bdi>{r.naam}</bdi></a><span class="mono flex-none">{r.aantal}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Site>

@@ -1,0 +1,1181 @@
+{
+  "_meta": {
+    "toelichting": "De lijst van thema's van het platform (B72, PLAN #33.4): dertien thema's met hoogstens twee niveaus. Vastgesteld door de PO op 2026-11-11 (\"goede lijst, dank!\"), met drie bijstellingen uit de toets (rampen en ongelukken, klimaat, de aanwijzing per onderdeel). De namen in het Nederlands en Engels zijn de bron; Duits, Spaans en Frans zijn van Claude en nog niet nagelezen door een moedertaallezer. Eigen werk, AGPL-3.0.",
+    "nagelezen": {
+      "nl": false,
+      "en": false,
+      "de": false,
+      "es": false,
+      "fr": false
+    },
+    "vertaald": {
+      "pt": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "ru": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "uk": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "id": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "tr": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "zh": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "ja": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "hi": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "ar": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)",
+      "fa": "Sonnet 5.5 (sitevertaling-v1), niet nagelezen (PLAN #34.2be)"
+    }
+  },
+  "themas": [
+    {
+      "sleutel": "politics",
+      "naam": {
+        "nl": "Politiek en bestuur",
+        "en": "Politics and government",
+        "de": "Politik und Regierung",
+        "es": "Política y gobierno",
+        "fr": "Politique et gouvernement",
+        "pt": "Política e governo",
+        "ru": "Политика и власть",
+        "uk": "Політика та влада",
+        "id": "Politik dan pemerintahan",
+        "tr": "Siyaset ve hükümet",
+        "zh": "政治與政府",
+        "ja": "政治と政府",
+        "hi": "राजनीति और सरकार",
+        "ar": "السياسة والحكومة",
+        "fa": "سیاست و حکومت"
+      },
+      "omschrijving": "Politicians, parties, governments, laws, public policy and protests, when the claim is not mainly about an election, a war or one of the other themes.",
+      "onderdelen": [
+        {
+          "sleutel": "politicians",
+          "naam": {
+            "nl": "Politici en partijen",
+            "en": "Politicians and parties",
+            "de": "Politiker und Parteien",
+            "es": "Políticos y partidos",
+            "fr": "Responsables politiques et partis",
+            "pt": "Políticos e partidos",
+            "ru": "Политики и партии",
+            "uk": "Політики та партії",
+            "id": "Politikus dan partai",
+            "tr": "Siyasetçiler ve partiler",
+            "zh": "政治人物與政黨",
+            "ja": "政治家と政党",
+            "hi": "नेता और राजनीतिक दल",
+            "ar": "السياسيون والأحزاب",
+            "fa": "سیاستمداران و احزاب"
+          },
+          "hint": "what a politician or party said, did or is shown doing"
+        },
+        {
+          "sleutel": "policy",
+          "naam": {
+            "nl": "Wetten en beleid",
+            "en": "Laws and policy",
+            "de": "Gesetze und Maßnahmen",
+            "es": "Leyes y políticas públicas",
+            "fr": "Lois et politiques publiques",
+            "pt": "Leis e políticas públicas",
+            "ru": "Законы и политика",
+            "uk": "Закони та політика держави",
+            "id": "Hukum dan kebijakan",
+            "tr": "Yasalar ve politikalar",
+            "zh": "法律與政策",
+            "ja": "法律と政策",
+            "hi": "कानून और नीतियां",
+            "ar": "القوانين والسياسات",
+            "fa": "قوانین و سیاست‌گذاری"
+          },
+          "hint": "laws, bills, government schemes and decisions"
+        },
+        {
+          "sleutel": "protests",
+          "naam": {
+            "nl": "Protesten en onrust",
+            "en": "Protests and unrest",
+            "de": "Proteste und Unruhen",
+            "es": "Protestas y disturbios",
+            "fr": "Manifestations et troubles",
+            "pt": "Protestos e agitação",
+            "ru": "Протесты и беспорядки",
+            "uk": "Протести та заворушення",
+            "id": "Protes dan kerusuhan",
+            "tr": "Protestolar ve huzursuzluk",
+            "zh": "抗議與動盪",
+            "ja": "抗議活動と社会不安",
+            "hi": "विरोध प्रदर्शन और अशांति",
+            "ar": "الاحتجاجات والاضطرابات",
+            "fa": "اعتراض‌ها و ناآرامی‌ها"
+          },
+          "hint": "demonstrations, riots, coup attempts"
+        }
+      ]
+    },
+    {
+      "sleutel": "elections",
+      "naam": {
+        "nl": "Verkiezingen",
+        "en": "Elections",
+        "de": "Wahlen",
+        "es": "Elecciones",
+        "fr": "Élections",
+        "pt": "Eleições",
+        "ru": "Выборы",
+        "uk": "Вибори",
+        "id": "Pemilu",
+        "tr": "Seçimler",
+        "zh": "選舉",
+        "ja": "選挙",
+        "hi": "चुनाव",
+        "ar": "الانتخابات",
+        "fa": "انتخابات"
+      },
+      "omschrijving": "Voting, election fraud claims, campaigns, candidates, polls and results.",
+      "onderdelen": [
+        {
+          "sleutel": "voting",
+          "naam": {
+            "nl": "Stemmen en fraude",
+            "en": "Voting and fraud claims",
+            "de": "Stimmabgabe und Betrugsvorwürfe",
+            "es": "Votación y denuncias de fraude",
+            "fr": "Vote et accusations de fraude",
+            "pt": "Votação e afirmações de fraude",
+            "ru": "Голосование и утверждения о фальсификациях",
+            "uk": "Голосування та твердження про фальсифікації",
+            "id": "Pemungutan suara dan klaim kecurangan",
+            "tr": "Oy verme ve hile iddiaları",
+            "zh": "投票與舞弊說法",
+            "ja": "投票と不正の言説",
+            "hi": "मतदान और धांधली के दावे",
+            "ar": "التصويت وادعاءات التزوير",
+            "fa": "رأی‌گیری و ادعاهای تقلب"
+          }
+        },
+        {
+          "sleutel": "campaigns",
+          "naam": {
+            "nl": "Campagnes en kandidaten",
+            "en": "Campaigns and candidates",
+            "de": "Wahlkampf und Kandidaten",
+            "es": "Campañas y candidatos",
+            "fr": "Campagnes et candidats",
+            "pt": "Campanhas e candidatos",
+            "ru": "Кампании и кандидаты",
+            "uk": "Кампанії та кандидати",
+            "id": "Kampanye dan kandidat",
+            "tr": "Kampanyalar ve adaylar",
+            "zh": "競選活動與候選人",
+            "ja": "選挙運動と候補者",
+            "hi": "प्रचार अभियान और उम्मीदवार",
+            "ar": "الحملات والمرشحون",
+            "fa": "تبلیغات انتخاباتی و نامزدها"
+          }
+        },
+        {
+          "sleutel": "results",
+          "naam": {
+            "nl": "Uitslagen en peilingen",
+            "en": "Results and polls",
+            "de": "Ergebnisse und Umfragen",
+            "es": "Resultados y encuestas",
+            "fr": "Résultats et sondages",
+            "pt": "Resultados e pesquisas",
+            "ru": "Результаты и опросы",
+            "uk": "Результати та опитування",
+            "id": "Hasil dan jajak pendapat",
+            "tr": "Sonuçlar ve anketler",
+            "zh": "選舉結果與民調",
+            "ja": "結果と世論調査",
+            "hi": "नतीजे और सर्वे",
+            "ar": "النتائج واستطلاعات الرأي",
+            "fa": "نتایج و نظرسنجی‌ها"
+          }
+        }
+      ]
+    },
+    {
+      "sleutel": "war",
+      "naam": {
+        "nl": "Oorlog en conflict",
+        "en": "War and conflict",
+        "de": "Krieg und Konflikte",
+        "es": "Guerra y conflictos",
+        "fr": "Guerre et conflits",
+        "pt": "Guerra e conflito",
+        "ru": "Война и конфликты",
+        "uk": "Війна та конфлікти",
+        "id": "Perang dan konflik",
+        "tr": "Savaş ve çatışma",
+        "zh": "戰爭與衝突",
+        "ja": "戦争と紛争",
+        "hi": "युद्ध और संघर्ष",
+        "ar": "الحرب والنزاعات",
+        "fa": "جنگ و درگیری"
+      },
+      "omschrijving": "Wars, armed conflicts, armies, attacks in a conflict, terrorism, and the history of wars.",
+      "onderdelen": [
+        {
+          "sleutel": "ukraine",
+          "naam": {
+            "nl": "Rusland en Oekraïne",
+            "en": "Russia and Ukraine",
+            "de": "Russland und die Ukraine",
+            "es": "Rusia y Ucrania",
+            "fr": "Russie et Ukraine",
+            "pt": "Rússia e Ucrânia",
+            "ru": "Россия и Украина",
+            "uk": "Росія та Україна",
+            "id": "Rusia dan Ukraina",
+            "tr": "Rusya ve Ukrayna",
+            "zh": "俄羅斯與烏克蘭",
+            "ja": "ロシアとウクライナ",
+            "hi": "रूस और यूक्रेन",
+            "ar": "روسيا وأوكرانيا",
+            "fa": "روسیه و اوکراین"
+          },
+          "hint": "Russia's war against Ukraine, Crimea, Donbas"
+        },
+        {
+          "sleutel": "middle-east",
+          "naam": {
+            "nl": "Israël, Gaza en het Midden-Oosten",
+            "en": "Israel, Gaza and the Middle East",
+            "de": "Israel, Gaza und der Nahe Osten",
+            "es": "Israel, Gaza y Oriente Medio",
+            "fr": "Israël, Gaza et le Moyen-Orient",
+            "pt": "Israel, Gaza e Oriente Médio",
+            "ru": "Израиль, Газа и Ближний Восток",
+            "uk": "Ізраїль, Газа та Близький Схід",
+            "id": "Israel, Gaza, dan Timur Tengah",
+            "tr": "İsrail, Gazze ve Orta Doğu",
+            "zh": "以色列、加薩與中東",
+            "ja": "イスラエル、ガザ、中東",
+            "hi": "इज़राइल, गाज़ा और मध्य पूर्व",
+            "ar": "إسرائيل وغزة والشرق الأوسط",
+            "fa": "اسرائیل، غزه و خاورمیانه"
+          },
+          "hint": "Israel, Gaza, Lebanon, Iran, Syria, Yemen"
+        },
+        {
+          "sleutel": "south-asia",
+          "naam": {
+            "nl": "India, Pakistan en China",
+            "en": "India, Pakistan and China",
+            "de": "Indien, Pakistan und China",
+            "es": "India, Pakistán y China",
+            "fr": "Inde, Pakistan et Chine",
+            "pt": "Índia, Paquistão e China",
+            "ru": "Индия, Пакистан и Китай",
+            "uk": "Індія, Пакистан та Китай",
+            "id": "India, Pakistan, dan Tiongkok",
+            "tr": "Hindistan, Pakistan ve Çin",
+            "zh": "印度、巴基斯坦與中國",
+            "ja": "インド、パキスタン、中国",
+            "hi": "भारत, पाकिस्तान और चीन",
+            "ar": "الهند وباكستان والصين",
+            "fa": "هند، پاکستان و چین"
+          },
+          "hint": "conflict between India and Pakistan or China, Kashmir; not other countries"
+        },
+        {
+          "sleutel": "terrorism",
+          "naam": {
+            "nl": "Terrorisme",
+            "en": "Terrorism",
+            "de": "Terrorismus",
+            "es": "Terrorismo",
+            "fr": "Terrorisme",
+            "pt": "Terrorismo",
+            "ru": "Терроризм",
+            "uk": "Тероризм",
+            "id": "Terorisme",
+            "tr": "Terör",
+            "zh": "恐怖主義",
+            "ja": "テロ",
+            "hi": "आतंकवाद",
+            "ar": "الإرهاب",
+            "fa": "تروریسم"
+          }
+        },
+        {
+          "sleutel": "war-history",
+          "naam": {
+            "nl": "Oorlogen van vroeger",
+            "en": "Wars of the past",
+            "de": "Kriege der Vergangenheit",
+            "es": "Guerras del pasado",
+            "fr": "Guerres du passé",
+            "pt": "Guerras do passado",
+            "ru": "Войны прошлого",
+            "uk": "Війни минулого",
+            "id": "Perang masa lalu",
+            "tr": "Geçmişteki savaşlar",
+            "zh": "過去的戰爭",
+            "ja": "過去の戦争",
+            "hi": "अतीत के युद्ध",
+            "ar": "حروب الماضي",
+            "fa": "جنگ‌های گذشته"
+          },
+          "hint": "wars that ended before 2000"
+        }
+      ]
+    },
+    {
+      "sleutel": "world",
+      "naam": {
+        "nl": "Internationale politiek",
+        "en": "International politics",
+        "de": "Internationale Politik",
+        "es": "Política internacional",
+        "fr": "Politique internationale",
+        "pt": "Política internacional",
+        "ru": "Международная политика",
+        "uk": "Міжнародна політика",
+        "id": "Politik internasional",
+        "tr": "Uluslararası siyaset",
+        "zh": "國際政治",
+        "ja": "国際政治",
+        "hi": "अंतरराष्ट्रीय राजनीति",
+        "ar": "السياسة الدولية",
+        "fa": "سیاست بین‌الملل"
+      },
+      "omschrijving": "Relations between countries: NATO, the European Union, sanctions, treaties, diplomacy and foreign interference.",
+      "onderdelen": [
+        {
+          "sleutel": "nato",
+          "naam": {
+            "nl": "NAVO en veiligheid",
+            "en": "NATO and security",
+            "de": "NATO und Sicherheit",
+            "es": "OTAN y seguridad",
+            "fr": "OTAN et sécurité",
+            "pt": "OTAN e segurança",
+            "ru": "НАТО и безопасность",
+            "uk": "НАТО та безпека",
+            "id": "NATO dan keamanan",
+            "tr": "NATO ve güvenlik",
+            "zh": "北約與安全",
+            "ja": "NATOと安全保障",
+            "hi": "नाटो और सुरक्षा",
+            "ar": "حلف الناتو والأمن",
+            "fa": "ناتو و امنیت"
+          }
+        },
+        {
+          "sleutel": "eu",
+          "naam": {
+            "nl": "Europese Unie",
+            "en": "European Union",
+            "de": "Europäische Union",
+            "es": "Unión Europea",
+            "fr": "Union européenne",
+            "pt": "União Europeia",
+            "ru": "Европейский союз",
+            "uk": "Європейський Союз",
+            "id": "Uni Eropa",
+            "tr": "Avrupa Birliği",
+            "zh": "歐盟",
+            "ja": "欧州連合",
+            "hi": "यूरोपीय संघ",
+            "ar": "الاتحاد الأوروبي",
+            "fa": "اتحادیه اروپا"
+          }
+        },
+        {
+          "sleutel": "sanctions",
+          "naam": {
+            "nl": "Sancties en handel",
+            "en": "Sanctions and trade",
+            "de": "Sanktionen und Handel",
+            "es": "Sanciones y comercio",
+            "fr": "Sanctions et commerce",
+            "pt": "Sanções e comércio",
+            "ru": "Санкции и торговля",
+            "uk": "Санкції та торгівля",
+            "id": "Sanksi dan perdagangan",
+            "tr": "Yaptırımlar ve ticaret",
+            "zh": "制裁與貿易",
+            "ja": "制裁と貿易",
+            "hi": "प्रतिबंध और व्यापार",
+            "ar": "العقوبات والتجارة",
+            "fa": "تحریم‌ها و تجارت"
+          }
+        },
+        {
+          "sleutel": "interference",
+          "naam": {
+            "nl": "Buitenlandse inmenging",
+            "en": "Foreign interference",
+            "de": "Einmischung aus dem Ausland",
+            "es": "Injerencia extranjera",
+            "fr": "Ingérence étrangère",
+            "pt": "Interferência estrangeira",
+            "ru": "Иностранное вмешательство",
+            "uk": "Іноземне втручання",
+            "id": "Campur tangan asing",
+            "tr": "Yabancı müdahale",
+            "zh": "外國干預",
+            "ja": "外国の干渉",
+            "hi": "विदेशी दखल",
+            "ar": "التدخل الأجنبي",
+            "fa": "دخالت خارجی"
+          },
+          "hint": "one state meddling in another's politics or elections"
+        }
+      ]
+    },
+    {
+      "sleutel": "health",
+      "naam": {
+        "nl": "Gezondheid",
+        "en": "Health",
+        "de": "Gesundheit",
+        "es": "Salud",
+        "fr": "Santé",
+        "pt": "Saúde",
+        "ru": "Здоровье",
+        "uk": "Здоров'я",
+        "id": "Kesehatan",
+        "tr": "Sağlık",
+        "zh": "健康",
+        "ja": "健康",
+        "hi": "स्वास्थ्य",
+        "ar": "الصحة",
+        "fa": "سلامت"
+      },
+      "omschrijving": "Diseases, vaccines, medicine, remedies, food and health care.",
+      "onderdelen": [
+        {
+          "sleutel": "vaccines",
+          "naam": {
+            "nl": "Vaccins",
+            "en": "Vaccines",
+            "de": "Impfstoffe",
+            "es": "Vacunas",
+            "fr": "Vaccins",
+            "pt": "Vacinas",
+            "ru": "Вакцины",
+            "uk": "Вакцини",
+            "id": "Vaksin",
+            "tr": "Aşılar",
+            "zh": "疫苗",
+            "ja": "ワクチン",
+            "hi": "टीके",
+            "ar": "اللقاحات",
+            "fa": "واکسن‌ها"
+          },
+          "hint": "any vaccine, including covid-19 vaccines"
+        },
+        {
+          "sleutel": "covid",
+          "naam": {
+            "nl": "Corona",
+            "en": "Covid-19",
+            "de": "Corona",
+            "es": "Covid-19",
+            "fr": "Covid-19",
+            "pt": "Covid-19",
+            "ru": "Covid-19",
+            "uk": "Covid-19",
+            "id": "Covid-19",
+            "tr": "Covid-19",
+            "zh": "新冠肺炎",
+            "ja": "新型コロナ",
+            "hi": "कोविड-19",
+            "ar": "كوفيد-19",
+            "fa": "کووید-۱۹"
+          },
+          "hint": "covid-19 other than vaccines: the virus, masks, lockdowns, tests"
+        },
+        {
+          "sleutel": "remedies",
+          "naam": {
+            "nl": "Middeltjes en voeding",
+            "en": "Remedies and nutrition",
+            "de": "Hausmittel und Ernährung",
+            "es": "Remedios y alimentación",
+            "fr": "Remèdes et alimentation",
+            "pt": "Remédios e nutrição",
+            "ru": "Лекарства и питание",
+            "uk": "Ліки, народні засоби та харчування",
+            "id": "Pengobatan dan nutrisi",
+            "tr": "Çareler ve beslenme",
+            "zh": "偏方與營養",
+            "ja": "民間療法と栄養",
+            "hi": "घरेलू नुस्खे और पोषण",
+            "ar": "العلاجات والتغذية",
+            "fa": "درمان‌ها و تغذیه"
+          },
+          "hint": "cures, home remedies, food and drink"
+        },
+        {
+          "sleutel": "care",
+          "naam": {
+            "nl": "Zorg en zorgkosten",
+            "en": "Health care and its costs",
+            "de": "Gesundheitsversorgung und Kosten",
+            "es": "Atención sanitaria y costes",
+            "fr": "Soins et coûts de santé",
+            "pt": "Atendimento de saúde e seus custos",
+            "ru": "Здравоохранение и его стоимость",
+            "uk": "Охорона здоров'я та її вартість",
+            "id": "Layanan kesehatan dan biayanya",
+            "tr": "Sağlık hizmetleri ve maliyetleri",
+            "zh": "醫療照護與費用",
+            "ja": "医療と費用",
+            "hi": "स्वास्थ्य सेवा और उसका खर्च",
+            "ar": "الرعاية الصحية وتكاليفها",
+            "fa": "مراقبت‌های درمانی و هزینه‌های آن"
+          },
+          "hint": "hospitals, insurance, medicine prices"
+        }
+      ]
+    },
+    {
+      "sleutel": "crime",
+      "naam": {
+        "nl": "Misdaad en recht",
+        "en": "Crime and justice",
+        "de": "Kriminalität und Justiz",
+        "es": "Delincuencia y justicia",
+        "fr": "Criminalité et justice",
+        "pt": "Crime e justiça",
+        "ru": "Преступность и правосудие",
+        "uk": "Злочинність і правосуддя",
+        "id": "Kejahatan dan peradilan",
+        "tr": "Suç ve adalet",
+        "zh": "犯罪與司法",
+        "ja": "犯罪と司法",
+        "hi": "अपराध और न्याय",
+        "ar": "الجريمة والعدالة",
+        "fa": "جرم و عدالت"
+      },
+      "omschrijving": "Crimes, police, courts and prisons, and scams such as fake offers and fraud.",
+      "onderdelen": [
+        {
+          "sleutel": "crimes",
+          "naam": {
+            "nl": "Misdaden",
+            "en": "Crimes",
+            "de": "Straftaten",
+            "es": "Delitos",
+            "fr": "Crimes et délits",
+            "pt": "Crimes",
+            "ru": "Преступления",
+            "uk": "Злочини",
+            "id": "Kejahatan",
+            "tr": "Suçlar",
+            "zh": "犯罪案件",
+            "ja": "犯罪",
+            "hi": "अपराध",
+            "ar": "الجرائم",
+            "fa": "جرایم"
+          }
+        },
+        {
+          "sleutel": "police-courts",
+          "naam": {
+            "nl": "Politie en rechtspraak",
+            "en": "Police and courts",
+            "de": "Polizei und Gerichte",
+            "es": "Policía y tribunales",
+            "fr": "Police et tribunaux",
+            "pt": "Polícia e tribunais",
+            "ru": "Полиция и суды",
+            "uk": "Поліція та суди",
+            "id": "Polisi dan pengadilan",
+            "tr": "Polis ve mahkemeler",
+            "zh": "警方與法院",
+            "ja": "警察と裁判所",
+            "hi": "पुलिस और अदालतें",
+            "ar": "الشرطة والمحاكم",
+            "fa": "پلیس و دادگاه‌ها"
+          }
+        },
+        {
+          "sleutel": "scams",
+          "naam": {
+            "nl": "Oplichting en nepacties",
+            "en": "Scams and fake offers",
+            "de": "Betrug und falsche Angebote",
+            "es": "Estafas y ofertas falsas",
+            "fr": "Arnaques et fausses offres",
+            "pt": "Golpes e ofertas falsas",
+            "ru": "Мошенничество и фальшивые предложения",
+            "uk": "Шахрайство та фальшиві пропозиції",
+            "id": "Penipuan dan tawaran palsu",
+            "tr": "Dolandırıcılıklar ve sahte teklifler",
+            "zh": "詐騙與假優惠",
+            "ja": "詐欺と偽の勧誘",
+            "hi": "ठगी और फर्जी ऑफर",
+            "ar": "الاحتيال والعروض المزيفة",
+            "fa": "کلاهبرداری و پیشنهادهای جعلی"
+          },
+          "hint": "fake giveaways, phishing, fraud aimed at the public"
+        }
+      ]
+    },
+    {
+      "sleutel": "economy",
+      "naam": {
+        "nl": "Economie en geld",
+        "en": "Economy and money",
+        "de": "Wirtschaft und Geld",
+        "es": "Economía y dinero",
+        "fr": "Économie et argent",
+        "pt": "Economia e dinheiro",
+        "ru": "Экономика и деньги",
+        "uk": "Економіка та гроші",
+        "id": "Ekonomi dan uang",
+        "tr": "Ekonomi ve para",
+        "zh": "經濟與金錢",
+        "ja": "経済とお金",
+        "hi": "अर्थव्यवस्था और पैसा",
+        "ar": "الاقتصاد والمال",
+        "fa": "اقتصاد و پول"
+      },
+      "omschrijving": "Taxes, public finances, prices, jobs, companies, products and money.",
+      "onderdelen": [
+        {
+          "sleutel": "public-finance",
+          "naam": {
+            "nl": "Belasting en overheidsgeld",
+            "en": "Taxes and public money",
+            "de": "Steuern und öffentliche Gelder",
+            "es": "Impuestos y dinero público",
+            "fr": "Impôts et argent public",
+            "pt": "Impostos e dinheiro público",
+            "ru": "Налоги и государственные деньги",
+            "uk": "Податки та публічні кошти",
+            "id": "Pajak dan uang negara",
+            "tr": "Vergiler ve kamu parası",
+            "zh": "稅收與公帑",
+            "ja": "税金と公的資金",
+            "hi": "टैक्स और सरकारी पैसा",
+            "ar": "الضرائب والمال العام",
+            "fa": "مالیات و پول عمومی"
+          }
+        },
+        {
+          "sleutel": "prices-jobs",
+          "naam": {
+            "nl": "Prijzen en banen",
+            "en": "Prices and jobs",
+            "de": "Preise und Arbeitsplätze",
+            "es": "Precios y empleo",
+            "fr": "Prix et emploi",
+            "pt": "Preços e empregos",
+            "ru": "Цены и работа",
+            "uk": "Ціни та робота",
+            "id": "Harga dan lapangan kerja",
+            "tr": "Fiyatlar ve işler",
+            "zh": "物價與就業",
+            "ja": "物価と雇用",
+            "hi": "कीमतें और नौकरियां",
+            "ar": "الأسعار والوظائف",
+            "fa": "قیمت‌ها و مشاغل"
+          }
+        },
+        {
+          "sleutel": "companies",
+          "naam": {
+            "nl": "Bedrijven en producten",
+            "en": "Companies and products",
+            "de": "Unternehmen und Produkte",
+            "es": "Empresas y productos",
+            "fr": "Entreprises et produits",
+            "pt": "Empresas e produtos",
+            "ru": "Компании и продукты",
+            "uk": "Компанії та товари",
+            "id": "Perusahaan dan produk",
+            "tr": "Şirketler ve ürünler",
+            "zh": "企業與產品",
+            "ja": "企業と製品",
+            "hi": "कंपनियां और उत्पाद",
+            "ar": "الشركات والمنتجات",
+            "fa": "شرکت‌ها و محصولات"
+          }
+        }
+      ]
+    },
+    {
+      "sleutel": "disasters",
+      "naam": {
+        "nl": "Rampen en ongelukken",
+        "en": "Disasters and accidents",
+        "de": "Katastrophen und Unfälle",
+        "es": "Catástrofes y accidentes",
+        "fr": "Catastrophes et accidents",
+        "pt": "Desastres e acidentes",
+        "ru": "Катастрофы и аварии",
+        "uk": "Катастрофи та нещасні випадки",
+        "id": "Bencana dan kecelakaan",
+        "tr": "Afetler ve kazalar",
+        "zh": "災害與意外",
+        "ja": "災害と事故",
+        "hi": "आपदाएं और दुर्घटनाएं",
+        "ar": "الكوارث والحوادث",
+        "fa": "بلایا و حوادث"
+      },
+      "omschrijving": "Floods, earthquakes, storms, fires, crashes and other accidents, including footage said to show them. Not attacks, war damage or riots: those belong under war, crime or politics.",
+      "onderdelen": [
+        {
+          "sleutel": "natural",
+          "naam": {
+            "nl": "Natuurrampen en weer",
+            "en": "Natural disasters and weather",
+            "de": "Naturkatastrophen und Wetter",
+            "es": "Desastres naturales y tiempo",
+            "fr": "Catastrophes naturelles et météo",
+            "pt": "Desastres naturais e clima",
+            "ru": "Стихийные бедствия и погода",
+            "uk": "Стихійні лиха та погода",
+            "id": "Bencana alam dan cuaca",
+            "tr": "Doğal afetler ve hava durumu",
+            "zh": "天然災害與天氣",
+            "ja": "自然災害と天気",
+            "hi": "प्राकृतिक आपदाएं और मौसम",
+            "ar": "الكوارث الطبيعية والطقس",
+            "fa": "بلایای طبیعی و آب‌وهوا"
+          }
+        },
+        {
+          "sleutel": "accidents",
+          "naam": {
+            "nl": "Ongelukken",
+            "en": "Accidents",
+            "de": "Unfälle",
+            "es": "Accidentes",
+            "fr": "Accidents",
+            "pt": "Acidentes",
+            "ru": "Аварии и несчастные случаи",
+            "uk": "Нещасні випадки",
+            "id": "Kecelakaan",
+            "tr": "Kazalar",
+            "zh": "意外事故",
+            "ja": "事故",
+            "hi": "दुर्घटनाएं",
+            "ar": "الحوادث",
+            "fa": "حوادث"
+          },
+          "hint": "crashes, collapses and fires that nobody intended"
+        }
+      ]
+    },
+    {
+      "sleutel": "climate",
+      "naam": {
+        "nl": "Klimaat, energie en natuur",
+        "en": "Climate, energy and nature",
+        "de": "Klima, Energie und Natur",
+        "es": "Clima, energía y naturaleza",
+        "fr": "Climat, énergie et nature",
+        "pt": "Clima, energia e natureza",
+        "ru": "Климат, энергетика и природа",
+        "uk": "Клімат, енергетика та природа",
+        "id": "Iklim, energi, dan alam",
+        "tr": "İklim, enerji ve doğa",
+        "zh": "氣候、能源與自然",
+        "ja": "気候、エネルギー、自然",
+        "hi": "जलवायु, ऊर्जा और प्रकृति",
+        "ar": "المناخ والطاقة والطبيعة",
+        "fa": "اقلیم، انرژی و طبیعت"
+      },
+      "omschrijving": "Climate change, energy, the environment, animals and nature, including claims that deny or play down climate change without naming it (heat, wildfires, sea level).",
+      "onderdelen": [
+        {
+          "sleutel": "climate-change",
+          "naam": {
+            "nl": "Klimaatverandering",
+            "en": "Climate change",
+            "de": "Klimawandel",
+            "es": "Cambio climático",
+            "fr": "Changement climatique",
+            "pt": "Mudança climática",
+            "ru": "Изменение климата",
+            "uk": "Зміна клімату",
+            "id": "Perubahan iklim",
+            "tr": "İklim değişikliği",
+            "zh": "氣候變遷",
+            "ja": "気候変動",
+            "hi": "जलवायु परिवर्तन",
+            "ar": "تغيّر المناخ",
+            "fa": "تغییرات اقلیمی"
+          }
+        },
+        {
+          "sleutel": "energy",
+          "naam": {
+            "nl": "Energie",
+            "en": "Energy",
+            "de": "Energie",
+            "es": "Energía",
+            "fr": "Énergie",
+            "pt": "Energia",
+            "ru": "Энергетика",
+            "uk": "Енергетика",
+            "id": "Energi",
+            "tr": "Enerji",
+            "zh": "能源",
+            "ja": "エネルギー",
+            "hi": "ऊर्जा",
+            "ar": "الطاقة",
+            "fa": "انرژی"
+          }
+        },
+        {
+          "sleutel": "nature",
+          "naam": {
+            "nl": "Dieren en natuur",
+            "en": "Animals and nature",
+            "de": "Tiere und Natur",
+            "es": "Animales y naturaleza",
+            "fr": "Animaux et nature",
+            "pt": "Animais e natureza",
+            "ru": "Животные и природа",
+            "uk": "Тварини та природа",
+            "id": "Hewan dan alam",
+            "tr": "Hayvanlar ve doğa",
+            "zh": "動物與自然",
+            "ja": "動物と自然",
+            "hi": "जानवर और प्रकृति",
+            "ar": "الحيوانات والطبيعة",
+            "fa": "حیوانات و طبیعت"
+          }
+        }
+      ]
+    },
+    {
+      "sleutel": "migration",
+      "naam": {
+        "nl": "Migratie",
+        "en": "Migration",
+        "de": "Migration",
+        "es": "Migración",
+        "fr": "Migration",
+        "pt": "Migração",
+        "ru": "Миграция",
+        "uk": "Міграція",
+        "id": "Migrasi",
+        "tr": "Göç",
+        "zh": "移民",
+        "ja": "移民",
+        "hi": "प्रवासन",
+        "ar": "الهجرة",
+        "fa": "مهاجرت"
+      },
+      "omschrijving": "Migrants, refugees, asylum, borders and visas.",
+      "onderdelen": [
+        {
+          "sleutel": "asylum",
+          "naam": {
+            "nl": "Asiel en vluchtelingen",
+            "en": "Asylum and refugees",
+            "de": "Asyl und Geflüchtete",
+            "es": "Asilo y refugiados",
+            "fr": "Asile et réfugiés",
+            "pt": "Asilo e refugiados",
+            "ru": "Убежище и беженцы",
+            "uk": "Притулок і біженці",
+            "id": "Suaka dan pengungsi",
+            "tr": "Sığınma ve mülteciler",
+            "zh": "庇護與難民",
+            "ja": "亡命と難民",
+            "hi": "शरण और शरणार्थी",
+            "ar": "اللجوء واللاجئون",
+            "fa": "پناهندگی و پناهجویان"
+          }
+        },
+        {
+          "sleutel": "borders",
+          "naam": {
+            "nl": "Grenzen en visa",
+            "en": "Borders and visas",
+            "de": "Grenzen und Visa",
+            "es": "Fronteras y visados",
+            "fr": "Frontières et visas",
+            "pt": "Fronteiras e vistos",
+            "ru": "Границы и визы",
+            "uk": "Кордони та візи",
+            "id": "Perbatasan dan visa",
+            "tr": "Sınırlar ve vizeler",
+            "zh": "邊境與簽證",
+            "ja": "国境とビザ",
+            "hi": "सीमाएं और वीज़ा",
+            "ar": "الحدود والتأشيرات",
+            "fa": "مرزها و روادید"
+          }
+        }
+      ]
+    },
+    {
+      "sleutel": "society",
+      "naam": {
+        "nl": "Religie en samenleving",
+        "en": "Religion and society",
+        "de": "Religion und Gesellschaft",
+        "es": "Religión y sociedad",
+        "fr": "Religion et société",
+        "pt": "Religião e sociedade",
+        "ru": "Религия и общество",
+        "uk": "Релігія та суспільство",
+        "id": "Agama dan masyarakat",
+        "tr": "Din ve toplum",
+        "zh": "宗教與社會",
+        "ja": "宗教と社会",
+        "hi": "धर्म और समाज",
+        "ar": "الدين والمجتمع",
+        "fa": "دین و جامعه"
+      },
+      "omschrijving": "Religion and religious communities, education, gender and sexuality, history and culture.",
+      "onderdelen": [
+        {
+          "sleutel": "religion",
+          "naam": {
+            "nl": "Religie en gemeenschappen",
+            "en": "Religion and communities",
+            "de": "Religion und Gemeinschaften",
+            "es": "Religión y comunidades",
+            "fr": "Religion et communautés",
+            "pt": "Religião e comunidades",
+            "ru": "Религия и общины",
+            "uk": "Релігія та спільноти",
+            "id": "Agama dan komunitas",
+            "tr": "Din ve topluluklar",
+            "zh": "宗教與社群",
+            "ja": "宗教とコミュニティ",
+            "hi": "धर्म और समुदाय",
+            "ar": "الدين والمجتمعات",
+            "fa": "دین و جوامع دینی"
+          },
+          "hint": "religion, caste and tension between communities"
+        },
+        {
+          "sleutel": "education",
+          "naam": {
+            "nl": "Onderwijs",
+            "en": "Education",
+            "de": "Bildung",
+            "es": "Educación",
+            "fr": "Éducation",
+            "pt": "Educação",
+            "ru": "Образование",
+            "uk": "Освіта",
+            "id": "Pendidikan",
+            "tr": "Eğitim",
+            "zh": "教育",
+            "ja": "教育",
+            "hi": "शिक्षा",
+            "ar": "التعليم",
+            "fa": "آموزش"
+          }
+        },
+        {
+          "sleutel": "gender",
+          "naam": {
+            "nl": "Gender en lhbti",
+            "en": "Gender and LGBT",
+            "de": "Geschlecht und LGBT",
+            "es": "Género y LGTB",
+            "fr": "Genre et LGBT",
+            "pt": "Gênero e LGBT",
+            "ru": "Гендер и ЛГБТ",
+            "uk": "Ґендер і ЛГБТ",
+            "id": "Gender dan LGBT",
+            "tr": "Cinsiyet ve LGBT",
+            "zh": "性別與LGBT",
+            "ja": "ジェンダーとLGBT",
+            "hi": "जेंडर और LGBT",
+            "ar": "النوع الاجتماعي وLGBT",
+            "fa": "جنسیت و دگرباشان جنسی"
+          }
+        },
+        {
+          "sleutel": "history-culture",
+          "naam": {
+            "nl": "Geschiedenis en cultuur",
+            "en": "History and culture",
+            "de": "Geschichte und Kultur",
+            "es": "Historia y cultura",
+            "fr": "Histoire et culture",
+            "pt": "História e cultura",
+            "ru": "История и культура",
+            "uk": "Історія та культура",
+            "id": "Sejarah dan budaya",
+            "tr": "Tarih ve kültür",
+            "zh": "歷史與文化",
+            "ja": "歴史と文化",
+            "hi": "इतिहास और संस्कृति",
+            "ar": "التاريخ والثقافة",
+            "fa": "تاریخ و فرهنگ"
+          },
+          "hint": "history other than wars, heritage, art, language"
+        }
+      ]
+    },
+    {
+      "sleutel": "science",
+      "naam": {
+        "nl": "Wetenschap en technologie",
+        "en": "Science and technology",
+        "de": "Wissenschaft und Technik",
+        "es": "Ciencia y tecnología",
+        "fr": "Science et technologie",
+        "pt": "Ciência e tecnologia",
+        "ru": "Наука и технологии",
+        "uk": "Наука та технології",
+        "id": "Sains dan teknologi",
+        "tr": "Bilim ve teknoloji",
+        "zh": "科學與科技",
+        "ja": "科学とテクノロジー",
+        "hi": "विज्ञान और तकनीक",
+        "ar": "العلوم والتكنولوجيا",
+        "fa": "علم و فناوری"
+      },
+      "omschrijving": "Science, space, artificial intelligence, the internet and technology companies.",
+      "onderdelen": [
+        {
+          "sleutel": "space",
+          "naam": {
+            "nl": "Ruimte",
+            "en": "Space",
+            "de": "Raumfahrt",
+            "es": "Espacio",
+            "fr": "Espace",
+            "pt": "Espaço",
+            "ru": "Космос",
+            "uk": "Космос",
+            "id": "Antariksa",
+            "tr": "Uzay",
+            "zh": "太空",
+            "ja": "宇宙",
+            "hi": "अंतरिक्ष",
+            "ar": "الفضاء",
+            "fa": "فضا"
+          }
+        },
+        {
+          "sleutel": "ai-internet",
+          "naam": {
+            "nl": "AI en internet",
+            "en": "AI and the internet",
+            "de": "KI und Internet",
+            "es": "IA e internet",
+            "fr": "IA et internet",
+            "pt": "IA e internet",
+            "ru": "ИИ и интернет",
+            "uk": "ШІ та інтернет",
+            "id": "AI dan internet",
+            "tr": "Yapay zeka ve internet",
+            "zh": "AI與網路",
+            "ja": "AIとインターネット",
+            "hi": "AI और इंटरनेट",
+            "ar": "الذكاء الاصطناعي والإنترنت",
+            "fa": "هوش مصنوعی و اینترنت"
+          }
+        },
+        {
+          "sleutel": "research",
+          "naam": {
+            "nl": "Wetenschap",
+            "en": "Science",
+            "de": "Wissenschaft",
+            "es": "Ciencia",
+            "fr": "Science",
+            "pt": "Ciência",
+            "ru": "Наука",
+            "uk": "Наука",
+            "id": "Sains",
+            "tr": "Bilim",
+            "zh": "科學",
+            "ja": "科学",
+            "hi": "विज्ञान",
+            "ar": "العلوم",
+            "fa": "علم"
+          }
+        }
+      ]
+    },
+    {
+      "sleutel": "people",
+      "naam": {
+        "nl": "Bekende mensen, sport en media",
+        "en": "Famous people, sport and media",
+        "de": "Prominente, Sport und Medien",
+        "es": "Famosos, deporte y medios",
+        "fr": "Célébrités, sport et médias",
+        "pt": "Famosos, esporte e mídia",
+        "ru": "Известные люди, спорт и СМИ",
+        "uk": "Відомі люди, спорт і медіа",
+        "id": "Tokoh terkenal, olahraga, dan media",
+        "tr": "Ünlü kişiler, spor ve medya",
+        "zh": "名人、體育與媒體",
+        "ja": "著名人、スポーツ、メディア",
+        "hi": "मशहूर हस्तियां, खेल और मीडिया",
+        "ar": "المشاهير والرياضة والإعلام",
+        "fa": "چهره‌ها، ورزش و رسانه"
+      },
+      "omschrijving": "Celebrities, entertainment, sport and the media, when the claim is not about politics.",
+      "onderdelen": [
+        {
+          "sleutel": "celebrities",
+          "naam": {
+            "nl": "Bekende mensen",
+            "en": "Celebrities",
+            "de": "Prominente",
+            "es": "Famosos",
+            "fr": "Célébrités",
+            "pt": "Celebridades",
+            "ru": "Знаменитости",
+            "uk": "Знаменитості",
+            "id": "Selebritas",
+            "tr": "Ünlüler",
+            "zh": "名人",
+            "ja": "有名人",
+            "hi": "सेलिब्रिटी",
+            "ar": "المشاهير",
+            "fa": "سلبریتی‌ها"
+          }
+        },
+        {
+          "sleutel": "sport",
+          "naam": {
+            "nl": "Sport",
+            "en": "Sport",
+            "de": "Sport",
+            "es": "Deporte",
+            "fr": "Sport",
+            "pt": "Esporte",
+            "ru": "Спорт",
+            "uk": "Спорт",
+            "id": "Olahraga",
+            "tr": "Spor",
+            "zh": "體育",
+            "ja": "スポーツ",
+            "hi": "खेल",
+            "ar": "الرياضة",
+            "fa": "ورزش"
+          }
+        },
+        {
+          "sleutel": "media",
+          "naam": {
+            "nl": "Media en vermaak",
+            "en": "Media and entertainment",
+            "de": "Medien und Unterhaltung",
+            "es": "Medios y entretenimiento",
+            "fr": "Médias et divertissement",
+            "pt": "Mídia e entretenimento",
+            "ru": "СМИ и развлечения",
+            "uk": "Медіа та розваги",
+            "id": "Media dan hiburan",
+            "tr": "Medya ve eğlence",
+            "zh": "媒體與娛樂",
+            "ja": "メディアと娯楽",
+            "hi": "मीडिया और मनोरंजन",
+            "ar": "الإعلام والترفيه",
+            "fa": "رسانه و سرگرمی"
+          }
+        }
+      ]
+    }
+  ]
+}

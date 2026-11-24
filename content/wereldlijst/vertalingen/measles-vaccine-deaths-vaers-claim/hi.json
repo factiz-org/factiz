@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar hi) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "hi",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "आधिकारिक अमेरिकी आंकड़े दिखाते हैं कि 1995 से खसरे के टीकों का संबंध खसरे के संक्रमण की तुलना में 1,700 प्रतिशत अधिक मौतों से रहा है।",
+  "kern": [
+   "यह आंकड़ा VAERS में दर्ज रिपोर्टों की तुलना खसरे से हुई पुष्ट मौतों से करता है। VAERS अमेरिका का एक वैक्सीन सुरक्षा डेटाबेस है, जिसमें कोई भी व्यक्ति रिपोर्ट दर्ज करा सकता है। विशेषज्ञों ने AFP को बताया कि ऐसी रिपोर्टों से यह साबित नहीं होता कि किसी मौत का कारण टीका था [1]।",
+   "बड़े सुरक्षा अध्ययनों से पता चलता है कि खसरा, कण्ठमाला और रूबेला (MMR) के टीके से गंभीर प्रतिकूल परिणाम दुर्लभ होते हैं [1]।"
+  ],
+  "rondgang": "यह दावा एक Substack लेख से आया और X, Facebook और Instagram पर फैला, उसी समय जब Pan American Health Organization ने फैसला सुनाया कि अमेरिका अब खसरा उन्मूलन के मानदंडों को पूरा नहीं करता [1]।"
+ }
+}

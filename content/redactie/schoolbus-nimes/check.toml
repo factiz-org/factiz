@@ -1,0 +1,201 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/schoolbus-nimes/dossier.md.
+
+sleutel = "schoolbus-nimes"
+status = "gepubliceerd"
+taal = "nl"
+adres = "brandende-schoolbus-scholierenprotest"
+adres_en = "burning-school-bus-student-protest"
+kop = "Video van brandende schoolbus is gefilmd in Nîmes in januari 2023, niet bij de scholierenprotesten"
+oordeel = "onwaar"
+oordeel_zin = "De video is echt, maar toont een schoolbus die op 13 januari 2023 in Nîmes in brand vloog door een vuur in de motor, zonder protest erbij [1] [10]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Een brandende bus bij de scholierenprotesten in Frankrijk."
+platform = "X"
+eerst_gezien = "2026-10-02"
+posts = 1
+
+kort = """
+Op 2 oktober ging op X een video rond van een brandende bus, als beeld van de scholierenprotesten in Frankrijk [7]. De \
+video is gefilmd op 13 januari 2023 in Nîmes, waar de motor van een schoolbus tijdens het rijden vlam vatte [1] [2]. \
+Er was geen protest bij, en de kinderen in de bus kwamen er ongedeerd uit [1] [8]."""
+
+tekst = """
+Op vrijdag 2 oktober om 9:18 verscheen op X een Nederlandstalige post met een video van een bus die brandend over \
+straat rijdt, gebracht als een scène uit de scholierenprotesten in Frankrijk [7]. Dezelfde beelden gingen die dag ook \
+met een Arabische tekst rond [8]. De Amerikaanse commentator Benny Johnson deelde de video met 4,1 miljoen volgers, met \
+de tekst dat dit het gevolg is van massa-immigratie [10].
+
+De video is bijna vier jaar oud: op vrijdag 13 januari 2023 vloog rond het middaguur een schoolbus in brand op de route \
+de Sauve in Nîmes, in het zuiden van Frankrijk [1]. De motor vatte tijdens het rijden plotseling vlam [1]. De lokale \
+nieuwssite Objectif Gard zette die dag een video van de brandende bus online [1]. Daar komen de beelden in de post \
+vandaan, volgens de factchecks van An-Nahar en ZDFheute [8] [10].
+
+In de bus zaten tien leerlingen van een collège, een school voor kinderen van 11 tot 15 jaar [2]. Zij en de chauffeur \
+waren de bus al uit toen de brandweer kwam, en niemand raakte gewond [1] [8]. De lege bus rolde nog zo'n 20 meter door \
+en kwam tot stilstand tegen een muur [8]. De brandweer van het departement Gard meldde het vuur die middag op X [4]. \
+Midi Libre bracht de beelden dezelfde avond, TF1 Info de dag erna [2] [3]. Objectif Gard noemt als oorzaak alleen het \
+vuur in de motor, ZDFheute een technisch defect [1] [10].
+
+De scholierenprotesten zelf zijn echt: sinds de tweede helft van september blokkeren scholieren in heel Frankrijk hun \
+lycées, uit protest tegen volle klassen, een tekort aan leraren en vervallen gebouwen [6]. Daarbij ging ook een bus in \
+vlammen op: in Marseille werd op donderdag 1 oktober tijdens de blokkades een bus in brand gestoken en de chauffeur \
+aangevallen [5]. Die bus staat niet in de video, want de video is van januari 2023 en uit Nîmes [1].
+
+Het Libanese dagblad An-Nahar was op 3 oktober de eerste factchecker die we vonden [8]. AFP \
+Factcheck Nederland kwam op 7 oktober tot dezelfde uitkomst [9]."""
+
+niet_weten = """
+We weten niet wie de video als eerste aan de protesten van 2026 koppelde. Waarom de motor vlam vatte, vonden we niet \
+vastgesteld. Of de video na 2023 al eerder als protestbeeld rondging, weten we niet."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Of de video na januari 2023 al eerder als protestbeeld rondging. Dan is het een terugkerende bewering.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 2 oktober 2026, 9:18."
+alt = "Stilstaand beeld uit de video: een bus in brand op straat. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.objectifsud.fr/faits-divers/nimes-un-bus-prend-feu-en-roulant-ce-vendredi-104278.php"
+stempel = false
+bijschrift = "Objectif Gard (nu Objectif Sud), 13 januari 2023: de video van de brandende schoolbus op de route de Sauve in Nîmes."
+alt = "De video van Objectif Gard van de schoolbus die in Nîmes in brand vloog."
+
+[[tijdlijn]]
+datum = "2023-01-13"
+wat = "Een schoolbus vliegt tijdens het rijden in brand op de route de Sauve in Nîmes; de kinderen komen er ongedeerd uit [1]."
+
+[[tijdlijn]]
+datum = "2023-01-13"
+tijd = "17:17"
+wat = "De brandweer van de Gard meldt het vuur op X [4]."
+
+[[tijdlijn]]
+datum = "2023-01-14"
+wat = "TF1 Info brengt de beelden: tien kinderen geëvacueerd [2]."
+
+[[tijdlijn]]
+datum = "2026-10-01"
+wat = "In Marseille wordt tijdens de blokkades van lycées een bus in brand gestoken [5]."
+
+[[tijdlijn]]
+datum = "2026-10-02"
+tijd = "9:18"
+wat = "De Nederlandstalige post met de video uit Nîmes [7]."
+
+[[tijdlijn]]
+datum = "2026-10-03"
+wat = "An-Nahar: de video is van januari 2023 [8]."
+
+[[tijdlijn]]
+datum = "2026-10-07"
+wat = "AFP Factcheck Nederland: de video toont geen scholierenprotesten [9]."
+
+[[tijdlijn]]
+datum = "2026-10-14"
+wat = "ZDFheute: de bus brandde in 2023 door een technisch defect [10]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "Objectif Gard (nu Objectif Sud)"
+titel = "VIDÉO Les images impressionnantes d'un bus qui prend feu ce vendredi à Nîmes"
+datum = "2023-01-13"
+url = "https://www.objectifsud.fr/faits-divers/nimes-un-bus-prend-feu-en-roulant-ce-vendredi-104278.php"
+archief = "https://web.archive.org/web/20261023014956/https://www.objectifsud.fr/faits-divers/nimes-un-bus-prend-feu-en-roulant-ce-vendredi-104278.php"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "TF1 Info"
+titel = "Nîmes: les images impressionnantes d'un bus scolaire qui prend feu, dix enfants évacués (titel naar de link)"
+datum = "2023-01-14"
+url = "https://www.tf1info.fr/justice-faits-divers/video-nimes-les-images-impressionnantes-d-un-bus-scolaire-qui-prend-feu-dix-enfants-evacues-2244966.html"
+archief = "https://web.archive.org/web/20261116110708/https://www.tf1info.fr/justice-faits-divers/video-nimes-les-images-impressionnantes-d-un-bus-scolaire-qui-prend-feu-dix-enfants-evacues-2244966.html"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Midi Libre"
+titel = "Les images impressionnantes du bus scolaire en flammes dans les rues de Nîmes (titel naar de link)"
+datum = "2023-01-13"
+url = "https://www.midilibre.fr/2023/01/13/video-les-images-impressionnantes-du-bus-scolaire-en-flammes-dans-les-rues-de-nimes-10924283.php"
+archief = "https://web.archive.org/web/20261020155005/https://www.midilibre.fr/2023/01/13/video-les-images-impressionnantes-du-bus-scolaire-en-flammes-dans-les-rues-de-nimes-10924283.php"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Sapeurs-pompiers du Gard op X"
+titel = "Post over het vuur in een bus op de route de Sauve"
+datum = "2023-01-13"
+url = "https://x.com/pompiersdugard/status/1613933164044455936"
+archief = "https://web.archive.org/web/20261003143557/https://x.com/pompiersdugard/status/1613933164044455936"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Made in Marseille"
+titel = "Blocus lycéen à Marseille : l'appel au calme après les violences et l'arrêt des transports"
+datum = "2026-10-01"
+url = "https://madeinmarseille.net/actualite/211785-mobilisation-lyceenne-a-marseille-lappel-au-calme-apres-les-violences-et-larret-des-transports/"
+archief = "https://web.archive.org/web/20261119141548/https://madeinmarseille.net/actualite/211785-mobilisation-lyceenne-a-marseille-lappel-au-calme-apres-les-violences-et-larret-des-transports/"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Al Jazeera (met AFP, AP en Reuters)"
+titel = "School protests spread as fires, blockades deepen unrest in France"
+datum = "2026-10-01"
+url = "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france"
+archief = "https://web.archive.org/web/20261111070245/https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandstalige post met de video"
+datum = "2026-10-02"
+prive = true
+archief = "https://web.archive.org/web/20261119153952/https://cdn.syndication.twimg.com/tweet-result?id=2105920288798163429&token=53rxz1nm7sr&lang=en"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "An-Nahar"
+titel = "الباص واصل سيره وهو يحترق... مشهد مخيف من احتجاجات طلاب فرنسا؟ النهار تتحقق FactCheck"
+datum = "2026-10-03"
+url = "https://www.annahar.com/factcheck/353698/الباص-واصل-سيره-وهو-يحترق-مشهد-مخيف-من-احتجاجات-طلاب-فرنسا-النهار-تتحقق-factcheck"
+archief = "https://web.archive.org/web/20261004124915/https://www.annahar.com/factcheck/353698/%D8%A7%D9%84%D8%A8%D8%A7%D8%B5-%D9%88%D8%A7%D8%B5%D9%84-%D8%B3%D9%8A%D8%B1%D9%87-%D9%88%D9%87%D9%88-%D9%8A%D8%AD%D8%AA%D8%B1%D9%82-%D9%85%D8%B4%D9%87%D8%AF-%D9%85%D8%AE%D9%8A%D9%81-%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%D8%A8-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AA%D8%AA%D8%AD%D9%82%D9%82-factcheck"
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Video van brandende schoolbus dateert van 2023 en toont geen scholierenprotesten in Frankrijk"
+datum = "2026-10-07"
+url = "https://factchecknederland.afp.com/doc.afp.com.D2D94CQ"
+archief = "https://web.archive.org/web/20261007100315/https://factchecknederland.afp.com/doc.afp.com.D2D94CQ"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "ZDFheute"
+titel = "Schulproteste in Frankreich: Fakes machen Stimmung im Netz"
+datum = "2026-10-14"
+url = "https://www.zdfheute.de/politik/ausland/frankreich-protest-schulen-gewalt-migranten-video-faktencheck-100.html"
+archief = "https://web.archive.org/web/20261116171938/https://www.zdfheute.de/politik/ausland/frankreich-protest-schulen-gewalt-migranten-video-faktencheck-100.html"

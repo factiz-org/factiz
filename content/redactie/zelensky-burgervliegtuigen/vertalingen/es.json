@@ -1,0 +1,46 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck zelensky-burgervliegtuigen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "0b687fa5a43702c5",
+ "veldafdrukken": {
+  "kop": "8a9503440bbe9f25",
+  "oordeel_zin": "77dfb633384eedc2",
+  "bewering": "55f4f3eea7911be3",
+  "kort": "4afacfdd59affa64",
+  "tekst": "d03ce597fc692860",
+  "niet_weten": "dbd2315df3004bfd",
+  "bereik": "a09275c1060a48da",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "504c46e9f0788fa2",
+  "beeld_bijschrift": "1d965a0ad6c55a81",
+  "beeld_alt": "a838d3bfd529db63"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky advirtió a las aerolíneas sobre drones sobre Rusia, no amenazó con derribar aviones",
+  "oordeel_zin": "Zelensky advirtió de que los drones ucranianos hacen inseguro el espacio aéreo ruso, pero añadió expresamente que Ucrania no amenaza a ningún avión civil [2] [3].",
+  "bewering": "Zelensky ahora amenaza incluso con derribar aviones civiles, algo con lo que Ucrania, por supuesto, ya tiene experiencia... #MH17",
+  "kort": "El 5 de septiembre circuló en X una publicación que dice que Zelensky amenaza con derribar aviones civiles, con el hashtag MH17 [1]. El 1 de septiembre Zelensky advirtió a las aerolíneas de que los drones ucranianos hacen inseguro el espacio aéreo ruso, y en el mismo discurso dijo que Ucrania no amenaza a ningún avión civil [2] [3]. En el caso del MH17, el consejo de la OACI señaló en 2025 a Rusia como responsable [10] [11].",
+  "tekst": "La publicación apareció el sábado 5 de septiembre a las 12:51 en X [1]. Cita una publicación en inglés del día anterior, con un vídeo de 51 segundos y la afirmación de que Zelensky amenaza a los aviones civiles [1]. La publicación neerlandesa lo convierte en que amenaza con derribarlos, y con el hashtag MH17 remite a la tragedia de 2014 [1]. El 18 de noviembre la publicación tenía 14.721 visualizaciones [1].\n\nSe trata del discurso de la noche de Zelensky del martes 1 de septiembre, con el vídeo en Telegram y una parte del texto en inglés en X a las 19:59 [13] [2]. En él advirtió a todas las aerolíneas que usan el espacio aéreo ruso, a todas las aseguradoras y a todos los que aún utilizan los grandes aeropuertos rusos: el espacio aéreo pasará a ser totalmente inseguro [2] [3]. El motivo que dio son los drones ucranianos, que volarán sobre Rusia a tal escala que la aviación deberá tenerlos en cuenta [3] [4]. Tres días antes había ordenado 1.000 drones diarios contra Rusia [4].\n\nEn el mismo discurso Zelensky dijo que Ucrania no amenaza a la aviación civil, \"not a single civilian aircraft\" [2]. En su propio texto, en inglés y en ucraniano, esa frase sigue directamente a la advertencia [2] [13]. Euronews y Meduza también recogen esas palabras [3] [4]. Según él, Ucrania no quiere que se pierdan vidas inocentes [2].\n\nUn día después, Ucrania comunicó formalmente a la OACI, la organización de aviación de las Naciones Unidas, que el espacio aéreo ruso es inseguro [6]. Las compañías turcas Pegasus y Turkish Airlines cancelaron vuelos desde y hacia Moscú [6]. Ese mismo día la OACI advirtió en términos generales de que crece el riesgo de que aviones civiles sean alcanzados por armas o queden atrapados en un fuego cruzado; no menciona ni a Rusia ni a Ucrania [7].\n\nTambién Putin vio en ello una amenaza: el 1 de septiembre calificó la advertencia de terrorismo de Estado [5]. Los planes de Ucrania sobre los que se ha informado tratan de cerrar el espacio aéreo, no de derribar aviones. Según The Atlantic, citado por The Insider, Ucrania preparaba un plan para bloquear el espacio aéreo sobre Moscú con hasta 1.000 drones en una sola noche, y Zelensky temía que un avión de pasajeros alcanzado se interpretara como piratería [8]. La oficina de Zelensky calificó ese reportaje, según Meduza, de completo disparate [14]. Según The Wall Street Journal, citado por The Week, Ucrania quiere hacer volar drones cerca de los aeropuertos rusos para paralizar despegues y aterrizajes [9]. Eso hace más peligroso volar sobre Rusia. No es una amenaza de derribar aviones.\n\nEl MH17 fue derribado el 17 de julio de 2014 sobre el este de Ucrania con un misil antiaéreo ruso, sobre territorio en manos de separatistas prorrusos [11]. Murieron 298 personas, entre ellas 196 neerlandeses [11]. El consejo de la OACI dictaminó el 12 de mayo de 2025, en un caso de los Países Bajos y Australia, que Rusia es responsable [10]. Lo que sí ocurrió es que funcionarios rusos y ucranianos señalaron en octubre de 2001 un misil como causa de la catástrofe de un avión de pasajeros ruso sobre el mar Negro, con 78 muertos [12]. El funcionario ucraniano dijo que probablemente fue un misil de un ejercicio ucraniano, disparado por error [12].",
+  "niet_weten": "La primera frase de la publicación, sobre qué objetivos atacan Rusia y Ucrania, es una afirmación propia que no verificamos aquí. No encontramos una verificación de otra redacción sobre esta afirmación, en siete idiomas y en más de veinte sitios.",
+  "bereik": "14.721 visualizaciones el 18 de noviembre",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Zelensky dice que ordenó 1.000 drones diarios contra Rusia [4].",
+   "Zelensky advierte a las aerolíneas en su discurso de la noche, con el vídeo en Telegram y el texto en X [13] [2].",
+   "Putin califica la advertencia de terrorismo de Estado [5].",
+   "Ucrania comunica a la OACI que el espacio aéreo ruso es inseguro; la OACI advierte en términos generales sobre armas contra aviones civiles [6] [7].",
+   "Una publicación en inglés dice que Zelensky amenaza a los aviones civiles [1].",
+   "La publicación neerlandesa con el hashtag MH17 [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 5 de septiembre de 2026, 12:51.",
+   "Volodymyr Zelensky en Telegram, 1 de septiembre de 2026: el vídeo del discurso de la noche con la advertencia a las aerolíneas."
+  ],
+  "beeld_alt": [
+   "Captura de pantalla de la publicación en X que dice que Zelensky amenaza con derribar aviones civiles, con el hashtag MH17 y la publicación en inglés citada. Sello: FALSO.",
+   "El vídeo del discurso de la noche de Zelensky del 1 de septiembre de 2026."
+  ]
+ }
+}

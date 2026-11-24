@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video of burning school bus was filmed in Nîmes in January 2023, not at the school student protests",
+  "oordeel_zin": "The video is real, but it shows a school bus that caught fire in Nîmes on January 13, 2023, because of a fire in the engine, with no protest nearby [1] [10].",
+  "bewering": "A burning bus at the school student protests in France.",
+  "kort": "On October 2, a video of a burning bus circulated on X as an image of the school student protests in France [7]. The video was filmed on January 13, 2023 in Nîmes, where the engine of a school bus caught fire while driving [1] [2]. There was no protest nearby, and the children on the bus got out unharmed [1] [8].",
+  "tekst": "On Friday, October 2, at 9:18, a Dutch-language post appeared on X with a video of a bus driving burning down a street, presented as a scene from the school student protests in France [7]. The same footage also circulated that day with Arabic text [8]. The American commentator Benny Johnson shared the video with his 4.1 million followers, with text saying this is the result of mass immigration [10].\n\nThe video is almost four years old: on Friday, January 13, 2023, around noon, a school bus caught fire on the route de Sauve in Nîmes, in the south of France [1]. The engine suddenly caught fire while the bus was driving [1]. The local news site Objectif Gard put a video of the burning bus online that day [1]. The footage in the post comes from there, according to the fact-checks by An-Nahar and ZDFheute [8] [10].\n\nThe bus carried ten pupils from a collège, a school for children aged 11 to 15 [2]. They and the driver had already left the bus when the fire brigade arrived, and nobody was injured [1] [8]. The empty bus rolled on for about 20 meters and came to a stop against a wall [8]. The fire brigade of the Gard department reported the fire on X that afternoon [4]. Midi Libre ran the footage that same evening, TF1 Info the day after [2] [3]. Objectif Gard names only the fire in the engine as the cause, ZDFheute a technical defect [1] [10].\n\nThe school student protests themselves are real: since the second half of September, students all over France have been blockading their lycées, in protest against overcrowded classes, a shortage of teachers and dilapidated buildings [6]. A bus also went up in flames in that context: in Marseille, on Thursday, October 1, a bus was set on fire during the blockades and the driver was attacked [5]. That bus is not in the video, because the video is from January 2023 and from Nîmes [1].\n\nThe Lebanese daily An-Nahar was the first fact-checker we found, on October 3 [8]. AFP Factcheck Nederland reached the same conclusion on October 7 [9].",
+  "niet_weten": "We do not know who first linked the video to the 2026 protests. Why the motorcycle caught fire, we did not find established. Whether the video had already circulated as protest footage after 2023, we do not know.",
+  "nog_uitzoeken": [
+   "Whether the video had already circulated as protest footage after January 2023. If so, it is a recurring claim."
+  ],
+  "tijdlijn": [
+   "A school bus catches fire while driving on the route de Sauve in Nîmes; the children get out unharmed [1].",
+   "The Gard fire brigade reports the fire on X [4].",
+   "TF1 Info runs the footage: ten children evacuated [2].",
+   "In Marseille, a bus is set on fire during the lycée blockades [5].",
+   "The Dutch-language post with the video from Nîmes [7].",
+   "An-Nahar: the video is from January 2023 [8].",
+   "AFP Factcheck Nederland: the video does not show school student protests [9].",
+   "ZDFheute: the bus burned in 2023 because of a technical defect [10]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, October 2, 2026, 9:18.",
+   "Objectif Gard (now Objectif Sud), January 13, 2023: the video of the burning school bus on the route de Sauve in Nîmes."
+  ],
+  "beeld_alt": [
+   "Still from the video: a bus on fire in the street. Stamp: FALSE.",
+   "The Objectif Gard video of the school bus that caught fire in Nîmes."
+  ]
+ }
+}

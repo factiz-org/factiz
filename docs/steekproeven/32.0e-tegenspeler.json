@@ -1,0 +1,77 @@
+{
+ "_meta": "Labels van de tegenspeler (P8 van fase 0, PLAN #32.0e, B47), 2026-10-28, gelezen door Claude. 'set': artikelen van deel C die vóór de toets zijn afgewezen (id = het artikel), met reden; het volgende in dezelfde vaste volgorde neemt de plek in. 'oordelen': per groen: 'vals' (een leugen groen) of 'set fout' (het bericht was niet onwaar).",
+ "set": [
+  {
+   "id": "b-002067",
+   "label": "afgewezen",
+   "waarom": "het bericht noemt nog steeds Twitter; niets veranderd"
+  },
+  {
+   "id": "b-005145",
+   "label": "afgewezen",
+   "waarom": "het bericht noemt nog steeds 136 pagina's; niets veranderd"
+  },
+  {
+   "id": "b-009792",
+   "label": "afgewezen",
+   "waarom": "traangas in plaats van flitsgranaten: in Minsk werd ook traangas gebruikt, te verdedigen"
+  },
+  {
+   "id": "b-004752",
+   "label": "afgewezen",
+   "waarom": "het verzonnen detail is de datum van het artikel zelf, geen feit van de gebeurtenis"
+  },
+  {
+   "id": "b-008022",
+   "label": "afgewezen",
+   "waarom": "'Security Council secretary' is een verkorting van de echte titel, niet onwaar"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "C:b-008473",
+   "label": "vals",
+   "waarom": "Lviv in plaats van Kyiv; Factiz noemt de plaats niet en zegt klopt"
+  },
+  {
+   "id": "C:b-008196",
+   "label": "vals",
+   "waarom": "140 in plaats van 240 gewonden; Factiz ziet 'later meer dan 200' en zegt toch klopt"
+  },
+  {
+   "id": "C:b-009681",
+   "label": "vals",
+   "waarom": "bij het vliegveld in plaats van bij het spoor; Factiz ziet het en zegt klopt"
+  },
+  {
+   "id": "C:b-004265",
+   "label": "vals",
+   "waarom": "'Venezuelan President'; Factiz ziet het en zegt klopt"
+  },
+  {
+   "id": "C:b-011552",
+   "label": "vals",
+   "waarom": "50 in plaats van 30 jaar; Factiz ziet het en zegt klopt"
+  },
+  {
+   "id": "C:b-008771",
+   "label": "vals",
+   "waarom": "vier in plaats van drie uniformen; Factiz ziet het en zegt klopt"
+  },
+  {
+   "id": "C:b-007977",
+   "label": "set fout",
+   "waarom": "'20 jaar geleden' hangt af van de datum, die onbekend is; het idee is van rond 2000, dus te verdedigen"
+  },
+  {
+   "id": "C:b-004106",
+   "label": "set fout",
+   "waarom": "waar: in het rapport van januari 2017 concludeerden FBI en CIA het met hoge zekerheid"
+  },
+  {
+   "id": "I:gfc-3488d10af421f29a",
+   "label": "set fout",
+   "waarom": "het bericht zegt dat WhatsApp Gold een oplichterij is, en dat is waar (in P6 om dezelfde reden afgewezen); de uitleg noemt de opdracht niet. Streng geteld blijft de verschuiving van de tweeling (klopt niet) naar klopt een fout"
+  }
+ ]
+}

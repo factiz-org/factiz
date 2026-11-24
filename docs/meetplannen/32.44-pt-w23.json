@@ -1,0 +1,60 @@
+{
+ "taak": "32.44-pt-w23",
+ "toelichting": "De 23 artikelen van W uit 32.43-pt die hun jaartal misten, opnieuw, nu met de datum van de pagina (PLAN #32.44, PO 2026-11-07: \"Ja, stap 1 en 2\"). Bij deze oudere artikelen staat de datum niet bovenaan maar als categorie van de publicatiedag onderaan de pagina; `talenset.artigo_wikinews` zet hem achter de kop, zoals bij de nieuwere artikelen (`python -m doublecheck.talenset datum --taal pt`). Dezelfde ids als in 32.43-pt. Vastgelegd vóór de eerste vraag. Eerst `draaien --proef 2`.",
+ "map": "data/meting/32.44-pt-w23",
+ "labels": "docs/steekproeven/32.44-pt-w23.json",
+ "budget": 1.0,
+ "zaad": 3250,
+ "sets": {
+  "W": {
+   "bron": "data/talen/vers/pt-w-datum.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v10",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [],
+ "waar": [
+  "W"
+ ],
+ "eisen": [
+  {
+   "naam": "1. W met datum: geen niet bevestigd (32.43-pt: 3 van deze 23)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 0
+  },
+  {
+   "naam": "2. W met datum: geen vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 0
+  }
+ ],
+ "zoekvragen_max": 100
+}

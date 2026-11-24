@@ -1,0 +1,1060 @@
+{
+ "_meta": "Labels van ronde 7, de bewijsronde (verificatie-v4, sonnet, a, b en w), PLAN #31.8, 2026-10-26, gelezen door Claude. Een waar stuk met klopt niet of let op: 'terecht' alleen als de set aantoonbaar fout is (de eigen tekst of het adres van de redactie spreekt het oordeel in de opmaak tegen, of het oordeel komt niet van een factchecker en betrouwbare bronnen spreken het tegen), anders 'vals'. klopt bij een onwaar stuk: 'vals', of 'bijschrift waar' als de tekst letterlijk klopt. klopt niet bij onwaar: 'bewijst' als de geciteerde bron het weerlegt. Bij twijfel het strengste label.",
+ "labels": [
+  {
+   "sleutel": "a:b-016195",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017545",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016259",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017367",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016455",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017656",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016203",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016264",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016260",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017323",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016387",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017189",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019237",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017103",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019379",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016269",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016221",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019154",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019319",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016610",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017106",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016889",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016685",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016842",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016256",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016993",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016715",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017559",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016607",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016630",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017149",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016648",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016435",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017290",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016922",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017567",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019271",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016629",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017542",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016912",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016673",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017451",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019426",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016709",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016776",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016479",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016878",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016386",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017533",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017465",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016891",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016338",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016834",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019339",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017647",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016293",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016614",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016339",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017164",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016642",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019368",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019080",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016718",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016284",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017444",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016332",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017350",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017022",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016705",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016263",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016605",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016854",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019477",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016486",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017692",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017472",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017384",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017188",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016536",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017433",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017611",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016407",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017063",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017440",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016294",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017224",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017552",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017448",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016566",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017147",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016292",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019137",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016427",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017721",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017069",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016575",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017304",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016799",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-020626",
+   "label": "terecht",
+   "waarom": "fout in de set: Lata Mangeshkar: Factly's eigen kop zegt 'she is alive as on 24 January 2022'; de opmaak zegt 'TRUE'; zij overleed op 6 februari"
+  },
+  {
+   "sleutel": "a:b-021123",
+   "label": "terecht",
+   "waarom": "fout in de set: ewedu: DUBAWA schrijft zelf 'do not pose as a definitive cure', Ripples Nigeria: 'False'; de opmaak zegt 'True'"
+  },
+  {
+   "sleutel": "a:b-020589",
+   "label": "terecht",
+   "waarom": "fout in de set: Nairobi Expressway: het oordeel 'True' komt van een livestreambericht op een entertainmentblog (Tambua, pagina weg); Kenyans.co.ke, The Star en Capital FM: op 8 mei alleen de aankondiging, proefopening 14 mei, officiële lancering 31 juli. Beslist de lat van a; streng gelezen een valse vlag"
+  },
+  {
+   "sleutel": "b:b-020626",
+   "label": "terecht",
+   "waarom": "fout in de set: Lata Mangeshkar: Factly's eigen kop zegt 'she is alive as on 24 January 2022'; de opmaak zegt 'TRUE'; zij overleed op 6 februari"
+  },
+  {
+   "sleutel": "b:b-021123",
+   "label": "terecht",
+   "waarom": "fout in de set: ewedu: DUBAWA schrijft zelf 'do not pose as a definitive cure', Ripples Nigeria: 'False'; de opmaak zegt 'True'"
+  },
+  {
+   "sleutel": "b:b-020589",
+   "label": "terecht",
+   "waarom": "fout in de set: Nairobi Expressway: het oordeel 'True' komt van een livestreambericht op een entertainmentblog (Tambua, pagina weg); Kenyans.co.ke, The Star en Capital FM: op 8 mei alleen de aankondiging, proefopening 14 mei, officiële lancering 31 juli. Beslist de lat van a; streng gelezen een valse vlag"
+  },
+  {
+   "sleutel": "b:b-021267",
+   "label": "vals",
+   "waarom": "Fact Crescendo noemt het waar (het besluit van december 2018); Sonnet muggenziftte zonder bron"
+  },
+  {
+   "sleutel": "b:b-021377",
+   "label": "vals",
+   "waarom": "Factly noemt het waar; Sonnet viel over een padieprijs die één jaar ernaast zit, terwijl de regel van v2 dat geen klopt niet noemt"
+  },
+  {
+   "sleutel": "b:b-021432",
+   "label": "vals",
+   "waarom": "Factly noemt het waar (de begroting van Uttar Pradesh); Sonnet keek naar de Pakistaanse begroting"
+  },
+  {
+   "sleutel": "b:b-021433",
+   "label": "vals",
+   "waarom": "Factly noemt het waar; Sonnet oordeelde op de datum 2015-06-15 uit onze set, die niet klopt (de stijging naar plaats 39 was in 2016)"
+  },
+  {
+   "sleutel": "b:b-020632",
+   "label": "terecht",
+   "waarom": "fout in de set: PesaCheck's adres zegt 'False. this video purporting to show president Kenyatta drunk'; de opmaak zegt 'TRUE'"
+  },
+  {
+   "sleutel": "b:b-021550",
+   "label": "vals",
+   "waarom": "PolitiFact noemt het waar; Sonnet viel over 'drie keer' bij tieners"
+  },
+  {
+   "sleutel": "b:b-021595",
+   "label": "vals",
+   "waarom": "PolitiFact noemt het waar; Sonnet vond 'duidelijk verband' te sterk"
+  },
+  {
+   "sleutel": "a:b-016490",
+   "label": "bijschrift waar",
+   "waarom": "de claim staat ontkend opgeschreven: Gates bezocht de tempel níét, zoals de checks zeggen"
+  },
+  {
+   "sleutel": "b:b-016490",
+   "label": "bijschrift waar",
+   "waarom": "de claim staat ontkend opgeschreven: Gates bezocht de tempel níét, zoals de checks zeggen"
+  },
+  {
+   "sleutel": "b:b-017528",
+   "label": "bijschrift waar",
+   "waarom": "ontkend opgeschreven: Gandhi noemde Rajput géén cricketer"
+  },
+  {
+   "sleutel": "b:b-017567",
+   "label": "bijschrift waar",
+   "waarom": "ontkend opgeschreven: SBI rekende in juni 2020 geen kosten"
+  },
+  {
+   "sleutel": "b:b-016673",
+   "label": "bijschrift waar",
+   "waarom": "historisch klopt het: Russisch sinds 1783, in 1954 aan de Oekraïense SSR; EUvsDisinfo wijst het verhaal erachter af"
+  },
+  {
+   "sleutel": "b:b-016629",
+   "label": "bijschrift waar",
+   "waarom": "de CDC bevestigde een paar sterfgevallen door TTS na Janssen; PesaCheck wees de grote cijfers uit VAERS af"
+  },
+  {
+   "sleutel": "b:b-016264",
+   "label": "vals",
+   "waarom": "het algemene klopt, het specifieke niet: Facebook vond geen beïnvloeding van de Brexit via Facebook; dat bewijst niet dat Rusland zich niet mengde"
+  },
+  {
+   "sleutel": "b:b-016642",
+   "label": "vals",
+   "waarom": "het algemene klopt, het specifieke niet: de gletsjerramp in Chamoli was echt, de video komt uit Nepal (Factly)"
+  },
+  {
+   "sleutel": "b:b-016912",
+   "label": "vals",
+   "waarom": "het algemene klopt, het specifieke niet: er was een pers in Sednaya, maar deze video komt uit een Turkse horrorgame (Logically Facts)"
+  },
+  {
+   "sleutel": "b:b-017323",
+   "label": "vals",
+   "waarom": "het algemene klopt, het specifieke niet: de afwijzingen kloppen, de 'dubbele standaard' en de voorrechten voor Kaboel niet bevestigd"
+  },
+  {
+   "sleutel": "b:b-017721",
+   "label": "vals",
+   "waarom": "het algemene klopt, het specifieke niet: de aardbeving van 20 april 2026 was echt, de virale video's niet (Fact Crescendo: misleidend)"
+  },
+  {
+   "sleutel": "b:b-016292",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017069",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016715",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019319",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019137",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017444",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017552",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016259",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016435",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017433",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016293",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017063",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019080",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019426",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016284",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016260",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016834",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017656",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016536",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016256",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016607",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017559",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017367",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019271",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016685",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017533",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017290",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017451",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016387",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019237",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016455",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016486",
+   "label": "bewijst niet",
+   "waarom": "alleen een kopie van een wiki en Grokipedia, geen betrouwbare bron"
+  },
+  {
+   "sleutel": "b:b-017692",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016605",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016332",
+   "label": "bewijst niet",
+   "waarom": "de bron bevestigt alleen de datum, niet dat de 200.000 doden onjuist zijn"
+  },
+  {
+   "sleutel": "b:b-016479",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016566",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017384",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016922",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016407",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017164",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016776",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016338",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie en klopt"
+  },
+  {
+   "sleutel": "b:b-016614",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie en klopt"
+  },
+  {
+   "sleutel": "b:b-016878",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie en klopt"
+  },
+  {
+   "sleutel": "b:b-017472",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie en klopt"
+  },
+  {
+   "sleutel": "b:b-019154",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie en klopt"
+  },
+  {
+   "sleutel": "w:e-39300",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-14917",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-13529",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-01412",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-03165",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-19055",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-02623",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-18062",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-00777",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-09934",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-12119",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-64934",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-02256",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-09967",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-09477",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-06296",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-08640",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-01671",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-06400",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-04139",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-12214",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-02859",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-07784",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-07314",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-00746",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-01608",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-00908",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-01476",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-33445",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-08235",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-12886",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-10189",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-05948",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-08927",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-10397",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-31223",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-19447",
+   "label": "bewijst niet",
+   "waarom": "alleen een verklaring van HIAS en factually.co, geen betrouwbare weerlegging"
+  },
+  {
+   "sleutel": "w:e-04581",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt de bewering"
+  },
+  {
+   "sleutel": "w:e-03804",
+   "label": "terecht",
+   "waarom": "reden 3; Copernicus spreekt de bewering wel rechtstreeks tegen (klopt niet was terecht geweest)"
+  },
+  {
+   "sleutel": "w:e-13778",
+   "label": "terecht",
+   "waarom": "reden 2; PolitiFact en Snopes spreken de versies tegen"
+  },
+  {
+   "sleutel": "w:e-03482",
+   "label": "bijschrift waar",
+   "waarom": "Manila Bay was eind 2022 nog vervuild (DENR); de checks gingen over een oude foto"
+  },
+  {
+   "sleutel": "w:e-16678",
+   "label": "bijschrift waar",
+   "waarom": "de CBP telde 307 mijl; factcheckers noemden het misleidend omdat bijna alles vervanging was"
+  }
+ ]
+}

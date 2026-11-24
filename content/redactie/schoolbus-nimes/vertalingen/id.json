@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video bus sekolah terbakar itu direkam di Nîmes pada Januari 2023, bukan pada protes pelajar",
+  "oordeel_zin": "Video itu asli, tetapi memperlihatkan bus sekolah yang terbakar di Nîmes pada 13 Januari 2023 akibat api di mesin, tanpa ada protes di sekitarnya [1] [10].",
+  "bewering": "Sebuah bus terbakar pada protes pelajar di Prancis.",
+  "kort": "Pada 2 Oktober, sebuah video bus terbakar beredar di X sebagai gambaran protes pelajar di Prancis [7]. Video itu direkam pada 13 Januari 2023 di Nîmes, ketika mesin sebuah bus sekolah terbakar saat bus sedang melaju [1] [2]. Tidak ada protes di sana, dan anak-anak di dalam bus keluar tanpa luka [1] [8].",
+  "tekst": "Pada Jumat, 2 Oktober pukul 09.18, muncul unggahan berbahasa Belanda di X berisi video sebuah bus yang melaju di jalan dalam keadaan terbakar, disajikan sebagai adegan dari protes pelajar di Prancis [7]. Rekaman yang sama hari itu juga beredar dengan teks berbahasa Arab [8]. Komentator Amerika Benny Johnson membagikan video itu kepada 4,1 juta pengikutnya, dengan keterangan bahwa ini akibat imigrasi massal [10].\n\nVideo itu berusia hampir empat tahun: pada Jumat, 13 Januari 2023, sekitar tengah hari, sebuah bus sekolah terbakar di route de Sauve di Nîmes, di Prancis selatan [1]. Mesinnya tiba-tiba terbakar saat bus sedang melaju [1]. Situs berita lokal Objectif Gard mengunggah video bus yang terbakar itu pada hari yang sama [1]. Dari sanalah rekaman dalam unggahan tersebut berasal, menurut pemeriksaan fakta An-Nahar dan ZDFheute [8] [10].\n\nDi dalam bus ada sepuluh siswa sebuah collège, yaitu sekolah untuk anak usia 11 sampai 15 tahun [2]. Mereka dan sopirnya sudah keluar dari bus ketika pemadam kebakaran tiba, dan tidak ada yang terluka [1] [8]. Bus kosong itu masih meluncur sekitar 20 meter dan berhenti menabrak tembok [8]. Dinas pemadam kebakaran departemen Gard melaporkan kebakaran itu sore harinya di X [4]. Midi Libre menayangkan rekamannya pada malam yang sama, TF1 Info keesokan harinya [2] [3]. Objectif Gard hanya menyebut api di mesin sebagai penyebab, ZDFheute menyebut kerusakan teknis [1] [10].\n\nProtes pelajar itu sendiri nyata: sejak paruh kedua September, pelajar di seluruh Prancis memblokade lycée mereka untuk memprotes kelas yang terlalu penuh, kekurangan guru, dan gedung yang rusak [6]. Dalam aksi itu sebuah bus juga terbakar: di Marseille, pada Kamis 1 Oktober, sebuah bus dibakar saat blokade dan sopirnya diserang [5]. Bus itu tidak ada dalam video, karena video tersebut berasal dari Januari 2023 dan dari Nîmes [1].\n\nSurat kabar Lebanon An-Nahar adalah pemeriksa fakta pertama yang kami temukan, pada 3 Oktober [8]. AFP Factcheck Nederland sampai pada kesimpulan yang sama pada 7 Oktober [9].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali mengaitkan video itu dengan protes tahun 2026. Mengapa sepeda motor itu terbakar, tidak kami temukan secara pasti. Apakah video itu setelah 2023 sudah lebih dulu beredar sebagai gambar protes, kami tidak tahu.",
+  "nog_uitzoeken": [
+   "Apakah video itu setelah Januari 2023 sudah lebih dulu beredar sebagai gambar protes. Jika ya, ini adalah klaim yang muncul kembali."
+  ],
+  "tijdlijn": [
+   "Sebuah bus sekolah terbakar saat melaju di route de Sauve di Nîmes; anak-anak keluar tanpa luka [1].",
+   "Pemadam kebakaran Gard melaporkan kebakaran itu di X [4].",
+   "TF1 Info menayangkan rekamannya: sepuluh anak dievakuasi [2].",
+   "Di Marseille, sebuah bus dibakar saat blokade lycée [5].",
+   "Unggahan berbahasa Belanda dengan video dari Nîmes [7].",
+   "An-Nahar: video itu berasal dari Januari 2023 [8].",
+   "AFP Factcheck Nederland: video itu tidak menampilkan protes pelajar [9].",
+   "ZDFheute: bus itu terbakar pada 2023 akibat kerusakan teknis [10]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 2 Oktober 2026, pukul 09.18.",
+   "Objectif Gard (kini Objectif Sud), 13 Januari 2023: video bus sekolah yang terbakar di route de Sauve di Nîmes."
+  ],
+  "beeld_alt": [
+   "Gambar diam dari video: sebuah bus terbakar di jalan. Cap: SALAH.",
+   "Video Objectif Gard tentang bus sekolah yang terbakar di Nîmes."
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Officiële Amerikaanse gegevens zouden aantonen dat mazelenvaccins sinds 1995 in verband worden gebracht met 1.700 procent meer sterfgevallen dan mazelenbesmettingen.",
+  "kern": [
+   "Het cijfer vergelijkt meldingen bij VAERS, een Amerikaanse database voor vaccinveiligheid waarin iedereen een melding kan indienen, met bevestigde sterfgevallen door mazelen, en deskundigen vertelden aan AFP dat zulke meldingen niet kunnen aantonen dat een vaccin een overlijden heeft veroorzaakt [1].",
+   "Grote veiligheidsstudies tonen aan dat ernstige bijwerkingen van het vaccin tegen mazelen, bof en rubella zeldzaam zijn [1]."
+  ],
+  "rondgang": "De bewering, afkomstig uit een artikel op Substack, verspreidde zich op X, Facebook en Instagram nadat de Pan American Health Organization had vastgesteld dat de Verenigde Staten niet langer voldoen aan de criteria voor mazeleneliminatie [1]."
+ }
+}

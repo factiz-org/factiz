@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Tidak ada konfirmasi bahwa Rusia menuntut di Abu Dhabi agar Finlandia keluar dari NATO",
+  "oordeel_zin": "Klaim ini berasal dari laporan Bild yang mengutip sumber tanpa nama, dibantah Kremlin, dan presiden serta menteri pertahanan Finlandia menyatakan tidak mengetahui adanya tuntutan semacam itu [7] [8] [10] [17].",
+  "bewering": "BREAKING: Rusia telah menyampaikan sebagian syaratnya untuk MENGAKHIRI perang Ukraina:  - Finlandia keluar dari NATO.  - Tidak ada pangkalan NATO di negara-negara Baltik.  - Seluruh Donbas diserahkan kepada Rusia.  Sebagai imbalannya, Rusia akan MENARIK senjata nuklirnya dari Belarus.",
+  "kort": "Pada 13 November, unggahan di X menyajikan sebagai fakta bahwa Rusia menuntut dalam perundingan damai di Abu Dhabi agar Finlandia keluar dari NATO [2] [4] [5]. Klaim ini berasal dari laporan surat kabar Jerman Bild pagi itu, yang tidak menyebutkan nama sumbernya dan menyatakan tidak diketahui apakah Presiden Putin mendukung usulan tersebut [1] [7]. Kremlin membantahnya, dan presiden Finlandia mengatakan ia tidak pernah mendengar tuntutan semacam itu dari seorang pun warga Rusia [8] [17] [18].",
+  "tekst": "Pada pagi hari 13 November, Bild melaporkan bahwa Rusia menginginkan Finlandia keluar dari NATO, tidak ada pangkalan NATO di Estonia, Latvia, dan Lituania, serta seluruh wilayah Donbas, dan sebagai imbalannya akan menarik senjata nuklirnya dari Belarus [1] [6] [7]. Menurut Yle, lembaga penyiaran publik Finlandia, Bild menyebut usulan itu berasal dari lingkaran dalam Putin dan disampaikan secara tidak resmi kepada perwakilan Eropa di Abu Dhabi [6]. Di kanal berbahasa Rusia miliknya, Bild menyebutnya sebagai salah satu dari beberapa usulan dari kelompok perantara yang saling bersaing [1].\n\nPada pukul 11.03 UTC, sebuah akun bernama Bedouin Report mengunggah apa yang disebut syarat-syarat Rusia dengan kata BREAKING, tanpa sumber [2]. Pada saat itu, Kremlin sudah membantahnya [8]. Pada pukul 10.48 UTC, kantor berita Azerbaijan APA mengutip juru bicara Dmitry Peskov yang mengatakan bahwa tuntutan semacam itu tidak diajukan [8] [9].\n\nMenteri Pertahanan Finlandia Antti Häkkänen mengatakan pada 13 November bahwa ia tidak memiliki informasi apakah tuntutan itu diajukan [10]. Pada 17 November, Presiden Alexander Stubb mengatakan bahwa itu bukan klaim yang perlu ditanggapi serius dalam bentuk apa pun, dan bahwa ia tidak mendengarnya dari seorang pun warga Rusia, menurut surat kabar Ilta-Sanomat [17] [18].\n\nMedia berbahasa Rusia Echo, yang juga mengutip sumber tanpa nama, menulis bahwa satu kelompok perunding memberikan kepada pihak Eropa sebuah daftar yang mencakup kembalinya Finlandia ke statusnya sebelum menjadi anggota NATO [12]. The New York Times memperoleh sebuah dokumen Rusia bertanggal 10 November yang meminta NATO menarik pasukan dan pangkalannya ke posisi tahun 1997, tetapi artikelnya tidak menyebut Finlandia [13] [14].\n\nFinlandia bergabung dengan NATO pada April 2023, dan berdasarkan Perjanjian Atlantik Utara hanya anggota itu sendiri yang dapat menyampaikan pemberitahuan untuk keluar [9] [16].",
+  "niet_weten": "Kami tidak tahu siapa sumber Bild, atau apakah ada pihak di Abu Dhabi yang mengajukan tuntutan semacam itu kepada pihak Eropa [6] [7]. Artikel lengkap Bild hanya untuk pelanggan; paragraf pembukanya menyebut usulan itu berasal dari pembicaraan tidak resmi dan dari lingkaran Putin [19], dan selebihnya kami ketahui dari kanal berbahasa Rusia milik Bild dan media lain [1] [6] [7]. Kremlin adalah pihak dalam perundingan, sehingga bantahannya tidak menyelesaikan pertanyaan ini [8].",
+  "bereik": "1.580 suka pada unggahan yang ditampilkan dan 4.987 pada unggahan dengan suka terbanyak yang kami baca, per 23 November",
+  "nog_uitzoeken": [
+   "Siapa sumber Bild, dan apakah ada pemerintah Eropa yang hadir di Abu Dhabi yang membenarkan atau membantah telah menerima daftar semacam itu.",
+   "Apakah dokumen Rusia lengkap yang diperoleh The New York Times menyebut sesuatu tentang Finlandia. Artikelnya tentang dokumen itu tidak menyebutnya.",
+   "Kami ragu antara Belum terbukti dan Menyesatkan. Unggahan-unggahan itu mengubah laporan bersumber tanpa nama, yang dibantah Kremlin, menjadi fakta, dan itu mengarah ke Menyesatkan; apakah tuntutan itu diajukan tidak diketahui, dan itu membuat kami memilih Belum terbukti."
+  ],
+  "tijdlijn": [
+   "Perundingan antara Rusia, Ukraina, dan Amerika Serikat dimulai di Abu Dhabi [15].",
+   "Perundingan berakhir. Inggris, Prancis, Jerman, dan Italia hadir, tetapi tidak berunding langsung dengan pihak Rusia [10] [15].",
+   "Bild melaporkan bahwa Rusia menginginkan Finlandia keluar dari NATO, tanpa menyebut nama sumbernya [1] [6] [7].",
+   "APA melaporkan bantahan Peskov: tuntutan semacam itu tidak diajukan [8].",
+   "Bedouin Report mengunggah apa yang disebut syarat-syarat Rusia sebagai berita BREAKING, tanpa sumber [2].",
+   "Visegrád 24 mengunggah klaim tersebut dan menyebut Bild [3].",
+   "Häkkänen di parlemen: tidak ada informasi bahwa tuntutan itu diajukan [10].",
+   "Perdana Menteri Orpo: pertanyaan semacam itu tidak pantas dibawa ke meja perundingan [11].",
+   "The New York Times melaporkan sebuah dokumen Rusia yang meminta NATO kembali ke posisi tahun 1997; artikelnya tidak menyebut Finlandia [14].",
+   "Stubb di Berlin: bukan klaim yang perlu ditanggapi serius, dan ia tidak pernah mendengarnya dari seorang pun warga Rusia [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 13 November 2026, 11.03 UTC."
+  ],
+  "beeld_alt": [
+   "Sebuah unggahan di X oleh akun Bedouin Report dengan kata BREAKING, berisi daftar apa yang disebutnya syarat-syarat Rusia untuk mengakhiri perang di Ukraina, diawali dengan Finlandia keluar dari NATO. Cap: BELUM TERBUKTI."
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck army-cadets-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "610f12eb8fc652ca",
+ "veldafdrukken": {
+  "kop": "981c7653097d8efb",
+  "oordeel_zin": "515871080d5eac60",
+  "bewering": "8b1304f42967ca1c",
+  "kort": "7f86ed5ec1c5030f",
+  "tekst": "56457584bd7bc04e",
+  "niet_weten": "549459f8f8ab8e86",
+  "bereik": "9be15c70e4bf9915",
+  "nog_uitzoeken": "430f1263b12fe863",
+  "tijdlijn": "8cfdb758e3d6cc9e",
+  "beeld_bijschrift": "1617bb751dd34fba",
+  "beeld_alt": "f1e7ab436a8a5ac2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Whitehall'da yürüyen kolu gösteren video, İngiliz askerlerini değil, Remembrance Sunday'de geçit töreninde yürüyen genç ordu kadetlerini gösteriyor",
+  "oordeel_zin": "İlk klip, Whitehall'daki Remembrance Sunday geçit töreninde yürüyen Army Cadet Force gönüllülerini gösteriyor; bunlar silahlı kuvvetlerin parçası olmayan gençler, İngiliz asker değil [3] [4] [5].",
+  "bewering": "İngiliz ve Rus yürüyüş yöntemlerini karşılaştırın. İlk 3 klip İngiltere'den. Rezalet!",
+  "kort": "14 Kasım'dan beri X'teki paylaşımlar, Londra'da kamuflaj üniformalı bir kolun adımları birbirine uymadan yürüdüğünü gösteriyor [2]. 15 Kasım'da bir hesap, bu klibi Kızıl Meydan'daki Rus askerlerinin yanına koyarak İngiliz yürüyüşüne örnek olarak sundu [1]. Yürüyenler, 8 Kasım 2026'da Remembrance Sunday'de Whitehall'daki geçit töreninde yer alan, genellikle 12 ile 18 yaşları arasındaki ve silahlı kuvvetlerin parçası olmayan kadetlerdir [3] [5]. Bunu, önünden geçtikleri anıttan ve Suffolk Army Cadet Force'un aynı gruba ait bir fotoğrafından biliyoruz [4] [8].",
+  "tekst": "15 Kasım 2026 Pazar günü Alternative News hesabı X'te \"İngiliz ve Rus yürüyüş yöntemlerini karşılaştırın. İlk 3 klip İngiltere'den.\" metniyle bir video paylaştı [1]. Videonun geri kalanı Moskova'daki Kızıl Meydan'da Rus birliklerini gösteriyor [1]. İlk klip bir gün önce, RadioGenoa hesabının onu \"Londra'daki İngiliz Ordusu kadetleri pek uyumlu görünmüyor\" diye paylaşmasıyla dolaşıma girmişti [2]. Rusya ile yapılan karşılaştırmada kadet sözcüğü kalmamış [1].\n\nKlip Whitehall'da çekildi. Kol, Whitehall'ın ortasında duran İkinci Dünya Savaşı Kadınları Anıtı'nın önünden geçiyor [2] [8]. En öndeki bir kadet haşhaş çelengi taşıyor [2]. Pazar günü, 8 Kasım'da, Whitehall'daki Cenotaph'ta Ulusal Anma Töreni yapıldı [6]. Görevdeki personel Cenotaph geçit törenine katılamaz [7].\n\nYürüyen gruplardan biri, Suffolk Army Cadet Force ile Westbourne Academy Combined Cadet Force'un birleşik müfrezesiydi [3]. Suffolk ACF'nin galerisindeki bir fotoğraf, müfrezeyi Whitehall'da videodakiyle aynı düzende gösteriyor: solda önde madalyalı bir yetişkin, sağda önde Army Cadet Force çelengi taşıyan bir kadet [4]. Videonun bu grubu gösterdiğini düşünüyoruz. İspanyol doğrulama kuruluşu Maldita, 16 Kasım'da videoyu aynı galeriyle karşılaştırdı ve aynı sonuca vardı [13].\n\nHer iki kadet teşkilatına da sponsor olan Savunma Bakanlığı'na göre kadetler genellikle 12 ile 18 yaşları arasındadır ve silahlı kuvvetlerin parçası değildir [5].",
+  "niet_weten": "Videoyu Whitehall'da kimin çektiğini ve ilk olarak nerede paylaşıldığını bilmiyoruz. Grubu, yüzlere göre değil, kolun düzenine ve çelenge göre eşleştirdik. Derlemedeki ikinci ve üçüncü İngiliz kliplerini belirleyemedik [1].",
+  "bereik": "22 Kasım'da 2.612 beğeni ve 308 yanıt; 14 Kasım'daki Whitehall klibinin ilk paylaşımı 9.494 beğeni ve 1.355 yanıt aldı",
+  "nog_uitzoeken": [
+   "Videoyu 8 Kasım'da Whitehall'da kimin çektiği ve ilk olarak nerede paylaşıldığı.",
+   "Derlemedeki ikinci klipte kırmızı kuşaklı siyah tören üniformalı gençlerin kim olduğu ve üçüncü klibin nerede ve ne zaman çekildiği.",
+   "RadioGenoa'nın ikinci videosunun 14 Kasım 2026'daki Lord Mayor's Show sırasında Royal Courts of Justice önünde çekilip çekilmediği ve orada hangi kadetlerin yürüdüğü.",
+   "Yanıltıcı ile Bağlam eksik arasında tarttık. RadioGenoa yine de yürüyenlere kadet demişti, ancak Rus askerlerinin yer aldığı paylaşım, kimin yürüdüğünü söylemeden klipleri İngiliz yürüyüşü olarak sunuyor. Klipler hakkında daha fazla bilginiz varsa lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Suffolk Army Cadet Force Londra'ya varıyor ve altılı sıralar halinde prova yapıyor [3].",
+   "Cenotaph'taki Ulusal Anma Töreni'nde iki dakikalık saygı duruşu [6].",
+   "Suffolk ACF ve Westbourne Academy CCF Whitehall'da yürüyor [3] [4].",
+   "Suffolk ACF, hafta sonuna ilişkin raporunu ve fotoğraflarını yayımlıyor [3] [4].",
+   "RadioGenoa, Whitehall'daki videoyu İngiliz Ordusu kadetleri olarak paylaşıyor [2].",
+   "Mario Nawfal bunu Birleşik Krallık savaşçılarının geleceği olarak yeniden paylaşıyor [9].",
+   "Lord Mayor's Show alayı Royal Courts of Justice'e doğru ilerliyor [12].",
+   "Alternative News, klibi Kızıl Meydan'daki Rus askerlerinin yanında paylaşıyor [1].",
+   "Maldita: İngiliz yürüyüşçüler Army Cadet Force gönüllüleri [13].",
+   "RadioGenoa, Londra'daki kadetlerin ikinci bir videosunu paylaşıyor [10].",
+   "Başka bir hesap ikinci videoyu paylaşıyor [11]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 15 Kasım 2026, Birleşik Krallık saatiyle 11.42.",
+   "armycadets.com üzerinde Suffolk Army Cadet Force, 11 Kasım 2026: Londra'daki hafta sonuna ait galeri; müfreze Remembrance Sunday'de Whitehall'da yürüyor."
+  ],
+  "beeld_alt": [
+   "Alternative News'in İngiliz ve Rus yürüyüşünü karşılaştıran X paylaşımı ve Londra'daki Whitehall videosundan bir kare: önde deniz üniformalı bir adam, arkasında kamuflaj üniformalı bir kadet kolu, yanda bir polis memuru ve seyirciler. Damga: YANILTICI.",
+   "Suffolk Army Cadet Force'un, müfrezesinin 8 Kasım 2026'da Whitehall'da yürürken çekilmiş fotoğrafı; önde madalyalı bir yetişkin ve Army Cadet Force çelengi taşıyan bir kadet."
+  ]
+ }
+}

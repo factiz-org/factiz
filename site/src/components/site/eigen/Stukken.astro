@@ -1,0 +1,10 @@
+---
+// Een zin van een eigen factcheck uit haar stukken (`app.stukken`, `platform/eigen.ts`): tekst, het nummer van een bron
+// als verwijzing naar de lijst onderaan, en wat een mens nog moet nagaan, gemarkeerd. Geen HTML uit de tekst zelf.
+import { maakT } from '../../../lib/teksten.js';
+const { s = [], taal } = Astro.props;
+const t = maakT(taal);
+---
+{s.map((d) => 'n' in d
+  ? <sup class="fz-eigen-noot"><a href={`#bron-${d.n}`} aria-label={t('eigen_bron_link', { n: d.n })}>{d.n}</a></sup>
+  : 'nodig' in d ? <mark class="fz-eigen-nodig">{t('eigen_nodig')} {d.nodig}</mark> : d.t)}

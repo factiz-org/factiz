@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck zelensky-83-woningen-nepkrant van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "258bc8cd7a0fcb29",
+ "veldafdrukken": {
+  "kop": "8333e22cf577ae58",
+  "oordeel_zin": "78108081cbfc0e71",
+  "bewering": "54a13059e8d2990c",
+  "kort": "e9a0b8cf00354a54",
+  "tekst": "f6fff83855e118af",
+  "niet_weten": "f821f2e45c9cfde9",
+  "bereik": "3bcfb46d32eb5f4e",
+  "nog_uitzoeken": "92b9391908ff1ac6",
+  "tijdlijn": "7b4cefec3eab0353",
+  "beeld_bijschrift": "1b0a42ebf9f5ad3f",
+  "beeld_alt": "c3e89ee60646a5ec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Cerita tentang 83 properti Zelensky di luar negeri berasal dari situs berita Inggris tiruan",
+  "oordeel_zin": "Sumbernya adalah situs yang didaftarkan dua belas hari sebelum cerita itu muncul, dan NABU menyatakan perempuan dalam video itu tidak bekerja di sana [3] [6].",
+  "bewering": "Mantan kepala badan antikorupsi Ukraina: Zelensky memiliki 6 properti di Spanyol, 14 di Britania Raya, 21 di Prancis, 8 di Italia, dan 34 di Uni Emirat Arab.",
+  "kort": "Pada 7 September beredar di X sebuah video yang konon berisi pengungkapan seorang mantan pegawai badan antikorupsi Ukraina bahwa Zelensky memiliki 83 properti di lima negara [1]. Cerita itu bermula pada Agustus 2025 di londontelegraph.uk, sebuah situs yang didaftarkan dua belas hari sebelumnya dan memasang foto curian di samping nama penulisnya [3] [4]. Badan itu menyatakan perempuan dalam video tersebut tidak bekerja di sana, dan dalam laporan harta kekayaan Zelensky tidak ada jejak 83 properti di luar negeri [6] [9] [10].",
+  "tekst": "Unggahan itu muncul pada Senin, 7 September pukul 05.58 di X, dengan video berdurasi 77 detik [1]. Menurut teksnya, seorang mantan kepala badan antikorupsi Ukraina mengatakan bahwa Zelensky memiliki 6 properti di Spanyol, 14 di Britania Raya, 21 di Prancis, 8 di Italia, dan 34 di Uni Emirat Arab [1]. Totalnya 83. Pada 18 November unggahan itu telah ditonton 39.340 kali [1]. Dalam tangkapan gambar video itu, perempuan tersebut bernama Olena K., dari National Anti-Corruption Bureau of Ukraine, dan teks terjemahan Prancis menyebutnya penyelidik di badan itu [1]. Hanya teks unggahan yang menjadikannya mantan kepala [1].\n\nCerita ini lebih tua daripada unggahan tersebut. Pada 26 Agustus 2025 beredar di X sebuah video berbahasa Inggris tentang Olena K., mantan penyidik NABU, Biro Antikorupsi Nasional Ukraina [2]. Ia disebut melarikan diri ke Eropa dengan membawa ribuan halaman bukti bahwa Zelensky, lewat perusahaan cangkang, membeli lebih dari 100 properti senilai total 1,2 miliar dolar [5]. Sebagai sumber, video itu menyebut sebuah artikel The London Telegraph [2]. Artikel itu menyebut angka yang sama dengan unggahan tersebut, kecuali untuk Spanyol: 26, bukan 6, sehingga totalnya 103 [2]. Pada April 2026 muncul versi yang lebih pendek dengan 83 properti, mula-mula dalam bahasa Polandia dan Jerman [6] [13].\n\nThe London Telegraph bukan surat kabar. Nama londontelegraph.uk didaftarkan pada 14 Agustus 2025, dua belas hari sebelum artikel itu terbit [3]. Di samping nama penulisnya dipasang foto Helen Brown, jurnalis Inggris yang antara lain menulis untuk The Daily Telegraph dan tidak ada sangkut pautnya dengan artikel itu [4]. Menurut Euronews, di situs itu hampir tidak ada apa-apa selain tulisan tunggal ini, dan suara berbahasa Inggris dalam video 2025 terdengar dibuat komputer [5]. Pendaftaran domain itu berakhir pada 14 Agustus 2026 [3].\n\nPerempuan dalam video itu tidak bekerja di NABU. Hal itu disampaikan NABU kepada Correctiv, dan seorang juru bicara juga mengatakannya kepada AFP [6] [13]. Menurut NABU, tidak ada pegawai saat ini maupun mantan pegawai yang menerbitkan dokumen tentang properti Zelensky di luar negeri [6]. Dokumen yang tampak buram dalam gambar itu, menurut Myth Detector, adalah dokumen yang diperlihatkan Kejaksaan Ukraina dan dinas keamanan SBU pada 22 Juli 2025 [8]. Dokumen itu berasal dari penggeledahan di keluarga anggota parlemen Fedir Khrystenko, dalam perkara kebocoran data NABU, dan tidak menyangkut Zelensky [7].\n\nApa yang dimiliki Zelensky tercantum dalam laporan harta kekayaan yang ia umumkan setiap tahun. Laporan untuk tahun 2025 terbit pada 30 Maret 2026 [10]. Di dalamnya ada apartemen di Kyiv, dua di antaranya dimiliki bersama [9] [10]. Di luar Ukraina, Slovo i Dilo dan Fakty ICTV menyebut satu hunian: sebuah apartemen di Inggris Raya, atas nama Olena Zelenska [9] [10]. Menurut Slovo i Dilo, pasangan itu memegangnya sejak 2014 dalam bentuk leasehold, hak penggunaan menurut hukum Inggris [9]. Pada 2025 tidak ada perubahan berarti pada properti itu [9] [10]. Memang, perusahaan Italia San Tommaso, yang tercantum dalam laporan Zelensky, pada 2017 membeli sebuah vila di Forte dei Marmi; itu dilaporkan RFE/RL pada 2019 berdasarkan Slidstvo.info [14]. Menurut Slovo i Dilo, Olena Zelenska hingga kini masih menjadi penerima manfaat akhir perusahaan itu [9]. Apakah vila itu masih dimiliki, kami tidak tahu. Bahkan dengan vila itu, paling banyak hanya satu properti di Italia, bukan delapan.\n\nCerita 2025 juga menyebut Timur Mindich, pemilik bersama perusahaan produksi Kvartal 95 dan kenalan lama Zelensky [2] [12]. Sejak November 2025 NABU menjalankan penyelidikan sungguhan terhadap Mindich, soal suap di perusahaan negara Energoatom [12]. Direktur NABU Semen Kryvonos mengatakan pada 12 Mei 2026 bahwa Zelensky tidak muncul dalam penyelidikan itu dan tidak pernah muncul [11]. Fakta bahwa Mindich menjadi tersangka tidak membuat cerita tentang 83 properti itu menjadi benar.\n\nLead Stories, Euronews, Myth Detector, Demagog, dan Correctiv sebelumnya menyebut cerita ini salah [2] [5] [6] [8] [13]. Pemeriksaan fakta dalam bahasa Belanda tidak kami temukan.",
+  "niet_weten": "Kami tidak tahu siapa yang membuat video-video itu. Menurut NewsGuard, yang dikutip oleh Demagog, situs tersebut tampak seperti hasil kerja Storm-1516, sebuah operasi pengaruh Rusia; hal itu tidak dapat kami periksa sendiri [13]. Menurut Slovo i Dilo, Olena Zelenska juga merupakan penerima manfaat akhir dari perusahaan-perusahaan di Siprus, Italia, dan Belize [9]. Perusahaan di Italia itu membeli sebuah vila pada tahun 2017; apakah vila itu masih dimilikinya, tidak disebutkan dalam pemberitaan tersebut [14]. Dan kami menemukan satu unggahan berbahasa Belanda; berapa banyak jumlahnya, kami tidak tahu.",
+  "bereik": "Ditonton 39.340 kali pada 18 November",
+  "nog_uitzoeken": [
+   "Apakah NABU memiliki pernyataan sendiri tentang video itu. Saat ini pernyataan itu hanya sampai melalui CORRECTIV dan AFP; di situs NABU kami tidak menemukannya."
+  ],
+  "tijdlijn": [
+   "Kejaksaan dan SBU memperlihatkan dokumen tentang NABU dari penggeledahan di keluarga anggota parlemen Fedir Khrystenko [7].",
+   "Nama londontelegraph.uk didaftarkan [3].",
+   "Artikel di londontelegraph.uk dan video berbahasa Inggris tentang Olena K. muncul [2].",
+   "Lead Stories menyebut cerita itu salah [2].",
+   "NABU mengumumkan penyelidikan suap di Energoatom; Mindich menjadi tersangka [12].",
+   "Versi dengan 83 properti muncul dalam bahasa Polandia dan Jerman di X [6] [13].",
+   "NABU menyatakan Zelensky tidak muncul dalam penyelidikan Energoatom [11].",
+   "Pendaftaran londontelegraph.uk berakhir [3].",
+   "Unggahan berbahasa Belanda dengan 83 properti [1]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 7 September 2026, pukul 05.58."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar unggahan di X dengan teks tentang 83 properti Zelensky di lima negara dan sebuah gambar dari video berisi perempuan dengan wajah disamarkan dan keterangan Olena K., National Anti-Corruption Bureau of Ukraine. Cap: SALAH."
+  ]
+ }
+}

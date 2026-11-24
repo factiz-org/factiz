@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar de) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Bilder und ein Video, die online geteilt werden, zeigen die Krim-Brücke zerbrochen nach dem ukrainischen Angriff darauf im November 2026.",
+  "kern": [
+   "Die Ukraine hat die Krim-Brücke am 17. November 2026 tatsächlich angegriffen und schwer beschädigt, aber die kursierenden Bilder und das Video zeigen diesen Schaden nicht. [1] [2] [3]",
+   "Ein Bild eines abgetrennten Brückenteils stimmt nicht mit den Trümmern in dem vom ukrainischen Sicherheitsdienst veröffentlichten Filmmaterial überein, und ein Erkennungswerkzeug fand darin ein unsichtbares KI-Wasserzeichen. [1]",
+   "Ein Video, das wie von einer Drohne gefilmt wirkt, unterscheidet sich von echten Aufnahmen der eingestürzten Brücke und trägt Wasserzeichen, die auf KI hindeuten, und ein weiteres Foto stimmt mit einem Bild der Brücke von 2019 auf Wikipedia überein und wurde wahrscheinlich mit KI verändert. [2] [3]"
+  ],
+  "rondgang": "Ab dem 18. November 2026 verbreiteten sich die Bilder auf Facebook, X und Instagram, unter anderem auf Englisch, Spanisch und Polnisch. [1] [2] [3]"
+ }
+}

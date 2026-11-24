@@ -1,0 +1,397 @@
+{
+ "toelichting": "PLAN #32.42, Portugees: elk rood en oranje, elk groen bij O en K en elke niet bevestigd bij W, W-merk en G, gelabeld tegen de genoemde bronnen; blind gelezen door deelagenten met dezelfde regels; een alarm met de eigen check als bron bewijst zichzelf (meting.auto_label).",
+ "labels": {
+  "G:pt-002436#C": {
+   "label": "vals",
+   "toelichting": "Gewone marktcommentaar over druk op de maïsprijs; CNN Brasil en Canal Rural, door de machine zelf geciteerd, melden precies dit."
+  },
+  "G:pt-010478#C": {
+   "label": "vals",
+   "toelichting": "De Perszaal van de Heilige Stoel gaf in mei 2013 een communiqué uit over de samenwerking van de CDF en de congregatie voor het godgewijde leven (Müller en Braz de Aviz, over de LCWR), gemeld door VIS."
+  },
+  "G:pt-012286#C": {
+   "label": "vals",
+   "toelichting": "Productnieuws dat TudoCelular en Revista Áudio & Vídeo melden; geen bewering waarover grote media zouden schrijven, dus niet bevestigd is fout."
+  },
+  "G:pt-013119#C": {
+   "label": "vals",
+   "toelichting": "Nike bracht in 2012 een NFL Draft Pack uit, zoals de machine zelf zegt; sneakernieuws dat betrouwbare media niet per se melden, en niets wijst erop dat het onwaar is."
+  },
+  "G:pt-019592#C": {
+   "label": "vals",
+   "toelichting": "Het gaat om de Honor 30 Pro+, die bij DxOMark 125 punten haalde, tweede achter de Huawei P40 Pro (128), zoals GSMArena en Notebookcheck melden."
+  },
+  "K:gfc-c485fb546c8c64f9#C": {
+   "label": "bewijst",
+   "toelichting": "De check van Boatos.org gaat over precies deze bewering: alleen op de president stemmen en blanco op de rest maakt de stem niet ongeldig."
+  },
+  "O:gfc-0175a110b0c40ef6#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, GZH en de deelstaat noemen 300 lichamen in Canoas vals en Agência Brasil geeft het echte dodental."
+  },
+  "O:gfc-01ab1bb0eab92e72#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, AFP, GZH en het ministerie melden dat het lab door de Fundação Saúde van de deelstaat Rio is ingehuurd, niet door de federale regering."
+  },
+  "O:gfc-0889b9df8e466409#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova en Correio melden dat Braga Netto niet als president is beëdigd."
+  },
+  "O:gfc-187da31a1819a43a#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en Outback zelf waarschuwen dat de quiz met de voucher van 64,90 oplichting is."
+  },
+  "O:gfc-195d8a43990ec769#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão en Comprova tonen dat Moraes een uitspraak van extremisten citeerde, niet zijn eigen plan."
+  },
+  "O:gfc-1a52139f4d6ca3a4#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Aos Fatos en AFP: de brandweerwagen is niet gestolen en er is geen losgeld geëist; de video toont een tumult op oudejaarsavond."
+  },
+  "O:gfc-1cde8068633f8f27#C": {
+   "label": "bewijst",
+   "toelichting": "De Clubes Militares ontkennen de nota, gemeld door Estadão, Lupa en het Clube Militar zelf."
+  },
+  "O:gfc-1f0e7f833d54088f#C": {
+   "label": "bewijst",
+   "toelichting": "AFP en Estadão: de werkzaamheden in de Serra das Araras begonnen al voor de oproep tot de demonstratie, niet om demonstranten te stoppen."
+  },
+  "O:gfc-27c241534f9ef780#C": {
+   "label": "bewijst",
+   "toelichting": "Het TCM schorste de aanbesteding in januari 2023 en gaf haar op 28 juni 2023 vrij, ongeveer vijf maanden en geen jaar."
+  },
+  "O:gfc-286c0308d7734405#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, BBC en UOL noemen de fraudeclaims van Cerimedo onwaar; Aos Fatos gaat over deze Portugese influencer in de Senaat."
+  },
+  "O:gfc-29ebdf284fe8252a#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa meldt dat de lichtshow geen Chinees geschenk voor de Spelen was en de video uit 2022 stamt."
+  },
+  "O:gfc-2b20e20a7c7e92ff#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, Poder360 en UOL: Moraes vroeg nooit habeas corpus aan bij de STM, en de militaire rechter berecht geen STF-rechters."
+  },
+  "O:gfc-2feac1e2d6e4c334#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, UOL en Lupa tonen dat een levering ongeveer R$ 1,8 mil kost, niet R$ 20 mil."
+  },
+  "O:gfc-30048a4a1dcf3733#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, UOL en de regering: de donaties uit Portugal zijn niet geweigerd, maar vervoerd en vrijgesteld van belasting."
+  },
+  "O:gfc-38b26d5c66f0f57f#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão meldt dat de beelden van 8 januari niet gelekt zijn door de VS en niet bewijzen dat de PT de inval opzette."
+  },
+  "O:gfc-398227fcdc992ac8#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en UOL: CCR sloot de Dutra niet om demonstranten tegen te houden; de werkzaamheden stonden al gepland."
+  },
+  "O:gfc-3b313031ec6e4727#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova, Estadão en Lupa tonen dat Lula niet zei dat hij R$ 300 miljard uitgaf om gekozen te worden."
+  },
+  "O:gfc-3d0a7a71fdafe2ad#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão, UOL en Randolfe zelf: hij kreeg twee vaccins, een in elke arm, en deed dus niet alsof."
+  },
+  "O:gfc-405ed673833b5e02#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Estadão en Pleno.News melden dat Nikolas Ferreira de video niet opnam en dat het een oplichting is."
+  },
+  "O:gfc-52447d770f19fb9c#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Lupa en Estadão: het gesprek tussen Moraes en een Oracle-ingenieur over het omdraaien van de uitslag is verzonnen."
+  },
+  "O:gfc-55952a59d242ea53#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão en Agência Mural tonen dat de tekst apocrief is en de oudere urnen wel geaudit zijn."
+  },
+  "O:gfc-56d76a544cd01158#C": {
+   "label": "bewijst",
+   "toelichting": "Itaú zelf noemt het bericht over de leegloop van klanten in Minas Gerais op zijn eigen blog vals."
+  },
+  "O:gfc-5c134559cf003f5f#C": {
+   "label": "bewijst",
+   "toelichting": "Exame, DW en anderen leggen uit dat onderzeese kabels zelf data via glasvezel doorgeven, zonder satellieten."
+  },
+  "O:gfc-5ee7c9c68bb3b99e#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, UOL/Comprova en anderen: de regering kocht geen drones om branden te stichten; de video toont een drone voor gecontroleerd branden."
+  },
+  "O:gfc-5f1ba86bc65fdb3b#C": {
+   "label": "set fout",
+   "toelichting": "De zin zelf klopt (stakende INSS-medewerkers kregen loonkorting); het misleidende deel, het weglaten dat dit ook onder Bolsonaro gebeurde, staat niet in de tekst."
+  },
+  "O:gfc-618a7a8318320e1b#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Estadão en Aos Fatos: het TSE heeft de onverkiesbaarheid niet opgeheven; Bolsonaro blijft onverkiesbaar tot 2030."
+  },
+  "O:gfc-6c192cd704d35d87#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Estadão en Aos Fatos tonen dat Lula alleen de medewerkers van het Planalto bedoelde."
+  },
+  "O:gfc-7016641adbee3515#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Folha, Estadão en UOL: de vrouw in de video is niet Marília Gabriela."
+  },
+  "O:gfc-78a01378246ba1a3#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, Comprova en Agência Tatu melden dat Rayssa Leal haar medaille niet aan Bolsonaro opdroeg."
+  },
+  "O:gfc-7f7f631d1e7f6d2c#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova en Estadão: gevaccineerden hebben geen dubbele kans op covid; de video verdraait een studie."
+  },
+  "O:gfc-81a0efcdf1b4920a#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Lupa, Estadão en UOL melden dat vinagre de álcool de denguemug niet weert."
+  },
+  "O:gfc-8547e57e2c49cbe7#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: de video van de kus tussen Bolsonaro en Kid Bengala is met AI gemaakt."
+  },
+  "O:gfc-90c20bd6ca43a62c#C": {
+   "label": "bewijst",
+   "toelichting": "UOL meldt dat Metrópoles dit bericht over Musk en de kijkcijfers van Globo nooit publiceerde."
+  },
+  "O:gfc-92552e2022219666#C": {
+   "label": "bewijst",
+   "toelichting": "FGV en Estadão: het Amerikaanse Congres gaf de STF geen 48 uur en kan Moraes niet beboeten of laten arresteren."
+  },
+  "O:gfc-980aa9f99f451e57#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão en AFP tonen dat de foto een montage is van een projectie uit 2022 voor Lula."
+  },
+  "O:gfc-9ad75bd1decce77b#C": {
+   "label": "vals",
+   "toelichting": "Het bericht koppelt de watermassa bij Iguaçu aan de overstroming in Rio Grande do Sul, maar het park zegt zelf dat er geen verband is; toch groen."
+  },
+  "O:gfc-a728919ffd0ef2d9#C": {
+   "label": "bewijst",
+   "toelichting": "De deelstaat, Dmae, Lupa en Estadão noemen het vals dat het kraanwater door lijken in het Guaíba onveilig is."
+  },
+  "O:gfc-a73af1d31010dd3c#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Lupa en Estadão: het Bolsa Família kreeg geen dubbele verhoging ten opzichte van de pensioenen."
+  },
+  "O:gfc-ad9e54a64b4c1729#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt het vals dat Covid-vaccins abortusmiddelen bevatten, de kern van het verhaal over Japan en Gates."
+  },
+  "O:gfc-ade86935ad6f9ffa#C": {
+   "label": "bewijst niet",
+   "toelichting": "Geen bron gaat over een quiz van Apple: de ene gaat over Mercado Livre, de andere is een algemene nieuwsbrief over quizoplichting."
+  },
+  "O:gfc-b8072ff06018009c#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en Estadão noemen het vals dat ivermectine de werking van het vaccin of de spikeproteïne uit het lichaam haalt."
+  },
+  "O:gfc-c3d8ecee5da4b6ac#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, UOL en Aos Fatos: het account van O Globo op X is niet geschorst."
+  },
+  "O:gfc-c5b88de4fcd4d11c#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão (Comprova) noemt de theorie over een dubbelganger van Lula, met de DNA-test, vals; er is geen DNA-test."
+  },
+  "O:gfc-cdfcb626f7600276#C": {
+   "label": "set fout",
+   "toelichting": "In de kern klopt het: de notaris meldt elke vastgoedverkoop via de DOI aan de Receita, alleen maandelijks en niet meteen; de valse delen van de video zijn andere punten."
+  },
+  "O:gfc-d5035f558e6a192a#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão en Lupa tonen dat Lula het over de valutareserves had, niet over eigen geld."
+  },
+  "O:gfc-db5305bc6c1deb52#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, Lupa en GZH: dit is de 'Golpe da Saraiva', geen echte actie van Saraiva."
+  },
+  "O:gfc-dec0e4d7b626bc5b#C": {
+   "label": "bewijst",
+   "toelichting": "De Receita Federal en Secom ontkennen een belasting op Pix en een MP verbiedt die; er kwam geen nieuwe belasting."
+  },
+  "O:gfc-df6303f21278e4c0#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos en Lupa: Lula vroeg om de stemlijsten in Venezuela en zei niet dat hij de Braziliaanse stemmachines niet vertrouwt."
+  },
+  "O:gfc-e1124621c5903ca1#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos en UOL tonen dat de WHO geen grens van 22 weken stelt en wetten met zo'n grens afraadt; de zin is de onware bewering, niet de correctie."
+  },
+  "O:gfc-e134dea9f542dd07#C": {
+   "label": "vals",
+   "toelichting": "De goede bronnen citeren Moraes met 'prender en enforcar'; 'arrastar pelos cabelos' staat alleen op zwakke sites, en het valse citaat kreeg toch groen."
+  },
+  "O:gfc-e14376e80f05e6b9#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova, Estadão en GZH melden dat de video van Lula en de hond een montage is."
+  },
+  "O:gfc-e2f782d092ff8be1#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão, UOL en CNN: Lula zei niet dat hij het Chinese communisme wil invoeren; het interview is verdraaid."
+  },
+  "O:gfc-e60df31bd538807e#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters en Quote Investigator tonen dat Burke deze zin niet zei."
+  },
+  "O:gfc-e7b9fa64e519ff05#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova, AFP en Aos Fatos: de man in de video is niet de MST-leider maar een ex-kandidaat van de PRTB in een satirische video."
+  },
+  "O:gfc-eec5da33374bc9fb#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa meldt dat het bericht naar een oplichterssite met 'geredde' banden uit de overstroming leidt."
+  },
+  "O:gfc-f18b2311dc1b3fe6#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt deze waarschuwing over fraude met Boulos een oud, ontkracht gerucht dat opnieuw rondgaat."
+  },
+  "O:gfc-f532ab8cf0739446#C": {
+   "label": "bewijst",
+   "toelichting": "UOL meldt dat Procon Mercado Livre niets oplegde en dat de airco's voor R$ 259 een oplichting zijn."
+  },
+  "O:gfc-f7d1c644639e48ec#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: de video van Cármen Lúcia is oud en laat geen terugtrekkende rechter door het 'effect Musk' zien."
+  },
+  "O:gfc-fa8ff01676ae69c2#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en Guarulhos Todo Dia melden dat de G1-pagina vals is en de uitverkoop van Carrefour een oplichting."
+  },
+  "O:gfc-fb77aeac78a00d06#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Aos Fatos en Lupa: paus Franciscus heeft deze uitspraak over eten met Pasen niet gedaan."
+  },
+  "O:gfc-fe12af37e56963eb#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Estadão en Aos Fatos melden dat de PF geen kisten met miljarden dollars van Cuba voor de PT vond."
+  },
+  "O:gfc-fe2610a301e77077#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en Correio do Estado: er is geen bewijs voor een geheime lijst; de gegevens over zwarte regen zijn openbaar."
+  },
+  "W:wikinews:pt:23106#C": {
+   "label": "vals",
+   "toelichting": "Agência Brasil en Congresso em Foco meldden op 20 augustus 2009 dat Lula in een radio-interview ontkende dat de PT in crisis was."
+  },
+  "W:wikinews:pt:32434#C": {
+   "label": "vals",
+   "toelichting": "UNICEF zelf (officiële bron, door de machine geciteerd) en Agência Brasil melden het rapport van 30 november 2010."
+  },
+  "W:wikinews:pt:35364#C": {
+   "label": "vals",
+   "toelichting": "Gewone uitslagen van de derde ronde van het Paulistão 2012, die g1 en Globo Esporte melden; de machine bevestigde ze zelf met een site zonder band."
+  },
+  "W:wikinews:pt:37762#C": {
+   "label": "vals",
+   "toelichting": "Een fractievergadering van de PSB in 2013 die de PSB zelf (psbnacional.org.br) meldde; de machine zocht in 2025 door de nieuwskoppen eromheen."
+  },
+  "W:wikinews:pt:40208#C": {
+   "label": "vals",
+   "toelichting": "Een Wikinews-artikel op basis van Agência Brasil (Lusa) over coalitiebombardementen op IS in Irak in oktober 2014, gewoon nieuws dat zulke media meldden; de bijgeplakte koppen zijn echte Wikinews-koppen."
+  },
+  "W:wikinews:pt:43474#C": {
+   "label": "vals",
+   "toelichting": "VOA Português meldde de uitspraak van de UNITA-deputada, en de machine vond haar zelf via Club-K."
+  },
+  "W:wikinews:pt:47911#C": {
+   "label": "vals",
+   "toelichting": "Dilma noemde een impeachment zonder misdrijf op 9 mei 2016 in Goiânia een 'interrupção ilegal e usurpadora', gemeld door Agência Brasil en de Blog do Planalto."
+  },
+  "W:wikinews:pt:49395#C": {
+   "label": "set fout",
+   "toelichting": "Alleen een paginatitel over de verkiezing in Wyoming zonder bewering, plus nieuwskoppen uit 2025 die bij het ophalen zijn meegekomen."
+  },
+  "W:wikinews:pt:51782#C": {
+   "label": "vals",
+   "toelichting": "Angola sloot in 2017 de grens met de DRC in Lunda Norte na de aanvallen van de Kamwina Nsapu-milities; Ver Angola en de VN melden dat, en de heropening een jaar later."
+  },
+  "W:wikinews:pt:51995#C": {
+   "label": "vals",
+   "toelichting": "Vals alarm: het IBGE en G1 meldden op 1 juni 2017 dat het bbp na twee jaar krimp 1% groeide; de machine vergeleek met 2025 door de koppen eromheen."
+  },
+  "W:wikinews:pt:54310#C": {
+   "label": "vals",
+   "toelichting": "Agência Brasil meldde in januari 2018 dat de groothandel in São Paulo in november ruim duizend banen schiep; de machine citeerde dat artikel zelf, de overige koppen zijn paginamenu."
+  },
+  "W:wikinews:pt:59670#C": {
+   "label": "vals",
+   "toelichting": "Agência Brasil meldde in november 2019 dat de termijn voor het Questionário do Estudante van Enade afliep; de machine keek alleen naar een kop over Gibraltar eromheen."
+  },
+  "W:wikinews:pt:66553#C": {
+   "label": "vals",
+   "toelichting": "Vals alarm: het IBGE meldde op 12 november 2020 dat de slacht van runderen in het derde kwartaal van 2020 met 10,8% daalde en die van varkens met 7% steeg; de machine vergeleek met 2025."
+  },
+  "W:wikinews:pt:66885#C": {
+   "label": "vals",
+   "toelichting": "Folha en G1 meldden in november 2020 de vaccinpolemieken van Bolsonaro en Trump; de machine keek alleen naar de koppen uit 2025 eromheen."
+  },
+  "W:wikinews:pt:70173#C": {
+   "label": "vals",
+   "toelichting": "Senado Notícias en de Câmara dos Deputados meldden op 10 maart 2021 dat het TCU-rapport vier werken in de begroting van 2021 blokkeerde; de machine citeerde ze zelf."
+  },
+  "W:wikinews:pt:70969#C": {
+   "label": "vals",
+   "toelichting": "ANEEL besloot in maart 2021 tot de opschorting, wat Agência Brasil en G1 meldden; de datum past, dus niet bevestigd is fout."
+  },
+  "W:wikinews:pt:72267#C": {
+   "label": "vals",
+   "toelichting": "Jornal da USP, en ook g1 en Folha, meldden in 2021 dat Serrana na de massavaccinatie de economie zag herstellen; de machine citeerde Jornal da USP zelf."
+  },
+  "W:wikinews:pt:72750#C": {
+   "label": "vals",
+   "toelichting": "Agência Brasil en CNN Brasil, door de machine zelf geciteerd, melden precies deze kop."
+  },
+  "W:wikinews:pt:80051#C": {
+   "label": "vals",
+   "toelichting": "De VS kondigden op 23 juni 2022 een militair steunpakket van 450 miljoen dollar voor Oekraïne aan, gemeld door Reuters, AP en Agência Brasil."
+  },
+  "WM:01dd647ddc50#C": {
+   "label": "vals",
+   "toelichting": "Een kop van g1 zelf; R7 en andere media melden dezelfde operatie in São Pedro da Aldeia, met 73 tot 76 kg in hun telling."
+  },
+  "WM:02367e3d4dd8#C": {
+   "label": "vals",
+   "toelichting": "g1 en O Liberal melden dat de PT-voorzitter van Tailândia 43 dagen na de schietpartij in zijn kantoor overleed; de machine vond het zelf bij regionale media."
+  },
+  "WM:0b984bfd109d#C": {
+   "label": "vals",
+   "toelichting": "FC Barcelona zelf, A Bola, Record en UOL melden de verlenging tot 2030."
+  },
+  "WM:17680de50dc0#C": {
+   "label": "vals",
+   "toelichting": "Een echte kop van Folha deze week; ook PlatôBR meldt dat de Fazenda de ANTT onder druk zet over de opening van het wegvervoer."
+  },
+  "WM:199ac4612192#C": {
+   "label": "vals",
+   "toelichting": "DN, Renascença en SOL melden dat de PGR zegt dat 30 apparaten na drie jaar ontoegankelijk zijn."
+  },
+  "WM:1c89e1d030e1#C": {
+   "label": "vals",
+   "toelichting": "De recensie staat in Folha (blog Mise-en-scène, 5 november 2026), wat de machine zelf via een archiefkopie vond."
+  },
+  "WM:1e4004e484cb#C": {
+   "label": "vals",
+   "toelichting": "Jornal de Negócios meldt dat de regering terugkeert naar de oplossingen uit het voorontwerp voor platformwerk."
+  },
+  "WM:85d60f27d1fe#C": {
+   "label": "vals",
+   "toelichting": "g1, Correio do Estado en Campo Grande News melden dat de ex-chef van de Defron doelwit was van de operatie Infiltrados II naar het wegsluizen van drugs."
+  },
+  "WM:e0e8117a0c8e#C": {
+   "label": "vals",
+   "toelichting": "O Globo en Jornal de Brasília melden dat Marília Mendonça vijf jaar na haar dood records in streaming houdt."
+  },
+  "WM:ede880ea6047#C": {
+   "label": "vals",
+   "toelichting": "Een echte kop van Público (de podcast Diplomatas) over de nederlaag van de Republikeinen bij de tussentijdse verkiezingen; Público meldt het zelf."
+  },
+  "WM:f915f48e64c1#C": {
+   "label": "vals",
+   "toelichting": "CNN Brasil, ge.globo.com en Lance melden de arrestatie van Réver op het vliegveld van Porto Alegre."
+  }
+ }
+}

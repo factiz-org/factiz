@@ -1,0 +1,215 @@
+{
+ "_meta": "De Duitse oordelen in zinsvorm (P10 van fase 0, PLAN #32.0g, B47), 2026-10-27, gelezen door Claude: de vaste steekproef van 50 uit talen.steekproef. 'label' is de categorie die het oordeel van de redactie uitdrukt (dezelfde zeven als verdicts.py); waar het van Haiku afwijkt staan 'haiku' en 'waarom' erbij. De omzetting staat in data/talen/duits.jsonl, niet in de database (B22, DR1).",
+ "oordelen": [
+  {
+   "id": "45005",
+   "label": "onwaar"
+  },
+  {
+   "id": "72028",
+   "label": "onwaar"
+  },
+  {
+   "id": "65788",
+   "label": "onwaar"
+  },
+  {
+   "id": "35651",
+   "label": "onwaar"
+  },
+  {
+   "id": "37907",
+   "label": "onwaar"
+  },
+  {
+   "id": "55233",
+   "label": "onwaar"
+  },
+  {
+   "id": "65014",
+   "label": "onwaar"
+  },
+  {
+   "id": "59959",
+   "label": "onwaar",
+   "haiku": "deels-waar",
+   "waarom": "de tabel bewijst geen gebrek aan effect; de werking is bevestigd, dus de bewering is onwaar, niet deels waar"
+  },
+  {
+   "id": "15519",
+   "label": "onwaar"
+  },
+  {
+   "id": "54527",
+   "label": "onwaar"
+  },
+  {
+   "id": "68293",
+   "label": "onwaar"
+  },
+  {
+   "id": "63000",
+   "label": "onwaar"
+  },
+  {
+   "id": "53970",
+   "label": "misleidend",
+   "haiku": "onwaar",
+   "waarom": "aangifte doen kan iedereen; dat het slaagt is zeer onwaarschijnlijk: technisch waar, misleidend"
+  },
+  {
+   "id": "62263",
+   "label": "onwaar"
+  },
+  {
+   "id": "54786",
+   "label": "onwaar"
+  },
+  {
+   "id": "67006",
+   "label": "onwaar",
+   "haiku": "misleidend",
+   "waarom": "'het verhaal erachter niet': de bewering zelf is onwaar, de foto is oud"
+  },
+  {
+   "id": "72042",
+   "label": "misleidend"
+  },
+  {
+   "id": "55843",
+   "label": "misleidend"
+  },
+  {
+   "id": "46480",
+   "label": "onwaar"
+  },
+  {
+   "id": "68075",
+   "label": "onwaar"
+  },
+  {
+   "id": "54196",
+   "label": "onwaar"
+  },
+  {
+   "id": "65673",
+   "label": "onwaar"
+  },
+  {
+   "id": "66859",
+   "label": "onwaar"
+  },
+  {
+   "id": "36138",
+   "label": "onwaar"
+  },
+  {
+   "id": "45826",
+   "label": "onwaar"
+  },
+  {
+   "id": "67748",
+   "label": "onwaar"
+  },
+  {
+   "id": "53827",
+   "label": "onbewezen",
+   "haiku": "onwaar",
+   "waarom": "'keinerlei Belege' voor de peiling: geen bewijs, zoals bij 36014"
+  },
+  {
+   "id": "56093",
+   "label": "onwaar"
+  },
+  {
+   "id": "66078",
+   "label": "onwaar"
+  },
+  {
+   "id": "50080",
+   "label": "onwaar"
+  },
+  {
+   "id": "35779",
+   "label": "onwaar"
+  },
+  {
+   "id": "67574",
+   "label": "onwaar"
+  },
+  {
+   "id": "80314",
+   "label": "misleidend"
+  },
+  {
+   "id": "39292",
+   "label": "onwaar"
+  },
+  {
+   "id": "66209",
+   "label": "onwaar"
+  },
+  {
+   "id": "79506",
+   "label": "onwaar"
+  },
+  {
+   "id": "36014",
+   "label": "onbewezen"
+  },
+  {
+   "id": "55178",
+   "label": "onwaar"
+  },
+  {
+   "id": "49115",
+   "label": "onwaar"
+  },
+  {
+   "id": "80143",
+   "label": "onwaar"
+  },
+  {
+   "id": "39864",
+   "label": "onwaar"
+  },
+  {
+   "id": "80759",
+   "label": "misleidend"
+  },
+  {
+   "id": "73815",
+   "label": "onwaar",
+   "haiku": "deels-waar",
+   "waarom": "de waarschuwing van de arts is ongegrond: extreem onwaarschijnlijk, dus onwaar, niet deels waar"
+  },
+  {
+   "id": "71450",
+   "label": "onwaar"
+  },
+  {
+   "id": "34150",
+   "label": "onwaar"
+  },
+  {
+   "id": "57653",
+   "label": "onwaar"
+  },
+  {
+   "id": "58073",
+   "label": "onwaar"
+  },
+  {
+   "id": "67912",
+   "label": "onwaar"
+  },
+  {
+   "id": "62906",
+   "label": "onwaar"
+  },
+  {
+   "id": "52968",
+   "label": "misleidend"
+  }
+ ]
+}

@@ -1,0 +1,1157 @@
+{
+ "toelichting": "#34.2j: de tweede leesproef van 'Waarom het niet klopt', eigen werk. Per pagina van Factiz (een nummer uit de publicatiedatabase) een label per getoond punt: gedragen, zwak of niet_gedragen, met een korte noot in het Nederlands; gelezen door Claude op 12 november 2026, tegen de weerlegging van EUvsDisinfo, met dezelfde maatstaf als de eerste leesproef. Alleen wat de site zou tonen: de punten na regels-v2 en de tweede lezer (lezing-v2, Haiku). De punten zelf schreef Sonnet uit die weerleggingen; ze staan niet in dit bestand. Herkomst van de weerleggingen: EUvsDisinfo (EEAS), de Mendeley-snapshot onder CC BY 4.0.",
+ "versie": "waarom-v3",
+ "model": "sonnet",
+ "regels": "regels-v2",
+ "lezer": "lezing-v2/haiku/medium",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-12",
+ "steekproef": "200 pagina's die iets tonen na regels-v2 en lezing-v2, zaad 34212 (LEESZAAD), zonder de 200 van de eerste leesproef",
+ "maatstaf": {
+  "gedragen": "de weerlegging zegt alles in het punt, schrijft het toe aan dezelfde persoon of instantie, en het is een reden tegen de bewering; een gevolgtrekking die rechtstreeks uit het citaat volgt, mag",
+  "niet_gedragen": "iets wat er niet staat, een verschoven of toegevoegde toeschrijving, een weggelaten voorbehoud dat de betekenis verandert, een eigen gevolgtrekking die er niet uit volgt, of een feit dat leest als toegeving aan de bewering; twijfel telt streng",
+  "zwak": "het klopt maar legt weinig uit: elk 'The claim offers no evidence'-punt, 'terugkerend verhaal', 'ongegrond' of 'samenzwering', achtergrond zonder reden, en een punt dat de context mist om iets te zeggen"
+ },
+ "paginas": {
+  "b0de55478c739237": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "[0] mist waarom Lipski ertoe doet (zijn steun aan Joodse emigratie kwam voort uit de steun aan het zionisme); [1] het terugkerende verhaal"
+  },
+  "7421005fee09bf5e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "bbbe963a8c7453a5": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9f882a48229994b6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "fdbd22e411aa18d5": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "337d4662e631160b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c900271e1247c3e4": {
+   "punten": [
+    "gedragen",
+    "niet_gedragen"
+   ],
+   "noot": "[1] 'only Communist ideology was banned': de weerlegging zegt dat Oekraïne de communistische ideologie verbood en de Russische cultuur niet, niet dat alleen die ideologie verboden is (een toegevoegd 'only')"
+  },
+  "02ab6a0cf3d71775": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e4be62fb7d99452e": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "b2d4bda5ed86975c": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "1a55e50fc0ec6f1a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c4088054cda7cccd": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "27360d2b47a780f4": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U.S.')"
+  },
+  "c2b3f88c87d43cef": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "zegt niet welke activiteit (de gezamenlijke commandopost, al in februari 2019 afgesproken)"
+  },
+  "fd85c81dc329c21f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "994bf62d292cc348": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "4172cb57f7e952dd": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0ba2011c87c73744": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8db3903e73bf844e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "0e6b8f06dc0707f6": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "gaat over verkiezingsfraude, niet over de inmenging uit de bewering; zonder context zegt het weinig"
+  },
+  "681cc5ade2c9fc47": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d01910e0047b4b65": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "3a00e00db6bf1009": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d363b85acc40028f": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "09aa2cda68ed9266": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "24c2b1f505c76faa": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "3d0e2664b57affdd": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] het terugkerende verhaal"
+  },
+  "06ca942fda014363": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "675ca986f633991b": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "2721ca65c7a48fd4": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "4751e1d7ef06a383": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "b2e3a6f8343c7f8e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e8c9acc87f6b5324": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ffb95720a4533625": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1d7edbc3e24ef7ec": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "edd9df13e0dcf5b3": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f0d5b054eb474dd1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "68f5f852c2e462d0": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U.S.')"
+  },
+  "dfa570ccb7fb987e": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "b77fb1b88ffb4194": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "74febe70ae30e1f8": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "b2e4f7746a31999b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a8e1c35206cb8d91": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "5c560faa193e0fbc": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "ab7849c35f9f3f7d": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "b5e7a8b26a49464c": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U.S.')"
+  },
+  "fb6506c1871caa85": {
+   "punten": [
+    "niet_gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] laat weg dat Turchynov opriep bloed te geven 'with the defenders of Ukraine', en voegt toe 'not because of war preparations', dat de weerlegging niet zegt (eigen gevolgtrekking)"
+  },
+  "7ee6df7763a9f144": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "4fa5e7729c1794d2": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "2efa2d94227e57ea": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "7210d050f3696bd2": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "aedd54bfc99171af": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "335eaec2d9a4e23c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "809b053efde4345e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "78a3ab47ffa4714d": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "40ee7dbe53ef0f30": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "817ec45623a80a23": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "9f925613366f3ff2": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "229c5134ce2542e0": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1ca190536aa5706e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "119e725e3d61cffa": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9ec49fe6cc33e413": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "7088a3d2d247e697": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "[0] alleen de context van de uitspraak; [1] waarom pro-Kremlinmedia Lévy aanvallen, geen reden tegen de bewering"
+  },
+  "1666aae9f233e27a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d59d8ae6e3f63ca4": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ebdc834a51b7e8c3": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "681c1266ac46dce6": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "556b4272c8e2a52c": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "220833256de349f3": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "659b4e81886297b4": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "3de9f141214f46c6": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "662d873319305774": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "4d1082cb54827d6d": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d4abc4bf455c7b1f": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "77615545f98f8d88": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "cfde5e4ac79ade84": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "56e487c0530dd0e0": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen dat het een campagne is die afleidt"
+  },
+  "67e30a855623a4bd": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "af0644bc893dda1e": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f0b261e557746af7": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f4bf0f94d10bb632": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "2841e254a67966c8": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "5676787950f07609": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "a3a216abebff016b": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen wie het zegt, niets over de bewering"
+  },
+  "e60663b0bdc948bd": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "33389e681dc814e1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "976b3cf57d8799bd": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ca007020bcdd2093": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[1] in de weerlegging staat het in dezelfde zin als wat het ministerie verklaart; de natuurlijke lezing, maar niet zeker"
+  },
+  "7e809eed938d8916": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c2e629102f1c5bfb": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "0be823b71769bdaf": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ed9f41d0d3712296": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7ec6694171a5d3b6": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "76d5f36eea46b7e1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "6f3bb445d1739ebf": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U.S.')"
+  },
+  "996c36bfe34f4f79": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a1b4758632bedd25": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'not microchips' zegt de weerlegging zelf, niet de stichting, maar het volgt rechtstreeks uit wat de stichting zei"
+  },
+  "e39094a08180db2a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "aa31116c608c1674": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8277e6152d5836a9": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "cf3c9f88dd995995": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "16ef75febda80b74": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "018d4d3dc75c9ddb": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "83af252d70142a18": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "20acfbcc6a91e593": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "gaat over steenkool, de bewering over gas; de gasvoorraad (26 miljard m3) en dat Kyiv sinds 2015 geen gas van Gazprom koopt, ontbreken"
+  },
+  "82d299c2c99dfde1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "37b581dc702291c0": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'at Kyiv's request' is een parafrase van 'did not help Kyiv in stopping'; een ontkenning, geen nieuw feit"
+  },
+  "52d222130e4bc902": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8e02dd366883b3b3": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a12dc232a3765bb8": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "0a3b436a0577eaf6": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "21898dd53fdad5aa": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "a165a9ad01d6ff6f": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f3e9bd632f8ec604": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d72d54f64b65ed48": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "055359384f84b780": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1bfc744ce8dcea0e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f121acff1ac274ef": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "57b02973e864d9c1": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "4c9fe7cfe8ff1185": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] zegt alleen dat de uitspraak van Spahn verdraaid is; [1] geeft wat hij zei"
+  },
+  "ea2891ebf44262ca": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "b65866873ab03591": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "bd9ebe5bce63726d": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "5135dbe5eaeb511b": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] historisch revisionisme als etiket"
+  },
+  "31c0f47829a74486": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "299805588f6c356c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7f605f6cb3f2f249": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "46c1e349e25e14d1": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "819ebabe0ecedcb1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "574f5007d71817f3": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "4382ab35abdb1e23": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9b31777e336a7d4b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "97e35a703366afaf": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f25a47ed29acab98": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "137c37fabf15d07e": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "93aa2b659214dac2": {
+   "punten": [
+    "niet_gedragen"
+   ],
+   "noot": "[0] 'was unsuccessful' laat weg dat het alleen ging om het opschorten van de verordening; de weerlegging zegt dat de zaak zelf nog moest komen (weggelaten voorbehoud)"
+  },
+  "acacf1c533ca11d8": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "758f83ae1a820709": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "[0] alleen dat er verschillende versies rondgingen; [1] achtergrond, zegt niets over de sluipschutters"
+  },
+  "3beeb3a004810af5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "93ed9f749994f195": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "97e44cf560bf2d30": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "eb8c069b39738054": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "6172d2d4c32b95f8": {
+   "punten": [
+    "zwak",
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[0] 'niet gesteund door de cijfers' zonder de cijfers; [2] het etiket 'samenzweringstheorie'"
+  },
+  "930291b493f1295c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "12f761138995f4ad": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9bc7321ddef59ea8": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "7da29c418a857144": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "91d15612704dc318": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a06d7a37f1845bc7": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "weerlegt alleen 'koffiezaak'; de kern, het logo dat op SS leek, staat er niet bij"
+  },
+  "0d55f4352afa645f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ddd3c7d6312f7412": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "36b377c2123c6b75": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "klopt, maar legt niet uit waarom het geen Amerikaans project was"
+  },
+  "1956c07ddf1f37b3": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "1020c0b3dfaf8a89": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "35e4e8549bea31e6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a4fc22d2799ebd30": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "mist het eigenlijke feit: de $50 miljoen was een lening van Turkije"
+  },
+  "13a29ccbbb11a1e5": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "5a3f6ff0159b9576": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "bce47d9517f906bd": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "b516608e45c49005": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "mist het eigenlijke feit: Wolhynië was in 1943-1944, de legioenen bestonden alleen in de Eerste Wereldoorlog"
+  },
+  "5cb3cc1fe1da4720": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "faae408438f6570f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8c142127eafdf257": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8ffc7385ea0baa1f": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "c270dda8b7c1155a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "6316d42de6f3ce40": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8d527e766c025cac": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0d3f75f3d3daab65": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ccdedddb0c2ec8dc": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f5bf8c93f6ced994": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9c172d21ce2828d5": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c056baf658df6886": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "e3fdabd051e84bca": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "68f9d04b772bc30e": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "e0afba9b4b38be94": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9790a0eab9abf8e3": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen 'oude mythe, vaak weerlegd'"
+  },
+  "4937be64655a8b90": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "66cbddaf68536e79": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "6982c69b6da895a1": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen grond', zonder feit"
+  },
+  "b4aaf327891d620a": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "651470733e89adf0": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "zegt niet wat Klimkin echt zei"
+  },
+  "3ec436a249e88118": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "238a72ad6a38e6df": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "93257e851ed05a30": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1d56d00c7c6a247e": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "4eca63ef9b7ae5a2": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "c36700924e2898c2": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "95bd44e3bb8b7df6": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen onafhankelijke bevestiging', zonder feit"
+  },
+  "bf5ca2063fcdaa0d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "97d4790f22d46a75": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "9d83236ab396ef56": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "df0d90b47552c7c0": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het etiket 'imperiale ideologie'"
+  },
+  "8e9651c3ad0291b6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a6221bde747919eb": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal"
+  },
+  "de7dfb6e4af0210b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "3ddecd77a0fa6a22": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "de7e564b041393ae": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "1e8954590b9e96de": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d7844da230fa5692": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "0d612c5f27645802": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  }
+ }
+}

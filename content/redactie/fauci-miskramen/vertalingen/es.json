@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck fauci-miskramen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "8bfcb99e165bb348",
+ "veldafdrukken": {
+  "kop": "2d7afa5cd185ef5a",
+  "oordeel_zin": "1825f93d8476b55b",
+  "bewering": "6dbda7d4424f65e1",
+  "kort": "7a99dd33123cef66",
+  "tekst": "064bc01eb3080187",
+  "niet_weten": "ec53e01f96304878",
+  "bereik": "906687ab2d3fc580",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "4fc7a8ce1ba50413",
+  "beeld_bijschrift": "c4160215e1b80fad",
+  "beeld_alt": "21d125c8b5a0a89c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Culpan a Marc Van Ranst de lo que Fauci habría ocultado, pero Fauci no ocultó ningún daño y Van Ranst no redactó la recomendación para embarazadas",
+  "oordeel_zin": "Fauci escribió en un mensaje de texto sobre un riesgo teórico, no sobre daños, y estudios con decenas de miles de embarazadas no encontraron un riesgo mayor; Van Ranst no formaba parte del grupo que redactó en Bélgica la recomendación para embarazadas [2] [8] [16].",
+  "bewering": "Marc van Ranst está tuiteando PRESA DEL PÁNICO desde que se supo que Fauci SABÍA que las vacunas eran PERJUDICIALES para las mujeres embarazadas, pero lo OCULTÓ. ¡Van Ranst debería ser CASTIGADO por su parte en el fraude del coronavirus!",
+  "kort": "Una publicación en X quiere que se castigue al virólogo belga Marc Van Ranst, porque Anthony Fauci habría ocultado que las vacunas son perjudiciales para las mujeres embarazadas [15]. Fauci escribió en enero de 2021 en un mensaje de texto sobre una posibilidad teórica, no sobre daños, y estudios con decenas de miles de embarazadas no encontraron un riesgo mayor de aborto espontáneo [2] [6] [8]. Van Ranst no aparece en los mensajes de texto, y la recomendación belga para embarazadas provino de un grupo del Consejo Superior de Salud en el que él no estaba [16] [17].",
+  "tekst": "El miércoles 12 de agosto de 2026 a las 19:23 apareció en X una publicación con una foto grande de Marc Van Ranst, virólogo de la KU Leuven y del Instituto Rega [15] [18]. Van Ranst estaría tuiteando presa del pánico desde que se supo que Fauci sabía que las vacunas eran perjudiciales para las mujeres embarazadas, y lo ocultó [15]. Por eso debería ser castigado por su parte en lo que la publicación llama fraude del coronavirus [15]. Dos días antes ya circulaba una publicación en neerlandés que le reprochaba lo mismo a Fauci [15].\n\nVan Ranst y la recomendación para embarazadas\n\nVan Ranst asesoró al Gobierno belga en 2020 y 2021 en grupos sobre las medidas contra el coronavirus, como el GEES y el GEMS [20] [21]. Sobre la vacunación, en Bélgica asesoraba el Consejo Superior de Salud, con un grupo propio para vacunas [16]. Ese consejo desaconsejó en enero de 2021 vacunar a todas las embarazadas, y en abril de 2021 les dio prioridad [17] [16] [19]. Van Ranst no figura en el grupo de trabajo que redactó esa recomendación, ni en la lista de expertos que la aprobaron [16].\n\nEn los mensajes de texto de Fauci no aparece Van Ranst [2] [3]. Sí defendió a Fauci en X en diciembre de 2022, cuando Elon Musk escribió que Fauci debía ser procesado [22]. No encontramos ninguna publicación en la que Van Ranst escribiera en agosto de 2026 sobre los mensajes de texto.\n\nLo que escribió Fauci\n\nEl 10 de agosto de 2026, los senadores estadounidenses Ron Johnson y Rand Paul hicieron públicas capturas de pantalla de mensajes de texto del teléfono que Fauci usaba como director del instituto estadounidense de enfermedades infecciosas [1] [3]. El Departamento de Salud había entregado ese teléfono al Senado el 5 de agosto [1].\n\nLos mensajes son del 25 y el 26 de enero de 2021, entre Fauci, la entonces directora de los CDC Rochelle Walensky y Vivek Murthy, poco después de nuevo surgeon general, el médico de mayor rango del Gobierno estadounidense [2] [3]. Murthy preguntó si era mejor vacunar a las embarazadas pronto o tarde en el embarazo, y Fauci respondió que para ello no había datos ni una razón teórica [2]. Un colega le escribió esa tarde que los primeros estudios evitaban vacunar en el primer trimestre, por la posible fiebre y el mayor número de abortos espontáneos en ese periodo [2]. Después Fauci escribió que la fiebre tras la segunda dosis \"theoretically could be associated with miscarriage in the 1st trimester\" [2] [4].\n\nUn día después escribió que había que sopesar los riesgos frente a los del covid durante el embarazo, y que en más de 10.000 embarazadas vacunadas no se habían visto problemas [3]. En febrero de 2021 dijo en público que no había señales de alarma en embarazadas [4]. Allí no mencionó la preocupación teórica por la fiebre, pero tampoco en privado tenía datos sobre daños [3] [13].\n\nLo que encontró la investigación\n\nEn 2.456 embarazadas que recibieron una vacuna de ARNm antes de las 20 semanas, la probabilidad de aborto espontáneo fue del 13 al 14 por ciento, dentro de lo habitual también sin vacuna [6]. En Estados Unidos y en Noruega, las mujeres con un aborto espontáneo no habían sido vacunadas poco antes con más frecuencia que las mujeres con un embarazo en curso [7] [8]. Una revisión de 21 estudios con casi 150.000 mujeres no encontró un riesgo mayor [9]. Los datos completos del registro de los CDC, con 12.097 embarazos, dieron en febrero de 2026 un 10,8 por ciento [10].\n\nJunto con los mensajes de texto volvió a circular una cifra antigua: 82 por ciento de abortos espontáneos tras la vacunación [12]. Procede de un estudio preliminar de abril de 2021, y está mal calculada: divide los abortos espontáneos entre un grupo de mujeres de las cuales la mayoría seguía embarazada [5] [12]. La primera publicación en neerlandés remite además a notificaciones en VAERS, el sistema estadounidense de notificación de efectos adversos [15]. Según sus gestores, ese sistema no está hecho para determinar si una vacuna causó un problema [11]. Knack calificó de falsa el 12 de agosto una afirmación sobre esos mismos mensajes de texto [23].\n\nVan Ranst como blanco\n\nEn mayo de 2021, Van Ranst fue amenazado por su nombre por un militar armado, Jürgen Conings, y estuvo con su familia en una casa segura hasta que Conings fue hallado muerto en junio [24] [25]. Según VRT NWS, cinco años después todavía recibe correos de odio [25].",
+  "niet_weten": "No encontramos ninguna publicación ni declaración de Van Ranst sobre los mensajes de texto, ni en X, ni en Bluesky, ni en medios belgas. Ella no dice a qué se refiere la publicación con el engaño del coronavirus. No sabemos a qué estudios se refería el colega de Fauci; los senadores tampoco dicen saberlo [2]. De los más de 34.000 mensajes del teléfono, se ha hecho público una pequeña parte [1].",
+  "bereik": "43.828 y 29.569 visualizaciones el 18 de noviembre",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Fauci escribe sobre un vínculo teórico entre la fiebre tras la segunda dosis y un aborto espontáneo [2].",
+   "Fauci escribe que en más de 10.000 embarazadas vacunadas no se han visto problemas [3].",
+   "El Consejo Superior de Salud desaconseja vacunar a todas las embarazadas [17].",
+   "El estudio preliminar del que después se extrae la cifra del 82 por ciento [5].",
+   "El Consejo Superior de Salud da prioridad a todas las embarazadas en la vacunación [16].",
+   "Dos estudios no encuentran un riesgo mayor de aborto espontáneo tras la vacunación [6] [7].",
+   "Van Ranst defiende a Fauci en X cuando Elon Musk quiere que sea procesado [22].",
+   "Los datos completos del registro de los CDC: 10,8 por ciento, dentro de lo habitual [10].",
+   "Johnson y Paul hacen públicos los primeros mensajes de texto [1].",
+   "La primera publicación en neerlandés en X [15].",
+   "PolitiFact: la cifra del 82 por ciento no es correcta [12]. Knack califica de falsa una afirmación sobre los mensajes de texto [23].",
+   "La publicación en X con la foto de Van Ranst [15].",
+   "FactCheck.org: los senadores mezclan declaraciones de meses distintos [13].",
+   "AFP Factcheck Nederland verifica la afirmación [14]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 12 de agosto de 2026, 19:23, una de dos.",
+   "Los mensajes de texto del 25 y el 26 de enero de 2021, tal como los hicieron públicos los senadores Johnson y Paul el 10 de agosto de 2026."
+  ],
+  "beeld_alt": [
+   "Captura de pantalla de una publicación en X con una foto grande de Marc Van Ranst, que dice que debe ser castigado porque Fauci habría ocultado que las vacunas son perjudiciales para las embarazadas. Sello: FALSO.",
+   "Capturas de pantalla de los mensajes de texto entre Fauci, Walensky y Murthy sobre la vacunación durante el embarazo."
+  ]
+ }
+}

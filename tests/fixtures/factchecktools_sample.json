@@ -1,0 +1,60 @@
+{
+  "_meta": "Handgemaakt antwoordvoorbeeld voor de parsertest (PLAN.md #2.1). GEEN opgeslagen API-uitvoer: de drie claims zijn verzonnen en zo gekozen dat ze de tolerantie van de parser uitputten — twee reviews, een review zonder url, een review zonder datum, oordeel of taal. De uitgeversnamen bestaan, de URL's niet. Vastgelegd bij #15.2, omdat een fixture zonder herkomstregel niet op licentie te beoordelen is en de Fact Check Tools API herdistributie verbiedt (B13).",
+  "claims": [
+    {
+      "text": "Coronavaccins veranderen je DNA",
+      "claimant": "Sociale media",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Nieuwscheckers",
+            "site": "nieuwscheckers.nl"
+          },
+          "url": "https://nieuwscheckers.nl/factcheck/vaccin-dna",
+          "title": "Nee, mRNA-vaccins veranderen je DNA niet",
+          "reviewDate": "2021-05-04T00:00:00Z",
+          "textualRating": "Onjuist",
+          "languageCode": "nl"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factcheck Nederland",
+            "site": "factchecknederland.afp.com"
+          },
+          "url": "https://factchecknederland.afp.com/vaccin-dna-claim",
+          "reviewDate": "2021-05-10T00:00:00Z",
+          "textualRating": "Onwaar",
+          "languageCode": "nl"
+        }
+      ]
+    },
+    {
+      "text": "De opwarming van de aarde stopte in 1998",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Skeptical Science",
+            "site": "skepticalscience.com"
+          },
+          "reviewDate": "2020-11-19T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A photo shows a shark swimming on a flooded highway",
+      "claimant": "Facebook users",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Snopes",
+            "site": "snopes.com"
+          },
+          "url": "https://www.snopes.com/fact-check/shark-highway"
+        }
+      ]
+    }
+  ]
+}

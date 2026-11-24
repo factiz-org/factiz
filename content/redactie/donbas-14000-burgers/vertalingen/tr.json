@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck donbas-14000-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "ba06cccae7cdcddc",
+ "veldafdrukken": {
+  "kop": "b723d09f6cdf1853",
+  "oordeel_zin": "239f5f4655dc9207",
+  "bewering": "cc09a248b7b67871",
+  "kort": "de77eb1252edda56",
+  "tekst": "029927f65df9bea0",
+  "niet_weten": "4606172cf1217424",
+  "bereik": "99d2dd69ec6886a1",
+  "nog_uitzoeken": "d56dadd482824e29",
+  "tijdlijn": "ea0958e54e3433d1",
+  "beeld_bijschrift": "a9f608bb44ba9a5f",
+  "beeld_alt": "6194cf5c4dace36b",
+  "rekensom": "d25a696eb228bcc0"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "2022 öncesinde Donbas'ta her iki tarafta 3.404 sivil öldü, Ukrayna'nın öldürdüğü 14.000 sivil değil",
+  "oordeel_zin": "BM, Nisan 2014'ten 2021 sonuna kadar doğudaki savaşta 14.200 ile 14.400 ölü saydı; bunların en az 3.404'ü cephe hattının her iki tarafındaki sivillerdi ve Zelensky'nin Rusya'yı yok etmeye çağırdığı bir açıklama bulamadık [1] [3].",
+  "bewering": "Ukrayna 2014'ten beri Donbas'ı bombaladı ve orada binlerce sivili öldürdü; şimdi Zelensky dünyanın Rusya'yı yok etmesini istiyor.",
+  "kort": "X'te Ağustos'ta Ukrayna'nın 2014'ten beri Donbas'ta 10.000 sivili öldürdüğü, Ekim'de ise Zelensky'nin dünyayı Rusya'yı yok etmeye çağırdığı yönünde paylaşımlar dolaştı [6] [7]. BM'ye göre Nisan 2014'ten 2021 sonuna kadar 14.200 ile 14.400 kişi öldü; bunların en az 3.404'ü sivildi ve cephe hattının her iki tarafında öldüler [1]. Zelensky'nin Rusya'yı yok etmeye çağırdığı bir açıklama bulamadık; o günlerde Rusya üzerindeki baskının artırılmasını istedi [3].",
+  "tekst": "12 Ekim'de saat 11:53'te X'te bir hesap, Zelenskiy'in dünyayı Rusya'yı da yok etmek için güçlü bir tepki vermeye çağırdığını yazdı [6]. Ardından metin, bir bölgedeki tüm yaşamın yok edilmesine geçiyor [6]. Altındaki görsel, üzerinde yazı bulunmayan bir Zelenskiy portresi. Gönderi 11.000'den fazla beğeni aldı [6]. Ağustos ayında başka bir hesap, Ukrayna'nın 2014'ten beri Donbas'ı bombaladığını, bunun 10.000 sivil ölümle sonuçlandığını ve Zelenskiy'in buna devam ettiğini yazdı [7].\n\n14.000 sayısı, 2022'den beri Ukrayna'nın Donbas'ta 14.000 sivili öldürdüğünün kanıtı olarak dolaşıyor [2] [5]. Bu sayı BM'nin sayımından geliyor. BM İnsan Hakları Yüksek Komiserliği Ofisi (OHCHR), Ocak 2022'de 14 Nisan 2014'ten 31 Aralık 2021'e kadar Ukrayna'nın doğusundaki savaş nedeniyle 14.200 ile 14.400 kişinin öldüğünü tahmin etti [1]. Bunlar iki taraftaki tüm ölümler: yaklaşık 4.400 Ukraynalı asker, yaklaşık 6.500 silahlı grup savaşçısı ve en az 3.404 sivil [1].\n\nBu 3.404 sivilden 298'i, 17 Temmuz 2014'te MH17 sefer sayılı uçuşta hayatını kaybetti [1]. Diğer sivillerin çoğu, çatışmaların en şiddetli olduğu 2014 ve 2015'te öldü: 2.084 ve 955 [1]. 2016'dan 2021'e kadar toplam 365 sivil öldü [1].\n\nZelenskiy Mayıs 2019'da cumhurbaşkanı oldu. BM, 2019, 2020 ve 2021'de cephe hattının iki tarafında ve tüm nedenlerle toplam 78 sivil ölümü saydı [1]. 2021'de tüm sivil kayıplarının yarısından fazlası geride kalan mayınlar ve patlayıcılar yüzünden oldu [1].\n\nBu son yıllarda siviller silahlı grupların kontrolündeki tarafta da sıkça can verdi. 2018'den 2021'e kadar, kendilerini halk cumhuriyeti ilan eden Donetsk ve Luhansk bölgesindeki bombardımanlarda 381 sivil ölüm ve yaralanmanın 310'u yaşandı [1]. Kimin ateş ettiği bu dökümde yazmıyor. Rakamları inceleyen analistler, sivillerin iki taraf tarafından da öldürüldüğüne dikkat çekiyor [2]. AB'nin dezenformasyon veri tabanı EUvsDisinfo, Mart 2025'te yine, Donbas'taki Ukraynalıların Rusları katlettiği için Rusya'nın 2022'de müdahale etmesi gerektiği anlatısını ele aldı [8].\n\nRusya'yı yok etme çağrısı için bir kaynak bulamadık. Zelenskiy o günlerdeki kendi metinlerinde Avrupa'dan ve Amerika Birleşik Devletleri'nden Rusya üzerindeki baskıyı artırmasını istiyor, böylece enerji tesisleri için gerçek bir ateşkes sağlanabilecek [3]. Ekim başında ağır Rus saldırıları oldu: Ukrayna İçişleri Bakanı'na göre 7 Ekim'de 28 kişi öldü [4].",
+  "niet_weten": "Gönderinin Zelenskiy'in hangi sözünü kastettiğini ve 33 ölümlü hangi saldırıdan söz ettiğini bilmiyoruz. BM'nin dökümü sivilleri kimin öldürdüğünü söylemiyor, yalnızca nerede ve neyle öldüklerini gösteriyor.",
+  "bereik": "12 Ekim tarihli paylaşımda 18 Kasım itibarıyla 11.682 beğeni ve 786 yanıt",
+  "nog_uitzoeken": [
+   "Gönderinin Zelenskiy'in hangi sözünü kastettiği. Gönderideki çevirinin yanına, onun 11 veya 12 Ekim tarihli sözlerini Ukraynaca ve İngilizce olarak koymak istiyoruz: \"yok etmek\" sözcüğü başka bir şeyi, örneğin Rus savaş makinesini veya rafinerileri kastediyor olabilir mi?",
+   "Gönderinin 33 ölümlü hangi saldırıdan söz ettiği.",
+   "BM bunu bir yerde veriyorsa, 2014 ve 2015'teki sivil ölümlerin cephe hattının iki tarafına nasıl dağıldığı."
+  ],
+  "tijdlijn": [
+   "MH17 uçuşunda 298 kişi hayatını kaybediyor; BM bunları sivil ölümlere dahil ediyor [1].",
+   "OHCHR 2021 sonuna kadarki sayımı yayımlıyor: 14.200 ile 14.400 ölü, bunların en az 3.404'ü sivil [1].",
+   "Detector Media, Donbas'ta soykırım olduğu anlatısını doğruluyor [5].",
+   "X'te Hollandaca bir paylaşım, 2014'ten beri Donbas'ta 10.000 sivil ölümünden söz ediyor [7].",
+   "Füzeler ve dronlarla yapılan bir Rus saldırısı Ukrayna'da 28 kişinin ölümüne yol açıyor [4].",
+   "X'te Hollandaca bir paylaşım, Zelensky'nin dünyayı Rusya'yı yok etmeye çağırdığını söylüyor [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 12 Ekim 2026, 11:53."
+  ],
+  "beeld_alt": [
+   "X'te, Zelensky'nin dünyayı Rusya'yı yok etmeye çağırdığını yazan ve altında Zelensky portresi bulunan bir paylaşım. Damga: YANLIŞ."
+  ],
+  "rekensom": [
+   [
+    "Tüm ölüler, 14 Nisan 2014'ten 2021 sonuna kadar",
+    "siviller, Ukraynalı askerler ve silahlı gruplar toplam",
+    "14.200 ile 14.400"
+   ],
+   [
+    "Siviller",
+    "3.106 artı MH17 uçuşunda 298",
+    "en az 3.404"
+   ],
+   [
+    "2014 ve 2015'te siviller",
+    "2.084 artı 955",
+    "3.039"
+   ],
+   [
+    "2016'dan 2021'e kadar siviller",
+    "112 + 117 + 58 + 27 + 26 + 25",
+    "365"
+   ],
+   [
+    "2019, 2020 ve 2021'de siviller",
+    "27 + 26 + 25",
+    "78"
+   ]
+  ]
+ }
+}

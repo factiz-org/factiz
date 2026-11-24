@@ -1,0 +1,277 @@
+{
+ "toelichting": "PLAN #32.43, Spaans: elk rood en oranje, elk groen bij O en elke niet bevestigd bij W en W-merk, gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, met de bron zelf waar nodig; geen andere User-Agent, een pagina die niet opent telt niet (BENCHMARK §228).",
+ "labels": {
+  "O:gfc-02b19494a644aa19#C": {
+   "label": "bewijst niet",
+   "toelichting": "Control Ciudadano (mei 2025) gaat over Facebookadvertenties met bewerkte beelden en BioBio (nov. 2026) over twee valse interviewbeelden; Luksic ontkent in het algemeen interviews over beleggingsplatforms, maar geen bron gaat over deze video van maart 2025 of laat zien dat die nep is, dus alleen een patroon."
+  },
+  "O:gfc-0fae01d42f507f0e#C": {
+   "label": "bewijst niet",
+   "toelichting": "De drie tegensprekende bronnen gaan over een extra vrije dag die DeSantis voor ambtenaren in Florida afkondigde; geen ervan zegt iets over een onafhankelijkheidsverklaring, dus ze tonen niet dat de bewering onwaar is (het alarm klopt wel)."
+  },
+  "O:gfc-10882e79492301b8#C": {
+   "label": "bewijst",
+   "toelichting": "La República (verificador), Onda Cero en Yahoo noemen de foto van Georgina die Ronaldo troost in een auto vals en met AI gemaakt."
+  },
+  "O:gfc-118b7db2744904f5#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias ('FIFA no canceló a Estados Unidos como sede para el Mundial 2026') en Univision ('Es falso que la FIFA haya decidido suspender a Estados Unidos como sede') zeggen rechtstreeks dat de annulering niet bestaat."
+  },
+  "O:gfc-15750647dfca583b#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo en Yahoo melden dat Luisa María Alcalde niet zei dat God wie niet aan Cuba doneert zal straffen."
+  },
+  "O:gfc-1abb7127d5428495#C": {
+   "label": "bewijst niet",
+   "toelichting": "De pagina's van Sernageomin zijn een JavaScript-app zonder leesbare tekst en volcano.si.edu gaf 403. Volgens Río Negro dateert de ontkenning van een alertwijziging van december 2023, dus geen enkele leesbare bron gaat over februari 2025 (de bewering is duidelijk overdreven, maar dat bewijzen deze bronnen niet)."
+  },
+  "O:gfc-21f1a6bb3743ccb8#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) titelt 'FMI no ha suspendido un crédito a Ecuador por supuesto caso de corrupción', en Bloomberg Línea en het ministerie melden juist een nieuwe uitbetaling."
+  },
+  "O:gfc-2e6859d0f32131a3#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo titelt 'Machu Picchu no fue retirada de las Nuevas Maravillas del Mundo, solo recibió una advertencia' en EFE en CNN melden alleen dat de titel in gevaar kan komen, wat niet samengaat met een besluit om de titel af te nemen (pagina van Yahoo gaf 404, de titel volstaat)."
+  },
+  "O:gfc-30f1ee86d706994b#C": {
+   "label": "bewijst",
+   "toelichting": "Telemundo ('Es falso que Trump haya prohibido hablar español') en Infobae ('Trump no impondrá multas por hablar español') spreken de bewering over een verbod met boetes rechtstreeks tegen."
+  },
+  "O:gfc-347348b50faf5ad0#C": {
+   "label": "bewijst niet",
+   "toelichting": "De drie bronnen zijn verslagen van de top in Santiago; Yahoo citeert Boric die corruptie in het algemeen noemt, maar geen bron zegt dat het citaat over Orsi verzonnen is, dus alleen achtergrond."
+  },
+  "O:gfc-35eff1068e67f8b7#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae: 'Cascos azules de Guatemala no se han contagiado de ébola en RD del Congo'; het ministerie van Defensie ontkent de besmettingen."
+  },
+  "O:gfc-391d9b4fabfd1459#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo, Univision en 20minutos melden dat het beeld van Milei die de Amerikaanse vlag kust met AI is gemaakt, de echte herkomst van het beeld."
+  },
+  "O:gfc-3bcc803118233402#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (Chequeado) en vijf Argentijnse kranten melden dat de foto van Karina Milei met de vlag 'Agrupación gays con Karina' een montage is."
+  },
+  "O:gfc-40aeda8a940f5625#C": {
+   "label": "bewijst",
+   "toelichting": "Univision schrijft 'Barack Obama NO ha dicho que se postulará en 2028', wat niet samen kan met een presentatie van zijn kandidatuur."
+  },
+  "O:gfc-42bdac2c5089415a#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE): 'Red Uno no declaró a Del Castillo ganador de un debate presidencial'; Yahoo: Red Uno verspreidde na het debat geen peiling."
+  },
+  "O:gfc-44ae6850150ec984#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) titelt 'Un video de un helicóptero estadounidense sobrevolando un edificio no se grabó en Caracas': de echte plaats is een andere dan de bewering."
+  },
+  "O:gfc-4cfc869eb0705340#C": {
+   "label": "bewijst",
+   "toelichting": "El Salto en El Mundo melden dat het plafond aan de buitenkant bij de hoofdingang (de porche) naar beneden kwam, niet in een kamer, en El Debate noemt een viraal Zendal-plafondbeeld bewerkt; een andere plaats dan de bewering (twijfel: het beeld van El Debate is een scheur, mogelijk niet hetzelfde beeld)."
+  },
+  "O:gfc-4e40a63fdb858312#C": {
+   "label": "bewijst",
+   "toelichting": "Demócrata kopt 'Limpiar el monte para prevenir incendios no está prohibido en España' en HuffPost noemt het verbod van de Agenda 2030 een bulo, wat de bewering onwaar maakt."
+  },
+  "O:gfc-5d854559530bd688#C": {
+   "label": "bewijst",
+   "toelichting": "Belfast Live (11 juni 2025) meldt dat de man met Romeinse helm in een elektrische rolstoel de agenten uitdaagde bij de rellen in Harryville, Ballymena, niet in Belfast: een andere plaats."
+  },
+  "O:gfc-67f64cac194c2efd#C": {
+   "label": "bewijst",
+   "toelichting": "Chilevisión: 'Un piloto de la Fuerza Aérea no apoyó al candidato Kaiser; el video viral está hecho con IA'; ook Cooperativa en Swissinfo (EFE) zeggen dat het nep is."
+  },
+  "O:gfc-6b014d3b8d1e2dfb#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo, La República en Univision melden dat De Niro Trump niet uitschold bij de Oscars 2025 en dat de video uit 2018 (Tony Awards) is, een andere datum en gebeurtenis."
+  },
+  "O:gfc-721415d74fb15b49#C": {
+   "label": "vals",
+   "toelichting": "De opheffing van de Unidad de Emergencias, Seguridad y Gestión de Crisis in juli 2025 klopt, maar volgens Maldita had die eenheid in haar decreten geen bevoegdheid voor preventie of veiligheid van infrastructuur en nam een Observatorio voor coördinatie en preventie van crises haar taken over, dus de bewering misleidt en groen is onterecht (twijfel: Maldita zette het later op 'contexto')."
+  },
+  "O:gfc-738a6239f55ab580#C": {
+   "label": "bewijst",
+   "toelichting": "Univision: 'Trump NO declaró que la Biblia se debe estudiar en todas las escuelas y universidades'; ook La Patilla en Prensa Libre spreken het rechtstreeks tegen."
+  },
+  "O:gfc-742724a16e25b4a9#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo kopt 'Noboa no ha acordado con EE.UU. recibir a 2.000 presos del Tren de Aragua en Ecuador', het tegendeel van de bewering."
+  },
+  "O:gfc-77c7da24ef3b6a81#C": {
+   "label": "bewijst",
+   "toelichting": "ABC News zelf ('Doctors say sunscreen protects skin despite influencers pushing misinformation') zegt dat er geen sluitend bewijs is dat oxybenzon kanker verhoogt en dat de verwarring komt van terugroepacties door besmetting met benzeen, dus ABC bevestigde het tegendeel; oranje past bij een misleidende bewering."
+  },
+  "O:gfc-7e20b1ba09503b35#C": {
+   "label": "bewijst",
+   "toelichting": "El Tiempo, Infobae en Muhimu verklaren de rubberachtige vruchten uit verkeerde koeling, opslag en rijpingsremmers (koudeschade, onder 7 of 13 graden); genetische modificatie noemen ze niet, maar de echte oorzaak die ze geven sluit de bewering uit (La Razón kon ik niet openen)."
+  },
+  "O:gfc-8701354c72111f76#C": {
+   "label": "bewijst",
+   "toelichting": "Tele7 zegt dat El País dit niet publiceerde en het beeld met AI is gemaakt, en France 24 dat het een vervalste screenshot is en dat noch de regering zo'n plan aankondigde noch El País het bracht."
+  },
+  "O:gfc-89eea9461a5ef43b#C": {
+   "label": "bewijst",
+   "toelichting": "Chilevisión, Comprueba en Yahoo: 'Ministros que aspiren a las presidenciales en Chile no están obligados a renunciar un año antes'; de bevestigende vLex-bron is een wetsvoorstel, geen geldend artikel 57."
+  },
+  "O:gfc-8a354972bdfbdeba#C": {
+   "label": "bewijst",
+   "toelichting": "BioBio en Infobae melden over de peiling over migrantenstemrecht van die weken (Data Influye, jan. 2025) 71% tegen het stemmen voor president, en ongeveer de helft tegen stemmen bij elke verkiezing, geen 81%; het getal in de bewering klopt dus niet met de peiling over precies dit onderwerp."
+  },
+  "O:gfc-8d6731535f14f439#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias kopt 'Es falso que China descubrió la cura para la diabetes; los avances se limitan a terapias con células madre', wat de bewering rechtstreeks onwaar noemt."
+  },
+  "O:gfc-8df704be7a37ad78#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo kopt 'No son venezolanos detenidos en EE.UU. tras celebrar la captura de Maduro, es IA', de echte herkomst van de video's."
+  },
+  "O:gfc-92050246b2f7d355#C": {
+   "label": "bewijst niet",
+   "toelichting": "DW (28 sept. 2025) meldt alleen dat Bukele de VN-vergadering van 2025 'nutteloos' vond en verwijst naar zijn toespraak van 2024 over bendes en censuur; Venezuela komt er niet in voor, en de YouTube-short spreekt niets tegen. Dat hij in een video van januari 2025 de VN om ingrijpen vroeg, wordt dus niet weerlegd."
+  },
+  "O:gfc-9474b27e78fd31b0#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE): 'María Corina Machado no publicó un comunicado asegurando que quiere vivir en el exilio'; Infobae: haar team ontkent dat ze ballingschap overweegt."
+  },
+  "O:gfc-96c44f2114a241cc#C": {
+   "label": "bewijst niet",
+   "toelichting": "De twee El País-stukken melden alleen dat een loper na een hartstilstand overleed (en dat het de vierde dode in 24 jaar is); volgens de titels zeggen ze niets over het vaccin, en de pagina's gaven 403, dus niets toont dat de vaccinkoppeling onwaar is."
+  },
+  "O:gfc-9e6c1586a383d6e9#C": {
+   "label": "bewijst",
+   "toelichting": "BioBioChile en BBC Mundo melden dat Noord-Korea juist de geruchten weersprak en foto's van Kim publiceerde, en Perfil en TN dat ontkend is dat hij in coma ligt; dat kan niet samen met een aankondiging van een coma door de staatstelevisie."
+  },
+  "O:gfc-b65555b63b1ceb52#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE), Visión 360 en eju.tv: 'Rodrigo Paz no prometió cerrar las redes sociales si gana las elecciones en Bolivia'."
+  },
+  "O:gfc-b7f9ef1f27f904c1#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo: 'FIFA no canceló a Estados Unidos como sede para el Mundial 2026 por una posible guerra'; ook AlbertoNews spreekt het rechtstreeks tegen."
+  },
+  "O:gfc-b8d7fc823f4efd14#C": {
+   "label": "bewijst",
+   "toelichting": "Naiz meldt dat Petro niet om een overdosis werd opgenomen en dat het beeld met AI is gemaakt, en Infobae en El Tiempo melden dat hij in de kliniek zijn dochter bezocht."
+  },
+  "O:gfc-b971a26b513f6797#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia noemt het Iberisch schiereiland, Andorra en Zuid-Frankrijk als getroffen gebied, zegt dat de Duitse autoriteiten de stroomvoorziening stabiel noemden en noemt voor Italië alleen onbevestigde meldingen, en Reuters spreekt van Spanje en Portugal."
+  },
+  "O:gfc-bd6b51d019d96d2e#C": {
+   "label": "bewijst",
+   "toelichting": "MAPFRE zegt dat buitenlanders zonder wettig verblijf 'no pueden votar ni en las generales, ni en las autonómicas, municipales o europeas', wat de bewering tegenspreekt (twijfel: de bronnen gaan over Spanje, de oorspronkelijke bewering ging mogelijk over Chili, waar ook verblijf vereist is)."
+  },
+  "O:gfc-c19fa34c758d7b70#C": {
+   "label": "bewijst",
+   "toelichting": "El País, La Razón en Infobae melden dat Robles tegen de ambassadeur 'estoy cómoda' zei en niet 'estoy con Trump', dus de ondertiteling in de video klopt niet."
+  },
+  "O:gfc-c592432f2f5dd837#C": {
+   "label": "bewijst",
+   "toelichting": "La República en Yahoo melden dat de video van de instortende gevel van de aardbeving in Colombia is en niet van die in Ayacucho."
+  },
+  "O:gfc-c9c292c2b23f0c4c#C": {
+   "label": "bewijst",
+   "toelichting": "Comprueba.cl ('Es falso ... nunca desempeñó dicho cargo') en Yahoo ('no fue condenada por malversar recursos; fue una persona homónima') tonen dat Jara nooit consejera regional was."
+  },
+  "O:gfc-ca98ad8ad14eca02#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias ('¿Osos huyen de Yellowstone? Falso, la imagen fue creada con IA') zegt dat het beeld met AI is gemaakt."
+  },
+  "O:gfc-cd7f937405bc54dc#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo meldt dat Polen wel de grenscontroles versterkte maar dat de foto van de tanks een militaire parade uit 2018 is: een andere datum en gebeurtenis."
+  },
+  "O:gfc-cdc3e51eb6ef4dee#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo: 'Luisa González no ha propuesto tarjeta Así es para acceder a comida, salud y educación'; Lupa Media op X: de video is met AI gemanipuleerd."
+  },
+  "O:gfc-d1c8b427c6b5b880#C": {
+   "label": "bewijst",
+   "toelichting": "El País noemt het 'a fake story about the Virgin of Aparecida', Gazeta do Povo meldt dat Flávio het ontkent en DW dat het TSE de berichten liet verwijderen."
+  },
+  "O:gfc-d490b015c301e890#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (AFP) kopt dat de man met twee hoofden op de foto een Australische jihadist is (Mohamed Elomar, een foto uit 2014), de echte herkomst van het beeld (de pagina gaf zelf 429; dat het dezelfde foto is bevestigt Info-Veritas)."
+  },
+  "O:gfc-d6ff946c57d03561#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae en Swissinfo (EFE): 'Un video no muestra a Evelyn Matthei huyendo de la prensa por el criptofiasco de Milei'; El Desconcierto: de video is oud."
+  },
+  "O:gfc-d72cfac811620a05#C": {
+   "label": "bewijst",
+   "toelichting": "Cooperativa, Comprueba, ADN en Yahoo: 'Falso: Servel no entrega lápices borrables para votar, son de tinta permanente'."
+  },
+  "O:gfc-d77738a5b5c272f5#C": {
+   "label": "bewijst",
+   "toelichting": "Chilevisión, Cooperativa en Yahoo melden dat de menigte geen mars voor Kaiser is maar de bedevaart in Irak (Kerbala), de echte herkomst van de video."
+  },
+  "O:gfc-d83142cfd56bea83#C": {
+   "label": "set fout",
+   "toelichting": "Zoals het er staat is het bericht een algemene, ware uitspraak: Euronews (10 jan. 2026), CBC en AP melden dat Iraanse vrouwen zonder hoofddoek verschijnen als verzet. Wat de redactie onwaar noemde, ging vermoedelijk over een bepaalde video die niet in de tekst staat; de factcheck zelf kon ik niet vinden (Maldita heeft de claim nog open)."
+  },
+  "O:gfc-d900449e885b8888#C": {
+   "label": "bewijst",
+   "toelichting": "El Tiempo, Infobae en BluRadio melden dat de Registraduría de video weerlegde: het waren voorbeeldstembiljetten of verkiezingsreclame, geen frauduleus gemarkeerde stembiljetten."
+  },
+  "O:gfc-d9729778a7a574fe#C": {
+   "label": "bewijst",
+   "toelichting": "Deia, El País en ABC melden dat de foto van Abascal op zijn tenen gemanipuleerd is (een montage); Newtral zegt hetzelfde op X."
+  },
+  "O:gfc-d9b1b1748a213af9#C": {
+   "label": "bewijst niet",
+   "toelichting": "CBC, The Catholic Register en Yahoo gaan over de brand in de Saint-Simon-kerk in Caraquet op 24 augustus 2026, elf dagen na de datum van de bewering (13 augustus); het filmpje gaat dus over een andere kerkbrand, waarschijnlijk die in Quebec, en de bronnen tonen niet dat de bewering onwaar is."
+  },
+  "O:gfc-dcf6995ffcac1fdd#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias titelt 'Esta explosión en el metro de Caracas es de 2021; no tiene relación con sismos en Venezuela': een andere datum en oorzaak dan de bewering."
+  },
+  "O:gfc-e37c19de1eba5f79#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE, sept. 2025): Chili ontving 68 Gazanen in 'una acción muy acotada', zonder vergelijkbare aankomst gepland, en de 500.000 is de bestaande Palestijnse gemeenschap; dat sluit een opvang van 500.000 in 2025 uit. Wel zeven maanden na de bewering, en over de 300 in februari zegt geen bron iets."
+  },
+  "O:gfc-e4008ebe9d9055f5#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo titelt 'Imagen en la que un criminal dice haber recibido armas del gobierno fue tomada en Perú, no en Chile': de echte herkomst is Peru, dus het ging niet om de regering van Boric (pagina gaf 404, de titel volstaat)."
+  },
+  "O:gfc-e9db263311dad8e0#C": {
+   "label": "bewijst",
+   "toelichting": "El País en CNN (21 juni 2025) en Wikipedia dateren het ongeluk met de ballon met 21 inzittenden in Santa Catarina in juni 2025, en Azteca meldt dat de video opnieuw rondgaat: geen recent ongeluk."
+  },
+  "O:gfc-eead340d23942b27#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias titelt 'El video de un ataque iraní a un edificio residencial en Baréin fue hecho con IA'; de pagina gaf 404, maar de titel past bij de video van de inslag op een toren in Manama."
+  },
+  "O:gfc-f003bd0d2b2d2a22#C": {
+   "label": "bewijst",
+   "toelichting": "EWTN ('Massachusetts becomes 11th state with no abortion limits') en The Hill melden dat Healey de grens na 24 weken ophief en het oordeel aan de arts liet, zonder enige grens bij week 34; de bewering noemt dus een grens die niet bestaat (twijfel: de kern, een wet voor late abortus, klopt)."
+  },
+  "O:gfc-f2cd05ff716c47ba#C": {
+   "label": "bewijst",
+   "toelichting": "Le Monde via wn.com ('...dévorée par Ellen DeGeneres ? Non') en Firstpost ('Ellen DeGeneres did not eat Anne Heche') spreken het rechtstreeks tegen; ABC: de lijkschouwer noemde de dood een ongeluk."
+  },
+  "O:gfc-f511708ed1d4e51a#C": {
+   "label": "bewijst",
+   "toelichting": "De blog Bufoland (mei 2025) neemt de check van Fast Check over en noemt de bewering 'falsa': ongeveer 533.000 buitenlanders staan als zonder middelen in Tramo A en hoeveel daarvan zonder papieren zijn is niet bekend (zwakke bron, maar die zegt wel dat het onwaar is; de twee Fonasa-pagina's bewijzen niets)."
+  },
+  "O:gfc-f5e0192fb86e1a9e#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE): 'Bukele no ha cuestionado al Gobierno mexicano por el asesinato de Carlos Manzo'; Yahoo (AFP): de audio is met AI gemaakt."
+  },
+  "O:gfc-f76d8b5a0bd71167#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) en 24horas ('Es falso que Nicolás Maduro haya muerto') en France 24 ('Nicolás Maduro no murió') spreken de bewering rechtstreeks tegen."
+  },
+  "O:gfc-fb238ed36bf3d307#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE), Infobae en Yahoo melden dat Delcy Rodríguez niet recent uit de PSUV stapte en dat de video uit 2018 is."
+  },
+  "W:wikinews:es:33125#C": {
+   "label": "set fout",
+   "toelichting": "BioBio (2012) laat zien dat Quake Red Alert een groepje publicisten is, geen wetenschappers. Seismologen noemen de methode onbewezen en een test vond 8 juiste van 55 voorspellingen. Het Wikinews-artikel noemt ze toch 'científicos' met 'centenares de avisos' acertados, dus de fout die Factiz noemt staat in het artikel zelf."
+  },
+  "W:wikinews:es:43708#C": {
+   "label": "set fout",
+   "toelichting": "Het artikel stelt als feit dat Obokata 'logró crear células madre' door bloedcellen in zuur te leggen, terwijl BBC, The Guardian en Wikipedia melden dat het onderzoek gemanipuleerd was en de STAP-cellen niet bestaan; de fout die Factiz noemt zit in het artikel zelf."
+  }
+ }
+}

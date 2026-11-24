@@ -1,0 +1,11 @@
+{
+ "toelichting": "PLAN #32.22: labels voor de bevestigingen die de opmaakregel erbij geeft (tellen weigert zonder); gelezen door Claude, vraag en artikelbeeld naast elkaar in de browser, niets op schijf. De rest leest de labels van #32.21. Sleutel set|vraag|beeldadres.",
+ "labels": {
+  "S3|4283|https://factly.in/wp-content/uploads//2024/02/chandrababu-touching-Amit-shah-feet-Thumbnail.jpg": "ander beeld",
+  "S3|4864|https://srilanka.factcrescendo.com/wp-content/uploads/2023/06/Post-No-02-PAVTOTHRA.png": "zelfde beeld, zelfde bewering"
+ },
+ "notities": {
+  "S3|4283|https://factly.in/wp-content/uploads//2024/02/chandrababu-touching-Amit-shah-feet-Thumbnail.jpg": "twee verschillende foto's (Jagan en Chandrababu bij Amit Shah); alleen de kaart van de nieuwsapp way2news gedeeld; voor de regel 62 punten op 2% dekking, erna 56 op 15%: zonder de opmaak van Factly koos RANSAC een andere vorm",
+  "S3|4864|https://srilanka.factcrescendo.com/wp-content/uploads/2023/06/Post-No-02-PAVTOTHRA.png": "dezelfde drie foto's van het wrak van de Titan, in de collage van Fact Crescendo met het stempel; S3 heeft geen eigen bewering"
+ }
+}

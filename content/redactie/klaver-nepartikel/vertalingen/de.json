@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaver hat nie gesagt, dass er den Privatbesitz abschaffen will, das Zitat stammt aus dem Jahr 2020",
+  "oordeel_zin": "Das Zitat stammt aus einem anonymen Blog auf Medium vom Oktober 2020, und laut seinem Sprecher hat Klaver es nie gesagt [2] [7].",
+  "bewering": "Jesse Klaver (GL): „Wenn ich die Wahlen gewinne, schaffe ich den Privatbesitz ab.“",
+  "kort": "Am 5. Oktober ging auf X ein Screenshot eines Zitats um, in dem Jesse Klaver sagt, er schaffe den Privatbesitz ab, wenn er die Wahlen gewinne [1]. Klaver hat das nie gesagt: Das Zitat stammt aus einem Blog, den ein anonymer Autor im Oktober 2020 auf Medium veröffentlichte [2] [7]. Der Blog ist verschwunden, aber das Zitat tauchte 2022, 2025 und 2026 immer wieder auf [1] [7] [8].",
+  "tekst": "Der Screenshot erschien am Montag, 5. Oktober, um 14:37 Uhr auf X, mit dem Text „Kijk dit is een echte communist.“ [1]. Am 18. November hatte der Post 953 Likes und 186 Antworten [1]. Am selben Nachmittag wurde ein Kontext dazu gesetzt [1].\n\nDas Zitat ist älter als der Post. Am Mittwoch, 14. Oktober 2020, teilte ein Account auf X einen Link zu einem Blog auf Medium, einer Plattform, auf der jeder schreiben kann [2]. Die Überschrift dieses Blogs war das Zitat [2]. Ein paar Stunden später schrieb das CIDI, das Centrum Informatie en Documentatie Israël, Klaver sei im Trend gewesen wegen eines antisemitischen Artikels, der behauptete, er wolle den Privatbesitz abschaffen [3]. Laut dem CIDI schrieb der Autor dort auch, Klaver habe angeblich eine jüdische Mutter [3].\n\nEs gibt kein Interview, keine Rede und kein Programm, in dem Klaver das sagt. dpa fand 2022 kein einziges Medium, das die Aussage festhielt; alle Verweise führten zurück zu dem Blog, den der Autor inzwischen entfernt hatte [7]. Klavers Sprecher sagte gegenüber dpa, er habe es nie gesagt [7]. Das Wahlprogramm von GroenLinks für 2021 hieß Tijd voor nieuw realisme, mit Klaver als Spitzenkandidat [5]. Die Wörter Privatbesitz und Privateigentum kommen darin laut dpa nicht vor [7].\n\nDanach tauchte das Zitat immer wieder auf. Im Februar 2022 stand es auf Facebook [7]. Im Oktober 2025, im Wahlkampf für die Wahl zur Zweiten Kammer am 29. Oktober, gingen erneut Screenshots um, und der Sprecher nannte es Fake News [8]. Nach dem Post vom 5. Oktober 2026 schrieb auch Knack, dass es keinen Beleg für das Zitat gibt [9].\n\nKlaver war 2020 Fraktionsvorsitzender von GroenLinks [4]. GroenLinks und die PvdA gingen am 13. Juni 2026 in Progressief Nederland, PRO, auf [6]. Klaver ist jetzt Fraktionsvorsitzender von PRO in der Zweiten Kammer [4].",
+  "niet_weten": "Wir wissen nicht, wer den Blog geschrieben hat, und auch nicht, ob er als Scherz gemeint war.",
+  "bereik": "953 Likes und 186 Antworten am 18. November",
+  "nog_uitzoeken": [
+   "Ob das Zitat im März 2021 und im November 2023 ebenfalls kursierte.",
+   "Eine Reaktion des Sprechers von Klaver bei PRO auf den Post von 2026."
+  ],
+  "tijdlijn": [
+   "Ein Account auf X teilt den Link zum Blog auf Medium, mit dem Zitat als Überschrift [2].",
+   "Das CIDI nennt den Artikel antisemitisch und falsch [3].",
+   "dpa: Die Aussage ist erfunden [7].",
+   "AFP Factcheck Nederland, übernommen von deCheckers: falsch [8].",
+   "GroenLinks und PvdA gehen in PRO auf [6].",
+   "Der Post auf X mit dem Screenshot [1].",
+   "Knack: kein Beleg für das Zitat [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 5. Oktober 2026, 14:37 Uhr."
+  ],
+  "beeld_alt": [
+   "Screenshot eines Artikels mit einem erfundenen Zitat von Jesse Klaver über die Abschaffung des Privatbesitzes. Stempel: FALSCH."
+  ]
+ }
+}

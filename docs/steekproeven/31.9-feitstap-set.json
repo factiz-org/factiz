@@ -1,0 +1,3263 @@
+{
+ "_meta": "De meetset van de feitenstap (PLAN #31.9), vastgelegd 2026-10-26 vóór de eerste vraag aan het oordeel. V (valse varianten), W (ware verwante zinnen) en S (samengestelde berichten) geschreven door Haiku 5.5 (feitstap-varianten-v1), elke zin gelezen door Claude; afgewezen met reden. K (de poortformuleringen), P (de minimale paren) en O (ongerelateerd) komen uit hun eigen bestanden.",
+ "zinnen": [
+  {
+   "id": "V000",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 6 August 1946 the United States dropped an atomic bomb on Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V001",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 6 August 1945 the Soviet Union dropped an atomic bomb on Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V002",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 6 August 1945 the United States dropped an atomic bomb on Nagasaki.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V003",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The United States never dropped an atomic bomb on Hiroshima during the Second World War.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V004",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El 6 de agosto de 1945 Estados Unidos lanzó una bomba atómica sobre Nagasaki.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V005",
+   "deel": "V",
+   "feit": "hiroshima-1945",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em 6 de agosto de 1945 a União Soviética lançou uma bomba atômica sobre Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W000",
+   "deel": "W",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The atomic bomb dropped on Nagasaki was made of plutonium.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W001",
+   "deel": "W",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Japan surrendered to the Allies in August 1945, ending the Second World War.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S000",
+   "deel": "S",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "On 6 August 1945 the United States dropped an atomic bomb on Hiroshima, and I believe the government has been hiding the true death toll ever since because it was secretly planned by a private banking cartel.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V010",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 7 December 1944 Japan attacked the US naval base at Pearl Harbor in Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V011",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 7 December 1941 Germany attacked the US naval base at Pearl Harbor in Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V012",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 7 December 1941 Japan attacked the US naval base at San Diego in California.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V013",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 7 December 1941 Japan did not attack the US naval base at Pearl Harbor in Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V014",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il 7 dicembre 1941 il Giappone attaccò la base navale americana di Pearl Harbor alle Hawaii, ma con soli tre aerei.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V015",
+   "deel": "V",
+   "feit": "pearl-harbor-1941",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "7 Aralık 1941'de Japonya, Hawaii'deki Pearl Harbor ABD deniz üssüne saldırmadı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W010",
+   "deel": "W",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Battle of Midway was fought in June 1942 and was a major turning point in the Pacific War.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W011",
+   "deel": "W",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The atomic bomb was dropped on Hiroshima on 6 August 1945.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (hiroshima-1945)"
+  },
+  {
+   "id": "S010",
+   "deel": "S",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "On 7 December 1941 Japan attacked the US naval base at Pearl Harbor in Hawaii, and that is why I think the government staged the attack to secretly control all newspapers, which everyone should know is the real reason.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V020",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews in 1925.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V021",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Japan and its collaborators murdered about six million Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V022",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six thousand Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V023",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators did not murder any Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V024",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Selama Perang Dunia II, Nazi Jerman dan kolaboratornya membunuh sekitar enam ribu orang Yahudi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V025",
+   "deel": "V",
+   "feit": "holocaust",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "خلال الحرب العالمية الثانية، لم تقتل ألمانيا النازية وحلفاؤها أي يهودي.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W020",
+   "deel": "W",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Nuremberg trials of major Nazi war criminals began in November 1945.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W021",
+   "deel": "W",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Auschwitz concentration camp was liberated by Soviet troops in January 1945.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S020",
+   "deel": "S",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews, and that is why I am certain the government faked the moon landing to hide its secret space weapons program.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V030",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1979 Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V031",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1989 Chinese troops opened fire on civilians in Shanghai to end the protests on Tiananmen Square.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V032",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1989 Chinese troops opened fire on civilians in Beijing to end protests on Tiananmen Square that were attended by fewer than fifty people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V033",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Chinese troops never opened fire on civilians in Beijing on 3 and 4 June 1989, and the protests on Tiananmen Square ended peacefully.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V034",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El 3 y 4 de junio de 1999 tropas chinas abrieron fuego contra civiles en Pekín para acabar con las protestas en la plaza de Tiananmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V035",
+   "deel": "V",
+   "feit": "tiananmen-1989",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em 3 e 4 de junho de 1989, tropas chinesas abriram fogo contra civis em Xangai para pôr fim aos protestos na praça Tiananmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W030",
+   "deel": "W",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Hu Yaobang died on 15 April 1989, and his death triggered the student protests in Beijing.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W031",
+   "deel": "W",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Chinese government declared martial law in Beijing in May 1989, before the crackdown on 3 and 4 June.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S030",
+   "deel": "S",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "On 3 and 4 June 1989 Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square, and the footage of the shootings was staged by Hollywood studios to discredit China.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V040",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1992 Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V041",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1995 Croatian Army forces killed more than 7,000 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V042",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1995 Bosnian Serb forces killed fewer than 70 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V043",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Bosnian Serb forces never killed any Bosniak men or boys at Srebrenica in July 1995.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V044",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Nel luglio 1995 le forze serbo-bosniache hanno ucciso più di 7.000 uomini e ragazzi bosniaci a Sarajevo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V045",
+   "deel": "V",
+   "feit": "srebrenica-1995",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Temmuz 1995'te Bosna Sırp güçleri Srebrenitsa'da 700'den az Boşnak erkek ve çocuğu öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W040",
+   "deel": "W",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The International Criminal Tribunal for the former Yugoslavia was established by the United Nations Security Council in 1993.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W041",
+   "deel": "W",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The International Court of Justice ruled in 2007 that genocide was committed at Srebrenica in 1995.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S040",
+   "deel": "S",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "In July 1995 Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica, but I believe the real story is that the government staged the massacre to win foreign aid.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V050",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 20 July 1972 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V051",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on Mars.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V052",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon with a crew of seven.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V053",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin never landed on the Moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V054",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pada 20 Juli 1972, astronot Apollo 11 Neil Armstrong dan Buzz Aldrin mendarat di Bulan.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V055",
+   "deel": "V",
+   "feit": "apollo-11",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "هبط رائدا الفضاء نيل أرمسترونغ وباز ألدرين من أبولو 11 على سطح المريخ في 20 يوليو 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W050",
+   "deel": "W",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Apollo 13 mission launched in April 1970 but was aborted after an oxygen tank explosion.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W051",
+   "deel": "W",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Yuri Gagarin became the first human to orbit the Earth in April 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S050",
+   "deel": "S",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "It is well documented that on 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon, but I believe the whole mission was filmed in a studio and the public should demand a full investigation.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V060",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth became a sphere only in the year 1900.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V061",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is a nearly cubical planet.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V062",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is a nearly spherical planet with a diameter of only 100 kilometers.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V063",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is a flat planet, not a sphere.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V064",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "La Tierra es un planeta casi cúbico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V065",
+   "deel": "V",
+   "feit": "earth-round",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A Terra é um planeta achatado em forma de disco plano.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W060",
+   "deel": "W",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Jupiter is the largest planet in the Solar System.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W061",
+   "deel": "W",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Water covers about 71 percent of the Earth's surface.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S060",
+   "deel": "S",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The Earth is a nearly spherical planet, and secret agencies are hiding the truth about it from the public.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V070",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs lived on Earth for only about 500 years and died out about 6 million years ago.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V071",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs died out about 6,600 years ago, after the Flood.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V072",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs survived until about 10,000 years ago in the Sahara Desert.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V073",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs never went extinct and still roam the forests of Canada today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V074",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "I dinosauri non aviari si sono estinti circa 6 milioni di anni fa, in Antartide.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V075",
+   "deel": "V",
+   "feit": "dinosaurs-66",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Avian olmayan dinozorlar yaklaşık 6 milyon yıl önce, Sibirya'da yaşamıyordu ama Afrika'da yaşıyorlardı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W070",
+   "deel": "W",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Birds are the living descendants of theropod dinosaurs.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W071",
+   "deel": "W",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Chicxulub impact crater is located off the coast of the Yucatán Peninsula in Mexico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S070",
+   "deel": "S",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago, but the government has secretly hidden their fossils to cover up a lunar mining program, and everyone should demand an investigation.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V080",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, evolved from common ancestors within the last 10,000 years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V081",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, evolved from common ancestors on Mars.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V082",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, evolved from a single common ancestor that lived only 500 years ago.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V083",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, were created separately and never shared any common ancestor.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V084",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Semua spesies hidup, termasuk manusia, berevolusi dari nenek moyang bersama dalam waktu 10.000 tahun terakhir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V085",
+   "deel": "V",
+   "feit": "evolution",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "جميع الكائنات الحية، بما في ذلك البشر، تطورت من أسلاف مشتركة قبل ألف عام فقط، ولم يكن لها أي سلف مشترك.",
+   "oordeel": "afgewezen",
+   "reden": "tegenstrijdig: 'uit gemeenschappelijke voorouders' en 'geen gemeenschappelijke voorouder'"
+  },
+  {
+   "id": "W080",
+   "deel": "W",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Earth is approximately 4.5 billion years old.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (earth-age)"
+  },
+  {
+   "id": "W081",
+   "deel": "W",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Charles Darwin published On the Origin of Species in 1859.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S080",
+   "deel": "S",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "All living species, humans included, evolved from common ancestors over billions of years, but the government has secretly been hiding the real evolution data from the public to control what we eat.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V090",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Natural volcanic eruptions, not human activities, are the main cause of global warming.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V091",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Human activities, mainly the burning of fossil fuels, are the main cause of global cooling.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V092",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Human activities, mainly the burning of fossil fuels, are the main cause of global warming on the Moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V093",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Human activities have no effect on global warming at all.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V094",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Las actividades humanas, principalmente la quema de combustibles fósiles, son la principal causa de que la Antártida se enfríe.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V095",
+   "deel": "V",
+   "feit": "climate-human",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "As atividades humanas, principalmente a queima de combustíveis fósseis, são a principal causa do aquecimento global em Marte.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W090",
+   "deel": "W",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Sea levels have risen over the past century, partly due to the melting of land ice and the thermal expansion of seawater.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W091",
+   "deel": "W",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The ozone layer has been recovering since the international ban on most ozone-depleting substances took effect.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S090",
+   "deel": "S",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Human activities, mainly the burning of fossil fuels, are the main cause of global warming, but the real reason temperatures are rising is a secret government weather-control program that no one is allowed to discuss.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V100",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In 2015, a large national study confirmed that vaccines cause autism in children.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V101",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Pediatricians in Canada officially announced that vaccines cause autism.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V102",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "A study of 500,000 children found that one in four vaccinated children developed autism.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V103",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Vaccines cause autism.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V104",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "I vaccini causano l'autismo, come dimostrato da numerosi studi scientifici recenti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V105",
+   "deel": "V",
+   "feit": "vaccines-autism",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Aşılar otizme neden olur ve bu durum bilimsel çalışmalarla kesin olarak kanıtlanmıştır.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W100",
+   "deel": "W",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Vaccines protect against measles, mumps, and rubella.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W101",
+   "deel": "W",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Autism is a neurodevelopmental condition that usually appears in early childhood.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S100",
+   "deel": "S",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Vaccines do not cause autism, but 5G towers are secretly spreading a disease through the water supply to control the population.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V110",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "HIV was shown to cause AIDS in 1950, decades before the virus was discovered.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V111",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Influenza causes AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V112",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "HIV causes AIDS within 24 hours of infection in every person.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V113",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "HIV does not cause AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V114",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "HIV menyebabkan AIDS dalam waktu satu hari setelah infeksi pada setiap orang.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V115",
+   "deel": "V",
+   "feit": "hiv-aids",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "فيروس نقص المناعة البشرية لا يسبب الإيدز.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W110",
+   "deel": "W",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W111",
+   "deel": "W",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "HIV is a retrovirus that primarily infects CD4 T cells.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S110",
+   "deel": "S",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "It is well established that HIV causes AIDS, as decades of research have confirmed. But the government is secretly adding fluoride to the water supply to control our minds, so wake up and share this before it is too late.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V120",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "mRNA COVID-19 vaccines were first developed in 1985 and rewrite a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V121",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Scientists at a university in Nairobi confirmed that mRNA COVID-19 vaccines change a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V122",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Each dose of an mRNA COVID-19 vaccine changes about 10 percent of a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V123",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "mRNA COVID-19 vaccines do change a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V124",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Las vacunas de ARNm contra la COVID-19 modifican permanentemente el ADN de las personas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V125",
+   "deel": "V",
+   "feit": "mrna-dna",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "As vacinas de mRNA contra a COVID-19 alteram o DNA humano dentro do núcleo das células.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W120",
+   "deel": "W",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "mRNA vaccines work by delivering instructions for making a viral protein into cells.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W121",
+   "deel": "W",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "COVID-19 mRNA vaccines must be stored at very cold temperatures before they are used.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S120",
+   "deel": "S",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "mRNA COVID-19 vaccines do not change a person's DNA, but the government is secretly installing tracking microchips in every dose to monitor everyone who got a shot.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V130",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19 in 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V131",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19 in Wuhan.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V132",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19 to over 500 million people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V133",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks are the main cause of COVID-19 transmission.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V134",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Le reti mobili 5G diffondono il COVID-19 a Milano.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V135",
+   "deel": "V",
+   "feit": "5g-covid",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "5G mobil ağlar COVID-19'u yayar.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W130",
+   "deel": "W",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "COVID-19 is caused by the SARS-CoV-2 virus.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (sars-cov-2-covid)"
+  },
+  {
+   "id": "W131",
+   "deel": "W",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Radio waves cannot transmit viruses between people, but they can heat body tissue at very high exposure levels.",
+   "oordeel": "afgewezen",
+   "reden": "zegt bijna het feit zelf (radiogolven dragen geen virussen over)"
+  },
+  {
+   "id": "S130",
+   "deel": "S",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "5G mobile networks do not spread COVID-19, but they are being secretly used to track everyone's location without consent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V140",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1971.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V141",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was born in Chicago, Illinois, in 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V142",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961 and weighed 50 pounds at birth.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V143",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was not born in Honolulu, Hawaii, in 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V144",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Barack Obama lahir di Jakarta, Indonesia, pada tahun 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V145",
+   "deel": "V",
+   "feit": "obama-hawaii",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "وُلد باراك أوباما في شيكاغو، إلينوي، عام 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W140",
+   "deel": "W",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Barack Obama served as the 44th president of the United States from 2009 to 2017.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W141",
+   "deel": "W",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Michelle Obama was born in Chicago, Illinois, in 1964.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S140",
+   "deel": "S",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961, but the government has secretly been hiding the truth about moon landing footage from the public for decades.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V150",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 July 2015 flight MH17 was shot down over eastern Ukraine by a Buk missile.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V151",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 July 2014 flight MH17 was shot down over western Poland by a Buk missile.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V152",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 July 2014 flight MH17 was shot down over eastern Ukraine by a single air-to-air missile fired from a fighter jet.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V153",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 July 2014 flight MH17 was not shot down at all and crashed because of engine failure.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V154",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El 17 de julio de 2014, el vuelo MH17 fue derribado sobre el este de Ucrania por un misil Buk.",
+   "oordeel": "afgewezen",
+   "reden": "waar: dit is het feit zelf"
+  },
+  {
+   "id": "V155",
+   "deel": "V",
+   "feit": "mh17-buk",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em 17 de julho de 2014, o voo MH17 foi derrubado sobre o leste da Ucrânia por um míssil Buk, mas o avião pousou em segurança em Varsóvia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W150",
+   "deel": "W",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Malaysia Airlines flight MH370 disappeared in March 2014 while flying from Kuala Lumpur to Beijing.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W151",
+   "deel": "W",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Dutch Safety Board concluded in 2015 that flight MH17 was downed by a Buk missile launched from a field in eastern Ukraine.",
+   "oordeel": "afgewezen",
+   "reden": "zegt in de kern het feit zelf (een Buk-raket)"
+  },
+  {
+   "id": "S150",
+   "deel": "S",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Flight MH17 was shot down over eastern Ukraine by a Buk missile on 17 July 2014, but I believe the real cause was a secret government experiment with weather-control technology that the media refuses to report.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V160",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia annexed Crimea from Ukraine in 2008.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V161",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia annexed Crimea from Georgia in 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V162",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014 with a population of over ten million people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V163",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia never annexed Crimea from Ukraine at any point in 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V164",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "La Russia ha annesso la Crimea dall'Ucraina nel 1995.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V165",
+   "deel": "V",
+   "feit": "crimea-annexation",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Rusya, 2014 yılında Kırım'ı Gürcistan'dan ilhak etti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W160",
+   "deel": "W",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Ukraine declared independence from the Soviet Union in 1991.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (ukraine-independence-1991)"
+  },
+  {
+   "id": "W161",
+   "deel": "W",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Crimean Tatar population was deported from Crimea by Soviet authorities in 1944.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S160",
+   "deel": "S",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014, and this is why I think the moon landing footage was filmed in a studio in Nevada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V170",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 24 February 2019 Russia launched a full-scale invasion of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V171",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V172",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 24 February 2022 Germany launched a full-scale invasion of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V173",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia never invaded Ukraine on 24 February 2022; no military operation took place that day.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V174",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pada 24 Februari 2019, Rusia melancarkan invasi skala penuh ke Ukraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V175",
+   "deel": "V",
+   "feit": "russia-invasion-2022",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "بدأت روسيا غزوًا شاملًا لأوكرانيا في 24 فبراير 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W170",
+   "deel": "W",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Russia annexed Crimea from Ukraine in March 2014.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (crimea-annexation)"
+  },
+  {
+   "id": "W171",
+   "deel": "W",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Soviet Union dissolved in December 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S170",
+   "deel": "S",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "On 24 February 2022 Russia launched a full-scale invasion of Ukraine, but the real reason the war started is that government officials secretly planned it to distract voters from a local election scandal.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V180",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine became an independent state in 1968.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V181",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine became an independent state in 1975.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V182",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine became an independent state after Russia annexed it in 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V183",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine has never been an independent state.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V184",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Ucrania se convirtió en un estado independiente en 1984.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V185",
+   "deel": "V",
+   "feit": "ukraine-independence-1991",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A Ucrânia tornou-se um estado independente em 2003.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W180",
+   "deel": "W",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Soviet Union was officially dissolved in December 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W181",
+   "deel": "W",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Kyiv is the capital city of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S180",
+   "deel": "S",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Ukraine became an independent state in 1991, but the government has secretly been controlled by a global banking cartel since then.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V190",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 1998 were carried out by al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V191",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 were carried out by the Iraqi army.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V192",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 killed exactly 50 people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V193",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 were not carried out by al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V194",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Gli attentati dell'11 settembre 2001 sono stati compiuti dall'ETA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V195",
+   "deel": "V",
+   "feit": "sept-11-alqaeda",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "11 Eylül 2001 saldırıları Londra'da gerçekleşti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W190",
+   "deel": "W",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Pentagon was struck by American Airlines Flight 77 on 11 September 2001.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W191",
+   "deel": "W",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "United Airlines Flight 93 crashed in Shanksville, Pennsylvania, on 11 September 2001.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S190",
+   "deel": "S",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The attacks of 11 September 2001 were carried out by al-Qaeda, but I believe the government staged them to justify starting new wars.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V200",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1941, when Germany invaded Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V201",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Italy invaded Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V202",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland, which then had a population of only 3 million people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V203",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe did not begin when Germany invaded Poland on 1 September 1939.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V204",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Perang Dunia II di Eropa dimulai pada 1 September 1941, ketika Jerman menginvasi Polandia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V205",
+   "deel": "V",
+   "feit": "ww2-start-poland",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "بدأت الحرب العالمية الثانية في أوروبا في 1 سبتمبر 1939 عندما غزت إيطاليا بولندا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W200",
+   "deel": "W",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "World War I began in 1914 after the assassination of Archduke Franz Ferdinand of Austria.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W201",
+   "deel": "W",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Japanese attack on Pearl Harbor occurred on 7 December 1941.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (pearl-harbor-1941)"
+  },
+  {
+   "id": "S200",
+   "deel": "S",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Germany invaded Poland on 1 September 1939, starting the Second World War in Europe, but the Apollo 11 Moon landing was faked in a film studio in Nevada to hide a secret space program.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V210",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1941 the Soviet Union invaded Poland from the east.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V211",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1939 Nazi Germany invaded Poland from the east.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V212",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Soviet invasion of Poland on 17 September 1939 involved fewer than 1,000 troops.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V213",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1939 the Soviet Union did not invade Poland at all.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V214",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El 17 de septiembre de 1939, la Unión Soviética invadió Polonia desde el oeste.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V215",
+   "deel": "V",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em 17 de setembro de 1939, a União Soviética invadiu a Polônia pelo sul.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W210",
+   "deel": "W",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Germany invaded Poland on 1 September 1939, starting World War II in Europe.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (ww2-start-poland)"
+  },
+  {
+   "id": "W211",
+   "deel": "W",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Molotov-Ribbentrop Pact was signed in Moscow in August 1939.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S210",
+   "deel": "S",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "On 17 September 1939 the Soviet Union invaded Poland from the east, but the real story hidden by historians is that the 1969 Moon landing was staged in a studio to distract the public.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V220",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1945 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V221",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into British and French spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V222",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 was signed by three nations and included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V223",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 contained no secret protocol and did not divide Eastern Europe into spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V224",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il Patto Molotov-Ribbentrop del 23 agosto 1939 includeva un protocollo segreto che divideva l'Europa orientale in sfere di influenza britanniche e francesi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V225",
+   "deel": "V",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Molotov-Ribbentrop Paktı 23 Ağustos 1941'de imzalandı ve gizli protokolü Doğu Avrupa'yı Almanya ile Sovyetler Birliği arasında bölüştürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W220",
+   "deel": "W",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Germany invaded Poland on 1 September 1939, starting the Second World War in Europe.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (ww2-start-poland)"
+  },
+  {
+   "id": "W221",
+   "deel": "W",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Soviet Union invaded Finland in November 1939, starting the Winter War.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S220",
+   "deel": "S",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol dividing Eastern Europe into German and Soviet spheres of influence, but I believe the moon landing was staged in a studio in Nevada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V230",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1941, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V231",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1940, the German Gestapo killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V232",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1940, the Soviet NKVD killed about 2,200 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V233",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Soviet NKVD did not kill any Polish officers or other prisoners in the Katyn massacre in spring 1940.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V234",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pada musim semi 1940, NKVD Soviet membunuh sekitar 2.200 perwira Polandia dan tahanan lain dalam pembantaian Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V235",
+   "deel": "V",
+   "feit": "katyn-1940",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "في ربيع عام 1940 قتلت الوحدات الألمانية حوالي 22000 ضابط بولندي وسجناء آخرين في مذبحة كاتين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W230",
+   "deel": "W",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Katyn forest is located near Smolensk in western Russia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W231",
+   "deel": "W",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The bodies of the Katyn victims were discovered by German forces in 1943.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S230",
+   "deel": "S",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The Katyn massacre took place in spring 1940, when the Soviet NKVD killed about 22,000 Polish officers and other prisoners, but the moon landing was faked in a film studio in Nevada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V240",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The famine of 1902–1903 in Soviet Ukraine, known as the Holodomor, killed millions of people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V241",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The famine of 1932–1933 in Soviet Georgia, known as the Holodomor, killed millions of people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V242",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The famine of 1932–1933 in Soviet Ukraine, known as the Holodomor, killed fewer than one thousand people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V243",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The famine of 1932–1933 in Soviet Ukraine, known as the Holodomor, did not kill anyone.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V244",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "La hambruna de 1932–1933 en Ucrania soviética, conocida como Holodomor, mató a unas cien personas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V245",
+   "deel": "V",
+   "feit": "holodomor-millions",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A fome de 1852–1853 na Ucrânia soviética, conhecida como Holodomor, matou milhões de pessoas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W240",
+   "deel": "W",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Chernobyl nuclear disaster occurred in 1986 in Soviet Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W241",
+   "deel": "W",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Soviet Union was officially dissolved in December 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S240",
+   "deel": "S",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The famine of 1932–1933 in Soviet Ukraine, known as the Holodomor, killed millions of people, and I believe the government secretly planted it to hide a major mineral discovery.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V250",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "After capturing Nanjing in December 1941, Japanese troops killed large numbers of Chinese civilians.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V251",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "After capturing Nanjing in December 1937, British troops killed large numbers of Chinese civilians.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V252",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "After capturing Nanjing in December 1937, Japanese troops killed exactly 37 Chinese civilians in total.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V253",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "After capturing Nanjing in December 1937, Japanese troops protected Chinese civilians from all harm.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V254",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Dopo aver conquistato Nanchino nel dicembre 1937, le truppe britanniche uccisero un gran numero di civili cinesi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V255",
+   "deel": "V",
+   "feit": "nanjing-1937",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Aralık 1937'de Nanking'i ele geçirdikten sonra Japon askerleri çok sayıda Çinli sivili korudu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W250",
+   "deel": "W",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Nanjing Massacre was documented by the International Committee of the Nanking Safety Zone.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W251",
+   "deel": "W",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Matsui Iwane was convicted by the Tokyo War Crimes Tribunal for war crimes related to the Nanjing atrocities.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S250",
+   "deel": "S",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "After Japanese troops captured Nanjing in December 1937 and killed large numbers of Chinese civilians, a secret government program has been hiding the true death toll by replacing archival records with forged documents.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V260",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 1994.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V261",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Belgian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V262",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces killed fifty thousand civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V263",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces did not kill any civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V264",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pasukan Rusia tidak membunuh warga sipil di Bucha, Ukraina, ketika mereka menduduki kota itu pada Maret 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V265",
+   "deel": "V",
+   "feit": "bucha-2022",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "قتلت القوات البلجيكية مدنيين في بوتشا بأوكرانيا أثناء احتلالها للمدينة في مارس 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W260",
+   "deel": "W",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Russian troops withdrew from the Kyiv region in late March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W261",
+   "deel": "W",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Ukrainian authorities reported mass graves in Bucha in early April 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S260",
+   "deel": "S",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022, but the real goal of Western governments is to secretly seize Ukraine's gas reserves before the next election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V270",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In March 2016, Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V271",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In March 2018, Sergei and Yulia Skripal were poisoned in Birmingham with a Novichok nerve agent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V272",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In March 2018, only Sergei Skripal was poisoned in Salisbury with a Novichok nerve agent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V273",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Sergei and Yulia Skripal were never poisoned, and they were not exposed to any nerve agent in Salisbury in March 2018.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V274",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "En marzo de 2015, Sergei y Yulia Skripal fueron envenenados en Salisbury con el agente nervioso Novichok en Moscú.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V275",
+   "deel": "V",
+   "feit": "skripal-novichok",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em março de 2018, Sergei e Yulia Skripal foram envenenados em Liverpool com o agente nervoso Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W270",
+   "deel": "W",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Novichok class of nerve agents was developed by the Soviet Union.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W271",
+   "deel": "W",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Salisbury is a cathedral city in Wiltshire, England.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S270",
+   "deel": "S",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "In March 2018 Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent, but the official investigation is a cover-up and the real culprit is a secret chemical lab in Nevada that no one is allowed to mention.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V280",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In August 2018 Alexei Navalny was poisoned with a nerve agent of the Novichok group.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V281",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In August 2020 Alexei Navalny was poisoned with a nerve agent of the Novichok group in Moscow.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V282",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In August 2020 Alexei Navalny was poisoned with three nerve agents of the Novichok group.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V283",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In August 2020 Alexei Navalny was not poisoned with any nerve agent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V284",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Nell'agosto 2015 Alexei Navalny è stato avvelenato con un agente nervino del gruppo Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V285",
+   "deel": "V",
+   "feit": "navalny-novichok-2020",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Alexei Navalny, 2020 yılının Ağustos ayında Novichok grubuna ait bir sinir gazıyla zehirlenmedi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W280",
+   "deel": "W",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Alexei Navalny was arrested in Moscow in January 2021 after returning to Russia from Germany.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W281",
+   "deel": "W",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Novichok group of nerve agents was developed by Soviet scientists in the 1970s and 1980s.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S280",
+   "deel": "S",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "In August 2020 Alexei Navalny was poisoned with a nerve agent of the Novichok group, and the Kremlin's denials prove that the poisoning was staged by Western intelligence agencies to discredit Russia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V290",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2023 the UN General Assembly, with 143 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V291",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022 the UN Security Council, with 143 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V292",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022 the UN General Assembly, with 97 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V293",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022 the UN General Assembly voted to endorse Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V294",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Majelis Umum PBB pada Oktober 2022 dengan 143 suara mendukung menyatakan Rusia mengecam aneksasi empat wilayah Ukraina.",
+   "oordeel": "afgewezen",
+   "reden": "onzin: Rusland zou de annexatie zelf veroordelen"
+  },
+  {
+   "id": "V295",
+   "deel": "V",
+   "feit": "annexation-2022-invalid",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "في أكتوبر 2022 صوتت الجمعية العامة للأمم المتحدة بأغلبية 143 صوتا لتأييد ضم روسيا لأربع مناطق أوكرانية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W290",
+   "deel": "W",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The UN General Assembly adopted a resolution in March 2022 demanding that Russia withdraw its forces from Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W291",
+   "deel": "W",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2022.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (russia-invasion-2022)"
+  },
+  {
+   "id": "S290",
+   "deel": "S",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "In October 2022 the UN General Assembly, with 143 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions, but the real story is that the votes were secretly rigged by a hidden group of diplomats and everyone should ignore the official count.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V300",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The link between smoking tobacco and lung cancer was first established in 1600.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V301",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Eating apples causes lung cancer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V302",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smoking tobacco causes lung cancer in people with three lungs.",
+   "oordeel": "afgewezen",
+   "reden": "onzin: mensen met drie longen"
+  },
+  {
+   "id": "V303",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smoking tobacco prevents lung cancer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V304",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Fumar tabaco previene el cáncer de pulmón en todas las personas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V305",
+   "deel": "V",
+   "feit": "smoking-lung-cancer",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Comer maçãs causa câncer de pulmão.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W300",
+   "deel": "W",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Smoking tobacco is a major cause of heart disease.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W301",
+   "deel": "W",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Air pollution contributes to asthma in children.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S300",
+   "deel": "S",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Smoking tobacco causes lung cancer, but the government is secretly adding chemicals to cigarettes to control our minds.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V310",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1975 after a worldwide vaccination campaign.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V311",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1980 after a vaccination campaign led only by the government of Brazil.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V312",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign that reached over ten billion people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V313",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was never declared eradicated, and it still circulates freely among humans today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V314",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "La vaiolo è stato dichiarato eradicato nel 1992 dopo una campagna di vaccinazione mondiale.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V315",
+   "deel": "V",
+   "feit": "smallpox-eradicated",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Çiçek hastalığı 1950 yılında dünya çapındaki bir aşılama kampanyasının ardından tamamen yok edildi ilan edildi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W310",
+   "deel": "W",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Smallpox was caused by the variola virus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W311",
+   "deel": "W",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Edward Jenner developed one of the first smallpox vaccines in 1796.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S310",
+   "deel": "S",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign, but the official numbers were faked by pharmaceutical companies to hide a secret mind-control program that is still running today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V320",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials published in 2015 found that ivermectin does not meaningfully improve recovery from COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V321",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials of ivermectin for COVID-19 were conducted on the Moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V322",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "A single randomised trial with two participants found that ivermectin does not meaningfully improve recovery from COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V323",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials found that ivermectin meaningfully improves recovery from COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V324",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Uji klinis acak besar pada tahun 2015 menemukan bahwa ivermectin secara signifikan mempercepat pemulihan dari COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V325",
+   "deel": "V",
+   "feit": "ivermectin-covid",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "وجدت تجارب سريرية عشوائية كبيرة أن الإيفermectin يحسّن التعافي من مرض كوفيد-19 بشكل ملحوظ.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W320",
+   "deel": "W",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Vaccines have substantially reduced severe COVID-19 hospitalisations and deaths.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W321",
+   "deel": "W",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Dexamethasone reduces mortality in severely ill COVID-19 patients who need oxygen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S320",
+   "deel": "S",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19, but pharmaceutical companies are secretly hiding a cure that works in every case.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V330",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is caused by the SARS-CoV-1 coronavirus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V331",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is caused by the influenza A virus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V332",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is caused by a bacterium called Streptococcus pneumoniae.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V333",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is not caused by any virus or pathogen at all.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V334",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El COVID-19 es causado por el virus de la gripe influenza B.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V335",
+   "deel": "V",
+   "feit": "sars-cov-2-covid",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A COVID-19 é causada pela bactéria Escherichia coli.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W330",
+   "deel": "W",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "SARS-CoV-2 was first identified in late 2019 in Wuhan, China.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W331",
+   "deel": "W",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Most people infected with SARS-CoV-2 recover without needing hospital treatment.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S330",
+   "deel": "S",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "It is well established that COVID-19 is caused by the SARS-CoV-2 coronavirus, but the government is secretly using 5G towers to spread it, so share this message before they delete it.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V340",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine protect only about 40 to 50 percent of vaccinated people against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V341",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the influenza vaccine protect about 97 to 99 percent of vaccinated people against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V342",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine provide no protection against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V343",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against malaria.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V344",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Due dosi del vaccino MPR proteggono solo circa il 20 per cento delle persone vaccinate contro il morbillo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V345",
+   "deel": "V",
+   "feit": "measles-mmr-97",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "MMR aşısının iki dozu kızamığa karşı hiçbir koruma sağlamaz.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W340",
+   "deel": "W",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Measles is caused by a virus from the Paramyxovirus family.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W341",
+   "deel": "W",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The measles vaccine was first licensed in the United States in 1963.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S340",
+   "deel": "S",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles, but the government is secretly putting tracking chips in them to control the population.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V350",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is about 4.5 thousand years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V351",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is about 45 billion years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V352",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is about 4.5 million years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V353",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is less than 10,000 years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V354",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Bumi berusia sekitar 4,5 juta tahun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V355",
+   "deel": "V",
+   "feit": "earth-age",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "عمر الأرض نحو 4.5 مليون سنة وهي حديثة جدا بمقياس الكون، وقد تكونت قبل 300 سنة فقط.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W350",
+   "deel": "W",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Moon formed roughly 4.5 billion years ago after a collision between early Earth and a Mars-sized body.",
+   "oordeel": "afgewezen",
+   "reden": "geen vaststaand feit: de inslag die de maan vormde is een hypothese"
+  },
+  {
+   "id": "W351",
+   "deel": "W",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "The Sun is about 4.6 billion years old and is a main-sequence star.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S350",
+   "deel": "S",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "The Earth is about 4.5 billion years old, but scientists have hidden evidence that the planet was actually created in a laboratory in 1972.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V360",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere rose from about 280 parts per million before industrialisation to more than 400 parts per million in 1850.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V361",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has fallen from about 280 parts per million before industrialisation to below 200 parts per million today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V362",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 800 parts per million today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V363",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has never risen above 300 parts per million since industrialisation began.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V364",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El dióxido de carbono en la atmósfera subió de unas 280 partes por millón antes de la industrialización a más de 400 partes por millón hoy, pero en 1900 ya superaba las 1000 partes por millón.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V365",
+   "deel": "V",
+   "feit": "co2-rise",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "O dióxido de carbono na atmosfera caiu de cerca de 280 partes por milhão antes da industrialização para menos de 150 partes por milhão hoje.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W360",
+   "deel": "W",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Water covers about 71 percent of the Earth's surface.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W361",
+   "deel": "W",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Methane is a greenhouse gas that is far more potent than carbon dioxide per molecule over a 20-year period.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S360",
+   "deel": "S",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today, but governments are secretly hiding the real data because they plan to control everyone's thermostats next year.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V370",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are condensation trails formed from smoke that condenses and melts into liquid droplets.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V371",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are condensation trails formed by water vapour from ground fuel tanks that condenses and freezes at sea level.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V372",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are condensation trails formed from the exhaust of a single engine only, measured at one tenth of a kilometre in height.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V373",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are not condensation trails, because engine exhaust never contains any water vapour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V374",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Le scie bianche dietro gli aerei che volano in alto sono strisce di condensa formate da fumo di sigarette che si scioglie in gocce di pioggia calda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V375",
+   "deel": "V",
+   "feit": "contrails",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Yüksek uçan uçakların arkasındaki beyaz izler, motor egzozundaki su buharının deniz seviyesinde donmasıyla oluşan yoğunlaşma izleridir ve bunlar tamamen kuru kum taneciklerinden oluşur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W370",
+   "deel": "W",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Cirrus clouds are high, thin clouds made mostly of ice crystals and are found at altitudes above six kilometres.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W371",
+   "deel": "W",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Jet engines burn kerosene-based fuel, and the main combustion products are carbon dioxide and water vapour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S370",
+   "deel": "S",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Contrails are condensation trails: water vapour from engine exhaust that condenses and freezes into ice crystals, but the government is secretly spraying chemicals through them to control the weather and nobody in the media will admit it.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V380",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden won the 2016 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V381",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Donald Trump won the 2020 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V382",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden won the 2020 United States presidential election with 200 electoral votes.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V383",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden lost the 2020 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V384",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Joe Biden memenangkan pemilihan presiden Amerika Serikat tahun 2016.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V385",
+   "deel": "V",
+   "feit": "biden-2020",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "خسر جو بايدن الانتخابات الرئاسية الأمريكية لعام 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W380",
+   "deel": "W",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Barack Obama won the 2008 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W381",
+   "deel": "W",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Kamala Harris served as Vice President of the United States from 2021 to 2025.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "S380",
+   "deel": "S",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Joe Biden won the 2020 United States presidential election. Anyone who trusts the official count is naive, and I believe the media is hiding the real vote totals from everyone.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V390",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V391",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Petro Poroshenko was elected president of Ukraine in April 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V392",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019 with only 30 percent of the vote.",
+   "oordeel": "afgewezen",
+   "reden": "dubbelzinnig: 30% klopt voor de eerste ronde, in april won hij met 73%"
+  },
+  {
+   "id": "V393",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was never elected president of Ukraine; he was appointed by parliament.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V394",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Volodymyr Zelensky fue elegido presidente de Ucrania en abril de 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V395",
+   "deel": "V",
+   "feit": "zelensky-2019",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Volodymyr Zelensky foi eleito presidente da Ucrânia em abril de 2016.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W390",
+   "deel": "W",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Volodymyr Zelensky was a comedian and actor before entering politics.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "W391",
+   "deel": "W",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "waar_verwant",
+   "tekst": "Ukraine declared independence from the Soviet Union in 1991.",
+   "oordeel": "afgewezen",
+   "reden": "zegt een ander kernfeit (ukraine-independence-1991)"
+  },
+  {
+   "id": "S390",
+   "deel": "S",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "samengesteld",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019, but secret groups inside the government have been controlling every decision he makes, and I think ordinary citizens should stop trusting any official statement.",
+   "oordeel": "goed"
+  }
+ ]
+}

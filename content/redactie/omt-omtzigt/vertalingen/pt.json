@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren citou o OMT, não Pieter Omtzigt, em seu depoimento sobre o toque de recolher",
+  "oordeel_zin": "Em seu depoimento de 2 de setembro, Ollongren disse que o parecer do OMT a convenceu, e o nome Omtzigt não aparece [2].",
+  "bewering": "Ollongren admite: Omtzigt a convenceu da utilidade do toque de recolher.",
+  "kort": "Em 6 de setembro circulou no X uma imagem sobre o depoimento de Kajsa Ollongren, com a alegação de que ela admitiu que Pieter Omtzigt a convenceu da utilidade do toque de recolher [1]. No depoimento, Ollongren falou do OMT, o Outbreak Management Team que aconselhou o governo durante a pandemia, e não de Omtzigt [2] [4]. O parecer do OMT sobre o efeito do toque de recolher foi decisivo para ela [2].",
+  "tekst": "No domingo, 6 de setembro, às 17h08, uma conta no X publicou uma imagem sobre o depoimento da ex-ministra Kajsa Ollongren, com o texto de que ela admitiu que Omtzigt a havia convencido da utilidade do toque de recolher [1]. A postagem zombava dizendo que ela primeiro era contra e depois passou a culpa para outra pessoa [1]. Em 18 de novembro, tinha 200 curtidas e 61 comentários [1].\n\nOllongren foi ouvida na quarta-feira, 2 de setembro, das 10h00 às 12h50, pela comissão parlamentar de inquérito sobre o coronavírus [2] [3]. Durante a pandemia, ela era ministra do Interior e vice-primeira-ministra pelo D66 [2] [3]. A agência ANP noticiou o depoimento naquela manhã [6].\n\nOMT significa Outbreak Management Team: os especialistas que aconselharam o governo durante a pandemia. O RIVM publica os pareceres deles [4]. Na transcrição do depoimento, a sigla OMT aparece 65 vezes, e o nome Omtzigt nenhuma vez [2].\n\nSobre o toque de recolher, Ollongren contou que ela e seu ministério foram contrários por muito tempo, porque a medida interfere de modo tão profundo na liberdade de movimento de todos [2]. Segundo ela, o toque de recolher esteve na mesa três ou quatro vezes e saiu da mesa todas as vezes [2]. O fator decisivo foi o OMT. Em janeiro de 2021, ele estimou o efeito sobre a propagação do vírus em 8% a 13%, e disse que nenhuma outra medida poderia alcançar o mesmo [2]. Diante disso, ela concordou a contragosto, e disse que então estava convencida [2].\n\nIsso condiz com o que outras testemunhas contaram antes. Segundo a NOS, o OMT já havia citado o toque de recolher como opção, o governo inicialmente não queria, e um parecer urgente posterior do OMT disse que a medida poderia ter efeito [5]. O toque de recolher entrou em vigor em 23 de janeiro de 2021 e foi prorrogado cinco vezes [2].\n\nA transcrição que lemos ainda não foi corrigida. Por isso relatamos o que Ollongren disse, e não a citamos literalmente [2].",
+  "niet_weten": "Não sabemos se o autor da postagem leu OMT errado ou se transformou a sigla em Omtzigt de propósito. Que o nome Omtzigt não aparece é uma contagem nossa no relatório.",
+  "bereik": "200 curtidas e 61 comentários em 18 de novembro",
+  "nog_uitzoeken": [
+   "Quem lê a postagem como uma piada sobre uma sigla lida errado pode defendê-la como enganosa. Nós optamos por falsa."
+  ],
+  "tijdlijn": [
+   "Um toque de recolher regional aparece pela primeira vez em um parecer do OMT [2].",
+   "O toque de recolher entra em vigor, após um parecer urgente do OMT [2] [5].",
+   "A NOS descreve, depois de depoimentos anteriores, como o toque de recolher acabou sendo adotado [5].",
+   "O depoimento de Ollongren começa [2] [3].",
+   "A postagem no X com a imagem e a alegação sobre Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Postagem no X, 6 de setembro de 2026, 17h08.",
+   "O depoimento público de Kajsa Ollongren à comissão parlamentar de inquérito sobre o coronavírus, 2 de setembro de 2026, 10h00. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Imagem sobre o depoimento de Kajsa Ollongren a respeito do toque de recolher, compartilhada como se ela tivesse citado Pieter Omtzigt. Carimbo: FALSO.",
+   "O vídeo do depoimento de Kajsa Ollongren na sala de inquéritos da Tweede Kamer."
+  ]
+ }
+}

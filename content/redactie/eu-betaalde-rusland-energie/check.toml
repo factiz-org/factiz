@@ -1,0 +1,192 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/eu-betaalde-rusland-energie/dossier.md.
+
+sleutel = "eu-betaalde-rusland-energie"
+status = "gepubliceerd"
+taal = "nl"
+adres = "eu-302-miljard-russische-energie"
+adres_en = "eu-302-billion-russian-energy"
+kop = "De EU betaalde Rusland sinds 2022 ruim 200 miljard euro voor energie, geen 302 miljard"
+oordeel = "onwaar"
+oordeel_zin = "De EU kocht veel Russische energie, maar volgens haar eigen cijfers voor 197 tot 213 miljard euro, afhankelijk van de periode, en ook met 2026 erbij blijft de 302 miljard van Novak zo'n 70 miljard te hoog [1] [3] [5]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "De EU betaalde Rusland sinds 2022 voor 302 miljard euro aan energie, veel meer dan de officiële cijfers zeggen."
+platform = "Vesti, de Russische staatstelevisie"
+eerst_gezien = "2026-10-12"
+
+kort = """
+Volgens de Russische vicepremier Aleksandr Novak betaalde de EU Rusland sinds 2022 302 miljard euro voor energie; \
+Donald Trump noemde dezelfde dag 250 miljard dollar [1] [4]. De eigen cijfers van de EU komen uit op 197 miljard euro \
+vanaf maart 2022, en op 213 miljard van januari 2022 tot eind 2025 [3] [5]. Ook met 2026 erbij blijft het bedrag van \
+Novak zo'n 70 miljard euro te hoog; dat van Trump ligt in de buurt [2] [5]."""
+
+tekst = """
+Op maandag 12 oktober zei de Russische vicepremier Aleksandr Novak tegen de staatszender Vesti dat de EU sinds 2022 \
+voor 302 miljard euro aan Russische energie kocht [1] [2]. Hij zei niet welke brandstoffen hij meetelde, tegen welke \
+prijs, of tot welke dag [1]. Dezelfde dag schreef Donald Trump op Truth Social dat de EU Rusland 250 miljard dollar voor \
+energie had betaald [4]. Hij noemde geen periode [4]. Volgens Euronews wilde hij laten zien dat Europese landen Rusland \
+blijven financieren [1]. Drie dagen eerder had Trump een afspraak met Poetin aangekondigd over Russische diesel voor de \
+Verenigde Staten [6].
+
+De Europese Commissie kwam op 13 oktober met haar eigen cijfer. Van maart 2022 tot en met juli 2026 voerde de EU voor \
+197 miljard euro aan energie uit Rusland in [1] [3]. Dat getal komt uit COMEXT, de handelsdatabank van Eurostat, het \
+statistiekbureau van de EU [1].
+
+Die 197 miljard begint in maart 2022, na de inval. Januari en februari 2022 tellen niet mee, en dat waren dure \
+maanden. In een antwoord aan het Europees Parlement noemde eurocommissaris Marta Kos 213 miljard euro voor januari 2022 \
+tot en met december 2025 [5]. Daarvan kwam 144 miljard uit 2022 alleen, en 17 miljard uit 2025 [5].
+
+Ook met die twee maanden erbij komt de EU niet aan 302 miljard. Novak zei zelf dat Rusland Europa in de eerste negen \
+maanden van 2026 voor 21,3 miljard dollar aan energie leverde [1] [2]. Tegen dezelfde koers als zijn 302 miljard is dat \
+ongeveer 20 miljard euro. Tel je dat bij de 213 miljard op, dan kom je op zo'n 233 miljard euro. Dat is nog altijd \
+bijna 70 miljard minder dan Novak noemde.
+
+Het bedrag van Trump ligt dichterbij. 250 miljard dollar is volgens de omrekening van Euronews 223 miljard euro [1]. \
+Dat zit tussen de 213 miljard tot eind 2025 en het totaal met 2026 erbij. Wie pas vanaf maart 2022 telt, zoals de \
+Commissie deed, komt lager uit: 197 miljard euro, 26 miljard minder [1] [3].
+
+Er zit dus iets in. De EU betaalde Rusland sinds 2022 meer dan 200 miljard euro voor olie, gas en kolen. Maar het \
+bedrag daalde snel, van 144 miljard in 2022 naar 17 miljard in 2025 [5]. Volgens het onderzoeksbureau CREA voerde de \
+EU van eind februari 2025 tot eind februari 2026 voor 14,5 miljard euro aan Russische brandstoffen in, 36% minder dan \
+het jaar ervoor [7]. Vanaf 1 januari 2027 wil de EU geen Russisch gas meer kopen, met uitzonderingen voor onder meer \
+Hongarije en Slowakije [1].
+
+In het Nederlands ging het op X vooral over de dieseldeal zelf. Een post van 10 oktober noemde die een manier om de \
+Russische oorlogsmachine te financieren [8]."""
+
+niet_weten = """
+We weten niet hoe Novak rekende: welke brandstoffen en prijzen, en of hij met Europa alleen de EU bedoelde of ook landen \
+als Turkije en Servië. We weten ook niet wat de EU in 2026 tot nu toe betaalde; daarvoor gebruikten we het getal van \
+Novak zelf, dat over heel Europa gaat. En we vonden geen Nederlandse post die de 302 miljard of de 250 miljard dollar \
+herhaalde."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat de EU van januari tot en met oktober 2026 betaalde, volgens de handelscijfers van Eurostat. Nu gebruiken we daarvoor het getal van Novak zelf.",
+  "Wat Novak meetelde: alleen de EU, of ook Turkije, Servië en andere Europese landen.",
+  "De omrekening van dollar naar euro met de koers van de ECB van 12 oktober. Euronews gebruikt twee verschillende koersen.",
+]
+
+[[rekensom]]
+geval = "De Commissie: maart 2022 tot en met juli 2026"
+som = "invoer van energie uit Rusland volgens COMEXT"
+uitkomst = "197 miljard euro"
+
+[[rekensom]]
+geval = "Eurocommissaris Kos: januari 2022 tot en met december 2025"
+som = "144 miljard in 2022, 17 miljard in 2025, de rest in 2023 en 2024"
+uitkomst = "213 miljard euro"
+
+[[rekensom]]
+geval = "Met 2026 erbij, ruim geteld"
+som = "213 miljard plus ongeveer 20 miljard, de 21,3 miljard dollar die Novak noemde voor negen maanden"
+uitkomst = "ongeveer 233 miljard euro"
+
+[[rekensom]]
+geval = "Novak"
+som = "302 min 233 miljard"
+uitkomst = "ongeveer 69 miljard euro meer"
+
+[[rekensom]]
+geval = "Trump"
+som = "250 miljard dollar, omgerekend door Euronews"
+uitkomst = "223 miljard euro"
+
+[[tijdlijn]]
+datum = "2026-10-09"
+wat = "Trump kondigt een afspraak met Poetin aan over Russische diesel voor de Verenigde Staten [6]."
+
+[[tijdlijn]]
+datum = "2026-10-10"
+tijd = "15:13"
+wat = "Een Nederlandse post op X noemt de dieseldeal een manier om de Russische oorlogsmachine te financieren [8]."
+
+[[tijdlijn]]
+datum = "2026-10-12"
+wat = "Novak zegt bij Vesti dat de EU sinds 2022 voor 302 miljard euro aan Russische energie kocht; Trump schrijft op Truth Social over 250 miljard dollar [1] [4]."
+
+[[tijdlijn]]
+datum = "2026-10-13"
+wat = "De Europese Commissie noemt 197 miljard euro, van maart 2022 tot en met juli 2026 [1] [3]."
+
+[[tijdlijn]]
+datum = "2026-11-06"
+wat = "Eunews meldt het antwoord van eurocommissaris Kos: 213 miljard euro van januari 2022 tot eind 2025 [5]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "Europe paid Russia $209bn for energy since 2022, far below Moscow's $320bn claim"
+datum = "2026-10-13"
+url = "https://www.euronews.com/2026/10/13/europe-paid-russia-209bn-for-energy-since-2022-far-below-moscows-320bn-claim"
+archief = "https://web.archive.org/web/20261027134343/https://www.euronews.com/2026/10/13/europe-paid-russia-209bn-for-energy-since-2022-far-below-moscows-320bn-claim"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "Trump's diesel deal with Putin, a rebuke from Brussels, and a squabble over Europe's enormous Russian energy bill"
+datum = "2026-10-13"
+url = "https://meduza.io/en/feature/2026/10/14/trump-s-diesel-deal-with-putin-a-rebuke-from-brussels-and-a-squabble-over-europe-s-enormous-russian-energy-bill"
+archief = "https://web.archive.org/web/20261028113846/https://meduza.io/en/feature/2026/10/14/trump-s-diesel-deal-with-putin-a-rebuke-from-brussels-and-a-squabble-over-europe-s-enormous-russian-energy-bill"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Jevropejska Pravda"
+titel = "EU has paid Russia US$209bn for energy since March 2022"
+datum = "2026-10-13"
+url = "https://www.eurointegration.com.ua/eng/news/2026/10/13/7247577/"
+archief = "https://web.archive.org/web/20261013185921/https://www.eurointegration.com.ua/eng/news/2026/10/13/7247577/"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Newsquawk"
+titel = "US President Trump posts \"The European Union paid Russia 250 Billion Dollars for Energy\""
+datum = "2026-10-12"
+url = "https://www.newsquawk.com/headlines/us-president-trump-posts-the-european-union-paid-russia-250-billion-dollars-for-energy"
+archief = "https://web.archive.org/web/20261119142607/https://www.newsquawk.com/headlines/us-president-trump-posts-the-european-union-paid-russia-250-billion-dollars-for-energy"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Eunews"
+titel = "EU paid Russia 213 billion euros for energy since the start of the war in Ukraine"
+datum = "2026-11-06"
+url = "https://www.eunews.it/en/2026/11/06/eu-paid-russia-213-billion-euros-for-energy-since-the-start-of-the-war-in-ukraine"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Associated Press via MPR News"
+titel = "Trump strikes deal with Putin to get diesel in sharp reversal of U.S. policy"
+datum = "2026-10-10"
+url = "https://www.mprnews.org/story/2026/10/10/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy"
+archief = "https://web.archive.org/web/20261104132353/https://www.mprnews.org/story/2026/10/10/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Centre for Research on Energy and Clean Air (CREA)"
+titel = "Fourth year of full-scale invasion: Russian fossil fuel revenues tank to 27% below pre-invasion levels"
+datum = "2026-02-24"
+url = "https://energyandcleanair.org/wp/wp-content/uploads/2026/02/CREA_RU_Analysis_Four-years-of-invasion_24.02.2026.pdf"
+archief = "https://web.archive.org/web/20261023163456/https://energyandcleanair.org/wp/wp-content/uploads/2026/02/CREA_RU_Analysis_Four-years-of-invasion_24.02.2026.pdf"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "X"
+titel = "Post over de dieseldeal van Trump"
+datum = "2026-10-10"
+prive = true
+archief = "https://web.archive.org/web/20261119154242/https://cdn.syndication.twimg.com/tweet-result?id=2108908792968855927&token=541byr3sct&lang=en"

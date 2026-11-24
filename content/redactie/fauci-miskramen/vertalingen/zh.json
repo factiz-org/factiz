@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck fauci-miskramen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "8bfcb99e165bb348",
+ "veldafdrukken": {
+  "kop": "2d7afa5cd185ef5a",
+  "oordeel_zin": "1825f93d8476b55b",
+  "bewering": "6dbda7d4424f65e1",
+  "kort": "7a99dd33123cef66",
+  "tekst": "064bc01eb3080187",
+  "niet_weten": "ec53e01f96304878",
+  "bereik": "906687ab2d3fc580",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "4fc7a8ce1ba50413",
+  "beeld_bijschrift": "c4160215e1b80fad",
+  "beeld_alt": "21d125c8b5a0a89c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Marc Van Ranst被指要為Fauci據稱隱瞞的事負責，但Fauci並未隱瞞任何傷害，Van Ranst也沒有撰寫孕婦接種建議",
+  "oordeel_zin": "Fauci在簡訊中談的是理論上的風險，而不是傷害，對數萬名孕婦的研究也沒有發現風險升高；Van Ranst不屬於在比利時撰寫孕婦建議的小組 [2] [8] [16]。",
+  "bewering": "自從得知Fauci「早就知道」疫苗對孕婦「有害」卻仍然「隱瞞」之後，Marc van Ranst就「驚慌失措」地在發推文！Van Ranst應該為他在新冠騙局中扮演的角色受到「懲罰」！",
+  "kort": "X上的一則貼文要求懲罰比利時病毒學家Marc Van Ranst，理由是Anthony Fauci據稱隱瞞了疫苗對孕婦有害 [15]。Fauci在2021年1月的簡訊中談的是一種理論上的可能性，而不是傷害，對數萬名孕婦的研究也沒有發現流產風險升高 [2] [6] [8]。簡訊中沒有出現Van Ranst，比利時的孕婦建議出自高等衛生委員會（Hoge Gezondheidsraad）的一個小組，而他不在其中 [16] [17]。",
+  "tekst": "2026年8月12日星期三19:23，X上出現一則貼文，附有一張Marc Van Ranst的大幅照片；他是魯汶大學（KU Leuven）及Rega Instituut的病毒學家 [15] [18]。貼文稱，自從得知Fauci知道疫苗對孕婦有害卻隱瞞之後，Van Ranst就驚慌失措地發推文 [15]。因此，貼文說他應該為自己在貼文所稱的新冠騙局中扮演的角色受到懲罰 [15]。兩天前，已有一則荷語貼文以同樣的理由指責Fauci [15]。\n\nVan Ranst與孕婦建議\n\n2020年和2021年，Van Ranst在GEES、GEMS等小組中就防疫措施向比利時政府提供意見 [20] [21]。在比利時，有關疫苗接種的建議由高等衛生委員會提出，委員會下設專門的疫苗小組 [16]。該委員會在2021年1月建議不要為所有孕婦接種疫苗，並在2021年4月讓她們獲得優先接種資格 [17] [16] [19]。撰寫該建議的工作小組名單中沒有Van Ranst，批准該建議的專家名單中也沒有他 [16]。\n\nFauci的簡訊中沒有出現Van Ranst [2] [3]。不過，2022年12月，當Elon Musk寫道Fauci應該被起訴時，他曾在X上為Fauci辯護 [22]。我們沒有找到Van Ranst在2026年8月就這些簡訊發表的貼文。\n\nFauci寫了什麼\n\n2026年8月10日，美國參議員Ron Johnson和Rand Paul公開了Fauci擔任美國傳染病研究所所長時所用手機的簡訊截圖 [1] [3]。衛生部已於8月5日把這部手機交給參議院 [1]。\n\n這些簡訊寫於2021年1月25日和26日，往來者是Fauci、時任CDC主任的Rochelle Walensky，以及不久後再度出任surgeon general（美國政府的最高醫務官）的Vivek Murthy [2] [3]。Murthy問孕婦是在懷孕早期還是晚期接種比較好，Fauci回答說，這方面既沒有數據，也沒有理論上的理由 [2]。當天下午，一位同事寫信告訴他，最初的研究避免在懷孕頭三個月接種，原因是可能發燒，以及該階段流產比例較高 [2]。隨後Fauci寫道，第二劑後發燒「theoretically could be associated with miscarriage in the 1st trimester」 [2] [4]。\n\n一天後，他寫道必須把這些風險與懷孕期間感染新冠的風險相權衡，並且在逾10,000名已接種的孕婦中沒有發現問題 [3]。2021年2月，他公開表示孕婦身上沒有出現警訊 [4]。他在那裡沒有提到對發燒的理論性擔憂，但他在私下也沒有任何關於傷害的數據 [3] [13]。\n\n研究發現了什麼\n\n在2,456名於20週前接種mRNA疫苗的孕婦中，流產機率為13%至14%，落在未接種疫苗時也屬常見的範圍內 [6]。在美國和挪威，發生流產的女性在流產前不久接種疫苗的比例，並不高於繼續懷孕的女性 [7] [8]。一項涵蓋21項研究、近150,000名女性的綜述沒有發現風險升高 [9]。CDC登記系統包含12,097例懷孕的完整數據，於2026年2月得出的結果為10.8% [10]。\n\n隨著這些簡訊，一個舊數字也再度流傳：接種後流產率82% [12]。該數字出自2021年4月的一項初步研究，而且計算有誤：它把流產數除以一群大多數仍在懷孕中的女性 [5] [12]。第一則荷語貼文還提到VAERS（美國的不良反應通報系統）中的通報 [15]。根據管理者的說法，該系統並非用來判定疫苗是否造成了某種不適 [11]。Knack在8月12日把一項涉及同樣簡訊的說法判為不實 [23]。\n\nVan Ranst成為目標\n\n2021年5月，Van Ranst被一名持槍軍人Jürgen Conings點名威脅，他和家人躲進安全屋，直到6月Conings被發現死亡為止 [24] [25]。據VRT NWS報導，五年後他仍然收到仇恨郵件 [25]。",
+  "niet_weten": "我們在 X、Bluesky 或比利時媒體上，都沒有找到 Van Ranst 就這些簡訊發表的貼文或言論。貼文所暗指的新冠詐欺指的是什麼，她並未說明。我們不知道 Fauci 的同事指的是哪些研究；參議員們也表示不知道 [2]。手機上超過 34,000 則訊息中，只有一小部分被公開 [1]。",
+  "bereik": "截至11月18日，分別被查看43,828次和29,569次",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Fauci寫到第二劑後發燒與流產之間理論上的關聯 [2]。",
+   "Fauci寫道，在逾10,000名已接種的孕婦中沒有發現問題 [3]。",
+   "高等衛生委員會建議不要為所有孕婦接種疫苗 [17]。",
+   "後來被用來得出82%這個數字的初步研究 [5]。",
+   "高等衛生委員會讓所有孕婦在接種上獲得優先資格 [16]。",
+   "兩項研究都沒有發現接種後流產風險升高 [6] [7]。",
+   "Elon Musk主張起訴Fauci時，Van Ranst在X上為Fauci辯護 [22]。",
+   "CDC登記系統的完整數據：10.8%，落在常見範圍內 [10]。",
+   "Johnson和Paul公開了第一批簡訊 [1]。",
+   "X上第一則荷語貼文 [15]。",
+   "PolitiFact：82%這個數字不正確 [12]。Knack把一項涉及這些簡訊的說法判為不實 [23]。",
+   "X上附有Van Ranst照片的貼文 [15]。",
+   "FactCheck.org：參議員們把不同月份的言論混在一起 [13]。",
+   "AFP Factcheck Nederland查核這項說法 [14]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文，2026年8月12日19:23，兩則中的其中一則。",
+   "2021年1月25日和26日的簡訊，為參議員Johnson和Paul在2026年8月10日公開的版本。"
+  ],
+  "beeld_alt": [
+   "X上一則貼文的截圖，附有Marc Van Ranst的大幅照片，貼文稱他應該受到懲罰，因為Fauci據稱隱瞞了疫苗對孕婦有害。印章：不實。",
+   "Fauci、Walensky和Murthy之間關於孕期接種疫苗的簡訊截圖。"
+  ]
+ }
+}

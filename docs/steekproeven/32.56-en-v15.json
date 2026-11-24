@@ -1,0 +1,165 @@
+{
+ "toelichting": "PLAN #32.56, Engels, lezer-v15 op de derde verse set: elk rood en oranje en elk groen bij O, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag, door drie deelagenten met dezelfde regels als 32.56-en. Geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet. Bij W en W-merk was er geen alarm en geen niet bevestigd.",
+ "labels": {
+  "O:gfc-02af39c87ae818f1#C": {
+   "label": "bewijst",
+   "toelichting": "MSN ('Did owner of Chipotle donate to ICE agent...? No, but here's who did'), Fox Business en Newsweek laten zien dat het Bill Ackman was, die niet aan Chipotle verbonden is, en niet de eigenaar of CEO. Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-4b3a0b950bca2aa4#C": {
+   "label": "vals",
+   "toelichting": "YouTurn beoordeelde precies deze tekst als misleidend (de vergelijking Tamil Nadu tegen Uttar Pradesh; de pagina van YouTurn toont alleen een titel, de reden is niet gelezen). De bronnen van Factiz bevestigen alleen de losse getallen (TOI 10,71, The Hindu 48.696, UP 64.457), niet de framing van instorting en ramp, dus Factiz zei ten onrechte dat het klopt."
+  },
+  "O:gfc-3e915c1298d3c7e5#C": {
+   "label": "bewijst",
+   "toelichting": "MSN ('Pentagon photo of Kid Rock miscaptioned') en Snopes op X zeggen dat de foto echt is maar niet laat zien dat hij het Pentagon toesprak over de Straat van Hormuz; dat is precies wat Snopes misleidend noemde. Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-26fe419619924402#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News (en de overname op Radio Free, 24 juni 2026) zegt dat de video van 24 seconden van een huilende vrouw met hijab een oude video uit Dhaka is, gedeeld als hindoes die een moslimvrouw 'Jai Sri Ram' laten zeggen; dat past bij de check van FACTLY (een video uit Bangladesh). Pagina's niet geopend."
+  },
+  "O:gfc-23040eb0c1619b3b#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck op Yahoo ('No, Trump didn't say US and Italy have been allies since ancient Rome') citeert dat Trump een gedeeld cultureel en politiek erfgoed noemde, geen bondgenootschap. Beoordeeld op wat Factiz zag, pagina niet geopend."
+  },
+  "O:gfc-291cf51499794a30#C": {
+   "label": "bewijst",
+   "toelichting": "Washington Post, Guardian en BBC melden dat hij in het ziekenhuis werd opgenomen ('serious but stable'), en NBC News (14 september 2026) dat hij aan een behandelprogramma begon; hij leefde dus na augustus. Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-49590ccf99d11991#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact op X (28 mei 2026, dezelfde dag als de check) zegt dat de bewering onwaar is en dat het ministerie van Justitie bevestigde dat hij niet is aangevallen; Yahoo citeert de woordvoerder van het ministerie. Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-ccf386f9bc76d56a#C": {
+   "label": "bewijst",
+   "toelichting": "The Tribune en Daily Sun zeggen dat de virale video van een Sumatraanse olifant die een tijger uit het water redt door AI is gemaakt (een oude AI-video die opnieuw rondgaat); dat is waarom YouTurn het onwaar noemde. Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-ed9e9ab33f9a15ec#C": {
+   "label": "bewijst",
+   "toelichting": "seasonalentertainmentsource.com zegt na de dood van Parton dat Dollywood geen eigendom van Disney is, People dat het park van Parton en Herschend is, en 10news onderzocht het verhaal van Mouse Trap News (satire, zelf geen tegenspraak). Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-9c7f7f102cb5f7d2#C": {
+   "label": "bewijst",
+   "toelichting": "Colombo Telegraph zegt dat de campagne voor Glucocare-capsules naam en gezicht van professor Katulanda zonder toestemming gebruikte en volledige genezing beloofde, en noemt de Sri Lanka College of Endocrinologists; dus geen aanbeveling. Beoordeeld op wat Factiz zag, pagina niet geopend."
+  },
+  "O:gfc-9d9a6739992751a1#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News ('TMC supporter faking injury? TOI, Republic, ABP falsely share Bihar incident as Bengal') zegt dat de video uit Bihar komt en niet uit West-Bengalen; dat past bij de check van FACTLY (een video uit Bihar). Beoordeeld op wat Factiz zag, pagina niet geopend."
+  },
+  "O:gfc-ce88431c7d8eccd8#C": {
+   "label": "bewijst niet",
+   "toelichting": "De drie bronnen (Alt News 17 en 22 april, The Quint 23 april, alle drie geopend) gaan over andere video's van vóór de stemming: twee mannen met een bijl die worden vastgehouden, en het leger dat in Panchagarh betogers wegsleept, zonder TMC-aanhanger; geen bron gaat over de video van CRPF die een TMC-aanhanger slaat na de verkiezingen. De check van FACTLY opende niet (403), dus niet vast te stellen dat het dezelfde video is."
+  },
+  "O:gfc-702a8d23ebe4bb1f#C": {
+   "label": "set fout",
+   "toelichting": "Het bericht meldt wat Trump zegt, en dat klopt: People en HuffPost citeren zijn bericht op Truth Social over 'extreme intelligence'. Het oordeel onwaar van PolitiFact geldt voor de inhoud (de MoCA meet geen intelligentie, wat KCRA, BMJ en Mirror ook zeggen), niet voor het feit dat hij het zei; zoals bij Modi in 32.56. Pagina's niet geopend."
+  },
+  "O:gfc-ba5a9ff15da0bd7c#C": {
+   "label": "bewijst",
+   "toelichting": "CHOP zegt dat studies geen oorzakelijk verband vinden tussen vaccins en astma, autisme, artritis, diabetes en MS; dat is de kern van de check van FactRakers (vaccins veroorzaken niet de vele ziekten die een plaatje eraan koppelt). Beoordeeld op wat Factiz zag, pagina's niet geopend."
+  },
+  "O:gfc-3bba0ec0c0c1f338#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (spreekt tegen) meldt in wat Factiz zag dat de video van Trump die bij zijn limousine op zijn knieën valt met AI is gemaakt; Snopes noemde de bewering Fake. Pagina niet geopend, het fragment volstaat."
+  },
+  "O:gfc-6fa206452a92dc2f#C": {
+   "label": "bewijst",
+   "toelichting": "De pagina van Assemblylid Bonta (geopend) is een overname van de Snopes-factcheck die de bewering False noemt: AB 2624 noemt journalistiek niet en de naam 'Stop Nick Shirley Act' komt van tegenstander DeMaio; CalMatters (geopend) bevestigt dat de naam van DeMaio komt."
+  },
+  "O:gfc-31e5a55bf91e7345#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes op X (spreekt tegen) zegt in wat Factiz zag dat het beeld van Kirks verzoek aan Musk nep is, en Times of India noemt de uitwisseling gefabriceerd. Pagina's niet geopend, de fragmenten volstaan."
+  },
+  "O:gfc-077040ff2396ea4c#C": {
+   "label": "vals",
+   "toelichting": "Burnham verloor in 2010 van Ed Miliband en in 2015 van Jeremy Corbyn, nooit van Starmer; dat staat zelfs in de BBC-bron die Factiz noemt, en Full Fact noemt de bewering Incorrect. Factiz gaf ten onrechte groen."
+  },
+  "O:gfc-22bbb846a8346a99#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo en The Daily Beast (spreekt tegen) zeggen in wat Factiz zag dat het screenshot nep is (leeftijd onjuist als 40) en dat Good geen strafblad had; ook de Snopes-post op Threads zegt dat het screenshot niet echt is. Pagina's niet geopend."
+  },
+  "O:gfc-192b67c232f371f3#C": {
+   "label": "bewijst niet",
+   "toelichting": "De genoemde bronnen (Livemint, India.com, Republic, Digit, India Herald) zijn algemene waarschuwingen voor oplichting met boekings- en bezorgberichten; geen enkele zegt dat er geen gratis LPG-fles per 12 maart is of gaat over de nepvideo van Modi die YouTurn controleerde. India.com geopend (alleen algemene waarschuwing), India Herald liep vast."
+  },
+  "O:gfc-69d1a9d55ccafb6a#C": {
+   "label": "bewijst niet",
+   "toelichting": "De YouTube-factcheck (geopend) toont alleen de titel als vraag, zonder conclusie; de kop van The Indian Express zegt dat de politie een virale video uit UP en niet uit Rajasthan noemt, maar het fragment zegt niet dat het om de ophangvideo gaat. Indian Express opende niet."
+  },
+  "O:gfc-cb255056abbb60f8#C": {
+   "label": "bewijst",
+   "toelichting": "MSN (spreekt tegen) meldt in wat Factiz zag dat de bewering over gevangen Delta Force-militairen een met AI gemaakte hoax is, en Shayan Sardarizadeh zegt dat er geen bewijs is en dat SynthID de beelden als AI herkent. Pagina's niet geopend."
+  },
+  "O:gfc-ed995da4ef4a868f#C": {
+   "label": "bewijst",
+   "toelichting": "NPR, El Paso Times, Freep en Time (spreekt tegen) laten in wat Factiz zag zien dat het de CPB is die ontbindt, terwijl PBS banen schrapt en blijft bestaan (Time interviewt de PBS-baas in augustus 2026). Pagina's niet geopend, de fragmenten volstaan."
+  },
+  "O:gfc-f87ce279dea0135e#C": {
+   "label": "set fout",
+   "toelichting": "Gatchalian sprak wel over het lucht-naar-water-project van DSWD als hulp tegen de watertekorten van El Niño (PIA en GMA, in wat Factiz zag); VERA Files geeft 'needs context' voor de citaatkaart die het als 'oplossing' voor Super El Niño brengt, terwijl het om één proefinstallatie gaat. De formulering 'to help address' klopt zoals gesteld."
+  },
+  "O:gfc-d3fa2a74f36c919d#C": {
+   "label": "bewijst",
+   "toelichting": "De Snopes-post op Facebook en op X (spreekt tegen) zegt in wat Factiz zag dat 'jerky' in de Epstein-dossiers geen codetaal voor mensenvlees is, en de Mirror noemt het een snack en de kannibalismetheorie speculatie. Pagina's niet geopend."
+  },
+  "O:gfc-98b756b59a1a0833#C": {
+   "label": "bewijst",
+   "toelichting": "De brief van de UK Statistics Authority (OSR) en Rightsnet met Full Fact (spreekt tegen) zeggen in wat Factiz zag dat de welzijnsuitgaven al sinds minstens 2011 hoger zijn dan de inkomstenbelasting, dus niet voor het eerst. Pagina's niet geopend."
+  },
+  "O:gfc-d9af923b1cb802f8#C": {
+   "label": "bewijst",
+   "toelichting": "MSN (spreekt tegen) meldt in wat Factiz zag dat volgens Snopes het scheetgeluid bij het bewerken is toegevoegd en in het originele beeld niet zit. Pagina niet geopend, het fragment volstaat."
+  },
+  "O:gfc-1f268baa8d974ba3#C": {
+   "label": "bewijst",
+   "toelichting": "NDTV, The Tribune, ETV Bharat en de Times of India melden dat Jamia Millia Islamia de circulaire over een directe nikah tijdens de ramadan nep noemt en aangifte deed; dat staat al in wat Factiz zag (pagina's niet geopend)."
+  },
+  "O:gfc-047906bd9093b7b9#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News (factcheck, band goed) zegt in titel en fragment dat de jhalmuri-verkoper in Jhargram geen SPG-commando is; Onlyfact en ETV Bharat noemen hem Vikram Sahu uit Gaya. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-452016cb2d2d3237#C": {
+   "label": "bewijst",
+   "toelichting": "Rappler en Inquirer melden dat de video die Pia Cayetano deelde gesplitst is, en Diokno zegt bij Inquirer dat de aanklagers niet naar bewijs vissen; dat toont dat het bericht misleidend is. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-158a7bb94048e502#C": {
+   "label": "bewijst",
+   "toelichting": "De draad op het MoneySavingExpert-forum (geopend, juni 2025) beschrijft precies dit aanbod (een pallet van 60 zakken aarde van B&Q na een paar vragen en een klein bedrag) en noemt het een scam met een verwijzing naar B&Q zelf; Which? (geopend, 2023) gaat over andere B&Q-enquêtemails en de Facebookpost van B&Q toont de inhoud niet."
+  },
+  "O:gfc-43416f28bf03143b#C": {
+   "label": "bewijst",
+   "toelichting": "Global News en NDTV melden dat de man in de video zelf zegt dat hij Epstein niet is ('Palm Beach Pete'), en Newsweek noemt hem een lookalike; de Yahoo-factcheck (Snopes) behandelt precies deze bewering. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-47d3b8d63a19e5cf#C": {
+   "label": "bewijst niet",
+   "toelichting": "Alle bronnen gaan over andere Screwfix-enquêtescams (een DeWalt-set voor £3 in 2025, een Stanley-set in 2023, Bosch-boren in 2024, een krik), geopend waar het kon (ukworkshop, mx5oc, deeside; Mirror, ultimatehandyman en het Screwfix-forum openden niet); geen enkele noemt Makita LXT of £8,55, dus alleen een patroon en afwezigheid."
+  },
+  "O:gfc-1b7e61cfefc206b0#C": {
+   "label": "bewijst",
+   "toelichting": "USA Today, Yahoo/AOL en Mandatory zeggen dat de Veiligheidsraad Trump niet als oorlogsmisdadiger bestempelde en bij de spoedvergadering niemand zo noemde; de virale X-post wordt letterlijk onwaar genoemd. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-cb1849c546c97741#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (AFP) meldt dat Hegseth ten onrechte beweerde dat Biden troepen naar stembureaus stuurde en dat 10 staten zeiden dat de Garde niet bij stembureaus stond; HuffPost zegt dat de staten hun eigen Garde activeerden. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-fddb1d2b7f81240b#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews (geopend) en Wired melden dat Apple zegt dat de dorpsnamen er nooit op stonden; Euronews vond ook een klacht uit 2019 over ontbrekende namen en geen 'voor'-beelden, al bevestigde het Apples woorden niet zelf in archieven. Dat volstaat om de verwijdering in april 2026 te weerleggen, met enige twijfel."
+  },
+  "O:gfc-bea958164c2d2350#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia (band goed) meldt sterke reële bbp-groei in 2021 en het Center for American Progress dat de groei in 2023 en 2024 de prognoses overtrof; dat weerlegt het 'lage groei'-deel van stagflatie, zoals ook FactCheck.org redeneerde. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-e471122d9bcae5ad#C": {
+   "label": "bewijst niet",
+   "toelichting": "De Swatch-pagina (geopend) zegt alleen dat de Royal Pop alleen in geselecteerde winkels te koop is, één per persoon, en noemt geen enquête of scam; de BBC (opende niet) zegt in het fragment hetzelfde over de verkoop. Geen bron gaat over de enquête zelf, dus alleen een indirecte aanwijzing."
+  },
+  "O:gfc-b1efa2700bf73361#C": {
+   "label": "bewijst",
+   "toelichting": "Chatham House (opende niet, 403) zegt in het fragment dat de VS in de verdedigingsovereenkomst van 1951 de soevereiniteit van Denemarken over Groenland erkennen, een geschreven document; Idaho Public Press citeert FactCheck.org dat de bewering onwaar is."
+  },
+  "O:gfc-f7b8cc465612870e#C": {
+   "label": "vals",
+   "toelichting": "De bronnen bevestigen alleen dat Trump de zin uitsprak; het bericht stelt inhoudelijk dat het besluit de VS gelijktrekt met andere ontwikkelde landen, wat FactCheck.org misleidend noemt (het schema volgt Denemarken, en volgens de NYT-bron is dat een klein land). Factiz zegt zelf dat de inhoud betwist wordt, maar gaf toch groen."
+  }
+ }
+}

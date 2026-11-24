@@ -1,0 +1,147 @@
+{
+ "toelichting": "De lezing van de PO van de voorstellen bij het dossier zelensky-luxury (PLAN #33.6): per factcheck ja, nee of twijfel (alleen een notitie), gekozen op de leespagina en door Claude teruggelezen; onder `versies` haar lezing van welke factchecks hetzelfde bericht zijn. Wat hier staat, vraagt een volgende ronde niet opnieuw.",
+ "gelezen_door": "PO",
+ "datum": "2026-11-11",
+ "labels": {
+  "7a4fbfcf728f2b1c": "ja",
+  "5c7d0f277c81c9ae": "nee",
+  "811defa435ebafcc": "ja",
+  "1e12ab4a477f50c6": "ja",
+  "43dcc8c09fde5587": "ja",
+  "f19286ed9c4ff2b1": "ja",
+  "f5026769c335ec6a": "ja",
+  "96a1010c277e3f93": "ja",
+  "9323db1c79ea2652": "ja",
+  "56765f7b557f0c5a": "ja",
+  "fb599a327a56daa9": "ja",
+  "25d3cd0127f43868": "ja",
+  "c54c0a561e13f3fc": "ja",
+  "66a431a15c08f53f": "ja",
+  "77ebe7e58204a998": "ja",
+  "f288eeb5247f6091": "ja",
+  "e3c4958cde25d458": "ja",
+  "927e1be1aeab91a2": "ja",
+  "49a5a84cbbfb4886": "ja",
+  "fec073edd8a382f8": "ja",
+  "cf4563a6722b1575": "ja",
+  "d9954369011455df": "ja",
+  "e4f0869aab70cdb9": "ja",
+  "899069cd6cc9df46": "ja",
+  "164403185859f628": "ja",
+  "a5244ba1bb9da8f0": "ja",
+  "828784f9ba32b359": "ja",
+  "a8b45a6c225d2889": "ja",
+  "7976429f6355cf29": "ja",
+  "93a77c66b133c4d5": "ja",
+  "f738f8af18835e07": "ja",
+  "424e4dbb3d273c39": "ja",
+  "9aecddbddddc0110": "ja",
+  "2669a1ee742e445d": "ja",
+  "372c756eecca496d": "ja",
+  "cec8987c60395689": "nee",
+  "efc30acb1aed0593": "ja",
+  "15848fd76f0d9189": "ja",
+  "b419dc2737c3fab6": "nee",
+  "19c7d6c1eb2385ec": "ja",
+  "cb9f2524d1c393f1": "ja",
+  "ee19950cdc87e97e": "nee",
+  "3d3e999295da0c18": "ja",
+  "0da9ac2d6ce4048f": "nee"
+ },
+ "opmerkingen": {
+  "cec8987c60395689": "Eigenlijk geen factcheck: het gaat over kid rock die een bericht deelt (dat is waar, maar bericht niet)",
+  "b419dc2737c3fab6": "Ook niet echt een check. Later (PO 2026-11-11): \"paspoort eruit\"",
+  "ee19950cdc87e97e": "Niet te checken...",
+  "0da9ac2d6ce4048f": "Twijfel",
+  "5c7d0f277c81c9ae": "Later (PO 2026-11-11): \"money allebei eruit\"; de Nederlandse check van dezelfde cover kreeg al nee"
+ },
+ "versies": {
+  "v-850-million-wealth": {
+   "oordeel": "ja",
+   "leden": [
+    "19c7d6c1eb2385ec",
+    "7a4fbfcf728f2b1c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "cartier-new-york-jewelry": {
+   "oordeel": "ja",
+   "leden": [
+    "f5026769c335ec6a",
+    "96a1010c277e3f93",
+    "9323db1c79ea2652"
+   ],
+   "zonder": [
+    "56765f7b557f0c5a"
+   ],
+   "opmerking": "Een deel hoort erbij, maar dit bericht is breder geformulleerd en bespreek 3 claims, waarvan deze 1 is"
+  },
+  "two-yachts-purchase": {
+   "oordeel": "ja",
+   "leden": [
+    "fb599a327a56daa9",
+    "25d3cd0127f43868",
+    "c54c0a561e13f3fc",
+    "66a431a15c08f53f",
+    "efc30acb1aed0593"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "cash-table-photo": {
+   "oordeel": "ja",
+   "leden": [
+    "77ebe7e58204a998",
+    "3d3e999295da0c18"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "goebbels-villa-purchase": {
+   "oordeel": "ja",
+   "leden": [
+    "f288eeb5247f6091",
+    "e3c4958cde25d458"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "highgrove-house-purchase": {
+   "oordeel": "ja",
+   "leden": [
+    "927e1be1aeab91a2",
+    "49a5a84cbbfb4886",
+    "fec073edd8a382f8",
+    "cf4563a6722b1575",
+    "d9954369011455df",
+    "e4f0869aab70cdb9",
+    "899069cd6cc9df46"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "vuni-palace-casino-purchase": {
+   "oordeel": "ja",
+   "leden": [
+    "164403185859f628",
+    "a5244ba1bb9da8f0",
+    "828784f9ba32b359"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "bugatti-purchase": {
+   "oordeel": "ja",
+   "leden": [
+    "a8b45a6c225d2889",
+    "7976429f6355cf29",
+    "93a77c66b133c4d5",
+    "f738f8af18835e07",
+    "372c756eecca496d"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  }
+ }
+}

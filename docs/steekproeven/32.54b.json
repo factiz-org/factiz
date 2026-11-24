@@ -1,0 +1,120 @@
+{
+ "toelichting": "De labels van #32.54, versie 2. Elk groen bij N2, met of zonder de regel (vals of set fout); bij W2 elk groen dat een versie van de regel wegnam (terecht: de foto staat niet op de bevestigende pagina's; vals: ze staat er wel en de stap miste haar); elk rood en oranje zonder de eigen check als bron.",
+ "labels": {
+  "N2:73568eb33ab0#C": {
+   "label": "bewijst",
+   "toelichting": "De check van EUvsDisinfo uit de database [D1] gaat over precies deze bewering. Twee Russische blogs uit februari 2010 zetten bij dezelfde knutselkanonnen 'gemaakt in een kleuterschool in Naberezjnye Tsjelny', in Rusland.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:86f747ab41a1#C": {
+   "label": "bewijst niet",
+   "toelichting": "AFP gaat over een andere foto, van de Westelijke Jordaanoever, en de Indian Express over een ander protest, van AISA op 10 oktober 2021. Volgens Fact Crescendo en The Quint is de virale foto van een botsing bij Ramjas College in Delhi in 2017, en geen bron toont dat. HRW en Amnesty bevestigen bovendien de algemene bewering, dus rood op de tekst is te zwaar.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:dc3abd4ccea7#C": {
+   "label": "bewijst",
+   "toelichting": "India Today (de eigen check), Factly, BOOM en Alt News: de man die aan het bed vastzit is niet Stan Swamy, maar de veroordeelde gevangene Baburam Balwan Singh uit Etah.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:2874b59cf461#C": {
+   "label": "bewijst",
+   "toelichting": "PolitiFact (7 mei 2024, dezelfde dag als de eigen check van Lead Stories) vond geen bewijs dat de neef van Dr. Sebi de cel in ging voor het onthullen van 'gatekept health secrets'. Dat is dezelfde bewering, alleen met 'levenslang' in plaats van 155 jaar.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:8376d1f3a5f2#C": {
+   "label": "bewijst",
+   "toelichting": "The Star brengt de check van PesaCheck zelf: de foto toont Aisha Jumwa niet terwijl ze smeekt om te mogen spreken op de UDA-rally in Malindi (FALSE). Africa Check zegt hetzelfde over dezelfde foto.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:9b3406cf43f4#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bron is een ándere PesaCheck-check (88031716f43b, 28 september 2022) over een ander bewerkt beeld van dezelfde twee politici: volgens M4FC een origineel uit 2015, tegen 2014 (klooster van Yeha) en 2020 bij de eigen check. Beide PesaCheck-pagina's gaven 403, dus beoordeeld op de M4FC-gegevens.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:de44811d6da7#C": {
+   "label": "bewijst",
+   "toelichting": "AFP en MultiFactCheck gaan over dezelfde post van Fano ('1 ZU-23, 2 mortars, 9 DShK, 12 Bren, 12 snipers') en zeggen dat de foto's wapens tonen die de Ethiopische politie in beslag nam, geen buit op regeringstroepen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:566863c92c1c#C": {
+   "label": "bewijst",
+   "toelichting": "De eigen check van Knack gaat over de foto van een kind dat in 2009 in Kaboel door witte fosfor verminkt raakte. 20 Minutes [21] en Alliance [23] gaan over dezelfde foto van het verbrande meisje en zeggen dat die uit 2009 en uit Afghanistan komt.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:8562bc8a0208#C": {
+   "label": "bewijst",
+   "toelichting": "Africa Check [1] citeert precies dit onderschrift en zegt dat de foto's geen Kenianen tonen die bij de Amerikaanse ambassade in Nairobi protesteren. PesaCheck (de eigen check) staat ook als bron met de rol spreekt tegen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:ad293b8b9416#C": {
+   "label": "bewijst",
+   "toelichting": "Mythdetector [1] is de eigen check (op het .com-domein): de foto is bewerkt, Zelensky is van een debat uit 2019 erin geplakt.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:e8f9b365263e#C": {
+   "label": "bewijst",
+   "toelichting": "Lead Stories [2] (de eigen check), Full Fact, AP, USA Today en Hany Farid gaan over hetzelfde beeld: een digitaal of door AI gemaakt kunstwerk, geen echte foto van een billboard van Poetin.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N2:f68e1429c2bd#C": {
+   "label": "vals",
+   "toelichting": "Groen zonder de regel was fout: PesaCheck zegt dat de foto niet de migranten toont die in mei 2024 in Libië werden bevrijd; het nieuws was echt. De regel haalde het groen weg.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:04e912e81b37#C": {
+   "label": "terecht",
+   "toelichting": "De schermafdruk van de tweet staat op Snopes alleen als link die 403 geeft (ook in de browser); het hoofdbeeld van Snopes is een andere foto van Falwell.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:0b5607a1ad12#C": {
+   "label": "terecht",
+   "toelichting": "Geen goede bron die het bericht bevestigt; de regel kon nergens kijken.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:12ba2ed1e9e6#C": {
+   "label": "terecht",
+   "toelichting": "Het bericht toont de voorpagina van Bild; de bevestigende pagina's tonen de voorpagina van The Sun (Snopes) of geen beeld. Andere foto.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:300db119e98f#C": {
+   "label": "terecht",
+   "toelichting": "De foto staat op Snopes alleen als link die 403 geeft, ook in de browser; zichtbaar is een ander beeld.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:8b74eababd6e#C": {
+   "label": "terecht",
+   "toelichting": "De schermafdruk staat op Snopes alleen als link die 403 geeft; het zichtbare beeld is een oudere foto van Getty.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:9ea06249eb8f#C": {
+   "label": "terecht",
+   "toelichting": "De foto uit de tweet staat op Snopes alleen als link die 403 geeft; de foto's van Getty op de pagina's tonen dezelfde plek vanuit een ander punt.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:6c11727dbeaf#C": {
+   "label": "vals",
+   "toelichting": "De foto staat op een bevestigende pagina; versie 2 vond haar (160 tot 560 punten), versie 1 miste haar omdat ze maar een deel van het beeld vult.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:e0fca9a1e1a7#C": {
+   "label": "vals",
+   "toelichting": "De foto staat op een bevestigende pagina; versie 2 vond haar (160 tot 560 punten). Versie 1 liep niet op dit antwoord: het beeld was toen even onbereikbaar.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:e1d0fec47b54#C": {
+   "label": "vals",
+   "toelichting": "De foto staat op een bevestigende pagina; versie 2 vond haar (160 tot 560 punten). Versie 1 liep niet op dit antwoord: het beeld was toen even onbereikbaar.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:e5c3aceb041d#C": {
+   "label": "vals",
+   "toelichting": "De foto staat op een bevestigende pagina; versie 2 vond haar (160 tot 560 punten). Versie 1 liep niet op dit antwoord: het beeld was toen even onbereikbaar.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "W2:ee360c0fc56f#C": {
+   "label": "vals",
+   "toelichting": "De foto staat op een bevestigende pagina; versie 2 vond haar (160 tot 560 punten). Versie 1 liep niet op dit antwoord: het beeld was toen even onbereikbaar.",
+   "door": "Claude, in de browser nagekeken"
+  }
+ }
+}

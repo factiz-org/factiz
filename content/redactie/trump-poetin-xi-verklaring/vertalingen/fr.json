@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck trump-poetin-xi-verklaring van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "9ce048fccbb65b10",
+ "veldafdrukken": {
+  "kop": "c819d8b116205daf",
+  "oordeel_zin": "06a72015262c64bd",
+  "bewering": "8114d5623a06a128",
+  "kort": "bd68417202b819e2",
+  "tekst": "469af6912b32a5cd",
+  "niet_weten": "60deae92ec310c23",
+  "bereik": "91cc290196d3df18",
+  "nog_uitzoeken": "4c4293470da0519f",
+  "tijdlijn": "0563191833ccd753",
+  "beeld_bijschrift": "a4f87ca87b1efda0",
+  "beeld_alt": "cc78ac8147daf24f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Poutine n'a pas déclaré de cessez-le-feu après sa rencontre avec Trump et Xi à Shenzhen",
+  "oordeel_zin": "Aucun cessez-le-feu n'a été déclaré : la déclaration commune de Shenzhen ne mentionne pas l'Ukraine, Poutine a dit ce jour-là que la Russie riposterait aux frappes contre le pont de Crimée, et dans la nuit la Russie a tiré 84 missiles de croisière sur l'Ukraine [2] [4] [6].",
+  "bewering": "URGENT : LE PRÉSIDENT RUSSE VLADIMIR POUTINE VIENT DE DÉCLARER UN CESSEZ-LE-FEU ET DE RETIRER TOUTES SES TROUPES DE LA FRONTIÈRE UKRAINIENNE SUITE À SA RENCONTRE D'HIER.",
+  "kort": "Le 19 novembre, une publication sur X affirmait que Vladimir Poutine avait déclaré un cessez-le-feu et retiré toutes ses troupes de la frontière ukrainienne après avoir rencontré Donald Trump et Xi Jinping [1]. Les trois dirigeants se sont bien réunis à Shenzhen ce jour-là, mais leur déclaration commune ne mentionne pas l'Ukraine, et Poutine a dit que la Russie riposterait aux frappes ukrainiennes contre le pont de Crimée [2] [3] [4]. Dans la nuit, la Russie a attaqué l'Ukraine avec 84 missiles de croisière et 404 drones [6].",
+  "tekst": "Le 19 novembre 2026 à 10 h 21 UTC, un compte sur X a écrit en majuscules que Poutine venait de déclarer un cessez-le-feu et de retirer toutes ses troupes de la frontière ukrainienne [1]. La publication en attribue le mérite à Trump et cite Poutine disant qu'il veut la paix et que Zelensky continue de le pousser [1]. Elle ne cite aucune source [1].\n\nCe jour-là, en marge du sommet de l'APEC à Shenzhen, Trump, Poutine et Xi ont tenu une rencontre à trois, et Trump et Poutine se sont aussi entretenus en tête-à-tête [5]. Les trois ont adopté une Déclaration vers la paix en quatre points, publiée par le Kremlin et par le ministère chinois des Affaires étrangères [2] [3]. Ils s'y engagent à réformer les Nations unies, à fournir davantage de produits pétroliers raffinés et à tenir des discussions sur les risques nucléaires, et affirment que la Cour pénale internationale ne doit pas abuser de sa compétence [2] [3]. Le texte ne dit rien de l'Ukraine, d'un cessez-le-feu ou de troupes [2] [3]. L'Associated Press n'a signalé aucune percée [5].\n\nLors de sa conférence de presse ce jour-là, Poutine a déclaré que la Russie n'avait aucune envie de poursuivre le conflit et que l'Ukraine devrait accepter les compromis proposés par les Américains avant les pourparlers d'Anchorage [4]. Interrogé sur les frappes ukrainiennes contre le pont de Crimée, il a dit qu'il n'y aurait désormais pas de pourparlers sur une pause des frappes en mer ou sur l'énergie, et que la réponse de la Russie suivrait [4]. Il a dit que la Russie étendrait sa présence dans les régions de Zaporijjia et de Kherson et repousserait davantage les forces ukrainiennes [4]. Les propos que la publication lui prête ne figurent pas dans la transcription du Kremlin [4].\n\nDans la nuit du 19 au 20 novembre, la Russie a attaqué l'Ukraine avec des missiles balistiques, 84 missiles de croisière et 404 drones, selon l'armée de l'air ukrainienne [6]. Au moins neuf personnes sont mortes, dont sept à Kyiv, où trois ponts ont été endommagés [7]. La nuit suivante, l'armée de l'air a dénombré 3 missiles balistiques et 148 drones [8].",
+  "niet_weten": "Nous ne savons pas qui gère le compte ni où la citation attribuée à Poutine est apparue pour la première fois [1]. Nous n'avons trouvé aucune déclaration du Kremlin ou de Pékin, ni aucun article de presse, mentionnant un cessez-le-feu après la rencontre de Shenzhen [2] [3] [4] [5].",
+  "bereik": "895 mentions J'aime, 260 republications et 99 réponses au 23 novembre",
+  "nog_uitzoeken": [
+   "Le Radar a d'abord repéré ce sommet par une autre publication du 19 novembre qui circulait avec une image. Son auteur l'a supprimée avant que nous puissions la lire, nous ne savons donc pas ce qu'elle affirmait exactement.",
+   "Une publication en russe affirmait le résultat inverse : que Trump et Xi avaient donné trois jours à Poutine pour capituler et que Zelensky s'était envolé pour la Chine. Nous ne l'avons pas vérifiée séparément.",
+   "Si la citation attribuée à Poutine, dans laquelle il dit que Zelensky continue de le pousser, est apparue plus tôt dans d'autres publications ou sur d'autres plateformes.",
+   "Nous avons choisi Faux plutôt que Trompeur parce que la publication présente un cessez-le-feu et un retrait comme acquis, et que ni l'un ni l'autre n'a eu lieu. Si vous en savez plus, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Trump, Poutine et Xi tiennent une rencontre à trois à Shenzhen, en marge du sommet de l'APEC [5].",
+   "Les trois dirigeants adoptent la Déclaration vers la paix ; elle ne mentionne pas l'Ukraine [2] [3].",
+   "Une publication sur X affirme que Poutine a déclaré un cessez-le-feu et retiré ses troupes [1].",
+   "Conférence de presse de Poutine à Shenzhen : pas de pourparlers après les frappes contre le pont de Crimée, une riposte suivra [4].",
+   "Dans la nuit, la Russie attaque l'Ukraine avec 84 missiles de croisière et 404 drones ; au moins neuf personnes meurent [6] [7].",
+   "Dans la nuit, la Russie attaque l'Ukraine avec 3 missiles balistiques et 148 drones [8]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 19 novembre 2026, 10 h 21 UTC."
+  ],
+  "beeld_alt": [
+   "La publication sur X du compte madrid_xtraq affirmant en majuscules que Poutine a déclaré un cessez-le-feu et retiré toutes ses troupes de la frontière ukrainienne, avec une image fixe de Poutine devant un micro et une photo de Trump à un pupitre, au-dessus d'une publication citée montrant Trump et Poutine se serrant la main. Tampon : FAUX."
+  ]
+ }
+}

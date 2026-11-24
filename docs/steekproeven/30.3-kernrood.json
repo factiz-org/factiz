@@ -1,0 +1,16 @@
+{
+  "_meta": "De rode uitslagen van de kerncheck (B33, BENCHMARK §123) als paren voor de rechter (PLAN #30.3): elke formulering van het feit in de taal van de rode uitslag, naast de claim waarop hij rood kreeg. index is de plek in formuleringen van doublecheck/feiten/kern.json. zelfde = dezelfde bewering, verwant = zelfde onderwerp maar een andere bewering (ander moment, andere lading, een ander deel), tegenspraak = de kandidaat zegt het omgekeerde. Bij twijfel verwant, zoals iets anders bij #28.6 c. Altijd meetstof, nooit lesstof. Gelabeld door Claude op 2026-10-17.",
+  "rood": [
+    {"feit": "apollo-11", "index": 0, "kandidaat": "gfc-46c47eabd3a6a0d9", "label": "verwant", "waarom": "17 juli tegenover 20 juli"},
+    {"feit": "apollo-11", "index": 1, "kandidaat": "gfc-46c47eabd3a6a0d9", "label": "verwant", "waarom": "dat de landing echt was tegenover een datum"},
+    {"feit": "apollo-11", "index": 2, "kandidaat": "gfc-46c47eabd3a6a0d9", "label": "verwant", "waarom": "de kandidaat voegt een verkeerde datum toe"},
+    {"feit": "apollo-11", "index": 6, "kandidaat": "gfc-46c47eabd3a6a0d9", "label": "verwant", "waarom": "17 juli tegenover 20 juli, over de taalgrens"},
+    {"feit": "crimea-annexation", "index": 0, "kandidaat": "gfc-214b49cbfc2ea0de", "label": "verwant", "waarom": "eigen besluit van de Krim tegenover annexatie; geen letterlijke ontkenning, dus bij twijfel anders"},
+    {"feit": "crimea-annexation", "index": 1, "kandidaat": "gfc-214b49cbfc2ea0de", "label": "verwant", "waarom": "eigen besluit van de Krim tegenover annexatie"},
+    {"feit": "crimea-annexation", "index": 2, "kandidaat": "gfc-214b49cbfc2ea0de", "label": "verwant", "waarom": "eigen besluit van de Krim tegenover annexatie"},
+    {"feit": "crimea-annexation", "index": 6, "kandidaat": "gfc-214b49cbfc2ea0de", "label": "verwant", "waarom": "eigen besluit van de Krim tegenover annexatie, over de taalgrens"},
+    {"feit": "russia-invasion-2022", "index": 0, "kandidaat": "gfc-85abd9ca8927276a", "label": "verwant", "waarom": "de invasie van 24 februari tegenover wie de oorlog begon; de oorlog loopt sinds 2014, dus geen zuivere ontkenning"},
+    {"feit": "russia-invasion-2022", "index": 1, "kandidaat": "gfc-85abd9ca8927276a", "label": "tegenspraak", "waarom": "Rusland begon de oorlog tegenover Rusland begon de oorlog niet"},
+    {"feit": "russia-invasion-2022", "index": 2, "kandidaat": "gfc-85abd9ca8927276a", "label": "verwant", "waarom": "Oekraïne begon niet tegenover Rusland begon niet: twee verschillende onderwerpen"}
+  ]
+}

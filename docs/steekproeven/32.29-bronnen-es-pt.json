@@ -1,0 +1,915 @@
+{
+ "toelichting": "PLAN #32.29: voorstel om de bronnenlijst (bronnen-v2) voor Spaans en Portugees aan te vullen. Gelezen op 2026-11-02: de actieve en de in vernieuwing staande ondertekenaars van het IFCN (Active 136, In Renewal 47), de geverifieerde leden van het EFCSN, de gecertificeerde media van de JTI (106) en de nieuwspartners van het Trust Project (259). Alleen wat op die lijsten staat; de PO beslist per regel en per redactie.",
+ "datum": "2026-11-02",
+ "bronnen": {
+  "IFCN": "https://ifcncodeofprinciples.poynter.org/signatories",
+  "EFCSN": "https://members.efcsn.com/signatories",
+  "JTI": "https://journalismtrustinitiative.org/community/",
+  "Trust Project": "https://network.thetrustproject.org/brands"
+ },
+ "rsf_2026": {
+  "Portugal": 83.71,
+  "Spanje": 75.42,
+  "Brazilië": 66.37,
+  "Chili": 60.84,
+  "Argentinië": 52.44,
+  "Colombia": 51.66,
+  "Mexico": 45.23,
+  "Peru": 37.86
+ },
+ "regels": [
+  {
+   "id": "efcsn",
+   "titel": "Een lid van het EFCSN telt als goed",
+   "aanbevolen": "ja",
+   "waarom": "Zelfde soort toets als het IFCN, dat nu al telt: twee externe beoordelaars, een openbare code."
+  },
+  {
+   "id": "jti",
+   "titel": "Een JTI-certificaat telt als goed",
+   "aanbevolen": "ja",
+   "waarom": "Een onafhankelijke derde controleert de redactie tegen een vaste norm; het sterkste teken voor een gewone nieuwsredactie."
+  },
+  {
+   "id": "trust",
+   "titel": "Een partner van het Trust Project telt als goed",
+   "aanbevolen": "ja",
+   "waarom": "Gevestigde redacties die hun werkwijze openbaar maken en gecontroleerd worden. Zwakker dan de JTI: het toetst transparantie, niet of berichten kloppen."
+  },
+  {
+   "id": "vernieuwing",
+   "titel": "Een IFCN-lidmaatschap in vernieuwing telt",
+   "aanbevolen": "nee",
+   "waarom": "Twijfel versoepelt nooit: tellen zodra de vernieuwing rond is. Maldita en Lupa komen er via een ander teken toch in."
+  },
+  {
+   "id": "strengste",
+   "titel": "Een nieuw teken wint niet van een lager oordeel",
+   "aanbevolen": "ja",
+   "waarom": "Zoals nu: zeggen twee oordelen iets anders, dan telt het strengste. elDiario.es blijft dan wisselend."
+  },
+  {
+   "id": "eigen",
+   "titel": "Redacties zonder teken alleen op uw oordeel per redactie",
+   "aanbevolen": "ja",
+   "waarom": "Voor de grote kranten en persbureaus zonder teken beslist u per redactie, met de reden erbij in het bestand."
+  }
+ ],
+ "groepen": [
+  {
+   "id": "A",
+   "titel": "Mag volgens de regels van nu, alleen het adres ontbrak",
+   "regel": "nu",
+   "uitleg": "Actieve factcheckers van het IFCN, maar het IFCN-profiel noemt een ander adres, of alleen het deel van de site met de factchecks.",
+   "redacties": [
+    {
+     "domein": "animalpolitico.com",
+     "naam": "Animal Político (El Sabueso)",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws en factchecker",
+     "tekens": [
+      "IFCN actief"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": "Het IFCN-profiel noemt grupoanimal.mx."
+    },
+    {
+     "domein": "estadao.com.br",
+     "naam": "O Estado de S. Paulo",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "IFCN actief"
+     ],
+     "nu": "alleen politica.estadao.com.br",
+     "opmerking": "Estadão Verifica is actief bij het IFCN; nu telt alleen dat deel van de site."
+    },
+    {
+     "domein": "infoveritas.es",
+     "naam": "Infoveritas",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "factchecker",
+     "tekens": [
+      "IFCN actief",
+      "EFCSN"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": "Het IFCN-profiel geeft geen adres; adres nog na te kijken."
+    }
+   ]
+  },
+  {
+   "id": "B",
+   "titel": "Lid van het Europese netwerk van factcheckers (EFCSN)",
+   "regel": "efcsn",
+   "uitleg": "Het EFCSN laat elk lid toetsen door twee externe beoordelaars aan een Europese code. Vergelijkbaar met het IFCN, dat nu al telt.",
+   "redacties": [
+    {
+     "domein": "maldita.es",
+     "naam": "Maldita.es",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "factchecker",
+     "tekens": [
+      "EFCSN",
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "greenefact.pt",
+     "naam": "Green eFact",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "factchecker",
+     "tekens": [
+      "EFCSN",
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": "Adres nog na te kijken."
+    }
+   ]
+  },
+  {
+   "id": "C",
+   "titel": "Gecertificeerd door de Journalism Trust Initiative (JTI)",
+   "regel": "jti",
+   "uitleg": "De JTI is een norm (CEN CWA 17493) van Reporters zonder Grenzen; een onafhankelijke derde controleert de redactie voor het certificaat.",
+   "redacties": [
+    {
+     "domein": "elespectador.com",
+     "naam": "El Espectador",
+     "land": "Colombia",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "larazon.es",
+     "naam": "La Razón",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "eldiario.es",
+     "naam": "elDiario.es",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "wisselend (Lin e.a.)",
+     "opmerking": "Staat er al in als wisselend; volgens de regel van nu telt het strengste oordeel."
+    },
+    {
+     "domein": "eldiariodemadrid.es",
+     "naam": "El Diario de Madrid",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "alternativaseconomicas.coop",
+     "naam": "Alternativas Económicas",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "tijdschrift",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elsoldemexico.com.mx",
+     "naam": "El Sol de México",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elsoldepuebla.com.mx",
+     "naam": "El Sol de Puebla",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws (regionaal)",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elheraldodechihuahua.com.mx",
+     "naam": "El Heraldo de Chihuahua",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws (regionaal)",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "esto.com.mx",
+     "naam": "ESTO",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "sport",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "labarraespaciadora.com",
+     "naam": "La Barra Espaciadora",
+     "land": "Ecuador",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "JTI"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    }
+   ]
+  },
+  {
+   "id": "D",
+   "titel": "Partner van het Trust Project",
+   "regel": "trust",
+   "uitleg": "Het Trust Project toetst of een redactie acht vaste indicatoren voor transparantie toont (wie schrijft, correcties, financiering, bronnen) en houdt een nalevingscontrole. Het toetst niet of de berichten kloppen.",
+   "redacties": [
+    {
+     "domein": "20minutos.es",
+     "naam": "20 Minutos",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elperiodico.com",
+     "naam": "El Periódico de Catalunya",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "lainformacion.com",
+     "naam": "La Información",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "economie",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "cambio16.com",
+     "naam": "Cambio16",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "tijdschrift",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "folha.uol.com.br",
+     "naam": "Folha de S.Paulo",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "gauchazh.clicrbs.com.br",
+     "naam": "GZH (Zero Hora)",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "nexojornal.com.br",
+     "naam": "Nexo Jornal",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "poder360.com.br",
+     "naam": "Poder360",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "opovo.com.br",
+     "naam": "O Povo",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws (regionaal)",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "agazeta.com.br",
+     "naam": "A Gazeta",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws (regionaal)",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "jc.ne10.uol.com.br",
+     "naam": "Jornal do Commercio",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws (regionaal)",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "lupa.uol.com.br",
+     "naam": "Agência Lupa",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "factchecker",
+     "tekens": [
+      "Trust Project",
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": "Lupa gebruikt ook lupa.news."
+    },
+    {
+     "domein": "agenciamural.org.br",
+     "naam": "Agência Mural",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws (lokaal)",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "azmina.com.br",
+     "naam": "AzMina",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "tijdschrift",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "ponte.org",
+     "naam": "Ponte Jornalismo",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "amazoniareal.com.br",
+     "naam": "Amazônia Real",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "biobiochile.cl",
+     "naam": "BioBioChile",
+     "land": "Chili",
+     "taal": "es",
+     "soort": "radio en nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "eltiempo.com",
+     "naam": "El Tiempo",
+     "land": "Colombia",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "lanacion.com.ar",
+     "naam": "La Nación",
+     "land": "Argentinië",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elcomercio.pe",
+     "naam": "El Comercio",
+     "land": "Peru",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "eldiario.com",
+     "naam": "El Diario",
+     "land": "Venezuela",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "prensa.com",
+     "naam": "La Prensa",
+     "land": "Panama",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [
+      "Trust Project"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    }
+   ]
+  },
+  {
+   "id": "E",
+   "titel": "Alleen een IFCN-lidmaatschap dat nu vernieuwd wordt",
+   "regel": "vernieuwing",
+   "uitleg": "Deze factcheckers waren getoetst door het IFCN; hun vernieuwing loopt nog. Nu tellen ze niet: twijfel versoepelt nooit.",
+   "redacties": [
+    {
+     "domein": "noticias.uol.com.br",
+     "naam": "UOL Confere",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "factchecker",
+     "tekens": [
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "publico.pt",
+     "naam": "Público",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "observador.pt",
+     "naam": "Observador",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "colombiacheck.com",
+     "naam": "Colombiacheck",
+     "land": "Colombia",
+     "taal": "es",
+     "soort": "factchecker",
+     "tekens": [
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "boliviaverifica.bo",
+     "naam": "Bolivia Verifica",
+     "land": "Bolivia",
+     "taal": "es",
+     "soort": "factchecker",
+     "tekens": [
+      "IFCN vernieuwing"
+     ],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    }
+   ]
+  },
+  {
+   "id": "F",
+   "titel": "Grote redacties zonder een van deze tekens",
+   "regel": "eigen",
+   "uitleg": "Voor deze redacties vond ik geen van de tekens hierboven. Ze komen alleen in de lijst op uw eigen oordeel per redactie, met de reden erbij.",
+   "redacties": [
+    {
+     "domein": "lavanguardia.com",
+     "naam": "La Vanguardia",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "elconfidencial.com",
+     "naam": "El Confidencial",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "europapress.es",
+     "naam": "Europa Press",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "persbureau",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "cadenaser.com",
+     "naam": "Cadena SER",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "radio",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "publico.es",
+     "naam": "Público",
+     "land": "Spanje",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "lusa.pt",
+     "naam": "Lusa",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "persbureau",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "expresso.pt",
+     "naam": "Expresso",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "dn.pt",
+     "naam": "Diário de Notícias",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "jn.pt",
+     "naam": "Jornal de Notícias",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "sicnoticias.pt",
+     "naam": "SIC Notícias",
+     "land": "Portugal",
+     "taal": "pt",
+     "soort": "televisie",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "g1.globo.com",
+     "naam": "g1 (Globo)",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "oglobo.globo.com",
+     "naam": "O Globo",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "uol.com.br",
+     "naam": "UOL",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "cnnbrasil.com.br",
+     "naam": "CNN Brasil",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "televisie",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "veja.abril.com.br",
+     "naam": "Veja",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "tijdschrift",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "agenciabrasil.ebc.com.br",
+     "naam": "Agência Brasil",
+     "land": "Brazilië",
+     "taal": "pt",
+     "soort": "persbureau (overheid)",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": "Van het staatsbedrijf EBC; na te kijken voor het label staatsmedia."
+    },
+    {
+     "domein": "eluniversal.com.mx",
+     "naam": "El Universal",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "milenio.com",
+     "naam": "Milenio",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "proceso.com.mx",
+     "naam": "Proceso",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "tijdschrift",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "jornada.com.mx",
+     "naam": "La Jornada",
+     "land": "Mexico",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "clarin.com",
+     "naam": "Clarín",
+     "land": "Argentinië",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "pagina12.com.ar",
+     "naam": "Página/12",
+     "land": "Argentinië",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "semana.com",
+     "naam": "Semana",
+     "land": "Colombia",
+     "taal": "es",
+     "soort": "tijdschrift",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "emol.com",
+     "naam": "El Mercurio (Emol)",
+     "land": "Chili",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "latercera.com",
+     "naam": "La Tercera",
+     "land": "Chili",
+     "taal": "es",
+     "soort": "nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "ciperchile.cl",
+     "naam": "CIPER",
+     "land": "Chili",
+     "taal": "es",
+     "soort": "onderzoeksjournalistiek",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    },
+    {
+     "domein": "rpp.pe",
+     "naam": "RPP",
+     "land": "Peru",
+     "taal": "es",
+     "soort": "radio en nieuws",
+     "tekens": [],
+     "nu": "ontbreekt",
+     "opmerking": ""
+    }
+   ]
+  }
+ ],
+ "al_goed": [
+  "elpais.com",
+  "elmundo.es",
+  "abc.es",
+  "efe.com",
+  "rtve.es",
+  "newtral.es",
+  "verificat.cat",
+  "factico.org",
+  "rtp.pt",
+  "poligrafo.sapo.pt",
+  "viralcheck.pt",
+  "aosfatos.org",
+  "politica.estadao.com.br",
+  "chequeado.com",
+  "infobae.com",
+  "lasillavacia.com",
+  "larepublica.pe",
+  "ladiaria.com.uy",
+  "elnuevodia.com",
+  "fastcheck.cl",
+  "malaespinacheck.cl",
+  "verificado.com.mx",
+  "ecuadorchequea.com",
+  "efectococuyo.com",
+  "cotejo.info",
+  "doblecheck.cr",
+  "cazadoresdefakenews.info"
+ ]
+}

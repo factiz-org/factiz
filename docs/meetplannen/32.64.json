@@ -1,0 +1,402 @@
+{
+ "taak": "32.64",
+ "toelichting": "De release-ronde van lezer-v17 (PLAN #32.64; PO 2026-11-08: \"graag\"): arm C lezer-v17 met Sonnet (de kandidaat voor de release), arm H dezelfde lezer met Haiku 5.5 als lezer, op dezelfde berichten en dezelfde zoekresultaten (de armen delen de zoekvragen van Haiku en de antwoorden van Brave, alleen in het geheugen). Sets: de Engelse screenshots N (58) en W (60) van §212 en §220 met het beeld; de verse sets van 32.43 in het Spaans, Portugees en Duits, als op de eerste dag, zodat dezelfde berichten met lezer-v10 (§225, §228) en lezer-v17 naast elkaar staan. De eisen gelden voor arm C; arm H heeft geen eisen en wordt daarna nagerekend (Haiku eerst, Sonnet bij twijfel). Vastgelegd vóór de eerste vraag; eerst `draaien --proef 2`. Brave hoogstens 3.500 zoekvragen; grens $30.",
+ "map": "data/meting/32.64",
+ "labels": "docs/steekproeven/32.64.json",
+ "budget": 30.0,
+ "zaad": 3264,
+ "sets": {
+  "N": {
+   "bron": "data/screenshotlezer/lezer-v7-beeld/set.jsonl",
+   "set": "N",
+   "beeld": true
+  },
+  "W": {
+   "bron": "data/screenshotlezer/lezer-v7-beeld/set.jsonl",
+   "set": "W",
+   "beeld": true
+  },
+  "O-es": {
+   "bron": "data/talen/vers/es.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "W-es": {
+   "bron": "data/talen/vers/es.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "WM-es": {
+   "bron": "data/talen/vers/es.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  },
+  "O-pt": {
+   "bron": "data/talen/vers/pt.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "W-pt": {
+   "bron": "data/talen/vers/pt.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "WM-pt": {
+   "bron": "data/talen/vers/pt.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  },
+  "O-de": {
+   "bron": "data/talen/vers/de.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "W-de": {
+   "bron": "data/talen/vers/de.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "WM-de": {
+   "bron": "data/talen/vers/de.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v17",
+   "speurvraag_model": "claude-haiku-5-5"
+  },
+  "H": {
+   "lezer": "lezer-v17",
+   "speurvraag_model": "claude-haiku-5-5",
+   "model_id": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "N",
+  "O-es",
+  "O-pt",
+  "O-de"
+ ],
+ "waar": [
+  "W",
+  "W-es",
+  "WM-es",
+  "W-pt",
+  "WM-pt",
+  "W-de",
+  "WM-de"
+ ],
+ "eisen": [
+  {
+   "naam": "1. N: rood of oranje met bewijs minstens 52 van de 58 (de eis van V1; lezer-v9 54, §220)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "N"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 52
+  },
+  {
+   "naam": "2. N: hoogstens 1 onterecht groen (§220: 1)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "N"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 1
+  },
+  {
+   "naam": "3. W (echte foto's): hoogstens 2 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4. W (echte foto's): hoogstens 2 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "es-1. Spaans, O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (zoals 32.43)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O-es"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O-es"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "es-2. Spaans, O: hoogstens 2 onterecht groen",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O-es"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "es-3. Spaans, W en W-merk: hoogstens 2 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-es",
+     "WM-es"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "es-4. Spaans, W en W-merk: hoogstens 3 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-es",
+     "WM-es"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  },
+  {
+   "naam": "pt-1. Portugees, O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (zoals 32.43)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O-pt"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O-pt"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "pt-2. Portugees, O: hoogstens 2 onterecht groen",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O-pt"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "pt-3. Portugees, W en W-merk: hoogstens 2 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-pt",
+     "WM-pt"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "pt-4. Portugees, W en W-merk: hoogstens 3 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-pt",
+     "WM-pt"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  },
+  {
+   "naam": "de-1. Duits, O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (zoals 32.43)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O-de"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O-de"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "de-2. Duits, O: hoogstens 2 onterecht groen",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O-de"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "de-3. Duits, W en W-merk: hoogstens 2 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-de",
+     "WM-de"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "de-4. Duits, W en W-merk: hoogstens 3 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W-de",
+     "WM-de"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  }
+ ],
+ "zoekvragen_max": 3500,
+ "ingekort": "PO 2026-11-08, na 294 antwoorden van arm C: \"Kortere ronde van maken? Proefmeting is voldoende voor mij nu\". De volle ronde is gestopt na het laatste complete stuk: arm C heeft N (58), W (60) en O-es (100) helemaal, W-es 38 en de andere sets 2. Daarna `draaien --proef 10`: per set 10 berichten meer per arm. De eisen blijven zoals ze zijn; 1 tot en met 4 (N en W) en es-1 en es-2 tellen volledig, de andere eisen per taal zijn op een proef van 12 per set niet te toetsen en worden als aandeel gemeld, naast lezer-v10 op dezelfde berichten."
+}

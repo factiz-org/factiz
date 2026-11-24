@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ladang angin Storheia dan Roan di Norwegia tidak dibongkar, dan rusa kutub cacat tidak berperan",
+  "oordeel_zin": "Hakim pada 2021 memutuskan soal padang penggembalaan peternak rusa kutub Sami, bukan soal kecacatan, dan setelah dua kesepakatan ke-151 kincir angin tetap berputar [1] [2] [3].",
+  "bewering": "Norwegia membongkar ladang angin karena akibat kincir-kincir itu lahir rusa kutub yang cacat.",
+  "kort": "Sejak 11 Agustus beredar unggahan di X yang menyebut Norwegia membongkar dua ladang angin karena lahir rusa kutub yang cacat [9]. Mahkamah Agung Norwegia menyatakan izin Storheia dan Roan tidak sah pada 2021 karena peternak rusa kutub Sami kehilangan padang penggembalaan musim dingin mereka, bukan karena kesehatan hewan [1]. Setelah kesepakatan pada Desember 2023 dan Maret 2024, ke-151 kincir angin tetap berputar [2] [3].",
+  "tekst": "Unggahan di X itu menyebut dua ladang angin dengan total 151 kincir angin, Storheia dan Roan, di semenanjung Fosen, Norwegia Tengah [9]. Ladang-ladang itu memang ada: Storheia memiliki 80 kincir dan Roan 71, dan keduanya mulai beroperasi pada 2019 [4]. Di unggahan itu terdapat tautan ke majalah profesional Jerman dari Oktober 2021, yang kala itu menulis bahwa ke-151 kincir angin harus disingkirkan [5] [9].\n\nPerkara hukumnya memang nyata. Pada 11 Oktober 2021, Mahkamah Agung Norwegia dengan suara bulat memutuskan bahwa izin kedua ladang angin itu tidak sah [1]. Ladang-ladang itu melanggar hak peternak rusa kutub Sami di Fosen untuk menjalankan budaya mereka sendiri, hak yang tercantum dalam pasal 27 Kovenan PBB tentang Hak Sipil dan Politik [1]. Inti putusannya adalah bahwa dalam praktiknya rusa kutub kehilangan padang penggembalaan musim dingin di sekitar ladang angin, dan hal ini mengancam peternakan rusa kutub di Fosen [1].\n\nTentang kesehatan rusa kutub tidak ada apa pun dalam putusan itu, dan tentang anak rusa yang cacat juga tidak [1]. Mahkamah juga tidak menyatakan apa yang harus dilakukan dengan kincir-kincir itu [4].\n\nKincir-kincir itu tidak dibongkar. Pada Desember 2023, para peternak rusa kutub Sør-Fosen menyepakati kesepakatan soal Storheia, berisi tambahan lahan, ganti rugi, dan hak veto atas energi angin baru setelah izin berakhir [2]. Institut Hak Asasi Manusia Norwegia menulis bahwa kesepakatan ini tampaknya memulihkan pelanggaran tersebut [2]. Pada 6 Maret 2024 menyusul kesepakatan untuk Roan: 7 juta krona per tahun hingga izin berakhir pada 2043, dan sesudahnya izin baru hanya diberikan jika para peternak rusa kutub setuju [3]. Listrik tetap dihasilkan seperti biasa [3].\n\nRusa kutub cacat itu berasal dari sebuah surat pembaca di Landshuter Zeitung, surat kabar Bayern, tertanggal 9 Oktober 2023 [6] [7]. Surat itu mengaitkan kecacatan tersebut dengan getaran kincir angin, lalu beredar di Facebook dan X [6]. AFP menanyai enam peneliti rusa kutub di Norwegia, Swedia, dan Austria, dan tak satu pun mengetahui adanya studi yang membuktikan kecacatan atau keguguran akibat kincir angin [6]. Memang penelitian menunjukkan bahwa rusa kutub menghindari kawasan di sekitar kincir angin, terutama pada masa beranak [6].\n\nJadi ceritanya bukan hal baru. Awal 2024, EDMO, jaringan pemeriksa fakta Eropa, melaporkan bahwa cerita ini juga beredar dalam terjemahan bahasa Belanda [11].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali menerjemahkan surat tahun 2023 itu ke dalam bahasa Belanda, dan apakah unggahan bulan Agustus berasal dari terjemahan tersebut. Surat itu sendiri tidak kami baca; isinya kami ketahui dari pengecekan fakta AFP dan Mimikama. Bahwa kincir angin itu sekarang masih beroperasi, kami simpulkan dari Aneo, Store norske leksikon, dan Euronews; angka produksi setelah September 2026 tidak kami lihat.",
+  "bereik": "Dilihat 101.303 kali pada 18 November",
+  "nog_uitzoeken": [
+   "Apakah pada tahun 2023 atau 2024 sudah ada pengecekan fakta berbahasa Belanda, di Nieuwscheckers, Factcheck Vlaanderen, atau Knack.",
+   "Gugatan hukumnya nyata, sedangkan pembongkaran dan rusa kutub yang cacat bentuk tidak benar. Kami memilih salah; menyesatkan juga bisa dipertahankan."
+  ],
+  "tijdlijn": [
+   "Mahkamah Agung Norwegia menyatakan izin Storheia dan Roan tidak sah [1].",
+   "Agrarheute menulis bahwa ke-151 kincir angin harus disingkirkan [5].",
+   "Surat pembaca di Landshuter Zeitung tentang anak rusa kutub yang cacat [6].",
+   "AFP Faktencheck: tidak ada bukti kecacatan akibat kincir angin [6].",
+   "Mimikama sampai pada kesimpulan yang sama [7].",
+   "Institut Hak Asasi Manusia Norwegia melaporkan kesepakatan untuk Storheia [2].",
+   "Kesepakatan untuk Roan; kincir-kincir tetap berputar [3].",
+   "Unggahan tentang pembongkaran dan rusa kutub cacat di X [9].",
+   "AFP Factcheck Nederland memeriksa unggahan itu [8].",
+   "Euronews: tidak ada tempat yang mendeskripsikan rusa kutub cacat akibat kincir angin [10]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 11 Agustus 2026, pukul 20.15, dengan tautan ke agrarheute dari 2021."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar unggahan di X tentang ladang angin Norwegia dan rusa kutub cacat, dengan kartu tautan dari majalah profesional Jerman. Cap: SALAH."
+  ]
+ }
+}

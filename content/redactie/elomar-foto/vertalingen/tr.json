@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck elomar-foto van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "15bc7664d4f8dc82",
+ "veldafdrukken": {
+  "kop": "874cd5b5a071e544",
+  "oordeel_zin": "3e1715937a860353",
+  "bewering": "6b2dc81f110f6428",
+  "kort": "2f8b7f4296293998",
+  "tekst": "ccdfa19ee3e94890",
+  "niet_weten": "65c2cb4465169c00",
+  "nog_uitzoeken": "d264e14562417396",
+  "tijdlijn": "5b72d4ebc447f79a",
+  "beeld_bijschrift": "47f103c639fd552d",
+  "beeld_alt": "9b135b806e627e6a"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Kesik kafalarla poz veren adamın fotoğrafı Ahmed al-Sharaa'yı değil, 2014'teki IŞİD savaşçısı Mohamed Elomar'ı gösteriyor",
+  "oordeel_zin": "Fotoğraf gerçek, ancak Avustralyalı Mohamed Elomar'ı gösteriyor ve Temmuz 2014'te onun fotoğrafı olarak haberlere konu oldu [1] [2].",
+  "bewering": "Suriye lideri Ahmed al-Sharaa bu fotoğrafta kesik kafalarla poz veriyor.",
+  "kort": "23 Eylül'den beri X'te Suriye Cumhurbaşkanı Ahmed al-Sharaa'nın fotoğrafı olarak dolaşan, iki kesik kafa tutan adamın fotoğrafı başka birini gösteriyor [8]. Bu kişi Avustralyalı IŞİD savaşçısı Mohamed Elomar ve fotoğraf Temmuz 2014'te onun fotoğrafı olarak haberlere çıktı [1] [2] [3]. Aynı fotoğraf 2025 ve 2026'da da birçok kez al-Sharaa'ya atfedildi ve en az dört dildeki haber merkezleri bunu yalanladı [10] [11] [13] [15].",
+  "tekst": "23 Eylül 2026 Çarşamba günü Ahmed al-Sharaa, Birleşmiş Milletler Genel Kurulu'nda ikinci kez konuştu [5] [6]. Euronews'in bunu haberleştirmesinden bir saatten fazla bir süre sonra X'te, onu gösterdiği öne sürülen bir fotoğrafla Felemenkçe bir gönderi çıktı [5] [8]. Fotoğrafta sakallı, gülümseyen bir adam iki kesik kafayı yukarı tutuyor. 15 Ekim'de fotoğraf, Bakan Sjoerd Sjoerdsma'nın (Dış Ticaret ve Kalkınma Yardımı) Suriye'ye destek hakkındaki bir gönderisine yanıt olarak yeniden dolaştı: \"Bu adama 15 milyon euro verdiniz\" [9]. Bu tek bir fotoğraf, kolaj değil. 23 Eylül'deki gönderi silinmiş, dolayısıyla orada ne yazdığını kendimiz bilmiyoruz [8].\n\nFotoğraf on iki yıllık. Temmuz 2014 sonunda, İslam Devleti'ne katılmış bir Avustralyalı olan Khaled Sharrouf'a ait olduğu söylenen bir Twitter hesabında yayımlandı [1] [2] [3]. Avustralya yayın kuruluşu ABC'ye göre fotoğraf, Sidneyli bir adam olan Mohamed Elomar'ı, Rakka'daki çatışmalarda öldürülen Suriye hükümeti askerlerinin kafalarıyla gösteriyor [1]. Elomar ve Sharrouf 2013 sonunda Suriye'ye, ardından Irak'a gitmişti [1] [2].\n\n29 Temmuz 2014'te Avustralya polisi, fotoğrafların yayımlanmasının ardından her iki adam hakkında terör suçlamasıyla tutuklama emri çıkarıldığını duyurdu [1] [2] [3]. Haziran 2015'te medya, Elomar'ın Musul yakınlarında öldürüldüğünü bildirdi. Avustralya hükümeti bunu o sırada henüz doğrulamamıştı [4].\n\nAl-Sharaa'nın cihatçı gruplarda bir geçmişi var. Abu Mohammad al-Jolani adıyla, El Kaide'nin Suriye kolu Jabhat al-Nusra'yı yönetti [11] [12]. Ancak hiçbir haber merkezi, aradığı halde onun kesik kafalarla çekilmiş bir fotoğrafını bulamadı [15].\n\nFotoğraf ve iddia yeni değil. Al-Sharaa'nın Eylül 2025'teki BM'deki ilk konuşmasından sonra da dolaştılar [7]. O zaman Portekizce, İngilizce ve Felemenkçe yayın yapan haber merkezleri, aralarında AFP Factcheck Nederland ve VRT NWS de olmak üzere, bunun Elomar olduğunu yazmıştı [10] [11] [12] [15]. Nisan 2026'da, Berlin ziyaretinin ardından fotoğraf bir kolajda geri geldi; Avusturyalı Mimikama bunu yanıltıcı olarak nitelendirdi [13]. Nisan 2026 sonunda Reuters da bu konuda yazdı [14].",
+  "niet_weten": "Fotoğrafı Eylül 2026'da ilk kez kimin al-Şara ile ilişkilendirdiğini ve iki paylaşımın aynı hesaptan gelip gelmediğini bilmiyoruz. Elomar'ın 2015'te öldüğünü medya, adı açıklanmayan kaynaklara dayanarak bildirdi; resmi bir doğrulama görmedik [4].",
+  "nog_uitzoeken": [
+   "23 Eylül tarihli paylaşımda ne yazdığı. Bu paylaşım silinmiş durumda ve bir kopyasını bulamadık.",
+   "Avustralya'daki bir resmi kaynağın Elomar'ın ölümünü sonradan doğrulayıp doğrulamadığı."
+  ],
+  "tijdlijn": [
+   "Avustralya polisi, Twitter'daki fotoğrafların ardından Elomar ve Sharrouf hakkındaki tutuklama emirlerini duyurur [1] [2].",
+   "Medya, Elomar'ın Musul yakınlarında öldürüldüğünü bildirir [4].",
+   "Al-Sharaa, elli yılı aşkın süre sonra BM'de konuşan ilk Suriye cumhurbaşkanı olur [7].",
+   "Aos Fatos, fotoğraftaki adamın Elomar olduğunu yazar [15].",
+   "AFP Factcheck Nederland: fotoğraf Avustralyalı bir cihatçıyı gösteriyor [10].",
+   "Mimikama, al-Sharaa'nın Berlin ziyaretinin ardından ortaya çıkan kolaj hakkında yazar [13].",
+   "Reuters aynı fotoğraf hakkında yazar [14].",
+   "X'te Felemenkçe gönderi, BM'deki ikinci konuşmanın yapıldığı gün [5] [8].",
+   "Fotoğraf, al-Sharaa'nın kesik kafalarla poz verdiği yazısıyla yeniden dolaşır [9]."
+  ],
+  "beeld_bijschrift": [
+   "X'te gönderi, 15 Ekim 2026, 09.46, bulduğumuz ikinci gönderi; 23 Eylül'deki silinmiş. Kafalar gönderide zaten bulanıklaştırılmıştı.",
+   "ABC News, 29 Temmuz 2014: Mohamed Elomar'ın fotoğrafları, o sırada Twitter'a konmuştu. Yalnızca bağlantı olarak, görüntü göstermek için fazla şiddet içeriyor."
+  ],
+  "beeld_alt": [
+   "Sakallı, gülümseyen bir adamın iki kesik kafa tuttuğu fotoğraf; kafalar bulanıklaştırılmış. Damga: YANLIŞ.",
+   "ABC News'in 2014'teki Mohamed Elomar fotoğrafları hakkındaki makalesine bağlantı."
+  ]
+ }
+}

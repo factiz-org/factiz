@@ -1,0 +1,1565 @@
+{
+ "toelichting": "PLAN #32.38, stap 4: per check of de bewering klopt (een leesbare, volledige bewering zoals de redactie haar controleerde) en wat het oordeel van de redactie zegt, blind gelezen door Claude op 2026-11-04: alleen de bewering en het oordeel, zonder de categorie van Factiz. Dezelfde regels als in 32.38-oordelen.json: 'no record' en 'no statement' onbewezen, een echt beeld met een andere plek of tijd misleidend, tenzij de redactie 'False' schrijft; 'Outdated' en een label zonder oordeel onbekend. Na B56 (PO 2026-11-04) zijn de labels 'satire' onwaar geworden: wat de redactie zegt, verandert niet, de regel voor de categorie wel. Stap 4b: nakijk-en2, 100 Engelse uit Snopes en Full Fact, getrokken na de telling van B56 en op dezelfde manier blind gelezen. In het openbare repo zonder de tekst van de factchecks die Factiz zelf van de sites van redacties las; alleen hun id of link.",
+ "sets": {
+  "nakijk-en": [
+   "1d920f03b7b7a7e5",
+   "0d6cb4e9193572b8",
+   "45c9f3a5f57f839e",
+   "db5c27be073441a5",
+   "7d3b1ab446354de4",
+   "4d4dfed80b14f839",
+   "03a195955b167715",
+   "f1eb36dcb11e1650",
+   "ce5a203e6fdf00cf",
+   "5bcd90219b66d7ec",
+   "6b9c1eacf85fd73e",
+   "a92e2a38a409d206",
+   "f10ab4deb4e66340",
+   "89929f1389469d69",
+   "5fa146baac5b4ca5",
+   "acdea0ca4381bd14",
+   "e8cd8e65a393fdb7",
+   "ea7bd28d217ba40e",
+   "d33248963bcb26b0",
+   "47282648be18b13f",
+   "49c79de58634009b",
+   "6d9a2d3e824946c7",
+   "41eb1d48dadd17d9",
+   "4b7239b11cf034fd",
+   "256f0731501d48b6",
+   "1cedd9abe0d72bee",
+   "e62b4f9915c10a85",
+   "e137be217f16a7b8",
+   "5b283ff49dac5850",
+   "08b2659906858d3b",
+   "ccb4d0e8e3e97ddd",
+   "a54743c7363a7444",
+   "87276f6045b8d245",
+   "9f3b74727c4ce760",
+   "636f656cf077856c",
+   "7fd92ed49e2c3655",
+   "2962613ce9468dc3",
+   "6e8d6379479c685a",
+   "1684c899ac9d45e2",
+   "10dbb39439cd7f1e",
+   "5c8c1b9e7c535399",
+   "bd442b761ec84dd4",
+   "1bd3b4b9672f3f24",
+   "e2b7886e57373618",
+   "b2209087e4ec5451",
+   "12e47a6914d474e7",
+   "8ed8d7512671dc38",
+   "701e25daa1960c56",
+   "1c665be1409a007e",
+   "93ed8b18f2496c97",
+   "851958b6b6f87b67",
+   "829975436fae7cdf",
+   "0458c04282e179ed",
+   "4a0aca19ac6cdb6b",
+   "ef7ba199b6e81307",
+   "b1cd453c50f2d744",
+   "c1bc80726166f430",
+   "c3eedbcce1913ed5",
+   "c59c8b0ad9ac6713",
+   "6261b6b4ddf32a8f",
+   "cdd01e054245e01a",
+   "65d0a51329dacce6",
+   "11ac7b46883f1909",
+   "4607f3307ad8a719",
+   "b64658d9f023b0ec",
+   "0e79f0590f6b13bc",
+   "e4c1fd3eb728b0aa",
+   "0e918a8bc07ea8a6",
+   "7b55367a0e10e4c1",
+   "3cc6c70a060c22c7",
+   "6f4d44362fe6f61b",
+   "4ee7b9fdf79a4b02",
+   "ec02e64a1aa0bba4",
+   "ad6744f3a2a1c65b",
+   "1f86b14acf9d4902",
+   "828ad0b9d9b24d1f",
+   "21522a32dfee41d4",
+   "fc1879000df183c0",
+   "4426505412ccba99",
+   "751fa48691720b94",
+   "bbdc7083f04a417b",
+   "2c10cd45cb755664",
+   "fe75e8f6aa72b695",
+   "387f649289edb0a5",
+   "95196b428b014b08",
+   "67f99fdfbebf28db",
+   "e4651796f876d624",
+   "3626c8019fc7cf96",
+   "c93729dee60ce0a6",
+   "ab1b3b990d6622c7",
+   "62c0225db8e197f7",
+   "2b49b2f5d1a3eb4a",
+   "38bea768e304b413",
+   "9e2e00557e65ee3d",
+   "6126687a1f039c20",
+   "3a01d3b741faef83",
+   "e6dc18e794dec254",
+   "eacf131847497100",
+   "44fe00fbdbddd53e",
+   "ccf9fc2df48e2f6c"
+  ],
+  "nakijk-es": [
+   "19c59bb1c8c10a36",
+   "ec6746802b0fd6b5",
+   "3c1d7339107ebe44",
+   "9d08f9a488b093ae",
+   "0d654e50370b3980",
+   "a6bb32bea0b61f3c",
+   "a9ed693219ea1af0",
+   "4f850d221369ee0b",
+   "9e771c74ec1e0f2b",
+   "7a4011d8dcbdc176",
+   "2834091ded7102aa",
+   "1d98cee786d55de8",
+   "bd0ae397d725cd46",
+   "80684400c1d093a2",
+   "4686a201b19f31ef",
+   "b6b83d14ce80de07",
+   "25b52bc1227b2346",
+   "e8ec91b3d4103271",
+   "de4c4c5cc813d828",
+   "5f8170de88d993b7",
+   "27d9c970f55fe984",
+   "5ca2d898039a4ada",
+   "9ebc1932be543bb8",
+   "e48f02317d1badab",
+   "86c6b3dc3e8d05fb",
+   "9d1b837409424ea2",
+   "77fa158f4feab012",
+   "7cd0900be9131064",
+   "f9474b289e245e04",
+   "254c7bdc60a40e2b",
+   "4ae4497478c08d43",
+   "e4f62344eea00b34",
+   "2ad47dae4280f7e0",
+   "337eb4d49f473490",
+   "4a0c1ffb4a056ffd",
+   "4296b5aa98604dd0",
+   "72d141344a77e880",
+   "6f3577207d34f678",
+   "d7f3ef2881e6c444",
+   "cfa2d83e09a4156c",
+   "8a1cfbb472ac6973",
+   "1cbc2b4513187ed6",
+   "d70d80f2d6fab953",
+   "33457ecd8c1d6ebe",
+   "2539c67487caf2d8",
+   "c8f62f404d9fc532",
+   "4e45d64f5b2782cc",
+   "ee2d2ce7d4705a5a",
+   "297a68e4e0e00065",
+   "cd5f809d2c351f20",
+   "9cbba72c4bcdb0cb",
+   "30311ffb4b297eee",
+   "38627e5cc27f3795",
+   "4a509584863a5ce7",
+   "5aa5684d6d7503ea",
+   "619db647ff145f54",
+   "46dcf1e0334b8d28",
+   "95e4aacb212307d7",
+   "1a0e61f95ae51d60",
+   "bbd587bc9247f711",
+   "836d49b140634c07",
+   "1f8807fcca820402",
+   "7c31b2c783d56fcc",
+   "a6ed13e995d8e4c4",
+   "043f4f49c69f6a22",
+   "aa64b7fb24bce374",
+   "83db8d0852875d6c",
+   "381b05a42fed4ff8",
+   "33b2846236121f9b",
+   "d1a43aea00a3d6ca",
+   "95b5d77d964d6874",
+   "e55245586acc76f4",
+   "699ef1ef96cb39e2",
+   "c4d8ddcca84b88a5",
+   "949b45690603d883",
+   "60a1f466376bdf83",
+   "103471cb137ff14b",
+   "23908fffed65a49f",
+   "7817f09edc0a9f9d",
+   "f70344bc8a846cc3",
+   "cb05e451d6da3ef5",
+   "aafee37bd3e73ff7",
+   "13673eb87f2f8f14",
+   "d0385e05f6948bb7",
+   "148bcae9d766eeb8",
+   "ae81a663b7b09d9c",
+   "272d58025db696d6",
+   "b75e8b5c2eaab8cd",
+   "e16e227723f87d90",
+   "104f483861c9406c",
+   "323bd9de48af5959",
+   "7b349e074d5fafd8",
+   "76d8098d23d14724",
+   "07a84efc3c38e234",
+   "07d683337f31d018",
+   "1b1c141aa054d727",
+   "5ec37cb9b7f7de09",
+   "e5ea72f91f74804e",
+   "012771cf35e0b396",
+   "eb85483a4aee0edb"
+  ],
+  "nakijk-po": [
+   "1d920f03b7b7a7e5",
+   "0d6cb4e9193572b8",
+   "45c9f3a5f57f839e",
+   "db5c27be073441a5",
+   "7d3b1ab446354de4",
+   "4d4dfed80b14f839",
+   "03a195955b167715",
+   "f1eb36dcb11e1650",
+   "ce5a203e6fdf00cf",
+   "5bcd90219b66d7ec",
+   "6b9c1eacf85fd73e",
+   "a92e2a38a409d206",
+   "f10ab4deb4e66340",
+   "89929f1389469d69",
+   "5fa146baac5b4ca5",
+   "acdea0ca4381bd14",
+   "e8cd8e65a393fdb7",
+   "ea7bd28d217ba40e",
+   "d33248963bcb26b0",
+   "47282648be18b13f",
+   "49c79de58634009b",
+   "6d9a2d3e824946c7",
+   "41eb1d48dadd17d9",
+   "4b7239b11cf034fd",
+   "256f0731501d48b6",
+   "1cedd9abe0d72bee",
+   "e62b4f9915c10a85",
+   "e137be217f16a7b8",
+   "5b283ff49dac5850",
+   "08b2659906858d3b",
+   "ccb4d0e8e3e97ddd",
+   "a54743c7363a7444",
+   "87276f6045b8d245",
+   "9f3b74727c4ce760",
+   "636f656cf077856c",
+   "7fd92ed49e2c3655",
+   "2962613ce9468dc3",
+   "6e8d6379479c685a",
+   "1684c899ac9d45e2",
+   "10dbb39439cd7f1e",
+   "5c8c1b9e7c535399",
+   "bd442b761ec84dd4",
+   "1bd3b4b9672f3f24",
+   "e2b7886e57373618",
+   "b2209087e4ec5451",
+   "12e47a6914d474e7",
+   "8ed8d7512671dc38",
+   "701e25daa1960c56",
+   "1c665be1409a007e",
+   "93ed8b18f2496c97"
+  ],
+  "nakijk-en2": [
+   "28e5547aa29d7ef8",
+   "b6e95e5153353697",
+   "82c19067a85e40fb",
+   "17ca5d89c999b7d8",
+   "e674074a9a8a4e8b",
+   "04b3aa947eda936b",
+   "b569538ff881eef6",
+   "abaa6995fd778ccd",
+   "2d0beb46e81f6347",
+   "4f0be870a52600ad",
+   "38ebb1773d18abe0",
+   "0e6c7de51e366f4b",
+   "4143c3fcfa1940f1",
+   "e5f21bb9c1fea57f",
+   "7781404c91124b42",
+   "21a97fb4995052e2",
+   "28c71d37c0cad726",
+   "4c14ce3e5df86c9d",
+   "5894c4a768ac069c",
+   "9fdd97fe845b347c",
+   "054137929cc1a8c9",
+   "d38f274c09b95e1d",
+   "434bed1e7076a3f9",
+   "c67ac57176ec37c1",
+   "a5a3a015464f5a13",
+   "091c8a69f14a66c5",
+   "e700f1c89f96bc2e",
+   "29c82b18016c47fe",
+   "a26ad7fed9476138",
+   "c2e5542611a63b70",
+   "37c385d8c7aa21c8",
+   "15c7fb30dfeaf28d",
+   "812b25963ecb0f16",
+   "067231aab7363437",
+   "ca354c8e29a890be",
+   "5e1c9847969293eb",
+   "340160b5689ce7c4",
+   "577abc321e7f98f9",
+   "35eebea8ade191af",
+   "815c7004f69069f6",
+   "f24e1754ed9dbd53",
+   "95c1e397c29df59f",
+   "6a3a9af79fb6809d",
+   "ad9ead5ba42838b1",
+   "61e50f863612dafa",
+   "2570f7323aa92a75",
+   "2e8b0cfb1b6bc5d6",
+   "07e902f2c8c30337",
+   "0ac6b526ff2c4918",
+   "c221a594cb37d2df",
+   "d971c7b28c1c4e26",
+   "e8fe44811cc66375",
+   "cbd7c6a04de8e771",
+   "1843220e3960bd6c",
+   "4fd334d57c1f2c90",
+   "b3a98924eaf64c18",
+   "07b6ef5411bd9aa9",
+   "4ed54c9e80c614e4",
+   "b76ae40ab76a670a",
+   "6cbb452e6e4f8eff",
+   "4cd89d8eb15ebbf8",
+   "6912f46fdbc3a6fd",
+   "d329798f1030e852",
+   "2a5572f2f0ddfd36",
+   "aad94f5b3679d8ba",
+   "02e4fee47fd54841",
+   "d245b58a8c7d5bb2",
+   "02cd15b7b4bc6c5c",
+   "9226edff459bc774",
+   "d66406de8cdd590b",
+   "70e6928b850d295c",
+   "f3e7aa4227b88f1f",
+   "0e9f17adee073f6c",
+   "2ad5a87ce28f9697",
+   "edcb36e6e8c85ac8",
+   "18c69b70429f3c89",
+   "b6e3c19fb2528250",
+   "4b036d2485ee6c9c",
+   "3cf94c75d5ccb58b",
+   "0b425b452ce4f30f",
+   "946ff92cdb2dfc7a",
+   "1f93cf91500f09ca",
+   "3eabace09ac89391",
+   "2e3779c0b115f02c",
+   "690ad75ed6835a24",
+   "bdbb91119249cb95",
+   "6ea699ca53eec524",
+   "61a8faaedce32fbf",
+   "322b98b2b78355f7",
+   "622bec5135906354",
+   "a4826d3fa94a3135",
+   "ee96735949bf044b",
+   "74d557bccde1ca28",
+   "f2a15e2d3f1e79fa",
+   "66a0aee023681589",
+   "6a7c7868e51e9419",
+   "b23801319aabdfbc",
+   "89e58f9c910e13fb",
+   "14e7e998a0036ecb",
+   "e04f4aa1ed9c733a"
+  ]
+ },
+ "labels": {
+  "1d920f03b7b7a7e5": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "0d6cb4e9193572b8": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "45c9f3a5f57f839e": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "db5c27be073441a5": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "7d3b1ab446354de4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4d4dfed80b14f839": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "03a195955b167715": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "f1eb36dcb11e1650": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "ce5a203e6fdf00cf": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5bcd90219b66d7ec": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6b9c1eacf85fd73e": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "a92e2a38a409d206": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "f10ab4deb4e66340": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "89929f1389469d69": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "5fa146baac5b4ca5": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "acdea0ca4381bd14": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "e8cd8e65a393fdb7": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "ea7bd28d217ba40e": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d33248963bcb26b0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "47282648be18b13f": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "49c79de58634009b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6d9a2d3e824946c7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "41eb1d48dadd17d9": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "4b7239b11cf034fd": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "256f0731501d48b6": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "1cedd9abe0d72bee": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "e62b4f9915c10a85": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e137be217f16a7b8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5b283ff49dac5850": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "08b2659906858d3b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ccb4d0e8e3e97ddd": {
+   "bewering": "fout",
+   "categorie": "onbekend"
+  },
+  "a54743c7363a7444": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "87276f6045b8d245": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9f3b74727c4ce760": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "636f656cf077856c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "7fd92ed49e2c3655": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "2962613ce9468dc3": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "6e8d6379479c685a": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1684c899ac9d45e2": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "10dbb39439cd7f1e": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "5c8c1b9e7c535399": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "bd442b761ec84dd4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1bd3b4b9672f3f24": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "e2b7886e57373618": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "b2209087e4ec5451": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "12e47a6914d474e7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "8ed8d7512671dc38": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "701e25daa1960c56": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "1c665be1409a007e": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "93ed8b18f2496c97": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "851958b6b6f87b67": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "829975436fae7cdf": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "0458c04282e179ed": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4a0aca19ac6cdb6b": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "ef7ba199b6e81307": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b1cd453c50f2d744": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "c1bc80726166f430": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "c3eedbcce1913ed5": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "c59c8b0ad9ac6713": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "6261b6b4ddf32a8f": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "cdd01e054245e01a": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "65d0a51329dacce6": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "11ac7b46883f1909": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4607f3307ad8a719": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b64658d9f023b0ec": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "0e79f0590f6b13bc": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e4c1fd3eb728b0aa": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "0e918a8bc07ea8a6": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "7b55367a0e10e4c1": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3cc6c70a060c22c7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6f4d44362fe6f61b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4ee7b9fdf79a4b02": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ec02e64a1aa0bba4": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "ad6744f3a2a1c65b": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "1f86b14acf9d4902": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "828ad0b9d9b24d1f": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "21522a32dfee41d4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "fc1879000df183c0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4426505412ccba99": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "751fa48691720b94": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "bbdc7083f04a417b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2c10cd45cb755664": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "fe75e8f6aa72b695": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "387f649289edb0a5": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "95196b428b014b08": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "67f99fdfbebf28db": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e4651796f876d624": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3626c8019fc7cf96": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "c93729dee60ce0a6": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ab1b3b990d6622c7": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "62c0225db8e197f7": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "2b49b2f5d1a3eb4a": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "38bea768e304b413": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "9e2e00557e65ee3d": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6126687a1f039c20": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3a01d3b741faef83": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "e6dc18e794dec254": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "eacf131847497100": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "44fe00fbdbddd53e": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "ccf9fc2df48e2f6c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "19c59bb1c8c10a36": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ec6746802b0fd6b5": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3c1d7339107ebe44": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9d08f9a488b093ae": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "0d654e50370b3980": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "a6bb32bea0b61f3c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "a9ed693219ea1af0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4f850d221369ee0b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9e771c74ec1e0f2b": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "7a4011d8dcbdc176": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2834091ded7102aa": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1d98cee786d55de8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "bd0ae397d725cd46": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "80684400c1d093a2": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4686a201b19f31ef": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b6b83d14ce80de07": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "25b52bc1227b2346": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e8ec91b3d4103271": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "de4c4c5cc813d828": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5f8170de88d993b7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "27d9c970f55fe984": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5ca2d898039a4ada": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9ebc1932be543bb8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e48f02317d1badab": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "86c6b3dc3e8d05fb": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9d1b837409424ea2": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "77fa158f4feab012": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "7cd0900be9131064": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "f9474b289e245e04": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "254c7bdc60a40e2b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4ae4497478c08d43": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e4f62344eea00b34": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2ad47dae4280f7e0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "337eb4d49f473490": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4a0c1ffb4a056ffd": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4296b5aa98604dd0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "72d141344a77e880": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6f3577207d34f678": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d7f3ef2881e6c444": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "cfa2d83e09a4156c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "8a1cfbb472ac6973": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1cbc2b4513187ed6": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d70d80f2d6fab953": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "33457ecd8c1d6ebe": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2539c67487caf2d8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "c8f62f404d9fc532": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4e45d64f5b2782cc": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ee2d2ce7d4705a5a": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "297a68e4e0e00065": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "cd5f809d2c351f20": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9cbba72c4bcdb0cb": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "30311ffb4b297eee": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "38627e5cc27f3795": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4a509584863a5ce7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5aa5684d6d7503ea": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "619db647ff145f54": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "46dcf1e0334b8d28": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "95e4aacb212307d7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1a0e61f95ae51d60": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "bbd587bc9247f711": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "836d49b140634c07": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1f8807fcca820402": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "7c31b2c783d56fcc": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "a6ed13e995d8e4c4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "043f4f49c69f6a22": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "aa64b7fb24bce374": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "83db8d0852875d6c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "381b05a42fed4ff8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "33b2846236121f9b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d1a43aea00a3d6ca": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "95b5d77d964d6874": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e55245586acc76f4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "699ef1ef96cb39e2": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "c4d8ddcca84b88a5": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "949b45690603d883": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "60a1f466376bdf83": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "103471cb137ff14b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "23908fffed65a49f": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "7817f09edc0a9f9d": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "f70344bc8a846cc3": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "cb05e451d6da3ef5": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "aafee37bd3e73ff7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "13673eb87f2f8f14": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d0385e05f6948bb7": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "148bcae9d766eeb8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ae81a663b7b09d9c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "272d58025db696d6": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b75e8b5c2eaab8cd": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "e16e227723f87d90": {
+   "bewering": "fout",
+   "categorie": "onwaar"
+  },
+  "104f483861c9406c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "323bd9de48af5959": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "7b349e074d5fafd8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "76d8098d23d14724": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "07a84efc3c38e234": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "07d683337f31d018": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "1b1c141aa054d727": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5ec37cb9b7f7de09": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "e5ea72f91f74804e": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "012771cf35e0b396": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "eb85483a4aee0edb": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "28e5547aa29d7ef8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b6e95e5153353697": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "82c19067a85e40fb": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "17ca5d89c999b7d8": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "e674074a9a8a4e8b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "04b3aa947eda936b": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "b569538ff881eef6": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "abaa6995fd778ccd": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2d0beb46e81f6347": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4f0be870a52600ad": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "38ebb1773d18abe0": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "0e6c7de51e366f4b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4143c3fcfa1940f1": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "e5f21bb9c1fea57f": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "7781404c91124b42": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "21a97fb4995052e2": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "28c71d37c0cad726": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "4c14ce3e5df86c9d": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "5894c4a768ac069c": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "9fdd97fe845b347c": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "054137929cc1a8c9": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "d38f274c09b95e1d": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "434bed1e7076a3f9": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "c67ac57176ec37c1": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "a5a3a015464f5a13": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "091c8a69f14a66c5": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "e700f1c89f96bc2e": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "29c82b18016c47fe": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "a26ad7fed9476138": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "c2e5542611a63b70": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "37c385d8c7aa21c8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "15c7fb30dfeaf28d": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "812b25963ecb0f16": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "067231aab7363437": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "ca354c8e29a890be": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "5e1c9847969293eb": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "340160b5689ce7c4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "577abc321e7f98f9": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "35eebea8ade191af": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "815c7004f69069f6": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "f24e1754ed9dbd53": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "95c1e397c29df59f": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6a3a9af79fb6809d": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "ad9ead5ba42838b1": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "61e50f863612dafa": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "2570f7323aa92a75": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2e8b0cfb1b6bc5d6": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "07e902f2c8c30337": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "0ac6b526ff2c4918": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "c221a594cb37d2df": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "d971c7b28c1c4e26": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "e8fe44811cc66375": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "cbd7c6a04de8e771": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "1843220e3960bd6c": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "4fd334d57c1f2c90": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "b3a98924eaf64c18": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "07b6ef5411bd9aa9": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "4ed54c9e80c614e4": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b76ae40ab76a670a": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6cbb452e6e4f8eff": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "4cd89d8eb15ebbf8": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "6912f46fdbc3a6fd": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "d329798f1030e852": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2a5572f2f0ddfd36": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "aad94f5b3679d8ba": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "02e4fee47fd54841": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "d245b58a8c7d5bb2": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "02cd15b7b4bc6c5c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "9226edff459bc774": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "d66406de8cdd590b": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "70e6928b850d295c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "f3e7aa4227b88f1f": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "0e9f17adee073f6c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "2ad5a87ce28f9697": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "edcb36e6e8c85ac8": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "18c69b70429f3c89": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "b6e3c19fb2528250": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "4b036d2485ee6c9c": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3cf94c75d5ccb58b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "0b425b452ce4f30f": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "946ff92cdb2dfc7a": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "1f93cf91500f09ca": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "3eabace09ac89391": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "2e3779c0b115f02c": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "690ad75ed6835a24": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "bdbb91119249cb95": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6ea699ca53eec524": {
+   "bewering": "klopt",
+   "categorie": "onbewezen"
+  },
+  "61a8faaedce32fbf": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "322b98b2b78355f7": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "622bec5135906354": {
+   "bewering": "klopt",
+   "categorie": "deels-waar"
+  },
+  "a4826d3fa94a3135": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "ee96735949bf044b": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "74d557bccde1ca28": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "f2a15e2d3f1e79fa": {
+   "bewering": "klopt",
+   "categorie": "misleidend"
+  },
+  "66a0aee023681589": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  },
+  "6a7c7868e51e9419": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "b23801319aabdfbc": {
+   "bewering": "fout",
+   "categorie": "onwaar"
+  },
+  "89e58f9c910e13fb": {
+   "bewering": "klopt",
+   "categorie": "onbekend"
+  },
+  "14e7e998a0036ecb": {
+   "bewering": "klopt",
+   "categorie": "waar"
+  },
+  "e04f4aa1ed9c733a": {
+   "bewering": "klopt",
+   "categorie": "onwaar"
+  }
+ }
+}

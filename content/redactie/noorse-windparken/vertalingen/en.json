@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Norwegian wind farms Storheia and Roan are not being demolished, and deformed reindeer played no role",
+  "oordeel_zin": "In 2021 the court ruled on the grazing land of Sámi reindeer herders, not on deformities, and after two agreements the 151 turbines keep turning [1] [2] [3].",
+  "bewering": "Norway is demolishing wind farms because deformed reindeer are being born because of the turbines.",
+  "kort": "Since 11 August a post has been circulating on X claiming that Norway is demolishing two wind farms because deformed reindeer are being born [9]. In 2021 the Supreme Court of Norway declared the permits for Storheia and Roan invalid because the Sámi reindeer herders had lost their winter pastures, not because of the health of the animals [1]. After agreements in December 2023 and March 2024, the 151 turbines keep turning [2] [3].",
+  "tekst": "The post on X names two wind farms with a combined 151 turbines, Storheia and Roan, on the Fosen peninsula in central Norway [9]. These farms exist: Storheia has 80 turbines and Roan 71, and both opened in 2019 [4]. The post contains a link to a German trade magazine from October 2021, which reported at the time that the 151 turbines had to go [5] [9].\n\nThe court case was real. On 11 October 2021, the Supreme Court of Norway ruled unanimously that the permits for both farms were invalid [1]. The farms violated the right of the Sámi reindeer herders of Fosen to enjoy their own culture, which is laid down in Article 27 of the UN Covenant on Civil and Political Rights [1]. The core of the ruling was that the reindeer had in practice lost the winter pastures near the farms, and that this threatened reindeer herding on Fosen [1].\n\nThe judgment says nothing about the health of reindeer, and nothing about deformed calves either [1]. The court also did not say what should happen to the turbines [4].\n\nThey were not demolished. In December 2023, the reindeer herders of Sør-Fosen reached an agreement on Storheia, with extra land, compensation and a veto on new wind energy after the permit expires [2]. The Norwegian national human rights institution wrote that this agreement appears to remedy the violation [2]. On 6 March 2024 an agreement followed for Roan: 7 million kroner per year until the permit expires in 2043, and after that a new permit only if the reindeer herders consent [3]. Electricity continues to be generated as before [3].\n\nThe deformed reindeer come from a letter to the editor in the Landshuter Zeitung, a Bavarian newspaper, dated 9 October 2023 [6] [7]. The letter attributed the deformities to vibrations from the turbines, and then circulated on Facebook and X [6]. AFP asked six reindeer researchers in Norway, Sweden and Austria about it, and none of them knew of a study showing deformities or miscarriages caused by wind turbines [6]. Research does show that reindeer avoid areas around turbines, especially during calving season [6].\n\nThe story is therefore not new. At the beginning of 2024, EDMO, the European network of fact-checkers, reported that it was also circulating in a Dutch translation [11].",
+  "niet_weten": "We do not know who first translated the 2023 letter into Dutch, or whether the August post goes back to it. We did not read the letter itself; what it said, we know from the checks by AFP and Mimikama. That the turbines are still running now, we infer from Aneo, Store norske leksikon and Euronews; we did not see production figures from after September 2026.",
+  "bereik": "101,303 views on 18 November",
+  "nog_uitzoeken": [
+   "Whether a Dutch-language check already existed in 2023 or 2024, at Nieuwscheckers, Factcheck Vlaanderen or Knack.",
+   "The court case is real; the demolition and the deformed reindeer are not. We chose false; misleading is also defensible."
+  ],
+  "tijdlijn": [
+   "The Supreme Court of Norway declares the permits for Storheia and Roan invalid [1].",
+   "Agrarheute writes that the 151 turbines have to go [5].",
+   "A letter to the editor in the Landshuter Zeitung about deformed reindeer calves [6].",
+   "AFP Faktencheck: there is no evidence of deformities caused by wind turbines [6].",
+   "Mimikama reaches the same conclusion [7].",
+   "The Norwegian national human rights institution reports the agreement for Storheia [2].",
+   "Agreement for Roan; the turbines keep turning [3].",
+   "The post about demolition and deformed reindeer on X [9].",
+   "AFP Factcheck Nederland checks the post [8].",
+   "Euronews: deformed reindeer caused by wind turbines have not been described anywhere [10]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 11 August 2026, 20:15, with a link to agrarheute from 2021."
+  ],
+  "beeld_alt": [
+   "Screenshot of a post on X about Norwegian wind farms and deformed reindeer, with a link card from a German trade magazine. Stamp: FALSE."
+  ]
+ }
+}

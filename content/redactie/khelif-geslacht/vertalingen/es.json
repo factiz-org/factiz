@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imane Khelif tiene el gen SRY, pero no se ha establecido que sea biológicamente hombre",
+  "oordeel_zin": "Khelif dijo ella misma en febrero de 2026 que tiene el gen SRY, pero no hay ningún resultado de prueba público, y ninguna federación deportiva ni tribunal ha establecido que sea biológicamente hombre [4] [7] [8].",
+  "bewering": "OMG. Que un boxeador biológicamente masculino boxee contra mujeres debe y va a celebrarse como un momento cumbre del deporte. Pero quien lo llama maltrato a las mujeres debe y va a ser cancelado. Al parecer solo puede triunfar una visión.",
+  "kort": "Una publicación en X califica de biológicamente masculino a un boxeador que boxea contra mujeres, presumiblemente Imane Khelif [1] [3]. Khelif dijo ella misma en febrero de 2026 que tiene el gen SRY, que según el COI indica un desarrollo sexual masculino, y que fue criada como niña y no es transgénero [4] [8]. Si en el deporte cuenta como hombre depende de una prueba y de una valoración médica de las que no hay nada público, y ninguna federación deportiva ni tribunal ha decidido al respecto [6] [7] [8].",
+  "tekst": "La publicación no menciona ningún nombre y cita una publicación propia del 9 de noviembre sobre algo que HLN calificó de momento cumbre deportivo [1] [2]. Que trata de Khelif lo deducimos del momento: el 6 de noviembre anunció su primer combate profesional [3]. Esa semana circuló también una publicación en inglés sobre un hombre en el boxeo femenino olímpico [11].\n\nKhelif, boxeadora argelina, ganó en 2024 el oro olímpico en la categoría femenina [3]. En el diario deportivo francés L'Équipe confirmó el 4 de febrero de 2026 que tiene el gen SRY, un gen que suele estar en el cromosoma Y [4] [8]. Su respuesta: \"Sí, y es natural.\" [4] Dijo también que antes de los combates bajaba su testosterona con hormonas, y que fue criada como niña y no es mujer trans [4]. No mencionó ningún diagnóstico [4].\n\nWorld Boxing considera hombre desde agosto de 2025 a un boxeador con el gen SRY, salvo en caso de insensibilidad completa a las hormonas masculinas [4] [6]. El COI decidió en marzo de 2026 que a partir de los Juegos de 2028 solo compitan en la categoría femenina mujeres sin el gen SRY, salvo en trastornos raros en los que la testosterona no da ventaja [8]. Esa norma no es retroactiva y, según el COI, no dice nada sobre el sexo legal de una persona [8].\n\nWorld Boxing no dejó participar más a Khelif en 2025 hasta que se hiciera una prueba genética, y el tribunal deportivo TAS se negó el 1 de septiembre de 2025 a suspender esa decisión [7]. El caso sigue en curso de forma confidencial, y no encontramos ninguna sentencia [7]. Khelif dijo en febrero que envió su historial médico a World Boxing, sin respuesta [4].\n\nLos documentos de una revista francesa que en 2024 supuestamente demostraban que es un hombre, el COI los calificó de no verificados [9]. En agosto de 2024, antes de la entrevista, RTBF y FactCheck.org calificaron de falsa la afirmación de que Khelif es un hombre [12] [13].",
+  "niet_weten": "No sabemos si Khelif se hizo una prueba del gen SRY para World Boxing o el COI, ni qué le diagnosticaron los médicos. Tampoco sabemos con certeza que la publicación trate de ella.",
+  "bereik": "437 me gusta y 18 respuestas el 22 de noviembre",
+  "nog_uitzoeken": [
+   "Cómo decide el TAS en el caso de Khelif contra World Boxing.",
+   "Si Khelif se hizo una prueba del gen SRY para World Boxing o el COI, y con qué resultado.",
+   "Qué publicación de la cuenta ocultó X en la Unión Europea, y a petición de quién.",
+   "A qué artículo de HLN se refiere la publicación del 9 de noviembre.",
+   "Dudamos entre No demostrado y Engañoso. Engañoso, porque la publicación presenta como establecido lo que ninguna federación deportiva ni tribunal ha establecido; No demostrado, porque Khelif misma dijo que tiene el gen SRY, lo que según las normas de World Boxing y del COI cuenta como desarrollo sexual masculino, salvo una excepción sobre la que no hay nada público. Elegimos No demostrado."
+  ],
+  "tijdlijn": [
+   "El COI: en los Juegos de París rige el sexo que consta en el pasaporte [5].",
+   "Khelif recurre ante el TAS la decisión de World Boxing [7].",
+   "Entran en vigor las normas de World Boxing sobre el sexo, con una prueba del gen SRY [6].",
+   "El TAS se niega a suspender la decisión de World Boxing hasta que se trate el caso [7].",
+   "Khelif dice en L'Équipe que tiene el gen SRY y que redujo su testosterona con hormonas [4].",
+   "El COI limita la categoría femenina a partir de los Juegos de 2028 a quienes no tienen el gen SRY, con una excepción [8].",
+   "Khelif anuncia su primer combate profesional, el 15 de diciembre en París contra Clarida Sarabia [3].",
+   "La cuenta escribe que HLN calificó algo de momento cumbre deportivo [2].",
+   "La publicación en X [1].",
+   "NOS informa de que Clarida Sarabia se retira del combate con Khelif [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 12 de noviembre de 2026, 20:42 h."
+  ],
+  "beeld_alt": [
+   "Una publicación en X que dice que un boxeador biológicamente masculino boxea contra mujeres, con una captura de pantalla de un aviso de que una publicación fue ocultada en la Unión Europea y una publicación citada sobre un momento cumbre deportivo según HLN. Sello: NO DEMOSTRADO."
+  ]
+ }
+}

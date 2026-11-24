@@ -1,0 +1,1584 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-navo-uitbreiding.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "d4c96cc6f706e4c0"
+  },
+  {
+   "nummer": "489c71e2d7f6ab54"
+  },
+  {
+   "nummer": "157bf17d683edd34"
+  },
+  {
+   "nummer": "e07f6ecd9c85e590"
+  },
+  {
+   "nummer": "104c1fa341e296d4"
+  },
+  {
+   "nummer": "a7d7231037018622"
+  },
+  {
+   "nummer": "46d7a8efe1efe015"
+  },
+  {
+   "nummer": "07d663928b065012",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "13e479a4f0f081e4",
+   "versie": "nato-encircling-russia"
+  },
+  {
+   "nummer": "26ea9ae04e1c4c17"
+  },
+  {
+   "nummer": "70402610e1086789"
+  },
+  {
+   "nummer": "196ae2fc542d0980"
+  },
+  {
+   "nummer": "d4445f619e36b823"
+  },
+  {
+   "nummer": "f2365fe676b1172e"
+  },
+  {
+   "nummer": "83ab769efa0f4d8c",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "82739cdb8ebbef05"
+  },
+  {
+   "nummer": "2a32a752671f75c5",
+   "versie": "russian-aggression-pretext"
+  },
+  {
+   "nummer": "f8f66a11633802cf"
+  },
+  {
+   "nummer": "e23f30a1e331afc0",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "a885622837180e14"
+  },
+  {
+   "nummer": "ddfcfb87982d5e89",
+   "versie": "nato-preparing-attack-on-russia"
+  },
+  {
+   "nummer": "97bc508aac23cbcb"
+  },
+  {
+   "nummer": "4f39114ddf8cfc69"
+  },
+  {
+   "nummer": "625b8dce3de526e6"
+  },
+  {
+   "nummer": "3c99fb9c4a0492c0"
+  },
+  {
+   "nummer": "451949698bad2a4c",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "4ff7e96cb5819712"
+  },
+  {
+   "nummer": "9c1140c082defadc"
+  },
+  {
+   "nummer": "9db31c10a91837b9"
+  },
+  {
+   "nummer": "321375429210c630"
+  },
+  {
+   "nummer": "ef41231bd06a2c0f",
+   "versie": "nato-encircling-russia"
+  },
+  {
+   "nummer": "792b32fb953bfcd3"
+  },
+  {
+   "nummer": "42622945c9373ba9"
+  },
+  {
+   "nummer": "9e51c79e9e9567d9"
+  },
+  {
+   "nummer": "604bca3a9c2cc228"
+  },
+  {
+   "nummer": "69c03dabeab73d3c"
+  },
+  {
+   "nummer": "ac7ac2f70e055f78",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "18485a7fed5d83e5"
+  },
+  {
+   "nummer": "20124968873e3a49"
+  },
+  {
+   "nummer": "4e36df23cac80c82"
+  },
+  {
+   "nummer": "50e8730b8f02f5c2"
+  },
+  {
+   "nummer": "f5800fa7ab729ac8"
+  },
+  {
+   "nummer": "fbb145ca1901005e"
+  },
+  {
+   "nummer": "fd728ee457845073",
+   "versie": "nato-broke-eastward-promise"
+  },
+  {
+   "nummer": "bbbd66a6f4414f4c"
+  },
+  {
+   "nummer": "73dcb9b95ca3a8ad"
+  },
+  {
+   "nummer": "155b212f830a0371"
+  },
+  {
+   "nummer": "cf5127c0a7c29d6c"
+  },
+  {
+   "nummer": "811c5fe6330edc25"
+  },
+  {
+   "nummer": "a0f1cc72b08c4682",
+   "versie": "nato-base-crimea"
+  },
+  {
+   "nummer": "e33d78eea96df3b3"
+  },
+  {
+   "nummer": "a1c6cdc334806410",
+   "versie": "ukraine-nato-war-inevitable"
+  },
+  {
+   "nummer": "dce92365822ca25d"
+  },
+  {
+   "nummer": "680dcda121abcc18"
+  },
+  {
+   "nummer": "525bc77954f9cc16"
+  },
+  {
+   "nummer": "1292e8583989f42f"
+  },
+  {
+   "nummer": "960b72908e7ce291",
+   "versie": "nato-training-ukrainian-army"
+  },
+  {
+   "nummer": "a38a2b96339d9446"
+  },
+  {
+   "nummer": "60505c9cedc41d94",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "f410c1e595280453"
+  },
+  {
+   "nummer": "3954a9f235ae444d"
+  },
+  {
+   "nummer": "8d19b060a7f79e63"
+  },
+  {
+   "nummer": "1d23c1eb988a3628",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "f2f4a545e9ef6f59",
+   "versie": "fabricated-russian-threat"
+  },
+  {
+   "nummer": "8c7274924ef0a9e8"
+  },
+  {
+   "nummer": "ada2db5e1a3c0ec1"
+  },
+  {
+   "nummer": "60145a731b9256d9"
+  },
+  {
+   "nummer": "ed91e29d8f8d5100"
+  },
+  {
+   "nummer": "36075e7c40278ca2"
+  },
+  {
+   "nummer": "217a51cbe82772c9"
+  },
+  {
+   "nummer": "29f9291f01fa8f2a"
+  },
+  {
+   "nummer": "ed207dd1141e20ea"
+  },
+  {
+   "nummer": "a62440406f9fa3f5"
+  },
+  {
+   "nummer": "480da66434e2bbc2"
+  },
+  {
+   "nummer": "6fb0200653da087b"
+  },
+  {
+   "nummer": "eee33c5e426e61e4"
+  },
+  {
+   "nummer": "1fab11839c70eb20"
+  },
+  {
+   "nummer": "7d979629173d82ad"
+  },
+  {
+   "nummer": "ce0f3ad4812108b1"
+  },
+  {
+   "nummer": "a786f1381201d594"
+  },
+  {
+   "nummer": "8e4d312be98ad079"
+  },
+  {
+   "nummer": "5c6a2b59ca9a1ed9"
+  },
+  {
+   "nummer": "974c332971fba0ad"
+  },
+  {
+   "nummer": "947265c71b0936a8"
+  },
+  {
+   "nummer": "a165a9ad01d6ff6f"
+  },
+  {
+   "nummer": "3ccac6af3ab75391"
+  },
+  {
+   "nummer": "7b7469c59cc94cad"
+  },
+  {
+   "nummer": "9fc1d6e2f0417600"
+  },
+  {
+   "nummer": "86df7bbd43875dfa"
+  },
+  {
+   "nummer": "890b2db1790dd962",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "d482f788c60bef4f",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "fbfb731ab26d4d6b"
+  },
+  {
+   "nummer": "279598891b11f9c9"
+  },
+  {
+   "nummer": "df90f7027ecf6acf"
+  },
+  {
+   "nummer": "c7256bcd7c585890"
+  },
+  {
+   "nummer": "9e7d72daaa22ef83"
+  },
+  {
+   "nummer": "5b11a24838d3423d"
+  },
+  {
+   "nummer": "0fc0f3d911baea0d"
+  },
+  {
+   "nummer": "94df65adab463b9a"
+  },
+  {
+   "nummer": "66900d5b9d0b29e8",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "83255eb2597f5f24"
+  },
+  {
+   "nummer": "eac7b9a83e0451bb",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "5d6204c7971ff5d5",
+   "versie": "russian-threat-pretext"
+  },
+  {
+   "nummer": "3bb2156bbf6823d1"
+  },
+  {
+   "nummer": "4647527c7d135d72"
+  },
+  {
+   "nummer": "33119b3258351277"
+  },
+  {
+   "nummer": "59b6bee908009b84",
+   "versie": "nato-base-crimea"
+  },
+  {
+   "nummer": "638e8ad3f79ce1d6"
+  },
+  {
+   "nummer": "f275da0486383965"
+  },
+  {
+   "nummer": "168e7ab2fb4be88a"
+  },
+  {
+   "nummer": "f4d1193a52ea1209"
+  },
+  {
+   "nummer": "8cf81e08160afcd1",
+   "versie": "russian-threat-pretext"
+  },
+  {
+   "nummer": "c12c86b150844191"
+  },
+  {
+   "nummer": "6ccffb4fd87d8e49"
+  },
+  {
+   "nummer": "07b2d60d828e833a"
+  },
+  {
+   "nummer": "d83f5a128ca02958"
+  },
+  {
+   "nummer": "d2dcead24a5d5f31"
+  },
+  {
+   "nummer": "ab93652190d508aa"
+  },
+  {
+   "nummer": "64906345ea64d19b"
+  },
+  {
+   "nummer": "e46a55968874e57c"
+  },
+  {
+   "nummer": "3bfee88c4cfe8c4c"
+  },
+  {
+   "nummer": "4f78278d2752f6d6"
+  },
+  {
+   "nummer": "4dfe65c913ed762c"
+  },
+  {
+   "nummer": "c8a7a09dc5fed336"
+  },
+  {
+   "nummer": "00c8e5bdc4d3ba90"
+  },
+  {
+   "nummer": "cb690532f945f4a1"
+  },
+  {
+   "nummer": "09d91f18572a5f62"
+  },
+  {
+   "nummer": "49659178fa26dacd",
+   "versie": "belarus-russia-joint-defence"
+  },
+  {
+   "nummer": "a49d794f5e24caa1"
+  },
+  {
+   "nummer": "f41a64e44524c3ff",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "86b5d7ce83f97eb8"
+  },
+  {
+   "nummer": "cda55b96585f4a79",
+   "versie": "iron-wolf-exercise-name"
+  },
+  {
+   "nummer": "dca5bf61d85eae89"
+  },
+  {
+   "nummer": "5241ac81fa183e69",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "158d222f8d77434e"
+  },
+  {
+   "nummer": "a8d14ac8bab9915e",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "9d3d3727d115f7c6"
+  },
+  {
+   "nummer": "09dfa18515122030"
+  },
+  {
+   "nummer": "245575b9940b90ba"
+  },
+  {
+   "nummer": "c4088054cda7cccd"
+  },
+  {
+   "nummer": "597ddf89c9377e95",
+   "versie": "encircling-russia-plan"
+  },
+  {
+   "nummer": "ff2fdab8fdc0d981"
+  },
+  {
+   "nummer": "b4be20e38220a73f"
+  },
+  {
+   "nummer": "896c5f6622686c14"
+  },
+  {
+   "nummer": "a07f32bcf51e192f"
+  },
+  {
+   "nummer": "a85d85201e35a90a"
+  },
+  {
+   "nummer": "27082631d07c7fbe",
+   "versie": "nato-preparing-war-russia"
+  },
+  {
+   "nummer": "d4b8f38bad5d9f16"
+  },
+  {
+   "nummer": "172db109186df8c7"
+  },
+  {
+   "nummer": "cf3eba2d95e58d02"
+  },
+  {
+   "nummer": "6f1cfda5529f89eb",
+   "versie": "fabricated-russian-threat"
+  },
+  {
+   "nummer": "87e8f734c6836bf7"
+  },
+  {
+   "nummer": "e3c64ceca080d030"
+  },
+  {
+   "nummer": "64477f98d19d42d1"
+  },
+  {
+   "nummer": "7971e91904575ff9"
+  },
+  {
+   "nummer": "ea57c168a4987c83"
+  },
+  {
+   "nummer": "50d1201a3bc4fa58"
+  },
+  {
+   "nummer": "045d9d758d296f5f"
+  },
+  {
+   "nummer": "6c2ca88ab4b2589c"
+  },
+  {
+   "nummer": "4b3682a8f1b56c3e"
+  },
+  {
+   "nummer": "a5ce553e59ab052e"
+  },
+  {
+   "nummer": "bba501b56ed3af48"
+  },
+  {
+   "nummer": "9a59d6f41782d25c"
+  },
+  {
+   "nummer": "51296deb615098e0",
+   "versie": "hitler-new-europe-comparison"
+  },
+  {
+   "nummer": "022723d1c70fd93d"
+  },
+  {
+   "nummer": "fb14840b080d7689"
+  },
+  {
+   "nummer": "323c9b4b275763eb"
+  },
+  {
+   "nummer": "0ffdfbcfdcef897a"
+  },
+  {
+   "nummer": "0d390eee9c8aa6f2"
+  },
+  {
+   "nummer": "54751396ed2d1055"
+  },
+  {
+   "nummer": "3d9f044d7e0afae1"
+  },
+  {
+   "nummer": "8794077d161fe7ec"
+  },
+  {
+   "nummer": "63fb8565e1d11ba4"
+  },
+  {
+   "nummer": "0aedfabc7739914e"
+  },
+  {
+   "nummer": "5193e4e8a2ed4de6",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "0e7ade0abf6031c0"
+  },
+  {
+   "nummer": "c37e4ab983b5c55f"
+  },
+  {
+   "nummer": "d59d8ae6e3f63ca4"
+  },
+  {
+   "nummer": "809b053efde4345e",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "ad9cf767c43c8e0b"
+  },
+  {
+   "nummer": "d9e20b73907db6d7"
+  },
+  {
+   "nummer": "f790dbb5d27f4d9c"
+  },
+  {
+   "nummer": "c7b40a4dbd6195ea"
+  },
+  {
+   "nummer": "0f2b0d2c8e998c61"
+  },
+  {
+   "nummer": "12b44ba6bd6b59b9",
+   "versie": "russia-encircled-by-nato"
+  },
+  {
+   "nummer": "f60d13c7829497b3",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "e60738cddbaea22d"
+  },
+  {
+   "nummer": "a3eed9ef6d552a7c"
+  },
+  {
+   "nummer": "782584abda030a2a"
+  },
+  {
+   "nummer": "13a8a786acf50cc7",
+   "versie": "estonia-exercise-provocation"
+  },
+  {
+   "nummer": "ac6f07cd6ac0a0bc",
+   "versie": "estonia-exercise-provocation"
+  },
+  {
+   "nummer": "4e7a7de44cde9b71"
+  },
+  {
+   "nummer": "5ee457a18163409c"
+  },
+  {
+   "nummer": "d77a1322fa04cbb5",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "a435d293005e3f4a"
+  },
+  {
+   "nummer": "5b10577668951bac"
+  },
+  {
+   "nummer": "031e0f1a0ec194c8"
+  },
+  {
+   "nummer": "b76a41b9faab262a",
+   "versie": "russian-threat-pretext"
+  },
+  {
+   "nummer": "c9cf4e4be1ce62d3"
+  },
+  {
+   "nummer": "95ae4d21f99c79ae"
+  },
+  {
+   "nummer": "cf22e97deaceb1ba"
+  },
+  {
+   "nummer": "08d66f7617588894"
+  },
+  {
+   "nummer": "7ec6694171a5d3b6"
+  },
+  {
+   "nummer": "9906e426e96652b2",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "e6227afaae69c5a6",
+   "versie": "russian-threat-pretext"
+  },
+  {
+   "nummer": "8fcb97f1c644e866"
+  },
+  {
+   "nummer": "ff2cad121db40754"
+  },
+  {
+   "nummer": "f170f0b3f9577b8d"
+  },
+  {
+   "nummer": "2891c216c77c39af"
+  },
+  {
+   "nummer": "d69cbb10f699e55a"
+  },
+  {
+   "nummer": "b59cc02544fe58e4",
+   "versie": "nato-preparing-attack-on-russia"
+  },
+  {
+   "nummer": "eb1cec26cb96afbd"
+  },
+  {
+   "nummer": "1b142154eb884b18"
+  },
+  {
+   "nummer": "37b581dc702291c0"
+  },
+  {
+   "nummer": "afd8b9ae835da99e"
+  },
+  {
+   "nummer": "b04e39630f4cfd16"
+  },
+  {
+   "nummer": "fbc56bcdab6fe11c",
+   "versie": "unilateral-nato-historical-responsibilit"
+  },
+  {
+   "nummer": "812d589ec39ae548"
+  },
+  {
+   "nummer": "0cbbcb160b98724e"
+  },
+  {
+   "nummer": "515a51101ff8e572",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "5f38027afd56b661"
+  },
+  {
+   "nummer": "85f8d57db359e8d0"
+  },
+  {
+   "nummer": "8568ad8c04dfdba4",
+   "versie": "georgia-nato-platform"
+  },
+  {
+   "nummer": "0f216380d4fdc2a3",
+   "versie": "georgia-nato-platform"
+  },
+  {
+   "nummer": "86b8ffa7038a759d",
+   "versie": "belarus-russia-joint-defence"
+  },
+  {
+   "nummer": "96a81c94b61bb85b",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "3a48eb7e2f86b1fb",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "76a7bdf912c2b42c"
+  },
+  {
+   "nummer": "d4495945a24881dc",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "bc0bbcabd2126fd6",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "0266e1fc36283071"
+  },
+  {
+   "nummer": "546f3ff76e790eff"
+  },
+  {
+   "nummer": "7426146fd9ec118a"
+  },
+  {
+   "nummer": "d14acc25bc87fc31"
+  },
+  {
+   "nummer": "45b1418ea1363cea"
+  },
+  {
+   "nummer": "0a6fc2a8d3555a90",
+   "versie": "nato-arms-deliveries-ukraine"
+  },
+  {
+   "nummer": "b23da3b6173e7642"
+  },
+  {
+   "nummer": "07eda9eed318d684",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "9c446ea8499b5db9"
+  },
+  {
+   "nummer": "e9ef95c6062b43fc"
+  },
+  {
+   "nummer": "9d5cb6fd921aef79"
+  },
+  {
+   "nummer": "05eb4c4e10b769fc"
+  },
+  {
+   "nummer": "e4ee3f52fc920123"
+  },
+  {
+   "nummer": "5e397510fe5d6034"
+  },
+  {
+   "nummer": "f22b640f2fef57c7"
+  },
+  {
+   "nummer": "360d505e631b3aa9"
+  },
+  {
+   "nummer": "e3a91fa15ccc519b",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "49a68724556a1579",
+   "versie": "ukraine-nato-war-inevitable"
+  },
+  {
+   "nummer": "6e101bdd82dee5cb",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "7c9daa9747843d0f",
+   "versie": "spring-storm-estonia-helicopters"
+  },
+  {
+   "nummer": "a5ebcad9d88a7e6b",
+   "versie": "spring-storm-estonia-helicopters"
+  },
+  {
+   "nummer": "f9be0cf1744a510a"
+  },
+  {
+   "nummer": "daaeaeeeecd978d4",
+   "versie": "russia-encircled-by-nato"
+  },
+  {
+   "nummer": "7fb37e5a46b5d940"
+  },
+  {
+   "nummer": "02fdfbd8ade30455",
+   "versie": "defender-europe-2021-war-rehearsal"
+  },
+  {
+   "nummer": "1ec612474810af0d",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "f3f4914ea4a3b383"
+  },
+  {
+   "nummer": "2f80449941b32fd7"
+  },
+  {
+   "nummer": "57036b61a87db716"
+  },
+  {
+   "nummer": "7082ab738fe8928a",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "98a4a496cec8b42e",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "fe4fd4db0cdb7a5e"
+  },
+  {
+   "nummer": "4b15858821243807"
+  },
+  {
+   "nummer": "6f3bb445d1739ebf"
+  },
+  {
+   "nummer": "9505bb8f0f2d07fe",
+   "versie": "unilateral-nato-historical-responsibilit"
+  },
+  {
+   "nummer": "53c10254f4c7f612"
+  },
+  {
+   "nummer": "a86d72005f3db38e"
+  },
+  {
+   "nummer": "2e25ef26300e2e3f"
+  },
+  {
+   "nummer": "a3ccd11d71262fcd"
+  },
+  {
+   "nummer": "8b5598f62dc1e94d"
+  },
+  {
+   "nummer": "c6cafc500cb356c9",
+   "versie": "ukraine-as-cannon-fodder"
+  },
+  {
+   "nummer": "87fca62c8fee343e"
+  },
+  {
+   "nummer": "cd2de438133af60e"
+  },
+  {
+   "nummer": "2c9d651f054b6772"
+  },
+  {
+   "nummer": "278eb775842b2520",
+   "versie": "hms-defender-incident"
+  },
+  {
+   "nummer": "2abade844eebdfb1"
+  },
+  {
+   "nummer": "6b847d6f874489e7"
+  },
+  {
+   "nummer": "a11d291d177643ba",
+   "versie": "sea-breeze-perimeter-destabilisation"
+  },
+  {
+   "nummer": "66522257cc0e0943"
+  },
+  {
+   "nummer": "e969dfc975bc1284",
+   "versie": "sea-breeze-message-russia"
+  },
+  {
+   "nummer": "355f243f5bce9b3f",
+   "versie": "ukraine-as-launchpad"
+  },
+  {
+   "nummer": "cbdc7a07c6789de5"
+  },
+  {
+   "nummer": "f395e7b11396cb6b",
+   "versie": "sea-breeze-perimeter-destabilisation"
+  },
+  {
+   "nummer": "2d677b5bf8f2eff6"
+  },
+  {
+   "nummer": "7b13b695b7a62f3e"
+  },
+  {
+   "nummer": "c9f17b785244b651"
+  },
+  {
+   "nummer": "6ec070367ef21e50"
+  },
+  {
+   "nummer": "645904c332e5a963"
+  },
+  {
+   "nummer": "3a5578766cf6fbf3"
+  },
+  {
+   "nummer": "bd7d0ca7d139b271"
+  },
+  {
+   "nummer": "657cabd0b2f5dfed",
+   "versie": "hms-defender-incident"
+  },
+  {
+   "nummer": "5e51f59611238081"
+  },
+  {
+   "nummer": "d03ff5486f95fadc"
+  },
+  {
+   "nummer": "189c3fffd63f592d",
+   "versie": "ukraine-as-launchpad"
+  },
+  {
+   "nummer": "b6d43840cff420ca",
+   "versie": "agile-spirit-georgia-stability"
+  },
+  {
+   "nummer": "d71eca2b8ff3ea76",
+   "versie": "sea-breeze-message-russia"
+  },
+  {
+   "nummer": "f58c7cac13508561"
+  },
+  {
+   "nummer": "316b5d21ec1f3265"
+  },
+  {
+   "nummer": "f3ab1739c198bc5e"
+  },
+  {
+   "nummer": "89016fdd8646be7b"
+  },
+  {
+   "nummer": "4b8f2384bd9267bb"
+  },
+  {
+   "nummer": "0da05cdaa837951b",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "864b350bea6652e5"
+  },
+  {
+   "nummer": "4f2ca01b0b340038"
+  },
+  {
+   "nummer": "238a0b43f10ad87f"
+  },
+  {
+   "nummer": "e0c7c34dcfcf445d",
+   "versie": "gotland-militarization-narrative"
+  },
+  {
+   "nummer": "686b417314e7fbf5"
+  },
+  {
+   "nummer": "fe8641290a1e6e30"
+  },
+  {
+   "nummer": "3767c9dbcda79296"
+  },
+  {
+   "nummer": "c12c2d575e4ac011"
+  },
+  {
+   "nummer": "eb2b8def27802342"
+  },
+  {
+   "nummer": "eec0610cb0d18c7a"
+  },
+  {
+   "nummer": "2156fbb6ab90811d"
+  },
+  {
+   "nummer": "8d20040001b6276f"
+  },
+  {
+   "nummer": "47080fb0bb6b05a7"
+  },
+  {
+   "nummer": "e52d742e8516d321",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "573019ec07ce4e86",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "974bc21b44d43028",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "2a6b0b30651000ed"
+  },
+  {
+   "nummer": "5b45252316d6fb5a",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "a92b07f35d661d91"
+  },
+  {
+   "nummer": "c8c37321cdfc5906"
+  },
+  {
+   "nummer": "94c0e41dee390afa"
+  },
+  {
+   "nummer": "cdf597be9397a2f0"
+  },
+  {
+   "nummer": "a920802d1fc593a4",
+   "versie": "russian-aggression-pretext"
+  },
+  {
+   "nummer": "8783764e830c30fa"
+  },
+  {
+   "nummer": "a46b387e6634671f"
+  },
+  {
+   "nummer": "32f3176e0d89c7e8",
+   "versie": "west-pushes-ukraine-war"
+  },
+  {
+   "nummer": "c8da12e26bb7d979"
+  },
+  {
+   "nummer": "54b9119a6bdd9651"
+  },
+  {
+   "nummer": "95f29bdabf9b8e48",
+   "versie": "nato-pushes-kyiv-war"
+  },
+  {
+   "nummer": "2758db60024368cf"
+  },
+  {
+   "nummer": "293ddfa3ca204ee4",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "dadee469523b4bca"
+  },
+  {
+   "nummer": "39550240d7416d2b"
+  },
+  {
+   "nummer": "3e8cdaf60a4747e4",
+   "versie": "russian-aggression-pretext"
+  },
+  {
+   "nummer": "0b7d02749836d3a1"
+  },
+  {
+   "nummer": "3d7ab38e90b37637"
+  },
+  {
+   "nummer": "d269fddb7ee7dd92",
+   "versie": "denial-of-nato-promise"
+  },
+  {
+   "nummer": "b050b8ff55c6f774"
+  },
+  {
+   "nummer": "fb1f10c6fd6f44c6"
+  },
+  {
+   "nummer": "063912eb26a8c6ec"
+  },
+  {
+   "nummer": "e5e0b93920e4fdd8"
+  },
+  {
+   "nummer": "65c8bdc61a6b7ac7",
+   "versie": "denial-of-nato-promise"
+  },
+  {
+   "nummer": "0f16e09587dfa437",
+   "versie": "ukraine-as-launchpad"
+  },
+  {
+   "nummer": "7f8b026949f8615f"
+  },
+  {
+   "nummer": "93acad95ef939dcc",
+   "versie": "encircling-russia-plan"
+  },
+  {
+   "nummer": "13b5fbae5febc8c6"
+  },
+  {
+   "nummer": "41efb54e2c218463"
+  },
+  {
+   "nummer": "378064e4642c48fc"
+  },
+  {
+   "nummer": "68f9d04b772bc30e",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "e16fe8c9e04495f3"
+  },
+  {
+   "nummer": "011f85cab080c19d"
+  },
+  {
+   "nummer": "1b7fec738ae47589"
+  },
+  {
+   "nummer": "2658147551049485"
+  },
+  {
+   "nummer": "8ba916e04dffc03f"
+  },
+  {
+   "nummer": "69a26827c6177e81"
+  },
+  {
+   "nummer": "0bfa949edce8db91",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "16ead65792637ca4"
+  },
+  {
+   "nummer": "89d43587064ce467"
+  },
+  {
+   "nummer": "919f2e9595aa3a07"
+  },
+  {
+   "nummer": "c1e77ecef92518b2"
+  },
+  {
+   "nummer": "1f5ef482b3682b76"
+  },
+  {
+   "nummer": "1019b56e5fbfc76c",
+   "versie": "nato-arms-deliveries-ukraine"
+  },
+  {
+   "nummer": "7d481c4737d85b5f"
+  },
+  {
+   "nummer": "c04fd72e00632a8b",
+   "versie": "denial-of-nato-promise"
+  },
+  {
+   "nummer": "d6dcf21e070c657e",
+   "versie": "nato-pushes-kyiv-war"
+  },
+  {
+   "nummer": "8a5ac169e26d196d"
+  },
+  {
+   "nummer": "4f164c402b7f8311",
+   "versie": "nato-pushes-kyiv-war"
+  },
+  {
+   "nummer": "72d6825e6c17af02"
+  },
+  {
+   "nummer": "6e6c30a4933338bb"
+  },
+  {
+   "nummer": "f3954009f58da80b",
+   "versie": "ukraine-as-launchpad"
+  },
+  {
+   "nummer": "0a80696e2a789083"
+  },
+  {
+   "nummer": "b28ff17e28f0b6b1"
+  },
+  {
+   "nummer": "cc829b3f545c8e97"
+  },
+  {
+   "nummer": "67764475728e3784"
+  },
+  {
+   "nummer": "03ee7b7fe83ebcbb"
+  },
+  {
+   "nummer": "59bded6c569b68f1"
+  },
+  {
+   "nummer": "0601cd5e4aba4673"
+  },
+  {
+   "nummer": "f9847004b4c7ad07"
+  },
+  {
+   "nummer": "a9a93d0eb3413a5e"
+  },
+  {
+   "nummer": "3e886eabfa545d34"
+  },
+  {
+   "nummer": "32df027ded404f80"
+  },
+  {
+   "nummer": "fa9fb93791432fde"
+  },
+  {
+   "nummer": "ae9cdb1941c75753"
+  },
+  {
+   "nummer": "89fb63837ce983ac"
+  },
+  {
+   "nummer": "d3114d96e8feacea"
+  },
+  {
+   "nummer": "e49e11426e7be718"
+  },
+  {
+   "nummer": "6e923b5f98071c18",
+   "versie": "nato-training-ukrainian-army"
+  },
+  {
+   "nummer": "4a52411397e1f338"
+  },
+  {
+   "nummer": "c772e5acd0f97923"
+  },
+  {
+   "nummer": "52158131ef83c736"
+  },
+  {
+   "nummer": "a3bf4448d98d2c5f"
+  },
+  {
+   "nummer": "ed7d5ad8177a0701"
+  },
+  {
+   "nummer": "1e981fc7708bf5b4"
+  },
+  {
+   "nummer": "3b2b5ba38a4d5736"
+  },
+  {
+   "nummer": "06da10062ea0e064"
+  },
+  {
+   "nummer": "e59f5028b4368a1d"
+  },
+  {
+   "nummer": "9f66580f40b6e8f7"
+  },
+  {
+   "nummer": "e66eea1ae04ae426"
+  },
+  {
+   "nummer": "003b08e0bcb6b53e"
+  },
+  {
+   "nummer": "3142cf8b05e3cdf4"
+  },
+  {
+   "nummer": "043d074e627c3922"
+  },
+  {
+   "nummer": "b7232de6e94393ef"
+  },
+  {
+   "nummer": "11ca25eaaad2ae7d"
+  },
+  {
+   "nummer": "3c0ed93d3def8e8d"
+  },
+  {
+   "nummer": "4016b82e1f723319"
+  },
+  {
+   "nummer": "45eef3e7f43576a1"
+  },
+  {
+   "nummer": "08a348956aa255eb",
+   "versie": "gorbachev-eastward-expansion-promise"
+  },
+  {
+   "nummer": "4c2c7c89eed6372f"
+  },
+  {
+   "nummer": "a4c9507edc52a291",
+   "versie": "nato-broke-eastward-promise"
+  },
+  {
+   "nummer": "ad61727e9fb2dd4b"
+  },
+  {
+   "nummer": "c4c0a0830f8cd735"
+  },
+  {
+   "nummer": "f065b9018a4fb240"
+  },
+  {
+   "nummer": "e7a944a9fe591706"
+  },
+  {
+   "nummer": "f5915fcf40e2d11b"
+  },
+  {
+   "nummer": "ddf99b06f4dd8f5d"
+  },
+  {
+   "nummer": "e8954d0fc7803e5e"
+  },
+  {
+   "nummer": "8e4b21d209b92708"
+  },
+  {
+   "nummer": "1f6060f003d435b1"
+  },
+  {
+   "nummer": "98cf63f25c2bd41a"
+  },
+  {
+   "nummer": "a501d63cd9d0dcdb"
+  },
+  {
+   "nummer": "03f21b2f8b02e2e4"
+  },
+  {
+   "nummer": "f633a0b209ed9fa7",
+   "versie": "hitler-new-europe-comparison"
+  },
+  {
+   "nummer": "faa85ba021ab2f1d",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "361e96240633850c"
+  },
+  {
+   "nummer": "937011e0168f1950"
+  },
+  {
+   "nummer": "1faaa73e9bb7b6f3"
+  },
+  {
+   "nummer": "58591602d18be21f",
+   "versie": "nato-base-crimea"
+  },
+  {
+   "nummer": "a1a1f4ce36163a12"
+  },
+  {
+   "nummer": "95d8317ff3adc517"
+  },
+  {
+   "nummer": "0ffb1ed19215e378"
+  },
+  {
+   "nummer": "498362476759bde3",
+   "versie": "iron-wolf-exercise-name"
+  },
+  {
+   "nummer": "ed342233b2532ab3"
+  },
+  {
+   "nummer": "12e37a3352ce55c2"
+  },
+  {
+   "nummer": "6a355c2da1b80cdf"
+  },
+  {
+   "nummer": "d1c8ebfd6b7a58a6"
+  },
+  {
+   "nummer": "4497b570d777b2ab"
+  },
+  {
+   "nummer": "2b3afd4a7e1b018d"
+  },
+  {
+   "nummer": "cdcf4c90bb83ef48"
+  },
+  {
+   "nummer": "0791a4e15f85ee11"
+  },
+  {
+   "nummer": "7ac98fb4ad7778be",
+   "versie": "intelligence-against-belarus"
+  },
+  {
+   "nummer": "1ed98d8367da9e07",
+   "versie": "intelligence-against-belarus"
+  },
+  {
+   "nummer": "a2176b65f1f40c2f"
+  },
+  {
+   "nummer": "e8a5aae4b8ca6a47"
+  },
+  {
+   "nummer": "63f1d771e8dd4ee5"
+  },
+  {
+   "nummer": "b5fcee402c391f72"
+  },
+  {
+   "nummer": "4357a0cabe7419c3",
+   "versie": "western-belarus-takeover"
+  },
+  {
+   "nummer": "a7e4a9dc908bfb2a",
+   "versie": "western-belarus-takeover"
+  },
+  {
+   "nummer": "3257ef1d5d28651f"
+  },
+  {
+   "nummer": "f0c2823837fa4a1e"
+  },
+  {
+   "nummer": "653e213bc0ec8e8f"
+  },
+  {
+   "nummer": "85c92dfb29895693"
+  },
+  {
+   "nummer": "03c1fd6eac836b05",
+   "versie": "nato-pushes-kyiv-war"
+  },
+  {
+   "nummer": "6a817812e0f89b76"
+  },
+  {
+   "nummer": "6aa085c5bca71388"
+  },
+  {
+   "nummer": "d43c44f1842a0576"
+  },
+  {
+   "nummer": "a53fe620a244acc8"
+  },
+  {
+   "nummer": "dd70d022cbee2f7f"
+  },
+  {
+   "nummer": "68c05c27eabeca78",
+   "versie": "founding-act-violation"
+  },
+  {
+   "nummer": "56dbacf7ec9b6a43"
+  },
+  {
+   "nummer": "f704fbba050cdbe3"
+  },
+  {
+   "nummer": "090073741a2c2cbb",
+   "versie": "agile-spirit-georgia-stability"
+  },
+  {
+   "nummer": "4f832b57c9fe92c6"
+  },
+  {
+   "nummer": "cf442f4edfb9f363",
+   "versie": "gotland-militarization-narrative"
+  },
+  {
+   "nummer": "d8f733c6141cc3ab"
+  },
+  {
+   "nummer": "d7d1390a17537383",
+   "versie": "nato-arms-deliveries-ukraine"
+  },
+  {
+   "nummer": "e47541ab69e05eff",
+   "versie": "nato-arms-deliveries-ukraine"
+  },
+  {
+   "nummer": "5f95103a266ac0c3"
+  },
+  {
+   "nummer": "6915783dff7519e5",
+   "versie": "ukraine-as-cannon-fodder"
+  },
+  {
+   "nummer": "cfbd6c9065016ab1"
+  },
+  {
+   "nummer": "8ca8a05b48c28ce6"
+  },
+  {
+   "nummer": "b2f998dc2216e7df",
+   "versie": "west-pushes-ukraine-war"
+  },
+  {
+   "nummer": "337d4662e631160b",
+   "versie": "ukraine-as-us-puppet"
+  },
+  {
+   "nummer": "50416c7bb60e2772",
+   "versie": "nato-arms-deliveries-ukraine"
+  },
+  {
+   "nummer": "a6d9804c53e1e67f",
+   "versie": "ukraine-as-us-puppet"
+  },
+  {
+   "nummer": "3cc4e25d1ecfb5d5"
+  },
+  {
+   "nummer": "6f7b2e1e7170ad46"
+  },
+  {
+   "nummer": "3c2b31b10c1eb719"
+  },
+  {
+   "nummer": "01325135d4cda0d0"
+  },
+  {
+   "nummer": "f643cb73e75eb697"
+  },
+  {
+   "nummer": "e11564f6813f8359"
+  },
+  {
+   "nummer": "3fdc8ef8f1bb9281",
+   "versie": "rostock-nato-headquarters"
+  },
+  {
+   "nummer": "f09955cedbe8c7e3",
+   "versie": "rostock-nato-headquarters"
+  },
+  {
+   "nummer": "08bf0e1bcba8aa9d",
+   "versie": "rostock-nato-headquarters"
+  }
+ ]
+}

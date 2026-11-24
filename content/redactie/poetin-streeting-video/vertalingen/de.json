@@ -1,0 +1,59 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck poetin-streeting-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "253f2476fe383f29",
+ "veldafdrukken": {
+  "kop": "422ec7b14031baf2",
+  "oordeel_zin": "54393d60ae5a31ca",
+  "bewering": "df69cd86fea0595e",
+  "kort": "84d911192e3bd3c2",
+  "tekst": "88d95fedb4fd1266",
+  "niet_weten": "78ec25806b18858b",
+  "bereik": "e20be431447ef3c7",
+  "nog_uitzoeken": "baa866ad5516bb88",
+  "tijdlijn": "645864c67aaf2117",
+  "beeld_bijschrift": "80632b36417f3152",
+  "beeld_alt": "1338664a28f0648d"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Kein Beleg, dass Putin das über Großbritannien gesagt hat, und das Streeting-Rock-Video ist manipuliert",
+  "oordeel_zin": "Das Zitat kursiert seit Dezember 2025 ohne Quelle, und das Video von Wes Streeting ist echtes Material vom 8. November 2026, in dem seine Hose in einen Rock verwandelt wurde [2] [15] [16].",
+  "bewering": "Putin sagt, er fürchte das Vereinigte Königreich nicht, weil „sie nicht einmal Schlauchboote stoppen können, die in ihr Land eindringen, oder ausländische Männer, die ihre Frauen und Kinder vergewaltigen.“ Er sagte auch, haben Sie ihren Verteidigungsminister gesehen.",
+  "kort": "Am 9. November veröffentlichte ein Account auf X ein Zitat, in dem Wladimir Putin sagt, er fürchte das Vereinigte Königreich nicht und frage, ob man dessen Verteidigungsminister gesehen habe, dazu ein Video von Wes Streeting in einem Rock [1]. Wir fanden keinen Beleg dafür, dass Putin diese Worte gesagt hat: Derselbe Account hatte im Dezember 2025 und erneut im Oktober 2026 fast dasselbe Zitat gepostet, jedes Mal als etwas Neues [2] [3]. Das Video ist echtes Material vom Remembrance Sunday am 8. November 2026, doch Streeting trug eine Hose, und seine Kleidung wurde verändert [12] [15] [16].",
+  "tekst": "Am Montag, dem 9. November 2026, um 8:57 Uhr britischer Zeit veröffentlichte ein anonymer Account auf X, der sich als Nachrichtendienst ausgibt, ein Zitat, das von Wladimir Putin stammen soll [1]. Darin sagt der russische Präsident, er fürchte das Vereinigte Königreich nicht, und fragt, ob man den britischen Verteidigungsminister gesehen habe [1]. Der Beitrag enthält ein Video von 10,5 Sekunden in zwei Hälften: links Putin an einem Tisch, rechts ein Handyvideo von der Gedenkfeier zum Remembrance Sunday in London [1]. Am 19. November hatte der Beitrag 14.991 Likes und 471 Antworten [1].\n\nDas Zitat ist nicht neu: Derselbe Account hatte am 13. Dezember 2025 fast dieselben Worte gepostet, als etwas, das Putin in jener Woche gesagt habe [2]. Dieser Beitrag hatte am 19. November 140.751 Likes [2]. Am 10. Oktober 2026 postete der Account die erste Hälfte erneut mit einem anderen Schluss, diesmal über Parlamentsabgeordnete [3]. Alle drei Beiträge verwenden dasselbe Material von Putin, an einem Tisch mit einem Dolmetscher neben ihm [1] [2] [3]. Der Satz über den Verteidigungsminister kann nicht aus dem Dezember 2025 stammen: Wes Streeting hat dieses Amt seit dem 20. Juli 2026 inne, und damals war er Gesundheitsminister [6].\n\nWir fanden weder einen Nachrichtenbericht noch ein Transkript, in dem Putin diese Worte sagt [4] [5]. Als Putin Anfang Dezember 2025 bei einem Investitionsforum in Moskau am 2. Dezember über Europa sprach, sagte er, Russland sei bereit, falls Europa einen Krieg beginne, und erwähnte Großbritannien nicht [4]. In der Woche des Beitrags drehten sich die Nachrichten zwischen Russland und Großbritannien um den G20-Gipfel: Premierminister Andy Burnham sagte, Putin werde nicht zum Gipfel 2027 in Manchester kommen, und am 16. November antwortete ein russischer Diplomat, nicht Putin, mit einer Warnung [5].\n\nDer National Service of Remembrance am Cenotaph in Whitehall fand am Sonntag, dem 8. November 2026, mit zwei Schweigeminuten um 11:00 Uhr statt [7]. Streeting war als Verteidigungsminister dort, und am selben Abend veröffentlichte er vier Fotos von der Zeremonie und von der Parade der Veteranen [8]. Fotos von Getty Images und Reuters zeigen ihn in dunkler Hose und flachen Herrenschuhen [12] [15]. Auch ein Livestream der britischen Regierung vom Tag zeigt ihn in Hose, wie AFP feststellte [16].\n\nDie veränderten Bilder tauchten binnen Stunden nach der Zeremonie auf [9]. Am Sonntag um 14:48 Uhr postete derselbe anonyme Account ein Foto, auf dem Streeting einen Rock und hohe Absätze trägt und eine Handtasche hält [9]. Am Montag um 7:06 Uhr postete er ein Video von 21,5 Sekunden, aufgenommen von hinten über Gardisten hinweg vor dem Gebäude des Foreign Office, so lang wie der veränderte Clip, den AFP untersuchte [10] [16]. Die rechte Hälfte des Videos im Putin-Beitrag zeigt dieselbe Stelle aus demselben Blickwinkel [1] [10].\n\nDas echte Material wurde aus der Menge gefilmt: Der unabhängige Journalist Louis Errington filmte dieselbe Szene und veröffentlichte sie am 8. November kurz vor Mitternacht auf Instagram [11]. In seinem Video trägt Streeting eine Hose und hat keine Tasche dabei, laut AFP, Full Fact und Lead Stories [12] [15] [16]. Full Fact stufte die Behauptung als falsch ein: Die Bilder und das Video wurden bearbeitet [15].\n\nWie die Kleidung verändert wurde, ist nicht geklärt: An-Nahar schrieb, das Video sei mit KI-Werkzeugen verändert worden [13]. AFP ließ es durch den Detektor Mever laufen, der eine Wahrscheinlichkeit von 87 Prozent für KI ergab [16]. Animal Político berichtete, das Werkzeug SynthID von Google habe die untere Körperhälfte als digital verändert markiert [14]. Alle stimmen darin überein, dass das Material der Zeremonie selbst echt ist und nur seine Kleidung verändert wurde [13] [14] [16].\n\nDie veränderten Bilder verbreiteten sich auf Polnisch, Arabisch und Koreanisch, und auch eine Faktencheckerin in Mexiko befasste sich mit ihnen [12] [13] [14] [16]. Viele der Beiträge nutzten sie, um sich über Großbritannien oder über Streeting selbst lustig zu machen [12] [16]. Lead Stories war der erste Faktenchecker, den wir fanden, am 10. November [12]. Keiner der Faktenchecks, die wir gelesen haben, befasste sich mit dem Putin-Zitat [12] [13] [14] [15] [16].",
+  "niet_weten": "Wir wissen nicht, wer das Zitat verfasst hat oder wer es als Erster online gestellt hat; die älteste Version, die wir gefunden haben, stammt vom 13. Dezember 2025 [2]. Wir wissen nicht, aus welchem Treffen das Videomaterial von Putin stammt. Wir wissen nicht, wer das Foto und das Video verändert hat oder mit welchem Werkzeug: Die von AFP und Animal Político verwendeten Detektoren deuten auf KI hin, doch solche Werkzeuge können sich irren [14] [16].",
+  "bereik": "14.991 Likes und 471 Antworten am 19. November",
+  "nog_uitzoeken": [
+   "Aus welchem Treffen das Videomaterial von Putin stammt und ob der Ton entfernt oder ersetzt wurde.",
+   "Wer das veränderte Foto und das veränderte Video erstellt hat und ob sie zuerst auf diesem Konto oder anderswo erschienen sind.",
+   "Ob die rechte Hälfte des Videos im Beitrag Bild für Bild das veränderte Video von 7:06 ist und ob dieses Video aus dem Material von Louis Errington erstellt wurde.",
+   "Ob das Zitat für sich genommen als Falsch oder als Unbewiesen eingestuft werden sollte: Wir können nicht beweisen, dass Putin nie etwas Ähnliches gesagt hat, sondern nur, dass dieser Text seit Dezember 2025 ohne Quelle im Umlauf ist."
+  ],
+  "tijdlijn": [
+   "Putin sagt bei einem Forum in Moskau, Russland sei bereit, falls Europa einen Krieg beginne; Großbritannien erwähnt er nicht [4].",
+   "Der Account postet das Zitat zum ersten Mal, soweit wir fanden, als etwas, das Putin in jener Woche gesagt habe [2].",
+   "Wes Streeting wird Verteidigungsminister [6].",
+   "Der Account postet die erste Hälfte des Zitats erneut, mit einem anderen Schluss [3].",
+   "Zwei Schweigeminuten am Cenotaph in Whitehall [7].",
+   "Der Account postet ein verändertes Foto von Streeting in einem Rock [9].",
+   "Streeting veröffentlicht auf X seine eigenen Fotos von der Zeremonie [8].",
+   "Louis Errington veröffentlicht sein Video von der Zeremonie auf Instagram [11].",
+   "Der Account postet das veränderte Video von Streeting [10].",
+   "Der Beitrag mit dem Putin-Zitat und dem Video in zwei Hälften [1].",
+   "Lead Stories: Die Bilder und das Video wurden digital manipuliert [12].",
+   "An-Nahar: Das Video wurde mit KI verändert [13].",
+   "Full Fact: falsch, Streeting trug eine Hose [15].",
+   "AFP: Das Video wurde manipuliert [16]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 9. November 2026, 8:57 Uhr britischer Zeit.",
+   "Louis Errington, unabhängiger Journalist, auf Instagram, 8. November 2026: dieselbe Szene am Cenotaph, mit Wes Streeting in Hose."
+  ],
+  "beeld_alt": [
+   "Standbild aus dem Video im Beitrag: links Wladimir Putin an einem Tisch, rechts ein Handyvideo von der Gedenkfeier zum Remembrance Sunday in Whitehall, aufgenommen von hinten über Gardisten in Bärenfellmützen hinweg. Stempel: FALSCH.",
+   "Video von Louis Errington von der Gedenkfeier zum Remembrance Sunday in Whitehall, aus der Menge hinter Gardisten gefilmt."
+  ]
+ }
+}

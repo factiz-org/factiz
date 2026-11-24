@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck eritrese-rellen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "35732b3e97b1f052",
+ "veldafdrukken": {
+  "kop": "ececa8710b1c4815",
+  "oordeel_zin": "fa2de3b12ca3da08",
+  "bewering": "588a90a75201bcd9",
+  "kort": "df785e233be58cfe",
+  "tekst": "ee517c4a5204ca60",
+  "niet_weten": "99e8064aa79ed649",
+  "nog_uitzoeken": "85006e7de6ecede5",
+  "tijdlijn": "72caa9554a611a4d",
+  "beeld_bijschrift": "0796daec76d5d0d3",
+  "beeld_alt": "99cb9613e705d3eb"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video of riots at an Eritrean gathering in The Hague is from February 2024",
+  "oordeel_zin": "The riots were real, but they took place on 17 February 2024, and the same video with almost the same text was already on X back then [1] [4].",
+  "bewering": "Footage of riots with burning police cars in The Hague, shared as if they are happening now.",
+  "kort": "On 27 October, a Dutch-language account on X shared footage of riots in The Hague as if they had just happened [5]. The footage is from Saturday 17 February 2024, when a group of opponents tried to force their way into an Eritrean gathering at the Opera event venue on the Fruitweg [1] [3]. The same video was already on X that evening in 2024, with almost the same text as the English posts from late October 2026 [4] [6].",
+  "tekst": "On Tuesday 27 October at 02:26, a Dutch-language account on X shared footage of riots in The Hague [5]. A few hours later, someone added context to it [5]. The account has since been suspended, so we could no longer read what the post said exactly [5].\n\nA few hours earlier, on Monday 26 October at 22:01, a 24-second video about major unrest in The Hague appeared in English [6]. According to the text, Eritrean migrants stormed the Opera building and set police cars on fire [6]. Other accounts picked up the video the same night, one of them as a sign of protests in more countries [6].\n\nThat text and that footage are not new. On Saturday 17 February 2024 at 19:42, the account Visegrád 24 put almost the same text on X, with a video of the same length and the same format [4]. That post has been viewed more than 10 million times [4].\n\nWhat happened that evening is well documented. At the Opera event venue on the Fruitweg, 500 to 600 Eritreans were celebrating the new year [1]. According to the municipality, supporters of the Eritrean government had organised the party [1]. A group of opponents tried to force their way into the building and threw stones and paving tiles [1] [3]. Police cars, residents' cars and a coach went up in flames [1] [3].\n\nThe riot police were deployed, and mayor Jan van Zanen authorised the use of tear gas and issued an emergency order [1]. The police arrested 13 men that night, which later rose to 16 [2] [7]. According to the mayor, 26 officers were injured [7]. The Public Prosecution Service prosecuted ten suspects, and the claims for damages came to a combined total of more than 775,000 euros [3].\n\nThe video now circulating is therefore real, but more than two years and eight months old [1] [4].",
+  "niet_weten": "We do not know what the Dutch post claimed exactly, because the account has been suspended and we found no copy. So we also do not know for certain whether the video in it is the same as the one from 26 October. We do not know who filmed the footage in February 2024; Visegrád 24 did not name a creator. We did not look into why the footage resurfaced specifically at the end of October.",
+  "nog_uitzoeken": [
+   "What exactly the Dutch post claimed, and whether the video in it was the same 24 seconds. The account has been suspended, and we did not find a copy.",
+   "Whether there were riots around 26 October 2026 at an Eritrean gathering in The Hague. We have not yet asked the police or Omroep West about this."
+  ],
+  "tijdlijn": [
+   "NOS reports riots around an Eritrean gathering on the Fruitweg, with police cars on fire [1].",
+   "Visegrád 24 puts the video on X [4].",
+   "13 men arrested, six officers injured [2].",
+   "The municipal council wants an external investigation; by now 16 arrests and 26 injured officers [7].",
+   "The Public Prosecution Service demands prison sentences against ten suspects [3].",
+   "An English post presents the same video with almost the same text as new [6].",
+   "The Dutch post with the footage [5]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X in English, 26 October 2026, 22:01. The Dutch post of 27 October is gone, the account suspended.",
+   "Visegrád 24 on X, 17 February 2024, 19:42: the same video, on the evening of the riots on the Fruitweg."
+  ],
+  "beeld_alt": [
+   "Still from the video: a burning police car in a street in The Hague. Stamp: MISLEADING.",
+   "The video on Visegrád 24 of the riots at the Opera event venue in The Hague in February 2024."
+  ]
+ }
+}

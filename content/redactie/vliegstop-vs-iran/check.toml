@@ -1,0 +1,302 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.9, B82, B84, B85), in het Engels. Geschreven door Claude op het
+# dossier in data/redactie/vliegstop-vs-iran/dossier.md, nagelezen en goedgekeurd door de redactie van Factiz
+# (2026-11-19, PO: "3 checks in engels zijn nagelezen en goedgekeurd").
+
+sleutel = "vliegstop-vs-iran"
+status = "gepubliceerd"
+taal = "en"
+adres = "us-ground-stop-iranian-claim"
+kop = "The \"Iranian claim\" about the US ground stop is a post with two emoji"
+oordeel = "misleidend"
+oordeel_zin = "An account called Iran Military Media posted an airplane and a cross after the ground stop had begun, but it claimed nothing, and the FAA traced the stop to a flood of data on its own network [1] [3] [11]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "Iranian accounts are now tweeting suggesting they are responsible for the ground stop in the US today.   Time for President Trump to finish the Iranian regime."
+platform = "X"
+eerst_gezien = "2026-11-13"
+posts = 1
+bereik = "19,468 likes and 1,842 replies on November 19"
+
+kort = """
+On November 13, Laura Loomer wrote on X that Iranian accounts suggested they were behind the nationwide ground stop in \
+the US, and called on President Trump to finish the Iranian regime [2]. The post she quoted shows only an airplane and a \
+cross, posted by an account called Iran Military Media after the ground stop had begun [3] [6]. The FAA traced the stop \
+to a flood of data on its own network, and US officials said they saw no sign of a foreign actor [1] [9] [13]."""
+
+tekst = """
+On Friday, November 13, US air traffic control began to lose radar and radio links at 3:36 p.m. Eastern time (20:36 \
+UTC), according to Transportation Secretary Sean Duffy [5]. Shortly before 4 p.m., the Federal Aviation Administration \
+(FAA) stopped all departures from US airports, a so-called ground stop [6]. Planes already in the air could land; Duffy \
+said more than 3,500 were airborne at the time [7] [8]. The FAA lifted the stop at about 8:15 p.m. Eastern time, 01:15 UTC \
+on November 14 [5].
+
+It was the first nationwide ground stop since January 2023, and the second since the attacks of September 11, 2001 [6].
+
+At 21:20 UTC, about 45 minutes after the problems began, an account called Iran Military Media posted two emoji on X: an \
+airplane and a cross [3] [5]. The post has no words, no image and no link [3]. It does not mention the FAA, a cyberattack \
+or a drone, and it does not say who did anything [3]. At 23:00 UTC, Laura Loomer quoted it, with the text that Iranian \
+accounts were suggesting they were responsible for the ground stop [2]. Her post had 19,468 likes and 1,842 replies on \
+November 19 [2].
+
+The account carries no label of a government or official organization on X, and we found no source that ties it to the \
+Iranian armed forces [3]. Iran's Revolutionary Guard does claim attacks in public: on the same day it claimed a drone \
+attack on a US radar site in Bahrain, and US Central Command said it intercepted the drones [15]. None of the reports on \
+the ground stop that we read mention an Iranian claim of responsibility [9] [14] [15].
+
+By the time Loomer posted, officials had already said they saw no sign of an attack [4] [7]. At 4:53 p.m. Eastern time, \
+two law enforcement officials told CNN that, according to preliminary information, it was not a cyberattack [7]. Homeland \
+Security Secretary Markwayne Mullin told reporters at the White House that there was no indication of a nefarious attack, \
+and called it a telecommunications outage [4].
+
+The FAA's first findings, published on November 15, point to its own telecommunications network, which the contractor \
+L3Harris runs [1]. The network was flooded with data from two sites: a radar site in Amarillo, Texas, and a radio site in \
+El Dorado, Arkansas, where L3Harris had installed a new router [1] [11]. The older equipment received about 1,000 \
+connection attempts every four to five seconds and became unstable [11]. Traffic steadied after L3Harris cut off the two \
+sites [11]. Duffy said the work in El Dorado replaced old copper lines with fiber [9] [11].
+
+On November 14, Duffy said: "It wasn't a foreign actor." [9] FAA Administrator Bryan Bedford said the White House \
+Situation Room and the FBI had been involved, and that all involved had concluded it was not a cyber issue [9]. On November 17, \
+Director of National Intelligence Jay Clayton said on Fox Business that he saw no signs of a coordinated cyberattack \
+behind the recent string of outages, and put them down to patching and system upgrades [13]. In a Reuters report that day, a White House spokeswoman said there was \
+no evidence of a cyberattack behind them [12].
+
+Iran came up for a reason: the United States is at war with Iran, and Iran had warned it would strike back in \
+cyberspace [9]. On November 18, Mullin told Congress in writing that the Iranian government and groups backed by Tehran \
+have targeted US infrastructure, but he did not link Iran to the ground stop [14].
+
+The exact cause is not settled yet: the FAA and L3Harris are still looking into whether an installation error, a faulty \
+device or something else set off the flood of data [11]. On November 15, Duffy said he had no indication of a hack, and \
+that the FBI was helping and would share anything it found [10].
+
+We found no fact-check by another newsroom on the claim about Iran; the Austrian fact-checker Mimikama confirmed on \
+November 14 that the FAA had stopped departures nationwide, and found no evidence of a cyberattack [16]. PolitiFact checked \
+on November 17 who was to blame politically for the outage, not a link with Iran [17]."""
+
+niet_weten = """
+We do not know who runs the account Iran Military Media, from which country, or what it meant with the airplane and the \
+cross [3]. Loomer wrote of Iranian accounts, plural; we found only the one post she quoted [2] [3]. The final cause of the \
+ground stop is not known yet [10] [11]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who runs the account Iran Military Media, and which country X shows for it.",
+  "Whether other accounts that present themselves as Iranian claimed the ground stop that day, in Persian or in English.",
+  "What the final FAA investigation finds: an installation error, a faulty router, or something else, and the role of the site in Amarillo.",
+  "We hesitated between Misleading and False. The emoji post exists, which made us choose Misleading; it claims nothing and there is no sign that Iran was involved, which points to False.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 13, 2026, 23:00 UTC."
+alt = "A post on X by Laura Loomer saying Iranian accounts suggest they are responsible for the ground stop in the US, quoting a post by Iran Military Media with an airplane and a cross. Stamp: MISLEADING."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "20:36 UTC"
+wat = "Radar and radio links of US air traffic control become unstable, according to Duffy [5]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Shortly before 4 p.m. Eastern time, the FAA stops all departures from US airports [6]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "21:20 UTC"
+wat = "Iran Military Media posts an airplane and a cross on X [3]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "21:53 UTC"
+wat = "Two law enforcement officials tell CNN that it is not a cyberattack, according to preliminary information [7]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "22:36 UTC"
+wat = "NPR reports Mullin: no indication of a nefarious attack, a telecommunications outage [4]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "23:00 UTC"
+wat = "Laura Loomer quotes the emoji post: Iranian accounts suggest they are responsible [2]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "01:15 UTC"
+wat = "The FAA lifts the ground stop, at 8:15 p.m. Eastern time on November 13 [5]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+wat = "Duffy: the cause lies in work by an L3Harris contractor, and it was not a foreign actor [9]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+wat = "The FAA's first findings: a flood of data from two sites, in Amarillo and El Dorado [1] [11]."
+
+[[tijdlijn]]
+datum = "2026-11-17"
+wat = "Director of National Intelligence Clayton sees no signs of a coordinated cyberattack [13]."
+
+[[tijdlijn]]
+datum = "2026-11-18"
+wat = "Mullin to Congress: Iran targets US infrastructure, without a link to the ground stop [14]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Federal Aviation Administration (FAA)"
+titel = "Nationwide Ground Stop: Questions and Answers"
+datum = "2026-11-15"
+url = "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+archief = "https://web.archive.org/web/20261119184515/https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Laura Loomer on X"
+titel = "Post on Iranian accounts and the ground stop, quoting a post by Iran Military Media"
+datum = "2026-11-13"
+url = "https://x.com/LauraLoomer/status/2121377576920977850"
+archief = "https://web.archive.org/web/20261119201149/https://cdn.syndication.twimg.com/tweet-result?id=2121377576920977850&token=554i5gh3u6j&lang=en"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "X"
+titel = "Post by the account Iran Military Media with an airplane and a cross"
+datum = "2026-11-13"
+prive = true
+archief = "https://web.archive.org/web/20261119201025/https://cdn.syndication.twimg.com/tweet-result?id=2121352638935498760&token=554fbx7lrj7&lang=en"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "NPR (via WYPR)"
+titel = "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop"
+datum = "2026-11-13"
+url = "https://www.wypr.org/2026-11-13/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+archief = "https://web.archive.org/web/20261115071331/https://www.wypr.org/2026-11-13/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Skift"
+titel = "FAA Lifts 4-Hour Nationwide Ground Stop; Disruptions to Last Into Weekend"
+datum = "2026-11-13"
+url = "https://skift.com/2026/11/13/faa-orders-rare-nationwide-ground-stop-over-air-traffic-control-comms-issue/"
+archief = "https://web.archive.org/web/20261119201225/https://skift.com/2026/11/13/nationwide-ground-stop-lifted-delays-to-last/"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "AeroTime"
+titel = "FAA halts all US departures, warns airborne flights to expect holding nationwide"
+datum = "2026-11-13"
+url = "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026/amp"
+archief = "https://web.archive.org/web/20261118023039/https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026/amp"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "The War Zone"
+titel = "FAA Orders Ground Stop For All Flights Across The U.S. (Updated)"
+datum = "2026-11-13"
+url = "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s"
+archief = "https://web.archive.org/web/20261115173755/https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "Associated Press (via The Atlanta Journal-Constitution)"
+titel = "Trump administration blames 'overloaded' systems for ground stop after FAA lets flights resume"
+datum = "2026-11-14"
+url = "https://www.ajc.com/news/2026/11/flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-faa-says/"
+archief = "https://web.archive.org/web/20261119201319/https://www.ajc.com/news/2026/11/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Fortune"
+titel = "FAA telecom problems that triggered the ground stop were so alarming the White House situation room and national security apparatus went into action"
+datum = "2026-11-14"
+url = "https://fortune.com/2026/11/14/faa-ground-stop-telecom-router-cybersecurity-white-house-situation-room-national-security-apparatus-l3harris/"
+archief = "https://web.archive.org/web/20261117224414/https://fortune.com/2026/11/14/faa-ground-stop-telecom-router-cybersecurity-white-house-situation-room-national-security-apparatus-l3harris/"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "Fortune"
+titel = "Transportation secretary still doesn't totally rule out that a cyberattack may have hit the FAA, and the FBI is assisting the probe"
+datum = "2026-11-15"
+url = "https://fortune.com/2026/11/15/cyberattack-hack-faa-air-traffic-control-communications-router-fbi-probe-sean-duffy-ground-stop"
+archief = "https://web.archive.org/web/20261117101912/https://fortune.com/2026/11/15/cyberattack-hack-faa-air-traffic-control-communications-router-fbi-probe-sean-duffy-ground-stop/"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "GovInfoSecurity"
+titel = "FAA Rules Out AI, Hackers Behind US Ground Stop"
+datum = "2026-11-15"
+url = "https://www.govinfosecurity.com/faa-rules-out-ai-hackers-behind-us-ground-stop-a-33395"
+archief = "https://web.archive.org/web/20261119201416/https://www.govinfosecurity.com/faa-rules-out-ai-hackers-behind-us-ground-stop-a-33395"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Reuters (via Cyprus Mail)"
+titel = "As string of tech outages raises alarms, Trump says everything is \"fine\""
+datum = "2026-11-17"
+url = "https://cyprus-mail.com/2026/11/17/as-string-of-tech-outages-raises-alarms-trump-says-everything-is-fine"
+archief = "https://web.archive.org/web/20261117201925/https://cyprus-mail.com/2026/11/17/as-string-of-tech-outages-raises-alarms-trump-says-everything-is-fine"
+
+[[bron]]
+nr = 13
+soort = "nieuws"
+uitgever = "Fox Business"
+titel = "Jay Clayton addresses concerns amid widespread tech outages"
+datum = "2026-11-17"
+url = "https://www.foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages"
+archief = "https://web.archive.org/web/20261118032058/https://www.foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages"
+
+[[bron]]
+nr = 14
+soort = "nieuws"
+uitgever = "Reuters (via The Jerusalem Post)"
+titel = "Iran targeted US infrastructure with cyberattacks since start of war, Homeland Security chief says"
+datum = "2026-11-18"
+url = "https://www.jpost.com/middle-east/iran-news/article-915348"
+archief = "https://web.archive.org/web/20261118201655/https://www.jpost.com/middle-east/iran-news/article-915348"
+
+[[bron]]
+nr = 15
+soort = "nieuws"
+uitgever = "The Media Line (via The Jerusalem Post)"
+titel = "FAA shutdown, European cyberattacks expose infrastructure risks as Iran tensions rise"
+datum = "2026-11-16"
+url = "https://jpost.com/middle-east/iran-news/article-915033"
+archief = "https://web.archive.org/web/20261117023252/https://www.jpost.com/middle-east/iran-news/article-915033"
+
+[[bron]]
+nr = 16
+soort = "factcheck"
+uitgever = "Mimikama"
+titel = "Startstopp in den USA: Ursache und Ablauf im Faktencheck"
+datum = "2026-11-14"
+url = "https://www.mimikama.org/usa-startstopp-faa-flugsicherung-november-2026/"
+archief = "https://web.archive.org/web/20261117103234/https://www.mimikama.org/usa-startstopp-faa-flugsicherung-november-2026/"
+
+[[bron]]
+nr = 17
+soort = "factcheck"
+uitgever = "PolitiFact"
+titel = "Biden's fault? Trump's fault? Fact-checking the partisan blame game about the FAA ground stop"
+datum = "2026-11-17"
+url = "https://politifact.com/article/2026/nov/17/faa-ground-stop-funding-biden-trump-fiber-router/"
+archief = "https://web.archive.org/web/20261117222030/https://politifact.com/article/2026/nov/17/faa-ground-stop-funding-biden-trump-fiber-router/"

@@ -1,0 +1,345 @@
+{
+ "toelichting": "De lezing van de voormeting voor de radar (PLAN #37.0), door Claude op 2026-11-18. Terug: per factcheck van AFP Factcheck Nederland de notes en de checks uit het archief die dezelfde bewering zijn; de rest van de vijf kandidaten per bron is gelezen en niet dezelfde. Vooruit: de 37 posts met een Nederlandse note van 8 tot en met 14 november, samengevoegd per bewering. 'al_gecheckt' betekent: in het archief of in de note zelf een check gevonden; de Nederlandse en Vlaamse redacties staan sinds maart 2024 niet meer in het archief, dus nul is een ondergrens.",
+ "terug": {
+  "afp-01": {
+   "notes": [
+    {
+     "note": "2117631733029802454",
+     "datum": "2026-11-03",
+     "zelfde": true,
+     "waarom": "de 14-jarige jongen en de 'martelkelder' bij Kiev"
+    },
+    {
+     "note": "2117646607101424026",
+     "datum": "2026-11-03",
+     "zelfde": true
+    }
+   ]
+  },
+  "afp-02": {},
+  "afp-03": {},
+  "afp-04": {},
+  "afp-05": {},
+  "afp-06": {},
+  "afp-07": {},
+  "afp-08": {
+   "notes": [
+    {
+     "note": "2106020518025363586",
+     "datum": "2026-10-02",
+     "zelfde": true,
+     "waarom": "de brandende schoolbus van januari 2023 in Nîmes"
+    }
+   ]
+  },
+  "afp-09": {},
+  "afp-10": {},
+  "afp-11": {
+   "archief": [
+    {
+     "pagina": "0640dbe8056010a0",
+     "datum": "2024-03-27",
+     "zelfde": true,
+     "waarom": "dezelfde bewering over de Amish, in 2024 al gecheckt: een terugkerende bewering, geen teken dat ze nu rondgaat"
+    }
+   ]
+  },
+  "afp-12": {
+   "notes": [
+    {
+     "note": "2101960380251566455",
+     "datum": "2026-09-21",
+     "zelfde": true,
+     "waarom": "waarschijnlijk dezelfde video: de rij vrouwen bij een winkel, niet wat de post zei"
+    }
+   ]
+  },
+  "afp-13": {},
+  "afp-14": {},
+  "afp-15": {},
+  "afp-16": {
+   "notes": [
+    {
+     "note": "2087534809237070332",
+     "datum": "2026-08-12",
+     "zelfde": true,
+     "waarom": "de windparken Storheia en Roan en de rendieren"
+    }
+   ]
+  },
+  "afp-17": {},
+  "afp-18": {
+   "notes": [
+    {
+     "note": "2087572991097839649",
+     "datum": "2026-08-12",
+     "zelfde": true,
+     "waarom": "Fauci, de privéberichten en miskramen"
+    },
+    {
+     "note": "2088121162115031495",
+     "datum": "2026-08-14",
+     "zelfde": true
+    }
+   ]
+  },
+  "afp-19": {},
+  "afp-20": {},
+  "afp-21": {},
+  "afp-22": {},
+  "afp-23": {},
+  "afp-24": {},
+  "afp-25": {},
+  "afp-26": {},
+  "afp-27": {},
+  "afp-28": {
+   "notes": [
+    {
+     "note": "2064323187987411446",
+     "datum": "2026-06-09",
+     "zelfde": true,
+     "waarom": "dezelfde dag als AFP; citeert AFP zelf"
+    }
+   ]
+  }
+ },
+ "vooruit": [
+  {
+   "post": "2120968344224649297",
+   "posts": [
+    "2120968344224649297",
+    "2120889554517282950",
+    "2120957614570062250",
+    "2121142388638826630",
+    "2121321245765742921",
+    "2120598573335404977",
+    "2119904428597633103"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "de 'tabellen' van de nieuwe box 3-belasting: vermogen en rendement verward; groot publiek belang, met de Belastingdienst na te gaan"
+  },
+  {
+   "post": "2119390304184782910",
+   "posts": [
+    "2119390304184782910"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "een video die niet van de Rode Lijn-demonstratie is maar van het protest tegen het datacentrum van Microsoft in Amsterdam (6 november)"
+  },
+  {
+   "post": "2119450259319337218",
+   "posts": [
+    "2119450259319337218",
+    "2119489476938645724",
+    "2119494724168110250",
+    "2119542817873690899",
+    "2119557176993698037"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "een AI-beeld van een beklad standbeeld van Anne Frank"
+  },
+  {
+   "post": "2119763726244970977",
+   "posts": [
+    "2119763726244970977"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "de EU zou met een boete van 5 miljard en een Starlink-verbod dreigen; komt uit satire-accounts"
+  },
+  {
+   "post": "2119181453225501106",
+   "posts": [
+    "2119181453225501106"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "een tweede schutter bij de schietpartij in Krakau; de politie ontkent"
+  },
+  {
+   "post": "2119695388600902096",
+   "posts": [
+    "2119695388600902096",
+    "2119696454079910323"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "vijf 'nieuwe' woningbouwlocaties van de minister die al lang in plannen stonden"
+  },
+  {
+   "post": "2120850920166539432",
+   "posts": [
+    "2120850920166539432"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "een Nederlandse boycot van het Weizmanninstituut"
+  },
+  {
+   "post": "2120594020074197470",
+   "posts": [
+    "2120594020074197470"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "wat het coalitieakkoord zegt over nivelleren (pagina 66)"
+  },
+  {
+   "post": "2119208887605756391",
+   "posts": [
+    "2119208887605756391"
+   ],
+   "te_checken": true,
+   "al_gecheckt": false,
+   "waarom": "250 miljoen doden door christenen tegenover vervolgde christenen"
+  },
+  {
+   "post": "2121595307632865325",
+   "posts": [
+    "2121595307632865325"
+   ],
+   "te_checken": true,
+   "al_gecheckt": true,
+   "waarom": "een oude video uit Essen (december 2024) als 'bestorming van een kerstmarkt'; AFP checkte haar in 2024, de note citeert die check"
+  },
+  {
+   "post": "2119183834352865350",
+   "posts": [
+    "2119183834352865350"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "het motief van de schutter in Krakau: nog in onderzoek, geen bewering om nu te checken"
+  },
+  {
+   "post": "1959888495922545102",
+   "posts": [
+    "1959888495922545102"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "een nagemaakt account van Loesje"
+  },
+  {
+   "post": "2119099186041733274",
+   "posts": [
+    "2119099186041733274"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "Napoleon en de achternamen: weetje, geen publiek belang"
+  },
+  {
+   "post": "2119557794424651844",
+   "posts": [
+    "2119557794424651844",
+    "2119612349472727266"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "de prijs van een spel van Nintendo, in het Engels"
+  },
+  {
+   "post": "2119830373848982005",
+   "posts": [
+    "2119830373848982005"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "een parodie op een juridische mededeling van de EU"
+  },
+  {
+   "post": "2119861703961973128",
+   "posts": [
+    "2119861703961973128"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "omkoping door de voorzitter van Anderlecht, oude context"
+  },
+  {
+   "post": "2119879128174501967",
+   "posts": [
+    "2119879128174501967"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "Brugge aan zee: weetje"
+  },
+  {
+   "post": "2120419768473674004",
+   "posts": [
+    "2120419768473674004"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "beschuldigingen tegen een contentmaker: over een persoon, niet voor ons"
+  },
+  {
+   "post": "2120938661101662222",
+   "posts": [
+    "2120938661101662222"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "Nederland bezet in de Eerste Wereldoorlog: geschiedenisfout zonder publiek belang"
+  },
+  {
+   "post": "2120939442378777043",
+   "posts": [
+    "2120939442378777043"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "alleen een link, geen bewering in de note"
+  },
+  {
+   "post": "2120985913580982777",
+   "posts": [
+    "2120985913580982777"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "een bot-account"
+  },
+  {
+   "post": "2121075777487970548",
+   "posts": [
+    "2121075777487970548"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "Jensen Huang ontslagen of vertrokken: Engels, Amerikaans"
+  },
+  {
+   "post": "2121174111867080915",
+   "posts": [
+    "2121174111867080915"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "de EU is niet Europa: geen bewering die rondgaat"
+  },
+  {
+   "post": "2121408983403560962",
+   "posts": [
+    "2121408983403560962"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "een gestolen post"
+  },
+  {
+   "post": "2121695468602220880",
+   "posts": [
+    "2121695468602220880"
+   ],
+   "te_checken": false,
+   "al_gecheckt": false,
+   "waarom": "een gekopieerde post"
+  }
+ ]
+}

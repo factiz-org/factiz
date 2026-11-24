@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "A fila de mulheres neste vídeo estava em Amsterdam, para uma liquidação de roupas",
+  "oordeel_zin": "O vídeo é real, mas foi gravado em 19 de setembro em Amsterdam-West, durante a liquidação de uma marca de moda; não tem nada a ver com Dublin [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "Desde 21 de setembro circula no X um vídeo de uma longa fila de mulheres na rua, apenas com as palavras \"Dublin 2027\" [5]. O vídeo foi gravado em 19 de setembro em Amsterdam-West, durante a liquidação de uma marca de moda, e a própria marca foi a primeira a publicá-lo online [1] [9]. O mesmo vídeo também circulou como uma fila de mulheres muçulmanas esperando por creche gratuita; isso também não é verdade [7] [8] [9].",
+  "tekst": "Na segunda-feira, 21 de setembro, às 9h36, uma conta com uma bandeira irlandesa depois do nome publicou no X um vídeo de uma longa fila de mulheres na rua [5]. O único texto é \"Dublin 2027\" [5]. O que o autor quer dizer com isso, a postagem não diz, mas, sem explicação, parece uma imagem de Dublin, agora ou no futuro.\n\nO mesmo vídeo também circulou naquela semana com outra explicação. Em holandês, como mulheres muçulmanas esperando por creche gratuita [8]. Em espanhol, como uma fila que uma mulher holandesa teria filmado, de mulheres muçulmanas inscrevendo seus filhos em uma creche gratuita [7]. E em inglês, no Instagram e no Facebook, com a explicação de que as mulheres vinham inscrever seus filhos em cuidado gratuito oferecido pelo Estado [9].\n\nA fila existe, mas por outro motivo: a marca Oemaayah, que vende moda modesta, fez no sábado, 19 de setembro, um sample sale: uma venda de peças de amostra e sobras de lotes a preços baixos [2] [9]. A marca havia anunciado a venda antes no Instagram e no TikTok, em um espaço de eventos em Amsterdam-West [2] [7]. No domingo, 20 de setembro, a própria marca publicou o vídeo da fila, com um agradecimento a todos que compareceram [1] [9]. À Full Fact e à Reuters, a marca confirmou que o vídeo mostra visitantes esperando para entrar na venda [9].\n\nSegundo a Full Fact e a Maldita, o local é o De Hallen Studio's, onde as grades, as casas e o prédio coincidem com as imagens do Google [7] [9]. Esses estúdios ficam na antiga garagem de bondes em Oud-West e são alugados para eventos [4]. A postagem com \"Dublin 2027\" apareceu cerca de dezesseis horas depois do vídeo da marca. Deduzimos isso dos números que o X e o Instagram dão a uma publicação, pois neles está contido o momento da publicação [1] [5]. Portanto, o vídeo não tem nada a ver com Dublin.\n\nA explicação sobre a creche também não é verdadeira. Creche gratuita para a qual se entra em uma fila não existe nos Países Baixos [3]. O governo quer tornar a creche quase gratuita para pais que trabalham a partir de 2029: todos passam a ter 96 por cento reembolsados, independentemente da renda, e o Estado paga isso diretamente à creche [3]. Os pais então não precisam mais solicitar esse reembolso por conta própria [3].\n\nA EFE Verifica foi, em 22 de setembro, a primeira verificadora de fatos que encontramos [6]. A AFP Factcheck Nederland e a Maldita vieram em 24 de setembro, a Full Fact em 29 de setembro [7] [8] [9].",
+  "niet_weten": "Não sabemos o que o autor do post quer dizer exatamente com \"Dublin 2027\", nem quem foi o primeiro a dar outra explicação ao vídeo da marca. Nós mesmos não encontramos um post em holandês com a explicação sobre creche; só a conhecemos pela checagem da AFP Factcheck Nederland [8]. Não sabemos se as mulheres na fila são muçulmanas e, para esta checagem, isso não importa: elas estavam na fila para comprar roupas.",
+  "nog_uitzoeken": [
+   "O que o autor quer dizer com 'Dublin 2027'.",
+   "Um post em holandês com a explicação sobre creche. Só o conhecemos pela checagem da AFP Factcheck Nederland."
+  ],
+  "tijdlijn": [
+   "O sample sale da Oemaayah em Amsterdam-West [2] [9].",
+   "A marca publica o vídeo da fila no Instagram, com um agradecimento aos visitantes [1].",
+   "Uma postagem no X publica o vídeo com apenas as palavras \"Dublin 2027\" [5].",
+   "EFE Verifica: as mulheres são clientes de uma loja [6].",
+   "AFP Factcheck Nederland e Maldita: uma fila para uma liquidação [7] [8].",
+   "Full Fact: uma venda pop-up de uma marca de roupas em Amsterdam [9]."
+  ],
+  "beeld_bijschrift": [
+   "Postagem no X, 21 de setembro de 2026, 9h36.",
+   "Oemaayah no Instagram, 20 de setembro de 2026: o vídeo da fila no sample sale em Amsterdam-West."
+  ],
+  "beeld_alt": [
+   "A postagem no X com as palavras Dublin 2027 e um vídeo de uma longa fila de mulheres na rua. Carimbo: ENGANOSO.",
+   "O vídeo da marca com a fila de visitantes diante do sample sale."
+  ]
+ }
+}

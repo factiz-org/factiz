@@ -1,0 +1,2035 @@
+{
+ "_meta": {
+  "wat": "PLAN #34.2cf: mijn lezing van zoekvraag-v2 op de ontwikkelset (zaad 2211, 198 van de 200 met een vraag), 2026-11-22. Niet de poort: de opdracht is hierop verbeterd (zoekvraag-v3), dus de poort meet op 200 nieuwe pagina's.",
+  "telling": {
+   "goed": 169,
+   "klein": 22,
+   "fout": 7
+  },
+  "ronde2": {
+   "wat": "zoekvraag-v4 op zaad 2212 (195 van de 200 met een vraag), bedoeld als poort; 13 fout, dus dicht. Daarop is v5 gemaakt, dus ook dit is nu ontwikkelset; de poort meet op zaad 2213.",
+   "telling": {
+    "goed": 176,
+    "klein": 6,
+    "fout": 13
+   }
+  }
+ },
+ "labels": {
+  "9f40e40fc9c7d4f7": {
+   "label": "klein",
+   "vraag": "Did NATO always have an offensive alliance and is it a structure of power politics that wants to occupy the globe?",
+   "onderwerp": "NATO as offensive alliance",
+   "reden": "'Did NATO always have an offensive alliance': onhandig"
+  },
+  "06a5e4b738ecf7ba": {
+   "label": "goed",
+   "vraag": "Has a small asteroid-sized object entered a stable orbit around Earth, giving it a second moon for six decades?",
+   "onderwerp": "Asteroid said to be second Earth moon"
+  },
+  "d045d6ff7f0ff06c": {
+   "label": "goed",
+   "vraag": "Hat Papst Franziskus gesagt, dass Menschen mit Behinderungen eingeschläfert werden sollten, um den Klimawandel zu bekämpfen?",
+   "onderwerp": "Papst Franziskus und Menschen mit Behinderungen"
+  },
+  "73b798400f0d9c95": {
+   "label": "goed",
+   "vraag": "É verdade que a abertura simultânea de cinco comportas de barragens causou a enchente no Rio Grande do Sul?",
+   "onderwerp": "Abertura de comportas e enchente no Rio Grande do Sul"
+  },
+  "3f8502760410a089": {
+   "label": "goed",
+   "vraag": "آیا موشک به ناو آبراهام لینکلن اصابت کرده است؟",
+   "onderwerp": "ناو آبراهام لینکلن"
+  },
+  "d18d63167efff9e1": {
+   "label": "goed",
+   "vraag": "É verdade que o general Soleimani casava com crianças de 7 anos e que 5 morreram nos primeiros anos de casamento?",
+   "onderwerp": "General Soleimani e casamentos com crianças"
+  },
+  "dc379fca7fc38d30": {
+   "label": "goed",
+   "vraag": "Is it true that Bill Gates explained the COVID vaccine will use experimental technology and permanently alter your DNA?",
+   "onderwerp": "Bill Gates on COVID vaccine DNA"
+  },
+  "93f938fbb651bb4c": {
+   "label": "goed",
+   "vraag": "Is it true that garlic can act as a natural Viagra?",
+   "onderwerp": "garlic as natural Viagra"
+  },
+  "6d009a438590612f": {
+   "label": "goed",
+   "vraag": "Did Joe Biden say to Rahul Gandhi that India is free of open defecation under Narendra Modi?",
+   "onderwerp": "Biden remark on Rahul Gandhi"
+  },
+  "66522257cc0e0943": {
+   "label": "goed",
+   "vraag": "Is NATO planning a military operation along Russia's border during the Sea Breeze exercises?",
+   "onderwerp": "NATO Sea Breeze military exercises"
+  },
+  "31e94ef892915b9a": {
+   "label": "goed",
+   "vraag": "Does a photo show a 30,000-riel banknote printed with Hun Sen and soldiers confronting people?",
+   "onderwerp": "30,000-riel banknote, Hun Sen"
+  },
+  "9cd60265a2ee2ce0": {
+   "label": "klein",
+   "vraag": "Does this photo show Pakistan, or Congress candidate K. Muraleedharan campaigning in Thrissur, Kerala, without any Indian national flag?",
+   "onderwerp": "K. Muraleedharan Thrissur campaign photo",
+   "reden": "onhandige vraag ('show Pakistan, or ...')"
+  },
+  "8d36b3faedbb351d": {
+   "label": "goed",
+   "vraag": "Have Roma camps in Rome, as in many other Italian cities, existed since at least the 1960s?",
+   "onderwerp": "Roma camps in Rome"
+  },
+  "28c0d5627758b5a3": {
+   "label": "goed",
+   "vraag": "Have Bongbong Marcos and the Senate tagged Martin Romualdez as a wanted individual and joined forces to go after him?",
+   "onderwerp": "Marcos, Senate and Martin Romualdez"
+  },
+  "89fef4a4f686feeb": {
+   "label": "goed",
+   "vraag": "Are there mercenaries from Turkey, Poland and the Baltic states operating in Donbass?",
+   "onderwerp": "Mercenaries in Donbass"
+  },
+  "1f9a5a101becff17": {
+   "label": "goed",
+   "vraag": "A JBS Foods International é o novo nome da antiga Friboi nos EUA?",
+   "onderwerp": "Mudança de nome da Friboi para JBS Foods"
+  },
+  "96888d3fb0257b75": {
+   "label": "goed",
+   "vraag": "Betekent de naam Balenciaga 'Baal is koning' in het Latijn?",
+   "onderwerp": "Betekenis van de naam Balenciaga"
+  },
+  "c13297e2f4a7fd77": {
+   "label": "goed",
+   "vraag": "Does this image show an envelope with cash and a Samajwadi Party symbol used to bribe voters before the 2022 UP elections?",
+   "onderwerp": "Samajwadi Party cash bribery image"
+  },
+  "d3fdcb8273f797a0": {
+   "label": "goed",
+   "vraag": "Was there an earthquake in North-East Assam?",
+   "onderwerp": "Earthquake in North-East Assam"
+  },
+  "c6b6c79f2a84cb50": {
+   "label": "goed",
+   "vraag": "Does this video show a recent flood rescue in Bangladesh?",
+   "onderwerp": "Bangladesh flood rescue video"
+  },
+  "9ce12a3ec6e23453": {
+   "label": "klein",
+   "vraag": "Is this 2013 picture of Sikhs protesting being shown at the Delhi farmer rally?",
+   "onderwerp": "2013 Sikh protest photo",
+   "reden": "de bevinding van de factchecker in de vraag ('this 2013 picture')"
+  },
+  "8d1d4e36292d1004": {
+   "label": "goed",
+   "vraag": "Does this footage show massive floods in Haputale, Sri Lanka?",
+   "onderwerp": "Floods in Haputale, Sri Lanka"
+  },
+  "ccbf6a58a717a49a": {
+   "label": "goed",
+   "vraag": "É verdade que urinar de madrugada é útil para a saúde, como diz o texto que circula nas redes?",
+   "onderwerp": "Urinar de madrugada e saúde"
+  },
+  "cbed374f6f4ab5e6": {
+   "label": "klein",
+   "vraag": "Has a crack recently appeared on the Nine Arch Bridge in Ella that could collapse at any moment?",
+   "onderwerp": "Nine Arch Bridge crack, Ella",
+   "reden": "'that could collapse' slaat op de scheur"
+  },
+  "92eb0238aa9d7f7b": {
+   "label": "goed",
+   "vraag": "هل جاءت مصر في المرتبة 110 بمؤشر نزاهة القضاء وسيادة القانون؟",
+   "onderwerp": "ترتيب مصر في مؤشر نزاهة القضاء وسيادة القانون"
+  },
+  "e7b57fefa3f0513f": {
+   "label": "goed",
+   "vraag": "Was the British destroyer Defender's entry into Russian territorial waters a provocation carried out by the UK and the USA?",
+   "onderwerp": "HMS Defender in Russian waters"
+  },
+  "b8b238523674b64b": {
+   "label": "goed",
+   "vraag": "最高裁判所の国民審査では、○か✖️を記入する制度があるのは本当ですか？",
+   "onderwerp": "最高裁判所の国民審査の投票方法"
+  },
+  "03f60df5cb0fe393": {
+   "label": "goed",
+   "vraag": "Haben Landtagsabgeordnete einen Inflationsausgleich von 3.500 Euro bekommen?",
+   "onderwerp": "Inflationsausgleich für Landtagsabgeordnete"
+  },
+  "fc05e09a062dbb40": {
+   "label": "goed",
+   "vraag": "É verdade que, no 1º turno da eleição de 2022, os votos de centro de Rodrigo Garcia e Tarcísio deram meio milhão de votos a mais que Haddad na capital?",
+   "onderwerp": "Votos no 1º turno da eleição de 2022 em SP"
+  },
+  "a87cfc76431d8254": {
+   "label": "goed",
+   "vraag": "Did American cartoonist Ben Garrison create a political cartoon targeting the Congress party?",
+   "onderwerp": "Ben Garrison cartoon on Congress party"
+  },
+  "e30d6966032ff0ac": {
+   "label": "goed",
+   "vraag": "Is it true that Sweden did not close its borders and that Swedish scientists say coronavirus is safe?",
+   "onderwerp": "Sweden's COVID-19 measures"
+  },
+  "33b12a9fe87f798e": {
+   "label": "goed",
+   "vraag": "Klopt het dat eieren de oorzaak zijn van bloedstolsels en plotselinge dood bij mensen?",
+   "onderwerp": "Eieren en plotselinge dood"
+  },
+  "23ca08fc2768366f": {
+   "label": "klein",
+   "vraag": "Did President Ferdinand Marcos Jr. say the Malampaya gas fields lie within the Philippines' baselines and exclusive economic zone and are questioned by China?",
+   "onderwerp": "Marcos remarks on Malampaya gas fields",
+   "reden": "'the Philippines'' toegevoegd"
+  },
+  "f42faa4deb36dbbc": {
+   "label": "goed",
+   "vraag": "هل قال بيبي ساخرا من صلاح: أين ميدالية أمم أفريقيا؟",
+   "onderwerp": "تعليق بيبي ساخرا على صلاح"
+  },
+  "dde3145c5ba67258": {
+   "label": "fout",
+   "vraag": "Did a Russian source say that Russia can only rely on itself because Poland is ready to receive American arsenals?",
+   "onderwerp": "Russia, Poland and American weapons",
+   "reden": "voegt 'a Russian source' en een oorzakelijk verband toe"
+  },
+  "d6f9aca1a27f8858": {
+   "label": "goed",
+   "vraag": "Has India's forest cover steadily increased over the years?",
+   "onderwerp": "India forest cover"
+  },
+  "043bdf8e14d0f50c": {
+   "label": "goed",
+   "vraag": "Did Chinese journalist Wang Wenwen tweet thanking Rahul Gandhi for speaking in favour of China?",
+   "onderwerp": "Wang Wenwen tweet on Rahul Gandhi"
+  },
+  "329158c30bbef4ed": {
+   "label": "goed",
+   "vraag": "Does the photo show NEET-UG 2026 paper leak accused Manisha Mandhare with Dharmendra Pradhan?",
+   "onderwerp": "Manisha Mandhare, Dharmendra Pradhan"
+  },
+  "fef92613e7f194a7": {
+   "label": "goed",
+   "vraag": "Beschermen rijpe bananen met bruine vlekjes tegen kanker omdat ze de stof TNF bevatten?",
+   "onderwerp": "Bananen met bruine vlekjes en kanker"
+  },
+  "cc3d11936fda76fe": {
+   "label": "goed",
+   "vraag": "Was there a brawl at an SJB meeting about joining with Ranil?",
+   "onderwerp": "SJB meeting brawl"
+  },
+  "2a157b383e912390": {
+   "label": "goed",
+   "vraag": "Was Ugandan Member of Parliament Anthony Akol involved in an accident?",
+   "onderwerp": "Anthony Akol accident"
+  },
+  "f9cd47ca92be56bb": {
+   "label": "goed",
+   "vraag": "Has Maria Ressa been sentenced to 6 years in prison for cyber libel?",
+   "onderwerp": "Maria Ressa cyber libel sentence"
+  },
+  "8ecd5ab8cbdd8a55": {
+   "label": "goed",
+   "vraag": "Does this video show a weed-clearing machine for railway tracks, previously seen only in Europe, operating in Sri Lanka?",
+   "onderwerp": "Railway weed-clearing machine in Sri Lanka"
+  },
+  "17d400c1d1d9d2d7": {
+   "label": "goed",
+   "vraag": "Is it true that the White Helmets create fakes and propaganda for jihadists and terrorists?",
+   "onderwerp": "White Helmets"
+  },
+  "45580deb32f29fee": {
+   "label": "goed",
+   "vraag": "Was the MUDRA scheme lending target raised to 3 lakh rupees for the 2018-19 financial year?",
+   "onderwerp": "MUDRA scheme lending target"
+  },
+  "649cf043bf36ab1f": {
+   "label": "goed",
+   "vraag": "Ist UV-Strahlung eine Möglichkeit zur Desinfektion gegen Sars-CoV-2?",
+   "onderwerp": "UV-Strahlung gegen Sars-CoV-2"
+  },
+  "934e1507412c4796": {
+   "label": "goed",
+   "vraag": "Does the COVID-19 vaccine cause more illness and death than COVID-19 itself, including infertility and miscarriage?",
+   "onderwerp": "COVID-19 vaccine health claims"
+  },
+  "7283f92a9fc3c609": {
+   "label": "goed",
+   "vraag": "Is Norway systematically spreading an image of Russia as an enemy through anti-Russian fakes?",
+   "onderwerp": "Norway anti-Russian propaganda claim"
+  },
+  "22314fe4e93909b0": {
+   "label": "goed",
+   "vraag": "Did BBC Radio warn listeners about possible malware attacks on WhatsApp?",
+   "onderwerp": "BBC Radio WhatsApp malware warning"
+  },
+  "f25809f0b63b838c": {
+   "label": "goed",
+   "vraag": "Is it true that a public advisory has been issued about a nationwide lockdown to contain monkeypox (mpox) transmission?",
+   "onderwerp": "Mpox lockdown advisory"
+  },
+  "0868880926ca93d5": {
+   "label": "goed",
+   "vraag": "Zeigt das Video Szenen vom Schwedenplatz zur Zeit des Anschlags?",
+   "onderwerp": "Video vom Schwedenplatz beim Anschlag"
+  },
+  "a82dee609fc20e86": {
+   "label": "klein",
+   "vraag": "Did BJP ministers join a protest supporting the men accused of raping and killing an 8-year-old in Jammu and Kashmir?",
+   "onderwerp": "BJP ministers at Jammu and Kashmir rape protest",
+   "reden": "'accused' toegevoegd"
+  },
+  "45fc1cb7c0575e9d": {
+   "label": "goed",
+   "vraag": "Did the West say after the Skripal poisoning that Russians are a nation of criminals?",
+   "onderwerp": "Western views after Skripal poisoning"
+  },
+  "eaefa55990093ba5": {
+   "label": "goed",
+   "vraag": "Is it true that the US national debt is now bigger than the economy, for the first time since World War Two, under Joe Biden?",
+   "onderwerp": "US national debt under Joe Biden"
+  },
+  "4f39feb26efaa5fe": {
+   "label": "goed",
+   "vraag": "Are Ukrainian authorities planning an additional tax on subsidised diesel and liquefied natural gas imports from Russia?",
+   "onderwerp": "Ukrainian tax on Russian fuel imports"
+  },
+  "00b96be48a9a84dd": {
+   "label": "goed",
+   "vraag": "Did the World Bank set an exact date when the coronavirus pandemic will end?",
+   "onderwerp": "World Bank coronavirus document"
+  },
+  "85769b463035e022": {
+   "label": "goed",
+   "vraag": "What were the final words of Lata Mangeshkar, the nightingale of Indian music?",
+   "onderwerp": "Lata Mangeshkar's final words"
+  },
+  "24aca413737968c7": {
+   "label": "goed",
+   "vraag": "Did Vladimir Zhirinovsky say that from September 1, nothing will be taught in Russian in schools in Estonia?",
+   "onderwerp": "Zhirinovsky on Russian teaching in Estonia"
+  },
+  "b5da9bd15450e25c": {
+   "label": "goed",
+   "vraag": "Is deze video van een strand in Malaga de dag na een festival voor ecologie en natuurbescherming?",
+   "onderwerp": "Strand Malaga na ecologiefestival"
+  },
+  "87ab637429455346": {
+   "label": "goed",
+   "vraag": "Is it true that Democrats are killing Social Security and Medicare by allowing an invasion of migrants?",
+   "onderwerp": "Democrats, Social Security, Medicare, migrants"
+  },
+  "5c9493f260ea769c": {
+   "label": "goed",
+   "vraag": "هل يطرد أهالي المناطق الدرزية نازحين قدموا من جنوب لبنان؟",
+   "onderwerp": "طرد نازحين من جنوب لبنان في المناطق الدرزية"
+  },
+  "05e1ea5bcc88ac9b": {
+   "label": "klein",
+   "vraag": "Did track renewal in India increase by 50% from 2013-14 to 2017-18, from 2,926 km to 4,405 km?",
+   "onderwerp": "Indian railway track renewal figures",
+   "reden": "'in India' toegevoegd"
+  },
+  "5e80bf59790fa2a3": {
+   "label": "goed",
+   "vraag": "آیا ازدواج با محارم در فرانسه قانونی شده است؟",
+   "onderwerp": "قانون ازدواج با محارم در فرانسه"
+  },
+  "516eb7e42a1e1246": {
+   "label": "goed",
+   "vraag": "Is this a rare photo taken at the moment Mahatma Gandhi was shot dead by Godse?",
+   "onderwerp": "Photo of Gandhi's assassination"
+  },
+  "6b9bb8af80d67572": {
+   "label": "klein",
+   "vraag": "Is this Pakistan video showing that the Afghan government has banned mobile phones?",
+   "onderwerp": "Afghan ban on mobile phones video",
+   "reden": "de bevinding van de factchecker ('this Pakistan video')"
+  },
+  "5f8a86c70f225733": {
+   "label": "goed",
+   "vraag": "Is the Facebook account of Rachel Ruto genuine?",
+   "onderwerp": "Rachel Ruto Facebook account"
+  },
+  "6ed360c7c80be423": {
+   "label": "goed",
+   "vraag": "Est-il vrai que Paul-Henri Sandaogo Damiba a envoyé une lettre au capitaine Ibrahim Traoré en novembre 2024 ?",
+   "onderwerp": "Lettre de Paul-Henri Sandaogo Damiba à Ibrahim Traoré"
+  },
+  "f2cc4e48da1bf145": {
+   "label": "goed",
+   "vraag": "Is it true that a Madhya Pradesh BJP youth wing leader was chased away by villagers and handed over to police after visiting a cowshed?",
+   "onderwerp": "BJP youth leader at Madhya Pradesh cowshed"
+  },
+  "3789df59ad2c9433": {
+   "label": "goed",
+   "vraag": "Does a photo show Joe Biden groping a woman?",
+   "onderwerp": "Joe Biden photo"
+  },
+  "9cf4349fe1e098fb": {
+   "label": "fout",
+   "vraag": "Does this footage show a horse that sat in padmasana for six years?",
+   "onderwerp": "Ghora padmasana footage",
+   "reden": "'Ghora' vertaald als 'horse'"
+  },
+  "1ff14dca097af6f0": {
+   "label": "goed",
+   "vraag": "Did Sun News TV air a news card referring to actress Nivetha Pethuraj as 'Chinna Anni'?",
+   "onderwerp": "Sun News TV and Nivetha Pethuraj"
+  },
+  "79009fe834944e25": {
+   "label": "goed",
+   "vraag": "Did Arjun Sampath say that the British colonial government destroyed the gurukula education of the Tamil people?",
+   "onderwerp": "British colonial rule and Tamil gurukula"
+  },
+  "dad2c6b25148ca6d": {
+   "label": "goed",
+   "vraag": "Does this video show Muslims protesting in Jaipur?",
+   "onderwerp": "Muslim protest video, Jaipur"
+  },
+  "a118d4b00f4c32b8": {
+   "label": "goed",
+   "vraag": "Did Burkina Faso ban uranium exports to France and the US?",
+   "onderwerp": "Burkina Faso uranium export ban"
+  },
+  "31cc1675b68a26d0": {
+   "label": "goed",
+   "vraag": "比爾蓋茨在英國《太陽報》刊登公開信，描述新冠病毒給我們上了一堂課，是真的嗎？",
+   "onderwerp": "比爾蓋茨在英國《太陽報》發表的公開信"
+  },
+  "ca72803ec6377ac8": {
+   "label": "goed",
+   "vraag": "Is it true that US troops may have brought COVID-19 to China and that the US sponsors biological weapons labs in Georgia and other countries?",
+   "onderwerp": "US biolabs and COVID-19 origin"
+  },
+  "d6f6e6ce0fc625be": {
+   "label": "goed",
+   "vraag": "Has the US been working on Novichok and similar poisonous substances since the 1970s while denying they exist in its military arsenal?",
+   "onderwerp": "US Novichok research"
+  },
+  "d3039e4e03598c23": {
+   "label": "goed",
+   "vraag": "Has Pope Francis resigned and appointed Cardinal Luis Antonio Tagle as his successor?",
+   "onderwerp": "Pope Francis resignation, Tagle"
+  },
+  "87cf2365c616f4fb": {
+   "label": "klein",
+   "vraag": "Was the citizenship question asked on the census for 50 years before the Obama administration removed it?",
+   "onderwerp": "Census citizenship question history",
+   "reden": "'on the census' toegevoegd"
+  },
+  "e58d8debfce0f717": {
+   "label": "goed",
+   "vraag": "Did Vijay Sethupathi say that Sangh Parivar people are poisonous creatures and that Sri Rama is not their god?",
+   "onderwerp": "Vijay Sethupathi on Sangh Parivar"
+  },
+  "3a022cb51ca65216": {
+   "label": "goed",
+   "vraag": "Does this video show scenes taken after Narendra Modi took the oath as prime minister in 2014?",
+   "onderwerp": "Modi 2014 oath video"
+  },
+  "476be6e65dd4f019": {
+   "label": "goed",
+   "vraag": "Is this image a result of the war?",
+   "onderwerp": "Image linked to war"
+  },
+  "3b62aa5cc0978b6b": {
+   "label": "goed",
+   "vraag": "Do photos show people fainting while queuing for an air conditioner sale at SM Megamall?",
+   "onderwerp": "Fainting at SM Megamall sale"
+  },
+  "d81e4757d2a27e43": {
+   "label": "fout",
+   "vraag": "Did Representative Ocasio-Cortez fake her outrage in the chamber with a hoax?",
+   "onderwerp": "Ocasio-Cortez outrage in chamber",
+   "reden": "verdraait waar AOC was: de bewering zegt dat ze niet in de zaal was"
+  },
+  "b2b36b4835c0cbad": {
+   "label": "goed",
+   "vraag": "Did George Patton say that politicians are the lowest form of life on earth and liberal Democrats the lower form of politicians?",
+   "onderwerp": "George Patton quote on politicians"
+  },
+  "39d14f93729d1a09": {
+   "label": "goed",
+   "vraag": "Are protesters wrapping bandages over their shirts and hijabs to fake wounds and gain sympathy?",
+   "onderwerp": "Protesters using fake bandages"
+  },
+  "eb1944c7305e4a9f": {
+   "label": "goed",
+   "vraag": "Ist das Gewinnspiel mit einem E-Scooter unter dem Lidl-Logo seriös?",
+   "onderwerp": "Lidl-Gewinnspiel mit E-Scooter"
+  },
+  "0e7f245a97bbeecb": {
+   "label": "goed",
+   "vraag": "Did archaeologists discover a 12,000-year-old statue of Vishnu and a Shivling near Chennai?",
+   "onderwerp": "12,000-year-old Vishnu statue near Chennai"
+  },
+  "7f6d2726ea3e4bc0": {
+   "label": "goed",
+   "vraag": "Is oxygen deprivation caused by radiation?",
+   "onderwerp": "Radiation and oxygen deprivation"
+  },
+  "ad3d4abdf62a2260": {
+   "label": "goed",
+   "vraag": "Does this video show NRIs dancing ahead of the Howdy Modi event in Houston?",
+   "onderwerp": "NRIs dancing at Howdy Modi Houston"
+  },
+  "33c292a7068c0022": {
+   "label": "goed",
+   "vraag": "Did ABP Nadu and Thanthi TV opinion polls show AIADMK winning 172-179 seats and TVK leading in Kolathur?",
+   "onderwerp": "Tamil Nadu opinion polls, AIADMK, TVK"
+  },
+  "1108381d61d34378": {
+   "label": "klein",
+   "vraag": "¿Es cierto que Ayuso tocó en ARCO una obra que dice \"no tocar\"?",
+   "onderwerp": "Isabel Díaz Ayuso en la feria ARCO",
+   "reden": "onderwerp vult de naam aan (Isabel Díaz Ayuso)"
+  },
+  "71947b179b8ff247": {
+   "label": "goed",
+   "vraag": "Did Chief Justice D Y Chandrachud walk out of a hearing before it was completed?",
+   "onderwerp": "Chandrachud walkout at hearing"
+  },
+  "41cc8caca8a2595c": {
+   "label": "klein",
+   "vraag": "Did the Crimean Platform start its work in Kyiv, and did Western states confirm their participation at the highest level?",
+   "onderwerp": "Crimean Platform in Kyiv",
+   "reden": "'Western states' voor 'Russophobic states'"
+  },
+  "5d825e148167a438": {
+   "label": "goed",
+   "vraag": "آیا این عکس رابرت دنیرو را با تی‌شرت تنگه هرمز نشان می‌دهد؟",
+   "onderwerp": "عکس رابرت دنیرو با تی‌شرت تنگه هرمز"
+  },
+  "e1c711e63291d7e4": {
+   "label": "goed",
+   "vraag": "Moeten Chinese kinderen in de kleuterschool speciale pakjes dragen voor hun veiligheid, anders mogen ze niet meer naar school?",
+   "onderwerp": "Pakjes voor Chinese kleuters"
+  },
+  "a4918826f2e8d79a": {
+   "label": "goed",
+   "vraag": "Did the Home Minister say the lockdown will not be extended after August 5?",
+   "onderwerp": "Home Minister on lockdown after August 5"
+  },
+  "118b2506248b93f5": {
+   "label": "klein",
+   "vraag": "क्या उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ के भाई चाय की दुकान चलाते हैं?",
+   "onderwerp": "योगी आदित्यनाथ के भाई",
+   "reden": "vult de naam aan (Adityanath)"
+  },
+  "69130a739e040d0e": {
+   "label": "goed",
+   "vraag": "آیا گلوبال ریسرچ درباره ویروس کرونا و توطئه جنگ بیولوژیک آمریکا شبهاتی مطرح کرده است؟",
+   "onderwerp": "گلوبال ریسرچ و ویروس کرونا"
+  },
+  "a14673026612de48": {
+   "label": "klein",
+   "vraag": "هل يظهر في هذه الصورة أو الفيديو كسوف الشمس في البرتغال الآن؟",
+   "onderwerp": "كسوف الشمس في البرتغال",
+   "reden": "'foto of video'"
+  },
+  "1d55fe03bdd93318": {
+   "label": "goed",
+   "vraag": "Was a Hindu man shot dead by a Muslim in front of his children in Meerut after the I.N.D.I.A. bloc won the 2024 Lok Sabha elections?",
+   "onderwerp": "Meerut shooting after 2024 elections"
+  },
+  "bee6f127bf77c77f": {
+   "label": "goed",
+   "vraag": "Is it true that Kamala Harris cannot become president by constitutional law if Joe Biden cannot serve his full term?",
+   "onderwerp": "Kamala Harris presidency succession"
+  },
+  "318973f70bdeb4cd": {
+   "label": "goed",
+   "vraag": "WHOや日本医師会のロゴは「悪魔の手先として人間を支配する」という意味だというのは本当ですか？",
+   "onderwerp": "WHOと日本医師会のロゴの意味"
+  },
+  "a96d44884257bab2": {
+   "label": "goed",
+   "vraag": "Did Congress refrain from nominating any candidates in the 2024 elections in Arunachal Pradesh because of China?",
+   "onderwerp": "Congress and Arunachal Pradesh 2024 elections"
+  },
+  "7ff11a08e3843ca4": {
+   "label": "goed",
+   "vraag": "Is it true that any citizen of Russia may end up on a list of Russian billionaires and top officials, and that being Russian is treated like racial segregation?",
+   "onderwerp": "Russian citizens and sanctions list"
+  },
+  "e74846461f4d207c": {
+   "label": "goed",
+   "vraag": "Is Trump's withholding of funding for the World Health Organization illegal, and is it the same thing he was impeached for?",
+   "onderwerp": "Trump funding cut to WHO"
+  },
+  "579c2e70318363cd": {
+   "label": "goed",
+   "vraag": "A TV Globo admitiu que a motociata de Bolsonaro é a maior do mundo?",
+   "onderwerp": "Motociata de Bolsonaro e a TV Globo"
+  },
+  "6bbaa4ca84dd5abe": {
+   "label": "fout",
+   "vraag": "Did Ron DeSantis say that Florida is number one in education while South Carolina was rated 50th under his rule?",
+   "onderwerp": "Florida and South Carolina education rankings",
+   "reden": "voegt Ron DeSantis toe; het citaat noemt geen spreker"
+  },
+  "4da3e834411c3dab": {
+   "label": "goed",
+   "vraag": "क्या यह वीडियो एफ.सी.आई. के अनाज गोदाम का है, जहाँ एक कर्मचारी अनाज सड़ाने के लिए बोरों पर पानी डाल रहा है?",
+   "onderwerp": "एफ.सी.आई. अनाज गोदाम वीडियो"
+  },
+  "76110b89b9a2d5cf": {
+   "label": "goed",
+   "vraag": "¿Están los incendios de este año fuera del promedio de los últimos 15 años?",
+   "onderwerp": "Incendios y promedio de los últimos 15 años"
+  },
+  "225040ed276a7b09": {
+   "label": "goed",
+   "vraag": "Klopt het dat er op 29 juli 2020 in Geldrop vier mensen zijn vermoord en toont deze foto van politieonderzoek die moord?",
+   "onderwerp": "Moord Geldrop juli 2020"
+  },
+  "01b37f4b680bfe84": {
+   "label": "goed",
+   "vraag": "Does this video show Italian police stopping a man who was out walking during the lockdown?",
+   "onderwerp": "Italian police stopping man during lockdown"
+  },
+  "44e1b634bef6ebd0": {
+   "label": "goed",
+   "vraag": "Does this video show Pawan Kalyan holding the TVK party flag on stage at a public meeting?",
+   "onderwerp": "Pawan Kalyan with TVK flag"
+  },
+  "268a85babbad1c67": {
+   "label": "goed",
+   "vraag": "Is the DMK government's new scheme real?",
+   "onderwerp": "DMK government new scheme"
+  },
+  "7f99437be44c898e": {
+   "label": "goed",
+   "vraag": "Did an IED blast occur at the Kalyan Jewellers store in Ballari?",
+   "onderwerp": "Kalyan Jewellers store blast, Ballari"
+  },
+  "2b91c17a8d9a16fd": {
+   "label": "klein",
+   "vraag": "Is a video posted before Dilip Kumar's death really his last video?",
+   "onderwerp": "Dilip Kumar's last video",
+   "reden": "de bevinding van de factchecker ('posted before his death')"
+  },
+  "21b3405442a729af": {
+   "label": "goed",
+   "vraag": "Is this resignation letter from the President of the Kenya Editors' Guild real?",
+   "onderwerp": "Kenya Editors' Guild resignation letter"
+  },
+  "03c60a9dab51ff52": {
+   "label": "goed",
+   "vraag": "Is this a real speech by Vijay about demonetisation?",
+   "onderwerp": "Vijay speech on demonetisation"
+  },
+  "ebb83618847bc755": {
+   "label": "goed",
+   "vraag": "क्या वायरल तस्वीर में दिखाया गया विज्ञापन दिल्ली सरकार का है, जिसमें दिल्ली दंगा पीड़ितों के लिए केवल मुस्लिम समुदाय को लाभ की बात कही गई है?",
+   "onderwerp": "दिल्ली दंगा पीड़ितों के लिए सरकारी विज्ञापन"
+  },
+  "1336820959bc6249": {
+   "label": "klein",
+   "vraag": "Did a train ticket examiner get electrocuted through a mobile Bluetooth device in a video?",
+   "onderwerp": "Train ticket examiner electrocution video",
+   "reden": "'in a video' onhandig"
+  },
+  "e0f32080cd91e468": {
+   "label": "goed",
+   "vraag": "Did a UK MP say that UK growth figures for 2024 mean the country is in a recession?",
+   "onderwerp": "UK MP on 2024 economic growth"
+  },
+  "f777bb1895f3fbc6": {
+   "label": "klein",
+   "vraag": "Did Russia fans protect the population of Marseille from drunk England fans who wanted to beat up locals?",
+   "onderwerp": "Russia fans and Marseille, Euro 2016",
+   "reden": "onderwerp voegt 'Euro 2016' toe"
+  },
+  "a22353b5dc0d8b68": {
+   "label": "goed",
+   "vraag": "Do they control the CCTV to hide traffic jams when the president commutes to and from work?",
+   "onderwerp": "CCTV hiding traffic jams for president"
+  },
+  "47141c5a9aed8d8a": {
+   "label": "klein",
+   "vraag": "Benarkah video yang menunjukkan Paus Fransiskus sembuh dan keluar dari rumah sakit?",
+   "onderwerp": "Video Paus Fransiskus keluar dari rumah sakit",
+   "reden": "onhandig Indonesisch"
+  },
+  "02d56ab292c7b6fd": {
+   "label": "goed",
+   "vraag": "آیا این ویدیو نشان می‌دهد که رب گوجه‌فرنگی از گوجه‌های گندیده و مواد افزودنی تولید می‌شود؟",
+   "onderwerp": "ویدیوی تولید رب گوجه‌فرنگی"
+  },
+  "8a611c4156760111": {
+   "label": "goed",
+   "vraag": "Did Congress fail to field the 272 candidates needed for a majority in the Lok Sabha, according to PM Modi?",
+   "onderwerp": "Lok Sabha majority, PM Modi"
+  },
+  "7346336c277c9c85": {
+   "label": "goed",
+   "vraag": "Has the High Court made it mandatory to carry the original driving licence from September 6?",
+   "onderwerp": "High Court driving licence order"
+  },
+  "871735bcb2450df9": {
+   "label": "goed",
+   "vraag": "Does this photo show the Eiffel Tower on fire?",
+   "onderwerp": "Eiffel Tower on fire images"
+  },
+  "04a969482f1e4560": {
+   "label": "goed",
+   "vraag": "Does a Brookings Institution and Saban Center analysis titled Which Path to Persia call for military invasion of Iran?",
+   "onderwerp": "Brookings and Saban Center Iran report"
+  },
+  "0c745ccbea18d0cd": {
+   "label": "goed",
+   "vraag": "آیا این ویدیو دو کودک ساکن غزه را نشان می‌دهد که یکی از آن‌ها خواهرش را روی شانه‌اش حمل می‌کند؟",
+   "onderwerp": "ویدیو دو کودک ساکن غزه"
+  },
+  "167532ab114e174a": {
+   "label": "fout",
+   "vraag": "Did a DOJ official say parents who attend school board meetings are called domestic terrorists?",
+   "onderwerp": "DOJ and school board parents",
+   "reden": "schrijft het citaat toe aan 'a DOJ official'"
+  },
+  "965c55dab129ef19": {
+   "label": "goed",
+   "vraag": "Did Joe Biden say he would not give billions of dollars to Ukraine unless they removed a prosecutor who was investigating Hunter Biden's company?",
+   "onderwerp": "Joe Biden and Ukraine prosecutor"
+  },
+  "ae7be67f3bee880b": {
+   "label": "goed",
+   "vraag": "Do these images show former Kakamega senator Boni Khalwale being chased for criticising Musalia Mudavadi?",
+   "onderwerp": "Boni Khalwale chased over Mudavadi remarks"
+  },
+  "29467fd50048c4ca": {
+   "label": "klein",
+   "vraag": "Does this video show a Hindu making Puthiya Thalaimurai's Karthigai Selvan cry out on the phone?",
+   "onderwerp": "Karthigai Selvan phone call video",
+   "reden": "'video' toegevoegd"
+  },
+  "fa7ebc75826cf37b": {
+   "label": "goed",
+   "vraag": "Did NASA's Curiosity rover find a Shivling on Mars?",
+   "onderwerp": "Curiosity rover Shivling image"
+  },
+  "34540a78ded724c5": {
+   "label": "goed",
+   "vraag": "¿Adjudicó el Ministerio de Igualdad un contrato a la empresa de María Ángeles Sallé, asesora de Irene Montero?",
+   "onderwerp": "Contrato del Ministerio de Igualdad"
+  },
+  "1a5f89d99318d7c8": {
+   "label": "klein",
+   "vraag": "Does this video show police manhandling a woman over a traffic challan fine?",
+   "onderwerp": "Police and woman traffic fine",
+   "reden": "'video' toegevoegd"
+  },
+  "17cce3be4cc597bc": {
+   "label": "goed",
+   "vraag": "Did the Delhi CM announce something in ads on paid TV channels?",
+   "onderwerp": "Delhi CM TV ads announcement"
+  },
+  "510505fc3b01cbdf": {
+   "label": "goed",
+   "vraag": "क्या बिहार में एक मां ने 70 साल के आदमी से अपनी बेटी की शादी करवाने के लिए उसे बेच दिया?",
+   "onderwerp": "बिहार में बेटी की कथित बिक्री और शादी"
+  },
+  "76615da6dd7834bd": {
+   "label": "goed",
+   "vraag": "義大利前民主黨黨書記貝爾薩尼是否說過「我懷疑這病毒在警報發生之前就已存在於意大利，我們只是在用已經傳播的病毒來追究中國人」？",
+   "onderwerp": "義大利前民主黨黨書記貝爾薩尼談新冠病毒起源的受訪內容"
+  },
+  "79306438f49ea565": {
+   "label": "goed",
+   "vraag": "Is the quality of HappyCow cheese in the SL Market lower than the original product?",
+   "onderwerp": "HappyCow cheese in SL Market"
+  },
+  "ebee64216ced0577": {
+   "label": "goed",
+   "vraag": "Does this video show Hindu students making obscene comments about a teacher wearing a hijab?",
+   "onderwerp": "Students harassing teacher in hijab video"
+  },
+  "d6188d0a23c5d8ab": {
+   "label": "goed",
+   "vraag": "Are four times as many people dying from suicide as from Covid-19 in Ireland?",
+   "onderwerp": "Suicide and Covid-19 deaths, Ireland"
+  },
+  "74fbbd407e98cc64": {
+   "label": "goed",
+   "vraag": "Is it true that Bill Gates is coating organic produce with a dangerous chemical?",
+   "onderwerp": "Bill Gates and organic produce"
+  },
+  "3da324cd787d4769": {
+   "label": "goed",
+   "vraag": "Zeigt das Video Jimmy Carter bei der Stimmabgabe für Kamala Harris?",
+   "onderwerp": "Jimmy Carter und Kamala Harris"
+  },
+  "edf7173936a353cc": {
+   "label": "goed",
+   "vraag": "Do these images show students celebrating kiss day at JNU?",
+   "onderwerp": "JNU kiss day celebration images"
+  },
+  "b1caee12ac8d791d": {
+   "label": "goed",
+   "vraag": "Ist es durch viele Statistiken bewiesen, dass Kinder aus Akademikerfamilien bessere Chancen haben?",
+   "onderwerp": "Bildungschancen von Akademikerkindern"
+  },
+  "e8a274d58a8f598c": {
+   "label": "goed",
+   "vraag": "Did the Bangladesh Supreme Court sentence former Prime Minister Sheikh Hasina to death?",
+   "onderwerp": "Sheikh Hasina death sentence"
+  },
+  "895e79ef7b158535": {
+   "label": "goed",
+   "vraag": "Did the Telangana government take huge loans from the World Bank?",
+   "onderwerp": "Telangana government World Bank loans"
+  },
+  "a8baaca1e29c962b": {
+   "label": "goed",
+   "vraag": "Does this photo show cabin crew members who died in the Ethiopian Airlines crash?",
+   "onderwerp": "Ethiopian Airlines crash cabin crew photo"
+  },
+  "e139bdbcdd0ce987": {
+   "label": "goed",
+   "vraag": "Hat Francis Fukuyama gesagt, Angela Merkel sei eine größere Bedrohung für Europa als der IS?",
+   "onderwerp": "Fukuyama-Zitat über Angela Merkel"
+  },
+  "1c7721b71a6af8dc": {
+   "label": "goed",
+   "vraag": "É verdade que Lula vetou o projeto do fim das saidinhas?",
+   "onderwerp": "Veto de Lula ao fim das saidinhas"
+  },
+  "62b1aa7f7c26cc72": {
+   "label": "goed",
+   "vraag": "Navios do Catar no Brasil descarregaram tanques de guerra após a visita de Eduardo Bolsonaro aos xeiques?",
+   "onderwerp": "Navios do Catar e tanques de guerra no Brasil"
+  },
+  "13451a0400e46a10": {
+   "label": "goed",
+   "vraag": "क्या वायरल तस्वीर में कांग्रेस नेताओं के साथ डॉ राजकुमारी बंसल हैं?",
+   "onderwerp": "कांग्रेस नेताओं के साथ डॉ राजकुमारी बंसल"
+  },
+  "894928da4156107e": {
+   "label": "goed",
+   "vraag": "Is it true that the number of biological laboratories in Ukraine increased almost threefold after 2014 and that the US aims to get access to bioweapons?",
+   "onderwerp": "Biological laboratories in Ukraine"
+  },
+  "4fecf27b84b51c30": {
+   "label": "goed",
+   "vraag": "Does this video show Hezbollah attacking Israel?",
+   "onderwerp": "Hezbollah attack on Israel"
+  },
+  "fa34fe245370cdd8": {
+   "label": "goed",
+   "vraag": "Did former Pakistan PM Nawaz Sharif boycott the 2024 elections?",
+   "onderwerp": "Nawaz Sharif and 2024 elections"
+  },
+  "f313f10f27fcb28d": {
+   "label": "goed",
+   "vraag": "Hat der Europäische Gerichtshof beschlossen, dass niemand gegen seinen Willen geimpft werden darf?",
+   "onderwerp": "EuGH-Beschluss zur Impfpflicht"
+  },
+  "f3503b589822fd3c": {
+   "label": "goed",
+   "vraag": "É verdade que é possível identificar um espelho genuíno tocando a superfície refletida com a ponta da unha e vendo se há um espaço entre a unha e a imagem?",
+   "onderwerp": "Teste da unha para identificar espelho genuíno"
+  },
+  "2b63e6075b737c98": {
+   "label": "goed",
+   "vraag": "Have 90,000 plants and factories been lost since NAFTA?",
+   "onderwerp": "NAFTA plant and factory losses"
+  },
+  "3831d4a0f4cf6380": {
+   "label": "goed",
+   "vraag": "Did a member of the SLPP/SJB shoot the tusker Kawanthissa?",
+   "onderwerp": "Tusker Kawanthissa shooting"
+  },
+  "d5b2a1a8d3521cdb": {
+   "label": "goed",
+   "vraag": "Did the Bhojpuri song \"Lolipop Lagelu\" rock the streets of London during World Cup fever?",
+   "onderwerp": "Lolipop Lagelu song, London"
+  },
+  "c625869835c2c55f": {
+   "label": "goed",
+   "vraag": "¿Propone el actual presidente eliminar el impuesto que paga casi la mitad del Seguro Social sin compensación?",
+   "onderwerp": "Propuesta sobre impuesto del Seguro Social"
+  },
+  "b17d75aa50a47d4a": {
+   "label": "goed",
+   "vraag": "Are Europeans investing heavily in road infrastructure in Moldova to turn it into a platform for selling EU goods?",
+   "onderwerp": "EU road investment in Moldova"
+  },
+  "e497ad07bcf6995b": {
+   "label": "goed",
+   "vraag": "Is the National Democratic Front of the Philippines a terrorist organization?",
+   "onderwerp": "National Democratic Front of the Philippines"
+  },
+  "410b6255f5d46fa3": {
+   "label": "goed",
+   "vraag": "هل صرّح خالد عمر يوسف لقناة الجزيرة السودان بشأن البرهان؟",
+   "onderwerp": "تصريح خالد عمر يوسف بشأن البرهان"
+  },
+  "2f07a30960fe3bb9": {
+   "label": "goed",
+   "vraag": "Does a video show Rahul Gandhi's supporters in Kerala carrying Islamic flags at a rally?",
+   "onderwerp": "Rahul Gandhi rally in Kerala"
+  },
+  "1bdb14613c35640f": {
+   "label": "goed",
+   "vraag": "Does ProduceMaxx sprayed on organic produce at grocery stores contain pesticides, herbicides, fungicides, insecticides and antibiotics?",
+   "onderwerp": "ProduceMaxx spray on produce"
+  },
+  "cacd22389ea462b5": {
+   "label": "goed",
+   "vraag": "Did Turkey detain Russian ships in the Black Sea and criticize Moscow for brandishing a rocket launcher in a strait?",
+   "onderwerp": "Turkey detains Russian ships"
+  },
+  "cfa855a8f3a98e63": {
+   "label": "goed",
+   "vraag": "Do the symbols on Huggies diapers reference pedophilia?",
+   "onderwerp": "Huggies diaper symbols"
+  },
+  "9674873d4ef8a23c": {
+   "label": "goed",
+   "vraag": "O ministro Dino ameaçou quem não votar a favor dele?",
+   "onderwerp": "Ministro Dino e ameaça a votantes"
+  },
+  "28437da61c68940e": {
+   "label": "goed",
+   "vraag": "Were Hindu children shaved bald, tied to a tree and beaten for entering a church to get prasadam because they could not bear their hunger?",
+   "onderwerp": "Hindu children beaten for church prasadam"
+  },
+  "228c4823316d580d": {
+   "label": "goed",
+   "vraag": "¿Muestra esta foto un encuentro reciente entre Lisa Monaco y Joe Biden?",
+   "onderwerp": "Lisa Monaco y Joe Biden"
+  },
+  "c6ab73b1b115ac85": {
+   "label": "klein",
+   "vraag": "Is this photo of Sonia Gandhi edited for propaganda?",
+   "onderwerp": "Edited photo of Sonia Gandhi",
+   "reden": "de bevinding van de factchecker ('edited for propaganda')"
+  },
+  "6a471c38b5e60b14": {
+   "label": "goed",
+   "vraag": "क्या वायरल तस्वीरें हरियाणा के किसान प्रदर्शन की हैं?",
+   "onderwerp": "हरियाणा किसान प्रदर्शन की तस्वीरें"
+  },
+  "d6abc752643256fd": {
+   "label": "goed",
+   "vraag": "Did Joe Biden cancel the Keystone pipeline because Warren Buffett donated $58 million to his campaign?",
+   "onderwerp": "Biden Keystone pipeline and Buffett donation"
+  },
+  "7443c72f25b5c9cb": {
+   "label": "goed",
+   "vraag": "Is it true that Bellingcat is funded by US and UK intelligence contractors that support terrorist groups in Syria, according to The Grayzone?",
+   "onderwerp": "Bellingcat funding and Syria"
+  },
+  "e4408b406d57c33e": {
+   "label": "goed",
+   "vraag": "Does India have the second fastest COVID-19 doubling rate among countries with the most cases?",
+   "onderwerp": "India COVID-19 doubling rate"
+  },
+  "49c0fba590d5a057": {
+   "label": "goed",
+   "vraag": "क्या यह वीडियो अयोध्या के राम मंदिर का है, जो प्रधानमंत्री नरेन्द्र मोदी के दिवाली पर राम मंदिर दौरे के बाद वायरल हो रहा है?",
+   "onderwerp": "अयोध्या राम मंदिर वायरल वीडियो"
+  },
+  "1d40593694162d53": {
+   "label": "fout",
+   "vraag": "行政院是否下令政府部門所有系統改「稱謂」？同婚修法後什麼都不會變是真的嗎？",
+   "onderwerp": "行政院下令政府系統更改稱謂與同婚修法",
+   "reden": "twee vragen; de tweede verandert wat er gevraagd wordt"
+  },
+  "4e065e34b5fa2f2e": {
+   "label": "goed",
+   "vraag": "Rollen in Texas Panzer gegen illegale Migranten und Joe Biden, wie ein Video zeigt?",
+   "onderwerp": "Panzer in Texas gegen Migranten"
+  },
+  "97ed84900cec2b75": {
+   "label": "goed",
+   "vraag": "Does the Milan metropolitan city have a fiscal residuum of 11 billion a year?",
+   "onderwerp": "Milan fiscal residuum"
+  },
+  "3f1c2823cfda886b": {
+   "label": "goed",
+   "vraag": "Did Arvind Kejriwal say that Uddhav Thackeray is not the real child of Balasaheb Thackeray?",
+   "onderwerp": "Kejriwal on Uddhav Thackeray"
+  },
+  "4aac88dff380c24b": {
+   "label": "goed",
+   "vraag": "A polícia civil de Minas Gerais identificou que o drone que lançou excrementos foi contratado pelo PT?",
+   "onderwerp": "Drone que lançou excrementos em Minas Gerais"
+  },
+  "0e6818b996f169fb": {
+   "label": "goed",
+   "vraag": "Does this video show a Hindu girl thrashing a Bangladeshi Muslim man at Delhi University?",
+   "onderwerp": "Video of Delhi University altercation"
+  },
+  "010a007072404f10": {
+   "label": "goed",
+   "vraag": "Has the Ministry of Education banned serving food and giving gifts at Teachers' Day celebrations?",
+   "onderwerp": "Education Ministry Teachers' Day directive"
+  },
+  "5ae9330004a76e9f": {
+   "label": "klein",
+   "vraag": "Did Vladimir Putin and Tucker Carlson discuss Taylor Swift, the Super Bowl and Joe Biden being a 'power facade'?",
+   "onderwerp": "Putin and Carlson conversation",
+   "reden": "vult namen aan (Vladimir, Tucker, Joe)"
+  },
+  "1c0a7003f21f2a5d": {
+   "label": "goed",
+   "vraag": "Did a Hindi tweet say USA launched a new vehicle with the brand name RAM, praising the glory of the Lord?",
+   "onderwerp": "Hindi tweet about USA RAM vehicle"
+  },
+  "bd91851abcdb4278": {
+   "label": "goed",
+   "vraag": "Did someone say they talked about using the Defense Production Act before anyone else came along?",
+   "onderwerp": "Defense Production Act remark"
+  },
+  "97ce13f695bd68bc": {
+   "label": "goed",
+   "vraag": "¿Muestra este video un ataque de Israel a Palestina?",
+   "onderwerp": "Video de un supuesto ataque israelí"
+  },
+  "e2c17101af25b532": {
+   "label": "goed",
+   "vraag": "A Nintendo está oferecendo 100 unidades do novo Nintendo Switch gratuitamente para quem responder a uma pesquisa de mercado?",
+   "onderwerp": "Sorteio do Nintendo Switch por pesquisa"
+  },
+  "6b4c6d7dab85cd69": {
+   "label": "goed",
+   "vraag": "Is a college with a strange name being used as a mockery of the new education policy?",
+   "onderwerp": "College name and education policy"
+  },
+  "7a6d584eb9707a06": {
+   "label": "goed",
+   "vraag": "Is it true that the US Embassy in Yerevan, the Mormons and Western-funded entities are preparing a revolution in Armenia after the elections?",
+   "onderwerp": "US Embassy Yerevan and Armenia revolution"
+  },
+  "8fca718cf93cebfa": {
+   "label": "goed",
+   "vraag": "Does this video show people massively removing EU flags in France and Italy?",
+   "onderwerp": "EU flags removed in France and Italy"
+  },
+  "9977cf75f6692cb1": {
+   "label": "goed",
+   "vraag": "Does this image show Akhilesh Yadav serving food to a woman during Navratri with his shoes on?",
+   "onderwerp": "Akhilesh Yadav Navratri image"
+  },
+  "104dbad3c299ea62": {
+   "label": "goed",
+   "vraag": "Is it true that only Russian troops can bring peace to the Middle East and Syria?",
+   "onderwerp": "Russian troops and Middle East peace"
+  },
+  "fed098c0683425ac": {
+   "label": "klein",
+   "vraag": "Should the United States apologise for the 1999 bombings of Yugoslavia and pay compensation to the victims, as around 2,000 people died?",
+   "onderwerp": "1999 NATO bombing of Yugoslavia",
+   "reden": "'as around 2,000 people died' in de vraag"
+  },
+  "c6673c1113f65e45": {
+   "label": "fout",
+   "vraag": "هل يظهر في هذا الفيديو نشرة أخبار عاجلة من قناة الجزيرة تعلن مقتل بنيامين نتنياهו وكبار المسؤولين الإسرائيليين؟",
+   "onderwerp": "فيديو مزعوم عن مقتل نتنياهو على الجزيرة",
+   "reden": "een Hebreeuwse letter in de naam Netanyahu"
+  }
+ },
+ "labels_ronde2": {
+  "a243c24a7b3ac14c": {
+   "label": "goed",
+   "vraag": "क्या फिलिस्तीनी लोगों के साथ एकजुटता दिखाने के लिए कोलकाता के सुहरावर्दी पार्क में रैली निकाली गई?",
+   "onderwerp": "कोलकाता में फिलिस्तीन समर्थन रैली"
+  },
+  "3ed53d02941c89ac": {
+   "label": "goed",
+   "vraag": "Does this viral video show a bridge collapsing in India?",
+   "onderwerp": "Viral video of bridge collapse"
+  },
+  "3fb85d5d6c642f65": {
+   "label": "goed",
+   "vraag": "Does this footage show people clinging to their loved ones in the rubble after the earthquake in Turkey?",
+   "onderwerp": "Rubble footage after Turkey earthquake"
+  },
+  "85b6a43d33ffe8db": {
+   "label": "goed",
+   "vraag": "Does Terry McAuliffe have a campaign sign that says \"Keep parents out of classrooms\"?",
+   "onderwerp": "Terry McAuliffe campaign sign"
+  },
+  "704ea5c175e321f7": {
+   "label": "goed",
+   "vraag": "آیا بر اساس شاخص برابری جنسیت، ایران رتبه نخست دنیا در عدالت آموزشی و تحصیلی است؟",
+   "onderwerp": "رتبه ایران در شاخص برابری جنسیت"
+  },
+  "e84c9b628a9b9039": {
+   "label": "goed",
+   "vraag": "क्या मुलायम सिंह यादव की मौत पर आजम खान ने अपना सिर मुंडवाया?",
+   "onderwerp": "मुलायम सिंह यादव की मौत पर आजम खान"
+  },
+  "17334caa084efbc4": {
+   "label": "goed",
+   "vraag": "هل يُظهر الفيديو مقاتلة سعودية تحلق على علو منخفض فوق محافظة حضرموت؟",
+   "onderwerp": "فيديو لمقاتلة حربية فوق حضرموت"
+  },
+  "c625e78dbfd19913": {
+   "label": "goed",
+   "vraag": "Does widespread fraud in the 2020 election allow ending all rules, even those in the Constitution?",
+   "onderwerp": "2020 election fraud claim"
+  },
+  "8709e00d924ebe5c": {
+   "label": "goed",
+   "vraag": "Did Taliban youths celebrate their victory by painting murals on walls?",
+   "onderwerp": "Taliban youths painting murals"
+  },
+  "c699449ebeb8969d": {
+   "label": "klein",
+   "vraag": "印度警方把沒戴口罩的市民關進一輛救護車裡，車內還有一名假扮確診的患者，這是真的嗎？",
+   "onderwerp": "印度捉到未戴口罩市民關進救護車",
+   "reden": "'politie' toegevoegd"
+  },
+  "56c94157b0007f3a": {
+   "label": "goed",
+   "vraag": "Are the viral photos of a tiger and a cow sharing a close bond from Assam?",
+   "onderwerp": "Tiger and cow bond photos"
+  },
+  "85362bd0e534416e": {
+   "label": "goed",
+   "vraag": "Is this video showing electrically-charged rocks found in Congo?",
+   "onderwerp": "Electrically-charged rocks in Congo"
+  },
+  "a68f73f64c60619c": {
+   "label": "goed",
+   "vraag": "Besagt ein NBER-Papier, dass weder Lockdowns noch Maskengebot Einfluss auf Covid-19 hatten?",
+   "onderwerp": "NBER-Papier zu Lockdowns und Masken"
+  },
+  "0aef5355b6e05326": {
+   "label": "goed",
+   "vraag": "Did former minister A.K. Antony use Rs. 28 crores of government money to buy paintings from his wife?",
+   "onderwerp": "A.K. Antony paintings purchase"
+  },
+  "e7788628d74acd1e": {
+   "label": "goed",
+   "vraag": "¿Es cierto que hay una nueva regulación que limita el derecho a viajar de los médicos cubanos?",
+   "onderwerp": "Regulación sobre viajes de médicos cubanos"
+  },
+  "b509d551c20660f0": {
+   "label": "goed",
+   "vraag": "هل قامت عناصر من حزب الإصلاح بإحراق مسجد الحضرمي في تعز؟",
+   "onderwerp": "إحراق مسجد الحضرمي في تعز"
+  },
+  "c2ef44d9d3dd8618": {
+   "label": "goed",
+   "vraag": "Bu video organ kaçakçılarını mı gösteriyor?",
+   "onderwerp": "Organ kaçakçılığını gösterdiği iddia edilen video"
+  },
+  "31f2c88072ca49ec": {
+   "label": "goed",
+   "vraag": "Did the African Union Commission chairperson Mahmoud Ali Youssouf call for Dr Kizza Besigye's release?",
+   "onderwerp": "Mahmoud Ali Youssouf and Kizza Besigye"
+  },
+  "b512c6448eb92be8": {
+   "label": "goed",
+   "vraag": "Has the FDA admitted that Pfizer causes blood clots?",
+   "onderwerp": "FDA and Pfizer blood clot claim"
+  },
+  "a39bc315638d0fe1": {
+   "label": "goed",
+   "vraag": "Does this video show Jimmy Fallon interviewing Kelly Clarkson about a weight loss product?",
+   "onderwerp": "Jimmy Fallon and Kelly Clarkson video"
+  },
+  "2504c7d53e96628d": {
+   "label": "fout",
+   "vraag": "Did Vytautas Landsbergis say the Belarusian nuclear power plant poses a nuclear death risk to Lithuania?",
+   "onderwerp": "Landsbergis statement on Belarus nuclear plant",
+   "reden": "EUvsDisinfo: vraagt of Landsbergis het zei, niet naar de desinformatie over zijn bedoeling"
+  },
+  "e932e335a9cd2ae6": {
+   "label": "goed",
+   "vraag": "Danilo do MST é um dos responsáveis por quebrar instalações do governo e culpar bolsonaristas?",
+   "onderwerp": "Danilo do MST e instalações do governo"
+  },
+  "9275ff14666cfabb": {
+   "label": "goed",
+   "vraag": "Did Russia recognise the independence of the Donetsk and Lugansk republics to stop genocide by Kyiv since 2014?",
+   "onderwerp": "Russia recognition of Donetsk and Lugansk"
+  },
+  "d3985174a6213c29": {
+   "label": "klein",
+   "vraag": "Did Shehzada Rahul Gandhi arrive late and enter parliament just as the national anthem ended?",
+   "onderwerp": "Rahul Gandhi and national anthem",
+   "reden": "'Shehzada' (spotnaam) uit de bewering in de vraag"
+  },
+  "602b1a37fd1c2df3": {
+   "label": "goed",
+   "vraag": "Stimmt es, dass Monica mit amputiertem Arm sagte, niemand würde ihr Foto teilen, weil sie behindert ist?",
+   "onderwerp": "Facebook-Foto einer Frau mit amputiertem Arm"
+  },
+  "a685706ca709e8c5": {
+   "label": "goed",
+   "vraag": "Do these photos show people queuing and fainting at Aeon Mall Phnom Penh?",
+   "onderwerp": "Aeon Mall Phnom Penh fainting photos"
+  },
+  "bdc5e4ee183b5515": {
+   "label": "goed",
+   "vraag": "Has the European Medicines Agency stopped the use of the AstraZeneca vaccine in European countries?",
+   "onderwerp": "AstraZeneca vaccine suspension"
+  },
+  "573c91eb0a81a57d": {
+   "label": "goed",
+   "vraag": "O Alto Comando divulgou carta aberta pedindo retorno ao estado de direito e à observância de preceitos constitucionais?",
+   "onderwerp": "Carta aberta do Alto Comando"
+  },
+  "69792fc1a1e64bb1": {
+   "label": "goed",
+   "vraag": "網傳影片說手機充電時講電話、充電時喝水會讓電流倒灌入心臟，這是真的嗎？",
+   "onderwerp": "手機充電時講電話與喝水的影片"
+  },
+  "b0348ee7e2a71917": {
+   "label": "goed",
+   "vraag": "Was there a coup in Ukraine, and are the Ukrainian authorities illegitimate?",
+   "onderwerp": "Ukrainian coup and authorities"
+  },
+  "1fd9643019057409": {
+   "label": "goed",
+   "vraag": "Did India openly back Israel at the United Nations amid the Palestine-Israel conflict?",
+   "onderwerp": "India and Israel at the United Nations"
+  },
+  "7f3adb5ae988cb15": {
+   "label": "goed",
+   "vraag": "Did the bride's brother offer 24 karat gold biscuits to the groom's family at a Saudi wedding?",
+   "onderwerp": "Saudi wedding gold biscuits"
+  },
+  "27360d2b47a780f4": {
+   "label": "goed",
+   "vraag": "Did the US bring Daesh to Afghanistan, train it and arm it to fight the Taliban?",
+   "onderwerp": "US, Daesh and ISIS-K in Afghanistan"
+  },
+  "6f7b2ae7320a848e": {
+   "label": "goed",
+   "vraag": "Does this video show a vanara army of monkeys moving to Ayodhya for the Pran Pratishtha ceremony?",
+   "onderwerp": "Vanara army video at Ayodhya"
+  },
+  "71db880eef7e508e": {
+   "label": "goed",
+   "vraag": "Is it true that migrants rape under-aged school girls in Finland and police are hiding this?",
+   "onderwerp": "Migrant rapes of schoolgirls in Finland"
+  },
+  "b5315838232b4827": {
+   "label": "goed",
+   "vraag": "Did Russian President Vladimir Putin introduce a new law imposing the death penalty for burning the Quran?",
+   "onderwerp": "Putin law on Quran burning"
+  },
+  "06273340e1b24bd6": {
+   "label": "goed",
+   "vraag": "Is it true that the Western ideology equals Nazism and communism and that Banderites and Polish nationalists are the vanguard of Western barbarianism?",
+   "onderwerp": "Western ideology and Banderites in Ukraine"
+  },
+  "ab93652190d508aa": {
+   "label": "fout",
+   "vraag": "Is it true that the USA is increasingly expanding its military presence in Eastern Europe?",
+   "onderwerp": "US military presence in Eastern Europe",
+   "reden": "EUvsDisinfo: vraagt naar een waar feit (Amerikaanse aanwezigheid), niet naar de desinformatie"
+  },
+  "3675d478860a1342": {
+   "label": "goed",
+   "vraag": "क्या सऊदी अरब में संतोष ट्रॉफी जीतने वाले कर्नाटक के खिलाड़ियों के साथ मुख्यमंत्री ने ऐसा व्यवहार किया?",
+   "onderwerp": "कर्नाटक फुटबॉल टीम और मुख्यमंत्री"
+  },
+  "97830f4cadd204f3": {
+   "label": "goed",
+   "vraag": "Did archaeology department officials announce that there is no evidence Shah Jahan built the Taj Mahal?",
+   "onderwerp": "Shah Jahan and Taj Mahal"
+  },
+  "dcda835173662469": {
+   "label": "goed",
+   "vraag": "Is it true that the more Khmer vote, the more they die, get jailed and become divided?",
+   "onderwerp": "Khmer voting and elections"
+  },
+  "7275401c0e1b7455": {
+   "label": "goed",
+   "vraag": "Does this footage show a flag catching fire while being burned at a protest against Israel?",
+   "onderwerp": "Flag burning footage at anti-Israel protest"
+  },
+  "ceee520a46263c77": {
+   "label": "goed",
+   "vraag": "Did the U.N. call for decriminalizing sex with minors?",
+   "onderwerp": "U.N. and decriminalizing sex with minors"
+  },
+  "18ed89ee70415e88": {
+   "label": "goed",
+   "vraag": "Does this video show a failed Indian test missile?",
+   "onderwerp": "Indian test missile video"
+  },
+  "4044aeb121acdf26": {
+   "label": "goed",
+   "vraag": "क्या तीर-धनुष से आदिवासियों ने नमाज़ के लिए कब्ज़ा की जा रही अपनी जमीन बचाई?",
+   "onderwerp": "आदिवासियों की जमीन पर कब्ज़ा"
+  },
+  "ab68b5b4e400f604": {
+   "label": "goed",
+   "vraag": "Have workers without a high school diploma had the lowest unemployment rate in United States history?",
+   "onderwerp": "Unemployment of workers without diplomas"
+  },
+  "cd0e6c20bebab322": {
+   "label": "goed",
+   "vraag": "هل يوثق هذا المقطع عملية عسكرية يمنية استهدفت مدمرة أمريكية بطائرة مسيرة؟",
+   "onderwerp": "مقطع لعملية ضد مدمرة أمريكية"
+  },
+  "d331a7155ba09b0f": {
+   "label": "goed",
+   "vraag": "Legt dit boek aan kinderen uit wat swinging is?",
+   "onderwerp": "Boek over swinging voor kinderen"
+  },
+  "92bd8e371173577b": {
+   "label": "goed",
+   "vraag": "Stimmt es, dass man mit 17 Milliarden Dollar alle Menschen ein Jahr lang mit Nahrung, Wasser und Wohnraum versorgen könnte?",
+   "onderwerp": "Soldat mit Bücherstapel und Militärausgaben"
+  },
+  "233e3079e20a9b63": {
+   "label": "goed",
+   "vraag": "Did the USA insist that Right Sector take part in the \"DPR\" and \"LPR\" elections?",
+   "onderwerp": "Right Sector and DPR and LPR elections"
+  },
+  "3de1ab6e14dd27e6": {
+   "label": "goed",
+   "vraag": "Did Moderna's chief medical officer admit that mRNA alters DNA?",
+   "onderwerp": "Moderna mRNA and DNA claim"
+  },
+  "e62e3f7d8b74c562": {
+   "label": "goed",
+   "vraag": "Did BJP leader Vikas Dubey kill 8 UP police personnel in an encounter in Kanpur?",
+   "onderwerp": "Vikas Dubey encounter in Kanpur"
+  },
+  "1309484068a1b6b8": {
+   "label": "goed",
+   "vraag": "Is it true that the European Union is trying to flood Belarus with terrorists under the guise of refugees?",
+   "onderwerp": "EU and Belarus migrant crisis"
+  },
+  "d0c8bf889988f421": {
+   "label": "goed",
+   "vraag": "هل قال أحمد الفيشاوي: \"بنتي خلفت لكن لسه متجوزتش\"؟",
+   "onderwerp": "تصريح أحمد الفيشاوي عن ابنته"
+  },
+  "6d06bc730736bf80": {
+   "label": "goed",
+   "vraag": "آیا محمد بن سلمان گفته ۲۵هزار گوسفند هدیه‌اش به غزه را اسماعیل هنیه به تاجر هندی فروخته است؟",
+   "onderwerp": "محمد بن سلمان و گوسفندهای هدیه به غزه"
+  },
+  "391b17e8e86de125": {
+   "label": "goed",
+   "vraag": "Did officials need an extra counting machine after an IT raid on Surat AAP leader Shekhar Agarwal's house?",
+   "onderwerp": "IT raid on Shekhar Agarwal"
+  },
+  "7b76ca8deb980e88": {
+   "label": "goed",
+   "vraag": "Does this photo show a prisoner from Sednaya Prison in Syria?",
+   "onderwerp": "Photo of Sednaya Prison prisoner"
+  },
+  "df701263268de6f3": {
+   "label": "goed",
+   "vraag": "Did Seeman say he is ready to support the BJP in the 2024 election?",
+   "onderwerp": "Seeman and BJP support in 2024 election"
+  },
+  "e1f8339f57cf0d1f": {
+   "label": "goed",
+   "vraag": "Were Russian missile attacks on Ukraine a legitimate response to the Crimean Bridge attack?",
+   "onderwerp": "Russian missile attacks and Crimean Bridge"
+  },
+  "7082ab738fe8928a": {
+   "label": "goed",
+   "vraag": "Did NATO break its agreement with Russia not to deploy significant forces in new Member States?",
+   "onderwerp": "NATO and Russia security agreements"
+  },
+  "73e0e6843dfa6508": {
+   "label": "fout",
+   "vraag": "Has the UK Embassy in Ukraine announced a fund to help Kyiv counter Russian influence?",
+   "onderwerp": "UK Embassy fund for Kyiv",
+   "reden": "EUvsDisinfo: vraagt naar het fonds (waar), niet naar 'westerse steun voedt russofobie'"
+  },
+  "74ae70724893c5a4": {
+   "label": "goed",
+   "vraag": "Does this photo show a fraudster wearing Sikh attire offering namaz prayers after the farmers' protest?",
+   "onderwerp": "Photo of man in Sikh attire at namaz"
+  },
+  "a679e04b15265405": {
+   "label": "goed",
+   "vraag": "Le coronavirus n'est-il entré en Belgique que dans l'imaginaire de la population ?",
+   "onderwerp": "Coronavirus en Belgique"
+  },
+  "4d49b94ba197be62": {
+   "label": "goed",
+   "vraag": "Is Joe Biden's $36 billion for a union pension fund the largest private pension bailout in American history?",
+   "onderwerp": "Biden's $36 billion union pension aid"
+  },
+  "669e57c1a95b80a7": {
+   "label": "goed",
+   "vraag": "هل تُظهر الصورة أسيراً فلسطينياً مكبل اليدين ومعصوب العينين تعرض للتعذيب فتشوهت ساقه؟",
+   "onderwerp": "صورة أسير فلسطيني مكبل اليدين"
+  },
+  "5bbcefa2547ff594": {
+   "label": "goed",
+   "vraag": "Is it true that a mother is seeking help for the treatment of her son?",
+   "onderwerp": "Mother seeking help for son's treatment"
+  },
+  "e4eb89cf6c6d7e04": {
+   "label": "goed",
+   "vraag": "Was the reunification of Crimea and Russia the right and timely decision?",
+   "onderwerp": "Reunification of Crimea and Russia"
+  },
+  "4b32beb88d9a327e": {
+   "label": "goed",
+   "vraag": "Did astrologer Balaji predict that DMK would lose the Vellore MP election?",
+   "onderwerp": "Astrologer Balaji's Vellore election prediction"
+  },
+  "915eb3049eb528d8": {
+   "label": "fout",
+   "vraag": "Does Leni Robredo have a clean record and is she facing a sedition charge?",
+   "onderwerp": "Leni Robredo legal record",
+   "reden": "de ontkenning omgedraaid: 'does not have a clean record' werd 'Does she have a clean record'"
+  },
+  "56bdbc2b48385140": {
+   "label": "goed",
+   "vraag": "Does this photo show an attack by the 'Sindhudesh Liberal Army' on a Pakistani military vehicle on 19 June 2020?",
+   "onderwerp": "Sindhudesh Liberal Army attack photo"
+  },
+  "d2a0b26e0c247b5c": {
+   "label": "goed",
+   "vraag": "Was Crimea recognized as part of Russia at the World Jewish Congress gathering in New York?",
+   "onderwerp": "World Jewish Congress and Crimea"
+  },
+  "891c1475d196ae41": {
+   "label": "fout",
+   "vraag": "Is the video showing crowds in front of a destroyed building from a missile attack on Minab elementary school?",
+   "onderwerp": "video of crowds at destroyed building",
+   "reden": "de bewering gaat over wat een post zegt (Peshawar); de vraag over het tegendeel (Minab)"
+  },
+  "9e914a21f5c0a4cc": {
+   "label": "goed",
+   "vraag": "Do the Anglo-Saxons want to keep Europe weak and use Ukraine to destroy the EU?",
+   "onderwerp": "Anglo-Saxon policy toward Europe and Ukraine"
+  },
+  "142811c0c6de8ea2": {
+   "label": "goed",
+   "vraag": "Is it true that some EU countries teeter on the brink of default and unemployment in some EU states exceeds 20% while Belarus has extremely low unemployment?",
+   "onderwerp": "EU unemployment versus Belarus economy"
+  },
+  "730cb0d474d42574": {
+   "label": "goed",
+   "vraag": "Did Shah Rukh Khan make this statement about the film 'Pathaan'?",
+   "onderwerp": "Shah Rukh Khan statement on Pathaan"
+  },
+  "6a83c358c3a5cb83": {
+   "label": "goed",
+   "vraag": "Has the coronavirus seen a \"big surge\" in New Zealand?",
+   "onderwerp": "Coronavirus surge in New Zealand"
+  },
+  "e3c7df922bfbcc52": {
+   "label": "goed",
+   "vraag": "Quem teve renda afetada na quarentena da COVID-19 pode pedir cesta básica gratuita pelo Fome Zero?",
+   "onderwerp": "Programa Fome Zero e cesta básica"
+  },
+  "d70ee910e58f1924": {
+   "label": "goed",
+   "vraag": "Does this picture show a prisoner from Saydnaya Prison surprised to see a human face?",
+   "onderwerp": "Saydnaya Prison photo"
+  },
+  "b7349bd3a8717b62": {
+   "label": "goed",
+   "vraag": "今井絵理子議員は「（議員になって良かったのは）遊んでいてお金が入ること」と発言したのですか？",
+   "onderwerp": "今井絵理子議員の発言"
+  },
+  "1d30f735c72cf28b": {
+   "label": "goed",
+   "vraag": "¿Confirma el Washington Post que el paciente cero del coronavirus era empleado del laboratorio de virología de Wuhan?",
+   "onderwerp": "Washington Post y paciente cero del coronavirus"
+  },
+  "27277f2fe59baf65": {
+   "label": "goed",
+   "vraag": "Is hepatitis B vaccination at birth unwise as the virus is spread mainly by sex and IV drug use?",
+   "onderwerp": "Hepatitis B vaccination at birth"
+  },
+  "05aab06bda589bf5": {
+   "label": "goed",
+   "vraag": "Did Michigan send absentee ballots to 7.7 million people illegally without authorization by the Secretary of State?",
+   "onderwerp": "Michigan absentee ballots mailing"
+  },
+  "7f3ac7f8557138d5": {
+   "label": "goed",
+   "vraag": "Was a Democrat County Commissioner race in Nevada thrown out because of large-scale voter discrepancies?",
+   "onderwerp": "Nevada County Commissioner race"
+  },
+  "a37011cdc4755ca4": {
+   "label": "goed",
+   "vraag": "Is it true that Trump is in the White House?",
+   "onderwerp": "Trump in the White House"
+  },
+  "805efcd9852eca54": {
+   "label": "goed",
+   "vraag": "Zeigten die Prozentzahlen in den Hochrechnungen zur bayerischen Landtagswahl Ungereimtheiten zu Ungunsten der AfD?",
+   "onderwerp": "Hochrechnungen bayerische Landtagswahl"
+  },
+  "ea38efc75c8aa5fc": {
+   "label": "goed",
+   "vraag": "क्या दिल्ली की जनता को चुनावी कॉल की जा रही है?",
+   "onderwerp": "दिल्ली की जनता को चुनावी कॉल"
+  },
+  "2b085bf4957a843e": {
+   "label": "goed",
+   "vraag": "Did every House Republican vote to cut Medicaid, including $880 billion from the committee that governs it?",
+   "onderwerp": "House Republicans and Medicaid cuts"
+  },
+  "fd98defba83e679c": {
+   "label": "goed",
+   "vraag": "Were OPCW inspectors unable to reach Douma's alleged chemical attack site due to lack of U.N. coordination?",
+   "onderwerp": "OPCW inspectors in Douma"
+  },
+  "60313d9925a185fc": {
+   "label": "goed",
+   "vraag": "Is there ragging chaos at Thachepalli Government Junior College?",
+   "onderwerp": "Ragging at Thachepalli Government Junior College"
+  },
+  "cf159bd2820cd28b": {
+   "label": "goed",
+   "vraag": "Has the administration blocked release of this complaint to Congress despite federal law requiring its disclosure?",
+   "onderwerp": "Complaint release to Congress"
+  },
+  "e04cbd8709fe0457": {
+   "label": "goed",
+   "vraag": "Is Ukraine becoming a world centre of child trafficking?",
+   "onderwerp": "Child trafficking and adoptions in Ukraine"
+  },
+  "c1b8b43aafa909fd": {
+   "label": "fout",
+   "vraag": "Was the White House's secrecy about Donald Trump's July 25 call with Zelensky nefarious?",
+   "onderwerp": "White House secrecy on Trump-Zelensky call",
+   "reden": "de ontkenning omgedraaid: 'nothing nefarious' werd 'Was the secrecy nefarious?'"
+  },
+  "8811f83a4ffe071e": {
+   "label": "goed",
+   "vraag": "Did Polish television show a map of the partition of Ukraine with western regions incorporated into Poland?",
+   "onderwerp": "Polish TV map of Ukraine partition"
+  },
+  "a7b0d1eefb886dd4": {
+   "label": "goed",
+   "vraag": "Do videos show police beating citizens for coming out during the latest night curfew in Telangana?",
+   "onderwerp": "Police beating citizens in Telangana curfew"
+  },
+  "14599a9f959f0d0c": {
+   "label": "goed",
+   "vraag": "Did Putin interrupt an ISIS supply route across the Syrian-Turkish border?",
+   "onderwerp": "Russia and ISIS supply route in Syria"
+  },
+  "d05a4c07dbbb4fe4": {
+   "label": "goed",
+   "vraag": "Is the US government involved in supporting the Hong Kong protests to destabilise China?",
+   "onderwerp": "Foreign role in Hong Kong protests"
+  },
+  "53ccbb7afa9c132a": {
+   "label": "goed",
+   "vraag": "Does this video show a man claiming to be Thomas Crooks?",
+   "onderwerp": "Video of man claiming to be Thomas Crooks"
+  },
+  "6671c2b2840b9c25": {
+   "label": "goed",
+   "vraag": "Did the USSR lose a war with Finland in 1920 and have to sign the Treaty of Tartu?",
+   "onderwerp": "USSR, Finland and Treaty of Tartu"
+  },
+  "88a931f8e96d74f3": {
+   "label": "goed",
+   "vraag": "Has the U.S. State Department started a special immigrants visa \"evacuation operation\"?",
+   "onderwerp": "US State Department visa evacuation"
+  },
+  "44ca54abbf3c8344": {
+   "label": "goed",
+   "vraag": "Is the Heinz-Christian Strache video scandal a Kremlin trap and information terrorist attack?",
+   "onderwerp": "Heinz-Christian Strache video scandal"
+  },
+  "4fe9f94e8b33725a": {
+   "label": "goed",
+   "vraag": "Was the Ram Temple in Tambaram demolished by the DMK today?",
+   "onderwerp": "Tambaram Ram Temple demolition"
+  },
+  "988b8fb0a4279f51": {
+   "label": "goed",
+   "vraag": "Did Arizona open up while Nevada's governor was asked to open up the state?",
+   "onderwerp": "Arizona and Nevada reopening"
+  },
+  "db1d6aa3d1856649": {
+   "label": "goed",
+   "vraag": "Did MS Dhoni show support for the Kisan tractor parade by standing on a tractor?",
+   "onderwerp": "MS Dhoni and Kisan tractor parade"
+  },
+  "0f86501bd43bd989": {
+   "label": "goed",
+   "vraag": "Is vaccine fake news made by stitching together one quote from Jung Eun-kyung and one line from a research paper?",
+   "onderwerp": "Vaccine fake news with Jung Eun-kyung quote"
+  },
+  "c9e60d2db9b1cb9e": {
+   "label": "goed",
+   "vraag": "Does the MEPs' resolution on Brexit negotiations resemble Munich 1938?",
+   "onderwerp": "MEPs' Brexit negotiations resolution"
+  },
+  "a5b6368304d94fcc": {
+   "label": "goed",
+   "vraag": "Was a one-thousand-foot shivling discovered in the basement beneath the Gyanvapi mosque during the ASI survey?",
+   "onderwerp": "Shivling in Gyanvapi mosque basement"
+  },
+  "91b215adb4232e5d": {
+   "label": "goed",
+   "vraag": "Did the Cabinet approve a five day working week for banks from 01 January 2024?",
+   "onderwerp": "five day working week for banks"
+  },
+  "f5d4c91f33a31c2e": {
+   "label": "goed",
+   "vraag": "آیا جمعیت شاغل کشور ۷۵۷ هزار نفر بیش از دوران برجام است؟",
+   "onderwerp": "جمعیت شاغل کشور و دوران برجام"
+  },
+  "2c8b3cb359dee103": {
+   "label": "fout",
+   "vraag": "Is it true that the Baltic States will leave the BRELL energy ring and synchronise with Europe through Poland by 2025?",
+   "onderwerp": "Baltic States and BRELL energy ring",
+   "reden": "EUvsDisinfo: vraagt naar het waar feit (BRELL verlaten), niet naar 'te duur'"
+  },
+  "39063c5aa021e167": {
+   "label": "goed",
+   "vraag": "Zeigt ein Foto des Backstage-Bereichs der ZDF-Silvesterparty, dass Gäste maskenfrei herumlaufen konnten?",
+   "onderwerp": "ZDF-Silvesterparty und Maskenpflicht"
+  },
+  "0522f2b56e8dd056": {
+   "label": "goed",
+   "vraag": "क्या यह वीडियो 2016 में मंदसौर में किसानों पर हुई गोलीबारी की घटना का है?",
+   "onderwerp": "मंदसौर में किसानों पर गोलीबारी"
+  },
+  "fe2740785db875b9": {
+   "label": "goed",
+   "vraag": "Did Vice President Kamala Harris support “mass amnesty and citizenship” for “all illegals … even criminals”?",
+   "onderwerp": "Kamala Harris amnesty for illegals"
+  },
+  "099f072d3106efed": {
+   "label": "goed",
+   "vraag": "Is the video of Japanese school children getting emotional while watching their parents' workplace videos real?",
+   "onderwerp": "Japanese school children and parents' work videos"
+  },
+  "9bed8e5aef82d528": {
+   "label": "goed",
+   "vraag": "Did Al Gore say in 2009 the North Pole will be ice-free in summer by 2013?",
+   "onderwerp": "Al Gore claim on Arctic sea ice"
+  },
+  "2499d6c4955a0019": {
+   "label": "goed",
+   "vraag": "Is Ukraine a part of Russia?",
+   "onderwerp": "Ukraine and Russia"
+  },
+  "ce9458ab38071e70": {
+   "label": "goed",
+   "vraag": "A inflação mensal da Argentina está equivalente à inflação anual atual do Brasil?",
+   "onderwerp": "Inflação da Argentina e do Brasil"
+  },
+  "653f349eb510f6ad": {
+   "label": "klein",
+   "vraag": "Is it true that more factories and plants are being built in our country right now than ever before?",
+   "onderwerp": "Factories and plants being built",
+   "reden": "'our country' uit het citaat"
+  },
+  "f681da7895c4ccd0": {
+   "label": "goed",
+   "vraag": "Does this image show a recent raid on a BBMP Contractor's Association vice president's house?",
+   "onderwerp": "BBMP Contractor's Association raid"
+  },
+  "5f6258d4032abf58": {
+   "label": "goed",
+   "vraag": "Did doctors at the Charite clinic confirm lithium in Alexei Navalny's blood on his arrival in Germany?",
+   "onderwerp": "Lithium in Alexei Navalny's blood"
+  },
+  "835694abb1f762fb": {
+   "label": "goed",
+   "vraag": "Do Army of Ukraine soldiers take strong psychotropic drugs that let them keep fighting after severe wounds?",
+   "onderwerp": "Army of Ukraine psychotropic drugs"
+  },
+  "12fe75a1a379693d": {
+   "label": "goed",
+   "vraag": "Was the Gotabaya Rajapaksa statement misunderstood?",
+   "onderwerp": "Gotabaya Rajapaksa statement"
+  },
+  "8db848090a9bf73a": {
+   "label": "fout",
+   "vraag": "Did Belarus say that Zapad-2021 is a scheduled exercise and that Russian and Belarusian armed forces must be reformatted?",
+   "onderwerp": "Zapad-2021 exercise statement",
+   "reden": "EUvsDisinfo: voegt 'Belarus said' toe en mist 'hybride oorlog tegen Belarus'"
+  },
+  "43c5db4abe6fcb34": {
+   "label": "goed",
+   "vraag": "Is er een verband tussen mensen in België met schildklierkanker en de kernramp in Tsjernobyl in 1986?",
+   "onderwerp": "Schildklierkanker in België en Tsjernobyl"
+  },
+  "f9880c4c3b94b907": {
+   "label": "fout",
+   "vraag": "Is it true that Russia would benefit from a US-China conflict and become a third global power?",
+   "onderwerp": "US-China conflict and Russia",
+   "reden": "EUvsDisinfo: kiest een bijzin, niet de kern"
+  },
+  "8ca010972bc3938e": {
+   "label": "goed",
+   "vraag": "Sara, irmã caçula de Silvio Santos, falou horrores do irmão depois que ele faleceu porque não foi incluída no testamento?",
+   "onderwerp": "Sara, irmã de Silvio Santos"
+  },
+  "d476d756f1bd0ef2": {
+   "label": "goed",
+   "vraag": "Did Duterte approve P20,000 aid for all SSS members amid the COVID-19 lockdown?",
+   "onderwerp": "Duterte P20,000 SSS aid"
+  },
+  "741431a6508eb17a": {
+   "label": "goed",
+   "vraag": "Des médicaments approuvés par l'UE remplaceront-ils les vaccins contre le Covid-19 dès le 20 octobre 2021 ?",
+   "onderwerp": "Médicaments contre le Covid-19 approuvés par l'UE"
+  },
+  "25b0d8e95b0f7676": {
+   "label": "goed",
+   "vraag": "Are the people protesting so that Sajith becomes president?",
+   "onderwerp": "Protests for Sajith to become president"
+  },
+  "9652c1e544de39a7": {
+   "label": "goed",
+   "vraag": "Is deze Oekraïense vader op de beelden te zien terwijl hij afscheid neemt van zijn dochter om te gaan vechten tegen de Russen?",
+   "onderwerp": "Oekraïense vader die afscheid neemt van dochter"
+  },
+  "3fbd42af1c844c86": {
+   "label": "klein",
+   "vraag": "Zeigt ein viraler TikTok-Video einen Ansturm auf eine Aldi-Nord-Filiale wegen Corona-Hamsterkäufen?",
+   "onderwerp": "TikTok-Video zu Aldi-Nord-Filiale",
+   "reden": "'ein viraler TikTok-Video': grammatica"
+  },
+  "a50aa4a8d035981a": {
+   "label": "goed",
+   "vraag": "¿Elimina el coronavirus en cinco segundos la lámpara portátil de luz ultravioleta?",
+   "onderwerp": "Lámpara portátil de luz ultravioleta"
+  },
+  "e01a71814f72f98e": {
+   "label": "goed",
+   "vraag": "Did NASA take a live image on 05 April 2020 at 9 pm during the 9 minutes when lamps and candles were lit?",
+   "onderwerp": "NASA image, 5 April 2020"
+  },
+  "38689de82ee0b955": {
+   "label": "goed",
+   "vraag": "Was elephant Kavantissa shot by intelligence officers from the Giritale camp?",
+   "onderwerp": "Elephant Kavantissa shooting"
+  },
+  "5958056c1175b926": {
+   "label": "goed",
+   "vraag": "Were two more Cambodian students killed in a recent attack between Israel and Hamas?",
+   "onderwerp": "Cambodian students killed in Israel-Hamas attack"
+  },
+  "9492c84206bb1eb5": {
+   "label": "goed",
+   "vraag": "Is this footage of a father rescuing his children from fast-flowing floodwater?",
+   "onderwerp": "father rescuing children from floodwater"
+  },
+  "0e60a85ed3faa326": {
+   "label": "goed",
+   "vraag": "Testen mensen in Australië positief op hiv na de mislukte uitrol van een experimenteel MRNA-vaccin?",
+   "onderwerp": "Hiv-besmettingen in Australië na vaccin"
+  },
+  "e77f104447bec724": {
+   "label": "goed",
+   "vraag": "Did scientists at Exeter University reconstruct this 3D model of how Moses might have looked?",
+   "onderwerp": "Exeter University 3D model of Moses"
+  },
+  "ee0a717def07e502": {
+   "label": "goed",
+   "vraag": "Did the price of rice recover from 130,000 won in 2016 to 190,000 won?",
+   "onderwerp": "Rice price and farm household income"
+  },
+  "bce22cc894e22a95": {
+   "label": "goed",
+   "vraag": "Does this video show a girl being kidnapped by men in a car while walking on a road in Bihar?",
+   "onderwerp": "Girl kidnapping video in Bihar"
+  },
+  "9bbbd7d78a89ae02": {
+   "label": "goed",
+   "vraag": "Did a government school headmaster in Khammam district refuse to hoist the national flag on Independence Day 2021?",
+   "onderwerp": "Khammam headmaster and Independence Day flag"
+  },
+  "b4621548e0493d7d": {
+   "label": "goed",
+   "vraag": "Were many Hindu homes set on fire in Amardubunia village, Mollahat upazila, Bangladesh?",
+   "onderwerp": "Attack on Hindu homes in Amardubunia"
+  },
+  "0db10c44855e0412": {
+   "label": "goed",
+   "vraag": "Has the poverty index in the Bangsamoro Autonomous Region significantly decreased since 2018?",
+   "onderwerp": "Bangsamoro poverty index"
+  },
+  "af6ee7ecb7e99678": {
+   "label": "goed",
+   "vraag": "Diyanet İşleri Başkanı deprem bölgesine şahsi olarak 310 milyon lira bağışladı mı?",
+   "onderwerp": "Diyanet İşleri Başkanı'nın deprem bölgesine bağışı"
+  },
+  "e2f60f3362911d06": {
+   "label": "goed",
+   "vraag": "Is this a Dainik Jagran newspaper ad with the tagline 'Ek Muhalla Ek Bakra'?",
+   "onderwerp": "Dainik Jagran ad 'Ek Muhalla Ek Bakra'"
+  },
+  "affa9d4cbe154356": {
+   "label": "goed",
+   "vraag": "Did Ukrainian shelling of the Zaporizhzhya nuclear plant create a radioactive threat for Europe?",
+   "onderwerp": "Zaporizhzhya nuclear power plant shelling"
+  },
+  "c9dafa7224d142de": {
+   "label": "goed",
+   "vraag": "Will a 30-day police mask check campaign begin in Bareilly, as a Facebook post claims?",
+   "onderwerp": "Bareilly police mask campaign"
+  },
+  "f679b72fa34896b0": {
+   "label": "goed",
+   "vraag": "É verdade que Caiado apanhou em frente ao Palácio e mandou surrar o fotógrafo que tirou as fotos?",
+   "onderwerp": "Caiado em frente ao Palácio"
+  },
+  "b562e2c661cb1c3a": {
+   "label": "goed",
+   "vraag": "Is this photo of beautiful scenery taken at Kirirom National Park in Kampong Speu province?",
+   "onderwerp": "Kirirom National Park scenery photo"
+  },
+  "238a0b43f10ad87f": {
+   "label": "goed",
+   "vraag": "Is NATO, through Ukraine, trying to start military operations against Russia?",
+   "onderwerp": "NATO and Ukraine against Russia"
+  },
+  "42ab21f21f219dc2": {
+   "label": "goed",
+   "vraag": "Did Sara Tendulkar wish Shubman Gill, calling him 'My Man', saying 'Today's match...'?",
+   "onderwerp": "Sara Tendulkar's message to Shubman Gill"
+  },
+  "5b4d47edacd3ef2e": {
+   "label": "goed",
+   "vraag": "Has PM Modi appointed Drone Boy Pratap as a scientist at DRDO?",
+   "onderwerp": "Drone Boy Pratap appointment at DRDO"
+  },
+  "3e1891480c55fa58": {
+   "label": "goed",
+   "vraag": "É verdade que deputados assinaram projeto de lei para incluir um litro de cachaça na cesta básica dos brasileiros?",
+   "onderwerp": "Projeto de lei sobre cachaça na cesta básica"
+  },
+  "47562b2d2b9be826": {
+   "label": "goed",
+   "vraag": "A cascata da barragem de Jati, no Ceará, acabou depois que Lula assumiu o poder?",
+   "onderwerp": "Barragem de Jati e cascata"
+  },
+  "fe0d55f6b76f4a32": {
+   "label": "goed",
+   "vraag": "Dominieren laut britischer Regierungsstudie Zweifachgeimpfte Corona-Tote und Krankenhauseinweisungen?",
+   "onderwerp": "Britische Regierungsstudie zu Corona-Impfungen"
+  },
+  "835f43394a5a0e64": {
+   "label": "goed",
+   "vraag": "آیا این تصویر موجودی حساب ۴۲ «میلیارد میلیارد» تومانی محمدرضا استادی، امام جمعه قم است؟",
+   "onderwerp": "موجودی حساب محمدرضا استادی"
+  },
+  "343ca0f1b511ba8a": {
+   "label": "goed",
+   "vraag": "Does a diet of highly alkaline foods defeat COVID-19?",
+   "onderwerp": "Alkaline diet and COVID-19"
+  },
+  "d41462978d3f50d6": {
+   "label": "fout",
+   "vraag": "苦瓜絲瓜含有的毒性不亞於砒霜，媽媽煮這種湯等於讓孩子吃砒霜，這是真的嗎？",
+   "onderwerp": "苦絲瓜的毒性與砒霜",
+   "reden": "苦絲瓜 (bittere luffa) werd 苦瓜絲瓜 (bittere meloen en luffa)"
+  },
+  "9d4956fe2d70abdf": {
+   "label": "goed",
+   "vraag": "Was an angel seen in the clouds over Dharchula?",
+   "onderwerp": "Angel seen in Dharchula clouds"
+  },
+  "bd27825739a3177a": {
+   "label": "goed",
+   "vraag": "Did an RTI show that Modi's Morbi visit cost ₹30 cr, including ₹5.5 cr for event management?",
+   "onderwerp": "Modi's Morbi visit cost"
+  },
+  "a92f5a573d405a79": {
+   "label": "klein",
+   "vraag": "Did he deny telling President Obama in an April 28, 2011 meeting not to go after Osama bin Laden?",
+   "onderwerp": "Obama and Osama bin Laden meeting",
+   "reden": "'he' zonder naam"
+  },
+  "deccae2565ab4cb1": {
+   "label": "goed",
+   "vraag": "ワクチン接種と5Gでコロナに感染するのは本当ですか？",
+   "onderwerp": "ワクチン接種と5Gによるコロナ感染"
+  },
+  "6ceb6f3c90799a96": {
+   "label": "goed",
+   "vraag": "Is the United States more interested in destabilising Kazakhstan than any other country?",
+   "onderwerp": "US and Kazakhstan destabilisation"
+  },
+  "ea8867343d54b9ad": {
+   "label": "goed",
+   "vraag": "هل تُظهر اللقطات انفجارات حديثة خلفتها غارات أمريكية بريطانية على مواقع للحوثيين في صنعاء مؤخراً؟",
+   "onderwerp": "لقطات انفجارات في صنعاء"
+  },
+  "087b791544e4ef59": {
+   "label": "goed",
+   "vraag": "É verdade que a proteína Spike da vacina da covid causa danos e que a cloroquina pode tratar o problema?",
+   "onderwerp": "Proteína Spike e cloroquina"
+  },
+  "0df11af9f4282989": {
+   "label": "goed",
+   "vraag": "Did Prasanna Ranaweera say that liquor manufacturers are major stakeholders in the economy?",
+   "onderwerp": "Prasanna Ranaweera liquor manufacturers remark"
+  },
+  "9ba24b45742d6e05": {
+   "label": "fout",
+   "vraag": "Did the Parliamentary Assembly of the Council of Europe call on Russia to release 24 Ukrainian sailors captured in November 2018?",
+   "onderwerp": "Ukrainian sailors captured by Russia",
+   "reden": "EUvsDisinfo: vraagt naar de oproep van de Raad van Europa (waar), mist 'na schending van de grens'"
+  },
+  "8b5b61b5f2f8b77b": {
+   "label": "klein",
+   "vraag": "¿Es cierto que «Los españoles me repugnan como el olor a pescado»?",
+   "onderwerp": "Cita sobre los españoles y el olor a pescado",
+   "reden": "citaat zonder spreker als 'Es cierto que «…»'"
+  },
+  "89055e38377bf185": {
+   "label": "goed",
+   "vraag": "क्या अहमदाबाद एयरपोर्ट बंदरगाह बन गया है और श्री मोदी ने वहां से समुद्र दिखाया?",
+   "onderwerp": "अहमदाबाद एयरपोर्ट और समुद्र दर्शन"
+  },
+  "71a97c0f354992ee": {
+   "label": "goed",
+   "vraag": "Has Mashrafe become the second Bangladeshi to receive lifetime MCC membership?",
+   "onderwerp": "Mashrafe MCC lifetime membership"
+  },
+  "0afdfcfe2c7de74e": {
+   "label": "goed",
+   "vraag": "Tonen deze beelden de schade na de branden in Hawaï, en zijn de huizen met opzet afgebrand omdat de bomen intact zijn gebleven?",
+   "onderwerp": "Branden en beschadigde huizen in Hawaï"
+  },
+  "b2010623ad566bab": {
+   "label": "goed",
+   "vraag": "Is the Northeast the only constituency where the Pd is gaining votes?",
+   "onderwerp": "Pd vote gains in the Northeast"
+  },
+  "a20c7e7aee0d3350": {
+   "label": "goed",
+   "vraag": "Does this screenshot show a news report that smart meters run faster than normal electric meters?",
+   "onderwerp": "Smart meters running faster than normal meters"
+  },
+  "cbd57b589387905b": {
+   "label": "goed",
+   "vraag": "Lula foi vaiado sem parar e Janja o aconselhou a deixar o microfone para evitar um vexame maior?",
+   "onderwerp": "Lula vaiado e Janja com microfone"
+  },
+  "17fb8adde516c9ee": {
+   "label": "goed",
+   "vraag": "क्या यह नेता मध्य प्रदेश के नए मुख्यमंत्री मोहन यादव हैं?",
+   "onderwerp": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव"
+  },
+  "ea924d40f842f513": {
+   "label": "goed",
+   "vraag": "Does this picture show Dharmapuri MP Senthil giving MK Stalin a haircut?",
+   "onderwerp": "Senthil and MK Stalin haircut picture"
+  },
+  "84317b0a94334c8e": {
+   "label": "goed",
+   "vraag": "Have the bank accounts of former president Rodrigo Duterte been cleared of any suspicious activity?",
+   "onderwerp": "Rodrigo Duterte bank accounts"
+  },
+  "6b97e64b39cb08c1": {
+   "label": "goed",
+   "vraag": "Does this video show Muslims attacking Hindus in Bengal?",
+   "onderwerp": "Muslims attacking Hindus in Bengal"
+  },
+  "ca9eb1a111afdc7a": {
+   "label": "goed",
+   "vraag": "Does Kenya Railways ask job seekers to pay for jobs?",
+   "onderwerp": "Kenya Railways job applications"
+  },
+  "9c386f7a26c87c71": {
+   "label": "goed",
+   "vraag": "آیا مجله لنست گزارش خود درباره واکسن روسی کرونا (اسپوتنیک) را پس گرفته است؟",
+   "onderwerp": "گزارش مجله لنست درباره واکسن اسپوتنیک"
+  },
+  "5112c49dd001fb13": {
+   "label": "goed",
+   "vraag": "Is Nancy Pelosi set to resign from Congress as Trump files impeachment lawsuits against her?",
+   "onderwerp": "Nancy Pelosi resignation and Trump lawsuits"
+  },
+  "c04188ea4a5155b8": {
+   "label": "fout",
+   "vraag": "Is the video of the moment Ukrainian PS752 was hit in Iran authentic, as Bellingcat confirmed?",
+   "onderwerp": "Ukrainian PS752 crash video",
+   "reden": "de ontkenning omgedraaid: de bewering zegt dat de video gemanipuleerd is, de vraag of hij echt is"
+  },
+  "83530f2a93e04922": {
+   "label": "goed",
+   "vraag": "Was one of the Kansas City Chiefs parade shooters identified as Sahil Omar, a 44-year-old illegal immigrant?",
+   "onderwerp": "Kansas City Chiefs parade shooter"
+  },
+  "5b9eeb92705f9d2f": {
+   "label": "goed",
+   "vraag": "O hino do Corinthians foi cantado durante o show da Taylor Swift?",
+   "onderwerp": "Show da Taylor Swift e hino do Corinthians"
+  },
+  "1870ba91a75558c6": {
+   "label": "goed",
+   "vraag": "هل يُظهر هذا الفيديو قصفاً إسرائيلياً على صنعاء مساء اليوم؟",
+   "onderwerp": "فيديو لقصف إسرائيلي على صنعاء"
+  },
+  "a1dc0c1c6ce8de14": {
+   "label": "goed",
+   "vraag": "Macht die CO2-Belastung Windkraftanlagen beinahe unrentabel?",
+   "onderwerp": "Windkraftanlagen und CO2-Belastung"
+  },
+  "596a57490b2fea1a": {
+   "label": "goed",
+   "vraag": "¿Muestran estas fotos que se desplomó un avión de la fuerza aérea?",
+   "onderwerp": "Supuesta caída de avión de la fuerza aérea"
+  },
+  "48ed0ced8c2cc753": {
+   "label": "goed",
+   "vraag": "Is Latvia buying electricity at the Latvian-Russian border to disrupt Belarusian-Russian relations?",
+   "onderwerp": "Latvia's electricity purchases at the border"
+  },
+  "7d7251a7005caf52": {
+   "label": "goed",
+   "vraag": "Is the EU using irregular migrant flows as a political tool against Belarus?",
+   "onderwerp": "EU migrant flows and Belarus"
+  },
+  "6c9eca2b596c35a4": {
+   "label": "goed",
+   "vraag": "क्या यह तस्वीर बेंगलुरु में भारी बारिश के बाद पानी में डूबी कारों की है?",
+   "onderwerp": "बेंगलुरु में पानी में डूबी कारें"
+  },
+  "f2fbfc3089f43ae5": {
+   "label": "fout",
+   "vraag": "Did OSCE observers see howitzers and tanks at a train station in government-controlled Donetsk?",
+   "onderwerp": "Ukrainian military presence in Donbas",
+   "reden": "EUvsDisinfo: vraagt naar wat de OVSE zag (waar), niet naar 'Oekraïne bereidt een aanval voor'"
+  },
+  "4f212d8189efde77": {
+   "label": "goed",
+   "vraag": "¿Se están hackeando cuentas de WhatsApp por enviar buenos días con imágenes y vídeos?",
+   "onderwerp": "Cadena de WhatsApp sobre hackeo de cuentas"
+  },
+  "90100d17dffe26d6": {
+   "label": "goed",
+   "vraag": "¿Implantó la empresa de Elon Musk un chip en un mono para que juegue un videojuego con la mente?",
+   "onderwerp": "Empresa de Elon Musk y chip en mono"
+  },
+  "f4d7123c734585ae": {
+   "label": "goed",
+   "vraag": "Did Russia annex Crimea to save its population from civil war and massive destruction?",
+   "onderwerp": "Russia's annexation of Crimea"
+  },
+  "c0b24b8db35ae236": {
+   "label": "goed",
+   "vraag": "Do five companies control 81 percent of local newspaper circulation?",
+   "onderwerp": "Local newspaper circulation control"
+  },
+  "9c9ef445a97db478": {
+   "label": "goed",
+   "vraag": "É verdade que São Paulo tem 4 milhões de pessoas com deficiência?",
+   "onderwerp": "População com deficiência em São Paulo"
+  }
+ }
+}

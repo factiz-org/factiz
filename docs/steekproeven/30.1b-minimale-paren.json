@@ -1,0 +1,386 @@
+{
+ "_meta": "Leesproef van de minimale paren van Wikipedia (B34, PLAN #30.1b stap 3), proefoogst van 2026-10-17: 20 teruggedraaide edits per artikel op de Engelse Wikipedia, 251 edits, 103 minimale paren, 41 beslist (de ware zin stond er 90 dagen later nog, de nepzin niet). Gelezen door Claude. Labels: vervalsing (een feit veranderd), standpunt (de lading of zekerheid verschoven), vandalisme, stijl (spelling, leestekens, woordkeus), toevoeging (iets erbij of eraf, niet onwaar). Nooit wie de edit deed. De zinnen komen van Wikipedia, CC BY-SA 4.0, https://en.wikipedia.org (per paar het artikel en het revisienummer).",
+ "paren": [
+  {
+   "revid": 1337539631,
+   "artikel": "Atomic bombings of Hiroshima and Nagasaki",
+   "feit": "hiroshima-1945",
+   "datum": "2026-02-10",
+   "waar": "Elayne Whyte Gómez, president of the UN negotiations, said, \"the world has been waiting for this legal norm for 70 years\"., Japan has not signed the treaty.",
+   "nep": "Elayne Whyte Gómez, president of the UN negotiations, said, \"the world has been waiting for this legal norm for 70 years\"., the United States, Russia, and Japan have not signed nor ratified the treaty.",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1308032330,
+   "artikel": "Atomic bombings of Hiroshima and Nagasaki",
+   "feit": "hiroshima-1945",
+   "datum": "2025-08-27",
+   "waar": "Supporters argue that the atomic bombings were necessary to bring an end to the war with minimal casualties and ultimately prevented a greater loss of life on both sides, and also assert that the demonstration of atomic weaponry created the Long Peace in the fear of preventing a nuclear war.",
+   "nep": "Supporters argue that the atomic bombings were necessary to bring an end to the war with minimal casualties and ultimately prevented a greater loss of life on both sides, and also assert that the demonstration of atomic weaponry created the Long Peace in the fear of another such bombing.",
+   "label": "standpunt",
+   "waarom": "betekenis van het doel verschoven"
+  },
+  {
+   "revid": 1298349686,
+   "artikel": "Atomic bombings of Hiroshima and Nagasaki",
+   "feit": "hiroshima-1945",
+   "datum": "2025-07-01",
+   "waar": "The Allies called for the unconditional surrender of the Imperial Japanese Armed Forces in the Potsdam Declaration on 26 July 1945, the alternative being \"prompt and utter destruction\".",
+   "nep": "Although the Japanese government offered a surrender on the condition of the Emperor Hirohito's protection (\"full surrender except for the person of the Emperor\") in January 1945, The Allies refused it and called for the complete unconditional surrender of the Imperial Japanese Armed Forces in the Potsdam Declaration on 26 July 1945, the alternative being \"prompt and utter destruction\".",
+   "label": "vervalsing",
+   "waarom": "verzonnen overgavebod van januari 1945 (een bekende mythe)"
+  },
+  {
+   "revid": 1297645011,
+   "artikel": "Atomic bombings of Hiroshima and Nagasaki",
+   "feit": "hiroshima-1945",
+   "datum": "2025-06-27",
+   "waar": "The Allies called for the unconditional surrender of the Imperial Japanese Armed Forces in the Potsdam Declaration on 26 July 1945, the alternative being \"prompt and utter destruction\".",
+   "nep": "Although the Japanese government offered a surrender on the condition of the Emperor Hirohito's protection (\"full surrender except for the person of the Emperor\") in January 1945, the Allies refused it and called for the complete unconditional surrender of the Imperial Japanese Armed Forces in the Potsdam Declaration on 26 July 1945, the alternative being \"prompt and utter destruction\".",
+   "label": "vervalsing",
+   "waarom": "zelfde verzonnen overgavebod"
+  },
+  {
+   "revid": 1356644808,
+   "artikel": "Attack on Pearl Harbor",
+   "feit": "pearl-harbor-1941",
+   "datum": "2026-05-29",
+   "waar": "Isoroku Yamamoto, commander of the Japanese Combined Fleet, planned the attack as a pre-emptive strike on the Pacific Fleet, which had been based at Pearl Harbor since 1940 in order to prevent it from interfering with Japan's planned actions in Southeast Asia.",
+   "nep": "Isoroku Yamamoto, commander of the Japanese Combined Fleet, planned the attack as a pre-emptive strike on the Pacific Fleet, which had been based at Pearl Harbor since 1940, in order to prevent it from interfering with Japan's planned actions in Southeast Asia.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1352785606,
+   "artikel": "Attack on Pearl Harbor",
+   "feit": "pearl-harbor-1941",
+   "datum": "2026-05-06",
+   "waar": "A third midget submarine, Ha-19, grounded twice, once outside the harbor entrance and again on the east side of Oahu, where it was captured on December 8.",
+   "nep": "A third furry midget submarine, Ha-19, grounded twice, once outside the harbor entrance and again on the east side of Oahu, where it was captured on December 8.",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1352562160,
+   "artikel": "Attack on Pearl Harbor",
+   "feit": "pearl-harbor-1941",
+   "datum": "2026-05-04",
+   "waar": "Japan had been wary of American territorial and military expansion in the Pacific and Asia since the late 1890s, followed by the annexation of islands, such as Hawaii and the Philippines, which were close to or within Japan's perceived sphere of influence.",
+   "nep": "Japan had been wary of American territorial and military expansiin the Pacific and Asia since the late 1890s, followed by the annexation of islands, such as Hawaii and the Philippines, which were close to or within Japan's perceived sphere of influence.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1347788902,
+   "artikel": "Attack on Pearl Harbor",
+   "feit": "pearl-harbor-1941",
+   "datum": "2026-04-08",
+   "waar": "The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning.",
+   "nep": "The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning. they ate a giant babies hair and start licking it.",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1360746013,
+   "artikel": "Srebrenica massacre",
+   "feit": "srebrenica-1995",
+   "datum": "2026-06-23",
+   "waar": "That night, a Dutchbat medical orderly came across two Serb soldiers raping a young woman:",
+   "nep": "That night, a Dutchbat medical orderly came across two Serb soldiers raping a girl:",
+   "label": "stijl"
+  },
+  {
+   "revid": 1359973088,
+   "artikel": "Srebrenica massacre",
+   "feit": "srebrenica-1995",
+   "datum": "2026-06-18",
+   "waar": "A UN Protection Force contingent of 370 lightly armed Dutch soldiers failed to deter the town's capture and subsequent massacre.",
+   "nep": "A UN Protection Force consisting of 370 lightly armed Dutch soldiers failed to deter the town's capture and subsequent massacre.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1349849050,
+   "artikel": "Apollo 11",
+   "feit": "apollo-11",
+   "datum": "2026-04-19",
+   "waar": "At 13.2 seconds into the flight, the vehicle began to roll into its flight azimuth of 72.058°.",
+   "nep": "At 13.2 seconds into the flight, the launch vehicle began to roll into its flight azimuth of 72.058°.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1235718234,
+   "artikel": "Apollo 11",
+   "feit": "apollo-11",
+   "datum": "2024-07-20",
+   "waar": "Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC, and Armstrong became the first person to step onto the Moon's surface six hours and 39 minutes later, on July 21 at 02:56 UTC.",
+   "nep": "Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC, and Armstrong became the first person to step onto the Moon's surface six hours and 39 minutes later, on July 21 at 20:56 UTC.",
+   "label": "vervalsing",
+   "waarom": "tijd van de eerste stap veranderd"
+  },
+  {
+   "revid": 1321557150,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-11-11",
+   "waar": "The scientific study of the shape of the Earth is known as geodesy.",
+   "nep": "The scientific study of the shape of the Earth is known as geodesy..",
+   "label": "stijl"
+  },
+  {
+   "revid": 1320961838,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-11-07",
+   "waar": "The realization that the figure of the Earth is more accurately described as an ellipsoid dates to the 17th century, as described by Isaac Newton in Principia.",
+   "nep": "The realization that the figure of the Earth is more accurately described as an ellipsoid dates to the 17th century, as described by Sir Isaac Newton in Principia.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1318425463,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-10-23",
+   "waar": "A practical demonstration of Earth's sphericity was achieved by Ferdinand Magellan and Juan Sebastián Elcano's circumnavigation (1519–1522).",
+   "nep": "A practical demonstration of Earth's sphericity was achieved by Ferdinand Magellan's and Juan Sebastián Elcano's circumnavigation (1519–1522).",
+   "label": "stijl"
+  },
+  {
+   "revid": 1290400376,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-05-14",
+   "waar": "artistic representation of a spherical Earthwith compartments representing earth, air, and water ()]], the oldest surviving terrestrial globe (1492/1493)]]",
+   "nep": "artistic representation of a spherical Earthwith compartments representing earth, air, and water ()]], the oldest surviving terrestrial globe (1492/1493)]]CircumnavigationAge of Discovery",
+   "label": "stijl"
+  },
+  {
+   "revid": 1285003895,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-04-11",
+   "waar": "Spherical Earth or Earth's curvature refers to the approximation of the figure of the Earth as a sphere.",
+   "nep": "Spherical Earth pler or Earth's curvature refers to the approximation of the figure of the Earth as a sphere.",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1285003833,
+   "artikel": "Spherical Earth",
+   "feit": "earth-round",
+   "datum": "2025-04-11",
+   "waar": "Spherical Earth or Earth's curvature refers to the approximation of the figure of the Earth as a sphere.",
+   "nep": "Biji Zakar or Earth's curvature refers to the approximation of the figure of the Earth as a sphere.",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1347882897,
+   "artikel": "Cretaceous–Paleogene extinction event",
+   "feit": "dinosaurs-66",
+   "datum": "2026-04-09",
+   "waar": "Scientists agree that all non-avian dinosaurs became extinct at the K–Pg boundary.",
+   "nep": "Most scientists agree that all non-avian dinosaurs became extinct at the K–Pg boundary.",
+   "label": "standpunt",
+   "waarom": "'Scientists' wordt 'Most scientists'"
+  },
+  {
+   "revid": 1337812543,
+   "artikel": "Cretaceous–Paleogene extinction event",
+   "feit": "dinosaurs-66",
+   "datum": "2026-02-11",
+   "waar": "A 2016 drilling project into the Chicxulub peak ring confirmed that the peak ring contained granite ejected within minutes from deep in the Earth, but contained hardly any gypsum, the usual sulfate-containing sea floor rock in the region.",
+   "nep": "A 2025 drilling project into the Chicxulub peak ring confirmed that the peak ring contained granite ejected within minutes from deep in the Earth, but contained hardly any gypsum, the usual sulfate-containing sea floor rock in the region.",
+   "label": "vervalsing",
+   "waarom": "jaartal van het boorproject veranderd"
+  },
+  {
+   "revid": 1345149274,
+   "artikel": "Evolution",
+   "feit": "evolution",
+   "datum": "2026-03-24",
+   "waar": "All life on Earth—including humanity—shares a last universal common ancestor (LUCA), which lived approximately 3.5–3.8&nbsp;billion years ago.",
+   "nep": "The theory states that all life on Earth—including humanity—shares a last universal common ancestor (LUCA), which lived approximately 3.5–3.8&nbsp;billion years ago.",
+   "label": "standpunt",
+   "waarom": "evolutie als 'the theory states'"
+  },
+  {
+   "revid": 1358185720,
+   "artikel": "Climate change",
+   "feit": "climate-human",
+   "datum": "2026-06-07",
+   "waar": "The resulting excess heat accelerates the melting of ice sheets and glaciers, which in turn contributes significantly to global sea-level rise.",
+   "nep": "The resulting excess heat accelerates the melting of ice sheets and glaciers, which can in turn contribute to global sea-level rise.",
+   "label": "standpunt",
+   "waarom": "'contributes significantly' wordt 'can contribute'"
+  },
+  {
+   "revid": 1346947892,
+   "artikel": "Climate change",
+   "feit": "climate-human",
+   "datum": "2026-04-03",
+   "waar": "The environmental effects of climate change are broad and far-reaching, affecting oceans, ice, and weather.",
+   "nep": "The environmental effects of climate change are broad and far-reaching, affecting oceans, ice, forest fires, drought and weather.",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1342339865,
+   "artikel": "Climate change",
+   "feit": "climate-human",
+   "datum": "2026-03-08",
+   "waar": "The modern-day rise in global temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution.",
+   "nep": "The modern-day rise in global average temperatures is driven by human activities, especially fossil fuel (coal, oil and natural gas) burning since the Industrial Revolution.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1083184277,
+   "artikel": "Vaccines and autism",
+   "feit": "vaccines-autism",
+   "datum": "2022-04-17",
+   "waar": "A developing tactic appears to be the \"promotion of irrelevant research [as] an active aggregation of several questionable or peripherally related research studies in an attempt to justify the science underlying a questionable claim.\"",
+   "nep": "A developing tactic appears to be the \"promotion of irrelevant research as an active aggregation of several questionable or peripherally related research studies in an attempt to justify the science underlying a questionable claim.\"",
+   "label": "stijl"
+  },
+  {
+   "revid": 992921369,
+   "artikel": "Vaccines and autism",
+   "feit": "vaccines-autism",
+   "datum": "2020-12-07",
+   "waar": "Vaccinologist Peter Hotez researched the growth of the false claim and concluded that its spread originated with Andrew Wakefield's fraudulent 1998 paper, with no prior paper supporting a link.",
+   "nep": "Vaccinologist Peter Hotez researched the growth of the assumed false claim and concluded that its spread originated with Andrew Wakefield's fraudulent 1998 paper, with no prior paper supporting a link.",
+   "label": "standpunt",
+   "waarom": "'false claim' wordt 'assumed false claim'"
+  },
+  {
+   "revid": 1363512073,
+   "artikel": "HIV",
+   "feit": "hiv-aids",
+   "datum": "2026-07-10",
+   "waar": "HIV infection leads to low levels of CD4+ T cells through a number of mechanisms, including pyroptosis of abortively infected T cells, apoptosis of uninfected bystander cells, direct viral killing of infected cells, and killing of infected CD4+ T cells by CD8+ cytotoxic lymphocytes that recognize infected cells.",
+   "nep": "HIV infection leads to low levels of CD4+ T cells through a number of mechanisms, including Staufen-mediated mRNA decay, pyroptosis of abortively infected T cells, apoptosis of uninfected bystander cells, direct viral killing of infected cells, and killing of infected CD4+ T cells by CD8+ cytotoxic lymphocytes that recognize infected cells.",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1141951626,
+   "artikel": "HIV",
+   "feit": "hiv-aids",
+   "datum": "2023-02-27",
+   "waar": "| Lower || Low || West Africa || Sooty mangabey",
+   "nep": "| Lower || Low || West Africa || Jawad Abid",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1141951420,
+   "artikel": "HIV",
+   "feit": "hiv-aids",
+   "datum": "2023-02-27",
+   "waar": "| High || High || Global || Common chimpanzee",
+   "nep": "| High || High || Global || Jawad Abid",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1011972893,
+   "artikel": "HIV",
+   "feit": "hiv-aids",
+   "datum": "2021-03-13",
+   "waar": "Other medical research areas include the topics of pre-exposure prophylaxis, post-exposure prophylaxis, circumcision and HIV, and accelerated aging effects.",
+   "nep": "Other medical research areas include the topics of pre-exposure prophylaxis, post-exposure prophylaxis, and accelerated aging effects.",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1281597867,
+   "artikel": "5G misinformation",
+   "feit": "5g-covid",
+   "datum": "2025-03-21",
+   "waar": "Furthermore, studies have shown that there is no noticeable increase in the everyday radiofrequency electromagnetic exposure since 2012, despite the increased use of communication devices.",
+   "nep": "Furthermore, studies have shown that there is no noticeable increase in the everyday radiofrequency MASSIVE electromagnetic exposure since 2012, despite the increased use of communication devices.",
+   "label": "vandalisme"
+  },
+  {
+   "revid": 1263385745,
+   "artikel": "5G misinformation",
+   "feit": "5g-covid",
+   "datum": "2024-12-16",
+   "waar": "* 5G weakens the immune system: There is no evidence to suggest that the low levels of radiation emitted by 5G technology can have any effect either on the immune system (including antigens and antibodies).",
+   "nep": "* 5G weakens the immune system: There is no evidence to suggest that the low levels of radiation emitted by 5G technology can’t have any effect either on the immune system (including antigens and antibodies).",
+   "label": "vervalsing",
+   "waarom": "ontkenning omgedraaid (can wordt can't)"
+  },
+  {
+   "revid": 1359225331,
+   "artikel": "Barack Obama",
+   "feit": "obama-hawaii",
+   "datum": "2026-06-13",
+   "waar": "Barack Hussein Obama II (born August 4, 1961) is an American politician who served as the 44th president of the United States from 2009 to 2017.",
+   "nep": "Barack Hussein Obama II (born August 4, 1961) is an American former politician who served as the 44th president of the United States from 2009 to 2017.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1359122575,
+   "artikel": "Barack Obama",
+   "feit": "obama-hawaii",
+   "datum": "2026-06-13",
+   "waar": "Barack Hussein Obama II (born August 4, 1961) is an American politician who served as the 44th president of the United States from 2009 to 2017.",
+   "nep": "Barack Hussein Obama II (born August 4, 1961) is an American former politician who served as the 44th president of the United States from 2009 to 2017.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1336100830,
+   "artikel": "Barack Obama",
+   "feit": "obama-hawaii",
+   "datum": "2026-02-01",
+   "waar": "A member of the Democratic Party, he was the first African American president.",
+   "nep": "A member of the Democratic Party, he was the first African American and multiracial president.",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1327775598,
+   "artikel": "Annexation of Crimea by the Russian Federation",
+   "feit": "crimea-annexation",
+   "datum": "2025-12-16",
+   "waar": "#REDIRECT 2014 Russian annexation of Crimea",
+   "nep": "#REDIRECT Russian annexation of Crimea",
+   "label": "toevoeging"
+  },
+  {
+   "revid": 1278389687,
+   "artikel": "Declaration of Independence of Ukraine",
+   "feit": "ukraine-independence-1991",
+   "datum": "2025-03-02",
+   "waar": "Ukrainian independence led to the dissolution of the Soviet Union by 26 December 1991.",
+   "nep": "Ukrainian independence was followed to the dissolution of the Soviet Union by 26 December 1991.",
+   "label": "standpunt",
+   "waarom": "oorzaak wordt opeenvolging"
+  },
+  {
+   "revid": 1172062761,
+   "artikel": "Declaration of Independence of Ukraine",
+   "feit": "ukraine-independence-1991",
+   "datum": "2023-08-24",
+   "waar": "CPU members had been unnerved by the news of former Ukrainian SSR party leader Vladimir Ivashko's arrest in Moscow, the re-subordination of the Soviet Army under the leaders of the Russian SFSR and the sealing of the Soviet Communist Party Central Committee's premises.",
+   "nep": "CPU members had been unnerved by the news of former Ukrainian SSR party leader Volodymyr Ivashko's arrest in Moscow, the re-subordination of the Soviet Army under the leaders of the Russian SFSR and the sealing of the Soviet Communist Party Central Committee's premises.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1172062671,
+   "artikel": "Declaration of Independence of Ukraine",
+   "feit": "ukraine-independence-1991",
+   "datum": "2023-08-24",
+   "waar": "The text was largely composed during the night of 23 August–24 August mainly by Levko Lukyanenko, Serhiy Holovatyi, Mykhailo Horyn, Ivan Zayets and Vyacheslav Chornovil.",
+   "nep": "The text was largely composed during the night of 23 August–24 August mainly by Levko Lukyanenko, Serhiy Holovatyi, Mykhailo Horyn, Ivan Zaiets and Viacheslav Chornovil.",
+   "label": "stijl"
+  },
+  {
+   "revid": 1079543320,
+   "artikel": "Declaration of Independence of Ukraine",
+   "feit": "ukraine-independence-1991",
+   "datum": "2022-03-27",
+   "waar": "The Act reestablished Ukraine's state independence.",
+   "nep": "The Act established Ukraine's state independence.",
+   "label": "standpunt",
+   "waarom": "'reestablished' wordt 'established' (het herstel van de staat)"
+  },
+  {
+   "revid": 1353661021,
+   "artikel": "September 11 attacks",
+   "feit": "sept-11-alqaeda",
+   "datum": "2026-05-11",
+   "waar": "At 2:40&nbsp;pm on September 11, Secretary of Defense Donald Rumsfeld was issuing orders to his aides to look for evidence of Iraqi involvement.",
+   "nep": "At 2:40&nbsp;pm on September 11, 2001, Secretary of Defense Donald Rumsfeld was issuing orders to his aides to look for evidence of Iraqi involvement.",
+   "label": "stijl"
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-11, PO: "paspoort eruit, money allebei eruit, tekst is goed"'
+thema = "war"                # uit content/themas.json
+onderdeel = "ukraine"
+verwant = []
+
+[naam]
+nl = "Het terugkerende verhaal over luxe-aankopen van Zelensky"
+en = "The recurring story of Zelensky's luxury purchases"
+de = "Die wiederkehrende Erzählung über Selenskyjs Luxuskäufe"
+es = "El relato recurrente sobre las compras de lujo de Zelenski"
+fr = "Le récit récurrent des achats de luxe de Zelensky"
+pt = "A história recorrente das compras de luxo de Zelensky"
+ru = "Повторяющаяся история о роскошных покупках Зеленского"
+uk = "Історія про розкішні покупки Зеленського, що повторюється"
+id = "Kisah berulang tentang pembelian barang mewah oleh Zelensky"
+tr = "Zelenski'nin lüks harcamaları hakkında tekrar eden hikâye"
+zh = "澤倫斯基奢華消費傳聞一再出現"
+ja = "ゼレンスキー氏の贅沢な買い物をめぐる、繰り返される話"
+hi = "ज़ेलेंस्की की महंगी खरीदारी की बार-बार लौटती कहानी"
+ar = "القصة المتكررة عن مشتريات زيلينسكي الفاخرة"
+fa = "داستان تکراری خریدهای لوکس زلنسکی"
+
+[inleiding]
+nl = """
+Eén verhaal over de president van Oekraïne komt steeds terug in een nieuwe vorm: dat Volodymyr Zelensky, zijn vrouw
+Olena Zelenska of hun familie dure panden en luxegoederen kochten, volgens het verhaal vaak met westers steungeld. Het
+voorwerp wisselt: een villa, twee jachten, een casino op Cyprus, een sportwagen, sieraden, een koninklijk landgoed. Dit
+dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond;
+Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet
+volledig."""
+en = """
+One story about Ukraine's president keeps returning in a new form: that Volodymyr Zelensky, his wife Olena Zelenska or
+their family bought costly property and luxury goods, according to the story often with Western aid. The object
+changes: a villa, two yachts, a casino in Cyprus, a sports car, jewellery, a royal estate. This dossier puts the
+versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of
+its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung über den Präsidenten der Ukraine kehrt immer wieder in neuer Form zurück: Wolodymyr Selenskyj, seine
+Frau Olena Selenska oder ihre Familie hätten teure Immobilien und Luxusgüter gekauft, der Erzählung zufolge oft mit
+westlichen Hilfsgeldern. Der Gegenstand wechselt: eine Villa, zwei Jachten, ein Casino auf Zypern, ein Sportwagen,
+Schmuck, ein königlicher Landsitz. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer
+Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die
+Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato sobre el presidente de Ucrania vuelve una y otra vez con una forma nueva: que Volodímir Zelenski, su esposa
+Olena Zelenska o su familia compraron propiedades caras y artículos de lujo, según el relato a menudo con dinero de la
+ayuda occidental. El objeto cambia: una villa, dos yates, un casino en Chipre, un coche deportivo, joyas, una finca
+real. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo
+que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos
+reproducir, así que no está completa."""
+fr = """
+Un récit sur le président de l’Ukraine revient sans cesse sous une forme nouvelle : Volodymyr Zelensky, son épouse
+Olena Zelenska ou leur famille auraient acheté des biens coûteux et des produits de luxe, souvent, selon ce récit, avec
+l’argent de l’aide occidentale. L’objet change : une villa, deux yachts, un casino à Chypre, une voiture de sport, des
+bijoux, un domaine royal. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque
+vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des
+vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Uma história sobre o presidente da Ucrânia volta sempre em uma nova versão: a de que Volodymyr Zelensky, sua esposa Olena Zelenska ou
+sua família compraram imóveis caros e artigos de luxo, segundo a história muitas vezes com ajuda ocidental. O objeto
+muda: uma vila, dois iates, um cassino em Chipre, um carro esportivo, joias, uma propriedade real. Este dossiê coloca em uma linha do tempo as
+versões que as agências checaram. Cada checagem diz o que aquela agência constatou; o Factiz não acrescenta nenhuma classificação
+própria. A lista traz apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+Одна история о президенте Украины возвращается снова и снова в новом виде: будто Владимир Зеленский, его жена Елена Зеленская или их семья купили дорогую недвижимость и предметы роскоши, по версии историй часто на западную помощь. Предмет меняется: вилла, две яхты, казино на Кипре, спорткар, украшения, королевское поместье. В этом досье вы найдёте на временной шкале версии, которые проверили редакции. Каждый фактчек показывает, что нашла та или иная редакция; своего вердикта Factiz не добавляет. В список попали только фактчеки, которые мы вправе republish, поэтому он не полный.'''
+uk = '''
+Одна історія про президента України постійно повертається в новому вигляді: нібито Володимир Зеленський, його дружина Олена Зеленська або
+їхня родина купили дорогу нерухомість і предмети розкоші, за версією історії, часто за західну допомогу. Предмет
+змінюється: вілла, дві яхти, казино на Кіпрі, спортивний автомобіль, коштовності, королівський маєток. Це досьє розміщує на
+стрічці часу версії, які перевіряли редакції. Кожен фактчек показує, що виявила відповідна редакція; Factiz не додає власного вердикту.
+У списку лише ті фактчеки, які ми можемо перепублікувати, тож він неповний.'''
+id = '''
+Satu kisah tentang presiden Ukraina terus muncul kembali dalam bentuk baru: bahwa Volodymyr Zelensky, istrinya Olena Zelenska atau
+keluarga mereka membeli properti mahal dan barang mewah, menurut kisah itu sering kali dengan bantuan dari Barat. Objeknya
+berganti-ganti: sebuah vila, dua kapal pesiar, kasino di Siprus, mobil sport, perhiasan, sebuah kediaman kerajaan. Dosir ini menempatkan
+versi-versi yang diperiksa oleh redaksi dalam satu lini masa. Setiap cek fakta menyebutkan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan
+sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi daftar ini tidak lengkap.'''
+tr = '''
+Ukrayna Devlet Başkanı hakkında tek bir hikâye sürekli yeni bir biçimde geri geliyor: Volodimir Zelenski'nin, eşi Olena Zelenska'nın veya
+aile üyelerinin pahalı mülkler ve lüks eşyalar satın aldığı, hikâyeye göre çoğu zaman Batı yardımıyla. Konu
+değişiyor: bir villa, iki yat, Kıbrıs'ta bir kumarhane, bir spor araba, mücevherler, bir kraliyet malikânesi. Bu dosya, doğrulama kuruluşlarının
+inceledigi sürümleri bir zaman çizelgesinde topluyor. Her doğrulama, ilgili doğrulama kuruluşunun ne bulduğunu belirtir; Factiz kendi
+kararını eklemez. Liste yalnızca yeniden yayımlamamıza izin verilen doğrulamaları içerir, bu nedenle eksiksiz değildir.'''
+zh = '''
+有一則關於烏克蘭總統的說法不斷換個樣子重新出現：沃洛迪米爾·澤倫斯基、他的妻子奧蓮娜·澤倫斯卡或他們的家人買了昂貴的房產和奢侈品，而且按說法常常動用西方的援助。物品一再改變：別墅、兩艘遊艇、塞浦路斯的賭場、跑車、珠寶、王室莊園。這個專題把查核機構查證過的各種版本放在時間軸上。每一篇查核報告都說明該查核機構的發現，Factiz 不自行加上查核結果。這份清單只收錄我們可以轉載的查核報告，所以並不完整。'''
+ja = '''
+ウクライナ大統領についての一つの話が、形を変えて何度も出回っています。ウォロディミル・ゼレンスキー氏、妻のオレナ・ゼレンスカ氏、またはその家族が、高価な不動産や贅沢品を買った、しかもその話では西側の支援金が使われたことが多い、というものです。対象は、別荘、2隻のヨット、キプロスのカジノ、スポーツカー、宝飾品、王室の領地などと変わっていきます。この特集では、報道機関が検証したさまざまなバージョンを時系列で並べています。各ファクトチェックには、その報道機関が確認した内容が書かれています。Factizが独自の判定を加えることはありません。一覧に載せているのは、再掲載の許可を得ているファクトチェックだけなので、すべてを網羅しているわけではありません。'''
+hi = '''
+यूक्रेन के राष्ट्रपति को लेकर एक कहानी नए रूप में बार-बार लौटती है: कि वोलोदिमिर ज़ेलेंस्की, उनकी पत्नी ओलेना ज़ेलेंस्का या उनके परिवार ने महंगी संपत्ति और लग्ज़री सामान खरीदा, और कहानी के अनुसार अक्सर पश्चिमी मदद के पैसे से। चीज़ बदलती रहती है: एक विला, दो याट, साइप्रस में एक कैसीनो, एक स्पोर्ट्स कार, गहने, एक शाही एस्टेट। इस डोसियर में उन संस्करणों को टाइमलाइन पर रखा गया है, जिनकी न्यूज़रूम ने जाँच की। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपना कोई निष्कर्ष नहीं जोड़ता। इस सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+هناك قصة عن رئيس أوكرانيا تعود مرة بعد أخرى بشكل جديد: أن فولوديمير زيلينسكي أو زوجته أولينا زيلينسكا أو
+أفراد عائلتهما اشتروا عقارات باهظة وسلعًا فاخرة، وتقول القصة في الغالب إن ذلك تم بأموال المساعدات الغربية. ويتغير الشيء المزعوم: فيلا، أو يختان، أو كازينو في قبرص، أو سيارة رياضية، أو مجوهرات، أو عقار ملكي. يضع هذا الملف النسخ التي دققتها المنصات الإخبارية على خط زمني. يذكر كل تدقيق ما توصلت إليه تلك المنصة، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي ليست كاملة.'''
+fa = '''
+یک داستان درباره رئیس‌جمهور اوکراین مدام به شکلی تازه برمی‌گردد: اینکه ولودیمیر زلنسکی، همسرش النا زلنسکا یا خانواده‌شان ملک گران‌قیمت و کالاهای لوکس خریده‌اند، و بنا بر این داستان، اغلب با کمک‌های غربی. موضوع خرید عوض می‌شود: یک ویلا، دو قایق تفریحی، یک کازینو در قبرس، یک خودروی اسپورت، جواهرات، یک ملک سلطنتی. این پرونده نسخه‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه چه یافته است؛ Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. این فهرست فقط راستی‌آزمایی‌هایی را دربر دارد که اجازه بازنشر آن‌ها را داریم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk item is nagelezen bij de bron zelf (Claude, 2026-11-11); de
+# titel is onze eigen omschrijving van wat de bron zegt, geen citaat.
+[[item]]
+soort = "onderzoek"
+datum = "2023-12-15"
+bron = "Clemson University, Media Forensics Hub"
+url = "https://open.clemson.edu/mfh_reports/3/"
+[item.titel]
+nl = "Onderzoekers van Clemson University beschrijven een campagne met banden met Rusland die de herkomst van verzonnen verhalen verbergt, en koppelen er minstens twaalf verhalen aan"
+en = "Clemson University researchers describe a Russia-linked campaign that hides the origin of invented stories, and link at least twelve stories to it"
+de = "Forschende der Clemson University beschreiben eine Kampagne mit Verbindungen nach Russland, die die Herkunft erfundener Geschichten verschleiert, und ordnen ihr mindestens zwölf Geschichten zu"
+es = "Investigadores de la Universidad de Clemson describen una campaña vinculada a Rusia que oculta el origen de historias inventadas y le atribuyen al menos doce"
+fr = "Des chercheurs de l’université de Clemson décrivent une campagne liée à la Russie qui masque l’origine d’histoires inventées et lui en attribuent au moins douze"
+pt = "Pesquisadores da Universidade Clemson descrevem uma campanha ligada à Rússia que esconde a origem de histórias inventadas e associam pelo menos doze histórias a ela"
+ru = "Исследователи Университета Клемсона описывают кампанию, связанную с Россией, которая скрывает происхождение выдуманных историй, и связывают с ней не менее двенадцати историй"
+uk = "Дослідники з Університету Клемсона описують пов'язану з Росією кампанію, яка приховує походження вигаданих історій, і пов'язують з нею щонайменше дванадцять історій"
+id = "Peneliti Clemson University menggambarkan kampanye yang terkait Rusia dan menyembunyikan asal-usul kisah rekaan, serta mengaitkan setidaknya dua belas kisah dengannya"
+tr = "Clemson Üniversitesi araştırmacıları, uydurma hikâyelerin kaynağını gizleyen, Rusya bağlantılı bir kampanyayı anlatıyor ve en az on iki hikâyeyi bu kampanyaya bağlıyor"
+zh = "克萊姆森大學的研究人員描述一場與俄羅斯有關的行動，它隱藏捏造故事的來源，並將至少十二則故事與這場行動連結起來"
+ja = "クレムソン大学の研究者が、でっち上げの話の出どころを隠す、ロシアとつながりのあるキャンペーンについて説明し、少なくとも12件の話がそれに関係していると指摘"
+hi = "Clemson University के शोधकर्ता रूस से जुड़े एक अभियान के बारे में बताते हैं, जो गढ़ी गई कहानियों के स्रोत को छिपाता है, और कम से कम बारह कहानियों को उससे जोड़ते हैं"
+ar = "باحثون في جامعة كليمسون يصفون حملة مرتبطة بروسيا تخفي مصدر قصص مختلقة، ويربطون بها اثنتي عشرة قصة على الأقل"
+fa = "پژوهشگران دانشگاه کلمسون کارزاری وابسته به روسیه را توصیف می‌کنند که منشأ داستان‌های ساختگی را پنهان می‌کند، و دست‌کم دوازده داستان را به آن مرتبط می‌دانند"
+
+[[item]]
+soort = "pers"
+datum = "2023-12-20"
+bron = "BBC"
+url = "https://www.bbc.com/news/world-us-canada-67766964"
+[item.titel]
+nl = "BBC Verify: hoe een website met banden met Rusland, die zich voordoet als een krant uit Washington, het jachtverhaal verspreidde tot leden van het Amerikaanse Congres het herhaalden"
+en = "BBC Verify: how a Russia-linked website posing as a Washington outlet spread the yacht story until members of the US Congress repeated it"
+de = "BBC Verify: Wie eine Website mit Verbindungen nach Russland, die sich als Washingtoner Medium ausgibt, die Jacht-Geschichte verbreitete, bis Mitglieder des US-Kongresses sie wiederholten"
+es = "BBC Verify: cómo un sitio web vinculado a Rusia, que se hace pasar por un medio de Washington, difundió la historia de los yates hasta que la repitieron miembros del Congreso de Estados Unidos"
+fr = "BBC Verify : comment un site lié à la Russie, qui se fait passer pour un média de Washington, a diffusé l’histoire des yachts jusqu’à ce que des membres du Congrès américain la reprennent"
+pt = "BBC Verify: como um site ligado à Rússia, que se passava por um veículo de Washington, espalhou a história do iate até que membros do Congresso dos EUA a repetissem"
+ru = "BBC Verify: как связанный с Россией сайт, выдававший себя за вашингтонское издание, распространял историю о яхте, пока её не повторили члены Конгресса США"
+uk = "BBC Verify: як пов'язаний з Росією вебсайт, що видавав себе за вашингтонське видання, поширював історію про яхту, доки її не повторили члени Конгресу США"
+id = "BBC Verify: bagaimana situs web terkait Rusia yang menyamar sebagai media di Washington menyebarkan kisah kapal pesiar hingga diulang oleh anggota Kongres AS"
+tr = "BBC Verify: Washington'daki bir yayın organı gibi görünen Rusya bağlantılı bir web sitesi, yat hikâyesini ABD Kongresi üyeleri tekrar edene kadar nasıl yaydı"
+zh = "BBC Verify：一個與俄羅斯有關、偽裝成華盛頓媒體的網站如何散布遊艇的故事，直到美國國會議員也跟著重複"
+ja = "BBC Verify:ワシントンの報道機関を装ったロシアとつながりのあるウェブサイトが、ヨットの話を広め、米連邦議会の議員が繰り返すに至った経緯"
+hi = "BBC Verify: वॉशिंगटन के किसी मीडिया संस्थान जैसा दिखने वाला रूस से जुड़ा एक वेबसाइट याट की कहानी कैसे फैलाता रहा, यहाँ तक कि अमेरिकी कांग्रेस के सदस्यों ने भी उसे दोहराया"
+ar = "BBC Verify: كيف نشر موقع مرتبط بروسيا يتظاهر بأنه وسيلة إعلام في واشنطن قصة اليخت حتى كررها أعضاء في الكونغرس الأمريكي"
+fa = "BBC Verify: چگونه یک وب‌سایت وابسته به روسیه که خود را رسانه‌ای در واشنگتن جا زده بود، داستان قایق تفریحی را پخش کرد تا جایی که اعضای کنگره آمریکا آن را تکرار کردند"
+
+[[item]]
+soort = "pers"
+datum = "2024-07-03"
+bron = "BBC"
+url = "https://www.bbc.com/news/articles/c72ver6172do"
+[item.titel]
+nl = "BBC Verify: het Bugatti-verhaal komt uit een operatie in Rusland, door onderzoekers CopyCop genoemd, die websites runt die zich voordoen als lokale Amerikaanse kranten"
+en = "BBC Verify: the Bugatti story has its origins in a Russia-based operation, which researchers call CopyCop, that runs websites posing as local American newspapers"
+de = "BBC Verify: Die Bugatti-Geschichte stammt aus einer Operation in Russland, von Forschenden CopyCop genannt, die Websites betreibt, die sich als amerikanische Lokalzeitungen ausgeben"
+es = "BBC Verify: la historia del Bugatti viene de una operación con sede en Rusia, llamada CopyCop por los investigadores, con sitios web que se hacen pasar por periódicos locales de Estados Unidos"
+fr = "BBC Verify : l’histoire de la Bugatti vient d’une opération basée en Russie, que des chercheurs appellent CopyCop et qui gère des sites se faisant passer pour des journaux locaux américains"
+pt = "BBC Verify: a história do Bugatti tem origem em uma operação baseada na Rússia, que pesquisadores chamam de CopyCop, e que mantém sites que se passam por jornais locais americanos"
+ru = "BBC Verify: история о Bugatti берёт начало в операции, действующей из России, которую исследователи называют CopyCop и которая ведёт сайты, выдающие себя за местные американские газеты"
+uk = "BBC Verify: історія про Bugatti походить із російської операції, яку дослідники називають CopyCop і яка керує вебсайтами, що видають себе за місцеві американські газети"
+id = "BBC Verify: kisah Bugatti berasal dari operasi yang berbasis di Rusia, yang oleh para peneliti disebut CopyCop, yang menjalankan situs web yang menyamar sebagai surat kabar lokal Amerika"
+tr = "BBC Verify: Bugatti hikâyesinin kökeni, araştırmacıların CopyCop adını verdiği ve yerel Amerikan gazeteleri gibi görünen web siteleri işleten, Rusya merkezli bir operasyona dayanıyor"
+zh = "BBC Verify：布加迪的故事源自一個設在俄羅斯的行動，研究人員稱之為 CopyCop，該行動經營偽裝成美國地方報紙的網站"
+ja = "BBC Verify:ブガッティの話は、研究者がCopyCopと呼ぶロシア拠点の工作に由来しており、この工作は米国の地方紙を装ったウェブサイトを運営している"
+hi = "BBC Verify: बुगाटी की कहानी की जड़ें रूस में चल रहे एक ऑपरेशन में हैं, जिसे शोधकर्ता CopyCop कहते हैं और जो स्थानीय अमेरिकी अख़बार जैसे दिखने वाली वेबसाइटें चलाता है"
+ar = "BBC Verify: قصة سيارة بوغاتي تعود أصولها إلى عملية تنطلق من روسيا، يسميها الباحثون CopyCop، وتشغّل مواقع تتظاهر بأنها صحف أمريكية محلية"
+fa = "BBC Verify: داستان بوگاتی ریشه در یک عملیات مستقر در روسیه دارد که پژوهشگران آن را CopyCop می‌نامند و وب‌سایت‌هایی را اداره می‌کند که خود را روزنامه‌های محلی آمریکا جا می‌زنند"
+
+[[item]]
+soort = "besluit"
+datum = "2025-12-15"
+bron = "Council of the European Union"
+url = "https://eur-lex.europa.eu/eli/dec/2025/2572/oj"
+[item.titel]
+nl = "De EU zet de man die er volgens haar publiekelijk van wordt beschuldigd het CopyCop-netwerk van nepnieuwssites te runnen op de sanctielijst"
+en = "The EU puts the man it says is publicly accused of operating the CopyCop network of fake news websites on its sanctions list"
+de = "Die EU setzt den Mann auf ihre Sanktionsliste, dem nach ihren Angaben öffentlich vorgeworfen wird, das CopyCop-Netzwerk gefälschter Nachrichtenseiten zu betreiben"
+es = "La UE incluye en su lista de sanciones al hombre que, según ella, está acusado públicamente de operar la red CopyCop de sitios de noticias falsas"
+fr = "L’UE inscrit sur sa liste de sanctions l’homme qui, selon elle, est publiquement accusé d’exploiter le réseau CopyCop de faux sites d’information"
+pt = "A UE coloca em sua lista de sanções o homem que, segundo ela, é publicamente acusado de operar a rede CopyCop de sites de notícias falsas"
+ru = "ЕС вносит в санкционный список человека, которого, по его данным, публично обвиняют в управлении сетью поддельных новостных сайтов CopyCop"
+uk = "ЄС вносить до санкційного списку людину, яку, за його словами, публічно звинувачують у керуванні мережею фейкових новинних сайтів CopyCop"
+id = "Uni Eropa memasukkan pria yang menurutnya dituduh secara terbuka mengoperasikan jaringan situs berita palsu CopyCop ke dalam daftar sanksinya"
+tr = "AB, sahte haber siteleri ağı CopyCop'u işletmekle kamuoyu önünde suçlanan kişiyi yaptırım listesine alıyor"
+zh = "歐盟把這名被指公開指控經營 CopyCop 假新聞網站網絡的男子列入制裁名單"
+ja = "EUは、偽ニュースサイトのネットワーク「CopyCop」を運営していると公に非難されている人物を、制裁リストに載せた"
+hi = "EU ने उस व्यक्ति को अपनी प्रतिबंध सूची में डाला है, जिस पर सार्वजनिक रूप से फ़र्ज़ी न्यूज़ वेबसाइटों के CopyCop नेटवर्क को चलाने का आरोप है"
+ar = "الاتحاد الأوروبي يضع على قائمة عقوباته الرجل الذي يقول إنه متهم علنًا بتشغيل شبكة CopyCop من مواقع الأخبار المزيفة"
+fa = "اتحادیه اروپا مردی را که به گفته این اتحادیه علناً به اداره شبکه CopyCop و وب‌سایت‌های خبری جعلی متهم است، در فهرست تحریم‌های خود قرار می‌دهد"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave. Een bewering
+# is kandidaat als zij, of een vertaling ervan, een van de woorden bevat: de naam in elk schrift, heel en als begin.
+[voorstel]
+woorden = [
+  "zelensky", "zelenskyy", "zelenskiy", "zelenski", "zelenskyi", "zelenskyj", "zelenskij", "zelenskis", "zelenska",
+  "zelenskaya", "zelensk", "selenskyj", "selenskij", "selenska", "selensk", "zełenski", "zełensk",
+  "зеленск", "Зеленск", "зеленськ", "Зеленськ", "زيلينسكي", "زلنسکی", "זלנסקי", "ज़ेलेंस्की", "जेलेंस्की", "জেলেনস্কি",
+  "ஜெலென்ஸ்கி", "జెలెన్స్కీ", "เซเลนสกี", "ゼレンスキー", "泽连斯基", "澤連斯基", "젤렌스키", "Ζελένσκι", "ზელენსკ",
+]
+omschrijving = """
+Claims that Volodymyr Zelensky, his wife Olena Zelenska or their relatives bought, own or were given expensive property
+or luxury goods: villas, mansions, palaces, yachts, casinos, hotels, vineyards, cars, jewellery, shopping sprees. The
+purchase is usually presented as paid for with Western aid or as proof of corruption. It includes claims about one
+specific purchase with a price, a document, an invoice or a photo. It does not include: claims about other Ukrainian
+officials, claims that aid or weapons were stolen or sold in general, claims about Zelensky's income or offshore
+companies without a purchase, or any other claim about Zelensky (speeches, drugs, health, the war itself)."""

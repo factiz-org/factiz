@@ -1,0 +1,308 @@
+{
+ "toelichting": "PLAN #34.2ch: mijn lezing van de eerste 100 van de 200 die relevantie-v2 (Haiku) particulier noemde in de volle ronde over uitgave 2026-11-22b (zaad 2216). Een ontwikkelset: hier haalde v2 de poort niet. publiek = zou ten onrechte verdwijnen (een publiek persoon die het model niet kende, oplichting, een verhaal over een groep, corona, oorlog, een algemeen gezondheidsverhaal); twijfel = niet te zeggen. Herkomst: de beweringen komen uit de publicatiedatabase van Factiz (openbare factchecks met hun eigen licentie); de labels zijn van Claude.",
+ "versie": "relevantie-v2",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-22",
+ "labels": {
+  "c05703e87737b1a9": {
+   "label": "twijfel"
+  },
+  "66f080c21abb9315": {
+   "label": "particulier"
+  },
+  "3bcd97544eedbaba": {
+   "label": "publiek"
+  },
+  "82e89d96915ce10b": {
+   "label": "particulier"
+  },
+  "3b6d0b4116fdc199": {
+   "label": "particulier"
+  },
+  "a60ad9bba26e27e6": {
+   "label": "publiek"
+  },
+  "33e59368b97cd132": {
+   "label": "particulier"
+  },
+  "b4a9eb5699ffb69c": {
+   "label": "particulier"
+  },
+  "948b3912dbc677ab": {
+   "label": "particulier"
+  },
+  "b013e73545bc9890": {
+   "label": "twijfel"
+  },
+  "6f60828981af5e21": {
+   "label": "publiek"
+  },
+  "4f0804889b31f1d1": {
+   "label": "publiek"
+  },
+  "487403f80fcc2b94": {
+   "label": "particulier"
+  },
+  "b0ea08c35dd70565": {
+   "label": "publiek"
+  },
+  "6c3ace2505be4cda": {
+   "label": "publiek"
+  },
+  "db4c2a2a85a7c06e": {
+   "label": "twijfel"
+  },
+  "764aa9b8fe7b8421": {
+   "label": "publiek"
+  },
+  "2e67427285ab6f24": {
+   "label": "publiek"
+  },
+  "aeaf2092c0426b6e": {
+   "label": "particulier"
+  },
+  "ba8361761626a3fc": {
+   "label": "publiek"
+  },
+  "7afff125ce6b1a45": {
+   "label": "particulier"
+  },
+  "de963b5284c3c748": {
+   "label": "publiek"
+  },
+  "c8e0a3ba6ad9624f": {
+   "label": "twijfel"
+  },
+  "c62f7c5774ffde69": {
+   "label": "publiek"
+  },
+  "b81c1b84b97235fd": {
+   "label": "particulier"
+  },
+  "6c99b73ff2e8ca46": {
+   "label": "publiek"
+  },
+  "e5fe4f9f1e3a09a6": {
+   "label": "twijfel"
+  },
+  "29fb18bdc6c43bd8": {
+   "label": "particulier"
+  },
+  "f30999a385d4b0c3": {
+   "label": "particulier"
+  },
+  "93707b4d87ae7cf5": {
+   "label": "twijfel"
+  },
+  "84fc896a18c27a28": {
+   "label": "publiek"
+  },
+  "bb16519758c3fcaf": {
+   "label": "twijfel"
+  },
+  "2c371b469fff1f70": {
+   "label": "particulier"
+  },
+  "bc4520064ee78935": {
+   "label": "particulier"
+  },
+  "ac863aecddbf4d66": {
+   "label": "twijfel"
+  },
+  "bcb1ecef03402f97": {
+   "label": "twijfel"
+  },
+  "8f861bbfc6d36bc1": {
+   "label": "publiek"
+  },
+  "1ca284fe3b0a808c": {
+   "label": "twijfel"
+  },
+  "5647f00ec03e32c2": {
+   "label": "publiek"
+  },
+  "ef76578ab4583f2f": {
+   "label": "particulier"
+  },
+  "60832a9484280d41": {
+   "label": "particulier"
+  },
+  "d35bb1e6776ddf6d": {
+   "label": "particulier"
+  },
+  "ac177efe27880322": {
+   "label": "publiek"
+  },
+  "07c35f406cf4e042": {
+   "label": "particulier"
+  },
+  "8ca001ce40806bb9": {
+   "label": "publiek"
+  },
+  "c022b63e0f3ff7aa": {
+   "label": "particulier"
+  },
+  "13407865d2a8a98f": {
+   "label": "particulier"
+  },
+  "02022491e36f4bf0": {
+   "label": "particulier"
+  },
+  "6852c8d0834c4dcc": {
+   "label": "particulier"
+  },
+  "531631679647f5ac": {
+   "label": "particulier"
+  },
+  "b18df59c39d33f6e": {
+   "label": "twijfel"
+  },
+  "7a2450642ddb392f": {
+   "label": "publiek"
+  },
+  "95b72b7a3b8d973c": {
+   "label": "particulier"
+  },
+  "5333f403ab7068f8": {
+   "label": "publiek"
+  },
+  "0574b3237a6bb1de": {
+   "label": "publiek"
+  },
+  "ee56d9010b2b35ca": {
+   "label": "publiek"
+  },
+  "e90407425286aaed": {
+   "label": "particulier"
+  },
+  "bd70a97425c7d22f": {
+   "label": "twijfel"
+  },
+  "c4d53fdc9ea7f0f0": {
+   "label": "particulier"
+  },
+  "c2916f9be67065d5": {
+   "label": "publiek"
+  },
+  "f5861392febaa78f": {
+   "label": "particulier"
+  },
+  "de1a4533df73e4af": {
+   "label": "particulier"
+  },
+  "bba08b03062291fe": {
+   "label": "twijfel"
+  },
+  "4bcf793a857e082e": {
+   "label": "publiek"
+  },
+  "f9377ddb45794ce3": {
+   "label": "publiek"
+  },
+  "d0cdbfd660c16090": {
+   "label": "twijfel"
+  },
+  "b188ebbc9d9ab5dd": {
+   "label": "publiek"
+  },
+  "274f14ecc1bb6445": {
+   "label": "publiek"
+  },
+  "67c3be24ae633054": {
+   "label": "publiek"
+  },
+  "0142a1be2d025ef9": {
+   "label": "publiek"
+  },
+  "56cdaa17f31530e2": {
+   "label": "publiek"
+  },
+  "e9883c8302affbd0": {
+   "label": "publiek"
+  },
+  "34ebe7da9b5f23ba": {
+   "label": "publiek"
+  },
+  "b17d3e625b2eaaa3": {
+   "label": "twijfel"
+  },
+  "eaa5f074df8254b0": {
+   "label": "particulier"
+  },
+  "c38f875ba13643e4": {
+   "label": "twijfel"
+  },
+  "a1efdc1da99f35af": {
+   "label": "publiek"
+  },
+  "6aa17afdc536b32d": {
+   "label": "publiek"
+  },
+  "556cade831e91fba": {
+   "label": "particulier"
+  },
+  "e845255d4274ac53": {
+   "label": "particulier"
+  },
+  "453e769168db7f01": {
+   "label": "particulier"
+  },
+  "b691ac377d14b394": {
+   "label": "particulier"
+  },
+  "4d2eead6103e2721": {
+   "label": "particulier"
+  },
+  "9b12b3a706f54e9b": {
+   "label": "publiek"
+  },
+  "96f193f2fac6ae62": {
+   "label": "twijfel"
+  },
+  "e71ec6c14237dc83": {
+   "label": "publiek"
+  },
+  "d3bf440ee877b381": {
+   "label": "twijfel"
+  },
+  "d5d5bc430775e690": {
+   "label": "particulier"
+  },
+  "63229cb10e526d5d": {
+   "label": "particulier"
+  },
+  "cd75f856174d476b": {
+   "label": "particulier"
+  },
+  "0525e12104a2fef1": {
+   "label": "particulier"
+  },
+  "0eea85c62eea800b": {
+   "label": "publiek"
+  },
+  "ec3c7cde238ebf3a": {
+   "label": "twijfel"
+  },
+  "b20688116d0beb25": {
+   "label": "particulier"
+  },
+  "f7b53325d5335d53": {
+   "label": "twijfel"
+  },
+  "88d6d0577692f49d": {
+   "label": "particulier"
+  },
+  "c239929023733dbe": {
+   "label": "publiek"
+  },
+  "10bc617ff1f65613": {
+   "label": "publiek"
+  },
+  "f555d42a47e51919": {
+   "label": "particulier"
+  },
+  "72b2e2796098c555": {
+   "label": "particulier"
+  }
+ }
+}

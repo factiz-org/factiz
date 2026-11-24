@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>org.factiz.verversen</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-c</string>
+    <string>cd "/path/to/factiz" &amp;&amp; mkdir -p data/verversen &amp;&amp; .venv/bin/python -m doublecheck.verversen --melding &gt;&gt; data/verversen/launchd.log 2&gt;&amp;1</string>
+  </array>
+  <!-- Elke dag om 7:30 (PLAN #35.2; PO 2026-11-17: "Ok, nee dan is wekelijkse verversen prima"): na de taak van 4:17 die de
+       feed ophaalt en het lab bijwerkt. Zonder nieuwe stand van de feed doet het niets; met een nieuwe stand bouwt het een
+       uitgave en zet het die klaar, met een melding op de Mac. Live gaat ze alleen met een ja van de PO. Een stap die
+       misging of een batch die nog loopt, gaat de volgende dag verder. Aanzetten:
+       sed "s|/path/to/factiz|$PWD|" deploy/org.factiz.verversen.plist > ~/Library/LaunchAgents/org.factiz.verversen.plist && launchctl load ~/Library/LaunchAgents/org.factiz.verversen.plist -->
+  <!-- launchd begint met een kale PATH: het geheugen van de Worker (`uitrol voorbereiden`) heeft node nodig -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>7</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>10</integer>
+</dict>
+</plist>

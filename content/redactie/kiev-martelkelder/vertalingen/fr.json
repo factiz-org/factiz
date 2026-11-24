@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck kiev-martelkelder van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "b2134af515c3348f",
+ "veldafdrukken": {
+  "kop": "5a70debfa3b45c55",
+  "oordeel_zin": "c8f3bc32c55fe083",
+  "bewering": "6d30fd023112be5c",
+  "kort": "f3a50c150a2eee9c",
+  "tekst": "683d12caa198e9d5",
+  "niet_weten": "18bfdb54b10715d9",
+  "bereik": "251ea57543ab84f6",
+  "nog_uitzoeken": "20ce8325de6da464",
+  "tijdlijn": "c62d76ca1375694b",
+  "beeld_bijschrift": "c65cb4a326e3c662",
+  "beeld_alt": "26da6a5b30f32430"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La vidéo de Kyiv ne montre pas un garçon libéré d'une cave de torture",
+  "oordeel_zin": "Les images sont authentiques, mais le garçon est tombé d'un mur du site de la Garde nationale lors d'une manifestation; aucune cave de torture n'y a été trouvée [1] [2] [3].",
+  "bewering": "Retenez le visage de ce garçon de 14 ans sorti d'une chambre de torture d'Azov près de Kiev.",
+  "kort": "Depuis le soir du 2 novembre, une vidéo et une photo circulent en néerlandais, montrant un garçon enveloppé dans une couverture grise qui aurait été libéré d'une cave de torture ukrainienne près de Kyiv [13]. Les images sont authentiques et proviennent d'une manifestation devant une maison de la Garde nationale à Petropavlivska Borshchahivka, en périphérie de Kyiv [2] [3]. Le garçon de 14 ans a escaladé le mur pendant cette manifestation et est tombé sur le site; il n'y était pas retenu [1] [3].",
+  "tekst": "Une unité de la Garde nationale utilisait la maison comme hébergement provisoire pour des hommes mobilisés qui attendaient leur formation [2] [4]. Le 2 novembre, le bruit a couru en ligne que des hommes armés y retenaient et torturaient une quarantaine de personnes dans une cave. La police a jugé cette information fausse le jour même [5]. Une foule s'est tout de même rassemblée et, le soir, des œufs, des bouteilles et des pierres ont été lancés contre la police et la Garde nationale [3].\n\nUn reporter du Kyiv Independent a vu le garçon grimper dans un arbre et sur le mur, insulter les soldats, lancer des pierres, puis tomber du mur sur le site [3]. Selon le Service d'État ukrainien pour les enfants, il habite dans le quartier, est venu à la manifestation après l'école et est tombé au moment où des personnes se sont mises à secouer la clôture [1]. À l'intérieur, il a été enveloppé dans une couverture. Sa sœur est venue le chercher le soir même, et il a été admis à l'hôpital pour enfants de Kyiv, sans que sa vie soit en danger [1]. C'est ce départ que montre la vidéo: un garçon dans une couverture, emmené par la foule.\n\nAucune cave de torture n'a été trouvée. Un vétéran qui est entré dans la maison ce soir-là a déclaré au média d'investigation Slidstvo.Info qu'il n'y avait vu aucun lieu de torture [2]. La rumeur est venue d'une femme en uniforme d'ambulancière, qui disait avoir un service d'ambulances. Ce service n'existe plus depuis 2023 [2] [4]. La police l'a arrêtée le 3 novembre et parle d'une provocation planifiée [6].\n\nEn néerlandais, la vidéo figurait sur X dès le 2 novembre à 22:25, avec l'affirmation que le garçon avait été torturé avec une pelle [13]. Un jour plus tard, l'ambassade de Russie aux Pays-Bas a partagé les mêmes images en anglais [12]. VRT NWS a qualifié l'affirmation de fausse le 5 novembre, AFP Factcheck Nederland a suivi le 12 novembre [10] [11].",
+  "niet_weten": "On ne sait pas encore si de la violence a été employée dans la maison. Dans une vidéo qu'il a lui-même tournée, le garçon dit avoir été frappé à l'intérieur; le ministre de l'Intérieur le dément [1] [9]. Des militaires qui y séjournaient se sont plaints de coups auprès du médiateur militaire, et le Bureau d'État d'enquête examine l'affaire [7] [8]. Cela ne change rien à ce que montre la vidéo: un garçon tombé à l'intérieur pendant la manifestation, et non un prisonnier libéré. Il n'est pas non plus établi que la Russie ait orchestré la manifestation; des réseaux russes ont en revanche amplifié l'histoire par la suite [14].",
+  "bereik": "plus de 1 200 partages sur Facebook en néerlandais, selon l'AFP",
+  "nog_uitzoeken": [
+   "Ce que donnera l'enquête du Bureau national d'enquête. En cas de nouvelles informations, nous complétons cette vérification, avec la date.",
+   "Si la phrase « Souvenez-vous du visage de cet adolescent de 14 ans » a déjà circulé auparavant dans une autre langue."
+  ],
+  "tijdlijn": [
+   "La police juge fausses les informations sur une séquestration et un mort [5].",
+   "Le soir: le garçon grimpe sur le mur, tombe sur le site et est emmené dehors dans une couverture [3].",
+   "La vidéo apparaît en néerlandais sur X, avec l'affirmation d'une chambre de torture [13].",
+   "L'ambassade de Russie aux Pays-Bas partage les images [12].",
+   "Le Service d'État pour les enfants: le garçon est tombé de la clôture et se trouve à l'hôpital [1].",
+   "VRT NWS: faux, première vérification en néerlandais [10].",
+   "AFP Factcheck Nederland publie sa vérification [11].",
+   "Des militaires se plaignent auprès du médiateur de coups sur le site [8]."
+  ],
+  "beeld_bijschrift": [
+   "Image de la vidéo sur X, 2 novembre 2026. Le garçon a 14 ans; les visages au centre sont floutés.",
+   "Les images de l'agence UNIAN montrant le départ du garçon, sur LIGA.net, 2 novembre 2026."
+  ],
+  "beeld_alt": [
+   "Image fixe de la vidéo: dans l'obscurité, une foule munie de téléphones autour d'un militaire en tenue de camouflage; les visages au centre sont floutés. Tampon: FAUX.",
+   "L'article de LIGA.net avec la vidéo d'UNIAN."
+  ]
+ }
+}

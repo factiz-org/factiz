@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck ashura-manchester van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "4e9bb52ec84eb34c",
+ "veldafdrukken": {
+  "kop": "b757018192faa184",
+  "oordeel_zin": "fb18c44ea6e0fa0f",
+  "bewering": "69a4eab734457163",
+  "kort": "6ff70d14cacfac95",
+  "tekst": "40640fb96f33a174",
+  "niet_weten": "eb65e1b45a5c04ce",
+  "bereik": "4e2b997aac427916",
+  "nog_uitzoeken": "333c7a0263a26b44",
+  "tijdlijn": "aa68f4d2becd3c2c",
+  "beeld_bijschrift": "3e3aee52d7a5df4d",
+  "beeld_alt": "28462c8f6f8eeaec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Dieses Video aus Manchester zeigt die jährliche schiitische Trauerprozession vom 21. Juni 2026",
+  "oordeel_zin": "Das Video ist echt, zeigt aber die Muharram-Prozession auf der Wilmslow Road vom 21. Juni 2026, fünf Monate später verbreitet mit einem Slogan, den keine Quelle belegt [3] [4] [7].",
+  "bewering": "Horden muslimischer Männer, die „wir sind die Soldaten Allahs auf den Straßen Großbritanniens ….. Warum kommt das nie in die Nachrichten ??",
+  "kort": "Beiträge auf X zeigen eine Menge schwarz gekleideter Männer auf einer Straße in Manchester und behaupten, sie skandierten „wir sind die Soldaten Allahs“ [1] [2]. Das Video zeigt die jährliche Muharram-Prozession des Jaffaria Islamic Centre, eine schiitische Trauerprozession auf der Wilmslow Road in Rusholme am Sonntag, dem 21. Juni 2026, fünf Monate vor den Beiträgen [3] [4]. Die Sprechchöre darin sind nicht auf Englisch, und keine Quelle, die wir gefunden haben, belegt den Slogan [1] [4] [7].",
+  "tekst": "Am 15. November 2026 veröffentlichte ein Konto auf X das Video mit dem Text, Horden muslimischer Männer skandierten auf den Straßen Großbritanniens „wir sind die Soldaten Allahs“, und fragte, warum das nie in die Nachrichten komme [1]. Das Video stammt aus einem spanischsprachigen Beitrag von Javier Negre vom Abend zuvor, in dem es heißt, die Männer zögen durch einen Vorort von Manchester, um die Scharia zu fordern [2].\n\nLadenschilder im Video, etwa Sanam und das Delhi Sweet Centre, gehören zu Geschäften in der Wilmslow Road 141 bis 151 und 137 in Rusholme [5] [6]. Die Teilnehmenden tragen Schwarz, viele Männer schlagen sich auf die Brust, und die Menge trägt grüne und schwarze Fahnen und eine hohe Standarte [1]. So trauern schiitische Muslime im Monat Muharram um Imam Hussain, der bei Kerbela getötet wurde; das Schlagen auf die Brust heißt Matam [4] [7].\n\nDas Jaffaria Islamic Centre, das sich als älteste schiitische Imambargah, ein Haus für religiöse Versammlungen, in Manchester bezeichnet, kündigte seine Prozession für Sonntag, den 21. Juni 2026, an, vom Platt Fields Park zum Zentrum in der Moss Lane East [3] [10]. Ein TikTok-Video vom 22. Juni zeigt dieselbe Menge vor denselben Geschäften wie der Anfang des Videos auf X, und seine Beschreibung spricht von der jährlichen Muharram-Prozession 2026 [1] [4].\n\nDie Sprechchöre im Video sind nicht auf Englisch [1]. Das Plakat des Zentrums und die TikTok-Beschreibung nennen eine Trauerprozession, und keines von beiden erwähnt diesen Slogan oder eine Forderung nach der Scharia [3] [4]. Das tut auch ein Bericht über die Prozession auf derselben Straße im Jahr 2018 nicht, in dem die pakistanische Tageszeitung The News schrieb, Tausende schiitische Muslime hätten die Wilmslow Road zum Stillstand gebracht [7].",
+  "niet_weten": "Wir wissen nicht, wer das Video gefilmt hat, und auch nicht, ob jeder Clip darin vom 21. Juni stammt: Es wechselt zwischen mindestens drei Kamerapositionen, und wir haben nur den Anfang mit einem datierten Beitrag verglichen [1] [4].",
+  "bereik": "134 Likes und 51 Antworten am 22. November; der spanische Beitrag mit demselben Video hatte 65.500 Likes",
+  "nog_uitzoeken": [
+   "Wo und wann jeder Clip des 1:54 langen Videos gefilmt wurde; es wechselt zwischen mindestens drei Kamerapositionen.",
+   "Wer das Video zuerst mit dem Slogan online gestellt hat und ob ein englischer Beitrag vor dem spanischen vom 14. November erschien.",
+   "Ob der Stadtrat von Manchester oder die Polizei von Greater Manchester die Wilmslow Road für die Prozession am 21. Juni 2026 gesperrt hat.",
+   "Wir haben Irreführend gegen Falsch abgewogen. Das Video und die Straße sind echt, die Sprechchöre sind nicht auf Englisch, und der Slogan und die Forderung nach der Scharia stehen in keiner Quelle. Wenn Sie wissen, was in diesem Video skandiert wird, sagen Sie es uns bitte."
+  ],
+  "tijdlijn": [
+   "Die Muharram-Prozession des Jaffaria Islamic Centre bricht vom Platt Fields Park auf [3].",
+   "Ein TikTok-Video zeigt dieselbe Menge auf der Wilmslow Road als Manchester Muharram Jaloos [4].",
+   "Maldita findet die Worte Soldaten Allahs, die die Scharia fordern, bei einem Video aus Dearborn, Michigan [9].",
+   "Javier Negre veröffentlicht das Manchester-Video als Marsch von Soldaten Allahs, die die Scharia fordern [2].",
+   "Der Beitrag auf Englisch mit dem Sprechchor [1].",
+   "AFP: eine religiöse Prozession, fälschlich als Protest dargestellt [8]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 15. November 2026, 10:26 UTC."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag auf X mit einem Standbild aus dem Video: eine schwarz gekleidete Menge auf der Wilmslow Road in Manchester, geteilt als muslimische Männer, die „Soldaten Allahs“ skandieren. Stempel: IRREFÜHREND."
+  ]
+ }
+}

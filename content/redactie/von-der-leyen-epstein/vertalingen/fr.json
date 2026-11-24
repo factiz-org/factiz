@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "L'image d'Ursula von der Leyen avec Jeffrey Epstein a été créée avec l'IA",
+  "oordeel_zin": "L'image porte un filigrane d'IA, figurait déjà en juillet sur Facebook avec un label d'IA, et les numéros qui y apparaissent ne figurent pas dans les dossiers Epstein [1] [2] [11].",
+  "bewering": "Cette photo issue des dossiers Epstein montre Ursula von der Leyen avec Jeffrey Epstein.",
+  "kort": "Depuis le 7 octobre, une image d'Ursula von der Leyen avec Jeffrey Epstein circule en néerlandais sur X, avec un numéro de dossier et un numéro de document [10]. L'image a été créée avec l'IA : elle est sur Facebook depuis le 12 juillet avec un label de contenu d'IA, et des rédactions y ont trouvé un filigrane invisible d'IA [11] [1] [2]. Les numéros figurant sur l'image n'apparaissent pas dans les dossiers Epstein publiés par le ministère américain de la Justice [1] [3] [6].",
+  "tekst": "Le mercredi 7 octobre 2026 à 23 h 21, une publication en néerlandais est apparue sur X avec une image d'Ursula von der Leyen, la présidente de la Commission européenne, à côté de Jeffrey Epstein [10]. L'image comporte un numéro de dossier et un numéro de document, censés suggérer qu'elle provient des dossiers Epstein [1] [4].\n\nL'image est plus ancienne que la publication. L'exemplaire le plus ancien trouvé par les rédactions est sur Facebook depuis le 12 juillet 2026, sur le compte d'un particulier, avec le label que Meta appose sur les contenus créés avec l'IA [11] [1]. Un jour plus tard, elle figurait sur le site francophone du réseau Pravda [1]. Il s'agit d'un réseau de sites prorusses qui se font passer pour un média d'information [9]. Ensuite, l'image a circulé notamment en italien, espagnol, allemand, anglais, géorgien et russe [1] [2] [4] [5].\n\nLe média italien Open et le média espagnol Maldita.es ont trouvé SynthID dans l'image [1] [2]. Il s'agit d'un filigrane invisible que Google intègre aux images créées ou modifiées avec son IA [8]. Lead Stories et TheJournal.ie ont eux aussi fait état d'un filigrane d'IA [3] [4]. Open n'a trouvé, ni dans les archives de presse ni dans les documents publiés, aucune vraie photo des deux personnes ensemble [1].\n\nPassons aux numéros. Le ministère américain de la Justice met en ligne les pièces de l'enquête sur Epstein dans l'Epstein Library [6]. En janvier 2026, environ 3 millions de pages y ont été ajoutées, après des publications antérieures [7]. Selon Open, Lead Stories et Myth Detector, les numéros figurant sur l'image n'apparaissent pas dans ces pièces, et le ministère utilise une numérotation tout à fait différente [1] [3] [5].\n\nLa publication en néerlandais est arrivée près de trois mois après la première vérification que nous ayons trouvée, celle d'Open du 15 juillet, et cinq semaines après celle de Lead Stories [1] [3] [10]. Nous n'avons trouvé aucune vérification en néerlandais.",
+  "niet_weten": "Nous ne savons pas qui a créé l'image. Lead Stories et TheJournal.ie écrivent qu'un programme d'OpenAI a trouvé le filigrane SynthID [3] [4]. SynthID appartient à Google [8] ; pourquoi un programme d'OpenAI le signale, nous ne le savons pas. Cela ne change pas le verdict : Open et Maldita.es ont trouvé le filigrane avec les programmes de Google [1] [2].",
+  "nog_uitzoeken": [
+   "Quelle version de l'image la publication montrait, en noir et blanc ou en couleur, et quel texte l'accompagnait. La publication a été supprimée."
+  ],
+  "tijdlijn": [
+   "Le ministère de la Justice met en ligne environ 3 millions de pages sur Epstein [7].",
+   "L'image sur Facebook, avec le label de Meta pour les contenus d'IA [11] [1].",
+   "L'image sur le site francophone du réseau Pravda [1].",
+   "Open : l'image a été créée avec l'IA [1].",
+   "Maldita.es : faux, avec le filigrane de Google [2].",
+   "Lead Stories : créée avec l'IA, numéros absents des dossiers [3].",
+   "TheJournal.ie : créée avec l'IA, partagée plus de mille fois sur Facebook [4].",
+   "La publication en néerlandais sur X [10].",
+   "Myth Detector : l'image circule en géorgien et en russe [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

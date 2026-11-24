@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck raket-aan-de-hemel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "f0dc5c3c37f10290",
+ "veldafdrukken": {
+  "kop": "e472c0bc0e652295",
+  "oordeel_zin": "add289929f850198",
+  "bewering": "c52467bbdbf845f4",
+  "kort": "ec49a38ce9994561",
+  "tekst": "c39b02cf16e1cae5",
+  "niet_weten": "d031a8bb874202fa",
+  "bereik": "47463feb0183ae49",
+  "nog_uitzoeken": "940fee2f8396b103",
+  "tijdlijn": "f82e809c7fc705d1",
+  "beeld_bijschrift": "5369ac37be876914",
+  "beeld_alt": "470aeeef36da5d46"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Video TikTok dari Miami pada 2023 tidak menunjukkan serangan Houthi di Arab Saudi",
+  "oordeel_zin": "Video itu diunggah di TikTok pada 29 Juli 2023 dengan lokasi Miami, Florida, dan kemungkinan menunjukkan peluncuran roket, bukan serangan Houthi di Arab Saudi [3] [4].",
+  "bewering": "BREAKING: Rekaman wisatawan dari dalam Arab Saudi dilaporkan menangkap dampak serangan Houthi.Adegan dramatis saat situasi terus berkembang.",
+  "kort": "Sejak 14 November, unggahan di X membagikan video malam hari berisi cahaya terang yang naik di balik awan, salah satunya sebagai rekaman turis tentang serangan Houthi di Arab Saudi [1] [2]. Video itu diunggah di TikTok pada 29 Juli 2023 sebagai UFO, dengan lokasi Miami, Florida [3]. Video itu kemungkinan menunjukkan peluncuran roket dari Space Coast di Florida, tempat sebuah Falcon Heavy lepas landas malam sebelumnya [4].",
+  "tekst": "Pada Sabtu, 14 November 2026, sebuah akun Turki di X mengunggah video berdurasi 2 menit 41 detik dan menyebut rekaman itu nyata serta disiarkan langsung di TikTok [2]. Pada 23 November video itu telah ditonton 3,6 juta kali [2]. Enam jam setelah unggahan tersebut, akun lain membagikan berkas video yang sama sebagai rekaman turis dari dalam Arab Saudi tentang dampak serangan Houthi [1] [2].\n\nKlip itu masih memuat logo TikTok dan nama sebuah akun TikTok [1]. Di akun tersebut, video itu diunggah pada 29 Juli 2023 pukul 12.58 siang waktu Miami, dengan lokasi Miami dan keterangan \"UFO Spotted in Miami Florida\" [3]. Internet Archive menyimpan halaman itu pada 7 Februari 2024 [3].\n\nVideo itu memperlihatkan cahaya yang naik di balik awan di atas tempat parkir dengan pohon palem [1]. Cahaya itu berubah menjadi titik oranye dan memudar setelah sekitar dua setengah menit [1]. Hal itu sesuai dengan peluncuran malam hari dari Space Coast di Florida yang dilihat dari kejauhan [1] [4].\n\nPada pukul 23.04 tanggal 28 Juli 2023, malam sebelum video diunggah, sebuah Falcon Heavy lepas landas dari Kennedy Space Center [4]. Dua puluh tiga jam sebelumnya, sebuah Falcon 9 meluncurkan 22 satelit Starlink dari Cape Canaveral [5]. Pada 2023 video itu adalah UFO, kini menjadi serangan [1] [3].\n\nBulan ini peluncuran lain juga beredar sebagai hal yang berbeda [6] [8]. Pada 13 November, Starship Flight 15 mencapai orbit dari Texas dan melepaskan 26 satelit Starlink [6]. Sebuah gambar dari Mineral de la Reforma di Meksiko yang menampilkan cahaya terang dengan deretan titik beredar sebagai UFO [8]. Badan perlindungan sipil negara bagian Chiapas menyatakan bahwa cahaya yang terlihat sore itu di atas pesisirnya adalah Starship, dengan peta yang menempatkan lintasan di atas Meksiko antara pukul 18.21 dan 18.28 waktu tengah [7].",
+  "niet_weten": "Kami tidak tahu peluncuran mana yang ditunjukkan video itu, atau di mana tepatnya video itu direkam: lokasi di TikTok adalah sebuah alamat di Miami. Kami tidak tahu apakah gambar dari Mineral de la Reforma diambil saat Starship melintas.",
+  "bereik": "617.400 tayangan, 971 suka, dan 133 balasan pada 23 November; video yang sama di akun Turki, diunggah enam jam sebelumnya, memiliki 3,6 juta tayangan dan 29.433 suka",
+  "nog_uitzoeken": [
+   "Peluncuran mana yang ditunjukkan video itu: Falcon Heavy pada 28 Juli 2023, Falcon 9 pada malam sebelumnya, atau peluncuran malam hari lainnya.",
+   "Di mana tepatnya video itu direkam; lokasi di TikTok adalah sebuah alamat di Miami.",
+   "Apakah gambar dari Mineral de la Reforma diambil saat Starship melintas di atas Meksiko pada 13 November, dan siapa yang mengambilnya.",
+   "Jika Anda tahu lebih banyak tentang video atau gambar ini, beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Sebuah Falcon 9 lepas landas dari Cape Canaveral pukul 00.01 dengan 22 satelit Starlink [5].",
+   "Sebuah Falcon Heavy lepas landas dari Kennedy Space Center pukul 23.04 [4].",
+   "Video itu diunggah di TikTok pukul 12.58, dengan lokasi Miami [3].",
+   "Internet Archive menyimpan halaman TikTok tersebut [3].",
+   "Starship Flight 15 lepas landas dari Texas pukul 17.47 waktu Timur dan mencapai orbit [6].",
+   "Badan perlindungan sipil Chiapas: cahaya di langit sore adalah Starship [7].",
+   "Sebuah akun Turki mengunggah video itu sebagai rekaman nyata yang disiarkan langsung di TikTok (UTC) [2].",
+   "Akun lain mengunggahnya sebagai rekaman serangan Houthi di Arab Saudi (UTC) [1].",
+   "Sebuah gambar dari Mineral de la Reforma beredar sebagai UFO (UTC) [8]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 15 November 2026, pukul 00.29 UTC.",
+   "Video di TikTok, diunggah pada 29 Juli 2023, dengan lokasi Miami, Florida, dalam salinan Internet Archive tanggal 7 Februari 2024."
+  ],
+  "beeld_alt": [
+   "Unggahan di X yang menyajikan video itu sebagai rekaman turis tentang dampak serangan Houthi di Arab Saudi, dengan tangkapan layar tempat parkir berpohon palem dan tiang lampu pada malam hari di bawah awan yang diterangi cahaya, serta logo TikTok dengan nama akun. Stempel: SALAH.",
+   "Halaman TikTok tanggal 29 Juli 2023 dengan video malam hari yang sama, berisi cahaya yang naik di balik awan."
+  ]
+ }
+}

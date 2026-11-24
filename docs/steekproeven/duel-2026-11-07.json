@@ -1,0 +1,952 @@
+{
+ "toelichting": "De keuzes van de PO in het eerste duel met Gemini (PLAN #32.47, BENCHMARK §235): per bericht welk antwoord klopt en welk het meest helpt, met de opmerkingen van de PO. De berichten zijn openbare koppen uit RSS en openbare beweringen uit factchecks (alleen het id hier); de oordelen zijn van Factiz en van Gemini. Opgehaald uit de database van de pagina https://claude.ai/artifact/Lu1jGzsqfcjdNgSL1115yW op 2026-11-07. In het openbare repo zonder de opmerkingen van de PO.",
+ "ronde": "duel-2026-11-07",
+ "bron": "de keuzes van de PO op https://claude.ai/artifact/Lu1jGzsqfcjdNgSL1115yW (rondes/duel-2026-11-07/keuzes), opgehaald 2026-11-07",
+ "factiz": "lezer-v11, zoals het product",
+ "gemini": "gemini-4-argon met Google Search, duel.VRAAG",
+ "labels": [
+  {
+   "id": "F:3999d7cae0da",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "F:43f4641378f6",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "F:5ac92f5afbb9",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Factiz",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "F:8a64cb1b4d75",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "F:a529ca5d1b93",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "A",
+   "wie_klopt": [
+    "Factiz"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "over een bewering",
+    null
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:0182296cec59",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:0ef13b02f1a9",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:279bb4a5792a",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "A",
+   "wie_klopt": [
+    "Factiz"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "misleidend",
+    "oranje"
+   ]
+  },
+  {
+   "id": "K:2bca23b3ef1a",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "A",
+   "wie_klopt": [
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "onzeker",
+    null
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:3a9a61cb5204",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:3e0dee73d830",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "A",
+   "wie_klopt": [
+    "Factiz"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "geen bewering",
+    null
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:47e46328b82c",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Factiz",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:4e61db88de88",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:639e2542d532",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "gelijk",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:69a47df728b4",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:7bdb186724c6",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:8ca22d681a98",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Factiz",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:9e0f4c9b4691",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:9e927f4167b8",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:c8cee7e5ea77",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:d53e34dc5151",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:d5803de2e788",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "geen bewering",
+    null
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:d8f441f1831c",
+   "soort": "nieuws",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:f8e124d891f4",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "A",
+   "wie_klopt": [
+    "Factiz"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "geen bewering",
+    null
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "K:f93ca42893ae",
+   "soort": "nieuws",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Factiz",
+   "factiz": [
+    "klopt",
+    "groen"
+   ],
+   "gemini": [
+    "klopt",
+    "groen"
+   ]
+  },
+  {
+   "id": "O:gfc-068e57a3a505b26f",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-08cbf3646a43eec7",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-1a7f64b7d3ba066c",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-35250bf921a7e800",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-5657fcb6c0edc64a",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-5939748ec9901c28",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-5b2182a6e52006f1",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-6fa4d336e5537f11",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-7482e8e07905fec1",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-7f88b9cdc599ef2c",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-824699a5696d680c",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "A",
+   "wie_klopt": [
+    "Factiz"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "misleidend",
+    "oranje"
+   ]
+  },
+  {
+   "id": "O:gfc-89c47585cfbf8e7e",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-8ffa4b7db4613e68",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-9bd1a0cdc49ea9e9",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-abeec7fe26e2c5be",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-b1ee72002b6a7b36",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-c932681ab6bfd164",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "B",
+   "wie_klopt": [
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "misleidend",
+    "oranje"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-d226cbb440174f59",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-dcd0b6b6028b4196",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-e556ccf5cf2710f2",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-ea1ff1143173e8a4",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-ec8ca0558319b37b",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-ef2615ab67caae71",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-ef9220e2e7540d02",
+   "soort": "factcheck",
+   "a": "Factiz",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  },
+  {
+   "id": "O:gfc-efa57f07b8890781",
+   "soort": "factcheck",
+   "a": "Gemini",
+   "klopt": "beide",
+   "wie_klopt": [
+    "Factiz",
+    "Gemini"
+   ],
+   "helpt": "Gemini",
+   "factiz": [
+    "klopt niet",
+    "rood"
+   ],
+   "gemini": [
+    "klopt niet",
+    "rood"
+   ]
+  }
+ ]
+}

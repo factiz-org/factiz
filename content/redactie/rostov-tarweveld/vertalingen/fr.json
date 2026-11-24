@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo d'un « modificateur du climat » dans un champ de blé espagnol a circulé en Russie en 2022",
+  "oordeel_zin": "Les images ne viennent pas d'Espagne : des lentilles dans des champs de blé étaient une rumeur en juillet 2022 dans la région russe de Rostov, et les services de secours de cette région n'en ont pas trouvé [2] [5].",
+  "bewering": "Espagne : Un agriculteur a trouvé un « modificateur du climat » dans l'un de ses champs de blé.",
+  "kort": "Depuis le 4 septembre, une vidéo circule sur X montrant un « modificateur du climat » qu'un agriculteur aurait trouvé dans un champ de blé espagnol [1]. Des vidéos de telles constructions avec des lentilles dans des champs de blé circulaient déjà en juillet 2022 dans la région russe de Rostov, présentées comme preuve de sabotage [2] [5]. Les services de secours de la région n'ont trouvé aucune lentille lors des incendies et ont qualifié le message de faux [2].",
+  "tekst": "Le vendredi 4 septembre 2026 à 11 h 47, une vidéo de 48 secondes est apparue sur X, avec un drapeau espagnol et un texte disant qu'un agriculteur en Espagne avait trouvé un « modificateur du climat » dans l'un de ses champs de blé [1]. Cet été-là, l'Espagne a connu de grands incendies de forêt, notamment dans la région de Madrid et à Ávila en juillet [6].\n\nLe même type d'images circulait quatre ans plus tôt en Russie. Le 12 juillet 2022, des vidéos de constructions artisanales avec des lentilles dans des champs de blé de la région de Rostov, dans le sud de la Russie, sont apparues sur les réseaux sociaux [2]. Selon ces messages, des saboteurs ukrainiens les avaient installées afin que le soleil mette le feu aux céréales [2]. Sur YouTube figure une vidéo dont le titre affirme que des agriculteurs de la région de Rostov trouvent en masse de tels dispositifs dans les céréales [5].\n\nLes services de secours de la région ont démenti. Le ministère régional des situations d'urgence a déclaré le 13 juillet 2022 qu'il n'avait reçu aucun signalement de tels dispositifs et qu'aucune lentille n'avait été trouvée lors des incendies [2]. Il a qualifié le message de faux et a fait vérifier qui le diffusait sciemment [2]. Lapsha Media, un projet russe qui se présente comme vérificateur de faits, a également écrit le 14 juillet que rien de suspect n'avait été trouvé lors des incendies [3].\n\nEn juillet 2024, la rumeur est revenue, cette fois à propos de champs du Kouban [4]. La police locale n'avait reçu aucun signalement [4]. Dans la région de Stavropol, le gouverneur a en revanche dit alors que des lentilles avaient été trouvées dans des champs, et une procédure pénale y était en cours [4]. Au sujet de Rostov, le journal a rappelé que le ministère avait dit en 2022 qu'une telle construction pouvait difficilement déclencher un incendie [4].\n\nCes images n'ont donc rien à voir avec l'Espagne, ni avec le climat. L'histoire parlait de sabotage en Russie, et même là, personne n'a trouvé de preuve que les lentilles de Rostov avaient provoqué un incendie [2] [4].",
+  "niet_weten": "Nous ne savons pas qui a réalisé la vidéo en premier ni où elle a exactement été filmée. Nous n'avons pas trouvé d'article espagnol sur une telle découverte, mais nous n'avons pas passé en revue l'ensemble de la presse espagnole. Nous ne savons pas non plus qui a déplacé la vidéo de la Russie vers l'Espagne, ni ce que la publication entend par un modificateur du climat. Les sources sur 2022 sont russes et relaient surtout les propos du ministère.",
+  "bereik": "1 645 vues au 18 novembre",
+  "nog_uitzoeken": [
+   "L'original de juillet 2022. La vidéo sur YouTube se trouve sur la chaîne d'un particulier et n'est probablement pas l'original.",
+   "Une source indépendante pour les propos du ministère à Rostov, comme le message publié sur le site du ministère lui-même ou un média non russe.",
+   "Pour le lien entre Lapsha Media et l'État russe, nous cherchons encore une source."
+  ],
+  "tijdlijn": [
+   "Des vidéos de constructions avec des lentilles dans des champs de blé de la région de Rostov circulent sur les réseaux sociaux [2].",
+   "Le ministère des situations d'urgence de Rostov qualifie le message de faux : aucun signalement, aucune lentille trouvée [2].",
+   "Lapsha Media écrit que rien de suspect n'a été trouvé lors des incendies [3].",
+   "La rumeur revient, cette fois à propos de champs du Kouban [4].",
+   "Maldita commence un recensement de messages inexacts sur les incendies de forêt en Espagne [6].",
+   "La publication sur un modificateur du climat dans un champ de blé espagnol [1]."
+  ],
+  "beeld_bijschrift": [
+   "Image extraite de la vidéo dans une publication sur X, 4 septembre 2026, 11 h 47."
+  ],
+  "beeld_alt": [
+   "Image extraite d'une vidéo d'une construction dans un champ de blé, présentée comme une découverte en Espagne. Tampon : FAUX."
+  ]
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "_meta": "De Nederlandse oordelen in zinsvorm (PLAN #32.59, B63), 2026-11-08, gelezen door Claude: de vaste steekproef van 30 uit talen.steekproef; 'label' is de categorie die het oordeel van de redactie uitdrukt; waar het van Haiku afwijkt staan 'haiku' en 'waarom' erbij.",
+ "toelichting": "De Nederlandse oordelen in zinsvorm (PLAN #32.59, B63), 2026-11-08, gelezen door Claude: de vaste steekproef van 30 uit talen.steekproef; 'label' is de categorie die het oordeel van de redactie uitdrukt; waar het van Haiku afwijkt staan 'haiku' en 'waarom' erbij.",
+ "oordelen": [
+  {
+   "id": "63247",
+   "label": "onwaar"
+  },
+  {
+   "id": "46655",
+   "label": "onwaar"
+  },
+  {
+   "id": "63238",
+   "label": "onwaar"
+  },
+  {
+   "id": "54429",
+   "label": "onwaar"
+  },
+  {
+   "id": "46484",
+   "label": "onwaar"
+  },
+  {
+   "id": "62041",
+   "label": "onwaar"
+  },
+  {
+   "id": "20580",
+   "label": "misleidend"
+  },
+  {
+   "id": "58737",
+   "label": "onwaar"
+  },
+  {
+   "id": "61015",
+   "label": "onwaar"
+  },
+  {
+   "id": "54590",
+   "label": "misleidend"
+  },
+  {
+   "id": "63531",
+   "label": "onwaar"
+  },
+  {
+   "id": "74359",
+   "label": "onwaar"
+  },
+  {
+   "id": "61441",
+   "label": "misleidend"
+  },
+  {
+   "id": "13957",
+   "label": "onwaar"
+  },
+  {
+   "id": "66430",
+   "label": "onwaar"
+  },
+  {
+   "id": "55613",
+   "label": "onwaar"
+  },
+  {
+   "id": "17420",
+   "label": "onwaar"
+  },
+  {
+   "id": "43902",
+   "label": "misleidend"
+  },
+  {
+   "id": "35922",
+   "label": "misleidend"
+  },
+  {
+   "id": "32317",
+   "label": "onwaar"
+  },
+  {
+   "id": "25540",
+   "label": "onwaar"
+  },
+  {
+   "id": "46079",
+   "label": "onwaar"
+  },
+  {
+   "id": "74176",
+   "label": "onwaar"
+  },
+  {
+   "id": "57250",
+   "label": "onwaar",
+   "haiku": "misleidend",
+   "waarom": "de video is niet recent maar circuleert al sinds 2016: een verkeerd gedateerde video is onwaar, zoals 46484 en 65990"
+  },
+  {
+   "id": "14695",
+   "label": "onwaar"
+  },
+  {
+   "id": "58611",
+   "label": "onwaar"
+  },
+  {
+   "id": "66701",
+   "label": "onwaar"
+  },
+  {
+   "id": "65990",
+   "label": "onwaar"
+  },
+  {
+   "id": "26018",
+   "label": "onwaar"
+  },
+  {
+   "id": "33851",
+   "label": "onwaar"
+  }
+ ]
+}

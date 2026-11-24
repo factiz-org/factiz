@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "美國官方數據顯示，自1995年以來，麻疹疫苗相關的死亡人數比麻疹感染致死人數多出1,700%。",
+  "kern": [
+   "這個數字是把向VAERS（美國疫苗安全資料庫，任何人都可以提交通報）提出的通報，與經確認的麻疹死亡人數相比較，而專家向法新社表示，這類通報無法證明疫苗導致了死亡 [1]。",
+   "大型安全性研究顯示，麻疹、腮腺炎及德國麻疹疫苗引發嚴重不良後果的情況十分罕見 [1]。"
+  ],
+  "rondgang": "這項說法出自一篇Substack文章，並在X、Facebook和Instagram上流傳，當時泛美衛生組織裁定美國已不再符合消除麻疹的標準 [1]。"
+ }
+}

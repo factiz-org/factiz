@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "被塗鴉的安妮·法蘭克雕像圖像是用AI製作的",
+  "oordeel_zin": "該圖像顯示的是一座並不存在的雕像，且自2024年8月以來未有塗鴉的通報 [5] [6]。",
+  "bewering": "阿姆斯特丹的安妮·法蘭克雕像被塗鴉了。",
+  "kort": "自11月8日起，X上流傳一張據稱剛被塗鴉的安妮·法蘭克雕像圖像 [9]。該圖像是用AI製作的，顯示的是一座並不存在的雕像 [5]。阿姆斯特丹Merwedeplein的真實雕像曾在2024年7月和8月被塗鴉，此後沒有新的塗鴉通報 [1] [6]。",
+  "tekst": "阿姆斯特丹有兩座安妮·法蘭克雕像。一座在Westerkerk旁，離安妮·法蘭克之家很近。另一座在Rivierenbuurt的Merwedeplein，正對著法蘭克一家1933年至1942年居住的房子。第二座雕像由Jet Schepp創作，是一個背著書包的青銅女孩，回頭望向廣場，立於粉紅色石柱上 [4]。\n\nMerwedeplein的這座雕像在2024年被塗鴉兩次。7月9日，基座上被用紅漆寫上「Gaza」，腳邊有紅色污跡；區公所當天就將其清除 [3] [8]。8月3日至4日的夜間，又出現「Free Gaza」，雕像的雙手被漆成紅色，距離Achterhuis藏匿者被捕恰好80年 [1] [2]。那一夜，阿姆斯特丹南區至少有六座雕像被塗鴉 [2]。\n\n現在流傳的圖像則是另一回事。澳洲通訊社的事實查核編輯部AAP FactCheck於11月6日在Facebook和X上發現了它：一名蒙面者在一座圍著keffiyeh的安妮·法蘭克雕像上噴寫「Free Palestine」[5]。該雕像與阿姆斯特丹的兩座雕像都不像。旁邊的牌子上有一段引自日記的錯誤引文，還有一個打字錯誤 [5]。\n\n我們沒有找到新的塗鴉事件。安妮·法蘭克之家沒有通報2024年8月以來該雕像的任何情況 [7]。2025年9月市長延長Merwedeplein的監視攝影時，市政府給出的理由只提到2024年的那兩次塗鴉 [6]。AAP自己也查找過近期的塗鴉事件，同樣只找到2024年的那兩次 [5]。",
+  "niet_weten": "我們不知道是誰製作了這張圖像。2026年10月和11月沒有塗鴉，這是我們根據安妮·法蘭克之家、NOS和市政府沒有相關通報推斷出來的。警方的通報和Het Parool的檔案，我們沒有查閱。",
+  "nog_uitzoeken": [
+   "該組圖像中的第二張圖像是什麼。若它是2024年8月4日的真實照片,卻被當作新照片發布,那麼對這張圖像而言,判定為「誤導」較為適合。",
+   "警方或AT5在2026年10月或11月是否曾通報該圖像遭到塗鴉破壞。這些報導我們並未查閱。"
+  ],
+  "tijdlijn": [
+   "Merwedeplein上Jet Schepp的雕像揭幕 [4]。",
+   "第一次塗鴉：基座上寫著「Gaza」，當天被清除 [3]。",
+   "第二次塗鴉：「Free Gaza」和被漆成紅色的雙手 [1]。",
+   "市長延長監視攝影，理由只提到2024年的塗鴉 [6]。",
+   "AI圖像出現在Facebook和X上 [5]。",
+   "X上至少有五則貼文把被塗鴉的雕像當作新聞發布 [9]。",
+   "AAP FactCheck：該圖像是用AI製作的 [5]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文，2026年11月8日，至少五則中的一則。",
+   "Merwedeplein的真實雕像，Jet Schepp創作，2005年7月9日揭幕。Nationaal Comité 4 en 5 mei。"
+  ],
+  "beeld_alt": [
+   "一張用AI製作的被塗鴉的安妮·法蘭克雕像圖像。印章：不實。",
+   "阿姆斯特丹Merwedeplein的安妮·法蘭克青銅雕像。"
+  ]
+ }
+}

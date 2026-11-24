@@ -1,0 +1,162 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5). De PO las het en gaf akkoord op 2026-11-19. Wat migranten
+# de schuld geeft van misdaad, geweld of onrust, of zegt dat ze voorrang krijgen, staat in migranten-zondebok.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "migration"          # uit content/themas.json
+onderdeel = "borders"
+verwant = ["migranten-zondebok"]
+
+[naam]
+nl = "Migratie naar Europa: aantallen, routes en beleid"
+en = "Migration to Europe: numbers, routes and policy"
+de = "Migration nach Europa: Zahlen, Routen und Politik"
+es = "La migración a Europa: cifras, rutas y políticas"
+fr = "La migration vers l’Europe : chiffres, routes et politiques"
+
+[inleiding]
+nl = """
+Sinds 2015, het jaar waarin veel vluchtelingen naar Europa kwamen, gaan over migratie steeds dezelfde soorten berichten
+rond: over hoeveel mensen er komen, over boten op de Middellandse Zee, in het Kanaal en bij de Canarische Eilanden, over
+de grens met Belarus, over reddingsschepen van ngo's en over de afspraken van de EU met Turkije en Libië. Een deel zegt
+dat regeringen, de EU, de VN of George Soros migranten naar Europa halen of betalen, of dat de bevolking met opzet wordt
+vervangen, het verhaal van de omvolking. Dit dossier zet de factchecks over aantallen, routes en beleid op een
+tijdlijn, naast besluiten en rapporten die bij het verhaal horen. Elke factcheck zegt wie hem maakte en wat die vond.
+In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig. Berichten die migranten de schuld
+geven van misdaad, geweld of onrust, of zeggen dat ze voorrang krijgen, staan in een eigen dossier."""
+en = """
+Since 2015, the year many refugees came to Europe, the same kinds of posts about migration keep circulating: how many
+people arrive, boats in the Mediterranean, in the Channel and off the Canary Islands, the border with Belarus, rescue
+ships run by NGOs, and the EU's deals with Turkey and Libya. Some say that governments, the EU, the UN or George Soros
+bring migrants to Europe or pay them to come, or that the population is being replaced on purpose, the story of the
+"great replacement". This dossier puts the fact-checks about numbers, routes and policy on a timeline, next to
+decisions and reports that belong to the story. Each fact-check says who made it and what they found. The list holds
+only fact-checks we may republish, so it is not complete. Posts that blame migrants for crime, violence or unrest, or
+say they get special treatment, have a dossier of their own."""
+de = """
+Seit 2015, dem Jahr, in dem viele Geflüchtete nach Europa kamen, kursieren über Migration immer wieder dieselben Arten
+von Beiträgen: wie viele Menschen kommen, Boote im Mittelmeer, im Ärmelkanal und vor den Kanarischen Inseln, die Grenze
+zu Belarus, Rettungsschiffe von NGOs und die Abkommen der EU mit der Türkei und Libyen. Ein Teil behauptet, Regierungen,
+die EU, die UN oder George Soros holten Migranten nach Europa oder bezahlten sie dafür, oder die Bevölkerung werde
+absichtlich ausgetauscht, die Erzählung vom „großen Austausch“. Dieses Dossier ordnet die Faktenchecks zu Zahlen,
+Routen und Politik auf einer Zeitleiste, neben Beschlüssen und Berichten, die zu der Erzählung gehören. Jeder
+Faktencheck sagt, wer ihn gemacht hat und was er ergab. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen;
+sie ist also nicht vollständig. Beiträge, die Migranten für Kriminalität, Gewalt oder Unruhen verantwortlich machen
+oder behaupten, sie würden bevorzugt, haben ein eigenes Dossier."""
+es = """
+Desde 2015, el año en que muchos refugiados llegaron a Europa, circulan una y otra vez los mismos tipos de mensajes sobre
+la migración: cuántas personas llegan, las embarcaciones en el Mediterráneo, en el canal de la Mancha y frente a las
+islas Canarias, la frontera con Bielorrusia, los barcos de rescate de las ONG y los acuerdos de la UE con Turquía y
+Libia. Una parte afirma que gobiernos, la UE, la ONU o George Soros traen migrantes a Europa o les pagan para venir, o
+que la población está siendo sustituida a propósito, el relato del «gran reemplazo». Este dosier ordena en una
+cronología las verificaciones sobre cifras, rutas y políticas, junto a decisiones e informes que forman parte del
+relato. Cada verificación dice quién la hizo y qué encontró. La lista solo contiene verificaciones que podemos
+reproducir, así que no está completa. Los mensajes que culpan a los migrantes de delitos, violencia o disturbios, o
+que dicen que reciben un trato de favor, tienen su propio dosier."""
+fr = """
+Depuis 2015, l’année où de nombreux réfugiés sont arrivés en Europe, les mêmes types de messages sur la migration
+circulent sans cesse : combien de personnes arrivent, les bateaux en Méditerranée, dans la Manche et au large des îles
+Canaries, la frontière avec la Biélorussie, les navires de sauvetage des ONG et les accords de l’UE avec la Turquie et
+la Libye. Certains affirment que des gouvernements, l’UE, l’ONU ou George Soros font venir des migrants en Europe ou
+les paient pour venir, ou que la population est remplacée à dessein, le récit du « grand remplacement ». Ce dossier
+place sur une chronologie les vérifications sur les chiffres, les routes et les politiques, à côté de décisions et de
+rapports qui font partie du récit. Chaque vérification dit qui l’a faite et ce qu’elle a trouvé. La liste ne contient
+que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète. Les messages qui accusent les
+migrants de délits, de violences ou de troubles, ou qui disent qu’ils sont favorisés, ont leur propre dossier."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: besluiten, onderzoek en rapporten, elk zelf geopend op 2026-11-19.
+
+[[item]]
+soort = "besluit"
+datum = "2016-03-18"
+bron = "Europees Parlement"
+url = "https://www.europarl.europa.eu/legislative-train/theme-towards-a-new-policy-on-migration/file-eu-turkey-statement-action-plan"
+[item.titel]
+nl = "De EU en Turkije spreken af dat wie irregulier op de Griekse eilanden aankomt teruggaat naar Turkije, en dat voor elke teruggestuurde Syriër een andere Syriër in de EU een plek krijgt"
+en = "The EU and Turkey agree that irregular arrivals on the Greek islands are returned to Turkey, and that for every Syrian returned another Syrian is resettled in the EU"
+de = "Die EU und die Türkei vereinbaren, dass irregulär auf den griechischen Inseln Ankommende in die Türkei zurückgehen und für jeden zurückgeschickten Syrer ein anderer in der EU aufgenommen wird"
+es = "La UE y Turquía acuerdan que quien llegue de forma irregular a las islas griegas sea devuelto a Turquía y que por cada sirio devuelto otro sea reasentado en la UE"
+fr = "L’UE et la Turquie conviennent que les arrivées irrégulières sur les îles grecques sont renvoyées en Turquie et que, pour chaque Syrien renvoyé, un autre est réinstallé dans l’UE"
+
+[[item]]
+soort = "besluit"
+datum = "2018-12-19"
+bron = "Internationale Organisatie voor Migratie"
+url = "https://www.iom.int/global-compact-migration"
+[item.titel]
+nl = "De Algemene Vergadering van de VN neemt het migratiepact van Marrakesh aan, een kader voor samenwerking dat juridisch niet bindend is"
+en = "The UN General Assembly adopts the Marrakesh migration compact, a framework for cooperation that is not legally binding"
+de = "Die UN-Generalversammlung nimmt den Migrationspakt von Marrakesch an, einen rechtlich nicht bindenden Rahmen für Zusammenarbeit"
+es = "La Asamblea General de la ONU aprueba el pacto migratorio de Marrakech, un marco de cooperación que no es jurídicamente vinculante"
+fr = "L’Assemblée générale de l’ONU adopte le pacte sur les migrations de Marrakech, un cadre de coopération juridiquement non contraignant"
+
+[[item]]
+soort = "onderzoek"
+datum = "2019-07-06"
+bron = "Institute for Strategic Dialogue"
+url = "https://www.isdglobal.org/isd-publications/the-great-replacement-the-violent-consequences-of-mainstreamed-extremism/"
+[item.titel]
+nl = "Het ISD beschrijft hoe het verhaal van de omvolking via sociale media en de woorden van gevestigde politici in Europa en Noord-Amerika gewoner werd"
+en = "ISD describes how the 'great replacement' story became more common through social media and the language of mainstream politicians in Europe and North America"
+de = "Das ISD beschreibt, wie die Erzählung vom „großen Austausch“ über soziale Medien und die Sprache etablierter Politiker in Europa und Nordamerika alltäglicher wurde"
+es = "El ISD describe cómo el relato del «gran reemplazo» se volvió más común a través de las redes sociales y del lenguaje de políticos convencionales en Europa y Norteamérica"
+fr = "L’ISD décrit comment le récit du « grand remplacement » s’est banalisé via les réseaux sociaux et le langage de responsables politiques classiques en Europe et en Amérique du Nord"
+
+[[item]]
+soort = "rapport"
+datum = "2025-01-14"
+bron = "Frontex"
+url = "https://www.frontex.europa.eu/media-centre/news/news-release/irregular-border-crossings-into-eu-drop-sharply-in-2024-oqpweX"
+[item.titel]
+nl = "Frontex telt in 2024 iets meer dan 239.000 irreguliere grensoversteken naar de EU, 38 procent minder dan in 2023, maar meer aankomsten op de Canarische Eilanden"
+en = "Frontex counts just over 239,000 irregular border crossings into the EU in 2024, 38 per cent fewer than in 2023, but more arrivals on the Canary Islands"
+de = "Frontex zählt 2024 etwas mehr als 239.000 irreguläre Grenzübertritte in die EU, 38 Prozent weniger als 2023, aber mehr Ankünfte auf den Kanarischen Inseln"
+es = "Frontex cuenta en 2024 algo más de 239.000 cruces irregulares de fronteras hacia la UE, un 38 % menos que en 2023, pero más llegadas a las islas Canarias"
+fr = "Frontex compte en 2024 un peu plus de 239 000 franchissements irréguliers des frontières de l’UE, 38 % de moins qu’en 2023, mais davantage d’arrivées aux Canaries"
+
+[[item]]
+soort = "besluit"
+datum = "2026-06-12"
+bron = "Europese Commissie"
+url = "https://home-affairs.ec.europa.eu/news/new-migration-and-asylum-rules-enter-application-what-changing-2026-06-12_en"
+[item.titel]
+nl = "De regels van het EU-migratiepact gaan in: screening van elke irreguliere aankomst, een grensprocedure en verplichte solidariteit tussen de lidstaten"
+en = "The rules of the EU migration pact take effect: screening of every irregular arrival, a border procedure and mandatory solidarity between member states"
+de = "Die Regeln des EU-Migrationspakts gelten: Überprüfung jeder irregulären Ankunft, ein Grenzverfahren und verpflichtende Solidarität zwischen den Mitgliedstaaten"
+es = "Entran en aplicación las normas del pacto migratorio de la UE: control de cada llegada irregular, un procedimiento fronterizo y solidaridad obligatoria entre Estados miembros"
+fr = "Les règles du pacte de l’UE sur la migration s’appliquent : filtrage de chaque arrivée irrégulière, une procédure à la frontière et une solidarité obligatoire entre États membres"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = ["migrant", "migrants", "migration", "immigrant", "immigrants", "immigration", "refugee", "refugees",
+  "asylum", "asylum seekers", "deported", "deportation", "deportations", "smugglers", "boat", "boats", "migranten",
+  "migratie", "vluchtelingen", "asielzoekers", "Migranten", "Flüchtlinge", "migrantes", "migrants", "réfugiés",
+  "migra", "refug", "réfugi", "asyl", "asiel", "deport", "vluchteling", "flücht", "geflüchtet",
+  "Lampedusa", "Mediterr", "Middellandse", "Mittelmeer", "Mediterráneo", "Méditerranée", "Frontex",
+  "great replacement", "omvolking", "grand remplacement", "Umvolkung", "Bevölkerungsaustausch", "gran reemplazo",
+  "sustitución", "sostituzione etnica", "Kalergi", "Sea-Watch", "Sea Watch", "Open Arms", "Ocean Viking", "Aquarius",
+  "SOS Mediterranee", "smuggl", "mensensmokkel", "Schleuser", "patera", "cayuco", "dinghy", "small boats",
+  "English Channel", "Ärmelkanal", "Calais", "Dover", "Moria", "Lesbos", "Ceuta", "Melilla", "Canarias", "Canary Islands",
+  "Belarus border", "Rwanda", "Marrakesh", "Marrakech", "Marrakesch", "Global Compact", "Evros", "push-back",
+  "illegal immigr", "undocumented", "sans-papiers", "clandestin", "sbarc",
+  "мигрант", "беженц", "біжен", "مهاجر", "لاجئ", "پناهجو", "göçmen", "sığınmacı", "uchodźc", "शरणार्थी"]
+omschrijving = """
+Claims, checked from 2015 on, about migration to Europe or a European country (UK included): how many migrants,
+refugees or asylum seekers arrive or live there; boats, crossings and routes (Mediterranean, Lampedusa, Canary Islands,
+Ceuta, English Channel, Balkans, the Belarus and Turkey borders); NGO rescue ships; Frontex and pushbacks; EU and
+national migration policy (the EU migration pact, the UN compact of Marrakesh, the deals with Turkey, Libya and Tunisia,
+the Rwanda plan, asylum rules, deportations); claims that a government, the EU, the UN, Soros or an NGO invites, pays
+or ships migrants to Europe; the "great replacement" or "Kalergi plan"; images said to show migrants arriving in
+Europe. NOT included: claims that blame migrants for crime, violence, terror, riots or disease, or say they get money,
+housing, benefits or other privileges (another dossier); migration outside Europe (US and Mexico, Asia, Africa, the
+Middle East); refugees from Ukraine in 2025 or 2026."""

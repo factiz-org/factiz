@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Image of a defaced Anne Frank statue was made with AI",
+  "oordeel_zin": "The image shows a statue that does not exist, and no defacement has been reported since August 2024 [5] [6].",
+  "bewering": "The statue of Anne Frank in Amsterdam has been defaced.",
+  "kort": "Since 8 November, an image has been circulating on X of a statue of Anne Frank that has supposedly just been defaced [9]. The image was made with AI and shows a statue that does not exist [5]. The real statue on the Merwedeplein in Amsterdam was defaced in July and August 2024, and no new defacement has been reported since [1] [6].",
+  "tekst": "Amsterdam has two statues of Anne Frank. One stands at the Westerkerk, close to the Anne Frank House. The other stands on the Merwedeplein in the Rivierenbuurt, opposite the house where the Frank family lived from 1933 to 1942. That second statue, by Jet Schepp, is a bronze girl with a school bag looking back over the square, on a column of pink stone [4].\n\nThe statue on the Merwedeplein was defaced twice in 2024. On 9 July, \"Gaza\" was written in red paint on the plinth, with red stains near the feet; the district had it cleaned the same day [3] [8]. In the night of 3 to 4 August, \"Free Gaza\" followed, and the statue's hands were painted red, exactly 80 years after the arrest of the people in hiding in the Secret Annex [1] [2]. That night at least six statues were defaced in Amsterdam-Zuid [2].\n\nThe image now circulating is something else. AAP FactCheck, the fact-check desk of the Australian news agency, found it on 6 November on Facebook and on X: a masked person spraying \"Free Palestine\" on a statue of Anne Frank wearing a keffiyeh [5]. That statue does not resemble either of the two in Amsterdam. The sign next to it carries a wrong quote from the diary, with a typo [5].\n\nWe found no new defacement. The Anne Frank House reports nothing about the statue since August 2024 [7]. When the mayor extended the camera surveillance on the Merwedeplein in September 2025, the municipality named only the two defacements of 2024 as the reason [6]. AAP, which searched for recent defacements itself, also found only those of 2024 [5].",
+  "niet_weten": "We do not know who made the image. That there was no defacement in October and November 2026, we infer from reports that do not exist, at the Anne Frank House, the NOS and the municipality. We have not searched police reports and the archive of Het Parool.",
+  "nog_uitzoeken": [
+   "What the second image of the pair is. If it is a real photo from 4 August 2024, presented as new, then misleading fits that image better.",
+   "Whether the police or AT5 reported a defacement of the statue in October or November 2026. We have not searched those reports."
+  ],
+  "tijdlijn": [
+   "The statue by Jet Schepp on the Merwedeplein is unveiled [4].",
+   "First defacement: 'Gaza' on the plinth, cleaned the same day [3].",
+   "Second defacement: 'Free Gaza' and red-painted hands [1].",
+   "The mayor extends the camera surveillance, giving only the defacements of 2024 as the reason [6].",
+   "The AI image appears on Facebook and on X [5].",
+   "At least five posts on X present a defaced statue as news [9].",
+   "AAP FactCheck: the image was made with AI [5]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 8 November 2026, one of at least five.",
+   "The real statue on the Merwedeplein, by Jet Schepp, unveiled on 9 July 2005. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "An AI-made image of a defaced statue of Anne Frank. Stamp: ONWAAR.",
+   "The bronze statue of Anne Frank on the Merwedeplein in Amsterdam."
+  ]
+ }
+}

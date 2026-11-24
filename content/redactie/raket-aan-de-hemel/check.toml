@@ -1,0 +1,190 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/raket-aan-de-hemel/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "raket-aan-de-hemel"
+status = "gepubliceerd"
+taal = "en"
+adres = "miami-video-2023-not-houthi-strikes-saudi-arabia"
+kop = "A TikTok video from Miami in 2023 does not show Houthi strikes in Saudi Arabia"
+oordeel = "onwaar"
+oordeel_zin = "The video went online on TikTok on July 29, 2023, with the location Miami, Florida, and probably shows a rocket launch, not Houthi strikes in Saudi Arabia [3] [4]."
+soort = "context"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "BREAKING: Tourist footage from inside Saudi Arabia reportedly captures the aftermath of Houthi strikes.Dramatic scenes as the situation unfolds."
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 2
+bereik = "617,400 views, 971 likes and 133 replies on November 23; the same video on a Turkish account, posted six hours earlier, had 3.6 million views and 29,433 likes"
+
+kort = """
+Since November 14, posts on X have shared a night video of a bright light rising behind clouds, one of them as tourist \
+footage of Houthi strikes in Saudi Arabia [1] [2]. The video was posted on TikTok on July 29, 2023, as a UFO, with the \
+location Miami, Florida [3]. It probably shows a rocket launch from Florida's Space Coast, where a Falcon Heavy lifted \
+off the night before [4]."""
+
+tekst = """
+On Saturday, November 14, 2026, a Turkish account on X posted a video of 2 minutes and 41 seconds, saying the footage \
+was real and had been broadcast live on TikTok [2]. By November 23 it had been viewed 3.6 million times [2]. Six hours \
+after that post, another account shared the same video file as tourist footage from inside Saudi Arabia of the \
+aftermath of Houthi strikes [1] [2].
+
+The clip still carries the TikTok logo and the name of a TikTok account [1]. On that account, the video \
+went online on July 29, 2023, at 12:58 p.m. Miami time, with the location Miami and the caption "UFO Spotted in Miami \
+Florida" [3]. The Internet Archive saved the page on February 7, 2024 [3].
+
+The video shows a light rising behind clouds above a car park with palm trees [1]. It turns into an orange dot and fades \
+after about two and a half minutes [1]. That fits a night launch from Florida's Space Coast seen from a distance [1] [4].
+
+At 11:04 p.m. on July 28, 2023, the night before the upload, a Falcon Heavy lifted off from Kennedy Space Center [4]. \
+Twenty-three hours earlier, a Falcon 9 had launched 22 Starlink satellites from Cape Canaveral [5]. In 2023 the video \
+was a UFO, now it is an attack [1] [3].
+
+This month another launch went round as something else [6] [8]. On November 13, Starship Flight 15 reached orbit from Texas and released 26 Starlink satellites [6]. An image from Mineral de la Reforma in \
+Mexico of a bright light with a row of dots went round as a UFO [8]. The civil protection agency of the state of Chiapas \
+said the light seen that evening over its coast was Starship, with a map that puts the pass over Mexico between 6:21 \
+and 6:28 p.m. central time [7]."""
+
+niet_weten = """
+We do not know which launch the video shows, or where exactly it was filmed: the location on TikTok is an address in \
+Miami. We do not know whether the image from Mineral de la Reforma was taken during the pass of Starship."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Which launch the video shows: the Falcon Heavy of July 28, 2023, the Falcon 9 of the night before, or another night launch.",
+  "Where exactly the video was filmed; the location on TikTok is an address in Miami.",
+  "Whether the image from Mineral de la Reforma was taken during the pass of Starship over Mexico on November 13, and who took it.",
+  "If you know more about the video or the image, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 15, 2026, 00:29 UTC."
+alt = "The post on X that presents the video as tourist footage of the aftermath of Houthi strikes in Saudi Arabia, with a still of a car park with palm trees and lamp posts at night under lit clouds, and the TikTok logo with the name of the account. Stamp: FALSE."
+
+[[beeld]]
+rol = "origineel"
+link = "https://web.archive.org/web/20240207161323/https://www.tiktok.com/@antionetteeiland/video/7261285994039741739"
+stempel = false
+bijschrift = "The video on TikTok, posted on July 29, 2023, with the location Miami, Florida, in the copy of the Internet Archive of February 7, 2024."
+alt = "The TikTok page of July 29, 2023 with the same night video of a light rising behind clouds."
+
+[[tijdlijn]]
+datum = "2023-07-28"
+wat = "A Falcon 9 lifts off from Cape Canaveral at 12:01 a.m. with 22 Starlink satellites [5]."
+
+[[tijdlijn]]
+datum = "2023-07-28"
+wat = "A Falcon Heavy lifts off from Kennedy Space Center at 11:04 p.m. [4]."
+
+[[tijdlijn]]
+datum = "2023-07-29"
+wat = "The video goes online on TikTok at 12:58 p.m., with the location Miami [3]."
+
+[[tijdlijn]]
+datum = "2024-02-07"
+wat = "The Internet Archive saves the TikTok page [3]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Starship Flight 15 lifts off from Texas at 5:47 p.m. Eastern time and reaches orbit [6]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "The civil protection agency of Chiapas: the light in the evening sky is Starship [7]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "18:13"
+wat = "A Turkish account posts the video as real footage broadcast live on TikTok (UTC) [2]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+tijd = "00:29"
+wat = "Another account posts it as footage of Houthi strikes in Saudi Arabia (UTC) [1]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+tijd = "02:22"
+wat = "An image from Mineral de la Reforma goes round as a UFO (UTC) [8]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post that presents the video as tourist footage of Houthi strikes in Saudi Arabia"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261115002950/https://twitter.com/JamalibnAmin/status/2121762565873074667"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "The post of a Turkish account with the same video: the footage is real and was broadcast live on TikTok (in Turkish)"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261123005310/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121667842214891965&omit_script=true"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "TikTok"
+titel = "The original video post: UFO Spotted in Miami Florida"
+datum = "2023-07-29"
+prive = true
+archief = "https://web.archive.org/web/20240207161323/https://www.tiktok.com/@antionetteeiland/video/7261285994039741739"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Space.com"
+titel = "SpaceX's Falcon Heavy rocket launches giant satellite toward orbit"
+datum = "2023-07-28"
+url = "https://www.space.com/spacex-falcon-heavy-jupiter-3-satellite-launch"
+archief = "https://web.archive.org/web/20260514220613/https://www.space.com/spacex-falcon-heavy-jupiter-3-satellite-launch"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Space.com"
+titel = "SpaceX launches 22 Starlink satellites, lands rocket at sea"
+datum = "2023-07-28"
+url = "https://www.space.com/spacex-starlink-falcon-heavy-launch-doubleheader-july-2023"
+archief = "https://web.archive.org/web/20230728080927/https://www.space.com/spacex-starlink-falcon-heavy-launch-doubleheader-july-2023"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Space.com"
+titel = "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)"
+datum = "2026-11-13"
+url = "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+archief = "https://web.archive.org/web/20261116181856/https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Secretaría de Protección Civil de Chiapas on X"
+titel = "The bright light seen tonight over the coast of Chiapas is SpaceX's Starship (in Spanish, with a map of the pass over Mexico)"
+datum = "2026-11-13"
+url = "https://x.com/pcivilchiapas/status/2121418574514307499"
+archief = "https://web.archive.org/web/20261114014256/https://twitter.com/pcivilchiapas/status/2121418574514307499"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "X"
+titel = "The post that shares the image from Mineral de la Reforma as a UFO"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261115022216/https://twitter.com/overclassifiedx/status/2121790861193380320"

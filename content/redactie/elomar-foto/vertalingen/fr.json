@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck elomar-foto van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "15bc7664d4f8dc82",
+ "veldafdrukken": {
+  "kop": "874cd5b5a071e544",
+  "oordeel_zin": "3e1715937a860353",
+  "bewering": "6b2dc81f110f6428",
+  "kort": "2f8b7f4296293998",
+  "tekst": "ccdfa19ee3e94890",
+  "niet_weten": "65c2cb4465169c00",
+  "nog_uitzoeken": "d264e14562417396",
+  "tijdlijn": "5b72d4ebc447f79a",
+  "beeld_bijschrift": "47f103c639fd552d",
+  "beeld_alt": "9b135b806e627e6a"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Photo d'un homme avec des têtes coupées : ce n'est pas Ahmed al-Sharaa mais le combattant de l'EI Mohamed Elomar, en 2014",
+  "oordeel_zin": "La photo est authentique, mais elle montre l'Australien Mohamed Elomar et elle est parue dans l'actualité en juillet 2014 comme étant la sienne [1] [2].",
+  "bewering": "Le dirigeant syrien Ahmed al-Sharaa pose sur cette photo avec des têtes coupées.",
+  "kort": "La photo d'un homme avec deux têtes coupées, qui circule sur X depuis le 23 septembre comme étant celle du président syrien Ahmed al-Sharaa, montre quelqu'un d'autre [8]. Il s'agit du combattant australien de l'EI Mohamed Elomar, et la photo est parue dans l'actualité en juillet 2014 comme étant la sienne [1] [2] [3]. La même photo avait déjà été attribuée plusieurs fois à al-Sharaa en 2025 et 2026, et des rédactions dans au moins quatre langues l'ont démenti [10] [11] [13] [15].",
+  "tekst": "Le mercredi 23 septembre 2026, Ahmed al-Sharaa s'est adressé pour la deuxième fois à l'Assemblée générale des Nations unies [5] [6]. Un peu plus d'une heure après que Euronews en a rendu compte, un post en néerlandais est apparu sur X avec une photo censée le montrer [5] [8]. Sur la photo, un homme barbu et souriant brandit deux têtes coupées. Le 15 octobre, la photo a de nouveau circulé, en réaction à un post du ministre Sjoerd Sjoerdsma (Commerce extérieur et Aide au développement) sur le soutien à la Syrie : « Vous avez donné 15 millions d'euros à cet homme » [9]. Il s'agit de la photo seule, pas d'un montage. Le post du 23 septembre a disparu, nous ne savons donc pas par nous-mêmes ce qui l'accompagnait [8].\n\nLa photo a douze ans. Fin juillet 2014, elle est apparue sur un compte Twitter qui appartiendrait à Khaled Sharrouf, un Australien qui avait rejoint l'État islamique [1] [2] [3]. Selon la chaîne australienne ABC, elle montre Mohamed Elomar, un homme originaire de Sydney, avec les têtes de soldats de l'armée syrienne tués lors de combats à Raqqa [1]. Elomar et Sharrouf étaient partis pour la Syrie fin 2013, puis pour l'Irak [1] [2].\n\nLe 29 juillet 2014, la police australienne a annoncé que des mandats d'arrêt avaient été émis contre les deux hommes, pour terrorisme, après la publication des photos [1] [2] [3]. En juin 2015, des médias ont rapporté qu'Elomar avait été tué près de Mossoul. Le gouvernement australien ne l'avait pas encore confirmé à ce moment-là [4].\n\nAl-Sharaa a bien un passé dans des groupes jihadistes. Sous le nom d'Abou Mohammad al-Jolani, il a dirigé le Front al-Nosra, la branche syrienne d'Al-Qaïda [11] [12]. Mais aucune des rédactions qui ont cherché n'a trouvé de photo de lui avec des têtes coupées [15].\n\nLa photo et l'affirmation ne sont pas nouvelles. Elles ont aussi circulé après le premier discours d'al-Sharaa à l'ONU, en septembre 2025 [7]. À l'époque, des rédactions en portugais, en anglais et en néerlandais avaient déjà écrit qu'il s'agit d'Elomar, dont AFP Factcheck Nederland et VRT NWS [10] [11] [12] [15]. En avril 2026, après sa visite à Berlin, la photo est revenue dans un montage, que le site autrichien Mimikama a jugé trompeur [13]. Fin avril 2026, Reuters en a également parlé [14].",
+  "niet_weten": "Nous ne savons pas qui a, le premier, associé la photo à al-Sharaa en septembre 2026, ni si les deux publications proviennent du même compte. Que Elomar soit mort en 2015, des médias l'ont rapporté en s'appuyant sur des sources non nommées ; nous n'avons pas vu de confirmation officielle [4].",
+  "nog_uitzoeken": [
+   "Ce qui accompagnait la publication du 23 septembre. Cette publication a disparu, et nous n'en avons pas trouvé de copie.",
+   "Si une source gouvernementale australienne a confirmé plus tard la mort d'Elomar."
+  ],
+  "tijdlijn": [
+   "La police australienne annonce des mandats d'arrêt contre Elomar et Sharrouf, après les photos publiées sur Twitter [1] [2].",
+   "Des médias rapportent qu'Elomar a été tué près de Mossoul [4].",
+   "Al-Sharaa s'adresse à l'ONU, premier président syrien à le faire depuis plus de cinquante ans [7].",
+   "Aos Fatos écrit que l'homme sur la photo est Elomar [15].",
+   "AFP Factcheck Nederland : la photo montre un jihadiste australien [10].",
+   "Mimikama sur le montage après la visite d'al-Sharaa à Berlin [13].",
+   "Reuters écrit sur la même photo [14].",
+   "Le post en néerlandais sur X, le jour du deuxième discours à l'ONU [5] [8].",
+   "La photo circule de nouveau, avec le texte selon lequel al-Sharaa pose avec des têtes coupées [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post sur X, 15 octobre 2026, 9 h 46, le deuxième que nous ayons trouvé ; celui du 23 septembre a disparu. Les têtes étaient déjà floutées dans le post.",
+   "ABC News, 29 juillet 2014 : les photos de Mohamed Elomar, alors publiées sur Twitter. Seulement sous forme de lien, l'image est trop violente pour être montrée."
+  ],
+  "beeld_alt": [
+   "Une photo d'un homme barbu et souriant qui tient deux têtes coupées ; les têtes sont floutées. Cachet : FAUX.",
+   "Lien vers l'article d'ABC News sur les photos de Mohamed Elomar datant de 2014."
+  ]
+ }
+}

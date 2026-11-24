@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van het overzicht poland-airspace-missile-false-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "2118c2af8b4f207c",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Çevrimiçi paylaşılan bir video ve bir fotoğraf, 20 Kasım 2026 tarihinde Polonya hava sahasına giren füzeleri gösteriyor ve Polonya'ya ait F-16 uçaklarının bu füzelerden birini takip ettiğini gösteriyor.",
+  "kern": [
+   "Polonya, 20 Kasım 2026 tarihinde Rusya'nın Ukrayna'ya yönelik saldırıları sırasında kendi topraklarına nesnelerin düştüğünü bildirdi; bunların arasında Nowy Lipowiec köyü yakınında bir seyir füzesinin enkazı da vardı. [1] [2]",
+   "O gecenin görüntüleri olarak sunulan uçan nesne videosu, Kasım 2024'te, yani Rusya'nın Ukrayna'ya yönelik bir saldırısıyla ilişkilendirildiği dönemde zaten çevrimiçiydi. [1]",
+   "Bir füzeyi takip eden üç F-16 uçağını gösteren fotoğraf, görünmez bir SynthID filigranına göre yapay zekâyla üretilmiştir ve bilinen en eski paylaşımın arkasındaki kişi bu fotoğrafı paylaştığı için özür dilemiştir. [2]"
+  ],
+  "rondgang": "20 Kasım 2026 tarihinde ve sonrasında video X'te, fotoğraf ise Polonya'da Facebook ve X'te yayıldı; fotoğrafın bilinen en eski kopyası X'te paylaşıldı ve sonradan silindi. [1] [2]"
+ }
+}

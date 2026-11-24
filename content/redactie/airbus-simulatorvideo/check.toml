@@ -1,0 +1,187 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/airbus-simulatorvideo/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "airbus-simulatorvideo"
+status = "gepubliceerd"
+taal = "en"
+adres = "airbus-beluga-saba-flight-simulator-video"
+kop = "Video of an Airbus Beluga turning on Saba's tiny runway was made in Microsoft Flight Simulator"
+oordeel = "onwaar"
+oordeel_zin = "The video was on YouTube in August 2025, listed under the game Microsoft Flight Simulator 2024, and the runway it shows, on Saba, is 401 metres long and 18 metres wide; a BelugaXL is 63.1 metres long [5] [7] [8]."
+soort = "bewerkt"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "This is so unbelievable... how can a very big aircraft like this turn around in this tiny road... max respect to the pilot"
+platform = "X"
+eerst_gezien = "2026-11-11"
+posts = 57
+bereik = "the 55 posts that link to the video had 4,229 likes and 2,151 replies together on November 23; the post of November 16 had 70 likes and 27,300 views"
+
+kort = """
+Since November 11, posts on X have shared a video of an Airbus BelugaXL that turns around on a tiny runway above a \
+cliff and takes off, as if it were a real flight [1] [3]. The video comes from a flight simulator. It was on YouTube \
+in August 2025, listed under the game Microsoft Flight Simulator 2024 [5]. The runway is that of Saba, 401 metres long \
+and 18 metres wide, and a BelugaXL is 63.1 metres long [7] [8]."""
+
+tekst = """
+On November 16, 2026, the account Amelia Collins wrote on X that it was unbelievable how "a very big aircraft like \
+this" could turn around "in this tiny road", with "max respect to the pilot" [1]. Her post links to a video of 2 \
+minutes 41 seconds that another account posted on X on March 9, 2026, as "One of the shortest runways an airplane has \
+to land on" [2]. That account has since deleted the post [2]. From November 11 to 19, we counted 55 posts by 47 \
+accounts on X that link to the video [1] [3]. On November 22, an account uploaded a shortened copy [4].
+
+The video shows a large white cargo aircraft with BELUGA XL and AIRBUS on its side [2]. Next to rows of solar \
+panels, it turns around on a runway marked 30, takes off over the sea and lands elsewhere [2].
+
+The same video, with the same shots at the same moments, was posted on August 6, 2025 by the YouTube channel Smilo \
+Fly, as "Airbus Beluga XL Impossible takeoff from SABA Airport" [5]. YouTube lists the game Microsoft Flight Simulator \
+2024 under it [5].
+
+Saba is a Dutch island in the Caribbean, and its solar park lies right next to the airport [6] [7]. According to the \
+official aeronautical information for Saba, the runway is 401 metres long and 18 metres wide, and only aeroplanes \
+authorised by the Dutch government may use the airport [7]. Airbus says the BelugaXL is 63.1 metres long and that its \
+six BelugaXLs carry aircraft parts between 11 destinations in Europe [8].
+
+The one BelugaXL incident we found in the database of the Aviation Safety Network happened in France [9]. On \
+November 18, 2022, a BelugaXL partly left the paved surface at Albert while making a 180-degree turn after landing [9]."""
+
+niet_weten = """
+We do not know who recorded the flight in the simulator: the upload by Smilo Fly of August 6, 2025 is the earliest \
+we found, but the channel may have copied it [5]. We do not know why the account on X deleted its post of March 9 \
+[2]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who recorded the flight in Microsoft Flight Simulator 2024, and whether Smilo Fly made the video or took it from another creator.",
+  "Whether the accounts that posted the same sentences with the link, such as \"It really goes unplanned\", work together.",
+  "If you know more about where this video first appeared, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "A copy of the video in a post on X, November 22, 2026, 04:12 UTC."
+alt = "A post on X saying this is one of the shortest runways in the world and the pilot has to land perfectly, with a still from the video: an Airbus BelugaXL on an apron next to a solar park and a short runway marked 30. Stamp: FALSE."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.youtube.com/watch?v=n2byTtpIWFk"
+stempel = false
+bijschrift = "Smilo Fly on YouTube, August 6, 2025: the same video of 2 minutes 41 seconds, listed under the game Microsoft Flight Simulator 2024."
+alt = "Still from the YouTube video of Smilo Fly: an Airbus BelugaXL on the apron next to the solar park of Saba airport, with the runway marked 30 above a cliff."
+
+[[tijdlijn]]
+datum = "2022-11-18"
+wat = "A real BelugaXL partly leaves the paved surface during a 180-degree turn at Albert, France [9]."
+
+[[tijdlijn]]
+datum = "2025-08-06"
+wat = "Smilo Fly posts the video on YouTube, listed under Microsoft Flight Simulator 2024 [5]."
+
+[[tijdlijn]]
+datum = "2026-03-09"
+tijd = "4:51"
+wat = "An account posts the same video on X as one of the shortest runways [2]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+tijd = "15:56"
+wat = "The first post we found in November links to that video [3]."
+
+[[tijdlijn]]
+datum = "2026-11-16"
+tijd = "16:06"
+wat = "Amelia Collins: max respect to the pilot [1]."
+
+[[tijdlijn]]
+datum = "2026-11-22"
+tijd = "4:12"
+wat = "An account uploads a shortened copy of the video [4]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post by Amelia Collins about a very big aircraft turning around in a tiny road"
+datum = "2026-11-16"
+prive = true
+archief = "https://web.archive.org/web/20261123005959/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122360591834579231&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "The post of March 9, 2026 with the video of 2 minutes 41 seconds (deleted by its author)"
+datum = "2026-03-09"
+prive = true
+archief = "https://web.archive.org/web/20260309045135/https://twitter.com/umperukacyera0/status/2030869082333974692"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "X"
+titel = "The first post we found in November that links to the video"
+datum = "2026-11-11"
+prive = true
+archief = "https://web.archive.org/web/20261123010027/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2120546227519471963&omit_script=true"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "X"
+titel = "A post with a shortened copy of the video: one of the shortest runways in the world"
+datum = "2026-11-22"
+prive = true
+archief = "https://web.archive.org/web/20261123010059/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2124355201855373313&omit_script=true"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Smilo Fly (YouTube)"
+titel = "Airbus Beluga XL Impossible takeoff from SABA Airport #shorts"
+datum = "2025-08-06"
+url = "https://www.youtube.com/watch?v=n2byTtpIWFk"
+archief = "https://web.archive.org/web/20261123010203/https://www.youtube.com/watch?v=n2byTtpIWFk"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "NTR Caribisch Netwerk (Dutch Caribbean Network)"
+titel = "Solar Park Saba: good for the environment, not yet great for the wallet"
+datum = "2019-04-22"
+url = "https://caribbeannetwork.ntr.nl/2019/04/22/solar-park-saba-good-for-the-environment-not-yet-great-for-the-wallet/"
+archief = "https://web.archive.org/web/20261123010237/https://caribbeannetwork.ntr.nl/2019/04/22/solar-park-saba-good-for-the-environment-not-yet-great-for-the-wallet/"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Dutch Caribbean Air Navigation Service Provider (DC-ANSP)"
+titel = "eAIP, AD 2 TNCS Saba, Juancho E. Yrausquin Airport (AIRAC AMDT 03-26, effective October 1, 2026)"
+datum = "2026-10-01"
+url = "https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%2003-26_2026_10_01/eAIP/AD%202%20TNCS%20-%20SABA%201-en-US.html"
+archief = "https://web.archive.org/web/20261123010331/https://aim.dc-ansp.org/eAIP/AIRAC%20AMDT%2003-26_2026_10_01/eAIP/AD%202%20TNCS%20-%20SABA%201-en-US.html"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Airbus"
+titel = "The iconic Airbus Beluga Super Transporter (consulted November 23, 2026)"
+datum = "2026-11-23"
+url = "https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+archief = "https://web.archive.org/web/20261123010415/https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "Aviation Safety Network (Flight Safety Foundation)"
+titel = "Incident Airbus A330-743 Beluga XL F-GXLN, Friday 18 November 2022"
+datum = "2025-01-21"
+url = "https://aviation-safety.net/wikibase/472209"

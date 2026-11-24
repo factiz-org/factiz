@@ -1,0 +1,397 @@
+<title>Kaartenbak Factiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap">
+<style>
+/* Een kaartenbak: één kolom kaarten, elk met de rode kopregel van een systeemkaart; boven de stand van de ronde. */
+:root {
+  --bg: #eef0ec; --kaart: #fcfcf9; --inkt: #1d2320; --zacht: #5d6660; --lijn: #d6dad3; --rode-lijn: #c9584b;
+  --accent: #23566b; --accent-zacht: #dbe7ea;
+  --rood: #b3322a; --oranje: #b8650f; --groen: #2f7d4a; --grijs: #737c76;
+  --rood-zacht: #f6dfdc; --oranje-zacht: #f7e6d2; --groen-zacht: #dcefe1; --grijs-zacht: #e6e9e4;
+  --serif: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+    --accent: #7fb4c7; --accent-zacht: #23353b;
+    --rood: #e7776d; --oranje: #e9a35a; --groen: #6cc08a; --grijs: #a3aba6;
+    --rood-zacht: #3d2422; --oranje-zacht: #3d2e1c; --groen-zacht: #1f3527; --grijs-zacht: #2a302d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+  --accent: #7fb4c7; --accent-zacht: #23353b;
+  --rood: #e7776d; --oranje: #e9a35a; --groen: #6cc08a; --grijs: #a3aba6;
+  --rood-zacht: #3d2422; --oranje-zacht: #3d2e1c; --groen-zacht: #1f3527; --grijs-zacht: #2a302d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--inkt); font: 15px/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px; }
+.bak { max-width: 760px; margin: 0 auto; display: grid; gap: 22px; }
+header { display: grid; gap: 10px; }
+.label { font: 500 11.5px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--zacht); }
+h1 { font: 500 28px/1.2 var(--serif); margin: 0; text-wrap: balance; }
+.uitleg-ronde { margin: 0; color: var(--zacht); max-width: 62ch; }
+.stand { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: baseline; padding: 12px 14px; border: 1px solid var(--lijn);
+  border-radius: 6px; background: var(--kaart); font-variant-numeric: tabular-nums; }
+.stand strong { font: 600 20px/1 var(--sans); }
+#tellers { display: contents; }
+.stand .item { display: flex; gap: 6px; align-items: baseline; color: var(--zacht); }
+.stand .item b { color: var(--inkt); font-weight: 600; }
+.balk { flex-basis: 100%; height: 4px; background: var(--grijs-zacht); border-radius: 2px; overflow: hidden; }
+.balk span { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+.melding { font-size: 13px; color: var(--zacht); }
+.kaart { background: var(--kaart); border: 1px solid var(--lijn); border-radius: 4px; display: grid; gap: 14px;
+  padding: 0 18px 18px; box-shadow: 0 1px 0 var(--lijn); min-width: 0; }
+.kop { border-bottom: 2px solid var(--rode-lijn); padding: 10px 0 6px; display: flex; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap; }
+.bericht { font: 400 17px/1.55 var(--serif); margin: 0; white-space: pre-line; overflow-wrap: anywhere;
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(1.55em - 1px), var(--lijn) calc(1.55em - 1px), var(--lijn) 1.55em);
+  background-position: 0 -1px; }
+.oordeel { display: grid; gap: 8px; padding: 12px 14px; border-radius: 6px; background: var(--grijs-zacht); }
+.oordeel[data-kleur="rood"] { background: var(--rood-zacht); }
+.oordeel[data-kleur="oranje"] { background: var(--oranje-zacht); }
+.oordeel[data-kleur="groen"] { background: var(--groen-zacht); }
+.chip { display: inline-flex; align-items: center; gap: 8px; font: 600 14px/1.2 var(--sans); }
+.chip::before { content: ""; width: 12px; height: 12px; border-radius: 50%; background: var(--grijs); flex: none; }
+.oordeel[data-kleur="rood"] .chip::before { background: var(--rood); }
+.oordeel[data-kleur="oranje"] .chip::before { background: var(--oranje); }
+.oordeel[data-kleur="groen"] .chip::before { background: var(--groen); }
+.chip small { font: 400 12px/1 var(--mono); color: var(--zacht); }
+.oordeel p { margin: 0; max-width: 65ch; }
+details.bronnen summary { cursor: pointer; font-size: 13.5px; color: var(--accent); }
+details.bronnen ul { list-style: none; padding: 0; margin: 8px 0 0; display: grid; gap: 6px; }
+details.bronnen li { display: grid; gap: 1px; font-size: 13.5px; min-width: 0; }
+details.bronnen a { color: var(--inkt); overflow-wrap: anywhere; }
+details.bronnen .meta { font: 400 11.5px/1.3 var(--mono); color: var(--zacht); }
+.keus { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.keus .vraag { flex-basis: 100%; font-weight: 500; }
+button { font: 500 14px/1 var(--sans); padding: 10px 14px; border-radius: 5px; border: 1px solid var(--lijn);
+  background: var(--kaart); color: var(--inkt); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--kaart); }
+button.licht { border: 0; background: none; color: var(--accent); padding: 6px 0; text-decoration: underline; }
+textarea { width: 100%; min-height: 56px; resize: vertical; font: 14px/1.45 var(--sans); color: var(--inkt);
+  background: var(--bg); border: 1px solid var(--lijn); border-radius: 5px; padding: 8px 10px; }
+.onthulling { border-top: 1px dashed var(--lijn); padding-top: 12px; display: grid; gap: 4px; }
+.onthulling .wat { font-weight: 600; }
+.onthulling a, a.foto { color: var(--accent); }
+a.foto { font-size: 14px; justify-self: start; }
+.duo { display: grid; gap: 12px; }
+@media (min-width: 640px) { .duo { grid-template-columns: 1fr 1fr; } }
+.antwoord { display: grid; gap: 8px; align-content: start; min-width: 0; }
+.antwoord .oordeel { align-content: start; height: 100%; }
+.antwoord .uitleg { white-space: pre-line; overflow-wrap: anywhere; font-size: 14.5px; }
+.wie { font-weight: 600; }
+footer { color: var(--zacht); font-size: 13px; max-width: 65ch; }
+@media (max-width: 480px) { h1 { font-size: 23px; } .bericht { font-size: 16px; } .kaart { padding: 0 14px 14px; } }
+@media (prefers-reduced-motion: reduce) { .balk span { transition: none; } }
+</style>
+
+<div class="bak">
+  <header>
+    <span class="label" id="ronde-label">Ronde</span>
+    <h1>Klopt het oordeel van Factiz?</h1>
+    <p class="uitleg-ronde" id="ronde-uitleg"></p>
+    <div class="stand" aria-live="polite">
+      <strong id="stand-telling">0 van 0</strong><span class="item">beoordeeld</span>
+      <span id="tellers"></span>
+      <div class="balk"><span id="balk"></span></div>
+    </div>
+    <span class="melding" id="melding">Je keuzes worden bewaard zodra de pagina verbinding heeft.</span>
+  </header>
+  <main class="bak" id="kaarten"></main>
+  <footer id="voet"></footer>
+</div>
+
+<script type="application/json" id="data">/*KAARTEN*/</script>
+<script>
+const DATA = JSON.parse(document.getElementById("data").textContent);
+const RONDE = DATA.ronde;
+const UITKOMST = {"klopt": "Klopt", "klopt niet": "Klopt niet", "misleidend": "Misleidend", "niet bevestigd": "Niet bevestigd",
+  "onzeker": "Onzeker", "beeld nodig": "Beeld nodig", "klopt grotendeels": "Klopt grotendeels", "geen bewering": "Geen bewering",
+  "over een bewering": "Over een bewering", "satire": "Satire"};
+const KLEUR = {rood: "rood", oranje: "oranje", groen: "groen"};
+const KEUZES = [["eens", "Eens met Factiz"], ["oneens", "Oneens"], ["weet niet", "Weet niet"]];
+const DUEL = DATA.soort === "duel";
+const KLOPT = [["A", "A klopt"], ["B", "B klopt"], ["beide", "Allebei"], ["geen", "Geen van beide"], ["weet niet", "Weet niet"]];
+const HELPT = [["A", "A"], ["B", "B"], ["gelijk", "Even goed"]];
+const VELDEN = DUEL ? ["klopt", "helpt"] : ["keuze"];
+const KAART = Object.fromEntries(DATA.kaarten.map(k => [k.id, k]));
+const staat = {};   // kaart-id -> {keuze, opmerking}
+const open = {};    // kaart-id -> onthulling getoond
+let db = null;
+
+function el(tag, attrs = {}, ...kinderen) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "text") e.textContent = v; else if (v !== null && v !== undefined) e.setAttribute(k, v);
+  }
+  for (const k of kinderen) if (k) e.append(k);
+  return e;
+}
+
+function datum(d) {
+  if (!d) return "";
+  const t = new Date(d + "T12:00:00");
+  return isNaN(t) ? d : t.toLocaleDateString("nl-NL", {day: "numeric", month: "long", year: "numeric"});
+}
+
+function bewaarLokaal() { try { localStorage.setItem("kaartenbak-" + RONDE, JSON.stringify(staat)); } catch (e) {} }
+function leesLokaal() { try { return JSON.parse(localStorage.getItem("kaartenbak-" + RONDE) || "{}"); } catch (e) { return {}; } }
+
+const wachtrij = {};
+function schrijf(id) {
+  bewaarLokaal();
+  if (!db) return;
+  const s = staat[id] || {};
+  const vorige = wachtrij[id] || Promise.resolve();
+  const doc = {opmerking: s.opmerking || "", tijd: new Date().toISOString()};
+  for (const v of VELDEN) doc[v] = s[v] || null;
+  if (DUEL) doc.a = KAART[id].antwoorden[0].wie;
+  wachtrij[id] = vorige.then(() => db.collection("rondes/" + RONDE + "/keuzes").doc(id).set(doc)).catch(fout => {
+    document.getElementById("melding").textContent =
+      fout && fout.code === "invalid_argument" ? "Je kunt hier kijken, maar niet kiezen." : "Opslaan lukte niet; probeer het zo nog eens.";
+  });
+}
+
+function teller(tekst, n) { return el("span", {class: "item"}, document.createTextNode(tekst + " "), el("b", {text: String(n)})); }
+
+function stand() {
+  const n = DATA.kaarten.length;
+  let klaar, tellers;
+  if (DUEL) {
+    const t = {klopt: {Factiz: 0, Gemini: 0}, helpt: {Factiz: 0, Gemini: 0, gelijk: 0}};
+    klaar = 0;
+    for (const k of DATA.kaarten) {
+      const s = staat[k.id] || {};
+      const wie = {A: k.antwoorden[0].wie, B: k.antwoorden[1].wie};
+      if (s.klopt && s.helpt) klaar++;
+      if (s.klopt === "A" || s.klopt === "B") t.klopt[wie[s.klopt]]++;
+      if (s.klopt === "beide") { t.klopt.Factiz++; t.klopt.Gemini++; }
+      if (s.helpt === "A" || s.helpt === "B") t.helpt[wie[s.helpt]]++;
+      if (s.helpt === "gelijk") t.helpt.gelijk++;
+    }
+    tellers = [teller("Factiz klopt", t.klopt.Factiz), teller("Gemini klopt", t.klopt.Gemini),
+      teller("Factiz helpt meer", t.helpt.Factiz), teller("Gemini helpt meer", t.helpt.Gemini), teller("even goed", t.helpt.gelijk)];
+  } else {
+    const waarden = DATA.kaarten.map(k => (staat[k.id] || {}).keuze).filter(Boolean);
+    klaar = waarden.length;
+    tellers = [["eens", "eens"], ["oneens", "oneens"], ["weet niet", "weet niet"]].map(([w, tekst]) =>
+      teller(tekst, waarden.filter(x => x === w).length));
+  }
+  document.getElementById("stand-telling").textContent = klaar + " van " + n;
+  document.getElementById("tellers").replaceChildren(...tellers);
+  document.getElementById("balk").style.width = (n ? 100 * klaar / n : 0) + "%";
+}
+
+function onthulling(k) {
+  const o = k.onthulling;
+  const blok = el("div", {class: "onthulling"});
+  if (o.soort === "nieuws") {
+    blok.append(el("span", {class: "label", text: "Waar het vandaan komt"}),
+      el("span", {class: "wat", text: "Uit het nieuws van " + o.door + (o.datum ? ", " + datum(o.datum) : "")}),
+      el("span", {text: o.factcheck ? "Er lag al een factcheck over: Factiz vond hem." : "Factiz vond er geen factcheck over."}));
+    if (o.url) blok.append(el("a", {href: o.url, target: "_blank", rel: "noopener", text: "Lees het artikel"}));
+  } else if (o.soort === "factcheck") {
+    blok.append(el("span", {class: "label", text: "Wat de redactie zei"}),
+      el("span", {class: "wat", text: "Nepnieuws: " + o.door + " noemde dit " + (o.oordeel || "onwaar") + (o.datum ? " (" + datum(o.datum) + ")" : "")}));
+    if (o.url) blok.append(el("a", {href: o.url, target: "_blank", rel: "noopener", text: "Lees de factcheck"}));
+  } else {
+    blok.append(el("span", {class: "label", text: "Wat het bericht is"}),
+      el("span", {class: "wat", text: "Waar nieuws: een echte kop van " + o.door + (o.datum ? ", " + datum(o.datum) : "")}));
+  }
+  return blok;
+}
+
+function teken(k, i) {
+  const s = staat[k.id] || {};
+  const kaart = el("article", {class: "kaart", id: "kaart-" + i, "aria-labelledby": "kop-" + i});
+  const kop = el("div", {class: "kop"},
+    el("span", {class: "label", id: "kop-" + i, text: "Kaart " + (i + 1) + " van " + DATA.kaarten.length}),
+    el("span", {class: "label", text: k.bronnen.length + (k.bronnen.length === 1 ? " bron" : " bronnen")}));
+  const bericht = el("p", {class: "bericht", lang: "en", text: k.bericht});
+  const foto = k.foto ? el("a", {class: "foto", href: k.foto, target: "_blank", rel: "noopener",
+    text: "Bekijk de foto bij dit bericht (opent in een nieuw tabblad)"}) : null;
+  const kleur = KLEUR[k.kleur] || "geen";
+  const oordeel = el("div", {class: "oordeel", "data-kleur": kleur},
+    el("span", {class: "chip"}, document.createTextNode(UITKOMST[k.uitkomst] || k.uitkomst),
+      el("small", {text: kleur === "geen" ? "geen kleur" : kleur})),
+    k.uitleg ? el("p", {text: k.uitleg}) : k.route === "database"
+      ? el("p", {text: "Uit de database: deze bewering is al gecontroleerd door een redactie. Factiz geeft dan meteen hun oordeel, zonder te zoeken of een model te vragen."})
+      : null);
+  if (k.bronnen.length) {
+    const lijst = el("ul");
+    for (const b of k.bronnen) {
+      lijst.append(el("li", {},
+        el("a", {href: b.url, target: "_blank", rel: "noopener", text: b.titel || b.site}),
+        el("span", {class: "meta", text: [b.site, b.rol, b.rol === "check in de database" ? null : (b.band ? "band " + b.band : "geen band")].filter(Boolean).join(" · ")})));
+    }
+    oordeel.append(el("details", {class: "bronnen"}, el("summary", {text: "De bronnen die Factiz noemt"}), lijst));
+  }
+  const keus = el("div", {class: "keus", role: "group", "aria-label": "Jouw oordeel"},
+    el("span", {class: "vraag", text: "Ben je het eens met Factiz?"}));
+  for (const [waarde, tekst] of KEUZES) {
+    const knop = el("button", {type: "button", id: "keus-" + i + "-" + waarde.replace(" ", "-"), "aria-pressed": String(s.keuze === waarde), text: tekst});
+    knop.addEventListener("click", () => {
+      staat[k.id] = {...(staat[k.id] || {}), keuze: s.keuze === waarde ? null : waarde};
+      open[k.id] = true;
+      schrijf(k.id); vervang(k, i); stand();
+    });
+    keus.append(knop);
+  }
+  const opm = el("textarea", {id: "opmerking-" + i, placeholder: "Waarom? (mag leeg blijven)", "aria-label": "Opmerking bij kaart " + (i + 1)});
+  opm.value = s.opmerking || "";
+  let pauze;
+  opm.addEventListener("input", () => {
+    clearTimeout(pauze);
+    pauze = setTimeout(() => { staat[k.id] = {...(staat[k.id] || {}), opmerking: opm.value}; schrijf(k.id); }, 900);
+  });
+  kaart.append(...[kop, bericht, foto, oordeel, keus, opm].filter(Boolean));
+  if (open[k.id] || s.keuze) kaart.append(onthulling(k));
+  else {
+    const toon = el("button", {type: "button", class: "licht", id: "toon-" + i, text: "Toon wat de redactie zei"});
+    toon.addEventListener("click", () => { open[k.id] = true; vervang(k, i); });
+    kaart.append(toon);
+  }
+  return kaart;
+}
+
+function knoppen(k, i, veld, keuzes, vraag) {
+  const s = staat[k.id] || {};
+  const groep = el("div", {class: "keus", role: "group", "aria-label": vraag}, el("span", {class: "vraag", text: vraag}));
+  for (const [waarde, tekst] of keuzes) {
+    const knop = el("button", {type: "button", id: "keus-" + i + "-" + veld + "-" + waarde.replace(" ", "-"),
+      "aria-pressed": String(s[veld] === waarde), text: tekst});
+    knop.addEventListener("click", () => {
+      const nu = staat[k.id] || {};
+      staat[k.id] = {...nu, [veld]: nu[veld] === waarde ? null : waarde};
+      schrijf(k.id); vervang(k, i); stand();
+    });
+    groep.append(knop);
+  }
+  return groep;
+}
+
+function tekenDuel(k, i) {
+  const s = staat[k.id] || {};
+  const onthuld = open[k.id] || (s.klopt && s.helpt);
+  const kaart = el("article", {class: "kaart", id: "kaart-" + i, "aria-labelledby": "kop-" + i});
+  const kop = el("div", {class: "kop"},
+    el("span", {class: "label", id: "kop-" + i, text: "Kaart " + (i + 1) + " van " + DATA.kaarten.length}));
+  const bericht = el("p", {class: "bericht", lang: "en", text: k.bericht});
+  const foto = k.foto ? el("a", {class: "foto", href: k.foto, target: "_blank", rel: "noopener",
+    text: "Bekijk de foto bij dit bericht (beide kregen hem te zien; opent in een nieuw tabblad)"}) : null;
+  const duo = el("div", {class: "duo"});
+  k.antwoorden.forEach((a, j) => {
+    const letter = "AB"[j];
+    const kleur = KLEUR[a.kleur] || "geen";
+    const blok = el("div", {class: "oordeel", "data-kleur": kleur},
+      el("span", {class: "label", text: "Antwoord " + letter + (onthuld ? " · " + a.wie : "")}),
+      el("span", {class: "chip"}, document.createTextNode(UITKOMST[a.oordeel] || a.oordeel),
+        el("small", {text: kleur === "geen" ? "geen kleur" : kleur})),
+      a.uitleg ? el("p", {class: "uitleg", text: a.uitleg}) : null);
+    if (a.bronnen.length) {
+      const lijst = el("ul");
+      for (const b of a.bronnen) lijst.append(el("li", {}, el("a", {href: b.url, target: "_blank", rel: "noopener", text: b.site || b.url})));
+      blok.append(el("details", {class: "bronnen"}, el("summary", {text: a.bronnen.length + (a.bronnen.length === 1 ? " bron" : " bronnen")}), lijst));
+    }
+    duo.append(el("div", {class: "antwoord"}, blok));
+  });
+  const opm = el("textarea", {id: "opmerking-" + i, placeholder: "Waarom? (mag leeg blijven)", "aria-label": "Opmerking bij kaart " + (i + 1)});
+  opm.value = s.opmerking || "";
+  let pauze;
+  opm.addEventListener("input", () => {
+    clearTimeout(pauze);
+    pauze = setTimeout(() => { staat[k.id] = {...(staat[k.id] || {}), opmerking: opm.value}; schrijf(k.id); }, 900);
+  });
+  kaart.append(...[kop, bericht, foto, duo, knoppen(k, i, "klopt", KLOPT, "Welk antwoord klopt?"),
+    knoppen(k, i, "helpt", HELPT, "Welk antwoord helpt je het meest om het te beoordelen?"), opm].filter(Boolean));
+  if (onthuld) {
+    const blok = onthulling(k);
+    blok.prepend(el("span", {class: "wie", text: "A was " + k.antwoorden[0].wie + ", B was " + k.antwoorden[1].wie + "."}));
+    kaart.append(blok);
+  } else {
+    const toon = el("button", {type: "button", class: "licht", id: "toon-" + i, text: "Toon wie wie is en wat het echt was"});
+    toon.addEventListener("click", () => { open[k.id] = true; vervang(k, i); });
+    kaart.append(toon);
+  }
+  return kaart;
+}
+
+function vervang(k, i) {
+  const oud = document.getElementById("kaart-" + i);
+  const focus = document.activeElement && document.activeElement.id;
+  oud.replaceWith((DUEL ? tekenDuel : teken)(k, i));
+  if (focus) { const f = document.getElementById(focus); if (f) f.focus(); }
+}
+
+function tekenAlles() {
+  const bak = document.getElementById("kaarten");
+  bak.replaceChildren(...DATA.kaarten.map((k, i) => (DUEL ? tekenDuel : teken)(k, i)));
+  stand();
+}
+
+document.getElementById("ronde-label").textContent = DATA.titel || ("Ronde van " + datum(RONDE));
+if (DUEL) {
+  const nep = DATA.kaarten.filter(k => k.onthulling.soort === "factcheck").length;
+  document.querySelector("h1").textContent = "Factiz of gewoon zoeken: welk antwoord klopt?";
+  document.getElementById("ronde-uitleg").textContent =
+    DATA.kaarten.length + " berichten: " + (DATA.kaarten.length - nep) + " uit het nieuws van de afgelopen twee dagen, waarvan niemand vooraf wist of ze kloppen, en " +
+    nep + " nepberichten die een westerse factchecker de afgelopen twee maanden onderzocht. Elk bericht ging naar Factiz, zoals het product, " +
+    "en naar Gemini met Google Search, met de vraag die een gebruiker zou stellen: klopt dit? Bij een foto kregen beide de foto. " +
+    "Je ziet de antwoorden als A en B; wie wie is, zie je pas na je twee keuzes.";
+  document.getElementById("voet").textContent =
+    "Meting " + DATA.meting + ": Factiz met lezer " + DATA.lezer + ", Gemini als " + DATA.tegen + " met Google Search. " +
+    "Beide antwoorden zijn in het Nederlands, zonder opmaak en met dezelfde bronregel. De lengte van de uitleg is van henzelf; die kan verraden wie wie is. " +
+    "Je keuzes en opmerkingen worden bij deze ronde bewaard.";
+} else {
+document.getElementById("ronde-uitleg").textContent =
+  (DATA.soort === "nieuws"
+    ? DATA.kaarten.length + " willekeurige berichten uit het nieuws van de afgelopen twee dagen, getrokken uit " + DATA.voorraad +
+      " koppen van " + ((DATA.media || []).length || "") + " Engelstalige media uit het hele spectrum: koppen, de helft met de naam van het medium erboven, en nieuwsfoto's met hun bijschrift. Niemand wist vooraf of ze kloppen of dat er een factcheck over bestaat. "
+    : DATA.kaarten.length + " Engelse berichten, willekeurig getrokken uit " + DATA.voorraad +
+      " berichten uit westerse media: nepnieuws dat een westerse factchecker onderzocht, en echte koppen van BBC, The Guardian, NPR, DW en France 24. ") +
+  (DATA.modus === "product"
+    ? "Factiz las ze zoals het product: met zijn eigen database van factchecks en met de factchecksites in de zoekresultaten, dus zoals een gebruiker het antwoord krijgt. "
+    : "Factiz las ze als op de eerste dag, zonder factchecksites en zonder zijn eigen database; strenger dan wat een gebruiker krijgt. ") +
+  "Kies per kaart of je het eens bent; daarna zie je wat het echt was.";
+document.getElementById("voet").textContent =
+  "Meting " + DATA.meting + ", lezer " + DATA.lezer + (DATA.media ? ". Media in deze ronde: " + DATA.media.join(", ") : "") +
+  ". De uitleg van Factiz is in het Nederlands, het bericht in het Engels. " +
+  "Je keuzes en opmerkingen worden bij deze ronde bewaard, zodat ze bij de volgende meting meetellen.";
+}
+
+Object.assign(staat, leesLokaal());
+tekenAlles();
+
+(async () => {
+  db = await claude.use("db");
+  const melding = document.getElementById("melding");
+  if (!db) { melding.textContent = "Deze weergave bewaart je keuzes alleen in deze browser."; return; }
+  const wacht = setTimeout(() => { melding.textContent = "De bewaarde keuzes zijn nog niet bereikbaar; je kunt al wel kiezen."; }, 10000);
+  db.collection("rondes/" + RONDE + "/keuzes").onSnapshot(snap => {
+    if (!snap.metadata.fromCache) { clearTimeout(wacht); melding.textContent = "Je keuzes worden bewaard."; }
+    let anders = false;
+    for (const d of snap.docs) {
+      const w = d.data() || {};
+      const nu = staat[d.id] || {};
+      const keuzes = Object.fromEntries(VELDEN.map(v => [v, w[v] || null]));
+      if (VELDEN.some(v => (nu[v] || null) !== keuzes[v]) || (nu.opmerking || "") !== (w.opmerking || "")) {
+        if (document.activeElement && document.activeElement.id && document.activeElement.tagName === "TEXTAREA") {
+          staat[d.id] = {...nu, ...keuzes};
+        } else staat[d.id] = {...keuzes, opmerking: w.opmerking || ""};
+        anders = true;
+      }
+    }
+    if (anders) { bewaarLokaal(); tekenAlles(); }
+  }, () => { clearTimeout(wacht); melding.textContent = "De bewaarde keuzes zijn nu niet bereikbaar; je kunt wel kiezen in deze browser."; });
+})();
+</script>

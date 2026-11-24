@@ -1,0 +1,385 @@
+{
+ "toelichting": "PLAN #32.41: elk rood en oranje, elk groen bij onwaar nieuws (O', M) en elke niet bevestigd bij waar nieuws (W2, W-merk, G2), gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, waar nodig met de bron zelf of een zoekvraag erbij, nooit een factchecksite; de afwijkende door de hoofdsessie nagelezen. N en W na het opwaarderen van Brave, door twee deelagenten met dezelfde regels; een alarm met de eigen check als bron bewijst zichzelf (meting.auto_label).",
+ "labels": {
+  "G:t-03383#C": {
+   "label": "set fout",
+   "toelichting": "Het bericht is zelf onjuist: Yes Bank was niet gesloten maar stond in maart 2020 kort onder moratorium, en geld ging niet verloren."
+  },
+  "G:t-03988#C": {
+   "label": "set fout",
+   "toelichting": "De tip is een bekende hoax: via melden zie je niet wie je profiel bekijkt, dus het bericht is onwaar en hoort niet bij de gewone teksten."
+  },
+  "M:05d3ed586cf44964#C": {
+   "label": "bewijst",
+   "toelichting": "10news concludeert 'the post is fiction' en de X-pagina noemt de tweet nep."
+  },
+  "M:0c62484a96295702#C": {
+   "label": "bewijst",
+   "toelichting": "Time zelf meldt dat Taylor Swift Person of the Year 2023 is, dus niet Khaled Nabhan."
+  },
+  "M:20d1c76bdda9b1d3#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over echte acties van Six Flags (gratis pas voor kinderen van 3 tot 5) en zeggen niets over vijf gratis passen voor iedereen."
+  },
+  "M:24d013cc0366ef5d#C": {
+   "label": "vals",
+   "toelichting": "Op 10 februari 2020 had Andorra nog geen geval; het eerste kwam pas op 2 maart, dus de kop was toen onwaar en de bronnen van maart bevestigen hem niet."
+  },
+  "M:450dfb14357ea2ab#C": {
+   "label": "bewijst",
+   "toelichting": "De Prefeitura de Paraibuna noemt het bericht over R$110 aan gashulp per gezin in de kop nep."
+  },
+  "M:49e08237affe74d7#C": {
+   "label": "vals",
+   "toelichting": "Mac Allister was zelf de officiële speler van de wedstrijd tegen Polen; Messi gaf geen prijs door, dus groen is fout ondanks het stuk van Indian Express."
+  },
+  "M:4e8469ba8f62445b#C": {
+   "label": "bewijst",
+   "toelichting": "Cadena SER, Cinco Días en AS noemen de gratis Netflix-accounts tijdens de lockdown een oplichting."
+  },
+  "M:568a6f5f7c644e31#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact en AllSides noemen de AP-kop over de bliksem in hun titel vervalst of nep."
+  },
+  "M:62540510ff495239#C": {
+   "label": "set fout",
+   "toelichting": "De tekst beschrijft alleen dat Musk de meme plaatste, en dat klopt (NBC, The Hill); de valse bewering staat er alleen met 'Demnach' in."
+  },
+  "M:638bed9b482bc966#C": {
+   "label": "bewijst niet",
+   "toelichting": "Een datumoverzicht en een bericht over het eerste geval in Barcelona zeggen niets over het communiqué over Sants of Santa Eulàlia."
+  },
+  "M:73be79615619a293#C": {
+   "label": "set fout",
+   "toelichting": "De tekst beschrijft de nagemaakte Spiegel-site van Doppelgänger in plaats van de valse bewering zelf, en als beschrijving klopt hij."
+  },
+  "M:7786cba020ae45c0#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa (een factchecker die toch doorkwam) meldt dat verjaardagspromoties van Coca-Cola op sociale media oplichting zijn."
+  },
+  "M:7df74d7fd8f88416#C": {
+   "label": "bewijst",
+   "toelichting": "UOL noemt het een montage en de Câmara zegt dat zo'n wetsvoorstel niet bestaat."
+  },
+  "M:8667976d0af8300e#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint, Alt News en BOOM noemen de BBC-peiling met een BJP-overwinning in de kop nep."
+  },
+  "M:9052d95c87b8f53f#C": {
+   "label": "bewijst",
+   "toelichting": "Bangalore Mirror, The Quint en Alt News schrijven dat EPFO geen Rs 80.000 geeft en dat het bericht nep is."
+  },
+  "M:9d0f0a28eb9027ae#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact meldt dat Argos bevestigde dat het aanbod nep is (een factchecksite die door het filter glipte)."
+  },
+  "M:9eee7a45bbf973d2#C": {
+   "label": "bewijst",
+   "toelichting": "VERA Files (een factchecker die toch doorkwam) noemt de quote card in de kop nep."
+  },
+  "M:a0038816e1ea4e91#C": {
+   "label": "bewijst",
+   "toelichting": "GZH meldt dat oplichters zich als onderzoekers van het ministerie voordoen om WhatsApp te klonen; het ministerie doet zo'n peiling niet."
+  },
+  "M:b45bd1913cce29eb#C": {
+   "label": "bewijst",
+   "toelichting": "Cadena SER en La Vanguardia noemen de gratis Adidas-mondkapjes een phishingtruc."
+  },
+  "M:b58ebf5c99c2a6cb#C": {
+   "label": "bewijst",
+   "toelichting": "Poynter noemt de UNICEF-bewering over 26 tot 27 graden onwaar, en de mythbusters van de WHO spreken haar tegen."
+  },
+  "M:bb6bf02871ca04ff#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint noemt in de titel de bewering dat Saudia alle vluchten uit India stopte vals."
+  },
+  "M:c3cd7c1278ceb73d#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (door het filter geglipt) en Malwarebytes melden dat Aldi geen voedselboxen weggeeft en dat het oplichting is."
+  },
+  "M:d2bc768f182972b0#C": {
+   "label": "bewijst",
+   "toelichting": "El Debate waarschuwt in december 2022 voor deze nepmail namens de Agencia Tributaria, en de dienst zelf waarschuwt voor zulke phishing."
+  },
+  "M:dcc833927828bf23#C": {
+   "label": "bewijst",
+   "toelichting": "Het leger zelf ontkende dat het het ziekenhuis raakte (IDF, Reuters) en wees op een mislukte raket; van opscheppen is dus geen sprake."
+  },
+  "M:e7316b13a709a7bc#C": {
+   "label": "bewijst",
+   "toelichting": "20minutos en AS melden dat de mail over het blauwe vinkje phishing is en niet van Instagram komt."
+  },
+  "M:f6b71ba72adb0efe#C": {
+   "label": "bewijst",
+   "toelichting": "Hindustan Times en Alt News melden dat het ziekenhuis het recept nep noemt en dat de arts het niet schreef."
+  },
+  "M:fc080f5d40275068#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (een factchecker die toch doorkwam) meldt in de titel dat Schwab niet is gearresteerd."
+  },
+  "M:fe079151e5f3eddc#C": {
+   "label": "bewijst",
+   "toelichting": "Het persbericht van land.nrw en Spiegel, Welt en Focus melden dat het schrijven van Reul een vervalsing is."
+  },
+  "M:po4#C": {
+   "label": "bewijst niet",
+   "toelichting": "De HRW-stukken uit 2016 en 2018 gaan over oudere geheime detentie en zeggen niet dat HRW het bericht nooit publiceerde."
+  },
+  "M:po7#C": {
+   "label": "bewijst niet",
+   "toelichting": "De twee pagina's van La Croix zijn een dagoverzicht van de oorlog en een stuk uit oktober; ze laten niet zien dat deze voorpagina niet van La Croix is."
+  },
+  "M:po8#C": {
+   "label": "bewijst",
+   "toelichting": "France 24 meldt dat de jongen op de foto een demonstrant was en dat niets wijst op een martelhuis, al zegt geen bron iets over de voorpagina zelf."
+  },
+  "M:po9#C": {
+   "label": "bewijst niet",
+   "toelichting": "De stukken van de Jerusalem Post gaan over Zelensky en antisemitisme, niet over de vraag of de Jerusalem Report deze kop maakte."
+  },
+  "O:gfc-03eee8de518843a7#C": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo laat zien dat de video van Modi verkeerd vertaald is en dat hij de protesten in Sri Lanka niet bekritiseerde."
+  },
+  "O:gfc-0f715e6ee0fd9578#C": {
+   "label": "bewijst",
+   "toelichting": "24timesnews citeert PIB Fact Check: de video is met AI gemaakt en er is geen termijn van ₹4.000 voor Raksha Bandhan aangekondigd."
+  },
+  "O:gfc-12b049047db87a07#C": {
+   "label": "bewijst",
+   "toelichting": "De Philippine Statistics Authority spreekt in een officiële verklaring het geldaanbod aan houders van een nationale ID tegen."
+  },
+  "O:gfc-1551ed3bda237911#C": {
+   "label": "bewijst",
+   "toelichting": "Bloomberg, BBC en het ICC melden dat Duterte in september in Den Haag vastzit en geschikt is voor het proces; dat is wat er echt gebeurde."
+  },
+  "O:gfc-1c0f618cc29fb640#C": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo meldt dat het citaat over Anuradhapura verzonnen is."
+  },
+  "O:gfc-1d0d89298824c278#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het profiel van Rappler zegt niets over publieke woede, en de archiefpagina van VERA Files bewijst niets specifieks."
+  },
+  "O:gfc-20ab42824b9d7c6e#C": {
+   "label": "bewijst",
+   "toelichting": "Indian Express laat een expert het drankje beoordelen en Noom schrijft dat kurkuma geen buikvet verbrandt; 3 kg in een week wordt niet gedragen."
+  },
+  "O:gfc-226cc80a32e9de51#C": {
+   "label": "bewijst",
+   "toelichting": "ANI citeert het leger: de video is digitaal bewerkt en de uitspraken van Kalia zijn verzonnen."
+  },
+  "O:gfc-233374cda555db82#C": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X (een factchecker die toch doorkwam) noemt de bewering over kurkuma en tumoren onwaar."
+  },
+  "O:gfc-320dbc939d0617d8#C": {
+   "label": "bewijst",
+   "toelichting": "Het stuk van India Today gaat volgens kop en adres over desinformatie rond de confrontatie, en het leger zei dat de video een oefening toont; de pagina was niet te openen."
+  },
+  "O:gfc-44c2475807ca7226#C": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo laat zien dat een video die als hindoegeweld tegen moslims in Nepal werd gedeeld, in 2020 in Delhi is gefilmd."
+  },
+  "O:gfc-45d7277321bf64e2#C": {
+   "label": "bewijst niet",
+   "toelichting": "Alleen een archiefpagina van VERA Files over de afzettingszaak, zonder een stuk dat de oproep van Padilla tegenspreekt."
+  },
+  "O:gfc-5d585bf57ea431d3#C": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X noemt de afbeelding over de tuchtklacht van Trillanes uitdrukkelijk onwaar."
+  },
+  "O:gfc-5fa4fa07736bb362#C": {
+   "label": "bewijst",
+   "toelichting": "De BBC en AP (via MedPage) noemen de bewering over 72 verplichte prikken onjuist."
+  },
+  "O:gfc-6c1ae690f6c75639#C": {
+   "label": "bewijst",
+   "toelichting": "Het toestel in Laos was een Learjet van een charterbedrijf uit Maleisië, Duterte vloog met een Gulfstream; SCMP en Inquirer beschrijven twee verschillende vliegtuigen."
+  },
+  "O:gfc-766a475af62319dd#C": {
+   "label": "bewijst",
+   "toelichting": "Saudi Gazette, Gulf News en anderen melden dat Roberto Carlos en zijn vrouw ontkennen dat hij zich tot de islam bekeerde."
+  },
+  "O:gfc-806b06ceba13e8f9#C": {
+   "label": "bewijst",
+   "toelichting": "De Threads-post van VERA Files zegt letterlijk dat het voorstel van Suan nep is."
+  },
+  "O:gfc-8c7238965e90b7e7#C": {
+   "label": "bewijst",
+   "toelichting": "Philstar en The Manila Times melden dat een kandidatuur van Baste pas over 2028 gaat en er nog niets besproken is; in 2026 is er geen verkiezing voor hem."
+  },
+  "O:gfc-8c8fa6bad1470ab3#C": {
+   "label": "bewijst",
+   "toelichting": "Manila Bulletin en Brigada melden dat Teodoro na de uitdaging van Sara Duterte juist geen namen noemde."
+  },
+  "O:gfc-94a849dd40512a3f#C": {
+   "label": "bewijst",
+   "toelichting": "De PDEA wijst een bondgenoot van Duterte aan als vermoedelijk brein en Remulla ontkent dat de familie Marcos betrokken is."
+  },
+  "O:gfc-99615cf97beec228#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews en The Times of Israel melden dat de bestorming in Marseille en de rellen in Parijs bij protesten tegen de hoge kosten van levensonderhoud hoorden, niet bij pro-Palestijnse acties."
+  },
+  "O:gfc-9c436a940063b097#C": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X noemt de video over Michael V. en Baste Duterte uitdrukkelijk nep."
+  },
+  "O:gfc-a0ac9541263e7e0c#C": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo zegt dat berichten de Wereldbank ten onrechte koppelen aan de vaccinvoorziening van Sri Lanka."
+  },
+  "O:gfc-a8f7edcf9b1b68fc#C": {
+   "label": "bewijst",
+   "toelichting": "AFP via Yahoo noemt het citaat van rechter Korner in de kop verzonnen, en het ICC bevestigde zijn rechtsmacht."
+  },
+  "O:gfc-a9558a95bfb5e928#C": {
+   "label": "bewijst",
+   "toelichting": "PTI Fact Check (een factchecker die toch doorkwam) laat zien dat de video oud is en dat Nana Patekar zijn excuses maakt aan een Marathi-filmproducent."
+  },
+  "O:gfc-af31d884bf31576d#C": {
+   "label": "set fout",
+   "toelichting": "De tekst is de ontkrachting (de termijn van Marcos wordt niet verlengd), niet de valse bewering, en die klopt."
+  },
+  "O:gfc-b9bd073207739330#C": {
+   "label": "bewijst",
+   "toelichting": "Transparency International en Inquirer tonen dat de Filipijnen op plaats 120 van 182 staan, dus niet het meest corrupte land van Azië."
+  },
+  "O:gfc-bcf571f999d290f6#C": {
+   "label": "vals",
+   "toelichting": "De bronnen zeggen alleen dat ze zich voorbereidt op 2028 en bereid is zich kandidaat te stellen; een verklaring dat ze klaar is voor het presidentschap staat er niet in."
+  },
+  "O:gfc-c1abdd8faaffc456#C": {
+   "label": "bewijst",
+   "toelichting": "India Today meldt dat de rondgaande beelden bij de berichten over de confrontatie desinformatie zijn, en een andere factcheck vond een video uit 2021."
+  },
+  "O:gfc-caefb9201864a9f9#C": {
+   "label": "bewijst",
+   "toelichting": "The Hindu meldt dat India in 2026 op plaats 75 van de Henley-index staat; de 125 komt uit een andere index."
+  },
+  "O:gfc-ce4ed76a7f5e8908#C": {
+   "label": "bewijst",
+   "toelichting": "MSN meldt dat oude clips ten onrechte zijn gedeeld als hindoegroepen op weg naar een tegenprotest, en Bajrang Dal ontkent elke mobilisatie (Times of India)."
+  },
+  "O:gfc-d60d350875a177bd#C": {
+   "label": "bewijst",
+   "toelichting": "Philstar en Inquirer melden het uitstel naar 2028 en de PNA meldt dat Comelec waarschuwt voor deze nepberichten."
+  },
+  "O:gfc-d89efd6478abd4bb#C": {
+   "label": "bewijst",
+   "toelichting": "Sunna Files noemt de bevolkingsclaim vals, en de volkstelling van 2024 weerlegt een moslimmeerderheid."
+  },
+  "O:gfc-d9256f53aec17cae#C": {
+   "label": "bewijst",
+   "toelichting": "De verslagen van de toespraak noemen andere onderwerpen, en Tamil Guardian meldt dat Herath Tamils en verantwoording niet eens noemde."
+  },
+  "O:gfc-e04435572d83341f#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact, AFP, France 24, RFI en TheJournal melden dat de beelden met AI gemaakt of bewerkt zijn."
+  },
+  "O:gfc-e4965b4ad7b98cba#C": {
+   "label": "bewijst",
+   "toelichting": "Freitag laat Stehr zelf het verhaal over de moord op zijn oma nepnieuws noemen, en DW noemt het Russische desinformatie."
+  },
+  "O:gfc-f1d99c45ea10a577#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News en AFP op Yahoo melden dat de video bewerkt is: het volkslied klonk niet terwijl Modi liep."
+  },
+  "O:gfc-f8d5d5bc3986d66c#C": {
+   "label": "bewijst",
+   "toelichting": "Factseeker ontkracht het biljet en de officiële lijst van de CBSL heeft geen biljet van Rs. 10.000."
+  },
+  "O:gfc-fc509055b1d7e37f#C": {
+   "label": "bewijst",
+   "toelichting": "GMX meldt dat de Bauhaus-Universität Weimar het cijferschandaal tegenspreekt en noemt alle beschuldigingen tegen Stehr aantoonbaar onwaar."
+  },
+  "W2:wikinews:en:149735#C": {
+   "label": "vals",
+   "toelichting": "De ontvoering van bisschop Peter Imasuen in Benin City in januari 2010 is door grote media gemeld; niet bevestigd is dus fout."
+  },
+  "n-sn-004#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, USA Today en Check Your Fact controleren dezelfde bewering: de foto met zoon Avner is uit 2014, niet van de oorlog in 2023."
+  },
+  "n-sn-006#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, India Today, The Quint en Fact Crescendo melden dat de gewonde boer op de foto niet kapitein PPS Dhillon is."
+  },
+  "n-sn-007#C": {
+   "label": "bewijst",
+   "toelichting": "De check van The Quint gaat over dezelfde foto: een protest in Bangladesh uit 2013, geen menigte in Kerala."
+  },
+  "n-sn-008#C": {
+   "label": "bewijst",
+   "toelichting": "India Today en Newsmeter melden dat beide foto's uit 2020 komen, dus geen voor en na onder de BJP-regering."
+  },
+  "n-sn-020#C": {
+   "label": "bewijst",
+   "toelichting": "Het beeld zegt in het Urdu dat het CCTV van een raket op de helikopter van Raisi is; Logically Facts toont dat die video uit Turkije komt."
+  },
+  "n-sn-025#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint, India Today en BOOM melden dat de foto van Aamir Khan bij de aarti uit 2017 is en niets met de flop van Laal Singh Chaddha te maken heeft."
+  },
+  "n-sn-029#C": {
+   "label": "bewijst",
+   "toelichting": "De check van Fact Crescendo (kring 1) gaat over hetzelfde AAP-bord in Gujarat en toont dat de tekst erop bewerkt is."
+  },
+  "n-sn-030#C": {
+   "label": "bewijst",
+   "toelichting": "Newsmeter, Factly en Youturn melden dat het zwaard op de foto niet van Maharana Pratap is."
+  },
+  "n-sn-031#C": {
+   "label": "bewijst",
+   "toelichting": "Vishvas News (net als de eigen check van Factly) toont dat het een oud Amerikaans afluisterstation in Berlijn is, geen moskee in Turkije."
+  },
+  "n-sn-034#C": {
+   "label": "vals",
+   "toelichting": "De dood van Chilima klopt, maar de foto van het wrak is oud en hoort niet bij de crash (Factly, Logically Facts); groen gaat voorbij aan het valse beeld."
+  },
+  "n-sn-036#C": {
+   "label": "bewijst",
+   "toelichting": "India Today, AAP en Full Fact tonen dat het een Amerikaans meisje met een moedervlek is, geen baby met witte fosfor in Gaza."
+  },
+  "n-sn-037#C": {
+   "label": "bewijst",
+   "toelichting": "AFP en Reuters melden dat de foto van mensen op straat een kunstproject uit Frankfurt in 2014 is, geen slachtoffers van corona in China."
+  },
+  "n-sn-051#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News en BOOM tonen dat de foto oud is en uit Bihar komt, niet uit Kumarganj in West-Bengalen."
+  },
+  "n-sn-053#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, Soch en Youturn melden dat de foto's een koranrecitatie tonen en geen huwelijk van ouders met hun kinderen."
+  },
+  "n-sn-054#C": {
+   "label": "bewijst",
+   "toelichting": "Vishvas News toont dat de peiling bewerkt is: Republic gaf 252-272 zetels aan BJP+, niet aan de BSP."
+  },
+  "w-00751#C": {
+   "label": "vals",
+   "toelichting": "Knack en Full Fact noemen de beelden echt: een zwembad in een sanatorium in Saint-Paul-lès-Dax met schermen als coronamaatregel, precies wat de bewering zegt."
+  },
+  "w-03796#C": {
+   "label": "terecht",
+   "toelichting": "De foto is het tolplein op de G4 bij Beijing in 2015; Snopes en Africa Check noemen een snelweg van 48 of 50 rijstroken misleidend."
+  },
+  "w-04437#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo, Doğrula en Snopes noemen de foto uit Rimini in 1957 authentiek: een agent schrijft een bon uit aan een vrouw in bikini."
+  },
+  "w-04509#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo noemde de foto van Jerónimo de Sousa met Vieira op de Festa do Avante echt (17-09-2020), dus een betrouwbare bron meldt het."
+  },
+  "w-04544#C": {
+   "label": "terecht",
+   "toelichting": "Polígrafo bevestigt alleen dat het beeld een echte test toont; de 20 cm is niet bevestigd en de arts noemt de test ongemakkelijk, niet ondraaglijk."
+  },
+  "w-04546#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo bij SIC Notícias controleerde de foto van het gat in het plafond van de rechtbank in Matosinhos en vond hem echt; de machine citeerde die bron zelf."
+  }
+ }
+}

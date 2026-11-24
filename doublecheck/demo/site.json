@@ -1,0 +1,65 @@
+{
+  "_meta": "Eén bron voor het hoofdmenu, de knop en de voet van de hele voorkant (PLAN #23.11, PO 2026-10-16: 'alles aan de voorkant moet 1 website zijn'). De Astro-site op factiz.org en de pagina's op try.factiz.org (demo, Ask, cijfers, /check; doublecheck/webui.py) lezen allebei dit bestand. Sinds #23.15 (DESIGN §4i) vier groepen met elk een megamenu: kolommen met links (een regel uitleg per link, een stand als het product er nog niet helemaal is) en één uitgelicht stuk op een staand veld; de voet toont dezelfde groepen. Nooit een link naar iets dat er niet is (tests/test_sitelinks.py). Paden met een slotstreep zijn pagina's op factiz.org; volledige adressen gaan naar try.factiz.org of de code.",
+  "site": "https://factiz.org",
+  "app": "https://try.factiz.org",
+  "naam": "Factiz",
+  "menu": [
+    {
+      "groep": "Solutions",
+      "kolommen": [
+        {"kop": "By reader", "links": [
+          {"label": "For fact-checkers", "href": "/for/fact-checkers/", "tekst": "Find earlier checks of a claim before you start."},
+          {"label": "For developers", "href": "/for/developers/", "tekst": "Run your own resolver over the open memory."},
+          {"label": "For researchers", "href": "/for/researchers/", "tekst": "Follow one claim across years and languages."},
+          {"label": "For AI teams", "href": "/use-cases/#ai-teams", "tekst": "Find debunked claims in a training set or in model output.", "stand": "In development"},
+          {"label": "All use cases", "href": "/use-cases/", "tekst": "What works today, and what we measured for the rest."}
+        ]}
+      ],
+      "uitgelicht": {"veld": "hemel", "titel": "Check a claim", "tekst": "Paste a claim or drop a screenshot.", "href": "https://try.factiz.org/", "knop": "Try it"}
+    },
+    {
+      "groep": "Platform",
+      "kolommen": [
+        {"kop": "Use it", "links": [
+          {"label": "Check a claim", "href": "https://try.factiz.org/", "tekst": "See which newsrooms checked a claim or a screenshot."},
+          {"label": "Ask a question", "href": "https://try.factiz.org/ask", "tekst": "Ask in your own words, and see which claims were checked."},
+          {"label": "Check a message", "href": "https://try.factiz.org/check", "tekst": "A message on a scale from 0 to 10, with where the answer comes from.", "stand": "In development"},
+          {"label": "The numbers", "href": "https://try.factiz.org/numbers", "tekst": "Every error rate, per language, with the misses themselves."},
+          {"label": "All products", "href": "/platform/", "tekst": "Everything we build, and how far each product is."}
+        ]},
+        {"kop": "Build on it", "links": [
+          {"label": "How it works", "href": "/how-it-works/", "tekst": "From a screenshot to a receipt in six steps."},
+          {"label": "Releases", "href": "/releases/", "tekst": "Each release with its measurement, and what got worse."},
+          {"label": "API and protocol", "href": "/docs/", "tekst": "One request to /resolve, and the open protocol behind it."},
+          {"label": "Open source", "href": "https://github.com/factiz-org/factiz", "tekst": "The code under AGPL-3.0, and one command to rebuild the memory."}
+        ]}
+      ],
+      "uitgelicht": {"veld": "leisteen", "titel": "We publish our misses", "tekst": "Every error rate, measured and live.", "href": "https://try.factiz.org/numbers", "knop": "See the numbers"}
+    },
+    {
+      "groep": "Resources",
+      "kolommen": [
+        {"kop": "Read", "links": [
+          {"label": "Blog", "href": "/blog/", "tekst": "Data stories from the Factiz corpus."},
+          {"label": "Documentation", "href": "/docs/", "tekst": "The API, the protocol, and running your own resolver."}
+        ]}
+      ],
+      "uitgelicht": {"veld": "olijf", "titel": "Debunked in 2019. Back in 2024.", "tekst": "How often debunked claims come back.", "href": "/blog/zombie-claims/", "knop": "Read the story"}
+    },
+    {
+      "groep": "About",
+      "kolommen": [
+        {"kop": "Factiz", "links": [
+          {"label": "What we believe", "href": "/what-we-believe/", "tekst": "A memory for fact-checks, not a judge of truth."},
+          {"label": "Newsroom", "href": "/newsroom/", "tekst": "Factiz in three sentences, the numbers, and images for the press."},
+          {"label": "Privacy", "href": "/privacy/", "tekst": "What we see, and what we keep."},
+          {"label": "Code and licences", "href": "https://github.com/factiz-org/factiz#the-pieces-and-their-licences", "tekst": "AGPL-3.0 for the code, CC BY 4.0 for the protocol."}
+        ]}
+      ],
+      "uitgelicht": {"veld": "leisteen", "titel": "No lie should have to be debunked twice.", "tekst": "Their work, their traffic, our memory.", "href": "/what-we-believe/", "knop": "What we believe"}
+    }
+  ],
+  "knop": {"label": "Try it free", "href": "https://try.factiz.org/"},
+  "slogan": "Factiz. Open source, runs locally, shows counts, never probabilities.",
+  "missie": "No lie should have to be debunked twice."
+}

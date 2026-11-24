@@ -1,0 +1,305 @@
+{
+ "toelichting": "Steekproef bij de uitleg van lezer-v15 (PLAN #32.56, BENCHMARK §241): 60 willekeurige zinnen (zaad 3256, zoals §240) van de 279 die de nakijker (Haiku, `uitlegdekking`, met het herstelde knippen) *niet gedekt* noemde, gelezen door een deelagent tegen de titels en fragmenten die bewaard waren, zonder pagina's te openen. Let op: bewaard waren alleen de bronnen die de lezer als steun of tegenspraak opgaf, niet elk resultaat dat een zin met [n] aanwijst; bij 17 zinnen stond er niets. Sinds §241 bewaart `meting.wat_de_lezer_zag` ook die. De berichten zijn openbaar.",
+ "labels": [
+  {
+   "id": "W:wikinews:en:43339#5",
+   "label": "niet gedekt",
+   "reden": "Geen bron zegt dat Montgomery in de eerste test strafschoppen scoorde; BBC noemt hem bij de eerste test niet, en zijn strafschoppen staan alleen in het bericht over de tweede test."
+  },
+  {
+   "id": "O:gfc-23040eb0c1619b3b#4",
+   "label": "niet gedekt",
+   "reden": "Newsweek staat niet onder de bronnen, en geen bron meldt dat mensen Trump bespotten of verdedigden."
+  },
+  {
+   "id": "W:wikinews:en:37760#1",
+   "label": "niet gedekt",
+   "reden": "De Guardian van 2 april meldt juist dat het rapport over 7 juli concludeert dat de oorlog in Irak de vier daders motiveerde, dus 'niet over de daders zelf' wordt tegengesproken."
+  },
+  {
+   "id": "W:wikinews:en:125048#4",
+   "label": "wel gedekt",
+   "reden": "De New York Times en de Los Angeles Times melden allebei de veroordeling van de vier mannen."
+  },
+  {
+   "id": "WM:c1187a2539af#3",
+   "label": "niet gedekt",
+   "reden": "Het fragment van Euronews noemt geen Alliana, geen Paraguay en geen afzetting van Peña."
+  },
+  {
+   "id": "O:gfc-bc60ffd4147dbb06#4",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De zin verwijst alleen terug en zegt dat het getoonde bericht niet klopt, wat Snopes ook zegt; er staat zelf geen nieuw feit in."
+  },
+  {
+   "id": "O:gfc-cb6fa415879a53c9#3",
+   "label": "niet gedekt",
+   "reden": "Axios staat niet onder de bronnen, en geen bron zegt iets over Clinton in de Epstein-dossiers."
+  },
+  {
+   "id": "O:gfc-df05b18737ecfbd4#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: CBS News, de twee Amerikaanse functionarissen en de bloeding staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:45061#3",
+   "label": "niet gedekt",
+   "reden": "De achternaam al-Janabi, de datum 12 maart 2006 en Mahmudiyah staan in geen enkele bron; de NYT zegt alleen 'in March'."
+  },
+  {
+   "id": "O:gfc-b162257a936af660#4",
+   "label": "niet gedekt",
+   "reden": "Geen bron meldt dat de autoriteiten de brandstofverkoop aan particulieren opschortten; Full Fact noemt alleen brandstoftekorten."
+  },
+  {
+   "id": "WM:b6238fdad5f5#3",
+   "label": "niet gedekt",
+   "reden": "Er staat alleen het ochtendbulletin onder de bronnen; een middag- en een avondbulletin noemt geen bron."
+  },
+  {
+   "id": "WM:619178b48505#4",
+   "label": "wel gedekt",
+   "reden": "DW meldt letterlijk dat de dader een Poolse burger was en bij een vuurwisseling met de politie gewond raakte."
+  },
+  {
+   "id": "W:wikinews:en:99541#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Het meer op de grens van Congo en Rwanda, minstens één dode en 'scores' gewonden staan bij Wikinews; de datum 15 februari 2008 komt uit het bericht, dat dit Wikinews-artikel is."
+  },
+  {
+   "id": "O:gfc-31bbac41d8ac3717#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: de afzettingsprocedure tegen Sara Duterte en de video als bewijs staan nergens."
+  },
+  {
+   "id": "O:gfc-85a3dcdc7d30642c#3",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: Primetimer en het citaat 'schijnbaar verdedigt' staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:37760#5",
+   "label": "wel gedekt",
+   "reden": "De Guardian noemt het een 'draft narrative', opgesteld in opdracht van minister van Binnenlandse Zaken Charles Clarke."
+  },
+  {
+   "id": "O:gfc-5b68aad05276e788#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel, en de datum 26 januari 2026 en de aanwezigheid van Modi staan ook niet in het bericht."
+  },
+  {
+   "id": "W:wikinews:en:103644#5",
+   "label": "niet gedekt",
+   "reden": "Wembley en 'volgende maand' staan in de bronnen, de datum 17 mei 2008 niet."
+  },
+  {
+   "id": "WM:d129cfdcb57b#1",
+   "label": "niet gedekt",
+   "reden": "De BBC-bronnen dekken Barniers uitspraak, maar de datum 'rond 7 november 2026' staat in geen bron."
+  },
+  {
+   "id": "W:wikinews:en:55258#4",
+   "label": "wel gedekt",
+   "reden": "Post & Parcel schrijft dat het bedrijf in 2006 door SNCF en La Poste werd opgericht."
+  },
+  {
+   "id": "O:gfc-b52bcdb16f6c4381#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: de BBC en de tijdstempel 10:59:53 staan nergens."
+  },
+  {
+   "id": "O:gfc-a5fe6a2aa8582944#2",
+   "label": "niet gedekt",
+   "reden": "De bron zegt alleen dat een dollarbedrag tot IQ werd gemaakt; de bonus voor militairen, $1.776, het jaartal van de onafhankelijkheid en 'very intelligent' staan nergens."
+  },
+  {
+   "id": "O:gfc-43416f28bf03143b#2",
+   "label": "niet gedekt",
+   "reden": "Andrew Posey, 13 maart, een pet achterstevoren, de zonnebril en de cabrio staan in de bronnen, maar 'grijsharig' niet."
+  },
+  {
+   "id": "W:wikinews:en:127227#5",
+   "label": "wel gedekt",
+   "reden": "De Guardian meldt dat Obama de reddingsplannen in een televisietoespraak toelichtte."
+  },
+  {
+   "id": "O:gfc-85a3dcdc7d30642c#4",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: AP en de misleidende en verzonnen beelden staan nergens."
+  },
+  {
+   "id": "O:gfc-fc995c7ee4c8a6f4#3",
+   "label": "niet gedekt",
+   "reden": "De enige bron, de Express, noemt een virale video maar niet Nick Sortor."
+  },
+  {
+   "id": "W:wikinews:en:43339#1",
+   "label": "wel gedekt",
+   "reden": "ABC meldt 29-15 in de tweede test in Port Elizabeth, geplaatst op 18 juni met 'overnight', dus de wedstrijd was op 17 juni."
+  },
+  {
+   "id": "WM:d129cfdcb57b#4",
+   "label": "niet gedekt",
+   "reden": "Het BBC-stuk zegt 'Barnier told me ... à la carte', maar geen bron noemt de schrijver Laura Kuenssberg."
+  },
+  {
+   "id": "W:wikinews:en:122727#4",
+   "label": "wel gedekt",
+   "reden": "Dino Tail noemt 50 cm en 2 kg."
+  },
+  {
+   "id": "O:gfc-0afd622be22dea6a#2",
+   "label": "niet gedekt",
+   "reden": "De bron spreekt van virale berichten op sociale media, maar niet van X of een kop 'BREAKING'."
+  },
+  {
+   "id": "O:gfc-7c249beae6733da0#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: de 'March for Life', 5 september en 10.000 deelnemers staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:48416#5",
+   "label": "wel gedekt",
+   "reden": "Het stuk van de NYT/IHT meldt dat informatieminister Mohammed Ali Durrani zei dat Bugti gedood was."
+  },
+  {
+   "id": "O:gfc-fddb1d2b7f81240b#5",
+   "label": "niet gedekt",
+   "reden": "MacDailyNews zegt dat gebruikers iets over zoomniveaus opmerkten, maar geen bron noemt Tyrus of dat er weinig plaatsnamen zichtbaar zijn."
+  },
+  {
+   "id": "O:gfc-fddb1d2b7f81240b#2",
+   "label": "wel gedekt",
+   "reden": "MacDailyNews meldt dat de beschuldigingen in het weekend op X rondgingen, Pedestrian toont de post van Ethan Levins van 12 april 2026, en Euronews spreekt van viraal."
+  },
+  {
+   "id": "O:gfc-ccf386f9bc76d56a#4",
+   "label": "wel gedekt",
+   "reden": "The Times of India vraagt 'real or AI-generated?' en News18 spreekt van een 'Yeh AI Hai'-debat."
+  },
+  {
+   "id": "O:gfc-5b32950acf7a4b50#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: NDTV en de botsing staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:6129#1",
+   "label": "wel gedekt",
+   "reden": "De Wikinews-pagina's hebben dezelfde tekst, met 2.953.817 geregistreerde gebruikers tegen 2.917.802 in het bericht."
+  },
+  {
+   "id": "O:gfc-24b16328c7adb156#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: dat het een foto uit een oudere post is, staat nergens."
+  },
+  {
+   "id": "O:gfc-c32d1b3e8c7ab623#3",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: The Times of India, The Economic Times en de verkiezingsrally's van 2024 staan nergens."
+  },
+  {
+   "id": "O:gfc-6f29e43af49d06b8#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: het ontbreken van diplomatieke betrekkingen en erkenning komt uit eigen kennis."
+  },
+  {
+   "id": "O:gfc-6d5c44287be55940#4",
+   "label": "niet gedekt",
+   "reden": "PMJNews meldt alleen dat Trump in augustus 2026 Lake Ontario 'Lake America' wilde noemen; 27 augustus, een uitvoerend bevel en 'voor federale instanties' staan nergens."
+  },
+  {
+   "id": "O:gfc-0759e48cb8efff8b#2",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: Substack, YouTube en de 'Politics Chat'-uitzendingen in mei 2026 staan nergens."
+  },
+  {
+   "id": "O:gfc-b52bcdb16f6c4381#3",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: Devighat, Syabru Besi en Betrawati staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:83750#4",
+   "label": "wel gedekt",
+   "reden": "NBC en de Times Argus schrijven dat anderen zeggen dat het een beer met een huidinfectie is."
+  },
+  {
+   "id": "O:gfc-9a8dde563fb343bb#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: Newswire, Facebook en de ontkenning van Watagala staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:143048#2",
+   "label": "niet gedekt",
+   "reden": "DW noemt april 2009 en Phorm, maar BT staat in geen enkele bron."
+  },
+  {
+   "id": "W:wikinews:en:22193#2",
+   "label": "niet gedekt",
+   "reden": "Ars Technica en Gizmodo noemen de sluiting, maar het fragment van Engadget spreekt van een camera in het deksel, niet in de sluiting."
+  },
+  {
+   "id": "O:gfc-284612ba4fa7d303#3",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: de schattingen van 10 tot 20 procent voor TVK staan nergens."
+  },
+  {
+   "id": "O:gfc-408f0f7893ab579c#3",
+   "label": "wel gedekt",
+   "reden": "The Quint (via Dailyhunt) noemt de video 'scripted'."
+  },
+  {
+   "id": "W:wikinews:en:82391#3",
+   "label": "wel gedekt",
+   "reden": "De NYT meldt met dateline 13 oktober (2007) dat Amnesty de arrestatie van Htay Kywe meldde, de laatste leider van de groep."
+  },
+  {
+   "id": "O:gfc-ed995da4ef4a868f#1",
+   "label": "niet gedekt",
+   "reden": "De bronnen zeggen dat de raad van CPB voor ontbinding stemde (artikelen van 6 en 7 januari), maar de datum 5 januari 2026 staat nergens."
+  },
+  {
+   "id": "W:wikinews:en:45061#5",
+   "label": "niet gedekt",
+   "reden": "NPR staat niet onder de bronnen, en geen bron zegt dat onduidelijk is of het motief klopt."
+  },
+  {
+   "id": "O:gfc-ed9e9ab33f9a15ec#4",
+   "label": "wel gedekt",
+   "reden": "De blog van Dollywood van 2 september 2026 zegt dat het park niet sluit en nieuwe eerbetonen aan Parton krijgt, zonder een overname te noemen."
+  },
+  {
+   "id": "O:gfc-94a0997401cae743#5",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De resultaten van de Wereldbank noemen 16,9%, ongeveer een kwart en 40% met risico, nergens 65%, dus de vaststelling klopt."
+  },
+  {
+   "id": "W:wikinews:en:15381#5",
+   "label": "wel gedekt",
+   "reden": "Het bericht breekt af en de bronnen (GameSpot, IGN, BBC, CBC) beschrijven dezelfde controverse en Clintons verzoek aan de FTC."
+  },
+  {
+   "id": "O:gfc-b6c06523cb6fdd1a#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel: AP, PBS, CBS, NBC en het conflict over het dreigement tegen Iran staan nergens."
+  },
+  {
+   "id": "O:gfc-a5fe6a2aa8582944#3",
+   "label": "niet gedekt",
+   "reden": "Raw Story staat niet onder de bronnen, en geen bron zegt dat Trump het als bewijs van zijn IQ aanvoerde."
+  },
+  {
+   "id": "O:gfc-490d1826f5b92c13#3",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De zin zegt alleen dat de resultaten het huilen niet noemen; de regel heeft geen bronnen en dus ook geen die het noemen."
+  },
+  {
+   "id": "O:gfc-3e915c1298d3c7e5#3",
+   "label": "wel gedekt",
+   "reden": "MSN noemt de foto echt maar verkeerd van een onderschrift voorzien, bij een bezoek dat Pete Hegseth organiseerde."
+  },
+  {
+   "id": "W:wikinews:en:13400#1",
+   "label": "niet gedekt",
+   "reden": "Er staan geen bronnen in de regel, en dat het een banner van Wikinews is, geplaatst rond 2 juli 2005, staat ook niet in het bericht."
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "disasters"
+onderdeel = "natural"
+verwant = []
+
+[naam]
+nl = "Beelden van een aardbeving bij de verkeerde ramp"
+en = "Earthquake footage shown with the wrong disaster"
+de = "Bilder eines Erdbebens bei der falschen Katastrophe"
+es = "Imágenes de un terremoto con la catástrofe equivocada"
+fr = "Des images de séisme associées à la mauvaise catastrophe"
+pt = "Imagens de terremoto mostradas com o desastre errado"
+ru = "Кадры землетрясения, выданные за другую катастрофу"
+uk = "Кадри землетрусу, видані за інше лихо"
+id = "Rekaman gempa yang ditampilkan dengan bencana yang salah"
+tr = "Yanlış felaketle paylaşılan deprem görüntüleri"
+zh = "地震畫面被配上錯誤的災難"
+ja = "地震の映像が別の災害のものとして出回る"
+hi = "भूकंप के फुटेज, जो गलत आपदा के बताकर दिखाए गए"
+ar = "لقطات زلزال تُعرض على أنها لكارثة أخرى"
+fa = "تصاویر زلزله همراه با فاجعه‌ای اشتباه"
+
+[inleiding]
+nl = """
+Na elke grote aardbeving gaan beelden rond die er niet bij horen: een oudere ramp, een andere plaats, een film of een oefening. Het recept blijft, het beeld wisselt. Dit dossier volgt dat recept van de aardbevingen in Turkije en Syrië en in Marokko tot daarna. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+After every large earthquake, pictures spread that do not belong to it: an older disaster, another place, a film or an exercise. The recipe stays; the picture changes. This dossier follows that recipe from the earthquakes in Turkey and Syria and in Morocco onwards. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Nach jedem großen Erdbeben kursieren Bilder, die nicht dazugehören: eine ältere Katastrophe, ein anderer Ort, ein Film oder eine Übung. Das Rezept bleibt, das Bild wechselt. Dieses Dossier verfolgt das Rezept von den Erdbeben in der Türkei und Syrien und in Marokko an. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Tras cada gran terremoto circulan imágenes que no le corresponden: una catástrofe anterior, otro lugar, una película o un simulacro. La receta se mantiene; la imagen cambia. Este dosier sigue esa receta desde los terremotos de Turquía y Siria y de Marruecos en adelante. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Après chaque grand séisme circulent des images qui n’en sont pas : une catastrophe plus ancienne, un autre lieu, un film ou un exercice. La recette reste ; l’image change. Ce dossier suit cette recette depuis les séismes en Turquie et en Syrie et au Maroc. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Depois de cada grande terremoto, circulam imagens que não têm relação com ele: um desastre mais antigo, outro lugar, um filme ou um exercício. A receita continua a mesma; só a imagem muda. Este dossiê acompanha essa receita a partir dos terremotos na Turquia e na Síria e no Marrocos. Este dossiê coloca em uma linha do tempo as versões que as redações checaram. Cada checagem diz o que aquela redação encontrou; a Factiz não acrescenta nenhum veredito próprio. A lista traz apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+После каждого сильного землетрясения распространяются снимки, которые к нему не относятся: более старая катастрофа, другое место, фильм или учения. Схема остаётся прежней, меняется только картинка. Это досье прослеживает эту схему, начиная с землетрясений в Турции и Сирии и в Марокко. В досье версии, которые проверили редакции, расположены на временной шкале. В каждом фактчеке написано, что нашла эта редакция. Своего вердикта Factiz не добавляет. В списке только фактчеки, которые мы вправе републиковать, поэтому он неполный.'''
+uk = '''
+Після кожного сильного землетрусу поширюються картинки, які не мають до нього стосунку: старіше лихо, інше місце, фільм чи навчання. Схема лишається, змінюється лише зображення. Це досьє простежує цю схему від землетрусів у Туреччині та Сирії і в Марокко. У досьє на часовій шкалі зібрано версії, які перевіряли редакції. Кожен фактчек говорить про те, що виявила ця редакція; Factiz не додає власного вердикту. У списку лише ті фактчеки, які ми маємо право повторно публікувати, тому він неповний.'''
+id = '''
+Setelah setiap gempa besar, beredar gambar yang tidak berkaitan dengan gempa itu: bencana yang lebih lama, tempat lain, sebuah film, atau sebuah latihan. Polanya tetap sama; gambarnya yang berganti. Berkas ini mengikuti pola tersebut mulai dari gempa di Turki dan Suriah serta di Maroko. Berkas ini menempatkan versi-versi yang diperiksa redaksi pada sebuah lini masa. Setiap cek fakta menyampaikan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi daftarnya tidak lengkap.'''
+tr = '''
+Her büyük depremden sonra o depremle ilgisi olmayan görüntüler yayılır: daha eski bir felaket, başka bir yer, bir film ya da bir tatbikat. Yöntem aynı kalır, görüntü değişir. Bu dosya, Türkiye ve Suriye'deki ve Fas'taki depremlerden başlayarak bu yöntemi izliyor. Bu dosya, doğrulama kuruluşlarının incelediği örnekleri bir zaman çizelgesine yerleştirir. Her doğrulama, ilgili doğrulama kuruluşunun ne bulduğunu söyler; Factiz kendi başına bir karar eklemez. Liste yalnızca yeniden yayımlamamıza izin verilen doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+每次大地震過後,都會有不屬於這場地震的圖片流傳開來:可能是更早的災難、別的地方、電影或演習。手法不變,只是換了圖片。這個專題從土耳其與敘利亞地震,以及摩洛哥地震開始,追蹤這種手法。這個專題把查核機構查核過的各種版本放在時間軸上。每一則查核報告都說明該查核機構的發現,Factiz 不另外加上任何查核結果。清單只收錄我們可以轉載的查核報告,因此並不完整。'''
+ja = '''
+大きな地震が起きるたびに、その地震とは関係のない画像が広まります。過去の災害、別の場所、映画、訓練の映像などです。手口は同じで、画像だけが変わります。この特集では、トルコとシリアの地震、モロッコの地震以降について、この手口を追います。ファクトチェック機関が検証したさまざまな例を、時系列で並べています。各ファクトチェックには、そのファクトチェック機関が確認した内容が書かれています。Factizが独自に判定を加えることはありません。一覧に載せているのは、再掲載の許可を得ているファクトチェックだけです。そのため、すべてを網羅しているわけではありません。'''
+hi = '''
+हर बड़े भूकंप के बाद ऐसी तस्वीरें फैलती हैं जिनका उस भूकंप से कोई संबंध नहीं होता: कोई पुरानी आपदा, कोई और जगह, कोई फिल्म या कोई अभ्यास। तरीका वही रहता है, बस तस्वीर बदल जाती है। यह डोज़ियर तुर्किये और सीरिया के भूकंपों और मोरक्को के भूकंप से लेकर आगे तक इसी तरीके का पीछा करता है। इस डोज़ियर में न्यूज़रूम ने जिन रूपों की जाँच की, उन्हें एक टाइमलाइन पर रखा गया है। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपनी ओर से कोई निष्कर्ष नहीं जोड़ता। सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+بعد كل زلزال كبير، تنتشر صور لا علاقة لها به: كارثة أقدم، أو مكان آخر، أو فيلم، أو تمرين. الوصفة تبقى كما هي، والصورة هي التي تتغير. يتتبع هذا الملف هذه الوصفة بدءًا من زلزالَي تركيا وسوريا والمغرب. يضع هذا الملف على خط زمني النسخ التي دقّقتها منصات إخبارية. يوضح كل تدقيق ما توصلت إليه تلك المنصة، ولا يضيف Factiz حكمًا من عنده. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي غير كاملة.'''
+fa = '''
+پس از هر زلزله بزرگ، تصاویری منتشر می‌شود که به آن زلزله ربطی ندارند: فاجعه‌ای قدیمی‌تر، جایی دیگر، یک فیلم یا یک مانور. شیوه ثابت می‌ماند و فقط تصویر عوض می‌شود. این پرونده این شیوه را از زلزله‌های ترکیه و سوریه و مراکش به بعد دنبال می‌کند. این پرونده نسخه‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه به چه نتیجه‌ای رسیده است. Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه داریم دوباره منتشر کنیم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "pers"
+datum = "2023-02-08"
+bron = "AFP (via Gulf News)"
+url = "https://gulfnews.com/world/mena/tsunamis-abandoned-children-misinfo-spreads-after-turkey-quake-1.93721963"
+[item.titel]
+nl = "AFP vindt dat tsunamibeelden, een hond op puin en een huilend jongetje, gedeeld als de beving in Turkije, kwamen van een storm in Durban in 2017 en van oudere foto's"
+en = "AFP finds that tsunami clips, a dog on rubble and a crying boy shared as the Turkey earthquake came from a 2017 storm in Durban and from older photos"
+de = "AFP stellt fest, dass Tsunami-Clips, ein Hund auf Trümmern und ein weinender Junge, geteilt als das Beben in der Türkei, von einem Sturm in Durban 2017 und älteren Fotos stammen"
+es = "AFP concluye que vídeos de un tsunami, un perro sobre escombros y un niño llorando, compartidos como el terremoto de Turquía, eran de una tormenta en Durban en 2017 y fotos antiguas"
+fr = "L’AFP constate que des vidéos de tsunami, un chien sur des ruines et un enfant en pleurs, montrés comme le séisme en Turquie, viennent d’une tempête de 2017 à Durban et de vieilles photos"
+pt = "A AFP constata que vídeos de tsunami, cão sobre escombros e menino chorando, divulgados como do terremoto na Turquia, vinham de tempestade de 2017 em Durban e de fotos antigas"
+ru = "AFP установило, что ролики с цунами, собака на обломках и плачущий мальчик, которых выдавали за кадры землетрясения в Турции, взяты из шторма 2017 года в Дурбане и из более старых фото"
+uk = "AFP з'ясувала, що відео цунамі, собака на уламках і плачучий хлопчик, які поширювали як землетрус у Туреччині, походять зі шторму 2017 року в Дурбані та зі старіших фото"
+id = "AFP menemukan klip tsunami, anjing di atas puing, dan anak laki-laki menangis yang dibagikan sebagai gempa Turki ternyata berasal dari badai tahun 2017 di Durban dan foto-foto lama"
+tr = "AFP, Türkiye depremi diye paylaşılan tsunami görüntülerinin, enkaz üzerindeki bir köpeğin ve ağlayan bir çocuğun 2017'de Durban'daki bir fırtınadan ve daha eski fotoğraflardan geldiğini saptadı"
+zh = "AFP 查核發現,被當成土耳其地震而流傳的海嘯影片、廢墟上的狗和哭泣男孩,其實來自 2017 年德班的風暴和更早的照片"
+ja = "AFPの検証で、トルコ地震として共有された津波の映像、がれきの上の犬、泣く少年の画像は、2017年のダーバンの嵐の映像や過去の写真だったと判明"
+hi = "AFP ने पाया कि तुर्किये भूकंप के नाम पर शेयर की गई सुनामी की क्लिप, मलबे पर बैठे कुत्ते और रोते हुए लड़के की तस्वीरें 2017 में डरबन में आए एक तूफ़ान और पुरानी तस्वीरों की थीं"
+ar = "وكالة AFP تجد أن مقاطع تسونامي وكلبًا على الأنقاض وطفلًا يبكي، جرى تداولها على أنها من زلزال تركيا، تعود إلى عاصفة وقعت عام 2017 في ديربان وإلى صور أقدم"
+fa = "AFP می‌گوید کلیپ‌های سونامی، سگی روی آوار و پسری گریان که به‌عنوان زلزله ترکیه منتشر شده بودند، از طوفانی در دوربان در سال ۲۰۱۷ و از عکس‌های قدیمی‌تر آمده‌اند"
+
+[[item]]
+soort = "rapport"
+datum = "2023-03-16"
+bron = "EDMO fact-checking network"
+url = "https://edmo.eu/wp-content/uploads/2022/10/EDMO-21-Horizontal-FCB.pdf"
+[item.titel]
+nl = "De factcheckers van het EDMO-netwerk rekenen oude tsunamibeelden, gedeeld als de beving in Turkije, tot de drie meest verspreide valse verhalen in de EU"
+en = "The fact-checkers of the EDMO network rank old tsunami images and videos shared as the Turkey earthquake among the three most widely spread false stories in the EU"
+de = "Die Faktenchecker des EDMO-Netzwerks zählen alte Tsunami-Bilder, geteilt als das Beben in der Türkei, zu den drei am weitesten verbreiteten Falschgeschichten in der EU"
+es = "Los verificadores de la red EDMO sitúan imágenes antiguas de un tsunami, compartidas como el terremoto de Turquía, entre las tres historias falsas más difundidas en la UE"
+fr = "Les vérificateurs du réseau EDMO classent de vieilles images de tsunami, partagées comme le séisme en Turquie, parmi les trois fausses histoires les plus répandues dans l’UE"
+pt = "Os checadores da rede EDMO colocam imagens e vídeos antigos de tsunami, compartilhados como se fossem do terremoto na Turquia, entre as três histórias falsas mais difundidas na UE"
+ru = "Фактчекеры сети EDMO ставят старые снимки и видео цунами, выданные за землетрясение в Турции, в число трёх самых распространённых ложных историй в ЕС"
+uk = "Фактчекери мережі EDMO ставлять старі зображення й відео цунамі, поширені як землетрус у Туреччині, серед трьох найпоширеніших фальшивих історій в ЄС"
+id = "Para pemeriksa fakta jaringan EDMO menempatkan gambar dan video tsunami lama yang dibagikan sebagai gempa Turki di antara tiga kabar palsu yang paling luas beredar di Uni Eropa"
+tr = "EDMO ağının doğrulama kuruluşları, Türkiye depremi diye paylaşılan eski tsunami görüntü ve videolarını AB'de en yaygın yayılan üç yanlış haber arasında gösteriyor"
+zh = "EDMO 網絡的查核人員將被當成土耳其地震而流傳的舊海嘯圖片和影片,列為歐盟傳播最廣的三大不實說法之一"
+ja = "EDMOネットワークのファクトチェック機関は、トルコ地震として共有された過去の津波の画像や動画を、EUで最も広まった偽情報の上位3件に挙げた"
+hi = "EDMO नेटवर्क के फैक्ट चेकर तुर्किये भूकंप के नाम पर शेयर की गई सुनामी की पुरानी तस्वीरों और वीडियो को EU में सबसे ज़्यादा फैली तीन झूठी कहानियों में गिनते हैं"
+ar = "مدققو شبكة EDMO يصنفون صور ومقاطع تسونامي القديمة المتداولة على أنها من زلزال تركيا ضمن أكثر ثلاث روايات كاذبة انتشارًا في الاتحاد الأوروبي"
+fa = "راستی‌آزمایان شبکه EDMO تصاویر و ویدیوهای قدیمی سونامی را که به‌عنوان زلزله ترکیه منتشر شده بودند، جزو سه خبر نادرست پرانتشار در اتحادیه اروپا می‌دانند"
+
+[[item]]
+soort = "besluit"
+datum = "2024-01-02"
+bron = "Japanese Ministry of Internal Affairs and Communications"
+url = "https://www.soumu.go.jp/main_content/000923727.pdf"
+[item.titel]
+nl = "Het Japanse ministerie van Communicatie vraagt LINE Yahoo, X, Meta en Google op te treden tegen valse berichten over de beving op Noto, en waarschuwt later voor beelden van elders"
+en = "Japan's communications ministry asks LINE Yahoo, X, Meta and Google to act on false posts about the Noto earthquake, and later warns of posts with images of other scenes"
+de = "Japans Kommunikationsministerium fordert LINE Yahoo, X, Meta und Google auf, gegen falsche Beiträge zum Noto-Beben vorzugehen, und warnt später vor Bildern anderer Szenen"
+es = "El Ministerio de Comunicaciones de Japón pide a LINE Yahoo, X, Meta y Google actuar contra publicaciones falsas sobre el terremoto de Noto y luego advierte de imágenes de otras escenas"
+fr = "Le ministère japonais des Communications demande à LINE Yahoo, X, Meta et Google d’agir contre les faux messages sur le séisme de Noto, puis alerte sur des images d’autres scènes"
+pt = "O ministério das comunicações do Japão pede que LINE Yahoo, X, Meta e Google ajam contra publicações falsas sobre o terremoto de Noto e, mais tarde, alerta para publicações com imagens de outras cenas"
+ru = "Министерство связи Японии просит LINE Yahoo, X, Meta и Google принять меры против ложных публикаций о землетрясении в Ното, а позже предупреждает о публикациях со снимками других событий"
+uk = "Міністерство комунікацій Японії просить LINE Yahoo, X, Meta і Google вжити заходів щодо фальшивих дописів про землетрус у Ното, а згодом попереджає про дописи із зображеннями інших подій"
+id = "Kementerian komunikasi Jepang meminta LINE Yahoo, X, Meta, dan Google untuk menindak unggahan palsu tentang gempa Noto, lalu kemudian memperingatkan soal unggahan dengan gambar dari peristiwa lain"
+tr = "Japonya İletişim Bakanlığı, LINE Yahoo, X, Meta ve Google'dan Noto depremiyle ilgili yanlış paylaşımlara karşı harekete geçmelerini istedi, başka olaylara ait görüntüler konusunda uyardı"
+zh = "日本總務省要求 LINE Yahoo、X、Meta 和 Google 處理有關能登地震的不實貼文,之後又警告有貼文使用了其他場景的圖片"
+ja = "日本の総務省が、LINEヤフー、X、Meta、Googleに対し、能登半島地震に関する偽の投稿への対応を要請し、その後、別の場面の画像を使った投稿にも注意を呼びかけた"
+hi = "जापान का संचार मंत्रालय LINE Yahoo, X, Meta और Google से नोतो भूकंप के बारे में झूठी पोस्ट पर कार्रवाई करने को कहता है, और बाद में दूसरे दृश्यों की तस्वीरों वाली पोस्ट के बारे में चेतावनी देता है"
+ar = "وزارة الاتصالات اليابانية تطلب من LINE Yahoo وX وMeta وGoogle التحرك ضد المنشورات الكاذبة عن زلزال نوتو، ثم تحذر لاحقًا من منشورات بصور لمشاهد أخرى"
+fa = "وزارت ارتباطات ژاپن از LINE Yahoo، X، Meta و Google می‌خواهد درباره پست‌های نادرست زلزله نوتو اقدام کنند و بعدتر درباره پست‌هایی با تصاویر صحنه‌های دیگر هشدار می‌دهد"
+
+[[item]]
+soort = "onderzoek"
+datum = "2024-02-27"
+bron = "University of Tokyo"
+url = "https://www.u-tokyo.ac.jp/content/400238736.pdf"
+[item.titel]
+nl = "In een eerste verslag vinden onderzoekers van de Universiteit van Tokio berichten op X over de beving op Noto die betaalde weergaven najagen, met video's van andere rampen"
+en = "In a preliminary report, University of Tokyo researchers find posts on X about the Noto earthquake that chase paid views, including videos of other disasters"
+de = "In einem vorläufigen Bericht finden Forschende der Universität Tokio Beiträge auf X zum Noto-Beben, die bezahlte Aufrufe suchen, darunter Videos anderer Katastrophen"
+es = "En un informe preliminar, investigadores de la Universidad de Tokio hallan publicaciones en X sobre el terremoto de Noto que buscan visitas pagadas, con vídeos de otros desastres"
+fr = "Dans un rapport préliminaire, des chercheurs de l’université de Tokyo relèvent sur X des messages sur le séisme de Noto qui cherchent des vues payées, avec des vidéos d’autres catastrophes"
+pt = "Em um relatório preliminar, pesquisadores da Universidade de Tóquio encontram publicações no X sobre o terremoto de Noto que buscam visualizações pagas, incluindo vídeos de outros desastres"
+ru = "В предварительном отчёте исследователи Токийского университета находят публикации в X о землетрясении в Ното, которые гонятся за оплачиваемыми просмотрами, в том числе видео о других катастрофах"
+uk = "У попередньому звіті дослідники Токійського університету знаходять дописи в X про землетрус у Ното, які женуться за оплачуваними переглядами, зокрема відео інших лих"
+id = "Dalam laporan awal, peneliti Universitas Tokyo menemukan unggahan di X tentang gempa Noto yang mengejar tayangan berbayar, termasuk video bencana lain"
+tr = "Tokyo Üniversitesi araştırmacıları, ön raporda X'te Noto depremiyle ilgili, başka felaketlerin videolarının da bulunduğu ve ücretli görüntülenme peşinde koşan paylaşımlar buluyor"
+zh = "東京大學研究人員在初步報告中發現,X 上有關能登地震的貼文追逐付費觀看數,其中包括其他災難的影片"
+ja = "東京大学の研究者らは予備的な報告で、能登半島地震についてXで閲覧収入を狙った投稿を確認した。別の災害の動画も含まれていた"
+hi = "एक प्रारंभिक रिपोर्ट में टोक्यो विश्वविद्यालय के शोधकर्ताओं को नोतो भूकंप के बारे में X पर ऐसी पोस्ट मिलती हैं जो पैसे वाले व्यूज़ के पीछे भागती हैं, जिनमें दूसरी आपदाओं के वीडियो भी हैं"
+ar = "في تقرير أولي، يجد باحثون من جامعة طوكيو منشورات على X عن زلزال نوتو تسعى إلى جني مشاهدات مدفوعة، منها مقاطع لكوارث أخرى"
+fa = "پژوهشگران دانشگاه توکیو در گزارشی مقدماتی پست‌هایی در X درباره زلزله نوتو پیدا می‌کنند که دنبال بازدید پولی‌اند، از جمله ویدیوهایی از فاجعه‌های دیگر"
+
+[[item]]
+soort = "pers"
+datum = "2025-04-10"
+bron = "Context (Thomson Reuters Foundation)"
+url = "https://www.context.news/big-tech/profiteers-post-fake-news-to-exploit-myanmar-earthquake"
+[item.titel]
+nl = "Context meldt dat na de beving in Myanmar virale video's uit Syrië en Maleisië of gemaakt met AI om geld werden geplaatst, omdat platforms makers betalen voor weergaven"
+en = "Context reports that after the Myanmar earthquake, viral videos shot in Syria and Malaysia or made with AI were posted for profit, as platforms pay creators for views"
+de = "Context berichtet, dass nach dem Beben in Myanmar virale Videos aus Syrien und Malaysia oder aus KI des Geldes wegen gepostet wurden, weil Plattformen für Aufrufe zahlen"
+es = "Context informa de que tras el terremoto de Myanmar se publicaron por dinero vídeos virales grabados en Siria y Malasia o hechos con IA, porque las plataformas pagan por visitas"
+fr = "Context rapporte qu’après le séisme en Birmanie, des vidéos virales tournées en Syrie et en Malaisie ou créées par IA ont été publiées pour l’argent, les plateformes payant les vues"
+pt = "A Context relata que, após o terremoto em Mianmar, vídeos virais da Síria, da Malásia ou feitos com IA foram postados para lucrar, pois plataformas pagam criadores por visualizações"
+ru = "Context сообщает, что после землетрясения в Мьянме ради заработка публиковали вирусные видео, снятые в Сирии и Малайзии или созданные с помощью ИИ, потому что платформы платят авторам за просмотры"
+uk = "Context повідомляє, що після землетрусу в М'янмі вірусні відео, зняті в Сирії та Малайзії або створені за допомогою ШІ, публікували заради прибутку, бо платформи платять авторам за перегляди"
+id = "Context melaporkan, usai gempa Myanmar, video viral yang direkam di Suriah dan Malaysia atau dibuat dengan AI diunggah demi untung karena platform membayar kreator sesuai jumlah tayangan"
+tr = "Context, Myanmar depreminden sonra Suriye ve Malezya'da çekilmiş veya yapay zekâ ürünü viral videoların, görüntülenme başına ödeme yapan platformlarda kazanç için paylaşıldığını bildiriyor"
+zh = "Context 報導,緬甸地震後,在敘利亞和馬來西亞拍攝或用 AI 製作的熱門影片被發布來賺錢,因為平台會依觀看數付費給創作者"
+ja = "Contextの報道によると、ミャンマー地震の後、シリアやマレーシアで撮影された動画やAIで作られた動画が、収益目的で投稿された。プラットフォームが投稿者に閲覧数に応じて報酬を支払うためだ"
+hi = "Context की रिपोर्ट है कि म्यांमार भूकंप के बाद सीरिया और मलेशिया में बने या AI से बनाए गए वायरल वीडियो कमाई के लिए पोस्ट किए गए, क्योंकि प्लेटफ़ॉर्म क्रिएटरों को व्यूज़ के पैसे देते हैं"
+ar = "Context تفيد بأنه بعد زلزال ميانمار نُشرت من أجل الربح مقاطع منتشرة صُوّرت في سوريا وماليزيا أو صُنعت بالذكاء الاصطناعي، لأن المنصات تدفع لصناع المحتوى مقابل المشاهدات"
+fa = "گزارش می‌دهد پس از زلزله میانمار، ویدیوهای پربازدید فیلم‌برداری‌شده در سوریه و مالزی یا ساخته‌شده با هوش مصنوعی برای سود مالی منتشر شدند، چون پلتفرم‌ها برای بازدید پول می‌دهند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2025-05-29"
+bron = "Observatorio (OBS*) Journal"
+url = "https://obs.obercom.pt/index.php/obs/article/view/2678"
+[item.titel]
+nl = "Een studie van zo'n 9.000 tweets over de beving in Marokko vindt dat misleidende beelden en video's 31 procent van de thema's van misinformatie vormden, na sensatiezucht"
+en = "A study of about 9,000 tweets on the Morocco earthquake finds that misleading images and videos made up 31 percent of the misinformation themes, second only to sensationalism"
+de = "Eine Studie von rund 9.000 Tweets zum Beben in Marokko findet, dass irreführende Bilder und Videos 31 Prozent der Themen der Falschinformation ausmachten, nach Sensationslust"
+es = "Un estudio de unos 9.000 tuits sobre el terremoto de Marruecos halla que las imágenes y vídeos engañosos fueron el 31 % de los temas de desinformación, tras el sensacionalismo"
+fr = "Une étude d’environ 9 000 tweets sur le séisme au Maroc montre que les images et vidéos trompeuses forment 31 % des thèmes de désinformation, juste après le sensationnalisme"
+pt = "Um estudo de cerca de 9.000 tuítes sobre o terremoto no Marrocos constata que imagens e vídeos enganosos representavam 31% dos temas de desinformação, atrás apenas do sensacionalismo"
+ru = "Исследование около 9000 твитов о землетрясении в Марокко показало, что вводящие в заблуждение снимки и видео составили 31 процент тем дезинформации, уступив только сенсационности"
+uk = "Дослідження приблизно 9000 твітів про землетрус у Марокко показує, що оманливі зображення й відео становили 31 відсоток тем дезінформації, поступаючись лише сенсаційності"
+id = "Sebuah studi terhadap sekitar 9.000 tweet tentang gempa Maroko menemukan bahwa gambar dan video yang menyesatkan mencakup 31 persen tema misinformasi, hanya kalah dari sensasionalisme"
+tr = "Fas depremiyle ilgili yaklaşık 9.000 tweetlik çalışma, yanıltıcı görüntü ve videoların yanlış bilgi temalarının yüzde 31'ini oluşturduğunu, sansasyonculuktan sonra geldiğini gösteriyor"
+zh = "一項針對約 9,000 則摩洛哥地震推文的研究發現,誤導性圖片和影片占錯誤資訊主題的 31%,僅次於譁眾取寵"
+ja = "モロッコ地震に関する約9,000件のツイートを調べた研究で、誤解を招く画像や動画が誤情報のテーマの31%を占め、扇情的な内容に次いで2番目に多かった"
+hi = "मोरक्को भूकंप पर करीब 9,000 ट्वीट के एक अध्ययन में पाया गया कि भ्रामक तस्वीरें और वीडियो गलत सूचना के विषयों का 31 प्रतिशत थे, और सनसनीखेज़ी ही उनसे आगे थी"
+ar = "دراسة لنحو 9000 تغريدة عن زلزال المغرب تجد أن الصور ومقاطع الفيديو المضللة شكلت 31 في المئة من محاور المعلومات المضللة، وجاءت في المرتبة الثانية بعد الإثارة"
+fa = "پژوهشی روی حدود ۹٬۰۰۰ توییت درباره زلزله مراکش نشان می‌دهد تصاویر و ویدیوهای گمراه‌کننده ۳۱ درصد موضوع‌های اطلاعات نادرست را تشکیل می‌دادند و فقط پس از هیجان‌سازی قرار داشتند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2025-06-27"
+bron = "MEDIAJ, Istanbul Gelisim University"
+url = "https://dergipark.org.tr/en/download/article-file/4623628"
+[item.titel]
+nl = "Een studie van vijf Turkse factcheckplatforms vindt dat de meeste valse berichten na de bevingen van 6 februari foto's en video's waren die de beving zouden tonen"
+en = "A study of five Turkish fact-checking platforms finds that most false items after the earthquakes of 6 February were photos and videos said to show the earthquake"
+de = "Eine Studie zu fünf türkischen Faktencheck-Plattformen findet, dass die meisten Falschmeldungen nach den Beben vom 6. Februar Fotos und Videos waren, die das Beben zeigen sollten"
+es = "Un estudio de cinco plataformas turcas de verificación halla que la mayoría de los bulos tras los terremotos del 6 de febrero eran fotos y vídeos que supuestamente mostraban el sismo"
+fr = "Une étude de cinq plateformes turques de vérification montre que la plupart des fausses informations après les séismes du 6 février étaient des photos et vidéos censées les montrer"
+pt = "Um estudo de cinco plataformas turcas de checagem constata que, depois dos terremotos de 6 de fevereiro, a maioria dos itens falsos eram fotos e vídeos que supostamente mostravam o terremoto"
+ru = "Исследование пяти турецких платформ проверки фактов показало, что после землетрясений 6 февраля больше всего ложных материалов были фото и видео, которые выдавали за кадры землетрясения"
+uk = "Дослідження п'яти турецьких фактчекінгових платформ показує, що після землетрусів 6 лютого найбільше фальшивих матеріалів були фото й відео, які нібито показували землетрус"
+id = "Sebuah studi terhadap lima platform cek fakta di Turki menemukan bahwa sebagian besar item palsu setelah gempa 6 Februari berupa foto dan video yang disebut menunjukkan gempa tersebut"
+tr = "Beş Türk doğrulama platformu üzerine bir çalışma, 6 Şubat depremlerinden sonra yanlış içeriklerin çoğunun depremi gösterdiği öne sürülen fotoğraf ve videolar olduğunu saptıyor"
+zh = "一項針對五個土耳其查核平台的研究發現,2 月 6 日地震後,大多數不實內容是聲稱拍到地震的照片和影片"
+ja = "トルコの5つのファクトチェック機関を対象にした研究で、2月6日の地震の後に確認された偽情報は、地震を写したとされる写真や動画が最も多かった"
+hi = "तुर्किये के पाँच फैक्ट चेक प्लेटफ़ॉर्म के एक अध्ययन में पाया गया कि 6 फ़रवरी के भूकंपों के बाद ज़्यादातर झूठी चीज़ें वे फ़ोटो और वीडियो थीं जिन्हें भूकंप का बताया गया था"
+ar = "دراسة لخمس منصات تركية للتدقيق تجد أن معظم المواد الكاذبة بعد زلزالَي 6 فبراير كانت صورًا ومقاطع فيديو زُعم أنها تُظهر الزلزال"
+fa = "پژوهشی درباره پنج پلتفرم راستی‌آزمایی ترکیه نشان می‌دهد بیشتر موارد نادرست پس از زلزله‌های ۶ فوریه، عکس‌ها و ویدیوهایی بودند که ادعا می‌شد زلزله را نشان می‌دهند"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "earthquake",
+  "quake",
+  "aardbeving",
+  "Erdbeben",
+  "terremoto",
+  "sismo",
+  "séisme",
+  "tremblement de terre",
+  "deprem",
+  "زلزال",
+  "زلزله",
+  "भूकंप",
+  "ভূমিকম্প",
+  "நிலநடுக்க",
+  "భూకంప",
+  "地震",
+  "지진",
+  "землетрясен",
+  "землетрус",
+  "gempa",
+  "lindol",
+  "trzęsieni",
+]
+omschrijving = """
+Claims that a photo or video shows a specific earthquake, its damage, its victims or its rescue, while according to the fact-check it shows something else: another earthquake, another disaster, another place or year, a film, an exercise or an image made with AI. It does not include claims about what causes earthquakes (HAARP, weapons, nuclear tests), signs or predictions before an earthquake (lights, clouds, a strange sky), or pictures of aid, shelters, politicians or other things after it that show no damage, victims or rescue, even when the picture is from elsewhere (afbakening van de PO, 2026-11-12)."""

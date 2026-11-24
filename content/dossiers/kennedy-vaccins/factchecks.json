@@ -1,0 +1,178 @@
+{
+ "toelichting": "Een voorstel van Claude (PLAN #37.5): de eigen check over de sms'jes van Fauci en de factchecks uit het archief over wat Robert F. Kennedy jr. sinds 2019 over vaccins en autisme zei of wat hem werd toegeschreven, en over het vaccinbeleid van zijn ministerie in 2025 en 2026. Claude las elke kaart van het model en voegde 18 checks toe die het model miste omdat de bewering Kennedy niet noemt; de lezing staat in docs/steekproeven/33.6-dossier-kennedy-vaccins.json. De PO las het dossier en gaf akkoord op 2026-11-19. Strenge keuze (SPECS E9.S7 AC10): de 57 beweringen die het vaakst rondgingen, hoogstens 25 per jaar, van de 86; de rest in data/dossiers/kennedy-vaccins/inkorten.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-19",
+ "factchecks": [
+  {
+   "nummer": "da260d64c8a8d873"
+  },
+  {
+   "nummer": "b39ce296386ea996"
+  },
+  {
+   "nummer": "23928698a0b1926e"
+  },
+  {
+   "nummer": "75d6239ffec7ce4d"
+  },
+  {
+   "nummer": "20e1714429b8da1d"
+  },
+  {
+   "nummer": "a96f14278333b8eb"
+  },
+  {
+   "nummer": "55359bf05fbd54d9"
+  },
+  {
+   "nummer": "410a508de3e71a25"
+  },
+  {
+   "nummer": "30848c19b702ef7d"
+  },
+  {
+   "nummer": "f1a8c632cb011aea"
+  },
+  {
+   "nummer": "23cb9ee99152bb16"
+  },
+  {
+   "nummer": "d0d823a2a42dcb07"
+  },
+  {
+   "nummer": "9edad911d1c1ec0f"
+  },
+  {
+   "nummer": "2cfbf1cc0b1178c1"
+  },
+  {
+   "nummer": "d72dc68a254680de"
+  },
+  {
+   "nummer": "86865bfd6bbd6992"
+  },
+  {
+   "nummer": "88c3c1cde01d3377"
+  },
+  {
+   "nummer": "34ecb43cbf833d72"
+  },
+  {
+   "nummer": "bb86756694f38dda"
+  },
+  {
+   "nummer": "23f4a7b8b1a5424c"
+  },
+  {
+   "nummer": "3c22a3dd35e90868"
+  },
+  {
+   "nummer": "92745a2b570cd5f7"
+  },
+  {
+   "nummer": "ef81dd6e1ef98b30"
+  },
+  {
+   "nummer": "f159321cb4aa34d5"
+  },
+  {
+   "nummer": "103b4ba67f287c13"
+  },
+  {
+   "nummer": "8c204368f68ea6dd"
+  },
+  {
+   "nummer": "8c56ecacf4a2205e"
+  },
+  {
+   "nummer": "f76e3f2f7f15510c"
+  },
+  {
+   "nummer": "0b38f39a1a7f7c35"
+  },
+  {
+   "nummer": "2180d14787084e62"
+  },
+  {
+   "nummer": "65a832c4dd51cc37"
+  },
+  {
+   "nummer": "8ef1da56fb622189"
+  },
+  {
+   "nummer": "9d5d5999a722adc7"
+  },
+  {
+   "nummer": "bc063127af20345c"
+  },
+  {
+   "nummer": "efc74da05b1da4e5"
+  },
+  {
+   "nummer": "f038db6a20b64179"
+  },
+  {
+   "nummer": "4608b26542e79918"
+  },
+  {
+   "nummer": "49b5143e508c3b48"
+  },
+  {
+   "nummer": "16aa4751c942351c"
+  },
+  {
+   "nummer": "1a80c5b74efe36ff"
+  },
+  {
+   "nummer": "27277f2fe59baf65"
+  },
+  {
+   "nummer": "27396fb03f673ad4"
+  },
+  {
+   "nummer": "643aa352269e64f7"
+  },
+  {
+   "nummer": "b7b1e68ab72e370a"
+  },
+  {
+   "nummer": "00f83dea12447518"
+  },
+  {
+   "nummer": "01713c16c0223a78"
+  },
+  {
+   "nummer": "023d5d285f5614e4"
+  },
+  {
+   "nummer": "2cf87fc63df8ae95"
+  },
+  {
+   "nummer": "31f280b7b80d8433"
+  },
+  {
+   "nummer": "33b71463413a4489"
+  },
+  {
+   "nummer": "4173a77f721f02f1"
+  },
+  {
+   "nummer": "5fa4fa07736bb362"
+  },
+  {
+   "nummer": "7d9333af4c971972"
+  },
+  {
+   "nummer": "8d9c0c69ac59985f"
+  },
+  {
+   "nummer": "b93fc9c6a7a0b9ae"
+  },
+  {
+   "nummer": "ecd79e7fd7b9f876"
+  },
+  {
+   "nummer": "f7b8cc465612870e"
+  }
+ ]
+}

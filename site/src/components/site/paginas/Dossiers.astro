@@ -1,0 +1,24 @@
+---
+// De site, het overzicht van de dossiers (PLAN #34.2s, DESIGN §4w): eerst wat een dossier is, dan elk dossier van de
+// uitgave als dezelfde kaart als op de start, de nieuwste aanvulling boven. Een dossier heeft zijn naam en inleiding in
+// elke taal van de site, dus het overzicht is in elke taal vindbaar.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import DossierKaart from '../DossierKaart.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={g.titel} omschrijving={g.inleiding} hier="dossier" taal={taal} delen={['dossiers']} aangeboden={TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[g.titel]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{g.inleiding}</p>
+    </header>
+    <ul class="mt-8 grid grid-cols-1 gap-3 md:grid-cols-2">
+      {g.dossiers.map((d) => <li><DossierKaart d={d} href={pad(taal, 'dossiers', d.sleutel)} taal={taal} /></li>)}
+    </ul>
+  </div>
+</Site>

@@ -1,0 +1,19 @@
+---
+// De 404 in de taal van het adres (PLAN #34.2v, SPECS E9.S4 AC6): de kop en de voet van de site, één zin en de weg terug
+// naar de start; geen technische details, niet vindbaar en zonder eigen adres om te delen. De taalkiezer wijst naar de
+// start van elke taal, want deze pagina bestaat in geen enkele.
+import Site from '../../../layouts/Site.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { pad } from '../../../lib/talen.js';
+const { taal } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={t('fout_titel')} taal={taal} aangeboden={[]} fout>
+  <div class="baan pt-10">
+    <header class="paginakop mt-0">
+      <h1 class="groot-kop">{t('fout_titel')}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{t('fout_tekst')}</p>
+    </header>
+    <p class="mt-6"><a class="knop knop-primair" href={pad(taal)}>{t('fout_terug')}</a></p>
+  </div>
+</Site>

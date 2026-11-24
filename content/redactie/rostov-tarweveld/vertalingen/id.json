@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video \"pengubah iklim\" di ladang gandum Spanyol beredar di Rusia pada 2022",
+  "oordeel_zin": "Rekaman itu tidak berasal dari Spanyol: lensa di ladang gandum merupakan rumor di wilayah Rostov, Rusia, pada Juli 2022, dan dinas darurat di sana tidak menemukan lensa apa pun [2] [5].",
+  "bewering": "Spanyol: Seorang petani menemukan \"pengubah iklim\" di salah satu ladang gandumnya.",
+  "kort": "Sejak 4 September, sebuah video beredar di X tentang \"pengubah iklim\" yang konon ditemukan seorang petani di ladang gandum Spanyol [1]. Video konstruksi serupa dengan lensa di ladang gandum sudah beredar sejak Juli 2022 di wilayah Rostov, Rusia, sebagai bukti sabotase [2] [5]. Dinas darurat di sana tidak menemukan lensa pada kebakaran tersebut dan menyebut laporan itu palsu [2].",
+  "tekst": "Pada Jumat 4 September 2026 pukul 11.47, sebuah video berdurasi 48 detik muncul di X, dengan bendera Spanyol dan teks yang menyebut bahwa seorang petani di Spanyol menemukan \"pengubah iklim\" di salah satu ladang gandumnya [1]. Spanyol mengalami kebakaran hutan besar musim panas itu, antara lain di wilayah Madrid dan di Ávila pada bulan Juli [6].\n\nJenis rekaman yang sama beredar empat tahun sebelumnya di Rusia. Pada 12 Juli 2022, video konstruksi buatan sendiri dengan lensa di ladang gandum di wilayah Rostov, di Rusia bagian selatan, muncul di media sosial [2]. Menurut laporan-laporan itu, saboteur Ukraina memasangnya agar matahari membakar gandum [2]. Di YouTube ada video dengan judul yang menyebut para petani di wilayah Rostov ramai-ramai menemukan perangkat semacam itu di gandum mereka [5].\n\nDinas darurat wilayah itu membantahnya. Kementerian darurat regional menyatakan pada 13 Juli 2022 bahwa mereka tidak menerima laporan tentang perangkat semacam itu, dan bahwa tidak ada lensa yang ditemukan pada kebakaran tersebut [2]. Kementerian menyebut laporan itu palsu dan meminta diselidiki siapa yang sengaja menyebarkannya [2]. Lapsha Media, proyek Rusia yang menyebut dirinya pemeriksa fakta, juga menulis pada 14 Juli bahwa tidak ditemukan hal mencurigakan pada kebakaran itu [3].\n\nPada Juli 2024 rumor itu muncul kembali, kali ini tentang ladang-ladang di Kuban [4]. Polisi di sana tidak menerima laporan apa pun [4]. Di wilayah Stavropol, gubernur saat itu memang mengatakan bahwa lensa ditemukan di ladang, dan di sana ada perkara pidana [4]. Mengenai Rostov, surat kabar itu mengulang bahwa kementerian pada 2022 mengatakan konstruksi semacam itu nyaris tidak bisa menyulut kebakaran [4].\n\nJadi rekaman itu tidak ada hubungannya dengan Spanyol, dan juga tidak dengan iklim. Ceritanya tentang sabotase di Rusia, dan bahkan di sana tidak ada yang menemukan bukti bahwa lensa di Rostov menyebabkan kebakaran [2] [4].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali membuat video itu dan di mana tepatnya video itu direkam. Kami tidak menemukan pemberitaan Spanyol tentang temuan semacam itu, tetapi kami belum menelusuri seluruh pers Spanyol. Kami juga tidak tahu siapa yang memindahkan video itu dari Rusia ke Spanyol, dan apa yang dimaksud unggahan itu dengan pengubah iklim. Sumber-sumber tentang 2022 berbahasa Rusia dan terutama meneruskan pernyataan kementerian.",
+  "bereik": "Ditonton 1.645 kali pada 18 November",
+  "nog_uitzoeken": [
+   "Sumber aslinya dari Juli 2022. Video di YouTube berada di kanal milik individu dan kemungkinan bukan sumber aslinya.",
+   "Sumber independen untuk pernyataan kementerian di Rostov, seperti unggahan di situs web kementerian itu sendiri atau media non-Rusia.",
+   "Untuk kaitan Lapsha Media dengan negara Rusia, kami masih mencari sumbernya."
+  ],
+  "tijdlijn": [
+   "Video konstruksi dengan lensa di ladang gandum di wilayah Rostov beredar di media sosial [2].",
+   "Kementerian darurat di Rostov menyebut laporan itu palsu: tidak ada laporan, tidak ada lensa yang ditemukan [2].",
+   "Lapsha Media menulis bahwa tidak ditemukan hal mencurigakan pada kebakaran itu [3].",
+   "Rumor itu muncul kembali, kali ini tentang ladang-ladang di Kuban [4].",
+   "Maldita mulai menyusun ringkasan laporan keliru tentang kebakaran hutan di Spanyol [6].",
+   "Unggahan tentang pengubah iklim di ladang gandum Spanyol [1]."
+  ],
+  "beeld_bijschrift": [
+   "Tangkapan layar dari video dalam sebuah unggahan di X, 4 September 2026, pukul 11.47."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar dari video konstruksi di ladang gandum, yang disajikan sebagai temuan di Spanyol. Cap: SALAH."
+  ]
+ }
+}

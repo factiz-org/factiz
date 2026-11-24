@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck kabul-beelden-turkije van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "49291058a1e10941",
+ "veldafdrukken": {
+  "kop": "2f8eaae2bafdd900",
+  "oordeel_zin": "9fdeee9fad6e3384",
+  "bewering": "78cba22578fa9c0a",
+  "kort": "f0489b0486d3aec6",
+  "tekst": "be06e8a18136d46c",
+  "niet_weten": "0febbc803080a097",
+  "bereik": "46f43bf117027708",
+  "nog_uitzoeken": "c9a6342748359bd6",
+  "tijdlijn": "71a1685d2918abaf",
+  "beeld_bijschrift": "0605bdb69b6ae6ce",
+  "beeld_alt": "856248c240f3a55f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video Apache dan C-17 itu direkam di Kabul pada 2021, bukan di Turki",
+  "oordeel_zin": "Rekaman itu berasal dari bandara Kabul pada 16 Agustus 2021, dan pada September 2026 Angkatan Udara Amerika Serikat masih berada di Incirlik [1] [3].",
+  "bewering": "Pesawat kargo Amerika mengangkut semua barang dari pangkalan angkatan udara di Turki dan pergi untuk selamanya.",
+  "kort": "Pada 27 Agustus beredar di X sebuah video pesawat Amerika yang disebut meninggalkan sebuah pangkalan di Turki untuk selamanya [4]. Rekaman itu berasal dari 16 Agustus 2021, di bandara Kabul, tempat sebuah helikopter Apache mengusir orang-orang dari dekat sebuah C-17 [1] [2]. Pada September, Angkatan Udara Amerika Serikat masih melaporkan kegiatan biasa di pangkalan Incirlik di Turki [3] [6].",
+  "tekst": "Pada Kamis 27 Agustus pukul 19.04, sebuah akun berbahasa Belanda di X mengunggah video berdurasi 37 detik [4]. Tulisannya menyebut bahwa pesawat kargo Amerika membawa pulang peralatan dan perbekalan dari \"pangkalan angkatan udara di Turki\" ke Amerika Serikat dan meninggalkan pangkalan itu sepenuhnya [4]. Pangkalan mana yang dimaksud, tidak disebutkan unggahan itu [4]. Per 18 November, video itu telah ditonton 9.252 kali [4].\n\nKlaim yang sama muncul delapan jam sebelumnya dalam bahasa Inggris di X, pukul 11.15, dengan video berdurasi sama [5]. Unggahan itu ditonton 685.711 kali [5]. Teks berbahasa Belanda itu tampaknya terjemahan dari unggahan tersebut [4] [5].\n\nRekaman itu sudah berusia lima tahun. Rekaman itu berasal dari bandara Kabul pada Senin 16 Agustus 2021, pada hari-hari evakuasi Amerika dari Afghanistan [1] [2]. Kelompok besar warga Afghanistan berjalan ke landasan pacu di sekitar sebuah C-17 yang sedang melaju pelan di landasan [1]. Sebuah helikopter Apache milik Angkatan Darat Amerika terbang rendah di atas tanah untuk mengusir mereka [1] [2]. The War Zone mengunggah video itu pada hari yang sama, dengan unggahan di media sosial sebagai sumbernya [1]. The Aviationist menggambarkan kejadian itu sehari kemudian [2].\n\nJadi video itu tidak menunjukkan apa pun tentang Turki pada 2026 [1] [4]. C-17 adalah pesawat angkut besar milik Angkatan Udara Amerika Serikat; jenis itu menerbangkan jembatan udara dari Kabul pada 2021 [2].\n\nAmerika juga tidak meninggalkan Turki. Pada 18 dan 19 September, personel 39th Air Base Wing di pangkalan Incirlik mengadakan peringatan selama 24 jam untuk tawanan perang dan personel yang hilang [3]. Pada 25 September, unit yang sama membuka kembali sebuah gedung berisi kamar untuk prajurit di sana, setelah renovasi selama 949 hari [6]. Kedua laporan itu berasal dari militer Amerika Serikat sendiri [3] [6].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali mengaitkan rekaman itu dengan Turki. Unggahan tertua dengan penjelasan itu yang kami temukan adalah yang berbahasa Inggris pada 27 Agustus pukul 11.15. Kami juga tidak tahu siapa yang merekam video itu pada 2021. Apakah pada Agustus 2026 ada perubahan pada pasukan Amerika di Turki, tidak kami selidiki lebih jauh; dalam dua laporan bulan September yang kami baca, tidak ada yang menyebut kepergian.",
+  "bereik": "Ditonton 9.252 kali per 18 November",
+  "nog_uitzoeken": [
+   "Apakah pada akhir Agustus 2026 ada berita tentang pasukan Amerika Serikat di Turki yang dapat menjelaskan unggahan tersebut."
+  ],
+  "tijdlijn": [
+   "Di bandara Kabul, sebuah Apache mengusir orang-orang dari dekat sebuah C-17; The War Zone mengunggah videonya [1].",
+   "The Aviationist menggambarkan kejadian yang sama [2].",
+   "Sebuah unggahan berbahasa Inggris menampilkan video itu sebagai orang Amerika yang meninggalkan sebuah pangkalan di Turki [5].",
+   "Unggahan berbahasa Belanda dengan klaim yang sama [4].",
+   "Peringatan selama 24 jam di pangkalan Incirlik [3].",
+   "Di Incirlik, sebuah gedung berisi kamar untuk prajurit yang sudah direnovasi dibuka kembali [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 27 Agustus 2026, pukul 19.04.",
+   "The War Zone, 16 Agustus 2021: sebuah Apache mengusir warga Afghanistan dari dekat sebuah C-17 di bandara Kabul."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar dari video: sebuah helikopter terbang rendah di atas landasan pacu dekat sebuah pesawat angkut besar. Cap: SALAH.",
+   "Video dari The War Zone tentang helikopter Apache di atas landasan pacu Kabul, di samping sebuah C-17."
+  ]
+ }
+}

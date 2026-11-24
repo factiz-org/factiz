@@ -1,0 +1,189 @@
+{
+ "toelichting": "PLAN #32.59, het Nederlands, lezer-v16: elk rood en oranje en elk groen bij O, elk alarm bij W en elke niet bevestigd bij G, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag, door twee deelagenten (elk de helft). Geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet. K met de eigen check als bron bewijst zichzelf (automatisch).",
+ "labels": {
+  "O:gfc-006fa88f415e4475#C": {
+   "label": "bewijst",
+   "toelichting": "Delfi (factcheckrubriek Lie Detector, band goed) en Koffiehenk leggen uit dat het kikkerlogo van de Rainforest Alliance is en noemen de koppeling met Bill Gates en mRNA ongegrond. Beoordeeld op titels en uitleg, geen pagina geopend."
+  },
+  "O:gfc-1623b1833041a273#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters, Human Rights Watch, Wikipedia en BNNVARA ('raket kwam écht uit Rusland') tonen dat een Russische raket het Okhmatdyt-ziekenhuis trof. Geen pagina geopend."
+  },
+  "O:gfc-17f8b6acf4aef1a0#C": {
+   "label": "bewijst niet",
+   "toelichting": "Politico en CNN gaan over Qatarees geld dat Israël naar Gaza toeliet en Netanyahu's ontkenning dat hij Hamas wilde versterken; geen van beide gaat over wat Netanyahu volgens Israëlische kranten zou hebben gezegd, en Factiz zegt zelf dat de resultaten over iets anders gaan. CNN (HTTP 451) en Politico openden niet."
+  },
+  "O:gfc-6d68411973af75f1#C": {
+   "label": "bewijst",
+   "toelichting": "t-online ('Fake-Post von Ritter Sport') en de Stuttgarter Nachrichten tonen dat de reep met krekels een grap van Ritter Sport was en niet verkocht wordt. Geen pagina geopend."
+  },
+  "O:gfc-3efab1ffcfddda21#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het BBC-artikel gaat in het algemeen over valse beweringen over geënsceneerde doden en x.com is een platformprofiel; de Knack-check die de video als Egyptisch studentenprotest uit 2013 aanwijst, staat alleen in de uitleg en niet bij de bronnen. bbc.com opende niet."
+  },
+  "O:gfc-54dc20d61d65de28#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen (Wikipedia, 972mag, BBC, Euronews, NPR) gaan over de 'Pallywood'-trope in het algemeen, niet over deze video (volgens dpa uit 2020, waarschijnlijk Jordanië). Euronews geopend: behandelt alleen een ander paar clips; BBC opende niet, NPR gaf een time-out."
+  },
+  "O:gfc-7b59adb9ea901907#C": {
+   "label": "bewijst",
+   "toelichting": "Follow the Money (geopend) rekent voor dat de Europese steun gemiddeld 0,4 procent van het bbp is en zo'n 62 euro per Europeaan per oorlogsjaar, wat de bewering over een bankroet door de hulp weerlegt; NRC (2025) en het Europees Parlement voegen weinig toe."
+  },
+  "O:gfc-5b3079c703160c5c#C": {
+   "label": "bewijst",
+   "toelichting": "Sky News, Reuters, National Post, NOS en NRC melden dat Biden en Sunak elkaar in Belfast ontmoetten en spraken, dus Biden negeerde hem niet. Geen pagina geopend."
+  },
+  "O:gfc-7426418c118d8e73#C": {
+   "label": "bewijst",
+   "toelichting": "Thejournal.ie ontkracht de bewering, en WEF-artikelen noemen veilig drinkwater juist een mensenrecht. Geen pagina geopend."
+  },
+  "O:gfc-b1440f0ca1581d34#C": {
+   "label": "set fout",
+   "toelichting": "Swissinfo en americanmilitarynews melden dat het Zwitserse leger de WEF-bijeenkomst met maximaal 5000 militairen ondersteunt; dpa noemt het misleidend alleen omdat het een maximum is, en Factiz noemt die nuance zelf, dus het bericht klopt in essentie (eerder klopt grotendeels dan nep). Geen pagina geopend."
+  },
+  "O:gfc-d9486d9e5e6f7fc4#C": {
+   "label": "bewijst",
+   "toelichting": "The Guardian, Al Jazeera, de Raad van de EU, DW en OCHA tonen vrijstellingen van de VS, het VK en de EU en westerse bijdragen aan hulp na de aardbeving. Geen pagina geopend."
+  },
+  "O:gfc-d4d7ee7ae5fa812c#C": {
+   "label": "bewijst",
+   "toelichting": "Het FDA-dossier over het kweekvlees van GOOD Meat (geopend) heeft een paragraaf 'Absence of Tumorigenic Potential': in kippen gespoten cellen gaven geen tumoren, en de FDA rondde de veiligheidsbeoordeling af. Frontnieuws, als tegenbron genoemd, is zelf een verspreider."
+  },
+  "O:gfc-a15776308830a3b4#C": {
+   "label": "bewijst",
+   "toelichting": "Het Voedingscentrum, Kassa, de BBC, een PubMed-overzicht en gezondheid.be laten zien dat opwarmen in de magnetron veilig is en de voedingswaarde niet laat verdwijnen. Geen pagina geopend."
+  },
+  "O:gfc-fa51d866438dd761#C": {
+   "label": "bewijst",
+   "toelichting": "De stad Pitt Meadows zelf, CBC en Global News melden dat de posters vals waren en niet van de stad of CAIR kwamen. Geen pagina geopend."
+  },
+  "O:gfc-e2f3b88824bbc6ae#C": {
+   "label": "bewijst",
+   "toelichting": "CBS ('sham news site false claim') en de BBC tonen dat het verhaal over Harris en het meisje van een nepnieuwssite kwam. Geen pagina geopend."
+  },
+  "O:gfc-d019d850bd279526#C": {
+   "label": "bewijst",
+   "toelichting": "Climate Feedback ('1977 coming ice age Time magazine cover is a fake') gaat over dezelfde vervalste klimaatcover als de Knack-check. Geen pagina geopend."
+  },
+  "O:gfc-934f3062416bfe51#C": {
+   "label": "bewijst",
+   "toelichting": "Stern ('dieses Fake-Video zeigt deutsche Bauern') en de nieuwsbrief van Nieuwscheckers tonen dat de beelden Duitse boeren laten zien, geen coronaprotest. De Wikipedia-link over de boerenprotesten van eind 2023 is te laat en doet niet mee. Geen pagina geopend."
+  },
+  "O:gfc-ac42a518e04b6a6f#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia en ASTRON beschrijven LOFAR als radiotelescoop voor astronomisch onderzoek, wat de koppeling met HAARP weerspreekt. Geen pagina geopend."
+  },
+  "O:gfc-ff98333fb115517a#C": {
+   "label": "bewijst",
+   "toelichting": "Dunya News (geopend) toont dat een vergelijkbare video van een raket die tegen de koepel zou botsen uit een lancering van CSXT in 2014 komt en de kromming van de aarde laat zien; NASA en NEMO Kennislink weerleggen de koepel zelf. Of het precies dezelfde beelden zijn als bij Knack, kon ik niet nagaan: Knack stuurt door naar een inlogpagina."
+  },
+  "O:gfc-c315d094d4de723e#C": {
+   "label": "bewijst niet",
+   "toelichting": "Alle bronnen gaan over de verkiezingen en studentenprotesten in Brazilië van oktober en november 2026; geen bron gaat over de video, die volgens Knack een viering van de onafhankelijkheidsdag toont. De uitleg haalt de datum van de factcheck aan als datum van de betoging. Geen pagina geopend."
+  },
+  "O:gfc-8fbba383a29be296#C": {
+   "label": "bewijst",
+   "toelichting": "NASA, JPL en Wikipedia ('Wolkenstralen') geven de afstand van ongeveer 150 miljoen kilometer en leggen uit dat wolkenstralen gezichtsbedrog zijn. Geen pagina geopend."
+  },
+  "O:gfc-de50dd2213543fb8#C": {
+   "label": "bewijst",
+   "toelichting": "De taz ('Irreführender BILD-Artikel über Fleisch'), Focus, France24 en de Bundestag-stukken tonen dat het om een mogelijke voedingsaanbeveling van de DGE ging, niet om een besluit van het parlement. Geen pagina geopend."
+  },
+  "W:wikinews:nl:12186#C": {
+   "label": "vals",
+   "toelichting": "Het NOS-artikel (geopend) met PvdA, GroenLinks en de PvdD tegen de titel is van 13 mei 2011, en NRC is van 2013, terwijl het Wikinews-artikel van 28 januari 2007 is en PvdA-Kamerlid Hamer citeert als voorstander; Factiz weerlegt een bericht uit 2007 met standpunten van later. Volkskrant, Parool en NRC openden niet."
+  },
+  "O:gfc-364439d06b51354e#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (band goed) citeert de organisatie: op de locaties Visa én contant geld, en QR-codes komen nergens voor, dus '100% cashloos via QR' klopt niet. Geopend: Yahoo; Substack zit achter een betaalmuur, de olympics.com-pagina opende niet (time-out) en telt niet."
+  },
+  "O:gfc-224256b5f3815c34#C": {
+   "label": "bewijst",
+   "toelichting": "BBC en Wikipedia (band goed) melden dat Labour de controle over Bradford behield; er won geen islamistische partij. Geen pagina geopend."
+  },
+  "O:gfc-6c4019f1365345fc#C": {
+   "label": "bewijst",
+   "toelichting": "WNL laat een desinformatie-expert zeggen dat de naast elkaar geplakte foto's een totaal andere man tonen; Euronews en NRC beschrijven de Pallywood-beschuldiging als vals. Geopend: WNL."
+  },
+  "O:gfc-3a5a476411a2e93b#C": {
+   "label": "bewijst",
+   "toelichting": "The Conversation (band goed) en New Scientist zeggen dat de storm van april 2024 op het Arabisch schiereiland veel te groot was voor cloud seeding, en AD dat seeding hooguit lokaal buien versterkt. Ze gaan over dezelfde storm en het mechanisme, niet specifiek over Asir. Geen pagina geopend."
+  },
+  "O:gfc-455d6138786ba397#C": {
+   "label": "bewijst",
+   "toelichting": "CBS News, Newsweek en 10News (band goed) noemen de oortjesbewering onjuist; Harris droeg gewone parelOorbellen. Geen pagina geopend."
+  },
+  "O:gfc-6e4b04fe6da4b67a#C": {
+   "label": "bewijst",
+   "toelichting": "BBC, NOS en NRC (band goed) tonen met satellietbeelden en video dat de lichamen er al lagen tijdens de Russische bezetting; niet in scène gezet. Geen pagina geopend."
+  },
+  "O:gfc-5de9ab9fa208a552#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van Yahoo News Canada (band goed) zegt in de kop al dat madenmelk van een Zuid-Afrikaanse start-up komt, niet van Bill Gates. Geen pagina geopend."
+  },
+  "O:gfc-69b029c22dda05c9#C": {
+   "label": "bewijst",
+   "toelichting": "NOS, Business Insider, BBC, CBS en The Guardian (band goed) melden dat de drie overlijdens als zelfdoding zijn vastgesteld of aangemerkt, niet als moord. Geen pagina geopend."
+  },
+  "O:gfc-7f9671be613b1ad9#C": {
+   "label": "bewijst",
+   "toelichting": "KATV (band goed) meldt dat het vallende populierenbloesem was, geen wormen; Axed.nl noemt hetzelfde uit een factcheck. Geen pagina geopend."
+  },
+  "O:gfc-b4543aded035bf6f#C": {
+   "label": "bewijst",
+   "toelichting": "NASA (officieel) en Wikipedia (band goed) tonen dat de maanlanding echt was, met foto's van de landingsplek door de LRO; de complottheorie is weerlegd. Geen pagina geopend."
+  },
+  "O:gfc-87a22839c3850880#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesschau, Spiegel, Berliner Zeitung en Focus (band goed) melden dat de video van de belaagde ambulance uit Hongkong komt, niet uit Duitsland. Geen pagina geopend."
+  },
+  "O:gfc-cc3bdccc9126a74b#C": {
+   "label": "bewijst",
+   "toelichting": "Clinical Trials Arena noemt nOPV2 een aangepaste, genetisch stabielere versie die minder snel naar een verlammende vorm terugvalt, veilig en effectief, en de WHO meldt dat de eerste ronde geslaagd is; dat maakt de bangmakerij misleidend. 'Ongetest' wordt niet rechtstreeks weerlegd. Geopend: Clinical Trials Arena."
+  },
+  "O:gfc-e051d611e2b70051#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van Taiwan News (band goed) zegt dat deze steden geen vleesverbod en geen verbod op auto's tegen 2030 willen. Geen pagina geopend."
+  },
+  "O:gfc-9d0d50b828a9e121#C": {
+   "label": "bewijst",
+   "toelichting": "Kompas Cek Fakta (band goed) en RRI noemen de wervingslink voor BNPB 2025 een hoax; BNPB werft alleen via de selectie van de BKN. Geen pagina geopend."
+  },
+  "O:gfc-f6d9d5d5904e14cf#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van Reuters (band goed) toont dat het origineel een T-shirt van Clooneys tequilamerk is en dat de tekst over Trump is toegevoegd. Geen pagina geopend."
+  },
+  "O:gfc-e17bd622b615347d#C": {
+   "label": "bewijst",
+   "toelichting": "AP, Reuters, The Guardian en de ICAC melden dat Berejiklian aftrad om het onderzoek naar subsidies en haar relatie met Maguire; geen geld van de farma-industrie of vaccins. Geen pagina geopend."
+  },
+  "O:gfc-901101bfa527b520#C": {
+   "label": "bewijst",
+   "toelichting": "France24 (band goed) gaat over de virale video uit 2022 die de 'Caravan of Light' van Syrische vluchtelingen uit Turkije zou tonen, en zegt dat die video dat niet laat zien. Waar de beelden echt vandaan komen, staat niet in de paginatekst. Geopend: France24."
+  },
+  "O:gfc-87d0592037df1989#C": {
+   "label": "bewijst",
+   "toelichting": "NBC News (band goed) en Stanford melden dat Obama in die toespraak waarschuwde dat desinformatie de democratie verzwakt; hij gaf geen advies om ermee te winnen. Geen pagina geopend."
+  },
+  "O:gfc-9e26e1a745a1ecbe#C": {
+   "label": "bewijst",
+   "toelichting": "Hindustan Times (band goed) meldt na omgekeerd zoeken op het beeld dat de virale foto niet in Ayodhya is genomen. Geen pagina geopend."
+  },
+  "O:gfc-fd147cdfc01f070d#C": {
+   "label": "bewijst",
+   "toelichting": "NOS, Zeit en Spiegel (band goed) melden dat het OM geen aanwijzingen vond voor een aanslag en het onderzoek stopte; Chrupalla mocht na een dag naar huis. Geen pagina geopend."
+  },
+  "O:gfc-cdb5f694465ef821#C": {
+   "label": "bewijst",
+   "toelichting": "De studie van Dazzi en Pedrabissi en de meta-analyse in ScienceDirect (band goed), plus Skepsis, vinden geen geldige relatie tussen handschrift en persoonlijkheid. Geen pagina geopend."
+  },
+  "O:gfc-c11902da5e266567#C": {
+   "label": "bewijst niet",
+   "toelichting": "BFM TV, HuffPost en YouTube gaan over de plunderingen bij de mobilisaties van 17 oktober 2026 in Parijs, niet over de video uit het bericht. Ze zeggen niets over waar die video vandaan komt. Geen pagina geopend."
+  },
+  "G:nl-004863#C": {
+   "label": "vals",
+   "toelichting": "Een gewoon regionaal rechtbankbericht dat Omroep West meldt, en Factiz noemt dat zelf in de uitleg. 'Niet bevestigd' is dus onterecht. Geen pagina geopend."
+  }
+ }
+}

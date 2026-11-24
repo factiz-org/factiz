@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van het overzicht rubio-fake-post-lula-iran-conspiracy van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "174e13b6833ff105",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "ABD Dışişleri Bakanı Marco Rubio'ya ait olduğu öne sürülen bir X paylaşımının ekran görüntüsü, resmi bir açıklamanın Lula'nın İran Cumhurbaşkanı ile görüşmesinde Amerika Birleşik Devletleri'ne karşı komplo kurduğunu doğruladığını söylüyor.",
+  "kern": [
+   "ABD Dışişleri Bakanlığı, Lula'yı komployla suçlayan hiçbir açıklama yayımlamadı ve Rubio'nun resmi hesaplarında böyle bir mesaj yok [1] [2] [3].",
+   "Paylaşımlarda @MarcoRubioGC adlı bir hesap görülüyor; bu, Rubio'nun kullandığı bir hesap değil, X'teki resmi hesabı @SecRubio'dur [1] [2] [3]."
+  ],
+  "rondgang": "Ekran görüntüsü, Lula'nın 12 Kasım'da Türkiye'nin Antalya kentindeki COP31'de İran Cumhurbaşkanı Masoud Pezeshkian ile görüşmesinin ardından Portekizce olarak Facebook, Instagram, TikTok ve Kwai'de yayıldı [2] [3]. AFP 45.000'den fazla görüntüleme, Aos Fatos ise Meta platformlarında en az 6.000 etkileşim saydı [2] [3]."
+ }
+}

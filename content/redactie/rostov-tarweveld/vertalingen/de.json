@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video eines „Klimaveränderers“ in einem spanischen Weizenfeld machte 2022 in Russland die Runde",
+  "oordeel_zin": "Die Bilder stammen nicht aus Spanien: Linsen in Weizenfeldern waren im Juli 2022 ein Gerücht in der russischen Region Rostov, und die Notfalldienste dort fanden keine [2] [5].",
+  "bewering": "Spanien: Ein Bauer hat in einem seiner Weizenfelder einen \"Klimaveränderer\" gefunden.",
+  "kort": "Seit dem 4. September kursiert auf X ein Video eines „Klimaveränderers“, den ein Bauer in einem spanischen Weizenfeld gefunden haben soll [1]. Videos solcher Konstruktionen mit Linsen in Weizenfeldern kursierten bereits im Juli 2022 in der russischen Region Rostov, als Beweis für Sabotage [2] [5]. Die Notfalldienste dort fanden bei den Bränden keine Linsen und nannten die Meldung falsch [2].",
+  "tekst": "Am Freitag, dem 4. September 2026, um 11:47 Uhr erschien auf X ein 48 Sekunden langes Video mit einer spanischen Flagge und dem Text, ein Bauer in Spanien habe in einem seiner Weizenfelder einen „Klimaveränderer“ gefunden [1]. Spanien hatte in jenem Sommer große Waldbrände, unter anderem in der Region Madrid und im Juli in Ávila [6].\n\nDieselbe Art von Bildern kursierte vier Jahre zuvor in Russland. Am 12. Juli 2022 tauchten in sozialen Medien Videos von selbstgebauten Konstruktionen mit Linsen in Weizenfeldern in der Region Rostov im Süden Russlands auf [2]. Diesen Meldungen zufolge hatten ukrainische Saboteure sie aufgestellt, damit die Sonne das Getreide in Brand setzt [2]. Auf YouTube gibt es ein Video, dessen Titel besagt, dass Bauern in der Region Rostov massenhaft solche Geräte im Getreide finden [5].\n\nDie Notfalldienste der Region widersprachen. Das regionale Ministerium für Notsituationen erklärte am 13. Juli 2022, es habe keine Meldungen über solche Geräte erhalten, und bei den Bränden seien keine Linsen gefunden worden [2]. Es nannte die Meldung falsch und ließ prüfen, wer sie bewusst verbreitete [2]. Auch Lapsha Media, ein russisches Projekt, das sich Faktenchecker nennt, schrieb am 14. Juli, bei den Bränden sei nichts Verdächtiges gefunden worden [3].\n\nIm Juli 2024 kam das Gerücht zurück, diesmal über Felder in der Kuban-Region [4]. Die Polizei dort hatte keine Meldungen dazu [4]. In der Region Stavropol sagte der Gouverneur damals allerdings, in Feldern seien Linsen gefunden worden, und dort lief ein Strafverfahren [4]. Zu Rostov wiederholte die Zeitung, das Ministerium habe 2022 gesagt, eine solche Konstruktion könne kaum einen Brand entfachen [4].\n\nMit Spanien haben die Bilder also nichts zu tun, mit dem Klima ebenso wenig. Die Geschichte handelte von Sabotage in Russland, und selbst dort fand niemand einen Beweis, dass die Linsen in Rostov einen Brand verursacht hatten [2] [4].",
+  "niet_weten": "Wir wissen nicht, wer das Video als Erster gemacht hat und wo genau es aufgenommen wurde. Eine spanische Meldung über einen solchen Fund haben wir nicht gefunden, doch wir haben die spanische Presse nicht vollständig durchsucht. Wer das Video von Russland nach Spanien verlegt hat und was der Post mit einem Klimaveränderer meint, wissen wir ebenfalls nicht. Die Quellen zu 2022 sind russisch und geben vor allem die Worte des Ministeriums wieder.",
+  "bereik": "1.645 Mal angesehen am 18. November",
+  "nog_uitzoeken": [
+   "Das Original vom Juli 2022. Das Video auf YouTube steht auf dem Kanal einer Privatperson und ist wahrscheinlich nicht das Original.",
+   "Eine unabhängige Quelle für die Aussagen des Ministeriums in Rostow, etwa die Meldung auf der Website des Ministeriums selbst oder ein nicht russisches Medium.",
+   "Für die Verbindung von Lapsha Media zum russischen Staat suchen wir noch eine Quelle."
+  ],
+  "tijdlijn": [
+   "In sozialen Medien kursieren Videos von Konstruktionen mit Linsen in Weizenfeldern in der Region Rostov [2].",
+   "Das Ministerium für Notsituationen in Rostov nennt die Meldung falsch: keine Meldungen, keine Linsen gefunden [2].",
+   "Lapsha Media schreibt, bei den Bränden sei nichts Verdächtiges gefunden worden [3].",
+   "Das Gerücht kommt zurück, diesmal über Felder in der Kuban-Region [4].",
+   "Maldita beginnt eine Übersicht über falsche Meldungen zu den Waldbränden in Spanien [6].",
+   "Der Post über einen Klimaveränderer in einem spanischen Weizenfeld [1]."
+  ],
+  "beeld_bijschrift": [
+   "Standbild aus dem Video in einem Post auf X, 4. September 2026, 11:47 Uhr."
+  ],
+  "beeld_alt": [
+   "Standbild aus einem Video einer Konstruktion in einem Weizenfeld, dargestellt als Fund in Spanien. Stempel: FALSCH."
+  ]
+ }
+}

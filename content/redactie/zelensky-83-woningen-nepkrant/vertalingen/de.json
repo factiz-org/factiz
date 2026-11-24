@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck zelensky-83-woningen-nepkrant van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "258bc8cd7a0fcb29",
+ "veldafdrukken": {
+  "kop": "8333e22cf577ae58",
+  "oordeel_zin": "78108081cbfc0e71",
+  "bewering": "54a13059e8d2990c",
+  "kort": "e9a0b8cf00354a54",
+  "tekst": "f6fff83855e118af",
+  "niet_weten": "f821f2e45c9cfde9",
+  "bereik": "3bcfb46d32eb5f4e",
+  "nog_uitzoeken": "92b9391908ff1ac6",
+  "tijdlijn": "7b4cefec3eab0353",
+  "beeld_bijschrift": "1b0a42ebf9f5ad3f",
+  "beeld_alt": "c3e89ee60646a5ec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Geschichte über 83 Immobilien von Zelensky im Ausland stammt von einer nachgebauten britischen Nachrichtenseite",
+  "oordeel_zin": "Die Quelle ist eine Seite, die zwölf Tage vor der Geschichte registriert wurde, und NABU sagt, die Frau im Video habe dort nicht gearbeitet [3] [6].",
+  "bewering": "Ehemaliger Leiter der ukrainischen Antikorruptionsbehörde: Zelensky besitzt 6 Immobilien in Spanien, 14 im Vereinigten Königreich, 21 in Frankreich, 8 in Italien und 34 in den Vereinigten Arabischen Emiraten.",
+  "kort": "Am 7. September verbreitete sich auf X ein Video, in dem ein ehemaliger Mitarbeiter der ukrainischen Antikorruptionsbehörde angeblich enthüllt, dass Zelensky 83 Immobilien in fünf Ländern besitzt [1]. Die Geschichte begann im August 2025 auf londontelegraph.uk, einer Seite, die zwölf Tage zuvor registriert wurde und beim Namen des Autors ein gestohlenes Foto zeigte [3] [4]. Die Behörde sagt, die Frau im Video habe dort nicht gearbeitet, und in der Vermögenserklärung von Zelensky findet sich keine Spur von 83 Immobilien im Ausland [6] [9] [10].",
+  "tekst": "Der Post erschien am Montag, dem 7. September um 05:58 Uhr auf X, mit einem Video von 77 Sekunden [1]. Laut dem Text sagt ein ehemaliger Leiter der ukrainischen Antikorruptionsbehörde, Zelensky besitze 6 Immobilien in Spanien, 14 im Vereinigten Königreich, 21 in Frankreich, 8 in Italien und 34 in den Vereinigten Arabischen Emiraten [1]. Zusammen sind das 83. Am 18. November war der Post 39.340 Mal angesehen worden [1]. Im Bild des Videos heißt die Frau Olena K., vom National Anti-Corruption Bureau of Ukraine, und der französische Untertitel nennt sie eine Ermittlerin dieser Behörde [1]. Nur der Text des Posts macht aus ihr eine ehemalige Leiterin [1].\n\nDie Geschichte ist älter als der Post. Am 26. August 2025 verbreitete sich auf X ein englisches Video über Olena K., eine ehemalige Ermittlerin von NABU, dem Nationalen Antikorruptionsbüro der Ukraine [2]. Sie sei mit Tausenden Seiten nach Europa geflohen, mit Beweisen, dass Zelensky über Briefkastenfirmen mehr als 100 Immobilien gekauft habe, zusammen 1,2 Milliarden Dollar wert [5]. Als Quelle nannte das Video einen Artikel von The London Telegraph [2]. Dieser Artikel nannte dieselben Zahlen wie der Post, außer bei Spanien: 26 statt 6, zusammen 103 [2]. Im April 2026 kam eine kürzere Version zurück, mit 83 Immobilien, zuerst auf Polnisch und Deutsch [6] [13].\n\nThe London Telegraph ist keine Zeitung. Der Name londontelegraph.uk wurde am 14. August 2025 registriert, zwölf Tage vor dem Artikel [3]. Beim Namen des Autors stand das Foto von Helen Brown, einer britischen Journalistin, die unter anderem für The Daily Telegraph schreibt und mit dem Artikel nichts zu tun hatte [4]. Laut Euronews stand auf der Seite fast nichts außer diesem einen Beitrag, und die englische Stimme im Video von 2025 klang computergeneriert [5]. Die Registrierung ist am 14. August 2026 abgelaufen [3].\n\nDie Frau im Video arbeitete nicht bei NABU. Das sagte NABU gegenüber Correctiv, und ein Sprecher sagte es auch gegenüber AFP [6] [13]. Laut NABU hat kein derzeitiger oder früherer Mitarbeiter Unterlagen über Immobilien von Zelensky im Ausland veröffentlicht [6]. Die Dokumente, die verschwommen im Bild zu sehen sind, sind laut Myth Detector Unterlagen, die die ukrainische Staatsanwaltschaft und der Sicherheitsdienst SBU am 22. Juli 2025 zeigten [8]. Sie stammten aus einer Hausdurchsuchung bei Angehörigen des Abgeordneten Fedir Khrystenko, in einem Fall um durchgesickerte NABU-Daten, und handeln nicht von Zelensky [7].\n\nWas Zelensky besitzt, steht in der Vermögenserklärung, die er jedes Jahr veröffentlicht. Die für 2025 erschien am 30. März 2026 [10]. Darin stehen Wohnungen in Kyiv, von denen zwei in gemeinsamem Besitz sind [9] [10]. Außerhalb der Ukraine nennen Slovo i Dilo und Fakty ICTV eine Wohnung: ein Apartment in Großbritannien, auf den Namen von Olena Zelenska [9] [10]. Laut Slovo i Dilo hat das Ehepaar es seit 2014 in Leasehold, einem britischen Nutzungsrecht [9]. An den Immobilien änderte sich 2025 nichts Wesentliches [9] [10]. Allerdings kaufte die italienische Firma San Tommaso, die in der Erklärung von Zelensky stand, 2017 eine Villa in Forte dei Marmi; das meldete RFE/RL 2019 unter Berufung auf Slidstvo.info [14]. Laut Slovo i Dilo ist Olena Zelenska weiterhin wirtschaftlich Berechtigte dieser Firma [9]. Ob sie die Villa noch hat, wissen wir nicht. Auch mit dieser Villa sind es höchstens eine Immobilie in Italien, nicht acht.\n\nDie Geschichte von 2025 nannte auch Timur Mindich, Miteigentümer der Produktionsfirma Kvartal 95 und alter Bekannter von Zelensky [2] [12]. Gegen Mindich läuft seit November 2025 eine echte Untersuchung von NABU, wegen Bestechungsgeldern beim Staatsunternehmen Energoatom [12]. NABU-Direktor Semen Kryvonos sagte am 12. Mai 2026, Zelensky komme in dieser Untersuchung nicht vor und sei nie darin vorgekommen [11]. Dass Mindich verdächtigt wird, macht die Geschichte über 83 Immobilien also nicht wahr.\n\nLead Stories, Euronews, Myth Detector, Demagog und Correctiv bezeichneten die Geschichte schon früher als falsch [2] [5] [6] [8] [13]. Einen Faktencheck auf Niederländisch haben wir nicht gefunden.",
+  "niet_weten": "Wir wissen nicht, wer die Videos erstellt hat. Laut NewsGuard, zitiert von Demagog, ähnelt die Seite der Arbeit von Storm-1516, einer russischen Einflussoperation; das konnten wir nicht selbst überprüfen [13]. Laut Slovo i Dilo ist Olena Zelenska auch wirtschaftlich Begünstigte von Firmen auf Zypern, in Italien und in Belize [9]. Die Firma in Italien kaufte 2017 eine Villa; ob sie diese noch besitzt, geht aus diesen Berichten nicht hervor [14]. Und wir haben einen niederländischen Beitrag gefunden; wie viele es gab, wissen wir nicht.",
+  "bereik": "39.340 Mal angesehen am 18. November",
+  "nog_uitzoeken": [
+   "Ob NABU eine eigene Stellungnahme zu dem Video hat. Bisher kommt sie nur über CORRECTIV und AFP; auf der Website von NABU haben wir keine gefunden."
+  ],
+  "tijdlijn": [
+   "Die Staatsanwaltschaft und der SBU zeigen Unterlagen über NABU aus einer Hausdurchsuchung bei Angehörigen des Abgeordneten Fedir Khrystenko [7].",
+   "Der Name londontelegraph.uk wird registriert [3].",
+   "Der Artikel auf londontelegraph.uk und das englische Video über Olena K. erscheinen [2].",
+   "Lead Stories bezeichnet die Geschichte als falsch [2].",
+   "NABU macht die Untersuchung zu Bestechungsgeldern bei Energoatom bekannt; Mindich ist verdächtig [12].",
+   "Die Version mit 83 Immobilien erscheint auf Polnisch und Deutsch auf X [6] [13].",
+   "NABU sagt, Zelensky komme in der Untersuchung zu Energoatom nicht vor [11].",
+   "Die Registrierung von londontelegraph.uk läuft ab [3].",
+   "Der niederländische Post mit den 83 Immobilien [1]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 7. September 2026, 05:58 Uhr."
+  ],
+  "beeld_alt": [
+   "Screenshot des Posts auf X mit dem Text über 83 Immobilien von Zelensky in fünf Ländern und einem Bild aus dem Video einer Frau mit unkenntlich gemachtem Gesicht und der Beschriftung Olena K., National Anti-Corruption Bureau of Ukraine. Stempel: FALSCH."
+  ]
+ }
+}

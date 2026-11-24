@@ -1,0 +1,261 @@
+{
+ "_meta": {
+  "taak": "PLAN.md #21.5 — hermeting van de hersneden batchjas (BENCHMARK §60)",
+  "datum": "2026-10-04",
+  "toelichting": "Hermeting op exact de vastgelegde 21.3-proefset (docs/steekproeven/21.3-echte-data.json): modeluitvoer integraal uit het repo; gescrapete pagina's opnieuw opgehaald en tegen de vastgelegde sha256-prefix geverifieerd — 37 identiek, 10 inhoudelijk gewijzigd (een maand later; grondwaarheid per groep blijft gelijk), 0 onbereikbaar. Paginateksten worden niet geherdistribueerd.",
+  "meetopstelling": {
+   "modellen": {
+    "text": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2+casefold",
+    "nli": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+   },
+   "drempels": {
+    "screening_poort": 0.75,
+    "stance_entailment": 0.7
+   },
+   "regels": [
+    "venster±2",
+    "weerlegt-wint",
+    "verdict unaniem-onwaar",
+    "vraagvorm-uitsluiting",
+    "bonnetjesregel (document_id=url)"
+   ]
+  },
+  "scrapeverificatie": {
+   "identiek": 37,
+   "gewijzigd": 10,
+   "weg": 0
+  }
+ },
+ "sweep_vooraf": {
+  "0.7": {
+   "recall": "3/28",
+   "recall_ondergrens95": 0.03,
+   "vlaggen": 81,
+   "vals": 71,
+   "terecht_op_herhaalde_claim": 4,
+   "vlag_op_andere_claim": 3,
+   "precisie_streng": "3/81",
+   "precisie_ondergrens95": 0.01,
+   "dekking_checkpaginas": "20/28",
+   "stance_op_checkpaginas": {
+    "weerlegt": 7,
+    "beweert": 13,
+    "overig": 24
+   }
+  },
+  "0.75": {
+   "recall": "3/28",
+   "recall_ondergrens95": 0.03,
+   "vlaggen": 46,
+   "vals": 37,
+   "terecht_op_herhaalde_claim": 3,
+   "vlag_op_andere_claim": 3,
+   "precisie_streng": "3/46",
+   "precisie_ondergrens95": 0.018,
+   "dekking_checkpaginas": "19/28",
+   "stance_op_checkpaginas": {
+    "beweert": 11,
+    "overig": 22,
+    "weerlegt": 4
+   }
+  },
+  "0.8": {
+   "recall": "2/28",
+   "recall_ondergrens95": 0.013,
+   "vlaggen": 33,
+   "vals": 26,
+   "terecht_op_herhaalde_claim": 3,
+   "vlag_op_andere_claim": 2,
+   "precisie_streng": "2/33",
+   "precisie_ondergrens95": 0.011,
+   "dekking_checkpaginas": "16/28",
+   "stance_op_checkpaginas": {
+    "beweert": 11,
+    "overig": 10,
+    "weerlegt": 3
+   }
+  },
+  "0.85": {
+   "recall": "0/28",
+   "recall_ondergrens95": 0.0,
+   "vlaggen": 13,
+   "vals": 10,
+   "terecht_op_herhaalde_claim": 3,
+   "vlag_op_andere_claim": 0,
+   "precisie_streng": "0/13",
+   "precisie_ondergrens95": 0.0,
+   "dekking_checkpaginas": "11/28",
+   "stance_op_checkpaginas": {
+    "overig": 7,
+    "beweert": 7,
+    "weerlegt": 3
+   }
+  }
+ },
+ "bevestiging_productiepad": {
+  "thresholds": {
+   "screening_poort": 0.75,
+   "stance_entailment": 0.7
+  },
+  "modellen": {
+   "text": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2+casefold",
+   "nli": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+  },
+  "recall": "3/28",
+  "tp": [
+   "model-beweert-nl-4",
+   "model-beweert-en-3",
+   "model-beweert-es-6"
+  ],
+  "gemist": [
+   "model-beweert-nl-0",
+   "model-beweert-nl-1",
+   "model-beweert-nl-2",
+   "model-beweert-nl-3",
+   "model-beweert-nl-5",
+   "model-beweert-nl-6",
+   "model-beweert-nl-7",
+   "model-beweert-nl-8",
+   "model-beweert-nl-9",
+   "model-beweert-en-0",
+   "model-beweert-en-1",
+   "model-beweert-en-2",
+   "model-beweert-en-4",
+   "model-beweert-en-6",
+   "model-beweert-en-7",
+   "model-beweert-en-8",
+   "model-beweert-en-9",
+   "model-beweert-es-0",
+   "model-beweert-es-1",
+   "model-beweert-es-2",
+   "model-beweert-es-3",
+   "model-beweert-es-4",
+   "model-beweert-es-5",
+   "model-beweert-es-8",
+   "model-beweert-es-9"
+  ],
+  "vlaggen_totaal": 16,
+  "vals": [
+   [
+    "scrape-check-nl-15",
+    "Zo zegt een vijf jaar oude video van bosbranden in Californi",
+    0.8064,
+    0.9824
+   ],
+   [
+    "scrape-check-en-21",
+    "In light of the recent clashes between police and protesters",
+    0.8143,
+    0.8901
+   ],
+   [
+    "scrape-wiki-nl-Vaccinatie",
+    "Inenting (ook vaccinatie of inoculatie) is de injectie van e",
+    0.8396,
+    0.9966
+   ],
+   [
+    "scrape-wiki-nl-Vaccinatie",
+    "Vaccinatie zorgt ervoor dat antistoffen worden gemaakt zonde",
+    0.8213,
+    0.9976
+   ],
+   [
+    "scrape-wiki-nl-Griepprik",
+    "Een griepprik is een vaccinatie, met daarin een cocktail van",
+    0.8031,
+    0.7031
+   ],
+   [
+    "scrape-wiki-en-Vaccine",
+    "A vaccine is a biological preparation that provides active a",
+    0.8883,
+    0.9937
+   ],
+   [
+    "scrape-wiki-en-Vaccine",
+    "An mRNA vaccine (or RNA vaccine) is a novel type of vaccine ",
+    0.817,
+    0.7285
+   ],
+   [
+    "scrape-wiki-en-Vaccine",
+    "For example, the Pfizer-BioNTech vaccine and Moderna mRNA va",
+    0.7744,
+    0.9556
+   ],
+   [
+    "scrape-wiki-en-Inflation",
+    "The adoption of fiat currency by many countries, from the 18",
+    0.7627,
+    0.7642
+   ],
+   [
+    "scrape-wiki-en-COVID-19_vaccine",
+    "RNA vaccines often use nucleoside-modified messenger RNA",
+    0.7807,
+    0.9951
+   ]
+  ],
+  "terecht_op_herhaalde_claim": [
+   [
+    "model-schoon-nl-3",
+    "De presentatoren in deze Russische talkshow berich"
+   ],
+   [
+    "model-schoon-nl-3",
+    "De Russische talkshow biedt een toon aan, waarin d"
+   ],
+   [
+    "model-schoon-nl-3",
+    "Op de stage zijn de Russische presentatoren geïnte"
+   ]
+  ],
+  "vlag_op_andere_claim": [],
+  "dekking_checkpaginas": "19/28",
+  "stance_op_checkpaginas": {
+   "weerlegt": 37
+  },
+  "gronden": {
+   "nli": 253,
+   "bron-url": 37
+  }
+ },
+ "cijfers": {
+  "recall": {
+   "k": 3,
+   "n": 28,
+   "ondergrens95": 0.03
+  },
+  "precisie_streng": {
+   "k": 3,
+   "n": 16,
+   "ondergrens95": 0.053
+  },
+  "precisie_na_herbeoordeling": {
+   "k": 6,
+   "n": 16,
+   "ondergrens95": 0.178
+  },
+  "valse_vlaggen": 10,
+  "citaatval_op_checkpaginas": {
+   "beweert": 0,
+   "weerlegt_via_bonnetje": 37
+  },
+  "retrievalplafond_top5": {
+   "in_top5": 4,
+   "van": 16,
+   "boven_poort": 1
+  },
+  "terugrichting_nli": {
+   "gemeten_op": "3 TP + 12 FP",
+   "TP_terug": [
+    0.351,
+    0.44,
+    0.984
+   ],
+   "FP_terug_boven_0.35": 5,
+   "besluit": "richtingsgewijs scheidend maar n=3 is te klein om te kalibreren — 21.6"
+  }
+ }
+}

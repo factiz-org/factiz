@@ -1,0 +1,251 @@
+{
+ "_meta": "Labels van de PO op de eindtoets (PLAN #32.8), gezet op de pagina https://claude.ai/artifact/RsAk34jQfWyyeMabG7i1Vm (verzameling oordelen-v2), 2026-10-29: per bericht of het antwoord van de nieuwe controle (B51) goed is ('klopt'), fout ('klopt niet') of te voorzichtig. Opgehaald door Claude; Claude zette geen label.",
+ "versie": "B51, lezer-v1, brave-v1",
+ "oordelen": [
+  {
+   "id": "K:gfc-0ad9ecd981b7a404",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-14ea87640838f1c9",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-169ae665ba5f1bd6",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-26d5d89af95a4e6f",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-2bf210c92cccebd2",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-3c8cff7a4f117159",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-40d2b9210fe90839",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-467dfc072b355d0b",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-6d48b27f9ec22c21",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-78f531726d46daad",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-81cad027bbfcf641",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-8b3b95033c48eb74",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-994634a590a040e9",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-c321aecbfbb72f88",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-cc6dbef41e65be13",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-d161f174ef1fef10",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-dc2e187c688704ea",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-e68acb676a779ef1",
+   "label": "klopt"
+  },
+  {
+   "id": "K:gfc-e72d2efb0da98b80",
+   "label": "klopt",
+   "opmerking": "misleidend, dus zou wat zachter moeten zijn?"
+  },
+  {
+   "id": "K:gfc-ed218d21b3e3ae04",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-0d72eda213179251",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-0fab56546e8d8f77",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-21eff38f8a69ad8b",
+   "label": "te voorzichtig",
+   "opmerking": "Er wordt geen claim gemaakt dus gewoon wat je ziet op de foto kan het feit zijn,,,uitzoeken"
+  },
+  {
+   "id": "V:gfc-31bbac41d8ac3717",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-3831d4a0f4cf6380",
+   "label": "te voorzichtig",
+   "opmerking": "Gaat om de schietpartij niet de partij affiliatie"
+  },
+  {
+   "id": "V:gfc-653e013753693af6",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-70b2484721373aa3",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-772697d09827d913",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-77e8acdf793a279a",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-7b2650ab06e68b45",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-82eeb9033dff8e3a",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-88ee5db56e48cc2b",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-a035cf5d8fdca3de",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-af62ea921f2c4229",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-b31e5df6d3174c03",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-bd9cabdbb176a812",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-ea28cfca76190e20",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-f87ce279dea0135e",
+   "label": "te voorzichtig",
+   "opmerking": "Maar misschien dus gewooen waar?"
+  },
+  {
+   "id": "V:gfc-f9c49dd395cc836d",
+   "label": "klopt"
+  },
+  {
+   "id": "V:gfc-ff5c122334c29dea",
+   "label": "klopt"
+  },
+  {
+   "id": "W:20-1",
+   "label": "te voorzichtig"
+  },
+  {
+   "id": "W:20-15",
+   "label": "klopt"
+  },
+  {
+   "id": "W:20-18",
+   "label": "klopt",
+   "opmerking": "Wel missschien aantekenen dat het een 'regeringsbron' , zo tagged google ook -> state owned media"
+  },
+  {
+   "id": "W:20-19",
+   "label": "klopt"
+  },
+  {
+   "id": "W:22-14",
+   "label": "klopt"
+  },
+  {
+   "id": "W:22-3",
+   "label": "te voorzichtig"
+  },
+  {
+   "id": "W:22-5",
+   "label": "klopt"
+  },
+  {
+   "id": "W:23-13",
+   "label": "klopt"
+  },
+  {
+   "id": "W:23-17",
+   "label": "klopt"
+  },
+  {
+   "id": "W:24-6",
+   "label": "klopt"
+  },
+  {
+   "id": "W:24-8",
+   "label": "te voorzichtig"
+  },
+  {
+   "id": "W:25-10",
+   "label": "klopt"
+  },
+  {
+   "id": "W:25-11",
+   "label": "klopt"
+  },
+  {
+   "id": "W:25-12",
+   "label": "klopt"
+  },
+  {
+   "id": "W:25-2",
+   "label": "klopt"
+  },
+  {
+   "id": "W:25-4",
+   "label": "klopt"
+  },
+  {
+   "id": "W:27-7",
+   "label": "klopt"
+  },
+  {
+   "id": "W:27-9",
+   "label": "klopt"
+  },
+  {
+   "id": "W:28-0",
+   "label": "klopt"
+  },
+  {
+   "id": "W:28-16",
+   "label": "klopt"
+  }
+ ]
+}

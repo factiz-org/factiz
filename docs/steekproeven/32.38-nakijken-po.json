@@ -1,0 +1,195 @@
+{
+ "toelichting": "De keuzes van de PO op de pagina van PLAN #32.38, stap 4 (https://claude.ai/artifact/Qjp3tf93TBZ4vhwGU7RoBT, verzameling nakijken), opgeslagen op 2026-11-04 tussen 16:59 en 17:18 UTC en hier ongewijzigd overgenomen. Per check: de bewering (klopt of fout; bij 10 checks niet gekozen, geteld als niet fout) en de categorie van Factiz (klopt, bijna, fout of te-voorzichtig), met de opmerking van de PO. De PO zag de labels van Claude niet. In het openbare repo zonder de tekst van de factchecks die Factiz zelf van de sites van redacties las; alleen hun id of link, en zonder de notities van de PO.",
+ "keuzes": {
+  "03a195955b167715": {
+   "bewering": "klopt",
+   "categorie": "bijna"
+  },
+  "08b2659906858d3b": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "0d6cb4e9193572b8": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "10dbb39439cd7f1e": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "12e47a6914d474e7": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "1684c899ac9d45e2": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "1bd3b4b9672f3f24": {
+   "categorie": "klopt"
+  },
+  "1c665be1409a007e": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "1cedd9abe0d72bee": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "1d920f03b7b7a7e5": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "256f0731501d48b6": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "2962613ce9468dc3": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "41eb1d48dadd17d9": {
+   "categorie": "te-voorzichtig"
+  },
+  "45c9f3a5f57f839e": {
+   "bewering": "klopt",
+   "categorie": "bijna"
+  },
+  "47282648be18b13f": {
+   "categorie": "te-voorzichtig"
+  },
+  "49c79de58634009b": {
+   "categorie": "klopt"
+  },
+  "4b7239b11cf034fd": {
+   "categorie": "klopt"
+  },
+  "4d4dfed80b14f839": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "5b283ff49dac5850": {
+   "categorie": "klopt"
+  },
+  "5bcd90219b66d7ec": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "5c8c1b9e7c535399": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "5fa146baac5b4ca5": {
+   "bewering": "klopt",
+   "categorie": "fout"
+  },
+  "636f656cf077856c": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "6b9c1eacf85fd73e": {
+   "bewering": "klopt",
+   "categorie": "bijna"
+  },
+  "6d9a2d3e824946c7": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "6e8d6379479c685a": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "701e25daa1960c56": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "7d3b1ab446354de4": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "7fd92ed49e2c3655": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "87276f6045b8d245": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "89929f1389469d69": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "8ed8d7512671dc38": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "93ed8b18f2496c97": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "9f3b74727c4ce760": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "a54743c7363a7444": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "a92e2a38a409d206": {
+   "categorie": "klopt"
+  },
+  "acdea0ca4381bd14": {
+   "categorie": "klopt"
+  },
+  "b2209087e4ec5451": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "bd442b761ec84dd4": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "ccb4d0e8e3e97ddd": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "ce5a203e6fdf00cf": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "d33248963bcb26b0": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "db5c27be073441a5": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "e137be217f16a7b8": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "e2b7886e57373618": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "e62b4f9915c10a85": {
+   "categorie": "klopt"
+  },
+  "e8cd8e65a393fdb7": {
+   "bewering": "klopt",
+   "categorie": "te-voorzichtig"
+  },
+  "ea7bd28d217ba40e": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "f10ab4deb4e66340": {
+   "bewering": "klopt",
+   "categorie": "klopt"
+  },
+  "f1eb36dcb11e1650": {
+   "categorie": "bijna"
+  }
+ }
+}

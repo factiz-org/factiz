@@ -1,0 +1,79 @@
+# Herkomst van de beelden van het platform (PLAN #33.6d, DESIGN §4w)
+
+Gemaakt met `python -m doublecheck.velden platform`, script velden-v1, op 2026-11-19.
+Geen foto, geen beeldmodel, geen download, geen licentie: dezelfde tekenaars als de velden van factiz.org
+(`HERKOMST-basis.md`), met per thema en per dossier een eigen seed. Witte tekst haalt in elke
+tekstzone zijn contrast na de sluier van de pagina (`tests/test_velden_platform.py`).
+
+- `corpus.webp`: het basisveld (seed 1, `HERKOMST-basis.md`); bovenaan de start, met het zoekveld.
+- `nacht.webp`: het basisveld (seed 3, `HERKOMST-basis.md`); de voet.
+- `groen.webp`: het basisveld (seed 11, `HERKOMST-basis.md`); de band van de pagina's zonder eigen veld.
+- `thema-politics-band.webp`: familie leisteen, seed 101, 2000×600, 112 KB; de band van het thema politics; wit in de tekstzones: balk 7,2:1, tekst 9,1:1.
+- `thema-politics-kaart.webp`: familie leisteen, seed 101, 900×1125, 93 KB; de kaart van het thema politics; wit in de tekstzones: kop 6,3:1, tekst 13,3:1.
+- `thema-elections-band.webp`: familie leisteen, seed 102, 2000×600, 112 KB; de band van het thema elections; wit in de tekstzones: balk 7,4:1, tekst 9,4:1.
+- `thema-elections-kaart.webp`: familie leisteen, seed 102, 900×1125, 97 KB; de kaart van het thema elections; wit in de tekstzones: kop 7,3:1, tekst 12,9:1.
+- `thema-war-band.webp`: familie nacht, seed 103, 2000×600, 94 KB; de band van het thema war; wit in de tekstzones: balk 16,2:1, tekst 10,9:1.
+- `thema-war-kaart.webp`: familie nacht, seed 103, 900×1125, 81 KB; de kaart van het thema war; wit in de tekstzones: kop 11,3:1, tekst 6,8:1.
+- `thema-world-band.webp`: familie leisteen, seed 104, 2000×600, 116 KB; de band van het thema world; wit in de tekstzones: balk 7,6:1, tekst 9,0:1.
+- `thema-world-kaart.webp`: familie leisteen, seed 104, 900×1125, 95 KB; de kaart van het thema world; wit in de tekstzones: kop 6,6:1, tekst 13,9:1.
+- `thema-health-band.webp`: familie groen, seed 105, 2000×600, 94 KB; de band van het thema health; wit in de tekstzones: balk 17,1:1, tekst 11,3:1.
+- `thema-health-kaart.webp`: familie groen, seed 105, 900×1125, 78 KB; de kaart van het thema health; wit in de tekstzones: kop 12,9:1, tekst 8,6:1.
+- `thema-crime-band.webp`: familie nacht, seed 106, 2000×600, 98 KB; de band van het thema crime; wit in de tekstzones: balk 15,8:1, tekst 10,2:1.
+- `thema-crime-kaart.webp`: familie nacht, seed 106, 900×1125, 81 KB; de kaart van het thema crime; wit in de tekstzones: kop 10,4:1, tekst 10,1:1.
+- `thema-economy-band.webp`: familie olijf, seed 107, 2000×600, 122 KB; de band van het thema economy; wit in de tekstzones: balk 7,2:1, tekst 6,7:1.
+- `thema-economy-kaart.webp`: familie olijf, seed 107, 900×1125, 103 KB; de kaart van het thema economy; wit in de tekstzones: kop 4,2:1, tekst 7,2:1.
+- `thema-disasters-band.webp`: familie nacht, seed 108, 2000×600, 95 KB; de band van het thema disasters; wit in de tekstzones: balk 16,5:1, tekst 12,4:1.
+- `thema-disasters-kaart.webp`: familie nacht, seed 108, 900×1125, 82 KB; de kaart van het thema disasters; wit in de tekstzones: kop 6,7:1, tekst 10,1:1.
+- `thema-climate-band.webp`: familie olijf, seed 109, 2000×600, 119 KB; de band van het thema climate; wit in de tekstzones: balk 7,2:1, tekst 6,6:1.
+- `thema-climate-kaart.webp`: familie olijf, seed 109, 900×1125, 99 KB; de kaart van het thema climate; wit in de tekstzones: kop 4,1:1, tekst 7,2:1.
+- `thema-migration-band.webp`: familie hemel, seed 110, 2000×600, 115 KB; de band van het thema migration; wit in de tekstzones: balk 6,0:1, tekst 5,5:1.
+- `thema-migration-kaart.webp`: familie hemel, seed 110, 900×1125, 95 KB; de kaart van het thema migration; wit in de tekstzones: kop 3,2:1, tekst 5,8:1.
+- `thema-society-band.webp`: familie hemel, seed 111, 2000×600, 115 KB; de band van het thema society; wit in de tekstzones: balk 5,6:1, tekst 5,7:1.
+- `thema-society-kaart.webp`: familie hemel, seed 111, 900×1125, 92 KB; de kaart van het thema society; wit in de tekstzones: kop 3,4:1, tekst 5,5:1.
+- `thema-science-band.webp`: familie groen, seed 112, 2000×600, 93 KB; de band van het thema science; wit in de tekstzones: balk 14,5:1, tekst 13,0:1.
+- `thema-science-kaart.webp`: familie groen, seed 112, 900×1125, 81 KB; de kaart van het thema science; wit in de tekstzones: kop 11,1:1, tekst 9,9:1.
+- `thema-people-band.webp`: familie hemel, seed 113, 2000×600, 116 KB; de band van het thema people; wit in de tekstzones: balk 5,1:1, tekst 5,8:1.
+- `thema-people-kaart.webp`: familie hemel, seed 113, 900×1125, 98 KB; de kaart van het thema people; wit in de tekstzones: kop 3,1:1, tekst 5,3:1.
+- `dossier-aardbeving-verkeerde-ramp-band.webp`: familie nacht, seed 1132, 2000×600, 96 KB; de band van het dossier aardbeving-verkeerde-ramp; wit in de tekstzones: balk 15,9:1, tekst 8,3:1.
+- `dossier-aardbeving-verkeerde-ramp-kaart.webp`: familie nacht, seed 1132, 900×1125, 82 KB; de kaart van het dossier aardbeving-verkeerde-ramp; wit in de tekstzones: kop 7,9:1, tekst 9,2:1.
+- `dossier-biolabs-oekraine-band.webp`: familie nacht, seed 2018, 2000×600, 94 KB; de band van het dossier biolabs-oekraine; wit in de tekstzones: balk 16,6:1, tekst 9,6:1.
+- `dossier-biolabs-oekraine-kaart.webp`: familie nacht, seed 2018, 900×1125, 82 KB; de kaart van het dossier biolabs-oekraine; wit in de tekstzones: kop 6,3:1, tekst 8,9:1.
+- `dossier-epstein-stukken-band.webp`: familie nacht, seed 2778, 2000×600, 97 KB; de band van het dossier epstein-stukken; wit in de tekstzones: balk 16,3:1, tekst 9,7:1.
+- `dossier-epstein-stukken-kaart.webp`: familie nacht, seed 2778, 900×1125, 82 KB; de kaart van het dossier epstein-stukken; wit in de tekstzones: kop 8,5:1, tekst 9,5:1.
+- `dossier-gates-vaccins-chips-band.webp`: familie groen, seed 5056, 2000×600, 90 KB; de band van het dossier gates-vaccins-chips; wit in de tekstzones: balk 16,4:1, tekst 12,9:1.
+- `dossier-gates-vaccins-chips-kaart.webp`: familie groen, seed 5056, 900×1125, 76 KB; de kaart van het dossier gates-vaccins-chips; wit in de tekstzones: kop 9,7:1, tekst 12,7:1.
+- `dossier-gaza-oorlog-band.webp`: familie nacht, seed 6224, 2000×600, 94 KB; de band van het dossier gaza-oorlog; wit in de tekstzones: balk 16,1:1, tekst 10,6:1.
+- `dossier-gaza-oorlog-kaart.webp`: familie nacht, seed 6224, 900×1125, 83 KB; de kaart van het dossier gaza-oorlog; wit in de tekstzones: kop 10,2:1, tekst 7,9:1.
+- `dossier-herkomst-coronavirus-band.webp`: familie groen, seed 5665, 2000×600, 92 KB; de band van het dossier herkomst-coronavirus; wit in de tekstzones: balk 17,1:1, tekst 13,2:1.
+- `dossier-herkomst-coronavirus-kaart.webp`: familie groen, seed 5665, 900×1125, 78 KB; de kaart van het dossier herkomst-coronavirus; wit in de tekstzones: kop 11,6:1, tekst 12,9:1.
+- `dossier-iran-oorlog-band.webp`: familie nacht, seed 4109, 2000×600, 103 KB; de band van het dossier iran-oorlog; wit in de tekstzones: balk 16,1:1, tekst 7,2:1.
+- `dossier-iran-oorlog-kaart.webp`: familie nacht, seed 4109, 900×1125, 81 KB; de kaart van het dossier iran-oorlog; wit in de tekstzones: kop 11,6:1, tekst 11,0:1.
+- `dossier-kennedy-vaccins-band.webp`: familie groen, seed 9073, 2000×600, 92 KB; de band van het dossier kennedy-vaccins; wit in de tekstzones: balk 14,9:1, tekst 13,4:1.
+- `dossier-kennedy-vaccins-kaart.webp`: familie groen, seed 9073, 900×1125, 80 KB; de kaart van het dossier kennedy-vaccins; wit in de tekstzones: kop 7,2:1, tekst 12,7:1.
+- `dossier-migranten-zondebok-band.webp`: familie hemel, seed 2000, 2000×600, 115 KB; de band van het dossier migranten-zondebok; wit in de tekstzones: balk 5,5:1, tekst 5,3:1.
+- `dossier-migranten-zondebok-kaart.webp`: familie hemel, seed 2000, 900×1125, 92 KB; de kaart van het dossier migranten-zondebok; wit in de tekstzones: kop 3,3:1, tekst 5,6:1.
+- `dossier-migratie-europa-band.webp`: familie hemel, seed 1830, 2000×600, 116 KB; de band van het dossier migratie-europa; wit in de tekstzones: balk 5,6:1, tekst 5,7:1.
+- `dossier-migratie-europa-kaart.webp`: familie hemel, seed 1830, 900×1125, 97 KB; de kaart van het dossier migratie-europa; wit in de tekstzones: kop 3,0:1, tekst 5,6:1.
+- `dossier-navo-uitbreiding-band.webp`: familie leisteen, seed 1086, 2000×600, 112 KB; de band van het dossier navo-uitbreiding; wit in de tekstzones: balk 7,0:1, tekst 9,8:1.
+- `dossier-navo-uitbreiding-kaart.webp`: familie leisteen, seed 1086, 900×1125, 93 KB; de kaart van het dossier navo-uitbreiding; wit in de tekstzones: kop 6,2:1, tekst 14,5:1.
+- `dossier-nazi-oekraine-band.webp`: familie nacht, seed 6070, 2000×600, 100 KB; de band van het dossier nazi-oekraine; wit in de tekstzones: balk 15,3:1, tekst 9,2:1.
+- `dossier-nazi-oekraine-kaart.webp`: familie nacht, seed 6070, 900×1125, 82 KB; de kaart van het dossier nazi-oekraine; wit in de tekstzones: kop 7,8:1, tekst 13,3:1.
+- `dossier-oorlog-oekraine-2025-2026-band.webp`: familie nacht, seed 9107, 2000×600, 97 KB; de band van het dossier oorlog-oekraine-2025-2026; wit in de tekstzones: balk 15,7:1, tekst 11,2:1.
+- `dossier-oorlog-oekraine-2025-2026-kaart.webp`: familie nacht, seed 9107, 900×1125, 82 KB; de kaart van het dossier oorlog-oekraine-2025-2026; wit in de tekstzones: kop 9,4:1, tekst 9,2:1.
+- `dossier-verkiezing-vs-2020-band.webp`: familie leisteen, seed 1660, 2000×600, 117 KB; de band van het dossier verkiezing-vs-2020; wit in de tekstzones: balk 7,2:1, tekst 9,0:1.
+- `dossier-verkiezing-vs-2020-kaart.webp`: familie leisteen, seed 1660, 900×1125, 97 KB; de kaart van het dossier verkiezing-vs-2020; wit in de tekstzones: kop 7,0:1, tekst 13,9:1.
+- `dossier-zelensky-luxury-band.webp`: familie nacht, seed 9237, 2000×600, 94 KB; de band van het dossier zelensky-luxury; wit in de tekstzones: balk 16,4:1, tekst 10,7:1.
+- `dossier-zelensky-luxury-kaart.webp`: familie nacht, seed 9237, 900×1125, 80 KB; de kaart van het dossier zelensky-luxury; wit in de tekstzones: kop 9,7:1, tekst 11,4:1.
+- `thema-politics-klein.webp`: verkleind uit `thema-politics-band.webp` tot 800×240, 11 KB; de kaart van het thema op de start en het overzicht.
+- `thema-elections-klein.webp`: verkleind uit `thema-elections-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.
+- `thema-war-klein.webp`: verkleind uit `thema-war-band.webp` tot 800×240, 9 KB; de kaart van het thema op de start en het overzicht.
+- `thema-world-klein.webp`: verkleind uit `thema-world-band.webp` tot 800×240, 11 KB; de kaart van het thema op de start en het overzicht.
+- `thema-health-klein.webp`: verkleind uit `thema-health-band.webp` tot 800×240, 9 KB; de kaart van het thema op de start en het overzicht.
+- `thema-crime-klein.webp`: verkleind uit `thema-crime-band.webp` tot 800×240, 10 KB; de kaart van het thema op de start en het overzicht.
+- `thema-economy-klein.webp`: verkleind uit `thema-economy-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.
+- `thema-disasters-klein.webp`: verkleind uit `thema-disasters-band.webp` tot 800×240, 9 KB; de kaart van het thema op de start en het overzicht.
+- `thema-climate-klein.webp`: verkleind uit `thema-climate-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.
+- `thema-migration-klein.webp`: verkleind uit `thema-migration-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.
+- `thema-society-klein.webp`: verkleind uit `thema-society-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.
+- `thema-science-klein.webp`: verkleind uit `thema-science-band.webp` tot 800×240, 9 KB; de kaart van het thema op de start en het overzicht.
+- `thema-people-klein.webp`: verkleind uit `thema-people-band.webp` tot 800×240, 12 KB; de kaart van het thema op de start en het overzicht.

@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La vidéo d'un Airbus Beluga faisant demi-tour sur la minuscule piste de Saba a été réalisée dans Microsoft Flight Simulator",
+  "oordeel_zin": "La vidéo était sur YouTube en août 2025, classée sous le jeu Microsoft Flight Simulator 2024, et la piste qu'elle montre, celle de Saba, mesure 401 mètres de long et 18 mètres de large ; un BelugaXL mesure 63,1 mètres de long [5] [7] [8].",
+  "bewering": "C'est tellement incroyable... comment un très gros avion comme celui-ci peut-il faire demi-tour sur cette minuscule route... respect max au pilote",
+  "kort": "Depuis le 11 novembre, des publications sur X partagent une vidéo d'un Airbus BelugaXL qui fait demi-tour sur une minuscule piste au-dessus d'une falaise puis décolle, comme s'il s'agissait d'un vol réel [1] [3]. La vidéo provient d'un simulateur de vol. Elle était sur YouTube en août 2025, classée sous le jeu Microsoft Flight Simulator 2024 [5]. La piste est celle de Saba, longue de 401 mètres et large de 18 mètres, et un BelugaXL mesure 63,1 mètres de long [7] [8].",
+  "tekst": "Le 16 novembre 2026, le compte Amelia Collins a écrit sur X qu'il était incroyable de voir comment « un très gros avion comme celui-ci » pouvait faire demi-tour « sur cette minuscule route », avec « respect max au pilote » [1]. Sa publication renvoie à une vidéo de 2 minutes 41 secondes qu'un autre compte a publiée sur X le 9 mars 2026, sous le titre « One of the shortest runways an airplane has to land on » [2]. Ce compte a depuis supprimé la publication [2]. Du 11 au 19 novembre, nous avons compté 55 publications de 47 comptes sur X qui renvoient à la vidéo [1] [3]. Le 22 novembre, un compte a mis en ligne une copie raccourcie [4].\n\nLa vidéo montre un grand avion cargo blanc portant les inscriptions BELUGA XL et AIRBUS sur le côté [2]. À côté de rangées de panneaux solaires, il fait demi-tour sur une piste marquée 30, décolle au-dessus de la mer et atterrit ailleurs [2].\n\nLa même vidéo, avec les mêmes plans aux mêmes moments, a été publiée le 6 août 2025 par la chaîne YouTube Smilo Fly, sous le titre « Airbus Beluga XL Impossible takeoff from SABA Airport » [5]. YouTube indique le jeu Microsoft Flight Simulator 2024 en dessous [5].\n\nSaba est une île néerlandaise des Caraïbes, et son parc solaire se trouve juste à côté de l'aéroport [6] [7]. Selon les informations aéronautiques officielles sur Saba, la piste mesure 401 mètres de long et 18 mètres de large, et seuls les aéronefs autorisés par le gouvernement néerlandais peuvent utiliser l'aéroport [7]. Airbus indique que le BelugaXL mesure 63,1 mètres de long et que ses six BelugaXL transportent des pièces d'avion entre 11 destinations en Europe [8].\n\nLe seul incident impliquant un BelugaXL que nous avons trouvé dans la base de données de l'Aviation Safety Network s'est produit en France [9]. Le 18 novembre 2022, un BelugaXL a en partie quitté la surface revêtue à Albert en effectuant un virage à 180 degrés après l'atterrissage [9].",
+  "niet_weten": "Nous ne savons pas qui a enregistré le vol dans le simulateur : la mise en ligne par Smilo Fly du 6 août 2025 est la plus ancienne que nous ayons trouvée, mais la chaîne a pu la copier [5]. Nous ne savons pas pourquoi le compte sur X a supprimé sa publication du 9 mars [2].",
+  "bereik": "les 55 publications qui renvoient à la vidéo totalisaient 4 229 mentions J'aime et 2 151 réponses au 23 novembre ; la publication du 16 novembre avait 70 mentions J'aime et 27 300 vues",
+  "nog_uitzoeken": [
+   "Qui a enregistré le vol dans Microsoft Flight Simulator 2024, et si Smilo Fly a réalisé la vidéo ou l'a reprise d'un autre créateur.",
+   "Si les comptes qui ont publié les mêmes phrases avec le lien, comme « It really goes unplanned », agissent de concert.",
+   "Si vous en savez plus sur l'endroit où cette vidéo est apparue pour la première fois, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Un vrai BelugaXL quitte en partie la surface revêtue pendant un virage à 180 degrés à Albert, en France [9].",
+   "Smilo Fly publie la vidéo sur YouTube, classée sous Microsoft Flight Simulator 2024 [5].",
+   "Un compte publie la même vidéo sur X comme l'une des pistes les plus courtes [2].",
+   "La première publication que nous avons trouvée en novembre renvoie à cette vidéo [3].",
+   "Amelia Collins : respect max au pilote [1].",
+   "Un compte met en ligne une copie raccourcie de la vidéo [4]."
+  ],
+  "beeld_bijschrift": [
+   "Une copie de la vidéo dans une publication sur X, 22 novembre 2026, 04:12 UTC.",
+   "Smilo Fly sur YouTube, 6 août 2025 : la même vidéo de 2 minutes 41 secondes, classée sous le jeu Microsoft Flight Simulator 2024."
+  ],
+  "beeld_alt": [
+   "Une publication sur X disant qu'il s'agit de l'une des pistes les plus courtes du monde et que le pilote doit atterrir parfaitement, avec une image de la vidéo : un Airbus BelugaXL sur une aire de stationnement à côté d'un parc solaire et d'une piste courte marquée 30. Tampon : FAUX.",
+   "Image de la vidéo YouTube de Smilo Fly : un Airbus BelugaXL sur l'aire de stationnement à côté du parc solaire de l'aéroport de Saba, avec la piste marquée 30 au-dessus d'une falaise."
+  ]
+ }
+}

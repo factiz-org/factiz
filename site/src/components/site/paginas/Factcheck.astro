@@ -1,0 +1,317 @@
+---
+// De site, een factcheck (PLAN #34.2b): vriendelijk en inzichtelijk, zoals een goede productpagina. Het kruimelpad en
+// "Terug naar resultaten" (#828); het oordeel en de telling bovenaan, de telling springt naar de bronnen (#792, #786); één
+// primaire knop naar de redactie (#791); een inhoud die blijft staan (#758, #784); de verbanden als laatste (#738, #810,
+// #811, #812). Nooit een veld achter de bewering of het oordeel (D11). Vindbaar alleen in de talen waarin de bewering
+// eigen tekst heeft (PLAN #34.2c).
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import Rij from '../Rij.jsx';
+import ThemaTegel from '../ThemaTegel.jsx';
+import LijnIcoon from '../LijnIcoon.jsx';
+import ContextKaarten from '../ContextKaarten.astro';
+import { haal } from '../../../lib/platform.js';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad, naarSite } from '../../../lib/talen.js';
+import { aanbodFactcheck } from '../../../lib/vindbaar.js';
+import { MetWeg } from '../../../lib/weggelaten.jsx';
+import Pijl from '../Pijl.astro';
+const { taal, p } = Astro.props;
+const t = maakT(taal);
+const lijst = pad(taal, 'fact-checks');
+const eersteNaam = p.namen[0];
+const [metNaam, inThema] = await Promise.all([
+  eersteNaam ? haal(`/api/${taal}/archief?naam=${eersteNaam.nummer}`) : null,
+  p.thema ? haal(`/api/${taal}/archief?thema=${p.thema.sleutel}`) : null,
+]);
+// drie andere factchecks per groep; de themagroep slaat over wat de naamgroep al toont (PO 2026-11-15)
+const anders = (g, zonder = new Set()) => (g?.rijen ?? []).filter((r) => r.nummer !== p.nummer && !zonder.has(r.nummer)).slice(0, 3);
+const naamRijen = eersteNaam ? anders(metNaam) : [];
+const themaRijen = anders(inThema, new Set(naamRijen.map((r) => r.nummer)));
+const eerste = p.checks.find((k) => k.url);
+const enkel = p.checks.length === 1;
+// het omveld (PLAN #34.2h): het platform zegt of er iets te tonen is; de streepjes per jaar naar het drukste jaar
+const o = p.omveld;
+// waarom het niet klopt (PLAN #34.2j, B77): de punten van EUvsDisinfo, of niets
+const w = p.waarom;
+// wat de redacties vonden en waar het rondging, bij een overzicht van de wereldlijst (PLAN #37.12, B91), of niets
+const s = p.samenvatting;
+const maxPerJaar = o ? Math.max(1, ...o.jaren.map((j) => j.aantal)) : 1;
+const inhoud = [['bewering', t('bewering_kop')], p.checks.length > 1 && ['bronnen', t('bronnen_kop')],
+  s && ['samenvatting', s.kop],
+  p.ook_gecheckt && ['ook-gecheckt', t('ook_gecheckt_kop')], p.lijkt_op && ['lijkt-op', t('lijkt_op_kop')],
+  p.opgedoken.length && ['opgedoken', t('opgedoken_kop')],
+  (p.varianten || p.formuleringen.length) && ['versies', t('ook_als_kop')], ['verbanden', t('verbanden_kop')], ['herkomst', t('nav_bronnen')]].filter(Boolean);
+---
+<Site titel={p.kop.titel} omschrijving={p.kop.omschrijving} hier="lijst" taal={taal} delen={['fact-checks', p.nummer]} aangeboden={aanbodFactcheck(p.taal, p.vindbaar, TALEN)} soort="article" beeld={p.deelbeeld?.src} beeldAlt={p.deelbeeld?.alt}>
+  {/* wat een zoekmachine en een AI-zoeker over deze pagina lezen (PLAN #34.2m): de bewering als Claim, de artikelen van
+      de redacties als citation; het platform zet elke < om, dus geen bewering breekt dit blok open */}
+  <script type="application/ld+json" is:inline set:html={p.kop.ld}></script>
+  <div class="baan pt-4">
+    <div class="flex flex-wrap items-center justify-between gap-2 text-[12.5px] text-[var(--zacht)]">
+      <Kruimel taal={taal} telefoon={false} stappen={[[t('nav_lijst'), lijst], p.thema && [p.thema.naam, pad(taal, 'themes', p.thema.sleutel)],
+        p.onderdeel && [p.onderdeel.naam, pad(taal, 'themes', p.thema.sleutel, p.onderdeel.sleutel)]]} />
+      <a id="terug" class="knop knop-stil" href={lijst} data-lijst={lijst}><Pijl terug /> {t('terug_resultaten')}</a>
+    </div>
+
+    <div class="mt-6 grid gap-10 max-md:mt-2 lg:grid-cols-[minmax(0,1fr)_17rem]">
+      <article class="min-w-0">
+        <section id="bewering" class="grid gap-4">
+          {/* een voorlopige vertaling (B93, PO 2026-11-23: "met 1 banner erboven"): boven de bewering, tot de nieuwe vertaling */}
+          {p.voorlopig && <p class="fz-voorlopig" role="note">{p.voorlopig}</p>}
+          {/* de bewering en het oordeel op een eigen zacht vlak (PLAN #34.2an): een effen tint, nooit een veld (D11) */}
+          <div class="podium grid gap-4">
+          {/* het thema en de kenmerken op één regel (PLAN #34.2ay): minder ruimte boven de bewering */}
+          {(p.thema || p.kenmerken?.length > 0) && (
+            <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
+              {p.thema && <span class="thema"><ThemaTegel thema={p.thema.sleutel} />{p.thema.naam}{p.land && <> · {p.land.naam}</>}</span>}
+              {p.kenmerken?.map((k) => (
+                <a class="kenmerk-knop" href={k.href}><LijnIcoon wat={k.wat} waarde={k.waarde} />{k.naam}{k.regel && <span class="kenmerk-regel">{k.regel}</span>}</a>
+              ))}
+            </div>
+          )}
+          {p.vertaling ? (<>
+            {/* de kale bewering nooit als fragment in een zoekresultaat (PLAN #34.2bw, SPECS E9.S8 AC8): dat begint met het oordeel */}
+            <h1 data-nosnippet class="font-[family-name:var(--serif)] text-[clamp(1.375rem,3vw,2.1rem)] leading-[1.25]" lang={p.vertaling.taal} dir="auto"><MetWeg tekst={p.vertaling.tekst} ster={p.weggelaten} /></h1>
+            {/* op een telefoon onder het antwoord, zodat dat binnen het eerste scherm begint (PLAN #34.2ay) */}
+            <p data-nosnippet class="zacht -mt-1 text-[13px] max-md:order-last max-md:mt-0">{p.vertaling.regel} <span class="text-[var(--inkt)]" lang={p.taal} dir={p.richting}><MetWeg tekst={p.bewering} ster={p.weggelaten} /></span></p>
+          </>) : <h1 data-nosnippet class="font-[family-name:var(--serif)] text-[clamp(1.375rem,3vw,2.1rem)] leading-[1.25]" lang={p.taal} dir={p.richting}><MetWeg tekst={p.bewering} ster={p.weggelaten} /></h1>}
+          {/* een naam die Factiz bewust weglaat (PLAN #34.2bw, SPECS E9.S8 AC13): de sticker met een ster, en hier waarom */}
+          {p.weggelaten && <p class="zacht text-[12.5px]">{t('weggelaten_noot')}</p>}
+          {/* het antwoord op de vraag die mensen stellen ("is it true that…"), direct onder de bewering: het oordeel van de
+              redacties en wie checkte wanneer, nooit een eigen oordeel (PLAN #34.2m, DR2) */}
+          <section class="paneel vak" aria-labelledby="antwoord">
+            <h2 id="antwoord" class="vakkop"><MetWeg tekst={p.kop.antwoord.kop} ster={p.weggelaten} /></h2>
+            {/* het antwoord voorop (PO 2026-11-15: "Onze conclusie hebben wij wel heel subtiel vormgegeven"): één vlak in de
+                kleur van het oordeel, het woord groot met de stip, dan wie checkte en wanneer; bij één check hun eigen woorden
+                erin. Altijd het oordeel van de redactie, nooit een eigen (DR2); kleur nooit zonder woord en stip (D5) */}
+            <div class="uitspraak" data-soort={p.label_klasse || 'geen'}>
+              {/* het oordeel als stempel met wie het zegt (PLAN #34.2cc, DESIGN §4y) */}
+              <p class="uitspraak-label fz-stempelgroep"><span class="fz-stempel fz-stempel-groot" data-soort={p.label_klasse || 'geen'}>{p.stempel}</span>
+                {p.volgens && <span class="fz-stempel-wie">{p.volgens}</span>}</p>
+              {p.kop.antwoord.zin && <p>{p.kop.antwoord.zin}</p>}
+              {enkel && p.checks[0].oordeel && <p class="uitspraak-woorden"><span lang={p.checks[0].oordeel_taal} dir={p.checks[0].oordeel_richting}>“{p.checks[0].oordeel}”</span></p>}
+              {enkel && p.checks[0].glos && <p class="text-[13px]">{p.checks[0].glos_regel} “{p.checks[0].glos}”</p>}
+            </div>
+            {/* wie het checkte en wat elk zegt (PLAN #34.2cd, SPECS E9.S31 AC7, DESIGN §4y; PO 2026-11-22: "Dus je ziet de drie
+                stempels met daarachter de betreffende redactie. That's it."): onder elkaar, zonder kop ("Dit kan weg. Dan komen ze
+                netjes onder elkaar."; de kop alleen voor een schermlezer), elke redactie een link naar haar eigen check eronder;
+                hun oordelen, nooit een eigen (DR2) */}
+            {p.eens && (
+              <ul class="fz-eens" aria-label={p.eens.tekst}>
+                {p.eens.redacties.map((r) => <li><a class="fz-eens-soort" href={`#${r.anker}`}><span class="fz-stempel" data-soort={r.soort}>{r.woord}</span><span class="fz-eens-naam">{r.naam}</span></a></li>)}
+                {p.eens.meer && <li><a class="fz-eens-soort" href={`#${p.eens.anker}`}><span></span><span class="fz-eens-naam">{p.eens.meer}</span></a></li>}
+              </ul>
+            )}
+            {/* dezelfde bewering bij een andere redactie (PLAN #34.2bp, SPECS E9.S31): de namen, met een link naar hun checks
+                onder Ook gecheckt door; nooit het oordeel van deze pagina */}
+            {!p.eens && p.ook_gecheckt && <p class="text-[13.5px]"><a class="link font-medium" href="#ook-gecheckt">{p.ook_gecheckt.regel} ↓</a></p>}
+            {/* andere factchecks over hetzelfde verhaal, met hun eigen oordeel (PLAN #34.2p): een verwijzing, nooit het
+                oordeel van deze pagina */}
+            {p.lijkt_op && (
+              <p class="flex flex-wrap items-center gap-x-3 gap-y-1 text-[13.5px]">
+                <a class="link font-medium" href="#lijkt-op">{p.lijkt_op.telling} ↓</a>
+                {p.lijkt_op.per_label.map((s) => (
+                  <span class="inline-flex items-center gap-1.5 text-[var(--zacht)]"><span class="stip" data-soort={s.soort} aria-hidden="true"></span>{s.label} · {s.n}</span>
+                ))}
+              </p>
+            )}
+            {/* de checks zelf, in deze kaart (PLAN #34.2q): bij één check staan de redactie en de datum al in de zin, dus
+                alleen hun eigen woorden en de ene knop; bij meer een regel per check, de knop van de eerste primair (#791) */}
+            <ol id="bronnen" class={`grid divide-y divide-[var(--lijn)] ${enkel ? '' : 'border-t border-[var(--lijn)]'}`} aria-label={t('bronnen_kop')}>
+              {p.checks.map((k, i) => (
+                <li id={`check-${i}`} class={`fz-doel flex min-w-0 flex-wrap items-center gap-x-4 gap-y-2 last:pb-0 ${enkel ? '' : 'py-3'}`}>
+                  {enkel ? <p class="mono ms-auto">{k.taal}</p> : (
+                  <div class="grid min-w-0 flex-1 basis-64 gap-1">
+                    <p class="flex flex-wrap items-center gap-x-3 gap-y-1"><span class="font-semibold">{k.redactie}</span><span class="mono">{k.datum} · {k.taal}</span></p>
+                    {k.oordeel && <p class="text-[15.5px]"><span lang={k.oordeel_taal} dir={k.oordeel_richting}>“{k.oordeel}”</span></p>}
+                    {k.glos && <p class="zacht text-[13px]">{k.glos_regel} <span class="text-[var(--inkt)]">“{k.glos}”</span></p>}
+                  </div>)}
+                  {k.url && <a class={`knop ${enkel ? '' : 'ms-auto'} max-w-full whitespace-normal text-center ${k === eerste ? 'knop-primair' : ''} ${enkel ? 'knop-groot' : ''}`} href={k.url} rel="noopener">{enkel ? t('lees_bij', { redactie: k.redactie }) : t('check_lees')}</a>}
+                  {/* bij één check duwt de taal de knop naar rechts; een tweede ms-auto zette de taal in het midden */}
+                  {k.offline && k.archief && <a class={`knop ${enkel ? '' : 'ms-auto'}`} href={k.archief} rel="noopener">{k.archief_tekst}</a>}
+                </li>
+              ))}
+            </ol>
+            {!enkel && <p class="zacht text-[13px]">{p.telregel}</p>}
+          </section>
+          </div>
+          {/* einde antwoord */}
+          {/* wat de redacties vonden en waar het rondging (PLAN #37.12, B91, SPECS E10.S6): in de woorden van Factiz, elke
+              zin met de redacties die haar dragen, een link naar hun check hierboven; geen label of kleur (DR2, DR5) */}
+          {s && (
+            <section id="samenvatting" class="paneel vak scroll-mt-20" aria-labelledby="samenvatting-kop">
+              <h2 id="samenvatting-kop" class="vakkop">{s.kop}</h2>
+              <ul class="waarom max-w-[var(--maat-tekst)]" lang={s.taal}>{s.vond.map((z) => (
+                <li>{z.zin} <span class="zacht text-[12.5px]">{z.bronnen.map((b, i) => <>{i > 0 && ', '}<a class="link" href={`#${b.anker}`}>{b.naam}</a></>)}</span></li>
+              ))}</ul>
+              {s.rondgang.length > 0 && (
+                <div>
+                  <h3 class="mt-4 mb-1 text-[13.5px] font-semibold">{s.rondgang_kop}</h3>
+                  {s.rondgang.map((z) => (
+                    <p class="max-w-[var(--maat-tekst)]" lang={s.taal}>{z.zin} <span class="zacht text-[12.5px]">{z.bronnen.map((b, i) => <>{i > 0 && ', '}<a class="link" href={`#${b.anker}`}>{b.naam}</a></>)}</span></p>
+                  ))}
+                </div>
+              )}
+              {s.engels && <p class="zacht text-[12.5px]">{s.engels}</p>}
+              {s.vertaald && <p class="zacht text-[12.5px]">{s.vertaald}</p>}
+              <p class="zacht text-[12.5px]">{s.door}</p>
+            </section>
+          )}
+          {/* waarom het niet klopt (PLAN #34.2j, B77): de punten van EUvsDisinfo, samengevat door Factiz, met de bron, de
+              gemeten foutmarge en een regel om een fout te melden; geen label of kleur, nooit een eigen oordeel (DR2, DR5) */}
+          {w && (
+            <section class="paneel vak" aria-labelledby="waarom-kop">
+              <h2 id="waarom-kop" class="vakkop">{w.kop}</h2>
+              <ul class="waarom" lang={w.taal}>{w.punten.map((punt) => <li>{punt}</li>)}</ul>
+              {w.engels && <p class="zacht text-[12.5px]">{w.engels}</p>}
+              <p class="zacht text-[12.5px]">{w.herkomst} {w.url && <a class="link" href={w.url} rel="noopener">{w.lees}</a>}</p>
+              <p class="zacht text-[12.5px]"><a class="link" href={w.meld}>{w.meld_tekst}</a></p>
+            </section>
+          )}
+          {p.eerder.map((e) => <p class="mono">{e}</p>)}
+          {o && (
+            <section class="paneel vak" aria-labelledby="omveld-kop">
+              <h2 id="omveld-kop" class="vakkop">{t('omveld_kop')}</h2>
+              <dl class="omveld">
+                {o.jaren.length > 1 && (<>
+                  <dt>{t('omveld_gecheckt')}</dt>
+                  <dd>
+                    <span>{t('omveld_periode', { eerst: o.eerst, laatst: o.laatst })}</span>
+                    <span class="jarenrij mt-2"><span class="mono" aria-hidden="true">{o.jaren[0].jaar}</span><ol class="jaren" aria-label={t('omveld_per_jaar')}>
+                      {o.jaren.map((j) => (
+                        <li title={`${j.jaar}: ${j.aantal}`}>
+                          <span class={j.aantal ? 'balk' : 'balk leeg'} style={`height:${j.aantal ? Math.max(12, Math.round((j.aantal / maxPerJaar) * 100)) : 6}%`}></span>
+                          <span class="sr-only">{j.jaar}: {j.aantal}</span>
+                        </li>
+                      ))}
+                    </ol><span class="mono" aria-hidden="true">{o.jaren.at(-1).jaar}</span></span>
+                  </dd>
+                </>)}
+                {o.eerst_gezien && (<>
+                  <dt>{t('omveld_eerst_gezien')}</dt>
+                  <dd>{o.eerst_gezien.datum}, <span class="font-medium">{o.eerst_gezien.naam}</span>, {o.eerst_gezien.volgens}{p.opgedoken.length > 1 && <> · <a class="link" href="#opgedoken">{t('omveld_meer', { n: p.opgedoken.length - 1 })}</a></>}</dd>
+                </>)}
+                {o.toegeschreven.length > 0 && (<>
+                  <dt>{t('omveld_toegeschreven')}</dt>
+                  <dd>{o.toegeschreven.map((w, i) => (<>{i > 0 && '; '}<a class="link" href={naarSite(w.href)}>{w.naam}</a>, {w.url ? <a class="link" href={w.url} rel="noopener">{t('opgedoken_volgens', { bron: w.door })}</a> : t('opgedoken_volgens', { bron: w.door })}</>))}</dd>
+                </>)}
+                {o.ook_als && (<>
+                  <dt>{t('omveld_ook_als')}</dt>
+                  <dd>
+                    <ul class="grid gap-1">{o.ook_als.voorbeelden.map((v) => <li class="line-clamp-2 text-[14.5px]" lang={v.taal} dir={v.richting}>“{v.tekst}”</li>)}</ul>
+                    {o.ook_als.aantal > o.ook_als.voorbeelden.length && <a class="link mt-1 inline-block" href="#versies">{t('omveld_meer', { n: o.ook_als.aantal - o.ook_als.voorbeelden.length })}</a>}
+                  </dd>
+                </>)}
+              </dl>
+            </section>
+          )}
+        </section>
+
+
+        {p.ook_gecheckt && (
+          <section id="ook-gecheckt" class="mt-10">
+            <div class="sectiekop"><h2>{t('ook_gecheckt_kop')}</h2><span class="mono">{p.ook_gecheckt.telling}</span></div>
+            {/* per check de redactie, haar eigen woorden, de datum en de taal, en de bewering zoals die pagina haar toont;
+                de check die het dichtst bij de lezer staat eerst (AC5). Geen primaire knop: die hoort bij deze pagina */}
+            <ol class="paneel divide-y divide-[var(--lijn)]">
+              {p.ook_gecheckt.checks.map((k, i) => (
+                <li id={`ook-${i}`} class="fz-doel flex min-w-0 flex-wrap items-start gap-x-4 gap-y-2 px-4 py-3">
+                  <div class="grid min-w-0 flex-1 basis-64 gap-1">
+                    <p class="flex flex-wrap items-center gap-x-3 gap-y-1"><span class="font-semibold">{k.redactie}</span><span class="mono">{k.datum} · {k.taal}</span></p>
+                    {k.oordeel && <p class="text-[15.5px]"><span lang={k.oordeel_taal} dir={k.oordeel_richting}>“{k.oordeel}”</span></p>}
+                    {k.glos && <p class="zacht text-[13px]">{k.glos_regel} <span class="text-[var(--inkt)]">“{k.glos}”</span></p>}
+                    <p class="text-[14px]"><a class="link" href={k.bewering.href} lang={k.bewering.taal} dir={k.bewering.richting}><MetWeg tekst={k.bewering.tekst} /></a></p>
+                  </div>
+                  {k.url && <a class="knop ms-auto max-w-full whitespace-normal text-center" href={k.url} rel="noopener">{t('check_lees')}</a>}
+                  {k.offline && k.archief && <a class="knop ms-auto" href={k.archief} rel="noopener">{k.archief_tekst}</a>}
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+
+        {p.lijkt_op && (
+          <section id="lijkt-op" class="mt-10">
+            <div class="sectiekop"><h2>{t('lijkt_op_kop')}</h2><span class="mono">{p.lijkt_op.rijen.length}</span></div>
+            <ol class="rijen">{p.lijkt_op.rijen.map((r) => <Rij r={r} />)}</ol>
+          </section>
+        )}
+
+        {p.opgedoken.length > 0 && (
+          <section id="opgedoken" class="mt-10">
+            <div class="sectiekop"><h2>{t('opgedoken_kop')}</h2></div>
+            <ul class="paneel divide-y divide-[var(--lijn)]">{p.opgedoken.slice(0, 10).map((o) => <li class="px-4 py-2.5 text-[13.5px]">{o.niveau} <span class="getal">{o.naam}</span>, {o.volgens}{o.datum && `, ${o.datum}`}</li>)}</ul>
+          </section>
+        )}
+
+        {(p.varianten || p.formuleringen.length > 0) && (
+          <section id="versies" class="mt-10">
+            <div class="sectiekop"><h2>{t('ook_als_kop')}</h2>{p.varianten && <span class="mono">{p.varianten.telling}</span>}</div>
+            {p.varianten && <ol class="rijen">{p.varianten.rijen.map((r) => <Rij r={r} />)}</ol>}
+            {p.formuleringen.length > 0 && <ul class="mt-3 grid gap-1.5">{p.formuleringen.map((f) => <li class="zacht text-[14px]" lang={f.taal} dir={f.richting}>“<MetWeg tekst={f.tekst} ster={p.weggelaten} />”</li>)}</ul>}
+          </section>
+        )}
+
+        <section id="verbanden" class="mt-10">
+          <div class="sectiekop"><h2>{t('verbanden_kop')}</h2></div>
+          <div class="grid gap-4">
+            {p.dossiers.map((d) => (
+              <a class="kaart flex items-center gap-4 p-3" href={pad(taal, 'dossiers', d.sleutel)}>
+                <span class={`kaartveld veld-groen veld-kaart-dossier-${d.sleutel} block size-16 flex-none rounded-[8px]`} aria-hidden="true"></span>
+                <span><span class="mono">{t('dossier_deel_van')}</span><span class="block font-semibold">{d.naam}</span></span>
+              </a>
+            ))}
+            {/* elke groep een eigen blok: meer ruimte tussen de groepen dan tussen de kaarten erin (PO 2026-11-15) */}
+            {naamRijen.length > 0 && (
+              <div class="verband-groep grid gap-2.5">
+                <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1"><p class="font-medium">{t('meer_met', { naam: eersteNaam.naam })}</p><a class="link text-[13px]" href={`${lijst}?naam=${eersteNaam.nummer}`}>{t('bekijk_alle', { n: metNaam.aantal })}</a></div>
+                <ol class="rijen">{naamRijen.map((r) => <Rij r={r} />)}</ol>
+              </div>
+            )}
+            {p.thema && themaRijen.length > 0 && (
+              <div class="verband-groep grid gap-2.5">
+                <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1"><p class="flex items-center gap-2 font-medium"><ThemaTegel thema={p.thema.sleutel} maat="midden" />{t('meer_in', { thema: p.thema.naam })}</p><a class="link text-[13px]" href={`${lijst}?thema=${p.thema.sleutel}`}>{t('bekijk_alle', { n: inThema.aantal })}</a></div>
+                <ol class="rijen">{themaRijen.map((r) => <Rij r={r} />)}</ol>
+              </div>
+            )}
+            {p.namen.length > 0 && <p class="flex flex-wrap items-center gap-1.5"><span class="mono me-1">{t('nav_namen')}</span>{p.namen.map((n) => <a class="knop" href={pad(taal, 'names', n.nummer)}>{n.naam}</a>)}</p>}
+          </div>
+        </section>
+
+        <section id="herkomst" class="mt-10 border-t border-[var(--lijn)] pt-4">
+          {/* een fout melden (PLAN #34.2at, SPECS E9.S24): een mail met het nummer, en het adres ook als tekst, want een
+              mailto werkt niet bij iedereen; de site bewaart niets */}
+          {p.melden && (
+            <div class="mb-4 grid gap-1" data-melden>
+              <p class="text-[14px]"><span class="font-medium">{p.melden.vraag}</span> <a class="link" href={p.melden.href}>{p.melden.tekst}</a>
+                <span class="mono ms-1 select-all">{p.melden.adres}</span></p>
+              <p class="zacht max-w-[var(--maat-tekst)] text-[13px]">{p.melden.redactie}</p>
+            </div>
+          )}
+          {p.herkomst.map((h) => <p class="mono">{h}</p>)}
+          <p class="zacht mt-2 text-[13px]">{t('onderaan_bronnen')}</p>
+        </section>
+      </article>
+
+      {/* naast het artikel: eerst de contextkaarten, naast het oordeel (PLAN #34.2an, SPECS E9.S21), dan de inhoud, die
+          blijft staan zodra de kaarten voorbij zijn (#758, #784); op een telefoon alleen de kaarten, onder het artikel. Het
+          dossier staat hier als kaart met zijn jaren; het veld blijft bij Verbanden. */}
+      <aside class="grid content-start gap-6">
+        {p.context?.length > 0 && <ContextKaarten kaarten={p.context} />}
+        <nav class="inhoud max-lg:hidden lg:sticky lg:top-20" aria-label={t('op_deze_pagina')}>
+          <p class="mb-2 text-[12px] font-semibold text-[var(--zacht)]">{t('op_deze_pagina')}</p>
+          {inhoud.map(([id, naam]) => <a href={`#${id}`}>{naam}</a>)}
+        </nav>
+      </aside>
+    </div>
+  </div>
+  <script>
+    // Terug naar resultaten (#828): kwam je uit de bibliotheek, dan terug met je filters en op dezelfde plek.
+    const terug = document.getElementById('terug');
+    const van = document.referrer ? new URL(document.referrer) : null;
+    if (terug && van && van.origin === location.origin && van.pathname === terug.dataset.lijst) {
+      terug.addEventListener('click', (e) => { e.preventDefault(); history.back(); });
+    }
+  </script>
+</Site>

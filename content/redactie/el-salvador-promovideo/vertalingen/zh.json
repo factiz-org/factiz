@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "武裝機器狗帶領士兵的影片10月就已在網上出現,並非來自海地",
+  "oordeel_zin": "這段影片於2026年10月7日已出現在TikTok上,早於薩爾瓦多派出逾2,000名軍人前往海地;Bukele自己公布的Port-au-Prince體育場畫面中確實出現了武裝機器狗,但這段影片不屬於其中 [3] [5] [8]。",
+  "bewering": "看看這些機器狗正在對海地幫派做什麼。這是有史以來最棒的軍事發明之一。它把人類(士兵)的傷亡降到最低。",
+  "kort": "自11月14日起,X上的一則貼文把一段武裝機器狗走在士兵前方的影片,說成是機器狗正在對海地幫派所做的事 [1]。厄瓜多的一家電台於2026年10月7日就在TikTok上發布了同一段影片,早於薩爾瓦多派出逾2,000名軍人前往海地 [3] [8]。薩爾瓦多部隊確實把武裝機器狗帶進了Port-au-Prince的國家體育場,但那些機器狗出現在Bukele總統自己的影片裡,而不是這段影片 [5] [6]。",
+  "tekst": "2026年11月14日,X上的一個帳號發布了一段26秒的影片,配文為「Look at what these Robot dogs are doing to Haiti gangs.」[1]。該貼文引用了同一帳號前一天的貼文,內容稱薩爾瓦多正在海地使用機器狗追捕幫派成員 [2]。影片中,一隻背上裝有步槍的機器狗走在士兵前方,經過一面迷彩圖案的牆,一架無人機在一棟白色混凝土建築周圍盤旋 [1]。\n\n這段影片帶有西班牙文標題「Perros robot con armamento」、日期07-10-2026,以及Ritmo 93.9的標誌 [1]。Ritmo 93.9是厄瓜多Pastaza省的一家電台 [4]。該電台於2026年10月7日在TikTok上發布了同一段影片,隻字未提海地或薩爾瓦多,並寫道它可能是用AI製作的 [3]。影片上方的中文文字(部分被電台標誌遮住)點出一家來自中國山東省的公司 [1]。\n\n十一天後,即10月18日,四名薩爾瓦多航空技術人員在海地遭幫派襲擊後失蹤 [8] [9]。當時已有約200名薩爾瓦多人在海地服役,主要從事醫療支援 [9]。襲擊發生後,薩爾瓦多派出了逾2,000名軍人 [8] [9]。\n\n11月12日,海地警察和軍隊單位與薩爾瓦多特種部隊一起攻佔了Port-au-Prince的Sylvio Cator體育場 [5] [9]。Bukele在X上發布了一段76秒的行動影片 [5]。影片最後20秒顯示士兵在球場上把步槍架到機器狗身上,以及機器狗走過藍色走廊、爬上樓梯 [5] [7]。據Newsweek報導,畫面中並未顯示機器狗開火 [6]。帶有迷彩牆的那處場地並未出現在Bukele的影片中 [1] [5]。",
+  "niet_weten": "我們不知道這段影片是誰拍的、在哪裡拍的、何時拍的,也不知道它是否為真實畫面。我們找到的最早版本是Ritmo 93.9在10月7日發布的那一份 [3]。我們不知道Bukele影片中的機器狗是否參與了任何戰鬥 [6] [7]。",
+  "bereik": "11月23日時有662個讚和23則回覆",
+  "nog_uitzoeken": [
+   "誰製作了這段有機器狗和無人機的影片、在何處何時拍攝,以及它是真實畫面還是用AI製作。",
+   "影片上方的中文文字指的是山東的哪一家公司(名稱的一部分被Ritmo 93.9的標誌擋住),以及該公司是否最先發布了這段畫面。",
+   "Bukele在11月12日的影片中的機器狗,是否參與了海地的任何戰鬥。",
+   "我們在「誤導」與「虛假」之間做過權衡。這段影片並非來自海地,也沒有顯示對當地幫派做了什麼,但薩爾瓦多部隊確實把武裝機器狗帶進了Port-au-Prince的體育場。如果您對這段影片有更多了解,請告訴我們。"
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9在TikTok上把這段影片當作近期分享的影片發布 [3]。",
+   "四名薩爾瓦多航空技術人員在海地遭幫派襲擊後失蹤 [8] [9]。",
+   "Al Jazeera和AP報導有逾2,000名薩爾瓦多軍人在海地 [8]。",
+   "海地與薩爾瓦多部隊攻佔Port-au-Prince的Sylvio Cator體育場 [9]。",
+   "Bukele發布他的行動影片,結尾出現武裝機器狗(UTC)[5]。",
+   "該帳號稱薩爾瓦多正在海地使用機器狗追捕幫派成員(UTC)[2]。",
+   "Newsweek報導Bukele影片中的機器狗(UTC)[6]。",
+   "同一帳號把Ritmo 93.9的這段影片當作海地的機器狗發布(UTC)[1]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文,2026年11月14日20:08 UTC。",
+   "Ritmo 93.9 FM在2026年10月7日於TikTok上發布:同一段影片,標題和日期都相同,比薩爾瓦多部隊攻佔Port-au-Prince體育場早五週。"
+  ],
+  "beeld_alt": [
+   "Benkingsley Nwashara在X上的貼文,內容為「Look at what these Robot dogs are doing to Haiti gangs」,附有影片截圖:一名持步槍的士兵站在迷彩圖案牆壁的轉角處,畫面上有西班牙文標題Perros robot con armamento和日期07-10-2026。下方是11月13日被引用的貼文,附有一座足球場的空拍圖。印章:誤導。",
+   "Ritmo 93.9 TikTok影片的截圖:一隻背著步槍的機器狗在泥土場地上,旁邊是一面迷彩圖案的牆,畫面上有標題Perros robot con armamento和日期07-10-2026。"
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren menyebut OMT, bukan Pieter Omtzigt, dalam pemeriksaannya soal jam malam",
+  "oordeel_zin": "Dalam pemeriksaannya pada 2 September, Ollongren mengatakan bahwa nasihat OMT yang meyakinkannya, dan nama Omtzigt tidak disebut sama sekali [2].",
+  "bewering": "Ollongren mengaku: Omtzigt meyakinkannya tentang manfaat jam malam.",
+  "kort": "Pada 6 September, di X beredar sebuah gambar terkait pemeriksaan Kajsa Ollongren, dengan klaim bahwa ia mengaku Pieter Omtzigt yang meyakinkannya tentang manfaat jam malam [1]. Dalam pemeriksaan itu Ollongren berbicara tentang OMT, Outbreak Management Team yang menasihati kabinet pada masa korona, dan bukan tentang Omtzigt [2] [4]. Nasihat OMT tentang efek jam malam menjadi faktor penentu baginya [2].",
+  "tekst": "Pada Minggu 6 September pukul 17.08, sebuah akun di X memasang gambar terkait pemeriksaan mantan menteri Kajsa Ollongren, dengan tulisan bahwa ia mengaku Omtzigt telah meyakinkannya tentang manfaat jam malam [1]. Postingan itu mencemooh bahwa ia mulanya menentang dan setelah itu melemparkan kesalahan kepada orang lain [1]. Pada 18 November postingan itu mendapat 200 suka dan 61 balasan [1].\n\nOllongren diperiksa pada Rabu 2 September pukul 10.00 hingga 12.50 oleh komisi penyelidikan parlemen untuk Corona [2] [3]. Pada masa korona ia menjabat sebagai menteri Dalam Negeri dan wakil perdana menteri dari D66 [2] [3]. Kantor berita ANP memberitakan pemeriksaannya pada pagi itu [6].\n\nOMT adalah singkatan dari Outbreak Management Team: para ahli yang menasihati kabinet pada masa korona. RIVM menerbitkan nasihat-nasihat mereka [4]. Dalam laporan pemeriksaan itu, singkatan OMT muncul 65 kali, dan nama Omtzigt tidak muncul sekali pun [2].\n\nTentang jam malam, Ollongren menceritakan bahwa ia dan kementeriannya lama menentangnya, karena langkah itu sangat mengekang kebebasan bergerak semua orang [2]. Menurutnya, jam malam tiga atau empat kali dibahas dan setiap kali dicoret dari meja [2]. Faktor penentunya adalah OMT. Pada Januari 2021 OMT memperkirakan efeknya terhadap penyebaran virus sebesar 8 hingga 13 persen, dan mengatakan bahwa tidak ada langkah lain yang dapat mencapai hasil yang sama [2]. Setelah itu ia menyetujuinya dengan berat hati, dan ia mengatakan bahwa saat itu ia sudah yakin [2].\n\nIni sesuai dengan apa yang sebelumnya diceritakan saksi-saksi lain. Menurut NOS, OMT sudah lebih awal menyebut jam malam sebagai opsi, kabinet pada awalnya tidak mau menempuhnya, dan nasihat mendesak OMT di kemudian hari mengatakan bahwa langkah itu dapat berefek [5]. Jam malam mulai berlaku pada 23 Januari 2021 dan diperpanjang lima kali [2].\n\nLaporan yang kami baca belum dikoreksi. Karena itu kami menyampaikan kembali apa yang dikatakan Ollongren, dan tidak mengutipnya kata demi kata [2].",
+  "niet_weten": "Kami tidak tahu apakah penulis unggahan itu salah membaca OMT atau sengaja menjadikannya Omtzigt. Bahwa nama Omtzigt tidak disebut adalah hasil hitungan kami dalam laporan tersebut.",
+  "bereik": "200 suka dan 61 balasan pada 18 November",
+  "nog_uitzoeken": [
+   "Siapa pun yang membaca unggahan itu sebagai lelucon tentang singkatan yang salah dibaca dapat membela penilaian \"menyesatkan\". Kami memilih \"salah\"."
+  ],
+  "tijdlijn": [
+   "Jam malam regional untuk pertama kalinya tercantum dalam nasihat OMT [2].",
+   "Jam malam mulai berlaku, setelah nasihat mendesak dari OMT [2] [5].",
+   "NOS menguraikan, setelah pemeriksaan-pemeriksaan sebelumnya, bagaimana jam malam akhirnya tetap diberlakukan [5].",
+   "Pemeriksaan Ollongren dimulai [2] [3].",
+   "Postingan di X dengan gambar dan klaim tentang Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Postingan di X, 6 September 2026, pukul 17.08.",
+   "Pemeriksaan terbuka terhadap Kajsa Ollongren oleh komisi penyelidikan parlemen untuk Corona, 2 September 2026, pukul 10.00. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Gambar terkait pemeriksaan Kajsa Ollongren soal jam malam, dibagikan seolah-olah ia menyebut Pieter Omtzigt. Cap: SALAH.",
+   "Video pemeriksaan Kajsa Ollongren di Ruang Enquête Tweede Kamer."
+  ]
+ }
+}

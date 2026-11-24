@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video 'aktivis Rode Lijn' dan polisi difilmkan saat protes pusat data di Sloterdijk",
+  "oordeel_zin": "Video itu asli, tetapi berasal dari pendudukan lokasi pembangunan pada 6 November dan sudah ada di X sebelum Rode Lijn dimulai [8].",
+  "bewering": "Aktivis Rode Lijn memperingatkan polisi.",
+  "kort": "Pada 8 November beredar video seorang demonstran yang berbicara kepada seorang polisi, sebagai gambaran aktivis Rode Lijn. Adegan itu difilmkan dua hari sebelumnya, saat pendudukan lokasi pembangunan pusat data untuk Microsoft di Sloterdijk [1] [2]. Video itu sudah ada di X sebelum demonstrasi Rode Lijn di Museumplein dimulai [5] [8].",
+  "tekst": "Pada hari Minggu 8 November pukul 12.23 muncul di X sebuah video berdurasi 28 detik dengan teks \"Aktivis Rode Lijn memperingatkan polisi.\" [8]. Setengah jam kemudian demonstrasi Rode Lijn keempat dimulai di Museumplein di Amsterdam [5].\n\nAdegan itu sendiri juga ada di AT5. Mereka mengunggahnya pada hari Jumat 6 November pukul 15.49 di X, sebagai diskusi panas antara seorang polisi dan seorang demonstran [2]. Di liveblog sore itu AT5 menggambarkan bagaimana seorang demonstran mengatakan kepada seorang polisi bahwa ia harus berhati-hati, lalu polisi bertanya apakah ia sedang diancam [1]. Itu terjadi di luar pagar lokasi pembangunan di Plimsollweg, sementara ME mengosongkan area tersebut [1].\n\nPendudukan itu adalah aksi kelompok Geef Tegengas menentang pembangunan pusat data untuk Microsoft [3]. Demonstran pro-Palestina juga ikut serta, dan bendera Palestina terpasang di area itu [3] [9]. ME menggunakan tongkat pemukul dan semprotan merica [9]. Polisi menahan 218 orang, yang semuanya sudah bebas lagi sehari kemudian [4].\n\nVideo dalam unggahan itu sudah ada di X pada hari Sabtu 7 November pukul 18.46, di akun lain. Hal itu kami simpulkan dari nomor yang diberikan X pada setiap video, karena di dalamnya terdapat waktu pengunggahan. Perhitungan yang sama untuk video AT5 menghasilkan tepat waktu unggahan mereka [2] [8].\n\nPada Rode Lijn sendiri polisi juga bertindak. Pukul 15.34 mereka menggunakan tongkat pemukul di Overtoom saat melakukan penangkapan [6]. Itu tidak mungkin video dalam unggahan tersebut, karena video itu sudah ada tiga jam sebelumnya [8]. Polisi menyebut demonstrasi itu tenang dan terkendali, dengan empat penangkapan [6]. Menurut penyelenggara, setidaknya 200.000 orang ikut berjalan [7]. Rutenya dari Museumplein melewati Oud-West dan kembali, tidak melewati Sloterdijk [5].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali memberi video itu penjelasan lain. Akun yang mengunggahnya di X pada 7 November berhasil kami temukan, tetapi unggahannya sendiri tidak, jadi kami juga tidak tahu apa yang tertulis di dalamnya. Apakah sang demonstran kemudian ikut berjalan di Rode Lijn, kami tidak tahu. Unggahan itu juga tidak membahas hal tersebut: ia menampilkan adegan 6 November seolah-olah berasal dari 8 November.",
+  "bereik": "Ditonton 68.296 kali pada 18 November",
+  "nog_uitzoeken": [
+   "Apa yang tertulis di unggahan tanggal 7 November. Kami menemukan akunnya, tetapi tidak menemukan unggahannya.",
+   "Siapa pun yang membaca unggahan itu sebagai 'ini terjadi di Garis Merah' bisa membela penilaian salah. Kami memilih menyesatkan."
+  ],
+  "tijdlijn": [
+   "AT5 mengunggah video adu kata di lokasi pembangunan itu di X [2].",
+   "Ke-218 demonstran yang ditahan semuanya sudah bebas lagi [4].",
+   "Video dalam unggahan itu muncul di X, di akun lain [8].",
+   "Unggahan dengan teks tentang aktivis Rode Lijn [8].",
+   "Demonstrasi Rode Lijn dimulai di Museumplein [5].",
+   "Polisi menggunakan tongkat pemukul saat penangkapan di Overtoom [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 8 November 2026, pukul 12.23.",
+   "AT5 di X, 6 November 2026, pukul 15.49: adu kata yang sama di lokasi pembangunan di Sloterdijk."
+  ],
+  "beeld_alt": [
+   "Gambar diam dari video: seorang demonstran dan seorang polisi di dekat pagar. Cap: MENYESATKAN.",
+   "Video AT5 tentang adu kata antara seorang demonstran dan seorang polisi."
+  ]
+ }
+}

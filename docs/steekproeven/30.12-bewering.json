@@ -1,0 +1,569 @@
+{
+ "_meta": "Labels van #30.12 (het model leest, Factiz zoekt het bonnetje). Per paar (stuk en treffer), zodat geen label van een andere treffer meekomt. Bij P2 en P3 een `matched` op een andere claim dan verwacht: `zelfde` (dezelfde bewering, telt niet als gevonden en niet als vals) of `anders` (vals alarm); bij N1 een `matched` op webtekst: `terecht` of `vals`. Bij twijfel `anders` of `vals`. Beoordeeld tegen wat het beeld of de tekst zelf beweert, met het beeld erbij waar het twijfel gaf. Op de toetshelft alleen om te tellen. Gelabeld door Claude (`python -m doublecheck.bewering lezen`).",
+ "labels": [
+  {
+   "sleutel": "P3:00785",
+   "kandidaat": "gfc-8b540e78217d9db1",
+   "label": "zelfde",
+   "waarom": "vrouwen die op oudejaarsavond knielen voor hun man, rond 1900: dezelfde bewering"
+  },
+  {
+   "sleutel": "P3:00815",
+   "kandidaat": "gfc-784ffe617b5cf59e",
+   "label": "zelfde",
+   "waarom": "'inside visuals' van een bekend hotel bij de aardbeving in Turkije: de post zelf, in het Hindi"
+  },
+  {
+   "sleutel": "P3:01177",
+   "kandidaat": "gfc-0e6c8ef9755fb9aa",
+   "label": "zelfde",
+   "waarom": "de zeldzame tweekoppige witte slang die rijkdom brengt: de posttekst in het Hindi"
+  },
+  {
+   "sleutel": "P3:01253",
+   "kandidaat": "gfc-18b36878c72d75cd",
+   "label": "zelfde",
+   "waarom": "het spandoek van AAP in Gujarat ('Gujarat padhega namaz'): de posttekst in het Hindi"
+  },
+  {
+   "sleutel": "P3:01318",
+   "kandidaat": "gfc-1042c8c469e94620",
+   "label": "zelfde",
+   "waarom": "het middagmaal op een staatsschool in Uttar Pradesh, met de zin over Delhi: dezelfde post"
+  },
+  {
+   "sleutel": "P3:01331",
+   "kandidaat": "gfc-4444ed14878096b4",
+   "label": "zelfde",
+   "waarom": "Gandhi als sergeant-majoor in het Britse leger met twee medailles: de posttekst in het Hindi"
+  },
+  {
+   "sleutel": "P3:01352",
+   "kandidaat": "gfc-63f4f57eafd3836f",
+   "label": "zelfde",
+   "waarom": "foto van Sachin Pilot die bij de BJP komt: dezelfde bewering in het Telugu"
+  },
+  {
+   "sleutel": "P3:01393",
+   "kandidaat": "gfc-4539a00672e6d185",
+   "label": "zelfde",
+   "waarom": "het citaat over KFC en Eid dat aan Bill Gates wordt toegeschreven; de check van Youturn gaat over die toeschrijving"
+  },
+  {
+   "sleutel": "P3:01403",
+   "kandidaat": "gfc-700258470cc2f346",
+   "label": "zelfde",
+   "waarom": "moslims die de Indiase vlag verbranden bij een protest tegen Modi: dezelfde bewering"
+  },
+  {
+   "sleutel": "P3:01423",
+   "kandidaat": "gfc-f81a073395dc0281",
+   "label": "zelfde",
+   "waarom": "de post zegt in het Urdu 'CCTV-beelden van het neerhalen van de helikopter van de Iraanse president met een raket': precies de gevonden bewering"
+  },
+  {
+   "sleutel": "P3:01425",
+   "kandidaat": "gfc-e9eaf1b44ebb14bb",
+   "label": "zelfde",
+   "waarom": "een Italiaan die na de dood van zijn familie aan corona van een hotel springt: in het Telugu"
+  },
+  {
+   "sleutel": "P3:01497",
+   "kandidaat": "gfc-ed700122f34a33e8",
+   "label": "zelfde",
+   "waarom": "Hrithik Roshan steunt het boerenprotest: de posttekst in het Hindi"
+  },
+  {
+   "sleutel": "P3:01569",
+   "kandidaat": "gfc-2a998704fa9cae06",
+   "label": "zelfde",
+   "waarom": "Indira Gandhi spreekt de soldaten toe in de Galwanvallei: in het Telugu"
+  },
+  {
+   "sleutel": "P3:01627",
+   "kandidaat": "gfc-0a1a1b71ca1d640e",
+   "label": "zelfde",
+   "waarom": "het rode boek van Rahul Gandhi als Chinese grondwet (Himanta Biswa Sarma): in het Tamil"
+  },
+  {
+   "sleutel": "P3:01647",
+   "kandidaat": "gfc-427b811286df115c",
+   "label": "zelfde",
+   "waarom": "het restaurant van de dochter van Smriti Irani in Goa met rundvlees op de kaart"
+  },
+  {
+   "sleutel": "P3:01665",
+   "kandidaat": "gfc-baba7cdd59eb81ba",
+   "label": "zelfde",
+   "waarom": "Duitsers laten hun auto staan na een hogere brandstofprijs: in het Tamil"
+  },
+  {
+   "sleutel": "P3:01673",
+   "kandidaat": "gfc-8c485f48611f41d7",
+   "label": "zelfde",
+   "waarom": "fans van Ronaldo in Kerala slaan een man die de Portugese vlag verscheurde: dezelfde post"
+  },
+  {
+   "sleutel": "P3:01820",
+   "kandidaat": "gfc-7bae2fecdd301724",
+   "label": "zelfde",
+   "waarom": "Congreskamerleden in het zwart op 5 augustus 2020: in het Tamil"
+  },
+  {
+   "sleutel": "P3:01844",
+   "kandidaat": "gfc-46a580e800228bf6",
+   "label": "zelfde",
+   "waarom": "de gevonden claim is de tekst van de post zelf (kapitein Dhillon, Khalistani genoemd), naast de foto met het gewonde oog"
+  },
+  {
+   "sleutel": "P3:01088",
+   "kandidaat": "gfc-314b683b173961fd",
+   "label": "zelfde",
+   "waarom": "foto van Pooja Singhal enkele dagen voor de inval: dezelfde foto en bewering, in het Hindi"
+  },
+  {
+   "sleutel": "P3:01779",
+   "kandidaat": "gfc-046be137fc98434f",
+   "label": "zelfde",
+   "waarom": "een literair congres in Maharashtra dat met Koranverzen opent: de posttekst in het Hindi"
+  },
+  {
+   "sleutel": "P2:https://ru.armeniasputnik.am/columnists/20200415/22733528/Dlya-chego-Ukraine-novaya-voenno-morskaya-baza-v-Azovskom-more.html#gfc-4497b570d777b2ab",
+   "kandidaat": "gfc-9a59d6f41782d25c",
+   "label": "zelfde",
+   "waarom": "de marinebasis aan de Azovse Zee als westerse provocatie: dezelfde bewering"
+  },
+  {
+   "sleutel": "P2:https://lt.sputniknews.ru/20210520/troyanskie-kotiki-zachem-spetsnaz-nato-uchitsya-shturmovat-krym-16428429.html#gfc-7fb37e5a46b5d940",
+   "kandidaat": "gfc-0b1213760837e195",
+   "label": "zelfde",
+   "waarom": "de NAVO-oefeningen in Bulgarije en Roemenië zijn openlijk anti-Russisch"
+  },
+  {
+   "sleutel": "P2:https://www.interfax.ru/world/644041#gfc-d20c3dab524c8318",
+   "kandidaat": "gfc-1d79e686ed310a8f",
+   "label": "zelfde",
+   "waarom": "een negatieve houding tegenover Estland wordt strafbaar"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-001769",
+   "kandidaat": "gfc-a177ad55757b82b3",
+   "label": "terecht",
+   "waarom": "de claimregel van een factcheckartikel, letterlijk de gecheckte bewering (zoals in de zeef)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003757",
+   "kandidaat": "gfc-ed05a818dd777ed7",
+   "label": "terecht",
+   "waarom": "factcheckinleiding over Ambani en 500 crore voor de Ram-tempel (zoals in de zeef)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-012360",
+   "kandidaat": "gfc-0810194f123a1f9b",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-000406",
+   "kandidaat": "gfc-791314c3a7fa3993",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:tr-003337",
+   "kandidaat": "gfc-b4f3edbe9afa8658",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-003642",
+   "kandidaat": "gfc-2c5751664904d0a8",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-033986",
+   "kandidaat": "gfc-6fc58565e2f99881",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-001062",
+   "kandidaat": "gfc-cf864305ecdafde5",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-004499",
+   "kandidaat": "gfc-782e5f2f3df97058",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-094371",
+   "kandidaat": "gfc-ebdd7ebb37e0ed8f",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:tr-003987",
+   "kandidaat": "gfc-3b191197e4c1f388",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003757",
+   "kandidaat": "gfc-9fd1b5307089dea4",
+   "label": "terecht",
+   "waarom": "factcheckinleiding over Ambani en 500 crore voor de Ram-tempel; de tekst doet de gecheckte bewering (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-029111",
+   "kandidaat": "gfc-8b4a07f68295515f",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-075468",
+   "kandidaat": "gfc-2095b792f16cdbfc",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-001212",
+   "kandidaat": "gfc-c866150c001cc168",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-011035",
+   "kandidaat": "gfc-9076824bd41247de",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:fr-003656",
+   "kandidaat": "gfc-9ca72e6ee3fe6be1",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-003469",
+   "kandidaat": "gfc-95582dfc1c806e7a",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-105341",
+   "kandidaat": "gfc-e64588d95c8bd6ad",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:de-004172",
+   "kandidaat": "gfc-3b50b925d6a49e68",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:nl-006742",
+   "kandidaat": "gfc-142b466ed9dea2ac",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:fa-004383",
+   "kandidaat": "gfc-66b635cc4a2a60b9",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-004211",
+   "kandidaat": "gfc-b4f3edbe9afa8658",
+   "label": "terecht",
+   "waarom": "de vier verdachten van de verkrachting en moord in Hyderabad doodgeschoten: dezelfde bewering (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-003601",
+   "kandidaat": "gfc-9c208f00f6edff63",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-004061",
+   "kandidaat": "gfc-63c8b64e99db1d78",
+   "label": "terecht",
+   "waarom": "vrouwen worden geboren met al hun eicellen: dezelfde bewering (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-002207",
+   "kandidaat": "gfc-3a11236570636a56",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:pt-007259",
+   "kandidaat": "gfc-76e6eb857b3fa49a",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-000399",
+   "kandidaat": "gfc-7fca1fa17795a38b",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-080501",
+   "kandidaat": "gfc-2da13db8c3ae9252",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-009666",
+   "kandidaat": "gfc-952c1635e564f366",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:tr-001385",
+   "kandidaat": "gfc-eee3bd20b92be732",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-035306",
+   "kandidaat": "gfc-1312d6505ae79313",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-012252",
+   "kandidaat": "gfc-0e9a2d4552fddbf3",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-083286",
+   "kandidaat": "gfc-fdc311d011b6008a",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-008415",
+   "kandidaat": "gfc-e22fc768b58835ba",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-011131",
+   "kandidaat": "gfc-c38cd7f774c611a0",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-002358",
+   "kandidaat": "gfc-9326203e3af72af7",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-000308",
+   "kandidaat": "gfc-41992a7ecd3ce96c",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-005728",
+   "kandidaat": "gfc-b19ef39af946ddc8",
+   "label": "terecht",
+   "waarom": "baarmoederhalskanker als derde kanker bij vrouwen in Brazilië: dezelfde bewering (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-090533",
+   "kandidaat": "gfc-45c10e63a6db4c3d",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ja-001786",
+   "kandidaat": "gfc-65e2c7bbe7242d60",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-000247",
+   "kandidaat": "gfc-43c4204b905d40cb",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-003188",
+   "kandidaat": "gfc-7b25ffb08d0498a4",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-117939",
+   "kandidaat": "gfc-b60ee5a6536c52f4",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-012273",
+   "kandidaat": "gfc-c76303550bc096fb",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-007386",
+   "kandidaat": "gfc-29872ffa17d35f80",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-000598",
+   "kandidaat": "gfc-719f1c829098a3dd",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-013089",
+   "kandidaat": "gfc-3ea1392e4936dd9d",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:de-005226",
+   "kandidaat": "gfc-f3560a1130e4fcf5",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:fa-002756",
+   "kandidaat": "gfc-3bd2c607d1d122d6",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-014651",
+   "kandidaat": "gfc-70a8b5cf823fc8d1",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-004167",
+   "kandidaat": "gfc-371eb3e32707838e",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-051379",
+   "kandidaat": "gfc-020cc1258ad0b8ee",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-151405",
+   "kandidaat": "gfc-3f2cc912c1fe2af0",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:de-010485",
+   "kandidaat": "gfc-0a24de0df52c030d",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-036959",
+   "kandidaat": "gfc-7896afcfe2710693",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-102527",
+   "kandidaat": "gfc-6decb2ec976019b1",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-055797",
+   "kandidaat": "gfc-477cfe1487648463",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-056995",
+   "kandidaat": "gfc-6fc58565e2f99881",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-043704",
+   "kandidaat": "gfc-1bf3d0967d9fa340",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-005821",
+   "kandidaat": "gfc-0ff97001d85cdc98",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-002389",
+   "kandidaat": "gfc-b18730f5851990b6",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-011698",
+   "kandidaat": "gfc-2581f52313379707",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:pt-000266",
+   "kandidaat": "gfc-0b2d35846652a7b5",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-072528",
+   "kandidaat": "gfc-f27d690da4c94cb1",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-107000",
+   "kandidaat": "gfc-3087b2f19f63277c",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-066319",
+   "kandidaat": "gfc-3cbc63c291532ff8",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-031951",
+   "kandidaat": "gfc-0b5e4c66c2afc41e",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-004741",
+   "kandidaat": "gfc-01b20abab0d3e48d",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-003258",
+   "kandidaat": "gfc-ac9ab88bc95ca58e",
+   "label": "vals",
+   "waarom": "de beslisser koos een check over iets anders dan de webtekst beweert (stap 2b)"
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/fauci-miskramen/dossier.md.
+
+sleutel = "fauci-miskramen"
+status = "gepubliceerd"
+taal = "nl"
+adres = "van-ranst-fauci-miskramen"
+adres_en = "van-ranst-fauci-miscarriages"
+kop = "Marc Van Ranst krijgt de schuld van wat Fauci zou hebben verzwegen, maar Fauci verzweeg geen schade en Van Ranst schreef het advies voor zwangeren niet"
+oordeel = "onwaar"
+oordeel_zin = "Fauci schreef in een sms over een theoretisch risico, niet over schade, en studies bij tienduizenden zwangeren vonden geen hoger risico; Van Ranst zat niet in de groep die in België het advies voor zwangeren schreef [2] [8] [16]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "Marc van Ranst is PANIEKERIG aan het tweeten sinds bekend is dat Fauci WIST dat vaccins SCHADELIJK waren voor zwangere vrouwen maar het toch VERZWEEG! Van Ranst zou BESTRAFT moeten worden voor zijn aandeel in het corona-bedrog!"
+platform = "X"
+eerst_gezien = "2026-08-10"
+posts = 2
+bereik = "43.828 en 29.569 keer bekeken op 18 november"
+
+kort = """
+Een post op X wil de Belgische viroloog Marc Van Ranst laten straffen, omdat Anthony Fauci zou hebben verzwegen dat \
+vaccins schadelijk zijn voor zwangere vrouwen [15]. Fauci schreef in januari 2021 in een sms over een theoretische \
+mogelijkheid, niet over schade, en onderzoek bij tienduizenden zwangeren vond geen hoger risico op een miskraam [2] [6] \
+[8]. Van Ranst komt in de sms'jes niet voor, en het Belgische advies voor zwangeren kwam van een groep van de Hoge \
+Gezondheidsraad waarin hij niet zat [16] [17]."""
+
+tekst = """
+Op woensdag 12 augustus 2026 om 19:23 verscheen op X een post met een grote foto van Marc Van Ranst, viroloog aan de KU \
+Leuven en het Rega Instituut [15] [18]. Van Ranst zou paniekerig aan het tweeten zijn sinds bekend is dat Fauci wist dat \
+vaccins schadelijk waren voor zwangere vrouwen, en dat verzweeg [15]. Daarom zou hij gestraft moeten worden voor zijn \
+aandeel in wat de post corona-bedrog noemt [15]. Twee dagen eerder ging al een Nederlandstalige post rond die Fauci \
+hetzelfde verweet [15].
+
+Van Ranst en het advies voor zwangeren
+
+Van Ranst adviseerde de Belgische regering in 2020 en 2021 in groepen over de maatregelen tegen corona, zoals de GEES en \
+de GEMS [20] [21]. Over vaccinatie adviseerde in België de Hoge Gezondheidsraad, met een eigen groep voor vaccins [16]. \
+Die raad raadde in januari 2021 af om alle zwangeren te vaccineren, en gaf hun in april 2021 voorrang [17] [16] [19]. Van \
+Ranst staat niet in de werkgroep die dat advies schreef, en niet in de lijst van experts die het goedkeurden [16].
+
+In de sms'jes van Fauci komt Van Ranst niet voor [2] [3]. Wel nam hij het in december 2022 op X voor Fauci op, toen Elon \
+Musk schreef dat Fauci vervolgd moest worden [22]. Een post waarin Van Ranst in augustus 2026 over de sms'jes schreef, \
+vonden we niet.
+
+Wat Fauci schreef
+
+Op 10 augustus 2026 maakten de Amerikaanse senatoren Ron Johnson en Rand Paul screenshots openbaar van sms'jes van de \
+telefoon die Fauci als directeur van het Amerikaanse instituut voor infectieziekten gebruikte [1] [3]. Het ministerie van \
+Volksgezondheid had die telefoon op 5 augustus aan de Senaat gegeven [1].
+
+De sms'jes zijn van 25 en 26 januari 2021, tussen Fauci, de toenmalige directeur van de CDC Rochelle Walensky en Vivek \
+Murthy, kort daarna weer surgeon general, de hoogste arts van de Amerikaanse overheid [2] [3]. Murthy vroeg \
+of zwangeren beter vroeg of laat in de zwangerschap konden worden gevaccineerd, en Fauci antwoordde dat daar geen gegevens of theoretische reden voor waren [2]. \
+Een collega schreef hem die middag dat de eerste studies vaccineren in het eerste trimester vermeden, vanwege mogelijke \
+koorts en het hogere aantal miskramen in die periode [2]. \
+Daarna schreef Fauci dat koorts na de tweede prik "theoretically could be associated with miscarriage in the 1st \
+trimester" [2] [4].
+
+Een dag later schreef hij dat de risico's moesten worden afgewogen tegen die van covid in de zwangerschap, en dat bij meer \
+dan 10.000 gevaccineerde zwangeren geen problemen waren gezien [3]. In februari 2021 zei hij in het openbaar dat er geen \
+alarmsignalen bij zwangeren waren [4]. De theoretische zorg over koorts noemde hij daar niet, maar gegevens over schade \
+had hij ook privé niet [3] [13].
+
+Wat onderzoek vond
+
+Bij 2.456 zwangeren die vóór 20 weken een mRNA-vaccin kregen, was de kans op een miskraam 13 tot 14 procent, binnen wat \
+ook zonder vaccin gebruikelijk is [6]. In de Verenigde Staten en in Noorwegen waren vrouwen met een miskraam niet vaker \
+kort ervoor gevaccineerd dan vrouwen met een lopende zwangerschap [7] [8]. Een overzicht van 21 studies met bijna 150.000 \
+vrouwen vond geen hoger risico [9]. De volledige gegevens van het register van de CDC, met 12.097 zwangerschappen, kwamen \
+in februari 2026 uit op 10,8 procent [10].
+
+Met de sms'jes ging ook een oud getal opnieuw rond: 82 procent miskramen na vaccinatie [12]. Dat komt uit een voorlopige \
+studie van april 2021, en is fout uitgerekend: het deelt de miskramen door een groep vrouwen van wie de meesten nog \
+zwanger waren [5] [12]. De eerste Nederlandstalige post verwijst ook naar meldingen in VAERS, het Amerikaanse meldsysteem \
+voor bijwerkingen [15]. Dat systeem is volgens de beheerders niet gemaakt om te bepalen of een vaccin een klacht \
+veroorzaakte [11]. Knack noemde op 12 augustus een bewering over dezelfde sms'jes onwaar [23].
+
+Van Ranst als doelwit
+
+In mei 2021 werd Van Ranst bij naam bedreigd door een gewapende militair, Jürgen Conings, en zat hij met zijn gezin in \
+een safehouse tot Conings in juni dood werd gevonden [24] [25]. Volgens VRT NWS krijgt hij vijf jaar later nog altijd \
+haatmail [25]."""
+
+niet_weten = """
+We vonden geen post of uitspraak van Van Ranst over de sms'jes, op X, op Bluesky of in Belgische media. Waar de post \
+corona-bedrog op doelt, zegt ze niet. We weten niet welke studies de collega van Fauci bedoelde; ook de senatoren zeggen \
+dat niet te weten [2]. Van de meer dan 34.000 berichten op de telefoon is een klein deel vrijgegeven [1]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 12 augustus 2026, 19:23, een van twee."
+alt = "Screenshot van een post op X met een grote foto van Marc Van Ranst, die zegt dat hij gestraft moet worden omdat Fauci zou hebben verzwegen dat vaccins schadelijk zijn voor zwangeren. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.ronjohnson.senate.gov/2026/08/10/senators-johnson-paul-release-initial-texts-from-dr-faucis-government-iphone/"
+stempel = false
+bijschrift = "De sms'jes van 25 en 26 januari 2021, zoals de senatoren Johnson en Paul ze op 10 augustus 2026 vrijgaven."
+alt = "Screenshots van de sms'jes tussen Fauci, Walensky en Murthy over vaccinatie in de zwangerschap."
+
+[[tijdlijn]]
+datum = "2021-01-25"
+wat = "Fauci schrijft over een theoretisch verband tussen koorts na de tweede prik en een miskraam [2]."
+
+[[tijdlijn]]
+datum = "2021-01-26"
+wat = "Fauci schrijft dat bij meer dan 10.000 gevaccineerde zwangeren geen problemen zijn gezien [3]."
+
+[[tijdlijn]]
+datum = "2021-01-21"
+wat = "De Hoge Gezondheidsraad raadt af om alle zwangeren te vaccineren [17]."
+
+[[tijdlijn]]
+datum = "2021-04-21"
+wat = "De voorlopige studie waar later het getal van 82 procent uit wordt gehaald [5]."
+
+[[tijdlijn]]
+datum = "2021-04-22"
+wat = "De Hoge Gezondheidsraad geeft alle zwangeren voorrang bij de vaccinatie [16]."
+
+[[tijdlijn]]
+datum = "2021-09-08"
+wat = "Twee studies vinden geen hoger risico op een miskraam na vaccinatie [6] [7]."
+
+[[tijdlijn]]
+datum = "2022-12-11"
+wat = "Van Ranst neemt het op X op voor Fauci, als Elon Musk zijn vervolging wil [22]."
+
+[[tijdlijn]]
+datum = "2026-02-18"
+wat = "De volledige gegevens van het register van de CDC: 10,8 procent, binnen wat gebruikelijk is [10]."
+
+[[tijdlijn]]
+datum = "2026-08-10"
+wat = "Johnson en Paul geven de eerste sms'jes vrij [1]."
+
+[[tijdlijn]]
+datum = "2026-08-10"
+tijd = "22:58"
+wat = "De eerste Nederlandstalige post op X [15]."
+
+[[tijdlijn]]
+datum = "2026-08-12"
+wat = "PolitiFact: het getal van 82 procent klopt niet [12]. Knack noemt een bewering over de sms'jes onwaar [23]."
+
+[[tijdlijn]]
+datum = "2026-08-12"
+tijd = "19:23"
+wat = "De post op X met de foto van Van Ranst [15]."
+
+[[tijdlijn]]
+datum = "2026-08-14"
+wat = "FactCheck.org: de senatoren zetten uitspraken uit verschillende maanden door elkaar [13]."
+
+[[tijdlijn]]
+datum = "2026-08-17"
+wat = "AFP Factcheck Nederland checkt de bewering [14]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Senator Ron Johnson, Amerikaanse Senaat"
+titel = "Senators Johnson, Paul Release Initial Texts from Dr. Fauci's Government iPhone"
+datum = "2026-08-10"
+url = "https://www.ronjohnson.senate.gov/2026/08/10/senators-johnson-paul-release-initial-texts-from-dr-faucis-government-iphone/"
+archief = "https://web.archive.org/web/20261119142714/https://www.ronjohnson.senate.gov/2026/08/10/senators-johnson-paul-release-initial-texts-from-dr-faucis-government-iphone-2/"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Senator Ron Johnson, Amerikaanse Senaat"
+titel = "Senators Johnson, Paul Release Additional Texts From Dr. Fauci's Government iPhone"
+datum = "2026-08-16"
+url = "https://www.ronjohnson.senate.gov/?p=9276"
+archief = "https://web.archive.org/web/20261119142739/https://www.ronjohnson.senate.gov/2026/08/16/senators-johnson-paul-release-additional-texts-from-dr-faucis-government-iphone/"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "CNN"
+titel = "Republican senators released Fauci's old texts about Covid vaccines and pregnancy. Years of evidence show they're safe"
+datum = "2026-08-10"
+url = "https://keyt.com/politics/cnn-us-politics/2026/08/10/republican-senators-release-faucis-text-messages-discussing-safety-of-covid-vaccine-and-pregnancy"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "The Washington Post, via The Philadelphia Inquirer"
+titel = "Fauci texts released by the Senate"
+datum = "2026-08-11"
+url = "https://www.inquirer.com/politics/nation/anthony-fauci-texts-released-senate-20260811.html"
+archief = "https://web.archive.org/web/20260812150438/https://www.inquirer.com/politics/nation/anthony-fauci-texts-released-senate-20260811.html"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "The New England Journal of Medicine, Shimabukuro e.a."
+titel = "Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons"
+datum = "2021-04-21"
+url = "https://doi.org/10.1056/NEJMoa2104983"
+archief = "https://web.archive.org/web/20251122153732/https://www.nejm.org/doi/10.1056/NEJMoa2104983"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "The New England Journal of Medicine, Zauche e.a."
+titel = "Receipt of mRNA Covid-19 Vaccines and Risk of Spontaneous Abortion"
+datum = "2021-09-08"
+url = "https://doi.org/10.1056/NEJMc2113891"
+archief = "https://web.archive.org/web/20250529133037/https://www.nejm.org/doi/10.1056/NEJMc2113891"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "JAMA, Kharbanda e.a."
+titel = "Spontaneous Abortion Following COVID-19 Vaccination During Pregnancy"
+datum = "2021-09-08"
+url = "https://doi.org/10.1001/jama.2021.15494"
+archief = "https://web.archive.org/web/20261111014932/https://jamanetwork.com/journals/jama/fullarticle/2784193"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "The New England Journal of Medicine, Magnus e.a."
+titel = "Covid-19 Vaccination during Pregnancy and First-Trimester Miscarriage"
+datum = "2021-10-20"
+url = "https://doi.org/10.1056/NEJMc2114466"
+archief = "https://web.archive.org/web/20250804081252/https://www.nejm.org/doi/10.1056/NEJMc2114466"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "Human Reproduction, Rimmer e.a."
+titel = "The risk of miscarriage following COVID-19 vaccination: a systematic review and meta-analysis"
+datum = "2023-05"
+url = "https://doi.org/10.1093/humrep/dead036"
+archief = "https://web.archive.org/web/20261109180437/https://academic.oup.com/humrep/article/38/5/840/7043098"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "Vaccine, Madni e.a."
+titel = "Risk of spontaneous abortion after mRNA COVID-19 vaccination received just prior to or during pregnancy: Complete data from CDC COVID-19 vaccine pregnancy registry"
+datum = "2026-02-18"
+url = "https://doi.org/10.1016/j.vaccine.2026.128340"
+archief = "https://web.archive.org/web/20260322064236/https://linkinghub.elsevier.com/retrieve/pii/S0264410X26001489"
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "VAERS, CDC en FDA"
+titel = "About VAERS"
+datum = "2026-11-18"
+url = "https://vaers.hhs.gov/about.html"
+archief = "https://web.archive.org/web/20261019005722/https://vaers.hhs.gov/about.html"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "PolitiFact"
+titel = "No, COVID-19 vaccines don't cause an 82% miscarriage rate as Sen. Ron Johnson said"
+datum = "2026-08-12"
+url = "https://politifact.com/factchecks/2026/ago/12/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci/"
+archief = "https://web.archive.org/web/20260912144702/https://politifact.com/factchecks/2026/ago/12/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci/"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "FactCheck.org"
+titel = "Republicans Revive False Miscarriage Statistic, Twist Fauci's Texts About COVID-19 Shots"
+datum = "2026-08-14"
+url = "https://www.factcheck.org/2026/08/republicans-revive-false-miscarriage-statistic-twist-faucis-texts-about-covid-19-shots/"
+archief = "https://web.archive.org/web/20261031034654/https://www.factcheck.org/2026/08/republicans-revive-false-miscarriage-statistic-twist-faucis-texts-about-covid-19-shots/"
+
+[[bron]]
+nr = 14
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Factcheck over de sms'jes van Fauci en miskramen"
+datum = "2026-08-17"
+url = "https://factchecknederland.afp.com/doc.afp.com.C4NC4G3"
+archief = "https://web.archive.org/web/20261119143116/https://factchecknederland.afp.com/doc.afp.com.C4NC4G3"
+
+[[bron]]
+nr = 15
+soort = "bron"
+uitgever = "X"
+titel = "Twee posts over Fauci en Van Ranst, 10 en 12 augustus 2026"
+datum = "2026-08-10"
+prive = true
+archief = "https://web.archive.org/web/20261119143135/https://cdn.syndication.twimg.com/tweet-result?id=2087590918840836365&token=526cyxw4fs6&lang=nl"
+
+[[bron]]
+nr = 16
+soort = "bron"
+uitgever = "Hoge Gezondheidsraad"
+titel = "Advies 9622: vaccinatie tegen COVID-19 bij zwangere vrouwen en vrouwen die borstvoeding geven, versie 3"
+datum = "2021-04-22"
+url = "https://www.nitag-resource.org/sites/default/files/2021-04/20210422_hgr-9622_vaccinatie_zwangere_borstvoeding_vrouw_vweb_1.pdf"
+archief = "https://web.archive.org/web/20210507231141/https://www.nitag-resource.org/sites/default/files/2021-04/20210422_hgr-9622_vaccinatie_zwangere_borstvoeding_vrouw_vweb_1.pdf"
+
+[[bron]]
+nr = 17
+soort = "bron"
+uitgever = "Hoge Gezondheidsraad"
+titel = "Advisory report 9622: COVID-19 vaccination of pregnant and breastfeeding women, version of 21 January 2021"
+datum = "2021-01-26"
+url = "https://www.nitag-resource.org/sites/default/files/2021-02/20210126_shc_9622_covid-19_vaccination_pregnant_woman_breastfeeding_vweb.pdf"
+archief = "https://web.archive.org/web/20240617213558/https://www.nitag-resource.org/sites/default/files/2021-02/20210126_shc_9622_covid-19_vaccination_pregnant_woman_breastfeeding_vweb.pdf"
+
+[[bron]]
+nr = 18
+soort = "bron"
+uitgever = "KU Leuven"
+titel = "Wie is wie: Marc Van Ranst"
+datum = "2026-11-19"
+url = "https://www.kuleuven.be/wieiswie/nl/person/00015875"
+archief = "https://web.archive.org/web/20241224110825/https://www.kuleuven.be/wieiswie/nl/person/00015875"
+
+[[bron]]
+nr = 19
+soort = "nieuws"
+uitgever = "VRT NWS"
+titel = "Zwangere vrouwen mogen prioritair gevaccineerd worden: 'Zelf melden aan huisarts'"
+datum = "2021-04-22"
+url = "https://www.vrt.be/vrtnws/nl/2021/02/27/coronavaccinatie-en-zwangere-vrouwen-nieuwste-gegevens-wijzen-o/"
+archief = "https://web.archive.org/web/20261014065936/https://www.vrt.be/vrtnws/nl/2021/02/27/coronavaccinatie-en-zwangere-vrouwen-nieuwste-gegevens-wijzen-o/"
+
+[[bron]]
+nr = 20
+soort = "nieuws"
+uitgever = "La Libre"
+titel = "Coronavirus en Belgique: un groupe des 10 pour préparer le déconfinement"
+datum = "2020-04-06"
+url = "https://www.lalibre.be/belgique/politique-belge/coronavirus-en-belgique-un-groupe-des-10-pour-preparer-le-deconfinement-5e8b682c9978e22841500438"
+archief = "https://web.archive.org/web/20210506170807/https://www.lalibre.be/belgique/politique-belge/coronavirus-en-belgique-un-groupe-des-10-pour-preparer-le-deconfinement-5e8b682c9978e22841500438"
+
+[[bron]]
+nr = 21
+soort = "bron"
+uitgever = "GEMS"
+titel = "Advies over de coronabarometer, met de lijst van leden"
+datum = "2022-01-14"
+url = "https://orbi.uliege.be/bitstream/2268/289649/2/Geannoteerd%20GEMS%20advies.pdf"
+archief = "https://web.archive.org/web/20240911124127/https://orbi.uliege.be/bitstream/2268/289649/2/Geannoteerd%20GEMS%20advies.pdf"
+
+[[bron]]
+nr = 22
+soort = "bron"
+uitgever = "Marc Van Ranst op X"
+titel = "Antwoord op de post van Elon Musk over de vervolging van Fauci"
+datum = "2022-12-11"
+url = "https://twitter.com/vanranstmarc/status/1602060359929569286"
+archief = "https://web.archive.org/web/20230523212536/https://twitter.com/vanranstmarc/status/1602060359929569286"
+
+[[bron]]
+nr = 23
+soort = "factcheck"
+uitgever = "Knack"
+titel = "Nee, de covidvaccins zijn geen chemische abortus (oordeel: onwaar)"
+datum = "2026-08-12"
+url = "https://www.knack.be/factcheck/factcheck-nee-de-covidvaccins-zijn-geen-chemische-abortus/"
+archief = "https://web.archive.org/web/20260904234603/https://www.knack.be/factcheck/factcheck-nee-de-covidvaccins-zijn-geen-chemische-abortus/"
+
+[[bron]]
+nr = 24
+soort = "nieuws"
+uitgever = "VRT NWS"
+titel = "Viroloog Marc Van Ranst: 'Tuurlijk wist ik dat gezochte militair Jürgen Conings maandagavond voor mijn deur stond'"
+datum = "2021-05-21"
+url = "https://www.vrt.be/vrtnws/nl/2021/05/21/marc-van-ranst-doelwit-conings/"
+archief = "https://web.archive.org/web/20260207062530/https://www.vrt.be/vrtnws/nl/2021/05/21/marc-van-ranst-doelwit-conings/"
+
+[[bron]]
+nr = 25
+soort = "nieuws"
+uitgever = "VRT NWS"
+titel = "Jürgen Conings verdween 5 jaar geleden"
+datum = "2026-05-17"
+url = "https://www.vrt.be/vrtnws/nl/2026/05/15/juergen-conings-5-jaar-later/"
+archief = "https://web.archive.org/web/20261115062120/https://www.vrt.be/vrtnws/nl/2026/05/15/juergen-conings-5-jaar-later/"

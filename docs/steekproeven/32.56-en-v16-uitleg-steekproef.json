@@ -1,0 +1,607 @@
+{
+ "toelichting": "Steekproeven bij de uitleg van lezer-v16 (PLAN #32.56, BENCHMARK §243), gelezen door deelagenten tegen wat de lezer zag van elke bron die de uitleg aanwijst (`gezien`, sinds §241 volledig), zonder pagina's te openen. `labels`: 60 willekeurige zinnen (zaad 3256) van de 135 die de nakijker (Haiku, `uitlegdekking`) *niet gedekt* noemde. `controle`: 60 willekeurige zinnen (zaad 3257) van de 748 die de nakijker *gedekt* noemde, blind gelezen (de lezer wist niet wat de nakijker zei), om te zien hoe vaak de nakijker te ruim is. De berichten zijn openbaar.",
+ "labels": [
+  {
+   "id": "W:wikinews:en:53854#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] De kern (VS waarschuwt voor aanslagen vanuit Somalië in Kenia en Ethiopië) staat in Wikinews; de datum en de ambassade in Nairobi komen uit het bericht en worden als de bewering herhaald."
+  },
+  {
+   "id": "O:gfc-469796948aeda1ca#1",
+   "label": "wel gedekt",
+   "reden": "Threads zegt 'he never said that', Musk spreekt elders juist optimistisch over water, en Grok en Slay News beschrijven een rondgaande video die de uitspraak aan Bill Gates toeschrijft."
+  },
+  {
+   "id": "W:wikinews:en:41505#3",
+   "label": "wel gedekt",
+   "reden": "Het persbericht van Justitie van 23 oktober 2006 noemt precies 12 punten effectenfraude, één punt handel met voorkennis, samenspanning en vijf punten valse verklaringen aan accountants."
+  },
+  {
+   "id": "W:wikinews:en:1471976#3",
+   "label": "wel gedekt",
+   "reden": "De Wikinews-categorie Sunshine Coast Rugby Union noemt het artikel 'Noosa defeat University in round 10'."
+  },
+  {
+   "id": "O:gfc-de73e8b473bbb9da#2",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De fragmenten van Indian Express en NDTV gaan over campagne voor 'upcoming assembly elections' in Madhya Pradesh en noemen inderdaad geen UGC-regels of 2026."
+  },
+  {
+   "id": "O:gfc-ed10e235895fdb11#1",
+   "label": "wel gedekt",
+   "reden": "Wikipedia bevestigt de protesten van de Cockroach Janta Party bij Jantar Mantar in 2026, en geen bron zegt iets over kussende mensen."
+  },
+  {
+   "id": "O:gfc-f8f38debbbdb5a28#1",
+   "label": "niet gedekt",
+   "reden": "Substack staat niet onder de bronnen: de versies staan op Medium, Threads en halfwaypost.com."
+  },
+  {
+   "id": "W:wikinews:en:54119#1",
+   "label": "wel gedekt",
+   "reden": "Business Standard (6 november 2006) en Wikinews melden de samenwerking voor 'electronic freight locomotives'; elektrisch is een kleine parafrase."
+  },
+  {
+   "id": "O:gfc-6cb2e44bd56a1f7f#2",
+   "label": "wel gedekt",
+   "reden": "Fazzler publiceerde het verhaal en op Reddit staat 'yes this is satire', wat het satirische karakter draagt."
+  },
+  {
+   "id": "O:gfc-d4915559127655cb#5",
+   "label": "wel gedekt",
+   "reden": "Vijf van de zes resultaten noemen september (Setyembre 9/10, 2026/09); Panay News noemt geen maand, maar geen enkele bron noemt augustus, dus 'alle' is een kleine overdrijving."
+  },
+  {
+   "id": "O:gfc-d21893e9792ba692#1",
+   "label": "niet gedekt",
+   "reden": "Dat het om een ijshockeywedstrijd gaat staat in geen bron (alleen 'Steeldogs vs Leeds Knights pre-season game'), en het zijn twee video's, niet één."
+  },
+  {
+   "id": "O:gfc-c5d2bbf6380ff2ca#3",
+   "label": "wel gedekt",
+   "reden": "Het NDTV-verslag van 2026 noemt andere thema's, en India Today toont het Ram Mandir-tableau van Uttar Pradesh op de parade van 2024."
+  },
+  {
+   "id": "W:wikinews:en:20169#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Wikinews meldt dat Turkse onderzoekers zestien extra personen met Zotob verbonden; de datum 29 augustus 2005 komt uit het bericht, dat dit Wikinews-artikel is."
+  },
+  {
+   "id": "O:gfc-2984c49b8a8f8c2e#3",
+   "label": "wel gedekt",
+   "reden": "The Guardian gaat over een rugoperatie in 2013 en Left Foot Forward over een andere nepafbeelding (Farage bij een ziek kind)."
+  },
+  {
+   "id": "W:wikinews:en:1208#5",
+   "label": "niet gedekt",
+   "reden": "Geen bron zegt iets over haar latere proces of hoe dat afliep; de bronnen gaan alleen over arrestatie en aanklacht."
+  },
+  {
+   "id": "W:wikinews:en:127576#6",
+   "label": "niet gedekt",
+   "reden": "Dat alleen de Australische versie 9 juni noemt klopt (Sydney 9 June, San Francisco June 8), maar de oorzaak 'wegens het tijdsverschil' staat in geen bron."
+  },
+  {
+   "id": "O:gfc-5acb7b74b8251274#1",
+   "label": "wel gedekt",
+   "reden": "AOL noemt de video misleidend en datum 19 oktober 2026, en Investment Watch meldt bouwvakkers buiten beeld naar wie Trump zwaaide."
+  },
+  {
+   "id": "W:wikinews:en:98670#1",
+   "label": "wel gedekt",
+   "reden": "Business Standard gaat over de kosten van de oorlog in Iran en Hegseth, een ander onderwerp dan het bericht uit 2008."
+  },
+  {
+   "id": "O:gfc-9996034338b65e2a#6",
+   "label": "wel gedekt",
+   "reden": "Deccan Herald schrijft dat Jon Stewart 'an AI pic' van Trump plaatste."
+  },
+  {
+   "id": "O:gfc-469796948aeda1ca#5",
+   "label": "wel gedekt",
+   "reden": "Tsarathustra op X: Musk zegt dat de aarde genoeg water heeft en dat ontzilting goedkoop is."
+  },
+  {
+   "id": "O:gfc-8a003c5f56386ab2#1",
+   "label": "niet gedekt",
+   "reden": "De ABC-video toont helikopterbeelden van de overstroming door de eigenaar van Kailash Journeys, niet van de berg Kailash; geen bron zegt dat er echte helikopterbeelden van de Kailash bestaan."
+  },
+  {
+   "id": "W:wikinews:en:8534#2",
+   "label": "wel gedekt",
+   "reden": "[bericht] Het Wikinews-fragment noemt Ancestral Domain en 'April 21, 2005'; dat de aankondiging op die dag viel, komt uit het bericht, dat dit Wikinews-artikel is."
+  },
+  {
+   "id": "O:gfc-f806a1502102c2ea#3",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De bronnen noemen geen patrouillemotoren (ETV Bharat spreekt van 'patrol vehicles') en geen gaat over deze video."
+  },
+  {
+   "id": "O:gfc-b33a60ec29420f5b#4",
+   "label": "wel gedekt",
+   "reden": "Spacexmania noemt alleen 'sources close to the actor' en het X-bericht noemt geen bron."
+  },
+  {
+   "id": "W:wikinews:en:8534#5",
+   "label": "wel gedekt",
+   "reden": "Al Jazeera meldt dat de ronde op vrijdag eindigde met een doorbraak over 'ancestral domain' en Philstar noemt woensdag; let op: het adres van Al Jazeera is van september 2005, een latere ronde."
+  },
+  {
+   "id": "O:gfc-6b0bfcd69108cae5#2",
+   "label": "niet gedekt",
+   "reden": "Geen bron zegt dat zulke video's echt zijn: de YouTube-video gaat over dieren die hun eigen jongen redden, Reddit over een AI-video en World Animal Protection over nepreddingen."
+  },
+  {
+   "id": "O:gfc-38329c43a0f9fd5f#2",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Het getoonde rapport van de Nepalese Auditor General (2021) bevat niets over 36 crore bij Inland Revenue, dus de afwezigheid klopt."
+  },
+  {
+   "id": "O:gfc-8ceb0353c6f9a9d5#1",
+   "label": "wel gedekt",
+   "reden": "Wikipedia en ScienceInsights noemen de citroen een hybride van citron (Citrus medica) en bittere sinaasappel, en Crop Trust zegt dat hij niet van nature voorkomt."
+  },
+  {
+   "id": "W:wikinews:en:618620#4",
+   "label": "wel gedekt",
+   "reden": "Het Wikinews-artikel over dag drie noemt Australische deelnemers (Cameron Rahles-Rahbula); 'berichten' in meervoud is een kleine overdrijving."
+  },
+  {
+   "id": "O:gfc-8166b32912f92a37#3",
+   "label": "wel gedekt",
+   "reden": "The Federal schrijft: 'Four men, claiming to be members of a right-wing outfit, were arrested'."
+  },
+  {
+   "id": "O:gfc-9cf0d5a570f2320b#3",
+   "label": "wel gedekt",
+   "reden": "Het X-bericht zegt dat de claims over broer en neef en 'condemned building flips' van een satirische Facebookpagina met verzonnen verhalen komen."
+  },
+  {
+   "id": "O:gfc-d5b9c3b3f9be6100#3",
+   "label": "niet gedekt",
+   "reden": "Jhenaidah staat in geen bron; NDTV noemt geen plaats bij de weduwe die aan een boom werd vastgebonden."
+  },
+  {
+   "id": "O:gfc-8ca23f4c9b9c07ae#2",
+   "label": "wel gedekt",
+   "reden": "Reuters (16 maart) en de BBC (15 maart) melden een Pakistaanse olietanker die door de Straat van Hormuz voer, zonder aanval."
+  },
+  {
+   "id": "O:gfc-026dfe18f6881679#1",
+   "label": "wel gedekt",
+   "reden": "Zamin meldt driverless trucks op 'certain highways' en CNBC dat de uitrol niet versnelt; over de video zelf zegt geen bron iets."
+  },
+  {
+   "id": "O:gfc-597197ded0285716#2",
+   "label": "wel gedekt",
+   "reden": "De FSAI noemt een terugroeping voor 'a number of EU countries, the UK and third countries' en specifieke batches, waaruit volgt dat het niet om alle landen gaat."
+  },
+  {
+   "id": "O:gfc-9cf0d5a570f2320b#4",
+   "label": "wel gedekt",
+   "reden": "Fox Business meldt dat Mamdani $70 miljoen vastlegde voor vijf stadssupermarkten en noemt geen familiezwendel."
+  },
+  {
+   "id": "WM:e61df5798cc3#3",
+   "label": "niet gedekt",
+   "reden": "Volgens de politie raakten 'around a dozen' mensen gewond; de 15 en 16 gewonden staan bij Euronews, Africanews en AP zonder de politie als bron."
+  },
+  {
+   "id": "W:wikinews:en:24797#2",
+   "label": "wel gedekt",
+   "reden": "[bericht] Mary Hanafin en 77,8% staan niet in het Wikinews-fragment maar wel in het bericht, dat dit Wikinews-artikel is; de 64.000 leerlingen noemt ook de Irish Examiner."
+  },
+  {
+   "id": "W:wikinews:en:618620#2",
+   "label": "wel gedekt",
+   "reden": "Wikidata geeft 12 december 2012 als datum van het Wikinews-artikel."
+  },
+  {
+   "id": "O:gfc-6f98d01277e85c31#5",
+   "label": "wel gedekt",
+   "reden": "Geen bron noemt een vast bedrag van £6.000; de bedragen verschillen per uitkering (Attendance Allowance tot £5.959, staatspensioen £12.547, Pension Credit) en per situatie."
+  },
+  {
+   "id": "WM:e61df5798cc3#2",
+   "label": "wel gedekt",
+   "reden": "De tweede Euronews-video toont mensen die vluchten op het Main Market Square van Kraków."
+  },
+  {
+   "id": "W:wikinews:en:11741#5",
+   "label": "wel gedekt",
+   "reden": "[bericht] De datum 14 juni 2005 staat niet in het fragment maar wel in het bericht, dat dit Wikinews-artikel is."
+  },
+  {
+   "id": "W:wikinews:en:113858#5",
+   "label": "wel gedekt",
+   "reden": "[bericht] De zin beschrijft het bericht zelf, dat inderdaad alleen de kop en een lijst van districten met partijen bevat."
+  },
+  {
+   "id": "O:gfc-f3995a9e508980b7#4",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De pagina's van de National Park Service bevatten niets over zo'n gebeurtenis."
+  },
+  {
+   "id": "O:gfc-f8f38debbbdb5a28#3",
+   "label": "wel gedekt",
+   "reden": "De BBC interviewt ex-agent Paul Eckloff, en de NYT en CNBC beschrijven Trumps gedrag in het presidentiële voertuig op 6 januari; het verhaal over zeven presidenten staat alleen op Medium en Threads."
+  },
+  {
+   "id": "O:gfc-bdde576c05e898eb#5",
+   "label": "wel gedekt",
+   "reden": "De WHO-handleiding zegt: 'Cook pork thoroughly (no pink should be seen) to kill the parasite'."
+  },
+  {
+   "id": "W:wikinews:en:131546#4",
+   "label": "niet gedekt",
+   "reden": "Dat Ricky Whittle in de halve finale stond, staat in geen bron; de BBC noemt alleen Ali Bastian in de halve finale en Craig Kelly in week acht."
+  },
+  {
+   "id": "O:gfc-1dd281cab3c5ce89#3",
+   "label": "wel gedekt",
+   "reden": "Newslaundry beschrijft een online campagne tegen vrouwen die Modi zouden hebben beledigd, en India Today accounts die video's van vrouwen die Modi bekritiseerden deelden."
+  },
+  {
+   "id": "O:gfc-6f98d01277e85c31#1",
+   "label": "wel gedekt",
+   "reden": "GB News noemt tot £5.959 per jaar aan Attendance Allowance voor gepensioneerden die zorg nodig hebben, en geen andere bron noemt een bedrag van £6.000 voor iedereen."
+  },
+  {
+   "id": "O:gfc-4cb80c1fdf527ec0#1",
+   "label": "wel gedekt",
+   "reden": "Het resultaat van defensie.nl is een toespraak over de oorlog in Oekraïne."
+  },
+  {
+   "id": "W:wikinews:en:107999#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Wikinews meldt de gedeeltelijke instorting op 11 juni en de waarschijnlijke sloop, en de datum 13 juni 2008 komt uit het bericht; 'driekwart' is een vertaalfout voor 'three-story', geen nieuw feit."
+  },
+  {
+   "id": "W:wikinews:en:2862121#5",
+   "label": "wel gedekt",
+   "reden": "De Wikinews-pagina Belfast heeft precies dezelfde beginregels als het bericht."
+  },
+  {
+   "id": "O:gfc-6cb2e44bd56a1f7f#3",
+   "label": "niet gedekt",
+   "reden": "NPR en CNBC spreken van 'dyed' en 'off-road' diesel; de kleur rood staat in geen bron."
+  },
+  {
+   "id": "O:gfc-c59f6827ae9be0fc#2",
+   "label": "wel gedekt",
+   "reden": "Het YouTube-resultaat heet 'FACT CHECK: Does Viral Video Show CJP Protestors Driving away Godi Media' en het fragment noemt geen uitkomst."
+  },
+  {
+   "id": "O:gfc-658d3ba94e809638#4",
+   "label": "wel gedekt",
+   "reden": "India Today (2016) meldt de eis van Netaji's familie en de RBI meldt alleen biljetten met de handtekening van de gouverneur."
+  },
+  {
+   "id": "W:wikinews:en:83104#1",
+   "label": "wel gedekt",
+   "reden": "De berichten van het Witte Huis en Arab News bevestigen het bezoek van Laura Bush aan Riyad op 23 oktober 2007 voor borstkankerbewustzijn."
+  },
+  {
+   "id": "O:gfc-8d320842bb5bab68#4",
+   "label": "wel gedekt",
+   "reden": "[geen feit] De getoonde pagina's van massie.house.gov gaan over andere onderwerpen en noemen geen onthulling."
+  },
+  {
+   "id": "O:gfc-8ee8644076f6e11e#1",
+   "label": "wel gedekt",
+   "reden": "Reuters (Tel Aviv, 9 en 10 maart), de Times of Israel (Jerusalem, Haifa, 19 maart) en Al Jazeera (10 maart) melden Iraanse raketaanvallen."
+  },
+  {
+   "id": "W:wikinews:en:77535#4",
+   "label": "wel gedekt",
+   "reden": "The American Naturalist schrijft dat de orchideeën mannetjeswespen verleiden tot 'copulation and inadvertent pollination'."
+  },
+  {
+   "id": "W:wikinews:en:4019#4",
+   "label": "wel gedekt",
+   "reden": "Het bericht houdt midden in een zin op, en de tekst die er staat is gelijk aan het Wikinews-fragment."
+  }
+ ],
+ "controle": [
+  {
+   "id": "O:gfc-cfee3df348471b6f#1",
+   "label": "wel gedekt",
+   "reden": "Ada Derana meldt dat de CID Sallay op 25 februari arresteerde over beschuldigingen rond de paasaanslagen van 2019."
+  },
+  {
+   "id": "O:gfc-1da39a6684d26fa8#4",
+   "label": "wel gedekt",
+   "reden": "DFRAC kopt dat de video vals beweert dat Singh Israëlisch-Amerikaanse aanvallen op Iran steunt, en Dailyhunt spreekt van 'altered audio'."
+  },
+  {
+   "id": "W:wikinews:en:63036#3",
+   "label": "wel gedekt",
+   "reden": "Space.com: de tweede testlancering haalde de beoogde baan niet, 'nearly one year to the day' na het mislukte debuut."
+  },
+  {
+   "id": "O:gfc-469796948aeda1ca#2",
+   "label": "wel gedekt",
+   "reden": "Slay News: posts bij de video beweren dat Gates waarschuwde dat meer dan een miljard mensen kunnen sterven door gebrek aan drinkwater."
+  },
+  {
+   "id": "O:gfc-31a61b9b92c87305#1",
+   "label": "wel gedekt",
+   "reden": "Reuters meldt dat de video bewerkt is om Obama vals af te schilderen, en de toespraak op de Witte Huis-site toont dat hij een ander standpunt beschreef."
+  },
+  {
+   "id": "W:wikinews:en:20964#2",
+   "label": "wel gedekt",
+   "reden": "De SMH noemt de indeling als categorie 4 door Tropical Storm Risk, de kracht vergelijkbaar met Katrina en zware regen en wind in zuidwest-Japan."
+  },
+  {
+   "id": "WM:4d23c1a05d52#4",
+   "label": "wel gedekt",
+   "reden": "NPR beschrijft mannen in het zwart met maskers die vuurwerk afschoten op politie in oproeruitrusting."
+  },
+  {
+   "id": "W:wikinews:en:82224#3",
+   "label": "wel gedekt",
+   "reden": "Wikipedia noemt de beurs de grootste vakbeurs voor boeken ter wereld, gemeten naar het aantal vertegenwoordigde uitgeverijen."
+  },
+  {
+   "id": "W:wikinews:en:15004#5",
+   "label": "wel gedekt",
+   "reden": "Medical News Today: 'This study was supported by an unrestricted research grant from Pfizer'."
+  },
+  {
+   "id": "W:wikinews:en:356056#2",
+   "label": "wel gedekt",
+   "reden": "De Wikinews-pagina in de bronnen noemt het Hof van Cassatie dat de bevindingen van de lagere rechtbanken bevestigde, en The Telegraph meldt dat het hoogste beroepshof de veroordeling bevestigde."
+  },
+  {
+   "id": "O:gfc-e736a34078af115c#4",
+   "label": "wel gedekt",
+   "reden": "Casemine, Forward Press en Jhuma Sen beschrijven een zaak over het verbod op en de verbeurdverklaring van Periyars boek, niet over een verklaring dat de Ramayana fictief is."
+  },
+  {
+   "id": "W:wikinews:en:7107#2",
+   "label": "wel gedekt",
+   "reden": "The Guardian: een Australische marinehelikopter stortte neer op het door de aardbeving verwoeste Nias, negen doden en twee gewonden."
+  },
+  {
+   "id": "W:wikinews:en:15004#4",
+   "label": "wel gedekt",
+   "reden": "Medscape: weinig verschil in klinische uitkomsten, 'despite longer hospital stays in Canada'."
+  },
+  {
+   "id": "O:gfc-9cf0d5a570f2320b#2",
+   "label": "wel gedekt",
+   "reden": "Eric F Gilbert schrijft dat er geen stadsdocumenten of geloofwaardige media zijn die dat tonen en dat geen plan van Mamdani familiepanden betreft."
+  },
+  {
+   "id": "W:wikinews:en:28642#3",
+   "label": "wel gedekt",
+   "reden": "De SMH meldt dat het rapport van de Staysafe-commissie van december vond dat het systeem tot onveilige reparaties leidde en moest worden opgeschort."
+  },
+  {
+   "id": "WM:ca3ea1133623#2",
+   "label": "wel gedekt",
+   "reden": "NPR: Eisenkot was de belangrijkste rivaal van Netanyahu en geen van beiden kreeg genoeg steun voor een meerderheid."
+  },
+  {
+   "id": "WM:22582da0cb6c#2",
+   "label": "wel gedekt",
+   "reden": "Clash Report geeft het citaat letterlijk, met 'contre le génocide à Gaza et contre l'annexion progressi[ve]'."
+  },
+  {
+   "id": "W:wikinews:en:120222#3",
+   "label": "wel gedekt",
+   "reden": "Wikipedia: 'His lieutenant governor Pat Quinn subsequently became governor of Illinois'."
+  },
+  {
+   "id": "O:gfc-5acb7b74b8251274#2",
+   "label": "wel gedekt",
+   "reden": "IBTimes: de clip ging op 19 oktober rond via het X-account Donk Media en toont zwaaien en een saluutachtig gebaar; The New Republic noemt het vertrek naar Kansas."
+  },
+  {
+   "id": "W:wikinews:en:4030#6",
+   "label": "wel gedekt",
+   "reden": "The Age meldt chaos in Victoria, schade in Tasmanië en stroomuitval in Sydney en zuidoost-Queensland."
+  },
+  {
+   "id": "O:gfc-e85078c85d7e2ad5#1",
+   "label": "wel gedekt",
+   "reden": "De Times of India meldt een 68-jarige priester van een tempel in Mahesh Nagar, Jaipur, die door aanwezigen in elkaar werd geslagen na het betasten van een vrouw, en gearresteerd werd."
+  },
+  {
+   "id": "O:gfc-f806a1502102c2ea#2",
+   "label": "wel gedekt",
+   "reden": "ETV Bharat: 'he drove patrol vehicles while launching the Singappen scheme'."
+  },
+  {
+   "id": "O:gfc-f3995a9e508980b7#2",
+   "label": "wel gedekt",
+   "reden": "Het citaat staat letterlijk bij Casper Planet ('Well it is, names/locations are made up'); de zin is wel een afgebroken stuk van een citaat."
+  },
+  {
+   "id": "O:gfc-e5ce218c8cf171ea#1",
+   "label": "wel gedekt",
+   "reden": "Snopes meldt dat Larry the Cable Guy zo'n uitspraak niet deed, en Cutting SFG noemt de post uit juni 2026."
+  },
+  {
+   "id": "O:gfc-09bce63cdaff8e26#3",
+   "label": "wel gedekt",
+   "reden": "NewsX: DiCaprio's naam komt in de Epstein-bestanden voor, maar factchecks vinden geen bewijs dat hem aan strafbare feiten verbindt."
+  },
+  {
+   "id": "WM:fef311c70c16#1",
+   "label": "wel gedekt",
+   "reden": "AFP via France 24 en AP noemen zes doden en minstens 15 gewonden, en Zetik noemt het hoofdplein en de drie lichamen die later volgden."
+  },
+  {
+   "id": "WM:687a650b4542#2",
+   "label": "wel gedekt",
+   "reden": "AOL: 'He has been accused of breach of trust and administration for personal gain'."
+  },
+  {
+   "id": "W:wikinews:en:341153#5",
+   "label": "wel gedekt",
+   "reden": "Wikinews meldt dat de sonde 'yesterday' viel en de andere bronnen dateren de val op zondag 15 januari 2012, dus 16 januari volgt direct, en het bericht zelf draagt die datum."
+  },
+  {
+   "id": "W:wikinews:en:1471976#2",
+   "label": "wel gedekt",
+   "reden": "Het artikel staat in de drie categoriepagina's van Wikinews over het seizoen 2014, over Noosa en over University."
+  },
+  {
+   "id": "O:gfc-de73e8b473bbb9da#3",
+   "label": "wel gedekt",
+   "reden": "Firstpost en de Times of India melden de protesten tegen de UGC-regels van 2026, en geen bron verbindt ze met de foto van de schoenenkrans."
+  },
+  {
+   "id": "W:wikinews:en:742923#3",
+   "label": "wel gedekt",
+   "reden": "De BBC: 366 stemmen voor, een meerderheid van 205, en 161 parlementsleden tegen."
+  },
+  {
+   "id": "W:wikinews:en:113524#3",
+   "label": "wel gedekt",
+   "reden": "Wikipedia: van 2004 tot 2019 vertegenwoordigde hij Hamilton Centre in het Lagerhuis van Canada."
+  },
+  {
+   "id": "W:wikinews:en:253596#1",
+   "label": "wel gedekt",
+   "reden": "CTV, gepubliceerd op dinsdag 29 maart 2011, en CBS melden een jaar cel voor Carol Schnuphase omdat ze haar 12-jarige zoon drugde om hem kanker te laten lijken hebben."
+  },
+  {
+   "id": "W:wikinews:en:742923#2",
+   "label": "wel gedekt",
+   "reden": "De site van het Britse parlement: 'MPs voted by 366 to 161 to approve the third reading of the Bill'."
+  },
+  {
+   "id": "O:gfc-dfc6ae3b99bb8641#5",
+   "label": "wel gedekt",
+   "reden": "HM Treasury: de Parliamentary and other Pensions Act geeft een pensioen gebaseerd op de helft van het salaris bij vertrek."
+  },
+  {
+   "id": "W:wikinews:en:16265#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Wikipedia en Londonist melden de politieoperatie en invallen aan Harrow Road in West-Londen op 22 juli 2005; alleen 'vrijdag' komt uit het bericht dat de zin bevestigt."
+  },
+  {
+   "id": "WM:687a650b4542#1",
+   "label": "wel gedekt",
+   "reden": "Bloomberg: Peña werd zaterdag aangeklaagd, een dag nadat de Senaat hem uit zijn ambt had gezet."
+  },
+  {
+   "id": "W:wikinews:en:21065#3",
+   "label": "wel gedekt",
+   "reden": "NBC News: toeschouwers vertrapten elkaar bij de ene deur, die gedeeltelijk door een stuk hout was geblokkeerd."
+  },
+  {
+   "id": "W:wikinews:en:107999#2",
+   "label": "wel gedekt",
+   "reden": "De categoriepagina van Wikinews: de brandweer werd op 11 juni naar 428 Jersey Avenue geroepen nadat bewoners 9-1-1 belden over een gedeeltelijk ingestort gebouw."
+  },
+  {
+   "id": "W:wikinews:en:18920#1",
+   "label": "niet gedekt",
+   "reden": "Dat het bericht een verkeerde arrestatiedatum noemt, wordt door de bronnen tegengesproken: El País noemt 23 juni 2005 als datum van de aanhouding door de Servische politie, dezelfde datum als het bericht, en geen bron noemt augustus 2005 als de maand van de aanhouding."
+  },
+  {
+   "id": "O:gfc-d278521b99078618#3",
+   "label": "wel gedekt",
+   "reden": "Alt News kopt dat de foto van Modi in de theetuin AI-gegenereerd is."
+  },
+  {
+   "id": "O:gfc-72f2dd0180e1bed3#2",
+   "label": "wel gedekt",
+   "reden": "Reuters: verspreide posts gaven een document met medische gebeurtenissen na de vaccinatie verkeerd weer."
+  },
+  {
+   "id": "W:wikinews:en:113858#4",
+   "label": "wel gedekt",
+   "reden": "CBC, The Star en Maclean's noemen Dolby de NDP-kandidaat in Elgin-Middlesex-London die zich later terugtrok."
+  },
+  {
+   "id": "O:gfc-33b71463413a4489#1",
+   "label": "wel gedekt",
+   "reden": "CBS meldt beide uitspraken van RFK Jr. over 'better' en de Cochrane-review, en Jake Scott noemt het misleidend."
+  },
+  {
+   "id": "W:wikinews:en:17098#1",
+   "label": "wel gedekt",
+   "reden": "CNN: een valse stempel in zijn paspoort en al twee jaar met een verlopen visum in Groot-Brittannië."
+  },
+  {
+   "id": "O:gfc-6bf5509522bd511e#2",
+   "label": "wel gedekt",
+   "reden": "Full Fact op X: 'Oxford City Council says it runs no such scheme'."
+  },
+  {
+   "id": "W:wikinews:en:4030#3",
+   "label": "wel gedekt",
+   "reden": "Wikinews: de hele oostkust door zware stormen getroffen, 'with at least one reported death'."
+  },
+  {
+   "id": "O:gfc-33b71463413a4489#5",
+   "label": "wel gedekt",
+   "reden": "CDC MMWR: een effectiviteit van 41% tegen griepgerelateerde ziekenhuisopname bij kinderen en adolescenten in 2025–26."
+  },
+  {
+   "id": "O:gfc-1aa95aabf18d8a05#1",
+   "label": "wel gedekt",
+   "reden": "The Guardian: CCTV vrijgegeven door Saoedi-Arabië toont het moment van de aanval op King Khalid International Airport."
+  },
+  {
+   "id": "W:wikinews:en:102155#3",
+   "label": "wel gedekt",
+   "reden": "France 24 en de BBC melden minstens 80 doden volgens de Tibetanen in ballingschap, en de BBC voegt toe 'far more than China claimed'."
+  },
+  {
+   "id": "O:gfc-9cf0d5a570f2320b#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Het verkopen en terugkopen is de bewering uit het bericht, en Eric F Gilbert en de post op X melden dat de verhalen uit satire komen en niet gedocumenteerd zijn."
+  },
+  {
+   "id": "O:gfc-f69e1778a48d6623#4",
+   "label": "wel gedekt",
+   "reden": "Aditya Raj Kaul citeert Yakovleff: Europa zou de Amerikaanse troepen wegsturen en niet in oorlog gaan met de VS, 'we don't have the means'."
+  },
+  {
+   "id": "O:gfc-b7b1e68ab72e370a#2",
+   "label": "wel gedekt",
+   "reden": "CNN citeert de brief van HHS: 'many pediatric vaccines have been investigated in clinical trials that included a placebo'."
+  },
+  {
+   "id": "WM:09ff87e63a23#1",
+   "label": "wel gedekt",
+   "reden": "De BBC: Tusk zei dat twee vrouwen en een man in het huis van de schutter werden gevonden toen het na de aanslag werd doorzocht."
+  },
+  {
+   "id": "WM:44c32abf4599#3",
+   "label": "wel gedekt",
+   "reden": "DW News: 'Armenian opposition figures have faced criminal charges over social media posts'."
+  },
+  {
+   "id": "W:wikinews:en:63036#4",
+   "label": "wel gedekt",
+   "reden": "Spaceflight Now kopt 'Falcon flies to space but misses orbit', en Wikipedia '2007 in spaceflight' meldt dat de lancering de baan niet haalde."
+  },
+  {
+   "id": "W:wikinews:en:120222#2",
+   "label": "wel gedekt",
+   "reden": "NYT en CBS: eerst een unanieme stemming om hem uit zijn ambt te zetten, daarna nogmaals 59-0 om hem uit openbare functies in Illinois te weren."
+  },
+  {
+   "id": "W:wikinews:en:44844#3",
+   "label": "wel gedekt",
+   "reden": "The Press Democrat: de weeklange shutdown die de 12 casino's van Atlantic City sloot, eindigde formeel zaterdag toen Corzine het compromis tekende."
+  },
+  {
+   "id": "O:gfc-0a6532228495c152#3",
+   "label": "wel gedekt",
+   "reden": "De kop van de Free Press Journal: de nepvideo werd 'Shared By Pakistani Journalist'."
+  },
+  {
+   "id": "W:wikinews:en:24868#2",
+   "label": "wel gedekt",
+   "reden": "DW en de LA Times: een door Koizumi benoemd panel adviseerde om vrouwen op de troon toe te laten."
+  }
+ ]
+}

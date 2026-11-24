@@ -1,0 +1,229 @@
+{
+ "toelichting": "Een voorstel van Claude (PLAN #37.5): de eigen check over het beeld van Ursula von der Leyen met Jeffrey Epstein en elke factcheck uit het archief over Epstein, zijn dood, de lijsten en de vrijgegeven stukken, Ghislaine Maxwell en wie met hen in verband werd gebracht, behalve vijf die Epstein alleen terloops noemen; zeven die het model nee noemde, gingen er na lezing toch in. De lezing staat in data/dossiers/epstein-stukken/claude-lezing.json. De PO las het dossier en gaf akkoord op 2026-11-19. Strenge keuze (SPECS E9.S7 AC10): de 74 beweringen die het vaakst rondgingen, hoogstens 25 per jaar, van de 123; de rest in data/dossiers/epstein-stukken/inkorten.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-19",
+ "factchecks": [
+  {
+   "nummer": "f585cbcdc944440b"
+  },
+  {
+   "nummer": "539ef83b7cb1f2d4"
+  },
+  {
+   "nummer": "bd075152345d62ad"
+  },
+  {
+   "nummer": "dd2724b143d0bd4b"
+  },
+  {
+   "nummer": "00a2583c50783c64"
+  },
+  {
+   "nummer": "0a15ef3bee47d233"
+  },
+  {
+   "nummer": "8be0b41688a641a3"
+  },
+  {
+   "nummer": "9c87ab18f4af4771"
+  },
+  {
+   "nummer": "70a2dd44e934b216"
+  },
+  {
+   "nummer": "9e27014eb2a6308a"
+  },
+  {
+   "nummer": "f3d616e1bad0de2d"
+  },
+  {
+   "nummer": "41c582666a528ae0"
+  },
+  {
+   "nummer": "d273de28f5cf9537"
+  },
+  {
+   "nummer": "40a085a95dea8486"
+  },
+  {
+   "nummer": "6b99cc9979c9fed0"
+  },
+  {
+   "nummer": "0fde9709ed0d98bb"
+  },
+  {
+   "nummer": "b08ff366edd8f94c"
+  },
+  {
+   "nummer": "a6fe68184d39f4d8"
+  },
+  {
+   "nummer": "de1e8ca854273cca"
+  },
+  {
+   "nummer": "1bde5326b15cd82a"
+  },
+  {
+   "nummer": "664e2d4f4d068cb3"
+  },
+  {
+   "nummer": "3b8a5c77d05c2733"
+  },
+  {
+   "nummer": "981d77b63dec36ab"
+  },
+  {
+   "nummer": "02b3417e3a718567"
+  },
+  {
+   "nummer": "0f67e44af2aae936"
+  },
+  {
+   "nummer": "a1d96c009851dd92"
+  },
+  {
+   "nummer": "23c9378c7f52c4b0"
+  },
+  {
+   "nummer": "6917eb42a8c98f92"
+  },
+  {
+   "nummer": "186a6aeffe2d49e0"
+  },
+  {
+   "nummer": "5cc6f6eace493a8b"
+  },
+  {
+   "nummer": "b889e8e5cce92041"
+  },
+  {
+   "nummer": "26570ffd00cb31f1"
+  },
+  {
+   "nummer": "8837316f79ad64d5"
+  },
+  {
+   "nummer": "028d1d2c2a82812a"
+  },
+  {
+   "nummer": "0a450404b329a50e"
+  },
+  {
+   "nummer": "1e29b2618d8eb539"
+  },
+  {
+   "nummer": "2c166b069497f2dc"
+  },
+  {
+   "nummer": "362ceab7c0bdf060"
+  },
+  {
+   "nummer": "4c79ec46cb71af05"
+  },
+  {
+   "nummer": "4df15c32da031e8a"
+  },
+  {
+   "nummer": "56b90a10e5f46ffe"
+  },
+  {
+   "nummer": "6635ab1786354809"
+  },
+  {
+   "nummer": "814e2a3e670c8ec0"
+  },
+  {
+   "nummer": "992e4a48a49eceaa"
+  },
+  {
+   "nummer": "af135cc86eba4520"
+  },
+  {
+   "nummer": "cb19adc491c696fe"
+  },
+  {
+   "nummer": "db5d9ec0b146121e"
+  },
+  {
+   "nummer": "dd49bd008ff19729"
+  },
+  {
+   "nummer": "f2618ba6732547ef"
+  },
+  {
+   "nummer": "f304d0ded4d0368c"
+  },
+  {
+   "nummer": "5b946e55371b2d61"
+  },
+  {
+   "nummer": "ca77836d9908197e"
+  },
+  {
+   "nummer": "086290838ee538c5"
+  },
+  {
+   "nummer": "0bb0d9be75151bd4"
+  },
+  {
+   "nummer": "2060161a4a28365f"
+  },
+  {
+   "nummer": "15ff6ead770e9dc4"
+  },
+  {
+   "nummer": "23338ee4c1d60e8c"
+  },
+  {
+   "nummer": "260da2c8e83f7896"
+  },
+  {
+   "nummer": "32c306f4eb7097ee"
+  },
+  {
+   "nummer": "5c01dd178d3524c9"
+  },
+  {
+   "nummer": "6526a4f128a72ffc"
+  },
+  {
+   "nummer": "68acff3b09b2950b"
+  },
+  {
+   "nummer": "792ddc420d6a0393"
+  },
+  {
+   "nummer": "7b30915140eb72d8"
+  },
+  {
+   "nummer": "88820fbad95473f7"
+  },
+  {
+   "nummer": "88d24ea7b1ddd5fc"
+  },
+  {
+   "nummer": "8a731dc254bce2c1"
+  },
+  {
+   "nummer": "8fb89b0341b985b7"
+  },
+  {
+   "nummer": "a69b50092c43d3f1"
+  },
+  {
+   "nummer": "ae7fc462efe64a5b"
+  },
+  {
+   "nummer": "d68b619dd4764af7"
+  },
+  {
+   "nummer": "e6984a24a8b77871"
+  },
+  {
+   "nummer": "e7d41d9f1bc3f4ad"
+  },
+  {
+   "nummer": "efec91367c556506"
+  }
+ ]
+}

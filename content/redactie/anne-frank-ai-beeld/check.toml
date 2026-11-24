@@ -1,0 +1,183 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/anne-frank-ai-beeld/dossier.md.
+
+sleutel = "anne-frank-ai-beeld"
+status = "gepubliceerd"
+taal = "nl"
+adres = "anne-frank-standbeeld-beklad-ai"
+adres_en = "anne-frank-statue-vandalised-ai"
+kop = "Beeld van een beklad standbeeld van Anne Frank is gemaakt met AI"
+oordeel = "onwaar"
+oordeel_zin = "Het beeld toont een standbeeld dat niet bestaat, en sinds augustus 2024 is er geen bekladding gemeld [5] [6]."
+soort = "ai"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "Het standbeeld van Anne Frank in Amsterdam is beklad."
+platform = "X"
+eerst_gezien = "2026-11-08"
+posts = 5
+
+kort = """
+Sinds 8 november gaat op X een beeld rond van een standbeeld van Anne Frank dat net beklad zou zijn [9]. Het beeld is \
+gemaakt met AI en toont een standbeeld dat niet bestaat [5]. Het echte beeld op het Merwedeplein in Amsterdam werd in \
+juli en augustus 2024 beklad, en sindsdien is er geen nieuwe bekladding gemeld [1] [6]."""
+
+tekst = """
+Amsterdam heeft twee standbeelden van Anne Frank. Het ene staat bij de Westerkerk, vlak bij het Anne Frank Huis. Het \
+andere staat op het Merwedeplein in de Rivierenbuurt, tegenover het huis waar de familie Frank van 1933 tot 1942 woonde. \
+Dat tweede beeld, van Jet Schepp, is een bronzen meisje met een schooltas dat omkijkt naar het plein, op een zuil \
+van roze steen [4].
+
+Dat beeld op het Merwedeplein is in 2024 twee keer beklad. Op 9 juli stond met rode verf "Gaza" op de sokkel, met rode \
+vlekken bij de voeten; het stadsdeel liet het dezelfde dag schoonmaken [3] [8]. In de nacht van 3 op 4 augustus volgde \
+"Free Gaza", en werden de handen van het beeld rood geverfd, precies 80 jaar na de arrestatie van de onderduikers uit \
+het Achterhuis [1] [2]. Die nacht werden in Amsterdam-Zuid minstens zes beelden beklad [2].
+
+Het beeld dat nu rondgaat, is iets anders. AAP FactCheck, de factcheckredactie van het Australische persbureau, vond \
+het op 6 november op Facebook en op X: een gemaskerde persoon die "Free Palestine" spuit op een standbeeld van Anne \
+Frank met een keffiyeh om [5]. Dat standbeeld lijkt op geen van de twee in Amsterdam. Op het bordje ernaast staat een \
+verkeerd citaat uit het dagboek, met een tikfout [5].
+
+Een nieuwe bekladding vonden we niet. Het Anne Frank Huis meldt niets over het beeld sinds augustus 2024 [7]. Toen de \
+burgemeester in september 2025 het cameratoezicht op het Merwedeplein verlengde, noemde de gemeente als reden alleen \
+de twee bekladdingen van 2024 [6]. AAP, die zelf naar recente bekladdingen zocht, vond ook alleen die van 2024 [5]."""
+
+niet_weten = """
+We weten niet wie het beeld maakte. Dat er in oktober en november 2026 geen bekladding was, leiden we af uit \
+berichten die er niet zijn, bij het Anne Frank Huis, de NOS en de gemeente. Berichten van de politie en het archief van Het \
+Parool hebben we niet doorzocht."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat het tweede beeld van het paar is. Is het een echte foto van 4 augustus 2024, gebracht als nieuw, dan past bij dat beeld eerder misleidend.",
+  "Of de politie of AT5 in oktober of november 2026 een bekladding van het beeld meldde. Die berichten hebben we niet doorzocht.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 8 november 2026, een van minstens vijf."
+alt = "Een met AI gemaakt beeld van een beklad standbeeld van Anne Frank. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2680/amsterdam-anne-frank-2"
+stempel = false
+bijschrift = "Het echte beeld op het Merwedeplein, van Jet Schepp, onthuld op 9 juli 2005. Nationaal Comité 4 en 5 mei."
+alt = "Het bronzen beeld van Anne Frank op het Merwedeplein in Amsterdam."
+
+[[tijdlijn]]
+datum = "2005-07-09"
+wat = "Het beeld van Jet Schepp op het Merwedeplein wordt onthuld [4]."
+
+[[tijdlijn]]
+datum = "2024-07-09"
+wat = "Eerste bekladding: 'Gaza' op de sokkel, dezelfde dag schoongemaakt [3]."
+
+[[tijdlijn]]
+datum = "2024-08-04"
+wat = "Tweede bekladding: 'Free Gaza' en rood geverfde handen [1]."
+
+[[tijdlijn]]
+datum = "2025-09-04"
+wat = "De burgemeester verlengt het cameratoezicht, met alleen de bekladdingen van 2024 als reden [6]."
+
+[[tijdlijn]]
+datum = "2026-11-06"
+wat = "Het AI-beeld staat op Facebook en op X [5]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+wat = "Minstens vijf posts op X brengen een beklad standbeeld als nieuws [9]."
+
+[[tijdlijn]]
+datum = "2026-11-18"
+wat = "AAP FactCheck: het beeld is met AI gemaakt [5]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Anne Frank Huis"
+titel = "Anne Frank statue defaced"
+datum = "2024-08-04"
+url = "https://www.annefrank.org/en/about-us/news-and-press/news/2024/8/4/anne-frank-statue-defaced/"
+archief = "https://web.archive.org/web/20250909180438/https://www.annefrank.org/en/about-us/news-and-press/news/2024/8/4/anne-frank-statue-defaced/"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Beeld Anne Frank en andere monumenten in Amsterdam beklad met 'Free Gaza'"
+datum = "2024-08-04"
+url = "https://nos.nl/artikel/2531752-beeld-anne-frank-in-amsterdam-opnieuw-beklad-met-rode-verf"
+archief = "https://web.archive.org/web/20250401213114/https://nos.nl/artikel/2531752-beeld-anne-frank-in-amsterdam-opnieuw-beklad-met-rode-verf"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "AT5"
+titel = "Beeld Anne Frank op Merwedeplein beklad met 'Gaza'"
+datum = "2024-07-09"
+url = "https://www.at5.nl/artikelen/227557/beeld-anne-frank-op-merwedeplein-beklad-met-gaza"
+archief = "https://web.archive.org/web/20251003081234/https://www.at5.nl/artikelen/227557/beeld-anne-frank-op-merwedeplein-beklad-met-gaza"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Nationaal Comité 4 en 5 mei"
+titel = "Amsterdam, 'Anne Frank' (2)"
+datum = "2026-11-18"
+url = "https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2680/amsterdam-anne-frank-2"
+archief = "https://web.archive.org/web/20261119140635/https://www.4en5mei.nl/oorlogsmonumenten/zoeken/2680/amsterdam-anne-frank-2"
+
+[[bron]]
+nr = 5
+soort = "factcheck"
+uitgever = "AAP FactCheck"
+titel = "Anne Frank statue graffiti image is an AI-generated fake"
+datum = "2026-11-18"
+url = "https://www.aap.com.au/factcheck/anne-frank-statue-graffiti-image-is-an-ai-generated-fake/"
+archief = "https://web.archive.org/web/20261119140800/https://www.aap.com.au/factcheck/anne-frank-statue-graffiti-image-is-an-ai-generated-fake/"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "Gemeente Amsterdam, Gemeenteblad 2025, nr. 389914"
+titel = "Aanwijzing cameragebied op en rondom het Merwedeplein"
+datum = "2025-09-05"
+url = "https://zoek.officielebekendmakingen.nl/gmb-2025-389914.html"
+archief = "https://web.archive.org/web/20261119140831/https://zoek.officielebekendmakingen.nl/gmb-2025-389914.html"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Anne Frank Huis"
+titel = "Nieuws en pers, bekeken op 18 november 2026"
+datum = "2026-11-18"
+url = "https://www.annefrank.org/nl/over-ons/nieuws-en-pers/nieuws/"
+archief = "https://web.archive.org/web/20261119141002/https://www.annefrank.org/nl/over-ons/nieuws-en-pers/nieuws/"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "NH Nieuws"
+titel = "Beeld Anne Frank beklad met 'Gaza'"
+datum = "2024-07-09"
+url = "https://www.nhnieuws.nl/nieuws/338175/beeld-anne-frank-beklad-met-gaza"
+archief = "https://web.archive.org/web/20240714015939/https://www.nhnieuws.nl/nieuws/338175/beeld-anne-frank-beklad-met-gaza"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "X"
+titel = "Vijf posts met het beeld, vanaf 8 november 2026"
+datum = "2026-11-08"
+prive = true
+archief = "https://web.archive.org/web/20261119141027/https://cdn.syndication.twimg.com/tweet-result?id=2119450259319337218&token=54yg6djiglj&lang=nl"

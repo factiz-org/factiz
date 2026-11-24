@@ -1,0 +1,813 @@
+{
+ "toelichting": "PLAN #32.38, stap 3: per check wat het oordeel van de redactie zegt, gelezen door Claude op 2026-11-04, zonder het antwoord van Haiku te volgen. Een categorie uit de vaste zeven; onbekend als het oordeel niet zegt welke. 'no evidence' en 'baseless' zijn onbewezen, zoals in de tabel van verdicts.py; met een weerlegging erbij onwaar. Eerst de proef van 50 (de eerste 50 van de vaste steekproef). Stap 3b: de 50 van de proef zijn de ontwikkelset; de toets van 100 is blind gelezen, alleen de bewering en het oordeel, vóór de antwoorden van v1 en v2 opgehaald waren. Een echt beeld met een andere plek of tijd is misleidend, tenzij de redactie 'False' schrijft; achterhaald is onbekend. Stap 3c: de 50 van sets.kopregel zijn gelezen met de bewering en het hele oordeel; 47 hebben een afwijzende eerste zin, 3 zijn 'Correct.' uit de algemene tabel (de trekking nam alle checks van Full Fact met een categorie). In het openbare repo zonder de tekst van de factchecks die Factiz zelf van de sites van redacties las; alleen hun id of link.",
+ "labels": {
+  "5359d8c722305937": {
+   "categorie": "onwaar"
+  },
+  "294713b25d1a8180": {
+   "categorie": "onbekend"
+  },
+  "7bb879f535f8455f": {
+   "categorie": "onwaar"
+  },
+  "bfa8f2ec1f50dfe5": {
+   "categorie": "onwaar"
+  },
+  "4d5359048eec872d": {
+   "categorie": "misleidend"
+  },
+  "0bc620df96f457c1": {
+   "categorie": "deels-waar"
+  },
+  "dcb2a29424560742": {
+   "categorie": "onwaar"
+  },
+  "8d911865e711ad35": {
+   "categorie": "onwaar"
+  },
+  "142d55dea2aa9b1f": {
+   "categorie": "onwaar"
+  },
+  "facef3dbd49cf01b": {
+   "categorie": "onwaar"
+  },
+  "a652b9f5d9c0108d": {
+   "categorie": "satire"
+  },
+  "b964d91abe0aa23f": {
+   "categorie": "onwaar"
+  },
+  "47e2eca2bfc86a94": {
+   "categorie": "deels-waar"
+  },
+  "f9dc9663a00903a7": {
+   "categorie": "onwaar"
+  },
+  "035ecd07a12c1d6f": {
+   "categorie": "onwaar"
+  },
+  "b18a217650cb4166": {
+   "categorie": "onbekend"
+  },
+  "318a3115117c6a29": {
+   "categorie": "onbewezen"
+  },
+  "d1cd34144e92f7d6": {
+   "categorie": "onwaar"
+  },
+  "0653e12e213db151": {
+   "categorie": "onbewezen"
+  },
+  "736812d033db248b": {
+   "categorie": "onwaar"
+  },
+  "a22708c60457ce05": {
+   "categorie": "deels-waar"
+  },
+  "f8d684bf8311efd6": {
+   "categorie": "onwaar"
+  },
+  "375744bea4d33f00": {
+   "categorie": "onwaar"
+  },
+  "c2579ab645235b0e": {
+   "categorie": "satire"
+  },
+  "a84e2e566de7518a": {
+   "categorie": "misleidend"
+  },
+  "84d9bc0a5eee91b6": {
+   "categorie": "misleidend"
+  },
+  "25ab39a96c642c5d": {
+   "categorie": "onwaar"
+  },
+  "aad850e1fab326d7": {
+   "categorie": "onwaar"
+  },
+  "7a2c04e2af11722c": {
+   "categorie": "misleidend"
+  },
+  "02a0fc8879e2699e": {
+   "categorie": "onbewezen"
+  },
+  "d25087606468afb9": {
+   "categorie": "onwaar"
+  },
+  "274d75de7b0010b4": {
+   "categorie": "onwaar"
+  },
+  "fdd49a6d669ee889": {
+   "categorie": "onbewezen"
+  },
+  "9101ecaad79fde00": {
+   "categorie": "onwaar"
+  },
+  "94d5df594da73ca8": {
+   "categorie": "onbewezen"
+  },
+  "313a0e7688bdd79a": {
+   "categorie": "onwaar"
+  },
+  "f132209a34b3effc": {
+   "categorie": "waar"
+  },
+  "9ea133c1842fb8b0": {
+   "categorie": "onwaar"
+  },
+  "f92235d119a46902": {
+   "categorie": "onwaar"
+  },
+  "174aaae15f27ebc4": {
+   "categorie": "onwaar"
+  },
+  "36c71b28d7e9973f": {
+   "categorie": "deels-waar"
+  },
+  "cbc977cebfc99bc4": {
+   "categorie": "onwaar"
+  },
+  "d3392f22cf93874e": {
+   "categorie": "onwaar"
+  },
+  "c7a721fad2c54211": {
+   "categorie": "onwaar"
+  },
+  "bcdb3d1d31ef5a47": {
+   "categorie": "onwaar"
+  },
+  "fcc4cbfd01ce081e": {
+   "categorie": "onbewezen"
+  },
+  "7497e4d6bacae64f": {
+   "categorie": "onwaar"
+  },
+  "e0c7ce82e8e52f98": {
+   "categorie": "onwaar"
+  },
+  "3fb9e5e7ffd50958": {
+   "categorie": "onwaar"
+  },
+  "62f7c270ff6d897b": {
+   "categorie": "onbewezen"
+  },
+  "4829a59e8b3496ff": {
+   "categorie": "onwaar"
+  },
+  "2fee7362582bf3e4": {
+   "categorie": "onwaar"
+  },
+  "384c7070d9320025": {
+   "categorie": "onwaar"
+  },
+  "690d9ddccf97fcbb": {
+   "categorie": "onwaar"
+  },
+  "20f228b127a6060a": {
+   "categorie": "onwaar"
+  },
+  "4fe9ebfb28c27149": {
+   "categorie": "onwaar"
+  },
+  "c1ca00caa3b499c6": {
+   "categorie": "onwaar"
+  },
+  "dfa7bdb02eeff009": {
+   "categorie": "misleidend"
+  },
+  "bd51fda6fa200738": {
+   "categorie": "onbewezen"
+  },
+  "7db95fbb213384d2": {
+   "categorie": "onwaar"
+  },
+  "fee82251e75faa38": {
+   "categorie": "onwaar"
+  },
+  "cd7c0894b3deb9d6": {
+   "categorie": "onwaar"
+  },
+  "1f94a01c993867a0": {
+   "categorie": "onbekend"
+  },
+  "8d7f53c634265d0a": {
+   "categorie": "onbekend"
+  },
+  "30fd03e1d9a2f761": {
+   "categorie": "misleidend"
+  },
+  "cb6b07e2291520b2": {
+   "categorie": "deels-waar"
+  },
+  "e490ca9bbbd0567e": {
+   "categorie": "misleidend"
+  },
+  "e15f5f0a07de8fa5": {
+   "categorie": "onwaar"
+  },
+  "006eb8a6b0b3e3da": {
+   "categorie": "onwaar"
+  },
+  "2d6a13a54e8955a6": {
+   "categorie": "onwaar"
+  },
+  "04dfe20bf0fcf019": {
+   "categorie": "onwaar"
+  },
+  "f8c56614cb3bc152": {
+   "categorie": "onwaar"
+  },
+  "8e4efff1d001a1a7": {
+   "categorie": "misleidend"
+  },
+  "f93729b1fa40d0ec": {
+   "categorie": "onwaar"
+  },
+  "9da0a4125b47cbec": {
+   "categorie": "onwaar"
+  },
+  "a2c2a95de80287c8": {
+   "categorie": "misleidend"
+  },
+  "e2fb3f47a839e556": {
+   "categorie": "onwaar"
+  },
+  "91bc240206823bf7": {
+   "categorie": "onwaar"
+  },
+  "7611b2fd8e89f1e5": {
+   "categorie": "onwaar"
+  },
+  "42a00fae3920fad3": {
+   "categorie": "onwaar"
+  },
+  "5408e0d48e6a4a21": {
+   "categorie": "onwaar"
+  },
+  "4ed8fd03f5e6b88e": {
+   "categorie": "onwaar"
+  },
+  "282cc93135663f04": {
+   "categorie": "misleidend"
+  },
+  "3034d225bd12ad33": {
+   "categorie": "onwaar"
+  },
+  "a1570edf4dc21750": {
+   "categorie": "onwaar"
+  },
+  "3fe46f51af4b1fa4": {
+   "categorie": "onbewezen"
+  },
+  "a5a2fa58b6e1d662": {
+   "categorie": "misleidend"
+  },
+  "ebea46a4a98f8c4c": {
+   "categorie": "satire"
+  },
+  "8fa5f1d3fe3f0b8e": {
+   "categorie": "onbekend"
+  },
+  "9af9a17bd0afde4e": {
+   "categorie": "onwaar"
+  },
+  "b22eab9bee8ef92e": {
+   "categorie": "onbewezen"
+  },
+  "67e238cae3daaf5a": {
+   "categorie": "deels-waar"
+  },
+  "125ce9a3b4472b31": {
+   "categorie": "onwaar"
+  },
+  "659167bfe6bd2849": {
+   "categorie": "onwaar"
+  },
+  "e58005a3dcf16dfd": {
+   "categorie": "onwaar"
+  },
+  "1495da66d7853cf5": {
+   "categorie": "onwaar"
+  },
+  "55069d6df67c3ae9": {
+   "categorie": "misleidend"
+  },
+  "8210c2f7424ad178": {
+   "categorie": "onwaar"
+  },
+  "44f2ee4985d3812a": {
+   "categorie": "misleidend"
+  },
+  "06a0feff942bca2c": {
+   "categorie": "onbekend"
+  },
+  "61c558eed8b41665": {
+   "categorie": "onbekend"
+  },
+  "b621c29a26199e89": {
+   "categorie": "satire"
+  },
+  "19f2bad9be14358f": {
+   "categorie": "waar"
+  },
+  "3d9cf4f6bf2fd2b0": {
+   "categorie": "onwaar"
+  },
+  "89975aa089876827": {
+   "categorie": "onwaar"
+  },
+  "a6e795ba70e1afa1": {
+   "categorie": "misleidend"
+  },
+  "afdcbae5e9a4eef8": {
+   "categorie": "deels-waar"
+  },
+  "e62f8de8dd61b7e1": {
+   "categorie": "onwaar"
+  },
+  "53208d4372fecdc3": {
+   "categorie": "onwaar"
+  },
+  "4b68a68b9378e2ba": {
+   "categorie": "misleidend"
+  },
+  "280ed3a234b46eb6": {
+   "categorie": "deels-waar"
+  },
+  "a8538e63b4264089": {
+   "categorie": "onwaar"
+  },
+  "6249b209c3d00349": {
+   "categorie": "onwaar"
+  },
+  "18fc7c139c5720a3": {
+   "categorie": "misleidend"
+  },
+  "04322c62508b194c": {
+   "categorie": "onwaar"
+  },
+  "ca58ae942fec3d2b": {
+   "categorie": "onwaar"
+  },
+  "f0179bcaef280caa": {
+   "categorie": "misleidend"
+  },
+  "44f359886e316d46": {
+   "categorie": "misleidend"
+  },
+  "e290a5cec3025dee": {
+   "categorie": "misleidend"
+  },
+  "acabe1764556dc96": {
+   "categorie": "onwaar"
+  },
+  "d2162a1d196c8820": {
+   "categorie": "onwaar"
+  },
+  "71118814e06fc9d2": {
+   "categorie": "waar"
+  },
+  "3df3c8fe990863e2": {
+   "categorie": "satire"
+  },
+  "7b419ad7bed02b76": {
+   "categorie": "onwaar"
+  },
+  "398009e6aa18d18b": {
+   "categorie": "onbewezen"
+  },
+  "bfd378be8c6eebfa": {
+   "categorie": "onwaar"
+  },
+  "f9109c91cf4cbf52": {
+   "categorie": "onbewezen"
+  },
+  "b67a3ff0624cfc78": {
+   "categorie": "onwaar"
+  },
+  "befa2cf580f2ca5f": {
+   "categorie": "onwaar"
+  },
+  "1fd6786286b2ad55": {
+   "categorie": "onwaar"
+  },
+  "f4ec1e2a4c09847e": {
+   "categorie": "onwaar"
+  },
+  "c866b58496012d9c": {
+   "categorie": "onwaar"
+  },
+  "94d7bf5a3042a96c": {
+   "categorie": "onbekend"
+  },
+  "8a50ea8f475095c4": {
+   "categorie": "onwaar"
+  },
+  "1eee48fcf795dcb5": {
+   "categorie": "onwaar"
+  },
+  "1f20c46ed9ff853c": {
+   "categorie": "onwaar"
+  },
+  "426bb562f0f3a28f": {
+   "categorie": "misleidend"
+  },
+  "79906d817280b05e": {
+   "categorie": "onbewezen"
+  },
+  "c8f4b6f9e9bd473c": {
+   "categorie": "onbekend"
+  },
+  "10209d668409047b": {
+   "categorie": "onwaar"
+  },
+  "ec82d28defd6f46e": {
+   "categorie": "onwaar"
+  },
+  "f8f3462edfcf0b49": {
+   "categorie": "misleidend"
+  },
+  "ecdd27ee5e72a83c": {
+   "categorie": "waar"
+  },
+  "c7653a89f8d78f99": {
+   "categorie": "onwaar"
+  },
+  "e2847fcf84c9e60a": {
+   "categorie": "misleidend"
+  },
+  "4e806c5be93d57ee": {
+   "categorie": "onwaar"
+  },
+  "24aa6a61154300d4": {
+   "categorie": "onwaar"
+  },
+  "1411492cadae4ab9": {
+   "categorie": "onwaar"
+  },
+  "dca0011cb48efd46": {
+   "categorie": "onwaar"
+  },
+  "fc415f0f6bd205d1": {
+   "categorie": "deels-waar"
+  },
+  "7f1c683ea20a7833": {
+   "categorie": "waar"
+  },
+  "d096a84ed9f1bcb8": {
+   "categorie": "onwaar"
+  },
+  "de2e34ee9881fbf9": {
+   "categorie": "onwaar"
+  },
+  "17d51147d94b80dc": {
+   "categorie": "onwaar"
+  },
+  "1d793ae3e1237593": {
+   "categorie": "onwaar"
+  },
+  "06285917325d8a65": {
+   "categorie": "onwaar"
+  },
+  "d52c6f219f5b0967": {
+   "categorie": "onwaar"
+  },
+  "2f0429d85d94f1b7": {
+   "categorie": "onwaar"
+  },
+  "232dc8b190b78511": {
+   "categorie": "onwaar"
+  },
+  "e09573788ea7b614": {
+   "categorie": "onwaar"
+  },
+  "d942a8cc4488100f": {
+   "categorie": "onwaar"
+  },
+  "c295cc9abd88fadb": {
+   "categorie": "onwaar"
+  },
+  "712430163820b648": {
+   "categorie": "onwaar"
+  },
+  "9eb4f7496792c72a": {
+   "categorie": "onwaar"
+  },
+  "83c97067329a294a": {
+   "categorie": "onwaar"
+  },
+  "9b0a5e85acb68352": {
+   "categorie": "onwaar"
+  },
+  "cf43bbf40c0150e3": {
+   "categorie": "onwaar"
+  },
+  "2e6f7b6569170abc": {
+   "categorie": "onwaar"
+  },
+  "576f77082752613a": {
+   "categorie": "onwaar"
+  },
+  "1aa570add8945723": {
+   "categorie": "onwaar"
+  },
+  "36e01ed3a84f2b06": {
+   "categorie": "onwaar"
+  },
+  "f79b1e4d5320f2ef": {
+   "categorie": "onwaar"
+  },
+  "7482b026854f93ad": {
+   "categorie": "onwaar"
+  },
+  "f2018a7169405058": {
+   "categorie": "onwaar"
+  },
+  "2b6f97b4f8536877": {
+   "categorie": "onwaar"
+  },
+  "d7b5ff93446f4b0b": {
+   "categorie": "onwaar"
+  },
+  "d39241ceb9474d12": {
+   "categorie": "onwaar"
+  },
+  "84f07ff54b5c3ad2": {
+   "categorie": "onwaar"
+  },
+  "487b125513e78548": {
+   "categorie": "onwaar"
+  },
+  "3cc2ecd7e0c8bbb1": {
+   "categorie": "onwaar"
+  },
+  "6fb0365f01ed2c82": {
+   "categorie": "onwaar"
+  },
+  "8052db402177047a": {
+   "categorie": "onwaar"
+  },
+  "9023fd534c968435": {
+   "categorie": "onwaar"
+  },
+  "e3ce7bf81fcfe8df": {
+   "categorie": "onwaar"
+  },
+  "e7b5aa0731e8b01d": {
+   "categorie": "onwaar"
+  },
+  "31b286640bfac7ac": {
+   "categorie": "onwaar"
+  },
+  "2e1b939659063f8b": {
+   "categorie": "waar"
+  },
+  "1c61bf0ef68a8a4e": {
+   "categorie": "onwaar"
+  },
+  "0b53cc82660698da": {
+   "categorie": "onwaar"
+  },
+  "6f8852f1711e9c63": {
+   "categorie": "onwaar"
+  },
+  "8345024584ef8f93": {
+   "categorie": "onwaar"
+  },
+  "84f0b096db61fdf4": {
+   "categorie": "onwaar"
+  },
+  "51744bb83541db2a": {
+   "categorie": "onwaar"
+  },
+  "d211440ce1ee2748": {
+   "categorie": "waar"
+  },
+  "bc2e76263188fd67": {
+   "categorie": "onwaar"
+  },
+  "5ec42dd4edad1d5a": {
+   "categorie": "onwaar"
+  },
+  "2a91e545a5e17a6c": {
+   "categorie": "onwaar"
+  },
+  "7d8d3dfec2ee5ed8": {
+   "categorie": "onwaar"
+  },
+  "d5fd8f6dabcdde6f": {
+   "categorie": "onwaar"
+  },
+  "d00482e1016a1bd1": {
+   "categorie": "onwaar"
+  }
+ },
+ "sets": {
+  "ontwikkel": [
+   "02a0fc8879e2699e",
+   "035ecd07a12c1d6f",
+   "0653e12e213db151",
+   "0bc620df96f457c1",
+   "142d55dea2aa9b1f",
+   "174aaae15f27ebc4",
+   "25ab39a96c642c5d",
+   "274d75de7b0010b4",
+   "294713b25d1a8180",
+   "313a0e7688bdd79a",
+   "318a3115117c6a29",
+   "36c71b28d7e9973f",
+   "375744bea4d33f00",
+   "3fb9e5e7ffd50958",
+   "47e2eca2bfc86a94",
+   "4d5359048eec872d",
+   "5359d8c722305937",
+   "62f7c270ff6d897b",
+   "736812d033db248b",
+   "7497e4d6bacae64f",
+   "7a2c04e2af11722c",
+   "7bb879f535f8455f",
+   "84d9bc0a5eee91b6",
+   "8d911865e711ad35",
+   "9101ecaad79fde00",
+   "94d5df594da73ca8",
+   "9ea133c1842fb8b0",
+   "a22708c60457ce05",
+   "a652b9f5d9c0108d",
+   "a84e2e566de7518a",
+   "aad850e1fab326d7",
+   "b18a217650cb4166",
+   "b964d91abe0aa23f",
+   "bcdb3d1d31ef5a47",
+   "bfa8f2ec1f50dfe5",
+   "c2579ab645235b0e",
+   "c7a721fad2c54211",
+   "cbc977cebfc99bc4",
+   "d1cd34144e92f7d6",
+   "d25087606468afb9",
+   "d3392f22cf93874e",
+   "dcb2a29424560742",
+   "e0c7ce82e8e52f98",
+   "f132209a34b3effc",
+   "f8d684bf8311efd6",
+   "f92235d119a46902",
+   "f9dc9663a00903a7",
+   "facef3dbd49cf01b",
+   "fcc4cbfd01ce081e",
+   "fdd49a6d669ee889"
+  ],
+  "toets": [
+   "4829a59e8b3496ff",
+   "2fee7362582bf3e4",
+   "384c7070d9320025",
+   "690d9ddccf97fcbb",
+   "20f228b127a6060a",
+   "4fe9ebfb28c27149",
+   "c1ca00caa3b499c6",
+   "dfa7bdb02eeff009",
+   "bd51fda6fa200738",
+   "7db95fbb213384d2",
+   "fee82251e75faa38",
+   "cd7c0894b3deb9d6",
+   "1f94a01c993867a0",
+   "8d7f53c634265d0a",
+   "30fd03e1d9a2f761",
+   "cb6b07e2291520b2",
+   "e490ca9bbbd0567e",
+   "e15f5f0a07de8fa5",
+   "006eb8a6b0b3e3da",
+   "2d6a13a54e8955a6",
+   "04dfe20bf0fcf019",
+   "f8c56614cb3bc152",
+   "8e4efff1d001a1a7",
+   "f93729b1fa40d0ec",
+   "9da0a4125b47cbec",
+   "a2c2a95de80287c8",
+   "e2fb3f47a839e556",
+   "91bc240206823bf7",
+   "7611b2fd8e89f1e5",
+   "42a00fae3920fad3",
+   "5408e0d48e6a4a21",
+   "4ed8fd03f5e6b88e",
+   "282cc93135663f04",
+   "3034d225bd12ad33",
+   "a1570edf4dc21750",
+   "3fe46f51af4b1fa4",
+   "a5a2fa58b6e1d662",
+   "ebea46a4a98f8c4c",
+   "8fa5f1d3fe3f0b8e",
+   "9af9a17bd0afde4e",
+   "b22eab9bee8ef92e",
+   "67e238cae3daaf5a",
+   "125ce9a3b4472b31",
+   "659167bfe6bd2849",
+   "e58005a3dcf16dfd",
+   "1495da66d7853cf5",
+   "55069d6df67c3ae9",
+   "8210c2f7424ad178",
+   "44f2ee4985d3812a",
+   "06a0feff942bca2c",
+   "61c558eed8b41665",
+   "b621c29a26199e89",
+   "19f2bad9be14358f",
+   "3d9cf4f6bf2fd2b0",
+   "89975aa089876827",
+   "a6e795ba70e1afa1",
+   "afdcbae5e9a4eef8",
+   "e62f8de8dd61b7e1",
+   "53208d4372fecdc3",
+   "4b68a68b9378e2ba",
+   "280ed3a234b46eb6",
+   "a8538e63b4264089",
+   "6249b209c3d00349",
+   "18fc7c139c5720a3",
+   "04322c62508b194c",
+   "ca58ae942fec3d2b",
+   "f0179bcaef280caa",
+   "44f359886e316d46",
+   "e290a5cec3025dee",
+   "acabe1764556dc96",
+   "d2162a1d196c8820",
+   "71118814e06fc9d2",
+   "3df3c8fe990863e2",
+   "7b419ad7bed02b76",
+   "398009e6aa18d18b",
+   "bfd378be8c6eebfa",
+   "f9109c91cf4cbf52",
+   "b67a3ff0624cfc78",
+   "befa2cf580f2ca5f",
+   "1fd6786286b2ad55",
+   "f4ec1e2a4c09847e",
+   "c866b58496012d9c",
+   "94d7bf5a3042a96c",
+   "8a50ea8f475095c4",
+   "1eee48fcf795dcb5",
+   "1f20c46ed9ff853c",
+   "426bb562f0f3a28f",
+   "79906d817280b05e",
+   "c8f4b6f9e9bd473c",
+   "10209d668409047b",
+   "ec82d28defd6f46e",
+   "f8f3462edfcf0b49",
+   "ecdd27ee5e72a83c",
+   "c7653a89f8d78f99",
+   "e2847fcf84c9e60a",
+   "4e806c5be93d57ee",
+   "24aa6a61154300d4",
+   "1411492cadae4ab9",
+   "dca0011cb48efd46",
+   "fc415f0f6bd205d1"
+  ],
+  "kopregel": [
+   "7f1c683ea20a7833",
+   "d096a84ed9f1bcb8",
+   "de2e34ee9881fbf9",
+   "17d51147d94b80dc",
+   "1d793ae3e1237593",
+   "06285917325d8a65",
+   "d52c6f219f5b0967",
+   "2f0429d85d94f1b7",
+   "232dc8b190b78511",
+   "e09573788ea7b614",
+   "d942a8cc4488100f",
+   "c295cc9abd88fadb",
+   "712430163820b648",
+   "9eb4f7496792c72a",
+   "83c97067329a294a",
+   "9b0a5e85acb68352",
+   "cf43bbf40c0150e3",
+   "2e6f7b6569170abc",
+   "576f77082752613a",
+   "1aa570add8945723",
+   "36e01ed3a84f2b06",
+   "f79b1e4d5320f2ef",
+   "7482b026854f93ad",
+   "f2018a7169405058",
+   "2b6f97b4f8536877",
+   "d7b5ff93446f4b0b",
+   "d39241ceb9474d12",
+   "84f07ff54b5c3ad2",
+   "487b125513e78548",
+   "3cc2ecd7e0c8bbb1",
+   "6fb0365f01ed2c82",
+   "8052db402177047a",
+   "9023fd534c968435",
+   "e3ce7bf81fcfe8df",
+   "e7b5aa0731e8b01d",
+   "31b286640bfac7ac",
+   "2e1b939659063f8b",
+   "1c61bf0ef68a8a4e",
+   "0b53cc82660698da",
+   "6f8852f1711e9c63",
+   "8345024584ef8f93",
+   "84f0b096db61fdf4",
+   "51744bb83541db2a",
+   "d211440ce1ee2748",
+   "bc2e76263188fd67",
+   "5ec42dd4edad1d5a",
+   "2a91e545a5e17a6c",
+   "7d8d3dfec2ee5ed8",
+   "d5fd8f6dabcdde6f",
+   "d00482e1016a1bd1"
+  ]
+ }
+}

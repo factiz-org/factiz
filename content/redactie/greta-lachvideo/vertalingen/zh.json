@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg 在一部紀錄片中對氣候示威哈哈大笑,她在片中稱此類抗議成效不彰",
+  "oordeel_zin": "該片段屬實,出自 Hubertus Koch 的紀錄片,Thunberg 在片中說她認為傳統示威成效不彰;她仍在為氣候發聲 [1] [7] [11]。",
+  "bewering": "Greta Thunberg 在得知她創立的氣候變遷團體 Fridays for Future 仍在抗議時歇斯底里地大笑:「他們還在做這種事?」",
+  "kort": "自11月11日起,X 上有貼文分享一段 Greta Thunberg 聽說柏林有 Fridays for Future 示威而大笑的片段,部分貼文將其說成她嘲笑氣候抗議者 [2] [3] [4]。該片段屬實,出自 Hubertus Koch 的紀錄片,該片自10月28日起在 YouTube 上架 [1] [5]。她在片中稱傳統示威成效不彰,而她仍在為氣候發聲 [6] [7] [11]。",
+  "tekst": "11月11日德國時間10時20分,X 上一個匿名帳號發布了這段27秒的片段 [4]。當天晚上,專欄作家 Jan Fleischhauer 分享了同一段影片,並問:如果 Thunberg 對仍在為氣候示威的人笑得前仰後合,Friedrich Merz 為何還要搭機前往氣候峰會 [3]。New York Post 於11月12日發文報導 [2]。\n\n該片段出自一部長91分鐘的紀錄片,內容關於氣候運動及其遭遇的國家打壓,由德國電影人 Hubertus Koch 於10月28日上傳至 YouTube [1] [9]。\n\nKoch 在柏林一間巴勒斯坦餐廳與 Thunberg 及她的兩位朋友見面 [1] [5]。大約在第六分鐘,他說他們在 Fridays for Future 示威當天見面頗具象徵意義 [1] [9]。Thunberg 問:「是嗎?」,然後笑著問:「真的嗎?他們還在做這種事?」[9]。接著她要求喊停 [1] [5]。這一幕之後,Koch 的旁白說,她已受夠了那種看得見、但在她看來不夠一貫的抗議 [1]。\n\nKoch 後來表示,她的笑是針對傳統示威是否還有成效,而不是針對那些人 [6] [8]。Thunberg 在 Instagram 上寫道,那天她和其他行動者封鎖了一家軍火製造商,之後才得知有一場經警方許可的氣候示威 [8] [9]。Fridays for Future 德國分部因她對中東問題的言論而與她劃清界線 [7] [12]。\n\n11月她出席了在安塔利亞舉行的 COP31 氣候峰會,她在會上批評談判虛偽,並說「我們所愛的一切和所有人都岌岌可危」[11]。該片在 Fridays for Future 於11月13日在德國70多個城市舉行抗議之前,已上線兩週多 [1] [10]。\n\n波蘭的 Demagog 與義大利的 Open 也在11月16日得出結論,認為該片段被抽離脈絡 [12] [13]。",
+  "niet_weten": "我們不知道 Koch 與 Thunberg 是在哪一天見面的 [1] [5]。沒有人能確定一個笑代表什麼;我們只依據她在片中的話,以及她和 Koch 事後所說的內容 [8] [9]。",
+  "bereik": "我們在11月23日查閱的八則英文、德文和日文貼文共獲得139,805個讚;僅 New York Post 那則貼文就有82,003個",
+  "nog_uitzoeken": [
+   "Koch 與 Thunberg 是在柏林的哪一天見面,以及她那天封鎖的是哪一家軍火製造商。其中一個可能是2026年7月對 Rheinmetall 柏林辦事處的封鎖行動。",
+   "我們在「缺乏背景脈絡」與「具誤導性」之間斟酌過。那一笑和那句問話都是真的,因此判為缺乏背景脈絡;而說她嘲笑氣候運動或已放棄氣候議題的貼文,超出了她在片中的話所能支持的範圍。如果您知道更多,請告訴我們。"
+  ],
+  "tijdlijn": [
+   "Hubertus Koch 將該片上傳至 YouTube [1]。",
+   "我們找到的最早一則附有該片段的貼文出現在 X 上 [4]。",
+   "Jan Fleischhauer 分享該片段,並提出一個關於 Friedrich Merz 的問題 [3]。",
+   "Al Jazeera 從安塔利亞的 COP31 報導:Thunberg 批評該峰會虛偽 [11]。",
+   "Stuttgarter Zeitung 報導該場景的拍攝地點;New York Post 在 X 上發文談及此事 [2] [5]。",
+   "20 Minuten 與 AFP:Koch 稱該片段被抽離脈絡 [6]。",
+   "Fridays for Future 在德國70多個城市舉行抗議,柏林約有700人參加 [10]。",
+   "leinetal24 報導 Thunberg 的 Instagram 貼文:那天她封鎖了一家軍火製造商 [8]。",
+   "Demagog 與 Open:該片段被抽離脈絡 [12] [13]。"
+  ],
+  "beeld_bijschrift": [
+   "New York Post 在 X 上的貼文,2026年11月12日 17:35 UTC。",
+   "Hubertus Koch 在 YouTube 上的《Auf Panzern in die Klimakrise》,2026年10月28日:該場景約從 6:19 開始。"
+  ],
+  "beeld_alt": [
+   "New York Post 在 X 上的貼文,稱 Greta Thunberg 在得知 Fridays for Future 仍在抗議時歇斯底里地大笑,附兩張 Thunberg 大笑的截圖,其中一張她用手摀著嘴。印章:缺乏背景脈絡。",
+   "Hubertus Koch 在 YouTube 上的紀錄片。"
+  ]
+ }
+}

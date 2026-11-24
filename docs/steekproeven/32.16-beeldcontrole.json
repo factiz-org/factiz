@@ -1,0 +1,335 @@
+{
+ "_meta": "Labels van het beeld in de nieuwe controle (PLAN #32.16), 2026-10-30, gelezen door Claude. Per bericht en arm: bij N een rood of oranje zonder de eigen check als bron ('bewijst', 'bewijst niet', 'set fout') en elk groen ('vals groen' of 'set fout'); bij W elk rood of oranje ('vals' of 'set fout'). Full Fact en Snopes nagelezen voor w-00751 en w-04437. Alleen ids en labels; openbare beelden uit M4FC.",
+ "oordelen": [
+  {
+   "id": "n-sn-001",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "India Today, Alt News en The Quint checken dezelfde bewering: andere vrouw, niet door de RSS aangevallen"
+  },
+  {
+   "id": "n-sn-001",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "India Today, Alt News en The Quint checken dezelfde bewering: andere vrouw, niet door de RSS aangevallen"
+  },
+  {
+   "id": "n-sn-003",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Alt News: oude foto uit Pakistan, niet van Shaheen Bagh"
+  },
+  {
+   "id": "n-sn-003",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Alt News: oude foto uit Pakistan, niet van Shaheen Bagh"
+  },
+  {
+   "id": "n-sn-004",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "AFP, The Quint en anderen: de foto van Netanyahu met zijn zoon is uit 2014, niet van deze oorlog"
+  },
+  {
+   "id": "n-sn-004",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "AFP, The Quint en anderen: de foto van Netanyahu met zijn zoon is uit 2014, niet van deze oorlog"
+  },
+  {
+   "id": "n-sn-005",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "AFP en Fact Crescendo: de foto is uit 2015, uit Saudi-Arabië, niet van het WK in Qatar"
+  },
+  {
+   "id": "n-sn-005",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "AFP en Fact Crescendo: de foto is uit 2015, uit Saudi-Arabië, niet van het WK in Qatar"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Alt News: de gewonde Sikh-man is niet kapitein Dhillon"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Alt News: de gewonde Sikh-man is niet kapitein Dhillon"
+  },
+  {
+   "id": "n-sn-009",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "The Quint en AFP: prothesevingers van een Japanse maker, geen kiesfraude in West-Bengalen"
+  },
+  {
+   "id": "n-sn-009",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "The Quint en AFP: prothesevingers van een Japanse maker, geen kiesfraude in West-Bengalen"
+  },
+  {
+   "id": "n-sn-012",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Fact Crescendo: de röntgenfoto met de kakkerlak is nep, een oud bericht"
+  },
+  {
+   "id": "n-sn-012",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Fact Crescendo: de röntgenfoto met de kakkerlak is nep, een oud bericht"
+  },
+  {
+   "id": "n-sn-013",
+   "arm": "zonder",
+   "label": "bewijst niet",
+   "reden": "NDTV meldt alleen dat de Shiv Sena van een complot spreekt; het zegt niets over de foto"
+  },
+  {
+   "id": "n-sn-015",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Newsmeter, Vishvas News en Newschecker: het meisje was een fan, niet de dochter van Miller"
+  },
+  {
+   "id": "n-sn-015",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Newsmeter, Vishvas News en Newschecker: het meisje was een fan, niet de dochter van Miller"
+  },
+  {
+   "id": "n-sn-016",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "BBC Hindi en Alt News: oude foto's, geen konvooi van de Karni Sena"
+  },
+  {
+   "id": "n-sn-016",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "BBC Hindi en Alt News: oude foto's, geen konvooi van de Karni Sena"
+  },
+  {
+   "id": "n-sn-020",
+   "arm": "met",
+   "label": "bewijst niet",
+   "reden": "de Washington Post noemt de oorzaak van de crash, maar zegt niets over deze beelden; het oranje komt van een opschrift in het beeld"
+  },
+  {
+   "id": "n-sn-022",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "The Quint, BOOM en Newsmeter: AI-beelden van Poetin als monnik"
+  },
+  {
+   "id": "n-sn-022",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "The Quint, BOOM en Newsmeter: AI-beelden van Poetin als monnik"
+  },
+  {
+   "id": "n-sn-025",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan is uit 2017"
+  },
+  {
+   "id": "n-sn-025",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan is uit 2017"
+  },
+  {
+   "id": "n-sn-027",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Africa Check, Lead Stories en Snopes: digitaal gemaakt, geen echte foto"
+  },
+  {
+   "id": "n-sn-027",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Africa Check, Lead Stories en Snopes: digitaal gemaakt, geen echte foto"
+  },
+  {
+   "id": "n-sn-028",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "India Today, Newschecker en Vishvas News: een CGI-video, geen bord in Chennai"
+  },
+  {
+   "id": "n-sn-028",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "India Today, Newschecker en Vishvas News: een CGI-video, geen bord in Chennai"
+  },
+  {
+   "id": "n-sn-029",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, uit de database: het bord van de AAP is digitaal bewerkt, dezelfde bewering"
+  },
+  {
+   "id": "n-sn-029",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, uit de database: het bord van de AAP is digitaal bewerkt, dezelfde bewering"
+  },
+  {
+   "id": "n-sn-030",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "SM Hoax Slayer en Newsmeter: het zwaard op de foto is niet van Maharana Pratap"
+  },
+  {
+   "id": "n-sn-030",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "SM Hoax Slayer en Newsmeter: het zwaard op de foto is niet van Maharana Pratap"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "zonder",
+   "label": "vals groen",
+   "reden": "de tekst klopt (Chilima kwam om), maar de foto van het wrak in het bericht is volgens FACTLY niet van deze crash; ook met het beeld zei de lezer dat de bewering niet over een beeld ging"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "met",
+   "label": "vals groen",
+   "reden": "de tekst klopt (Chilima kwam om), maar de foto van het wrak in het bericht is volgens FACTLY niet van deze crash; ook met het beeld zei de lezer dat de bewering niet over een beeld ging"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza"
+  },
+  {
+   "id": "n-sn-039",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, The Quint en Newschecker: AI-beelden, niet het zandkunstwerk van een kind"
+  },
+  {
+   "id": "n-sn-039",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, The Quint en Newschecker: AI-beelden, niet het zandkunstwerk van een kind"
+  },
+  {
+   "id": "n-sn-045",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "BOOM, Vishvas News en Alt News: oude beelden uit Bangladesh en Kasjmir"
+  },
+  {
+   "id": "n-sn-045",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "BOOM, Vishvas News en Alt News: oude beelden uit Bangladesh en Kasjmir"
+  },
+  {
+   "id": "n-sn-047",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "India Today: de foto is niet van cycloon Vayu"
+  },
+  {
+   "id": "n-sn-047",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "India Today: de foto is niet van cycloon Vayu"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "Alt News: oude foto uit Bihar, niet uit West-Bengalen"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Alt News: oude foto uit Bihar, niet uit West-Bengalen"
+  },
+  {
+   "id": "n-sn-055",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "BOOM en Aaj Tak: het verhaal over Julia Markin is verzonnen"
+  },
+  {
+   "id": "n-sn-055",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "BOOM en Aaj Tak: het verhaal over Julia Markin is verzonnen"
+  },
+  {
+   "id": "w-00722",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "de resultaten gaan over een ander geval (Telangana, een man van 40); met het beeld zag de lezer dat"
+  },
+  {
+   "id": "w-00751",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "Full Fact: 'Photos of swimming pool with social distancing screens is genuine'; de lezer las het omgekeerd, ook met het beeld"
+  },
+  {
+   "id": "w-00751",
+   "arm": "met",
+   "label": "vals",
+   "reden": "Full Fact: 'Photos of swimming pool with social distancing screens is genuine'; de lezer las het omgekeerd, ook met het beeld"
+  },
+  {
+   "id": "w-03524",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "Snopes: beide foto's van de boom zijn echt; de grap over het transport maakt de bewering niet misleidend"
+  },
+  {
+   "id": "w-03796",
+   "arm": "zonder",
+   "label": "set fout",
+   "reden": "Africa Check en Snopes: geen snelweg met 48 rijstroken maar een tolplein, zoals in §178"
+  },
+  {
+   "id": "w-03796",
+   "arm": "met",
+   "label": "set fout",
+   "reden": "Africa Check en Snopes: geen snelweg met 48 rijstroken maar een tolplein, zoals in §178"
+  },
+  {
+   "id": "w-04437",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "Snopes: de foto is echt, het bijschrift is niet te bevestigen of te weerleggen; dat is onzeker, niet misleidend (verdedigbaar)"
+  },
+  {
+   "id": "w-04544",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "de bronnen zeggen een paar centimeter en onaangenaam; verdedigbaar, maar streng geteld zoals in §178"
+  },
+  {
+   "id": "w-04544",
+   "arm": "met",
+   "label": "vals",
+   "reden": "de bronnen zeggen een paar centimeter en onaangenaam; verdedigbaar, maar streng geteld zoals in §178"
+  }
+ ]
+}

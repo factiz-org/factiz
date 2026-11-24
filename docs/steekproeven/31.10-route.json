@@ -1,0 +1,475 @@
+{
+ "_meta": "Labels van de routemeting (PLAN #31.10), 2026-10-27, gelezen door Claude. 'masker': de handsteekproef van 50 echte screenshots, ruwe OCR naast wat naar het model gaat; geteld: gelekte telefoonnummers en e-mailadressen. 'oordelen': per uitkomst (id en oordeel, of id, 10 en feit) 'bewijst', 'terecht', 'vals', 'toevallig' of 'set fout'.",
+ "masker": [
+  {
+   "id": "so-002",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-005",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-009",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-010",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-011",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-017",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-023",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "'148484800086' is OCR-ruis zonder + of 0, geen nummer; blijft staan"
+  },
+  {
+   "id": "so-025",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-027",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-029",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-032",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "twee handles van politici gemaskeerd"
+  },
+  {
+   "id": "so-034",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-036",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-039",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-044",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-049",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-053",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-057",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-060",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-065",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-067",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "'Feb 25311088' is OCR-ruis bij een datum; blijft staan"
+  },
+  {
+   "id": "so-073",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-077",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-083",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-085",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-090",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "OCR-ruis in Urdu ('+38 30181 8') als telefoon gemaskeerd; geen echt nummer"
+  },
+  {
+   "id": "so-092",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-096",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-099",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-102",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-105",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-107",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-109",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-112",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-117",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-118",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-119",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "handle gemaskeerd"
+  },
+  {
+   "id": "so-122",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-126",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-128",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-129",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-132",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-135",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-136",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-138",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-139",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "weergavenaam van het account blijft staan (zoals bedoeld)"
+  },
+  {
+   "id": "so-140",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-144",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "handle gemaskeerd"
+  },
+  {
+   "id": "so-146",
+   "telefoon": 0,
+   "e-mail": 0
+  },
+  {
+   "id": "so-147",
+   "telefoon": 0,
+   "e-mail": 0,
+   "opmerking": "handle gemaskeerd; de weergavenaam van het account blijft staan (zoals bedoeld)"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "bp-000",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "proefstuk; vijf checks over dezelfde gemanipuleerde foto van Biden en Zelensky (factly, PolitiFact, VRT)"
+  },
+  {
+   "id": "so-019",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "checks van Logically, FACTLY en Fact Crescendo over Kharge die niet klapte"
+  },
+  {
+   "id": "so-021",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Youturn over hetzelfde verhaal van Ankita en Abdul met vals communaal verband"
+  },
+  {
+   "id": "so-036",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "BOOM en Newschecker: de jain-monnik raakte gewond bij een ongeluk"
+  },
+  {
+   "id": "so-037",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Fact Crescendo over Modi's ontmoeting met ambachtslieden in Yashobhoomi"
+  },
+  {
+   "id": "so-046",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "The Quint en BOOM: de foto is een kapotte weg in Thailand"
+  },
+  {
+   "id": "so-056",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Fact Crescendo en FACTLY over de dokter uit Karnal"
+  },
+  {
+   "id": "so-078",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Vishvas News over de wapens bij de RSS"
+  },
+  {
+   "id": "so-080",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Logically Facts: niet de dochter van Manmohan Singh met Soros"
+  },
+  {
+   "id": "so-095",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "FACTLY en Logically: de foto van Priyanka Gandhi is bewerkt"
+  },
+  {
+   "id": "so-100",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Vishvas News over het water van Nita Ambani"
+  },
+  {
+   "id": "so-103",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "EUvsDisinfo en Factnameh over ISIS als schepping van CIA en Mossad"
+  },
+  {
+   "id": "so-107",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Vishvas News: de banner bij Mirabai Chanu is bewerkt"
+  },
+  {
+   "id": "so-128",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Full Fact en anderen: de trucks reden in Frankrijk, niet met coronadoden"
+  },
+  {
+   "id": "so-141",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Youturn over hetzelfde vergelijkingsbeeld van Modi en Manmohan Singh"
+  },
+  {
+   "id": "so-148",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "Fact Crescendo en The Quint over Shivani en Riya"
+  },
+  {
+   "id": "so-022",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: een bekend patroon van valse virale verhalen"
+  },
+  {
+   "id": "so-040",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: onverwante oude beelden bij de Zweedse rellen ([F5])"
+  },
+  {
+   "id": "so-041",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: de bekende hoax met reuzenskeletten"
+  },
+  {
+   "id": "so-088",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: onverwante beelden als slachtoffers van Galwan"
+  },
+  {
+   "id": "so-146",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: een beeld zonder context als bewijs rondgestuurd"
+  },
+  {
+   "id": "so-112",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "de tekst klopt (politievuur in Bengaluru, augustus 2020); de onwaarheid zit in het beeld, dat het model niet ziet"
+  },
+  {
+   "id": "so-117",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "de tekst klopt (verklaring van agent Revathi, Sathankulam); de onwaarheid zit in het beeld"
+  },
+  {
+   "id": "bo-061",
+   "oordeel": "klopt",
+   "label": "vals",
+   "waarom": "het model las FACTLY verkeerd: volgens de check is de PM CARES-sticker echt, de foto niet bewerkt"
+  },
+  {
+   "id": "bp-049",
+   "oordeel": "klopt",
+   "label": "beeld nodig",
+   "waarom": "het bijschrift klopt (Al-Aqsa, april 2023); de onwaarheid zit in het beeld (ronde 5: bijschrift waar)"
+  },
+  {
+   "id": "bp-085",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "het ware bijschrift is zelf twijfelachtig: de tolpoort heeft ~25 rijstroken (Africa Check, Snopes); in ronde 5 betwist"
+  },
+  {
+   "id": "bp-094",
+   "oordeel": "klopt niet",
+   "label": "set fout",
+   "waarom": "het ware bijschrift is zelf twijfelachtig: een staafje is ~15 cm en de test is niet ondraaglijk pijnlijk"
+  },
+  {
+   "id": "ss-021",
+   "oordeel": "klopt niet",
+   "label": "terecht",
+   "waarom": "bevat wel een bewering; Yes Bank was niet dicht maar onder moratorium"
+  },
+  {
+   "id": "ss-023",
+   "oordeel": "klopt niet",
+   "label": "terecht",
+   "waarom": "bevat wel een bewering; de man in de video is geen Saoedische prins"
+  },
+  {
+   "id": "ss-032",
+   "oordeel": "klopt niet",
+   "label": "terecht",
+   "waarom": "bevat wel een bewering; ArcelorMittal ontkende dat het Lakshmi Mittal is"
+  },
+  {
+   "id": "ss-047",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "bevat wel een bewering; reden 2, een kettingbericht met hackerswaarschuwing"
+  },
+  {
+   "id": "ss-054",
+   "oordeel": "klopt niet",
+   "label": "terecht",
+   "waarom": "de vraag bevat de bekende mythe van de omgekeerde pincode"
+  },
+  {
+   "id": "ss-056",
+   "oordeel": "let op",
+   "label": "set fout",
+   "waarom": "het model las onze ingevoegde nep-regel 'Mail [e-mail] for the full report' als deel van het bericht"
+  },
+  {
+   "id": "ss-070",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "bevat wel een bewering; dat een arts het 'bewees' is grotendeels legende"
+  },
+  {
+   "id": "ss-087",
+   "oordeel": "klopt niet",
+   "label": "terecht",
+   "waarom": "bevat wel een gezondheidsbewering; warme lucht beschermt niet tegen het coronavirus"
+  }
+ ]
+}

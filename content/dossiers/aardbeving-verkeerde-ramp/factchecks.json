@@ -1,0 +1,963 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-aardbeving-verkeerde-ramp.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "61781341a30cb317"
+  },
+  {
+   "nummer": "06c5479ac83cd51d"
+  },
+  {
+   "nummer": "5954cc57c9e6e8b9"
+  },
+  {
+   "nummer": "c52a33b3ee649900"
+  },
+  {
+   "nummer": "5d3436708ae81cf7"
+  },
+  {
+   "nummer": "e1a8b427dcc7c7c3"
+  },
+  {
+   "nummer": "f095189fb5d80371"
+  },
+  {
+   "nummer": "35504451539b6169"
+  },
+  {
+   "nummer": "dc3f4adc64a0258e"
+  },
+  {
+   "nummer": "7469774b8404395b"
+  },
+  {
+   "nummer": "919ad8caa5e3c835"
+  },
+  {
+   "nummer": "b07e8fe0aba32679"
+  },
+  {
+   "nummer": "bfa7fcac0c803108"
+  },
+  {
+   "nummer": "145bd7636dbd703e"
+  },
+  {
+   "nummer": "5bb7bd4394e1eb14",
+   "versie": "indonesia-satellite-video"
+  },
+  {
+   "nummer": "c580c055c049aa49"
+  },
+  {
+   "nummer": "5a2cb8a47e57377f",
+   "versie": "indonesia-satellite-video"
+  },
+  {
+   "nummer": "9c1fc736d335e75e"
+  },
+  {
+   "nummer": "ec54473a70e46e7b"
+  },
+  {
+   "nummer": "1877cced324cff1c"
+  },
+  {
+   "nummer": "8273f9324e2240df"
+  },
+  {
+   "nummer": "88e6a5f8fde8ed44"
+  },
+  {
+   "nummer": "e6816cad192a67ff",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "fdf3206c5dc8c683"
+  },
+  {
+   "nummer": "1c24046b76e58b29",
+   "versie": "nuclear-plant-explosion"
+  },
+  {
+   "nummer": "4f6396aa4b274cd0"
+  },
+  {
+   "nummer": "5e76d890509ae96c"
+  },
+  {
+   "nummer": "67b1f51b7d2091cd"
+  },
+  {
+   "nummer": "af9f225b87009509",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "f02f65716770d4c3"
+  },
+  {
+   "nummer": "04ca106e6dc38367"
+  },
+  {
+   "nummer": "4ff17b74c753e3b3",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "9a5103c75fb613c4",
+   "versie": "kahramanmaras-before-after"
+  },
+  {
+   "nummer": "9c2b5253f908d30c"
+  },
+  {
+   "nummer": "aacfa9094f03f198"
+  },
+  {
+   "nummer": "f7aafb86aa795c2a",
+   "versie": "dog-found-owner-rubble"
+  },
+  {
+   "nummer": "62f20952afc411d6",
+   "versie": "dog-found-owner-rubble"
+  },
+  {
+   "nummer": "d0a3f797dabec068"
+  },
+  {
+   "nummer": "15f881351ae2e43e",
+   "versie": "dog-found-owner-rubble"
+  },
+  {
+   "nummer": "1f5d1a9555fd5a60"
+  },
+  {
+   "nummer": "5c8eac3b2c36d3e6"
+  },
+  {
+   "nummer": "5f2f499116251b7b"
+  },
+  {
+   "nummer": "8712528d4a3664c1",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "bb3518230fa16d4b"
+  },
+  {
+   "nummer": "d83d70591452f78a"
+  },
+  {
+   "nummer": "d8f13d0eaf69eb7b",
+   "versie": "dog-found-owner-rubble"
+  },
+  {
+   "nummer": "707f88e8d8e53f3a",
+   "versie": "puppies-rescued-rubble"
+  },
+  {
+   "nummer": "6146924006f6721c",
+   "versie": "puppies-rescued-rubble"
+  },
+  {
+   "nummer": "89f55e93e15c88b3"
+  },
+  {
+   "nummer": "9803cc4422b6c0b2",
+   "versie": "nuclear-plant-explosion"
+  },
+  {
+   "nummer": "a415c09fc95457db"
+  },
+  {
+   "nummer": "88804412aa2f4bed"
+  },
+  {
+   "nummer": "819ded23ace6c897"
+  },
+  {
+   "nummer": "60f6ce0ee9c4ffed"
+  },
+  {
+   "nummer": "88c7c09b76e6eb4f"
+  },
+  {
+   "nummer": "6d2eb69cb924f3c1"
+  },
+  {
+   "nummer": "c6c8983047c233ca",
+   "versie": "hatay-ground-fracture"
+  },
+  {
+   "nummer": "1292133a49f94a99"
+  },
+  {
+   "nummer": "15157cd4aa5c9d21"
+  },
+  {
+   "nummer": "5274060f0dcaa9ee"
+  },
+  {
+   "nummer": "a100b70ee39a17ad"
+  },
+  {
+   "nummer": "da04a3a001d2ef26",
+   "versie": "hatay-ground-fracture"
+  },
+  {
+   "nummer": "e1f084a106ee1eb7"
+  },
+  {
+   "nummer": "0dadf08121a5755b"
+  },
+  {
+   "nummer": "3e1ba05593208139"
+  },
+  {
+   "nummer": "c13ef9d9a289d25d",
+   "versie": "hatay-ground-fracture"
+  },
+  {
+   "nummer": "9bf4579bcd800c5f"
+  },
+  {
+   "nummer": "d5b32ddfe33819ea"
+  },
+  {
+   "nummer": "f495fb3518083c75"
+  },
+  {
+   "nummer": "996e788fa3adde21",
+   "versie": "girl-breastfeeding-brother"
+  },
+  {
+   "nummer": "e1e1d4b73c367311",
+   "versie": "dog-found-owner-rubble"
+  },
+  {
+   "nummer": "a9f8a66132117f3c"
+  },
+  {
+   "nummer": "4c81390c7c1d6d61"
+  },
+  {
+   "nummer": "cf77d8363107c001"
+  },
+  {
+   "nummer": "3ec2d3c42f425936",
+   "versie": "hatay-ground-fracture"
+  },
+  {
+   "nummer": "fc7defa660705ead"
+  },
+  {
+   "nummer": "a5625a60c465a669"
+  },
+  {
+   "nummer": "8a2265607e5dae80"
+  },
+  {
+   "nummer": "10b5f8020566d69e"
+  },
+  {
+   "nummer": "a7a6b62dacd1071b"
+  },
+  {
+   "nummer": "b74cc9c10faaa2fd"
+  },
+  {
+   "nummer": "ff2fe66b0beec920"
+  },
+  {
+   "nummer": "d242327add179456"
+  },
+  {
+   "nummer": "af73dbda0942f1c1"
+  },
+  {
+   "nummer": "c33d8d30ee05cb62"
+  },
+  {
+   "nummer": "9e8c72dd82e2906d"
+  },
+  {
+   "nummer": "aff397a0d56fdc62"
+  },
+  {
+   "nummer": "b12120cdd0ed3c6e"
+  },
+  {
+   "nummer": "c2490a12856ffad1",
+   "versie": "morocco-newborn-rescue"
+  },
+  {
+   "nummer": "8b9bd7a1f9887d56"
+  },
+  {
+   "nummer": "869592f731da0724"
+  },
+  {
+   "nummer": "69994be1bb14901e"
+  },
+  {
+   "nummer": "a03aabaedc619c95"
+  },
+  {
+   "nummer": "99c4ae938d83eabc"
+  },
+  {
+   "nummer": "9ef8a09673175888"
+  },
+  {
+   "nummer": "7503a3d2305b1d22",
+   "versie": "underwater-quake-video"
+  },
+  {
+   "nummer": "c54f170ca74bbc69"
+  },
+  {
+   "nummer": "2125f749c54a4dcf"
+  },
+  {
+   "nummer": "fa24e5a00a21b05f"
+  },
+  {
+   "nummer": "d7404b702398440d"
+  },
+  {
+   "nummer": "f22cde45965ad5bd",
+   "versie": "toppling-high-rises-taiwan"
+  },
+  {
+   "nummer": "f806e7504ee923ef",
+   "versie": "taiwan-tsunami-video"
+  },
+  {
+   "nummer": "281748eb60a82814"
+  },
+  {
+   "nummer": "6066157e25f64693"
+  },
+  {
+   "nummer": "843efdd39a37677f",
+   "versie": "toppling-high-rises-taiwan"
+  },
+  {
+   "nummer": "db40154e3f478189",
+   "versie": "taiwan-tsunami-video"
+  },
+  {
+   "nummer": "f78cdf4ff52c63f3"
+  },
+  {
+   "nummer": "b9791726780b823c"
+  },
+  {
+   "nummer": "ba2d9fbc17fa2690"
+  },
+  {
+   "nummer": "2041eebbd15fbacc",
+   "versie": "tilted-yunmen-building"
+  },
+  {
+   "nummer": "75733a41bb7166a9",
+   "versie": "tilted-yunmen-building"
+  },
+  {
+   "nummer": "693a78ff1a19ee04"
+  },
+  {
+   "nummer": "e796699ff5f285e7",
+   "versie": "august-8-japan-quake"
+  },
+  {
+   "nummer": "3d714664d9671925",
+   "versie": "taiwan-magnitude-8-video"
+  },
+  {
+   "nummer": "48b298afb6dc1567",
+   "versie": "taiwan-magnitude-8-video"
+  },
+  {
+   "nummer": "d674b213b63e1e44"
+  },
+  {
+   "nummer": "f2abf528cbbb70a1"
+  },
+  {
+   "nummer": "56f2b2a46765d17f"
+  },
+  {
+   "nummer": "c597de1bdf3ce3b0"
+  },
+  {
+   "nummer": "f3770c082442d035"
+  },
+  {
+   "nummer": "6a55b15e29aa2387"
+  },
+  {
+   "nummer": "f3b39d4afbb40aa7"
+  },
+  {
+   "nummer": "30d816bc504b0ee5"
+  },
+  {
+   "nummer": "3cb1fb4756fea54f"
+  },
+  {
+   "nummer": "7066e10ba6988816"
+  },
+  {
+   "nummer": "acf507c7baad85a4"
+  },
+  {
+   "nummer": "ae10b270ec2f0e12"
+  },
+  {
+   "nummer": "b81f53d90437b1f5"
+  },
+  {
+   "nummer": "c213351105a86717"
+  },
+  {
+   "nummer": "151112ae0aa776d3"
+  },
+  {
+   "nummer": "4cf7e5b2f2042b05"
+  },
+  {
+   "nummer": "ebb484598a17bc88"
+  },
+  {
+   "nummer": "1bc7b4bc1cf0a9f4"
+  },
+  {
+   "nummer": "2197799889394db2"
+  },
+  {
+   "nummer": "b3c3dbc3ffd643ab"
+  },
+  {
+   "nummer": "0f1963a7ddc0cbb9"
+  },
+  {
+   "nummer": "4066b96974468146"
+  },
+  {
+   "nummer": "ab78d0ba3bc87b8b"
+  },
+  {
+   "nummer": "edaa8e83650eb429"
+  },
+  {
+   "nummer": "efdf4c7fc82e060d"
+  },
+  {
+   "nummer": "f7c6454152ecac3b"
+  },
+  {
+   "nummer": "07add100fa2e27e8"
+  },
+  {
+   "nummer": "6631d59d17d20c32"
+  },
+  {
+   "nummer": "31a52a0679b721e9"
+  },
+  {
+   "nummer": "6feca60a439600dc"
+  },
+  {
+   "nummer": "6234c442311c9013"
+  },
+  {
+   "nummer": "74153dcb0d3187db"
+  },
+  {
+   "nummer": "9d639d749844d026"
+  },
+  {
+   "nummer": "f4e45b68c483a855"
+  },
+  {
+   "nummer": "cbed9119586bdd0f"
+  },
+  {
+   "nummer": "3157e263646be485"
+  },
+  {
+   "nummer": "3984ad38bbc9c1a8"
+  },
+  {
+   "nummer": "3b8df70ee786605c"
+  },
+  {
+   "nummer": "a49b940682615739"
+  },
+  {
+   "nummer": "ae764825049a096c"
+  },
+  {
+   "nummer": "d91052dd3152bc6f"
+  },
+  {
+   "nummer": "fbba80fc89bd13aa"
+  },
+  {
+   "nummer": "da6f741c962c2496"
+  },
+  {
+   "nummer": "4d369daa4ea061c7"
+  },
+  {
+   "nummer": "d3fdcb8273f797a0"
+  },
+  {
+   "nummer": "1f8f2d1096eccd67"
+  },
+  {
+   "nummer": "3c9aecad21acd206"
+  },
+  {
+   "nummer": "fe61f23a54a0345c"
+  },
+  {
+   "nummer": "2ce89117ca96912a"
+  },
+  {
+   "nummer": "781bac5bac2a047c"
+  },
+  {
+   "nummer": "186b3d04c6d61b92",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "56daee60d957e35b"
+  },
+  {
+   "nummer": "6bf822c1722724ca"
+  },
+  {
+   "nummer": "158a54953ebf33c3"
+  },
+  {
+   "nummer": "2ecd555f25a87928",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "42b11a40038a56b3"
+  },
+  {
+   "nummer": "4b9bd034d03844bf"
+  },
+  {
+   "nummer": "573ab1d273cec4bf"
+  },
+  {
+   "nummer": "7c7dce5d4101bb82",
+   "versie": "famous-hotel-interior"
+  },
+  {
+   "nummer": "99cb8865aa8b5cd0"
+  },
+  {
+   "nummer": "d19bd5c9770bf900"
+  },
+  {
+   "nummer": "d2a156fd1af1a302"
+  },
+  {
+   "nummer": "e4fb2780246d51c2"
+  },
+  {
+   "nummer": "2d8537b87ffc6140"
+  },
+  {
+   "nummer": "3a47c99ebd92bd69",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "3a71d2fad86133e4"
+  },
+  {
+   "nummer": "3fb85d5d6c642f65"
+  },
+  {
+   "nummer": "784ffe617b5cf59e",
+   "versie": "famous-hotel-interior"
+  },
+  {
+   "nummer": "a2c3dfd9858956f8"
+  },
+  {
+   "nummer": "c5f95e1829e65e35",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "35fc76a8001ac1d0",
+   "versie": "kahramanmaras-before-after"
+  },
+  {
+   "nummer": "79f5440e02960386"
+  },
+  {
+   "nummer": "d2ef516b4bdd26cd"
+  },
+  {
+   "nummer": "05582403026fae33",
+   "versie": "turkey-tsunami-video"
+  },
+  {
+   "nummer": "335b540a1a9693f5"
+  },
+  {
+   "nummer": "b6557cd8293bbe5e"
+  },
+  {
+   "nummer": "bf9d30647f81f266"
+  },
+  {
+   "nummer": "317534b3eae7d66a",
+   "versie": "kahramanmaras-before-after"
+  },
+  {
+   "nummer": "242d085a1411b6ec",
+   "versie": "girl-breastfeeding-brother"
+  },
+  {
+   "nummer": "ad474c5921f9489c"
+  },
+  {
+   "nummer": "4b6349a3b1f0fd9e"
+  },
+  {
+   "nummer": "6961374af85f29ad"
+  },
+  {
+   "nummer": "8997d346003f99e9"
+  },
+  {
+   "nummer": "e53498fc9b57db79"
+  },
+  {
+   "nummer": "f0f7b4d5d2e25f7d",
+   "versie": "hatay-ground-fracture"
+  },
+  {
+   "nummer": "ec2e043c96229873"
+  },
+  {
+   "nummer": "31c14f8f70028dc5"
+  },
+  {
+   "nummer": "cd38554e9af3539e"
+  },
+  {
+   "nummer": "f34dd815c0f85866"
+  },
+  {
+   "nummer": "edc91c420c1522e1"
+  },
+  {
+   "nummer": "0df7cc12f59188ec"
+  },
+  {
+   "nummer": "53309450aa5a74b0"
+  },
+  {
+   "nummer": "6cde82470b5d93a8"
+  },
+  {
+   "nummer": "a655d0a737d613d6"
+  },
+  {
+   "nummer": "7391b37da117b7b4"
+  },
+  {
+   "nummer": "4e7d7867e6066aa0"
+  },
+  {
+   "nummer": "cb30e80b517c0eb5"
+  },
+  {
+   "nummer": "a21fe5a831eddcca"
+  },
+  {
+   "nummer": "7654dcea3e5d2a62"
+  },
+  {
+   "nummer": "09ab55e1b5074134"
+  },
+  {
+   "nummer": "8d2e1b9b86dc39b0"
+  },
+  {
+   "nummer": "7581c91acd4da977"
+  },
+  {
+   "nummer": "13d9cb41b00a06bf",
+   "versie": "california-11-9-quake"
+  },
+  {
+   "nummer": "513bb987c9eb682c",
+   "versie": "morocco-newborn-rescue"
+  },
+  {
+   "nummer": "6e6394c253349d24"
+  },
+  {
+   "nummer": "b12d8543f0f278a5"
+  },
+  {
+   "nummer": "d476e2976822c2a0"
+  },
+  {
+   "nummer": "0bea3fee870e4109"
+  },
+  {
+   "nummer": "2b6bb899b01a3944"
+  },
+  {
+   "nummer": "38aea2b1cef8a1b2"
+  },
+  {
+   "nummer": "95f1ce412e6d04fc"
+  },
+  {
+   "nummer": "ddfa5cce98866ebf"
+  },
+  {
+   "nummer": "a76902c0b4aaf7b7",
+   "versie": "california-11-9-quake"
+  },
+  {
+   "nummer": "f47c69018717c2fe"
+  },
+  {
+   "nummer": "6e051c9cca77ab0e"
+  },
+  {
+   "nummer": "b0130b61e4826c5f"
+  },
+  {
+   "nummer": "e05c6f3ab7a0644e"
+  },
+  {
+   "nummer": "29ec199661f04829",
+   "versie": "philippines-quake-tsunami"
+  },
+  {
+   "nummer": "1ddb28de3909e9ad",
+   "versie": "philippines-quake-tsunami"
+  },
+  {
+   "nummer": "2bd9d630314f18e2"
+  },
+  {
+   "nummer": "0f984ddd87108f52"
+  },
+  {
+   "nummer": "1ed300e6ceb71f28"
+  },
+  {
+   "nummer": "cca53b239435e5c7"
+  },
+  {
+   "nummer": "4fc6f2dbc0b0b3e6"
+  },
+  {
+   "nummer": "5f5530831eb33ef2"
+  },
+  {
+   "nummer": "6c3bf04cb49eb820"
+  },
+  {
+   "nummer": "acd7156a5c09913a"
+  },
+  {
+   "nummer": "2a087e3ac5d16af9"
+  },
+  {
+   "nummer": "60056f85ba843e3e"
+  },
+  {
+   "nummer": "96c9cac9b9f67684"
+  },
+  {
+   "nummer": "4eedd66b8421e7ff"
+  },
+  {
+   "nummer": "52f1a44434c9fedc",
+   "versie": "underwater-quake-video"
+  },
+  {
+   "nummer": "e42ff9146da6af00"
+  },
+  {
+   "nummer": "6e4dd1011f9cc33a"
+  },
+  {
+   "nummer": "eab2acea1eba285b"
+  },
+  {
+   "nummer": "49eac2ce24f95ccb"
+  },
+  {
+   "nummer": "54283ea423989750"
+  },
+  {
+   "nummer": "5c9767acd526991e",
+   "versie": "taiwan-tsunami-video"
+  },
+  {
+   "nummer": "6e9ad671e0df9646"
+  },
+  {
+   "nummer": "eeff1070303ef82e"
+  },
+  {
+   "nummer": "3a5a974274604416"
+  },
+  {
+   "nummer": "58b16fdf20256f3f"
+  },
+  {
+   "nummer": "4eac990227b4cf50"
+  },
+  {
+   "nummer": "c2af8f5907e9e76a"
+  },
+  {
+   "nummer": "5350a846e2535674"
+  },
+  {
+   "nummer": "902ec458e2f447a0"
+  },
+  {
+   "nummer": "99cc24ff7b7fea49"
+  },
+  {
+   "nummer": "aaad79798d5ec00c"
+  },
+  {
+   "nummer": "0e003d8054c0ba09",
+   "versie": "august-8-japan-quake"
+  },
+  {
+   "nummer": "ab925ecc14fb1620"
+  },
+  {
+   "nummer": "112effc9c160608a"
+  },
+  {
+   "nummer": "2fb672f8e72a1879"
+  },
+  {
+   "nummer": "07e16acaf360fc5c"
+  },
+  {
+   "nummer": "c652c78c979385d8"
+  },
+  {
+   "nummer": "a2b37b349b77ddfa"
+  },
+  {
+   "nummer": "162d7528e1da51a3"
+  },
+  {
+   "nummer": "099c925b72a8903b"
+  },
+  {
+   "nummer": "bc14b7a4a7c689e8"
+  },
+  {
+   "nummer": "f09ff0ce2d67291b"
+  },
+  {
+   "nummer": "8c3d4cb23674aae9"
+  },
+  {
+   "nummer": "42b2fbf7b875b166"
+  },
+  {
+   "nummer": "4141731d4810e35d"
+  },
+  {
+   "nummer": "f0b177c67e1b81d0"
+  },
+  {
+   "nummer": "60ff0435d4096920"
+  },
+  {
+   "nummer": "e9aa038ad4000208"
+  },
+  {
+   "nummer": "f28eba50a2bc75e7",
+   "versie": "myanmar-hospital-patient-bed"
+  },
+  {
+   "nummer": "ff03f98e23acb2d8"
+  },
+  {
+   "nummer": "5935530445651dea"
+  },
+  {
+   "nummer": "a235f0526b6ed687"
+  },
+  {
+   "nummer": "9e00f90e4e5ba1a7"
+  },
+  {
+   "nummer": "f4ded305e71df69c",
+   "versie": "myanmar-hospital-patient-bed"
+  },
+  {
+   "nummer": "6b73ee54154e75a3"
+  },
+  {
+   "nummer": "914779a063a849b9"
+  },
+  {
+   "nummer": "291ca445fa480deb"
+  },
+  {
+   "nummer": "c47b51c65ce43c6a"
+  },
+  {
+   "nummer": "9b41f305a6357952"
+  },
+  {
+   "nummer": "2ab4bf9ebb1a4c6e"
+  },
+  {
+   "nummer": "5a68d83096454021"
+  },
+  {
+   "nummer": "cb80cdfbae751398"
+  },
+  {
+   "nummer": "aa6ec1f7a42c79c0"
+  },
+  {
+   "nummer": "5168660f69364c49"
+  },
+  {
+   "nummer": "2614f15fdac7a1d9"
+  },
+  {
+   "nummer": "9445c8581023d531"
+  },
+  {
+   "nummer": "54c6ef2cef308116"
+  },
+  {
+   "nummer": "b397624205f7b66f"
+  },
+  {
+   "nummer": "d9f73b07fb065411"
+  }
+ ]
+}

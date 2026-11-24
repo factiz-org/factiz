@@ -1,0 +1,238 @@
+{
+ "_meta": "Pariteitsvectoren voor de JavaScript-implementatie van de claimfilter (#24.2, #24.3). Zelfgeschreven testzinnen, geen corpustekst; gegenereerd met `python -m doublecheck.claimfilter --vectoren`.",
+ "normalisatie": "nfkc>lower>nfkc>final-sigma>ws-collapse>strip-quotes-and-final-punct@v1",
+ "m": 1000003,
+ "k": 13,
+ "gevallen": [
+  {
+   "invoer": "  \"WhatsApp  will\ncharge users\"  ",
+   "genormaliseerd": "whatsapp will charge users",
+   "posities": [
+    744128,
+    603429,
+    462730,
+    322031,
+    181332,
+    40633,
+    899937,
+    759238,
+    618539,
+    477840,
+    337141,
+    196442,
+    55743
+   ]
+  },
+  {
+   "invoer": "«Vaccines have been proven to cause autism.»",
+   "genormaliseerd": "vaccines have been proven to cause autism",
+   "posities": [
+    674769,
+    798181,
+    921593,
+    45002,
+    168414,
+    291826,
+    415238,
+    538650,
+    662062,
+    785474,
+    908886,
+    32295,
+    155707
+   ]
+  },
+  {
+   "invoer": "ΟΙ ΕΜΒΟΛΙΑΣΜΕΝΟΙ ΠΕΘΑΙΝΟΥΝ ΣΕ ΔΥΟ ΧΡΟΝΙΑΣ",
+   "genormaliseerd": "οι εμβολιασμενοι πεθαινουν σε δυο χρονιασ",
+   "posities": [
+    460165,
+    811780,
+    163392,
+    515007,
+    866622,
+    218234,
+    569849,
+    921464,
+    273076,
+    624691,
+    976306,
+    327918,
+    679533
+   ]
+  },
+  {
+   "invoer": "Россия не нападала на Украину!",
+   "genormaliseerd": "россия не нападала на украину",
+   "posities": [
+    434729,
+    604572,
+    774415,
+    944258,
+    114098,
+    283941,
+    453784,
+    623627,
+    793470,
+    963313,
+    133153,
+    302996,
+    472839
+   ]
+  },
+  {
+   "invoer": "ＷｈａｔｓＡｐｐ will charge users",
+   "genormaliseerd": "whatsapp will charge users",
+   "posities": [
+    744128,
+    603429,
+    462730,
+    322031,
+    181332,
+    40633,
+    899937,
+    759238,
+    618539,
+    477840,
+    337141,
+    196442,
+    55743
+   ]
+  },
+  {
+   "invoer": "İstanbul’da seçim hilesi yapıldı",
+   "genormaliseerd": "i̇stanbul’da seçim hilesi yapıldı",
+   "posities": [
+    203778,
+    874346,
+    544911,
+    215476,
+    886044,
+    556609,
+    227174,
+    897742,
+    568307,
+    238872,
+    909440,
+    580005,
+    250570
+   ]
+  },
+  {
+   "invoer": "क्विंट हिंदी की खबर फर्जी है।",
+   "genormaliseerd": "क्विंट हिंदी की खबर फर्जी है",
+   "posities": [
+    136587,
+    686833,
+    237076,
+    787322,
+    337565,
+    887811,
+    438054,
+    988300,
+    538543,
+    88786,
+    639032,
+    189275,
+    739521
+   ]
+  },
+  {
+   "invoer": "Le ministre aurait financé les manifestations d'élèves…",
+   "genormaliseerd": "le ministre aurait financé les manifestations d'élèves",
+   "posities": [
+    446530,
+    868230,
+    289927,
+    711627,
+    133324,
+    555024,
+    976724,
+    398421,
+    820121,
+    241818,
+    663518,
+    85215,
+    506915
+   ]
+  },
+  {
+   "invoer": "疫苗会导致自闭症。",
+   "genormaliseerd": "疫苗会导致自闭症",
+   "posities": [
+    506404,
+    492640,
+    478876,
+    465112,
+    451348,
+    437584,
+    423820,
+    410056,
+    396292,
+    382528,
+    368764,
+    355000,
+    341236
+   ]
+  },
+  {
+   "invoer": "ﬁngers ‘used’ to vote twice",
+   "genormaliseerd": "fingers ‘used’ to vote twice",
+   "posities": [
+    32177,
+    956643,
+    881106,
+    805569,
+    730032,
+    654495,
+    578958,
+    503421,
+    427884,
+    352347,
+    276810,
+    201273,
+    125736
+   ]
+  },
+  {
+   "invoer": "  \"WhatsApp  will\ncharge users\"  ",
+   "klasse": "misleidend",
+   "kantsleutel": "kant:misleidend|whatsapp will charge users",
+   "posities": [
+    893033,
+    794472,
+    695911,
+    597350,
+    498789,
+    400228,
+    301667,
+    203106,
+    104545,
+    5984,
+    907426,
+    808865,
+    710304
+   ]
+  },
+  {
+   "invoer": "ΟΙ ΕΜΒΟΛΙΑΣΜΕΝΟΙ ΠΕΘΑΙΝΟΥΝ ΣΕ ΔΥΟ ΧΡΟΝΙΑΣ",
+   "klasse": "omstreden",
+   "kantsleutel": "kant:omstreden|οι εμβολιασμενοι πεθαινουν σε δυο χρονιασ",
+   "posities": [
+    339493,
+    354805,
+    370117,
+    385429,
+    400741,
+    416053,
+    431365,
+    446677,
+    461989,
+    477301,
+    492613,
+    507925,
+    523237
+   ]
+  }
+ ]
+}

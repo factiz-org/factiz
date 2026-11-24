@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck trump-poetin-xi-verklaring van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "9ce048fccbb65b10",
+ "veldafdrukken": {
+  "kop": "c819d8b116205daf",
+  "oordeel_zin": "06a72015262c64bd",
+  "bewering": "8114d5623a06a128",
+  "kort": "bd68417202b819e2",
+  "tekst": "469af6912b32a5cd",
+  "niet_weten": "60deae92ec310c23",
+  "bereik": "91cc290196d3df18",
+  "nog_uitzoeken": "4c4293470da0519f",
+  "tijdlijn": "0563191833ccd753",
+  "beeld_bijschrift": "a4f87ca87b1efda0",
+  "beeld_alt": "cc78ac8147daf24f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Putin, Shenzhen'de Trump ve Xi ile görüştükten sonra ateşkes ilan etmedi",
+  "oordeel_zin": "Ateşkes ilan edilmedi: Shenzhen'den çıkan ortak bildiride Ukrayna'dan söz edilmiyor, Putin o gün Rusya'nın Kırım Köprüsü'ne yönelik saldırılara karşılık vereceğini söyledi ve o gece Rusya Ukrayna'ya 84 seyir füzesi attı [2] [4] [6].",
+  "bewering": "SON DAKİKA: RUSYA DEVLET BAŞKANI VLADİMİR PUTİN, DÜNKÜ GÖRÜŞMESİNİN ARDINDAN AZ ÖNCE ATEŞKES İLAN ETTİ VE TÜM ASKERLERİNİ UKRAYNA SINIRINDAN ÇEKTİ.",
+  "kort": "19 Kasım'da X'te yayımlanan bir paylaşım, Vladimir Putin'in Donald Trump ve Xi Jinping ile görüştükten sonra ateşkes ilan ettiğini ve tüm askerlerini Ukrayna sınırından çektiğini öne sürdü [1]. Üç lider o gün gerçekten Shenzhen'de bir araya geldi, ancak ortak bildirilerinde Ukrayna'dan söz edilmiyor ve Putin, Rusya'nın Ukrayna'nın Kırım Köprüsü'ne yönelik saldırılarına karşılık vereceğini söyledi [2] [3] [4]. O gece Rusya, Ukrayna'ya 84 seyir füzesi ve 404 insansız hava aracıyla saldırdı [6].",
+  "tekst": "19 Kasım 2026'da saat 10.21 UTC'de X'te bir hesap, büyük harflerle Putin'in az önce ateşkes ilan ettiğini ve tüm askerlerini Ukrayna sınırından çektiğini yazdı [1]. Paylaşım övgüyü Trump'a veriyor ve Putin'in barış istediğini ve Zelenskiy'in kendisini sürekli zorladığını söylediğini aktarıyor [1]. Hiçbir kaynak belirtmiyor [1].\n\nO gün, Shenzhen'deki APEC zirvesinin kenarında Trump, Putin ve Xi üçlü bir görüşme yaptı, Trump ve Putin ayrıca baş başa da görüştü [5]. Üç lider, Kremlin'in ve Çin Dışişleri Bakanlığı'nın yayımladığı dört maddelik bir Barışa Doğru Bildirge kabul etti [2] [3]. Bildirgede Birleşmiş Milletler'i reforme etmeyi, daha fazla rafine petrol ürünü sağlamayı ve nükleer riskler üzerine görüşmeler yapmayı taahhüt ediyorlar ve Uluslararası Ceza Mahkemesi'nin yargı yetkisini kötüye kullanmaması gerektiğini söylüyorlar [2] [3]. Bildirgede Ukrayna'dan, ateşkesten ya da askerlerden hiç söz edilmiyor [2] [3]. Associated Press herhangi bir atılım bildirmedi [5].\n\nPutin o günkü basın toplantısında Rusya'nın çatışmayı sürdürmek gibi bir isteği olmadığını ve Ukrayna'nın, Anchorage'daki görüşmelerden önce Amerikalıların önerdiği tavizleri kabul etmesi gerektiğini söyledi [4]. Ukrayna'nın Kırım Köprüsü'ne yönelik saldırıları sorulduğunda, artık denizde ya da enerjide saldırılara ara verilmesi konusunda görüşme yapılmayacağını ve Rusya'nın yanıtının geleceğini söyledi [4]. Rusya'nın Zaporijya ve Herson bölgelerindeki varlığını genişleteceğini ve Ukrayna güçlerini daha da geriye iteceğini söyledi [4]. Paylaşımın Putin'in ağzına koyduğu sözler Kremlin'in tutanağında yer almıyor [4].\n\nUkrayna Hava Kuvvetleri'ne göre Rusya, 20 Kasım'a geçen gece Ukrayna'ya balistik füzeler, 84 seyir füzesi ve 404 insansız hava aracıyla saldırdı [6]. En az dokuz kişi öldü, bunların yedisi, üç köprünün hasar gördüğü Kyiv'deydi [7]. Ertesi gece Hava Kuvvetleri 3 balistik füze ve 148 insansız hava aracı saydı [8].",
+  "niet_weten": "Hesabı kimin yönettiğini ve Putin'e atfedilen sözün ilk nerede ortaya çıktığını bilmiyoruz [1]. Kremlin'den ya da Pekin'den gelen hiçbir açıklamada ve hiçbir haberde, Shenzhen'deki görüşmenin ardından bir ateşkesten söz edildiğini bulamadık [2] [3] [4] [5].",
+  "bereik": "23 Kasım'da 895 beğeni, 260 yeniden paylaşım ve 99 yanıt",
+  "nog_uitzoeken": [
+   "Radar bu zirveyi ilk olarak, 19 Kasım'da bir görselle dolaşan başka bir paylaşım üzerinden fark etti. Paylaşımın yazarı, biz okuyamadan onu sildi; bu yüzden tam olarak ne öne sürdüğünü bilmiyoruz.",
+   "Rusça bir paylaşım bunun tersi bir sonuç olduğunu öne sürdü: Trump ve Xi'nin Putin'e teslim olması için üç gün verdiği ve Zelenskiy'in Çin'e uçtuğu. Bunu ayrıca doğrulamadık.",
+   "Putin'e atfedilen ve Zelenskiy'in kendisini sürekli zorladığını söylediği sözün daha önce başka paylaşımlarda ya da başka platformlarda yer alıp almadığı.",
+   "Paylaşım bir ateşkesi ve bir geri çekilmeyi gerçekleşmiş olarak sunduğu ve ikisi de gerçekleşmediği için \"Yanıltıcı\" yerine \"Yanlış\" kararını verdik. Daha fazla bilginiz varsa lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Trump, Putin ve Xi, APEC zirvesinin kenarında Shenzhen'de üçlü bir görüşme yapıyor [5].",
+   "Üç lider Barışa Doğru Bildirge'yi kabul ediyor; bildirgede Ukrayna'dan söz edilmiyor [2] [3].",
+   "X'te bir paylaşım, Putin'in ateşkes ilan ettiğini ve askerlerini çektiğini öne sürüyor [1].",
+   "Putin'in Shenzhen'deki basın toplantısı: Kırım Köprüsü'ne yönelik saldırıların ardından görüşme yok, bir karşılık verilecek [4].",
+   "Gece boyunca Rusya, Ukrayna'ya 84 seyir füzesi ve 404 insansız hava aracıyla saldırıyor; en az dokuz kişi ölüyor [6] [7].",
+   "Gece boyunca Rusya, Ukrayna'ya 3 balistik füze ve 148 insansız hava aracıyla saldırıyor [8]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 19 Kasım 2026, 10.21 UTC."
+  ],
+  "beeld_alt": [
+   "madrid_xtraq hesabının X'teki paylaşımı: büyük harflerle Putin'in ateşkes ilan ettiğini ve tüm askerlerini Ukrayna sınırından çektiğini yazıyor; Putin'in mikrofon başındaki bir görüntüsü ve Trump'ın kürsüdeki bir fotoğrafı yer alıyor, üstte Trump ile Putin'in el sıkıştığını gösteren alıntılanmış bir paylaşım var. Damga: YANLIŞ."
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "_meta": "Labels van de toets van lezer-v3 op verse berichten (PLAN #32.12), 2026-10-29, gelezen door Claude: elk groen bij een onwaar bericht (O') en elk rood of oranje bij een waar bericht (W'): 'vals' of 'set fout', met reden. Voor de PO om na te kijken. De PO keek ze op 2026-10-29 na op de pagina 'Labels en staatsmedia': 'po' is het oordeel van de PO over het label van Claude (eens of oneens) met opmerking; 'nagezocht' is wat de factcheck zegt, door Claude gelezen na een oneens of een vraag.",
+ "oordelen": [
+  {
+   "id": "O:gfc-af31d884bf31576d",
+   "label": "set fout",
+   "reden": "de claimtekst is de conclusie van VERA Files ('PBBM term not extended until 2034'), niet de valse bewering; zo geschreven klopt de zin, en groen is terecht",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "O:gfc-11c4d081697f0a84",
+   "label": "vals",
+   "reden": "FACTLY: de video toont een vrouw die haar zwangerschap onthult, niet het Bengaalse paar; een bewering over wat de posts tonen, die de lezer niet als beeld herkende ('de beweringen over foto's zijn niet het hoofdpunt')",
+   "po": {
+    "label": "eens",
+    "opmerking": "Wederom een foto probleem, klopt want dat kunnen we nog niet goed volgens mij"
+   }
+  },
+  {
+   "id": "W:7-4",
+   "label": "vals",
+   "reden": "het bericht klopt: de zoektocht is gestaakt en de daders zijn niet vastgesteld; dat Zelensky Rusland beschuldigt, maakt 'onbekend' niet misleidend, en 'in haar wateren' tegen de economische zone is een klein verschil. Te streng",
+   "po": {
+    "label": "eens"
+   }
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck elomar-foto van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "15bc7664d4f8dc82",
+ "veldafdrukken": {
+  "kop": "874cd5b5a071e544",
+  "oordeel_zin": "3e1715937a860353",
+  "bewering": "6b2dc81f110f6428",
+  "kort": "2f8b7f4296293998",
+  "tekst": "ccdfa19ee3e94890",
+  "niet_weten": "65c2cb4465169c00",
+  "nog_uitzoeken": "d264e14562417396",
+  "tijdlijn": "5b72d4ebc447f79a",
+  "beeld_bijschrift": "47f103c639fd552d",
+  "beeld_alt": "9b135b806e627e6a"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "斬首頭顱男子照片拍的不是 Ahmed al-Sharaa，而是2014年的伊斯蘭國戰士 Mohamed Elomar",
+  "oordeel_zin": "這張照片是真的，但照片中是澳洲人 Mohamed Elomar，2014年7月就已作為他的照片見諸新聞 [1] [2]。",
+  "bewering": "敘利亞領導人 Ahmed al-Sharaa 在這張照片中與被砍下的頭顱合影。",
+  "kort": "自9月23日起在 X 上流傳、被說成是敘利亞總統 Ahmed al-Sharaa 的那張男子手持兩顆被砍下頭顱的照片，拍的是另一個人 [8]。他是澳洲籍伊斯蘭國戰士 Mohamed Elomar，這張照片在2014年7月就已作為他的照片見諸新聞 [1] [2] [3]。同一張照片在2025年和2026年已多次被安到 al-Sharaa 頭上，至少四種語言的編輯部都已駁斥此說 [10] [11] [13] [15]。",
+  "tekst": "2026年9月23日星期三，Ahmed al-Sharaa 第二度在聯合國大會發表演說 [5] [6]。在 Euronews 報導此事一個多小時後，X 上出現一則荷蘭語貼文，附有一張據稱是他的照片 [5] [8]。照片中，一名留著鬍子的男子笑著舉起兩顆被砍下的頭顱。10月15日，這張照片再度流傳，是對部長 Sjoerd Sjoerdsma（外貿與發展合作大臣）一則關於支持敘利亞的貼文的回應：「你們給了這個人1,500萬歐元」[9]。這是單張照片，不是拼貼圖。9月23日的那則貼文已被刪除，因此我們自己並不知道貼文附了什麼文字 [8]。\n\n這張照片已有十二年歷史。2014年7月底，它出現在一個據稱屬於 Khaled Sharrouf 的推特帳號上，Sharrouf 是加入伊斯蘭國的澳洲人 [1] [2] [3]。據澳洲廣播公司 ABC 報導，照片中是來自雪梨的 Mohamed Elomar，手中是在拉卡戰鬥中被殺的敘利亞政府軍士兵的頭顱 [1]。Elomar 和 Sharrouf 於2013年底前往敘利亞，之後又前往伊拉克 [1] [2]。\n\n2014年7月29日，澳洲警方在這些照片公開後宣布，已對兩人發出以恐怖主義為由的逮捕令 [1] [2] [3]。2015年6月，媒體報導 Elomar 在摩蘇爾附近被殺。澳洲政府當時尚未證實此事 [4]。\n\nAl-Sharaa 確實有加入聖戰組織的過去。他以 Abu Mohammad al-Jolani 之名領導努斯拉陣線，即蓋達組織在敘利亞的分支 [11] [12]。但在查找過的編輯部中，沒有一家找到他手持被砍下頭顱的照片 [15]。\n\n這張照片和這項說法並不新。2025年9月 al-Sharaa 第一次在聯合國發表演說後，它們也曾流傳 [7]。當時葡萄牙語、英語和荷蘭語的編輯部就已指出照片中的人是 Elomar，其中包括 AFP Factcheck Nederland 和 VRT NWS [10] [11] [12] [15]。2026年4月，在他訪問柏林之後，這張照片又出現在一張拼貼圖中，奧地利的 Mimikama 稱其具誤導性 [13]。2026年4月底，路透社也報導了此事 [14]。",
+  "niet_weten": "我們不知道是誰在2026年9月最先把這張照片與al-Sharaa連結在一起，也不知道這兩則貼文是否出自同一個帳號。Elomar在2015年身亡一事，媒體是依據未具名消息來源報導的；我們沒有看到官方證實 [4]。",
+  "nog_uitzoeken": [
+   "9月23日那則貼文附有什麼內容。該貼文已被刪除，我們也沒有找到副本。",
+   "澳洲政府方面的消息來源日後是否證實了Elomar的死訊。"
+  ],
+  "tijdlijn": [
+   "澳洲警方在推特上的照片公開後，宣布對 Elomar 和 Sharrouf 發出逮捕令 [1] [2]。",
+   "媒體報導 Elomar 在摩蘇爾附近被殺 [4]。",
+   "Al-Sharaa 成為五十多年來首位在聯合國發表演說的敘利亞總統 [7]。",
+   "Aos Fatos 寫道，照片中的男子是 Elomar [15]。",
+   "AFP Factcheck Nederland：這張照片拍的是一名澳洲聖戰分子 [10]。",
+   "Mimikama 報導 al-Sharaa 訪問柏林後出現的拼貼圖 [13]。",
+   "路透社報導同一張照片 [14]。",
+   "X 上的荷蘭語貼文，發布於聯合國第二次演說當天 [5] [8]。",
+   "這張照片再度流傳，文字稱 al-Sharaa 與被砍下的頭顱合影 [9]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文，2026年10月15日9時46分，是我們找到的第二則；9月23日的那則已被刪除。貼文中的頭顱已被模糊處理。",
+   "ABC News，2014年7月29日：Mohamed Elomar 的照片，當時被發布在推特上。僅提供連結，畫面過於暴力，不予展示。"
+  ],
+  "beeld_alt": [
+   "一張留著鬍子的男子笑著手持兩顆被砍下頭顱的照片；頭顱已被模糊處理。印章：不實。",
+   "連結至 ABC News 關於2014年 Mohamed Elomar 照片的報導。"
+  ]
+ }
+}

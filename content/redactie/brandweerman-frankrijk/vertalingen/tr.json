@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bordeaux'da itfaiyeci, benzinli gençler yüzünden değil, patlayan bir sprey kutusu yüzünden yaralandı",
+  "oordeel_zin": "Bir itfaiyeci 29 Eylül'de, bir barikat yangınında sprey kutusu patlayınca kısa süreliğine bir alev jetine maruz kaldı; kimse üzerine benzin dökmedi ve onu ateşe vermedi [1] [3].",
+  "bewering": "Fransa'daki protestolar sırasında gençler bir itfaiyecinin üzerine benzin döküp onu ateşe verdi.",
+  "kort": "1 ve 2 Ekim'de X'te, Fransa'da gençlerin bir itfaiyecinin üzerine benzin döküp onu ateşe verdiğini söyleyen Felemenkçe paylaşımlar dolaştı [8]. 29 Eylül'de Bordeaux'da bir itfaiyeci, söndürmek istediği bir barikat yangınında bir sprey kutusu patlayınca gerçekten de kısa süreliğine bir alev jetine maruz kaldı [1] [3]. Olayda benzin yoktu; 1 Ekim'de Marsilya'da üzerine benzin dökülen kişi bir okul müdürüydü [5] [6].",
+  "tekst": "1 Ekim Perşembe günü saat 21:12'de X'te Felemenkçe bir paylaşım çıktı: gençler Fransa'daki protestolar sırasında bir itfaiyecinin üzerine benzin döküp onu ateşe vermiş [8]. Ertesi öğleden sonra ikinci bir paylaşım olayı Bordeaux'ya yerleştirdi [8]. İngilizce bir hesap 2 Ekim'de aynı hikâyeyle bir fotoğraf paylaştı; CORRECTIV'e göre bu fotoğraf yedi milyon kez görüntülendi ve Elon Musk da buna yanıt verdi [11].\n\nGerçekte ne olduğu Fransız basınında yazıyor: 29 Eylül Salı günü saat 12:30 sularında lise öğrencileri Bordeaux'da rue Sainte-Catherine üzerindeki Lycée Montaigne'i kapattı ve girişlerden birinde sokakta bir barikat yanıyordu [1]. Bir itfaiyeci ateşi söndürmek için ona doğru yürüdü ve tam o sırada ateşin içinde bir şey patladı: bir alev jeti onu kısa süreliğine sardı [1] [2].\n\nGironde Valiliği'ne göre bu, ateşin içinde duran bir sprey kutusuydu [3]. İtfaiyeci hafif yaralandı, hastaneye gitti ve aynı öğleden sonra itfaiye istasyonuna döndü [1]. Vali, onun birkaç gün çalışamayacağını söyledi [1]. BFMTV ve Le Figaro'nun iki farklı açıdan çekilmiş videolarında kimse onu ateşe vermiyor ve alev jetinden sonra kendisi birkaç metre geri yürüyor [4] [11] [12].\n\nBordeaux ile ilgili haberlerin hiçbirinde benzinden söz edilmiyor [1] [3]. Bordeaux Savcılığı ise ağır yaralanmayla sonuçlanan kasıtlı yangın çıkarma suçundan soruşturma başlattı; sprey kutusunun kasten ateşe konup konmadığını bu soruşturma ortaya çıkaracak [1].\n\nO hafta benzinle ilgili bir olay gerçekten yaşandı, ama Marsilya'da ve bir itfaiyeciye değil: 1 Ekim Perşembe günü orada Lycée Victor-Hugo'da okul müdürünün üzerine benzin döküldü, savcılığa göre müdür yaralandı [5] [6]. Başka bir anlatıma göre, bir öğrenci benzini bir çöp kutusuna atmak isterken benzin öğretmenlerin üzerine sıçradı [7]. Aynı sabah Lycée Saint-Exupéry'de yüzlerce genç bir itfaiye aracını çevirdi, itfaiyecileri kovaladı ve aracı ateşe verdi [5] [7]. Bu haberlerin hiçbiri ateşe verilen bir itfaiyeciden söz etmiyor [5] [6] [7].\n\nDiğer dillerdeki doğrulama kuruluşları da aynı sonuca vardı: An-Nahar 5 Ekim'de, EFE Verifica 6 Ekim'de, CORRECTIV 12 Ekim'de ve ZDFheute 14 Ekim'de [9] [10] [11] [12]. CORRECTIV'e göre fotoğraf gerçek; fotoğrafçı bunu AFP'ye doğruladı [11]. Felemenkçe olarak Knack bir doğrulama yazısı yazdı; yazı en geç 19 Ekim'de yayındaydı [13].",
+  "niet_weten": "Hollandaca gönderilerde hangi görüntünün yer aldığını bilmiyoruz. CORRECTIV fotoğrafın gerçek olduğunu söylüyor, An-Nahar ise videolardaki görüntüden farklı olan ve olasılıkla yeniden oluşturulmuş bir görüntü gördü [9] [11]. Belki dolaşımda iki farklı görüntü vardı. Ayrıca birinin sprey kutusunu bilerek ateşe atıp atmadığını ve savcılığın soruşturmasından ne çıktığını da bilmiyoruz.",
+  "nog_uitzoeken": [
+   "İki Hollandaca gönderinin hangi görüntüyü gösterdiği: Guillaume Bonnaud'nun gerçek fotoğrafı, yeniden oluşturulmuş bir versiyon ya da bir video. Gönderiler silinmiş durumda.",
+   "Bordeaux savcılığının soruşturma hakkında bir şey açıklayıp açıklamadığı ve birinin sprey kutusunu bilerek ateşe atıp atmadığı.",
+   "Diğer doğrulama kuruluşları farklı sonuçlara vardı: ZDFheute ve Mimikama yanıltıcı, CORRECTIV, EFE Verifica ve An-Nahar yanlış değerlendirmesini yaptı. Biz yanlış değerlendirmesini yaptık."
+  ],
+  "tijdlijn": [
+   "Bordeaux'da Lycée Montaigne önündeki bir barikatta bir itfaiyeci alev jetine maruz kalıyor [1].",
+   "BFMTV, o anın videosunu X'e koyuyor [4].",
+   "Marsilya'da bir okul müdürünün üzerine benzin dökülüyor ve bir itfaiye aracı ateşe veriliyor [5] [6].",
+   "İlk Felemenkçe paylaşım: benzin dökülüp ateşe verilmiş [8].",
+   "İkinci bir Felemenkçe paylaşım olayı Bordeaux'ya yerleştiriyor [8].",
+   "An-Nahar: iddia doğru değil [9].",
+   "CORRECTIV: fotoğraf gerçek, kimse itfaiyeciyi ateşe vermedi [11].",
+   "Knack'ın doğrulama yazısı en geç bu günde yayında [13]."
+  ],
+  "beeld_bijschrift": [
+   "BFMTV, X'te, 29 Eylül 2026: Bordeaux'daki Lycée Montaigne'in yanındaki itfaiyecinin videosu."
+  ],
+  "beeld_alt": [
+   "BFMTV videosu: bir itfaiyeci sokakta küçük bir ateşe doğru yürüyor, alevler yükseliyor ve hemen sönüyor."
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "サバ島の小さな滑走路でエアバス・ベルーガが向きを変える動画は、Microsoft Flight Simulatorで作られたものだった",
+  "oordeel_zin": "この動画は2025年8月にYouTubeに投稿され、ゲーム「Microsoft Flight Simulator 2024」の作品として表示されていた。動画に映るサバ島の滑走路は長さ401メートル、幅18メートルで、BelugaXLの全長は63.1メートルである [5] [7] [8]。",
+  "bewering": "これは信じられない... こんな巨大な飛行機が、どうやってこんな小さな道で向きを変えられるんだ... パイロットに最大限の敬意を",
+  "kort": "11月11日以降、Xでは、エアバスBelugaXLが崖の上の小さな滑走路で向きを変えて離陸する動画が、実際のフライトであるかのように共有されている [1] [3]。この動画はフライトシミュレーターのものである。2025年8月にYouTubeに投稿されており、ゲーム「Microsoft Flight Simulator 2024」の作品として表示されていた [5]。この滑走路はサバ島のもので、長さは401メートル、幅は18メートル、BelugaXLの全長は63.1メートルである [7] [8]。",
+  "tekst": "2026年11月16日、アカウントのAmelia CollinsはXに、「こんな巨大な飛行機」がどうして「こんな小さな道」で向きを変えられるのか信じられない、「パイロットに最大限の敬意を」と書き込んだ [1]。この投稿は、別のアカウントが2026年3月9日にXに「One of the shortest runways an airplane has to land on」という文言で投稿した、2分41秒の動画にリンクしている [2]。そのアカウントはその後、この投稿を削除している [2]。11月11日から19日にかけて、この動画にリンクするXの投稿を、47のアカウントによる55件確認した [1] [3]。11月22日には、あるアカウントが短縮版のコピーをアップロードした [4]。\n\n動画には、側面にBELUGA XLとAIRBUSの文字がある大型の白い貨物機が映っている [2]。機体は、ソーラーパネルが並ぶ脇の、30と表示された滑走路で向きを変え、海の上へ離陸して、別の場所に着陸する [2]。\n\n同じ動画が、同じ場面が同じタイミングで、2025年8月6日にYouTubeチャンネルのSmilo Flyによって「Airbus Beluga XL Impossible takeoff from SABA Airport」という題で投稿されている [5]。YouTubeはその動画の作品として、ゲームMicrosoft Flight Simulator 2024を表示している [5]。\n\nサバ島はカリブ海にあるオランダの島で、ソーラーパークは空港のすぐ隣にある [6] [7]。サバ島に関する公式の航空情報によると、滑走路は長さ401メートル、幅18メートルで、この空港を使えるのはオランダ政府が認可した航空機のみである [7]。エアバスによると、BelugaXLの全長は63.1メートルで、6機のBelugaXLがヨーロッパの11の目的地の間で航空機の部品を運んでいる [8]。\n\nAviation Safety Networkのデータベースで私たちが見つけたBelugaXLの事故は1件で、フランスで起きたものだった [9]。2022年11月18日、BelugaXLがアルベールで着陸後に180度旋回をしている最中に、舗装面から部分的に外れた [9]。",
+  "niet_weten": "シミュレーターでこのフライトを録画したのが誰かは分からない。2025年8月6日のSmilo Flyによるアップロードは私たちが見つけた中で最も早いものだが、このチャンネルが他から複製した可能性もある [5]。Xのアカウントが3月9日の投稿を削除した理由も分からない [2]。",
+  "bereik": "この動画にリンクする55件の投稿は、11月23日時点で合計4,229件のいいねと2,151件の返信を集めた。11月16日の投稿は、いいねが70件、閲覧が27,300回だった",
+  "nog_uitzoeken": [
+   "Microsoft Flight Simulator 2024でこのフライトを録画したのは誰か、またSmilo Flyがこの動画を自分で作ったのか、他の制作者から取ったのか。",
+   "「It really goes unplanned」のように、リンクと一緒に同じ文を投稿したアカウントどうしが連携しているかどうか。",
+   "この動画が最初にどこに現れたかについて詳しい情報をお持ちの方は、ぜひお知らせください。"
+  ],
+  "tijdlijn": [
+   "実際のBelugaXLが、フランスのアルベールで180度旋回中に舗装面から部分的に外れる [9]。",
+   "Smilo FlyがYouTubeに動画を投稿し、Microsoft Flight Simulator 2024の作品として表示される [5]。",
+   "あるアカウントが、最も短い滑走路の一つとして同じ動画をXに投稿する [2]。",
+   "11月に私たちが見つけた最初の投稿が、その動画にリンクしている [3]。",
+   "Amelia Collins:パイロットに最大限の敬意を [1]。",
+   "あるアカウントが、動画の短縮版のコピーをアップロードする [4]。"
+  ],
+  "beeld_bijschrift": [
+   "Xの投稿に載せられた動画のコピー。2026年11月22日 04:12 UTC。",
+   "YouTubeのSmilo Fly、2025年8月6日:同じ2分41秒の動画で、ゲームMicrosoft Flight Simulator 2024の作品として表示されている。"
+  ],
+  "beeld_alt": [
+   "世界で最も短い滑走路の一つで、パイロットは完璧に着陸しなければならない、と書かれたXの投稿と、動画の静止画。ソーラーパークの隣のエプロンにいるエアバスBelugaXLと、30と表示された短い滑走路が映っている。スタンプ:誤り。",
+   "Smilo FlyのYouTube動画の静止画。サバ島空港のソーラーパークの隣にあるエプロンのエアバスBelugaXLと、崖の上の30と表示された滑走路が映っている。"
+  ]
+ }
+}

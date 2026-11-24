@@ -1,0 +1,313 @@
+{
+  "_meta": "Handgemaakte seed-fixture voor de kernlus (PLAN.md #1.2). Fictieve voorbeeldclaims; URL's zijn fixture-data, geen echte factchecks.",
+  "claims": [
+    {
+      "claim_id": "seed-zeespiegel",
+      "canonical_text": "De zeespiegel daalt al tien jaar wereldwijd",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/zeespiegel-daalt",
+          "review_date": "2024-03-14",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-jansen-afgetreden",
+      "canonical_text": "Minister Jansen is afgetreden vanwege het datalek",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/jansen-afgetreden",
+          "review_date": "2025-01-20",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-jansen-niet-afgetreden",
+      "canonical_text": "Minister Jansen is niet afgetreden vanwege het datalek",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "AFP Factcheck Nederland",
+          "verdict_normalized": "waar",
+          "verdict_original": "Waar",
+          "url": "https://factchecknederland.afp.com/jansen-niet-afgetreden",
+          "review_date": "2025-01-22",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-vaccin-microchip-nl",
+      "canonical_text": "Coronavaccins bevatten microchips om mensen te volgen",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onzin",
+          "url": "https://nieuwscheckers.nl/factcheck/vaccin-microchip",
+          "review_date": "2023-08-02",
+          "language": "nl"
+        },
+        {
+          "publisher": "AFP Factcheck Nederland",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onwaar",
+          "url": "https://factchecknederland.afp.com/vaccin-microchip",
+          "review_date": "2023-09-15",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-windmolens-subsidie",
+      "canonical_text": "Windmolens draaien volledig op subsidie en leveren netto geen stroom",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "deels-waar",
+          "verdict_original": "Grotendeels onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/windmolens-subsidie",
+          "review_date": "2024-06-30",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-eu-accountants",
+      "canonical_text": "De EU-begroting is al 25 jaar niet goedgekeurd door accountants",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "EUfactcheck",
+          "verdict_normalized": "misleidend",
+          "verdict_original": "Misleidend",
+          "url": "https://eufactcheck.eu/factcheck/eu-begroting-accountants",
+          "review_date": "2023-11-08",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-5g-vogels",
+      "canonical_text": "5G-masten veroorzaken massale vogelsterfte in Nederland",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "AFP Factcheck Nederland",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onwaar",
+          "url": "https://factchecknederland.afp.com/5g-vogelsterfte",
+          "review_date": "2023-05-11",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-stikstof-export",
+      "canonical_text": "Nederland exporteert de meeste stikstof van heel Europa",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "deels-waar",
+          "verdict_original": "Half waar",
+          "url": "https://nieuwscheckers.nl/factcheck/stikstof-export",
+          "review_date": "2024-02-19",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-duizend-euro",
+      "canonical_text": "Iedere Nederlander krijgt in januari duizend euro van de overheid",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/duizend-euro-januari",
+          "review_date": "2024-12-05",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-fluoride-drinkwater",
+      "canonical_text": "Aan Nederlands drinkwater wordt fluoride toegevoegd",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/fluoride-drinkwater",
+          "review_date": "2023-04-27",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-koe-autos",
+      "canonical_text": "Eén koe stoot evenveel broeikasgas uit als honderd auto's",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "Nieuwscheckers",
+          "verdict_normalized": "deels-waar",
+          "verdict_original": "Grotendeels onjuist",
+          "url": "https://nieuwscheckers.nl/factcheck/koe-honderd-autos",
+          "review_date": "2024-09-09",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-stemcomputers",
+      "canonical_text": "De stemcomputers zijn gehackt bij de laatste Tweede Kamerverkiezingen",
+      "language": "nl",
+      "factchecks": [
+        {
+          "publisher": "AFP Factcheck Nederland",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Onwaar",
+          "url": "https://factchecknederland.afp.com/stemcomputers-gehackt",
+          "review_date": "2023-12-01",
+          "language": "nl"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-vaccin-microchip-en",
+      "canonical_text": "COVID-19 vaccines contain microchips to track people",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Reuters Fact Check",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "False",
+          "url": "https://reuters.com/fact-check/vaccine-microchip",
+          "review_date": "2023-07-18",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-moon-landing",
+      "canonical_text": "The moon landing was filmed in a Hollywood studio",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Snopes",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "False",
+          "url": "https://snopes.com/fact-check/moon-landing-studio",
+          "review_date": "2023-02-14",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-great-wall",
+      "canonical_text": "The Great Wall of China is visible from the Moon with the naked eye",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Snopes",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "False",
+          "url": "https://snopes.com/fact-check/great-wall-moon",
+          "review_date": "2023-06-21",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-bananas-radiation",
+      "canonical_text": "Eating five bananas gives you a lethal dose of radiation",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Full Fact",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Incorrect",
+          "url": "https://fullfact.org/health/bananas-radiation",
+          "review_date": "2024-01-30",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-climate-cooling",
+      "canonical_text": "Global temperatures have been cooling since 1998",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "PolitiFact",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Pants on Fire",
+          "url": "https://politifact.com/factchecks/climate-cooling-1998",
+          "review_date": "2023-10-12",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-immigrants-crime",
+      "canonical_text": "Immigrants commit the majority of crimes in the United Kingdom",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Full Fact",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "Incorrect",
+          "url": "https://fullfact.org/crime/immigrants-majority-crimes",
+          "review_date": "2024-04-08",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-plastic-rice",
+      "canonical_text": "Supermarkets are selling rice made of plastic",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "AFP Fact Check",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "False",
+          "url": "https://factcheck.afp.com/plastic-rice-supermarkets",
+          "review_date": "2023-03-03",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "claim_id": "seed-goldfish-memory",
+      "canonical_text": "Goldfish have a memory span of only three seconds",
+      "language": "en",
+      "factchecks": [
+        {
+          "publisher": "Snopes",
+          "verdict_normalized": "onwaar",
+          "verdict_original": "False",
+          "url": "https://snopes.com/fact-check/goldfish-memory",
+          "review_date": "2024-07-25",
+          "language": "en"
+        }
+      ]
+    }
+  ]
+}

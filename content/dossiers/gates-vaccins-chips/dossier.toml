@@ -1,0 +1,263 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-15, PO: "Alle dossiers zijn akkoord, behalve: Beelden van een aardbeving bij de verkeerde ramp"'
+thema = "health"
+onderdeel = "vaccines"
+verwant = []
+
+[naam]
+nl = "Het verhaal over Bill Gates, vaccins en microchips"
+en = "The story of Bill Gates, vaccines and microchips"
+de = "Die Erzählung über Bill Gates, Impfstoffe und Mikrochips"
+es = "El relato sobre Bill Gates, las vacunas y los microchips"
+fr = "Le récit sur Bill Gates, les vaccins et les puces électroniques"
+pt = "A história de Bill Gates, vacinas e microchips"
+ru = "История о Билле Гейтсе, вакцинах и микрочипах"
+uk = "Історія про Білла Гейтса, вакцини та мікрочипи"
+id = "Kisah Bill Gates, vaksin, dan mikrocip"
+tr = "Bill Gates, aşılar ve mikroçipler hikâyesi"
+zh = "比爾·蓋茲、疫苗與微晶片的傳言"
+ja = "ビル・ゲイツ、ワクチン、マイクロチップをめぐる話"
+hi = "बिल गेट्स, वैक्सीन और माइक्रोचिप की कहानी"
+ar = "قصة بيل غيتس واللقاحات والرقائق الإلكترونية"
+fa = "ماجرای بیل گیتس، واکسن‌ها و ریزتراشه‌ها"
+
+[inleiding]
+nl = """
+Eén verhaal over Bill Gates komt steeds terug: dat hij met vaccins mensen een chip wil inbrengen, hen wil volgen of onvruchtbaar wil maken, de wereldbevolking wil verkleinen, of de pandemie zou hebben gepland. De vorm wisselt: een patent, een citaat, een video, een vaccinatie in een ander land. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+One story about Bill Gates keeps coming back: that he wants to use vaccines to implant chips in people, track them or make them infertile, reduce the world population, or that he planned the pandemic. The form changes: a patent, a quote, a video, a vaccination campaign in another country. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung über Bill Gates kehrt immer wieder: Er wolle Menschen mit Impfungen Chips einpflanzen, sie überwachen oder unfruchtbar machen, die Weltbevölkerung verkleinern, oder er habe die Pandemie geplant. Die Form wechselt: ein Patent, ein Zitat, ein Video, eine Impfkampagne in einem anderen Land. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato sobre Bill Gates vuelve una y otra vez: que quiere usar las vacunas para implantar chips, vigilar a las personas o volverlas estériles, reducir la población mundial, o que planeó la pandemia. La forma cambia: una patente, una cita, un vídeo, una campaña de vacunación en otro país. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Un récit sur Bill Gates revient sans cesse : il voudrait implanter des puces avec les vaccins, surveiller les gens ou les rendre stériles, réduire la population mondiale, ou il aurait planifié la pandémie. La forme change : un brevet, une citation, une vidéo, une campagne de vaccination dans un autre pays. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Uma história sobre Bill Gates não para de voltar: que ele quer usar vacinas para implantar chips nas pessoas, rastreá-las ou torná-las inférteis, reduzir a população mundial, ou que planejou a pandemia. A forma muda: uma patente, uma citação, um vídeo, uma campanha de vacinação em outro país. Este dossiê coloca em uma linha do tempo as versões que as agências checaram. Cada checagem diz o que aquela agência encontrou; a Factiz não acrescenta nenhuma classificação própria. A lista traz apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+Одна история о Билле Гейтсе возвращается снова и снова: будто он хочет с помощью вакцин вживлять людям чипы, следить за ними или делать их бесплодными, сократить население мира или что он спланировал пандемию. Форма меняется: патент, цитата, видео, кампания вакцинации в другой стране. В этом досье версии, которые проверили редакции, расположены на временной шкале. Каждый фактчек говорит о том, что нашла эта редакция. Своего вердикта Factiz не добавляет. В список входят только фактчеки, которые нам разрешено republish, поэтому он неполный.'''
+uk = '''
+Одна історія про Білла Гейтса постійно повертається: нібито він хоче за допомогою вакцин вживляти людям чипи, стежити за ними або робити їх безплідними, скоротити населення світу чи що він спланував пандемію. Форма змінюється: патент, цитата, відео, кампанія вакцинації в іншій країні. Це досьє розміщує на часовій шкалі версії, які перевіряли редакції. Кожен фактчек показує, що виявила ця редакція. Factiz не додає власного вердикту. У списку лише фактчеки, які ми можемо повторно публікувати, тому він неповний.'''
+id = '''
+Satu kisah tentang Bill Gates terus muncul kembali: bahwa ia ingin memakai vaksin untuk menanamkan cip pada orang, melacak mereka atau membuat mereka mandul, mengurangi jumlah penduduk dunia, atau bahwa ia merencanakan pandemi. Bentuknya berubah: sebuah paten, kutipan, video, atau kampanye vaksinasi di negara lain. Dosir ini menempatkan versi-versi yang diperiksa redaksi dalam satu lini masa. Setiap cek fakta menyampaikan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, sehingga tidak lengkap.'''
+tr = '''
+Bill Gates hakkındaki bir hikâye sürekli geri geliyor: aşılar yoluyla insanlara çip yerleştirmek, onları takip etmek ya da kısır bırakmak, dünya nüfusunu azaltmak istediği veya pandemiyi planladığı. Biçimi değişiyor: bir patent, bir alıntı, bir video, başka bir ülkedeki aşı kampanyası. Bu dosya, doğrulama kuruluşlarının incelediği sürümleri bir zaman çizelgesine yerleştiriyor. Her doğrulama, ilgili doğrulama kuruluşunun ne bulduğunu söyler; Factiz kendi başına bir karar eklemez. Liste yalnızca yeniden yayımlama iznimiz olan doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+有一則關於比爾·蓋茲的傳言一再出現:說他想用疫苗在人體植入晶片、追蹤人,或讓人不孕,說他想減少世界人口,或說疫情是他策劃的。這則傳言的形式一直在變:專利、引述、影片,或是在其他國家的疫苗接種行動。這個專題把各查核機構查核過的不同版本放在時間軸上。每一份查核報告都說明該查核機構的發現,Factiz 不另外加上任何查核結果。清單裡只有我們可以轉載的查核報告,所以並不完整。'''
+ja = '''
+ビル・ゲイツ氏をめぐる、ある話が繰り返し出回っています。ワクチンで人々にチップを埋め込む、追跡する、不妊にする、世界の人口を減らす、あるいはパンデミックを計画した、というものです。形は変わります。特許、発言の引用、動画、他国でのワクチン接種キャンペーンなどです。この特集では、報道機関が検証した各種の言説を時系列に並べています。それぞれのファクトチェックには、その報道機関が確認した内容が書かれています。Factizが独自に判定を加えることはありません。一覧に載せているのは、転載を認められたファクトチェックだけなので、すべてを網羅しているわけではありません。'''
+hi = '''
+बिल गेट्स को लेकर एक कहानी बार-बार लौट आती है: कि वे वैक्सीन के ज़रिए लोगों में चिप लगाना, उन पर नज़र रखना या उन्हें बांझ बनाना चाहते हैं, दुनिया की आबादी घटाना चाहते हैं, या उन्होंने महामारी की योजना बनाई थी। इसका रूप बदलता रहता है: कभी पेटेंट, कभी कोई उद्धरण, कभी वीडियो, कभी किसी दूसरे देश का टीकाकरण अभियान। इस डोसियर में न्यूज़रूम द्वारा जांचे गए ये सभी रूप एक टाइमलाइन पर रखे गए हैं। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपनी ओर से कोई निष्कर्ष नहीं जोड़ता। इस सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+هناك قصة عن بيل غيتس تعود باستمرار: أنه يريد استخدام اللقاحات لزرع رقائق في الناس، أو تتبعهم، أو جعلهم عقيمين، أو تقليص عدد سكان العالم، أو أنه خطط للجائحة. وتتغير الصيغة: براءة اختراع، أو اقتباس، أو مقطع فيديو، أو حملة تطعيم في بلد آخر. يضع هذا الملف على خط زمني النسخ التي دققتها المنصات الإخبارية. يبيّن كل تدقيق ما توصلت إليه المنصة التي أجرته، ولا يضيف Factiz أي تصنيف من عنده. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي غير كاملة.'''
+fa = '''
+یک ماجرا درباره بیل گیتس بارها تکرار می‌شود: اینکه او می‌خواهد با واکسن در بدن مردم تراشه بکارد، آن‌ها را ردیابی کند یا ناباروریشان کند، جمعیت جهان را کم کند، یا اینکه همه‌گیری را او برنامه‌ریزی کرده است. شکل ماجرا عوض می‌شود: یک حق ثبت اختراع، یک نقل‌قول، یک ویدیو، یک کارزار واکسیناسیون در کشوری دیگر. این پرونده نسخه‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه چه یافته است؛ Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. این فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه بازنشر آن‌ها را داریم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "besluit"
+datum = "2020-01-24"
+bron = "Johns Hopkins Center for Health Security"
+url = "https://www.centerforhealthsecurity.org/news/center-news/2020-01-24-Statement-of-Clarification-Event201.html"
+[item.titel]
+nl = "Het Johns Hopkins Center for Health Security, dat de oefening Event 201 met de Gates-stichting hield, zegt dat het de uitbraak van het coronavirus niet voorspelde"
+en = "The Johns Hopkins Center for Health Security, which ran the Event 201 exercise with the Gates Foundation, says it did not predict the coronavirus outbreak"
+de = "Das Johns Hopkins Center for Health Security, das die Übung Event 201 mit der Gates-Stiftung ausrichtete, sagt, es habe den Ausbruch des Coronavirus nicht vorhergesagt"
+es = "El Johns Hopkins Center for Health Security, que organizó el ejercicio Event 201 con la Fundación Gates, dice que no predijo el brote de coronavirus"
+fr = "Le Johns Hopkins Center for Health Security, qui a organisé l’exercice Event 201 avec la fondation Gates, dit ne pas avoir prédit l’épidémie de coronavirus"
+pt = "O Johns Hopkins Center for Health Security, que realizou o exercício Event 201 com a Fundação Gates, diz que não previu o surto de coronavírus"
+ru = "Центр health security Университета Джонса Хопкинса, который проводил учения Event 201 вместе с Фондом Гейтса, заявляет, что не предсказывал вспышку коронавируса"
+uk = "Центр безпеки здоров'я Університету Джонса Гопкінса, який разом із Фондом Гейтсів проводив навчання Event 201, заявляє, що не передбачав спалах коронавірусу"
+id = "Johns Hopkins Center for Health Security, yang menjalankan latihan Event 201 bersama Gates Foundation, menyatakan pihaknya tidak memprediksi wabah virus corona"
+tr = "Gates Vakfı ile birlikte Event 201 tatbikatını yürüten Johns Hopkins Sağlık Güvenliği Merkezi, koronavirüs salgınını önceden tahmin etmediğini söylüyor"
+zh = "與蓋茲基金會共同舉辦 Event 201 演習的約翰霍普金斯健康安全中心表示,該演習並未預測冠狀病毒疫情的爆發"
+ja = "ゲイツ財団とともにイベント201の演習を行ったジョンズ・ホプキンス健康安全保障センターは、コロナウイルスの流行を予測したわけではないと述べています"
+hi = "जॉन्स हॉपकिन्स सेंटर फ़ॉर हेल्थ सिक्योरिटी ने, जिसने गेट्स फ़ाउंडेशन के साथ Event 201 अभ्यास किया था, कहा कि उसने कोरोनावायरस के प्रकोप की भविष्यवाणी नहीं की थी"
+ar = "يقول مركز جونز هوبكنز للأمن الصحي، الذي نظم تمرين Event 201 مع مؤسسة غيتس، إنه لم يتنبأ بتفشي فيروس كورونا"
+fa = "مرکز امنیت سلامت دانشگاه جانز هاپکینز، که تمرین Event 201 را همراه با بنیاد گیتس برگزار کرد، می‌گوید شیوع ویروس کرونا را پیش‌بینی نکرده بود"
+
+[[item]]
+soort = "onderzoek"
+datum = "2020-04-03"
+bron = "DFRLab"
+url = "https://dfrlab.org/2020/04/03/bill-gates-trends-in-south-africa-after-coronavirus-anti-vaxxer-conspiracy-theory-goes-viral/"
+[item.titel]
+nl = "DFRLab meldt dat Bill Gates op 31 maart 2020 derde stond in de trends van Twitter in Zuid-Afrika, nadat een valse waarschuwing tegen een vaccin van Gates viraal ging"
+en = "DFRLab reports that Bill Gates reached third place in South Africa's Twitter trends on 31 March 2020 after a false warning against a Gates vaccine went viral"
+de = "Das DFRLab berichtet, Bill Gates sei am 31. März 2020 auf Platz drei der Twitter-Trends in Südafrika gelangt, nachdem eine falsche Warnung vor einem Gates-Impfstoff viral ging"
+es = "El DFRLab informa de que Bill Gates fue tercera tendencia en Twitter en Sudáfrica el 31 de marzo de 2020, tras viralizarse una falsa advertencia contra una vacuna de Gates"
+fr = "Le DFRLab indique que Bill Gates était troisième des tendances Twitter en Afrique du Sud le 31 mars 2020, après la diffusion virale d’une fausse alerte contre un vaccin de Gates"
+pt = "O DFRLab informa que Bill Gates chegou ao terceiro lugar nas tendências do Twitter na África do Sul em 31 de março de 2020, depois que um alerta falso contra uma vacina da Gates viralizou"
+ru = "DFRLab сообщает, что 31 марта 2020 года Билл Гейтс вышел на третье место в трендах Twitter в Южной Африке после того, как массово распространилось ложное предупреждение против вакцины Гейтса"
+uk = "DFRLab повідомляє, що 31 березня 2020 року Білл Гейтс опинився на третьому місці в трендах Twitter у Південній Африці після того, як поширилося хибне попередження проти вакцини Гейтса"
+id = "DFRLab melaporkan bahwa Bill Gates mencapai peringkat ketiga tren Twitter di Afrika Selatan pada 31 Maret 2020 setelah peringatan palsu terhadap vaksin Gates menjadi viral"
+tr = "DFRLab, Gates aşısına karşı yapılan yanlış bir uyarı yayılınca Bill Gates'in 31 Mart 2020'de Güney Afrika'daki Twitter gündeminde üçüncü sıraya ulaştığını bildiriyor"
+zh = "DFRLab 報導,2020 年 3 月 31 日,在一則反對蓋茲疫苗的不實警告廣傳後,比爾·蓋茲登上南非 Twitter 熱門趨勢第三名"
+ja = "DFRLabによると、ゲイツ氏のワクチンに対する偽の警告が拡散し、2020年3月31日に、ビル・ゲイツ氏が南アフリカのTwitterトレンドで3位になりました"
+hi = "DFRLab के अनुसार, 31 मार्च 2020 को गेट्स की वैक्सीन के खिलाफ एक झूठी चेतावनी वायरल होने के बाद बिल गेट्स दक्षिण अफ़्रीका के ट्विटर ट्रेंड में तीसरे स्थान पर पहुंच गए"
+ar = "يفيد DFRLab بأن بيل غيتس بلغ المرتبة الثالثة في اتجاهات تويتر في جنوب أفريقيا في 31 مارس 2020 بعد انتشار تحذير كاذب من لقاح لغيتس"
+fa = "DFRLab گزارش می‌دهد که بیل گیتس در ۳۱ مارس ۲۰۲۰، پس از وایرال شدن یک هشدار نادرست علیه واکسن گیتس، در روندهای توییتر آفریقای جنوبی به رتبه سوم رسید"
+
+[[item]]
+soort = "pers"
+datum = "2020-04-17"
+bron = "CNBC, on an analysis by The New York Times and Zignal Labs"
+url = "https://www.cnbc.com/2020/04/17/bill-gates-is-top-target-for-coronavirus-conspiracy-theories-report.html"
+[item.titel]
+nl = "CNBC over een analyse van The New York Times en Zignal Labs: 1,2 miljoen keer kwamen complottheorieën over Gates en corona op tv en sociale media, van februari tot april 2020"
+en = "CNBC reports an analysis by The New York Times and Zignal Labs: 1.2 million mentions of Gates coronavirus conspiracy theories on TV and social media, February to April 2020"
+de = "CNBC über eine Analyse der New York Times und von Zignal Labs: 1,2 Millionen Erwähnungen von Verschwörungstheorien über Gates und Corona in TV und sozialen Medien, Februar bis April 2020"
+es = "CNBC sobre un análisis de The New York Times y Zignal Labs: 1,2 millones de menciones de teorías conspirativas sobre Gates y el coronavirus en TV y redes, de febrero a abril de 2020"
+fr = "CNBC sur une analyse du New York Times et de Zignal Labs : 1,2 million de mentions de théories du complot sur Gates et le coronavirus à la télé et en ligne, de février à avril 2020"
+pt = "A CNBC divulga uma análise do The New York Times e da Zignal Labs: 1,2 milhão de menções a teorias da conspiração sobre Gates e o coronavírus na TV e nas redes sociais, de fevereiro a abril de 2020"
+ru = "CNBC сообщает об анализе The New York Times и Zignal Labs: 1,2 миллиона упоминаний конспирологических теорий о Гейтсе и коронавирусе на телевидении и в соцсетях с февраля по апрель 2020 года"
+uk = "CNBC наводить аналіз The New York Times і Zignal Labs: 1,2 мільйона згадок конспірологічних теорій про Гейтса і коронавірус на телебаченні та в соцмережах, з лютого по квітень 2020 року"
+id = "CNBC melaporkan analisis The New York Times dan Zignal Labs: 1,2 juta sebutan teori konspirasi tentang Gates dan virus corona di TV dan media sosial, Februari hingga April 2020"
+tr = "CNBC, The New York Times ve Zignal Labs'in analizini aktarıyor: Şubat-Nisan 2020 arasında televizyonda ve sosyal medyada Gates'le ilgili koronavirüs komplo teorilerinden 1,2 milyon kez söz edildi"
+zh = "CNBC 報導《紐約時報》與 Zignal Labs 的分析:2020 年 2 月至 4 月,電視與社群媒體上有 120 萬次提及蓋茲的冠狀病毒陰謀論"
+ja = "CNBCが、The New York TimesとZignal Labsの分析を報道。2020年2月から4月に、ゲイツ氏とコロナウイルスに関する陰謀論への言及が、テレビとソーシャルメディアで120万件ありました"
+hi = "CNBC ने द न्यूयॉर्क टाइम्स और Zignal Labs का विश्लेषण बताया: फरवरी से अप्रैल 2020 के बीच टीवी और सोशल मीडिया पर गेट्स से जुड़े कोरोनावायरस षड्यंत्र सिद्धांतों का 12 लाख बार ज़िक्र हुआ"
+ar = "تنقل CNBC تحليلاً أجرته صحيفة نيويورك تايمز وشركة Zignal Labs: 1.2 مليون إشارة إلى نظريات المؤامرة عن غيتس وفيروس كورونا في التلفزيون ووسائل التواصل الاجتماعي، من فبراير إلى أبريل 2020"
+fa = "CNBC تحلیلی از The New York Times و Zignal Labs را گزارش می‌دهد: ۱٫۲ میلیون اشاره به نظریه‌های توطئه گیتس درباره کرونا در تلویزیون و شبکه‌های اجتماعی، از فوریه تا آوریل ۲۰۲۰"
+
+[[item]]
+soort = "onderzoek"
+datum = "2020-05-22"
+bron = "Yahoo News/YouGov"
+url = "https://www.yahoo.com/news/new-yahoo-news-you-gov-poll-shows-coronavirus-conspiracy-theories-spreading-on-the-right-may-hamper-vaccine-efforts-152843610.html"
+[item.titel]
+nl = "Een peiling van Yahoo News en YouGov: 44 procent van de Republikeinen en 19 procent van de Democraten gelooft dat Gates met covidvaccins microchips wil inbrengen"
+en = "A Yahoo News/YouGov poll finds that 44 percent of Republicans and 19 percent of Democrats believe Gates wants to use covid vaccines to implant microchips"
+de = "Eine Umfrage von Yahoo News und YouGov: 44 Prozent der Republikaner und 19 Prozent der Demokraten glauben, Gates wolle mit Covid-Impfstoffen Mikrochips einpflanzen"
+es = "Una encuesta de Yahoo News y YouGov: el 44 % de los republicanos y el 19 % de los demócratas creen que Gates quiere implantar microchips con las vacunas contra la covid"
+fr = "Un sondage Yahoo News et YouGov : 44 % des républicains et 19 % des démocrates croient que Gates veut implanter des micropuces avec les vaccins contre la covid"
+pt = "Uma pesquisa do Yahoo News/YouGov mostra que 44 por cento dos republicanos e 19 por cento dos democratas acreditam que Gates quer usar vacinas contra a covid para implantar microchips"
+ru = "Опрос Yahoo News/YouGov показывает, что 44 процента республиканцев и 19 процентов демократов считают, что Гейтс хочет с помощью вакцин от covid вживлять микрочипы"
+uk = "Опитування Yahoo News/YouGov показує, що 44 відсотки республіканців і 19 відсотків демократів вважають, що Гейтс хоче за допомогою вакцин проти ковіду вживляти мікрочипи"
+id = "Jajak pendapat Yahoo News/YouGov menemukan bahwa 44 persen pendukung Partai Republik dan 19 persen pendukung Partai Demokrat percaya Gates ingin memakai vaksin covid untuk menanamkan mikrocip"
+tr = "Yahoo News/YouGov anketine göre Cumhuriyetçilerin yüzde 44'ü ve Demokratların yüzde 19'u, Gates'in covid aşılarıyla mikroçip yerleştirmek istediğine inanıyor"
+zh = "Yahoo News 與 YouGov 的民調發現,44% 的共和黨人和 19% 的民主黨人相信蓋茲想利用新冠疫苗植入微晶片"
+ja = "Yahoo News/YouGovの世論調査で、共和党支持者の44%、民主党支持者の19%が、ゲイツ氏はコロナワクチンでマイクロチップを埋め込もうとしていると信じていることが分かりました"
+hi = "Yahoo News/YouGov के एक सर्वे में पाया गया कि 44 प्रतिशत रिपब्लिकन और 19 प्रतिशत डेमोक्रेट मानते हैं कि गेट्स कोविड वैक्सीन से माइक्रोचिप लगाना चाहते हैं"
+ar = "يظهر استطلاع أجرته Yahoo News وYouGov أن 44 في المئة من الجمهوريين و19 في المئة من الديمقراطيين يعتقدون أن غيتس يريد استخدام لقاحات كوفيد لزرع رقائق إلكترونية"
+fa = "یک نظرسنجی Yahoo News/YouGov نشان می‌دهد ۴۴ درصد از جمهوری‌خواهان و ۱۹ درصد از دموکرات‌ها باور دارند گیتس می‌خواهد با واکسن‌های کووید ریزتراشه بکارد"
+
+[[item]]
+soort = "pers"
+datum = "2020-11-30"
+bron = "Gates Notes (Bill Gates)"
+url = "https://new-media.gatesnotes.com/media/GN_Media/media/Files/Podcast/Bill%20Gates%20and%20Rashida%20Jones%20Ask%20Big%20Questions%20episode%2003%20transcript.pdf"
+[item.titel]
+nl = "In zijn eigen podcast noemt Bill Gates de angst dat vaccins mensen volgen met een microchip en 5G het gekste dat hij ooit over zichzelf hoorde"
+en = "On his own podcast, Bill Gates calls the fears that vaccines track people with a microchip linked to 5G the craziest things he has heard about himself"
+de = "In seinem eigenen Podcast nennt Bill Gates die Angst, Impfstoffe würden Menschen per Mikrochip und 5G verfolgen, das Verrückteste, das er je über sich gehört habe"
+es = "En su propio pódcast, Bill Gates dice que el miedo a que las vacunas rastreen a la gente con un microchip y el 5G es lo más loco que ha oído sobre sí mismo"
+fr = "Dans son propre podcast, Bill Gates qualifie la peur que les vaccins suivent les gens grâce à une micropuce et à la 5G de chose la plus folle entendue sur lui"
+pt = "No próprio podcast, Bill Gates diz que o medo de que vacinas rastreiem pessoas com um microchip ligado ao 5G é a coisa mais absurda que ouviu sobre si mesmo"
+ru = "В своём подкасте Билл Гейтс называет страхи, что вакцины позволяют следить за людьми с помощью микрочипа, связанного с 5G, самыми безумными вещами, которые он слышал о себе"
+uk = "У власному подкасті Білл Гейтс називає страхи, що вакцини стежать за людьми за допомогою мікрочипа, пов'язаного з 5G, найбожевільнішим, що він чув про себе"
+id = "Dalam podcastnya sendiri, Bill Gates menyebut ketakutan bahwa vaksin melacak orang dengan mikrocip yang terkait dengan 5G sebagai hal paling gila yang pernah ia dengar tentang dirinya"
+tr = "Bill Gates kendi podcast'inde, aşıların 5G'ye bağlı bir mikroçiple insanları takip ettiği yönündeki korkuları, kendisi hakkında duyduğu en çılgınca şeyler olarak nitelendiriyor"
+zh = "比爾·蓋茲在自己的 Podcast 中,把疫苗會用與 5G 相關的微晶片追蹤人的恐懼,稱為他聽過關於自己最瘋狂的說法"
+ja = "ビル・ゲイツ氏は自身のポッドキャストで、ワクチンが5Gと結びついたマイクロチップで人を追跡するという不安を、自分についてこれまで聞いた中で最もばかげた話だと語っています"
+hi = "अपने पॉडकास्ट में बिल गेट्स ने कहा कि वैक्सीन से 5G से जुड़ी माइक्रोचिप के ज़रिए लोगों पर नज़र रखने का डर, अपने बारे में सुनी गई सबसे अजीब बातों में से एक है"
+ar = "في البودكاست الخاص به، يصف بيل غيتس المخاوف من أن اللقاحات تتتبع الناس عبر رقاقة إلكترونية مرتبطة بشبكة 5G بأنها أغرب ما سمعه عن نفسه"
+fa = "بیل گیتس در پادکست خودش ترس از ردیابی مردم با ریزتراشه از طریق واکسن و ارتباط آن با 5G را دیوانه‌وارترین چیزهایی می‌نامد که درباره خودش شنیده است"
+
+[[item]]
+soort = "besluit"
+datum = "2022-06-02"
+bron = "Gates Foundation"
+url = "https://www.gatesfoundation.org/ideas/articles/covid19-faq"
+[item.titel]
+nl = "In haar vragen en antwoorden over covid-19 noemt de Gates-stichting de bewering dat zij of Gates mensen via vaccins wil chippen een vals gerucht"
+en = "The Gates Foundation's questions and answers on covid-19 call the claim that it or Gates plans to microchip people through vaccines a false rumour"
+de = "In ihren Fragen und Antworten zu Covid-19 nennt die Gates-Stiftung die Behauptung, sie oder Gates wolle Menschen über Impfstoffe chippen, ein falsches Gerücht"
+es = "En sus preguntas y respuestas sobre la covid-19, la Fundación Gates llama rumor falso a la afirmación de que ella o Gates quieren implantar microchips con las vacunas"
+fr = "Dans ses questions-réponses sur la covid-19, la fondation Gates qualifie de fausse rumeur l’idée qu’elle ou Gates veuille pucer les gens au moyen des vaccins"
+pt = "As perguntas e respostas da Fundação Gates sobre a covid-19 chamam de boato falso a afirmação de que ela ou Gates planeja colocar microchips nas pessoas por meio de vacinas"
+ru = "В вопросах и ответах о covid-19 Фонд Гейтса называет ложным слухом утверждение, что он или Гейтс планируют вживлять людям микрочипы через вакцины"
+uk = "У відповідях на запитання про covid-19 Фонд Гейтсів називає хибною чуткою твердження, що він або Гейтс planують вживляти людям мікрочипи через вакцини"
+id = "Tanya jawab Gates Foundation tentang covid-19 menyebut klaim bahwa yayasan atau Gates berencana memasang mikrocip pada orang lewat vaksin sebagai rumor palsu"
+tr = "Gates Vakfı'nın covid-19 soru ve cevaplarında, vakfın ya da Gates'in aşılar yoluyla insanlara mikroçip yerleştirmeyi planladığı iddiası asılsız bir söylenti olarak tanımlanıyor"
+zh = "蓋茲基金會的新冠肺炎問與答,把基金會或蓋茲計畫透過疫苗在人體植入微晶片的說法稱為不實謠言"
+ja = "ゲイツ財団は新型コロナウイルス感染症に関するQ&Aで、財団またはゲイツ氏がワクチンで人にマイクロチップを埋め込もうとしているという言説は誤ったうわさだとしています"
+hi = "गेट्स फ़ाउंडेशन ने कोविड-19 पर अपने सवाल-जवाब में कहा कि यह दावा झूठी अफ़वाह है कि वह या गेट्स वैक्सीन के ज़रिए लोगों में माइक्रोचिप लगाने की योजना बना रहे हैं"
+ar = "تصف الأسئلة والأجوبة الصادرة عن مؤسسة غيتس بشأن كوفيد-19 الادعاء بأنها أو غيتس تخطط لزرع رقائق في الناس عبر اللقاحات بأنه إشاعة كاذبة"
+fa = "پرسش و پاسخ بنیاد گیتس درباره کووید-۱۹ این ادعا را که بنیاد یا گیتس قصد دارند از طریق واکسن در مردم ریزتراشه بکارند، یک شایعه نادرست می‌نامد"
+
+[[item]]
+soort = "onderzoek"
+datum = "2022-10-05"
+bron = "Harvard Kennedy School Misinformation Review"
+url = "https://misinforeview.hks.harvard.edu/article/where-conspiracy-theories-flourish-a-study-of-youtube-comments-and-bill-gates-conspiracy-theories/"
+[item.titel]
+nl = "Een studie van 38.564 reacties op YouTube onder drie nieuwsvideo's over Gates vindt dat complotbeweringen overheersen, onder meer over microchips en ontvolking"
+en = "A study of 38,564 YouTube comments on three news videos about Gates finds them dominated by conspiracy claims, among them microchips and depopulation"
+de = "Eine Studie zu 38.564 YouTube-Kommentaren unter drei Nachrichtenvideos über Gates findet, dass Verschwörungsbehauptungen vorherrschen, darunter Mikrochips und Entvölkerung"
+es = "Un estudio de 38.564 comentarios de YouTube en tres vídeos de noticias sobre Gates halla que dominan las afirmaciones conspirativas, entre ellas microchips y despoblación"
+fr = "Une étude de 38 564 commentaires YouTube sous trois vidéos d’actualité sur Gates montre qu’ils sont dominés par des affirmations complotistes, dont les micropuces et le dépeuplement"
+pt = "Um estudo de 38.564 comentários do YouTube em três vídeos de notícias sobre Gates conclui que eles são dominados por afirmações conspiratórias, entre elas microchips e despovoamento"
+ru = "Исследование 38 564 комментариев на YouTube под тремя новостными видео о Гейтсе показывает, что в них преобладают конспирологические утверждения, среди них о микрочипах и сокращении населения"
+uk = "Дослідження 38 564 коментарів на YouTube під трьома новинними відео про Гейтса показує, що в них переважають конспірологічні твердження, зокрема про мікрочипи та скорочення населення"
+id = "Sebuah studi atas 38.564 komentar YouTube pada tiga video berita tentang Gates menemukan bahwa komentar tersebut didominasi klaim konspirasi, antara lain mikrocip dan pengurangan penduduk"
+tr = "Gates hakkındaki üç haber videosuna yapılan 38.564 YouTube yorumunu inceleyen bir çalışma, yorumlarda mikroçip ve nüfusun azaltılması gibi komplo iddialarının ağır bastığını buluyor"
+zh = "一項研究分析了三則蓋茲相關新聞影片下的 38,564 則 YouTube 留言,發現留言以陰謀論說法為主,其中包括微晶片與減少人口"
+ja = "ゲイツ氏に関するニュース動画3本に付いたYouTubeのコメント3万8,564件を調べた研究で、マイクロチップや人口削減などの陰謀論の言説が大半を占めることが分かりました"
+hi = "गेट्स पर बने तीन न्यूज़ वीडियो के 38,564 यूट्यूब कमेंट के एक अध्ययन में पाया गया कि उनमें माइक्रोचिप और आबादी घटाने जैसे षड्यंत्र के दावे हावी थे"
+ar = "دراسة لـ 38564 تعليقاً على يوتيوب تحت ثلاثة مقاطع إخبارية عن غيتس تجد أن ادعاءات المؤامرة هي الغالبة عليها، ومنها الرقائق الإلكترونية وتقليص عدد السكان"
+fa = "یک پژوهش روی ۳۸٬۵۶۴ دیدگاه یوتیوب زیر سه ویدیوی خبری درباره گیتس نشان می‌دهد ادعاهای توطئه‌آمیز، از جمله ریزتراشه و کاهش جمعیت، بر آن‌ها غالب است"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "Bill Gates",
+  "Gates Foundation",
+  "Gates-Stiftung",
+  "Fundación Gates",
+  "Fondation Gates",
+  "Fundação Gates",
+  "Билл Гейтс",
+  "Билла Гейтса",
+  "Гейтс",
+  "Білл Гейтс",
+  "بيل غيتس",
+  "بيل جيتس",
+  "بیل گیتس",
+  "बिल गेट्स",
+  "বিল গেটস",
+  "比尔·盖茨",
+  "比爾·蓋茲",
+  "比爾蓋茲",
+  "ビル・ゲイツ",
+  "빌 게이츠",
+  "Gatesa",
+  "Gatesem",
+]
+omschrijving = """
+Claims that Bill Gates or the Gates Foundation uses vaccines or medical tests to implant microchips or trackers, to sterilise people, to reduce the world population or to change DNA, or that Gates planned, patented or profited from the covid-19 pandemic or another epidemic. It also includes claims that cast Gates as a villain in the covid-19 story in another way (he had the virus released, paid to discredit a treatment, profits through others), and edited versions of an interview about covid vaccines (afbakening van de PO, 2026-11-12). It includes claims with a quote, a patent, a document, a video or a vaccination campaign in one country. It does not include other claims about Bill Gates (his wealth, farmland, divorce, Epstein, climate or food projects) unless they are about vaccines, chips, depopulation or a pandemic. It does not include his real warnings of a pandemic without a plot, or claims about animals (afbakening van de PO, 2026-11-12)."""

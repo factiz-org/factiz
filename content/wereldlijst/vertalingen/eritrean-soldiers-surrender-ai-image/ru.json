@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar ru) van het overzicht eritrean-soldiers-surrender-ai-image van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ru",
+ "brontaal": "en",
+ "vingerafdruk": "59728a3cfb505a25",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "На фотографии якобы десятки эритрейских солдат сдаются эфиопской армии во время недавних боев на границе.",
+  "kern": [
+   "Изображение создано с помощью искусственного интеллекта [1].",
+   "На нем видны деформированные руки и лица, а тела сливаются друг с другом [1].",
+   "Детектор водяных знаков Google показал, что изображение создано с помощью ИИ Google [1]."
+  ],
+  "rondgang": "Изображение распространялось в Facebook с 9 ноября 2026 года с текстом на амхарском языке на фоне пограничных столкновений между Эфиопией и Эритреей в районе Бадме [1]."
+ }
+}

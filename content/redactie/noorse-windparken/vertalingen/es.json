@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Los parques eólicos noruegos de Storheia y Roan no se están desmantelando, y los renos deformes no tuvieron ningún papel",
+  "oordeel_zin": "El tribunal juzgó en 2021 los pastos de los pastores de renos sami, no las deformaciones, y tras dos acuerdos los 151 molinos siguen funcionando [1] [2] [3].",
+  "bewering": "Noruega está desmantelando parques eólicos porque a causa de los molinos nacen renos deformes.",
+  "kort": "Desde el 11 de agosto circula en X un mensaje según el cual Noruega está desmantelando dos parques eólicos porque nacen renos deformes [9]. El Tribunal Supremo de Noruega declaró inválidas en 2021 las licencias de Storheia y Roan porque los pastores de renos sami habían perdido sus pastos de invierno, no por la salud de los animales [1]. Tras los acuerdos de diciembre de 2023 y marzo de 2024, los 151 molinos siguen funcionando [2] [3].",
+  "tekst": "El mensaje en X menciona dos parques eólicos con un total de 151 molinos, Storheia y Roan, en la península de Fosen, en el centro de Noruega [9]. Esos parques existen: Storheia tiene 80 molinos y Roan 71, y ambos entraron en funcionamiento en 2019 [4]. El mensaje incluye un enlace a una revista especializada alemana de octubre de 2021, que entonces escribió que los 151 molinos debían desaparecer [5] [9].\n\nEl proceso judicial fue real. El 11 de octubre de 2021, el Tribunal Supremo de Noruega dictaminó por unanimidad que las licencias de ambos parques eran inválidas [1]. Los parques vulneraban el derecho de los pastores de renos sami de Fosen a disfrutar de su propia cultura, recogido en el artículo 27 del Pacto Internacional de Derechos Civiles y Políticos de la ONU [1]. El fondo del asunto era que, en la práctica, los renos habían perdido los pastos de invierno cercanos a los parques, y que esto ponía en peligro la cría de renos en Fosen [1].\n\nLa sentencia no dice nada sobre la salud de los renos, ni tampoco sobre crías deformes [1]. El tribunal tampoco dijo qué debía ocurrir con los molinos [4].\n\nNo fueron desmantelados. En diciembre de 2023, los pastores de renos de Sør-Fosen firmaron un acuerdo sobre Storheia, con más terreno, una compensación y un veto a nueva energía eólica tras el fin de la licencia [2]. El Instituto Noruego de Derechos Humanos escribió que este acuerdo parece reparar la vulneración [2]. El 6 de marzo de 2024 llegó un acuerdo para Roan: 7 millones de coronas al año hasta que venza la licencia en 2043, y después solo una nueva licencia si los pastores de renos están de acuerdo [3]. La electricidad se sigue generando con normalidad [3].\n\nLos renos deformes proceden de una carta al director publicada en el Landshuter Zeitung, un periódico bávaro, el 9 de octubre de 2023 [6] [7]. La carta atribuía las deformaciones a las vibraciones de los molinos, y luego se difundió en Facebook y X [6]. AFP consultó a seis investigadores de renos de Noruega, Suecia y Austria, y ninguno conocía un estudio que demuestre deformaciones o abortos espontáneos causados por molinos de viento [6]. Sí se desprende de investigaciones que los renos evitan las zonas alrededor de los molinos, sobre todo en la época de los partos [6].\n\nLa historia, por tanto, no es nueva. A principios de 2024, EDMO, la red europea de verificadores, informó de que también circulaba en una traducción al neerlandés [11].",
+  "niet_weten": "No sabemos quién tradujo por primera vez al neerlandés la carta de 2023, ni si la publicación de agosto se remonta a esa traducción. No leímos la carta en sí; lo que decía lo sabemos por las verificaciones de AFP y Mimikama. Que los molinos sigan funcionando actualmente lo deducimos de Aneo, Store norske leksikon y Euronews; no vimos cifras de producción posteriores a septiembre de 2026.",
+  "bereik": "101.303 visualizaciones el 18 de noviembre",
+  "nog_uitzoeken": [
+   "Si en 2023 o 2024 ya existía una verificación en neerlandés, en Nieuwscheckers, Factcheck Vlaanderen o Knack.",
+   "El juicio es real, el derribo y los renos deformados no. Nosotros elegimos falso; engañoso también se puede defender."
+  ],
+  "tijdlijn": [
+   "El Tribunal Supremo de Noruega declara inválidas las licencias de Storheia y Roan [1].",
+   "Agrarheute escribe que los 151 molinos deben desaparecer [5].",
+   "Una carta al director en el Landshuter Zeitung sobre crías de reno deformes [6].",
+   "AFP Faktencheck: no hay pruebas de deformaciones causadas por molinos de viento [6].",
+   "Mimikama llega a la misma conclusión [7].",
+   "El Instituto Noruego de Derechos Humanos informa del acuerdo de Storheia [2].",
+   "Acuerdo para Roan; los molinos siguen funcionando [3].",
+   "El mensaje sobre el desmantelamiento y los renos deformes en X [9].",
+   "AFP Factcheck Nederland verifica el mensaje [8].",
+   "Euronews: en ningún lugar se han descrito renos con deformaciones causadas por molinos de viento [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 11 de agosto de 2026, 20:15, con un enlace a agrarheute de 2021."
+  ],
+  "beeld_alt": [
+   "Captura de pantalla de una publicación en X sobre parques eólicos noruegos y renos deformes, con la tarjeta de un enlace de una revista especializada alemana. Sello: FALSO."
+  ]
+ }
+}

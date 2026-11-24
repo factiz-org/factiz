@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg lacht in einem Dokumentarfilm über eine Klimademo, in dem sie solche Proteste als wirkungslos bezeichnet",
+  "oordeel_zin": "Der Clip ist echt und stammt aus einem Dokumentarfilm von Hubertus Koch, in dem Thunberg sagt, klassische Demonstrationen halte sie für wirkungslos; sie setzt sich weiterhin für das Klima ein [1] [7] [11].",
+  "bewering": "Greta Thunberg lacht hysterisch, als man ihr sagt, dass Fridays for Future, die Klimagruppe, die sie gegründet hat, immer noch protestiert: 'Das machen die immer noch?'",
+  "kort": "Seit dem 11. November verbreiten Beiträge auf X einen Clip, in dem Greta Thunberg lacht, als man ihr von einer Fridays-for-Future-Demonstration in Berlin erzählt, teils als Beleg dafür, dass sie sich über Klimademonstranten lustig macht [2] [3] [4]. Der Clip ist echt und stammt aus einem Dokumentarfilm von Hubertus Koch, der seit dem 28. Oktober auf YouTube steht [1] [5]. In dem Film bezeichnet sie klassische Demonstrationen als wirkungslos, und sie setzt sich weiterhin für das Klima ein [6] [7] [11].",
+  "tekst": "Am 11. November um 10:20 Uhr deutscher Zeit veröffentlichte ein anonymes Konto auf X den 27 Sekunden langen Clip [4]. Am selben Abend teilte der Kolumnist Jan Fleischhauer dasselbe Video und fragte, warum Friedrich Merz zum Klimagipfel fliegen solle, wenn Thunberg sich über Menschen kaputtlache, die noch fürs Klima demonstrieren [3]. Die New York Post veröffentlichte am 12. November einen Beitrag dazu [2].\n\nDer Clip stammt aus einem 91 Minuten langen Dokumentarfilm über die Klimabewegung und die staatliche Repression, auf die sie traf, den der deutsche Filmemacher Hubertus Koch am 28. Oktober auf YouTube gestellt hat [1] [9].\n\nKoch trifft Thunberg und zwei Freundinnen oder Freunde von ihr in einem palästinensischen Restaurant in Berlin [1] [5]. Etwa sechs Minuten nach Beginn sagt er, es sei symbolisch, dass sie sich am Tag einer Fridays-for-Future-Demonstration treffen [1] [9]. Thunberg fragt: „Ist das so?“, lacht und fragt: „Echt? Das machen die immer noch?“ [9]. Dann verlangt sie einen Schnitt [1] [5]. Direkt nach der Szene sagt Kochs Erzählstimme, sie habe genug von Protest, der sichtbar, aber ihrer Ansicht nach nicht konsequent genug sei [1].\n\nKoch sagte später, ihr Lachen habe der Frage gegolten, ob herkömmliche Demonstrationen noch etwas bewirken, nicht den Menschen [6] [8]. Thunberg schrieb auf Instagram, an jenem Tag hätten sie und andere Aktivistinnen und Aktivisten einen Rüstungshersteller blockiert und dann von einer polizeilich genehmigten Klimademonstration erfahren [8] [9]. Fridays for Future in Deutschland hat sich wegen ihrer Äußerungen zum Nahen Osten von ihr distanziert [7] [12].\n\nIm November war sie beim Klimagipfel COP31 in Antalya, wo sie die Gespräche als heuchlerisch bezeichnete und sagte: „alles und alle, die wir lieben, stehen auf dem Spiel“ [11]. Der Film war mehr als zwei Wochen online, bevor Fridays for Future am 13. November in mehr als 70 deutschen Städten protestierte [1] [10].\n\nDemagog in Polen und Open in Italien kamen am 16. November ebenfalls zu dem Schluss, dass der Clip aus dem Zusammenhang gerissen ist [12] [13].",
+  "niet_weten": "Wir wissen nicht, an welchem Tag sich Koch und Thunberg getroffen haben [1] [5]. Niemand kann sicher sagen, was ein Lachen bedeutet; wir halten uns an ihre Worte im Film und an das, was sie und Koch danach gesagt haben [8] [9].",
+  "bereik": "139.805 Likes unter den acht Beiträgen, die wir am 23. November gelesen haben, auf Englisch, Deutsch und Japanisch; allein der Beitrag der New York Post hatte 82.003",
+  "nog_uitzoeken": [
+   "An welchem Tag sich Koch und Thunberg in Berlin getroffen haben und welchen Rüstungshersteller sie an diesem Tag blockiert hat. Ein möglicher Kandidat ist eine Blockade des Berliner Büros von Rheinmetall im Juli 2026.",
+   "Wir haben „Fehlender Kontext“ gegen „Irreführend“ abgewogen. Das Lachen und die Frage sind echt, also Fehlender Kontext; Beiträge, die behaupten, sie lache über die Klimabewegung oder habe das Klima aufgegeben, gehen weiter, als ihre Worte im Film tragen. Wenn Sie mehr wissen, sagen Sie es uns bitte."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch stellt den Film auf YouTube [1].",
+   "Der früheste Beitrag mit dem Clip, den wir gefunden haben, erscheint auf X [4].",
+   "Jan Fleischhauer teilt den Clip mit einer Frage zu Friedrich Merz [3].",
+   "Al Jazeera berichtet vom COP31 in Antalya: Thunberg nennt den Gipfel heuchlerisch [11].",
+   "Die Stuttgarter Zeitung berichtet, wo die Szene gedreht wurde; die New York Post veröffentlicht einen Beitrag auf X [2] [5].",
+   "20 Minuten mit AFP: Koch sagt, der Clip sei aus dem Zusammenhang gerissen [6].",
+   "Fridays for Future protestiert in mehr als 70 deutschen Städten, in Berlin mit rund 700 Menschen [10].",
+   "leinetal24 berichtet über Thunbergs Instagram-Beitrag: An jenem Tag habe sie einen Rüstungshersteller blockiert [8].",
+   "Demagog und Open: Der Clip ist aus dem Zusammenhang gerissen [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag der New York Post auf X, 12. November 2026, 17:35 UTC.",
+   "Hubertus Koch auf YouTube, „Auf Panzern in die Klimakrise“, 28. Oktober 2026: Die Szene beginnt bei etwa 6:19."
+  ],
+  "beeld_alt": [
+   "Der Beitrag der New York Post auf X, in dem es heißt, Greta Thunberg lache hysterisch, als man ihr sage, Fridays for Future protestiere noch, mit zwei Standbildern von Thunberg beim Lachen, auf einem davon mit der Hand vor dem Mund. Stempel: FEHLENDER KONTEXT.",
+   "Der Dokumentarfilm von Hubertus Koch auf YouTube."
+  ]
+ }
+}

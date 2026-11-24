@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de um \"alterador do clima\" em um campo de trigo na Espanha circulou na Rússia em 2022",
+  "oordeel_zin": "As imagens não vêm da Espanha: lentes em campos de trigo eram um boato em julho de 2022 na região russa de Rostov, e os serviços de emergência de lá não encontraram nenhuma [2] [5].",
+  "bewering": "Espanha: Um agricultor encontrou um \"alterador do clima\" em um de seus campos de trigo.",
+  "kort": "Desde 4 de setembro circula no X um vídeo de um \"alterador do clima\" que um agricultor teria encontrado em um campo de trigo na Espanha [1]. Vídeos de construções desse tipo com lentes em campos de trigo já circulavam em julho de 2022 na região russa de Rostov, como prova de sabotagem [2] [5]. Os serviços de emergência de lá não encontraram lentes nos incêndios e chamaram a notícia de falsa [2].",
+  "tekst": "Na sexta-feira, 4 de setembro de 2026, às 11h47, apareceu no X um vídeo de 48 segundos, com uma bandeira da Espanha e o texto de que um agricultor na Espanha encontrou um \"alterador do clima\" em um de seus campos de trigo [1]. A Espanha teve naquele verão grandes incêndios florestais, entre outros na região de Madri e em Ávila, em julho [6].\n\nO mesmo tipo de imagem circulou quatro anos antes na Rússia. Em 12 de julho de 2022, apareceram nas redes sociais vídeos de construções caseiras com lentes em campos de trigo na região de Rostov, no sul da Rússia [2]. Segundo essas publicações, saboteiros ucranianos as haviam colocado para que o sol incendiasse o grão [2]. No YouTube há um vídeo com o título de que agricultores da região de Rostov estão encontrando em massa esses aparelhos no grão [5].\n\nOs serviços de emergência da região negaram. O ministério regional para situações de emergência disse em 13 de julho de 2022 que não havia recebido nenhum relato desses aparelhos e que nenhuma lente foi encontrada nos incêndios [2]. Chamou a notícia de falsa e mandou verificar quem a espalhava de propósito [2]. Também a Lapsha Media, um projeto russo que se autodenomina verificador de fatos, escreveu em 14 de julho que nada suspeito foi encontrado nos incêndios [3].\n\nEm julho de 2024, o boato voltou, agora sobre campos em Kuban [4]. A polícia de lá não tinha nenhum relato [4]. Na região de Stavropol, porém, o governador disse então que lentes haviam sido encontradas em campos, e lá corria um processo criminal [4]. Sobre Rostov, o jornal repetiu que o ministério havia dito em 2022 que uma construção dessas dificilmente consegue iniciar um incêndio [4].\n\nCom a Espanha, portanto, as imagens não têm nada a ver, e com o clima também não. A história tratava de sabotagem na Rússia, e mesmo lá ninguém encontrou prova de que as lentes em Rostov tenham causado um incêndio [2] [4].",
+  "niet_weten": "Não sabemos quem fez o vídeo primeiro nem onde exatamente ele foi gravado. Não encontramos nenhuma notícia espanhola sobre tal achado, mas não vasculhamos por completo a imprensa espanhola. Também não sabemos quem levou o vídeo da Rússia para a Espanha, nem o que a publicação quer dizer com um alterador do clima. As fontes sobre 2022 são russas e repassam principalmente as palavras do ministério.",
+  "bereik": "1.645 visualizações em 18 de novembro",
+  "nog_uitzoeken": [
+   "O original de julho de 2022. O vídeo no YouTube está no canal de uma pessoa física e provavelmente não é o original.",
+   "Uma fonte independente para as palavras do ministério em Rostov, como a publicação no próprio site do ministério ou um veículo de imprensa não russo.",
+   "Ainda estamos procurando uma fonte sobre o vínculo da Lapsha Media com o Estado russo."
+  ],
+  "tijdlijn": [
+   "Nas redes sociais circulam vídeos de construções com lentes em campos de trigo na região de Rostov [2].",
+   "O ministério para situações de emergência de Rostov chama a notícia de falsa: nenhum relato, nenhuma lente encontrada [2].",
+   "A Lapsha Media escreve que nada suspeito foi encontrado nos incêndios [3].",
+   "O boato volta, agora sobre campos em Kuban [4].",
+   "A Maldita começa um levantamento de publicações incorretas sobre os incêndios florestais na Espanha [6].",
+   "A publicação sobre um alterador do clima em um campo de trigo na Espanha [1]."
+  ],
+  "beeld_bijschrift": [
+   "Imagem parada do vídeo em uma publicação no X, 4 de setembro de 2026, 11h47."
+  ],
+  "beeld_alt": [
+   "Imagem parada de um vídeo de uma construção em um campo de trigo, apresentada como achado na Espanha. Carimbo: FALSO."
+  ]
+ }
+}

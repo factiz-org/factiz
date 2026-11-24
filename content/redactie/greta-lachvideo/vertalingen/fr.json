@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg rit à propos d'une manifestation pour le climat dans un documentaire où elle juge ces protestations inefficaces",
+  "oordeel_zin": "L'extrait est authentique et provient d'un documentaire de Hubertus Koch, dans lequel Thunberg dit trouver les manifestations classiques inefficaces ; elle continue pourtant à militer pour le climat [1] [7] [11].",
+  "bewering": "Greta Thunberg rit hystériquement quand on lui dit que Fridays for Future, le groupe de lutte contre le changement climatique qu'elle a fondé, manifeste toujours : « Ils font encore ça ? »",
+  "kort": "Depuis le 11 novembre, des publications sur X partagent un extrait où Greta Thunberg rit quand on lui parle d'une manifestation de Fridays for Future à Berlin, certaines y voyant le signe qu'elle se moque des manifestants pour le climat [2] [3] [4]. L'extrait est authentique et provient d'un documentaire de Hubertus Koch, en ligne sur YouTube depuis le 28 octobre [1] [5]. Dans le film, elle qualifie les manifestations classiques d'inefficaces, et elle continue de militer pour le climat [6] [7] [11].",
+  "tekst": "Le 11 novembre à 10 h 20, heure allemande, un compte anonyme sur X a publié l'extrait de 27 secondes [4]. Le soir même, le chroniqueur Jan Fleischhauer a partagé la même vidéo, en demandant pourquoi Friedrich Merz devrait se rendre au sommet sur le climat si Thunberg se tord de rire face aux gens qui manifestent encore pour le climat [3]. Le New York Post en a parlé le 12 novembre [2].\n\nL'extrait provient d'un documentaire de 91 minutes sur le mouvement climatique et la répression étatique qu'il a rencontrée, que le cinéaste allemand Hubertus Koch a mis en ligne sur YouTube le 28 octobre [1] [9].\n\nKoch retrouve Thunberg et deux de ses amis dans un restaurant palestinien à Berlin [1] [5]. Environ six minutes après le début, il dit qu'il est symbolique qu'ils se rencontrent le jour d'une manifestation de Fridays for Future [1] [9]. Thunberg demande « Ah bon ? », rit et demande : « Vraiment ? Ils font encore ça ? » [9]. Puis elle demande une coupe [1] [5]. Juste après la scène, la voix off de Koch dit qu'elle en a fini avec une protestation visible mais, à ses yeux, pas assez cohérente [1].\n\nKoch a déclaré par la suite que son rire portait sur la question de savoir si les manifestations conventionnelles obtiennent encore quelque chose, et non sur les personnes [6] [8]. Thunberg a écrit sur Instagram que ce jour-là, elle et d'autres militants avaient bloqué un fabricant d'armes, puis avaient appris l'existence d'une manifestation pour le climat autorisée par la police [8] [9]. Fridays for Future en Allemagne a pris ses distances avec elle à cause de ses déclarations sur le Moyen-Orient [7] [12].\n\nEn novembre, elle était au sommet sur le climat COP31 à Antalya, où elle a qualifié les négociations d'hypocrites et a dit que « tout et tous ceux que nous aimons sont en jeu » [11]. Le film était en ligne depuis plus de deux semaines lorsque Fridays for Future a manifesté dans plus de 70 villes allemandes le 13 novembre [1] [10].\n\nDemagog en Pologne et Open en Italie ont eux aussi conclu le 16 novembre que l'extrait est sorti de son contexte [12] [13].",
+  "niet_weten": "Nous ne savons pas quel jour Koch et Thunberg se sont rencontrés [1] [5]. Personne ne peut dire avec certitude ce que signifie un rire ; nous nous en tenons à ses paroles dans le film et à ce qu'elle et Koch ont dit ensuite [8] [9].",
+  "bereik": "139 805 mentions J'aime sur les huit publications que nous avons consultées le 23 novembre, en anglais, en allemand et en japonais ; la publication du New York Post à elle seule en comptait 82 003",
+  "nog_uitzoeken": [
+   "Quel jour Koch et Thunberg se sont rencontrés à Berlin, et quel fabricant d'armes elle a bloqué ce jour-là. Une piste possible est un blocage du bureau berlinois de Rheinmetall en juillet 2026.",
+   "Nous avons hésité entre Contexte manquant et Trompeur. Le rire et la question sont réels, donc Contexte manquant ; les publications qui disent qu'elle rit du mouvement climatique ou qu'elle a renoncé au climat vont plus loin que ce que portent ses paroles dans le film. Si vous en savez plus, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch met le film en ligne sur YouTube [1].",
+   "La plus ancienne publication contenant l'extrait que nous ayons trouvée apparaît sur X [4].",
+   "Jan Fleischhauer partage l'extrait avec une question sur Friedrich Merz [3].",
+   "Al Jazeera rend compte de la COP31 à Antalya : Thunberg qualifie le sommet d'hypocrite [11].",
+   "La Stuttgarter Zeitung indique où la scène a été tournée ; le New York Post publie un message sur X [2] [5].",
+   "20 Minuten avec AFP : Koch dit que l'extrait est sorti de son contexte [6].",
+   "Fridays for Future manifeste dans plus de 70 villes allemandes, à Berlin avec environ 700 personnes [10].",
+   "leinetal24 rapporte la publication Instagram de Thunberg : ce jour-là, elle avait bloqué un fabricant d'armes [8].",
+   "Demagog et Open : l'extrait est sorti de son contexte [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "Publication du New York Post sur X, 12 novembre 2026, 17 h 35 UTC.",
+   "Hubertus Koch sur YouTube, « Auf Panzern in die Klimakrise », 28 octobre 2026 : la scène commence vers 6:19."
+  ],
+  "beeld_alt": [
+   "La publication du New York Post sur X affirmant que Greta Thunberg rit hystériquement quand on lui dit que Fridays for Future manifeste toujours, avec deux captures d'écran de Thunberg en train de rire, sur l'une avec la main devant la bouche. Tampon : CONTEXTE MANQUANT.",
+   "Le documentaire de Hubertus Koch sur YouTube."
+  ]
+ }
+}

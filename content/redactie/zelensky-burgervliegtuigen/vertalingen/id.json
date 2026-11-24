@@ -1,0 +1,46 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck zelensky-burgervliegtuigen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "0b687fa5a43702c5",
+ "veldafdrukken": {
+  "kop": "8a9503440bbe9f25",
+  "oordeel_zin": "77dfb633384eedc2",
+  "bewering": "55f4f3eea7911be3",
+  "kort": "4afacfdd59affa64",
+  "tekst": "d03ce597fc692860",
+  "niet_weten": "dbd2315df3004bfd",
+  "bereik": "a09275c1060a48da",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "504c46e9f0788fa2",
+  "beeld_bijschrift": "1d965a0ad6c55a81",
+  "beeld_alt": "a838d3bfd529db63"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky memperingatkan maskapai penerbangan tentang drone di atas Rusia, ia tidak mengancam akan menembak jatuh pesawat",
+  "oordeel_zin": "Zelensky memperingatkan bahwa drone Ukraina membuat wilayah udara Rusia tidak aman, tetapi ia secara tegas menambahkan bahwa Ukraina tidak mengancam satu pun pesawat sipil [2] [3].",
+  "bewering": "Zelensky sekarang bahkan mengancam akan menembak jatuh pesawat sipil, dan Ukraina tentu sudah punya pengalaman soal itu... #MH17",
+  "kort": "Pada 5 September beredar unggahan di X yang menyatakan Zelensky mengancam akan menembak jatuh pesawat sipil, dengan tagar MH17 [1]. Pada 1 September Zelensky memperingatkan maskapai penerbangan bahwa drone Ukraina membuat wilayah udara Rusia tidak aman, dan dalam pidato yang sama ia mengatakan Ukraina tidak mengancam satu pun pesawat sipil [2] [3]. Soal MH17, dewan ICAO pada 2025 menetapkan Rusia sebagai pihak yang bertanggung jawab [10] [11].",
+  "tekst": "Unggahan itu muncul pada Sabtu 5 September pukul 12.51 di X [1]. Unggahan itu mengutip unggahan berbahasa Inggris sehari sebelumnya, dengan video berdurasi 51 detik dan klaim bahwa Zelensky mengancam pesawat sipil [1]. Unggahan berbahasa Belanda itu mengubahnya menjadi bahwa ia mengancam akan menembak jatuh pesawat-pesawat tersebut, dan lewat tagar MH17 merujuk pada tragedi tahun 2014 [1]. Per 18 November, unggahan itu telah dilihat 14.721 kali [1].\n\nYang dimaksud adalah pidato malam Zelensky pada Selasa 1 September, dengan video di Telegram dan sebagian teksnya dalam bahasa Inggris di X pukul 19.59 [13] [2]. Dalam pidato itu ia memperingatkan setiap maskapai penerbangan yang menggunakan wilayah udara Rusia, setiap perusahaan asuransi, dan siapa pun yang masih menggunakan bandara-bandara besar Rusia: wilayah udara itu akan menjadi sepenuhnya tidak aman [2] [3]. Alasan yang ia berikan adalah drone Ukraina, yang akan terbang di atas Rusia dalam skala sedemikian rupa sehingga dunia penerbangan harus memperhitungkannya [3] [4]. Tiga hari sebelumnya ia memerintahkan pengerahan 1.000 drone per hari melawan Rusia [4].\n\nDalam pidato yang sama Zelensky mengatakan bahwa Ukraina tidak mengancam penerbangan sipil, \"not a single civilian aircraft\" [2]. Dalam teksnya sendiri, dalam bahasa Inggris dan Ukraina, kalimat itu langsung menyusul peringatan tersebut [2] [13]. Euronews dan Meduza juga memuat kata-kata itu [3] [4]. Menurut dia, Ukraina tidak ingin ada nyawa tak bersalah yang hilang [2].\n\nSehari kemudian Ukraina secara resmi memberi tahu ICAO, organisasi penerbangan Perserikatan Bangsa-Bangsa, bahwa wilayah udara Rusia tidak aman [6]. Maskapai Turki Pegasus dan Turkish Airlines membatalkan penerbangan dari dan ke Moskow [6]. Pada hari yang sama ICAO memperingatkan secara umum bahwa risiko pesawat sipil terkena senjata atau terjebak dalam baku tembak semakin besar; organisasi itu tidak menyebut Rusia maupun Ukraina [7].\n\nPutin juga melihatnya sebagai ancaman: pada 1 September ia menyebut peringatan itu sebagai terorisme negara [5]. Rencana Ukraina yang diberitakan menyangkut penutupan wilayah udara, bukan penembakan pesawat. Menurut The Atlantic, yang dikutip The Insider, Ukraina menyiapkan rencana untuk melumpuhkan wilayah udara di atas Moskow dengan hingga 1.000 drone dalam satu malam, dan Zelensky khawatir pesawat penumpang yang terkena akan dianggap sebagai aksi perompakan [8]. Kantor Zelensky menyebut laporan itu omong kosong belaka, menurut Meduza [14]. Menurut The Wall Street Journal, yang dikutip The Week, Ukraina ingin menerbangkan drone di sekitar bandara-bandara Rusia agar lepas landas dan pendaratan terhenti [9]. Itu membuat terbang di atas Rusia lebih berbahaya. Itu bukan ancaman untuk menembak jatuh pesawat.\n\nMH17 ditembak jatuh pada 17 Juli 2014 di atas Ukraina timur dengan rudal antipesawat Rusia, di atas wilayah yang dikuasai separatis pro-Rusia [11]. Sebanyak 298 orang tewas, termasuk 196 warga Belanda [11]. Dewan ICAO memutuskan pada 12 Mei 2025, dalam perkara yang diajukan Belanda dan Australia, bahwa Rusia bertanggung jawab [10]. Memang, pejabat Rusia dan Ukraina pada Oktober 2001 menunjuk sebuah rudal sebagai penyebab jatuhnya pesawat penumpang Rusia di atas Laut Hitam, dengan 78 korban jiwa [12]. Pejabat Ukraina itu mengatakan bahwa kemungkinan besar itu rudal dari latihan militer Ukraina yang melesat secara tidak sengaja [12].",
+  "niet_weten": "Kalimat pertama dalam unggahan itu, tentang sasaran mana yang diserang Rusia dan Ukraina, adalah klaim tersendiri yang tidak kami periksa di sini. Kami tidak menemukan pemeriksaan fakta dari redaksi lain mengenai klaim ini, dalam tujuh bahasa dan di lebih dari dua puluh situs.",
+  "bereik": "Dilihat 14.721 kali per 18 November",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Zelensky mengatakan ia memerintahkan 1.000 drone per hari melawan Rusia [4].",
+   "Zelensky memperingatkan maskapai penerbangan dalam pidato malamnya, dengan video di Telegram dan teks di X [13] [2].",
+   "Putin menyebut peringatan itu terorisme negara [5].",
+   "Ukraina melaporkan ke ICAO bahwa wilayah udara Rusia tidak aman; ICAO memperingatkan secara umum tentang senjata yang diarahkan ke pesawat sipil [6] [7].",
+   "Sebuah unggahan berbahasa Inggris menyatakan Zelensky mengancam pesawat sipil [1].",
+   "Unggahan berbahasa Belanda dengan tagar MH17 [1]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 5 September 2026, pukul 12.51.",
+   "Volodymyr Zelensky di Telegram, 1 September 2026: video pidato malam dengan peringatan kepada maskapai penerbangan."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar unggahan di X yang menyatakan Zelensky mengancam akan menembak jatuh pesawat sipil, dengan tagar MH17 dan unggahan berbahasa Inggris yang dikutip. Cap: SALAH.",
+   "Video pidato malam Zelensky pada 1 September 2026."
+  ]
+ }
+}

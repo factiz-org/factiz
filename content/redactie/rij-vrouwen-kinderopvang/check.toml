@@ -1,0 +1,192 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, op het dossier in
+# data/redactie/rij-vrouwen-kinderopvang/dossier.md. Herschreven op 19 november 2026 rond de post zelf ("Dublin 2027",
+# PO: "Ja, herschrijf"), nagelezen door de redactie van Factiz (PO: "Ja, mee live").
+
+sleutel = "rij-vrouwen-kinderopvang"
+status = "gepubliceerd"
+taal = "nl"
+adres = "rij-vrouwen-kinderopvang-video"
+adres_en = "queue-of-women-childcare-video"
+kop = "De rij vrouwen in deze video stond in Amsterdam, voor een uitverkoop van kleding"
+oordeel = "misleidend"
+oordeel_zin = "De video is echt, maar gemaakt op 19 september in Amsterdam-West, bij de uitverkoop van een modemerk; met Dublin heeft ze niets te maken [1] [9]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Dublin 2027"
+platform = "X"
+eerst_gezien = "2026-09-21"
+posts = 1
+
+kort = """
+Sinds 21 september gaat op X een video rond van een lange rij vrouwen op straat, met alleen de woorden "Dublin 2027" \
+[5]. De video is gemaakt op 19 september in Amsterdam-West, bij de uitverkoop van een modemerk, en het merk zette haar \
+zelf als eerste online [1] [9]. Dezelfde video ging ook rond als een rij moslimvrouwen die wachten op gratis \
+kinderopvang; dat klopt evenmin [7] [8] [9]."""
+
+tekst = """
+Op maandag 21 september om 9:36 zette een account met een Ierse vlag achter de naam een video op X van een lange rij \
+vrouwen op straat [5]. De enige tekst erbij is "Dublin 2027" [5]. Wat de schrijver daarmee bedoelt, zegt de post niet, maar \
+zonder uitleg lijkt het een beeld van Dublin, nu of straks.
+
+Dezelfde video ging die week ook met een andere uitleg rond. In het Nederlands als moslimvrouwen die wachten op gratis \
+kinderopvang [8]. In het Spaans als een rij die een Nederlandse vrouw zou hebben gefilmd, van moslimvrouwen die hun \
+kinderen inschrijven voor een gratis crèche [7]. En in het Engels op Instagram en Facebook, met de uitleg dat de vrouwen \
+hun kinderen kwamen inschrijven voor gratis opvang van de staat [9].
+
+De rij staat er wel, maar voor iets anders: het merk Oemaayah, dat bedekte mode verkoopt, hield op zaterdag 19 september \
+een sample sale: een verkoop van proefmodellen en restpartijen tegen lage prijzen [2] [9]. Het merk had die verkoop \
+vooraf aangekondigd op Instagram en TikTok, op een evenementenlocatie in Amsterdam-West [2] [7]. Op zondag 20 september \
+zette het merk zelf de video van de rij online, met een bedankje aan iedereen die gekomen was [1] [9]. Tegen Full Fact \
+en Reuters bevestigde het merk dat de video bezoekers toont die wachten om de verkoop binnen te gaan [9].
+
+Volgens Full Fact en Maldita is de plek De Hallen Studio's, waar de hekken, de huizen en het gebouw overeenkomen met de \
+beelden van Google [7] [9]. Die studio's zitten in de oude tramremise in Oud-West en worden verhuurd voor evenementen \
+[4]. De post met "Dublin 2027" kwam ongeveer zestien uur na de video van het merk. Dat leiden we af uit de nummers die X \
+en Instagram aan een bericht geven, want daarin zit het moment van plaatsen [1] [5]. Met Dublin heeft de video dus niets \
+te maken.
+
+Ook de uitleg over kinderopvang klopt niet. Gratis kinderopvang waarvoor je in de rij gaat staan, bestaat in Nederland \
+niet [3]. Het kabinet wil de opvang vanaf 2029 bijna gratis maken voor werkende ouders: iedereen krijgt dan 96 procent \
+vergoed, los van het inkomen, en de overheid betaalt dat rechtstreeks aan de kinderopvang [3]. Ouders hoeven die \
+vergoeding dan niet meer zelf aan te vragen [3].
+
+EFE Verifica was op 22 september de eerste factchecker die we vonden [6]. AFP Factcheck Nederland en Maldita volgden op \
+24 september, Full Fact op 29 september [7] [8] [9]."""
+
+niet_weten = """
+We weten niet wat de schrijver van de post met "Dublin 2027" precies bedoelt, en ook niet wie de video van het merk als \
+eerste een andere uitleg gaf. Een Nederlandstalige post met de uitleg over kinderopvang vonden we zelf niet; die kennen \
+we uit de check van AFP Factcheck Nederland [8]. Of de vrouwen in de rij moslim zijn, weten we niet, en voor deze check \
+doet het er niet toe: ze stonden in de rij voor kleding."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat de schrijver met 'Dublin 2027' bedoelt.",
+  "Een Nederlandstalige post met de uitleg over kinderopvang. Die kennen we alleen uit de check van AFP Factcheck Nederland.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 21 september 2026, 9:36."
+alt = "De post op X met de woorden Dublin 2027 en een video van een lange rij vrouwen op straat. Stempel: MISLEIDEND."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.instagram.com/p/Ddg3hmVi9hR/"
+stempel = false
+bijschrift = "Oemaayah op Instagram, 20 september 2026: de video van de rij bij de sample sale in Amsterdam-West."
+alt = "De video van het merk van de rij bezoekers voor de sample sale."
+
+[[tijdlijn]]
+datum = "2026-09-19"
+wat = "De sample sale van Oemaayah in Amsterdam-West [2] [9]."
+
+[[tijdlijn]]
+datum = "2026-09-20"
+tijd = "17:06"
+wat = "Het merk zet de video van de rij op Instagram, met een bedankje aan de bezoekers [1]."
+
+[[tijdlijn]]
+datum = "2026-09-21"
+tijd = "9:36"
+wat = "Een post op X zet de video online met alleen de woorden \"Dublin 2027\" [5]."
+
+[[tijdlijn]]
+datum = "2026-09-22"
+wat = "EFE Verifica: de vrouwen zijn klanten van een winkel [6]."
+
+[[tijdlijn]]
+datum = "2026-09-24"
+wat = "AFP Factcheck Nederland en Maldita: een rij voor een uitverkoop [7] [8]."
+
+[[tijdlijn]]
+datum = "2026-09-29"
+wat = "Full Fact: een pop-upverkoop van een kledingmerk in Amsterdam [9]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Oemaayah op Instagram"
+titel = "De video van de rij, met een bedankje aan de bezoekers van de sample sale"
+datum = "2026-09-20"
+url = "https://www.instagram.com/p/Ddg3hmVi9hR/"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Oemaayah op Instagram"
+titel = "Aankondiging van de sample sale"
+datum = "2026-09-19"
+url = "https://www.instagram.com/p/DddrVrdgvfq/"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Rijksoverheid, ministerie van Sociale Zaken en Werkgelegenheid"
+titel = "Wetsvoorstel voor bijna gratis kinderopvang openbaar"
+datum = "2025-10-17"
+url = "https://www.rijksoverheid.nl/ministeries/ministerie-van-sociale-zaken-en-werkgelegenheid/nieuws/2025/10/17/wetsvoorstel-voor-bijna-gratis-kinderopvang-openbaar"
+archief = "https://web.archive.org/web/20260306082224/https://www.rijksoverheid.nl/ministeries/ministerie-van-sociale-zaken-en-werkgelegenheid/nieuws/2025/10/17/wetsvoorstel-voor-bijna-gratis-kinderopvang-openbaar"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "De Hallen Studio's"
+titel = "De eigen site, bekeken op 18 november 2026"
+datum = "2026-11-18"
+url = "https://www.dehallenstudios.nl/en/"
+archief = "https://web.archive.org/web/20261119144602/https://www.dehallenstudios.nl/en/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "X"
+titel = "De post met de video en de woorden Dublin 2027"
+datum = "2026-09-21"
+prive = true
+archief = "https://web.archive.org/web/20261119153334/https://cdn.syndication.twimg.com/tweet-result?id=2101938641173876975&token=53ffnr1vzlp&lang=nl"
+
+[[bron]]
+nr = 6
+soort = "factcheck"
+uitgever = "EFE Verifica"
+titel = "La cola de 'inmigrantes' para inscribir a sus hijos en una guardería gratuita son clientas de una tienda (titel naar de link)"
+datum = "2026-09-22"
+url = "https://verifica.efe.com/cola-inmigrantes-hijos-guarderia-gratuita-clientas-tienda-muestra/"
+archief = "https://web.archive.org/web/20261003090100/https://verifica.efe.com/cola-inmigrantes-hijos-guarderia-gratuita-clientas-tienda-muestra/"
+
+[[bron]]
+nr = 7
+soort = "factcheck"
+uitgever = "Maldita"
+titel = "No, este vídeo no muestra a 'musulmanas esperando para inscribir a sus hijos en una guardería gratuita de Holanda': es la cola para una tienda de Ámsterdam"
+datum = "2026-09-24"
+url = "https://maldita.es/desinfo/20260924/una-holandesa-graba-una-fila-interminable-de-musulmanas-esperando-para-inscribir-a-sus-hijos-en-una-nueva-guarderia-publica-gratuita/"
+archief = "https://web.archive.org/web/20260925013959/https://maldita.es/desinfo/20260924/una-holandesa-graba-una-fila-interminable-de-musulmanas-esperando-para-inscribir-a-sus-hijos-en-una-nueva-guarderia-publica-gratuita/"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Video toont vrouwen in de rij voor een uitverkoop, niet 'moslimvrouwen die wachten op gratis kinderopvang'"
+datum = "2026-09-24"
+url = "https://factchecknederland.afp.com/doc.afp.com.C96B2KE"
+archief = "https://web.archive.org/web/20261119144657/https://factchecknederland.afp.com/doc.afp.com.C96B2KE"
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "Full Fact"
+titel = "Video shows Muslim women queuing for a clothing sale, not free childcare"
+datum = "2026-09-29"
+url = "https://fullfact.org/world/muslim-women-queue-amsterdam-clothing-not-childcare/"
+archief = "https://web.archive.org/web/20260930063644/https://fullfact.org/world/muslim-women-queue-amsterdam-clothing-not-childcare/"

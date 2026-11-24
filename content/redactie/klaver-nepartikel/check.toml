@@ -1,0 +1,181 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/klaver-nepartikel/dossier.md.
+
+sleutel = "klaver-nepartikel"
+status = "gepubliceerd"
+taal = "nl"
+adres = "klaver-citaat-privebezit-afschaffen"
+adres_en = "klaver-quote-abolish-private-property"
+kop = "Jesse Klaver zei nooit dat hij het privébezit wil afschaffen, het citaat komt uit 2020"
+oordeel = "onwaar"
+oordeel_zin = "Het citaat komt uit een anoniem blog op Medium van oktober 2020, en volgens zijn woordvoerder heeft Klaver het nooit gezegd [2] [7]."
+soort = "verzonnen"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "Jesse Klaver (GL): \"Als ik de verkiezingen win, schaf ik privébezit af.\""
+platform = "X"
+eerst_gezien = "2026-10-05"
+posts = 1
+bereik = "953 likes en 186 reacties op 18 november"
+
+kort = """
+Op 5 oktober ging op X een screenshot rond van een citaat waarin Jesse Klaver zegt dat hij het privébezit afschaft \
+als hij de verkiezingen wint [1]. Klaver heeft dat nooit gezegd: het citaat komt uit een blog dat een anonieme \
+schrijver in oktober 2020 op Medium zette [2] [7]. Het blog is weg, maar het citaat kwam in 2022, 2025 en 2026 \
+steeds terug [1] [7] [8]."""
+
+tekst = """
+Het screenshot verscheen op maandag 5 oktober om 14.37 uur op X, met de tekst "Kijk dit is een echte communist." \
+[1]. Op 18 november had de post 953 likes en 186 reacties [1]. Dezelfde middag werd er context bij gezet [1].
+
+Het citaat is ouder dan de post. Op woensdag 14 oktober 2020 deelde een account op X een link naar een blog op \
+Medium, een platform waar iedereen kan schrijven [2]. De kop van dat blog was het citaat [2]. Een paar uur later \
+schreef het CIDI, het Centrum Informatie en Documentatie Israël, dat Klaver trending was door een antisemitisch \
+artikel dat beweerde dat hij het privébezit wilde afschaffen [3]. Volgens het CIDI schreef de auteur er ook bij dat \
+Klaver een Joodse moeder zou hebben [3].
+
+Er is geen interview, toespraak of programma waarin Klaver dit zegt. dpa vond in 2022 geen enkel medium dat de \
+uitspraak optekende; alle verwijzingen gingen terug naar het blog, dat de schrijver inmiddels had weggehaald [7]. \
+Klavers woordvoerder zei tegen dpa dat hij het nooit gezegd heeft [7]. Het verkiezingsprogramma van GroenLinks \
+voor 2021 heette Tijd voor nieuw realisme, met Klaver als lijsttrekker [5]. De woorden privébezit en \
+privé-eigendom komen er volgens dpa niet in voor [7].
+
+Daarna kwam het citaat steeds terug. In februari 2022 stond het op Facebook [7]. In oktober 2025, in de campagne \
+voor de Tweede Kamerverkiezingen van 29 oktober, gingen screenshots opnieuw rond, en noemde de woordvoerder het \
+nepnieuws [8]. Na de post van 5 oktober 2026 schreef ook Knack dat er geen bewijs is voor het citaat [9].
+
+Klaver was in 2020 fractievoorzitter van GroenLinks [4]. GroenLinks en de PvdA gingen op 13 juni 2026 op in \
+Progressief Nederland, PRO [6]. Klaver is nu fractievoorzitter van PRO in de Tweede Kamer [4]."""
+
+niet_weten = """
+We weten niet wie het blog schreef, en ook niet of het als grap bedoeld was."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Of het citaat in maart 2021 en november 2023 ook rondging.",
+  "Een reactie van de woordvoerder van Klaver bij PRO op de post van 2026.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 5 oktober 2026, 14.37 uur."
+alt = "Screenshot van een artikel met een verzonnen citaat van Jesse Klaver over het afschaffen van privébezit. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2020-10-14"
+tijd = "16:07"
+wat = "Een account op X deelt de link naar het blog op Medium, met het citaat als kop [2]."
+
+[[tijdlijn]]
+datum = "2020-10-14"
+tijd = "17:55"
+wat = "Het CIDI noemt het artikel antisemitisch en nep [3]."
+
+[[tijdlijn]]
+datum = "2022-02-17"
+wat = "dpa: de uitspraak is verzonnen [7]."
+
+[[tijdlijn]]
+datum = "2025-10-17"
+wat = "AFP Factcheck Nederland, overgenomen door deCheckers: onwaar [8]."
+
+[[tijdlijn]]
+datum = "2026-06-13"
+wat = "GroenLinks en PvdA gaan op in PRO [6]."
+
+[[tijdlijn]]
+datum = "2026-10-05"
+tijd = "14:37"
+wat = "De post op X met het screenshot [1]."
+
+[[tijdlijn]]
+datum = "2026-10-30"
+wat = "Knack: geen bewijs voor het citaat [9]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post met het screenshot, opgevraagd op 18 november 2026"
+datum = "2026-10-05"
+prive = true
+archief = "https://web.archive.org/web/20261119150647/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2107087691477307487&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "Post met de link naar het blog op Medium"
+datum = "2020-10-14"
+prive = true
+geen_kopie = "het nummer van de post hebben we niet bewaard, dus een kopie konden we niet maken"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "CIDI op X"
+titel = "Jesse Klaver is momenteel trending op Twitter"
+datum = "2020-10-14"
+url = "https://x.com/CIDI_nieuws/status/1316407192678006786"
+archief = "https://web.archive.org/web/20251016104011/https://x.com/CIDI_nieuws/status/1316407192678006786"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Tweede Kamer"
+titel = "Jesse Klaver, biografie"
+datum = "2026-11-18"
+url = "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-pro/biografie"
+archief = "https://web.archive.org/web/20261119143825/https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/klaver-jf-pro/biografie"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Parlement.com"
+titel = "GroenLinks en Tweede Kamerverkiezingen 2021"
+datum = "2026-11-18"
+url = "https://parlement.com/groenlinks-en-tweede-kamerverkiezingen-2021"
+archief = "https://web.archive.org/web/20261119143853/https://parlement.com/groenlinks-en-tweede-kamerverkiezingen-2021"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "NL Times"
+titel = "GroenLinks, PvdA dissolved; Members officially approve formation of new party PRO"
+datum = "2026-06-13"
+url = "https://nltimes.nl/2026/06/13/groenlinks-pvda-dissolved-members-officially-approve-formation-new-party-pro"
+
+[[bron]]
+nr = 7
+soort = "factcheck"
+uitgever = "dpa Factchecking"
+titel = "Bericht met vermeende uitspraak Jesse Klaver over privébezit is verzonnen"
+datum = "2022-02-17"
+url = "https://dpa-factchecking.com/netherlands/220216-99-157832"
+archief = "https://web.archive.org/web/20251103213823/https://dpa-factchecking.com/netherlands/220216-99-157832/"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "deCheckers, met AFP Factcheck Nederland"
+titel = "Nepartikel waarin Jesse Klaver zegt dat hij 'privébezit wil afschaffen' gaat opnieuw viraal"
+datum = "2025-10-17"
+url = "https://decheckers.be/factchecks/nepartikel-waarin-jesse-klaver-zegt-dat-hij-privbezit-wil-afschaffen-gaat-opnieuw-viraal"
+archief = "https://web.archive.org/web/20260203225352/https://decheckers.be/factchecks/nepartikel-waarin-jesse-klaver-zegt-dat-hij-privbezit-wil-afschaffen-gaat-opnieuw-viraal"
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "Knack"
+titel = "Factcheck: nee, Jesse Klaver wil het privébezit niet afschaffen"
+datum = "2026-10-30"
+url = "https://www.knack.be/factcheck/factcheck-nee-jesse-klaver-wil-het-privebezit-niet-afschaffen/"
+archief = "https://web.archive.org/web/20261112095733/https://www.knack.be/factcheck/factcheck-nee-jesse-klaver-wil-het-privebezit-niet-afschaffen/"

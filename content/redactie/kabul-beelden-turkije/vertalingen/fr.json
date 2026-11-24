@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck kabul-beelden-turkije van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "49291058a1e10941",
+ "veldafdrukken": {
+  "kop": "2f8eaae2bafdd900",
+  "oordeel_zin": "9fdeee9fad6e3384",
+  "bewering": "78cba22578fa9c0a",
+  "kort": "f0489b0486d3aec6",
+  "tekst": "be06e8a18136d46c",
+  "niet_weten": "0febbc803080a097",
+  "bereik": "46f43bf117027708",
+  "nog_uitzoeken": "c9a6342748359bd6",
+  "tijdlijn": "71a1685d2918abaf",
+  "beeld_bijschrift": "0605bdb69b6ae6ce",
+  "beeld_alt": "856248c240f3a55f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo d'un Apache et d'un C-17 a été filmée à Kaboul en 2021, pas en Turquie",
+  "oordeel_zin": "Les images viennent de l'aéroport de Kaboul, le 16 août 2021, et en septembre 2026 l'armée de l'air américaine était toujours à Incirlik [1] [3].",
+  "bewering": "Des avions cargo américains emportent tout de la base aérienne en Turquie et partent pour de bon.",
+  "kort": "Le 27 août, une vidéo circulait sur X, montrant des avions américains qui quitteraient définitivement une base en Turquie [4]. Les images datent du 16 août 2021, à l'aéroport de Kaboul, où un hélicoptère Apache chassait des gens d'un C-17 [1] [2]. En septembre, l'armée de l'air américaine signalait encore normalement des activités sur la base d'Incirlik en Turquie [3] [6].",
+  "tekst": "Le jeudi 27 août à 19 h 04, un compte néerlandophone a mis en ligne sur X une vidéo de 37 secondes [4]. Le texte affirme que des avions cargo américains ramènent aux États-Unis du matériel et des provisions de « la base aérienne en Turquie » et quittent complètement la base [4]. La publication ne dit pas de quelle base il s'agit [4]. Au 18 novembre, elle avait été vue 9 252 fois [4].\n\nLa même affirmation figurait huit heures plus tôt en anglais sur X, à 11 h 15, avec une vidéo de même durée [5]. Cette publication a été vue 685 711 fois [5]. Le texte néerlandais semble en être une traduction [4] [5].\n\nLes images ont cinq ans. Elles viennent de l'aéroport de Kaboul, le lundi 16 août 2021, pendant les jours de l'évacuation américaine d'Afghanistan [1] [2]. De grands groupes d'Afghans avaient alors envahi la piste, autour d'un C-17 qui roulait au sol [1]. Un hélicoptère Apache de l'armée de terre américaine volait très près du sol pour les chasser [1] [2]. The War Zone a mis la vidéo en ligne le jour même, avec une publication sur les réseaux sociaux comme source [1]. The Aviationist a décrit la scène un jour plus tard [2].\n\nLa vidéo ne dit donc rien de la Turquie en 2026 [1] [4]. Un C-17 est un grand avion de transport de l'armée de l'air américaine ; ce type d'appareil assurait en 2021 le pont aérien depuis Kaboul [2].\n\nLes Américains n'ont pas non plus quitté la Turquie. Les 18 et 19 septembre, des militaires de la 39th Air Base Wing ont tenu sur la base d'Incirlik une commémoration de 24 heures pour les prisonniers de guerre et les disparus [3]. Le 25 septembre, la même unité y a rouvert un bâtiment avec des chambres pour militaires, après 949 jours de rénovation [6]. Les deux messages proviennent des forces armées américaines elles-mêmes [3] [6].",
+  "niet_weten": "Nous ne savons pas qui a le premier associé les images à la Turquie. La plus ancienne publication avec cette explication que nous ayons trouvée est la publication anglaise du 27 août à 11 h 15. Nous ne savons pas non plus qui a filmé la vidéo en 2021. Nous n'avons pas cherché plus loin si quelque chose a changé en août 2026 pour les troupes américaines en Turquie ; les deux messages de septembre que nous avons lus ne mentionnent aucun départ.",
+  "bereik": "9 252 vues au 18 novembre",
+  "nog_uitzoeken": [
+   "Reste à vérifier : s'il y avait, fin août 2026, des informations sur des troupes américaines en Turquie qui pourraient expliquer la publication."
+  ],
+  "tijdlijn": [
+   "À l'aéroport de Kaboul, un Apache chasse des gens d'un C-17 ; The War Zone met la vidéo en ligne [1].",
+   "The Aviationist décrit la même scène [2].",
+   "Une publication en anglais présente la vidéo comme des Américains quittant une base en Turquie [5].",
+   "La publication néerlandaise avec la même affirmation [4].",
+   "Commémoration de 24 heures sur la base d'Incirlik [3].",
+   "À Incirlik, un bâtiment rénové avec des chambres pour militaires rouvre [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 27 août 2026, 19 h 04.",
+   "The War Zone, 16 août 2021 : un Apache chasse des Afghans d'un C-17 à l'aéroport de Kaboul."
+  ],
+  "beeld_alt": [
+   "Image fixe de la vidéo : un hélicoptère à basse altitude au-dessus d'une piste, près d'un grand avion de transport. Tampon : FAUX.",
+   "La vidéo de The War Zone montrant un hélicoptère Apache au-dessus de la piste de Kaboul, à côté d'un C-17."
+  ]
+ }
+}

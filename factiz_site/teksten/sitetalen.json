@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "toelichting": "De talen van de site, in de volgorde van de taalkiezer (B74, B79, PLAN #34.2be). code: intern en in de woordenlijsten; bcp47: in lang en hreflang; pad: in het adres (Engels op de hoofdmap); naam: de eigen naam in de taalkiezer; locale: voor getallen in de browser, met Latijnse cijfers; duizendtal: het teken tussen duizendtallen op het platform (CLDR). De ene lijst voor platform, lab en site.",
+    "basis": [
+      "nl",
+      "en",
+      "de",
+      "es",
+      "fr"
+    ]
+  },
+  "talen": [
+    {
+      "code": "en",
+      "bcp47": "en",
+      "pad": "",
+      "naam": "English",
+      "locale": "en-GB",
+      "duizendtal": ","
+    },
+    {
+      "code": "nl",
+      "bcp47": "nl",
+      "pad": "nl",
+      "naam": "Nederlands",
+      "locale": "nl-NL",
+      "duizendtal": "."
+    },
+    {
+      "code": "de",
+      "bcp47": "de",
+      "pad": "de",
+      "naam": "Deutsch",
+      "locale": "de-DE",
+      "duizendtal": "."
+    },
+    {
+      "code": "es",
+      "bcp47": "es",
+      "pad": "es",
+      "naam": "Español",
+      "locale": "es-ES",
+      "duizendtal": "."
+    },
+    {
+      "code": "fr",
+      "bcp47": "fr",
+      "pad": "fr",
+      "naam": "Français",
+      "locale": "fr-FR",
+      "duizendtal": " "
+    },
+    {
+      "code": "pt",
+      "bcp47": "pt-BR",
+      "pad": "pt-br",
+      "naam": "Português (Brasil)",
+      "locale": "pt-BR",
+      "duizendtal": "."
+    },
+    {
+      "code": "ru",
+      "bcp47": "ru",
+      "pad": "ru",
+      "naam": "Русский",
+      "locale": "ru-RU",
+      "duizendtal": " "
+    },
+    {
+      "code": "uk",
+      "bcp47": "uk",
+      "pad": "uk",
+      "naam": "Українська",
+      "locale": "uk-UA",
+      "duizendtal": " "
+    },
+    {
+      "code": "id",
+      "bcp47": "id",
+      "pad": "id",
+      "naam": "Bahasa Indonesia",
+      "locale": "id-ID",
+      "duizendtal": "."
+    },
+    {
+      "code": "tr",
+      "bcp47": "tr",
+      "pad": "tr",
+      "naam": "Türkçe",
+      "locale": "tr-TR",
+      "duizendtal": "."
+    },
+    {
+      "code": "zh",
+      "bcp47": "zh-Hant",
+      "pad": "zh-hant",
+      "naam": "繁體中文",
+      "locale": "zh-Hant-TW",
+      "duizendtal": ","
+    },
+    {
+      "code": "ja",
+      "bcp47": "ja",
+      "pad": "ja",
+      "naam": "日本語",
+      "locale": "ja-JP",
+      "duizendtal": ","
+    },
+    {
+      "code": "hi",
+      "bcp47": "hi",
+      "pad": "hi",
+      "naam": "हिन्दी",
+      "locale": "hi-IN-u-nu-latn",
+      "duizendtal": ","
+    },
+    {
+      "code": "ar",
+      "bcp47": "ar",
+      "pad": "ar",
+      "naam": "العربية",
+      "locale": "ar-u-nu-latn",
+      "duizendtal": ","
+    },
+    {
+      "code": "fa",
+      "bcp47": "fa",
+      "pad": "fa",
+      "naam": "فارسی",
+      "locale": "fa-IR-u-nu-latn",
+      "duizendtal": ","
+    }
+  ]
+}

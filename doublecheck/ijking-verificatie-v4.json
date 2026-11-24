@@ -1,0 +1,185 @@
+{
+ "_meta": "De ijking van de waarheidsmeter (B44, BENCHMARK §151): per oordeel en soort bron het gemeten aandeel ware berichten bij de vastgezette machine (vraag verificatie-v4), geschreven door `python -m doublecheck.meter` op de antwoorden van de rondes 4, 5 en 7 van #31.8, en hierheen gekopieerd voor de controle per bericht (#31.12). Eigen meting: alleen tellingen, geen tekst uit het corpus. Daarbij één klasse uit een eigen meting (PLAN #32.0m, BENCHMARK §170): (klopt niet, algemene kennis), de berichten waar beide vragen van vloer-v1 'clearly false' zeiden, op alle berichten van de rondes met vraag v4 en de sets O en R3 (B50).",
+ "rondes": [
+  [
+   4,
+   [
+    "b"
+   ]
+  ],
+  [
+   5,
+   [
+    "b"
+   ]
+  ],
+  [
+   7,
+   [
+    "a",
+    "b"
+   ]
+  ]
+ ],
+ "n": 977,
+ "aandeel waar in de mix": 0.7073,
+ "klassen": [
+  {
+   "oordeel": "klopt",
+   "laag": "redactie",
+   "n": 290,
+   "waar": 289,
+   "aandeel waar": 0.9966,
+   "interval": [
+    0.9807,
+    0.9994
+   ],
+   "stand": 9,
+   "woorden": "zeer waarschijnlijk waar"
+  },
+  {
+   "oordeel": "klopt",
+   "laag": "web",
+   "n": 278,
+   "waar": 267,
+   "aandeel waar": 0.9604,
+   "interval": [
+    0.9305,
+    0.9778
+   ],
+   "stand": 7,
+   "woorden": "waarschijnlijk waar"
+  },
+  {
+   "oordeel": "klopt niet",
+   "laag": "redactie",
+   "n": 100,
+   "waar": 2,
+   "aandeel waar": 0.02,
+   "interval": [
+    0.0055,
+    0.07
+   ],
+   "stand": 1,
+   "woorden": "zeer waarschijnlijk onwaar"
+  },
+  {
+   "oordeel": "klopt niet",
+   "laag": "web",
+   "n": 94,
+   "waar": 9,
+   "aandeel waar": 0.0957,
+   "interval": [
+    0.0512,
+    0.172
+   ],
+   "stand": 3,
+   "woorden": "waarschijnlijk onwaar"
+  },
+  {
+   "oordeel": "onzeker",
+   "laag": "web",
+   "n": 94,
+   "waar": 66,
+   "aandeel waar": 0.7021,
+   "interval": [
+    0.6032,
+    0.7852
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "onzeker",
+   "laag": "geen bron",
+   "n": 79,
+   "waar": 42,
+   "aandeel waar": 0.5316,
+   "interval": [
+    0.4227,
+    0.6376
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "let op",
+   "laag": "web",
+   "n": 17,
+   "waar": 4,
+   "aandeel waar": 0.2353,
+   "interval": [
+    0.0955,
+    0.4726
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "let op",
+   "laag": "geen bron",
+   "n": 7,
+   "waar": 0,
+   "aandeel waar": 0.0,
+   "interval": [
+    0.0,
+    0.3543
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "onzeker",
+   "laag": "redactie",
+   "n": 7,
+   "waar": 6,
+   "aandeel waar": 0.8571,
+   "interval": [
+    0.4869,
+    0.9743
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "klopt niet",
+   "laag": "geen bron",
+   "n": 6,
+   "waar": 1,
+   "aandeel waar": 0.1667,
+   "interval": [
+    0.0301,
+    0.5635
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "klopt",
+   "laag": "geen bron",
+   "n": 5,
+   "waar": 5,
+   "aandeel waar": 1.0,
+   "interval": [
+    0.5655,
+    1.0
+   ],
+   "stand": 5,
+   "woorden": "onzeker"
+  },
+  {
+   "oordeel": "klopt niet",
+   "laag": "algemene kennis",
+   "n": 246,
+   "waar": 1,
+   "aandeel waar": 0.0041,
+   "interval": [
+    0.0007,
+    0.0227
+   ],
+   "stand": 3,
+   "woorden": "waarschijnlijk onwaar",
+   "bron": "PLAN #32.0m, BENCHMARK §170"
+  }
+ ]
+}

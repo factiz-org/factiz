@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Feuerwehrmann in Bordeaux wurde durch eine explodierende Spraydose verletzt, nicht durch Jugendliche mit Benzin",
+  "oordeel_zin": "Ein Feuerwehrmann wurde am 29. September kurz von einer Stichflamme getroffen, als in einem Barrikadenfeuer eine Spraydose explodierte; niemand übergoss ihn mit Benzin oder zündete ihn an [1] [3].",
+  "bewering": "Jugendliche haben bei den Protesten in Frankreich einen Feuerwehrmann mit Benzin übergossen und in Brand gesteckt.",
+  "kort": "Am 1. und 2. Oktober kursierten auf X niederländischsprachige Posts, die besagten, Jugendliche in Frankreich hätten einen Feuerwehrmann mit Benzin übergossen und angezündet [8]. Am 29. September wurde in Bordeaux tatsächlich ein Feuerwehrmann kurz von einer Stichflamme getroffen, als in einem Barrikadenfeuer, das er löschen wollte, eine Spraydose explodierte [1] [3]. Benzin spielte dabei keine Rolle; mit Benzin wurde am 1. Oktober in Marseille ein Schulleiter übergossen [5] [6].",
+  "tekst": "Am Donnerstag, 1. Oktober, um 21:12 Uhr erschien auf X ein niederländischsprachiger Post: Jugendliche hätten bei den Protesten in Frankreich einen Feuerwehrmann mit Benzin übergossen und angezündet [8]. Ein zweiter Post am Nachmittag danach verortete es in Bordeaux [8]. Ein englischsprachiges Konto brachte am 2. Oktober ein Foto mit derselben Geschichte, das laut CORRECTIV sieben Millionen Mal angesehen wurde und auf das Elon Musk reagierte [11].\n\nWas wirklich geschah, steht in der französischen Presse: Am Dienstag, 29. September, gegen 12:30 Uhr blockierten Schüler das Lycée Montaigne in der Rue Sainte-Catherine in Bordeaux, und an einem Eingang brannte eine Barrikade auf der Straße [1]. Ein Feuerwehrmann ging auf das Feuer zu, um es zu löschen, und in diesem Moment explodierte etwas im Feuer: Eine Stichflamme hüllte ihn kurz ein [1] [2].\n\nLaut der Präfektur der Gironde war es eine Spraydose, die im Feuer lag [3]. Der Feuerwehrmann wurde leicht verletzt, kam ins Krankenhaus und war am selben Nachmittag wieder auf der Feuerwache [1]. Die Präfektin sagte, er könne einige Tage nicht arbeiten [1]. Auf Videos von BFMTV und Le Figaro, aus zwei Blickwinkeln, zündet ihn niemand an, und er geht nach der Stichflamme selbst ein paar Meter zurück [4] [11] [12].\n\nBenzin kommt in keinem der Berichte über Bordeaux vor [1] [3]. Die Staatsanwaltschaft Bordeaux leitete allerdings Ermittlungen wegen vorsätzlicher Brandstiftung mit schweren Verletzungen ein; ob die Spraydose absichtlich ins Feuer gelegt wurde, sollten diese Ermittlungen klären [1].\n\nIn jener Woche geschah durchaus etwas mit Benzin, aber in Marseille und nicht bei einem Feuerwehrmann: Am Donnerstag, 1. Oktober, wurde dort am Lycée Victor-Hugo der Schulleiter mit Benzin übergossen, laut Staatsanwaltschaft wurde er verletzt [5] [6]. Einer anderen Darstellung zufolge spritzte das Benzin auf Lehrer, als ein Schüler sie in einen Mülleimer werfen wollte [7]. Am Lycée Saint-Exupéry umringten am selben Morgen Hunderte Jugendliche ein Feuerwehrfahrzeug, jagten die Feuerwehrleute weg und zündeten das Fahrzeug an [5] [7]. Einen Feuerwehrmann, der angezündet wurde, erwähnt keiner dieser Berichte [5] [6] [7].\n\nFaktenchecker in anderen Sprachen kamen zum selben Ergebnis: An-Nahar am 5. Oktober, EFE Verifica am 6. Oktober, CORRECTIV am 12. Oktober und ZDFheute am 14. Oktober [9] [10] [11] [12]. Laut CORRECTIV ist das Foto echt; der Fotograf bestätigte das gegenüber AFP [11]. Auf Niederländisch schrieb Knack einen Faktencheck, der spätestens am 19. Oktober online war [13].",
+  "niet_weten": "Wir wissen nicht, welches Bild in den niederländischsprachigen Posts zu sehen war. CORRECTIV nennt das Foto echt, An-Nahar sah ein Bild, das von den Videos abweicht und möglicherweise nachgestellt wurde [9] [11]. Vielleicht kursierten zwei Bilder. Wir wissen auch nicht, ob jemand die Sprühdose absichtlich ins Feuer legte, und was die Untersuchung der Staatsanwaltschaft ergab.",
+  "nog_uitzoeken": [
+   "Welches Bild die beiden niederländischsprachigen Posts zeigten: das echte Foto von Guillaume Bonnaud, eine nachgestellte Version oder ein Video. Die Posts sind gelöscht.",
+   "Ob die Staatsanwaltschaft Bordeaux etwas zu den Ermittlungen bekannt gab, und ob jemand die Sprühdose absichtlich ins Feuer legte.",
+   "Andere Faktenchecker kommen zu unterschiedlichen Urteilen: ZDFheute und Mimikama entschieden sich für irreführend, CORRECTIV, EFE Verifica und An-Nahar für falsch. Wir haben uns für falsch entschieden."
+  ],
+  "tijdlijn": [
+   "Ein Feuerwehrmann wird an einer Barrikade vor dem Lycée Montaigne in Bordeaux von einer Stichflamme getroffen [1].",
+   "BFMTV stellt das Video des Moments auf X [4].",
+   "In Marseille wird ein Schulleiter mit Benzin übergossen und ein Feuerwehrfahrzeug angezündet [5] [6].",
+   "Der erste niederländischsprachige Post: mit Benzin übergossen und angezündet [8].",
+   "Ein zweiter niederländischsprachiger Post verortet es in Bordeaux [8].",
+   "An-Nahar: Die Behauptung stimmt nicht [9].",
+   "CORRECTIV: Das Foto ist echt, niemand zündete den Feuerwehrmann an [11].",
+   "Spätestens an diesem Tag ist der Faktencheck von Knack online [13]."
+  ],
+  "beeld_bijschrift": [
+   "BFMTV auf X, 29. September 2026: das Video des Feuerwehrmanns am Lycée Montaigne in Bordeaux."
+  ],
+  "beeld_alt": [
+   "Video von BFMTV: Ein Feuerwehrmann geht auf ein kleines Feuer auf der Straße zu, die Flammen schießen hoch und erlöschen sofort."
+  ]
+ }
+}

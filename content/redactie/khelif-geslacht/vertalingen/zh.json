@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imane Khelif 確實有 SRY 基因,但並未確認她是生理男性",
+  "oordeel_zin": "Khelif 本人在 2026 年 2 月表示自己有 SRY 基因,但沒有公開的檢測結果,也沒有任何體育組織或法院確認她是生理男性 [4] [7] [8]。",
+  "bewering": "OMG. 一個生理男性的拳擊手對戰女性,就必須被當成體育盛事來慶祝。但誰要是稱之為對女性的暴力,就必須被取消。顯然只允許一種觀點獲勝。",
+  "kort": "X 上的一則貼文稱,一名與女性對打的拳擊手(推測是 Imane Khelif)是生理男性 [1] [3]。Khelif 在 2026 年 2 月表示自己有 SRY 基因,國際奧委會認為這代表男性性別發育,她同時表示自己是被當作女孩養大的,並非跨性別者 [4] [8]。她在體育上是否算男性,取決於一項檢測和一項醫學判斷,而這兩者都沒有公開內容,也沒有任何體育組織或法院對此作出裁決 [6] [7] [8]。",
+  "tekst": "這則貼文沒有點名,並引用了自己 11 月 9 日的一則貼文,內容涉及 HLN 稱為體育盛事的某件事 [1] [2]。我們是從時間點推斷貼文指的是 Khelif:11 月 6 日,她宣布了自己的首場職業賽 [3]。同一週,一則英文貼文也在流傳,談的是奧運女子拳擊中的一名男性 [11]。\n\nKhelif 是阿爾及利亞拳擊手,2024 年獲得奧運女子組金牌 [3]。她在 2026 年 2 月 4 日向法國體育報 L'Équipe 證實自己有 SRY 基因,這個基因通常位於 Y 染色體上 [4] [8]。她的回答是:「是的,這很自然。」[4] 她還說,比賽前她用荷爾蒙降低睪固酮,她是被當作女孩養大的,並不是跨性別女性 [4]。她沒有提到任何診斷 [4]。\n\n自 2025 年 8 月起,World Boxing 把帶有 SRY 基因的拳擊手視為男性,但對雄性激素完全不敏感者除外 [4] [6]。國際奧委會在 2026 年 3 月決定,自 2028 年奧運起,只有沒有 SRY 基因的女性才能參加女子組,但睪固酮不帶來優勢的罕見病症除外 [8]。國際奧委會表示,這項規定不具追溯力,也不涉及任何人的法律性別 [8]。\n\n2025 年,World Boxing 不讓 Khelif 再參賽,直到她完成基因檢測,體育仲裁法庭 TAS 在 2025 年 9 月 1 日拒絕暫停這項決定 [7]。此案保密審理,我們沒有找到判決 [7]。Khelif 在 2 月表示,她已把自己的醫療檔案寄給 World Boxing,但沒有得到回覆 [4]。\n\n2024 年一份法國雜誌上的文件,據稱證明她是男性,國際奧委會稱這些文件未經查證 [9]。2024 年 8 月,也就是在這次訪談之前,RTBF 和 FactCheck.org 都稱 Khelif 是男性的說法不實 [12] [13]。",
+  "niet_weten": "我們不知道 Khelif 是否為 World Boxing 或國際奧委會做過 SRY 基因檢測,也不知道醫生對她作出了什麼診斷。我們同樣無法確定這則貼文指的就是她。",
+  "bereik": "11 月 22 日時有 437 個讚和 18 則回覆",
+  "nog_uitzoeken": [
+   "TAS 將如何裁決 Khelif 對 World Boxing 的案件。",
+   "Khelif 是否為 World Boxing 或國際奧委會做過 SRY 基因檢測,結果如何。",
+   "X 在歐盟境內遮蔽了該帳號的哪一則貼文,以及是應誰的要求。",
+   "該貼文 11 月 9 日的貼文指的是 HLN 的哪一篇文章。",
+   "我們在「未經證實」與「具誤導性」之間猶豫。「具誤導性」,是因為貼文把沒有任何體育組織或法院確認的事當成既定事實;「未經證實」,是因為 Khelif 本人表示自己有 SRY 基因,按 World Boxing 和國際奧委會的規定,這算作男性性別發育,但有一項例外,而這方面沒有任何公開資訊。我們選擇了「未經證實」。"
+  ],
+  "tijdlijn": [
+   "國際奧委會:巴黎奧運以護照上的性別為準 [5]。",
+   "Khelif 就 World Boxing 的決定向 TAS 提出上訴 [7]。",
+   "World Boxing 關於性別的規定生效,包括 SRY 基因檢測 [6]。",
+   "TAS 拒絕在案件審理前暫停 World Boxing 的決定 [7]。",
+   "Khelif 在 L'Équipe 表示自己有 SRY 基因,並用荷爾蒙降低了睪固酮 [4]。",
+   "國際奧委會自 2028 年奧運起,把女子組限於沒有 SRY 基因者,並設有一項例外 [8]。",
+   "Khelif 宣布首場職業賽,12 月 15 日在巴黎對戰 Clarida Sarabia [3]。",
+   "該帳號寫道 HLN 把某件事稱為體育盛事 [2]。",
+   "X 上的貼文 [1]。",
+   "NOS 報導 Clarida Sarabia 退出與 Khelif 的比賽 [10]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文,2026 年 11 月 12 日 20:42。"
+  ],
+  "beeld_alt": [
+   "X 上的一則貼文,稱一名生理男性的拳擊手與女性對打,附有一張截圖,顯示一則貼文在歐盟被遮蔽的通知,以及一則被引用的貼文,內容是 HLN 所稱的體育盛事。印章:未經證實。"
+  ]
+ }
+}

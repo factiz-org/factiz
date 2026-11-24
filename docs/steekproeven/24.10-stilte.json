@@ -1,0 +1,205 @@
+{
+ "_meta": "Stilteset voor de poort van Ask Factiz (PLAN #24.10), geschreven op 2026-10-15 vóór het meten en daarna niet bijgesteld: vragen waarvoor naar verwachting geen check bestaat. Een regel die door de poort komt, wordt nagelezen; gaat hij echt over de vraag, dan telt hij niet als fout.",
+ "vragen": [
+  {
+   "nr": 1,
+   "vraag": "How long should I boil an egg?"
+  },
+  {
+   "nr": 2,
+   "vraag": "What is the capital of Australia?"
+  },
+  {
+   "nr": 3,
+   "vraag": "Is it going to rain in Utrecht tomorrow?"
+  },
+  {
+   "nr": 4,
+   "vraag": "How do I reset my router?"
+  },
+  {
+   "nr": 5,
+   "vraag": "What time does the supermarket close on Sunday?"
+  },
+  {
+   "nr": 6,
+   "vraag": "How many calories are in a banana?"
+  },
+  {
+   "nr": 7,
+   "vraag": "Can I freeze cooked rice?"
+  },
+  {
+   "nr": 8,
+   "vraag": "What is the best way to learn Spanish?"
+  },
+  {
+   "nr": 9,
+   "vraag": "How tall is the Eiffel Tower?"
+  },
+  {
+   "nr": 10,
+   "vraag": "Who won the Champions League in 2015?"
+  },
+  {
+   "nr": 11,
+   "vraag": "How do I get a passport in the Netherlands?"
+  },
+  {
+   "nr": 12,
+   "vraag": "Is it safe to swim in the sea in October?"
+  },
+  {
+   "nr": 13,
+   "vraag": "What is the difference between a crocodile and an alligator?"
+  },
+  {
+   "nr": 14,
+   "vraag": "How do I clean a cast iron pan?"
+  },
+  {
+   "nr": 15,
+   "vraag": "When does daylight saving time end?"
+  },
+  {
+   "nr": 16,
+   "vraag": "Can dogs eat strawberries?"
+  },
+  {
+   "nr": 17,
+   "vraag": "How do I write a cover letter?"
+  },
+  {
+   "nr": 18,
+   "vraag": "What is a good name for a cat?"
+  },
+  {
+   "nr": 19,
+   "vraag": "How many players are on a rugby team?"
+  },
+  {
+   "nr": 20,
+   "vraag": "Why is the sky blue?"
+  },
+  {
+   "nr": 21,
+   "vraag": "How do solar panels work?"
+  },
+  {
+   "nr": 22,
+   "vraag": "What should I pack for a weekend in Rome?"
+  },
+  {
+   "nr": 23,
+   "vraag": "How long does it take to walk 10 kilometres?"
+  },
+  {
+   "nr": 24,
+   "vraag": "Is tea healthier than coffee?"
+  },
+  {
+   "nr": 25,
+   "vraag": "Did the library in Leeuwarden change its opening hours?"
+  },
+  {
+   "nr": 26,
+   "vraag": "Did my local football club win last Saturday?"
+  },
+  {
+   "nr": 27,
+   "vraag": "Is the new bridge in Nijmegen open for cyclists?"
+  },
+  {
+   "nr": 28,
+   "vraag": "Has the bakery on the corner raised its prices?"
+  },
+  {
+   "nr": 29,
+   "vraag": "Did the city council of Gouda approve the new parking plan?"
+  },
+  {
+   "nr": 30,
+   "vraag": "Is the swimming pool in Zwolle closed for repairs?"
+  },
+  {
+   "nr": 31,
+   "vraag": "Wat is de beste manier om een fiets te onderhouden?"
+  },
+  {
+   "nr": 32,
+   "vraag": "Hoe lang moet je pasta koken?"
+  },
+  {
+   "nr": 33,
+   "vraag": "Waar kan ik mijn oude telefoon inleveren?"
+  },
+  {
+   "nr": 34,
+   "vraag": "Hoeveel kost een treinkaartje van Utrecht naar Amsterdam?"
+  },
+  {
+   "nr": 35,
+   "vraag": "Wanneer is de volgende volle maan?"
+  },
+  {
+   "nr": 36,
+   "vraag": "Hoe maak ik een moestuin?"
+  },
+  {
+   "nr": 37,
+   "vraag": "Is de markt in Haarlem op zaterdag open?"
+  },
+  {
+   "nr": 38,
+   "vraag": "Welke planten kun je in de schaduw zetten?"
+  },
+  {
+   "nr": 39,
+   "vraag": "Hoe vaak moet je een cactus water geven?"
+  },
+  {
+   "nr": 40,
+   "vraag": "Wat is het verschil tussen een meer en een plas?"
+  },
+  {
+   "nr": 41,
+   "vraag": "Wie hat die Fußball-Weltmeisterschaft 1954 gewonnen?"
+  },
+  {
+   "nr": 42,
+   "vraag": "Wie backe ich ein Brot ohne Hefe?"
+  },
+  {
+   "nr": 43,
+   "vraag": "Wann öffnet das Museum in Köln?"
+  },
+  {
+   "nr": 44,
+   "vraag": "Comment faire une omelette ?"
+  },
+  {
+   "nr": 45,
+   "vraag": "Quelle est la hauteur du Mont Blanc ?"
+  },
+  {
+   "nr": 46,
+   "vraag": "¿Cuántos días tiene un año bisiesto?"
+  },
+  {
+   "nr": 47,
+   "vraag": "¿Cómo se cultiva un tomate en una maceta?"
+  },
+  {
+   "nr": 48,
+   "vraag": "Qual é a melhor praia de Lisboa?"
+  },
+  {
+   "nr": 49,
+   "vraag": "Como se faz pão de queijo?"
+  },
+  {
+   "nr": 50,
+   "vraag": "Quanto tempo dura um voo de Lisboa para o Porto?"
+  }
+ ]
+}

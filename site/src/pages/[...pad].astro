@@ -1,0 +1,123 @@
+---
+// De site in de vijf talen van het platform (PLAN #34.2c, DESIGNSYSTEEM §6): één router voor elke pagina. Engels op de
+// hoofdmap, elke andere taal onder haar code, het pad erna in elke taal gelijk. Eén adres per pagina: /en/… en een adres
+// zonder slash aan het eind sturen blijvend door.
+import Start from '../components/site/paginas/Start.astro';
+import Lijst from '../components/site/paginas/Lijst.astro';
+import Factcheck from '../components/site/paginas/Factcheck.astro';
+import Dossier from '../components/site/paginas/Dossier.astro';
+import Dossiers from '../components/site/paginas/Dossiers.astro';
+import Namen from '../components/site/paginas/Namen.astro';
+import Naam from '../components/site/paginas/Naam.astro';
+import Redacties from '../components/site/paginas/Redacties.astro';
+import Bronnen from '../components/site/paginas/Bronnen.astro';
+import Over from '../components/site/paginas/Over.astro';
+import Database from '../components/site/paginas/Database.astro';
+import Platform from '../components/site/paginas/Platform.astro';
+import Themas from '../components/site/paginas/Themas.astro';
+import Thema from '../components/site/paginas/Thema.astro';
+import Verkennen from '../components/site/paginas/Verkennen.astro';
+import Netwerk from '../components/site/paginas/Netwerk.astro';
+import Fout from '../components/site/paginas/Fout.astro';
+import EigenCheck from '../components/site/paginas/EigenCheck.astro';
+import EigenChecks from '../components/site/paginas/EigenChecks.astro';
+import { VAN_PAD, STANDAARD, pad } from '../lib/talen.js';
+import { haal, tel } from '../lib/platform.js';
+import { startgegevens } from '../lib/start.js';
+
+const delen = (Astro.params.pad ?? '').split('/').filter(Boolean);
+if (delen[0] === STANDAARD) return Astro.redirect(pad(STANDAARD, ...delen.slice(1)) + Astro.url.search, 301);
+// een pagina zonder slash aan het eind stuurt blijvend door; een adres dat op een bestand lijkt (een punt in het laatste
+// stuk) nooit: een bestand dat er even niet is (tijdens een bouw), zou anders voorgoed doorverwijzen in de browser
+const bestand = (delen.at(-1) ?? '').includes('.');
+if (!Astro.url.pathname.endsWith('/') && !bestand) return Astro.redirect(`${Astro.url.pathname}/${Astro.url.search}`, 301);
+// de taal uit het eerste stuk van het pad (/nl/, /pt-br/, /zh-hant/); zonder: Engels
+const taal = VAN_PAD[delen[0]] ? VAN_PAD[delen.shift()] : STANDAARD;
+const [soort, sleutel, ...rest] = delen;
+// de eigen factchecks heten sinds 2026-11-19 Factiz Radar (PO: "Ja, bouw het"), en hebben sinds PLAN #37.11 een adres met
+// jaar en maand (PO 2026-11-21: "Jaar en maand"): een oud adres met de werknaam stuurt voorgoed door naar het nieuwe
+const werknaam = /^[a-z][a-z0-9-]{1,79}$/;
+if (soort === 'factiz-checks' && !rest.length && !sleutel) return Astro.redirect(pad(taal, 'radar') + Astro.url.search, 301);
+if ((soort === 'factiz-checks' || soort === 'radar') && !rest.length && werknaam.test(sleutel ?? '')) {
+  const oud = await haal(`/api/${taal}/eigen/${sleutel}`);
+  if (oud?.href) return Astro.redirect(oud.href + Astro.url.search, 301);
+}
+let pagina = null;
+// Factiz Radar, de eigen factchecks (PLAN #37.4, B82, B84): de lijst, een jaar, een maand en een check op haar adres
+// (`/nl/radar/2026/11/<naam>/`, PLAN #37.11); de naam van een andere taal stuurt door naar die van deze taal
+const jaarvorm = /^[0-9]{4}$/, maandvorm = /^(0[1-9]|1[0-2])$/, naamvorm = /^[a-z0-9]+(-[a-z0-9]+)+$/;
+if (soort === 'radar') {
+  const [maand, naam, ...meer] = rest;
+  if (!sleutel) pagina = { soort: 'eigens', g: await haal(`/api/${taal}/eigen`) };
+  else if (jaarvorm.test(sleutel) && !rest.length) pagina = { soort: 'eigens', g: await haal(`/api/${taal}/eigen/${sleutel}`) };
+  else if (jaarvorm.test(sleutel) && maandvorm.test(maand ?? '') && !naam) pagina = { soort: 'eigens', g: await haal(`/api/${taal}/eigen/${sleutel}/${maand}`) };
+  else if (jaarvorm.test(sleutel) && maandvorm.test(maand ?? '') && naamvorm.test(naam ?? '') && !meer.length) {
+    const e = await haal(`/api/${taal}/eigen/${sleutel}/${maand}/${naam}`);
+    if (e?.doorsturen) return Astro.redirect(e.doorsturen + Astro.url.search, 301);
+    pagina = { soort: 'eigen', e };
+  }
+}
+// de thema's (PLAN #34.2u): het overzicht, een thema en een onderdeel; de sleutels zijn kleine letters
+const themaSleutel = /^[a-z][a-z0-9-]{0,40}$/;
+if (soort === 'themes' && !sleutel) pagina = { soort: 'themas', g: await haal(`/api/${taal}/themas`) };
+else if (soort === 'themes' && themaSleutel.test(sleutel) && rest.length <= 1 && (!rest.length || themaSleutel.test(rest[0]))) {
+  // met de lijst erbij (PLAN #34.2bb): het thema (en het onderdeel) vast, de filters van de bezoeker uit het adres
+  const vast = [['thema', sleutel], ...(rest.length ? [['onderdeel', rest[0]]] : [])];
+  const paren = [...new URLSearchParams(Astro.url.search)].filter(([k]) => !vast.some(([v]) => v === k));
+  const [g, lijst] = await Promise.all([haal(`/api/${taal}/thema/${sleutel}${rest.length ? `/${rest[0]}` : ''}`),
+    haal(`/api/${taal}/archief?${new URLSearchParams([...vast, ...paren])}`)]);
+  pagina = { soort: 'thema', g: g && lijst ? g : null, lijst, paren };
+}
+else if (soort === 'radar' || rest.length) pagina = pagina ?? null;
+else if (!soort) pagina = { soort: 'start', g: await haal(`/api/${taal}/archief`) };
+else if (soort === 'fact-checks' && !sleutel) pagina = { soort: 'lijst', g: await startgegevens(Astro, taal) };
+else if (soort === 'fact-checks' && /^[0-9a-f]{16}$/.test(sleutel)) pagina = { soort: 'factcheck', p: await haal(`/api/${taal}/factcheck/${sleutel}`) };
+else if (soort === 'dossiers' && !sleutel) pagina = { soort: 'dossiers', g: await haal(`/api/${taal}/dossiers`) };
+else if (soort === 'dossiers' && /^[a-z0-9-]{1,80}$/.test(sleutel ?? '')) pagina = { soort: 'dossier', d: await haal(`/api/${taal}/dossier/${sleutel}`) };
+// de namen (PLAN #34.2r): het register met zijn vraag (soort en letter; het platform weigert de rest), en een naam
+// redacties, bronnen en Over (PLAN #34.2t): de eerste twee met gegevens van het platform, Over uit de woordenlijsten
+else if (soort === 'newsrooms' && !sleutel) pagina = { soort: 'redacties', g: await haal(`/api/${taal}/redacties`) };
+else if (soort === 'sources' && !sleutel) pagina = { soort: 'bronnen', g: await haal(`/api/${taal}/bronnen`) };
+else if (soort === 'about' && !sleutel) pagina = { soort: 'over', g: true };
+// is er een wereldwijde database van factchecks? (docs/voorstellen/2026-11-20-seo-geo.md): de getallen uit het archief
+else if (soort === 'global-fact-check-database' && !sleutel) pagina = { soort: 'database', g: await haal(`/api/${taal}/archief`) };
+else if (soort === 'platform' && !sleutel) pagina = { soort: 'platform', g: true };
+// Verkennen (PLAN #34.2ah): de keuze staat in het adres; het platform weigert elke vraag die geen weergave is
+else if (soort === 'explore' && sleutel === 'network') pagina = { soort: 'netwerk', g: await haal(`/api/${taal}/netwerk${Astro.url.search}`) };
+else if (soort === 'explore' && !sleutel) pagina = { soort: 'verkennen', g: await haal(`/api/${taal}/verkennen${Astro.url.search}`) };
+else if (soort === 'names' && !sleutel) pagina = { soort: 'namen', g: await haal(`/api/${taal}/namen${Astro.url.search}`) };
+else if (soort === 'names' && /^Q[1-9][0-9]{0,11}$/.test(sleutel)) pagina = { soort: 'naam', n: await haal(`/api/${taal}/naam/${sleutel}`) };
+// het zoeken stuurt meteen door (PLAN #34.2ac): een gepost formulier krijgt een gewone pagina, dus terug vraagt nooit om
+// het formulier opnieuw
+if (pagina?.g?.doorsturen) return Astro.redirect(pagina.g.doorsturen, 303);
+// de pagina van een eigen factcheck in het archief gaat meteen naar de check zelf (PLAN #37.4, PO 2026-11-18)
+if (pagina?.p?.eigen_href) return Astro.redirect(pagina.p.eigen_href, 302);
+// een adres zonder pagina: de 404 van de site, in de taal van het adres (PLAN #34.2v), niet die van Astro
+if (!pagina || !(pagina.g || pagina.p || pagina.d || pagina.n || pagina.e)) {
+  Astro.response.status = 404;
+  pagina = { soort: 'fout' };
+}
+// tellen (PLAN #34.2ba): alleen een pagina die de site echt toont, na elke doorverwijzing; niet afwachten
+tel(pagina.soort, taal, Astro.request);
+// en voor de paginacache: een bezoek uit de cache telt zo net zo (`lib/paginacache.js`)
+Astro.locals.telling = [pagina.soort, taal];
+---
+{pagina.soort === 'start' && <Start taal={taal} g={pagina.g} />}
+{pagina.soort === 'lijst' && <Lijst taal={taal} g={pagina.g} />}
+{pagina.soort === 'factcheck' && <Factcheck taal={taal} p={pagina.p} />}
+{pagina.soort === 'dossiers' && <Dossiers taal={taal} g={pagina.g} />}
+{pagina.soort === 'dossier' && <Dossier taal={taal} d={pagina.d} />}
+{pagina.soort === 'namen' && <Namen taal={taal} g={pagina.g} />}
+{pagina.soort === 'naam' && <Naam taal={taal} n={pagina.n} />}
+{pagina.soort === 'redacties' && <Redacties taal={taal} g={pagina.g} />}
+{pagina.soort === 'bronnen' && <Bronnen taal={taal} g={pagina.g} />}
+{pagina.soort === 'over' && <Over taal={taal} />}
+{pagina.soort === 'database' && <Database taal={taal} g={pagina.g} />}
+{pagina.soort === 'platform' && <Platform taal={taal} />}
+{pagina.soort === 'themas' && <Themas taal={taal} g={pagina.g} />}
+{pagina.soort === 'thema' && <Thema taal={taal} g={pagina.g} lijst={pagina.lijst} paren={pagina.paren} />}
+{pagina.soort === 'verkennen' && <Verkennen taal={taal} g={pagina.g} />}
+{pagina.soort === 'netwerk' && <Netwerk taal={taal} g={pagina.g} />}
+{pagina.soort === 'eigens' && <EigenChecks taal={taal} g={pagina.g} />}
+{pagina.soort === 'eigen' && <EigenCheck taal={taal} e={pagina.e} />}
+{pagina.soort === 'fout' && <Fout taal={taal} />}

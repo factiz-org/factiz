@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck navo-niet-een-inch van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "2ada1381e9cc71a6",
+ "veldafdrukken": {
+  "kop": "41da5e38b68e0840",
+  "oordeel_zin": "fee9bc3ff4020e06",
+  "bewering": "16c6291992b25a8a",
+  "kort": "0c743f9722250a6f",
+  "tekst": "5923e967fa1ca04c",
+  "niet_weten": "cf28c56871157b5a",
+  "bereik": "177929ad16e74693",
+  "nog_uitzoeken": "11bc876702897014",
+  "tijdlijn": "fc7ac7e18dc029c3",
+  "beeld_bijschrift": "4a6c24b83199d5c6",
+  "beeld_alt": "f5ca3fbaef93b279"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "No treaty or signed agreement barred NATO from admitting countries toward Russia",
+  "oordeel_zin": "Western politicians said orally in 1990 that NATO would not move eastward, but on paper only something about East Germany appeared, and in 1997 Russia itself signed up to every country's right to choose [1] [2] [4].",
+  "bewering": "NATO should have stuck to the agreement and not made more countries towards Russia members. So Russia drew the red line at Ukraine.",
+  "kort": "A Dutch post on X says NATO broke an agreement by admitting countries toward Russia [11]. In 1990, American and German politicians told Mikhail Gorbachev orally that NATO would not move eastward, but the treaty on the reunification of Germany only says something about the east of Germany [1] [2]. In 1997, Russia itself signed an act with NATO that recognizes every country's right to choose how it arranges its security [4].",
+  "tekst": "On Saturday 17 October 2026 at 19:48, a post appeared on X, addressed to everyone who says Russia started the war for no reason [11]. According to the post, NATO should have kept to an agreement and not admitted countries toward Russia [11]. Which agreement is not stated [11]. The post does include a scan of the American record of the conversation between James Baker and Mikhail Gorbachev of 9 February 1990, from the National Security Archive, with the sentence about \"one inch to the east\" [11] [1]. Above the scan it says that the conversation was about a united Germany in NATO and \"no NATO expansion\" [11]. In the record itself, the sentence appears within a condition: if the United States remains present in a Germany that belongs to NATO [11] [1].\n\nWhat was said in 1990\n\nOn 9 February 1990, the American Secretary of State James Baker spoke in Moscow with Gorbachev about the reunification of Germany [1]. According to the American record, he said three times that NATO would move \"not one inch\" to the east, if a united Germany remained a member of NATO [1]. A day later, Chancellor Helmut Kohl told Gorbachev that NATO should not expand its area of operation [1]. The West German minister Hans-Dietrich Genscher had already said so in a speech at the end of January [1].\n\nIt was not only about East Germany, writes the National Security Archive of George Washington University, which published the records in 2017 [1]. For example, in March 1991 the British minister Douglas Hurd still said that NATO had no plans to admit countries from Central and Eastern Europe [1]. But President George Bush told Kohl at the end of February 1990 that the West had won and Moscow had not [1].\n\nWhat made it onto paper\n\nThe treaty on reunification was signed in Moscow on 12 September 1990 by both Germanys, the Soviet Union, the United States, the United Kingdom and France [2]. No foreign troops and nuclear weapons may be stationed in the east of Germany, and Germany may itself choose which alliance it belongs to [2]. It says nothing about other countries or about NATO expansion [2]. According to the National Security Archive, the assurances about the east are not in treaties, only in records of conversations [1].\n\nIn 1997, NATO and Russia signed an act on their relations in Paris [4]. In it, they recognize every country's right to choose for itself how it arranges its security [4]. On new members, the act only says that NATO has no plan to station nuclear weapons there [4]. In 2008, the NATO countries agreed that Ukraine and Georgia will become members [6]. Ukraine is not a member now [9].\n\nWhat Gorbachev himself said\n\nIn an interview in 2014, Gorbachev said that NATO expansion was not discussed at all in 1990 [3]. According to him, Baker's assurance was about East Germany, and that arrangement is being respected [3]. He did call the later decision to expand NATO contrary to the spirit of what had been assured to him in 1990 [3].\n\nThe story now\n\nThe Russian president Vladimir Putin said in December 2025 that no expansion to the east had been promised publicly [7]. On 26 July 2026 he said that the West had promised Gorbachev not to expand NATO [8]. NATO calls the promise a myth: the idea from 1990 was dropped, and no treaty with Russia forbids new members [5]. At talks in Abu Dhabi in November 2026, Russia asked for a ban on further expansion, according to leaked documents [9].\n\nWhether NATO's expansion provoked the war is a debate among researchers, and we do not decide it here. The post says something else: that there was an agreement [11]. That was never signed [1] [2]. There were oral assurances in 1990 and 1991, in conversations about Germany [1]. In 2022, PolitiFact rated a similar claim mostly false [10]. In Dutch, dpa arrived at taken out of context in 2025, and Nieuwscheckers at partly false [12] [13].",
+  "niet_weten": "We do not know which agreement the writer means; the record of 9 February 1990 that comes with the post is a conversation, not an agreement on paper. Whether the assurances of 1990 were a political promise is read differently: the National Security Archive calls the later Russian complaints grounded in the records of the time, NATO calls the promise a myth [1] [5].",
+  "bereik": "1,070 likes and 853 replies on 18 November",
+  "nog_uitzoeken": [
+   "Other fact-checkers chose differently. When a claim mentioned a treaty or a signed agreement, AAP FactCheck, Polygraph and Lead Stories chose false; when it concerned a broken promise in general, PolitiFact, dpa and Nieuwscheckers chose a verdict in the middle. This post says 'the agreement', and we chose misleading."
+  ],
+  "tijdlijn": [
+   "Baker tells Gorbachev in Moscow that NATO will move 'not one inch' to the east [1].",
+   "The treaty on the reunification of Germany is signed; it is only about Germany [2].",
+   "The British minister Hurd says NATO has no plans to admit countries from Central and Eastern Europe [1].",
+   "NATO and Russia sign their act in Paris, with every country's right to choose its security [4].",
+   "Gorbachev says NATO expansion was not discussed in 1990 [3].",
+   "The National Security Archive publishes the records of the conversations of 1990 and 1991 [1].",
+   "Putin says in Saint Petersburg that the West promised Gorbachev not to expand NATO [8].",
+   "The post on X about the broken agreement [11].",
+   "Russia asks in Abu Dhabi, according to leaked documents, for a ban on further NATO expansion [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 17 October 2026, 19:48."
+  ],
+  "beeld_alt": [
+   "Screenshot of a post on X saying NATO broke an agreement with Russia, with a scan of the American record of the conversation between Baker and Gorbachev of 9 February 1990. Stamp: MISLEADING."
+  ]
+ }
+}

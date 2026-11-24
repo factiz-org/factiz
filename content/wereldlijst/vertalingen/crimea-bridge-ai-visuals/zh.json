@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "網路上流傳的圖片和影片顯示，克里米亞大橋在2026年11月烏克蘭發動攻擊後斷裂坍塌。",
+  "kern": [
+   "烏克蘭確實在2026年11月17日攻擊克里米亞大橋並使其嚴重受損，但流傳的圖片和影片並未顯示這些損毀情況。[1] [2] [3]",
+   "其中一張顯示橋體斷裂分離的圖片，與烏克蘭安全局公布的影片中的殘骸不符，而且偵測工具在圖中發現了看不見的AI浮水印。[1]",
+   "一段看似由無人機拍攝的影片，與真實的橋樑坍塌影像不同，並帶有指向AI的浮水印；另一張照片與維基百科上2019年的大橋照片相符，很可能是用AI修改過的。[2] [3]"
+  ],
+  "rondgang": "自2026年11月18日起，這些視覺內容在Facebook、X和Instagram上擴散，語言包括英文、西班牙文和波蘭文等。[1] [2] [3]"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck gas-europa-weigert-zelf van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "f62c0665022453cf",
+ "veldafdrukken": {
+  "kop": "819174bd7fcabd84",
+  "oordeel_zin": "50efbb5e701245d3",
+  "bewering": "566f67427b37634a",
+  "kort": "f738a785d6d85dc3",
+  "tekst": "7fb9546975273471",
+  "niet_weten": "d6d20531e56079cc",
+  "bereik": "41ec1bc0cca7100f",
+  "nog_uitzoeken": "f220f114674df2b5",
+  "tijdlijn": "9992cc7012f4fa30",
+  "beeld_bijschrift": "90bbb65e1ba184cc",
+  "beeld_alt": "344aba80ac43f3a7"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Gazprom itself halted gas via Nord Stream 1 in 2022, the EU ban followed in 2026",
+  "oordeel_zin": "In 2022 Gazprom itself reduced supply via Nord Stream 1 and kept the pipeline shut after the maintenance at the end of August; a European ban on Russian gas only came in January 2026 [3] [7] [14] [16].",
+  "bewering": "This political lie v Van der Leyen: Russia gets the blame from her for shutting off the gas, but the EU really did that itself.",
+  "kort": "A Dutch post on X says Ursula von der Leyen is lying: it was not Russia but the EU that supposedly shut off the gas [12]. It was the Russian state company Gazprom that in 2022 reduced supply via Nord Stream 1 and kept the pipeline shut after the maintenance at the end of August, and that also stopped supplying the Dutch gas trader GasTerra [3] [5]. A European ban on Russian gas only came in January 2026 [7].",
+  "tekst": "On Tuesday 22 September 2026 at 23:30, a post appeared on X accusing Ursula von der Leyen of a political lie [12]. According to the post, Russia is wrongly blamed for shutting off the gas, because the EU supposedly did that itself [12]. The post quotes another post containing a statement by Von der Leyen [13]. That other post also says that Russia did not cut the EU off from gas [13].\n\nThe President of the European Commission made that statement on 17 September in Strasbourg, in her annual State of the Union speech [1]. When Russia shut off the gas, we hit back, she said; afterwards, according to her, Europe got its gas from more suppliers [1].\n\nWhat Gazprom did in 2022\n\nOn 31 May 2022, Gazprom stopped supplying GasTerra [5] [6]. GasTerra refused to pay in roubles, as a decree by President Vladimir Putin demanded [5]. According to the company, that would violate European sanctions [6]. As a result, 2 billion cubic metres of gas did not arrive until October, which GasTerra bought elsewhere [5] [6].\n\nIn mid-June 2022, Gazprom reduced supply via Nord Stream 1, the pipeline through the Baltic Sea to Germany, in two steps from 167 to 67 million cubic metres per day, about 40 percent [14] [15]. According to Gazprom, Siemens returned turbines late from repair [14]. On 27 July, supply went down to 33 million cubic metres per day, 20 percent of what the pipeline can handle [16] [17]. Only on 3 August did Gazprom name the sanctions of Canada, the EU and the United Kingdom as the reason a turbine did not come back [18]. The Polish research centre OSW saw a political decision behind it: Russia could also have sent the gas through other pipelines, and did not [2]. On 31 August, the pipeline was shut for three days of maintenance [3].\n\nOn 2 September 2022, Gazprom announced that the pipeline would remain completely shut, because of an oil leak in a turbine at the Portovaya compressor station [3] [19]. Siemens Energy said that such a leak is not a technical reason to stop [3]. The European Commission spoke of a pretext [3]. Three days later, Kremlin spokesman Dmitry Peskov said the problems were caused by the sanctions, and that the gas could flow again if they disappeared [4]. On 26 September 2022, underwater explosions made the pipeline unusable [9].\n\nWhat the EU decided\n\nIn March 2022, the European heads of government agreed that the EU had to become less dependent on Russian fossil fuel [7]. A ban on Russian gas came almost four years later: the member states adopted it on 26 January 2026 [7]. It is being phased in. Liquefied gas (LNG) from Russia may no longer enter from the start of 2027, and gas through pipelines from the autumn of 2027 [7]. In the second quarter of 2026, 10.2 percent of the gas the EU imported by pipeline still came from Russia, and 17.3 percent of the LNG [8].\n\nWhat is correct and what is not\n\nThe EU wants to stop using Russian gas, and has put that in writing [7]. But in 2022 there was no European ban, and it was Gazprom that reduced and stopped supply [3] [7]. In the case of GasTerra, Gazprom stopped because the customer refused the new payment rule; there too, the decision to stop supplying came from Gazprom [5]. Von der Leyen's statement therefore fits what happened in 2022 [1] [3].\n\nThe line that Europe is denying itself the gas is not new. In 2022, VOA and Correctiv rated the Russian explanation about the turbine as false and misleading [10] [11]. On 9 September 2026, Kremlin spokesman Peskov said, according to Reuters, that Europe is paying the price for avoiding Russian gas [20]. At the end of October, Putin brought the same line to a forum of gas-exporting countries in Moscow; The Insider set it against the figures [9].",
+  "niet_weten": "We do not know whether the writer meant the year 2022 or the ban of 2026; Von der Leyen's statement is about 2022 [1]. Who is responsible for the explosions of September 2022 is left out of this check: they came after the supply was stopped [3] [9].",
+  "bereik": "100 likes and 25 replies on 18 November",
+  "nog_uitzoeken": [
+   "Anyone who reads the post as 'Europe now refuses Russian gas itself' will find more in it that is correct. That is why we hesitated between false and misleading."
+  ],
+  "tijdlijn": [
+   "Gazprom stops supplying GasTerra, which does not want to pay in roubles [5] [6].",
+   "Gazprom reduces Nord Stream 1 from 167 to 67 million cubic metres per day, about 40 percent [14] [15].",
+   "Gazprom reduces Nord Stream 1 to 33 million cubic metres per day, 20 percent [16] [17].",
+   "Nord Stream 1 is shut for three days of maintenance [3].",
+   "Gazprom announces that Nord Stream 1 stays shut [3].",
+   "Peskov blames the stoppage on Western sanctions [4].",
+   "The EU member states adopt the ban on Russian gas, in steps until the autumn of 2027 [7].",
+   "Von der Leyen in Strasbourg: when Russia shut off the gas, we hit back [1].",
+   "The post on X accusing her of a lie [12].",
+   "The Insider checks Putin's statement at the gas forum in Moscow [9]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 22 September 2026, 23:30."
+  ],
+  "beeld_alt": [
+   "Screenshot of a post on X accusing Ursula von der Leyen of a lie about the shutting off of Russian gas, with the quoted post containing her statement below it. Stamp: FALSE."
+  ]
+ }
+}

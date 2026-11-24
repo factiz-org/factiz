@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar ja) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "ja",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "夜間外出禁止令に関する聴聞で、OllongrenはPieter Omtzigtではなく、OMTに言及した",
+  "oordeel_zin": "9月2日の聴聞でOllongrenはOMTの助言に納得したと述べており、Omtzigtという名前は出てこない [2]。",
+  "bewering": "Ollongren、認める:Omtzigtが彼女に夜間外出禁止令の有用性を納得させた。",
+  "kort": "9月6日、Kajsa Ollongrenの聴聞に添えた画像がXで出回り、彼女が夜間外出禁止令の有用性についてPieter Omtzigtに納得させられたと認めた、と主張していた [1]。聴聞でOllongrenが語ったのは、コロナ禍に内閣へ助言していたOutbreak Management TeamであるOMTのことで、Omtzigtのことではなかった [2] [4]。夜間外出禁止令の効果についてのOMTの助言が、彼女にとって決め手となった [2]。",
+  "tekst": "9月6日(日)17時08分、Xのあるアカウントが、元大臣Kajsa Ollongrenの聴聞に添えた画像を投稿し、彼女が夜間外出禁止令の有用性についてOmtzigtに納得させられたと認めた、という文言を載せた [1]。投稿は、彼女は最初は反対していたのに、後になって責任を他人に押しつけたと揶揄していた [1]。11月18日時点で、200件のいいねと61件の返信が付いていた [1]。\n\nOllongrenは9月2日(水)の10時から12時50分まで、コロナ議会調査委員会の聴聞を受けた [2] [3]。コロナ禍の間、彼女は内務大臣で、D66所属の副首相だった [2] [3]。ANPはその日の朝、彼女の聴聞について報じた [6]。\n\nOMTとはOutbreak Management Teamの略で、コロナ禍に内閣へ助言した専門家たちのことである。その助言はRIVMが公表している [4]。聴聞の記録には、OMTという略称が65回出てくるが、Omtzigtという名前は一度も出てこない [2]。\n\n夜間外出禁止令について、Ollongrenは、この措置が全員の行動の自由に深く踏み込むものであるため、自分も省も長い間反対していたと語った [2]。彼女によれば、夜間外出禁止令は3回か4回、議題に上り、そのたびに取り下げられた [2]。決め手になったのはOMTだった。OMTは2021年1月に、ウイルスの拡大に対する効果を8〜13パーセントと見積もり、ほかのどの措置でも同じ効果は得られないと述べた [2]。それを受けて彼女は気が進まないまま同意し、そのときは納得していたと語った [2]。\n\nこれは、他の証人が先に語ったことと合っている。NOSによれば、OMTは夜間外出禁止令をすでに早い段階で選択肢として挙げていたが、内閣は当初それを望まず、後のOMTの緊急助言は、この措置に効果があり得ると述べた [5]。夜間外出禁止令は2021年1月23日に始まり、5回延長された [2]。\n\n私たちが読んだ聴聞の記録は、まだ訂正されていない。そのため、Ollongrenが述べたことを要約して伝えており、彼女の言葉をそのまま引用してはいない [2]。",
+  "niet_weten": "投稿の書き手がOMTを読み間違えたのか、それとも意図的にOmtzigtにしたのか、私たちには分かりません。報告書の中でOmtzigtという名前が出てこないというのは、私たちが数えた結果です。",
+  "bereik": "11月18日時点で200件のいいねと61件の返信",
+  "nog_uitzoeken": [
+   "この投稿を、略語の読み間違いについての冗談として読む人は、「誤解を招く」という判定を擁護できるかもしれません。私たちは「偽」を選びました。"
+  ],
+  "tijdlijn": [
+   "地域限定の夜間外出禁止令が、OMTの助言に初めて登場する [2]。",
+   "OMTの緊急助言を受けて、夜間外出禁止令が始まる [2] [5]。",
+   "NOSが、先の聴聞を踏まえて、夜間外出禁止令が結局どのように実現したかを伝える [5]。",
+   "Ollongrenの聴聞が始まる [2] [3]。",
+   "画像とOmtzigtに関する主張を載せたXの投稿 [1]。"
+  ],
+  "beeld_bijschrift": [
+   "Xの投稿、2026年9月6日17時08分。",
+   "コロナ議会調査委員会によるKajsa Ollongrenの公開聴聞、2026年9月2日10時00分。下院、Debat Direct。"
+  ],
+  "beeld_alt": [
+   "夜間外出禁止令に関するKajsa Ollongrenの聴聞に添えた画像。彼女がPieter Omtzigtの名を挙げたかのように拡散された。スタンプ:誤り。",
+   "下院の調査委員会ホールで行われたKajsa Ollongrenの聴聞の動画。"
+  ]
+ }
+}

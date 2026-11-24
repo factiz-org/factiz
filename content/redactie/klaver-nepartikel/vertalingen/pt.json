@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaver nunca disse que quer abolir a propriedade privada, a citação vem de 2020",
+  "oordeel_zin": "A citação vem de um blog anônimo no Medium de outubro de 2020, e segundo seu porta-voz Klaver nunca disse isso [2] [7].",
+  "bewering": "Jesse Klaver (GL): \"Se eu ganhar as eleições, abolo a propriedade privada.\"",
+  "kort": "Em 5 de outubro, circulou no X um print de uma citação em que Jesse Klaver diz que vai abolir a propriedade privada se ganhar as eleições [1]. Klaver nunca disse isso: a citação vem de um blog que um autor anônimo publicou no Medium em outubro de 2020 [2] [7]. O blog saiu do ar, mas a citação voltou a circular em 2022, 2025 e 2026 [1] [7] [8].",
+  "tekst": "O print apareceu na segunda-feira, 5 de outubro, às 14h37, no X, com o texto \"Olha, isso é um comunista de verdade.\" [1]. Em 18 de novembro, a publicação tinha 953 curtidas e 186 comentários [1]. Na mesma tarde, foi adicionado contexto à publicação [1].\n\nA citação é mais antiga do que a publicação. Na quarta-feira, 14 de outubro de 2020, uma conta no X compartilhou o link de um blog no Medium, uma plataforma em que qualquer pessoa pode escrever [2]. O título desse blog era a citação [2]. Algumas horas depois, o CIDI, o Centro de Informação e Documentação Israel, escreveu que Klaver estava nos assuntos mais comentados por causa de um artigo antissemita que afirmava que ele queria abolir a propriedade privada [3]. Segundo o CIDI, o autor também escreveu ali que Klaver teria uma mãe judia [3].\n\nNão existe entrevista, discurso ou programa em que Klaver diga isso. Em 2022, a dpa não encontrou nenhum veículo que tivesse registrado a declaração; todas as referências remontavam ao blog, que o autor já havia apagado [7]. O porta-voz de Klaver disse à dpa que ele nunca disse isso [7]. O programa eleitoral do GroenLinks para 2021 se chamava Tijd voor nieuw realisme, com Klaver como cabeça de chapa [5]. Segundo a dpa, as palavras propriedade privada não aparecem nele [7].\n\nDepois disso, a citação voltou a circular várias vezes. Em fevereiro de 2022, estava no Facebook [7]. Em outubro de 2025, na campanha para as eleições para a Tweede Kamer de 29 de outubro, prints voltaram a circular, e o porta-voz chamou aquilo de notícia falsa [8]. Após a publicação de 5 de outubro de 2026, o Knack também escreveu que não há prova da citação [9].\n\nEm 2020, Klaver era líder da bancada do GroenLinks [4]. O GroenLinks e o PvdA se fundiram em 13 de junho de 2026 no Progressief Nederland, PRO [6]. Klaver é agora líder da bancada do PRO na Tweede Kamer [4].",
+  "niet_weten": "Não sabemos quem escreveu o blog, nem se era para ser uma piada.",
+  "bereik": "953 curtidas e 186 comentários em 18 de novembro",
+  "nog_uitzoeken": [
+   "Se a citação também circulou em março de 2021 e em novembro de 2023.",
+   "Uma resposta do porta-voz de Klaver na PRO sobre a postagem de 2026."
+  ],
+  "tijdlijn": [
+   "Uma conta no X compartilha o link do blog no Medium, com a citação como título [2].",
+   "O CIDI chama o artigo de antissemita e falso [3].",
+   "dpa: a declaração é inventada [7].",
+   "AFP Factcheck Nederland, reproduzido pelo deCheckers: falso [8].",
+   "GroenLinks e PvdA se fundem no PRO [6].",
+   "A publicação no X com o print [1].",
+   "Knack: não há prova da citação [9]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 5 de outubro de 2026, 14h37."
+  ],
+  "beeld_alt": [
+   "Print de um artigo com uma citação inventada de Jesse Klaver sobre abolir a propriedade privada. Carimbo: FALSO."
+  ]
+ }
+}

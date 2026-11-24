@@ -1,0 +1,202 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/von-der-leyen-epstein/dossier.md.
+
+sleutel = "von-der-leyen-epstein"
+status = "gepubliceerd"
+taal = "nl"
+adres = "von-der-leyen-epstein-foto-ai"
+adres_en = "von-der-leyen-epstein-photo-ai"
+kop = "Beeld van Ursula von der Leyen met Jeffrey Epstein is gemaakt met AI"
+oordeel = "onwaar"
+reikwijdte = "internationaal"
+oordeel_zin = "Het beeld draagt een watermerk van AI, stond in juli al met een label voor AI op Facebook, en de nummers erop komen niet voor in de Epstein-dossiers [1] [2] [11]."
+soort = "ai"
+vorm = "beeld"
+
+bewering = "Deze foto uit de Epstein-dossiers toont Ursula von der Leyen met Jeffrey Epstein."
+platform = "X"
+eerst_gezien = "2026-10-07"
+posts = 1
+
+kort = """
+Sinds 7 oktober gaat op X in het Nederlands een beeld rond van Ursula von der Leyen met Jeffrey Epstein, met een \
+dossiernummer en een documentnummer erop [10]. Het beeld is gemaakt met AI: het staat sinds 12 juli op Facebook met een \
+label voor AI-inhoud, en redacties vonden er een onzichtbaar watermerk van AI in [11] [1] [2]. De nummers op het beeld \
+komen in de vrijgegeven Epstein-dossiers van het Amerikaanse ministerie van Justitie niet voor [1] [3] [6]."""
+
+tekst = """
+Op woensdag 7 oktober 2026 om 23:21 verscheen op X een Nederlandstalige post met een beeld van Ursula von der Leyen, de \
+voorzitter van de Europese Commissie, naast Jeffrey Epstein [10]. Op het beeld staan een dossiernummer en een \
+documentnummer, die moeten suggereren dat het uit de Epstein-dossiers komt [1] [4].
+
+Het beeld is ouder dan de post. Het vroegste exemplaar dat redacties vonden, staat sinds 12 juli 2026 op Facebook, bij \
+een privépersoon, met het label dat Meta zet bij inhoud die met AI is gemaakt [11] [1]. Een dag later stond het op de \
+Franstalige site van het Pravda-netwerk [1]. Dat is een netwerk van prorussische sites die zich voordoen als \
+nieuwsmedium [9]. Daarna ging het beeld rond in onder meer het Italiaans, Spaans, Duits, Engels, Georgisch en \
+Russisch [1] [2] [4] [5].
+
+Het Italiaanse Open en het Spaanse Maldita.es vonden in het beeld SynthID [1] [2]. Dat is een onzichtbaar watermerk dat \
+Google aanbrengt in beelden die met zijn AI zijn gemaakt of bewerkt [8]. Ook Lead Stories en TheJournal.ie meldden een \
+watermerk van AI [3] [4]. Open vond in persarchieven en in de vrijgegeven stukken geen echte foto van de twee samen [1].
+
+Dan de nummers. Het Amerikaanse ministerie van Justitie zet de stukken uit het onderzoek naar Epstein online in de \
+Epstein Library [6]. In januari 2026 kwamen daar ongeveer 3 miljoen pagina's bij, na eerdere vrijgaven [7]. Volgens \
+Open, Lead Stories en Myth Detector komen de nummers op het beeld in die stukken niet voor, en gebruikt het ministerie \
+een heel andere nummering [1] [3] [5].
+
+De Nederlandse post kwam bijna drie maanden na de eerste check die we vonden, van Open op 15 juli, en vijf weken na die \
+van Lead Stories [1] [3] [10]. Een check in het Nederlands vonden we niet."""
+
+niet_weten = """
+We weten niet wie het beeld maakte. Lead Stories en TheJournal.ie schrijven dat een programma van OpenAI het watermerk SynthID vond \
+[3] [4]. SynthID is van Google [8]; waarom een programma van OpenAI het meldt, weten we niet. Dat verandert het oordeel \
+niet: Open en Maldita.es vonden het watermerk met de programma's van Google [1] [2]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Welke versie van het beeld de post toonde, zwart-wit of in kleur, en welke tekst erbij stond. De post is weg.",
+]
+
+[[tijdlijn]]
+datum = "2026-01-30"
+wat = "Het ministerie van Justitie zet ongeveer 3 miljoen pagina's over Epstein online [7]."
+
+[[tijdlijn]]
+datum = "2026-07-12"
+wat = "Het beeld op Facebook, met het label van Meta voor AI-inhoud [11] [1]."
+
+[[tijdlijn]]
+datum = "2026-07-13"
+wat = "Het beeld op de Franstalige site van het Pravda-netwerk [1]."
+
+[[tijdlijn]]
+datum = "2026-07-15"
+tijd = "12:55"
+wat = "Open: het beeld is gemaakt met AI [1]."
+
+[[tijdlijn]]
+datum = "2026-08-12"
+tijd = "17:02"
+wat = "Maldita.es: onwaar, met het watermerk van Google [2]."
+
+[[tijdlijn]]
+datum = "2026-09-03"
+wat = "Lead Stories: gemaakt met AI, nummers niet in de dossiers [3]."
+
+[[tijdlijn]]
+datum = "2026-09-04"
+tijd = "15:28"
+wat = "TheJournal.ie: gemaakt met AI, meer dan duizend keer gedeeld op Facebook [4]."
+
+[[tijdlijn]]
+datum = "2026-10-07"
+tijd = "23:21"
+wat = "De Nederlandstalige post op X [10]."
+
+[[tijdlijn]]
+datum = "2026-10-16"
+wat = "Myth Detector: het beeld gaat rond in het Georgisch en Russisch [5]."
+
+[[bron]]
+nr = 1
+soort = "factcheck"
+uitgever = "Open"
+titel = "La foto di von der Leyen con Epstein? L'ha fatta l'intelligenza artificiale"
+datum = "2026-07-15"
+url = "https://www.open.online/2026/07/15/von-der-leyen-epstein-foto-ai-fact-check/"
+archief = "https://web.archive.org/web/20261007104504/https://www.open.online/2026/07/15/von-der-leyen-epstein-foto-ai-fact-check/"
+
+[[bron]]
+nr = 2
+soort = "factcheck"
+uitgever = "Maldita.es"
+titel = "No, esta imagen de Ursula Von der Leyen con Jeffrey Epstein no es real: está generada con inteligencia artificial"
+datum = "2026-08-12"
+url = "https://maldita.es/desinfo/20260812/esta-imagen-muestra-a-von-der-leyen-con-jeffrey-epstein/"
+archief = "https://web.archive.org/web/20261013095433/https://maldita.es/desinfo/20260812/esta-imagen-muestra-a-von-der-leyen-con-jeffrey-epstein/"
+
+[[bron]]
+nr = 3
+soort = "factcheck"
+uitgever = "Lead Stories"
+titel = "Fact Check: FAKE Photo Shows Ursula von der Leyen With Jeffrey Epstein, Made With AI"
+datum = "2026-09-03"
+url = "https://leadstories.com/hoax-alert/2026/09/fact-check-fake-photo-ursula-von-der-leyen-jeffrey-epstein-ai.html"
+archief = "https://web.archive.org/web/20261004120616/https://leadstories.com/hoax-alert/2026/09/fact-check-fake-photo-ursula-von-der-leyen-jeffrey-epstein-ai.html"
+
+[[bron]]
+nr = 4
+soort = "factcheck"
+uitgever = "TheJournal.ie FactCheck"
+titel = "Debunked: Pictures of Ursula von der Leyen with Jeffrey Epstein are AI-generated"
+datum = "2026-09-04"
+url = "https://www.thejournal.ie/debunked-factcheck-ursula-von-der-leyen-epstein-photo-ai-7152731-Sep2026/"
+archief = "https://web.archive.org/web/20260907082526/https://www.thejournal.ie/debunked-factcheck-ursula-von-der-leyen-epstein-photo-ai-7152731-Sep2026/"
+
+[[bron]]
+nr = 5
+soort = "factcheck"
+uitgever = "Myth Detector"
+titel = "AI-Generated Image Of Jeffrey Epstein And Ursula Von Der Leyen Circulates On Social Media"
+datum = "2026-10-16"
+url = "https://mythdetector.com/en/ai-generated-image-of-jeffrey-epstein-and-ursula-von-der-leyen-circulates-on-social-media/"
+archief = "https://web.archive.org/web/20261119145446/https://mythdetector.com/en/ai-generated-image-of-jeffrey-epstein-and-ursula-von-der-leyen-circulates-on-social-media/"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "U.S. Department of Justice"
+titel = "Epstein Library"
+datum = "2026-11-18"
+url = "https://www.justice.gov/epstein"
+archief = "https://web.archive.org/web/20261118153930/https://www.justice.gov/epstein"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "ABC News"
+titel = "DOJ releasing 3 million pages of Epstein files, 'didn't protect' Trump, deputy AG says"
+datum = "2026-01-30"
+url = "https://www.goodmorningamerica.com/news/story/doj-releasing-additional-material-epstein-files-129680518"
+archief = "https://web.archive.org/web/20261003211852/https://www.goodmorningamerica.com/news/story/doj-releasing-additional-material-epstein-files-129680518"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Google"
+titel = "How we're bringing AI image verification to the Gemini app"
+datum = "2025-11-20"
+url = "https://blog.google/innovation-and-ai/products/ai-image-verification-gemini-app/"
+archief = "https://web.archive.org/web/20261105141012/https://blog.google/innovation-and-ai/products/ai-image-verification-gemini-app/"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "DFRLab (Atlantic Council)"
+titel = "The Pravda Network"
+datum = "2026-11-18"
+url = "https://dfrlab.org/the-pravda-network/"
+archief = "https://web.archive.org/web/20261119145610/https://dfrlab.org/the-pravda-network/"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandstalige post met het beeld, 7 oktober 2026"
+datum = "2026-10-07"
+prive = true
+weg = true
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "Facebook"
+titel = "De vroegste bekende post met het beeld, met het label van Meta voor AI-inhoud"
+datum = "2026-07-12"
+prive = true
+archief = "https://web.archive.org/web/20260903175835/https://www.facebook.com/permalink.php?story_fbid=pfbid02HcNtPjNMfb4GnSvJHdwcJRfDYhk6MkpqarnzZeVcpoPGh8CVhLRp4AHenQuaRMJ4l&id=100003536343702"

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck ashura-manchester van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "4e9bb52ec84eb34c",
+ "veldafdrukken": {
+  "kop": "b757018192faa184",
+  "oordeel_zin": "fb18c44ea6e0fa0f",
+  "bewering": "69a4eab734457163",
+  "kort": "6ff70d14cacfac95",
+  "tekst": "40640fb96f33a174",
+  "niet_weten": "eb65e1b45a5c04ce",
+  "bereik": "4e2b997aac427916",
+  "nog_uitzoeken": "333c7a0263a26b44",
+  "tijdlijn": "aa68f4d2becd3c2c",
+  "beeld_bijschrift": "3e3aee52d7a5df4d",
+  "beeld_alt": "28462c8f6f8eeaec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Este vídeo de Mánchester muestra la procesión anual de duelo chií del 21 de junio de 2026",
+  "oordeel_zin": "El vídeo es real, pero muestra la procesión de Muharram en Wilmslow Road del 21 de junio de 2026, compartida cinco meses después con una consigna que ninguna fuente recoge [3] [4] [7].",
+  "bewering": "Hordas de hombres musulmanes cantando “somos los soldados de Alá en las calles del Reino Unido ….. ¿Por qué esto nunca sale en las noticias ??",
+  "kort": "Unas publicaciones en X muestran a una multitud de hombres vestidos de negro en una calle de Mánchester y dicen que cantan \"somos los soldados de Alá\" [1] [2]. El vídeo muestra la procesión anual de Muharram del Jaffaria Islamic Centre, una procesión de duelo chií en Wilmslow Road, en Rusholme, el domingo 21 de junio de 2026, cinco meses antes de las publicaciones [3] [4]. Los cánticos que se oyen no son en inglés, y ninguna fuente que hayamos encontrado recoge la consigna [1] [4] [7].",
+  "tekst": "El 15 de noviembre de 2026, una cuenta de X publicó el vídeo con el texto de que hordas de hombres musulmanes cantaban \"somos los soldados de Alá\" en las calles del Reino Unido, y preguntó por qué esto nunca sale en las noticias [1]. El vídeo procede de una publicación en español de Javier Negre la tarde anterior, que dice que los hombres desfilan por un barrio periférico de Mánchester para exigir la sharía [2].\n\nLos rótulos de las tiendas que aparecen en el vídeo, como Sanam y el Delhi Sweet Centre, pertenecen a negocios situados en los números 141 a 151 y 137 de Wilmslow Road, en Rusholme [5] [6]. Los participantes visten de negro, muchos hombres se golpean el pecho, y la multitud lleva banderas verdes y negras y un estandarte alto [1]. Así es como los musulmanes chiíes hacen duelo por el imán Hussein, muerto en Kerbala, durante el mes de Muharram; el golpeo del pecho se llama matam [4] [7].\n\nEl Jaffaria Islamic Centre, que se presenta como la imambargah chií más antigua de Mánchester, es decir, un local para reuniones religiosas, anunció su procesión para el domingo 21 de junio de 2026, desde Platt Fields Park hasta el centro, en Moss Lane East [3] [10]. Un vídeo de TikTok publicado el 22 de junio muestra a la misma multitud delante de las mismas tiendas que en el comienzo del vídeo de X, y su pie de foto habla de la procesión anual de Muharram de 2026 [1] [4].\n\nLos cánticos del vídeo no son en inglés [1]. El cartel del centro y el pie de foto de TikTok describen una procesión de duelo, y ninguno menciona esta consigna ni una exigencia de sharía [3] [4]. Tampoco la menciona una crónica de la procesión celebrada en la misma calle en 2018, cuando el diario paquistaní The News escribió que miles de musulmanes chiíes paralizaron Wilmslow Road [7].",
+  "niet_weten": "No sabemos quién grabó el vídeo, ni si todos los fragmentos son del 21 de junio: alterna al menos tres posiciones de cámara, y solo comparamos el comienzo con una publicación fechada [1] [4].",
+  "bereik": "134 me gusta y 51 respuestas el 22 de noviembre; la publicación en español con el mismo vídeo tenía 65.500 me gusta",
+  "nog_uitzoeken": [
+   "Dónde y cuándo se grabó cada fragmento del vídeo de 1:54; alterna al menos tres posiciones de cámara.",
+   "Quién subió primero el vídeo con la consigna, y si hubo una publicación en inglés antes de la publicación en español del 14 de noviembre.",
+   "Si el Ayuntamiento de Mánchester o la Policía del Gran Mánchester cortaron Wilmslow Road para la procesión del 21 de junio de 2026.",
+   "Sopesamos Engañoso frente a Falso. El vídeo y la calle son reales, los cánticos no son en inglés, y la consigna y la exigencia de sharía no figuran en ninguna fuente. Si sabe qué se canta en este vídeo, díganoslo."
+  ],
+  "tijdlijn": [
+   "La procesión de Muharram del Jaffaria Islamic Centre parte de Platt Fields Park [3].",
+   "Un vídeo de TikTok muestra a la misma multitud en Wilmslow Road como Manchester Muharram Jaloos [4].",
+   "Maldita encuentra las palabras soldados de Alá exigiendo la sharía en un vídeo de Dearborn, Míchigan [9].",
+   "Javier Negre publica el vídeo de Mánchester como un desfile de soldados de Alá que exigen la sharía [2].",
+   "La publicación en inglés con el cántico [1].",
+   "AFP: una procesión religiosa, presentada falsamente como una protesta [8]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 15 de noviembre de 2026, 10:26 UTC."
+  ],
+  "beeld_alt": [
+   "Una publicación en X con una captura del vídeo: una multitud vestida de negro en Wilmslow Road, en Mánchester, compartida como hombres musulmanes que cantan soldados de Alá. Sello: ENGAÑOSO."
+  ]
+ }
+}

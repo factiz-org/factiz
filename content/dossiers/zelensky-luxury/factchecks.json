@@ -1,0 +1,153 @@
+{
+ "toelichting": "De factchecks die de PO bij dit dossier goedkeurde (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; haar hele lezing staat in docs/steekproeven/33.6-dossier-zelensky-luxury.json.",
+ "goedgekeurd_door": "PO",
+ "datum": "2026-11-11",
+ "factchecks": [
+  {
+   "nummer": "7a4fbfcf728f2b1c",
+   "versie": "v-850-million-wealth"
+  },
+  {
+   "nummer": "811defa435ebafcc"
+  },
+  {
+   "nummer": "1e12ab4a477f50c6"
+  },
+  {
+   "nummer": "43dcc8c09fde5587"
+  },
+  {
+   "nummer": "f19286ed9c4ff2b1"
+  },
+  {
+   "nummer": "f5026769c335ec6a",
+   "versie": "cartier-new-york-jewelry"
+  },
+  {
+   "nummer": "96a1010c277e3f93",
+   "versie": "cartier-new-york-jewelry"
+  },
+  {
+   "nummer": "9323db1c79ea2652",
+   "versie": "cartier-new-york-jewelry"
+  },
+  {
+   "nummer": "56765f7b557f0c5a"
+  },
+  {
+   "nummer": "fb599a327a56daa9",
+   "versie": "two-yachts-purchase"
+  },
+  {
+   "nummer": "25d3cd0127f43868",
+   "versie": "two-yachts-purchase"
+  },
+  {
+   "nummer": "c54c0a561e13f3fc",
+   "versie": "two-yachts-purchase"
+  },
+  {
+   "nummer": "66a431a15c08f53f",
+   "versie": "two-yachts-purchase"
+  },
+  {
+   "nummer": "77ebe7e58204a998",
+   "versie": "cash-table-photo"
+  },
+  {
+   "nummer": "f288eeb5247f6091",
+   "versie": "goebbels-villa-purchase"
+  },
+  {
+   "nummer": "e3c4958cde25d458",
+   "versie": "goebbels-villa-purchase"
+  },
+  {
+   "nummer": "927e1be1aeab91a2",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "49a5a84cbbfb4886",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "fec073edd8a382f8",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "cf4563a6722b1575",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "d9954369011455df",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "e4f0869aab70cdb9",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "899069cd6cc9df46",
+   "versie": "highgrove-house-purchase"
+  },
+  {
+   "nummer": "164403185859f628",
+   "versie": "vuni-palace-casino-purchase"
+  },
+  {
+   "nummer": "a5244ba1bb9da8f0",
+   "versie": "vuni-palace-casino-purchase"
+  },
+  {
+   "nummer": "828784f9ba32b359",
+   "versie": "vuni-palace-casino-purchase"
+  },
+  {
+   "nummer": "a8b45a6c225d2889",
+   "versie": "bugatti-purchase"
+  },
+  {
+   "nummer": "7976429f6355cf29",
+   "versie": "bugatti-purchase"
+  },
+  {
+   "nummer": "93a77c66b133c4d5",
+   "versie": "bugatti-purchase"
+  },
+  {
+   "nummer": "f738f8af18835e07",
+   "versie": "bugatti-purchase"
+  },
+  {
+   "nummer": "424e4dbb3d273c39"
+  },
+  {
+   "nummer": "9aecddbddddc0110"
+  },
+  {
+   "nummer": "2669a1ee742e445d"
+  },
+  {
+   "nummer": "372c756eecca496d",
+   "versie": "bugatti-purchase"
+  },
+  {
+   "nummer": "efc30acb1aed0593",
+   "versie": "two-yachts-purchase"
+  },
+  {
+   "nummer": "15848fd76f0d9189"
+  },
+  {
+   "nummer": "19c7d6c1eb2385ec",
+   "versie": "v-850-million-wealth"
+  },
+  {
+   "nummer": "cb9f2524d1c393f1"
+  },
+  {
+   "nummer": "3d3e999295da0c18",
+   "versie": "cash-table-photo"
+  }
+ ]
+}

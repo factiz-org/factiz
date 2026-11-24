@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg, bu tür protestoları etkisiz bulduğunu söylediği bir belgeselde bir iklim gösterisine gülüyor",
+  "oordeel_zin": "Klip gerçek ve Hubertus Koch'un bir belgeselinden geliyor; belgeselde Thunberg klasik gösterileri etkisiz bulduğunu söylüyor, yine de iklim için kampanya yürütmeye devam ediyor [1] [7] [11].",
+  "bewering": "Greta Thunberg, kurucusu olduğu iklim grubu Fridays for Future'ın hâlâ protesto yaptığı söylenince isterik şekilde gülüyor: 'Hâlâ bunu mu yapıyorlar?'",
+  "kort": "11 Kasım'dan bu yana X'te, Greta Thunberg'in Berlin'deki bir Fridays for Future gösterisinden söz edilince güldüğü bir klip paylaşılıyor; bazı paylaşımlar bunu onun iklim protestocularıyla alay ettiğinin işareti olarak sunuyor [2] [3] [4]. Klip gerçek ve 28 Ekim'den beri YouTube'da bulunan Hubertus Koch'un bir belgeselinden geliyor [1] [5]. Filmde klasik gösterileri etkisiz olarak niteliyor, yine de iklim için kampanya yürütmeye devam ediyor [6] [7] [11].",
+  "tekst": "11 Kasım'da Almanya saatiyle 10.20'de X'te anonim bir hesap 27 saniyelik klibi paylaştı [4]. O akşam köşe yazarı Jan Fleischhauer aynı videoyu paylaşarak, Thunberg hâlâ iklim için gösteri yapanlara kahkahalarla gülüyorsa Friedrich Merz'in neden iklim zirvesine uçması gerektiğini sordu [3]. New York Post konuyla ilgili 12 Kasım'da paylaşım yaptı [2].\n\nKlip, iklim hareketi ve karşılaştığı devlet baskısı hakkında 91 dakikalık bir belgeselden geliyor; belgeseli Alman film yapımcısı Hubertus Koch 28 Ekim'de YouTube'a koydu [1] [9].\n\nKoch, Berlin'de bir Filistin restoranında Thunberg ve iki arkadaşıyla buluşuyor [1] [5]. Yaklaşık altıncı dakikada, bir Fridays for Future gösterisinin yapıldığı gün buluşmalarının sembolik olduğunu söylüyor [1] [9]. Thunberg \"Öyle mi?\" diye soruyor, gülüyor ve soruyor: \"Gerçekten mi? Hâlâ bunu mu yapıyorlar?\" [9]. Ardından kesmelerini istiyor [1] [5]. Sahnenin hemen sonrasında Koch'un anlatımı, onun görünür ama kendi görüşüne göre yeterince tutarlı olmayan protestodan vazgeçtiğini söylüyor [1].\n\nKoch daha sonra, onun gülmesinin insanlarla değil, geleneksel gösterilerin hâlâ bir şey sağlayıp sağlamadığıyla ilgili olduğunu söyledi [6] [8]. Thunberg Instagram'da, o gün kendisinin ve diğer aktivistlerin bir silah üreticisini abluka altına aldığını, ardından polisin izin verdiği bir iklim gösterisini öğrendiğini yazdı [8] [9]. Almanya'daki Fridays for Future, onun Orta Doğu hakkındaki açıklamaları nedeniyle ondan uzaklaştı [7] [12].\n\nThunberg Kasım ayında Antalya'daki COP31 iklim zirvesindeydi; orada görüşmeleri ikiyüzlü olarak nitelendirdi ve \"sevdiğimiz her şey ve herkes tehlikede\" dedi [11]. Film, Fridays for Future'ın 13 Kasım'da Almanya'da 70'ten fazla şehirde protesto yapmasından iki haftadan uzun süre önce çevrimiçiydi [1] [10].\n\nPolonya'daki Demagog ve İtalya'daki Open da 16 Kasım'da klibin bağlamından koparıldığı sonucuna vardı [12] [13].",
+  "niet_weten": "Koch ile Thunberg'in hangi gün buluştuğunu bilmiyoruz [1] [5]. Bir gülmenin ne anlama geldiğini kimse kesin olarak söyleyemez; biz onun filmdeki sözlerine ve sonradan kendisinin ve Koch'un söylediklerine bağlı kalıyoruz [8] [9].",
+  "bereik": "23 Kasım'da okuduğumuz İngilizce, Almanca ve Japonca sekiz gönderide 139.805 beğeni; yalnızca New York Post'un gönderisi 82.003",
+  "nog_uitzoeken": [
+   "Koch ile Thunberg'in Berlin'de hangi gün buluştuğu ve o gün hangi silah üreticisini abluka altına aldığı. Bir olasılık, Temmuz 2026'da Rheinmetall'in Berlin ofisinin ablukaya alınmasıdır.",
+   "Bağlam eksik ile Yanıltıcı arasında tarttık. Gülme ve soru gerçek, bu yüzden Bağlam eksik; onun iklim hareketine güldüğünü ya da iklimden vazgeçtiğini söyleyen paylaşımlar, filmdeki sözlerinin taşıdığından daha ileri gidiyor. Daha fazlasını biliyorsanız lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch filmi YouTube'a koyuyor [1].",
+   "Klibin yer aldığı, bulabildiğimiz en eski gönderi X'te yayımlanıyor [4].",
+   "Jan Fleischhauer klibi, Friedrich Merz hakkında bir soruyla paylaşıyor [3].",
+   "Al Jazeera, Antalya'daki COP31'den haber veriyor: Thunberg zirveyi ikiyüzlü olarak nitelendiriyor [11].",
+   "Stuttgarter Zeitung sahnenin nerede çekildiğini bildiriyor; New York Post X'te konuyla ilgili paylaşım yapıyor [2] [5].",
+   "20 Minuten, AFP ile birlikte: Koch klibin bağlamından koparıldığını söylüyor [6].",
+   "Fridays for Future Almanya'da 70'ten fazla şehirde protesto yapıyor, Berlin'de yaklaşık 700 kişiyle [10].",
+   "leinetal24, Thunberg'in Instagram paylaşımını aktarıyor: o gün bir silah üreticisini abluka altına almıştı [8].",
+   "Demagog ve Open: klibin bağlamından koparıldığı sonucuna varıyor [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "New York Post'un X'teki paylaşımı, 12 Kasım 2026, 17.35 UTC.",
+   "Hubertus Koch'un YouTube'daki \"Auf Panzern in die Klimakrise\" filmi, 28 Ekim 2026: sahne yaklaşık 6:19'da başlıyor."
+  ],
+  "beeld_alt": [
+   "New York Post'un X'teki paylaşımı: Greta Thunberg'e Fridays for Future'ın hâlâ protesto yaptığı söylenince isterik şekilde güldüğü belirtiliyor; Thunberg'in güldüğü iki kare var, birinde eli ağzının üzerinde. Damga: BAĞLAM EKSİK.",
+   "Hubertus Koch'un YouTube'daki belgeseli."
+  ]
+ }
+}

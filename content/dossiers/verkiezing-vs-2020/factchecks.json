@@ -1,0 +1,1230 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-verkiezing-vs-2020.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "f48af44f93443dd1",
+   "versie": "michigan-absentee-applications"
+  },
+  {
+   "nummer": "c20cf508d257061d"
+  },
+  {
+   "nummer": "f989e91f45c4e839"
+  },
+  {
+   "nummer": "26c60166949fe094"
+  },
+  {
+   "nummer": "ea7f7d472ac3e9f6"
+  },
+  {
+   "nummer": "6aae42300055e3fd"
+  },
+  {
+   "nummer": "35d425624dba7899"
+  },
+  {
+   "nummer": "52de267504d90fc2"
+  },
+  {
+   "nummer": "7c57f73eb86a8f92"
+  },
+  {
+   "nummer": "c88d93c9aa67395d",
+   "versie": "fraud-like-never-seen"
+  },
+  {
+   "nummer": "3535857d4a09d8f2"
+  },
+  {
+   "nummer": "3f712b6e78e54515"
+  },
+  {
+   "nummer": "cbbdd8c772bf171f"
+  },
+  {
+   "nummer": "7ef0c2ea139dd988"
+  },
+  {
+   "nummer": "e8d1b9cbff4fe83d"
+  },
+  {
+   "nummer": "b5ebdba6119a64ce",
+   "versie": "biden-admits-fraud-video"
+  },
+  {
+   "nummer": "86e896d760ef2718"
+  },
+  {
+   "nummer": "fd76d39eabdcf2d6",
+   "versie": "erie-county-poll-worker"
+  },
+  {
+   "nummer": "ffa9b90083c57fdb",
+   "versie": "late-ballots-erased-lead"
+  },
+  {
+   "nummer": "0fb4270d25507239",
+   "versie": "late-ballots-erased-lead"
+  },
+  {
+   "nummer": "295bbe2bfd0a5a73"
+  },
+  {
+   "nummer": "438983adb1bd0e4b",
+   "versie": "trump-ballots-destroyed"
+  },
+  {
+   "nummer": "5324cc3241d1002d"
+  },
+  {
+   "nummer": "7d3a7d437d11904c"
+  },
+  {
+   "nummer": "a0acd4990553d7bd"
+  },
+  {
+   "nummer": "f206e87b0acbee69"
+  },
+  {
+   "nummer": "47ecf0b0ca70defa"
+  },
+  {
+   "nummer": "4bb5b418291ef981"
+  },
+  {
+   "nummer": "5d4be3d8694cd2f0"
+  },
+  {
+   "nummer": "afbab0515ee86026",
+   "versie": "v-300-000-missing-ballots"
+  },
+  {
+   "nummer": "cfff5237d1982c6e"
+  },
+  {
+   "nummer": "0437a1c054fbefa7"
+  },
+  {
+   "nummer": "7496dfb01b20ebb2"
+  },
+  {
+   "nummer": "3167cef57ea01985"
+  },
+  {
+   "nummer": "8cfe10e1405b5686"
+  },
+  {
+   "nummer": "9affcd427b7a9f04"
+  },
+  {
+   "nummer": "aa59a209a843d837"
+  },
+  {
+   "nummer": "b07b1a54f23eb328"
+  },
+  {
+   "nummer": "ce99d2301addd830"
+  },
+  {
+   "nummer": "1bde651bc13e21cd"
+  },
+  {
+   "nummer": "68a7ebca68f7307d"
+  },
+  {
+   "nummer": "dc36bfe11f63e3b4"
+  },
+  {
+   "nummer": "72b92a0228fe194a"
+  },
+  {
+   "nummer": "73c74225ef4828b5"
+  },
+  {
+   "nummer": "7c1995f1f357ad6f"
+  },
+  {
+   "nummer": "6b5bbd6fc511366e",
+   "versie": "v-2-7-million-votes-deleted"
+  },
+  {
+   "nummer": "7dc6e3872a672944",
+   "versie": "v-2-7-million-votes-deleted"
+  },
+  {
+   "nummer": "9df0050e8834556d"
+  },
+  {
+   "nummer": "afac8f8dc812bfab",
+   "versie": "secret-ballot-watermark"
+  },
+  {
+   "nummer": "08904b8e92619647"
+  },
+  {
+   "nummer": "49757a898105c9a5",
+   "versie": "frankfurt-servers-seized"
+  },
+  {
+   "nummer": "d05add0c65fa1ece",
+   "versie": "v-2-7-million-votes-deleted"
+  },
+  {
+   "nummer": "43048f02b5c7ee3e"
+  },
+  {
+   "nummer": "cd6c321037033076"
+  },
+  {
+   "nummer": "17c32242f17af1e6"
+  },
+  {
+   "nummer": "194866f33a33c1cc",
+   "versie": "radical-left-dominion-ownership"
+  },
+  {
+   "nummer": "24c720ad60b5420c",
+   "versie": "smartmatic-rigged-venezuelan-elections"
+  },
+  {
+   "nummer": "ac7226f46df03a61",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "b41166505a2d4068",
+   "versie": "smartmatic-founded-by-ch-vez"
+  },
+  {
+   "nummer": "b5d39c673612d487",
+   "versie": "ballots-brought-4-30am"
+  },
+  {
+   "nummer": "0a54a94ddcd0995f",
+   "versie": "ballots-brought-4-30am"
+  },
+  {
+   "nummer": "9c144c56232ee1e3",
+   "versie": "nevada-commissioner-race-thrown-out"
+  },
+  {
+   "nummer": "d46486f2ce7a0d06"
+  },
+  {
+   "nummer": "97b6b46322544d9e"
+  },
+  {
+   "nummer": "00787fe745870832",
+   "versie": "biden-fraud-team"
+  },
+  {
+   "nummer": "04ab91180ff49042"
+  },
+  {
+   "nummer": "685b6fa84b37948b"
+  },
+  {
+   "nummer": "9799238bb425b92b"
+  },
+  {
+   "nummer": "c415e148289195cf"
+  },
+  {
+   "nummer": "8838dc2b3852dbd6",
+   "versie": "merlino-mob-fake-ballots"
+  },
+  {
+   "nummer": "13d1fc2cf11509b5"
+  },
+  {
+   "nummer": "5092701479474a17"
+  },
+  {
+   "nummer": "b98a02386dbaeff8"
+  },
+  {
+   "nummer": "4b98a7d974a77e58"
+  },
+  {
+   "nummer": "be6d70c157f691e1"
+  },
+  {
+   "nummer": "e9781dae9f4ceb41"
+  },
+  {
+   "nummer": "80cef2eb9dbe9e1b"
+  },
+  {
+   "nummer": "2296e8d3ddeeaa32"
+  },
+  {
+   "nummer": "e5f190f04d379c49"
+  },
+  {
+   "nummer": "4b1de0ecd3752bb5",
+   "versie": "at-t-forensic-audit"
+  },
+  {
+   "nummer": "42eb0dae7261bd06"
+  },
+  {
+   "nummer": "47bc1724c5a8d227"
+  },
+  {
+   "nummer": "e9b7696d4489161c",
+   "versie": "fulton-county-ballot-shredding"
+  },
+  {
+   "nummer": "4dba0b95361a2532",
+   "versie": "dominion-fraud-in-states"
+  },
+  {
+   "nummer": "e8e2cdba506473a5"
+  },
+  {
+   "nummer": "feba4048ce892ba0"
+  },
+  {
+   "nummer": "a6201104e85ef9e2",
+   "versie": "georgia-shredded-ballots"
+  },
+  {
+   "nummer": "e46ecf33e5d5989c"
+  },
+  {
+   "nummer": "318dc1d80867d8a7"
+  },
+  {
+   "nummer": "b13ed84c4600eb85"
+  },
+  {
+   "nummer": "656a28b9809e9366"
+  },
+  {
+   "nummer": "b3a4c9afac9d9701",
+   "versie": "courts-dismissed-fraud-suits"
+  },
+  {
+   "nummer": "a0d7328626024988",
+   "versie": "courts-dismissed-fraud-suits"
+  },
+  {
+   "nummer": "607a0bf501c954d4"
+  },
+  {
+   "nummer": "4d704698bd2c60e8"
+  },
+  {
+   "nummer": "8ffe1e8242f78732"
+  },
+  {
+   "nummer": "b855fb6846b1ebbc",
+   "versie": "dominion-switched-trump-votes"
+  },
+  {
+   "nummer": "8575c194e4645e4f"
+  },
+  {
+   "nummer": "76b52193fdddbc90"
+  },
+  {
+   "nummer": "51c90611eea9f343"
+  },
+  {
+   "nummer": "d6888b6d66c11284",
+   "versie": "trump-won-the-election"
+  },
+  {
+   "nummer": "0d3bdedb9bc80d26",
+   "versie": "maricopa-74-000-unmailed-ballots"
+  },
+  {
+   "nummer": "451a4e0a0e5b49bf"
+  },
+  {
+   "nummer": "a3c212aefc3844e3"
+  },
+  {
+   "nummer": "7c1596b94978b3ad"
+  },
+  {
+   "nummer": "2def3d0bcb97c761"
+  },
+  {
+   "nummer": "447f7a0abb8f8b48"
+  },
+  {
+   "nummer": "9eb5a56aed1ac73e"
+  },
+  {
+   "nummer": "c84ed905d903b175",
+   "versie": "trump-won-the-election"
+  },
+  {
+   "nummer": "cbba1837f971b930"
+  },
+  {
+   "nummer": "fd17c7a7a030bcec",
+   "versie": "election-was-rigged"
+  },
+  {
+   "nummer": "bc963d2cce078955"
+  },
+  {
+   "nummer": "1fb5c5ed817800ce",
+   "versie": "election-was-rigged"
+  },
+  {
+   "nummer": "f9ce5c244b7ed334"
+  },
+  {
+   "nummer": "82f4da871e84e656"
+  },
+  {
+   "nummer": "ab313afa690b805b"
+  },
+  {
+   "nummer": "5724e5ba64dd6470"
+  },
+  {
+   "nummer": "f56d78f2a0294458"
+  },
+  {
+   "nummer": "027d49b75f177a98"
+  },
+  {
+   "nummer": "e8dc5147d8c0850b",
+   "versie": "covid-used-to-cheat"
+  },
+  {
+   "nummer": "13c290299e413912",
+   "versie": "covid-used-to-cheat"
+  },
+  {
+   "nummer": "4cf723586ffd5cb2"
+  },
+  {
+   "nummer": "0091ffcd2eee2aa8"
+  },
+  {
+   "nummer": "028f5fc0abce9a59"
+  },
+  {
+   "nummer": "0402cef0853c6cba",
+   "versie": "secret-ballot-watermark"
+  },
+  {
+   "nummer": "045a2d97f5809eff"
+  },
+  {
+   "nummer": "091db0d876e6729f"
+  },
+  {
+   "nummer": "093e2ec1f35d6126"
+  },
+  {
+   "nummer": "09852e0d9aae2d89",
+   "versie": "sharpie-ballots-invalidated"
+  },
+  {
+   "nummer": "0b76bdbeed72404f"
+  },
+  {
+   "nummer": "0bf2639968bee5a2"
+  },
+  {
+   "nummer": "0bf3366735549726"
+  },
+  {
+   "nummer": "0d090a9575a24cbc",
+   "versie": "smartmatic-founded-by-ch-vez"
+  },
+  {
+   "nummer": "0d90ca9f8c9d5efd"
+  },
+  {
+   "nummer": "10e28f3ac932d4a5"
+  },
+  {
+   "nummer": "12668491a492428f"
+  },
+  {
+   "nummer": "134fb986d483786b"
+  },
+  {
+   "nummer": "176a81b22b293640"
+  },
+  {
+   "nummer": "178452cc0aab9b0a"
+  },
+  {
+   "nummer": "1bc519a0dcd930a2",
+   "versie": "georgia-worker-manipulated-data"
+  },
+  {
+   "nummer": "1c79dc827ecf9e40",
+   "versie": "merlino-mob-fake-ballots"
+  },
+  {
+   "nummer": "1da346305cf25bef"
+  },
+  {
+   "nummer": "1e20f8a8929fdf3f"
+  },
+  {
+   "nummer": "1f17a25a262939c5"
+  },
+  {
+   "nummer": "2068b7ee1c33e664"
+  },
+  {
+   "nummer": "22e52e9550789103"
+  },
+  {
+   "nummer": "2452a1b596acfbcd"
+  },
+  {
+   "nummer": "24d3c592d4983e83",
+   "versie": "dominion-designed-for-fraud"
+  },
+  {
+   "nummer": "26ace966f7dad66d"
+  },
+  {
+   "nummer": "2736caafcce19976"
+  },
+  {
+   "nummer": "274a44bbef6c7c45",
+   "versie": "erie-county-poll-worker"
+  },
+  {
+   "nummer": "29a0e6136602ad8f"
+  },
+  {
+   "nummer": "2dc3dabcf5ff11b7",
+   "versie": "georgia-worker-manipulated-data"
+  },
+  {
+   "nummer": "2edd947ff88eee30"
+  },
+  {
+   "nummer": "3026e264c46abf20"
+  },
+  {
+   "nummer": "338f24008888c7f5",
+   "versie": "delaware-county-poll-worker-fraud"
+  },
+  {
+   "nummer": "37f798383c3edfef"
+  },
+  {
+   "nummer": "39269bfec51efc15"
+  },
+  {
+   "nummer": "3ab17af5ce71b457"
+  },
+  {
+   "nummer": "3b3f65f7d4f6ba69"
+  },
+  {
+   "nummer": "3c4e1da16880ed7a"
+  },
+  {
+   "nummer": "3cc0ef8d586a39b9"
+  },
+  {
+   "nummer": "3dc2c14a3a70be46",
+   "versie": "foreign-printed-ballots"
+  },
+  {
+   "nummer": "41e0592e2be7dcd7"
+  },
+  {
+   "nummer": "434a0a1bae7fcee2"
+  },
+  {
+   "nummer": "465ef89c7978074b"
+  },
+  {
+   "nummer": "46ba917bd5791987",
+   "versie": "pennsylvania-excess-mail-ballots"
+  },
+  {
+   "nummer": "49f89d0787379e21"
+  },
+  {
+   "nummer": "4a914b167dcfe31a"
+  },
+  {
+   "nummer": "4de839a31cee877a"
+  },
+  {
+   "nummer": "4f4ac081a9c7137c"
+  },
+  {
+   "nummer": "4fb1c583d741ea70"
+  },
+  {
+   "nummer": "510aab387fb5a4fb"
+  },
+  {
+   "nummer": "54b84cc0eb3405fd"
+  },
+  {
+   "nummer": "55156f01649b8b0a"
+  },
+  {
+   "nummer": "581b636ff25fbfb8"
+  },
+  {
+   "nummer": "58e22b22fbf7328e"
+  },
+  {
+   "nummer": "58fef867a385d827"
+  },
+  {
+   "nummer": "5bdb52ae3d80434c"
+  },
+  {
+   "nummer": "5ca03e1137558f79",
+   "versie": "election-was-rigged"
+  },
+  {
+   "nummer": "5d2954275f549e5d"
+  },
+  {
+   "nummer": "5e640c6864f2afcc"
+  },
+  {
+   "nummer": "5f5e5f803d78c684",
+   "versie": "merlino-mob-fake-ballots"
+  },
+  {
+   "nummer": "5fdfe47888e2e543"
+  },
+  {
+   "nummer": "617fbd7795e35a71"
+  },
+  {
+   "nummer": "62a4cea96760b3fd"
+  },
+  {
+   "nummer": "685b0a2f6e78fd79",
+   "versie": "v-2-7-million-votes-deleted"
+  },
+  {
+   "nummer": "6c2afc0d6d801695"
+  },
+  {
+   "nummer": "76f71757112784f9"
+  },
+  {
+   "nummer": "76f8659528043da3"
+  },
+  {
+   "nummer": "775715008be7ba93"
+  },
+  {
+   "nummer": "7943dcc235046636"
+  },
+  {
+   "nummer": "796abf9790de81de",
+   "versie": "maricopa-74-000-unmailed-ballots"
+  },
+  {
+   "nummer": "7a118f5367103e60"
+  },
+  {
+   "nummer": "7ccce45aca594fc1"
+  },
+  {
+   "nummer": "7eda817bac28e957"
+  },
+  {
+   "nummer": "7f3ac7f8557138d5",
+   "versie": "nevada-commissioner-race-thrown-out"
+  },
+  {
+   "nummer": "80309b379e19a884",
+   "versie": "trump-won-the-election"
+  },
+  {
+   "nummer": "804e970ba8e744ff"
+  },
+  {
+   "nummer": "80dca6af96945ec2"
+  },
+  {
+   "nummer": "812b5972fb20897b",
+   "versie": "detroit-late-night-ballot-trucks"
+  },
+  {
+   "nummer": "8134be289e2b3caa"
+  },
+  {
+   "nummer": "827c1f9450458ec3"
+  },
+  {
+   "nummer": "83b185deb8f01a76"
+  },
+  {
+   "nummer": "84188410eabc893a",
+   "versie": "dominion-designed-for-fraud"
+  },
+  {
+   "nummer": "902ac248fbfa5cd2",
+   "versie": "at-t-forensic-audit"
+  },
+  {
+   "nummer": "93868c83007ecbe5"
+  },
+  {
+   "nummer": "942b1019e2a33f90"
+  },
+  {
+   "nummer": "96bf4515e3677797"
+  },
+  {
+   "nummer": "979274456736a051"
+  },
+  {
+   "nummer": "97f082131d1eab40",
+   "versie": "pennsylvania-excess-mail-ballots"
+  },
+  {
+   "nummer": "98a57187e56ef16a"
+  },
+  {
+   "nummer": "9a2bfadbb583c5e6"
+  },
+  {
+   "nummer": "9c1416eb60124ebf"
+  },
+  {
+   "nummer": "9e8e2ecebf6a480a"
+  },
+  {
+   "nummer": "a0cda265a23764c9",
+   "versie": "biden-admits-fraud-video"
+  },
+  {
+   "nummer": "a3857a0b54d530b1",
+   "versie": "signature-verification-waived"
+  },
+  {
+   "nummer": "a517f862fee0ef6e"
+  },
+  {
+   "nummer": "a583ed46eb3f9f6c",
+   "versie": "foreign-printed-ballots"
+  },
+  {
+   "nummer": "aa66344d9f19db8c"
+  },
+  {
+   "nummer": "ac419cf0bddf8293"
+  },
+  {
+   "nummer": "b12e99e2d5ef0b49"
+  },
+  {
+   "nummer": "b48c3a05f8e3a0bc"
+  },
+  {
+   "nummer": "b7dfd0b53d5d85ad",
+   "versie": "dominion-switched-trump-votes"
+  },
+  {
+   "nummer": "b867c93ddddb367e"
+  },
+  {
+   "nummer": "b8a25bc017ed61cf"
+  },
+  {
+   "nummer": "b8a6ce80edbb6750"
+  },
+  {
+   "nummer": "bfdc26a6071d4a15"
+  },
+  {
+   "nummer": "c625e78dbfd19913"
+  },
+  {
+   "nummer": "c69c27e5b23883a5",
+   "versie": "erie-county-poll-worker"
+  },
+  {
+   "nummer": "c7f6ab538bb0b298",
+   "versie": "michigan-wisconsin-fraud-evidence"
+  },
+  {
+   "nummer": "c91e0248659a343b",
+   "versie": "covid-used-to-cheat"
+  },
+  {
+   "nummer": "cabdd099af53d719"
+  },
+  {
+   "nummer": "cca0b1040eeb37eb"
+  },
+  {
+   "nummer": "cdefe62df584eb12",
+   "versie": "georgia-suitcases-of-ballots"
+  },
+  {
+   "nummer": "ce10dbf46b6a8c2a"
+  },
+  {
+   "nummer": "d170a53abcf4aa32"
+  },
+  {
+   "nummer": "d574c2f2c51d8794"
+  },
+  {
+   "nummer": "d5908371cb40b961"
+  },
+  {
+   "nummer": "d6eacf7e99e07142"
+  },
+  {
+   "nummer": "d845ce38d533a959"
+  },
+  {
+   "nummer": "dc72f9153c03672b"
+  },
+  {
+   "nummer": "dcacc2a3a8d6c830"
+  },
+  {
+   "nummer": "de9998d70dfd9ad1"
+  },
+  {
+   "nummer": "df07b9bfe9317cd7"
+  },
+  {
+   "nummer": "e05a4ac9b72584c8",
+   "versie": "secret-ballot-watermark"
+  },
+  {
+   "nummer": "e21ce3c82de5d8d0",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "e22c2d33a1ab79a6"
+  },
+  {
+   "nummer": "e2d0a3368142ba54",
+   "versie": "michigan-wisconsin-fraud-evidence"
+  },
+  {
+   "nummer": "e60281d22ffcb917"
+  },
+  {
+   "nummer": "e84af4e9fc7febc2"
+  },
+  {
+   "nummer": "e89450c5d7b6f534"
+  },
+  {
+   "nummer": "eae2b834b1b78707",
+   "versie": "census-voter-count-conflict"
+  },
+  {
+   "nummer": "f06f31c2e4e3b274",
+   "versie": "newsom-sends-ballots-widely"
+  },
+  {
+   "nummer": "f60349efbfa37c27",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "f78753c550c81412"
+  },
+  {
+   "nummer": "f7d7e57a27885215"
+  },
+  {
+   "nummer": "f8a2d9a469e2fed4"
+  },
+  {
+   "nummer": "f8d73076f8818566",
+   "versie": "newsom-sends-ballots-widely"
+  },
+  {
+   "nummer": "f907402e6235ae74"
+  },
+  {
+   "nummer": "f940354fb056c650"
+  },
+  {
+   "nummer": "fa772b980403355f",
+   "versie": "dominion-switched-trump-votes"
+  },
+  {
+   "nummer": "fe06d3d7231f5436"
+  },
+  {
+   "nummer": "fe559f52a2926539"
+  },
+  {
+   "nummer": "fee8aa3a97a51537"
+  },
+  {
+   "nummer": "ffdd5cb5354698ad",
+   "versie": "georgia-suitcases-of-ballots"
+  },
+  {
+   "nummer": "05aab06bda589bf5",
+   "versie": "michigan-absentee-applications"
+  },
+  {
+   "nummer": "7905c9ac6e3ddf65",
+   "versie": "nevada-illegal-ballots"
+  },
+  {
+   "nummer": "eaf24c3920a52bee"
+  },
+  {
+   "nummer": "fd9ba73b72e5771b",
+   "versie": "nevada-illegal-ballots"
+  },
+  {
+   "nummer": "a379514f9bb940b7",
+   "versie": "mail-voting-unsafe"
+  },
+  {
+   "nummer": "8ff35c353d095751",
+   "versie": "signature-verification-waived"
+  },
+  {
+   "nummer": "2ea516948f1cde13"
+  },
+  {
+   "nummer": "8916ab8a2d3b57dd"
+  },
+  {
+   "nummer": "cbfbd85d447414fc",
+   "versie": "no-nevada-signature-check"
+  },
+  {
+   "nummer": "d9fb7782ff9823f3",
+   "versie": "election-was-rigged"
+  },
+  {
+   "nummer": "f84911bfa5b1191a"
+  },
+  {
+   "nummer": "bfdadad87551b8eb"
+  },
+  {
+   "nummer": "819cfd9421b217f6",
+   "versie": "election-was-rigged"
+  },
+  {
+   "nummer": "bfba4fd15bda4c1e",
+   "versie": "fraud-like-never-seen"
+  },
+  {
+   "nummer": "168cf8fed3833959",
+   "versie": "mail-voting-unsafe"
+  },
+  {
+   "nummer": "a540e996959cb46a"
+  },
+  {
+   "nummer": "830b8d4c0e4bb6de"
+  },
+  {
+   "nummer": "40263509f8166e2b",
+   "versie": "mail-ballot-discrepancies"
+  },
+  {
+   "nummer": "bb4ee38840f183f9"
+  },
+  {
+   "nummer": "f8646e0b27221ba0"
+  },
+  {
+   "nummer": "9e72e097aba89d4d",
+   "versie": "v-300-000-missing-ballots"
+  },
+  {
+   "nummer": "14a7ec936de8a689",
+   "versie": "biden-fraud-team"
+  },
+  {
+   "nummer": "6a7bfe598b196bf9"
+  },
+  {
+   "nummer": "7968dac6f68b7e45",
+   "versie": "mail-voting-corrupts-people"
+  },
+  {
+   "nummer": "809100ecbc123036"
+  },
+  {
+   "nummer": "9225a7af4f67fbea",
+   "versie": "mail-voting-corrupts-people"
+  },
+  {
+   "nummer": "e1c2d917917ff867"
+  },
+  {
+   "nummer": "e609052cf240b4c0",
+   "versie": "secret-ballot-watermark"
+  },
+  {
+   "nummer": "d3739deb808f812b",
+   "versie": "sharpie-ballots-invalidated"
+  },
+  {
+   "nummer": "df0b91403641299c",
+   "versie": "biden-admits-fraud-video"
+  },
+  {
+   "nummer": "93b9d1fe92095f40"
+  },
+  {
+   "nummer": "57a97b3e3863b025",
+   "versie": "smartmatic-rigged-venezuelan-elections"
+  },
+  {
+   "nummer": "98267e0f8a97e148",
+   "versie": "frankfurt-servers-seized"
+  },
+  {
+   "nummer": "00aca3d8a4cae15d",
+   "versie": "smartmatic-founded-by-ch-vez"
+  },
+  {
+   "nummer": "26523e2d0fa272b8",
+   "versie": "ballots-brought-4-30am"
+  },
+  {
+   "nummer": "741f8af21c6a9a3d"
+  },
+  {
+   "nummer": "aaa95c7e476c8bf8",
+   "versie": "radical-left-dominion-ownership"
+  },
+  {
+   "nummer": "bbeba89a88481e43",
+   "versie": "dominion-fraud-in-states"
+  },
+  {
+   "nummer": "d11b16c343ed4ddd"
+  },
+  {
+   "nummer": "906cecee83f4a85a",
+   "versie": "detroit-late-night-ballot-trucks"
+  },
+  {
+   "nummer": "4e936c4e7d307758"
+  },
+  {
+   "nummer": "b52c1f60e7017044",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "90f109e175055142"
+  },
+  {
+   "nummer": "facafa2159a04655"
+  },
+  {
+   "nummer": "1d4bdeef438894ec",
+   "versie": "fulton-county-ballot-shredding"
+  },
+  {
+   "nummer": "c333825af452c0b1",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "f8e6d250adc80629"
+  },
+  {
+   "nummer": "579847ab965ac541"
+  },
+  {
+   "nummer": "0449953729270dc5"
+  },
+  {
+   "nummer": "04b6ade6233183ca"
+  },
+  {
+   "nummer": "10a3527957bed316"
+  },
+  {
+   "nummer": "10e1c56df6c2aa24",
+   "versie": "no-nevada-signature-check"
+  },
+  {
+   "nummer": "16043fe0d94f0e52"
+  },
+  {
+   "nummer": "19da24ac5aded390"
+  },
+  {
+   "nummer": "2721cca41ab0823e"
+  },
+  {
+   "nummer": "27dc2d71ddabaabd",
+   "versie": "dallas-jones-arrest"
+  },
+  {
+   "nummer": "2ae823aa8d266b99",
+   "versie": "mail-voting-unsafe"
+  },
+  {
+   "nummer": "31dc5a0a31fc2ae8",
+   "versie": "mail-ballot-discrepancies"
+  },
+  {
+   "nummer": "321b59b5e1068539"
+  },
+  {
+   "nummer": "3c7d4ca3a96bc152"
+  },
+  {
+   "nummer": "44350caf7cd59cd8"
+  },
+  {
+   "nummer": "452da927df0284b3"
+  },
+  {
+   "nummer": "489cd9727a56e3c1"
+  },
+  {
+   "nummer": "4bd9fc24afd831b5"
+  },
+  {
+   "nummer": "4e77f6315454b6ee"
+  },
+  {
+   "nummer": "5261c90480fa4725"
+  },
+  {
+   "nummer": "58eaa3c11cb5abd3"
+  },
+  {
+   "nummer": "5d6eaec5fba86846"
+  },
+  {
+   "nummer": "5e105811c7555a81"
+  },
+  {
+   "nummer": "5ec9253a2d8c6583"
+  },
+  {
+   "nummer": "6fc40991ac2a09db"
+  },
+  {
+   "nummer": "70761c95de2d9e0b"
+  },
+  {
+   "nummer": "71c87cd5c5c5bd25"
+  },
+  {
+   "nummer": "73c727488da42d25",
+   "versie": "michigan-7-7-million-ballots"
+  },
+  {
+   "nummer": "7621a629b164b43c"
+  },
+  {
+   "nummer": "778f719f43eff983",
+   "versie": "trump-ballots-destroyed"
+  },
+  {
+   "nummer": "77fd9dbd1b8abd61",
+   "versie": "delaware-county-poll-worker-fraud"
+  },
+  {
+   "nummer": "7dc9cad0c7aacfb7"
+  },
+  {
+   "nummer": "82785b226330243e"
+  },
+  {
+   "nummer": "86f94ba0757bde4e"
+  },
+  {
+   "nummer": "88a9298044a04314"
+  },
+  {
+   "nummer": "90bdf42a0aee4860"
+  },
+  {
+   "nummer": "9ca3010803a0141f",
+   "versie": "census-voter-count-conflict"
+  },
+  {
+   "nummer": "9d70f6afa9977770"
+  },
+  {
+   "nummer": "a345c6c3d8033a89"
+  },
+  {
+   "nummer": "a5e2e4426e59709c",
+   "versie": "delaware-county-poll-worker-fraud"
+  },
+  {
+   "nummer": "abfd27aba544dd7a",
+   "versie": "biden-admits-fraud-video"
+  },
+  {
+   "nummer": "b80e584d74f5397b"
+  },
+  {
+   "nummer": "bbf4844ea806e7cf",
+   "versie": "michigan-7-7-million-ballots"
+  },
+  {
+   "nummer": "bca127d085c35d97",
+   "versie": "georgia-shredded-ballots"
+  },
+  {
+   "nummer": "be0c46f8da3ba4f5"
+  },
+  {
+   "nummer": "ca78044f6811ba5d"
+  },
+  {
+   "nummer": "cf9d556cc91d9285",
+   "versie": "frankfurt-servers-seized"
+  },
+  {
+   "nummer": "daa9d9ff3b03a9fa"
+  },
+  {
+   "nummer": "db2b15b85b0fca31"
+  },
+  {
+   "nummer": "de40c678a170e512"
+  },
+  {
+   "nummer": "df17c95e3a32ea68"
+  },
+  {
+   "nummer": "eecbb2a829f1133f"
+  },
+  {
+   "nummer": "f17e25313a766e78"
+  },
+  {
+   "nummer": "f8ef2526c714962c"
+  },
+  {
+   "nummer": "f986e0ecb9b4c45e",
+   "versie": "biden-admits-fraud-video"
+  },
+  {
+   "nummer": "fa562bd0fa87574d"
+  },
+  {
+   "nummer": "fd87bbddeff3b2fb"
+  }
+ ]
+}

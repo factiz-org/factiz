@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck elomar-foto van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "15bc7664d4f8dc82",
+ "veldafdrukken": {
+  "kop": "874cd5b5a071e544",
+  "oordeel_zin": "3e1715937a860353",
+  "bewering": "6b2dc81f110f6428",
+  "kort": "2f8b7f4296293998",
+  "tekst": "ccdfa19ee3e94890",
+  "niet_weten": "65c2cb4465169c00",
+  "nog_uitzoeken": "d264e14562417396",
+  "tijdlijn": "5b72d4ebc447f79a",
+  "beeld_bijschrift": "47f103c639fd552d",
+  "beeld_alt": "9b135b806e627e6a"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Foto pria dengan kepala-kepala terpenggal bukan Ahmed al-Sharaa, melainkan pejuang IS Mohamed Elomar pada 2014",
+  "oordeel_zin": "Foto itu asli, tetapi menunjukkan warga Australia Mohamed Elomar dan muncul dalam pemberitaan pada Juli 2014 sebagai fotonya [1] [2].",
+  "bewering": "Pemimpin Suriah Ahmed al-Sharaa berpose di foto ini dengan kepala-kepala yang terpenggal.",
+  "kort": "Foto seorang pria dengan dua kepala terpenggal yang beredar di X sejak 23 September sebagai foto presiden Suriah Ahmed al-Sharaa menunjukkan orang lain [8]. Dia adalah pejuang IS asal Australia, Mohamed Elomar, dan foto itu muncul dalam pemberitaan pada Juli 2014 sebagai fotonya [1] [2] [3]. Foto yang sama sudah beberapa kali dikaitkan dengan al-Sharaa pada 2025 dan 2026, dan redaksi media dalam sedikitnya empat bahasa membantahnya [10] [11] [13] [15].",
+  "tekst": "Pada Rabu, 23 September 2026, Ahmed al-Sharaa untuk kedua kalinya berpidato di Majelis Umum Perserikatan Bangsa-Bangsa [5] [6]. Lebih dari satu jam setelah Euronews memberitakannya, muncul di X sebuah unggahan berbahasa Belanda dengan foto yang diklaim menunjukkan dirinya [5] [8]. Di foto itu, seorang pria berjenggot yang tersenyum mengangkat dua kepala terpenggal. Pada 15 Oktober foto itu beredar lagi, sebagai tanggapan atas unggahan menteri Sjoerd Sjoerdsma (Perdagangan Luar Negeri dan Bantuan Pembangunan) tentang dukungan untuk Suriah: \"Kalian memberi € 15 juta kepada pria ini\" [9]. Ini foto tunggal, bukan kolase. Unggahan tanggal 23 September sudah dihapus, jadi apa yang tertulis di sana tidak kami ketahui sendiri [8].\n\nFoto itu sudah berusia dua belas tahun. Pada akhir Juli 2014 foto itu muncul di akun Twitter yang disebut milik Khaled Sharrouf, warga Australia yang bergabung dengan Negara Islam [1] [2] [3]. Menurut stasiun penyiaran Australia ABC, foto itu menunjukkan Mohamed Elomar, seorang pria dari Sydney, dengan kepala para prajurit pemerintah Suriah yang tewas dalam pertempuran di Raqqa [1]. Elomar dan Sharrouf pada akhir 2013 berangkat ke Suriah dan kemudian ke Irak [1] [2].\n\nPada 29 Juli 2014 polisi Australia mengumumkan bahwa surat perintah penangkapan telah dikeluarkan terhadap kedua pria itu, atas tuduhan terorisme, setelah foto-foto itu dipublikasikan [1] [2] [3]. Pada Juni 2015 media melaporkan bahwa Elomar tewas di dekat Mosul. Pemerintah Australia saat itu belum mengonfirmasinya [4].\n\nAl-Sharaa memang memiliki masa lalu di kelompok jihadis. Dengan nama Abu Mohammad al-Jolani, dia memimpin Jabhat al-Nusra, cabang Al Qaida di Suriah [11] [12]. Namun tidak ada redaksi yang mencarinya menemukan foto dirinya dengan kepala-kepala terpenggal [15].\n\nFoto dan klaim ini bukan hal baru. Keduanya juga beredar setelah pidato pertama al-Sharaa di PBB pada September 2025 [7]. Saat itu redaksi media berbahasa Portugis, Inggris, dan Belanda sudah menulis bahwa itu adalah Elomar, termasuk AFP Factcheck Nederland dan VRT NWS [10] [11] [12] [15]. Pada April 2026, setelah kunjungannya ke Berlin, foto itu muncul kembali dalam sebuah kolase, yang oleh Mimikama dari Austria disebut menyesatkan [13]. Pada akhir April 2026 Reuters juga menulis tentangnya [14].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali mengaitkan foto itu dengan al-Sharaa pada September 2026, dan apakah kedua unggahan itu berasal dari akun yang sama. Bahwa Elomar tewas pada 2015 dilaporkan media berdasarkan sumber-sumber yang tidak disebutkan namanya; konfirmasi resmi belum kami temukan [4].",
+  "nog_uitzoeken": [
+   "Apa yang tertulis pada unggahan tanggal 23 September. Unggahan itu sudah dihapus, dan kami tidak menemukan salinannya.",
+   "Apakah sumber pemerintah Australia kemudian mengonfirmasi kematian Elomar."
+  ],
+  "tijdlijn": [
+   "Polisi Australia mengumumkan surat perintah penangkapan terhadap Elomar dan Sharrouf, setelah foto-foto di Twitter [1] [2].",
+   "Media melaporkan bahwa Elomar tewas di dekat Mosul [4].",
+   "Al-Sharaa berpidato di PBB sebagai presiden Suriah pertama dalam lebih dari lima puluh tahun [7].",
+   "Aos Fatos menulis bahwa pria di foto itu adalah Elomar [15].",
+   "AFP Factcheck Nederland: foto itu menunjukkan seorang jihadis Australia [10].",
+   "Mimikama tentang kolase setelah kunjungan al-Sharaa ke Berlin [13].",
+   "Reuters menulis tentang foto yang sama [14].",
+   "Unggahan berbahasa Belanda di X, pada hari pidato kedua di PBB [5] [8].",
+   "Foto itu beredar lagi, dengan teks bahwa al-Sharaa berpose dengan kepala-kepala terpenggal [9]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 15 Oktober 2026, pukul 9.46, yang kedua yang kami temukan; unggahan 23 September sudah hilang. Kepala-kepalanya sudah dikaburkan dalam unggahan itu.",
+   "ABC News, 29 Juli 2014: foto-foto Mohamed Elomar, yang saat itu diunggah ke Twitter. Hanya berupa tautan, gambarnya terlalu kejam untuk ditampilkan."
+  ],
+  "beeld_alt": [
+   "Foto seorang pria berjenggot yang tersenyum sambil memegang dua kepala terpenggal; kepala-kepalanya dikaburkan. Cap: SALAH.",
+   "Tautan ke artikel ABC News tentang foto-foto Mohamed Elomar dari 2014."
+  ]
+ }
+}

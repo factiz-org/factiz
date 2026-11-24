@@ -1,0 +1,287 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/finland-navo/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "finland-navo"
+status = "gepubliceerd"
+taal = "en"
+adres = "russia-demanded-finland-leave-nato"
+kop = "There is no confirmation that Russia demanded in Abu Dhabi that Finland leave NATO"
+oordeel = "onbewezen"
+oordeel_zin = "The claim comes from a report in Bild with unnamed sources, which the Kremlin denies, and Finland's president and defence minister say they have no knowledge of such a demand [7] [8] [10] [17]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "BREAKING: Russia has expressed part of its conditions to END the Ukraine war:  - Finland out of NATO.  - No NATO bases in the Baltics.  - All of Donbas handed to Russia.  In return, Russia would WITHDRAW its nuclear weapons from Belarus."
+platform = "X"
+eerst_gezien = "2026-11-13"
+posts = 4
+bereik = "1,580 likes on the post shown and 4,987 on the most liked post we read, on November 23"
+
+kort = """
+On November 13, posts on X presented it as fact that Russia had demanded at the peace talks in Abu Dhabi that Finland \
+leave NATO [2] [4] [5]. The claim comes from a report that morning in the German newspaper Bild, which did not name its \
+sources and said it was not known whether President Putin backed the proposal [1] [7]. The Kremlin denies it, and \
+Finland's president says he never heard such a demand from a Russian [8] [17] [18]."""
+
+tekst = """
+On the morning of November 13, Bild reported that Russia wanted Finland out of NATO, no NATO bases in Estonia, Latvia \
+and Lithuania, and all of the Donbas region, and would in return withdraw its nuclear weapons from Belarus [1] [6] [7]. \
+According to Yle, Finland's public broadcaster, Bild said the proposal came from Putin's inner circle and was presented \
+unofficially to European representatives in Abu Dhabi [6]. On its Russian-language channel, Bild called it one of \
+several proposals from competing groups of intermediaries [1].
+
+At 11:03 UTC, an account called Bedouin Report posted Russia's supposed conditions under the word BREAKING, without a \
+source [2]. By then, the Kremlin had already denied it [8]. At 10:48 UTC, the Azerbaijani news agency APA quoted spokesman \
+Dmitry Peskov saying no such demand was made [8] [9].
+
+Finland's Defence Minister Antti Häkkänen said on November 13 that he had no information on whether the demand was made \
+[10]. On November 17, President Alexander Stubb said it was not a claim to be taken seriously in any form, and that he \
+had not heard it from a single Russian, according to the newspaper Ilta-Sanomat [17] [18].
+
+The Russian-language outlet Echo, also citing unnamed sources, wrote that one negotiating group gave the Europeans a \
+list that included Finland returning to its status before NATO [12]. The New York Times obtained a Russian paper dated \
+November 10 that asks NATO to pull its troops and bases back to where they stood in 1997, but its article does not \
+mention Finland [13] [14].
+
+Finland joined NATO in April 2023, and under the North Atlantic Treaty only a member itself can give notice to leave \
+[9] [16]."""
+
+niet_weten = """
+We do not know who Bild's sources are, or whether anyone in Abu Dhabi put such a demand to the Europeans [6] [7]. \
+Bild's full article is for subscribers; its opening says the proposal came from unofficial talks and from Putin's circle \
+[19], and the rest we know from its Russian-language channel and other media [1] [6] [7]. The Kremlin is a party to the \
+talks, so its denial does not settle the question [8]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who Bild's sources are, and whether a European government that was in Abu Dhabi confirms or denies that it received such a list.",
+  "Whether the full Russian paper that The New York Times obtained says anything about Finland. The article about it does not.",
+  "We hesitated between Unproven and Misleading. The posts turn a report with unnamed sources, which the Kremlin denies, into a fact, which points to Misleading; whether the demand was made is not known, which made us choose Unproven.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 13, 2026, 11:03 UTC."
+alt = "A post on X by the account Bedouin Report under the word BREAKING, listing what it calls Russia's conditions to end the war in Ukraine, starting with Finland out of NATO. Stamp: UNPROVEN."
+
+[[tijdlijn]]
+datum = "2026-11-10"
+wat = "Talks between Russia, Ukraine and the United States begin in Abu Dhabi [15]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+wat = "The talks end. Britain, France, Germany and Italy were there, but did not negotiate directly with the Russians [10] [15]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Bild reports that Russia wants Finland out of NATO, without naming its sources [1] [6] [7]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "10:48 UTC"
+wat = "APA reports Peskov's denial: no such demand was made [8]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "11:03 UTC"
+wat = "Bedouin Report posts Russia's supposed conditions as BREAKING news, without a source [2]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "11:17 UTC"
+wat = "Visegrád 24 posts the claim and names Bild [3]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Häkkänen in parliament: no information that the demand was made [10]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Prime Minister Orpo: such questions do not belong at the negotiating table [11]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "The New York Times reports on a Russian paper that asks NATO to return to its 1997 positions; the article does not mention Finland [14]."
+
+[[tijdlijn]]
+datum = "2026-11-17"
+wat = "Stubb in Berlin: not a claim to be taken seriously, and he never heard it from a Russian [17] [18]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "BILD на русском (Bild's Russian-language channel on Telegram)"
+titel = "Post on Russian proposals for a new European security order"
+datum = "2026-11-13"
+url = "https://t.me/BILD_Russian/33291"
+archief = "https://web.archive.org/web/20261118015227/https://t.me/BILD_Russian/33291"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "Post by the account Bedouin Report on Russia's conditions to end the war"
+datum = "2026-11-13"
+prive = true
+archief = "https://web.archive.org/web/20261119232336/https://cdn.syndication.twimg.com/tweet-result?id=2121197136570441912&token=553xqsl1tzf&lang=en"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Visegrád 24 on X"
+titel = "Post: Russia demands Finland leave NATO, BILD reports"
+datum = "2026-11-13"
+url = "https://x.com/visegrad24/status/2121200883702648853"
+archief = "https://web.archive.org/web/20261119232424/https://cdn.syndication.twimg.com/tweet-result?id=2121200883702648853&token=553y61tff4n&lang=en"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "X"
+titel = "Post by a private account on Finland and NATO, with a video"
+datum = "2026-11-13"
+prive = true
+archief = "https://web.archive.org/web/20261119232401/https://cdn.syndication.twimg.com/tweet-result?id=2121209644081189359&token=553z5pv1r58&lang=en"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Mario Nawfal on X"
+titel = "Post: Russia is demanding Finland leave NATO"
+datum = "2026-11-13"
+url = "https://x.com/MarioNawfal/status/2121217765545746443"
+archief = "https://web.archive.org/web/20261119232448/https://cdn.syndication.twimg.com/tweet-result?id=2121217765545746443&token=5542s9bxdp&lang=en"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Yle News"
+titel = "Russia demands Finland leave Nato in Ukraine peace talks, Bild reports"
+datum = "2026-11-13"
+url = "https://yle.fi/a/74-20256829"
+archief = "https://web.archive.org/web/20261118212551/https://yle.fi/a/74-20256829"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "Interfax-Ukraine"
+titel = "Russia demands entire Donetsk region, Moldova federalization, Finland's NATO exit at talks – media"
+datum = "2026-11-13"
+url = "https://en.interfax.com.ua/news/general/1236014.html"
+archief = "https://web.archive.org/web/20261115104128/https://en.interfax.com.ua/news/general/1236014.html"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "APA (Azerbaijan Press Agency)"
+titel = "Peskov: Russia has not demanded Finland's withdrawal from NATO"
+datum = "2026-11-13"
+url = "https://en.apa.az/cis-countries/peskov-russia-has-not-demanded-finlands-withdrawal-from-nato-535926"
+archief = "https://web.archive.org/web/20261116165559/https://en.apa.az/cis-countries/peskov-russia-has-not-demanded-finlands-withdrawal-from-nato-535926"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "The Moscow Times (Russian service)"
+titel = "Кремль на переговорах по Украине потребовал выхода Финляндии из НАТО"
+datum = "2026-11-13"
+url = "https://ru.themoscowtimes.com/2026/11/13/kreml-na-peregovorah-po-ukraine-potreboval-vihoda-finlyandii-iz-nato-a211292"
+archief = "https://web.archive.org/web/20261116221610/https://ru.themoscowtimes.com/2026/11/13/kreml-na-peregovorah-po-ukraine-potreboval-vihoda-finlyandii-iz-nato-a211292"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "STT (via Kaleva)"
+titel = "Venäjä kiistää vaatineensa Suomea eroamaan Natosta (title after the link)"
+datum = "2026-11-13"
+url = "https://www.kaleva.fi/venaja-kiistaa-vaatineensa-suomea-eroamaan-natosta/13753974"
+archief = "https://web.archive.org/web/20261114044209/https://www.kaleva.fi/venaja-kiistaa-vaatineensa-suomea-eroamaan-natosta/13753974"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "TV4 Nyheterna"
+titel = "Ryska kravet: Lämna Nato"
+datum = "2026-11-13"
+url = "https://www.tv4.se/artikel/7yx75GPR7FGmyd1XSFaflW/uppgifter-rysslands-krav-pa-finland-under-foerhandlingarna"
+archief = "https://web.archive.org/web/20261115133441/https://www.tv4.se/artikel/7yx75GPR7FGmyd1XSFaflW/uppgifter-rysslands-krav-pa-finland-under-foerhandlingarna"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Echo"
+titel = "Песков заявил, что на переговорах в Абу-Даби не обсуждался выход каких-либо стран из состава НАТО"
+datum = "2026-11-13"
+url = "https://echofm.online/news/peskov-zayavil-chto-na-peregovorah-v-abu-dabi-ne-obsuzhdalsya-vyhod-kakih-libo-stran-iz-sostava-nato"
+archief = "https://web.archive.org/web/20261114235654/https://echofm.online/news/peskov-zayavil-chto-na-peregovorah-v-abu-dabi-ne-obsuzhdalsya-vyhod-kakih-libo-stran-iz-sostava-nato"
+
+[[bron]]
+nr = 13
+soort = "nieuws"
+uitgever = "Berliner Zeitung"
+titel = "Atomschutz-Ende und Nato-Rückzug: Russische Forderungen stoßen auf Widerstand"
+datum = "2026-11-15"
+url = "https://www.berliner-zeitung.de/article/russland-forderungen-nato-atomschutz-ukraine-verhandlungen-10598829"
+archief = "https://web.archive.org/web/20261117223018/https://www.berliner-zeitung.de/article/russland-forderungen-nato-atomschutz-ukraine-verhandlungen-10598829"
+
+[[bron]]
+nr = 14
+soort = "nieuws"
+uitgever = "The New York Times"
+titel = "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal"
+datum = "2026-11-13"
+url = "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+archief = "https://web.archive.org/web/20261116150044/https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+
+[[bron]]
+nr = 15
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "Russia–Ukraine peace talks conclude in Abu Dhabi with prisoner exchange agreement but no breakthrough on territory"
+datum = "2026-11-11"
+url = "https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory"
+archief = "https://web.archive.org/web/20261115075907/https://meduza.io/en/feature/2026/11/11/russia-ukraine-peace-talks-conclude-in-abu-dhabi-with-prisoner-exchange-agreement-but-no-breakthrough-on-territory"
+
+[[bron]]
+nr = 16
+soort = "bron"
+uitgever = "NATO"
+titel = "The North Atlantic Treaty"
+datum = "1949-04-04"
+url = "https://www.nato.int/cps/en/natolive/official_texts_17120.htm"
+archief = "https://web.archive.org/web/20251104171252/https://www.nato.int/cps/en/natolive/official_texts_17120.htm"
+
+[[bron]]
+nr = 17
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "Moscow and Helsinki agree on one thing: Russia never demanded Finland leave NATO"
+datum = "2026-11-18"
+url = "https://meduza.io/en/news/2026/11/18/moscow-and-helsinki-agree-on-one-thing-russia-never-demanded-finland-leave-nato"
+archief = "https://web.archive.org/web/20261118073349/https://meduza.io/en/news/2026/11/18/moscow-and-helsinki-agree-on-one-thing-russia-never-demanded-finland-leave-nato"
+
+[[bron]]
+nr = 18
+soort = "nieuws"
+uitgever = "Hromadske"
+titel = "Finland will stay in NATO, Stubb says, dismissing reported Russian demand to leave alliance"
+datum = "2026-11-18"
+url = "https://hromadske.ua/en/heopolityka/274591-finland-will-stay-in-nato-stubb-says-dismissing-reported-russian-demand-to-leave-alliance"
+archief = "https://web.archive.org/web/20261120025017/https://hromadske.ua/en/heopolityka/274591-finland-will-stay-in-nato-stubb-says-dismissing-reported-russian-demand-to-leave-alliance"
+
+[[bron]]
+nr = 19
+soort = "nieuws"
+uitgever = "BILD"
+titel = "Exklusiv: Russlands brutale Forderungen an Europa (BILDplus, for subscribers; the opening is free)"
+datum = "2026-11-13"
+url = "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-bild-kennt-einen-geheimen-russischen-friedensvorschlag-6af482e1db4e2fa8f6eb7a55"
+archief = "https://web.archive.org/web/20261123012446/https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-bild-kennt-einen-geheimen-russischen-friedensvorschlag-6af482e1db4e2fa8f6eb7a55"

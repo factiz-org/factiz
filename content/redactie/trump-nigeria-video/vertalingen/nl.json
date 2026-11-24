@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck trump-nigeria-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "9b373c9afe9aaee1",
+ "veldafdrukken": {
+  "kop": "cab1428136e5a8b0",
+  "oordeel_zin": "4a17b6531b5534a8",
+  "bewering": "ee6edde272e09afd",
+  "kort": "6eb7de9d893ddd77",
+  "tekst": "22f65856c2c1d449",
+  "niet_weten": "3c74d243863684fe",
+  "bereik": "37dcd24dce948f4e",
+  "nog_uitzoeken": "2bfb1263e80737a8",
+  "tijdlijn": "9051453557bae0f8",
+  "beeld_bijschrift": "bfd0986cdc2c3ba6",
+  "beeld_alt": "ab4e0323c144c795"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video van Trump over het doden van christenen is van november 2025 en verklaart geen oorlog",
+  "oordeel_zin": "Trump zei deze woorden, maar in een video over Nigeria van 5 november 2025, en hij verklaart daarin geen oorlog [3] [4].",
+  "bewering": "🚨 BREAKING: Donald Trump verklaart een wereldwijde oorlog aan het radicale islamisme, en belooft christenen wereldwijd te beschermen.  “Het doden van christenen gaat NIET gebeuren.”",
+  "kort": "Donald Trump zei inderdaad \"Het doden van christenen gaat niet gebeuren\", maar in een video over Nigeria die hij op 5 november 2025 plaatste [2] [4]. Een jaar later presenteren berichten op X de clip als breaking news over een wereldwijde oorlog tegen de radicale islam [1] [11]. In de volledige video verklaart Trump geen oorlog: hij noemt Nigeria een land van bijzondere zorg en zegt dat de Verenigde Staten klaarstaan om christenen over de hele wereld te redden [3] [6].",
+  "tekst": "Op zaterdag 14 november 2026 om 03:00 UTC plaatste het account Pop Static een video van 22 seconden van Donald Trump op X [1]. In de tekst staat dat Trump \"een wereldwijde oorlog aan het radicale islamisme verklaart en belooft christenen wereldwijd te beschermen\", en hij wordt geciteerd: \"Het doden van christenen gaat NIET gebeuren.\" [1]. Het bericht opent met het woord BREAKING, alsof het nieuws nieuw was [1]. Op 19 november had het 23.353 likes en 479 reacties [1].\n\nHet citaat komt uit een video die Trump op woensdag 5 november 2025 om 22:04 UTC op Truth Social plaatste [2] [3]. Negen minuten later plaatste het Witte Huis dezelfde video op X; hij duurt 65 seconden [4]. Daily Trust in Nigeria en The Star in Kenia berichtten er de volgende ochtend over, met hetzelfde citaat [5] [6]. \"Het doden van christenen gaat niet gebeuren\" is de laatste zin van de video [3] [6]. De clip in het bericht duurt 22 seconden, ongeveer een derde van de video [1] [4].\n\nIn de video zegt Trump dat het christendom in Nigeria voor een \"existentiële dreiging\" staat en geeft hij \"radicale islamisten\" de schuld van de moorden [3] [5]. Hij noemt Nigeria een \"land van bijzondere zorg\", een status op grond van een Amerikaanse wet uit 1998 voor landen die de godsdienstvrijheid schenden [3] [8]. Hij vraagt congreslid Riley Moore en voorzitter Tom Cole om het te onderzoeken en daarover terug te komen [3]. Hij sluit af met te zeggen dat de Verenigde Staten niet werkeloos kunnen toekijken, dat het \"niet alleen Nigeria\" is, en dat het land klaarstaat om christenen over de hele wereld te redden [3] [6]. Hij verklaart in de video geen oorlog [3].\n\nDe video herhaalde een bericht van 31 oktober 2025, waarin Trump Nigeria op die lijst had gezet [7] [8]. Op 1 november dreigde hij alle hulp aan Nigeria stop te zetten en het land binnen te gaan \"met bulderende geweren\" als het doden van christenen doorging, en droeg hij het ministerie van Oorlog op zich voor te bereiden [8] [9]. De Nigeriaanse president Bola Tinubu zei dat zijn regering veiligheidsproblemen aanpakt die burgers van alle ggezindten treffen [9]. Op 25 december 2025 troffen de Verenigde Staten doelen van Islamitische Staat in de staat Sokoto, in het noordwesten van Nigeria, wat Nigeria een onderdeel van hun veiligheidssamenwerking noemde [10].\n\nWe vonden geen nieuwe uitspraak van Trump in november 2026 waarin hij een oorlog tegen de radicale islam verklaart [14] [15]. Tijdens een hoorzitting in het Huis van Afgevaardigden op 12 november 2026, twee dagen voor het bericht, keek de voorzitter van de subcommissie voor Afrika terug op de aanwijzing van 31 oktober 2025, en hij noemde geen nieuwe uitspraak [14]. In Trumps eigen berichten op Truth Social van 1 oktober tot 19 november 2026 vonden we geen oorlogsverklaring aan de radicale islam [15].\n\nDe clip deed eerder de ronde. Op 15 oktober 2026 plaatste een ander account op X een clip van dezelfde lengte met de tekst dat Trump \"de oorlog verklaart aan de radicale islam over de hele wereld\" [11]. De website Document herhaalde dat bericht op 18 oktober als nieuws, zonder datum of bron voor de video [12]. Op 1 november plaatste nog een ander account dezelfde tekst met de clip; op 19 november had dat bericht 43.941 likes [13].",
+  "niet_weten": "We weten niet wie de clip van 22 seconden als eerste uit de video heeft geknipt, of dat die al vóór 15 oktober 2026 rondging. Trump spreekt ook op bijeenkomsten en in interviews; dat hij daar geen oorlog heeft verklaard, berust op het ontbreken van enig bericht.",
+  "bereik": "23.353 likes en 479 reacties op 19 november; een eerder bericht van 1 november had 43.941 likes",
+  "nog_uitzoeken": [
+   "Of de clip van 22 seconden is geknipt uit de video van het Witte Huis op X of uit Trumps eigen bericht op Truth Social, beeld voor beeld vergeleken.",
+   "Of de clip al vóór oktober 2026 als nieuw rondging, bijvoorbeeld na de Amerikaanse aanvallen in Nigeria van december 2025.",
+   "Wie de clip als eerste koppelde aan een oorlog tegen de radicale islam.",
+   "We wogen Misleidend tegen Onwaar. De woorden zijn van Trump zelf, maar de oorlog en de datum in het bericht zijn dat niet. Als u een uitspraak kent waarin Trump zo'n oorlog verklaarde, laat het ons weten."
+  ],
+  "tijdlijn": [
+   "Trump maakt Nigeria in een bericht op Truth Social een land van bijzondere zorg, om 18:09 UTC [7].",
+   "Trump dreigt de hulp aan Nigeria stop te zetten en het land binnen te gaan \"met bulderende geweren\" [8] [9].",
+   "Trump plaatst de video op Truth Social om 22:04 UTC; hij eindigt met \"Het doden van christenen gaat niet gebeuren\" [2] [3].",
+   "Het Witte Huis plaatst dezelfde video van 65 seconden op X om 22:13 UTC [4].",
+   "Daily Trust en The Star berichten over de video, met het citaat [5] [6].",
+   "De Verenigde Staten treffen doelen van Islamitische Staat in de staat Sokoto, Nigeria [10].",
+   "Een bericht op X presenteert de clip als een oorlogsverklaring aan de radicale islam over de hele wereld [11].",
+   "Document herhaalt dat bericht als nieuws [12].",
+   "Nog een bericht op X met dezelfde tekst en de clip [13].",
+   "Een hoorzitting in het Huis van Afgevaardigden kijkt terug op de aanwijzing van 31 oktober 2025 [14].",
+   "Het bericht van Pop Static, om 03:00 UTC [1]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 14 november 2026, 03:00 UTC.",
+   "Donald Trump, geplaatst door het Witte Huis op X, 5 november 2025: de video van 65 seconden over christenen in Nigeria."
+  ],
+  "beeld_alt": [
+   "Het bericht op X van Pop Static: de tekst over een wereldwijde oorlog tegen de radicale islam en een still uit de video van 22 seconden van Donald Trump. Stempel: MISLEIDEND.",
+   "De video van het Witte Huis van 5 november 2025, waarin Donald Trump spreekt over het doden van christenen in Nigeria."
+  ]
+ }
+}

@@ -1,0 +1,201 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/donbas-14000-burgers/dossier.md.
+
+sleutel = "donbas-14000-burgers"
+status = "gepubliceerd"
+taal = "nl"
+adres = "donbas-14000-burgerdoden-oekraine"
+adres_en = "donbas-14000-civilian-deaths-ukraine"
+kop = "In de Donbas vielen vóór 2022 3.404 burgerdoden aan beide kanten, geen 14.000 door Oekraïne"
+oordeel = "onwaar"
+oordeel_zin = "De VN telde van april 2014 tot eind 2021 14.200 tot 14.400 doden in de oorlog in het oosten, van wie ten minste 3.404 burgers aan beide kanten van de frontlinie, en we vonden geen uitspraak waarin Zelensky oproept Rusland te vernietigen [1] [3]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "Oekraïne bombardeerde sinds 2014 de Donbas en doodde er duizenden burgers; nu wil Zelensky dat de wereld Rusland vernietigt."
+platform = "X"
+eerst_gezien = "2026-08-21"
+posts = 2
+bereik = "11.682 likes en 786 reacties op 18 november, bij de post van 12 oktober"
+
+kort = """
+Op X ging in augustus rond dat Oekraïne in de Donbas sinds 2014 10.000 burgers doodde, en in oktober dat Zelensky de \
+wereld opriep Rusland te vernietigen [6] [7]. Volgens de VN kwamen er van april 2014 tot eind 2021 14.200 tot 14.400 \
+mensen om, van wie ten minste 3.404 burgers, aan beide kanten van de frontlinie [1]. Een uitspraak waarin Zelensky \
+oproept Rusland te vernietigen, vonden we niet; hij vroeg in die dagen om meer druk op Rusland [3]."""
+
+tekst = """
+Op 12 oktober om 11:53 schreef een account op X dat Zelensky de wereld oproept tot een krachtige reactie om ook \
+Rusland te vernietigen [6]. Daarna gaat de tekst over het vernietigen van al het leven in een gebied [6]. \
+Het beeld eronder is een portret van Zelensky, zonder tekst. De post \
+kreeg ruim 11.000 likes [6]. In augustus schreef een ander account dat Oekraïne \
+de Donbas sinds 2014 bombardeerde, met 10.000 burgerdoden, en dat Zelensky daarmee doorging [7].
+
+Het getal 14.000 gaat sinds 2022 rond als bewijs dat Oekraïne in de Donbas 14.000 burgers doodde [2] [5]. Het komt uit \
+de telling van de VN. Het Bureau van de Hoge Commissaris voor de Mensenrechten (OHCHR) schatte in januari 2022 dat er \
+van 14 april 2014 tot en met 31 december 2021 14.200 tot 14.400 mensen omkwamen door de oorlog in het oosten van \
+Oekraïne [1]. Dat zijn alle doden, aan beide kanten: ongeveer 4.400 Oekraïense militairen, ongeveer 6.500 strijders \
+van de gewapende groepen en ten minste 3.404 burgers [1].
+
+Van die 3.404 burgers kwamen er 298 om aan boord van vlucht MH17, op 17 juli 2014 [1]. De meeste andere burgers \
+vielen in 2014 en 2015, toen er het hardst gevochten werd: 2.084 en 955 [1]. Van 2016 tot en met 2021 waren het er \
+samen 365 [1].
+
+Zelensky werd president in mei 2019. In 2019, 2020 en 2021 telde de VN samen 78 burgerdoden, aan beide kanten van de \
+frontlinie en door alle oorzaken [1]. In 2021 kwam ruim de helft van alle burgerslachtoffers door mijnen en explosieven \
+die waren achtergebleven [1].
+
+Burgers vielen in die laatste jaren wel vaker aan de kant van de gewapende groepen. Van 2018 tot en met 2021 vielen \
+310 van de 381 burgerdoden en gewonden door beschietingen in het gebied van de zelfbenoemde volksrepublieken Donetsk \
+en Loehansk [1]. Wie er schoot, staat niet in dit overzicht. Analisten die de cijfers naliepen, wijzen erop dat \
+burgers door beide kanten werden gedood [2]. EUvsDisinfo, de databank van de EU over desinformatie, beschreef in maart \
+2025 opnieuw het verhaal dat Rusland in 2022 moest ingrijpen omdat Oekraïners in de Donbas Russen afslachtten [8].
+
+Voor de oproep om Rusland te vernietigen vonden we geen bron. In zijn eigen teksten van die dagen vraagt Zelensky \
+Europa en de Verenigde Staten om meer druk op Rusland, zodat er een echt bestand komt voor de energie-installaties [3]. \
+Begin oktober waren er zware Russische aanvallen: op 7 oktober kwamen volgens de Oekraïense minister van \
+Binnenlandse Zaken 28 mensen om [4]."""
+
+niet_weten = """
+We weten niet welke uitspraak van Zelensky de post bedoelt, en welke aanval met 33 doden. Het overzicht van de VN zegt \
+niet wie de burgers doodde, alleen waar ze vielen en waardoor."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Welke uitspraak van Zelensky de post bedoelt. We willen zijn woorden van 11 of 12 oktober in het Oekraïens en het Engels naast de vertaling in de post leggen: kan 'vernietigen' slaan op iets anders, zoals de Russische oorlogsmachine of raffinaderijen?",
+  "Welke aanval met 33 doden de post bedoelt.",
+  "Hoe de burgerdoden van 2014 en 2015 verdeeld waren over de twee kanten van de frontlinie, als de VN dat ergens geeft.",
+]
+
+[[rekensom]]
+geval = "Alle doden, 14 april 2014 tot en met 2021"
+som = "burgers, Oekraïense militairen en gewapende groepen samen"
+uitkomst = "14.200 tot 14.400"
+
+[[rekensom]]
+geval = "Burgers"
+som = "3.106 plus 298 aan boord van MH17"
+uitkomst = "ten minste 3.404"
+
+[[rekensom]]
+geval = "Burgers in 2014 en 2015"
+som = "2.084 plus 955"
+uitkomst = "3.039"
+
+[[rekensom]]
+geval = "Burgers van 2016 tot en met 2021"
+som = "112 + 117 + 58 + 27 + 26 + 25"
+uitkomst = "365"
+
+[[rekensom]]
+geval = "Burgers in 2019, 2020 en 2021"
+som = "27 + 26 + 25"
+uitkomst = "78"
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 12 oktober 2026, 11:53."
+alt = "Een post op X met de tekst dat Zelensky de wereld oproept Rusland te vernietigen, met een portret van Zelensky eronder. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2014-07-17"
+wat = "298 mensen komen om aan boord van vlucht MH17; de VN telt hen bij de burgerdoden [1]."
+
+[[tijdlijn]]
+datum = "2022-01-27"
+wat = "OHCHR publiceert de telling tot eind 2021: 14.200 tot 14.400 doden, van wie ten minste 3.404 burgers [1]."
+
+[[tijdlijn]]
+datum = "2022-03-21"
+wat = "Detector Media checkt het verhaal van een genocide in de Donbas [5]."
+
+[[tijdlijn]]
+datum = "2026-08-21"
+tijd = "09:05"
+wat = "Een Nederlandse post op X noemt 10.000 burgerdoden in de Donbas sinds 2014 [7]."
+
+[[tijdlijn]]
+datum = "2026-10-07"
+wat = "Een Russische aanval met raketten en drones kost in Oekraïne 28 mensen het leven [4]."
+
+[[tijdlijn]]
+datum = "2026-10-12"
+tijd = "11:53"
+wat = "Een Nederlandse post op X zegt dat Zelensky de wereld oproept Rusland te vernietigen [6]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "OHCHR, VN-missie voor de mensenrechten in Oekraïne"
+titel = "Conflict-related civilian casualties in Ukraine"
+datum = "2022-01-27"
+url = "https://ukraine.un.org/sites/default/files/2022-02/Conflict-related%20civilian%20casualties%20as%20of%2031%20December%202021%20%28rev%2027%20January%202022%29%20corr%20EN_0.pdf"
+archief = "https://web.archive.org/web/20261117185908/https://ukraine.un.org/sites/default/files/2022-02/Conflict-related%20civilian%20casualties%20as%20of%2031%20December%202021%20%28rev%2027%20January%202022%29%20corr%20EN_0.pdf"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "EA WorldView"
+titel = "Dissecting the Disinformation That 'Ukraine Killed 14,000 Ethnic Russian Civilians'"
+datum = "2022-07-11"
+url = "https://eaworldview.com/2022/07/disinformation-ukraine-russian-civilians/"
+archief = "https://web.archive.org/web/20260923164452/https://eaworldview.com/2022/07/disinformation-ukraine-russian-civilians/"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Bureau van de president van Oekraïne"
+titel = "Europe and the United States Must Increase Pressure on Russia to Create Conditions for a Genuine Energy Ceasefire and De-escalation"
+datum = "2026-10-11"
+url = "https://www.president.gov.ua/en/news/yevropa-ta-ssha-mayut-posilyuvati-tisk-na-rosiyu-shob-stvori-106861"
+archief = "https://web.archive.org/web/20261013205916/https://www.president.gov.ua/en/news/yevropa-ta-ssha-mayut-posilyuvati-tisk-na-rosiyu-shob-stvori-106861"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Reuters via GV Wire"
+titel = "At least 28 killed in Ukraine, Zelenskiy condemns one of Russia's most vile strikes"
+datum = "2026-10-07"
+url = "https://gvwire.com/2026/10/07/at-least-28-killed-in-ukraine-zelenskiy-condemns-one-of-russias-most-vile-strikes/"
+
+[[bron]]
+nr = 5
+soort = "factcheck"
+uitgever = "Detector Media"
+titel = "Ukraine has committed genocide against Donbas"
+datum = "2022-03-21"
+url = "https://disinfo.detector.media/en/post/ukraine-has-committed-genocide-against-donbas"
+archief = "https://web.archive.org/web/20251012231156/https://disinfo.detector.media/en/post/ukraine-has-committed-genocide-against-donbas"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "X"
+titel = "Post over Zelensky en de vernietiging van Rusland, met een beeld"
+datum = "2026-10-12"
+prive = true
+archief = "https://web.archive.org/web/20261119141810/https://cdn.syndication.twimg.com/tweet-result?id=2109583230907097416&token=543g8q9qoue&lang=nl"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "X"
+titel = "Post over 10.000 burgerdoden in de Donbas"
+datum = "2026-08-21"
+prive = true
+archief = "https://web.archive.org/web/20261119154212/https://cdn.syndication.twimg.com/tweet-result?id=2090696841935384756&token=52g48px4elg&lang=en"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "EUvsDisinfo"
+titel = "Putin 2022 intervention necessary because Ukrainians were massacring Russians in Donbas"
+datum = "2025-03-06"
+url = "https://euvsdisinfo.eu/report/putin-2022-intervention-necessary-because-ukrainians-were-massacring-russians-in-donbas/"

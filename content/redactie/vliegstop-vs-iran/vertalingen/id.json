@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "\"Klaim Iran\" soal ground stop di AS hanyalah sebuah unggahan dengan dua emoji",
+  "oordeel_zin": "Sebuah akun bernama Iran Military Media mengunggah emoji pesawat dan tanda silang setelah ground stop dimulai, tetapi akun itu tidak mengeklaim apa pun, dan FAA menelusuri penyebab penghentian itu ke banjir data di jaringannya sendiri [1] [3] [11].",
+  "bewering": "Akun-akun Iran sekarang mencuit mengisyaratkan bahwa merekalah yang bertanggung jawab atas ground stop di AS hari ini.   Saatnya Presiden Trump menuntaskan rezim Iran.",
+  "kort": "Pada 13 November, Laura Loomer menulis di X bahwa akun-akun Iran mengisyaratkan mereka berada di balik ground stop nasional di AS, dan menyerukan agar Presiden Trump menuntaskan rezim Iran [2]. Unggahan yang ia kutip hanya menampilkan sebuah pesawat dan tanda silang, yang diunggah oleh akun bernama Iran Military Media setelah ground stop dimulai [3] [6]. FAA menelusuri penghentian itu ke banjir data di jaringannya sendiri, dan pejabat AS mengatakan mereka tidak melihat tanda adanya pelaku asing [1] [9] [13].",
+  "tekst": "Pada Jumat, 13 November, pengendali lalu lintas udara AS mulai kehilangan sambungan radar dan radio pada pukul 15.36 waktu Timur (20.36 UTC), menurut Menteri Transportasi Sean Duffy [5]. Sesaat sebelum pukul 16.00, Federal Aviation Administration (FAA) menghentikan semua keberangkatan dari bandara-bandara AS, yang disebut ground stop [6]. Pesawat yang sudah berada di udara bisa mendarat; Duffy mengatakan lebih dari 3.500 pesawat sedang mengudara saat itu [7] [8]. FAA mencabut penghentian itu sekitar pukul 20.15 waktu Timur, pukul 01.15 UTC pada 14 November [5].\n\nIni adalah ground stop nasional pertama sejak Januari 2023, dan yang kedua sejak serangan 11 September 2001 [6].\n\nPada pukul 21.20 UTC, sekitar 45 menit setelah masalah dimulai, sebuah akun bernama Iran Military Media mengunggah dua emoji di X: sebuah pesawat dan tanda silang [3] [5]. Unggahan itu tidak berisi kata-kata, gambar, maupun tautan [3]. Unggahan itu tidak menyebut FAA, serangan siber, atau drone, dan tidak menyebut siapa yang berbuat apa [3]. Pada pukul 23.00 UTC, Laura Loomer mengutipnya, dengan teks bahwa akun-akun Iran mengisyaratkan merekalah yang bertanggung jawab atas ground stop itu [2]. Unggahannya mendapat 19.468 suka dan 1.842 balasan per 19 November [2].\n\nAkun tersebut tidak memiliki label pemerintah atau organisasi resmi di X, dan kami tidak menemukan sumber yang mengaitkannya dengan angkatan bersenjata Iran [3]. Garda Revolusi Iran memang mengeklaim serangan secara terbuka: pada hari yang sama, mereka mengeklaim serangan drone terhadap sebuah lokasi radar AS di Bahrain, dan Komando Pusat AS mengatakan pihaknya mencegat drone-drone itu [15]. Tidak satu pun laporan tentang ground stop yang kami baca menyebut adanya klaim tanggung jawab dari Iran [9] [14] [15].\n\nPada saat Loomer mengunggah, para pejabat sudah menyatakan bahwa mereka tidak melihat tanda serangan [4] [7]. Pada pukul 16.53 waktu Timur, dua pejabat penegak hukum mengatakan kepada CNN bahwa, berdasarkan informasi awal, ini bukan serangan siber [7]. Menteri Keamanan Dalam Negeri Markwayne Mullin mengatakan kepada wartawan di Gedung Putih bahwa tidak ada indikasi serangan jahat, dan menyebutnya gangguan telekomunikasi [4].\n\nTemuan awal FAA, yang dipublikasikan pada 15 November, menunjuk ke jaringan telekomunikasinya sendiri, yang dijalankan oleh kontraktor L3Harris [1]. Jaringan itu dibanjiri data dari dua lokasi: sebuah lokasi radar di Amarillo, Texas, dan sebuah lokasi radio di El Dorado, Arkansas, tempat L3Harris memasang router baru [1] [11]. Peralatan yang lebih tua menerima sekitar 1.000 percobaan koneksi setiap empat sampai lima detik dan menjadi tidak stabil [11]. Lalu lintas data kembali stabil setelah L3Harris memutus kedua lokasi itu [11]. Duffy mengatakan pekerjaan di El Dorado mengganti kabel tembaga lama dengan serat optik [9] [11].\n\nPada 14 November, Duffy berkata: \"Itu bukan pelaku asing.\" [9] Administrator FAA Bryan Bedford mengatakan Situation Room Gedung Putih dan FBI terlibat, dan bahwa semua pihak yang terlibat menyimpulkan ini bukan masalah siber [9]. Pada 17 November, Direktur Intelijen Nasional Jay Clayton mengatakan di Fox Business bahwa ia tidak melihat tanda serangan siber terkoordinasi di balik rentetan gangguan belakangan ini, dan mengaitkannya dengan penambalan dan peningkatan sistem [13]. Dalam laporan Reuters hari itu, seorang juru bicara Gedung Putih mengatakan tidak ada bukti serangan siber di balik gangguan-gangguan tersebut [12].\n\nIran muncul dalam pembicaraan karena sebuah alasan: Amerika Serikat sedang berperang dengan Iran, dan Iran telah memperingatkan akan membalas di ruang siber [9]. Pada 18 November, Mullin menyampaikan secara tertulis kepada Kongres bahwa pemerintah Iran dan kelompok-kelompok yang didukung Teheran telah menyasar infrastruktur AS, tetapi ia tidak mengaitkan Iran dengan ground stop itu [14].\n\nPenyebab pastinya belum dipastikan: FAA dan L3Harris masih menyelidiki apakah kesalahan pemasangan, perangkat yang rusak, atau hal lain yang memicu banjir data itu [11]. Pada 15 November, Duffy mengatakan ia tidak memiliki indikasi adanya peretasan, dan bahwa FBI membantu dan akan membagikan apa pun yang ditemukannya [10].\n\nKami tidak menemukan pemeriksaan fakta dari redaksi lain atas klaim tentang Iran; pemeriksa fakta Austria Mimikama pada 14 November memastikan bahwa FAA menghentikan keberangkatan secara nasional, dan tidak menemukan bukti serangan siber [16]. PolitiFact pada 17 November memeriksa siapa yang secara politik harus disalahkan atas gangguan itu, bukan kaitannya dengan Iran [17].",
+  "niet_weten": "Kami tidak tahu siapa yang menjalankan akun Iran Military Media, dari negara mana, atau apa maksudnya dengan emoji pesawat dan tanda silang [3]. Loomer menulis tentang akun-akun Iran, dalam bentuk jamak; kami hanya menemukan satu unggahan yang ia kutip [2] [3]. Penyebab akhir penghentian penerbangan di darat belum diketahui [10] [11].",
+  "bereik": "19.468 suka dan 1.842 balasan per 19 November",
+  "nog_uitzoeken": [
+   "Siapa yang menjalankan akun Iran Military Media, dan negara mana yang ditampilkan X untuk akun tersebut.",
+   "Apakah akun-akun lain yang menyebut dirinya sebagai akun Iran mengeklaim penghentian penerbangan di darat pada hari itu, dalam bahasa Persia atau bahasa Inggris.",
+   "Apa temuan akhir investigasi FAA: kesalahan pemasangan, router yang rusak, atau hal lain, serta peran fasilitas di Amarillo.",
+   "Kami ragu antara Menyesatkan dan Salah. Unggahan emoji itu memang ada, sehingga kami memilih Menyesatkan; unggahan itu tidak mengeklaim apa pun dan tidak ada tanda bahwa Iran terlibat, yang mengarah ke Salah."
+  ],
+  "tijdlijn": [
+   "Sambungan radar dan radio pengendali lalu lintas udara AS menjadi tidak stabil, menurut Duffy [5].",
+   "Sesaat sebelum pukul 16.00 waktu Timur, FAA menghentikan semua keberangkatan dari bandara-bandara AS [6].",
+   "Iran Military Media mengunggah pesawat dan tanda silang di X [3].",
+   "Dua pejabat penegak hukum mengatakan kepada CNN bahwa, berdasarkan informasi awal, ini bukan serangan siber [7].",
+   "NPR melaporkan Mullin: tidak ada indikasi serangan jahat, ini gangguan telekomunikasi [4].",
+   "Laura Loomer mengutip unggahan emoji itu: akun-akun Iran mengisyaratkan merekalah yang bertanggung jawab [2].",
+   "FAA mencabut ground stop, pada pukul 20.15 waktu Timur tanggal 13 November [5].",
+   "Duffy: penyebabnya ada pada pekerjaan seorang kontraktor L3Harris, dan itu bukan pelaku asing [9].",
+   "Temuan awal FAA: banjir data dari dua lokasi, di Amarillo dan El Dorado [1] [11].",
+   "Direktur Intelijen Nasional Clayton tidak melihat tanda serangan siber terkoordinasi [13].",
+   "Mullin kepada Kongres: Iran menyasar infrastruktur AS, tanpa kaitan dengan ground stop [14]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 13 November 2026, pukul 23.00 UTC."
+  ],
+  "beeld_alt": [
+   "Unggahan di X oleh Laura Loomer yang menyatakan bahwa akun-akun Iran mengisyaratkan merekalah yang bertanggung jawab atas ground stop di AS, mengutip unggahan Iran Military Media berisi pesawat dan tanda silang. Stempel: MENYESATKAN."
+  ]
+ }
+}

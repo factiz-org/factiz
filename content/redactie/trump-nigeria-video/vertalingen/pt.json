@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van de eigen factcheck trump-nigeria-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "9b373c9afe9aaee1",
+ "veldafdrukken": {
+  "kop": "cab1428136e5a8b0",
+  "oordeel_zin": "4a17b6531b5534a8",
+  "bewering": "ee6edde272e09afd",
+  "kort": "6eb7de9d893ddd77",
+  "tekst": "22f65856c2c1d449",
+  "niet_weten": "3c74d243863684fe",
+  "bereik": "37dcd24dce948f4e",
+  "nog_uitzoeken": "2bfb1263e80737a8",
+  "tijdlijn": "9051453557bae0f8",
+  "beeld_bijschrift": "bfd0986cdc2c3ba6",
+  "beeld_alt": "ab4e0323c144c795"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de Trump sobre a matança de cristãos é de novembro de 2025 e não declara guerra nenhuma",
+  "oordeel_zin": "Trump disse essas palavras, mas em um vídeo sobre a Nigéria de 5 de novembro de 2025, e nele não declara guerra nenhuma [3] [4].",
+  "bewering": "🚨 URGENTE: Donald Trump declara guerra global contra o islã radical, prometendo proteger os cristãos em todo o mundo.  “A matança de cristãos NÃO vai acontecer.”",
+  "kort": "Donald Trump de fato disse \"A matança de cristãos não vai acontecer\", mas em um vídeo sobre a Nigéria que publicou em 5 de novembro de 2025 [2] [4]. Um ano depois, publicações no X apresentam o trecho como notícia de última hora de uma guerra global contra o islã radical [1] [11]. No vídeo completo, Trump não declara guerra nenhuma: ele designa a Nigéria como país de particular preocupação e diz que os Estados Unidos estão prontos para salvar cristãos em todo o mundo [3] [6].",
+  "tekst": "No sábado, 14 de novembro de 2026, às 3h00 UTC, a conta Pop Static publicou no X um vídeo de 22 segundos de Donald Trump [1]. O texto diz que Trump \"declara guerra global contra o islã radical, prometendo proteger os cristãos em todo o mundo\" e cita a frase: \"A matança de cristãos NÃO vai acontecer.\" [1]. A publicação começa com a palavra URGENTE, como se a notícia fosse nova [1]. Em 19 de novembro, tinha 23.353 curtidas e 479 respostas [1].\n\nA frase vem de um vídeo que Trump publicou no Truth Social na quarta-feira, 5 de novembro de 2025, às 22h04 UTC [2] [3]. Nove minutos depois, a Casa Branca publicou o mesmo vídeo no X; ele dura 65 segundos [4]. O Daily Trust, da Nigéria, e o The Star, do Quênia, noticiaram o caso na manhã seguinte, com a mesma citação [5] [6]. \"A matança de cristãos não vai acontecer\" é a última frase do vídeo [3] [6]. O trecho da publicação tem 22 segundos, cerca de um terço do vídeo [1] [4].\n\nNo vídeo, Trump diz que o cristianismo enfrenta uma \"ameaça existencial\" na Nigéria e culpa \"islamistas radicais\" pelas mortes [3] [5]. Ele designa a Nigéria como \"país de particular preocupação\", status previsto em uma lei americana de 1998 para países que violam a liberdade religiosa [3] [8]. Pede ao deputado Riley Moore e ao presidente da comissão, Tom Cole, que investiguem o caso e apresentem um relatório [3]. Encerra dizendo que os Estados Unidos não podem ficar de braços cruzados, que \"não é só a Nigéria\" e que o país está pronto para salvar cristãos em todo o mundo [3] [6]. Ele não declara guerra no vídeo [3].\n\nO vídeo retomava uma publicação de 31 de outubro de 2025, na qual Trump havia incluído a Nigéria nessa lista [7] [8]. Em 1º de novembro, ele ameaçou suspender toda a ajuda à Nigéria e entrar no país \"com as armas disparando\" caso a matança de cristãos continuasse, e mandou o Departamento de Guerra se preparar [8] [9]. O presidente da Nigéria, Bola Tinubu, disse que seu governo lida com problemas de segurança que atingem cidadãos de todas as religiões [9]. Em 25 de dezembro de 2025, os Estados Unidos atacaram alvos do Estado Islâmico no estado de Sokoto, no noroeste da Nigéria, o que a Nigéria classificou como parte de sua cooperação em segurança [10].\n\nNão encontramos nenhuma declaração nova de Trump em novembro de 2026 que declare guerra ao islã radical [14] [15]. Em uma audiência na Câmara dos Representantes em 12 de novembro de 2026, dois dias antes da publicação, o presidente do subcomitê da África fez um balanço da designação de 31 de outubro de 2025 e não mencionou nenhuma declaração nova [14]. Nas próprias publicações de Trump no Truth Social de 1º de outubro a 19 de novembro de 2026, não encontramos nenhuma declaração de guerra ao islã radical [15].\n\nO trecho já circulava antes. Em 15 de outubro de 2026, outra conta no X publicou um trecho do mesmo tamanho com o texto de que Trump \"declara guerra ao islã radical em todo o mundo\" [11]. O site Document repetiu essa publicação em 18 de outubro como notícia, sem data nem fonte do vídeo [12]. Em 1º de novembro, mais uma conta publicou o mesmo texto com o trecho; em 19 de novembro, essa publicação tinha 43.941 curtidas [13].",
+  "niet_weten": "Não sabemos quem foi o primeiro a cortar o trecho de 22 segundos do vídeo, nem se ele circulou antes de 15 de outubro de 2026. Trump também discursa em comícios e dá entrevistas; a conclusão de que ele não declarou tal guerra ali se baseia na ausência de qualquer registro.",
+  "bereik": "23.353 curtidas e 479 respostas em 19 de novembro; uma publicação anterior, de 1º de novembro, teve 43.941 curtidas",
+  "nog_uitzoeken": [
+   "Se o trecho de 22 segundos foi recortado do vídeo da Casa Branca no X ou da publicação do próprio Trump no Truth Social, comparando quadro a quadro.",
+   "Se o trecho já circulava como novidade antes de outubro de 2026, por exemplo depois dos ataques americanos na Nigéria em dezembro de 2025.",
+   "Quem primeiro associou o trecho a uma guerra contra o islã radical.",
+   "Pesamos Enganoso contra Falso. As palavras são do próprio Trump, mas a guerra e a data na publicação não são. Se você conhece uma declaração em que Trump tenha declarado tal guerra, avise-nos."
+  ],
+  "tijdlijn": [
+   "Trump designa a Nigéria como país de particular preocupação em uma publicação no Truth Social, às 18h09 UTC [7].",
+   "Trump ameaça suspender a ajuda à Nigéria e entrar no país \"com as armas disparando\" [8] [9].",
+   "Trump publica o vídeo no Truth Social às 22h04 UTC; ele termina com \"A matança de cristãos não vai acontecer\" [2] [3].",
+   "A Casa Branca publica o mesmo vídeo de 65 segundos no X às 22h13 UTC [4].",
+   "O Daily Trust e o The Star noticiam o vídeo, com a citação [5] [6].",
+   "Os Estados Unidos atacam alvos do Estado Islâmico no estado de Sokoto, na Nigéria [10].",
+   "Uma publicação no X apresenta o trecho como declaração de guerra ao islã radical em todo o mundo [11].",
+   "O Document repete essa publicação como notícia [12].",
+   "Outra publicação no X com o mesmo texto e o trecho [13].",
+   "Uma audiência na Câmara dos Representantes faz um balanço da designação de 31 de outubro de 2025 [14].",
+   "A publicação da Pop Static, às 3h00 UTC [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 14 de novembro de 2026, 3h00 UTC.",
+   "Donald Trump, publicado pela Casa Branca no X em 5 de novembro de 2025: o vídeo de 65 segundos sobre os cristãos na Nigéria."
+  ],
+  "beeld_alt": [
+   "A publicação da Pop Static no X: o texto sobre uma guerra global contra o islã radical e um quadro do vídeo de 22 segundos de Donald Trump. Carimbo: ENGANOSO.",
+   "O vídeo da Casa Branca de 5 de novembro de 2025, no qual Donald Trump fala sobre a matança de cristãos na Nigéria."
+  ]
+ }
+}

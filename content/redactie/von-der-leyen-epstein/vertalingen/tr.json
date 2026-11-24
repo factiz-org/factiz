@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ursula von der Leyen ile Jeffrey Epstein'ı gösteren görsel yapay zekâyla üretildi",
+  "oordeel_zin": "Görselde yapay zekâ filigranı var, Temmuz ayında Facebook'ta zaten yapay zekâ etiketiyle yer almıştı ve üzerindeki numaralar Epstein dosyalarında geçmiyor [1] [2] [11].",
+  "bewering": "Epstein dosyalarından çıkan bu fotoğraf Ursula von der Leyen'i Jeffrey Epstein ile birlikte gösteriyor.",
+  "kort": "7 Ekim'den beri X'te Hollandaca olarak, üzerinde bir dosya numarası ve bir belge numarası bulunan, Ursula von der Leyen ile Jeffrey Epstein'ı gösteren bir görsel dolaşıyor [10]. Görsel yapay zekâyla üretildi: 12 Temmuz'dan beri Facebook'ta yapay zekâ içeriği etiketiyle duruyor ve editörlükler görselde yapay zekâya ait görünmez bir filigran buldu [11] [1] [2]. Görseldeki numaralar, ABD Adalet Bakanlığı'nın yayımladığı Epstein dosyalarında geçmiyor [1] [3] [6].",
+  "tekst": "7 Ekim 2026 Çarşamba günü saat 23:21'de X'te, Avrupa Komisyonu Başkanı Ursula von der Leyen'i Jeffrey Epstein'ın yanında gösteren bir görselin yer aldığı Hollandaca bir paylaşım yayımlandı [10]. Görselin üzerinde bir dosya numarası ve bir belge numarası var; bunlar görselin Epstein dosyalarından geldiği izlenimini vermeye yarıyor [1] [4].\n\nGörsel, paylaşımdan daha eski. Editörlüklerin bulduğu en eski örnek, 12 Temmuz 2026'dan beri Facebook'ta, özel bir kişinin hesabında duruyor ve Meta'nın yapay zekâyla üretilen içeriğe koyduğu etiketi taşıyor [11] [1]. Bir gün sonra görsel, Pravda ağının Fransızca sitesinde yer aldı [1]. Bu ağ, haber kuruluşu gibi görünen Rusya yanlısı sitelerden oluşan bir ağ [9]. Ardından görsel, diğerlerinin yanı sıra İtalyanca, İspanyolca, Almanca, İngilizce, Gürcüce ve Rusça dillerinde dolaşıma girdi [1] [2] [4] [5].\n\nİtalyan Open ve İspanyol Maldita.es, görselde SynthID buldu [1] [2]. Bu, Google'ın kendi yapay zekâsıyla üretilen veya düzenlenen görsellere eklediği görünmez bir filigran [8]. Lead Stories ve TheJournal.ie de yapay zekâ filigranı bulunduğunu bildirdi [3] [4]. Open, basın arşivlerinde ve yayımlanan belgelerde ikisinin birlikte çekilmiş gerçek bir fotoğrafını bulamadı [1].\n\nŞimdi numaralara gelelim. ABD Adalet Bakanlığı, Epstein soruşturmasına ait belgeleri Epstein Library'de çevrimiçi yayımlıyor [6]. Ocak 2026'da, daha önceki yayımlamaların ardından buraya yaklaşık 3 milyon sayfa daha eklendi [7]. Open, Lead Stories ve Myth Detector'a göre görseldeki numaralar bu belgelerde geçmiyor ve bakanlık çok farklı bir numaralandırma kullanıyor [1] [3] [5].\n\nHollandaca paylaşım, bulabildiğimiz ilk doğrulamadan, yani Open'ın 15 Temmuz tarihli kontrolünden, yaklaşık üç ay sonra ve Lead Stories'inkinden beş hafta sonra geldi [1] [3] [10]. Hollandaca bir doğrulama bulamadık.",
+  "niet_weten": "Görüntüyü kimin yaptığını bilmiyoruz. Lead Stories ve TheJournal.ie, OpenAI'ye ait bir programın SynthID filigranını bulduğunu yazıyor [3] [4]. SynthID Google'a aittir [8]; OpenAI'ye ait bir programın bunu neden bildirdiğini bilmiyoruz. Bu, hükmü değiştirmiyor: Open ve Maldita.es filigranı Google'ın programlarıyla buldu [1] [2].",
+  "nog_uitzoeken": [
+   "Gönderinin görüntünün hangi sürümünü gösterdiği, siyah beyaz mı yoksa renkli mi olduğu ve yanında hangi metnin yer aldığı. Gönderi kaldırılmış."
+  ],
+  "tijdlijn": [
+   "Adalet Bakanlığı, Epstein ile ilgili yaklaşık 3 milyon sayfayı çevrimiçi yayımlıyor [7].",
+   "Görsel Facebook'ta, Meta'nın yapay zekâ içeriği etiketiyle yer alıyor [11] [1].",
+   "Görsel Pravda ağının Fransızca sitesinde yer alıyor [1].",
+   "Open: görsel yapay zekâyla üretildi [1].",
+   "Maldita.es: yanlış, Google filigranıyla [2].",
+   "Lead Stories: yapay zekâyla üretildi, numaralar dosyalarda yok [3].",
+   "TheJournal.ie: yapay zekâyla üretildi, Facebook'ta bin kereden fazla paylaşıldı [4].",
+   "X'te Hollandaca paylaşım [10].",
+   "Myth Detector: görsel Gürcüce ve Rusça dillerinde dolaşıyor [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

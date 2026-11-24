@@ -1,0 +1,34 @@
+{
+ "taak": "32.66-es",
+ "toelichting": "De lat van B68 in het Spaans, zoals het product (PLAN #32.66, stap 2; PO 2026-11-10: \"Ja, werk uit\", daarna \"alleen bouwen\": vastgelegd vóór de eerste vraag, nog niet draaien). De sets komen uit `python -m doublecheck.latset ... --taal es` en staan in `data/talen/lat/es/set.jsonl`. B-es: 100 bekende nepbeelden van Maldita en Newtral, 50 uit 2019–2020 (de virale beelden van de beeldoogst) en 50 uit 2025–2026 (een kleine oogst met rol-v3), elk met een doorgestuurde tekst van Haiku (doorsturen-v1, door mij gelezen), zonder stempel van de redactie; het beeld bij het meten opgehaald, alleen in het geheugen, met de Wayback Machine als reserve. O-es: 100 verse nepteksten van Maldita, Newtral en EFE Verifica uit 1 oktober tot 10 november 2026, als op de eerste dag. WM-es: 100 echte koppen van de week ervoor uit negen Spaanse media (RTVE valt af: de feeds staan stil in 2022). W-es: 50 nieuwe artikelen van Wikinews. C-es: 96 ware berichten die een ontkrachting herhalen (koppen van Maldita in de vorm \"No, ...\" en de 17 conclusies van §256), door mij gelezen; zonder eigen_urls, want een rood dat het artikel van de redactie noemt is bij een ware zin een vals alarm. Eén arm, de lezer uit config (lezer-v18); daarna de foto bij de bron (`meting ... foto --foto fotobron-v2`) op de bewaarde antwoorden, en de eisen met de regel (`tellen --foto fotobron-v2`), zoals het product. De wachttijd: 10 uit O-es door `meting ... wachttijd`, en 10 uit B-es met het beeld door het echte POST /check, zoals de proef met de Vogue-cover. Eerst `draaien --proef 2`; Brave hoogstens 2.000 zoekvragen; grens $17.",
+ "toelichting_labels": "Elk rood en oranje bij B-es en O-es zonder de eigen check als bron (bewijst of niet); elk groen bij B-es en O-es (vals of set fout); elk rood en oranje bij WM-es, W-es en C-es (vals of terecht); elke niet bevestigd bij WM-es en W-es.",
+ "map": "data/meting/32.66-es",
+ "labels": "docs/steekproeven/32.66-es.json",
+ "budget": 17.0,
+ "zoekvragen_max": 2000,
+ "zaad": 3266,
+ "sets": {
+  "B-es": {"bron": "data/talen/lat/es/set.jsonl", "set": "B", "beeld": true},
+  "O-es": {"bron": "data/talen/lat/es/set.jsonl", "set": "O", "eerste_dag": true},
+  "WM-es": {"bron": "data/talen/lat/es/set.jsonl", "set": "W-merk"},
+  "W-es": {"bron": "data/talen/lat/es/set.jsonl", "set": "W"},
+  "C-es": {"bron": "data/talen/lat/es/set.jsonl", "set": "C"}
+ },
+ "armen": {"C": {"lezer": "lezer-v18", "speurvraag_model": "claude-haiku-5-5"}},
+ "onwaar": ["B-es", "O-es"],
+ "waar": ["WM-es", "W-es", "C-es"],
+ "wachttijd": {"arm": "C", "sets": ["O-es"], "n": 10, "eis_p50": 15},
+ "eisen": [
+  {"naam": "1. B-es: rood of oranje met bewijs bij minstens 80 van de 100 (B68)",
+   "tel": {"arm": "C", "sets": ["B-es"], "kleuren": ["rood", "oranje"], "labels": ["bewijst"]}, "op": ">=", "waarde": 80},
+  {"naam": "2a. B-es: hoogstens 1 onterecht groen (B68: 1%)",
+   "tel": {"arm": "C", "sets": ["B-es"], "kleuren": ["groen"], "labels": ["vals"]}, "op": "<=", "waarde": 1},
+  {"naam": "2b. O-es: hoogstens 1 onterecht groen (B68: 1%)",
+   "tel": {"arm": "C", "sets": ["O-es"], "kleuren": ["groen"], "labels": ["vals"]}, "op": "<=", "waarde": 1},
+  {"naam": "3. WM-es, W-es en C-es: hoogstens 2 vals alarm van de 246 (B68: 1%)",
+   "tel": {"arm": "C", "sets": ["WM-es", "W-es", "C-es"], "kleuren": ["rood", "oranje"], "labels": ["vals"]}, "op": "<=", "waarde": 2},
+  {"naam": "4. O-es: met bewijs of niet bevestigd bij minstens 60 van de 100 (B68)",
+   "tel": [{"arm": "C", "sets": ["O-es"], "kleuren": ["rood", "oranje"], "labels": ["bewijst"]},
+           {"arm": "C", "sets": ["O-es"], "uitkomsten": ["niet bevestigd"]}], "op": ">=", "waarde": 60}
+ ]
+}

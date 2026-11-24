@@ -1,0 +1,464 @@
+{
+ "toelichting": "PLAN #34.2bw, maatregel 2: mijn lezing van elke ja en twijfel van Haiku (privepersoon-v1) en van een vaste greep van 100 nee, op 500 beweringen van uitgave 2026-11-22 (zaad 2214). prive = een privépersoon bij naam; publiek = alleen publieke personen; geen = geen echt persoon; twijfel = niet te zeggen. In de 100 nee vond ik geen privépersoon. Herkomst: de beweringen komen uit de publicatiedatabase van Factiz (openbare factchecks met hun eigen licentie, zie de bronnen); de labels zijn van Claude.",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-22",
+ "labels": {
+  "0086ec6f1d5da27d": {
+   "label": "publiek",
+   "naam": "নৰেন্দ্ৰনাথ দত্ত",
+   "notitie": "Narendranath Datta, de geboortenaam van Swami Vivekananda: historisch"
+  },
+  "00be615982b02b2b": {
+   "label": "publiek",
+   "naam": "Percy Lapid",
+   "notitie": "Percy Lapid, Filipijnse radiojournalist"
+  },
+  "06521c215ee9f4a5": {
+   "label": "publiek",
+   "naam": "রিঙ্কু বর্মা",
+   "notitie": "Rinku Barma, genoemd als BJP-leider: een politieke rol"
+  },
+  "0f31a59755fcf73e": {
+   "label": "publiek",
+   "naam": "Vera",
+   "notitie": "Vera (Magalhães), presentatrice van het debat"
+  },
+  "12df069715191733": {
+   "label": "publiek",
+   "naam": "Kris Aquino",
+   "notitie": "Kris Aquino, Filipijnse presentatrice en actrice"
+  },
+  "1a77e50204fef44a": {
+   "label": "publiek",
+   "naam": "Cait Corrain",
+   "notitie": "Cait Corrain, uitgegeven schrijfster, beschuldiging over haar werk als schrijfster, breed in het nieuws"
+  },
+  "21a92ba67194e9e4": {
+   "label": "prive",
+   "naam": "Jamna Kumari",
+   "notitie": "een meisje van 12 bij naam, slachtoffer van verkrachting",
+   "gevoelig": "misdaad",
+   "minderjarig": true
+  },
+  "2794155d4dde42f7": {
+   "label": "publiek",
+   "naam": "मनीष कश्यप",
+   "notitie": "Manish Kashyap, youtuber en politicus in Bihar"
+  },
+  "3b443ae8d98149a7": {
+   "label": "geen",
+   "naam": "మార్గ్ రేట్",
+   "notitie": "Margaret Hello, een verzonnen persoon uit de hoax over 'hello'"
+  },
+  "3eee546544403033": {
+   "label": "publiek",
+   "naam": "Sérgio Cabral",
+   "notitie": "Sérgio Cabral, oud-gouverneur van Rio de Janeiro"
+  },
+  "409e98162d9dced3": {
+   "label": "publiek",
+   "naam": "మసూద్ అజర్",
+   "notitie": "Masood Azhar, leider van Jaish-e-Mohammed"
+  },
+  "44980ebc40cc0488": {
+   "label": "publiek",
+   "naam": "Ranil",
+   "notitie": "Ranil Wickremesinghe"
+  },
+  "5045fa0490de1cc4": {
+   "label": "twijfel",
+   "naam": "Francisco Rojas",
+   "notitie": "Francisco Rojas, een naam in een nep-mail van de Guardia Civil; niet te zeggen of er een echt persoon achter zit"
+  },
+  "52f2140f9f0e4de3": {
+   "label": "prive",
+   "naam": "Sandhya Marawi",
+   "notitie": "Sandhya Marawi, kruier op het station van Katni, een positief viraal verhaal",
+   "gevoelig": "geen",
+   "minderjarig": false
+  },
+  "5b0c84ff4f6e3f17": {
+   "label": "publiek",
+   "naam": "యూనస్ ఖాన్",
+   "notitie": "Yunus Khan, historisch, uit de kring van de familie Nehru"
+  },
+  "5de5c56d6789bc5d": {
+   "label": "publiek",
+   "naam": "Aga Muhlach",
+   "notitie": "Aga Muhlach, Filipijnse acteur"
+  },
+  "6172d2d4c32b95f8": {
+   "label": "publiek",
+   "naam": "George Floyd",
+   "notitie": "George Floyd, wereldwijd bekend door zijn dood"
+  },
+  "6fcdcbc560c43c16": {
+   "label": "prive",
+   "naam": "SanghiPrince",
+   "notitie": "SanghiPrince, het account van een privépersoon, gearresteerd voor haatzaaien",
+   "gevoelig": "misdaad",
+   "minderjarig": false
+  },
+  "7a4c16c901ba2c7e": {
+   "label": "publiek",
+   "naam": "フィービー・アデル・ゲイツ",
+   "notitie": "Phoebe Gates, dochter van Bill Gates met een eigen publiek werk"
+  },
+  "8838dc2b3852dbd6": {
+   "label": "publiek",
+   "naam": "Joey Merlino",
+   "notitie": "Joey Merlino, bekende maffiabaas"
+  },
+  "8b0e946fbb97b06c": {
+   "label": "prive",
+   "naam": "Krishna Poojari",
+   "notitie": "Krishna Poojari, genoemd als held van een treinongeluk",
+   "gevoelig": "geen",
+   "minderjarig": false
+  },
+  "91597ceb7cca09fb": {
+   "label": "publiek",
+   "naam": "Joaquín Archivaldo Guzmán Loera",
+   "notitie": "El Chapo"
+  },
+  "9455e80ea6480695": {
+   "label": "publiek",
+   "naam": "মমতাজ",
+   "notitie": "Momtaz, zangeres en parlementslid in Bangladesh"
+  },
+  "96c378181070d4bf": {
+   "label": "prive",
+   "naam": "Mohammad Israr",
+   "notitie": "Mohammad Israr, verdachte van een poging tot verkrachting",
+   "gevoelig": "misdaad",
+   "minderjarig": false
+  },
+  "c3669ad0268f6bfb": {
+   "label": "publiek",
+   "naam": "ताहिर हुसैन",
+   "notitie": "Tahir Hussain, gemeenteraadslid van de AAP; het slachtoffer heeft geen naam"
+  },
+  "c9b75bf2e3c48f3e": {
+   "label": "publiek",
+   "naam": "සැමුවෙල් රැෂිශ්කි",
+   "notitie": "Samuel Reshevsky, schaakwonderkind en later grootmeester, historisch"
+  },
+  "e3604c1a54c02c33": {
+   "label": "prive",
+   "naam": "Dr. Vandana Tiwari",
+   "notitie": "Dr. Vandana Tiwari, arts, genoemd als gestorven na een aanval",
+   "gevoelig": "dood",
+   "minderjarig": false
+  },
+  "eec975c262bcc311": {
+   "label": "twijfel",
+   "naam": "Sarneyzinho do Maranhão",
+   "notitie": "Sarneyzinho do Maranhão, een bijnaam; niet te zeggen of het een publiek persoon is"
+  },
+  "fc2c4d13e24f52e9": {
+   "label": "publiek",
+   "naam": "Mohan C Lazarus",
+   "notitie": "Mohan C. Lazarus, bekende evangelist"
+  },
+  "fb805f3a92db4360": {
+   "label": "geen"
+  },
+  "528db4ad45d78b57": {
+   "label": "geen"
+  },
+  "caac2a6b52ba6f06": {
+   "label": "geen"
+  },
+  "8b06c4122affd02d": {
+   "label": "geen"
+  },
+  "e79056310c9921dd": {
+   "label": "geen"
+  },
+  "1ee079ecc9dd0f70": {
+   "label": "geen"
+  },
+  "83c25857f43e380e": {
+   "label": "geen"
+  },
+  "27dd4494376cf207": {
+   "label": "geen"
+  },
+  "2d2e004c4cfb2a8e": {
+   "label": "geen"
+  },
+  "e3cfb7ef3e6e6401": {
+   "label": "geen"
+  },
+  "4bf7a882c265af27": {
+   "label": "geen"
+  },
+  "7e9c71a28a351863": {
+   "label": "geen"
+  },
+  "c93c4ca11397154d": {
+   "label": "geen"
+  },
+  "2340376fe2b8e509": {
+   "label": "geen"
+  },
+  "cef4be30dcde94ae": {
+   "label": "geen"
+  },
+  "6c0cecc58d90db72": {
+   "label": "geen"
+  },
+  "50ac59f7d65ebe5e": {
+   "label": "geen"
+  },
+  "34e115bef9e08872": {
+   "label": "geen"
+  },
+  "a9ce1bfed50ecb36": {
+   "label": "geen"
+  },
+  "ad5a6e7004c74729": {
+   "label": "geen"
+  },
+  "1c03e5b1f158d75f": {
+   "label": "geen"
+  },
+  "c4cea91e2b3510c6": {
+   "label": "geen"
+  },
+  "af21a561738783d6": {
+   "label": "geen"
+  },
+  "ca1f5ab2b6badfd7": {
+   "label": "geen"
+  },
+  "e248d567c45165c2": {
+   "label": "geen"
+  },
+  "ca6d79fc876644e5": {
+   "label": "geen"
+  },
+  "e43b92953e21b38e": {
+   "label": "geen"
+  },
+  "0d670d3fd385c745": {
+   "label": "geen"
+  },
+  "0b81c63a21f744b4": {
+   "label": "geen"
+  },
+  "aadb6d8ce5c83d81": {
+   "label": "geen"
+  },
+  "625ac5524741205b": {
+   "label": "geen"
+  },
+  "a70f29824cb718c2": {
+   "label": "geen"
+  },
+  "28907f1b5984ae43": {
+   "label": "geen"
+  },
+  "59557b2f2b6c5ac9": {
+   "label": "geen"
+  },
+  "b956459ab8d7586e": {
+   "label": "geen"
+  },
+  "5475980ee968433b": {
+   "label": "geen"
+  },
+  "78d7cb7fbc162992": {
+   "label": "geen"
+  },
+  "01d2befd0bf80720": {
+   "label": "geen"
+  },
+  "f42bad0de5bf9c76": {
+   "label": "geen"
+  },
+  "ce0aa2bd618529c7": {
+   "label": "geen"
+  },
+  "40bcb4ce52d3361f": {
+   "label": "geen"
+  },
+  "b0da7d79b4c3e021": {
+   "label": "geen"
+  },
+  "fc6db208d78effd0": {
+   "label": "geen"
+  },
+  "b884ed1ad01957b5": {
+   "label": "geen"
+  },
+  "fb0135abb936073a": {
+   "label": "geen"
+  },
+  "42fc8c843197537c": {
+   "label": "geen"
+  },
+  "e7caf517403c93a6": {
+   "label": "geen"
+  },
+  "2e9076e99fd83993": {
+   "label": "geen"
+  },
+  "80ecce495cedfba1": {
+   "label": "geen"
+  },
+  "547811e7e2ccfd2c": {
+   "label": "geen"
+  },
+  "4f89fe31683927fe": {
+   "label": "geen"
+  },
+  "a6006af39363540d": {
+   "label": "geen"
+  },
+  "fca401ae83352297": {
+   "label": "geen"
+  },
+  "46e53836566a94ed": {
+   "label": "geen"
+  },
+  "d463512fcc7fe2e7": {
+   "label": "geen"
+  },
+  "9d1fa36dd7a396e6": {
+   "label": "geen"
+  },
+  "5e4e3ab899206582": {
+   "label": "geen"
+  },
+  "dbcdf232f745cd60": {
+   "label": "geen"
+  },
+  "98907ba7d6b70334": {
+   "label": "geen"
+  },
+  "ffcc0eda0a1ea330": {
+   "label": "geen"
+  },
+  "b9e8aac2e534395f": {
+   "label": "geen"
+  },
+  "b4f6ef1b66c64bb6": {
+   "label": "geen"
+  },
+  "e1fecb65cbe16817": {
+   "label": "geen"
+  },
+  "affb16292b0385d9": {
+   "label": "geen"
+  },
+  "264f30b57c57e42d": {
+   "label": "geen"
+  },
+  "88790764f8b163e6": {
+   "label": "geen"
+  },
+  "819ba299617d8248": {
+   "label": "geen"
+  },
+  "011e2d3a6cadc5d2": {
+   "label": "geen"
+  },
+  "a28e8db3a3c5804b": {
+   "label": "geen"
+  },
+  "2dd5d78dbe7820d4": {
+   "label": "geen"
+  },
+  "5bafeee90b8cb294": {
+   "label": "geen"
+  },
+  "eb653b8f888cec44": {
+   "label": "geen"
+  },
+  "59d6e551c491cdc2": {
+   "label": "geen"
+  },
+  "da10b7c40a83e3e5": {
+   "label": "geen"
+  },
+  "6695c4bec31e8e1f": {
+   "label": "geen"
+  },
+  "68badcb5d157e3ba": {
+   "label": "geen"
+  },
+  "6b78449a50b4c151": {
+   "label": "geen"
+  },
+  "6bcf73cff81cb884": {
+   "label": "geen"
+  },
+  "2b996a17e11d7154": {
+   "label": "geen"
+  },
+  "6250c79ad06841d6": {
+   "label": "geen"
+  },
+  "fec073edd8a382f8": {
+   "label": "geen"
+  },
+  "a82d3d4b857b6f66": {
+   "label": "geen"
+  },
+  "b50812cea7a5aecc": {
+   "label": "geen"
+  },
+  "d131690535868ce9": {
+   "label": "geen"
+  },
+  "05084a7bfee9c415": {
+   "label": "geen"
+  },
+  "7536bdb934339001": {
+   "label": "geen"
+  },
+  "a45338e0c3e74272": {
+   "label": "geen"
+  },
+  "1e5c4ed5a4c27367": {
+   "label": "geen"
+  },
+  "70990ec474cc0a59": {
+   "label": "geen"
+  },
+  "245dbf6ac4f22d01": {
+   "label": "geen"
+  },
+  "29ed8f5147784ee1": {
+   "label": "geen"
+  },
+  "2aa2d7f47a97e1d2": {
+   "label": "geen"
+  },
+  "e8a73046fee4371a": {
+   "label": "geen"
+  },
+  "506b1eeb28dd1c02": {
+   "label": "geen"
+  },
+  "897b745612aaf728": {
+   "label": "geen"
+  },
+  "b083d019745c212e": {
+   "label": "geen"
+  },
+  "59af0803ec64a785": {
+   "label": "geen"
+  },
+  "d03a363cc8c38aea": {
+   "label": "geen"
+  },
+  "b002f410a57c6c99": {
+   "label": "geen"
+  },
+  "805efcd9852eca54": {
+   "label": "geen"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Mullin dijo que Trump declaró una emergencia nacional por la parada en tierra, pero no existe ninguna declaración",
+  "oordeel_zin": "El secretario de Seguridad Nacional, Markwayne Mullin, lo dijo en la Casa Blanca, pero no aparece ninguna declaración en el Registro Federal ni entre las acciones del presidente, y lo dijo mientras pedía dinero al Congreso [2] [4] [5].",
+  "bewering": "🚨 DIOS MÍO: El presidente Trump ha DECLARADO UNA EMERGENCIA NACIONAL por el sistema roto de control del tráfico aéreo de Estados Unidos.  Un periodista preguntó si fue un ciberataque o una IA fuera de control. El secretario de Seguridad Nacional, Markwayne Mullin, dice que hasta ahora no hay NINGUNA EVIDENCIA de un ciberataque.",
+  "kort": "No existe ninguna declaración de emergencia nacional por la parada en tierra en EE. UU., aunque el secretario de Seguridad Nacional, Markwayne Mullin, dijo que el presidente Trump había hecho una [2] [11]. Un fragmento de su rueda de prensa circuló en X como noticia de esa declaración [1]. Ninguna proclamación u orden aparece en el Registro Federal, donde la ley dice que debe publicarse, y Mullin lo dijo mientras pedía dinero al Congreso [2] [4] [6].",
+  "tekst": "El 13 de noviembre, hacia las 15:30 hora del Este (20:30 UTC), la Administración Federal de Aviación (FAA) detuvo todas las salidas desde los aeropuertos de EE. UU., una parada en tierra [8]. Una avalancha de datos en su red de telecomunicaciones había vuelto inestables los equipos más antiguos, y la FAA dice que no tiene indicios de un ciberataque [8].\n\nEsa tarde Mullin y el secretario de Transporte, Sean Duffy, informaron a los periodistas en la Casa Blanca [9]. Mullin calificó el viejo sistema de control del tráfico aéreo de riesgo para la seguridad nacional y dijo: \"The President has declared this a national emergency, and now we have to have Congress act and fund it.\" [2] Su departamento publicó la frase, y The National News Desk la difundió esa noche [2] [11].\n\nA las 01:54 UTC del 14 de noviembre, la cuenta Gunther Eagleman publicó un fragmento de la rueda de prensa con el texto de que Trump había declarado una emergencia nacional [1]. Una publicación posterior calificó la parada en tierra de operación militar bajo una emergencia nacional, y Mike Flynn, exasesor de seguridad nacional, escribió sobre informes de que unidades militares estaban en alerta, pero no encontramos ningún informe de ese tipo [13] [14].\n\nSegún la Ley de Emergencias Nacionales, el presidente declara una emergencia nacional mediante una proclamación que se envía al Congreso y se publica en el Registro Federal [6]. Trump declaró una sobre la red eléctrica en agosto, en la Orden Ejecutiva 14421 [7]. Para la parada en tierra no encontramos ninguna: el Registro Federal ha publicado tres documentos presidenciales desde el 13 de noviembre, ninguno sobre el tráfico aéreo ni sobre una emergencia, y la Casa Blanca no enumera ninguna acción de ese tipo [4] [5].\n\nEl propio Trump no dijo nada en público hasta el 15 de noviembre, cuando pidió al Congreso el \"desperately needed money for Air Traffic Control\" [10]. El resumen que hizo la Casa Blanca de la rueda de prensa pone puntos suspensivos donde estaba la frase de Mullin, y cita a Duffy: \"This is an emergency. I want Congress to give us emergency funding.\" [3] [11]",
+  "niet_weten": "No sabemos si Trump calificó la interrupción de emergencia nacional en privado, ni si Mullin se refería a la petición de fondos de emergencia [2] [3], ni por qué la Casa Blanca omitió su frase [3].",
+  "bereik": "14.713 «me gusta» y 877 respuestas el 22 de noviembre; otras cinco publicaciones con la misma afirmación sumaban 23.107 «me gusta»",
+  "nog_uitzoeken": [
+   "En qué basó Mullin sus palabras, y si el DHS o la Casa Blanca las han corregido.",
+   "Si aún llegará una declaración sobre el control del tráfico aéreo; hemos buscado hasta el 22 de noviembre.",
+   "Dudamos entre Engañoso y Falso. Mullin sí dijo esas palabras, lo que nos hizo elegir Engañoso; no existe ninguna declaración, lo que apunta a Falso."
+  ],
+  "tijdlijn": [
+   "Hacia las 15:30 hora del Este la FAA tiene un problema técnico y detiene todas las salidas en todo el país [8].",
+   "Se reanudan los vuelos, a las 20:15 hora del Este del 13 de noviembre [8].",
+   "Después de las 20:15 hora del Este del 13 de noviembre, Mullin y Duffy informan a los periodistas en la Casa Blanca; Mullin dice que el presidente ha declarado una emergencia nacional [2] [9] [11].",
+   "Gunther Eagleman publica un fragmento de la rueda de prensa: Trump ha declarado una emergencia nacional [1].",
+   "Otra cuenta escribe que Trump ha declarado una emergencia nacional y pide a Grok que lo verifique [12].",
+   "La primera publicación de Trump sobre la parada en tierra, en Truth Social, pide dinero al Congreso para el control del tráfico aéreo [10].",
+   "Trump culpa a equipos muy antiguos y dice que no asume ninguna responsabilidad [9].",
+   "Ninguna declaración sobre la parada en tierra en el Registro Federal ni entre las acciones presidenciales de la Casa Blanca [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 14 de noviembre de 2026, 1:54 UTC.",
+   "La rueda de prensa completa de Markwayne Mullin y Sean Duffy, publicada por la Casa Blanca, 13 de noviembre de 2026."
+  ],
+  "beeld_alt": [
+   "Una publicación en X de Gunther Eagleman que dice que el presidente Trump ha declarado una emergencia nacional por el sistema de control del tráfico aéreo, con una captura de Fox News en la que aparecen Sean Duffy y Markwayne Mullin en la rueda de prensa de la Casa Blanca. Sello: ENGAÑOSO.",
+   "El vídeo de la Casa Blanca de la rueda de prensa sobre la parada en tierra de la FAA, con el secretario de Transporte Sean Duffy y el secretario de Seguridad Nacional Markwayne Mullin."
+  ]
+ }
+}

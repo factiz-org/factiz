@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Não há confirmação de que a Rússia tenha exigido em Abu Dhabi que a Finlândia saia da OTAN",
+  "oordeel_zin": "A alegação vem de uma reportagem do Bild com fontes não identificadas, que o Kremlin nega, e o presidente e o ministro da Defesa da Finlândia dizem não ter conhecimento de tal exigência [7] [8] [10] [17].",
+  "bewering": "URGENTE: A Rússia expressou parte de suas condições para ENCERRAR a guerra na Ucrânia:  - Finlândia fora da OTAN.  - Nenhuma base da OTAN nos países bálticos.  - Todo o Donbas entregue à Rússia.  Em troca, a Rússia RETIRARIA suas armas nucleares da Bielorrússia.",
+  "kort": "Em 13 de novembro, publicações no X apresentaram como fato que a Rússia havia exigido, nas negociações de paz em Abu Dhabi, que a Finlândia saísse da OTAN [2] [4] [5]. A alegação vem de uma reportagem publicada naquela manhã pelo jornal alemão Bild, que não nomeou suas fontes e disse não se saber se o presidente Putin apoiava a proposta [1] [7]. O Kremlin nega, e o presidente da Finlândia diz que nunca ouviu tal exigência de um russo [8] [17] [18].",
+  "tekst": "Na manhã de 13 de novembro, o Bild informou que a Rússia queria a Finlândia fora da OTAN, nenhuma base da OTAN na Estônia, na Letônia e na Lituânia, e toda a região do Donbas, e que em troca retiraria suas armas nucleares da Bielorrússia [1] [6] [7]. Segundo a Yle, a emissora pública da Finlândia, o Bild disse que a proposta veio do círculo próximo de Putin e foi apresentada de modo não oficial a representantes europeus em Abu Dhabi [6]. Em seu canal em russo, o Bild a chamou de uma entre várias propostas de grupos concorrentes de intermediários [1].\n\nÀs 11h03 UTC, uma conta chamada Bedouin Report publicou as supostas condições da Rússia sob a palavra URGENTE, sem indicar fonte [2]. Naquele momento, o Kremlin já havia negado [8]. Às 10h48 UTC, a agência de notícias azerbaijana APA citou o porta-voz Dmitry Peskov dizendo que nenhuma exigência desse tipo foi feita [8] [9].\n\nO ministro da Defesa da Finlândia, Antti Häkkänen, disse em 13 de novembro que não tinha informações sobre se a exigência foi feita [10]. Em 17 de novembro, o presidente Alexander Stubb disse que não era uma alegação a ser levada a sério de nenhuma forma e que não a ouviu de nenhum russo, segundo o jornal Ilta-Sanomat [17] [18].\n\nO veículo em russo Echo, também citando fontes não identificadas, escreveu que um dos grupos de negociação entregou aos europeus uma lista que incluía a Finlândia retornar ao seu status anterior à OTAN [12]. O New York Times obteve um documento russo datado de 10 de novembro que pede que a OTAN recue suas tropas e bases para onde estavam em 1997, mas a reportagem não menciona a Finlândia [13] [14].\n\nA Finlândia aderiu à OTAN em abril de 2023, e, nos termos do Tratado do Atlântico Norte, apenas o próprio membro pode notificar sua saída [9] [16].",
+  "niet_weten": "Não sabemos quem são as fontes do Bild, nem se alguém em Abu Dhabi apresentou tal exigência aos europeus [6] [7]. A reportagem completa do Bild é para assinantes; o início dela diz que a proposta veio de conversas não oficiais e do círculo de Putin [19], e o restante conhecemos pelo canal em russo do Bild e por outros veículos [1] [6] [7]. O Kremlin é parte nas negociações, de modo que sua negativa não resolve a questão [8].",
+  "bereik": "1.580 curtidas na publicação mostrada e 4.987 na publicação mais curtida que lemos, em 23 de novembro",
+  "nog_uitzoeken": [
+   "Quem são as fontes do Bild, e se algum governo europeu que esteve em Abu Dhabi confirma ou nega ter recebido tal lista.",
+   "Se o documento russo completo obtido pelo The New York Times diz algo sobre a Finlândia. A reportagem sobre ele não diz.",
+   "Hesitamos entre Não comprovado e Enganoso. As publicações transformam um relato com fontes não identificadas, que o Kremlin nega, em fato, o que aponta para Enganoso; não se sabe se a exigência foi feita, o que nos levou a escolher Não comprovado."
+  ],
+  "tijdlijn": [
+   "Começam em Abu Dhabi as conversas entre Rússia, Ucrânia e Estados Unidos [15].",
+   "As conversas terminam. Reino Unido, França, Alemanha e Itália estavam presentes, mas não negociaram diretamente com os russos [10] [15].",
+   "O Bild informa que a Rússia quer a Finlândia fora da OTAN, sem nomear suas fontes [1] [6] [7].",
+   "A APA divulga a negativa de Peskov: nenhuma exigência desse tipo foi feita [8].",
+   "O Bedouin Report publica as supostas condições da Rússia como notícia URGENTE, sem fonte [2].",
+   "O Visegrád 24 publica a alegação e cita o Bild [3].",
+   "Häkkänen no Parlamento: sem informações de que a exigência tenha sido feita [10].",
+   "O primeiro-ministro Orpo: perguntas desse tipo não pertencem à mesa de negociação [11].",
+   "O New York Times informa sobre um documento russo que pede que a OTAN volte às posições de 1997; a reportagem não menciona a Finlândia [14].",
+   "Stubb em Berlim: não é uma alegação a ser levada a sério, e ele nunca a ouviu de um russo [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 13 de novembro de 2026, 11h03 UTC."
+  ],
+  "beeld_alt": [
+   "Uma publicação no X da conta Bedouin Report sob a palavra URGENTE, listando o que ela chama de condições da Rússia para encerrar a guerra na Ucrânia, começando por Finlândia fora da OTAN. Carimbo: NÃO COMPROVADO."
+  ]
+ }
+}

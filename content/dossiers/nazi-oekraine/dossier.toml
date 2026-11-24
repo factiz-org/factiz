@@ -1,0 +1,292 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-15, PO: "Alle dossiers zijn akkoord, behalve: Beelden van een aardbeving bij de verkeerde ramp"'
+thema = "war"
+onderdeel = "ukraine"
+verwant = ["navo-uitbreiding", "biolabs-oekraine"]
+
+[naam]
+nl = "Het verhaal over nazi’s in Oekraïne"
+en = "The story of Nazis in Ukraine"
+de = "Die Erzählung über Nazis in der Ukraine"
+es = "El relato sobre los nazis en Ucrania"
+fr = "Le récit des nazis en Ukraine"
+pt = "A história dos nazistas na Ucrânia"
+ru = "История о нацистах на Украине"
+uk = "Історія про нацистів в Україні"
+id = "Kisah tentang Nazi di Ukraina"
+tr = "Ukrayna'daki Nazilere dair anlatı"
+zh = "烏克蘭納粹說法的來龍去脈"
+ja = "ウクライナのナチス言説"
+hi = "यूक्रेन में नाज़ियों की कहानी"
+ar = "قصة النازيين في أوكرانيا"
+fa = "داستان نازی‌ها در اوکراین"
+
+[inleiding]
+nl = """
+Eén verhaal over Oekraïne komt sinds 2014 steeds terug: dat het land door nazi’s wordt bestuurd, dat zijn leger of regering het nazisme eert, en dat Rusland het land daarom moet ‘denazificeren’. De vorm wisselt: een symbool, een foto van soldaten, een standbeeld, een citaat, een les op school. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+One story about Ukraine has kept coming back since 2014: that the country is run by Nazis, that its army or government honours Nazism, and that Russia must therefore ‘denazify’ it. The form changes: a symbol, a photo of soldiers, a statue, a quote, a school lesson. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung über die Ukraine kehrt seit 2014 immer wieder: Das Land werde von Nazis regiert, seine Armee oder Regierung ehre den Nationalsozialismus, und Russland müsse es deshalb ‚entnazifizieren‘. Die Form wechselt: ein Symbol, ein Foto von Soldaten, ein Denkmal, ein Zitat, eine Schulstunde. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato sobre Ucrania vuelve desde 2014: que el país está gobernado por nazis, que su ejército o su gobierno honran el nazismo y que por eso Rusia debe ‘desnazificarlo’. La forma cambia: un símbolo, una foto de soldados, una estatua, una cita, una clase en la escuela. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Un récit sur l’Ukraine revient depuis 2014 : le pays serait dirigé par des nazis, son armée ou son gouvernement honoreraient le nazisme, et la Russie devrait donc le « dénazifier ». La forme change : un symbole, une photo de soldats, une statue, une citation, un cours à l’école. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Desde 2014, uma história sobre a Ucrânia não para de voltar: a de que o país é governado por nazistas, que seu exército ou seu governo homenageia o nazismo e que, por isso, a Rússia precisa "desnazificá-lo". A forma muda: um símbolo, uma foto de soldados, uma estátua, uma citação, uma aula na escola. Este dossiê coloca em uma linha do tempo as versões que as agências checaram. Cada checagem diz o que aquela agência encontrou; o Factiz não acrescenta nenhuma classificação própria. A lista traz apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+С 2014 года одна история об Украине возвращается снова и снова: будто страной управляют нацисты, будто её армия или власти чтят нацизм и будто поэтому Россия должна её «денацифицировать». Форма меняется: символ, фотография военных, памятник, цитата, школьный урок. В этом досье на временной шкале собраны версии, которые проверили редакции. Каждый фактчек говорит о том, что нашла эта редакция; своего вердикта Factiz не добавляет. В списке только те фактчеки, которые мы вправе republish, поэтому он неполный.'''
+uk = '''
+З 2014 року одна історія про Україну повертається знову і знову: що країною керують нацисти, що її армія чи влада шанує нацизм і що тому Росія мусить її «денацифікувати». Форма змінюється: символ, фото військових, пам'ятник, цитата, шкільний урок. У цьому досьє на часовій шкалі зібрано версії, які перевіряли редакції. Кожен фактчек показує, що знайшла ця редакція; власного вердикту Factiz не додає. У списку лише ті фактчеки, які ми маємо право повторно опублікувати, тому він неповний.'''
+id = '''
+Sejak 2014, satu kisah tentang Ukraina terus muncul kembali: bahwa negara itu dijalankan oleh Nazi, bahwa tentara atau pemerintahnya memuliakan Nazisme, dan bahwa Rusia karena itu harus 'mende-Nazifikasi' Ukraina. Bentuknya berubah-ubah: sebuah simbol, foto tentara, patung, kutipan, pelajaran sekolah. Dosir ini menyusun versi-versi yang diperiksa oleh redaksi dalam satu lini masa. Setiap cek fakta menyampaikan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi tidak lengkap.'''
+tr = '''
+Ukrayna hakkındaki bir anlatı 2014'ten beri sürekli geri geliyor: ülkeyi Nazilerin yönettiği, ordusunun ya da hükümetinin Nazizmi onurlandırdığı ve bu yüzden Rusya'nın ülkeyi 'Nazilerden arındırması' gerektiği. Biçimi değişiyor: bir sembol, bir asker fotoğrafı, bir heykel, bir alıntı, bir okul dersi. Bu dosya, doğrulama kuruluşlarının incelediği farklı biçimleri bir zaman çizelgesine yerleştiriyor. Her doğrulama, o doğrulama kuruluşunun ne bulduğunu söyler; Factiz kendi kararını eklemez. Liste yalnızca yeniden yayımlama iznimiz olan doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+自2014年以來，有一種關於烏克蘭的說法一再出現：這個國家由納粹掌控，軍隊或政府推崇納粹主義，所以俄羅斯必須「去納粹化」。這種說法的形式不斷變化：一個符號、一張士兵的照片、一座雕像、一句引言、一堂學校課程。這個專題把查核機構查核過的各種版本放在時間軸上。每一則查核報告都說明該查核機構的發現，Factiz 不另外提出任何查核結果。這份清單只收錄我們獲准轉載的查核報告，因此並不完整。'''
+ja = '''
+2014年以降、ウクライナについて繰り返し現れる言説があります。国はナチスに支配されている、軍や政府はナチズムをたたえている、だからロシアはウクライナを「非ナチ化」しなければならない、というものです。形はさまざまで、シンボル、兵士の写真、像、引用、学校の授業などが使われます。この特集では、報道機関が検証した各種の言説を時系列に並べています。各ファクトチェックには、その報道機関が確認した内容が示されています。Factizが独自に判定を加えることはありません。掲載しているのは再掲載の許可を得たファクトチェックだけなので、一覧がすべてを網羅しているわけではありません。'''
+hi = '''
+2014 से यूक्रेन को लेकर एक कहानी बार-बार लौटती रही है: कि देश को नाज़ी चलाते हैं, कि उसकी सेना या सरकार नाज़ीवाद का सम्मान करती है, और इसलिए रूस को उसका 'नाज़ीकरण-मुक्त' करना होगा। इसका रूप बदलता रहता है: कोई प्रतीक, सैनिकों की तस्वीर, कोई मूर्ति, कोई उद्धरण, स्कूल का कोई पाठ। इस डोसियर में उन संस्करणों को समयरेखा पर रखा गया है, जिनकी न्यूज़रूम ने जाँच की। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया; Factiz अपना कोई निष्कर्ष नहीं जोड़ता। इस सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+منذ عام 2014 تعود قصة واحدة عن أوكرانيا مرة بعد أخرى: أن البلاد يحكمها النازيون، وأن جيشها أو حكومتها تمجّد النازية، وأن على روسيا لذلك أن «تجتث النازية» منها. وتتغير الصيغة: رمز، أو صورة لجنود، أو تمثال، أو اقتباس، أو درس مدرسي. يضع هذا الملف على خط زمني النسخ التي دققتها المنصات. يبيّن كل تدقيق ما توصلت إليه تلك المنصة، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي غير كاملة.'''
+fa = '''
+یک روایت درباره اوکراین از سال ۲۰۱۴ بارها تکرار شده است: اینکه این کشور را نازی‌ها اداره می‌کنند، ارتش یا دولتش نازیسم را گرامی می‌دارد و به همین دلیل روسیه باید آن را «نازی‌زدایی» کند. شکل این روایت تغییر می‌کند: یک نماد، عکس چند سرباز، یک مجسمه، یک نقل‌قول، یک درس مدرسه. این پرونده نسخه‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه چه یافته است؛ Factiz هیچ نتیجه‌گیری از خودش اضافه نمی‌کند. این فهرست فقط راستی‌آزمایی‌هایی را دارد که اجازه انتشار دوباره‌شان را داریم، بنابراین کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "rapport"
+datum = "2014-06-30"
+bron = "OSCE/ODIHR"
+url = "https://www.osce.org/files/f/documents/a/b/120549.pdf"
+[item.titel]
+nl = "Het slotverslag van de OVSE over de presidentsverkiezing van mei 2014 in Oekraïne geeft de extreemrechtse leiders Tjahnybok (Svoboda) 1,17 procent en Jarosj (Rechtse Sector) 0,71"
+en = "The OSCE's final report on Ukraine's presidential election of May 2014 gives the far-right leaders Tyahnybok (Svoboda) 1.17 percent and Yarosh (Right Sector) 0.71 percent"
+de = "Der Abschlussbericht der OSZE zur Präsidentenwahl im Mai 2014 in der Ukraine nennt für die Rechtsextremen Tjahnybok (Swoboda) 1,17 und Jarosch (Rechter Sektor) 0,71 Prozent"
+es = "El informe final de la OSCE sobre las presidenciales de Ucrania de mayo de 2014 da a los ultraderechistas Tiahnibok (Svoboda) un 1,17 % y Yarosh (Sector Derecho) un 0,71 %"
+fr = "Le rapport final de l’OSCE sur la présidentielle ukrainienne de mai 2014 donne aux chefs d’extrême droite Tiahnybok (Svoboda) 1,17 % et Iaroch (Secteur droit) 0,71 %"
+pt = "O relatório final da OSCE sobre a eleição presidencial da Ucrânia de maio de 2014 dá aos líderes de extrema direita Tyahnybok (Svoboda) 1,17% e Yarosh (Setor Direito) 0,71%"
+ru = "В итоговом докладе ОБСЕ о президентских выборах на Украине в мае 2014 года крайне правые лидеры получили: Тягнибок (Свобода) 1,17 процента, Ярош (Правый сектор) 0,71 процента"
+uk = "В остаточному звіті ОБСЄ про президентські вибори в Україні у травні 2014 року крайні праві лідери Тягнибок (Свобода) отримав 1,17 відсотка, а Ярош (Правий сектор) 0,71 відсотка"
+id = "Laporan akhir OSCE tentang pemilihan presiden Ukraina Mei 2014 mencatat pemimpin sayap kanan jauh Tyahnybok (Svoboda) meraih 1,17 persen dan Yarosh (Right Sector) 0,71 persen"
+tr = "AGİT'in Mayıs 2014 Ukrayna cumhurbaşkanlığı seçimine ilişkin nihai raporu, aşırı sağcı liderlerden Tyahnybok'a (Svoboda) yüzde 1,17, Yarosh'a (Sağ Sektör) yüzde 0,71 oy verildiğini gösteriyor"
+zh = "歐洲安全暨合作組織（OSCE）關於2014年5月烏克蘭總統選舉的最終報告顯示，極右派領袖提亞尼博克（自由黨）得票率為1.17%，亞羅什（右翼地區）得票率為0.71%"
+ja = "OSCEによる2014年5月のウクライナ大統領選挙の最終報告書では、極右の指導者であるチャフニボク氏（スヴォボダ）の得票率は1.17%、ヤロシ氏（右派セクター）は0.71%"
+hi = "मई 2014 के यूक्रेन के राष्ट्रपति चुनाव पर OSCE की अंतिम रिपोर्ट में धुर-दक्षिणपंथी नेताओं तियाहनीबोक (स्वोबोदा) को 1.17 प्रतिशत और यारोश (राइट सेक्टर) को 0.71 प्रतिशत वोट मिले"
+ar = "التقرير النهائي لمنظمة الأمن والتعاون في أوروبا عن الانتخابات الرئاسية الأوكرانية في أيار/مايو 2014 يمنح زعيمي اليمين المتطرف تياهنيبوك (سفوبودا) 1.17 في المئة وياروش (القطاع الأيمن) 0.71 في المئة"
+fa = "گزارش نهایی OSCE درباره انتخابات ریاست‌جمهوری اوکراین در می ۲۰۱۴ به رهبران راست افراطی، تیاهنیبوک (سوبودا) ۱٫۱۷ درصد و یاروش (راست‌گرایان) ۰٫۷۱ درصد آرا را نسبت می‌دهد"
+
+[[item]]
+soort = "onderzoek"
+datum = "2016-04-26"
+bron = "NATO StratCom Centre of Excellence"
+url = "https://stratcomcoe.org/publications/cognitive-warfare/174"
+[item.titel]
+nl = "Een studie voor het NAVO-kenniscentrum StratCom van drie Russische media in 2014 vindt dat de regering in Kyiv werd neergezet als fascistische junta en haar troepen als nazi's"
+en = "A study for the NATO StratCom Centre of Excellence of three Russian outlets in 2014 finds Kyiv's government framed as a fascist junta and its forces as Nazis"
+de = "Eine Studie für das NATO-Exzellenzzentrum StratCom zu drei russischen Medien 2014 findet, dass Kyjiws Regierung als faschistische Junta und ihre Truppen als Nazis dargestellt wurden"
+es = "Un estudio para el centro StratCom de la OTAN sobre tres medios rusos en 2014 halla que el gobierno de Kiev era presentado como junta fascista y sus fuerzas como nazis"
+fr = "Une étude pour le centre StratCom de l’OTAN sur trois médias russes en 2014 montre que le gouvernement de Kyiv y était présenté comme une junte fasciste et ses forces comme des nazis"
+pt = "Estudo para o Centro de Excelência de Comunicação Estratégica da OTAN sobre três veículos russos em 2014 conclui que Kiev é apresentada como junta fascista e suas forças como nazistas"
+ru = "Исследование трёх российских изданий за 2014 год для Центра НАТО по стратегическим коммуникациям показало: власти Киева представлены как фашистская хунта, а их силы как нацисты"
+uk = "Дослідження трьох російських медіа 2014 року для Центру передового досвіду зі стратегічних комунікацій НАТО показує, що київську владу подають як фашистську хунту, а її сили як нацистів"
+id = "Sebuah studi untuk NATO StratCom Centre of Excellence terhadap tiga media Rusia pada 2014 menemukan pemerintah Kyiv digambarkan sebagai junta fasis dan pasukannya sebagai Nazi"
+tr = "NATO StratCom Mükemmeliyet Merkezi için 2014'te üç Rus yayın organı üzerine yapılan bir çalışma, Kiev hükümetinin faşist cunta, güçlerinin ise Nazi olarak sunulduğunu ortaya koyuyor"
+zh = "一項為北約戰略傳播卓越中心進行的研究，分析2014年三家俄羅斯媒體，發現它們把基輔政府描述為法西斯軍政府，並把其部隊稱為納粹"
+ja = "NATO戦略的コミュニケーション卓越センターのための研究が、2014年のロシアの3つのメディアを分析。キーウの政府はファシストの軍事政権、その部隊はナチスとして描かれていたと指摘"
+hi = "NATO StratCom Centre of Excellence के लिए 2014 में तीन रूसी मीडिया संस्थानों के अध्ययन में पाया गया कि कीव की सरकार को फ़ासीवादी जुंटा और उसके बलों को नाज़ी बताया गया"
+ar = "دراسة أُعدّت لمركز التميز للاتصالات الاستراتيجية التابع لحلف الناتو عن ثلاث وسائل إعلام روسية عام 2014 تخلص إلى أنها صوّرت حكومة كييف على أنها طغمة فاشية وقواتها على أنها نازية"
+fa = "پژوهشی برای مرکز تعالی ارتباطات راهبردی ناتو درباره سه رسانه روسی در سال ۲۰۱۴ نشان می‌دهد که دولت کی‌یف به‌عنوان یک حکومت نظامی فاشیست و نیروهایش به‌عنوان نازی معرفی شده‌اند"
+
+[[item]]
+soort = "rapport"
+datum = "2019-11-20"
+bron = "OSCE/ODIHR"
+url = "https://www.osce.org/files/f/documents/6/9/439634_0.pdf"
+[item.titel]
+nl = "Het slotverslag van de OVSE over de parlementsverkiezing van 2019 in Oekraïne geeft Svoboda 2,15 procent van de lijststemmen, onder de kiesdrempel van 5 procent, en één districtszetel"
+en = "The OSCE's final report on Ukraine's parliamentary election of 2019 gives Svoboda 2.15 percent of the list vote, under the 5 percent threshold, and one district seat"
+de = "Der Abschlussbericht der OSZE zur Parlamentswahl 2019 in der Ukraine nennt für Swoboda 2,15 Prozent der Listenstimmen, unter der Fünfprozenthürde, und einen Wahlkreissitz"
+es = "El informe final de la OSCE sobre las legislativas de 2019 en Ucrania da a Svoboda el 2,15 % del voto de lista, por debajo del umbral del 5 %, y un escaño de distrito"
+fr = "Le rapport final de l’OSCE sur les législatives ukrainiennes de 2019 donne à Svoboda 2,15 % des voix de liste, sous le seuil de 5 %, et un siège de circonscription"
+pt = "O relatório final da OSCE sobre a eleição parlamentar da Ucrânia de 2019 dá ao Svoboda 2,15% dos votos da lista, abaixo do limite de 5%, e uma cadeira em distrito"
+ru = "В итоговом докладе ОБСЕ о парламентских выборах на Украине 2019 года «Свобода» получила 2,15 процента голосов по списку, ниже 5-процентного барьера, и одно место в одномандатном округе"
+uk = "В остаточному звіті ОБСЄ про парламентські вибори в Україні 2019 року Свобода отримала 2,15 відсотка голосів за списком, що нижче 5-відсоткового бар'єра, і одне мажоритарне місце"
+id = "Laporan akhir OSCE tentang pemilihan parlemen Ukraina 2019 mencatat Svoboda meraih 2,15 persen suara daftar partai, di bawah ambang batas 5 persen, dan satu kursi daerah pemilihan"
+tr = "AGİT'in 2019 Ukrayna parlamento seçimi nihai raporuna göre Svoboda liste oylarının yüzde 2,15'ini aldı, yüzde 5'lik barajın altında kaldı ve bir seçim bölgesi sandalyesi kazandı"
+zh = "歐洲安全暨合作組織（OSCE）關於2019年烏克蘭國會選舉的最終報告顯示，自由黨在政黨名單票中得票率為2.15%，未達5%門檻，另在一個選區贏得一席"
+ja = "OSCEによる2019年のウクライナ議会選挙の最終報告書では、スヴォボダの比例代表の得票率は2.15%で、5%の議席獲得条件に届かず、小選挙区で1議席を獲得"
+hi = "यूक्रेन के 2019 के संसदीय चुनाव पर OSCE की अंतिम रिपोर्ट में स्वोबोदा को सूची के वोट का 2.15 प्रतिशत मिला, जो 5 प्रतिशत की सीमा से कम है, और एक क्षेत्रीय सीट मिली"
+ar = "التقرير النهائي لمنظمة الأمن والتعاون في أوروبا عن الانتخابات البرلمانية الأوكرانية لعام 2019 يمنح سفوبودا 2.15 في المئة من أصوات القوائم، أي دون عتبة 5 في المئة، ومقعدًا واحدًا في الدوائر الفردية"
+fa = "گزارش نهایی OSCE درباره انتخابات پارلمانی اوکراین در ۲۰۱۹ به سوبودا ۲٫۱۵ درصد آرای فهرست‌ها را می‌دهد، کمتر از آستانه ۵ درصد، و یک کرسی حوزه‌ای"
+
+[[item]]
+soort = "besluit"
+datum = "2022-02-24"
+bron = "President of Russia, text circulated at the UN (S/2022/154)"
+url = "https://documents.un.org/doc/undoc/gen/n22/268/16/pdf/n2226816.pdf"
+[item.titel]
+nl = "Bij de aankondiging van de invasie zegt Vladimir Poetin dat Rusland streeft naar de demilitarisering en 'denazificatie' van Oekraïne; de Russische gezant verspreidt de tekst bij de VN"
+en = "Announcing the invasion, Vladimir Putin says Russia will seek the demilitarization and de-Nazification of Ukraine; Russia's envoy circulates the text at the UN"
+de = "Bei der Ankündigung der Invasion sagt Wladimir Putin, Russland strebe die Demilitarisierung und 'Entnazifizierung' der Ukraine an; Russlands Gesandter verbreitet den Text bei der UN"
+es = "Al anunciar la invasión, Vladímir Putin dice que Rusia buscará la desmilitarización y la 'desnazificación' de Ucrania; el enviado ruso distribuye el texto en la ONU"
+fr = "En annonçant l’invasion, Vladimir Poutine dit que la Russie cherchera la démilitarisation et la « dénazification » de l’Ukraine ; l’envoyé russe diffuse le texte à l’ONU"
+pt = "Ao anunciar a invasão, Vladimir Putin diz que a Rússia vai buscar a desmilitarização e a desnazificação da Ucrânia; o enviado da Rússia distribui o texto na ONU"
+ru = "Объявляя о вторжении, Владимир Путин говорит, что Россия будет добиваться демилитаризации и денацификации Украины; посол России распространяет этот текст в ООН"
+uk = "Оголошуючи вторгнення, Володимир Путін каже, що Росія прагне демілітаризації та денацифікації України; посол Росії поширює цей текст в ООН"
+id = "Saat mengumumkan invasi, Vladimir Putin mengatakan Rusia akan berupaya melakukan demiliterisasi dan de-Nazifikasi Ukraina; utusan Rusia mengedarkan teksnya di PBB"
+tr = "Vladimir Putin, işgali duyururken Rusya'nın Ukrayna'nın silahsızlandırılmasını ve Nazilerden arındırılmasını hedefleyeceğini söylüyor; Rusya'nın temsilcisi metni BM'de dağıtıyor"
+zh = "宣布入侵時，弗拉基米爾·普丁表示，俄羅斯將尋求使烏克蘭非軍事化與去納粹化；俄羅斯的特使在聯合國散發了這份文稿"
+ja = "プーチン大統領は侵攻を発表する中で、ロシアはウクライナの非武装化と非ナチ化を目指すと発言。ロシアの国連大使がその文書を国連で配布"
+hi = "आक्रमण की घोषणा करते हुए व्लादिमीर पुतिन कहते हैं कि रूस यूक्रेन का सैन्यीकरण-मुक्ति और नाज़ीकरण-मुक्ति चाहेगा; रूस के राजदूत यह पाठ संयुक्त राष्ट्र में बाँटते हैं"
+ar = "في إعلانه الغزو، يقول فلاديمير بوتين إن روسيا ستسعى إلى نزع السلاح من أوكرانيا واجتثاث النازية منها، ومبعوث روسيا يعمّم النص في الأمم المتحدة"
+fa = "ولادیمیر پوتین هنگام اعلام حمله می‌گوید روسیه به دنبال غیرنظامی‌سازی و نازی‌زدایی از اوکراین خواهد بود؛ نماینده روسیه این متن را در سازمان ملل پخش می‌کند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2022-02-27"
+bron = "Scholars of genocide, Nazism and World War II (Jewish Journal)"
+url = "https://jewishjournal.com/news/worldwide/345515/statement-on-the-war-in-ukraine-by-scholars-of-genocide-nazism-and-world-war-ii/"
+[item.titel]
+nl = "In een open brief wijzen onderzoekers van genocide, het nazisme en de Tweede Wereldoorlog de gelijkstelling van de Oekraïense staat met het naziregime af als feitelijk onjuist"
+en = "In an open letter, scholars of genocide, Nazism and World War II reject Russia's equation of the Ukrainian state with the Nazi regime as factually wrong"
+de = "In einem offenen Brief weisen Fachleute für Völkermord, Nationalsozialismus und Zweiten Weltkrieg die Gleichsetzung des ukrainischen Staates mit dem NS-Regime als falsch zurück"
+es = "En una carta abierta, estudiosos del genocidio, el nazismo y la Segunda Guerra Mundial rechazan por falsa la equiparación rusa del Estado ucraniano con el régimen nazi"
+fr = "Dans une lettre ouverte, des spécialistes du génocide, du nazisme et de la Seconde Guerre mondiale rejettent comme fausse l’assimilation de l’État ukrainien au régime nazi"
+pt = "Em carta aberta, estudiosos de genocídio, nazismo e Segunda Guerra Mundial rejeitam como factualmente errada a equiparação feita pela Rússia entre o Estado ucraniano e o regime nazista"
+ru = "В открытом письме исследователи геноцида, нацизма и Второй мировой войны называют фактически неверным отождествление Россией украинского государства с нацистским режимом"
+uk = "У відкритому листі дослідники геноциду, нацизму та Другої світової війни відкидають прирівнювання Росією української держави до нацистського режиму як фактично хибне"
+id = "Dalam surat terbuka, para sarjana genosida, Nazisme, dan Perang Dunia II menolak penyamaan negara Ukraina dengan rezim Nazi oleh Rusia karena secara fakta salah"
+tr = "Soykırım, Nazizm ve İkinci Dünya Savaşı alanındaki akademisyenler açık bir mektupta, Rusya'nın Ukrayna devletini Nazi rejimiyle bir tutmasını olgusal olarak yanlış buluyor ve reddediyor"
+zh = "在一封公開信中，研究種族滅絕、納粹主義與第二次世界大戰的學者指出，俄羅斯把烏克蘭國家與納粹政權劃上等號，與事實不符"
+ja = "ジェノサイド、ナチズム、第二次世界大戦を専門とする研究者らが公開書簡で、ウクライナ国家をナチス政権と同一視するロシアの主張は事実に反すると表明"
+hi = "एक खुले पत्र में नरसंहार, नाज़ीवाद और द्वितीय विश्व युद्ध के विद्वान यूक्रेनी राज्य की नाज़ी शासन से रूस की तुलना को तथ्यात्मक रूप से गलत बताकर खारिज करते हैं"
+ar = "في رسالة مفتوحة، يرفض باحثون في الإبادة الجماعية والنازية والحرب العالمية الثانية مساواة روسيا بين الدولة الأوكرانية والنظام النازي، ويعدّونها خاطئة من حيث الوقائع"
+fa = "در یک نامه سرگشاده، پژوهشگران نسل‌کشی، نازیسم و جنگ جهانی دوم یکی دانستن دولت اوکراین با رژیم نازی از سوی روسیه را از نظر واقعی نادرست می‌دانند و رد می‌کنند"
+
+[[item]]
+soort = "besluit"
+datum = "2022-02-27"
+bron = "Yad Vashem"
+url = "https://www.yadvashem.org/press-release/27-february-2022-14-25.html"
+[item.titel]
+nl = "Yad Vashem betreurt de Russische invasie en veroordeelt de vergelijkingen met het nazisme in de propaganda als volkomen onjuist en een vertekening van de geschiedenis van de Holocaust"
+en = "Yad Vashem deplores the Russian invasion and condemns the propaganda's comparisons with Nazism as completely inaccurate and a distortion of Holocaust history"
+de = "Yad Vashem bedauert die russische Invasion und verurteilt die Vergleiche der Propaganda mit dem Nationalsozialismus als völlig falsch und als Verzerrung der Geschichte des Holocaust"
+es = "Yad Vashem lamenta la invasión rusa y condena las comparaciones de la propaganda con el nazismo como totalmente inexactas y una distorsión de la historia del Holocausto"
+fr = "Yad Vashem déplore l’invasion russe et condamne les comparaisons de la propagande avec le nazisme, totalement inexactes et déformant l’histoire de la Shoah"
+pt = "O Yad Vashem lamenta a invasão russa e condena as comparações da propaganda com o nazismo como totalmente imprecisas e uma distorção da história do Holocausto"
+ru = "«Яд ва-Шем» осуждает российское вторжение и называет сравнения пропаганды с нацизмом совершенно неточными и искажающими историю Холокоста"
+uk = "Яд Вашем засуджує російське вторгнення і називає порівняння пропаганди з нацизмом цілком недостовірними та перекрученням історії Голокосту"
+id = "Yad Vashem menyesalkan invasi Rusia dan mengecam perbandingan propaganda dengan Nazisme sebagai sama sekali tidak akurat dan pemutarbalikan sejarah Holocaust"
+tr = "Yad Vashem, Rusya'nın işgalini kınıyor ve propagandanın Nazizmle yaptığı karşılaştırmaları tamamen yanlış ve Holokost tarihinin çarpıtılması olarak nitelendiriyor"
+zh = "以色列大屠殺紀念館（Yad Vashem）對俄羅斯入侵表示遺憾，並譴責宣傳中把烏克蘭與納粹主義相比的說法完全不正確，且扭曲了大屠殺的歷史"
+ja = "ヤド・ヴァシェムはロシアの侵攻を非難し、ナチズムになぞらえるプロパガンダは全く不正確で、ホロコーストの歴史をゆがめるものだと批判"
+hi = "Yad Vashem रूसी आक्रमण की निंदा करता है और प्रचार में नाज़ीवाद से की गई तुलनाओं को पूरी तरह गलत और होलोकॉस्ट के इतिहास को तोड़ना-मरोड़ना बताता है"
+ar = "ياد فاشيم تستنكر الغزو الروسي وتدين مقارنات الدعاية بالنازية، وتعدّها غير دقيقة تمامًا وتحريفًا لتاريخ المحرقة"
+fa = "یاد وشم حمله روسیه را محکوم می‌کند و مقایسه‌های تبلیغاتی با نازیسم را کاملاً نادرست و تحریف تاریخ هولوکاست می‌نامد"
+
+[[item]]
+soort = "besluit"
+datum = "2022-03-16"
+bron = "International Court of Justice"
+url = "https://www.icj-cij.org/sites/default/files/case-related/182/182-20220316-ORD-01-00-EN.pdf"
+[item.titel]
+nl = "Het Internationaal Gerechtshof beveelt Rusland met 13 tegen 2 stemmen zijn militaire operaties te staken en heeft nu geen bewijs voor de genocide die Rusland aanvoert"
+en = "The International Court of Justice orders Russia, by 13 votes to 2, to suspend its military operations, and says it has at this stage no evidence of the genocide Russia alleges"
+de = "Der Internationale Gerichtshof ordnet mit 13 zu 2 Stimmen an, dass Russland seine Militäreinsätze aussetzt, und hat derzeit keinen Beleg für den von Russland behaupteten Völkermord"
+es = "La Corte Internacional de Justicia ordena a Rusia, por 13 votos a 2, suspender sus operaciones militares y dice no tener por ahora pruebas del genocidio que Rusia alega"
+fr = "La Cour internationale de justice ordonne à la Russie, par 13 voix contre 2, de suspendre ses opérations militaires et n’a à ce stade aucune preuve du génocide allégué"
+pt = "A Corte Internacional de Justiça ordena que a Rússia suspenda suas operações militares, por 13 votos a 2, e diz que, nesta fase, não tem provas do genocídio alegado pela Rússia"
+ru = "Международный суд ООН 13 голосами против 2 приказывает России приостановить военные действия и заявляет, что на этом этапе у него нет доказательств геноцида, о котором говорит Россия"
+uk = "Міжнародний суд ООН 13 голосами проти 2 наказує Росії припинити військові операції і заявляє, що на цьому етапі не має доказів геноциду, про який говорить Росія"
+id = "Mahkamah Internasional memerintahkan Rusia, dengan 13 suara berbanding 2, untuk menghentikan operasi militernya, dan menyatakan pada tahap ini tidak memiliki bukti genosida yang dituduhkan Rusia"
+tr = "Uluslararası Adalet Divanı, 13 oya karşı 2 oyla Rusya'ya askeri operasyonlarını durdurma emri veriyor ve bu aşamada Rusya'nın öne sürdüğü soykırıma dair kanıt görmediğini belirtiyor"
+zh = "國際法院以13票對2票命令俄羅斯暫停軍事行動，並表示目前沒有證據顯示俄羅斯所指稱的種族滅絕確實存在"
+ja = "国際司法裁判所は、13対2の賛成多数で、ロシアに軍事行動の停止を命令。ロシアが主張するジェノサイドの証拠は現段階ではないとも述べた"
+hi = "अंतरराष्ट्रीय न्यायालय 13 के मुकाबले 2 मतों से रूस को अपनी सैन्य कार्रवाई रोकने का आदेश देता है और कहता है कि इस स्तर पर रूस के आरोपित नरसंहार का उसके पास कोई सबूत नहीं है"
+ar = "محكمة العدل الدولية تأمر روسيا، بأغلبية 13 صوتًا مقابل صوتين، بوقف عملياتها العسكرية، وتقول إنه لا تتوافر لديها في هذه المرحلة أدلة على الإبادة الجماعية التي تزعمها روسيا"
+fa = "دیوان بین‌المللی دادگستری با ۱۳ رأی در برابر ۲ رأی به روسیه دستور می‌دهد عملیات نظامی خود را متوقف کند و می‌گوید در این مرحله هیچ مدرکی از نسل‌کشی مورد ادعای روسیه ندارد"
+
+[[item]]
+soort = "onderzoek"
+datum = "2023-02-22"
+bron = "DFRLab"
+url = "https://www.atlanticcouncil.org/wp-content/uploads/2023/02/Narrative-Warfare-Final.pdf"
+[item.titel]
+nl = "DFRLab vindt 'Oekraïners zijn nazi's' onder de grootste prokremlinverhalen in weerlegde beweringen van 2014 tot 2021, en 141 verwijzingen naar nazi's in de 70 dagen voor de invasie"
+en = "DFRLab finds 'Ukrainians are Nazis' among the main pro-Kremlin narratives in claims debunked from 2014 to 2021, and 141 Nazi references in the 70 days before the invasion"
+de = "Das DFRLab findet 'Ukrainer sind Nazis' unter den wichtigsten kremlnahen Erzählungen in widerlegten Behauptungen 2014 bis 2021 und 141 Nazi-Bezüge in den 70 Tagen vor der Invasion"
+es = "El DFRLab halla 'los ucranianos son nazis' entre los principales relatos prorrusos desmentidos de 2014 a 2021, y 141 referencias nazis en los 70 días previos a la invasión"
+fr = "Le DFRLab trouve « les Ukrainiens sont des nazis » parmi les grands récits prokremlin démentis de 2014 à 2021, et 141 références aux nazis dans les 70 jours avant l’invasion"
+pt = "O DFRLab identifica \"os ucranianos são nazistas\" entre as principais narrativas pró-Kremlin em afirmações desmentidas de 2014 a 2021, e 141 referências a nazistas nos 70 dias antes da invasão"
+ru = "DFRLab называет «украинцы нацисты» одним из главных прокремлёвских нарративов среди опровергнутых утверждений с 2014 по 2021 год и находит 141 упоминание нацистов за 70 дней до вторжения"
+uk = "DFRLab називає «українці нацисти» одним із головних проросійських наративів у спростованих твердженнях 2014-2021 років і фіксує 141 згадку про нацистів за 70 днів до вторгнення"
+id = "DFRLab menemukan 'orang Ukraina adalah Nazi' sebagai salah satu narasi utama pro-Kremlin dalam klaim yang dibantah dari 2014 hingga 2021, dan 141 rujukan ke Nazi dalam 70 hari sebelum invasi"
+tr = "DFRLab, 2014-2021 arasında çürütülen iddialar içinde 'Ukraynalılar Nazidir' anlatısını Kremlin yanlısı başlıca anlatılar arasında buluyor ve işgalden önceki 70 günde 141 Nazi göndermesi tespit ediyor"
+zh = "數位鑑識研究實驗室（DFRLab）發現，在2014年至2021年被查證為不實的說法中，「烏克蘭人是納粹」是親克里姆林宮的主要敘事之一，且在入侵前70天內出現141次提及納粹的情況"
+ja = "DFRLabの調査で、2014年から2021年に検証された言説のうち、親クレムリンの主な主張の一つが「ウクライナ人はナチスだ」であることが判明。侵攻前の70日間にはナチスへの言及が141件あった"
+hi = "DFRLab को 2014 से 2021 के बीच खारिज किए गए दावों में 'यूक्रेनी नाज़ी हैं' क्रेमलिन समर्थक मुख्य कथानकों में मिलता है, और आक्रमण से पहले के 70 दिनों में नाज़ियों के 141 उल्लेख मिलते हैं"
+ar = "DFRLab تجد أن «الأوكرانيين نازيون» من أبرز الروايات الموالية للكرملين في الادعاءات التي جرى تفنيدها بين عامي 2014 و2021، وتحصي 141 إشارة إلى النازية في الأيام السبعين التي سبقت الغزو"
+fa = "DFRLab در ادعاهای ردشده از ۲۰۱۴ تا ۲۰۲۱ عبارت «اوکراینی‌ها نازی هستند» را among روایت‌های اصلی هواداران کرملین می‌یابد و ۱۴۱ اشاره به نازی‌ها را در ۷۰ روز پیش از حمله ثبت می‌کند"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "nazis",
+  "neo-nazi",
+  "neo-nazis",
+  "nazism",
+  "denazification",
+  "denazify",
+  "neonazis",
+  "nazistas",
+  "nazisme",
+  "nazismo",
+  "nazi",
+  "neonazi",
+  "denazif",
+  "Bandera",
+  "Azov",
+  "нацист",
+  "неонацист",
+  "денацифик",
+  "Бандер",
+  "Азов",
+  "нацизм",
+  "نازي",
+  "نازی",
+  "नाज़ी",
+  "नाजी",
+  "納粹",
+  "纳粹",
+  "ナチ",
+  "나치",
+]
+omschrijving = """
+Claims that Ukraine is a Nazi or neo-Nazi state; that its government, president, army, police or schools follow or honour Nazism; that Nazi symbols or units (Azov, Bandera, SS) show what Ukraine really is; or that Russia's war is needed to 'denazify' Ukraine. It includes claims about one photo, symbol, statue, quote, law or event presented as proof. It does not include claims about Nazis in other countries, claims comparing other politicians with Hitler, or historical claims about the Second World War that are not about today's Ukraine. It does not include claims about Azov that do not call it or Ukraine Nazi, the claims about Raman Pratasevich, German tanks with Nazi symbols, or Polish rules about Bandera; it does include claims that reject the story, such as 'Putin's denazification is a lie' (afbakening van de PO, 2026-11-12)."""

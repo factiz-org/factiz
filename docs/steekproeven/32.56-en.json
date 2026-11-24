@@ -1,0 +1,193 @@
+{
+ "toelichting": "PLAN #32.56, Engels, lezer-v14 op de tweede verse set: elk rood en oranje en elk groen bij O, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag (`gezien`), door drie deelagenten met dezelfde regels (elk een derde), waar nodig met de bron zelf. Uitdrukkelijk: geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet. Bij W en W-merk was er geen alarm en geen niet bevestigd.",
+ "labels": {
+  "O:gfc-003b4268fea071bd#C": {
+   "label": "bewijst",
+   "toelichting": "France 24 (Truth or Fake, 15 oktober 2026, opent) beschrijft twee AI-beelden van de demonstrante, waaronder 'a second AI-generated image' waarop zij door de menigte in het gezicht wordt geslagen, met een SynthID-watermerk; de bron bewijst dus dat dit beeld niet echt is."
+  },
+  "O:gfc-6410b6c8927ddc34#C": {
+   "label": "bewijst",
+   "toelichting": "Britannica, de ICC, Cricinfo en Sportstar melden in wat de lezer zag dat twintig teams meedoen aan het T20 World Cup 2026; dat weerlegt 'een handvol landen' direct."
+  },
+  "O:gfc-4ebf989a37bfc4db#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes op X noemt het verhaal over de beer met wasbeer en vos 'too cute to be true', en Yahoo (twee artikelen) noemt het verzonnen en met AI gemaakt; beide gaan over precies deze bewering (pagina's niet geopend, oordeel uit de fragmenten)."
+  },
+  "O:gfc-7f0d339f2658e0e4#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact op X zegt dat er geen bewijs is dat Kane dit zei en dat de FA het citaat nep noemt; The Independent bespreekt in een factcheck hetzelfde nepcitaat (oordeel uit de fragmenten)."
+  },
+  "O:gfc-533343cbb95adf30#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo ('Footage of India-Pakistan naval collision in 2011 falsely shared as recent') zegt dat de video een aanvaring uit 2011 toont en ten onrechte als recent wordt gedeeld; dat gaat precies over deze video (oordeel uit het fragment)."
+  },
+  "O:gfc-3a99321ef8399b7a#C": {
+   "label": "bewijst",
+   "toelichting": "WMUR meldt dat PolitiFact de bewering van Trump over precedenten voor het fonds van $1,776 miljard 'false' noemde, en PBS dat juridische experts het fonds zonder precedent noemen; dat weerlegt 'numerous other occasions' (oordeel uit de fragmenten)."
+  },
+  "O:gfc-67a794dfb0c82fc5#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over de schorsing van Sri Lanka Cricket in 2023 (opgeheven in januari 2024) en het jaarverbod voor speler Jayawickrama in 2024; geen bron zegt iets over de bewering van april 2026, ze tonen alleen dat andere gebeurtenissen anders waren. De factcheck (Fact Crescendo) steunt op de ICC-site en de woordvoerder van SLC, niet op deze bronnen."
+  },
+  "O:gfc-6f861540d751b08d#C": {
+   "label": "bewijst niet",
+   "toelichting": "Al Jazeera (31 juli 2026, na de factcheck) gaat over onrust met drie doden en theconspiratory.com (opent niet, verbinding geweigerd) noemt twee andere herleide video's; geen bron gaat over het beeld van drie opgehangen moslims, dat volgens FACTLY uit een opname van een Haryanvi-muziekvideo komt."
+  },
+  "O:gfc-1e68909404b6b753#C": {
+   "label": "bewijst",
+   "toelichting": "De tegensprekende bronnen tonen dat het effect bij mensen niet gevonden is: de meta-analyse van vier trials (PubMed 35018442) zag geen effect op spiergezondheid en de ODS meldt geen effect op gewicht of vetmassa; dat is ook de redenering van de factcheck (muizenstudie, geen effect in menselijke trials)."
+  },
+  "O:gfc-f10d575156d6a441#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint (3 februari 2026, opent) zegt dat de video met leuzen tegen RSS-BJP die als Uttar Pradesh wordt gedeeld uit Nalgonda in Telangana komt (2022); dat is dezelfde conclusie als de factcheck van FACTLY, al spreekt The Quint van een menigte en het bericht van een man."
+  },
+  "O:gfc-cd227f2243e51e15#C": {
+   "label": "bewijst",
+   "toelichting": "The News Minute, Only Fact en Alt News zeggen alle drie dat de video van de 'drie dochters in Kerala' een zaak uit Bangladesh toont; dat gaat precies over deze bewering (oordeel uit de fragmenten)."
+  },
+  "O:gfc-acf43b8ffc2553fc#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News zegt dat de video van 'Bangladeshi die West-Bengalen verlaten na de BJP-winst' een Ijtema-video uit januari is, en bdnews24 dat twee zulke video's niets met de verkiezingen te maken hebben (oordeel uit de fragmenten)."
+  },
+  "O:gfc-fdacfa6858b561f4#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News (opent) citeert precies deze bewering ('second largest beef producer') en laat zien dat Modi in Auckland 'second largest wheat producer' zei en rundvlees niet noemde."
+  },
+  "O:gfc-a75d190f79561001#C": {
+   "label": "vals",
+   "toelichting": "YouTurn noemde dit NDTV-bericht misleidend (de pagina van YouTurn toont alleen een titel, de reden is niet gelezen); de eigen bron SabrangIndia (opent) betwist zowel 'mastermind' (TCS: zij was telefoniste, geen leidinggevende) als 'absconding', en het getoonde beeld is niet gecontroleerd, dus Factiz zei ten onrechte dat het klopt."
+  },
+  "O:gfc-949c206a9b20969a#C": {
+   "label": "bewijst",
+   "toelichting": "USA Today, Reuters, CBS en Today melden dat Netflix op 26 maart 2026 de prijzen verhoogde tot hoogstens $26,99 per maand; dat weerlegt een aankondiging van $49,99 per 1 maart (oordeel uit de fragmenten)."
+  },
+  "O:gfc-8688097e5cdb7e70#C": {
+   "label": "bewijst niet",
+   "toelichting": "Newsweek (2014, opent) zegt alleen dat Jones de coyote leerde kennen uit Mark Twains Roughing It en noemt geen foto van een hond en een vogel; dat is een andere oorsprong, maar bewijst niet dat het beeld nep is of geen rol speelde (de factcheck van Snopes zit niet tussen de bronnen)."
+  },
+  "O:gfc-016f32f6a06414b1#C": {
+   "label": "bewijst",
+   "toelichting": "France 24, Yahoo Noticias en Infobae zeggen in titel en tekst dat Macron zo'n beeld niet deelde en dat het gemanipuleerd is. Beoordeeld op wat Factiz zag; pagina's niet geopend."
+  },
+  "O:gfc-476fa1fc7ebd99a5#C": {
+   "label": "bewijst",
+   "toelichting": "De statistiekpagina van GOV.UK (geopend) geeft 308.770 starts in drie kwartalen van 2025/26, 8,7% meer dan een jaar eerder, en noemt het voorlopig en niet vergelijkbaar met de volle jaren; de -9% is dat deeljaar tegen 339.580 in 2023/24, en de Commons Library toont ook een stijging. The Independent opende niet."
+  },
+  "O:gfc-308f689a8bbc435f#C": {
+   "label": "bewijst niet",
+   "toelichting": "Pantagraph (AP-foto) en Getty tonen Schumer met een bord met een foto van Trump en Epstein, en Conservative Institute gaat over een bewerkte Trump-Epsteinfoto; geen van de bronnen gaat over het beeld van Epstein naast Schumer of toont dat het nep is. Pantagraph stuurde door naar een betaalmuur (niet gevolgd)."
+  },
+  "O:gfc-76ca1b42e683cb28#C": {
+   "label": "bewijst",
+   "toelichting": "Roya News, AFP via Yahoo, een tweede Yahoo-factcheck en Reality Tea noemen het screenshot van Trumps alcoholverbod nep of verzonnen. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-4185c903627f7ef3#C": {
+   "label": "bewijst niet",
+   "toelichting": "Military Times gaat over andere honden met de K-9 Medal of Courage en army.mil over menselijke Medal of Honor-ontvangers; geen bron noemt de hond Face of de redding, dus alleen afwezigheid. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-5bf4d68971ecda85#C": {
+   "label": "bewijst",
+   "toelichting": "Idaho Public Press en MSN ('No, Trump didn't order the Kennedy Center willows cut down') en Wonderwall (woordvoerder: in oktober 2025 gekapt om veiligheid) spreken de bewering direct tegen. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-3036e4531ef12eac#C": {
+   "label": "bewijst",
+   "toelichting": "Times of India, Devdiscourse, New Indian Express en DT Next geven per jaar ongeveer 1.460 tot 1.600 moorden (2021: 1.597, 2025: 1.461), samen ruim onder 8.900 en dalend. De rekensom van Factiz in de uitleg is rommelig, maar de bronnen tonen dat het getal te hoog en misleidend is."
+  },
+  "O:gfc-5714165f0c8a035f#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia, CNN, The New York Times en CBS News beschrijven Natalie Harp als politiek medewerker en uitvoerend assistent van Trump, geen hospiceverpleegkundige. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-1978bdd6368fa5c0#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over andere Currys-oplichting: een nep-tv-actie op Facebook uit 2020, een prijsvraagmail uit december 2020 op het MoneySavingExpert-forum (geopend: Samsung of iPhone voor 1 pond porto, geen enquete) en een nepmail in de Liverpool Echo (opende niet); niets over de S25 Ultra voor een enquete."
+  },
+  "O:gfc-f0c735b51635a35f#C": {
+   "label": "bewijst",
+   "toelichting": "CNN (6 september) meldt dat Trump een kaart met 'New America' plaatste, naast een echt bevel voor Lake Ontario, en Law Commentary zegt dat hij de naam niet bij uitvoerend bevel kan wijzigen; dat spreekt het bevel direct tegen. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-ad19baa075d9caee#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes via MSN, op X en op Threads zegt dat Sasha Obama dit niet zei en dat het gerucht als satire begon. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-b52c205c430ca48c#C": {
+   "label": "bewijst",
+   "toelichting": "Het Threads-bericht van Snopes zegt letterlijk dat de beelden geen echte aankondigingen van line-dancingverboden in deze vijf staten tonen; Camden News en El Dorado News melden een vergelijkbare nepwet in Arkansas. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-add7bc14d2587ae8#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News (en de overname op Radio Free) zegt dat de man in de bekentenisvideo niet Asad is maar uit een steekpartij in Delhi in april 2026. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-a0378a74e2de6a2f#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News meldt dat de video een geënsceneerde sketch van contentmaker Sonu Paswan is, die zelf de geslagen man speelt. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-f183f61d2428930b#C": {
+   "label": "bewijst",
+   "toelichting": "TruthBased.org legt uit dat de grafiek maar twee trans schutters in tien jaar telt, en Coast Reporter zegt dat transgender personen niet vaker massaschietpartijen plegen (een procent of minder). Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-81f8709112b49642#C": {
+   "label": "bewijst",
+   "toelichting": "De Daily Herald ('No evidence Trump made thousands of wire transfers to Epstein') en de Senate Finance Committee tonen dat de 4.725 overschrijvingen in en uit een rekening van Epstein gingen, niet van Trump. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-01d2a0ed42d93155#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint (goed) heeft een factcheck over precies dit beeld: het SRH-team dat bidt voor Jezus is door AI gemaakt. Beoordeeld op wat Factiz zag; de pagina niet geopend."
+  },
+  "O:gfc-348a63a06f2578e1#C": {
+   "label": "bewijst",
+   "toelichting": "Het artikel op msn.com noemt het een verzonnen confrontatie met echt beeld, en de post van Snopes op X zegt: 'No, Sen. Joni Ernst didn't expose ... Hegseth'. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-73a0db11e281c977#C": {
+   "label": "vals",
+   "toelichting": "VERA Files beoordeelde precies deze woorden als misleidend. De bronnen van Factiz laten zien dat de jongen bij de DSWD vastzit voor rehabilitatie onder de jeugdwet, met 'No special treatment' (PNA), maar geen belofte om goed voor hem te zorgen. De pagina's van DSWD, PNA en ABS-CBN openden niet (403/404)."
+  },
+  "O:gfc-7edf8e15b9ca8d62#C": {
+   "label": "bewijst",
+   "toelichting": "De AP-factcheck (via US News, Daily Democrat en Bakersfield) zegt dat ICE bevestigde dat Tarrio er niet werkt en nooit heeft gewerkt. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-45d45684d2092b6a#C": {
+   "label": "bewijst",
+   "toelichting": "De community note bij de post van Hoops Crave op X zegt dat FIFA gezichtsverf niet heeft verboden en dat de stadioncode alleen zegt dat lichaamsverf geen kleding is. fifa.com toont een Braziliaanse fan met gezichtsverf in het stadion tijdens het WK 2026. National Observer gaf 402, Sportsnet en Yahoo openden niet; beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-5f22447d2538b6e3#C": {
+   "label": "bewijst",
+   "toelichting": "France 24 (Truth or Fake, goed) zegt dat virale berichten ten onrechte melden dat het Europees Parlement een onderzoek begon: het ging om een brief van 72 Europarlementariërs. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-73889100764bd0a2#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (goed), de Deepfakes Analysis Unit (met letterlijk deze posttekst), PIB via NDTV Profit en DFRAC noemen de video van Rajnath Singh gemanipuleerd: zo'n uitspraak heeft hij niet gedaan. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-58b83ed157d58499#C": {
+   "label": "bewijst",
+   "toelichting": "Het weekoverzicht van The Quint (goed) noemt de factcheck 'Is SRK Joining the Cockroach Janta Party? No, Audio Is AI-Generated'. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-b10735e25f87865b#C": {
+   "label": "set fout",
+   "toelichting": "Het bericht meldt wat Modi zei, en dat klopt: India Today, Times of India, Hindustan Times en anderen citeren hoe hij in zijn toespraak van 18 april Congress, DMK, TMC en SP de schuld gaf. Het oordeel 'misleidend' van YouTurn geldt voor de inhoud van Modi's bewering, niet voor het feit dat hij hem deed. Pagina's niet geopend."
+  },
+  "O:gfc-a15b807023f5790b#C": {
+   "label": "bewijst",
+   "toelichting": "NDTV en The Indian Express (goed) melden dat Lt Col Karnail Singh in december werd aangevallen door mensen die het NCC-kamp binnendrongen na een vermoedelijke voedselvergiftiging, dus met een heel andere aanleiding. De pagina's van NDTV, Indian Express en ABP openden niet; beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-b1cc96954afb27b1#C": {
+   "label": "vals",
+   "toelichting": "Full Fact rekende dit tot onwaar. De eigen bron van Factiz (gov.uk) laat zien dat het aantal hotels al van 398 in oktober 2023 naar 267 in april 2024 zakte, dus vóór Labour aantrad, en Factiz gaf zelf toe dat 400 de piek onder de vorige regering was en dat 'minder dan 160' nergens in de resultaten staat."
+  },
+  "O:gfc-8b08754f688b9e0a#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes zegt in twee posts op X dat de foto een replica toont en dat een Franse meubelmaker de eer opeiste. Yahoo News Canada (goed) noemt wat in Mar-a-Lago staat 'most likely a copy'. Beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-d443851b6eb73f9b#C": {
+   "label": "bewijst",
+   "toelichting": "Misbar zegt dat beide beelden met het watermerk van het AI-model Nano Banana op hetzelfde Reddit-account stonden, en The Times of India (goed) noemt het virale beeld een AI-vervalsing. De pagina van Misbar gaf 403; beoordeeld op wat Factiz zag."
+  },
+  "O:gfc-f67f4ea0f3a123ca#C": {
+   "label": "bewijst niet",
+   "toelichting": "sportsjone.com (zonder band, pagina geopend) zegt alleen dat er geen geverifieerde berichten over een uitzetting zijn, met één ongesourcete zin dat Mohebi nog in de selectie zit. De pagina's van dhs.gov tonen alleen dat er geen persbericht over is. Dat bewijst afwezigheid, niet dat de uitzetting niet gebeurde."
+  },
+  "O:gfc-b6b75490f93ee9a4#C": {
+   "label": "bewijst",
+   "toelichting": "De WHO (GACVS, op 31 studies) en de CDC zeggen dat vaccins geen autisme veroorzaken. MedPage Today en PBS (goed) leggen de stijging uit met bredere diagnosecriteria en niet met vaccins. Beoordeeld op wat Factiz zag."
+  }
+ }
+}

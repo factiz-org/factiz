@@ -1,0 +1,95 @@
+{
+ "toelichting": "PLAN #32.31: elk rood en oranje bij G en W, elk groen bij O' en D en elke klopt grotendeels bij W, gelezen door Claude op 2026-11-03 met dezelfde maat als #32.11, #32.12 en #32.30. vals = een vals alarm bij een waar bericht, een onterecht groen bij nepnieuws of een verzonnen detail, of een onterechte maar; terecht = het oordeel klopt voor dit bericht; set fout = het label van de set klopt niet voor deze tekst. Bij G telt elk rood of oranje bij een gewone tekst tegen eis 1, wat het label ook is (vooraf vastgelegd); het label van de annotatoren blijft staan.",
+ "oordelen": [
+  {
+   "id": "D:b-008008",
+   "label": "vals",
+   "reden": "verzonnen detail 'since 2011' (de bron: sinds 2014 verdeeld); groen zonder de verbetering. Grensgeval: Libië is sinds 2011 in onrust, maar de splitsing in twee kampen is van 2014"
+  },
+  {
+   "id": "D:b-012449",
+   "label": "vals",
+   "reden": "verzonnen detail 'fled Kharkiv' (de bronnen: fled Kiev); groen zonder de verbetering. Grensgeval: Janoekovitsj vertrok daarna ook uit Charkiv"
+  },
+  {
+   "id": "G:t-03098",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; de dood van dr. Bahrainwala klopt, 'Saifee Hospital sealed' niet (alleen delen ontsmet), en de tweede melding is onbevestigd: misleidend klopt"
+  },
+  {
+   "id": "G:t-03139",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; de WHO betaalt geen 1,5 lakh per patiënt, weerlegd door Factly"
+  },
+  {
+   "id": "G:t-03198",
+   "label": "terecht",
+   "reden": "gewone tekst volgens de annotatoren (2 van 3), maar het bericht beweert dat een video Surya namaskar in Japan toont; Vishvas News, India Today, Factly en The Quint: Mongolië, 2015. Het rood klopt; telt bij eis 1 toch tegen, zoals vooraf vastgelegd"
+  },
+  {
+   "id": "G:t-03207",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; de lijst met 'regels van de overheid' (geen vlees) is een bekende valse lijst, Factly weerlegde dezelfde lijst als niet van de ICMR. Met lichte twijfel: de check gaat over de toeschrijving aan de ICMR"
+  },
+  {
+   "id": "G:t-03319",
+   "label": "terecht",
+   "reden": "gewone tekst volgens de annotatoren (2 van 3), maar 'het is illegaal een pdf van een krant te delen, de beheerder kan worden vervolgd' is een bewering; India Today en Factly (deels waar): niet in alle gevallen. Oranje klopt; telt bij eis 1 toch tegen"
+  },
+  {
+   "id": "G:t-03450",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; India Today en BBC Hindi: Mamata Banerjee gaf die opdracht niet"
+  },
+  {
+   "id": "G:t-03597",
+   "label": "terecht",
+   "reden": "gewone tekst volgens de annotatoren (2 van 3), maar 'mijd 90 dagen koude dranken en ijs vanwege corona' is een bewering; AFP, Vishvas News en The Quint weerlegden haar. Het rood klopt; telt bij eis 1 toch tegen"
+  },
+  {
+   "id": "G:t-03879",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; geen besmette kip in Bangalore, weerlegd door vijf factcheckers"
+  },
+  {
+   "id": "G:t-03965",
+   "label": "terecht",
+   "reden": "bewering volgens de annotatoren; het lied van Rafi is niet door de Congresregering verboden (The Quint, Factly)"
+  },
+  {
+   "id": "O:gfc-af31d884bf31576d",
+   "label": "set fout",
+   "reden": "de claimtekst is de conclusie van VERA Files ('term not extended until 2034'), niet de valse bewering; groen is terecht (zelfde label als #32.12 en #32.30)"
+  },
+  {
+   "id": "O:gfc-bcf571f999d290f6",
+   "label": "vals",
+   "reden": "VERA Files: Hontiveros legde geen verklaring af dat ze president wil worden; de bronnen zeggen alleen dat ze openstaat voor en zich voorbereidt op 2028 (zelfde label als #32.30)"
+  },
+  {
+   "id": "b-002212",
+   "label": "vals",
+   "reden": "onterechte maar: Ballweg is opgeleid als bedrijfskundige (DW, de bron van het bericht), en richtte een softwarebedrijf op; 'software engineer' bij ASPI is geen tegenspraak"
+  },
+  {
+   "id": "b-006859",
+   "label": "set fout",
+   "reden": "21st Century Wire (Vanessa Beeley) over 'fraude' met chemische wapens in Ghouta: bekende desinformatie, de set noemt het ten onrechte waar; rood met Snopes is terecht (zelfde label als #32.11 en #32.30)"
+  },
+  {
+   "id": "b-008138",
+   "label": "vals",
+   "reden": "onterechte maar: 'suspension' tegen 'deleted' is te verdedigen; DW zelf, de bron van het bericht, schrijft 'suspension'"
+  },
+  {
+   "id": "b-015147",
+   "label": "vals",
+   "reden": "onterechte maar: het aantal landen van RFE/RL veranderde in de tijd; 20 stond op het moment van de tekst in de eigen FAQ. Te verdedigen, dus geen maar (B48)"
+  },
+  {
+   "id": "b-015332",
+   "label": "terecht",
+   "reden": "terechte maar: Oekraïne is niet 's werelds grootste graanexporteur, wel een van de grootste drie (Atlantic Council)"
+  }
+ ]
+}

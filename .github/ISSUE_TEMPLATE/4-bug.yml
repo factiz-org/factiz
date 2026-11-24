@@ -1,0 +1,42 @@
+name: Bug in the code
+description: Something in the lab, the platform, the site or the resolver does not do what it should.
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: part
+    attributes:
+      label: Where
+      options:
+        - The site or platform (site/, factiz_site/)
+        - The lab (doublecheck/)
+        - The resolver API or protocol
+        - The conformance test (conformance/)
+        - Tests or tooling
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What you did
+      description: Commands, input, URL. Never paste a key or the contents of .env.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+      description: The output or the error, as text.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Commit, Python and Node version, operating system
+      placeholder: "abc1234, Python 3.12.7, Node 22.11, macOS 15"

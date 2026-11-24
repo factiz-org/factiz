@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imane Khelif memiliki gen SRY, tetapi belum terbukti bahwa ia secara biologis laki-laki",
+  "oordeel_zin": "Khelif sendiri mengatakan pada Februari 2026 bahwa ia memiliki gen SRY, tetapi tidak ada hasil tes yang dipublikasikan, dan tidak ada federasi olahraga maupun hakim yang menetapkan bahwa ia secara biologis laki-laki [4] [7] [8].",
+  "bewering": "OMG. Bahwa seorang petinju yang secara biologis laki-laki bertinju melawan perempuan, harus dan pasti dirayakan sebagai puncak olahraga. Tetapi siapa pun yang menyebutnya penganiayaan terhadap perempuan, harus dan pasti di-cancel. Rupanya hanya satu pandangan yang boleh menang.",
+  "kort": "Sebuah unggahan di X menyebut seorang petinju yang bertinju melawan perempuan, yang diduga Imane Khelif, secara biologis laki-laki [1] [3]. Khelif sendiri mengatakan pada Februari 2026 bahwa ia memiliki gen SRY, yang menurut IOC menunjukkan perkembangan seks laki-laki, dan bahwa ia dibesarkan sebagai anak perempuan dan bukan transgender [4] [8]. Apakah ia dihitung sebagai laki-laki dalam olahraga bergantung pada sebuah tes dan penilaian medis yang tidak ada satu pun dipublikasikan, dan tidak ada federasi olahraga maupun hakim yang memutuskannya [6] [7] [8].",
+  "tekst": "Unggahan itu tidak menyebut nama dan mengutip unggahan miliknya sendiri tertanggal 9 November tentang sesuatu yang disebut HLN sebagai puncak olahraga [1] [2]. Bahwa unggahan itu membahas Khelif kami simpulkan dari waktunya: pada 6 November ia mengumumkan pertandingan profesional pertamanya [3]. Pada pekan itu juga beredar unggahan berbahasa Inggris tentang seorang laki-laki dalam tinju putri Olimpiade [11].\n\nKhelif, petinju Aljazair, meraih medali emas Olimpiade 2024 di kelas putri [3]. Di surat kabar olahraga Prancis L'Équipe, pada 4 Februari 2026 ia membenarkan bahwa ia memiliki gen SRY, gen yang biasanya terletak pada kromosom Y [4] [8]. Jawabannya: \"Ya, dan itu alami.\" [4] Ia juga mengatakan bahwa sebelum pertandingan ia menurunkan testosteronnya dengan hormon, dan bahwa ia dibesarkan sebagai anak perempuan dan bukan perempuan transgender [4]. Ia tidak menyebut sebuah diagnosis [4].\n\nSejak Agustus 2025 World Boxing menganggap petinju dengan gen SRY sebagai laki-laki, kecuali jika ada ketidakpekaan penuh terhadap hormon laki-laki [4] [6]. Pada Maret 2026 IOC memutuskan bahwa mulai Olimpiade 2028 hanya perempuan tanpa gen SRY yang tampil di kategori putri, kecuali pada kondisi langka yang membuat testosteron tidak memberi keuntungan [8]. Aturan itu tidak berlaku surut dan menurut IOC tidak mengatakan apa pun tentang jenis kelamin hukum seseorang [8].\n\nPada 2025 World Boxing tidak lagi mengizinkan Khelif bertanding sampai ia menjalani tes genetik, dan pengadilan arbitrase olahraga TAS menolak menangguhkan keputusan itu pada 1 September 2025 [7]. Perkaranya berjalan secara rahasia, dan kami tidak menemukan putusan [7]. Khelif mengatakan pada Februari bahwa ia mengirim berkas medisnya kepada World Boxing, tanpa tanggapan [4].\n\nDokumen dalam sebuah majalah Prancis yang pada 2024 disebut membuktikan bahwa ia laki-laki, disebut IOC belum diverifikasi [9]. Pada Agustus 2024, sebelum wawancara itu, RTBF dan FactCheck.org menyebut klaim bahwa Khelif laki-laki sebagai tidak benar [12] [13].",
+  "niet_weten": "Kami tidak tahu apakah Khelif menjalani tes gen SRY untuk World Boxing atau IOC, dan apa yang ditemukan dokter pada dirinya. Kami juga tidak yakin bahwa unggahan itu memang membahas dirinya.",
+  "bereik": "437 suka dan 18 balasan pada 22 November",
+  "nog_uitzoeken": [
+   "Bagaimana TAS memutuskan dalam perkara Khelif melawan World Boxing.",
+   "Apakah Khelif menjalani tes gen SRY untuk World Boxing atau IOC, dan dengan hasil apa.",
+   "Unggahan mana dari akun tersebut yang dibatasi X di Uni Eropa, dan atas permintaan siapa.",
+   "Artikel HLN mana yang dimaksud unggahan 9 November.",
+   "Kami ragu antara Belum terbukti dan Menyesatkan. Menyesatkan, karena unggahan itu menyajikan sebagai hal yang pasti sesuatu yang tidak ditetapkan oleh federasi olahraga maupun hakim; Belum terbukti, karena Khelif sendiri mengatakan bahwa ia memiliki gen SRY, yang menurut aturan World Boxing dan IOC dihitung sebagai perkembangan seks laki-laki, kecuali pada sebuah pengecualian yang tidak ada satu pun informasinya dipublikasikan. Kami memilih Belum terbukti."
+  ],
+  "tijdlijn": [
+   "IOC: pada Olimpiade Paris, jenis kelamin di paspor yang berlaku [5].",
+   "Khelif mengajukan banding ke TAS terhadap keputusan World Boxing [7].",
+   "Aturan World Boxing tentang jenis kelamin, dengan tes gen SRY, mulai berlaku [6].",
+   "TAS menolak menangguhkan keputusan World Boxing sampai perkara disidangkan [7].",
+   "Khelif mengatakan di L'Équipe bahwa ia memiliki gen SRY dan menurunkan testosteronnya dengan hormon [4].",
+   "IOC membatasi kategori putri mulai Olimpiade 2028 bagi mereka yang tidak memiliki gen SRY, dengan satu pengecualian [8].",
+   "Khelif mengumumkan pertandingan profesional pertamanya, pada 15 Desember di Paris melawan Clarida Sarabia [3].",
+   "Akun itu menulis bahwa HLN menyebut sesuatu sebagai puncak olahraga [2].",
+   "Unggahan di X [1].",
+   "NOS melaporkan bahwa Clarida Sarabia mundur dari pertandingan melawan Khelif [10]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 12 November 2026, pukul 20.42."
+  ],
+  "beeld_alt": [
+   "Sebuah unggahan di X yang mengatakan bahwa seorang petinju yang secara biologis laki-laki bertinju melawan perempuan, dengan tangkapan layar pemberitahuan bahwa sebuah unggahan dibatasi di Uni Eropa dan sebuah unggahan yang dikutip tentang puncak olahraga menurut HLN. Stempel: BELUM TERBUKTI."
+  ]
+ }
+}

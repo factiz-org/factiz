@@ -1,0 +1,973 @@
+{
+ "_meta": "Het register van basisbronnen (B34, PLAN #30.1b). Alleen bronnen hier tellen voor een oormerk. Soorten: naslagwerk, wetenschap (literatuur en instituten), onderzoek (primaire bronnen, archieven, rechtbanken, internationale onderzoeken), statistiek. Onafhankelijk telt per uitgever: alle taalversies van Wikipedia en Wikidata zijn samen één bron. Criteria: redactieproces, correctiebeleid, onafhankelijkheid, wetenschappelijke status ('waarom'). Een nieuwe bron komt erbij met een regel hier. Overheid: instanties onder de politieke leiding van dezelfde regering tellen samen als één stem; rechtbanken, onafhankelijke onderzoeksraden, academies en musea op afstand tellen apart. Niet_meegeteld: een bron die op een onderwerp van standpunt wisselde zonder nieuw bewijs, telt daar niet mee (B34). Journalistiek: per land de beste één of twee elitekranten (newspaper of record, hoor en wederhoor, eigen correctiebeleid, onafhankelijke redactie, niet onder staatstoezicht); Claude stelt voor, de PO keurt goed; tellen alleen samen met een andere soort; kranten van dezelfde mediagroep (groep) zijn één stem.",
+ "bronnen": [
+  {
+   "id": "britannica",
+   "naam": "Encyclopaedia Britannica",
+   "uitgever": "Encyclopaedia Britannica, Inc.",
+   "soort": "naslagwerk",
+   "url": "https://www.britannica.com",
+   "waarom": "Redactie met vakdeskundigen, artikelen met auteur en revisiegeschiedenis, correcties via de redactie."
+  },
+  {
+   "id": "wikipedia",
+   "naam": "Wikipedia (alle taalversies)",
+   "uitgever": "Wikimedia Foundation",
+   "soort": "naslagwerk",
+   "url": "https://www.wikipedia.org",
+   "waarom": "Verifieerbaarheid met bronnen per bewering, openbare geschiedenis en overleg; alle taalversies samen tellen als één bron."
+  },
+  {
+   "id": "wikidata",
+   "naam": "Wikidata",
+   "uitgever": "Wikimedia Foundation",
+   "soort": "naslagwerk",
+   "url": "https://www.wikidata.org",
+   "waarom": "Gestructureerde beweringen met bronverwijzing, CC0; zelfde uitgever als Wikipedia, dus samen één bron."
+  },
+  {
+   "id": "larousse",
+   "naam": "Encyclopédie Larousse",
+   "uitgever": "Éditions Larousse",
+   "soort": "naslagwerk",
+   "url": "https://www.larousse.fr/encyclopedie",
+   "waarom": "Redactionele encyclopedie met een lange geschiedenis van redactie en correctie."
+  },
+  {
+   "id": "treccani",
+   "naam": "Enciclopedia Treccani",
+   "uitgever": "Istituto della Enciclopedia Italiana",
+   "soort": "naslagwerk",
+   "url": "https://www.treccani.it",
+   "waarom": "Nationale encyclopedie met redactie door vakgeleerden."
+  },
+  {
+   "id": "nasa",
+   "naam": "NASA",
+   "uitgever": "National Aeronautics and Space Administration",
+   "soort": "wetenschap",
+   "url": "https://www.nasa.gov",
+   "waarom": "Ruimtevaart- en wetenschapsinstituut, primaire bron voor eigen missies en metingen.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "esa",
+   "naam": "European Space Agency",
+   "uitgever": "European Space Agency",
+   "soort": "wetenschap",
+   "url": "https://www.esa.int",
+   "waarom": "Europees ruimtevaartinstituut met eigen metingen en publicaties."
+  },
+  {
+   "id": "noaa",
+   "naam": "NOAA",
+   "uitgever": "National Oceanic and Atmospheric Administration",
+   "soort": "wetenschap",
+   "url": "https://www.noaa.gov",
+   "waarom": "Wetenschappelijk instituut voor klimaat, oceanen en geodesie, met eigen meetreeksen.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "usgs",
+   "naam": "U.S. Geological Survey",
+   "uitgever": "U.S. Geological Survey",
+   "soort": "wetenschap",
+   "url": "https://www.usgs.gov",
+   "waarom": "Geologisch instituut met eigen onderzoek en peer-reviewde publicaties.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "ipcc",
+   "naam": "IPCC",
+   "uitgever": "Intergovernmental Panel on Climate Change",
+   "soort": "wetenschap",
+   "url": "https://www.ipcc.ch",
+   "waarom": "Beoordeelt de wetenschappelijke literatuur over klimaat, met openbare review en goedkeuring door regeringen."
+  },
+  {
+   "id": "who",
+   "naam": "Wereldgezondheidsorganisatie (WHO)",
+   "uitgever": "World Health Organization",
+   "soort": "wetenschap",
+   "url": "https://www.who.int",
+   "waarom": "Internationale gezondheidsorganisatie met deskundigencommissies en richtlijnen op basis van onderzoek."
+  },
+  {
+   "id": "cdc",
+   "naam": "CDC",
+   "uitgever": "Centers for Disease Control and Prevention",
+   "soort": "wetenschap",
+   "url": "https://www.cdc.gov",
+   "waarom": "Volksgezondheidsinstituut met eigen surveillance en onderzoek.",
+   "overheid": "Verenigde Staten (federale regering)",
+   "niet_meegeteld": [
+    {
+     "onderwerp": "vaccins",
+     "sinds": "2026-07-22",
+     "reden": "De autismepagina noemt 'vaccines do not cause autism' sinds 22 juli 2026 'not an evidence-based claim', zonder nieuw bewijs te noemen; de WHO-commissie voor vaccinveiligheid (december 2025), de NHS en de National Academies bleven bij hun oordeel (B34)."
+    }
+   ]
+  },
+  {
+   "id": "ecdc",
+   "naam": "ECDC",
+   "uitgever": "European Centre for Disease Prevention and Control",
+   "soort": "wetenschap",
+   "url": "https://www.ecdc.europa.eu",
+   "waarom": "Europees instituut voor infectieziekten met eigen surveillance en risicobeoordelingen.",
+   "overheid": "Europese Unie"
+  },
+  {
+   "id": "ema",
+   "naam": "European Medicines Agency",
+   "uitgever": "European Medicines Agency",
+   "soort": "wetenschap",
+   "url": "https://www.ema.europa.eu",
+   "waarom": "Europese toezichthouder op geneesmiddelen en vaccins, met openbare beoordelingen.",
+   "overheid": "Europese Unie"
+  },
+  {
+   "id": "nih",
+   "naam": "National Institutes of Health",
+   "uitgever": "National Institutes of Health",
+   "soort": "wetenschap",
+   "url": "https://www.nih.gov",
+   "waarom": "Medisch onderzoeksinstituut met peer-reviewd onderzoek.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "nasem",
+   "naam": "National Academies of Sciences, Engineering, and Medicine",
+   "uitgever": "National Academies of Sciences, Engineering, and Medicine",
+   "soort": "wetenschap",
+   "url": "https://www.nationalacademies.org",
+   "waarom": "Academie van wetenschappers; rapporten met peer review door vakgenoten."
+  },
+  {
+   "id": "royal-society",
+   "naam": "The Royal Society",
+   "uitgever": "The Royal Society",
+   "soort": "wetenschap",
+   "url": "https://royalsociety.org",
+   "waarom": "Wetenschappelijke academie; publicaties met peer review."
+  },
+  {
+   "id": "nhm-london",
+   "naam": "Natural History Museum, London",
+   "uitgever": "Natural History Museum",
+   "soort": "wetenschap",
+   "url": "https://www.nhm.ac.uk",
+   "waarom": "Onderzoeksmuseum met eigen wetenschappers en collecties."
+  },
+  {
+   "id": "smithsonian",
+   "naam": "Smithsonian Institution",
+   "uitgever": "Smithsonian Institution",
+   "soort": "wetenschap",
+   "url": "https://www.si.edu",
+   "waarom": "Onderzoeksinstituut en musea (natuurhistorie, lucht- en ruimtevaart) met eigen wetenschappers en collecties."
+  },
+  {
+   "id": "annals-im",
+   "naam": "Annals of Internal Medicine",
+   "uitgever": "American College of Physicians",
+   "soort": "wetenschap",
+   "url": "https://www.acpjournals.org/journal/aim",
+   "waarom": "Medisch tijdschrift met peer review."
+  },
+  {
+   "id": "nhs",
+   "naam": "NHS",
+   "uitgever": "National Health Service (England)",
+   "soort": "wetenschap",
+   "url": "https://www.nhs.uk",
+   "waarom": "Nationale gezondheidsdienst met medisch beoordeelde publieksinformatie.",
+   "overheid": "Verenigd Koninkrijk"
+  },
+  {
+   "id": "un",
+   "naam": "Verenigde Naties",
+   "uitgever": "United Nations",
+   "soort": "onderzoek",
+   "url": "https://www.un.org",
+   "waarom": "Resoluties en verslagen van de Algemene Vergadering en de Veiligheidsraad; primaire bron voor wat de lidstaten vaststelden."
+  },
+  {
+   "id": "icj",
+   "naam": "Internationaal Gerechtshof",
+   "uitgever": "International Court of Justice",
+   "soort": "onderzoek",
+   "url": "https://www.icj-cij.org",
+   "waarom": "Hoogste rechtsprekende orgaan van de VN; uitspraken op basis van bewijs en hoor en wederhoor."
+  },
+  {
+   "id": "irmct",
+   "naam": "Internationaal Residumechanisme voor Straftribunalen (ICTY-archief)",
+   "uitgever": "International Residual Mechanism for Criminal Tribunals",
+   "soort": "onderzoek",
+   "url": "https://www.irmct.org",
+   "waarom": "Bewaart de uitspraken van het Joegoslaviëtribunaal, op basis van bewijs en hoor en wederhoor."
+  },
+  {
+   "id": "echr",
+   "naam": "Europees Hof voor de Rechten van de Mens",
+   "uitgever": "European Court of Human Rights",
+   "soort": "onderzoek",
+   "url": "https://hudoc.echr.coe.int",
+   "waarom": "Rechterlijke uitspraken op basis van bewijs en hoor en wederhoor."
+  },
+  {
+   "id": "dsb",
+   "naam": "Onderzoeksraad voor Veiligheid",
+   "uitgever": "Dutch Safety Board",
+   "soort": "onderzoek",
+   "url": "https://www.onderzoeksraad.nl",
+   "waarom": "Onafhankelijk onderzoek naar ongevallen, met openbare rapporten."
+  },
+  {
+   "id": "om-jit",
+   "naam": "Openbaar Ministerie (JIT MH17)",
+   "uitgever": "Openbaar Ministerie",
+   "soort": "onderzoek",
+   "url": "https://www.om.nl",
+   "waarom": "Strafrechtelijk onderzoek van het Joint Investigation Team, met openbare bevindingen.",
+   "overheid": "Nederland"
+  },
+  {
+   "id": "rechtspraak",
+   "naam": "De Rechtspraak",
+   "uitgever": "De Rechtspraak",
+   "soort": "onderzoek",
+   "url": "https://www.rechtspraak.nl",
+   "waarom": "Uitspraken van Nederlandse rechters, op basis van bewijs en hoor en wederhoor."
+  },
+  {
+   "id": "ushmm",
+   "naam": "United States Holocaust Memorial Museum",
+   "uitgever": "United States Holocaust Memorial Museum",
+   "soort": "onderzoek",
+   "url": "https://encyclopedia.ushmm.org",
+   "waarom": "Onderzoeksinstituut en archief over de Holocaust, met bronvermelding."
+  },
+  {
+   "id": "yad-vashem",
+   "naam": "Yad Vashem",
+   "uitgever": "Yad Vashem",
+   "soort": "onderzoek",
+   "url": "https://www.yadvashem.org",
+   "waarom": "Herdenkings- en onderzoekscentrum met archief van getuigenissen en documenten."
+  },
+  {
+   "id": "niod",
+   "naam": "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies",
+   "uitgever": "NIOD",
+   "soort": "onderzoek",
+   "url": "https://www.niod.nl",
+   "waarom": "Wetenschappelijk instituut met onderzoek naar oorlog en genocide, waaronder het Srebrenica-rapport."
+  },
+  {
+   "id": "nara",
+   "naam": "U.S. National Archives (met de presidentiële bibliotheken)",
+   "uitgever": "National Archives and Records Administration",
+   "soort": "onderzoek",
+   "url": "https://www.archives.gov",
+   "waarom": "Archief van primaire overheidsdocumenten van de Verenigde Staten.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "nps",
+   "naam": "National Park Service",
+   "uitgever": "National Park Service",
+   "soort": "onderzoek",
+   "url": "https://www.nps.gov",
+   "waarom": "Beheert historische plaatsen met historisch onderzoek en archief.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "hpmm",
+   "naam": "Hiroshima Peace Memorial Museum",
+   "uitgever": "Hiroshima Peace Memorial Museum",
+   "soort": "onderzoek",
+   "url": "https://hpmmuseum.jp",
+   "waarom": "Museum en archief van getuigenissen en documenten over de atoombom op Hiroshima."
+  },
+  {
+   "id": "nsarchive",
+   "naam": "National Security Archive",
+   "uitgever": "National Security Archive (George Washington University)",
+   "soort": "onderzoek",
+   "url": "https://nsarchive.gwu.edu",
+   "waarom": "Publiceert vrijgegeven overheidsdocumenten met toelichting van onderzoekers."
+  },
+  {
+   "id": "amnesty",
+   "naam": "Amnesty International",
+   "uitgever": "Amnesty International",
+   "soort": "onderzoek",
+   "url": "https://www.amnesty.org",
+   "waarom": "Mensenrechtenonderzoek met getuigen en documentatie."
+  },
+  {
+   "id": "hrw",
+   "naam": "Human Rights Watch",
+   "uitgever": "Human Rights Watch",
+   "soort": "onderzoek",
+   "url": "https://www.hrw.org",
+   "waarom": "Mensenrechtenonderzoek met getuigen en documentatie."
+  },
+  {
+   "id": "commissie-911",
+   "naam": "9/11-commissie",
+   "uitgever": "National Commission on Terrorist Attacks Upon the United States",
+   "soort": "onderzoek",
+   "url": "https://www.9-11commission.gov",
+   "waarom": "Onafhankelijke onderzoekscommissie met openbaar eindrapport."
+  },
+  {
+   "id": "fbi",
+   "naam": "FBI",
+   "uitgever": "Federal Bureau of Investigation",
+   "soort": "onderzoek",
+   "url": "https://www.fbi.gov",
+   "waarom": "Strafrechtelijk onderzoek, met openbare bevindingen.",
+   "overheid": "Verenigde Staten (federale regering)"
+  },
+  {
+   "id": "hawaii-doh",
+   "naam": "Hawaii State Department of Health",
+   "uitgever": "Hawaii State Department of Health",
+   "soort": "onderzoek",
+   "url": "https://health.hawaii.gov",
+   "waarom": "Beheert de geboorteregisters van Hawaï; primaire bron voor geboortes daar.",
+   "overheid": "Verenigde Staten (staat Hawaï)"
+  },
+  {
+   "id": "eurostat",
+   "naam": "Eurostat",
+   "uitgever": "Eurostat",
+   "soort": "statistiek",
+   "url": "https://ec.europa.eu/eurostat",
+   "waarom": "Statistisch bureau van de EU, met gedocumenteerde methoden.",
+   "overheid": "Europese Unie"
+  },
+  {
+   "id": "world-bank",
+   "naam": "Wereldbank (data)",
+   "uitgever": "World Bank",
+   "soort": "statistiek",
+   "url": "https://data.worldbank.org",
+   "waarom": "Internationale statistiek met gedocumenteerde bronnen en methoden."
+  },
+  {
+   "id": "icnirp",
+   "naam": "ICNIRP",
+   "uitgever": "International Commission on Non-Ionizing Radiation Protection",
+   "soort": "wetenschap",
+   "url": "https://www.icnirp.org",
+   "waarom": "Onafhankelijke wetenschappelijke commissie voor stralingsbescherming; richtlijnen op basis van de literatuur, erkend door de WHO."
+  },
+  {
+   "id": "rivm",
+   "naam": "RIVM",
+   "uitgever": "Rijksinstituut voor Volksgezondheid en Milieu",
+   "soort": "wetenschap",
+   "url": "https://www.rivm.nl",
+   "waarom": "Nationaal instituut voor volksgezondheid met eigen onderzoek en surveillance.",
+   "overheid": "Nederland"
+  },
+  {
+   "id": "le-monde",
+   "naam": "Le Monde",
+   "uitgever": "Groupe Le Monde",
+   "soort": "journalistiek",
+   "url": "https://www.lemonde.fr",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Frankrijk"
+  },
+  {
+   "id": "haaretz",
+   "naam": "Haaretz",
+   "uitgever": "Haaretz Group",
+   "soort": "journalistiek",
+   "url": "https://www.haaretz.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Israël"
+  },
+  {
+   "id": "nyt",
+   "naam": "The New York Times",
+   "uitgever": "The New York Times Company",
+   "soort": "journalistiek",
+   "url": "https://www.nytimes.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Verenigde Staten"
+  },
+  {
+   "id": "ft",
+   "naam": "Financial Times",
+   "uitgever": "Financial Times Ltd (Nikkei)",
+   "soort": "journalistiek",
+   "url": "https://www.ft.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Verenigd Koninkrijk"
+  },
+  {
+   "id": "wsj",
+   "naam": "The Wall Street Journal",
+   "uitgever": "Dow Jones & Company (News Corp)",
+   "soort": "journalistiek",
+   "url": "https://www.wsj.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Verenigde Staten"
+  },
+  {
+   "id": "reuters",
+   "naam": "Reuters",
+   "uitgever": "Thomson Reuters",
+   "soort": "journalistiek",
+   "url": "https://www.reuters.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "internationaal persbureau"
+  },
+  {
+   "id": "bbc",
+   "naam": "BBC News",
+   "uitgever": "British Broadcasting Corporation",
+   "soort": "journalistiek",
+   "url": "https://www.bbc.com/news",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; publiek gefinancierd maar redactioneel onafhankelijk volgens het Royal Charter, niet onder politieke leiding (PO 2026-10-17).",
+   "land": "Verenigd Koninkrijk"
+  },
+  {
+   "id": "faz",
+   "naam": "Frankfurter Allgemeine Zeitung",
+   "uitgever": "Frankfurter Allgemeine Zeitung GmbH",
+   "soort": "journalistiek",
+   "url": "https://www.faz.net",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Duitsland"
+  },
+  {
+   "id": "sz",
+   "naam": "Süddeutsche Zeitung",
+   "uitgever": "Süddeutscher Verlag",
+   "soort": "journalistiek",
+   "url": "https://www.sueddeutsche.de",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Duitsland"
+  },
+  {
+   "id": "el-pais",
+   "naam": "El País",
+   "uitgever": "PRISA",
+   "soort": "journalistiek",
+   "url": "https://elpais.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Spanje"
+  },
+  {
+   "id": "corriere",
+   "naam": "Corriere della Sera",
+   "uitgever": "RCS MediaGroup",
+   "soort": "journalistiek",
+   "url": "https://www.corriere.it",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Italië"
+  },
+  {
+   "id": "nrc",
+   "naam": "NRC",
+   "uitgever": "NRC Media",
+   "soort": "journalistiek",
+   "url": "https://www.nrc.nl",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "groep": "Mediahuis",
+   "land": "Nederland"
+  },
+  {
+   "id": "de-standaard",
+   "naam": "De Standaard",
+   "uitgever": "Mediahuis België",
+   "soort": "journalistiek",
+   "url": "https://www.standaard.be",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "groep": "Mediahuis",
+   "land": "België"
+  },
+  {
+   "id": "le-soir",
+   "naam": "Le Soir",
+   "uitgever": "Rossel",
+   "soort": "journalistiek",
+   "url": "https://www.lesoir.be",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "België"
+  },
+  {
+   "id": "der-standard",
+   "naam": "Der Standard",
+   "uitgever": "STANDARD Verlagsgesellschaft",
+   "soort": "journalistiek",
+   "url": "https://www.derstandard.at",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Oostenrijk"
+  },
+  {
+   "id": "irish-times",
+   "naam": "The Irish Times",
+   "uitgever": "The Irish Times DAC",
+   "soort": "journalistiek",
+   "url": "https://www.irishtimes.com",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Ierland"
+  },
+  {
+   "id": "publico",
+   "naam": "Público (Portugal)",
+   "uitgever": "Público Comunicação Social",
+   "soort": "journalistiek",
+   "url": "https://www.publico.pt",
+   "waarom": "Een van de elitekranten van de wereld (newspaper of record), een van de beste één of twee van het eigen land, goedgekeurd door de PO: eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht (PO 2026-10-17).",
+   "land": "Portugal"
+  },
+  {
+   "id": "nzz",
+   "naam": "Neue Zürcher Zeitung",
+   "uitgever": "NZZ AG",
+   "soort": "journalistiek",
+   "land": "Zwitserland",
+   "url": "https://www.nzz.ch",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "le-temps",
+   "naam": "Le Temps",
+   "uitgever": "Le Temps SA",
+   "soort": "journalistiek",
+   "land": "Zwitserland",
+   "url": "https://www.letemps.ch",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "dagens-nyheter",
+   "naam": "Dagens Nyheter",
+   "uitgever": "Bonnier",
+   "soort": "journalistiek",
+   "land": "Zweden",
+   "url": "https://www.dn.se",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "svd",
+   "naam": "Svenska Dagbladet",
+   "uitgever": "Schibsted",
+   "soort": "journalistiek",
+   "land": "Zweden",
+   "url": "https://www.svd.se",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17).",
+   "groep": "Schibsted"
+  },
+  {
+   "id": "aftenposten",
+   "naam": "Aftenposten",
+   "uitgever": "Schibsted",
+   "soort": "journalistiek",
+   "land": "Noorwegen",
+   "url": "https://www.aftenposten.no",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17).",
+   "groep": "Schibsted"
+  },
+  {
+   "id": "politiken",
+   "naam": "Politiken",
+   "uitgever": "JP/Politikens Hus",
+   "soort": "journalistiek",
+   "land": "Denemarken",
+   "url": "https://politiken.dk",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "berlingske",
+   "naam": "Berlingske",
+   "uitgever": "Berlingske Media (DPG Media)",
+   "soort": "journalistiek",
+   "land": "Denemarken",
+   "url": "https://www.berlingske.dk",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17).",
+   "groep": "DPG Media"
+  },
+  {
+   "id": "helsingin-sanomat",
+   "naam": "Helsingin Sanomat",
+   "uitgever": "Sanoma",
+   "soort": "journalistiek",
+   "land": "Finland",
+   "url": "https://www.hs.fi",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "gazeta-wyborcza",
+   "naam": "Gazeta Wyborcza",
+   "uitgever": "Agora",
+   "soort": "journalistiek",
+   "land": "Polen",
+   "url": "https://wyborcza.pl",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "rzeczpospolita",
+   "naam": "Rzeczpospolita",
+   "uitgever": "Gremi Media",
+   "soort": "journalistiek",
+   "land": "Polen",
+   "url": "https://www.rp.pl",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "asahi",
+   "naam": "The Asahi Shimbun",
+   "uitgever": "The Asahi Shimbun Company",
+   "soort": "journalistiek",
+   "land": "Japan",
+   "url": "https://www.asahi.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "yomiuri",
+   "naam": "The Yomiuri Shimbun",
+   "uitgever": "Yomiuri Shimbun Holdings",
+   "soort": "journalistiek",
+   "land": "Japan",
+   "url": "https://www.yomiuri.co.jp",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "chosun-ilbo",
+   "naam": "The Chosun Ilbo",
+   "uitgever": "Chosun Media",
+   "soort": "journalistiek",
+   "land": "Zuid-Korea",
+   "url": "https://www.chosun.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "hankyoreh",
+   "naam": "The Hankyoreh",
+   "uitgever": "The Hankyoreh",
+   "soort": "journalistiek",
+   "land": "Zuid-Korea",
+   "url": "https://www.hani.co.kr",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "the-hindu",
+   "naam": "The Hindu",
+   "uitgever": "Kasturi & Sons (The Hindu Group)",
+   "soort": "journalistiek",
+   "land": "India",
+   "url": "https://www.thehindu.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "indian-express",
+   "naam": "The Indian Express",
+   "uitgever": "The Indian Express Group",
+   "soort": "journalistiek",
+   "land": "India",
+   "url": "https://indianexpress.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "globe-and-mail",
+   "naam": "The Globe and Mail",
+   "uitgever": "The Woodbridge Company",
+   "soort": "journalistiek",
+   "land": "Canada",
+   "url": "https://www.theglobeandmail.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "le-devoir",
+   "naam": "Le Devoir",
+   "uitgever": "Le Devoir inc.",
+   "soort": "journalistiek",
+   "land": "Canada",
+   "url": "https://www.ledevoir.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "smh",
+   "naam": "The Sydney Morning Herald",
+   "uitgever": "Nine Entertainment",
+   "soort": "journalistiek",
+   "land": "Australië",
+   "url": "https://www.smh.com.au",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "folha",
+   "naam": "Folha de S.Paulo",
+   "uitgever": "Grupo Folha",
+   "soort": "journalistiek",
+   "land": "Brazilië",
+   "url": "https://www.folha.uol.com.br",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "estadao",
+   "naam": "O Estado de S. Paulo",
+   "uitgever": "Grupo Estado",
+   "soort": "journalistiek",
+   "land": "Brazilië",
+   "url": "https://www.estadao.com.br",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "la-nacion",
+   "naam": "La Nación",
+   "uitgever": "S.A. La Nación",
+   "soort": "journalistiek",
+   "land": "Argentinië",
+   "url": "https://www.lanacion.com.ar",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "reforma",
+   "naam": "Reforma",
+   "uitgever": "Grupo Reforma",
+   "soort": "journalistiek",
+   "land": "Mexico",
+   "url": "https://www.reforma.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "mail-guardian",
+   "naam": "Mail & Guardian",
+   "uitgever": "M&G Media",
+   "soort": "journalistiek",
+   "land": "Zuid-Afrika",
+   "url": "https://mg.co.za",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "ap",
+   "naam": "Associated Press",
+   "uitgever": "Associated Press",
+   "soort": "journalistiek",
+   "land": "internationaal persbureau",
+   "url": "https://apnews.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "afp",
+   "naam": "Agence France-Presse",
+   "uitgever": "Agence France-Presse",
+   "soort": "journalistiek",
+   "land": "internationaal persbureau",
+   "url": "https://www.afp.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; deels publiek gefinancierd, met redactionele onafhankelijkheid vastgelegd in de wet van 1957; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "le-figaro",
+   "naam": "Le Figaro",
+   "uitgever": "Groupe Figaro",
+   "soort": "journalistiek",
+   "land": "Frankrijk",
+   "url": "https://www.lefigaro.fr",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "volkskrant",
+   "naam": "de Volkskrant",
+   "uitgever": "DPG Media",
+   "soort": "journalistiek",
+   "land": "Nederland",
+   "url": "https://www.volkskrant.nl",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17).",
+   "groep": "DPG Media"
+  },
+  {
+   "id": "die-presse",
+   "naam": "Die Presse",
+   "uitgever": "Styria Media Group",
+   "soort": "journalistiek",
+   "land": "Oostenrijk",
+   "url": "https://www.diepresse.com",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "la-repubblica",
+   "naam": "la Repubblica",
+   "uitgever": "GEDI Gruppo Editoriale",
+   "soort": "journalistiek",
+   "land": "Italië",
+   "url": "https://www.repubblica.it",
+   "waarom": "Een van de beste één of twee kranten van het eigen land (newspaper of record): eigen redactie, correctiebeleid en hoor en wederhoor; niet onder staatstoezicht; goedgekeurd door de PO (2026-10-17)."
+  },
+  {
+   "id": "iwm",
+   "naam": "Imperial War Museums",
+   "uitgever": "Imperial War Museums",
+   "soort": "onderzoek",
+   "url": "https://www.iwm.org.uk",
+   "waarom": "Nationaal oorlogsmuseum en archief van het VK, op afstand van de regering, met eigen conservatoren en collecties."
+  },
+  {
+   "id": "ipn",
+   "naam": "Instituut voor Nationale Herinnering (IPN)",
+   "uitgever": "Instytut Pamięci Narodowej",
+   "soort": "onderzoek",
+   "overheid": "Polen",
+   "url": "https://eng.ipn.gov.pl",
+   "waarom": "Pools staatsinstituut met archieven, historici en aanklagers; voerde het onderzoek naar Katyn."
+  },
+  {
+   "id": "avalon",
+   "naam": "The Avalon Project",
+   "uitgever": "Lillian Goldman Law Library, Yale Law School",
+   "soort": "onderzoek",
+   "url": "https://avalon.law.yale.edu",
+   "waarom": "Academische verzameling primaire documenten uit recht en diplomatie."
+  },
+  {
+   "id": "hrec",
+   "naam": "Holodomor Research and Education Consortium",
+   "uitgever": "Canadian Institute of Ukrainian Studies, University of Alberta",
+   "soort": "wetenschap",
+   "url": "https://www.holodomor.ca",
+   "waarom": "Universitair onderzoekscentrum over de Holodomor, met wetenschappelijke overzichten en bronnen."
+  },
+  {
+   "id": "geolsoc",
+   "naam": "Geological Society of London",
+   "uitgever": "The Geological Society of London",
+   "soort": "wetenschap",
+   "url": "https://www.geolsoc.org.uk",
+   "waarom": "Wetenschappelijk genootschap voor de aardwetenschappen sinds 1807, onafhankelijk van de overheid."
+  },
+  {
+   "id": "scripps",
+   "naam": "Scripps Institution of Oceanography",
+   "uitgever": "University of California San Diego",
+   "soort": "wetenschap",
+   "url": "https://scripps.ucsd.edu",
+   "waarom": "Voert sinds 1958 de oorspronkelijke CO2-reeks van Mauna Loa (Keeling-curve), los van die van NOAA."
+  },
+  {
+   "id": "wmo",
+   "naam": "Wereld Meteorologische Organisatie",
+   "uitgever": "World Meteorological Organization",
+   "soort": "wetenschap",
+   "url": "https://wmo.int",
+   "waarom": "Gespecialiseerde VN-organisatie; het jaarlijkse broeikasgasbulletin bundelt het wereldwijde meetnet."
+  },
+  {
+   "id": "metoffice",
+   "naam": "Met Office",
+   "uitgever": "Met Office",
+   "soort": "wetenschap",
+   "overheid": "Verenigd Koninkrijk",
+   "url": "https://www.metoffice.gov.uk",
+   "waarom": "Nationale weerdienst van het VK met een eigen klimaatonderzoekscentrum (Hadley Centre)."
+  },
+  {
+   "id": "congress",
+   "naam": "Congres van de Verenigde Staten (Congressional Record)",
+   "uitgever": "United States Congress",
+   "soort": "onderzoek",
+   "url": "https://www.govinfo.gov/app/collection/crec",
+   "waarom": "Officieel verslag van de wetgevende macht, met de gezamenlijke zitting die de kiesmannen telt; een eigen stem, los van de regering."
+  },
+  {
+   "id": "cvk-ukraine",
+   "naam": "Centrale Kiescommissie van Oekraïne",
+   "uitgever": "Central Election Commission of Ukraine",
+   "soort": "onderzoek",
+   "overheid": "Oekraïne",
+   "url": "https://www.cvk.gov.ua",
+   "waarom": "Stelt wettelijk de officiële verkiezingsuitslagen van Oekraïne vast."
+  },
+  {
+   "id": "osce-odihr",
+   "naam": "OVSE/ODIHR",
+   "uitgever": "OSCE Office for Democratic Institutions and Human Rights",
+   "soort": "onderzoek",
+   "url": "https://odihr.osce.org",
+   "waarom": "Internationale verkiezingswaarnemingsmissies met openbare eindrapporten."
+  },
+  {
+   "id": "rmets",
+   "naam": "Royal Meteorological Society",
+   "uitgever": "Royal Meteorological Society",
+   "soort": "wetenschap",
+   "url": "https://www.rmets.org",
+   "waarom": "Wetenschappelijk genootschap voor meteorologie, onafhankelijk van de overheid."
+  },
+  {
+   "id": "cancer-research-uk",
+   "naam": "Cancer Research UK",
+   "uitgever": "Cancer Research UK",
+   "soort": "wetenschap",
+   "url": "https://www.cancerresearchuk.org",
+   "waarom": "Grootste onafhankelijke kankeronderzoeksfonds ter wereld; informatie op basis van peer-reviewed onderzoek."
+  },
+  {
+   "id": "nejm",
+   "naam": "The New England Journal of Medicine",
+   "uitgever": "Massachusetts Medical Society",
+   "soort": "wetenschap",
+   "url": "https://www.nejm.org",
+   "waarom": "Toonaangevend medisch tijdschrift met peer review; publiceert de primaire verslagen van grote gerandomiseerde studies."
+  },
+  {
+   "id": "jama",
+   "naam": "JAMA",
+   "uitgever": "American Medical Association",
+   "soort": "wetenschap",
+   "url": "https://jamanetwork.com",
+   "waarom": "Toonaangevend medisch tijdschrift met peer review."
+  },
+  {
+   "id": "j-infect",
+   "naam": "Journal of Infection",
+   "uitgever": "British Infection Association",
+   "soort": "wetenschap",
+   "url": "https://www.journalofinfection.com",
+   "waarom": "Tijdschrift over infectieziekten met peer review."
+  },
+  {
+   "id": "opcw",
+   "naam": "OPCW",
+   "uitgever": "Organisation for the Prohibition of Chemical Weapons",
+   "soort": "onderzoek",
+   "url": "https://www.opcw.org",
+   "waarom": "Verdragsorganisatie onder het Chemischewapenverdrag; eigen aangewezen laboratoria analyseren de monsters onafhankelijk."
+  },
+  {
+   "id": "uk-gov",
+   "naam": "Britse regering (GOV.UK)",
+   "uitgever": "His Majesty's Government",
+   "soort": "onderzoek",
+   "overheid": "Verenigd Koninkrijk",
+   "url": "https://www.gov.uk",
+   "waarom": "Officiële verklaringen, op basis van de analyses van Porton Down."
+  },
+  {
+   "id": "bundesregierung",
+   "naam": "Duitse federale regering",
+   "uitgever": "Presse- und Informationsamt der Bundesregierung",
+   "soort": "onderzoek",
+   "overheid": "Duitsland",
+   "url": "https://www.bundesregierung.de",
+   "waarom": "Officiële verklaring over de analyse door een gespecialiseerd laboratorium van de Bundeswehr."
+  },
+  {
+   "id": "dawn-sturgess-inquiry",
+   "naam": "Dawn Sturgess Inquiry",
+   "uitgever": "Dawn Sturgess Inquiry",
+   "soort": "onderzoek",
+   "url": "https://www.dawnsturgess.independent-inquiry.uk",
+   "waarom": "Wettelijk openbaar onderzoek (Inquiries Act 2005) onder een oud-rechter van het Hooggerechtshof, met getuigen onder ede; een onafhankelijke onderzoeksraad."
+  }
+ ]
+}

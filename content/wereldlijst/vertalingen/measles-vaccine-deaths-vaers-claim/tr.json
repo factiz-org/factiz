@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "ABD'nin resmi verileri, 1995'ten bu yana kızamık aşılarının kızamık enfeksiyonlarına kıyasla yüzde 1.700 daha fazla ölümle ilişkilendirildiğini gösteriyor.",
+  "kern": [
+   "Bu rakam, herkesin bildirim gönderebildiği bir ABD aşı güvenliği veri tabanı olan VAERS'e yapılan bildirimleri, doğrulanmış kızamık ölümleriyle karşılaştırıyor ve uzmanlar AFP'ye bu tür bildirimlerin bir aşının ölüme yol açtığını gösteremeyeceğini söyledi [1].",
+   "Büyük güvenlik çalışmaları, kızamık, kabakulak ve kızamıkçık aşısından kaynaklanan ciddi olumsuz sonuçların nadir olduğunu gösteriyor [1]."
+  ],
+  "rondgang": "Bir Substack yazısından çıkan iddia, Pan Amerikan Sağlık Örgütü'nün Amerika Birleşik Devletleri'nin artık kızamığın ortadan kaldırılması ölçütlerini karşılamadığına karar vermesiyle birlikte X, Facebook ve Instagram'da yayıldı [1]."
+ }
+}

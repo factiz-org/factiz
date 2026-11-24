@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Un video de un perro robot armado que guía a soldados circulaba en internet en octubre y no es de Haití",
+  "oordeel_zin": "El clip estaba en TikTok el 7 de octubre de 2026, antes de que El Salvador enviara a más de 2000 soldados a Haití; en el material del propio Bukele desde el estadio de Puerto Príncipe sí aparecen perros robot armados, pero este clip no forma parte de él [3] [5] [8].",
+  "bewering": "Miren lo que estos perros robot le están haciendo a las bandas de Haití. Este es uno de los mejores inventos militares. Reduce las bajas humanas (soldados) al nivel más bajo.",
+  "kort": "Desde el 14 de noviembre, una publicación en X presenta un video de un perro robot armado que avanza delante de unos soldados como lo que los perros robot les están haciendo a las bandas en Haití [1]. Una emisora de radio de Ecuador publicó el mismo clip en TikTok el 7 de octubre de 2026, antes de que El Salvador enviara a más de 2000 soldados a Haití [3] [8]. Las fuerzas salvadoreñas sí llevaron perros robot armados al estadio nacional de Puerto Príncipe, pero esos aparecen en el video del propio presidente Bukele, no en este clip [5] [6].",
+  "tekst": "El 14 de noviembre de 2026, una cuenta de X publicó un video de 26 segundos con el texto «Miren lo que estos perros robot le están haciendo a las bandas de Haití» [1]. Citaba una publicación de la misma cuenta del día anterior, que decía que El Salvador usaba perros robot para dar caza a pandilleros en Haití [2]. En el video, un perro robot con un fusil a la espalda avanza delante de unos soldados junto a un muro con patrón de camuflaje, y un dron sobrevuela un edificio de hormigón blanco [1].\n\nEl clip lleva un rótulo en español, «Perros robot con armamento», la fecha 07-10-2026 y el logotipo de Ritmo 93.9 [1]. Ritmo 93.9 es una emisora de radio de la provincia de Pastaza, en Ecuador [4]. Publicó el mismo clip en TikTok el 7 de octubre de 2026, sin una palabra sobre Haití ni El Salvador, y escribió que quizá se había hecho con IA [3]. Un texto en chino en la parte superior del clip, parcialmente tapado por el logotipo de la radio, nombra a una empresa de la provincia china de Shandong [1].\n\nOnce días después, el 18 de octubre, cuatro técnicos de aviación salvadoreños desaparecieron tras un ataque de una banda en Haití [8] [9]. Unos 200 salvadoreños ya servían allí, sobre todo en apoyo médico [9]. Tras el ataque, El Salvador envió a más de 2000 soldados [8] [9].\n\nEl 12 de noviembre, unidades de la policía y del ejército haitianos y fuerzas especiales salvadoreñas tomaron el estadio Sylvio Cator de Puerto Príncipe [5] [9]. Bukele publicó en X un video de 76 segundos de la operación [5]. En sus últimos 20 segundos se ve a soldados montando fusiles sobre perros robot en el campo, y a los robots caminando por pasillos azules y subiendo escaleras [5] [7]. Según Newsweek, las imágenes no muestran a los robots disparando [6]. El recinto con el muro de camuflaje no aparece en el video de Bukele [1] [5].",
+  "niet_weten": "No sabemos quién filmó el clip, dónde ni cuándo, ni si son imágenes reales. La copia más antigua que encontramos es la que Ritmo 93.9 publicó el 7 de octubre [3]. No sabemos si los perros robot del video de Bukele participaron en algún combate [6] [7].",
+  "bereik": "662 me gusta y 23 respuestas el 23 de noviembre",
+  "nog_uitzoeken": [
+   "Quién hizo el clip con el perro robot y el dron, dónde y cuándo se filmó, y si son imágenes reales o hechas con IA.",
+   "A qué empresa de Shandong se refiere el texto en chino de la parte superior del clip, ya que parte del nombre queda oculta tras el logotipo de Ritmo 93.9, y si esa empresa publicó primero las imágenes.",
+   "Si los perros robot del video de Bukele del 12 de noviembre participaron en algún combate en Haití.",
+   "Sopesamos Engañoso frente a Falso. El clip no es de Haití y no muestra nada hecho contra bandas allí, pero las fuerzas salvadoreñas sí llevaron perros robot armados al estadio de Puerto Príncipe. Si sabe algo más sobre el clip, cuéntenoslo."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9 publica el clip en TikTok como un video compartido recientemente [3].",
+   "Cuatro técnicos de aviación salvadoreños desaparecen tras un ataque de una banda en Haití [8] [9].",
+   "Al Jazeera y AP informan de más de 2000 soldados salvadoreños en Haití [8].",
+   "Fuerzas haitianas y salvadoreñas toman el estadio Sylvio Cator de Puerto Príncipe [9].",
+   "Bukele publica su video de la operación, con perros robot armados al final (UTC) [5].",
+   "La cuenta dice que El Salvador usa perros robot para dar caza a pandilleros en Haití (UTC) [2].",
+   "Newsweek informa sobre los perros robot del video de Bukele (UTC) [6].",
+   "La misma cuenta publica el clip de Ritmo 93.9 como perros robot en Haití (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 14 de noviembre de 2026, 20:08 UTC.",
+   "Ritmo 93.9 FM en TikTok, 7 de octubre de 2026: el mismo clip, con el mismo rótulo y la misma fecha, cinco semanas antes de que las fuerzas salvadoreñas tomaran el estadio de Puerto Príncipe."
+  ],
+  "beeld_alt": [
+   "La publicación en X de Benkingsley Nwashara que dice Miren lo que estos perros robot le están haciendo a las bandas de Haití, con un fotograma del video: un soldado con un fusil en la esquina de un muro con patrón de camuflaje, el rótulo en español Perros robot con armamento y la fecha 07-10-2026. Debajo, la publicación citada del 13 de noviembre con una vista aérea de un estadio de fútbol. Sello: ENGAÑOSO.",
+   "Fotograma del video de TikTok de Ritmo 93.9: un perro robot con un fusil en un patio de tierra junto a un muro con patrón de camuflaje, con el rótulo Perros robot con armamento y la fecha 07-10-2026."
+  ]
+ }
+}

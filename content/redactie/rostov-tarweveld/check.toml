@@ -1,0 +1,153 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/rostov-tarweveld/dossier.md.
+
+sleutel = "rostov-tarweveld"
+status = "gepubliceerd"
+taal = "nl"
+adres = "klimaatveranderaar-tarweveld-video"
+adres_en = "climate-changer-wheat-field-video"
+kop = "Video van een 'klimaatveranderaar' in een Spaans tarweveld ging in 2022 rond in Rusland"
+oordeel = "onwaar"
+oordeel_zin = "De beelden komen niet uit Spanje: lenzen in tarwevelden waren in juli 2022 een gerucht in de Russische regio Rostov, en de hulpdiensten daar vonden er geen [2] [5]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Spanje: Een boer vond een \"klimaatveranderaar\" in een van zijn tarwevelden."
+platform = "X"
+eerst_gezien = "2026-09-04"
+posts = 1
+bereik = "1.645 keer bekeken op 18 november"
+
+kort = """
+Sinds 4 september gaat op X een video rond van een "klimaatveranderaar" die een boer in een Spaans tarweveld zou \
+hebben gevonden [1]. Video's van zulke constructies met lenzen in tarwevelden gingen al in juli 2022 rond in de \
+Russische regio Rostov, als bewijs van sabotage [2] [5]. De hulpdiensten daar vonden bij de branden geen lenzen en \
+noemden het bericht vals [2]."""
+
+tekst = """
+Op vrijdag 4 september 2026 om 11:47 verscheen op X een video van 48 seconden, met een Spaanse vlag en de tekst dat \
+een boer in Spanje een "klimaatveranderaar" vond in een van zijn tarwevelden [1]. Spanje had die zomer grote \
+bosbranden, onder meer in de regio Madrid en in Ávila in juli [6].
+
+Dezelfde soort beelden ging vier jaar eerder rond in Rusland. Op 12 juli 2022 verschenen op sociale media video's van \
+zelfgemaakte constructies met lenzen in tarwevelden in de regio Rostov, in het zuiden van Rusland [2]. Volgens die \
+berichten hadden Oekraïense saboteurs ze neergezet, zodat de zon het graan in brand zou steken [2]. Op YouTube staat een \
+video met de titel dat boeren in de regio Rostov massaal zulke apparaten in het graan vinden [5].
+
+De hulpdiensten van de regio spraken het tegen. Het regionale ministerie voor noodsituaties zei op 13 juli 2022 dat het \
+geen meldingen van zulke apparaten had gekregen, en dat bij de branden geen lenzen waren gevonden [2]. Het noemde het \
+bericht vals en liet nagaan wie het bewust verspreidde [2]. Ook Lapsha Media, een Russisch project dat zich \
+factchecker noemt, schreef op 14 juli dat bij de branden niets verdachts was gevonden [3].
+
+In juli 2024 kwam het gerucht terug, nu over velden in de Kuban [4]. De politie daar had er geen meldingen van [4]. \
+In de regio Stavropol zei de gouverneur toen wel dat er lenzen in velden waren gevonden, en daar liep een strafzaak \
+[4]. Over Rostov herhaalde de krant dat het ministerie in 2022 had gezegd dat zo'n constructie nauwelijks een brand kan \
+aansteken [4].
+
+Met Spanje hebben de beelden dus niets te maken, en met het klimaat ook niet. Het verhaal ging over sabotage in \
+Rusland, en zelfs daar vond niemand bewijs dat de lenzen in Rostov een brand hadden veroorzaakt [2] [4]."""
+
+niet_weten = """
+We weten niet wie de video als eerste maakte en waar die precies is opgenomen. Een Spaans bericht over zo'n vondst \
+vonden we niet, maar we hebben de Spaanse pers niet volledig doorzocht. Wie de video van Rusland naar Spanje \
+verplaatste, en wat de post met een klimaatveranderaar bedoelt, weten we ook niet. De bronnen over 2022 zijn Russisch \
+en geven vooral de woorden van het ministerie door."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Het origineel uit juli 2022. De video op YouTube staat op het kanaal van een privépersoon en is waarschijnlijk niet het origineel.",
+  "Een onafhankelijke bron voor de woorden van het ministerie in Rostov, zoals het bericht op de site van het ministerie zelf of een niet-Russisch medium.",
+  "Voor de band van Lapsha Media met de Russische staat zoeken we nog een bron.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Stilstaand beeld uit de video in een post op X, 4 september 2026, 11:47."
+alt = "Stilstaand beeld uit een video van een constructie in een tarweveld, gebracht als vondst in Spanje. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2022-07-12"
+wat = "Op sociale media gaan video's rond van constructies met lenzen in tarwevelden in de regio Rostov [2]."
+
+[[tijdlijn]]
+datum = "2022-07-13"
+wat = "Het ministerie voor noodsituaties in Rostov noemt het bericht vals: geen meldingen, geen lenzen gevonden [2]."
+
+[[tijdlijn]]
+datum = "2022-07-14"
+wat = "Lapsha Media schrijft dat bij de branden niets verdachts is gevonden [3]."
+
+[[tijdlijn]]
+datum = "2024-07-12"
+wat = "Het gerucht komt terug, nu over velden in de Kuban [4]."
+
+[[tijdlijn]]
+datum = "2026-07-26"
+wat = "Maldita begint een overzicht van onjuiste berichten over de bosbranden in Spanje [6]."
+
+[[tijdlijn]]
+datum = "2026-09-04"
+tijd = "11:47"
+wat = "De post over een klimaatveranderaar in een Spaans tarweveld [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post met de video"
+datum = "2026-09-04"
+prive = true
+archief = "https://web.archive.org/web/20261119153928/https://cdn.syndication.twimg.com/tweet-result?id=2095811088839225529&token=52w6neaolfi&lang=en"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "City Reporter (Rostov aan de Don)"
+titel = "МЧС прокомментировало слухи о поджогах на полях с помощью линз (Het ministerie reageert op geruchten over branden in velden met lenzen)"
+datum = "2022-07-13"
+url = "https://cityreporter.ru/mchs-prokommentirovalo-sluhi-o-podzhogah-na-polyah-s-pomoshhyu-linz/"
+archief = "https://web.archive.org/web/20220814224143/https://cityreporter.ru/mchs-prokommentirovalo-sluhi-o-podzhogah-na-polyah-s-pomoshhyu-linz/"
+
+[[bron]]
+nr = 3
+soort = "factcheck"
+uitgever = "Lapsha Media"
+titel = "В Ростовской области хотели поджечь пшеничные поля (In de regio Rostov wilde men tarwevelden in brand steken)"
+datum = "2022-07-14"
+url = "https://lapsha.media/feiky/rostov-fake/"
+archief = "https://web.archive.org/web/20260710112708/https://lapsha.media/feiky/rostov-fake/"
+
+[[bron]]
+nr = 4
+soort = "factcheck"
+uitgever = "Komsomolskaja Pravda, met Lapsha Media"
+titel = "Лупы на полях для поджогов? На Кубани прокомментировали сообщения о диверсантах (Loepen in velden om brand te stichten?)"
+datum = "2024-07-12"
+url = "https://www.kp.ru/daily/27607.5/4958117/"
+archief = "https://web.archive.org/web/20250506190018/https://www.kp.ru/daily/27607.5/4958117/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "YouTube"
+titel = "Video met de Macedonische titel dat boeren in de regio Rostov massaal zulke apparaten in het graan vinden, bekeken op 18 november 2026"
+datum = "2026-11-18"
+prive = true
+archief = "https://web.archive.org/web/20261119145103/https://www.youtube.com/watch?v=fjnC4UoZrRE"
+
+[[bron]]
+nr = 6
+soort = "factcheck"
+uitgever = "Maldita"
+titel = "31 bulos, desinformaciones y contexto sobre los incendios del verano de 2026 en España"
+datum = "2026-08-07"
+url = "https://maldita.es/desinfo/20260807/bulos-y-desinformaciones-sobre-los-incendios-de-la-comunidad-de-madrid-y-avila-de-julio-de-2026/"
+archief = "https://web.archive.org/web/20260921222206/https://maldita.es/desinfo/20260807/bulos-y-desinformaciones-sobre-los-incendios-de-la-comunidad-de-madrid-y-avila-de-julio-de-2026/"

@@ -1,0 +1,21 @@
+[Unit]
+Description=Factiz resolver (try.factiz.org)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=factiz
+Group=factiz
+WorkingDirectory=/home/factiz/app
+Environment=DOUBLECHECK_DB=/home/factiz/app/doublecheck.db
+Environment=PYTHONUNBUFFERED=1
+# Twee werkers als start (RUNBOOK: elke werker draagt model en zoekcache);
+# --timeout 30 is de backstop uit §55. Geen --access-logfile: de
+# privacyverklaring belooft dat geen log een IP aan een check koppelt.
+ExecStart=/home/factiz/app/.venv/bin/gunicorn doublecheck.api:app \
+  -k uvicorn.workers.UvicornWorker -w 2 -b 127.0.0.1:8787 --timeout 30
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

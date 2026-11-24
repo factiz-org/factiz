@@ -1,0 +1,81 @@
+{
+ "toelichting": "PLAN #32.46 stap 3, bekende nepbeelden (es): elk rood en oranje zonder de eigen check als bron en elk groen, blind gelezen door een deelagent. De eerste opdracht noemde een groen ten onrechte een fout in de set als het valse alleen in het beeld zat dat Factiz zag; dat is gecorrigeerd: het beeld hoort bij de bewering (BENCHMARK §234).",
+ "labels": {
+  "N:0a36db076f46#C": {
+   "label": "bewijst",
+   "toelichting": "Chequeado (goed, spreekt tegen) noemt in de titel vals dat in Tucumán worsten van hondenvlees worden gemaakt, net als de eigen check."
+  },
+  "N:1a2dc044844c#C": {
+   "label": "vals",
+   "toelichting": "De tekst noemt alleen het ware deel (de winterstorm in Texas van februari 2021); vals waren de vijf foto's, uit IJsland, Polen, Montana (2013) en van jaren eerder. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:409d02c4b766#C": {
+   "label": "bewijst",
+   "toelichting": "Animal Político en Univision noemen precies deze kettingtekst ('Luto nacional en México... No hubo sobrevivientes') onwaar en Reuters dezelfde hoax van 2021, al gaan zij over golven met foto's van Durango 2018 terwijl dit beeld volgens de eigen check ongelukken in Spanje 2015, Somalië 2013 en Congo 2008 toont (de uitleg van Factiz over de foto klopt dus niet; Univision opende niet, 403)."
+  },
+  "N:4a5bf85001b8#C": {
+   "label": "bewijst",
+   "toelichting": "De enige bron (check uit de database, zonder rol) is Doğruluk Payı, dat de beelden van de paus met de regenboogvlag 'Yanlış' noemt omdat ze met Midjourney gemaakt zijn, zoals de eigen check; de vraagvorm draagt hier de bewering van het beeld."
+  },
+  "N:4cc468890823#C": {
+   "label": "bewijst",
+   "toelichting": "De enige bron (check uit de database, zonder rol) is PolitiFact met als titel dat de paus geen LGBT-kruis droeg of uitvond; volgens de eigen check is het veelkleurige kruis het kruis van de Wereldjongerendagen uit 2018."
+  },
+  "N:54bf26193ebe#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (algemene staking tegen Milei op 24 januari 2024; 'Milei loog' is een mening); vals was de foto, een menigte op de Plaza de Mayo voor Cristina Fernández de Kirchner in september 2022. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:5a9b2f20c629#C": {
+   "label": "bewijst",
+   "toelichting": "EFE Verifica, RTVE, AP, Maldita en anderen (goed, spreekt tegen) tonen dat de foto's een niet-betrokken transpersoon laten zien en niet de schutter Salvador Ramos."
+  },
+  "N:620466f39bbd#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters (goed, spreekt tegen) zegt in de titel dat deze beelden van het ongeluk in Mexico uit 2018 zijn, en de eigen check bevestigt dat het dezelfde foto's van Aeroméxico in Durango zijn, waar niemand omkwam."
+  },
+  "N:83c8cc55ae9d#C": {
+   "label": "vals",
+   "toelichting": "De tekst ('fuertes lluvias, desbordes e inundaciones') klopt voor cycloon Yaku in maart 2023 en zegt verder niets; vals waren drie fragmenten van de video, uit Cañete en Mórrope in 2017 en een ouder filmpje van water in een kamer. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:97f857033aee#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (Rusland viel op 24 februari 2022 Oekraïne aan); vals was alleen de foto, een brand op de Tianguis Campesino in Acapulco van 18 februari 2022. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:9e998ba9b332#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt in de kern (Israël viel op 19 april 2024 een doel bij Isfahan binnen Iran aan, bij een luchtmachtbasis; 'de belangrijkste basis' is overdreven); vals waren de twee foto's, Israëlische aanvallen op Gaza van oktober 2023 en mei 2021. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:a196cc01ca09#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (het wrak van Tara Air 197 werd op 30 mei 2022 gevonden, 21 van de 22 inzittenden dood); vals was één van de drie foto's, het vernielde toestel van US-Bangla in Kathmandu uit maart 2018. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:afc89096a802#C": {
+   "label": "bewijst",
+   "toelichting": "ColombiaCheck toont dat de foto echt is maar op 4 juli 2021 bij een betoging in Firozkoh (Ghor) genomen is, niet in een gevecht, wat niet samengaat met 'luchando ... en combate'."
+  },
+  "N:d2718625f487#C": {
+   "label": "vals",
+   "toelichting": "De tekst zegt zelf dat dit de eerste beelden van de schade van de aardbeving van februari 2022 zijn, maar volgens de eigen check komen meerdere foto's uit Guatemala 2017, San Juan (Argentinië) 2021 en Mexico 2017."
+  },
+  "N:daecbdaabadc#C": {
+   "label": "vals",
+   "toelichting": "De tekst noemt alleen het ware deel (de 27 doden van de mijnbrand in Yanaquihua; de namenlijst klopt volgens de eigen check); vals was de foto van de lichamen, van de modderstroom in Secocha (Camaná) in februari 2023. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:dc29e7ed18bb#C": {
+   "label": "bewijst",
+   "toelichting": "Chequeado (goed, spreekt tegen) zegt in de titel dat de foto van het Che-portret bij het afval in 2020 in Madrid is genomen, niet in Cuba, en La Razón meldde hem in september 2020 in Madrid."
+  },
+  "N:ec291b3ad292#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Factual en Newtral (goed, spreekt tegen) tonen dat de foto's van de grote betoging in Tbilisi (Georgië) zijn en niet uit Rusland, en de eigen check noemt de bewering onwaar."
+  },
+  "N:f22dbd09a68f#C": {
+   "label": "bewijst",
+   "toelichting": "De tekst klopt (op 4 maart 2022 brak brand uit in de kerncentrale van Zaporizja, zegt ook de eigen check); vals was alleen de foto, een brand in een plasticfabriek in Huechuraba (Chili) uit 2012, wat PolitiFact (spreekt tegen) ook aanwijst. Gecorrigeerd: het beeld hoort bij de bewering; de bron toont de echte herkomst van de foto."
+  },
+  "N:f78979c2c64e#C": {
+   "label": "bewijst",
+   "toelichting": "La República (april en juli 2022), AP en Univision (goed, spreekt tegen) tonen dat de beelden geen recent ongeluk in Italië laten zien en dat het laatste Italiaanse ongeluk dat van San Donato in oktober 2021 was."
+  }
+ }
+}

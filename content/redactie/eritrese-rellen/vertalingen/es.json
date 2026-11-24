@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck eritrese-rellen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "35732b3e97b1f052",
+ "veldafdrukken": {
+  "kop": "ececa8710b1c4815",
+  "oordeel_zin": "fa2de3b12ca3da08",
+  "bewering": "588a90a75201bcd9",
+  "kort": "df785e233be58cfe",
+  "tekst": "ee517c4a5204ca60",
+  "niet_weten": "99e8064aa79ed649",
+  "nog_uitzoeken": "85006e7de6ecede5",
+  "tijdlijn": "72caa9554a611a4d",
+  "beeld_bijschrift": "0796daec76d5d0d3",
+  "beeld_alt": "99cb9613e705d3eb"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Un video de disturbios en una reunión eritrea en La Haya es de febrero de 2024",
+  "oordeel_zin": "Los disturbios fueron reales, pero ocurrieron el 17 de febrero de 2024, y el mismo video con un texto casi idéntico ya circulaba entonces en X [1] [4].",
+  "bewering": "Imágenes de disturbios con coches de policía en llamas en La Haya, compartidas como si estuvieran ocurriendo ahora.",
+  "kort": "El 27 de octubre, una cuenta neerlandesa de X compartió imágenes de disturbios en La Haya como si acabaran de ocurrir [5]. Las imágenes son del sábado 17 de febrero de 2024, cuando un grupo de opositores intentó entrar por la fuerza en una reunión eritrea en el centro de eventos Opera, en la Fruitweg [1] [3]. El mismo video ya estaba en X aquella noche de 2024, con un texto casi idéntico al de las publicaciones en inglés de finales de octubre de 2026 [4] [6].",
+  "tekst": "El martes 27 de octubre a las 02:26, una cuenta neerlandesa de X compartió imágenes de disturbios en La Haya [5]. Unas horas después, alguien añadió contexto [5]. La cuenta ha sido suspendida desde entonces, así que ya no pudimos leer qué decía exactamente la publicación [5].\n\nUnas horas antes, el lunes 26 de octubre a las 22:01, apareció en inglés un video de 24 segundos sobre graves disturbios en La Haya [6]. Según el texto, migrantes eritreos irrumpieron en el edificio Opera y prendieron fuego a coches de policía [6]. Otras cuentas retomaron el video esa misma noche, una de ellas como señal de protestas en varios países [6].\n\nEse texto y esas imágenes no son nuevos. El sábado 17 de febrero de 2024 a las 19:42, la cuenta Visegrád 24 publicó en X un texto casi idéntico, con un video de la misma duración y el mismo formato [4]. Esa publicación ha superado los 10 millones de visualizaciones [4].\n\nLo que ocurrió aquella noche está bien documentado. En el centro de eventos Opera, en la Fruitweg, entre 500 y 600 eritreos celebraban el Año Nuevo [1]. Según el ayuntamiento, la fiesta la habían organizado partidarios del gobierno eritreo [1]. Un grupo de opositores intentó entrar en el edificio y lanzó piedras y adoquines [1] [3]. Coches de policía, coches de vecinos y un autocar ardieron [1] [3].\n\nSe desplegó la ME (policía antidisturbios) y el alcalde Jan van Zanen autorizó el uso de gas lacrimógeno y dictó una orden de emergencia [1]. La policía detuvo a 13 hombres esa noche, cifra que después subió a 16 [2] [7]. Según el alcalde, 26 agentes resultaron heridos [7]. La Fiscalía procesó a diez sospechosos, y las reclamaciones de indemnización sumaron en conjunto más de 775.000 euros [3].\n\nEl video que circula ahora es, por tanto, real, pero tiene más de dos años y ocho meses [1] [4].",
+  "niet_weten": "No sabemos qué afirmaba exactamente la publicación neerlandesa, porque la cuenta está suspendida y no encontramos ninguna copia. Por tanto, tampoco sabemos con certeza si el video de esa publicación es el mismo que el del 26 de octubre. No sabemos quién grabó las imágenes en febrero de 2024; Visegrád 24 no mencionó a ningún autor. No hemos investigado por qué las imágenes reaparecieron justo a finales de octubre.",
+  "nog_uitzoeken": [
+   "Qué afirmaba exactamente la publicación neerlandesa, y si el vídeo que aparecía en ella eran los mismos 24 segundos. La cuenta está suspendida y no hemos encontrado ninguna copia.",
+   "Si hubo disturbios hacia el 26 de octubre de 2026 durante una reunión eritrea en La Haya. Todavía no lo hemos consultado con la policía ni con Omroep West."
+  ],
+  "tijdlijn": [
+   "La NOS informa de disturbios en torno a una reunión eritrea en la Fruitweg, con coches de policía en llamas [1].",
+   "Visegrád 24 publica el video en X [4].",
+   "Detenidos 13 hombres, seis agentes heridos [2].",
+   "El pleno municipal quiere una investigación externa; ya hay 16 detenidos y 26 agentes heridos [7].",
+   "La Fiscalía pide penas de prisión para diez sospechosos [3].",
+   "Una publicación en inglés presenta como nuevo el mismo video con un texto casi idéntico [6].",
+   "La publicación neerlandesa con las imágenes [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X en inglés, 26 de octubre de 2026, 22:01. La publicación neerlandesa del 27 de octubre ha desaparecido, la cuenta está suspendida.",
+   "Visegrád 24 en X, 17 de febrero de 2024, 19:42: el mismo video, la noche de los disturbios en la Fruitweg."
+  ],
+  "beeld_alt": [
+   "Imagen fija del video: un coche de policía en llamas en una calle de La Haya. Sello: ENGAÑOSO.",
+   "El video de Visegrád 24 de los disturbios en el centro de eventos Opera de La Haya en febrero de 2024."
+  ]
+ }
+}

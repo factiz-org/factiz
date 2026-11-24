@@ -1,0 +1,1221 @@
+{
+ "toelichting": "PLAN #34.2ch, de poort: mijn lezing van 200 die relevantie-v2 (Haiku) en daarna relevantie-tweede-v1 (Sonnet) beide particulier noemden, en 100 die Haiku publiek noemde (zaad 2217, uitgave 2026-11-22b). particulier = terecht weg; publiek = zou ten onrechte verdwijnen; twijfel = niet te zeggen. De regel vooraf: hoogstens 2 publiek en 5 twijfel van de 200. Herkomst: de beweringen komen uit de publicatiedatabase van Factiz (openbare factchecks met hun eigen licentie); de labels zijn van Claude. De greep (2026-11-23) is de trekking die ik las, uit data/relevantie/te-lezen.json: ze ligt vast, zodat nieuwe antwoorden haar niet verschuiven; wat erna komt, gaat door hetzelfde filter.",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-22",
+ "labels": {
+  "336fd563b5d206c9": {
+   "label": "particulier"
+  },
+  "45f574eb888bcd5a": {
+   "label": "particulier"
+  },
+  "224b9798098437c2": {
+   "label": "particulier"
+  },
+  "35365ca9bb96bc19": {
+   "label": "particulier"
+  },
+  "c9966aac2d65ec2f": {
+   "label": "particulier"
+  },
+  "1756087fd2a55343": {
+   "label": "particulier"
+  },
+  "abf19405ae57a17d": {
+   "label": "particulier"
+  },
+  "6e7afe6933727122": {
+   "label": "particulier"
+  },
+  "5c0e7d2cd3d38d43": {
+   "label": "particulier"
+  },
+  "5e6372d055757f49": {
+   "label": "particulier"
+  },
+  "3f4f9131e3ecf563": {
+   "label": "particulier"
+  },
+  "db7e5865830e9361": {
+   "label": "particulier"
+  },
+  "25a3c77f03744dad": {
+   "label": "particulier"
+  },
+  "d728e7391984715d": {
+   "label": "particulier"
+  },
+  "26ef5a6af87fc623": {
+   "label": "particulier"
+  },
+  "5ea52d7febc2c955": {
+   "label": "particulier"
+  },
+  "60832a9484280d41": {
+   "label": "particulier"
+  },
+  "e28ef74200848cae": {
+   "label": "particulier"
+  },
+  "ff37c6557520b734": {
+   "label": "particulier"
+  },
+  "a08d9a3c24f19c2a": {
+   "label": "particulier"
+  },
+  "897cd2f26e57bc34": {
+   "label": "particulier"
+  },
+  "8353b88215d06d34": {
+   "label": "particulier"
+  },
+  "22efd16bc71ab77b": {
+   "label": "particulier"
+  },
+  "5e4267211841e2aa": {
+   "label": "particulier"
+  },
+  "eb205ff2044bcee1": {
+   "label": "particulier"
+  },
+  "8eafc5714fb43dc4": {
+   "label": "particulier"
+  },
+  "a196bd1423d0b261": {
+   "label": "particulier"
+  },
+  "a20dfbe0b99b3248": {
+   "label": "particulier"
+  },
+  "61deb2f1e998b525": {
+   "label": "particulier"
+  },
+  "76e70e6e7caba9a2": {
+   "label": "particulier"
+  },
+  "7165c70598de40f0": {
+   "label": "particulier"
+  },
+  "40e382c33c1659af": {
+   "label": "particulier"
+  },
+  "7c7caa6df288738f": {
+   "label": "particulier"
+  },
+  "acc84271ba1e596d": {
+   "label": "particulier"
+  },
+  "e7abebedfc303b42": {
+   "label": "particulier"
+  },
+  "7b7f9910d479fca1": {
+   "label": "particulier"
+  },
+  "40c2b8347daa99ca": {
+   "label": "particulier"
+  },
+  "f5459f44af9ce3d2": {
+   "label": "particulier"
+  },
+  "696427f10ac75928": {
+   "label": "particulier"
+  },
+  "ac5f0fb65c6c195a": {
+   "label": "twijfel",
+   "notitie": "het meisje op de verpakking van Parle-G, een merk"
+  },
+  "28da01dafe34add2": {
+   "label": "particulier"
+  },
+  "0202112f57523ef3": {
+   "label": "particulier"
+  },
+  "81c0c1f60042190a": {
+   "label": "particulier"
+  },
+  "171b13cf721c8b7f": {
+   "label": "particulier"
+  },
+  "2cfe5308fcbf38c5": {
+   "label": "particulier"
+  },
+  "61895d68a2fb5fe1": {
+   "label": "particulier"
+  },
+  "602b1a37fd1c2df3": {
+   "label": "particulier"
+  },
+  "febf42e2d2cb9730": {
+   "label": "particulier"
+  },
+  "d5a6a026dfab35ee": {
+   "label": "particulier"
+  },
+  "ac863aecddbf4d66": {
+   "label": "twijfel",
+   "notitie": "een gratis vlucht bij Garuda, een luchtvaartmaatschappij"
+  },
+  "bc4520064ee78935": {
+   "label": "particulier"
+  },
+  "e7fb50a2e9424358": {
+   "label": "particulier"
+  },
+  "b7f37c6ade4100cc": {
+   "label": "twijfel",
+   "notitie": "een hond in een vers geasfalteerde weg, gemeentewerken"
+  },
+  "4dfe6409217bf6fc": {
+   "label": "particulier"
+  },
+  "906992a40785341f": {
+   "label": "particulier"
+  },
+  "f5211669b14330ee": {
+   "label": "particulier"
+  },
+  "b20688116d0beb25": {
+   "label": "particulier"
+  },
+  "faecffe02ed31826": {
+   "label": "particulier"
+  },
+  "29fb18bdc6c43bd8": {
+   "label": "particulier"
+  },
+  "a551e5e7e20a18a3": {
+   "label": "particulier"
+  },
+  "295e45d5f88667ec": {
+   "label": "particulier"
+  },
+  "72a0f71888f80ef3": {
+   "label": "particulier"
+  },
+  "bf76cac7efa6dd1c": {
+   "label": "particulier"
+  },
+  "38d5d814829cee13": {
+   "label": "particulier"
+  },
+  "2f895731bb48c209": {
+   "label": "particulier"
+  },
+  "500b52f2884eb3e7": {
+   "label": "particulier"
+  },
+  "55e896344f9bf9ce": {
+   "label": "particulier"
+  },
+  "9f32615d1fbb1e27": {
+   "label": "particulier"
+  },
+  "b0d60e51e9eacb82": {
+   "label": "particulier"
+  },
+  "b8d9e68253e30ac1": {
+   "label": "particulier"
+  },
+  "cfe8709c86354971": {
+   "label": "particulier"
+  },
+  "bbc87f57815f91a4": {
+   "label": "particulier"
+  },
+  "3d99de384c6e3967": {
+   "label": "particulier"
+  },
+  "e74d2b67407b63bd": {
+   "label": "particulier"
+  },
+  "a24d73ea456226e4": {
+   "label": "particulier"
+  },
+  "08a30fae1a9fbd24": {
+   "label": "particulier"
+  },
+  "8d77bc1a4c3dab17": {
+   "label": "particulier"
+  },
+  "bd5c93e6139a36c7": {
+   "label": "particulier"
+  },
+  "18b7513921458839": {
+   "label": "particulier"
+  },
+  "c3536986f5026d97": {
+   "label": "particulier"
+  },
+  "cf71e3fcfddb3566": {
+   "label": "particulier"
+  },
+  "48d9c7614fabbfc0": {
+   "label": "particulier"
+  },
+  "9cd99b51c6493108": {
+   "label": "particulier"
+  },
+  "3220b8a6c852f57a": {
+   "label": "particulier"
+  },
+  "fbb0487571c2f678": {
+   "label": "particulier"
+  },
+  "7f24258bcdadf8f1": {
+   "label": "particulier"
+  },
+  "a629ab4cd3d2f206": {
+   "label": "particulier"
+  },
+  "4118f4e6ddf9cd51": {
+   "label": "particulier"
+  },
+  "e9fca17f08b0d6b3": {
+   "label": "particulier"
+  },
+  "7b663e291afc42ba": {
+   "label": "particulier"
+  },
+  "673e4b4afd17beb9": {
+   "label": "particulier"
+  },
+  "4fb37401a6cd4dfa": {
+   "label": "particulier"
+  },
+  "62a7dcfa383d942a": {
+   "label": "particulier"
+  },
+  "b3d320c1755f4464": {
+   "label": "particulier"
+  },
+  "ef76578ab4583f2f": {
+   "label": "particulier"
+  },
+  "d8c9a1f84dbbb7e8": {
+   "label": "particulier"
+  },
+  "f29c8cf88d3e1224": {
+   "label": "particulier"
+  },
+  "25f685fe9701ad4f": {
+   "label": "particulier"
+  },
+  "d3a214f467b9e943": {
+   "label": "particulier"
+  },
+  "021ee40749e66bcd": {
+   "label": "particulier"
+  },
+  "13407865d2a8a98f": {
+   "label": "particulier"
+  },
+  "dc2bb56502b3158f": {
+   "label": "particulier"
+  },
+  "63bc04cb3cd60509": {
+   "label": "particulier"
+  },
+  "fb1b5d73f4781410": {
+   "label": "particulier"
+  },
+  "7215dedba9078ba2": {
+   "label": "particulier"
+  },
+  "96c4d9da56a00138": {
+   "label": "particulier"
+  },
+  "bbfc7a394013b747": {
+   "label": "particulier"
+  },
+  "b65923101417ae99": {
+   "label": "particulier"
+  },
+  "18501e9eb5c93c25": {
+   "label": "particulier"
+  },
+  "41d7a37e94f347b2": {
+   "label": "particulier"
+  },
+  "5b32d770a9e2bda1": {
+   "label": "particulier"
+  },
+  "a9289b0a7a627c8c": {
+   "label": "particulier"
+  },
+  "aa1dc3bf50a309de": {
+   "label": "particulier"
+  },
+  "7444c5345db1753b": {
+   "label": "particulier"
+  },
+  "f74b3407f5c4c7e8": {
+   "label": "particulier"
+  },
+  "0d063606544b759c": {
+   "label": "publiek",
+   "notitie": "Jackson Anthony, bekende Sri Lankaanse acteur en politicus"
+  },
+  "f08a2e17535b7a5b": {
+   "label": "particulier"
+  },
+  "33b7e06b84bed287": {
+   "label": "particulier"
+  },
+  "dfe6b03e9dafae58": {
+   "label": "particulier"
+  },
+  "8d7396443ddb703b": {
+   "label": "particulier"
+  },
+  "cedc68c9a104d843": {
+   "label": "particulier"
+  },
+  "c9ae8ad53f88e917": {
+   "label": "particulier"
+  },
+  "3ade82c8c7d5cefd": {
+   "label": "particulier"
+  },
+  "7d801456dc68aac4": {
+   "label": "particulier"
+  },
+  "1728a79c9bcd8169": {
+   "label": "particulier"
+  },
+  "555895ff382181eb": {
+   "label": "particulier"
+  },
+  "82e89d96915ce10b": {
+   "label": "particulier"
+  },
+  "9cc2f116da0ed23f": {
+   "label": "particulier"
+  },
+  "c5074c4fd3d456d2": {
+   "label": "particulier"
+  },
+  "41fed1d795196d53": {
+   "label": "particulier"
+  },
+  "b13befbc2c813c8a": {
+   "label": "particulier"
+  },
+  "27ee8e152b1fbe4a": {
+   "label": "particulier"
+  },
+  "0525e12104a2fef1": {
+   "label": "particulier"
+  },
+  "72fbdd3c43ecf44c": {
+   "label": "particulier"
+  },
+  "bd2fb2402dc2e6d7": {
+   "label": "particulier"
+  },
+  "1e39507685fd46a2": {
+   "label": "particulier"
+  },
+  "de1a4533df73e4af": {
+   "label": "particulier"
+  },
+  "9dd693562159e728": {
+   "label": "particulier"
+  },
+  "8cb29c9f498de75e": {
+   "label": "particulier"
+  },
+  "133ad104d962ffc1": {
+   "label": "particulier"
+  },
+  "2b716957366fc173": {
+   "label": "particulier"
+  },
+  "b3054e33818e02ed": {
+   "label": "particulier"
+  },
+  "4feab8e6248ea060": {
+   "label": "particulier"
+  },
+  "aa26d3294ed891b3": {
+   "label": "particulier"
+  },
+  "3c9676e429e5dca1": {
+   "label": "particulier"
+  },
+  "66503092e93b736e": {
+   "label": "particulier"
+  },
+  "556cade831e91fba": {
+   "label": "particulier"
+  },
+  "79955d100b6fe5f5": {
+   "label": "particulier"
+  },
+  "a023d89c0dcd1831": {
+   "label": "particulier"
+  },
+  "372d1404e502ed6a": {
+   "label": "particulier"
+  },
+  "3516920bc5671215": {
+   "label": "publiek",
+   "notitie": "een vrouw in brand gestoken in de trein in New York, landelijk nieuws en een politieke zaak"
+  },
+  "ced998023b13bd0e": {
+   "label": "particulier"
+  },
+  "3feeafbc6b4c64ab": {
+   "label": "particulier"
+  },
+  "538cb77434cbeee6": {
+   "label": "particulier"
+  },
+  "d3c99255828a8002": {
+   "label": "particulier"
+  },
+  "d64b66a6b1984dca": {
+   "label": "particulier"
+  },
+  "d273786d0f094fe9": {
+   "label": "particulier"
+  },
+  "4959b9e87109e553": {
+   "label": "particulier"
+  },
+  "9b0a7bde57435fe0": {
+   "label": "particulier"
+  },
+  "4654776ac77478da": {
+   "label": "particulier"
+  },
+  "c54c281ef3c19b74": {
+   "label": "twijfel",
+   "notitie": "een scholier in een schoolboek van de overheid"
+  },
+  "3776a4abcf7c5a9c": {
+   "label": "particulier"
+  },
+  "158f4f4be919440a": {
+   "label": "particulier"
+  },
+  "7f1df8966165658c": {
+   "label": "particulier"
+  },
+  "f96095a81f1886e9": {
+   "label": "particulier"
+  },
+  "0a5023a27769b021": {
+   "label": "particulier"
+  },
+  "50fc5558ae06e483": {
+   "label": "particulier"
+  },
+  "3689fcff0ab8b856": {
+   "label": "twijfel",
+   "notitie": "een brief voor de terechtstelling, de doodstraf"
+  },
+  "23a8d68f3f8ddd87": {
+   "label": "particulier"
+  },
+  "59941463bac0cf39": {
+   "label": "particulier"
+  },
+  "3a994b6a018c4f7a": {
+   "label": "particulier"
+  },
+  "d816dab5554d42e5": {
+   "label": "particulier"
+  },
+  "fc43575dfde8793e": {
+   "label": "particulier"
+  },
+  "fc3e15df6c8a3fd1": {
+   "label": "particulier"
+  },
+  "86e98e0f3e4992f5": {
+   "label": "particulier"
+  },
+  "086146ebd327e579": {
+   "label": "particulier"
+  },
+  "3b6d0b4116fdc199": {
+   "label": "particulier"
+  },
+  "f555d42a47e51919": {
+   "label": "particulier"
+  },
+  "b76071127fd80548": {
+   "label": "particulier"
+  },
+  "623778cd0e045315": {
+   "label": "particulier"
+  },
+  "0bc9023d85ee4698": {
+   "label": "particulier"
+  },
+  "800c5b5d6294bc94": {
+   "label": "particulier"
+  },
+  "43e7f4f0b8e8f971": {
+   "label": "particulier"
+  },
+  "1093d86b220f04a3": {
+   "label": "particulier"
+  },
+  "1eeb89e7008e9e98": {
+   "label": "particulier"
+  },
+  "c22996465fc59b5c": {
+   "label": "particulier"
+  },
+  "c56b5caf93773cb0": {
+   "label": "particulier"
+  },
+  "18e64e0243f999c5": {
+   "label": "particulier"
+  },
+  "5e0353cfb3d696ea": {
+   "label": "particulier"
+  },
+  "95237ad7eee0fb35": {
+   "label": "particulier"
+  },
+  "cef2ec4b0bc671a8": {
+   "label": "particulier"
+  },
+  "f5861392febaa78f": {
+   "label": "particulier"
+  },
+  "754a6bdfda669acd": {
+   "label": "particulier"
+  },
+  "9d0e9f01c191a05d": {
+   "label": "particulier"
+  },
+  "ea8cdf4634e9701e": {
+   "label": "particulier"
+  },
+  "72058ef8f93cb437": {
+   "label": "particulier"
+  },
+  "dc8a772b691d5e8b": {
+   "label": "particulier"
+  },
+  "2b7c1ee61a0c3089": {
+   "label": "particulier"
+  },
+  "1d106a0c562a1678": {
+   "label": "particulier"
+  },
+  "25c58a42c1095e08": {
+   "label": "particulier"
+  },
+  "1bff3b9ee9be0d87": {
+   "label": "publiek"
+  },
+  "58103f4fa7c9a946": {
+   "label": "publiek"
+  },
+  "e58f2e4cb4504e34": {
+   "label": "publiek"
+  },
+  "b6d43840cff420ca": {
+   "label": "publiek"
+  },
+  "a83314717863a791": {
+   "label": "publiek"
+  },
+  "7930ad57c7de11fb": {
+   "label": "publiek"
+  },
+  "755d89300006ab60": {
+   "label": "publiek"
+  },
+  "2cc87ab2a6c9d193": {
+   "label": "publiek"
+  },
+  "ca6d89a6ae5c5ae7": {
+   "label": "publiek"
+  },
+  "fa8bfaece4e3a208": {
+   "label": "publiek"
+  },
+  "b3c8c9ecf0474466": {
+   "label": "publiek"
+  },
+  "2c6ffc775e0fabde": {
+   "label": "publiek"
+  },
+  "a72adf7ab1396cb8": {
+   "label": "publiek"
+  },
+  "37f6ca06198292b3": {
+   "label": "publiek"
+  },
+  "d76e7d610e4a2046": {
+   "label": "publiek"
+  },
+  "e96a5839681c0101": {
+   "label": "publiek"
+  },
+  "e16266a9addbd8da": {
+   "label": "publiek"
+  },
+  "862b026842024299": {
+   "label": "publiek"
+  },
+  "74d0c8fc2c9fec5b": {
+   "label": "publiek"
+  },
+  "fc37d216d0265c49": {
+   "label": "publiek"
+  },
+  "0aa791a233d340a2": {
+   "label": "publiek"
+  },
+  "aa5a3c66d0b55c76": {
+   "label": "publiek"
+  },
+  "f7ba3dc8fa3c9744": {
+   "label": "publiek"
+  },
+  "0cfc5d9de4eb9f06": {
+   "label": "publiek"
+  },
+  "2f52420bfafea99e": {
+   "label": "publiek"
+  },
+  "ed91b34200326904": {
+   "label": "publiek"
+  },
+  "44585dfc6c4d5696": {
+   "label": "publiek"
+  },
+  "9ce54ee17dfb934b": {
+   "label": "publiek"
+  },
+  "1fccc7c53a996de0": {
+   "label": "publiek"
+  },
+  "8701c7b003289947": {
+   "label": "publiek"
+  },
+  "9ad2527eed0c866f": {
+   "label": "publiek"
+  },
+  "d6ed0af6ff314034": {
+   "label": "publiek"
+  },
+  "8a6b00415b163e62": {
+   "label": "publiek"
+  },
+  "80897a8009e64743": {
+   "label": "publiek"
+  },
+  "27d1ce5a042aeb5f": {
+   "label": "publiek"
+  },
+  "7ccf17cfab8b0603": {
+   "label": "publiek"
+  },
+  "e3604c1a54c02c33": {
+   "label": "publiek"
+  },
+  "947265c71b0936a8": {
+   "label": "publiek"
+  },
+  "7acbc4c2879f5755": {
+   "label": "publiek"
+  },
+  "0d00f5f957324efb": {
+   "label": "publiek"
+  },
+  "d0c31059591a69e4": {
+   "label": "publiek"
+  },
+  "af115dc70d6d853c": {
+   "label": "publiek"
+  },
+  "0778df38e542840c": {
+   "label": "publiek"
+  },
+  "dce56fc047504b49": {
+   "label": "publiek"
+  },
+  "ea885ce918bf4cb6": {
+   "label": "publiek"
+  },
+  "56f30169035ef6e6": {
+   "label": "publiek"
+  },
+  "a364e5768f1d630f": {
+   "label": "publiek"
+  },
+  "1d2959fade534845": {
+   "label": "publiek"
+  },
+  "361c0cda111f4abe": {
+   "label": "publiek"
+  },
+  "091db0d876e6729f": {
+   "label": "publiek"
+  },
+  "9faeb350ddcdbe29": {
+   "label": "publiek"
+  },
+  "59938c2345c457c4": {
+   "label": "publiek"
+  },
+  "50f3962a24b98f3a": {
+   "label": "publiek"
+  },
+  "2088017e6a5a0641": {
+   "label": "publiek"
+  },
+  "31bd15d7b8c3cc4d": {
+   "label": "publiek"
+  },
+  "b755acfd4130224f": {
+   "label": "publiek"
+  },
+  "be8cf973488b0967": {
+   "label": "publiek"
+  },
+  "ab5a86e3de79329b": {
+   "label": "publiek"
+  },
+  "1bfb17be7a0625f9": {
+   "label": "publiek"
+  },
+  "5eb6986cdb808d2a": {
+   "label": "publiek"
+  },
+  "d1860a8cb4ff397c": {
+   "label": "particulier",
+   "notitie": "een jong stel dat een oude vrouw mishandelt, Sri Lanka"
+  },
+  "cdd9e839f4950557": {
+   "label": "publiek"
+  },
+  "d949abc3badadbac": {
+   "label": "publiek"
+  },
+  "01984b754130d49e": {
+   "label": "publiek"
+  },
+  "4883cc54081ac1b8": {
+   "label": "publiek"
+  },
+  "f252b61a8b42bc67": {
+   "label": "publiek"
+  },
+  "8423ab1a36be7a19": {
+   "label": "publiek"
+  },
+  "72476eccb23b25f8": {
+   "label": "publiek"
+  },
+  "6c494fd540b7edd5": {
+   "label": "publiek"
+  },
+  "541bb67c5d6ebccf": {
+   "label": "publiek"
+  },
+  "fc5704d8bd6fd9dd": {
+   "label": "publiek"
+  },
+  "a12d4077b03207e3": {
+   "label": "publiek"
+  },
+  "dfc47531cec63569": {
+   "label": "publiek"
+  },
+  "bbcb13c6ded6b2cc": {
+   "label": "publiek"
+  },
+  "bede6d08691d5d16": {
+   "label": "publiek"
+  },
+  "c296f7391d92e740": {
+   "label": "publiek"
+  },
+  "9d2f53aa9dc404e1": {
+   "label": "publiek"
+  },
+  "ab737d4cd7da9f02": {
+   "label": "publiek"
+  },
+  "0ba2a157d1e6a5e9": {
+   "label": "publiek"
+  },
+  "185504b2d0b25b09": {
+   "label": "publiek"
+  },
+  "b4b52a3cbf76398c": {
+   "label": "publiek"
+  },
+  "4f8c00afd3535929": {
+   "label": "publiek"
+  },
+  "11f7c1b41dabd40d": {
+   "label": "publiek"
+  },
+  "d9b0b19fb96072c4": {
+   "label": "publiek"
+  },
+  "1c0dfafa599a9bb1": {
+   "label": "publiek"
+  },
+  "6a2cee7936f28fa9": {
+   "label": "publiek"
+  },
+  "62af884b3e4e6417": {
+   "label": "publiek"
+  },
+  "bdbeeff9f10fb179": {
+   "label": "publiek"
+  },
+  "2ff79d9b38c4a67a": {
+   "label": "publiek"
+  },
+  "bca9d9b2e299a68f": {
+   "label": "publiek"
+  },
+  "f5a9ac74d6aa6903": {
+   "label": "publiek"
+  },
+  "8f1a984f844c36da": {
+   "label": "publiek"
+  },
+  "c931005fb868cd22": {
+   "label": "publiek"
+  },
+  "acb4fb04bdbda0c2": {
+   "label": "publiek"
+  },
+  "419a0a4002c17ea1": {
+   "label": "publiek"
+  },
+  "0155f3c05186d3e5": {
+   "label": "publiek"
+  },
+  "06361875c8a2e735": {
+   "label": "publiek"
+  },
+  "191d4fc8c61da267": {
+   "label": "publiek"
+  },
+  "6f4f6453c847e6fe": {
+   "label": "publiek"
+  },
+  "717fe23eb0e2e7e7": {
+   "label": "publiek"
+  }
+ },
+ "greep": {
+  "particulier": [
+   "336fd563b5d206c9",
+   "45f574eb888bcd5a",
+   "224b9798098437c2",
+   "35365ca9bb96bc19",
+   "c9966aac2d65ec2f",
+   "1756087fd2a55343",
+   "abf19405ae57a17d",
+   "6e7afe6933727122",
+   "5c0e7d2cd3d38d43",
+   "5e6372d055757f49",
+   "3f4f9131e3ecf563",
+   "db7e5865830e9361",
+   "25a3c77f03744dad",
+   "d728e7391984715d",
+   "26ef5a6af87fc623",
+   "5ea52d7febc2c955",
+   "60832a9484280d41",
+   "e28ef74200848cae",
+   "ff37c6557520b734",
+   "a08d9a3c24f19c2a",
+   "897cd2f26e57bc34",
+   "8353b88215d06d34",
+   "22efd16bc71ab77b",
+   "5e4267211841e2aa",
+   "eb205ff2044bcee1",
+   "8eafc5714fb43dc4",
+   "a196bd1423d0b261",
+   "a20dfbe0b99b3248",
+   "61deb2f1e998b525",
+   "76e70e6e7caba9a2",
+   "7165c70598de40f0",
+   "40e382c33c1659af",
+   "7c7caa6df288738f",
+   "acc84271ba1e596d",
+   "e7abebedfc303b42",
+   "7b7f9910d479fca1",
+   "40c2b8347daa99ca",
+   "f5459f44af9ce3d2",
+   "696427f10ac75928",
+   "ac5f0fb65c6c195a",
+   "28da01dafe34add2",
+   "0202112f57523ef3",
+   "81c0c1f60042190a",
+   "171b13cf721c8b7f",
+   "2cfe5308fcbf38c5",
+   "61895d68a2fb5fe1",
+   "602b1a37fd1c2df3",
+   "febf42e2d2cb9730",
+   "d5a6a026dfab35ee",
+   "ac863aecddbf4d66",
+   "bc4520064ee78935",
+   "e7fb50a2e9424358",
+   "b7f37c6ade4100cc",
+   "4dfe6409217bf6fc",
+   "906992a40785341f",
+   "f5211669b14330ee",
+   "b20688116d0beb25",
+   "faecffe02ed31826",
+   "29fb18bdc6c43bd8",
+   "a551e5e7e20a18a3",
+   "295e45d5f88667ec",
+   "72a0f71888f80ef3",
+   "bf76cac7efa6dd1c",
+   "38d5d814829cee13",
+   "2f895731bb48c209",
+   "500b52f2884eb3e7",
+   "55e896344f9bf9ce",
+   "9f32615d1fbb1e27",
+   "b0d60e51e9eacb82",
+   "b8d9e68253e30ac1",
+   "cfe8709c86354971",
+   "bbc87f57815f91a4",
+   "3d99de384c6e3967",
+   "e74d2b67407b63bd",
+   "a24d73ea456226e4",
+   "08a30fae1a9fbd24",
+   "8d77bc1a4c3dab17",
+   "bd5c93e6139a36c7",
+   "18b7513921458839",
+   "c3536986f5026d97",
+   "cf71e3fcfddb3566",
+   "48d9c7614fabbfc0",
+   "9cd99b51c6493108",
+   "3220b8a6c852f57a",
+   "fbb0487571c2f678",
+   "7f24258bcdadf8f1",
+   "a629ab4cd3d2f206",
+   "4118f4e6ddf9cd51",
+   "e9fca17f08b0d6b3",
+   "7b663e291afc42ba",
+   "673e4b4afd17beb9",
+   "4fb37401a6cd4dfa",
+   "62a7dcfa383d942a",
+   "b3d320c1755f4464",
+   "ef76578ab4583f2f",
+   "d8c9a1f84dbbb7e8",
+   "f29c8cf88d3e1224",
+   "25f685fe9701ad4f",
+   "d3a214f467b9e943",
+   "021ee40749e66bcd",
+   "13407865d2a8a98f",
+   "dc2bb56502b3158f",
+   "63bc04cb3cd60509",
+   "fb1b5d73f4781410",
+   "7215dedba9078ba2",
+   "96c4d9da56a00138",
+   "bbfc7a394013b747",
+   "b65923101417ae99",
+   "18501e9eb5c93c25",
+   "41d7a37e94f347b2",
+   "5b32d770a9e2bda1",
+   "a9289b0a7a627c8c",
+   "aa1dc3bf50a309de",
+   "7444c5345db1753b",
+   "f74b3407f5c4c7e8",
+   "0d063606544b759c",
+   "f08a2e17535b7a5b",
+   "33b7e06b84bed287",
+   "dfe6b03e9dafae58",
+   "8d7396443ddb703b",
+   "cedc68c9a104d843",
+   "c9ae8ad53f88e917",
+   "3ade82c8c7d5cefd",
+   "7d801456dc68aac4",
+   "1728a79c9bcd8169",
+   "555895ff382181eb",
+   "82e89d96915ce10b",
+   "9cc2f116da0ed23f",
+   "c5074c4fd3d456d2",
+   "41fed1d795196d53",
+   "b13befbc2c813c8a",
+   "27ee8e152b1fbe4a",
+   "0525e12104a2fef1",
+   "72fbdd3c43ecf44c",
+   "bd2fb2402dc2e6d7",
+   "1e39507685fd46a2",
+   "de1a4533df73e4af",
+   "9dd693562159e728",
+   "8cb29c9f498de75e",
+   "133ad104d962ffc1",
+   "2b716957366fc173",
+   "b3054e33818e02ed",
+   "4feab8e6248ea060",
+   "aa26d3294ed891b3",
+   "3c9676e429e5dca1",
+   "66503092e93b736e",
+   "556cade831e91fba",
+   "79955d100b6fe5f5",
+   "a023d89c0dcd1831",
+   "372d1404e502ed6a",
+   "3516920bc5671215",
+   "ced998023b13bd0e",
+   "3feeafbc6b4c64ab",
+   "538cb77434cbeee6",
+   "d3c99255828a8002",
+   "d64b66a6b1984dca",
+   "d273786d0f094fe9",
+   "4959b9e87109e553",
+   "9b0a7bde57435fe0",
+   "4654776ac77478da",
+   "c54c281ef3c19b74",
+   "3776a4abcf7c5a9c",
+   "158f4f4be919440a",
+   "7f1df8966165658c",
+   "f96095a81f1886e9",
+   "0a5023a27769b021",
+   "50fc5558ae06e483",
+   "3689fcff0ab8b856",
+   "23a8d68f3f8ddd87",
+   "59941463bac0cf39",
+   "3a994b6a018c4f7a",
+   "d816dab5554d42e5",
+   "fc43575dfde8793e",
+   "fc3e15df6c8a3fd1",
+   "86e98e0f3e4992f5",
+   "086146ebd327e579",
+   "3b6d0b4116fdc199",
+   "f555d42a47e51919",
+   "b76071127fd80548",
+   "623778cd0e045315",
+   "0bc9023d85ee4698",
+   "800c5b5d6294bc94",
+   "43e7f4f0b8e8f971",
+   "1093d86b220f04a3",
+   "1eeb89e7008e9e98",
+   "c22996465fc59b5c",
+   "c56b5caf93773cb0",
+   "18e64e0243f999c5",
+   "5e0353cfb3d696ea",
+   "95237ad7eee0fb35",
+   "cef2ec4b0bc671a8",
+   "f5861392febaa78f",
+   "754a6bdfda669acd",
+   "9d0e9f01c191a05d",
+   "ea8cdf4634e9701e",
+   "72058ef8f93cb437",
+   "dc8a772b691d5e8b",
+   "2b7c1ee61a0c3089",
+   "1d106a0c562a1678",
+   "25c58a42c1095e08"
+  ],
+  "publiek": [
+   "1bff3b9ee9be0d87",
+   "58103f4fa7c9a946",
+   "e58f2e4cb4504e34",
+   "b6d43840cff420ca",
+   "a83314717863a791",
+   "7930ad57c7de11fb",
+   "755d89300006ab60",
+   "2cc87ab2a6c9d193",
+   "ca6d89a6ae5c5ae7",
+   "fa8bfaece4e3a208",
+   "b3c8c9ecf0474466",
+   "2c6ffc775e0fabde",
+   "a72adf7ab1396cb8",
+   "37f6ca06198292b3",
+   "d76e7d610e4a2046",
+   "e96a5839681c0101",
+   "e16266a9addbd8da",
+   "862b026842024299",
+   "74d0c8fc2c9fec5b",
+   "fc37d216d0265c49",
+   "0aa791a233d340a2",
+   "aa5a3c66d0b55c76",
+   "f7ba3dc8fa3c9744",
+   "0cfc5d9de4eb9f06",
+   "2f52420bfafea99e",
+   "ed91b34200326904",
+   "44585dfc6c4d5696",
+   "9ce54ee17dfb934b",
+   "1fccc7c53a996de0",
+   "8701c7b003289947",
+   "9ad2527eed0c866f",
+   "d6ed0af6ff314034",
+   "8a6b00415b163e62",
+   "80897a8009e64743",
+   "27d1ce5a042aeb5f",
+   "7ccf17cfab8b0603",
+   "e3604c1a54c02c33",
+   "947265c71b0936a8",
+   "7acbc4c2879f5755",
+   "0d00f5f957324efb",
+   "d0c31059591a69e4",
+   "af115dc70d6d853c",
+   "0778df38e542840c",
+   "dce56fc047504b49",
+   "ea885ce918bf4cb6",
+   "56f30169035ef6e6",
+   "a364e5768f1d630f",
+   "1d2959fade534845",
+   "361c0cda111f4abe",
+   "091db0d876e6729f",
+   "9faeb350ddcdbe29",
+   "59938c2345c457c4",
+   "50f3962a24b98f3a",
+   "2088017e6a5a0641",
+   "31bd15d7b8c3cc4d",
+   "b755acfd4130224f",
+   "be8cf973488b0967",
+   "ab5a86e3de79329b",
+   "1bfb17be7a0625f9",
+   "5eb6986cdb808d2a",
+   "d1860a8cb4ff397c",
+   "cdd9e839f4950557",
+   "d949abc3badadbac",
+   "01984b754130d49e",
+   "4883cc54081ac1b8",
+   "f252b61a8b42bc67",
+   "8423ab1a36be7a19",
+   "72476eccb23b25f8",
+   "6c494fd540b7edd5",
+   "541bb67c5d6ebccf",
+   "fc5704d8bd6fd9dd",
+   "a12d4077b03207e3",
+   "dfc47531cec63569",
+   "bbcb13c6ded6b2cc",
+   "bede6d08691d5d16",
+   "c296f7391d92e740",
+   "9d2f53aa9dc404e1",
+   "ab737d4cd7da9f02",
+   "0ba2a157d1e6a5e9",
+   "185504b2d0b25b09",
+   "b4b52a3cbf76398c",
+   "4f8c00afd3535929",
+   "11f7c1b41dabd40d",
+   "d9b0b19fb96072c4",
+   "1c0dfafa599a9bb1",
+   "6a2cee7936f28fa9",
+   "62af884b3e4e6417",
+   "bdbeeff9f10fb179",
+   "2ff79d9b38c4a67a",
+   "bca9d9b2e299a68f",
+   "f5a9ac74d6aa6903",
+   "8f1a984f844c36da",
+   "c931005fb868cd22",
+   "acb4fb04bdbda0c2",
+   "419a0a4002c17ea1",
+   "0155f3c05186d3e5",
+   "06361875c8a2e735",
+   "191d4fc8c61da267",
+   "6f4f6453c847e6fe",
+   "717fe23eb0e2e7e7"
+  ]
+ }
+}

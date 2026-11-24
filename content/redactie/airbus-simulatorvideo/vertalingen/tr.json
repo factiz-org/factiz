@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Saba'nın küçücük pistinde dönen Airbus Beluga videosu Microsoft Flight Simulator'da yapıldı",
+  "oordeel_zin": "Video, Ağustos 2025'te YouTube'daydı ve Microsoft Flight Simulator 2024 oyunu altında listelenmişti; gösterdiği pist, yani Saba'daki pist, 401 metre uzunluğunda ve 18 metre genişliğinde, bir BelugaXL ise 63,1 metre uzunluğunda [5] [7] [8].",
+  "bewering": "Bu çok inanılmaz... bunun gibi çok büyük bir uçak bu küçücük yolda nasıl dönebiliyor... pilota max saygı",
+  "kort": "11 Kasım'dan beri X'teki paylaşımlar, bir Airbus BelugaXL'in uçurumun üzerindeki küçücük bir pistte dönüp kalkış yaptığı bir videoyu sanki gerçek bir uçuşmuş gibi paylaşıyor [1] [3]. Video bir uçuş simülatöründen geliyor. Ağustos 2025'te YouTube'daydı ve Microsoft Flight Simulator 2024 oyunu altında listelenmişti [5]. Pist, Saba'daki pist; 401 metre uzunluğunda ve 18 metre genişliğinde, bir BelugaXL ise 63,1 metre uzunluğunda [7] [8].",
+  "tekst": "16 Kasım 2026'da Amelia Collins hesabı X'te, \"bunun gibi çok büyük bir uçağın\" \"bu küçücük yolda\" nasıl dönebildiğinin inanılmaz olduğunu, \"pilota max saygı\" duyulduğunu yazdı [1]. Paylaşımı, başka bir hesabın 9 Mart 2026'da X'te \"Bir uçağın inmek zorunda olduğu en kısa pistlerden biri\" diyerek paylaştığı 2 dakika 41 saniyelik bir videoya bağlantı veriyor [2]. Bu hesap paylaşımı sonradan sildi [2]. 11 ile 19 Kasım arasında X'te videoya bağlantı veren 47 hesaptan 55 paylaşım saydık [1] [3]. 22 Kasım'da bir hesap videonun kısaltılmış bir kopyasını yükledi [4].\n\nVideo, yanında BELUGA XL ve AIRBUS yazan büyük, beyaz bir kargo uçağını gösteriyor [2]. Uçak, güneş paneli sıralarının yanında, 30 numarayla işaretli bir pistte dönüyor, denizin üzerinden kalkıyor ve başka bir yere iniyor [2].\n\nAynı video, aynı karelerle ve aynı anlarla, 6 Ağustos 2025'te YouTube kanalı Smilo Fly tarafından \"Airbus Beluga XL Impossible takeoff from SABA Airport\" başlığıyla paylaşıldı [5]. YouTube bunun altında Microsoft Flight Simulator 2024 oyununu listeliyor [5].\n\nSaba, Karayipler'de bir Hollanda adasıdır ve güneş enerjisi santrali havalimanının hemen yanında yer alır [6] [7]. Saba'ya ilişkin resmi havacılık bilgilerine göre pist 401 metre uzunluğunda ve 18 metre genişliğindedir ve havalimanını yalnızca Hollanda hükümetinin izin verdiği uçaklar kullanabilir [7]. Airbus, BelugaXL'in 63,1 metre uzunluğunda olduğunu ve altı BelugaXL'in Avrupa'da 11 varış noktası arasında uçak parçaları taşıdığını söylüyor [8].\n\nAviation Safety Network veri tabanında bulduğumuz tek BelugaXL olayı Fransa'da yaşandı [9]. 18 Kasım 2022'de bir BelugaXL, indikten sonra 180 derecelik bir dönüş yaparken Albert'te asfalt yüzeyden kısmen çıktı [9].",
+  "niet_weten": "Simülatördeki uçuşu kimin kaydettiğini bilmiyoruz: Smilo Fly'ın 6 Ağustos 2025 tarihli yüklemesi bulduğumuz en eski yükleme, ancak kanal videoyu kopyalamış olabilir [5]. X'teki hesabın 9 Mart tarihli paylaşımını neden sildiğini bilmiyoruz [2].",
+  "bereik": "videoya bağlantı veren 55 paylaşım 23 Kasım'da toplam 4.229 beğeni ve 2.151 yanıt aldı; 16 Kasım tarihli paylaşım 70 beğeni ve 27.300 görüntülenme aldı",
+  "nog_uitzoeken": [
+   "Microsoft Flight Simulator 2024'te uçuşu kimin kaydettiği ve Smilo Fly'ın videoyu kendisinin mi yaptığı yoksa başka bir yapımcıdan mı aldığı.",
+   "Bağlantıyla birlikte aynı cümleleri paylaşan hesapların, örneğin \"Gerçekten plansız ilerliyor\" yazanların, birlikte hareket edip etmediği.",
+   "Bu videonun ilk nerede göründüğü hakkında daha fazla şey biliyorsanız, lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Gerçek bir BelugaXL, Fransa'nın Albert kentinde 180 derecelik bir dönüş sırasında asfalt yüzeyden kısmen çıkıyor [9].",
+   "Smilo Fly videoyu YouTube'da paylaşıyor, video Microsoft Flight Simulator 2024 altında listeleniyor [5].",
+   "Bir hesap aynı videoyu X'te en kısa pistlerden biri olarak paylaşıyor [2].",
+   "Kasım'da bulduğumuz ilk paylaşım bu videoya bağlantı veriyor [3].",
+   "Amelia Collins: pilota max saygı [1].",
+   "Bir hesap videonun kısaltılmış bir kopyasını yüklüyor [4]."
+  ],
+  "beeld_bijschrift": [
+   "X'teki bir paylaşımda videonun bir kopyası, 22 Kasım 2026, 04:12 UTC.",
+   "Smilo Fly, YouTube, 6 Ağustos 2025: aynı 2 dakika 41 saniyelik video, Microsoft Flight Simulator 2024 oyunu altında listelenmiş."
+  ],
+  "beeld_alt": [
+   "X'te bunun dünyanın en kısa pistlerinden biri olduğunu ve pilotun kusursuz inmesi gerektiğini söyleyen bir paylaşım, yanında videodan bir kare: bir güneş enerjisi santralinin ve 30 numarayla işaretli kısa bir pistin yanındaki apronda bir Airbus BelugaXL. Damga: YANLIŞ.",
+   "Smilo Fly'ın YouTube videosundan bir kare: Saba havalimanının güneş enerjisi santralinin yanındaki apronda bir Airbus BelugaXL, uçurumun üzerinde 30 numarayla işaretli pist."
+  ]
+ }
+}

@@ -1,0 +1,395 @@
+{
+ "toelichting": "Handmatige labels op de 65 leesbare (Latijns-schrift) blokkades. onterecht=veto trok dezelfde bewering uit elkaar. twijfel=grensgeval, meegeteld als het label zegt maar apart telbaar. Sleutel is sha256 van de twee claimteksten, zodat het label aan het paar hangt en niet aan de sorteervolgorde. Eén beoordelaar (Claude), gelabeld bij taak 17.2, zie BENCHMARK.md §44.",
+ "paren": {
+  "2898d728e994e207": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Sudi vs Murkomen",
+   "score": 0.5015
+  },
+  "66abf7554f4b06fa": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "door Newtral vs alleen in Spanje",
+   "score": 0.5112
+  },
+  "547082ddd9e29253": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "zelfde uitspraak Naidu over Jagan",
+   "score": 0.5161
+  },
+  "21c16f5680cccab5": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Kisangani vs Kinshasa",
+   "score": 0.5298
+  },
+  "cd6386f18ab07458": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "video vs fotos, zelfde gebeurtenis",
+   "score": 0.5435
+  },
+  "189351017c272ba3": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "zout water tegen corona",
+   "score": 0.5474
+  },
+  "2a51f9ab78e20ccd": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "GLOBOLIXO vs GLOBO, verder identiek",
+   "score": 0.5552
+  },
+  "45ea46efd06dba85": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Kuria vs Murkomen",
+   "score": 0.5645
+  },
+  "b32dca495a7b5703": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "Dubai-overstroming zelfde datum",
+   "score": 0.5776
+  },
+  "5504be1a12828671": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Mumbai vs Goa",
+   "score": 0.5835
+  },
+  "589d3b7ae684a4f9": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "B is deel van A, zelfde viraal bericht",
+   "score": 0.5903
+  },
+  "f9de4d59a336e93b": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "video vs fotos, zelfde gebeurtenis",
+   "score": 0.6177
+  },
+  "e4ddf181beedbdfa": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "massavaccinatie vs maatregelen",
+   "score": 0.6592
+  },
+  "c178cbbbb5c93052": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "beelden aardbeving Japan 1 jan",
+   "score": 0.6895
+  },
+  "829ebf332a6164ca": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Reguram vs ANSES, losse woorden",
+   "score": 0.6963
+  },
+  "d1e2165b0bb1b752": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Marcelo Rossi vs Paolla Oliveira",
+   "score": 0.6992
+  },
+  "c69fa6e64242d88f": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Fabio de Melo vs Marcelo Rossi",
+   "score": 0.7129
+  },
+  "101c98eef3180767": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "omgekeerde dader en slachtoffer",
+   "score": 0.7158
+  },
+  "b0961fa5513b5d5d": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "zelfde video van biddende menigte",
+   "score": 0.7617
+  },
+  "9a5b2c256870f08a": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "CAA vs anti-CAA protest, zelfde protesten",
+   "score": 0.7686
+  },
+  "7df68bda3d2755c6": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "Renta Minima vs Basica Universal",
+   "score": 0.7734
+  },
+  "c6e86fe98a7e6b99": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "Ram Mandir vs Ram temple",
+   "score": 0.7915
+  },
+  "bff17a3e07389b64": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Muchomba vs Kuria",
+   "score": 0.7993
+  },
+  "453243af566d9ddf": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Ronaldo vs Ronaldo en Messi",
+   "score": 0.8027
+  },
+  "8073288791b2079a": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Thakur vs Rambhadracharya",
+   "score": 0.8047
+  },
+  "c75b762a54e5fb1f": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "matan vs curan el coronavirus",
+   "score": 0.8096
+  },
+  "783214bdf7acb41f": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "beelden aardbeving Japan 1 jan",
+   "score": 0.8159
+  },
+  "d536b3bfd617c2fd": {
+   "label": "terecht",
+   "twijfel": true,
+   "reden": "raketinslag vs infraroodbeeld voor de explosie",
+   "score": 0.8184
+  },
+  "f03bbfc27f6ce80d": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "West-Bengalen vs Bangladesh",
+   "score": 0.8447
+  },
+  "d242eed6c52525d6": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Muchomba vs Murkomen",
+   "score": 0.8599
+  },
+  "1715abd178918ddd": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "to death vs alive",
+   "score": 0.8774
+  },
+  "099d5f7218193b9c": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "zelfde zelfdodingscijfer",
+   "score": 0.8794
+  },
+  "27adfd281295bfa9": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Muchomba vs Sudi",
+   "score": 0.8862
+  },
+  "32ac7a185a9a0f0f": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "naamcorrectie vs kind over Christus",
+   "score": 0.8867
+  },
+  "96cf7dfb4feb3343": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "protest Venezuela na verkiezing",
+   "score": 0.8887
+  },
+  "aaa2db681873b7bd": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "air base enkelvoud vs meervoud",
+   "score": 0.8901
+  },
+  "0278261b8c675b9c": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "Sriwijaya-crash vs een Indonesische crash",
+   "score": 0.9043
+  },
+  "6db34c1384528821": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "zelfde Atacadao-promotie",
+   "score": 0.9155
+  },
+  "acc7976d46d39145": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Ethiopiers in Puntland vs begrafenis Goldogob",
+   "score": 0.917
+  },
+  "38de6b513491d137": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Bhilwara vs Karnataka",
+   "score": 0.9189
+  },
+  "de66d232e257ec53": {
+   "label": "terecht",
+   "twijfel": true,
+   "reden": "Trump over Somalische president vs over oorlog",
+   "score": 0.9307
+  },
+  "751c3355eac48056": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Raveendranath vs Vijayendra Saraswathi",
+   "score": 0.9321
+  },
+  "6217624a068a89b0": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Chattarpur vs Rajasthan",
+   "score": 0.9331
+  },
+  "2bfdd0d65bf7b10d": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "handphone vs mobile phone",
+   "score": 0.9385
+  },
+  "108edc69db707b1e": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Kenya Power vs Toyota Kenya",
+   "score": 0.939
+  },
+  "348ea87089880dab": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Vikarabad vs Uttar Pradesh",
+   "score": 0.9414
+  },
+  "a369e82eec27cfdb": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Sakaja vs Ichungwah",
+   "score": 0.9419
+  },
+  "7021d4f85547da8e": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "CAA vs anti-CAA protest, zelfde protesten",
+   "score": 0.9424
+  },
+  "2f06440d215ead4f": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Skol vs Renner, merk is de bewering",
+   "score": 0.9746
+  },
+  "85449ffbf65b9049": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Juiz de Fora vs Uberaba",
+   "score": 0.9746
+  },
+  "e356090025d716ed": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "KURA vs Toyota Kenya",
+   "score": 0.9766
+  },
+  "1446c32d65fa8d58": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Nubank vs Shopee, merk is de bewering",
+   "score": 0.9766
+  },
+  "884e9678bb038c6f": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Kruidvat vs Lidl, merk is de bewering",
+   "score": 0.9766
+  },
+  "63bc01e408f2c580": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Karua vs Macharia",
+   "score": 0.9819
+  },
+  "587a6d3e77f2f93a": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Tongaren vs Aldai Constituency",
+   "score": 0.9819
+  },
+  "70329872f9ef8a9c": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Jodhpur vs Alwar",
+   "score": 0.9819
+  },
+  "6278dc3637484ffe": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Nicole Bahls vs Yasmin Brunet",
+   "score": 0.9819
+  },
+  "2e340f43f5c13a1e": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "zelfde maskertekst, andere afzender",
+   "score": 0.9834
+  },
+  "cf69bcc00aed4a5a": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Kenya Power vs KURA",
+   "score": 0.9854
+  },
+  "702db6888e840e19": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "video uit Tripura vs uit Kerala",
+   "score": 0.9854
+  },
+  "52082b2246525995": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Aral vs Lidl, merk is de bewering",
+   "score": 0.9854
+  },
+  "14ccefd4ed2c6d90": {
+   "label": "onterecht",
+   "twijfel": false,
+   "reden": "bewering vs de weerlegging ervan",
+   "score": 0.9863
+  },
+  "d7ce26e91de7f318": {
+   "label": "onterecht",
+   "twijfel": true,
+   "reden": "zelfde maskertekst, andere afzender",
+   "score": 0.9893
+  },
+  "b7f714568920cabd": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "Mumbai vs Goa",
+   "score": 0.9902
+  },
+  "7697a6019b943360": {
+   "label": "terecht",
+   "twijfel": false,
+   "reden": "na vs voor de aardbeving",
+   "score": 0.9961
+  }
+ }
+}

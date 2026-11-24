@@ -1,0 +1,311 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+# Afbakening van de PO, 2026-11-12: "Biolabs in oost-europa is meestal het patroon"; bij de twijfel koos zij het
+# algemene netwerk zonder regio erbij en andere daders dan de VS (Kyiv, de Duitse krijgsmacht) eruit.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-15, PO: "Alle dossiers zijn akkoord, behalve: Beelden van een aardbeving bij de verkeerde ramp"'
+thema = "war"
+onderdeel = "ukraine"
+verwant = ["navo-uitbreiding", "nazi-oekraine"]
+
+[naam]
+nl = "Het verhaal over Amerikaanse biolabs in Oekraïne en Oost-Europa"
+en = "The story of American biolabs in Ukraine and Eastern Europe"
+de = "Die Erzählung über amerikanische Biolabore in der Ukraine und Osteuropa"
+es = "El relato de los biolaboratorios estadounidenses en Ucrania y Europa del Este"
+fr = "Le récit des laboratoires biologiques américains en Ukraine et en Europe de l’Est"
+pt = "A história dos biolaboratórios americanos na Ucrânia e no Leste Europeu"
+ru = "История об американских биолабораториях на Украине и в Восточной Европе"
+uk = "Історія про американські біолабораторії в Україні та Східній Європі"
+id = "Kisah biolab Amerika di Ukraina dan Eropa Timur"
+tr = "Ukrayna ve Doğu Avrupa'daki Amerikan biyolojik laboratuvarları hikâyesi"
+zh = "美國在烏克蘭與東歐設有生物實驗室的說法"
+ja = "ウクライナと東欧にある米国の生物研究所をめぐる話"
+hi = "यूक्रेन और पूर्वी यूरोप में अमेरिकी बायोलैब की कहानी"
+ar = "قصة المختبرات البيولوجية الأمريكية في أوكرانيا وأوروبا الشرقية"
+fa = "داستان زیست‌آزمایشگاه‌های آمریکایی در اوکراین و اروپای شرقی"
+
+[inleiding]
+nl = """
+Eén verhaal komt al jaren terug: dat de Verenigde Staten in Oekraïne, Georgië en elders in Oost-Europa laboratoria hebben waar ze biologische wapens maken of ziektes op mensen testen. De plaats en de ziekte wisselen, het verhaal blijft. Soms wordt het groter: een netwerk van zulke labs over de hele wereld, waar Oost-Europa een deel van is. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+One story has been coming back for years: that the United States runs laboratories in Ukraine, Georgia and elsewhere in Eastern Europe where it makes biological weapons or tests diseases on people. The place and the disease change; the story stays. Sometimes it grows: a network of such labs around the world, with Eastern Europe as one part. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung kehrt seit Jahren zurück: Die Vereinigten Staaten betrieben in der Ukraine, in Georgien und anderswo in Osteuropa Labore, in denen sie biologische Waffen herstellen oder Krankheiten an Menschen testen. Ort und Krankheit wechseln, die Erzählung bleibt. Manchmal wird sie größer: ein Netz solcher Labore auf der ganzen Welt, zu dem Osteuropa gehört. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato vuelve desde hace años: que Estados Unidos tiene laboratorios en Ucrania, Georgia y otros lugares de Europa del Este donde fabrica armas biológicas o prueba enfermedades en personas. El lugar y la enfermedad cambian; el relato sigue. A veces crece: una red de esos laboratorios por todo el mundo, de la que Europa del Este es una parte. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Un récit revient depuis des années : les États-Unis auraient en Ukraine, en Géorgie et ailleurs en Europe de l’Est des laboratoires où ils fabriquent des armes biologiques ou testent des maladies sur des personnes. Le lieu et la maladie changent ; le récit reste. Parfois il s’élargit : un réseau de tels laboratoires dans le monde entier, dont l’Europe de l’Est fait partie. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Uma mesma história volta há anos: a de que os Estados Unidos mantêm laboratórios na Ucrânia, na Geórgia e em outros lugares do Leste Europeu, onde fabricam armas biológicas ou testam doenças em pessoas. O lugar e a doença mudam; a história continua. Às vezes ela cresce: uma rede desses laboratórios pelo mundo, com o Leste Europeu como uma parte. Este dossiê coloca em uma linha do tempo as versões que as agências checaram. Cada checagem diz o que aquela agência encontrou; o Factiz não acrescenta nenhuma classificação própria. A lista traz só as checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+Одна и та же история возвращается уже много лет: будто США держат на Украине, в Грузии и в других странах Восточной Европы лаборатории, где создают биологическое оружие или испытывают болезни на людях. Место и болезнь меняются, а история остаётся. Иногда она разрастается: сеть таких лабораторий по всему миру, а Восточная Европа лишь её часть. В этом досье версии, которые проверили редакции, расположены на временной шкале. В каждом фактчеке сказано, что нашла эта редакция. Своего вердикта Factiz не добавляет. В списке только те фактчеки, которые мы вправе перепечатывать, поэтому он неполный.'''
+uk = '''
+Одна історія повертається вже багато років: ніби Сполучені Штати тримають в Україні, Грузії та інших країнах Східної Європи лабораторії, де виготовляють біологічну зброю або випробовують хвороби на людях. Місце й хвороба змінюються, а історія лишається. Іноді вона розростається: мережа таких лабораторій по всьому світу, а Східна Європа лише її частина. Це досьє показує на часовій шкалі версії, які перевіряли редакції. Кожен фактчек розповідає, що встановила ця редакція, а Factiz не додає власного вердикту. У списку лише ті фактчеки, які ми можемо повторно публікувати, тож він неповний.'''
+id = '''
+Satu kisah terus muncul kembali selama bertahun-tahun: bahwa Amerika Serikat menjalankan laboratorium di Ukraina, Georgia, dan tempat lain di Eropa Timur untuk membuat senjata biologis atau menguji penyakit pada manusia. Tempat dan penyakitnya berubah, tetapi kisahnya tetap sama. Kadang kisah itu meluas: jaringan laboratorium semacam itu di seluruh dunia, dengan Eropa Timur sebagai salah satu bagiannya. Dosir ini menempatkan berbagai versi yang telah diperiksa redaksi pada sebuah lini masa. Setiap cek fakta menyampaikan temuan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi daftar ini tidak lengkap.'''
+tr = '''
+Yıllardır tekrar eden bir hikâye var: Amerika Birleşik Devletleri'nin Ukrayna'da, Gürcistan'da ve Doğu Avrupa'nın başka yerlerinde biyolojik silah ürettiği ya da hastalıkları insanlar üzerinde denediği laboratuvarlar işlettiği söyleniyor. Yer ve hastalık değişiyor, hikâye aynı kalıyor. Bazen daha da büyüyor: dünyanın dört bir yanında böyle laboratuvarlardan oluşan bir ağ var ve Doğu Avrupa bunun yalnızca bir parçası deniyor. Bu dosya, doğrulama kuruluşlarının incelediği farklı sürümleri bir zaman çizelgesine yerleştiriyor. Her doğrulama, o doğrulama kuruluşunun ne bulduğunu söyler; Factiz kendi kararını eklemez. Liste yalnızca yeniden yayımlama iznimiz olan doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+多年來，有一種說法一再出現：美國在烏克蘭、喬治亞和東歐其他地方設有實驗室，在那裡製造生物武器，或對人體測試疾病。地點和疾病會變，這個說法卻一直存在。有時它還會擴大：說全世界有一整個這樣的實驗室網絡，東歐只是其中一部分。這個專題把各查核機構查核過的不同版本放在時間軸上。每一則查核報告都說明該查核機構的發現，Factiz 不另外加上自己的查核結果。這份清單只收錄我們可以轉載的查核報告，所以並不完整。'''
+ja = '''
+米国がウクライナやジョージア、そのほかの東欧の国々に研究所を持ち、そこで生物兵器をつくったり、人に病気の実験をしたりしている。こうした話が何年も繰り返し出てきています。場所や病気は変わっても、話の筋は変わりません。ときには、世界中にそのような研究所のネットワークがあり、東欧はその一部だという話に広がることもあります。この特集では、報道機関が検証したさまざまなバージョンを年表にまとめています。それぞれのファクトチェックには、その報道機関が確認した内容が書かれています。Factizが独自の判定を加えることはありません。一覧には、転載を許可されているファクトチェックだけを載せているため、すべてを網羅しているわけではありません。'''
+hi = '''
+एक कहानी सालों से बार-बार लौट रही है: अमेरिका यूक्रेन, जॉर्जिया और पूर्वी यूरोप में अन्य जगहों पर ऐसी प्रयोगशालाएं चलाता है, जहां वह जैविक हथियार बनाता है या लोगों पर बीमारियों का परीक्षण करता है। जगह और बीमारी बदल जाती है, पर कहानी वही रहती है। कभी-कभी यह और बड़ी हो जाती है: दुनिया भर में ऐसी प्रयोगशालाओं का एक नेटवर्क, जिसका एक हिस्सा पूर्वी यूरोप है। यह डोसियर उन संस्करणों को टाइमलाइन में रखता है, जिनकी न्यूज़रूम ने जांच की है। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपना कोई निष्कर्ष नहीं जोड़ता। सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह सूची पूरी नहीं है।'''
+ar = '''
+تعود قصة واحدة منذ سنوات: أن الولايات المتحدة تدير مختبرات في أوكرانيا وجورجيا وأماكن أخرى في أوروبا الشرقية، تصنع فيها أسلحة بيولوجية أو تجرب أمراضًا على البشر. يتغير المكان ويتغير المرض، وتبقى القصة. وأحيانًا تتسع: شبكة من هذه المختبرات حول العالم، وأوروبا الشرقية جزء منها. يعرض هذا الملف على خط زمني النسخ التي دققتها المنصات. يوضح كل تدقيق ما توصلت إليه المنصة التي أجرته، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي غير كاملة.'''
+fa = '''
+سال‌هاست که یک داستان بارها تکرار می‌شود: اینکه ایالات متحده در اوکراین، گرجستان و جاهای دیگر اروپای شرقی آزمایشگاه‌هایی دارد که در آن‌ها سلاح زیستی می‌سازد یا بیماری‌ها را روی انسان‌ها آزمایش می‌کند. مکان و بیماری عوض می‌شود، اما داستان همان می‌ماند. گاهی هم گسترده‌تر می‌شود: شبکه‌ای از چنین آزمایشگاه‌هایی در سراسر جهان که اروپای شرقی تنها بخشی از آن است. این پرونده روایت‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه به چه نتیجه‌ای رسیده است؛ Factiz هیچ نتیجه‌گیری از خودش اضافه نمی‌کند. این فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه بازنشر آن‌ها را داریم، بنابراین کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "rapport"
+datum = "2018-12-03"
+bron = "Georgia and Germany, Biological Weapons Convention"
+url = "https://docs.un.org/en/BWC/MSP/2018/WP.5"
+[item.titel]
+nl = "Georgië en Duitsland melden bij het Biologischewapenverdrag dat experts uit 17 landen het Lugar-centrum bezochten en niets zagen dat niet bij vreedzaam gebruik past"
+en = "Georgia and Germany report to the Biological Weapons Convention that experts from 17 countries visited the Lugar Center and saw nothing at odds with peaceful use"
+de = "Georgien und Deutschland berichten im Rahmen der Biowaffenkonvention, dass Fachleute aus 17 Ländern das Lugar-Zentrum besuchten und nichts sahen, was gegen friedliche Nutzung spricht"
+es = "Georgia y Alemania informan a la Convención sobre Armas Biológicas de que expertos de 17 países visitaron el Centro Lugar y no vieron nada contrario a un uso pacífico"
+fr = "La Géorgie et l’Allemagne indiquent à la Convention sur les armes biologiques que des experts de 17 pays ont visité le centre Lugar sans rien voir de contraire à un usage pacifique"
+pt = "Geórgia e Alemanha informam à Convenção sobre Armas Biológicas que especialistas de 17 países visitaram o Centro Lugar e não viram nada incompatível com o uso pacífico"
+ru = "Грузия и Германия сообщают в рамках Конвенции о запрещении биологического оружия, что эксперты из 17 стран посетили Центр Лугара и не увидели ничего, что противоречило бы мирному использованию"
+uk = "Грузія та Німеччина повідомляють Конвенції про заборону біологічної зброї, що експерти з 17 країн відвідали Центр Лугара і не побачили нічого, що суперечило б мирному використанню"
+id = "Georgia dan Jerman melaporkan kepada Konvensi Senjata Biologis bahwa para ahli dari 17 negara mengunjungi Pusat Lugar dan tidak melihat apa pun yang bertentangan dengan penggunaan untuk tujuan damai"
+tr = "Gürcistan ve Almanya, Biyolojik Silahlar Sözleşmesi'ne sunduğu bildirimde, 17 ülkeden uzmanların Lugar Merkezi'ni ziyaret ettiğini ve barışçıl kullanıma aykırı hiçbir şey görmediğini bildiriyor"
+zh = "喬治亞與德國向《生物武器公約》報告，來自 17 個國家的專家參訪了盧加爾中心，沒有發現任何與和平用途不符之處"
+ja = "ジョージアとドイツが生物兵器禁止条約に報告:17か国の専門家がルガー・センターを訪れ、平和利用に反するものは何も見つからなかった"
+hi = "जॉर्जिया और जर्मनी ने जैविक हथियार संधि को बताया कि 17 देशों के विशेषज्ञों ने लूगर सेंटर का दौरा किया और उन्हें शांतिपूर्ण उपयोग के विरुद्ध कुछ नहीं दिखा"
+ar = "جورجيا وألمانيا تبلغان اتفاقية الأسلحة البيولوجية بأن خبراء من 17 دولة زاروا مركز لوغار ولم يروا ما يتعارض مع الاستخدام السلمي"
+fa = "گرجستان و آلمان به کنوانسیون سلاح‌های زیستی گزارش می‌دهند که کارشناسانی از ۱۷ کشور از مرکز لوگار بازدید کردند و چیزی ناسازگار با استفاده صلح‌آمیز ندیدند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2020-09-16"
+bron = "IDFI (Tbilisi)"
+url = "https://idfi.ge/en/russian_information_war_against_lugar_laboratory"
+[item.titel]
+nl = "Het Georgische onderzoeksinstituut IDFI volgt jaren van Russische informatieaanvallen op het Lugar-lab, van beweerde proeven op mensen in 2018 tot de schuld van covid-19 in 2020"
+en = "Georgian research institute IDFI traces years of Russian information attacks on the Lugar laboratory, from claims of human experiments in 2018 to blame for covid-19 in 2020"
+de = "Das georgische Institut IDFI zeichnet jahrelange russische Informationsangriffe auf das Lugar-Labor nach, von angeblichen Menschenversuchen 2018 bis zur Schuld an Covid-19 2020"
+es = "El instituto georgiano IDFI reconstruye años de ataques informativos rusos contra el laboratorio Lugar, desde supuestos experimentos con personas en 2018 hasta la covid-19 en 2020"
+fr = "L’institut géorgien IDFI retrace des années d’attaques informationnelles russes contre le laboratoire Lugar, des prétendues expériences sur des humains en 2018 à la covid-19 en 2020"
+pt = "O instituto de pesquisa georgiano IDFI rastreia anos de ataques de desinformação russos ao laboratório Lugar, de afirmações sobre experimentos em humanos em 2018 até a culpa pela covid-19 em 2020"
+ru = "Грузинский институт IDFI прослеживает российские информационные атаки на лабораторию Лугара: от утверждений об опытах на людях в 2018 до обвинений в распространении covid-19 в 2020 году"
+uk = "Грузинський інститут IDFI простежує багаторічні російські інформаційні атаки на лабораторію Лугара: від тверджень про досліди на людях (2018) до звинувачень у появі covid-19 (2020)"
+id = "Lembaga riset Georgia IDFI menelusuri serangan informasi Rusia bertahun-tahun terhadap laboratorium Lugar, dari klaim eksperimen pada manusia (2018) hingga tuduhan penyebab covid-19 (2020)"
+tr = "Gürcistan'daki araştırma enstitüsü IDFI, Lugar laboratuvarına yönelik yıllardır süren Rus bilgi saldırılarını izliyor: 2018'deki insan deneyleri iddialarından 2020'de covid-19 için suçlamaya kadar"
+zh = "喬治亞研究機構 IDFI 追溯俄羅斯多年來對盧加爾實驗室發動的資訊攻擊，從 2018 年指稱進行人體實驗，到 2020 年把 covid-19 怪到它頭上"
+ja = "ジョージアの研究機関IDFIが、ルガー研究所に対するロシアの情報攻撃を長年にわたり追跡:2018年の人体実験の言説から、2020年の新型コロナの責任を負わせる言説まで"
+hi = "जॉर्जिया का शोध संस्थान IDFI लूगर प्रयोगशाला पर रूस के सालों के सूचना हमलों का ब्योरा देता है, 2018 में इंसानों पर प्रयोगों के दावों से लेकर 2020 में कोविड-19 का दोष लगाने तक"
+ar = "معهد الأبحاث الجورجي IDFI يتتبع سنوات من الهجمات الإعلامية الروسية على مختبر لوغار، من ادعاءات تجارب على البشر عام 2018 إلى اتهامه بالمسؤولية عن كوفيد-19 عام 2020"
+fa = "مؤسسه پژوهشی گرجی IDFI سال‌ها حمله اطلاعاتی روسیه به آزمایشگاه لوگار را بررسی می‌کند، از ادعای آزمایش روی انسان در سال ۲۰۱۸ تا مقصر دانستن آن در کووید-۱۹ در سال ۲۰۲۰"
+
+[[item]]
+soort = "besluit"
+datum = "2022-03-11"
+bron = "UN Security Council"
+url = "https://docs.un.org/en/S/PV.8991"
+[item.titel]
+nl = "Op een vergadering van de Veiligheidsraad die Rusland aanvroeg, zegt VN-ontwapeningschef Izumi Nakamitsu dat de VN geen weet hebben van programma's voor biologische wapens"
+en = "At a Security Council meeting Russia requested, UN disarmament chief Izumi Nakamitsu says the UN is not aware of any biological weapons programmes"
+de = "In einer von Russland beantragten Sitzung des Sicherheitsrats sagt die UN-Abrüstungschefin Izumi Nakamitsu, den Vereinten Nationen seien keine Biowaffenprogramme bekannt"
+es = "En una reunión del Consejo de Seguridad pedida por Rusia, la jefa de desarme de la ONU, Izumi Nakamitsu, dice que la ONU no conoce ningún programa de armas biológicas"
+fr = "Lors d’une réunion du Conseil de sécurité demandée par la Russie, la cheffe du désarmement de l’ONU, Izumi Nakamitsu, dit que l’ONU n’a connaissance d’aucun programme d’armes biologiques"
+pt = "Em uma reunião do Conselho de Segurança pedida pela Rússia, a chefe de desarmamento da ONU, Izumi Nakamitsu, diz que a ONU não tem conhecimento de nenhum programa de armas biológicas"
+ru = "На заседании Совета Безопасности, которого потребовала Россия, глава ООН по вопросам разоружения Идзуми Накамицу заявляет, что ООН не известно ни о каких программах создания биологического оружия"
+uk = "На засіданні Ради Безпеки, скликаному на прохання Росії, очільниця ООН з питань роззброєння Idzumi Nakamitsu заявляє, що ООН не відомо про жодні програми біологічної зброї"
+id = "Dalam sidang Dewan Keamanan yang diminta Rusia, kepala perlucutan senjata PBB Izumi Nakamitsu menyatakan PBB tidak mengetahui adanya program senjata biologis"
+tr = "Rusya'nın talep ettiği Güvenlik Konseyi toplantısında BM Silahsızlanma İşleri Yüksek Temsilcisi Izumi Nakamitsu, BM'nin herhangi bir biyolojik silah programından haberdar olmadığını söylüyor"
+zh = "在俄羅斯要求召開的安全理事會會議上，聯合國裁軍事務高級代表中滿泉表示，聯合國並不知道有任何生物武器計畫"
+ja = "ロシアの要請で開かれた安全保障理事会の会合で、国連の軍縮担当トップの中満泉氏が、国連は生物兵器計画を一切把握していないと述べる"
+hi = "रूस की मांग पर हुई सुरक्षा परिषद की बैठक में संयुक्त राष्ट्र की निरस्त्रीकरण प्रमुख इज़ुमी नाकामित्सु कहती हैं कि संयुक्त राष्ट्र को किसी जैविक हथियार कार्यक्रम की जानकारी नहीं है"
+ar = "في جلسة لمجلس الأمن طلبتها روسيا، تقول إيزومي ناكاميتسو، رئيسة نزع السلاح في الأمم المتحدة، إن المنظمة لا تعلم بوجود أي برامج للأسلحة البيولوجية"
+fa = "در نشست شورای امنیت که روسیه درخواست کرده بود، ایزومی ناکامیتسو، رئیس خلع سلاح سازمان ملل، می‌گوید سازمان ملل از هیچ برنامه سلاح زیستی خبر ندارد"
+
+[[item]]
+soort = "rapport"
+datum = "2022-06-09"
+bron = "US Department of Defense"
+url = "https://www.defense.gov/News/Releases/Release/Article/3057517/fact-sheet-on-wmd-threat-reduction-efforts-with-ukraine-russia-and-other-former/"
+[item.titel]
+nl = "Het Amerikaanse ministerie van Defensie beschrijft zijn werk in Oekraïne: twintig jaar steun aan 46 vreedzame Oekraïense laboratoria, zorginstellingen en diagnostische centra"
+en = "The US Department of Defense describes its work in Ukraine: two decades of support for 46 peaceful Ukrainian laboratories, health facilities and diagnostic sites"
+de = "Das US-Verteidigungsministerium beschreibt seine Arbeit in der Ukraine: zwei Jahrzehnte Unterstützung für 46 friedliche ukrainische Labore, Gesundheits- und Diagnoseeinrichtungen"
+es = "El Departamento de Defensa de EE. UU. describe su trabajo en Ucrania: dos décadas de apoyo a 46 laboratorios, centros de salud y de diagnóstico ucranianos de uso pacífico"
+fr = "Le département de la Défense des États-Unis décrit son travail en Ukraine : vingt ans de soutien à 46 laboratoires, établissements de santé et centres de diagnostic ukrainiens pacifiques"
+pt = "O Departamento de Defesa dos EUA descreve seu trabalho na Ucrânia: duas décadas de apoio a 46 laboratórios, unidades de saúde e locais de diagnóstico ucranianos com fins pacíficos"
+ru = "Министерство обороны США описывает свою работу на Украине: два десятилетия поддержки 46 мирных украинских лабораторий, медицинских учреждений и диагностических центров"
+uk = "Міністерство оборони США описує свою роботу в Україні: два десятиліття підтримки 46 мирних українських лабораторій, медичних закладів і діагностичних пунктів"
+id = "Departemen Pertahanan AS menjelaskan kerja samanya di Ukraina: dua dekade dukungan bagi 46 laboratorium, fasilitas kesehatan, dan lokasi diagnostik Ukraina yang bertujuan damai"
+tr = "ABD Savunma Bakanlığı, Ukrayna'daki çalışmalarını anlatıyor: barışçıl amaçlarla çalışan 46 Ukrayna laboratuvarına, sağlık tesisine ve tanı merkezine yirmi yıllık destek"
+zh = "美國國防部說明其在烏克蘭的工作：二十年來支持 46 處烏克蘭的和平用途實驗室、衛生設施和診斷場所"
+ja = "米国国防総省がウクライナでの活動を説明:20年にわたり、平和目的のウクライナの研究所、保健施設、診断施設46か所を支援してきた"
+hi = "अमेरिकी रक्षा विभाग यूक्रेन में अपने काम का ब्योरा देता है: 46 शांतिपूर्ण यूक्रेनी प्रयोगशालाओं, स्वास्थ्य सुविधाओं और जांच केंद्रों को दो दशकों का सहयोग"
+ar = "وزارة الدفاع الأمريكية تصف عملها في أوكرانيا: عقدان من دعم 46 مختبرًا أوكرانيًا سلميًا ومرفقًا صحيًا وموقعًا للتشخيص"
+fa = "وزارت دفاع آمریکا کار خود در اوکراین را شرح می‌دهد: دو دهه حمایت از ۴۶ آزمایشگاه، مرکز درمانی و مرکز تشخیصی صلح‌آمیز اوکراینی"
+
+[[item]]
+soort = "besluit"
+datum = "2022-09-19"
+bron = "Biological Weapons Convention, final report"
+url = "https://docs.un.org/en/BWC/CONS/2022/3"
+[item.titel]
+nl = "De bijeenkomst die Rusland onder het Biologischewapenverdrag aanvroeg, eindigt zonder overeenstemming over een uitkomst, staat in het slotverslag"
+en = "The consultative meeting Russia requested under the Biological Weapons Convention ends without consensus on an outcome, its final report records"
+de = "Das von Russland beantragte Konsultationstreffen unter der Biowaffenkonvention endet ohne Konsens über ein Ergebnis, hält der Abschlussbericht fest"
+es = "La reunión consultiva que Rusia pidió en el marco de la Convención sobre Armas Biológicas termina sin consenso sobre un resultado, según su informe final"
+fr = "La réunion consultative demandée par la Russie au titre de la Convention sur les armes biologiques s’achève sans consensus sur une conclusion, selon son rapport final"
+pt = "A reunião consultiva pedida pela Rússia no âmbito da Convenção sobre Armas Biológicas termina sem consenso sobre um resultado, segundo seu relatório final"
+ru = "Консультативное совещание, которого потребовала Россия в рамках Конвенции о запрещении биологического оружия, завершается без консенсуса по итогам, говорится в его итоговом докладе"
+uk = "Консультативна нарада, яку Росія запросила за Конвенцією про заборону біологічної зброї, завершується без консенсусу щодо підсумку, зазначено в її остаточному звіті"
+id = "Pertemuan konsultatif yang diminta Rusia berdasarkan Konvensi Senjata Biologis berakhir tanpa konsensus mengenai hasilnya, menurut laporan akhirnya"
+tr = "Rusya'nın Biyolojik Silahlar Sözleşmesi kapsamında talep ettiği istişare toplantısı, nihai raporuna göre sonuç konusunda uzlaşı sağlanamadan sona eriyor"
+zh = "依最終報告記載，俄羅斯根據《生物武器公約》要求召開的諮詢會議，在結果上未能達成共識"
+ja = "ロシアの要請で生物兵器禁止条約に基づき開かれた協議会合は、結果についての合意に至らずに終わったと、最終報告書に記録されている"
+hi = "रूस की मांग पर जैविक हथियार संधि के तहत हुई परामर्श बैठक किसी नतीजे पर सहमति के बिना खत्म हुई, इसकी अंतिम रिपोर्ट में दर्ज है"
+ar = "الاجتماع التشاوري الذي طلبته روسيا بموجب اتفاقية الأسلحة البيولوجية ينتهي دون توافق على نتيجة، كما يسجل تقريره الختامي"
+fa = "به گفته گزارش نهایی، نشست مشورتی که روسیه بر پایه کنوانسیون سلاح‌های زیستی درخواست کرده بود، بدون اجماع بر سر نتیجه پایان می‌یابد"
+
+[[item]]
+soort = "besluit"
+datum = "2022-11-02"
+bron = "UN Security Council"
+url = "https://docs.un.org/en/S/PV.9180"
+[item.titel]
+nl = "De Veiligheidsraad neemt het Russische voorstel voor een commissie over zijn klacht tegen de VS en Oekraïne niet aan: 2 stemmen voor, 3 tegen, 10 onthoudingen"
+en = "The UN Security Council does not adopt Russia's draft for a commission on its complaint against the US and Ukraine: 2 votes in favour, 3 against, 10 abstentions"
+de = "Der UN-Sicherheitsrat nimmt Russlands Entwurf für eine Kommission zu seiner Beschwerde gegen die USA und die Ukraine nicht an: 2 Stimmen dafür, 3 dagegen, 10 Enthaltungen"
+es = "El Consejo de Seguridad no aprueba el proyecto ruso de una comisión sobre su denuncia contra EE. UU. y Ucrania: 2 votos a favor, 3 en contra y 10 abstenciones"
+fr = "Le Conseil de sécurité n’adopte pas le projet russe de commission sur sa plainte contre les États-Unis et l’Ukraine : 2 voix pour, 3 contre, 10 abstentions"
+pt = "O Conselho de Segurança da ONU não adota o projeto da Rússia para uma comissão sobre sua queixa contra os EUA e a Ucrânia: 2 votos a favor, 3 contra e 10 abstenções"
+ru = "Совет Безопасности ООН не принимает российский проект решения о создании комиссии по её жалобе на США и Украину: 2 голоса за, 3 против, 10 воздержались"
+uk = "Рада Безпеки ООН не ухвалює російський проєкт щодо створення комісії за скаргою Росії проти США та України: 2 голоси за, 3 проти, 10 утрималися"
+id = "Dewan Keamanan PBB tidak mengadopsi rancangan Rusia untuk membentuk komisi atas pengaduannya terhadap AS dan Ukraina: 2 suara setuju, 3 menolak, 10 abstain"
+tr = "BM Güvenlik Konseyi, Rusya'nın ABD ve Ukrayna aleyhindeki şikâyeti için bir komisyon kurulmasına ilişkin taslağını kabul etmiyor: 2 kabul, 3 ret, 10 çekimser oy"
+zh = "聯合國安全理事會未通過俄羅斯就其對美國和烏克蘭的指控而提出的成立調查委員會草案：2 票贊成、3 票反對、10 票棄權"
+ja = "国連安全保障理事会は、米国とウクライナに対するロシアの申し立てを調べる委員会を設けるロシアの決議案を採択せず:賛成2、反対3、棄権10"
+hi = "संयुक्त राष्ट्र सुरक्षा परिषद ने अमेरिका और यूक्रेन के खिलाफ रूस की शिकायत पर आयोग बनाने का उसका प्रस्ताव पारित नहीं किया: 2 वोट पक्ष में, 3 विरोध में, 10 अनुपस्थित"
+ar = "مجلس الأمن الدولي لا يعتمد مشروع روسيا لتشكيل لجنة بشأن شكواها ضد الولايات المتحدة وأوكرانيا: صوتان مؤيدان و3 معارضة و10 امتناعات"
+fa = "شورای امنیت سازمان ملل پیش‌نویس روسیه برای تشکیل کمیسیون رسیدگی به شکایتش علیه آمریکا و اوکراین را تصویب نمی‌کند: ۲ رأی موافق، ۳ رأی مخالف، ۱۰ رأی ممتنع"
+
+[[item]]
+soort = "onderzoek"
+datum = "2024-10-01"
+bron = "Illiberalism Studies Program, George Washington University"
+url = "https://www.illiberalism.org/fringe-to-frontline-the-biolab-narratives-path-through-conspiracy-influencers-american-media-and-kremlin-actors/"
+[item.titel]
+nl = "Onderzoeker Dusan Bozalka stelt vast dat in 2022 complotinfluencers en Amerikaanse media, met Tucker Carlson voorop, het biolabverhaal meer verspreidden dan het Kremlin"
+en = "Researcher Dusan Bozalka finds that in 2022 conspiracy influencers and American media, led by Tucker Carlson, did more to spread the biolabs claim than the Kremlin"
+de = "Der Forscher Dusan Bozalka stellt fest, dass 2022 Verschwörungs-Influencer und US-Medien, allen voran Tucker Carlson, die Biolabor-Erzählung stärker verbreiteten als der Kreml"
+es = "El investigador Dusan Bozalka concluye que en 2022 influencers conspirativos y medios de EE. UU., con Tucker Carlson a la cabeza, difundieron el relato más que el Kremlin"
+fr = "Le chercheur Dusan Bozalka constate qu’en 2022 des influenceurs complotistes et des médias américains, Tucker Carlson en tête, ont plus diffusé le récit que le Kremlin"
+pt = "Segundo o pesquisador Dusan Bozalka, em 2022 influenciadores conspiracionistas e a mídia americana, com Tucker Carlson à frente, espalharam a tese dos biolaboratórios mais que o Kremlin."
+ru = "Исследователь Душан Бозалка выясняет, что в 2022 году утверждение о биолабораториях сильнее, чем Кремль, распространяли конспирологические блогеры и американские СМИ во главе с Такером Карлсоном"
+uk = "Дослідник Dusan Bozalka вважає, що у 2022 році твердження про біолабораторії поширювали більше конспірологічні інфлюенсери та американські медіа на чолі з Такером Карлсоном, ніж Кремль"
+id = "Peneliti Dusan Bozalka menemukan bahwa pada 2022 para influencer teori konspirasi dan media Amerika, dipimpin Tucker Carlson, lebih banyak menyebarkan klaim biolab daripada Kremlin"
+tr = "Araştırmacı Dusan Bozalka, 2022'de biyolojik laboratuvar iddiasını yaymada komplo fenomenlerinin ve Tucker Carlson öncülüğündeki Amerikan medyasının Kremlin'den daha etkili olduğunu saptadı"
+zh = "研究人員杜尚·博扎爾卡發現，2022 年散播生物實驗室說法的力道，以陰謀論網紅和以塔克·卡爾森為首的美國媒體，比克里姆林宮更大"
+ja = "研究者のドゥシャン・ボザルカ氏の調査:2022年に生物研究所の言説を広めたのは、クレムリンよりも、陰謀論のインフルエンサーと、タッカー・カールソン氏をはじめとする米国のメディアだった"
+hi = "शोधकर्ता दुशान बोज़ाल्का पाते हैं कि 2022 में बायोलैब के दावे को फैलाने में क्रेमलिन से ज़्यादा भूमिका षड्यंत्र फैलाने वाले इन्फ्लुएंसरों और टकर कार्लसन की अगुवाई वाले अमेरिकी मीडिया की रही"
+ar = "الباحث دوشان بوزالكا يرى أن مؤثرين مروجين لنظريات المؤامرة ووسائل إعلام أمريكية، بقيادة تاكر كارلسون، فعلوا في 2022 لنشر ادعاء المختبرات البيولوجية أكثر مما فعل الكرملين"
+fa = "پژوهشگری به نام دوشان بوزالکا می‌یابد که در سال ۲۰۲۲ اینفلوئنسرهای توطئه‌گرا و رسانه‌های آمریکایی، با پیشروی تاکر کارلسون، بیش از کرملین به گسترش ادعای زیست‌آزمایشگاه‌ها کمک کردند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2025-02-24"
+bron = "DFRLab"
+url = "https://dfrlab.org/2025/02/24/ukrainian-biolabs-the-never-ending-narrative/"
+[item.titel]
+nl = "Onderzoekers van DFRLab beschrijven het verhaal over Amerikaanse biolabs als een verhaal dat al ruim tien jaar terugkomt, eind 2024 weer opleefde en nu ook labs in Afrika noemt"
+en = "DFRLab researchers describe the US biolabs claim as a narrative that has returned for over a decade, surged again in late 2024 and widened to alleged US labs in Africa"
+de = "Forschende des DFRLab beschreiben die Erzählung über US-Biolabore als eine, die seit über zehn Jahren wiederkehrt, Ende 2024 erneut aufflammte und nun auch Afrika nennt"
+es = "Investigadores del DFRLab describen el relato de los biolaboratorios de EE. UU. como uno que vuelve desde hace más de diez años, resurgió a finales de 2024 y ya incluye África"
+fr = "Des chercheurs du DFRLab décrivent le récit des biolabos américains comme un récit qui revient depuis plus de dix ans, a ressurgi fin 2024 et vise désormais l’Afrique"
+pt = "Pesquisadores do DFRLab dizem que a narrativa sobre biolaboratórios dos EUA volta há mais de dez anos, ressurgiu com força no fim de 2024 e chegou a supostos laboratórios dos EUA na África"
+ru = "В DFRLab называют утверждение о биолабораториях США сюжетом, который возвращается более десяти лет, вновь резко усилился в конце 2024 года и дошёл до предполагаемых лабораторий США в Африке"
+uk = "DFRLab: твердження про американські біолабораторії, наратив, що повертається понад десять років, знову спалахнув наприкінці 2024-го й поширився на нібито американські лабораторії в Африці"
+id = "Peneliti DFRLab menggambarkan klaim biolab AS sebagai narasi yang kembali muncul selama lebih dari satu dekade, melonjak lagi pada akhir 2024, dan meluas ke dugaan laboratorium AS di Afrika"
+tr = "DFRLab araştırmacıları, ABD'nin biyolojik laboratuvarları iddiasını on yıldan uzun süredir geri dönen bir anlatı olarak görüyor; anlatı 2024 sonunda yükselip Afrika'daki iddialara uzandı."
+zh = "DFRLab 的研究人員指出，美國生物實驗室的說法已反覆出現十多年，2024 年底再度升溫，並擴大到指稱美國在非洲設有實驗室"
+ja = "DFRLabの研究者が、米国の生物研究所の言説を10年以上繰り返し現れてきた物語と説明:2024年末に再び急増し、アフリカにも米国の研究所があるという主張へ広がった"
+hi = "DFRLab के शोधकर्ता अमेरिकी बायोलैब के दावे को ऐसा नैरेटिव बताते हैं जो एक दशक से ज़्यादा समय से लौट रहा है, 2024 के अंत में फिर तेज़ हुआ और अफ्रीका में कथित अमेरिकी प्रयोगशालाओं तक फैल गया"
+ar = "باحثو DFRLab يصفون ادعاء المختبرات البيولوجية الأمريكية بأنه رواية تعود منذ أكثر من عقد، وعادت بقوة في أواخر 2024 واتسعت لتشمل مختبرات أمريكية مزعومة في أفريقيا"
+fa = "پژوهشگران DFRLab ادعای زیست‌آزمایشگاه‌های آمریکا را روایتی توصیف می‌کنند که بیش از یک دهه است برمی‌گردد، در اواخر ۲۰۲۴ دوباره اوج گرفت و به آزمایشگاه‌های ادعایی آمریکا در آفریقا هم کشیده شد"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "biolabs",
+  "biolaboratory",
+  "biolaboratories",
+  "bio-labs",
+  "biological laboratory",
+  "biological laboratories",
+  "biological weapons",
+  "biological weapon",
+  "bioweapons",
+  "bioweapon",
+  "Biowaffen",
+  "armas biológicas",
+  "armes biologiques",
+  "biowapens",
+  "биологическое оружие",
+  "біологічна зброя",
+  "біологічної зброї",
+  "биологического оружия",
+  "biolab",
+  "bio-lab",
+  "biological laborator",
+  "biological weapons lab",
+  "bioweapons lab",
+  "military biological",
+  "Lugar Center",
+  "Lugar Centre",
+  "Lugar laborator",
+  "Lugar-Zentrum",
+  "Лугар",
+  "biolaborator",
+  "Biolabor",
+  "laboratorios biológicos",
+  "laboratorio biológico",
+  "laboratoires biologiques",
+  "laboratoire biologique",
+  "laboratórios biológicos",
+  "laboratori biologici",
+  "биолаборатор",
+  "біолаборатор",
+  "биологических лаборатор",
+  "біологічних лаборатор",
+  "مختبرات بيولوجية",
+  "مختبر بيولوجي",
+  "जैविक प्रयोगशाला",
+  "生物实验室",
+  "生物實驗室",
+]
+omschrijving = """
+Claims that the United States, the Pentagon or US-funded programmes run secret biological laboratories in Ukraine, Georgia, Armenia, Moldova, the Baltic states or elsewhere in Eastern Europe and the former Soviet Union to develop biological weapons, test diseases or vaccines on people, spread epidemics or collect the DNA of a population. It also includes claims about a worldwide network of US biolabs or US biological weapons programmes that name no region, of which Eastern Europe is a part, even when they link it to covid-19 (afbakening van de PO, 2026-11-12). It includes claims about one specific laboratory, document, shipment, outbreak or animal (birds, bats, mosquitoes) linked to such labs. It does not include: laboratories in the United States itself or outside Eastern Europe and the former Soviet Union (afbakening van de PO, 2026-11-12), claims that covid-19 in general is a bioweapon or came from the lab in Wuhan, biological weapons in Ukraine attributed to others than the United States, such as Kyiv or the German army (afbakening van de PO, 2026-11-12), claims about chemical weapons, or other claims about the war in Ukraine."""

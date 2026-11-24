@@ -1,0 +1,191 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/russen-1-4-miljoen-burgers/dossier.md.
+
+sleutel = "russen-1-4-miljoen-burgers"
+status = "gepubliceerd"
+taal = "nl"
+adres = "1-4-miljoen-russische-burgerdoden"
+adres_en = "1-4-million-russian-civilian-deaths"
+kop = "Het getal van 1,4 miljoen Russen gaat over gewonde en gesneuvelde soldaten, niet over burgerdoden"
+oordeel = "onwaar"
+oordeel_zin = "Anderhalf miljoen is ongeveer het aantal Russische soldaten dat sneuvelde, gewond raakte of vermist is; gesneuveld zijn er hoogstens zo'n 450.000, en van de burgers in Rusland kwamen er volgens de telling van Novaja Gazeta Europa ruim 1.400 om [1] [5]."
+soort = "context"
+reikwijdte = "lokaal"
+
+bewering = "Waar is de verontwaardiging als Russische burgers omkomen? Bijna anderhalf miljoen Russen kwamen om het leven."
+platform = "X"
+eerst_gezien = "2026-10-22"
+posts = 1
+bereik = "234 likes en 1.197 reacties op 18 november"
+
+kort = """
+Een post op X van 22 oktober zei dat bijna anderhalf miljoen Russen omkwamen, in een vergelijking met burgerslachtoffers \
+in Gaza [7]. Het getal van 1,4 miljoen is een schatting van Russische soldaten die sneuvelden, gewond raakten of vermist \
+zijn; gesneuveld zijn er volgens het Amerikaanse instituut CSIS 400.000 tot 450.000 [1]. Burgerdoden in Rusland telde \
+Novaja Gazeta Europa tot mei ten minste 1.406 [5]."""
+
+tekst = """
+Op 22 oktober om 9:08 vroeg een account op X waarom er wel tranen vloeien om burgerslachtoffers in Gaza, maar niet als \
+Russische burgers omkomen [7]. Daarop volgde dat bijna anderhalf miljoen Russen om het leven kwamen [7]. De post kreeg \
+bijna 1.200 reacties [7].
+
+Een getal van die grootte bestaat, maar het gaat over soldaten, en niet alleen over doden. Het Amerikaanse \
+onderzoeksinstituut CSIS schatte op 1 juli dat Rusland van februari 2022 tot juni 2026 ongeveer 1,4 miljoen militaire \
+slachtoffers had [1]. Daarin tellen soldaten die sneuvelden, gewond raakten of vermist zijn [1]. Gesneuveld zijn er \
+volgens CSIS 400.000 tot 450.000 [1].
+
+De Oekraïense generale staf houdt een eigen telling bij. Op 22 oktober stond die op 1.572.790 Russische militairen [4]. \
+Op de pagina staat niet of dat doden en gewonden samen zijn [4]. Het is de telling van een partij in de oorlog, geen \
+onafhankelijke schatting.
+
+Hoeveel Russische soldaten zeker dood zijn, tellen Mediazona en de Russische dienst van de BBC bij naam. Ze gebruiken \
+overlijdensberichten, berichten van familie, lokale media en mededelingen van regionale overheden [3]. Tot en met 23 \
+oktober vonden ze er 282.993 [2]. Ze noemen dat zelf een ondergrens: het echte aantal ligt volgens hen waarschijnlijk \
+flink hoger [2].
+
+Om burgers gaat het dus niet. Novaja Gazeta Europa, een Russische krant die vanuit het buitenland werkt, telde tot 11 \
+mei 2026 ten minste 1.406 burgerdoden in Rusland en op de bezette Krim sinds 2022 [5]. Daarvan vielen er 524 in de \
+regio Koersk, in het deel dat Oekraïne van augustus 2024 tot maart 2025 bezet hield [5]. De krant noemt haar eigen \
+telling te laag, omdat overheden niet alle slachtoffers melden [5]. Het Russische ministerie van Buitenlandse Zaken \
+spreekt van meer dan 8.000 burgerdoden; volgens de krant telt het ministerie waarschijnlijk ook bewoners van gebieden \
+die Rusland na 2022 bezette [5].
+
+Ook met dat hoogste getal blijft het verschil groot. Anderhalf miljoen is bijna 190 keer 8.000, en ruim duizend keer de \
+telling van Novaja Gazeta Europa.
+
+De verwarring tussen slachtoffers en doden is niet nieuw. In maart 2025 checkte Nieuwscheckers een bericht dat een \
+miljoen doden in de oorlog noemde; het waren er volgens hen toen hoogstens 344.000 [6]."""
+
+niet_weten = """
+We weten niet hoeveel Russische soldaten echt zijn gesneuveld: de getallen lopen van de 282.993 die bij naam bekend \
+zijn tot 450.000 bij CSIS. Ook het aantal Russische burgerdoden is onzeker, en welke gebieden je meetelt maakt veel uit. \
+We weten niet waar de post het getal vandaan had."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat de Oekraïense generale staf precies als verliezen telt: doden en gewonden, en ook gevangenen?",
+  "Het getal van Mediazona op hun eigen pagina. Hun pagina van 6 november noemt 272.100 gevallen met een bekende datum van overlijden.",
+  "Waar het Russische ministerie van Buitenlandse Zaken zijn 8.000 burgerdoden vandaan heeft.",
+  "Het getal bestaat, maar niet voor doden en niet voor burgers. Wij kozen onwaar; misleidend is ook te verdedigen.",
+]
+
+[[rekensom]]
+geval = "Russische militaire slachtoffers, februari 2022 tot juni 2026 (CSIS)"
+som = "gesneuveld, gewond en vermist samen"
+uitkomst = "ongeveer 1,4 miljoen"
+
+[[rekensom]]
+geval = "Gesneuvelde Russische militairen, dezelfde periode (CSIS)"
+som = "schatting"
+uitkomst = "400.000 tot 450.000"
+
+[[rekensom]]
+geval = "Bij naam bekende gesneuvelde Russische militairen, tot en met 23 oktober (Mediazona en BBC)"
+som = "telling uit openbare bronnen, een ondergrens"
+uitkomst = "282.993"
+
+[[rekensom]]
+geval = "Burgerdoden in Rusland en op de Krim, tot 11 mei 2026 (Novaja Gazeta Europa)"
+som = "882 uit berichten plus 524 in Koersk"
+uitkomst = "ten minste 1.406"
+
+[[rekensom]]
+geval = "Anderhalf miljoen tegen de burgerdoden"
+som = "1.500.000 gedeeld door 1.406, en door 8.000"
+uitkomst = "ruim 1.000 keer, en bijna 190 keer"
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 22 oktober 2026, 9:08."
+alt = "Een post op X die zegt dat bijna anderhalf miljoen Russen omkwamen, in een vergelijking met Gaza. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2026-05-13"
+wat = "Novaja Gazeta Europa telt ten minste 1.406 burgerdoden in Rusland en op de Krim sinds 2022 [5]."
+
+[[tijdlijn]]
+datum = "2026-07-01"
+wat = "CSIS schat ongeveer 1,4 miljoen Russische militaire slachtoffers, van wie 400.000 tot 450.000 gesneuveld [1]."
+
+[[tijdlijn]]
+datum = "2026-10-22"
+tijd = "09:08"
+wat = "Een Nederlandse post op X zegt dat bijna anderhalf miljoen Russen omkwamen [7]."
+
+[[tijdlijn]]
+datum = "2026-10-22"
+wat = "De telling van de Oekraïense generale staf staat op 1.572.790 Russische militairen [4]."
+
+[[tijdlijn]]
+datum = "2026-10-25"
+wat = "Mediazona en de BBC kennen 282.993 gesneuvelde Russische militairen bij naam, tot en met 23 oktober [2]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Center for Strategic and International Studies (CSIS)"
+titel = "Russian Blood and Treasure: The Ballooning Costs of Putin's War"
+datum = "2026-07-01"
+url = "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+archief = "https://web.archive.org/web/20261117103117/https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "The Kyiv Independent"
+titel = "Almost 283,000 Russian soldiers killed in Ukraine identified by media investigation"
+datum = "2026-10-25"
+url = "https://kyivindependent.com/almost-283-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation-2/"
+archief = "https://web.archive.org/web/20261118003216/https://kyivindependent.com/almost-283-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation-2/"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Mediazona"
+titel = "How many Russian soldiers died in the war with Ukraine"
+datum = "2026-10-23"
+url = "https://en.zona.media/article/2026/10/23/casualties_eng-trl"
+archief = "https://web.archive.org/web/20261106055002/https://en.zona.media/article/2026/10/23/casualties_eng-trl"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Ministerie van Defensie van Oekraïne"
+titel = "Total Russian combat losses in Ukraine as of October 22, 2026"
+datum = "2026-10-22"
+url = "https://mod.gov.ua/en/news/total-russian-combat-losses-in-ukraine-as-of-october-22-2026"
+archief = "https://web.archive.org/web/20261029092806/https://mod.gov.ua/en/news/total-russian-combat-losses-in-ukraine-as-of-october-22-2026"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Novaja Gazeta Europa"
+titel = "За время войны в России погибло более 1400 мирных жителей"
+datum = "2026-05-13"
+url = "https://novayagazeta.eu/articles/2026/05/13/za-vremia-voiny-v-rossii-pogiblo-bolee-1400-mirnykh-zhitelei"
+archief = "https://web.archive.org/web/20261117021435/https://novayagazeta.eu/articles/2026/05/13/za-vremia-voiny-v-rossii-pogiblo-bolee-1400-mirnykh-zhitelei"
+
+[[bron]]
+nr = 6
+soort = "factcheck"
+uitgever = "Nieuwscheckers"
+titel = "Er zijn hoogstens 344 duizend doden gevallen in de Oekraïense oorlog, niet een miljoen"
+datum = "2025-03-26"
+url = "https://nieuwscheckers.nl/er-zijn-hoogstens-344-duizend-doden-gevallen-in-de-oekraiense-oorlog-niet-een-miljoen/"
+archief = "https://web.archive.org/web/20260722170335/https://nieuwscheckers.nl/er-zijn-hoogstens-344-duizend-doden-gevallen-in-de-oekraiense-oorlog-niet-een-miljoen/"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "X"
+titel = "Post over Russische burgers en anderhalf miljoen doden"
+datum = "2026-10-22"
+prive = true
+archief = "https://web.archive.org/web/20261119150923/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2113165605209510050&omit_script=true"

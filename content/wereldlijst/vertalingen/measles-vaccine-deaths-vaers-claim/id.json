@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar id) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Data resmi AS menunjukkan bahwa vaksin campak dikaitkan dengan kematian 1.700 persen lebih banyak daripada infeksi campak sejak 1995.",
+  "kern": [
+   "Angka tersebut membandingkan laporan ke VAERS, basis data keamanan vaksin AS yang dapat diisi laporan oleh siapa saja, dengan kematian campak yang terkonfirmasi, dan para pakar mengatakan kepada AFP bahwa laporan semacam itu tidak dapat menunjukkan bahwa vaksin menyebabkan suatu kematian [1].",
+   "Studi keamanan berskala besar menunjukkan bahwa dampak buruk serius dari vaksin campak, gondongan, dan rubela jarang terjadi [1]."
+  ],
+  "rondgang": "Klaim tersebut, yang berasal dari sebuah artikel di Substack, menyebar di X, Facebook, dan Instagram ketika Pan American Health Organization memutuskan bahwa Amerika Serikat tidak lagi memenuhi kriteria eliminasi campak [1]."
+ }
+}

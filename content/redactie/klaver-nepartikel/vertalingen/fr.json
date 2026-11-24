@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaver n'a jamais dit vouloir abolir la propriété privée, la citation date de 2020",
+  "oordeel_zin": "La citation provient d'un blog anonyme publié sur Medium en octobre 2020, et selon son porte-parole, Klaver ne l'a jamais dite [2] [7].",
+  "bewering": "Jesse Klaver (GL) : « Si je gagne les élections, j'abolis la propriété privée. »",
+  "kort": "Le 5 octobre, une capture d'écran d'une citation dans laquelle Jesse Klaver dit qu'il abolira la propriété privée s'il gagne les élections a circulé sur X [1]. Klaver n'a jamais dit cela : la citation provient d'un blog qu'un auteur anonyme a publié sur Medium en octobre 2020 [2] [7]. Le blog a disparu, mais la citation est revenue à plusieurs reprises en 2022, 2025 et 2026 [1] [7] [8].",
+  "tekst": "La capture d'écran est apparue le lundi 5 octobre à 14 h 37 sur X, accompagnée du texte « Regardez, c'est un vrai communiste. » [1]. Le 18 novembre, la publication comptait 953 mentions J'aime et 186 réponses [1]. Le même après-midi, un contexte y a été ajouté [1].\n\nLa citation est plus ancienne que la publication. Le mercredi 14 octobre 2020, un compte sur X a partagé un lien vers un blog sur Medium, une plateforme où tout le monde peut écrire [2]. Le titre de ce blog était la citation [2]. Quelques heures plus tard, le CIDI, le Centre d'information et de documentation sur Israël, a écrit que Klaver était tendance à cause d'un article antisémite affirmant qu'il voulait abolir la propriété privée [3]. Selon le CIDI, l'auteur y écrivait aussi que Klaver aurait une mère juive [3].\n\nIl n'existe aucune interview, aucun discours ni aucun programme dans lequel Klaver dit cela. En 2022, dpa n'a trouvé aucun média ayant consigné cette déclaration ; toutes les références renvoyaient au blog, que son auteur avait entre-temps supprimé [7]. Le porte-parole de Klaver a dit à dpa qu'il ne l'avait jamais dit [7]. Le programme électoral de GroenLinks pour 2021 s'intitulait Tijd voor nieuw realisme, avec Klaver comme tête de liste [5]. Selon dpa, les mots « propriété privée » et « propriété personnelle » (privébezit et privé-eigendom) n'y figurent pas [7].\n\nPar la suite, la citation est revenue régulièrement. En février 2022, elle figurait sur Facebook [7]. En octobre 2025, pendant la campagne pour les élections à la Tweede Kamer du 29 octobre, des captures d'écran ont de nouveau circulé, et le porte-parole a parlé de fake news [8]. Après la publication du 5 octobre 2026, Knack a lui aussi écrit qu'il n'existe aucune preuve de cette citation [9].\n\nEn 2020, Klaver était président du groupe parlementaire de GroenLinks [4]. GroenLinks et le PvdA ont fusionné le 13 juin 2026 pour former Progressief Nederland, PRO [6]. Klaver est aujourd'hui président du groupe PRO à la Tweede Kamer [4].",
+  "niet_weten": "Nous ne savons pas qui a écrit le blog, ni s'il s'agissait d'une plaisanterie.",
+  "bereik": "953 mentions J'aime et 186 réponses le 18 novembre",
+  "nog_uitzoeken": [
+   "Si la citation a aussi circulé en mars 2021 et en novembre 2023.",
+   "Une réaction du porte-parole de Klaver chez PRO à la publication de 2026."
+  ],
+  "tijdlijn": [
+   "Un compte sur X partage le lien vers le blog sur Medium, avec la citation pour titre [2].",
+   "Le CIDI qualifie l'article d'antisémite et de faux [3].",
+   "dpa : la déclaration est inventée [7].",
+   "AFP Factcheck Nederland, repris par deCheckers : faux [8].",
+   "GroenLinks et le PvdA fusionnent au sein de PRO [6].",
+   "La publication sur X avec la capture d'écran [1].",
+   "Knack : aucune preuve de la citation [9]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 5 octobre 2026, 14 h 37."
+  ],
+  "beeld_alt": [
+   "Capture d'écran d'un article contenant une citation inventée de Jesse Klaver sur l'abolition de la propriété privée. Tampon : FAUX."
+  ]
+ }
+}

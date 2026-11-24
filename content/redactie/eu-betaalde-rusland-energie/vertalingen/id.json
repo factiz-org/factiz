@@ -1,0 +1,69 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck eu-betaalde-rusland-energie van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1 (direct); doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "625d922210a5ae47",
+ "veldafdrukken": {
+  "kop": "038ec37e1b7fad51",
+  "oordeel_zin": "13ccb908c26f6d46",
+  "bewering": "cdd29ed19552d886",
+  "kort": "bd0f20af765bd61e",
+  "tekst": "6ac5dadaec175a68",
+  "niet_weten": "a8ce290628ec9e78",
+  "nog_uitzoeken": "85c3a9926b497ecd",
+  "tijdlijn": "140767c64a9fa20f",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c",
+  "rekensom": "8fd9d6fe24ed11aa"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1 (direct)",
+ "velden": {
+  "kop": "Sejak 2022 Uni Eropa membayar Rusia lebih dari 200 miliar euro untuk energi, bukan 302 miliar",
+  "oordeel_zin": "Uni Eropa memang membeli banyak energi Rusia, tetapi menurut angka resminya sendiri nilainya 197 hingga 213 miliar euro, tergantung periodenya, dan bahkan dengan tahun 2026 ditambahkan, angka 302 miliar dari Novak masih sekitar 70 miliar terlalu tinggi [1] [3] [5].",
+  "bewering": "Uni Eropa membayar Rusia 302 miliar euro untuk energi sejak 2022, jauh lebih banyak daripada yang dikatakan angka resmi.",
+  "kort": "Menurut Wakil Perdana Menteri Rusia Aleksandr Novak, Uni Eropa membayar Rusia 302 miliar euro untuk energi sejak 2022; pada hari yang sama Donald Trump menyebut 250 miliar dolar [1] [4]. Angka Uni Eropa sendiri adalah 197 miliar euro sejak Maret 2022, dan 213 miliar dari Januari 2022 hingga akhir 2025 [3] [5]. Bahkan dengan tahun 2026 ditambahkan, jumlah dari Novak masih sekitar 70 miliar euro terlalu tinggi; angka Trump berada di dekatnya [2] [5].",
+  "tekst": "Pada Senin, 12 Oktober, Wakil Perdana Menteri Rusia Aleksandr Novak mengatakan kepada stasiun milik negara Vesti bahwa sejak 2022 Uni Eropa membeli energi Rusia senilai 302 miliar euro [1] [2]. Ia tidak mengatakan bahan bakar apa saja yang ia hitung, dengan harga berapa, atau sampai tanggal berapa [1]. Pada hari yang sama Donald Trump menulis di Truth Social bahwa Uni Eropa telah membayar Rusia 250 miliar dolar untuk energi [4]. Ia tidak menyebut periode [4]. Menurut Euronews, ia ingin menunjukkan bahwa negara-negara Eropa terus membiayai Rusia [1]. Tiga hari sebelumnya Trump telah mengumumkan kesepakatan dengan Putin tentang diesel Rusia untuk Amerika Serikat [6].\n\nKomisi Eropa mengeluarkan angkanya sendiri pada 13 Oktober. Dari Maret 2022 hingga Juli 2026, Uni Eropa mengimpor energi dari Rusia senilai 197 miliar euro [1] [3]. Angka itu berasal dari COMEXT, basis data perdagangan Eurostat, badan statistik Uni Eropa [1].\n\n197 miliar itu dimulai pada Maret 2022, setelah invasi. Januari dan Februari 2022 tidak dihitung, padahal itu bulan-bulan yang mahal. Dalam jawabannya kepada Parlemen Eropa, Komisioner Eropa Marta Kos menyebut 213 miliar euro untuk Januari 2022 hingga Desember 2025 [5]. Dari jumlah itu, 144 miliar berasal dari tahun 2022 saja, dan 17 miliar dari tahun 2025 [5].\n\nBahkan dengan dua bulan itu ditambahkan, Uni Eropa tidak sampai ke 302 miliar. Novak sendiri mengatakan bahwa dalam sembilan bulan pertama 2026 Rusia memasok energi ke Eropa senilai 21,3 miliar dolar [1] [2]. Dengan kurs yang sama seperti pada 302 miliarnya, itu sekitar 20 miliar euro. Jika ditambahkan ke 213 miliar, hasilnya sekitar 233 miliar euro. Itu masih hampir 70 miliar lebih rendah daripada yang disebut Novak.\n\nJumlah dari Trump lebih dekat. 250 miliar dolar, menurut konversi Euronews, adalah 223 miliar euro [1]. Angka itu berada di antara 213 miliar hingga akhir 2025 dan total dengan 2026 ditambahkan. Siapa yang baru menghitung sejak Maret 2022, seperti yang dilakukan Komisi, mendapat angka yang lebih rendah: 197 miliar euro, 26 miliar lebih sedikit [1] [3].\n\nJadi ada benarnya. Sejak 2022 Uni Eropa membayar Rusia lebih dari 200 miliar euro untuk minyak, gas, dan batu bara. Tetapi jumlahnya turun cepat, dari 144 miliar pada 2022 menjadi 17 miliar pada 2025 [5]. Menurut lembaga riset CREA, dari akhir Februari 2025 hingga akhir Februari 2026 Uni Eropa mengimpor bahan bakar Rusia senilai 14,5 miliar euro, 36% lebih sedikit daripada tahun sebelumnya [7]. Mulai 1 Januari 2027 Uni Eropa tidak ingin lagi membeli gas Rusia, dengan pengecualian antara lain untuk Hongaria dan Slowakia [1].\n\nDalam bahasa Belanda, pembicaraan di X terutama tentang kesepakatan diesel itu sendiri. Sebuah unggahan tanggal 10 Oktober menyebutnya cara untuk membiayai mesin perang Rusia [8].",
+  "niet_weten": "Kami tidak tahu bagaimana Novak menghitung: bahan bakar dan harga apa saja, dan apakah dengan Eropa ia hanya memaksudkan Uni Eropa atau juga negara seperti Turki dan Serbia. Kami juga tidak tahu berapa yang dibayar Uni Eropa pada 2026 sejauh ini; untuk itu kami memakai angka Novak sendiri, yang mencakup seluruh Eropa. Dan kami tidak menemukan unggahan berbahasa Belanda yang mengulang angka 302 miliar atau 250 miliar dolar.",
+  "nog_uitzoeken": [
+   "Berapa yang dibayar Uni Eropa dari Januari hingga Oktober 2026 secara keseluruhan, menurut data perdagangan Eurostat. Saat ini kami menggunakan angka dari Novak sendiri untuk itu.",
+   "Apa saja yang dihitung Novak: hanya Uni Eropa, atau juga Turki, Serbia, dan negara-negara Eropa lainnya.",
+   "Konversi dari dolar ke euro dengan kurs ECB tanggal 12 Oktober. Euronews menggunakan dua kurs yang berbeda."
+  ],
+  "tijdlijn": [
+   "Trump mengumumkan kesepakatan dengan Putin tentang diesel Rusia untuk Amerika Serikat [6].",
+   "Sebuah unggahan berbahasa Belanda di X menyebut kesepakatan diesel itu sebagai cara untuk membiayai mesin perang Rusia [8].",
+   "Novak mengatakan di Vesti bahwa sejak 2022 Uni Eropa membeli energi Rusia senilai 302 miliar euro; Trump menulis di Truth Social tentang 250 miliar dolar [1] [4].",
+   "Komisi Eropa menyebut 197 miliar euro, dari Maret 2022 hingga Juli 2026 [1] [3].",
+   "Eunews melaporkan jawaban Komisioner Eropa Kos: 213 miliar euro dari Januari 2022 hingga akhir 2025 [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": [],
+  "rekensom": [
+   [
+    "Komisi: Maret 2022 hingga Juli 2026",
+    "impor energi dari Rusia menurut COMEXT",
+    "197 miliar euro"
+   ],
+   [
+    "Komisioner Eropa Kos: Januari 2022 hingga Desember 2025",
+    "144 miliar pada 2022, 17 miliar pada 2025, sisanya pada 2023 dan 2024",
+    "213 miliar euro"
+   ],
+   [
+    "Dengan 2026 ditambahkan, dihitung longgar",
+    "213 miliar ditambah sekitar 20 miliar, yaitu 21,3 miliar dolar yang disebut Novak untuk sembilan bulan",
+    "sekitar 233 miliar euro"
+   ],
+   [
+    "Novak",
+    "302 dikurangi 233 miliar",
+    "sekitar 69 miliar euro lebih banyak"
+   ],
+   [
+    "Trump",
+    "250 miliar dolar, dikonversi oleh Euronews",
+    "223 miliar euro"
+   ]
+  ]
+ }
+}

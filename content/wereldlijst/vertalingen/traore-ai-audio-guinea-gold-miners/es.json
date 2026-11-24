@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar es) van het overzicht traore-ai-audio-guinea-gold-miners van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "13dede4c185efcc6",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Unas grabaciones muestran al líder de Burkina Faso, Ibrahim Traoré, condenando a Guinea por expulsar a mineros de oro burkineses.",
+  "kern": [
+   "Las grabaciones fueron generadas con inteligencia artificial y colocadas sobre imágenes antiguas de Traoré [1].",
+   "Los movimientos de sus labios no coinciden con las palabras que se oyen [1].",
+   "El gobierno burkinés sí criticó las expulsiones, pero hasta el 16 de noviembre Traoré no había hablado públicamente sobre ellas, y sus canales oficiales no contienen ninguna de las declaraciones [1]."
+  ],
+  "rondgang": "Tres vídeos con estas grabaciones se difundieron en Facebook a partir de principios de noviembre de 2026, después de que Guinea expulsara a miles de mineros de oro extranjeros de la región de Siguiri [1]. Dos de las publicaciones, en conjunto, se compartieron más de 14 000 veces [1]."
+ }
+}

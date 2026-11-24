@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van de eigen factcheck ashura-manchester van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "4e9bb52ec84eb34c",
+ "veldafdrukken": {
+  "kop": "b757018192faa184",
+  "oordeel_zin": "fb18c44ea6e0fa0f",
+  "bewering": "69a4eab734457163",
+  "kort": "6ff70d14cacfac95",
+  "tekst": "40640fb96f33a174",
+  "niet_weten": "eb65e1b45a5c04ce",
+  "bereik": "4e2b997aac427916",
+  "nog_uitzoeken": "333c7a0263a26b44",
+  "tijdlijn": "aa68f4d2becd3c2c",
+  "beeld_bijschrift": "3e3aee52d7a5df4d",
+  "beeld_alt": "28462c8f6f8eeaec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "這段曼徹斯特的影片拍的是2026年6月21日什葉派一年一度的哀悼遊行",
+  "oordeel_zin": "影片是真的,但拍的是2026年6月21日在Wilmslow Road舉行的穆哈蘭姆月遊行,五個月後被配上一句沒有任何來源記錄的口號再次流傳 [3] [4] [7]。",
+  "bewering": "成群的穆斯林男子高喊“我們是真主的士兵在英國的街頭 ….. 為什麼這從來不上新聞 ??",
+  "kort": "X上的貼文展示曼徹斯特一條街上一群身穿黑衣的男子,並稱他們高喊「我們是真主的士兵」 [1] [2]。影片拍的是Jaffaria Islamic Centre一年一度的穆哈蘭姆月遊行,這是2026年6月21日星期日在Rusholme的Wilmslow Road上舉行的什葉派哀悼遊行,比這些貼文早五個月 [3] [4]。影片中的呼喊聲不是英語,我們也找不到任何來源記錄這句口號 [1] [4] [7]。",
+  "tekst": "2026年11月15日,X上一個帳號發布了這段影片,並寫道成群的穆斯林男子在英國街頭高喊「我們是真主的士兵」,還問為什麼這從來不上新聞 [1]。這段影片出自Javier Negre前一天晚上發布的一則西班牙文貼文,該貼文稱這些男子穿過曼徹斯特的一個郊區,要求實行伊斯蘭教法(sharia) [2]。\n\n影片中的店鋪招牌,例如Sanam和Delhi Sweet Centre,屬於Rusholme的Wilmslow Road 141至151號和137號的商家 [5] [6]。遊行者身穿黑衣,許多男子捶打胸口,人群舉著綠色和黑色的旗幟以及一面高大的旗幟 [1]。這是什葉派穆斯林在穆哈蘭姆月哀悼在卡爾巴拉遇害的伊瑪目侯賽因的方式;捶胸稱為matam [4] [7]。\n\nJaffaria Islamic Centre自稱是曼徹斯特最古老的什葉派imambargah(宗教聚會的場所),該中心宣布遊行將於2026年6月21日星期日舉行,從Platt Fields Park出發,前往位於Moss Lane East的中心 [3] [10]。6月22日發布的一段TikTok影片顯示,同一群人站在與X上影片開頭相同的店鋪前,影片說明提到2026年一年一度的穆哈蘭姆月遊行 [1] [4]。\n\n影片中的呼喊聲不是英語 [1]。該中心的海報和TikTok的說明都把這描述為哀悼遊行,兩者都沒有提到這句口號,也沒有提到要求實行伊斯蘭教法 [3] [4]。2018年同一條路上舉行遊行時的一篇報導也沒有提到,當時巴基斯坦日報《The News》寫道,數千名什葉派穆斯林使Wilmslow Road陷入停滯 [7]。",
+  "niet_weten": "我們不知道是誰拍了這段影片,也不知道影片中的每個片段是否都來自6月21日:影片在至少三個攝影機位置之間切換,而我們只把開頭部分與一則標有日期的貼文做了比對 [1] [4]。",
+  "bereik": "11月22日時有134個讚和51則回覆;附有同一影片的西班牙文貼文有65,500個讚",
+  "nog_uitzoeken": [
+   "這段1分54秒的影片中,每個片段分別是在何處、何時拍攝的;影片在至少三個攝影機位置之間切換。",
+   "是誰最先把這段影片連同口號發布到網上,以及是否有英文貼文早於11月14日的西班牙文貼文。",
+   "曼徹斯特市議會或大曼徹斯特警方是否為2026年6月21日的遊行封閉了Wilmslow Road。",
+   "我們在「誤導」與「假」之間權衡過。影片和街道都是真的,呼喊聲不是英語,而這句口號和要求實行伊斯蘭教法的說法沒有出現在任何來源中。如果您知道這段影片中呼喊的是什麼,請告訴我們。"
+  ],
+  "tijdlijn": [
+   "Jaffaria Islamic Centre的穆哈蘭姆月遊行從Platt Fields Park出發 [3]。",
+   "一段TikTok影片顯示同一群人在Wilmslow Road上,稱之為Manchester Muharram Jaloos [4]。",
+   "Maldita發現「真主的士兵」要求實行伊斯蘭教法的說法出現在一段來自密西根州迪爾伯恩的影片上 [9]。",
+   "Javier Negre把這段曼徹斯特影片發布為要求實行伊斯蘭教法的「真主的士兵」遊行 [2]。",
+   "帶有該口號的英文貼文 [1]。",
+   "法新社:這是一場宗教遊行,被歪曲成抗議活動 [8]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文,2026年11月15日,10:26 UTC。"
+  ],
+  "beeld_alt": [
+   "X上的一則貼文,附有影片截圖:曼徹斯特Wilmslow Road上一群身穿黑衣的人,被當作穆斯林男子高喊「真主的士兵」而分享。印章:誤導。"
+  ]
+ }
+}

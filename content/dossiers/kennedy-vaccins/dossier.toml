@@ -1,0 +1,179 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5). De PO las het en gaf akkoord op 2026-11-19.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "health"             # uit content/themas.json
+onderdeel = "vaccines"
+verwant = ["gates-vaccins-chips"]
+
+[naam]
+nl = "Robert F. Kennedy jr. en vaccins, van actievoerder tot minister van Volksgezondheid"
+en = "Robert F. Kennedy Jr. and vaccines, from activist to health secretary"
+de = "Robert F. Kennedy Jr. und Impfstoffe, vom Aktivisten zum Gesundheitsminister"
+es = "Robert F. Kennedy Jr. y las vacunas, de activista a secretario de Salud"
+fr = "Robert F. Kennedy Jr. et les vaccins, de militant à ministre de la Santé"
+
+[inleiding]
+nl = """
+Robert F. Kennedy jr. voerde jarenlang campagne tegen vaccins, onder meer met de organisatie Children's Health
+Defense. In 2023 en 2024 was hij kandidaat voor het presidentschap van de Verenigde Staten, en sinds februari 2025 is
+hij daar minister van Volksgezondheid. Sinds 2019 gaan er beweringen rond over wat hij zei over vaccins en autisme,
+over wat hem werd toegeschreven, zoals een rechtszaak tegen vaccins die hij zou hebben gewonnen, en over het beleid
+van zijn ministerie: de vaccinadviseurs van de CDC, het vaccinatieschema voor kinderen, mRNA-onderzoek, mazelen en
+paracetamol in de zwangerschap. Dit dossier zet de factchecks daarover op een tijdlijn, naast besluiten en rapporten
+die het verhaal dragen. Eén check maakte de eigen redactie van Factiz, over de sms'jes van Fauci die in 2026 werden
+vrijgegeven. Elke factcheck zegt wie hem maakte en wat die vond. In de lijst staan alleen factchecks die we mogen
+overnemen; ze is dus niet volledig. Het verhaal over Bill Gates en vaccins heeft een eigen dossier."""
+en = """
+Robert F. Kennedy Jr. campaigned against vaccines for years, among other things through the organisation Children's
+Health Defense. He ran for president of the United States in 2023 and 2024, and since February 2025 he has been the
+country's health secretary. Since 2019, claims have circulated about what he said about vaccines and autism, about
+what was attributed to him, such as a court case against vaccines he supposedly won, and about the policy of his
+department: the CDC's vaccine advisers, the childhood vaccine schedule, mRNA research, measles and acetaminophen in
+pregnancy. This dossier puts the fact-checks of these claims on a timeline, next to decisions and reports that carry
+the story. One check was made by Factiz's own desk, about Fauci's text messages released in 2026. Each fact-check says
+who made it and what they found. The list holds only fact-checks we may republish, so it is not complete. The story of
+Bill Gates and vaccines has a dossier of its own."""
+de = """
+Robert F. Kennedy Jr. hat jahrelang gegen Impfungen gekämpft, unter anderem mit der Organisation Children's Health
+Defense. 2023 und 2024 kandidierte er für das Amt des US-Präsidenten, und seit Februar 2025 ist er dort
+Gesundheitsminister. Seit 2019 kursieren Behauptungen darüber, was er über Impfungen und Autismus sagte, darüber, was
+ihm zugeschrieben wurde, etwa ein angeblich gewonnener Prozess gegen Impfungen, und über die Politik seines
+Ministeriums: die Impfberater der CDC, den Impfplan für Kinder, mRNA-Forschung, Masern und Paracetamol in der
+Schwangerschaft. Dieses Dossier ordnet die Faktenchecks dazu auf einer Zeitleiste, neben Beschlüssen und Berichten,
+die die Erzählung tragen. Einen Check hat die eigene Redaktion von Factiz gemacht, über die SMS von Fauci, die 2026
+veröffentlicht wurden. Jeder Faktencheck sagt, wer ihn gemacht hat und was er ergab. Die Liste enthält nur
+Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig. Die Erzählung über Bill Gates und Impfstoffe
+hat ein eigenes Dossier."""
+es = """
+Robert F. Kennedy Jr. hizo campaña contra las vacunas durante años, entre otras cosas con la organización Children's
+Health Defense. En 2023 y 2024 fue candidato a la presidencia de Estados Unidos, y desde febrero de 2025 es allí
+secretario de Salud. Desde 2019 circulan afirmaciones sobre lo que dijo de las vacunas y el autismo, sobre lo que se
+le atribuyó, como un juicio contra las vacunas que supuestamente ganó, y sobre la política de su departamento: los
+asesores de vacunas de los CDC, el calendario de vacunación infantil, la investigación con ARNm, el sarampión y el
+paracetamol en el embarazo. Este dosier ordena en una cronología las verificaciones sobre estas afirmaciones, junto a
+decisiones e informes que sostienen el relato. Una verificación la hizo la redacción propia de Factiz, sobre los
+mensajes de Fauci publicados en 2026. Cada verificación dice quién la hizo y qué encontró. La lista solo contiene
+verificaciones que podemos reproducir; por eso no está completa. El relato sobre Bill Gates y las vacunas tiene su
+propio dosier."""
+fr = """
+Robert F. Kennedy Jr. a fait campagne contre les vaccins pendant des années, notamment avec l’organisation Children's
+Health Defense. En 2023 et 2024, il a été candidat à la présidence des États-Unis, et depuis février 2025 il y est
+ministre de la Santé. Depuis 2019 circulent des affirmations sur ce qu’il a dit des vaccins et de l’autisme, sur ce
+qu’on lui a attribué, comme un procès contre les vaccins qu’il aurait gagné, et sur la politique de son ministère :
+les conseillers en vaccination des CDC, le calendrier vaccinal des enfants, la recherche sur l’ARNm, la rougeole et le
+paracétamol pendant la grossesse. Ce dossier place les vérifications de ces affirmations sur une chronologie, à côté
+des décisions et rapports qui portent le récit. Une vérification a été faite par la rédaction de Factiz, sur les SMS
+de Fauci publiés en 2026. Chaque vérification dit qui l’a faite et ce qu’elle a trouvé. La liste ne contient que des
+vérifications que nous pouvons reprendre ; elle n’est donc pas complète. Le récit sur Bill Gates et les vaccins a son
+propre dossier."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: besluiten, onderzoek en pers, elk door Claude geopend en gelezen.
+
+[[item]]
+soort = "rapport"
+datum = "2021-03-24"
+bron = "Center for Countering Digital Hate"
+url = "https://www.counterharm.com/research/the-disinformation-dozen/"
+[item.titel]
+nl = "Het Center for Countering Digital Hate noemt twaalf mensen, onder wie Robert F. Kennedy jr., de bron van tot 65 procent van de onderzochte antivaccinberichten op Facebook en Twitter"
+en = "The Center for Countering Digital Hate names twelve people, among them Robert F. Kennedy Jr., as the source of up to 65 percent of the anti-vaccine content it studied on Facebook and Twitter"
+de = "Das Center for Countering Digital Hate nennt zwölf Personen, darunter Robert F. Kennedy Jr., als Quelle von bis zu 65 Prozent der untersuchten Anti-Impf-Inhalte auf Facebook und Twitter"
+es = "El Center for Countering Digital Hate señala a doce personas, entre ellas Robert F. Kennedy Jr., como fuente de hasta el 65 % del contenido antivacunas estudiado en Facebook y Twitter"
+fr = "Le Center for Countering Digital Hate désigne douze personnes, dont Robert F. Kennedy Jr., comme source de jusqu’à 65 % des contenus antivaccins étudiés sur Facebook et Twitter"
+
+[[item]]
+soort = "besluit"
+datum = "2025-02-13"
+bron = "NBC News"
+url = "https://www.nbcnews.com/politics/congress/senate-votes-confirm-robert-f-kennedy-jr-health-secretary-rcna191856"
+[item.titel]
+nl = "De Amerikaanse Senaat stemt met 52 tegen 48 in met Kennedy als minister van Volksgezondheid; senator Cassidy zegt dat Kennedy beloofde de vaccinadviseurs van de CDC te behouden"
+en = "The US Senate confirms Kennedy as health secretary by 52 votes to 48; Senator Cassidy says Kennedy promised to keep the CDC's vaccine advisory committee in place"
+de = "Der US-Senat bestätigt Kennedy mit 52 zu 48 Stimmen als Gesundheitsminister; Senator Cassidy sagt, Kennedy habe versprochen, den Impfbeirat der CDC beizubehalten"
+es = "El Senado de EE. UU. confirma a Kennedy como secretario de Salud por 52 votos a 48; el senador Cassidy dice que Kennedy prometió mantener el comité asesor de vacunas de los CDC"
+fr = "Le Sénat américain confirme Kennedy comme ministre de la Santé par 52 voix contre 48 ; le sénateur Cassidy dit que Kennedy a promis de garder le comité consultatif des CDC sur les vaccins"
+
+[[item]]
+soort = "besluit"
+datum = "2025-06-09"
+bron = "ABC News"
+url = "https://abcnews.com/Health/rfk-jr-removing-17-members-cdcs-vaccine-advisory/story?id=122670046"
+[item.titel]
+nl = "Kennedy zet alle 17 leden van ACIP, de commissie die de CDC adviseert over vaccins, uit hun functie en vervangt ze door nieuwe leden"
+en = "Kennedy removes all 17 members of ACIP, the committee that advises the CDC on vaccines, and replaces them with new members"
+de = "Kennedy entlässt alle 17 Mitglieder der ACIP, des Ausschusses, der die CDC zu Impfungen berät, und ersetzt sie durch neue Mitglieder"
+es = "Kennedy destituye a los 17 miembros del ACIP, el comité que asesora a los CDC sobre vacunas, y los sustituye por otros nuevos"
+fr = "Kennedy démet les 17 membres de l’ACIP, le comité qui conseille les CDC sur les vaccins, et les remplace par de nouveaux membres"
+
+[[item]]
+soort = "besluit"
+datum = "2025-08-05"
+bron = "CBS News"
+url = "https://www.cbsnews.com/news/rfk-jr-halts-500-million-for-mrna-vaccine-research"
+[item.titel]
+nl = "Het ministerie van Kennedy stopt 22 projecten voor mRNA-vaccins van samen ongeveer 500 miljoen dollar, de meeste tegen covid en griep"
+en = "Kennedy's department halts 22 mRNA vaccine projects worth about 500 million dollars, most of them against Covid and flu"
+de = "Kennedys Ministerium stoppt 22 Projekte für mRNA-Impfstoffe im Wert von rund 500 Millionen Dollar, die meisten gegen Covid und Grippe"
+es = "El departamento de Kennedy cancela 22 proyectos de vacunas de ARNm por unos 500 millones de dólares, la mayoría contra la covid y la gripe"
+fr = "Le ministère de Kennedy arrête 22 projets de vaccins à ARNm d’environ 500 millions de dollars, surtout contre le Covid et la grippe"
+
+[[item]]
+soort = "besluit"
+datum = "2025-09-22"
+bron = "FDA"
+url = "https://www.fda.gov/news-events/press-announcements/fda-responds-evidence-possible-association-between-autism-and-acetaminophen-use-during-pregnancy"
+[item.titel]
+nl = "De FDA begint een aanpassing van de bijsluiter van paracetamol over gebruik in de zwangerschap en schrijft artsen aan; een oorzakelijk verband met autisme is volgens haar niet vastgesteld"
+en = "The FDA starts a label change for acetaminophen use in pregnancy and writes to physicians; it says a causal link with autism has not been established"
+de = "Die FDA leitet eine Änderung der Packungsbeilage von Paracetamol zur Einnahme in der Schwangerschaft ein und schreibt Ärzten; ein ursächlicher Zusammenhang mit Autismus sei nicht belegt"
+es = "La FDA inicia un cambio en la etiqueta del paracetamol sobre su uso en el embarazo y escribe a los médicos; dice que no se ha demostrado una relación causal con el autismo"
+fr = "La FDA lance une modification de la notice du paracétamol pendant la grossesse et écrit aux médecins ; selon elle, aucun lien de causalité avec l’autisme n’est établi"
+
+[[item]]
+soort = "pers"
+datum = "2025-09-24"
+bron = "World Health Organization"
+url = "https://www.who.int/news/item/24-09-2025-who-statement-on-autism-related-issues"
+[item.titel]
+nl = "De WHO zegt dat er geen sluitend bewijs is voor een verband tussen paracetamol in de zwangerschap en autisme, en dat vaccins voor kinderen geen autisme veroorzaken"
+en = "WHO says there is no conclusive evidence of a link between acetaminophen in pregnancy and autism, and that childhood vaccines do not cause autism"
+de = "Die WHO sagt, es gebe keinen schlüssigen Beleg für einen Zusammenhang zwischen Paracetamol in der Schwangerschaft und Autismus, und Kinderimpfungen verursachten keinen Autismus"
+es = "La OMS dice que no hay pruebas concluyentes de una relación entre el paracetamol en el embarazo y el autismo, y que las vacunas infantiles no causan autismo"
+fr = "L’OMS dit qu’aucune preuve concluante ne relie le paracétamol pendant la grossesse à l’autisme, et que les vaccins de l’enfance ne causent pas l’autisme"
+
+[[item]]
+soort = "besluit"
+datum = "2026-01-05"
+bron = "Contemporary Pediatrics"
+url = "https://www.contemporarypediatrics.com/view/cdc-changes-childhood-vaccine-schedule-recommends-fewer-vaccines-for-all-children"
+[item.titel]
+nl = "De CDC beveelt voor alle kinderen nog vaccins tegen 11 ziekten aan, deels naar Deens voorbeeld; onder meer griep, covid, rotavirus en hepatitis B zijn niet meer voor ieder kind"
+en = "The CDC now recommends vaccines against 11 diseases for all children, modelled in part on Denmark; flu, Covid, rotavirus and hepatitis B, among others, are no longer for every child"
+de = "Die CDC empfiehlt allen Kindern nur noch Impfungen gegen 11 Krankheiten, teils nach dänischem Vorbild; Grippe, Covid, Rotavirus und Hepatitis B gelten unter anderem nicht mehr für jedes Kind"
+es = "Los CDC recomiendan ahora vacunas contra 11 enfermedades para todos los niños, en parte según el modelo danés; la gripe, la covid, el rotavirus y la hepatitis B, entre otras, ya no son para todos"
+fr = "Les CDC ne recommandent plus pour tous les enfants que des vaccins contre 11 maladies, en partie sur le modèle danois ; grippe, Covid, rotavirus et hépatite B ne sont plus pour tous"
+
+[voorstel]
+woorden = ["Robert F. Kennedy", "Kennedy", "RFK", "Кеннеди", "Кеннеді", "كينيدي", "कैनेडी", "केनेडी", "ケネディ", "肯尼迪", "甘迺迪", "케네디", "Children's Health Defense", "vaccine", "vaccines", "vaccination", "vaccinations", "vaccinated", "vaccinate", "vaccin", "vacuna", "Impfung", "вакцин", "واکسن", "لقاح", "ワクチン", "autism", "autisme", "autismo", "Autismus", "autistic", "Tylenol", "acetaminophen", "paracetamol", "Panadol", "Fauci", "CDC", "ACIP", "FDA", "HHS", "Health and Human Services", "mRNA", "measles", "hepatitis B"]
+omschrijving = """
+Claims in the story of Robert F. Kennedy Jr. and vaccines, from 2019 to now: what Kennedy said or is quoted as saying
+about vaccines and autism (for example that vaccines, aluminium or Tylenol, also called acetaminophen or paracetamol,
+cause autism), as an activist, as a presidential candidate in 2023 and 2024 and as US health secretary since 2025;
+claims about Kennedy and vaccines, such as a court case he supposedly won or a letter attributed to him; and claims
+about US vaccine policy in 2025 and 2026: the CDC and its vaccine advisers, the childhood vaccine schedule, hepatitis B
+at birth, the MMR vaccine, Covid vaccines for children and pregnant women, mRNA funding, vaccine injury and liability,
+the Texas measles outbreak, and what Trump or US health officials said about vaccines and autism. It does not include
+Bill Gates and vaccines (dossier gates-vaccins-chips), the origin of the coronavirus, vaccines elsewhere in the world or
+Covid vaccine side effects without a link to Kennedy or US policy, or other claims about Kennedy or his family (John F.
+Kennedy, politics, food, fluoride)."""

@@ -1,0 +1,162 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5, PO 2026-11-18: "Ja, maak het dossier"): het eerste dossier waarin de eigen redactie
+# van Factiz een groot deel van de checks maakt (B83). De PO las het en gaf akkoord op 2026-11-19. De eigen checks erin
+# gaan pas mee als ze gepubliceerd zijn (een menselijke auteur en een andere nalezer, B82); tot dan toont de uitgave de rest.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Oekraïne is akkoord, zet die op akkoord"'
+thema = "war"                # uit content/themas.json
+onderdeel = "ukraine"
+verwant = ["biolabs-oekraine", "nazi-oekraine", "navo-uitbreiding", "zelensky-luxury"]
+
+[naam]
+nl = "De oorlog in Oekraïne: wat er in 2025 en 2026 rondging"
+en = "The war in Ukraine: what circulated in 2025 and 2026"
+de = "Der Krieg in der Ukraine: was 2025 und 2026 kursierte"
+es = "La guerra en Ucrania: lo que circuló en 2025 y 2026"
+fr = "La guerre en Ukraine : ce qui a circulé en 2025 et 2026"
+
+[inleiding]
+nl = """
+Over de oorlog in Oekraïne gaat elke week iets rond dat niet klopt: over geld en gas, over het aantal doden, over
+Zelensky en over de NAVO, en beelden die bij een andere aanval horen. Dit dossier zet wat in 2025 en 2026 is
+nagetrokken op een tijdlijn. Een deel checkte de eigen redactie van Factiz, vaak omdat het in het Nederlands rondging en
+nog niemand het had gedaan; de rest komt van redacties waarvan we de checks mogen overnemen. Elke factcheck zegt wie hem
+maakte en wat die vond. Verhalen die al langer rondgaan, zoals de biolabs, de nazi's in Oekraïne, de NAVO-uitbreiding
+en de luxe van Zelensky, hebben daarnaast een eigen dossier met hun geschiedenis."""
+en = """
+Every week something about the war in Ukraine circulates that is not true: about money and gas, about the number of
+dead, about Zelensky and about NATO, and images that belong to another attack. This dossier puts what was checked in
+2025 and 2026 on a timeline. Part of it was checked by Factiz's own desk, often because it circulated in Dutch and
+nobody had checked it yet; the rest comes from newsrooms whose fact-checks we may republish. Each fact-check says who
+made it and what they found. Stories that have circulated for longer, such as the biolabs, the Nazis in Ukraine, NATO
+enlargement and Zelensky's luxury, also have a dossier of their own with their history."""
+de = """
+Jede Woche kursiert über den Krieg in der Ukraine etwas, das nicht stimmt: über Geld und Gas, über die Zahl der Toten,
+über Selenskyj und über die NATO, und Bilder, die zu einem anderen Angriff gehören. Dieses Dossier ordnet, was 2025 und
+2026 überprüft wurde, auf einer Zeitleiste. Einen Teil hat die eigene Redaktion von Factiz geprüft, oft weil es auf
+Niederländisch kursierte und noch niemand es geprüft hatte; der Rest stammt von Redaktionen, deren Faktenchecks wir
+übernehmen dürfen. Jeder Faktencheck sagt, wer ihn gemacht hat und was er ergab. Erzählungen, die schon länger
+kursieren, etwa über die Biolabore, die Nazis in der Ukraine, die NATO-Erweiterung und Selenskyjs Luxus, haben daneben
+ein eigenes Dossier mit ihrer Geschichte."""
+es = """
+Cada semana circula algo falso sobre la guerra en Ucrania: sobre el dinero y el gas, sobre el número de muertos, sobre
+Zelenski y sobre la OTAN, e imágenes que pertenecen a otro ataque. Este dosier ordena en una cronología lo que se
+verificó en 2025 y 2026. Una parte la verificó la redacción propia de Factiz, a menudo porque circulaba en neerlandés y
+nadie lo había hecho todavía; el resto viene de redacciones cuyas verificaciones podemos reproducir. Cada verificación
+dice quién la hizo y qué encontró. Los relatos que circulan desde hace más tiempo, como los biolaboratorios, los nazis
+en Ucrania, la ampliación de la OTAN y el lujo de Zelenski, tienen además su propio dosier con su historia."""
+fr = """
+Chaque semaine, quelque chose de faux circule sur la guerre en Ukraine : sur l’argent et le gaz, sur le nombre de
+morts, sur Zelensky et sur l’OTAN, et des images qui appartiennent à une autre attaque. Ce dossier place sur une
+chronologie ce qui a été vérifié en 2025 et 2026. Une partie a été vérifiée par la rédaction de Factiz, souvent parce
+que cela circulait en néerlandais et que personne ne l’avait encore fait ; le reste vient de rédactions dont nous
+pouvons reprendre les vérifications. Chaque vérification dit qui l’a faite et ce qu’elle a trouvé. Les récits qui
+circulent depuis plus longtemps, comme les biolaboratoires, les nazis en Ukraine, l’élargissement de l’OTAN et le luxe
+de Zelensky, ont en plus leur propre dossier avec leur histoire."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: besluiten, onderzoek en pers uit 2025 en 2026, elk gelezen door de onderzoekers van
+# de eigen checks (de dossiers in data/redactie/<sleutel>/).
+
+[[item]]
+soort = "pers"
+datum = "2025-11-04"
+bron = "Euronews"
+url = "https://www.euronews.com/2025/11/04/false-claims-and-stolen-bylines-the-russian-propaganda-strategy-haunting-the-news"
+[item.titel]
+nl = "Euronews beschrijft hoe nagemaakte nieuwssites met gestolen namen van journalisten valse verhalen over Oekraïne verspreiden"
+en = "Euronews describes how fake news sites with stolen journalist bylines spread false stories about Ukraine"
+de = "Euronews beschreibt, wie gefälschte Nachrichtenseiten mit gestohlenen Namen von Journalisten falsche Geschichten über die Ukraine verbreiten"
+es = "Euronews describe cómo sitios de noticias falsos con firmas robadas de periodistas difunden historias falsas sobre Ucrania"
+fr = "Euronews décrit comment de faux sites d’information aux signatures volées de journalistes diffusent de fausses histoires sur l’Ukraine"
+
+[[item]]
+soort = "rapport"
+datum = "2025-11-11"
+bron = "NAVO"
+url = "https://www.nato.int/en/what-we-do/wider-activities/natos-approach-to-counter-information-threats/setting-the-record-straight"
+[item.titel]
+nl = "De NAVO werkt haar pagina bij over beweringen van Rusland, waaronder de belofte dat ze niet naar het oosten zou uitbreiden"
+en = "NATO updates its page on Russian claims, including the promise that it would not expand eastward"
+de = "Die NATO aktualisiert ihre Seite zu russischen Behauptungen, darunter das Versprechen, sich nicht nach Osten zu erweitern"
+es = "La OTAN actualiza su página sobre afirmaciones rusas, entre ellas la promesa de no ampliarse hacia el este"
+fr = "L’OTAN met à jour sa page sur les affirmations russes, dont la promesse de ne pas s’élargir vers l’est"
+
+[[item]]
+soort = "besluit"
+datum = "2026-01-26"
+bron = "Raad van de EU"
+url = "https://www.eeas.europa.eu/delegations/ukraine/russian-gas-imports-council-gives-final-greenlight-stepwise-ban_en"
+[item.titel]
+nl = "De Raad van de EU stemt in met een verbod in stappen op de invoer van Russisch gas"
+en = "The Council of the EU approves a stepwise ban on imports of Russian gas"
+de = "Der Rat der EU billigt ein schrittweises Verbot von Einfuhren russischen Gases"
+es = "El Consejo de la UE aprueba una prohibición escalonada de las importaciones de gas ruso"
+fr = "Le Conseil de l’UE approuve une interdiction progressive des importations de gaz russe"
+
+[[item]]
+soort = "onderzoek"
+datum = "2026-07-01"
+bron = "Center for Strategic and International Studies"
+url = "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war"
+[item.titel]
+nl = "CSIS schat de Russische militaire verliezen op ongeveer 1,4 miljoen doden, gewonden en vermisten, van wie 400.000 tot 450.000 doden"
+en = "CSIS estimates Russian military losses at about 1.4 million dead, wounded and missing, of whom 400,000 to 450,000 dead"
+de = "CSIS schätzt die russischen militärischen Verluste auf etwa 1,4 Millionen Tote, Verwundete und Vermisste, davon 400.000 bis 450.000 Tote"
+es = "El CSIS calcula las pérdidas militares rusas en unos 1,4 millones de muertos, heridos y desaparecidos, de los que entre 400.000 y 450.000 murieron"
+fr = "Le CSIS estime les pertes militaires russes à environ 1,4 million de morts, blessés et disparus, dont 400 000 à 450 000 morts"
+
+[[item]]
+soort = "pers"
+datum = "2026-09-01"
+bron = "Euronews"
+url = "https://www.euronews.com/2026/09/01/zelenskyy-warns-russian-airspace-will-effectively-be-closing"
+[item.titel]
+nl = "Zelensky waarschuwt luchtvaartmaatschappijen dat het Russische luchtruim door drones onveilig wordt"
+en = "Zelensky warns airlines that drones are making Russian airspace unsafe"
+de = "Selenskyj warnt Fluggesellschaften, dass Drohnen den russischen Luftraum unsicher machen"
+es = "Zelenski advierte a las aerolíneas de que los drones hacen inseguro el espacio aéreo ruso"
+fr = "Zelensky avertit les compagnies aériennes que les drones rendent l’espace aérien russe dangereux"
+
+[[item]]
+soort = "pers"
+datum = "2026-10-13"
+bron = "Euronews"
+url = "https://www.euronews.com/2026/10/13/europe-paid-russia-209bn-for-energy-since-2022-far-below-moscows-320bn-claim"
+[item.titel]
+nl = "Euronews zet de bedragen van Moskou en Trump naast de cijfers van de Europese Commissie over wat de EU Rusland betaalde voor energie"
+en = "Euronews compares the figures from Moscow and Trump with the European Commission's figures on what the EU paid Russia for energy"
+de = "Euronews vergleicht die Zahlen aus Moskau und von Trump mit den Zahlen der Europäischen Kommission dazu, was die EU Russland für Energie zahlte"
+es = "Euronews compara las cifras de Moscú y de Trump con las de la Comisión Europea sobre lo que la UE pagó a Rusia por energía"
+fr = "Euronews compare les chiffres de Moscou et de Trump à ceux de la Commission européenne sur ce que l’UE a payé à la Russie pour l’énergie"
+
+[[item]]
+soort = "onderzoek"
+datum = "2026-10-23"
+bron = "Mediazona"
+url = "https://en.zona.media/article/2026/10/23/casualties_eng-trl"
+[item.titel]
+nl = "Mediazona en BBC Russian hebben bijna 283.000 omgekomen Russische militairen bij naam geteld"
+en = "Mediazona and BBC Russian have counted almost 283,000 Russian military dead by name"
+de = "Mediazona und BBC Russian haben fast 283.000 getötete russische Soldaten namentlich erfasst"
+es = "Mediazona y BBC Russian han contado por su nombre casi 283.000 militares rusos muertos"
+fr = "Mediazona et BBC Russian ont recensé nommément près de 283 000 militaires russes morts"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = ["oekra", "ukrain", "ucrania", "kyiv", "kiev", "kiew", "kyjiw", "zelensk", "selensk", "украин", "україн", "зеленск", "зеленськ"]
+omschrijving = """
+Claims about the war in Ukraine that circulated in 2025 or 2026: about money, aid, energy and gas, about the number of
+dead and wounded, about Zelensky and his government, about NATO and peace talks, about conscription, and images or
+videos presented as showing an attack, a battle or a statement in this war. New versions of older stories (NATO
+enlargement, Zelensky's luxury, Nazis in Ukraine) belong here when they circulated in 2025 or 2026. It does not include
+claims from before 2025, claims about other conflicts, or claims that only mention Ukraine in passing."""

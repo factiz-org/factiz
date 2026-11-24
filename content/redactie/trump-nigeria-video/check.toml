@@ -1,0 +1,270 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.9, B82, B84, B85), in het Engels. Geschreven door Claude op het
+# dossier in data/redactie/trump-nigeria-video/dossier.md, nagelezen en goedgekeurd door de redactie van Factiz
+# (2026-11-19, PO: "3 checks in engels zijn nagelezen en goedgekeurd").
+
+sleutel = "trump-nigeria-video"
+status = "gepubliceerd"
+taal = "en"
+adres = "trump-video-nigeria-christians-war"
+kop = "Trump video on the killing of Christians is from November 2025 and declares no war"
+oordeel = "misleidend"
+oordeel_zin = "Trump said these words, but in a video about Nigeria of November 5, 2025, and he declares no war in it [3] [4]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "🚨 BREAKING: Donald Trump declares a global war against radical Islam, vowing to protect Christians worldwide.  “The killing of Christians is NOT going to happen.”"
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 3
+bereik = "23,353 likes and 479 replies on November 19; an earlier post of November 1 had 43,941 likes"
+
+kort = """
+Donald Trump did say "The killing of Christians is not going to happen", but in a video about Nigeria that he posted \
+on November 5, 2025 [2] [4]. A year later, posts on X present the clip as breaking news of a global war against \
+radical Islam [1] [11]. In the full video Trump declares no war: he names Nigeria a country of particular concern and \
+says the United States stands ready to save Christians around the world [3] [6]."""
+
+tekst = """
+On Saturday, November 14, 2026, at 3:00 UTC, the account Pop Static posted a 22-second video of Donald Trump on X [1]. \
+The text says Trump "declares a global war against radical Islam, vowing to protect Christians worldwide", and quotes \
+him: "The killing of Christians is NOT going to happen." [1]. The post opens with the word BREAKING, as if the news \
+were new [1]. On November 19 it had 23,353 likes and 479 replies [1].
+
+The quote comes from a video that Trump posted on Truth Social on Wednesday, November 5, 2025, at 22:04 UTC [2] [3]. \
+Nine minutes later the White House posted the same video on X; it lasts 65 seconds [4]. Daily Trust in Nigeria and The \
+Star in Kenya reported it the next morning, with the same quote [5] [6]. "The killing of Christians is not going to \
+happen" is the last sentence of the video [3] [6]. The clip in the post is 22 seconds long, about a third of the video \
+[1] [4].
+
+In the video Trump says Christianity faces an "existential threat" in Nigeria and blames "radical Islamists" for the \
+killings [3] [5]. He names Nigeria a "country of particular concern", a status under an American law of 1998 for \
+countries that violate religious freedom [3] [8]. He asks Congressman Riley Moore and Chairman Tom Cole to look into \
+it and report back [3]. He ends by saying that the United States cannot stand by, that it is "not only Nigeria", and \
+that the country stands ready to save Christians around the world [3] [6]. He does not declare a war in the video [3].
+
+The video repeated a post of October 31, 2025, in which Trump had put Nigeria on that list [7] [8]. On November 1 he \
+threatened to stop all aid to Nigeria and to go into the country "guns-a-blazing" if the killing of Christians went \
+on, and told the Department of War to prepare [8] [9]. Nigeria's president Bola Tinubu said that his government \
+deals with security problems that hit citizens of all faiths [9]. On December 25, 2025, the United States struck \
+Islamic State targets in Sokoto state, in northwest Nigeria, which Nigeria called part of their security cooperation \
+[10].
+
+We found no new statement by Trump in November 2026 that declares a war against radical Islam [14] [15]. At a hearing \
+in the House of Representatives on November 12, 2026, two days before the post, the chairman of the Africa \
+subcommittee looked back on the designation of October 31, 2025, and mentioned no new statement [14]. In Trump's own \
+posts on Truth Social from October 1 to November 19, 2026, we found no declaration of war on radical Islam [15].
+
+The clip went round before. On October 15, 2026, another account on X posted a clip of the same length with the text \
+that Trump "declares war on radical Islam across the globe" [11]. The website Document repeated that post on \
+October 18 as news, without a date or source for the video [12]. On November 1 yet another account posted the same text \
+with the clip; by November 19 that post had 43,941 likes [13]."""
+
+niet_weten = """
+We do not know who first cut the 22-second clip from the video, or whether it went round before October 15, 2026. Trump \
+also speaks at rallies and in interviews; that he declared no such war there rests on the absence of any report."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Whether the 22-second clip is cut from the White House video on X or from Trump's own post on Truth Social, compared frame by frame.",
+  "Whether the clip already went round as new before October 2026, for example after the American strikes in Nigeria of December 2025.",
+  "Who first linked the clip to a war against radical Islam.",
+  "We weighed Misleading against False. The words are Trump's own, but the war and the date in the post are not. If you know of a statement in which Trump declared such a war, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 14, 2026, 3:00 UTC."
+alt = "The post on X by Pop Static: the text about a global war against radical Islam and a still from the 22-second video of Donald Trump. Stamp: MISLEADING."
+
+[[beeld]]
+rol = "origineel"
+link = "https://x.com/WhiteHouse/status/1986195249769697516"
+stempel = false
+bijschrift = "Donald Trump, posted by the White House on X, November 5, 2025: the 65-second video about Christians in Nigeria."
+alt = "The White House video of November 5, 2025, in which Donald Trump speaks about the killing of Christians in Nigeria."
+
+[[tijdlijn]]
+datum = "2025-10-31"
+wat = "Trump makes Nigeria a country of particular concern in a post on Truth Social, at 18:09 UTC [7]."
+
+[[tijdlijn]]
+datum = "2025-11-01"
+wat = "Trump threatens to stop aid to Nigeria and to go in \"guns-a-blazing\" [8] [9]."
+
+[[tijdlijn]]
+datum = "2025-11-05"
+wat = "Trump posts the video on Truth Social at 22:04 UTC; it ends with \"The killing of Christians is not going to happen\" [2] [3]."
+
+[[tijdlijn]]
+datum = "2025-11-05"
+wat = "The White House posts the same 65-second video on X at 22:13 UTC [4]."
+
+[[tijdlijn]]
+datum = "2025-11-06"
+wat = "Daily Trust and The Star report the video, with the quote [5] [6]."
+
+[[tijdlijn]]
+datum = "2025-12-25"
+wat = "The United States strikes Islamic State targets in Sokoto state, Nigeria [10]."
+
+[[tijdlijn]]
+datum = "2026-10-15"
+wat = "A post on X presents the clip as a declaration of war on radical Islam across the globe [11]."
+
+[[tijdlijn]]
+datum = "2026-10-18"
+wat = "Document repeats that post as news [12]."
+
+[[tijdlijn]]
+datum = "2026-11-01"
+wat = "Another post on X with the same text and the clip [13]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "A hearing in the House of Representatives looks back on the designation of October 31, 2025 [14]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+wat = "The post by Pop Static, at 3:00 UTC [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post by Pop Static with the 22-second video"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261119201002/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121438095203770688&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Donald J. Trump on Truth Social"
+titel = "Video post about Christians in Nigeria"
+datum = "2025-11-05"
+url = "https://truthsocial.com/@realDonaldTrump/115499354921504983"
+archief = "https://web.archive.org/web/20260914105957/https://truthsocial.com/@realDonaldTrump/115499354921504983"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Trump's Truth (Defending Democracy Together)"
+titel = "Archive and transcript of Trump's video post of November 5, 2025"
+datum = "2025-11-05"
+url = "https://www.trumpstruth.org/statuses/33702"
+archief = "https://web.archive.org/web/20251105221139/https://trumpstruth.org/statuses/33702"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "The White House on X"
+titel = "Christianity is facing an existential threat in Nigeria (video)"
+datum = "2025-11-05"
+url = "https://x.com/WhiteHouse/status/1986195249769697516"
+archief = "https://web.archive.org/web/20260211154945/https://x.com/WhiteHouse/status/1986195249769697516"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Daily Trust"
+titel = "Trump disregards FG's efforts, insists Christian persecution ongoing in Nigeria"
+datum = "2025-11-06"
+url = "https://dailytrust.com/trump-disregards-fgs-efforts-insists-christian-persecution-ongoing-in-nigeria/"
+archief = "https://web.archive.org/web/20251106114053/https://dailytrust.com/trump-disregards-fgs-efforts-insists-christian-persecution-ongoing-in-nigeria/"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "The Star (Kenya)"
+titel = "Trump vows US action over reported attacks on Christians in Nigeria"
+datum = "2025-11-06"
+url = "https://www.the-star.co.ke/news/2025-11-06-trump-vows-us-action-over-reported-attacks-on-christians-in-nigeria"
+archief = "https://web.archive.org/web/20251106070934/https://www.the-star.co.ke/news/2025-11-06-trump-vows-us-action-over-reported-attacks-on-christians-in-nigeria"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Donald J. Trump on Truth Social"
+titel = "Christianity is facing an existential threat in Nigeria"
+datum = "2025-10-31"
+url = "https://truthsocial.com/@realDonaldTrump/115470116607441456"
+archief = "https://web.archive.org/web/20261020045041/https://truthsocial.com/@realDonaldTrump/115470116607441456"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "CBS News (with AP)"
+titel = "Trump threatens to cut off aid to Nigeria, orders Pentagon to \"prepare for possible action\" over persecution of Christians"
+datum = "2025-11-01"
+url = "https://www.cbsnews.com/texas/news/trump-says-christians-face-existential-threat-in-nigeria/"
+archief = "https://web.archive.org/web/20251102003943/https://www.cbsnews.com/texas/news/trump-says-christians-face-existential-threat-in-nigeria/"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Al Jazeera"
+titel = "Trump threatens to launch attacks in Nigeria over 'killing of Christians'"
+datum = "2025-11-01"
+url = "https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians"
+archief = "https://web.archive.org/web/20261022010628/https://www.aljazeera.com/news/2025/11/1/trump-threatens-to-launch-attacks-in-nigeria-over-killing-of-christians"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "The National"
+titel = "US strikes ISIS in Nigeria after Donald Trump alleges killing of Christians"
+datum = "2025-12-26"
+url = "https://www.thenationalnews.com/news/mena/2025/12/26/us-hits-isis-targets-in-nigeria-in-first-strike-under-trump"
+archief = "https://web.archive.org/web/20251228040806/https://www.thenationalnews.com/news/mena/2025/12/26/us-hits-isis-targets-in-nigeria-in-first-strike-under-trump/"
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "X"
+titel = "An earlier post with the clip, as a declaration of war on radical Islam across the globe"
+datum = "2026-10-15"
+prive = true
+archief = "https://web.archive.org/web/20261119200858/https://cdn.syndication.twimg.com/tweet-result?id=2110663894779744419&token=546ugnnluw&lang=en"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Document"
+titel = "Trump takes a tougher line on Islam: 'The killing of Christians must not occur'"
+datum = "2026-10-18"
+url = "https://www.document.news/2026/10/18/trump-takes-a-tougher-line-on-islam-the-killing-of-christians-must-not-occur"
+archief = "https://web.archive.org/web/20261119202443/https://www.document.news/2026/10/18/trump-takes-a-tougher-line-on-islam-the-killing-of-christians-must-not-occur"
+
+[[bron]]
+nr = 13
+soort = "bron"
+uitgever = "X"
+titel = "A second earlier post with the same text and the clip"
+datum = "2026-11-01"
+prive = true
+archief = "https://web.archive.org/web/20261119200923/https://cdn.syndication.twimg.com/tweet-result?id=2116686868242980977&token=54prn7uoz38&lang=en"
+
+[[bron]]
+nr = 14
+soort = "bron"
+uitgever = "Office of Rep. Chris Smith, US House of Representatives"
+titel = "One Year Later: Assessing Nigeria's Efforts to Protect Christians and Secure the Middle Belt (opening statement)"
+datum = "2026-11-12"
+url = "https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415907"
+archief = "https://web.archive.org/web/20261116101719/https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415907"
+
+[[bron]]
+nr = 15
+soort = "bron"
+uitgever = "Trump's Truth (Defending Democracy Together)"
+titel = "Search of Trump's posts on Truth Social for \"Christians\", October 1 to November 19, 2026"
+datum = "2026-11-19"
+url = "https://www.trumpstruth.org/search?query=Christians&start_date=2026-10-01&end_date=2026-11-19"

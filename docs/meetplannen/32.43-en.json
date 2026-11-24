@@ -1,0 +1,133 @@
+{
+ "taak": "32.43-en",
+ "toelichting": "lezer-v10 in het Engels op verse berichten, als op de eerste dag (PLAN #32.43, PO 2026-11-06: \"zet de twee regels (jaartal en bevestiging zonder band) als nieuwe versie klaar op een branch, nog niet in config, en schrijf een meetplan op verse berichten per taal met de kosten in PLAN.md; nog niet draaien\"). Vastgelegd vóór de eerste vraag. De bron maakt `python -m doublecheck.talenset vers --taal en`: niets uit de sets waarop de regels van §223 en §224 gebouwd zijn. O: 100 checks met onwaar of misleidend uit 2026; W: 100 artikelen van Wikinews (oud nieuws, de regel van het jaartal); W-merk: 50 echte koppen van de week vóór de set. Eén arm: v10 zegt wat v9 zou zeggen erbij (`onbevestigd_weg`), dus de vergelijking met v9 kost niets extra. Eisen 1 tot 4 zoals in 32.42; eis 5 is nieuw: wat de regels bij nepnieuws kosten (§223: 2 tot 5 van de 100). Eerst `draaien --proef 2`; Brave hoogstens 1000 zoekvragen.",
+ "map": "data/meting/32.43-en",
+ "labels": "docs/steekproeven/32.43-en.json",
+ "budget": 8.0,
+ "zaad": 3249,
+ "sets": {
+  "O": {
+   "bron": "data/talen/vers/en.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "W": {
+   "bron": "data/talen/vers/en.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "W-merk": {
+   "bron": "data/talen/vers/en.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v10",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "O"
+ ],
+ "waar": [
+  "W",
+  "W-merk"
+ ],
+ "eisen": [
+  {
+   "naam": "1. O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (B57, zoals 32.42)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "2. O: hoogstens 2 onterecht groen (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "3. W en W-merk: hoogstens 2 vals alarm (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4. W en W-merk: hoogstens 3 keer niet bevestigd (zoals 4b van 32.42)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  },
+  {
+   "naam": "5. O: hoogstens 10 keer niet bevestigd weggenomen door de regels (§223: 2 tot 5 van de 100)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O"
+    ],
+    "weg": true
+   },
+   "op": "<=",
+   "waarde": 10
+  }
+ ],
+ "zoekvragen_max": 1000
+}

@@ -1,0 +1,33 @@
+{
+ "taak": "duel-2026-11-07-v12",
+ "toelichting": "Het tweede duel (PLAN #32.49): dezelfde 50 berichten als duel-2026-11-07, nu door Factiz met `lezer-v12` (een uitleg die helpt, ook bij een check uit de database), tegen dezelfde antwoorden van Gemini. Zoals het product. Geen eisen: de keuzes van de PO zijn de labels.",
+ "map": "data/meting/duel-2026-11-07-v12",
+ "labels": "docs/steekproeven/duel-2026-11-07-v12-meting.json",
+ "budget": 2.5,
+ "zaad": 3254,
+ "sets": {
+  "K": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "K"
+  },
+  "F": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "F",
+   "beeld": true
+  },
+  "O": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "O"
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v12",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [],
+ "waar": [],
+ "eisen": [],
+ "zoekvragen_max": 250
+}

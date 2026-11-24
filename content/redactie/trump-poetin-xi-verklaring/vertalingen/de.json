@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck trump-poetin-xi-verklaring van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "9ce048fccbb65b10",
+ "veldafdrukken": {
+  "kop": "c819d8b116205daf",
+  "oordeel_zin": "06a72015262c64bd",
+  "bewering": "8114d5623a06a128",
+  "kort": "bd68417202b819e2",
+  "tekst": "469af6912b32a5cd",
+  "niet_weten": "60deae92ec310c23",
+  "bereik": "91cc290196d3df18",
+  "nog_uitzoeken": "4c4293470da0519f",
+  "tijdlijn": "0563191833ccd753",
+  "beeld_bijschrift": "a4f87ca87b1efda0",
+  "beeld_alt": "cc78ac8147daf24f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Putin hat nach dem Treffen mit Trump und Xi in Shenzhen keine Waffenruhe erklärt",
+  "oordeel_zin": "Es wurde keine Waffenruhe erklärt: Die gemeinsame Erklärung von Shenzhen erwähnt die Ukraine nicht, Putin sagte am selben Tag, Russland werde auf die Angriffe auf die Krim-Brücke reagieren, und in jener Nacht feuerte Russland 84 Marschflugkörper auf die Ukraine ab [2] [4] [6].",
+  "bewering": "EILMELDUNG: DER RUSSISCHE PRÄSIDENT VLADIMIR PUTIN HAT SOEBEN EINE WAFFENRUHE ERKLÄRT UND ALLE SEINE TRUPPEN VON DER UKRAINISCHEN GRENZE ABGEZOGEN, NACH SEINEM TREFFEN GESTERN.",
+  "kort": "Am 19. November behauptete ein Beitrag auf X, Vladimir Putin habe nach einem Treffen mit Donald Trump und Xi Jinping eine Waffenruhe erklärt und alle seine Truppen von der ukrainischen Grenze abgezogen [1]. Die drei Staatschefs trafen sich an diesem Tag tatsächlich in Shenzhen, aber ihre gemeinsame Erklärung erwähnt die Ukraine nicht, und Putin sagte, Russland werde auf die ukrainischen Angriffe auf die Krim-Brücke reagieren [2] [3] [4]. In jener Nacht griff Russland die Ukraine mit 84 Marschflugkörpern und 404 Drohnen an [6].",
+  "tekst": "Am 19. November 2026 schrieb um 10:21 UTC ein Account auf X in Großbuchstaben, Putin habe soeben eine Waffenruhe erklärt und alle seine Truppen von der ukrainischen Grenze abgezogen [1]. Der Beitrag schreibt Trump das Verdienst zu und zitiert Putin mit den Worten, er wolle Frieden und Zelenskyy dränge ihn immer weiter [1]. Er nennt keine Quelle [1].\n\nAn diesem Tag fand am Rande des APEC-Gipfels in Shenzhen ein Dreiertreffen von Trump, Putin und Xi statt, außerdem trafen sich Trump und Putin allein [5]. Die drei verabschiedeten eine Declaration toward Peace mit vier Punkten, die der Kreml und das chinesische Außenministerium veröffentlichten [2] [3]. Darin verpflichten sie sich, die Vereinten Nationen zu reformieren, mehr raffinierte Erdölprodukte zu liefern und Gespräche über nukleare Risiken zu führen, und sie erklären, der Internationale Strafgerichtshof dürfe seine Zuständigkeit nicht missbrauchen [2] [3]. Zur Ukraine, zu einer Waffenruhe oder zu Truppen steht dort nichts [2] [3]. Die Associated Press meldete keine Durchbrüche [5].\n\nAuf seiner Pressekonferenz an diesem Tag sagte Putin, Russland habe kein Interesse daran, den Konflikt fortzusetzen, und die Ukraine solle die Kompromisse akzeptieren, die die Amerikaner vor den Gesprächen in Anchorage vorgeschlagen hätten [4]. Auf die ukrainischen Angriffe auf die Krim-Brücke angesprochen, sagte er, es werde nun keine Gespräche über eine Pause bei Angriffen auf See oder auf Energieanlagen geben, und Russlands Antwort werde folgen [4]. Er sagte, Russland werde seine Präsenz in den Regionen Zaporizhzhia und Kherson ausbauen und die ukrainischen Streitkräfte weiter zurückdrängen [4]. Die Worte, die der Beitrag ihm in den Mund legt, stehen nicht im Mitschnitt des Kreml [4].\n\nIn der Nacht zum 20. November griff Russland die Ukraine nach Angaben der ukrainischen Luftwaffe mit ballistischen Raketen, 84 Marschflugkörpern und 404 Drohnen an [6]. Mindestens neun Menschen starben, sieben davon in Kyiv, wo drei Brücken beschädigt wurden [7]. In der Nacht darauf zählte die Luftwaffe 3 ballistische Raketen und 148 Drohnen [8].",
+  "niet_weten": "Wir wissen nicht, wer den Account betreibt oder wo das Putin zugeschriebene Zitat zuerst aufgetaucht ist [1]. Wir haben weder eine Erklärung des Kreml oder Pekings noch einen Medienbericht gefunden, der nach dem Treffen in Shenzhen eine Waffenruhe erwähnt [2] [3] [4] [5].",
+  "bereik": "895 Likes, 260 Reposts und 99 Antworten am 23. November",
+  "nog_uitzoeken": [
+   "Das Radar stieß auf diesen Gipfel zuerst durch einen anderen Beitrag vom 19. November, der mit einem Bild die Runde machte. Sein Urheber löschte ihn, bevor wir ihn lesen konnten, daher wissen wir nicht, was genau darin behauptet wurde.",
+   "Ein Beitrag auf Russisch behauptete das Gegenteil: Trump und Xi hätten Putin drei Tage zur Kapitulation gegeben, und Zelenskyy sei nach China geflogen. Wir haben ihn nicht gesondert geprüft.",
+   "Ob das Putin zugeschriebene Zitat, in dem er sagt, Zelenskyy dränge ihn immer weiter, schon früher in anderen Beiträgen oder auf anderen Plattformen aufgetaucht ist.",
+   "Wir haben uns für Falsch statt Irreführend entschieden, weil der Beitrag eine Waffenruhe und einen Truppenabzug als vollzogen darstellt und beides nicht stattgefunden hat. Wenn Sie mehr wissen, sagen Sie es uns bitte."
+  ],
+  "tijdlijn": [
+   "Trump, Putin und Xi halten am Rande des APEC-Gipfels in Shenzhen ein Dreiertreffen ab [5].",
+   "Die drei Staatschefs verabschieden die Declaration toward Peace; sie erwähnt die Ukraine nicht [2] [3].",
+   "Ein Beitrag auf X behauptet, Putin habe eine Waffenruhe erklärt und seine Truppen abgezogen [1].",
+   "Putins Pressekonferenz in Shenzhen: keine Gespräche nach den Angriffen auf die Krim-Brücke, eine Antwort werde folgen [4].",
+   "In der Nacht greift Russland die Ukraine mit 84 Marschflugkörpern und 404 Drohnen an; mindestens neun Menschen sterben [6] [7].",
+   "In der Nacht greift Russland die Ukraine mit 3 ballistischen Raketen und 148 Drohnen an [8]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 19. November 2026, 10:21 UTC."
+  ],
+  "beeld_alt": [
+   "Der Beitrag des Accounts madrid_xtraq auf X, der in Großbuchstaben besagt, Putin habe eine Waffenruhe erklärt und alle seine Truppen von der ukrainischen Grenze abgezogen, mit einem Standbild von Putin an einem Mikrofon und einem Foto von Trump an einem Rednerpult, über einem zitierten Beitrag, der Trump und Putin beim Händeschütteln zeigt. Stempel: FALSCH."
+  ]
+ }
+}

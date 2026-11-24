@@ -1,0 +1,465 @@
+{
+ "toelichting": "PLAN #32.64, de release-ronde van lezer-v17 (arm C Sonnet, arm H Haiku): elk rood en oranje, elk groen bij onwaar nieuws en elke niet bevestigd bij waar nieuws, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag, door deelagenten (elk een deel) met dezelfde regels; geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet; zoeken alleen om vast te stellen of een bericht waar is. Een alarm met de eigen check als bron bewijst zichzelf (meting.auto_label).",
+ "labels": {
+  "n-sn-004#C": {
+   "label": "bewijst",
+   "toelichting": "AFP ('Old photo of Netanyahu, son circulates amid war with Hamas'), USA Today, The Times of Israel (1 december 2014) en de checks van BOOM, Newschecker en The Quint zeggen in titel en fragment dat de foto uit 2014 is en niet bij de oorlog met Hamas hoort. Geen pagina geopend."
+  },
+  "n-sn-007#C": {
+   "label": "bewijst",
+   "toelichting": "De check van Quint Hindi (geopend) zegt dat de foto van de menigte met stokken de rally van Hefazat-e-Islam in Dhaka op 5 mei 2013 toont en niet Kerala; dat is dezelfde foto als in de screenshot. Het fragment dat Factiz zag was alleen de bewering, maar het adres en de pagina dragen het."
+  },
+  "n-sn-014#C": {
+   "label": "bewijst",
+   "toelichting": "India Today, Alt News, The Quint en BOOM zeggen in titel en fragment dat de man in boerka in 2017 in Caïro werd aangehouden en geen demonstrant van Jamia is. Geen pagina geopend."
+  },
+  "n-sn-020#C": {
+   "label": "bewijst",
+   "toelichting": "De screenshot noemt de beelden 'CCTV-beelden van de helikopter die door een raket werd neergehaald'; de check van Logically Facts gaat over precies die bewering (video uit Turkije, onwaar) en AFP meldt een oude video van een neerstortende helikopter die aan Raisi werd gekoppeld. AFP en Logically Facts openden niet, dus beoordeeld op titels en fragmenten."
+  },
+  "n-sn-032#C": {
+   "label": "bewijst",
+   "toelichting": "BOOM ('Viral Photo Of A Dainik Bhaskar Hoarding Targeting BJP Is Fake', morphed) en Facto News zeggen in titel en fragment dat het bord van Dainik Bhaskar bewerkt is, het onderwerp van de screenshot. Geen pagina geopend."
+  },
+  "n-sn-036#C": {
+   "label": "bewijst",
+   "toelichting": "India Today citeert de tweet letterlijk en zegt dat het meisje niet gewond raakte bij luchtaanvallen op Gaza; AAP zegt dat de foto niets met Gaza te maken heeft en het kind geen Palestijns kind is. Geen pagina geopend."
+  },
+  "n-sn-041#C": {
+   "label": "bewijst",
+   "toelichting": "NewsMobile ('No, This Picture Does Not Show Rahul Gandhi Carrying A Woman') zegt in het fragment dat het acteur Jamie Dornan in een filmscène is. Geen pagina geopend."
+  },
+  "n-sn-053#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, Soch Fact Check, BOOM en Newschecker zeggen in titel en fragment dat de foto's van vader en dochter (Koranrecitatie) en moeder en zoon (tweede huwelijk van de moeder) met een valse bewering over huwelijken worden gedeeld. Geen pagina geopend."
+  },
+  "n-sn-057#C": {
+   "label": "bewijst",
+   "toelichting": "Het fragment van PesaCheck zegt dat het bord in het origineel 'Raila Odinga Way' luidt en niet 'Tialala Tibiim Way', dus de foto is bewerkt; Africa Check gaat over een andere bewerking (een slang) van hetzelfde bord. Geen pagina geopend."
+  },
+  "O:gfc-04f45824041bf9f9#H": {
+   "label": "bewijst",
+   "toelichting": "Reuters ('No evidence that 2021 Nuclear Threat Initiative exercise proves monkeypox outbreak was planned') weerlegt precies de conclusie van het bericht; tagesschau en WELT beschrijven het planspel als scenario. Geen pagina geopend."
+  },
+  "O:gfc-0fae01d42f507f0e#H": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over de kortstondige republiek van West-Florida in 1810 (Smithsonian, een blog), 200 jaar Florida in de VS (Heraldo) en de algemene Wikipedia-pagina; geen enkele zegt iets over een onafhankelijkheidsverklaring in 2025, dus alleen een indirecte aanwijzing. Geen pagina geopend."
+  },
+  "O:gfc-118b7db2744904f5#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (twee keer) en Univision zeggen in titel en fragment dat de FIFA de VS niet als gastland van het WK 2026 heeft geschrapt. Geen pagina geopend."
+  },
+  "O:gfc-15750647dfca583b#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo en Yahoo Noticias zeggen in titel en fragment dat het vals is dat Luisa María Alcalde zei dat God wie niet aan Cuba doneert zal straffen. Geen pagina geopend."
+  },
+  "O:gfc-30f1ee86d706994b#C": {
+   "label": "bewijst",
+   "toelichting": "Telemundo, EFE via Yahoo, Milenio, Conexión Migrante en Euronews zeggen in titel en fragment dat er geen wet of boete tegen Spaans spreken in het openbaar is. Geen pagina geopend."
+  },
+  "O:gfc-391d9b4fabfd1459#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias, Univision en 20minutos zeggen in titel en fragment dat de afbeelding van Milei die de Amerikaanse vlag kust met AI (Grok) is gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-3e8a952869965be5#C": {
+   "label": "bewijst",
+   "toelichting": "El Universal, Listín Diario, Yahoo Noticias en Milenio zeggen dat het vals is dat Trump een dodelijke ziekte heeft; de brief van de lijfarts noemt chronische veneuze insufficiëntie, goedaardig. Geen pagina geopend."
+  },
+  "O:gfc-42bdac2c5089415a#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo, Yahoo Noticias en Bolivia Verifica zeggen dat Red Uno geen peiling publiceerde met Del Castillo als winnaar en dat de zender de afbeelding vals noemde. Geen pagina geopend."
+  },
+  "O:gfc-4cfc869eb0705340#C": {
+   "label": "bewijst",
+   "toelichting": "El Debate ('El bulo de la grieta en el techo del Zendal: se trata de una imagen manipulada') noemt de virale foto bewerkt; El Salto en El Mundo zeggen dat alleen een vals plafond buiten bij de ingang loskwam, niet in een kamer. Geen pagina geopend."
+  },
+  "O:gfc-4ff7c7ae4b7eaa43#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen (Yahoo over het akkoord Trump-Bukele, DW, Perfil: Bukele als onderhandelaar van Trump met Maduro) gaan over iets anders; geen enkele zegt dat Musk en Bukele zich niet tegen onderhandelen met Maduro uitspraken, en de uitleg zegt ook niet dat het niet klopt. Geen pagina geopend."
+  },
+  "O:gfc-67f64cac194c2efd#C": {
+   "label": "bewijst",
+   "toelichting": "Chilevisión, Yahoo Noticias, Cooperativa en EFE via swissinfo zeggen in titel en fragment dat de video van de piloot met het bord voor Kaiser met AI is gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-6e8e780bbe4e7160#C": {
+   "label": "bewijst",
+   "toelichting": "BOOM via MSN ('Old videos falsely linked to recent Houthi drone attack near Mecca') zegt dat video's die als aanval van de houthi's op Mekka worden gedeeld oud en niet gerelateerd zijn; dezelfde bewering in dezelfde week. De MSN-pagina laadde niet, dus niet vast te stellen dat het precies dezelfde video is."
+  },
+  "O:gfc-738a6239f55ab580#C": {
+   "label": "bewijst",
+   "toelichting": "Univision, Prensa Libre (EFE), De Último Minuto en LaPatilla zeggen in titel en fragment dat Trump niet verklaarde dat Bijbelonderwijs verplicht is. Geen pagina geopend."
+  },
+  "O:gfc-77c7da24ef3b6a81#C": {
+   "label": "bewijst",
+   "toelichting": "ABC News zelf ('Doctors say sunscreen protects skin despite influencers pushing misinformation') zegt het tegendeel van wat het bericht ABC toeschrijft; de Skin Cancer Foundation en Prevent Cancer noemen de bewering onwaar. Geen pagina geopend."
+  },
+  "O:gfc-8405f51eb50751f0#C": {
+   "label": "bewijst",
+   "toelichting": "Thetimes.cl zegt dat er geen bewijs is dat Luksic de PGU krijgt, en het IPS (officieel) zegt dat de rijkste 10% van de 65-plussers er geen recht op heeft; Infogate en El Ciudadano melden een klacht tegen Kaiser wegens liegen hierover. Geen pagina geopend."
+  },
+  "O:gfc-89eea9461a5ef43b#C": {
+   "label": "bewijst",
+   "toelichting": "Chilevisión, Comprueba en Yahoo zeggen dat ministers niet een jaar eerder hoeven af te treden voor het presidentschap; de tekst van artikel 57 (senado.cl) gaat alleen over kandidaten voor Kamer en Senaat. Geen pagina geopend."
+  },
+  "O:gfc-8d6731535f14f439#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias ('Es falso que China descubrió la cura para la diabetes') en Análisis.mx zeggen dat er geen genezing is aangekondigd, alleen onderzoek met stamcellen. Geen pagina geopend."
+  },
+  "O:gfc-9474b27e78fd31b0#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo ('María Corina Machado no publicó un comunicado asegurando que quiere vivir en el exilio') weerlegt het bericht in titel en fragment. Geen pagina geopend."
+  },
+  "O:gfc-a794e36db0727971#C": {
+   "label": "vals",
+   "toelichting": "Onterecht groen: Isabel Allende werd wel vervangen, de PS wees Tomás de Rementería aan (april 2025, gezocht om vast te stellen of het bericht klopt); artikel 51 sluit alleen aanvullende verkiezingen uit, en de bron die Factiz als bevestiging noemt (Cooperativa) gaat juist over 'hoe haar vervanger wordt gekozen'. Geen pagina van Factiz geopend."
+  },
+  "O:gfc-b7f9ef1f27f904c1#C": {
+   "label": "bewijst",
+   "toelichting": "AlbertoNews en Yahoo Noticias zeggen dat de FIFA de VS niet als gastland schrapte uit angst voor een oorlog met Iran; Yahoo Sports en Al Jazeera bevestigen dat het WK in de VS doorgaat. Geen pagina geopend."
+  },
+  "O:gfc-b971a26b513f6797#C": {
+   "label": "bewijst",
+   "toelichting": "ENTSO-E (de Europese netbeheerders) zegt dat het Spaanse en Portugese vasteland zwart gingen en alleen een klein gebied in Zuidwest-Frankrijk kort storing had; beide Wikipedia-pagina's noemen Spanje, Portugal en Andorra, niet Duitsland en Italië. Geen pagina geopend."
+  },
+  "O:gfc-c19fa34c758d7b70#C": {
+   "label": "bewijst",
+   "toelichting": "El País, laSexta, El Periódico de Ceuta en El Constitucional zeggen dat Robles 'Estoy cómoda' zei en niet 'Yo estoy con Trump'. Geen pagina geopend."
+  },
+  "O:gfc-c592432f2f5dd837#C": {
+   "label": "bewijst",
+   "toelichting": "La Prensa de Lara, Yahoo Noticias (twee keer) en La República zeggen dat de video in Pereira, Colombia werd opgenomen en niet bij de beving in Ayacucho hoort. Geen pagina geopend."
+  },
+  "O:gfc-ca98ad8ad14eca02#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (twee keer) zegt dat de afbeelding van beren bij de ingang van Yellowstone met AI is gemaakt; de USGS noemt een bewerkte foto van beren op een weg. Geen pagina geopend."
+  },
+  "O:gfc-cdc3e51eb6ef4dee#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias en Lupa Media (op X) zeggen dat de video met AI is gemanipuleerd en dat González geen kaart 'Así es' voorstelde. Geen pagina geopend."
+  },
+  "O:gfc-d1c8b427c6b5b880#C": {
+   "label": "bewijst",
+   "toelichting": "El País noemt het een nepverhaal; BBC Brasil, UOL, Telediario en Brasil de Fato zeggen dat Flávio Bolsonaro het ontkende en het TSE berichten liet verwijderen. Geen pagina geopend."
+  },
+  "O:gfc-d6ff946c57d03561#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via Infobae en El Desconcierto zeggen dat het vals is; CNN en Yahoo tonen dat Matthei in 2019 als burgemeester van Providencia voor de pers wegrende. Geen pagina geopend."
+  },
+  "O:gfc-d77738a5b5c272f5#C": {
+   "label": "bewijst",
+   "toelichting": "Comprueba (via El Concecuente en Chilevisión), Yahoo, El Desconcierto en Cooperativa zeggen dat de video de Arbain-bedevaart in Kerbala toont, niet een mars voor Kaiser. Geen pagina geopend."
+  },
+  "O:gfc-d900449e885b8888#C": {
+   "label": "bewijst",
+   "toelichting": "De Registraduría (via Colombia.com, Infobae, BluRadio) en El Tiempo zeggen dat het om voorbeeldstembiljetten en publiciteit gaat, geen fraude. Geen pagina geopend."
+  },
+  "O:gfc-d9b1b1748a213af9#C": {
+   "label": "bewijst",
+   "toelichting": "AFP via Yahoo ('Anti-Muslim posts misrepresent old footage of lightning-sparked Canadian church fire') citeert een post van 7 augustus 2026 met precies deze bewering; een tweede stuk zegt dat de verdachte verzonnen is. Geen pagina geopend."
+  },
+  "O:gfc-e37c19de1eba5f79#C": {
+   "label": "bewijst",
+   "toelichting": "El Clarín, BioBioChile en het ministerie van Buitenlandse Zaken melden dat in september 2025 een eerste groep van 68 Palestijnen aankwam, dus er kwamen in februari geen 'eerste 300'; het ministerie verzet zich in februari 2025 tegen elke gedwongen verplaatsing uit Gaza. Geen bron noemt de 500.000 met name. Geen pagina geopend."
+  },
+  "O:gfc-e9db263311dad8e0#C": {
+   "label": "bewijst",
+   "toelichting": "De Spaanse en Portugese Wikipedia dateren het ongeluk met de ballon met 21 inzittenden op 21 juni 2025, tien maanden vóór het bericht van april 2026 dat het 'recent' noemt. Geen pagina geopend."
+  },
+  "O:gfc-f003bd0d2b2d2a22#C": {
+   "label": "bewijst",
+   "toelichting": "Nueva News zegt dat de wet geen maximaal aantal weken noemt, en Mass.gov, Libertad Digital en ACI Prensa zeggen dat de grens van 24 weken wegviel; er is dus geen grens van 34 weken. Geen pagina geopend."
+  },
+  "O:gfc-f5e0192fb86e1a9e#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo, Yahoo Noticias (deepfake, beelden uit juli 2023) en Prensa Libre zeggen dat Bukele de Mexicaanse regering niet bekritiseerde na de moord op Manzo. Geen pagina geopend."
+  },
+  "O:gfc-fb238ed36bf3d307#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via swissinfo en Infobae en Yahoo Noticias (twee keer) zeggen dat de video uit 2018 is en Delcy Rodríguez niet recent uit de PSUV stapte. Geen pagina geopend."
+  },
+  "w-03796#C": {
+   "label": "terecht",
+   "toelichting": "Snopes en Africa Check: de foto toont een file bij een tolplein op de G4 bij Zhuozhou in 2015, geen snelweg met 48 of 50 rijstroken; NewsMobile en Fact Crescendo noemen het misleidend. Geen pagina geopend; CongoCheck, de bron van M4FC, noemde het waar."
+  },
+  "w-04544#C": {
+   "label": "terecht",
+   "toelichting": "Today en Ro zeggen dat de test onaangenaam maar niet pijnlijk hoort te zijn; een neus-keelstokje is rond 15 cm en '20 cm' en 'ondraaglijke pijn' zijn overdreven. Polígrafo (gezocht, niet geopend) noemde in juni 2020 alleen de afbeelding van de test geloofwaardig, niet de 20 cm of de pijn."
+  },
+  "n-sn-006#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, India Today, Newschecker en The Quint melden dat de gewonde boer niet kapitein PPS Dhillon is; de zoon van de kapitein bevestigt dat het twee mannen zijn. Geen pagina geopend."
+  },
+  "n-sn-008#C": {
+   "label": "bewijst",
+   "toelichting": "India Today ('Both photos from 2020') en Newsmeter tonen dat beide foto's uit 2020 komen, dus geen voor en na onder Modi. Geen pagina geopend."
+  },
+  "n-sn-018#C": {
+   "label": "bewijst",
+   "toelichting": "Het fragment van Times of India noemt de tweet die de video in Hyderabad plaatst en de herkomst Prayagraj; BOOM bevestigt Prayagraj (India News, 22 sept. 2019). De pagina van Times of India opende niet; het oordeel rust op titel en fragment."
+  },
+  "n-sn-025#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint, India Today, BOOM en Vishvas News melden dat de foto van Aamir Khan bij de aarti uit 2017 is en niets met Laal Singh Chaddha te maken heeft. Geen pagina geopend."
+  },
+  "n-sn-034#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (Chilima kwam om, bevestigd door AP, BBC en de regering), maar het bekende nepbericht is de foto van het wrak die niet bij deze crash hoort; groen gaat aan het valse beeld voorbij. Geen pagina geopend."
+  },
+  "n-sn-037#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters, Poynter en Hindustan Times melden dat de foto van mensen op straat een kunstproject in Frankfurt (2014) is, geen coronaslachtoffers in China. Geen pagina geopend."
+  },
+  "n-sn-051#C": {
+   "label": "bewijst",
+   "toelichting": "BOOM en Alt News melden dat de foto die Dilip Ghosh in Puntor (Dakshin Dinajpur) plaatste een oude foto uit Bihar is. Geen pagina geopend."
+  },
+  "n-sn-056#C": {
+   "label": "bewijst",
+   "toelichting": "India TV Fact Check noemt de foto waarin Modi de groet van Murmu, Dhankhar en Birla zou negeren misleidend, Youturn eveneens. Geen pagina geopend."
+  },
+  "O:gfc-04f45824041bf9f9#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters zegt dat er geen bewijs is dat de NTI-oefening van 2021 bewijst dat de mpox-uitbraak gepland was, en dat het een fictief scenario was; WELT en de MSC-pagina beschrijven de oefening. Geen pagina geopend."
+  },
+  "O:gfc-087a856c821d2d13#C": {
+   "label": "bewijst",
+   "toelichting": "NASA legt uit dat aanpassingen meetfouten corrigeren (verplaatste stations, nieuwe apparatuur) en dat bijna de helft van de gecorrigeerde gegevens koeler is; BILD noemt de manipulatie een complottheorie. Geen pagina geopend."
+  },
+  "O:gfc-10882e79492301b8#C": {
+   "label": "bewijst",
+   "toelichting": "La República, Yahoo Noticias, Onda Cero en (via EFE) SANA noemen de foto van Ronaldo die door Georgina wordt getroost vals en met AI gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-153e7c308d5d5820#C": {
+   "label": "bewijst",
+   "toelichting": "La Razón meldt dat de man een Spaanse burger is en niet aangehouden maar aangegeven; La Voz del Sur bevestigt 'no ha sido detenido'. Geen pagina geopend."
+  },
+  "O:gfc-21f1a6bb3743ccb8#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo): 'Es falso' dat het IMF een krediet aan Ecuador opschortte wegens een corruptiezaak rond Noboa, waarvoor geen bewijs is. Geen pagina geopend."
+  },
+  "O:gfc-35eff1068e67f8b7#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (Infobae, swissinfo), het Guatemalteekse ministerie van Defensie en AGN melden dat geen Guatemalteekse blauwhelm ebola opliep. Geen pagina geopend."
+  },
+  "O:gfc-3bcc803118233402#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias en de overnames van Chequeado (El Litoral, La Voz, Los Andes) noemen de foto van Karina Milei met de vlag een montage. Geen pagina geopend."
+  },
+  "O:gfc-40aeda8a940f5625#C": {
+   "label": "bewijst",
+   "toelichting": "Univision noemt het vals dat Obama zich voor 2028 kandidaat stelde (het 22e amendement verbiedt het); Braziliaanse media verwijzen naar de ontkrachting van EFE. Geen pagina geopend."
+  },
+  "O:gfc-44ae6850150ec984#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo) meldt dat de video van een helikopter boven een gebouw niet actueel is en niet bij de Amerikaanse operatie in Caracas hoort. Geen pagina geopend."
+  },
+  "O:gfc-4e40a63fdb858312#C": {
+   "label": "bewijst",
+   "toelichting": "Demócrata, HuffPost, El País en 20minutos melden dat de Ley de Montes het schoonmaken niet verbiedt maar juist verplicht, en dat de Agenda 2030 er niets mee te maken heeft. Geen pagina geopend."
+  },
+  "O:gfc-5d854559530bd688#C": {
+   "label": "bewijst",
+   "toelichting": "Belfast Live kopt dat de man met de Romeinse helm op een scootmobiel de politie tartte bij de rellen in Ballymena, niet in Belfast. De pagina van Belfast Live opende niet; titel en fragment dragen het."
+  },
+  "O:gfc-6b014d3b8d1e2dfb#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias, Univision, India Today en indy100 melden dat het fragment van De Niro van de Tony Awards 2018 is, niet van de Oscars 2025. Geen pagina geopend."
+  },
+  "O:gfc-721415d74fb15b49#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (AFP) kopt dat de minister de eenheid niet afschafte maar alleen van naam veranderde; La Razón citeert wel het BOE over de opheffing, dus misleidend is gedragen. Geen pagina geopend."
+  },
+  "O:gfc-742724a16e25b4a9#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo), HCH en Milenio melden dat Noboa geen akkoord tekende om 2.000 gevangenen van de Tren de Aragua op te nemen, en dat het stuk het logo van La Hora nabootst. Geen pagina geopend."
+  },
+  "O:gfc-7e20b1ba09503b35#C": {
+   "label": "bewijst",
+   "toelichting": "El Tiempo (geopend), Muhimu en Infobae verklaren de rubberachtige vruchten uit bewaren, koeling en rijpingsremmers; genetische modificatie noemen ze niet, maar de oorzaak die de deskundige geeft sluit de bewering uit."
+  },
+  "O:gfc-8701354c72111f76#C": {
+   "label": "bewijst",
+   "toelichting": "Agur Fakes (via Tele7) zegt dat El País dit niet publiceerde en dat de afbeelding met AI is gemaakt; France 24 behandelt dezelfde schermafbeelding. Geen pagina geopend."
+  },
+  "O:gfc-8a354972bdfbdeba#C": {
+   "label": "bewijst",
+   "toelichting": "BioBio, Infobae en Está Pasando melden dat de peiling over stemrecht voor migranten uit die weken (Data Influye) 71% tegen gaf, geen 81%; het getal van 81% (Cadem) gaat over uitzetten. Geen pagina geopend."
+  },
+  "O:gfc-8df704be7a37ad78#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo) en Notiprimicia melden dat de video's van Venezolanen in een cel in New York met AI zijn gemaakt en dat er geen arrestaties waren. Geen pagina geopend."
+  },
+  "O:gfc-9e6c1586a383d6e9#C": {
+   "label": "bewijst",
+   "toelichting": "Newsweek, BBC, NDTV en BioBio melden dat de geruchten over een hersenbloeding ongegrond zijn en dat de Noord-Koreaanse staatsmedia Kim daarna gezond toonden; geen bron meldt een aankondiging van de staatstelevisie. Geen pagina geopend."
+  },
+  "O:gfc-b65555b63b1ceb52#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo en Visión 360) noemt het vals dat Rodrigo Paz beloofde de sociale netwerken te sluiten, en zegt dat de inhoud een medium nabootst. Geen pagina geopend."
+  },
+  "O:gfc-b8d7fc823f4efd14#C": {
+   "label": "bewijst",
+   "toelichting": "Naiz, La República, Infobae en El Tiempo melden dat Petro niet met een overdosis in de Fundación Santa Fe lag; de kliniek zegt dat hij er niet was opgenomen en het beeld is met AI gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-bd6b51d019d96d2e#C": {
+   "label": "bewijst",
+   "toelichting": "MAPFRE zegt dat buitenlanders zonder wettig verblijf niet in het kiesregister komen en dus niet stemmen; dat spreekt de bewering tegen. Twijfel: de bronnen gaan over Spanje en de VS, de bewering kwam van Fast Check CL (Chili), waar ook verblijf vereist is maar geen bron over gaat. Geen pagina geopend."
+  },
+  "O:gfc-c2293b76da5c03dc#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae en Elmon melden dat Junts alleen in enkele telgebieden 'won' door fouten in de voorlopige gegevens, niet in gemeenten; AS noemt telgebied 01-029 in Lavapiés. Geen pagina geopend."
+  },
+  "O:gfc-c9c292c2b23f0c4c#C": {
+   "label": "bewijst",
+   "toelichting": "Comprueba, Radio Guayacán, Yahoo Noticias en El Sol de Iquique melden dat Jeannette Jara nooit regionaal raadslid was en dat het om een naamgenote gaat. Geen pagina geopend."
+  },
+  "O:gfc-cd7f937405bc54dc#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (twee stukken) en Verifynews melden dat de foto van de tanks een militaire optocht in Polen uit 2018 is, geen inzet aan de grens in 2025. Geen pagina geopend."
+  },
+  "O:gfc-cdeb648bd919246d#C": {
+   "label": "bewijst",
+   "toelichting": "El Mundo, El Correo en AS melden dat het project Debug één soort (Aedes aegypti) wil terugdringen met steriele mannetjes in Californië en Florida, niet alle muggen ter wereld. Geen pagina geopend."
+  },
+  "O:gfc-d490b015c301e890#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (AFP) kopt dat de man die twee hoofden vasthoudt een Australische jihadist is (Mohamed Elomar, foto uit 2014), dus geen beeld van de Druzen in 2025. Twijfel: de pagina gaf 404 en het fragment noemt de Druzen niet, dus dat het dezelfde foto is volgt uit de titel en uit Maldita, niet uit de bron zelf."
+  },
+  "O:gfc-d72cfac811620a05#C": {
+   "label": "bewijst",
+   "toelichting": "Cooperativa, ADN Radio, Comprueba en Yahoo Noticias melden dat de Servel pennen met permanente inkt gebruikt, geen uitwisbare. Geen pagina geopend."
+  },
+  "O:gfc-d83142cfd56bea83#C": {
+   "label": "set fout",
+   "toelichting": "Zoals het er staat is het bericht een algemene, ware uitspraak: BBC Mundo, El País, Amnesty en DW melden dat Iraanse vrouwen hun hijab afdoen als verzet. Wat EFE Verifica onwaar noemde, gaat vermoedelijk over een bepaalde video die niet in de tekst staat; die factcheck vond ik niet (Maldita heeft de claim nog open)."
+  },
+  "O:gfc-d9729778a7a574fe#C": {
+   "label": "bewijst",
+   "toelichting": "El País, ABC en Deia melden dat de foto van Abascal op zijn tenen bewerkt is; in het origineel van Vox staan beide hielen op de grond. Geen pagina geopend."
+  },
+  "O:gfc-dcf6995ffcac1fdd#C": {
+   "label": "bewijst",
+   "toelichting": "Twee stukken van Yahoo Noticias melden dat de video van de ontploffing in de metro van Caracas uit september 2021 is (een mechanische storing), niet van de aardbevingen van 24 juni. Geen pagina geopend."
+  },
+  "O:gfc-e4008ebe9d9055f5#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (AFP) citeert precies de tekst over wapens van de regering-Boric en meldt dat het beeld in Peru is gemaakt, niet in Chili. Geen pagina geopend."
+  },
+  "O:gfc-eead340d23942b27#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias (AFP) meldt dat de video van een Iraanse raket op een woongebouw in Bahrein met AI is gemaakt en citeert de 'ÚLTIMA HORA'-tekst over de raket; dat past bij de bewering. De pagina gaf 404; titel en fragment dragen het."
+  },
+  "O:gfc-f2cd05ff716c47ba#C": {
+   "label": "bewijst",
+   "toelichting": "Firstpost ('Ellen DeGeneres did not eat Anne Heche'), Worldnews/Le Monde ('Non') en IBTimes melden dat het verhaal geen grond heeft; de lijkschouwer noemde Heches dood een ongeluk. Geen pagina geopend."
+  },
+  "O:gfc-f76d8b5a0bd71167#C": {
+   "label": "bewijst",
+   "toelichting": "EFE (via swissinfo en 24horas), France 24 en Red Uno melden dat Maduro niet is overleden en dat geen autoriteit zijn dood meldde. Geen pagina geopend."
+  },
+  "O:gfc-000031275360f089#C": {
+   "label": "bewijst",
+   "toelichting": "The Dispatch, de Jerusalem Post en de St. Louis Jewish Light melden dat de video's van Israëlische atleten met 'Bring them home' oude opnames zijn en niet van de Spelen in Parijs; dat de pins niet mochten klopt wel. Geen pagina geopend."
+  },
+  "w-04371#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo (geopend) oordeelt 'Verdadeiro, mas...': de foto is echt en de gemeente Figueira da Foz keurde het project goed (de oude tegels van de gesloopte gevel zijn hergebruikt). Factiz las de factcheck verkeerd als tegenspraak."
+  },
+  "w-04546#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo (geopend op poligrafo.iol.pt) oordeelt 'Verdadeiro, mas...': de rechtbank van Porto bevestigt het gat in het plafond in Matosinhos. Factiz vond die factcheck zelf (SIC Notícias, pagina opende niet), dus bevestigen kon."
+  },
+  "O:gfc-029a3b6ea3f0ff6d#C": {
+   "label": "bewijst",
+   "toelichting": "Dmae (via GZH) zegt dat 19 van de 23 gemalen uitvielen door stroomuitval of onderlopen, en deskundigen (CartaCapital, Matinal) wijten het aan achterstallig onderhoud: een gedocumenteerde andere oorzaak, al ontkent geen bron sabotage letterlijk. CartaCapital geopend: geen woord over sabotage, zelfs de burgemeester wijt het aan het ontwerp en het extreme weer."
+  },
+  "O:gfc-1058f992c04527fe#C": {
+   "label": "bewijst",
+   "toelichting": "TF1 Info en de prefectuur (via HuffPost en haar post op X) zeggen dat de brand in Bobigny om 17.30 uur was, vóór de uitslagen, en niets met de verkiezingen te maken had. Geen pagina geopend, de titels en fragmenten volstaan."
+  },
+  "O:gfc-0e64647bd4a681c1#C": {
+   "label": "bewijst",
+   "toelichting": "Conhecadengue citeert precies deze passage uit de video en zegt dat montelukast een astmamiddel is dat ernstige dengue niet voorkomt; de covidstudies gaan over iets anders. Geen pagina geopend; de aangehaalde PubMed-studie uit 2018 vond wel een lager risico op shock, dus het tegenbewijs rust op die ene bron."
+  },
+  "W:wikinews:pt:14574#C": {
+   "label": "vals",
+   "toelichting": "Een gewoon bericht van Wikinotícias (2008): het Colombiaanse leger vernietigde twee drugslabs in Meta en Vichada. Niets wijst erop dat het niet klopt, dus niet bevestigd is hier onterecht. Geen pagina geopend."
+  },
+  "O:gfc-0d02053bd7b8be31#C": {
+   "label": "bewijst",
+   "toelichting": "Secom, Agência Gov, UOL en Poder360 melden dat de regering de donaties uit Portugal niet weigerde en het vervoer met Latam en Maersk regelde; alleen een vlucht van de luchtmacht om ze op te halen noemde de regering niet efficiënt. Geen pagina geopend."
+  },
+  "O:gfc-0738be7ee5258a61#C": {
+   "label": "bewijst",
+   "toelichting": "De check van Terra ('Vídeo engana', over precies deze video) en de verklaringen van het ministerie en Secom zeggen dat het beheer van inheemse gebieden niet aan een bedrijf is overgedragen; het ging om een intentieprotocol met Ambipar. Geen pagina geopend."
+  },
+  "W:wikinews:es:33125#C": {
+   "label": "terecht",
+   "toelichting": "Het Wikinoticias-artikel (2011) brengt als feit dat 'wetenschappers' aardbevingen uren vooruit voorspellen en honderden treffers hadden; BioBioChile (band goed) meldt dat Quake Red Alert uit reclamemakers bestaat en dat seismologen de beweerde treffers ontkrachten. Geen pagina geopend; twijfel, want het artikel zegt op één plek 'según los investigadores'."
+  },
+  "O:gfc-157256092d92f281#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het fragment van de tagesschau zegt juist dat Mpox bij een eerste oppervlakkig onderzoek met gordelroos verward kan worden en dat de arts dat moet uitsluiten, en het RKI noemt gordelroos als differentiaaldiagnose; dat weerlegt de bewering niet. Alleen de titel van de SZ (één studie betwist het verband tussen de vaccinatie en gordelroos) raakt een deel; de tagesschau-pagina kon ik niet openen, dus die telt niet."
+  },
+  "O:gfc-170ebf9c1725fdf0#C": {
+   "label": "bewijst",
+   "toelichting": "De faktenfinder van de tagesschau zegt dat weerkaarten in vlammen of met lava met AI gemaakte fakes zijn, en de DWD legt uit dat rood en paars voor hitte staan en dat de ARD-kleuren van 1997 en 2023 niet wezenlijk verschillen. Geen pagina geopend."
+  },
+  "O:gfc-1abb7127d5428495#H": {
+   "label": "bewijst",
+   "toelichting": "De pagina van Sernageomin die de uitleg aanhaalt, zegt dat de laatste relevante uitbarsting van Villarrica op 3 maart 2015 was, dus geen 'grootste ramp' in 2025; BBC en YouTube gaan over die uitbarsting van 2015. Het GVP-fragment is alleen achtergrond en die pagina gaf 403, dus telt niet; twijfel omdat Sernageomin wel in de uitleg maar niet in de bronnenlijst staat."
+  },
+  "w-00751#H": {
+   "label": "vals",
+   "toelichting": "Full Fact (geopend) zegt dat de foto's echt zijn: het heropende kuuroord in Saint-Paul-lès-Dax, januari 2022, met coronamaatregelen; Factiz las de beweringtekst 'are not real' uit de ClaimReview als het oordeel. Ook Knack noemt de beelden echt, dus rood is een vals alarm."
+  },
+  "n-sn-004#H": {
+   "label": "bewijst",
+   "toelichting": "AFP, USA Today, The Quint en Check Your Fact laten zien dat de foto uit december 2014 komt, toen Avner Netanyahu in dienst ging, en niet uit de oorlog met Hamas van 2023. Geen pagina geopend."
+  },
+  "O:gfc-118b7db2744904f5#H": {
+   "label": "bewijst",
+   "toelichting": "Univision en Yahoo Noticias noemen de bewering vals: de FIFA heeft de VS niet als gastland geschrapt, en op 6 juni 2025 waren de VS, Mexico en Canada nog gastland. Geen pagina geopend."
+  },
+  "O:gfc-21f1a6bb3743ccb8#H": {
+   "label": "bewijst",
+   "toelichting": "EFE (via Swissinfo) zegt dat het vals is dat het IMF een krediet aan Ecuador opschortte om een corruptiezaak rond Noboa, waarvoor geen bewijs bestaat. Latindadd meldt een uitgestelde derde betaling om de verkiezingen, maar dat is een andere reden; geen pagina geopend."
+  },
+  "n-sn-009#H": {
+   "label": "bewijst",
+   "toelichting": "The Quint, AFP en Inshorts tonen dat de foto's prothesevingers zijn van een maker in Tokio voor oud-yakuzaleden, en AFP meldt dat de Indiase kiescommissie geen fraude met nepvingers kent. Geen pagina geopend."
+  },
+  "O:gfc-2e6859d0f32131a3#H": {
+   "label": "bewijst",
+   "toelichting": "EFE, DW, CNN en Infobae melden alleen een waarschuwing van New7Wonders dat Machu Picchu de titel kan verliezen als de problemen blijven, geen besluit om hem af te nemen; dat draagt 'misleidend'. Geen pagina geopend."
+  },
+  "n-sn-006#H": {
+   "label": "bewijst",
+   "toelichting": "The Logical Indian, Alt News, India Today en Newschecker laten zien dat de gewonde boer op de foto niet de gepensioneerde kapitein PPS Dhillon is: het zijn twee verschillende mannen. Geen pagina geopend."
+  },
+  "O:gfc-30f1ee86d706994b#H": {
+   "label": "bewijst",
+   "toelichting": "Telemundo, Euronews, EFE (via Qué Pasa en Infobae) en Milenio zeggen dat er geen wet is die Spaans in het openbaar verbiedt of beboet; Engels werd alleen de officiële taal. Geen pagina geopend."
+  },
+  "n-sn-007#H": {
+   "label": "bewijst",
+   "toelichting": "De check van The Quint Hindi (geopend) gaat over precies deze post en zegt dat de foto van de menigte niet uit Kerala komt maar van een betoging van Hefazat-e-Islam in Dhaka op 5 mei 2013. Factiz gaf geen uitleg, maar die ene bron draagt het."
+  },
+  "O:gfc-157256092d92f281#H": {
+   "label": "bewijst niet",
+   "toelichting": "Het tagesschau-fragment zegt dat Mpox bij een oppervlakkig onderzoek met gordelroos verward kan worden en dat de arts dat moet uitsluiten, en het RKI noemt gordelroos als differentiaaldiagnose; dat weerlegt de bewering niet. Het PEI-fragment noemt gordelroos niet en de SZ is één studie; de tagesschau-pagina kon ik niet openen, dus die telt niet."
+  },
+  "O:gfc-1058f992c04527fe#H": {
+   "label": "bewijst",
+   "toelichting": "TF1 Info, L'Indépendant en de prefectuur (via HuffPost en X) zeggen dat het om een brandende afvalberging ging, om 17.30 uur en vóór de uitslagen, zonder verband met de verkiezingen. Geen pagina geopend."
+  },
+  "O:gfc-0cdbb2a4c2fec9e4#H": {
+   "label": "bewijst niet",
+   "toelichting": "Zes van de acht bronnen (tkp.at, philosophia-perennis, blog.fdik, medforth, The People's Voice, Substack) verspreiden de bewering juist, en de twee WHO-pagina's over haar benoeming zeggen er niets over; geen bron toont dat het citaat verzonnen is. Geen pagina geopend."
+  },
+  "O:gfc-0738be7ee5258a61#H": {
+   "label": "bewijst",
+   "toelichting": "De check van Terra ('Vídeo engana', over deze video), de verklaring van het ministerie ('falsa') en Secom zeggen dat er geen beheer is overgedragen; het ging om een intentieprotocol met Ambipar. Geen pagina geopend; de uitleg zelf zit fout ('1 miljoen vierkante meter', '14% een vergroting'), terwijl de bronnen 1 miljoen km², ongeveer 14%, noemen."
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck huang-citaten van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "f6c108d1598d69c5",
+ "veldafdrukken": {
+  "kop": "8352433f95dc153b",
+  "oordeel_zin": "7fe4e7e4003d7324",
+  "bewering": "7a68058bd4c0c68d",
+  "kort": "419b49c08384fd84",
+  "tekst": "859bdcf1a7f3cfeb",
+  "niet_weten": "16a6e002a397d90a",
+  "bereik": "ede32074295547d0",
+  "nog_uitzoeken": "7c2957ecf1bbeee9",
+  "tijdlijn": "4f215e483240391a",
+  "beeld_bijschrift": "3e9e876c810b3ee8",
+  "beeld_alt": "130ae89ac139bc3c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jensen Huang'a ait bu \"resmi açıklama\" uydurma: Nvidia bunu hiç yayımlamadı",
+  "oordeel_zin": "Nvidia bu açıklamayı hiç yayımlamadı; Nvidia'nın mektuptaki tarihten üç gün önce yayımladığı Huang'ın e-postası ise tam tersini söylüyor: Huang özür diledi ve tüm sorumluluğu üstlendi [1] [5].",
+  "bewering": "SON DAKİKA: JENSEN HUANG SONUNDA SESSİZLİĞİNİ BOZDU [...]",
+  "kort": "12 Kasım'da X'te yayımlanan bir gönderide, Nvidia'ya ait 11 Kasım tarihli bir \"resmi açıklama\" gösterildi; bu açıklamada Jensen Huang kendisiyle ilgili haberleri yalanlıyor [6]. Nvidia bunu hiç yayımlamadı: basın odasında 11 Kasım tarihli hiçbir içerik yok ve Huang'ın yayımladığı tek mesaj, özür dilediği 8 Kasım tarihli e-postadır [1] [5]. Huang, istifasının ardından yaptığı ilk kamuoyu açıklamasında, 17 Kasım'da, ciddi hatalar yaptığını yazdı [7] [9].",
+  "tekst": "8 Kasım'da Nvidia yönetim kurulu, Huang'ın yabancı bir istihbarat girişiminin hedefi olduğuna dair haberlerin ardından bağımsız bir soruşturma başlattı [2]. Aynı gün Nvidia, Huang'ın çalışanlarına gönderdiği bir e-postayı yayımladı; Huang bu e-postada özür diledi, tüm sorumluluğu üstlendi ve tam iş birliği sözü verdi [1]. 12 Kasım'da Nvidia, onun CEO'luktan ve yönetim kurulu üyeliğinden istifa ettiğini duyurdu [4]. Duyuruda kendisine ait hiçbir söz yer almıyor [4].\n\n12 Kasım'da 03:29 UTC'de X'te bir hesap, Huang'ın \"sonunda\" sessizliğini bozduğunu paylaştı [6]. Gönderiyle birlikte, Nvidia logosunun altında \"Resmi Açıklama\" başlıklı, 11 Kasım tarihli ve Huang imzalı bir mektubun görüntüsü vardı; mektupta Huang, kendisiyle ilgili son haberlerin tamamen yalan olduğunu söylüyor [6]. Gönderi hiçbir kaynak belirtmiyordu ve yazarı gönderiyi o tarihten sonra sildi [6].\n\nNvidia'nın basın odasında 11 Kasım tarihli hiçbir içerik yok ve soruşturma ile yönetim değişikliği hakkındaki dört içeriğin hiçbirinde Huang'a ait bir yalanlama bulunmuyor [1] [2] [3] [4] [5]. Mektup, Huang'ın mektuptaki tarihten üç gün önce gerçekten gönderdiği e-postayla da çelişiyor [1]. Ayrıca bir yazım hatası var: \"entire\" yerine \"cntire\" yazılmış [6].\n\n17 Kasım'da Huang, X'teki kendi hesabından ciddi hatalar yaptığını ve yönetim kurulu için yarattığı sorunlardan derin üzüntü duyduğunu yazdı [7] [9]. Yönetim kurulu bunun en iyisi olduğuna karar verirse, CEO olarak geri dönmekten onur duyacağını da yazdı [8] [9]. Aynı gün yönetim kurulu başkanı Harvey Jones, kurulun onu görevine iade etmeyi düşünmediğini söyledi [8].\n\nHuang cephesinden bulabildiğimiz tek yalanlama 20 Kasım'da geldi: sözcüsü, The New York Times'taki çalışanlara nasıl davrandığına ilişkin iddiaları uydurma olarak nitelendirdi [13]. Bunlar başka haberler ve mektuptaki tarihten sonra yayımlandılar [13].",
+  "niet_weten": "Mektubu kimin hazırladığını ya da ilk olarak başka bir yerde yayımlanıp yayımlanmadığını bilmiyoruz [6]. Mektubu içeren tek bir gönderi gördük [6]. Huang'ın 8 ile 17 Kasım arasında gazetecilerle konuştuğuna dair bir haber bulamadık [8] [9] [10].",
+  "bereik": "19 Kasım itibarıyla 90 beğeni ve 21 yanıt; 23 Kasım itibarıyla yazarı tarafından silinmiş",
+  "nog_uitzoeken": [
+   "Mektubu kimin hazırladığı ve ilk olarak nerede, İngilizce ya da başka bir dilde, ortaya çıktığı.",
+   "Mektubu kaç gönderinin paylaştığı. Biz bir tane gördük, yazarı tarafından silinmişti; 12 Kasım'dan aynı konuda ikinci bir gönderi de silindi.",
+   "Huang adına dolaşan başka mesajların, örneğin bir veda mesajının, olup olmadığı ve bunların da uydurma olup olmadığı.",
+   "Huang'ın 8 Kasım tarihli e-postası ile 17 Kasım tarihli gönderisi arasında gazetecilere bir şey söyleyip söylemediği."
+  ],
+  "tijdlijn": [
+   "Nvidia yönetim kurulu bağımsız bir soruşturma başlatıyor [2]. Nvidia, Huang'ın çalışanlara gönderdiği ve özür içeren e-postayı yayımlıyor [1].",
+   "Bağımsız yönetim kurulu üyeleri soruşturma için dışarıdan bir avukat ve onun hukuk bürosunu görevlendiriyor [3].",
+   "X'te bir gönderi, Huang'ın haberleri yalanladığı 11 Kasım tarihli \"resmi açıklamayı\" gösteriyor [6].",
+   "Nvidia, Huang'ın istifa ettiğini duyuruyor; duyuruda ona ait hiçbir söz yok [4].",
+   "Nvidia yöneticileri adına yazılmış ve Huang'ın geri dönmesini talep eden bir mektubun, OpenAI çalışanlarının 2023 tarihli bir mektubunun neredeyse birebir kopyası olduğu ortaya çıkıyor [11].",
+   "Huang'ın istifasından bu yana ilk kamuoyu açıklaması, X'teki kendi hesabından [7] [9].",
+   "Yönetim kurulu başkanı Harvey Jones: kurul, Huang'ı görevine iade etmeyi düşünmüyor [8].",
+   "Huang'ın sözcüsü, The New York Times'taki Huang'ın çalışanlara nasıl davrandığına ilişkin iddiaları uydurma olarak nitelendiriyor [13].",
+   "Başkan Trump, Huang'a ikinci bir şans verilmesini istediğini söylüyor; yönetim kurulu yine de onu görevine iade etmeyi planlamıyor [12].",
+   "Mektubu içeren gönderi artık X'te yok: yazarı gönderiyi sildi [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te 12 Kasım 2026, 03:29 UTC tarihli gönderi; yazarı tarafından sonradan silindi."
+  ],
+  "beeld_alt": [
+   "X'te Jensen Huang'ın sessizliğini bozduğunu söyleyen bir gönderi; gönderide Nvidia logosunun altında \"Resmi Açıklama\" başlıklı, 11 Kasım 2026 tarihli ve Huang'ın kendisiyle ilgili haberleri yalanladığı bir mektubun görüntüsü var. Damga: YANLIŞ."
+  ]
+ }
+}

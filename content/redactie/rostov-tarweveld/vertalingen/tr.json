@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "İspanya'daki bir buğday tarlasında bulunan \"iklim değiştirici\" videosu 2022'de Rusya'da dolaşıma girmişti",
+  "oordeel_zin": "Görüntüler İspanya'dan değil: buğday tarlalarındaki mercekler Temmuz 2022'de Rusya'nın Rostov bölgesinde bir söylentiydi ve oradaki acil durum servisleri hiç mercek bulamadı [2] [5].",
+  "bewering": "İspanya: Bir çiftçi buğday tarlalarından birinde bir \"iklim değiştirici\" buldu.",
+  "kort": "4 Eylül'den beri X'te, bir çiftçinin İspanya'daki bir buğday tarlasında bulduğu iddia edilen bir \"iklim değiştirici\" videosu dolaşıyor [1]. Buğday tarlalarındaki mercekli benzer yapıların videoları, sabotaj kanıtı olarak daha Temmuz 2022'de Rusya'nın Rostov bölgesinde dolaşıyordu [2] [5]. Oradaki acil durum servisleri yangınlarda hiç mercek bulmadı ve haberi asılsız olarak nitelendirdi [2].",
+  "tekst": "4 Eylül 2026 Cuma günü saat 11:47'de X'te, üzerinde bir İspanyol bayrağı bulunan ve bir çiftçinin İspanya'da buğday tarlalarından birinde bir \"iklim değiştirici\" bulduğunu belirten 48 saniyelik bir video yayımlandı [1]. İspanya o yaz, Temmuz'da Madrid bölgesi ve Ávila dahil olmak üzere büyük orman yangınları yaşamıştı [6].\n\nAynı türden görüntüler dört yıl önce Rusya'da dolaşıyordu. 12 Temmuz 2022'de sosyal medyada, Rusya'nın güneyindeki Rostov bölgesinde buğday tarlalarına kurulmuş, mercekli, kendi yapımı düzeneklerin videoları yayımlandı [2]. Bu haberlere göre düzenekleri Ukraynalı sabotajcılar yerleştirmişti, böylece güneş tahılı tutuşturacaktı [2]. YouTube'da, Rostov bölgesindeki çiftçilerin tahılın içinde bu tür aygıtları toplu halde bulduğunu belirten başlıklı bir video var [5].\n\nBölgenin acil durum servisleri bunu yalanladı. Bölgesel acil durumlar bakanlığı 13 Temmuz 2022'de bu tür aygıtlara ilişkin hiçbir ihbar almadığını ve yangınlarda hiç mercek bulunmadığını söyledi [2]. Bakanlık haberi asılsız olarak nitelendirdi ve haberi kasıtlı olarak kimin yaydığının araştırılmasını sağladı [2]. Kendini doğrulama projesi olarak tanıtan Rus projesi Lapsha Media da 14 Temmuz'da yangınlarda şüpheli hiçbir şey bulunmadığını yazdı [3].\n\nTemmuz 2024'te söylenti bu kez Kuban'daki tarlalar için geri geldi [4]. Oradaki polisin bununla ilgili hiçbir ihbarı yoktu [4]. Stavropol bölgesinde ise vali o sırada tarlalarda mercek bulunduğunu söyledi ve orada bir ceza davası yürütülüyordu [4]. Gazete Rostov için, bakanlığın 2022'de böyle bir düzeneğin neredeyse hiçbir yangını başlatamayacağını söylediğini yineledi [4].\n\nGörüntülerin İspanya'yla bir ilgisi yok, iklimle de yok. Hikâye Rusya'daki sabotajla ilgiliydi ve orada bile kimse Rostov'daki merceklerin bir yangına yol açtığına dair kanıt bulamadı [2] [4].",
+  "niet_weten": "Videoyu ilk kimin çektiğini ve tam olarak nerede kaydedildiğini bilmiyoruz. Böyle bir buluntuya ilişkin İspanyol basınında çıkmış bir haber bulamadık, ama İspanyol basınını eksiksiz taramadık. Videoyu kimin Rusya'dan İspanya'ya taşıdığını ve gönderinin iklim değiştiriciyle neyi kastettiğini de bilmiyoruz. 2022'ye ilişkin kaynaklar Rusça ve ağırlıklı olarak bakanlığın sözlerini aktarıyor.",
+  "bereik": "18 Kasım itibarıyla 1.645 kez görüntülendi",
+  "nog_uitzoeken": [
+   "Temmuz 2022'deki orijinal. YouTube'daki video, bir özel kişinin kanalında yer alıyor ve büyük olasılıkla orijinal değil.",
+   "Rostov'daki bakanlığın sözleri için bağımsız bir kaynak, örneğin bakanlığın kendi sitesindeki haber ya da Rusya dışından bir medya kuruluşu.",
+   "Lapsha Media'nın Rus devletiyle bağlantısı için hâlâ bir kaynak arıyoruz."
+  ],
+  "tijdlijn": [
+   "Sosyal medyada, Rostov bölgesindeki buğday tarlalarında mercekli düzeneklerin videoları dolaşıyor [2].",
+   "Rostov'daki acil durumlar bakanlığı haberi asılsız olarak nitelendiriyor: ihbar yok, mercek bulunmadı [2].",
+   "Lapsha Media, yangınlarda şüpheli hiçbir şey bulunmadığını yazıyor [3].",
+   "Söylenti bu kez Kuban'daki tarlalar için geri geliyor [4].",
+   "Maldita, İspanya'daki orman yangınlarına ilişkin yanlış haberlerin bir dökümünü başlatıyor [6].",
+   "İspanya'daki bir buğday tarlasında iklim değiştirici bulunduğunu öne süren gönderi [1]."
+  ],
+  "beeld_bijschrift": [
+   "X'teki bir gönderide yer alan videodan durağan görüntü, 4 Eylül 2026, 11:47."
+  ],
+  "beeld_alt": [
+   "Bir buğday tarlasındaki düzeneğin videosundan durağan görüntü, İspanya'da bulunmuş gibi sunuluyor. Damga: YANLIŞ."
+  ]
+ }
+}

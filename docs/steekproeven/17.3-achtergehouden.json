@@ -1,0 +1,125 @@
+{
+ "toelichting": "Achtergehouden steekproef voor taak 17.3: de 24 geblokkeerde paren in Latijns schrift die NIET in de §44-steekproef zaten (mijn regex daar sloot uitgebreid Latijn uit). De regel uit §44d stond al gecommit vóór deze paren gelezen werden. Eén beoordelaar. Sleutel is sha256 van de twee claimteksten.",
+ "paren": {
+  "052bead3d5504a32": {
+   "label": "terecht",
+   "reden": "7 vs 8 en rates vs stijging",
+   "score": 0.9771
+  },
+  "05377624f43081d5": {
+   "label": "terecht",
+   "reden": "IDP's vs rechten en vrijheden",
+   "score": 0.9927
+  },
+  "1648b910cdfb8287": {
+   "label": "terecht",
+   "reden": "IDP's vs vervolging",
+   "score": 0.9946
+  },
+  "853487f26ec192a0": {
+   "label": "terecht",
+   "reden": "rechten vs pensioenaantal",
+   "score": 0.6294
+  },
+  "ca9fa5866816cda6": {
+   "label": "onterecht",
+   "reden": "alleen zurzeit/derzeit",
+   "score": 0.9575
+  },
+  "f90c7fa4e7d10522": {
+   "label": "terecht",
+   "reden": "Isiro vs Kamina",
+   "score": 0.9604
+  },
+  "0b9c7c0a91be6aef": {
+   "label": "onterecht",
+   "reden": "claim vs de weerlegging ervan",
+   "score": 0.9976
+  },
+  "1c72cae500012e48": {
+   "label": "terecht",
+   "reden": "Jalandhar/Punjab vs Jalpaiguri/West-Bengalen",
+   "score": 0.9688
+  },
+  "20b9bf4fbc8edc64": {
+   "label": "onterecht",
+   "reden": "zelfde tekst, andere inleiding",
+   "score": 0.5928
+  },
+  "2d17e7ebb0b077e2": {
+   "label": "onterecht",
+   "reden": "zelfde Trump-citaat",
+   "score": 0.6157
+  },
+  "0fd1f3ad82819bfe": {
+   "label": "onterecht",
+   "reden": "zelfde Trump-citaat",
+   "score": 0.5308
+  },
+  "5236c7a272d94696": {
+   "label": "onterecht",
+   "reden": "zelfde koppen, andere spelling",
+   "score": 0.8774
+  },
+  "e9b617feca2b5efd": {
+   "label": "onterecht",
+   "reden": "woordelijk gelijk",
+   "score": 0.9722
+  },
+  "e79504b7d8c24257": {
+   "label": "terecht",
+   "reden": "Flip5 vs Fold5",
+   "score": 0.6294
+  },
+  "248bbe863c8b689c": {
+   "label": "terecht",
+   "reden": "valse citaten vs schermafdruk van account",
+   "score": 0.6812
+  },
+  "c9eb59ecd1a415ad": {
+   "label": "terecht",
+   "reden": "vervolging advocaten vs minimumloon",
+   "score": 0.8086
+  },
+  "f94cf860e0f676e8": {
+   "label": "onterecht",
+   "reden": "Diwali 2025 vs deze Diwali",
+   "score": 0.8018
+  },
+  "4f10120391a121c7": {
+   "label": "terecht",
+   "reden": "Jodhpur vs Alwar",
+   "score": 0.9048
+  },
+  "93a71eb43e4b1940": {
+   "label": "onterecht",
+   "reden": "zelfde citaat, een voller",
+   "score": 0.7646
+  },
+  "c85fed4836cc8164": {
+   "label": "onterecht",
+   "reden": "zelfde virale tekst, Oostenrijkse variant",
+   "score": 0.9219
+  },
+  "0cdc7fdb76609108": {
+   "label": "terecht",
+   "reden": "president vs premier",
+   "score": 0.6133
+  },
+  "53214b44ec173510": {
+   "label": "terecht",
+   "reden": "Himachal vs Madhya Pradesh",
+   "score": 0.6416
+  },
+  "c50955780e221da2": {
+   "label": "terecht",
+   "reden": "Rebeca Andrade vs Rayssa Leal",
+   "score": 0.981
+  },
+  "03c56fb627f63035": {
+   "label": "terecht",
+   "reden": "Kisangani/Frans vs Walikale/Belgisch",
+   "score": 0.5952
+  }
+ }
+}

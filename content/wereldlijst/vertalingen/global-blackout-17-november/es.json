@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar es) van het overzicht global-blackout-17-november van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "329ccec2c5f04d8a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Unos mensajes advierten de que el 17 de noviembre de 2026 comenzará un apagón mundial de electricidad e internet de 72 horas que dejará fuera de servicio los bancos y los cajeros automáticos.",
+  "kern": [
+   "Ninguna autoridad advirtió de un apagón mundial el 17 de noviembre de 2026. [1] [2]",
+   "La fecha coincide con una prueba de alerta de emergencia prevista en Estados Unidos, anunciada por la agencia federal FEMA y emitida por televisión y radio. [1] [2]",
+   "Las publicaciones también mezclaron el consejo europeo de tener suministros de emergencia para 72 horas y un episodio de Los Simpson, y ninguno de los dos apunta a un apagón ese día. [1] [2]"
+  ],
+  "rondgang": "Publicaciones en Facebook, TikTok y X difundieron la advertencia, verificada por verificadores de datos en España e Italia; EFE la encontró en X, en inglés, ya el 27 de octubre de 2026. [1] [2]"
+ }
+}

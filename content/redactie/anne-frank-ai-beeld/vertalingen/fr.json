@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "L'image d'une statue d'Anne Frank vandalisée a été créée avec l'IA",
+  "oordeel_zin": "L'image montre une statue qui n'existe pas, et aucune dégradation n'a été signalée depuis août 2024 [5] [6].",
+  "bewering": "La statue d'Anne Frank à Amsterdam a été vandalisée.",
+  "kort": "Depuis le 8 novembre, une image circule sur X, montrant une statue d'Anne Frank qui viendrait d'être vandalisée [9]. L'image a été créée avec l'IA et montre une statue qui n'existe pas [5]. La vraie statue de la Merwedeplein à Amsterdam a été vandalisée en juillet et en août 2024, et aucune nouvelle dégradation n'a été signalée depuis [1] [6].",
+  "tekst": "Amsterdam compte deux statues d'Anne Frank. L'une se trouve près de la Westerkerk, à côté de la Maison d'Anne Frank. L'autre se trouve sur la Merwedeplein, dans le quartier de la Rivierenbuurt, en face de la maison où la famille Frank a vécu de 1933 à 1942. Cette seconde statue, œuvre de Jet Schepp, représente une fillette en bronze avec un cartable, qui se retourne vers la place, sur une colonne de pierre rose [4].\n\nCette statue de la Merwedeplein a été vandalisée à deux reprises en 2024. Le 9 juillet, le mot « Gaza » a été écrit à la peinture rouge sur le socle, avec des taches rouges près des pieds ; l'arrondissement l'a fait nettoyer le jour même [3] [8]. Dans la nuit du 3 au 4 août, « Free Gaza » a suivi, et les mains de la statue ont été peintes en rouge, exactement 80 ans après l'arrestation des personnes cachées dans l'Annexe [1] [2]. Cette nuit-là, au moins six statues ont été vandalisées à Amsterdam-Zuid [2].\n\nL'image qui circule actuellement est autre chose. AAP FactCheck, la rédaction de vérification des faits de l'agence de presse australienne, l'a trouvée le 6 novembre sur Facebook et sur X : une personne masquée qui tague « Free Palestine » sur une statue d'Anne Frank portant un keffieh [5]. Cette statue ne ressemble à aucune des deux d'Amsterdam. Sur la plaque à côté figure une citation erronée du journal, avec une faute de frappe [5].\n\nNous n'avons trouvé aucune nouvelle dégradation. La Maison d'Anne Frank ne signale rien au sujet de la statue depuis août 2024 [7]. Lorsque la bourgmestre a prolongé en septembre 2025 la vidéosurveillance de la Merwedeplein, la commune n'a cité comme motif que les deux dégradations de 2024 [6]. AAP, qui a elle-même cherché des dégradations récentes, n'a trouvé que celles de 2024 [5].",
+  "niet_weten": "Nous ne savons pas qui a créé l'image. Nous déduisons qu'il n'y a pas eu de dégradation en octobre et en novembre 2026 de l'absence de communiqués, à la Maison d'Anne Frank, à la NOS et à la commune. Nous n'avons pas consulté les communiqués de la police ni les archives de Het Parool.",
+  "nog_uitzoeken": [
+   "Ce qu'est la deuxième image de la paire. S'il s'agit d'une vraie photo du 4 août 2024, présentée comme récente, c'est plutôt « trompeur » qui correspond à cette image.",
+   "Si la police ou AT5 ont signalé en octobre ou novembre 2026 une dégradation de la statue. Nous n'avons pas fait de recherches dans ces messages."
+  ],
+  "tijdlijn": [
+   "La statue de Jet Schepp sur la Merwedeplein est dévoilée [4].",
+   "Première dégradation : « Gaza » sur le socle, nettoyé le jour même [3].",
+   "Seconde dégradation : « Free Gaza » et mains peintes en rouge [1].",
+   "La bourgmestre prolonge la vidéosurveillance, avec pour seul motif les dégradations de 2024 [6].",
+   "L'image créée avec l'IA apparaît sur Facebook et sur X [5].",
+   "Au moins cinq posts sur X présentent une statue vandalisée comme une actualité [9].",
+   "AAP FactCheck : l'image a été créée avec l'IA [5]."
+  ],
+  "beeld_bijschrift": [
+   "Post sur X, 8 novembre 2026, l'un d'au moins cinq.",
+   "La vraie statue de la Merwedeplein, œuvre de Jet Schepp, dévoilée le 9 juillet 2005. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "Une image créée avec l'IA d'une statue d'Anne Frank vandalisée. Tampon : FAUX.",
+   "La statue en bronze d'Anne Frank sur la Merwedeplein à Amsterdam."
+  ]
+ }
+}

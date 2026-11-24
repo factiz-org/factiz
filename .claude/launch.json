@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "factiz",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "P=$(ls -t data/voorbeeld/publicatie.db data/publicatie/*/publicatie.db 2>/dev/null | head -1); echo \"factiz: $P\"; HOST=127.0.0.1 PORT=8796 FACTIZ_PUBLICATIE=\"$P\" exec node site/dist/server/entry.mjs"
+      ],
+      "port": 8796
+    }
+  ]
+}

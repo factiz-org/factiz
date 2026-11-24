@@ -1,0 +1,242 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B85), in het Engels, uit de weekradar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/faa-ground-stop/dossier.md, ingekort tot ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-22, PO: "innkorten is goed, , ik heb ze nagelezen, akkoord").
+
+sleutel = "faa-ground-stop"
+status = "gepubliceerd"
+taal = "en"
+adres = "trump-national-emergency-ground-stop"
+kop = "Mullin said Trump declared a national emergency over the ground stop, but there is no declaration"
+oordeel = "misleidend"
+oordeel_zin = "Homeland Security Secretary Markwayne Mullin said it at the White House, but no declaration appears in the Federal Register or among the president's actions, and he said it while asking Congress for money [2] [4] [5]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "🚨 HOLY CRAP: President Trump has DECLARED A NATIONAL EMERGENCY over America's broken air traffic control system.  A reporter asked whether a cyberattack or a rogue AI did this. DHS Secretary Markwayne Mullin says there's ZERO EVIDENCE of a cyberattack so far."
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 6
+bereik = "14,713 likes and 877 replies on November 22; five other posts with the same claim had 23,107 likes together"
+
+kort = """
+There is no declaration of a national emergency over the US ground stop, although Homeland Security Secretary \
+Markwayne Mullin said that President Trump had made one [2] [11]. A clip of his briefing went round on X as news of that \
+declaration [1]. No proclamation or order appears in the Federal Register, where the law says it must be published, and \
+Mullin said it while asking Congress for money [2] [4] [6]."""
+
+tekst = """
+On November 13, at about 3:30 p.m. Eastern time (20:30 UTC), the Federal Aviation Administration (FAA) stopped all \
+departures from US airports, a ground stop [8]. A flood of data on its telecommunications network had made older \
+equipment unstable, and the FAA says it has no indication of a cyberattack [8].
+
+That evening Mullin and Transportation Secretary Sean Duffy briefed reporters at the White House [9]. Mullin called the \
+old air traffic control system a national security risk and said: "The President has declared this a national \
+emergency, and now we have to have Congress act and fund it." [2] His department published the sentence, and The \
+National News Desk reported it that night [2] [11].
+
+At 01:54 UTC on November 14, the account Gunther Eagleman posted a clip of the briefing with the text that Trump had \
+declared a national emergency [1]. A later post called the ground stop a military operation under a national emergency, \
+and Mike Flynn, a former national security adviser, wrote of reports that military units were on alert, but we found \
+no such report [13] [14].
+
+Under the National Emergencies Act, the president declares a national emergency in a proclamation that goes to \
+Congress and is published in the Federal Register [6]. Trump declared one on the power grid in August, in Executive \
+Order 14421 [7]. For the ground stop we found none: the Federal Register has published three presidential \
+documents since November 13, none about air traffic or an emergency, and the White House lists no such action [4] [5].
+
+Trump himself said nothing in public until November 15, when he asked Congress for the "desperately needed money for \
+Air Traffic Control" [10]. The White House's summary of the briefing puts an ellipsis where Mullin's sentence was, and \
+quotes Duffy: "This is an emergency. I want Congress to give us emergency funding." [3] [11]"""
+
+niet_weten = """
+We do not know whether Trump called the outage a national emergency in private, or whether Mullin meant the call for \
+emergency funding [2] [3], nor why the White House left his sentence out [3]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-22"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "What Mullin based his words on, and whether DHS or the White House has corrected them.",
+  "Whether a declaration about air traffic control still follows; we looked up to November 22.",
+  "We weighed Misleading against False. Mullin did say the words, which made us choose Misleading; there is no declaration, which points to False.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 14, 2026, 1:54 UTC."
+alt = "A post on X by Gunther Eagleman saying President Trump has declared a national emergency over the air traffic control system, with a still of Fox News showing Sean Duffy and Markwayne Mullin at the White House briefing. Stamp: MISLEADING."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.whitehouse.gov/videos/secretary-mullin-and-secretary-duffy-brief-members-of-the-press-on-the-faa-ground-stop/"
+stempel = false
+bijschrift = "The full briefing by Markwayne Mullin and Sean Duffy, posted by the White House, November 13, 2026."
+alt = "The White House video of the briefing on the FAA ground stop, with Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+tijd = "20:30 UTC"
+wat = "At about 3:30 p.m. Eastern time the FAA has a technical problem and stops all departures nationwide [8]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "01:15 UTC"
+wat = "Flights resume, at 8:15 p.m. Eastern time on November 13 [8]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+wat = "After 8:15 p.m. Eastern time on November 13, Mullin and Duffy brief reporters at the White House; Mullin says the president has declared a national emergency [2] [9] [11]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "01:54 UTC"
+wat = "Gunther Eagleman posts a clip of the briefing: Trump has declared a national emergency [1]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "17:39 UTC"
+wat = "Another account writes that Trump has declared a national emergency and asks Grok to verify it [12]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+wat = "Trump's first post on the ground stop, on Truth Social, asks Congress for money for air traffic control [10]."
+
+[[tijdlijn]]
+datum = "2026-11-16"
+wat = "Trump blames very old equipment and says he takes no responsibility [9]."
+
+[[tijdlijn]]
+datum = "2026-11-22"
+wat = "No declaration about the ground stop in the Federal Register or among the White House's presidential actions [4] [5]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "Post by the account Gunther Eagleman with a clip of the White House briefing"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261122223149/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121421455854289216&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "US Department of Homeland Security"
+titel = "ICYMI: Secretary Mullin and Secretary Duffy Address Nationwide FAA Ground Stop of All Flights"
+datum = "2026-11-13"
+url = "https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all"
+archief = "https://web.archive.org/web/20261114101158/https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "The White House"
+titel = "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding"
+datum = "2026-11-13"
+url = "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
+archief = "https://web.archive.org/web/20261117032309/https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Federal Register"
+titel = "Presidential documents published since November 13, 2026, searched on November 22, 2026"
+datum = "2026-11-22"
+url = "https://www.federalregister.gov/documents/search?conditions%5Btype%5D%5B%5D=PRESDOCU&conditions%5Bpublication_date%5D%5Bgte%5D=11%2F13%2F2026"
+archief = "https://web.archive.org/web/20261122223357/https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=11%2F13%2F2026&conditions%5Bsearch_type_id%5D=3&conditions%5Btype%5D%5B%5D=PRESDOCU"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "The White House"
+titel = "Presidential Actions, the list up to November 20, 2026"
+datum = "2026-11-22"
+url = "https://www.whitehouse.gov/presidential-actions/"
+archief = "https://web.archive.org/web/20261121030531/https://www.whitehouse.gov/presidential-actions/"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "Legal Information Institute, Cornell Law School"
+titel = "50 U.S. Code § 1621: Declaration of national emergency by President (National Emergencies Act)"
+datum = "1976-09-14"
+url = "https://www.law.cornell.edu/uscode/text/50/1621"
+archief = "https://web.archive.org/web/20261014045457/https://www.law.cornell.edu/uscode/text/50/1621"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Federal Register"
+titel = "Declaring a National Emergency To Secure the United States Bulk-Power System (Executive Order 14421)"
+datum = "2026-08-31"
+url = "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system"
+archief = "https://web.archive.org/web/20261101163829/https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Federal Aviation Administration (FAA)"
+titel = "Nationwide Ground Stop: Questions and Answers"
+datum = "2026-11-15"
+url = "https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+archief = "https://web.archive.org/web/20261119184515/https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "CBS News"
+titel = "A timeline of Trump administration's response to FAA ground stop"
+datum = "2026-11-16"
+url = "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
+archief = "https://web.archive.org/web/20261122142314/https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "Associated Press (via WTOC)"
+titel = "Trump breaks silence on nationwide ground stop and demands more money from Congress"
+datum = "2026-11-15"
+url = "https://www.wtoc.com/2026/11/15/trump-breaks-silence-nationwide-ground-stop-demands-more-money-congress/"
+archief = "https://web.archive.org/web/20261116063700/https://www.wtoc.com/2026/11/15/trump-breaks-silence-nationwide-ground-stop-demands-more-money-congress/"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "The National News Desk (via CBS12)"
+titel = "FAA lifts nationwide ground stop, with DHS blaming 'outdated' air traffic control system"
+datum = "2026-11-13"
+url = "https://cbs12.com/news/nation-world/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances"
+archief = "https://web.archive.org/web/20261114080015/https://cbs12.com/news/nation-world/faa-issues-nationwide-ground-stop-cites-extraordinary-circumstances"
+
+[[bron]]
+nr = 12
+soort = "bron"
+uitgever = "X"
+titel = "Post saying Trump has declared a national emergency, asking Grok to verify it"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261122223219/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121659387064549409&omit_script=true"
+
+[[bron]]
+nr = 13
+soort = "bron"
+uitgever = "X"
+titel = "Post calling the ground stop a military operation under a national emergency, with a video"
+datum = "2026-11-16"
+prive = true
+archief = "https://web.archive.org/web/20261122223250/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122147648257843676&omit_script=true"
+
+[[bron]]
+nr = 14
+soort = "bron"
+uitgever = "Mike Flynn on X"
+titel = "Post on the nationwide airport shutdown and reports of military units on alert"
+datum = "2026-11-13"
+url = "https://x.com/GenFlynn/status/2121373765317579140"
+archief = "https://web.archive.org/web/20261122223323/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121373765317579140&omit_script=true"

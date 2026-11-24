@@ -1,0 +1,274 @@
+/* De gedeelde opmaak van de hele voorkant (PLAN #23.11): de kleuren, de
+   letters, de kop met de knop, de voet. De Astro-site laadt dit bestand via
+   de layout; de pagina's op try.factiz.org (demo, Ask, cijfers) lezen het
+   bestand letterlijk in (doublecheck/webui.py), zodat er één website is.
+   Wat maar op één pagina hoort, staat in die pagina zelf.
+
+   De look van #23.14 (DESIGN §4h): papier als grond, grote dunne koppen,
+   haarlijnen, en de velden van `python -m doublecheck.velden` als beelden.
+   Groen is het merk; de knoppen zijn pillen in inkt, wit op een veld;
+   oranje markeert alleen nog wat verschilt. Geen webfonts: de letter is die
+   van het apparaat, dus er gaat niets naar een lettertypedienst. */
+
+:root {
+  color-scheme: light dark;
+  /* Hoe ver de velden inzoomen en opzij schuiven (DESIGN §4h); in elke stand
+     houden de tekstzones hun contrast (tests/test_velden.py). */
+  --veld-zoom: 1.04; --veld-drift: 1.5%;
+  --papier: #f3efe8;
+  --kaart: #fbf9f5;
+  --inkt: #1d1b18;
+  --zacht: #6b665e;
+  --rand: #ddd6ca;
+  --groen: #0e8a5b;
+  --groen-donker: #0b6b47;
+  --groen-nacht: #16342a;
+  --groen-nacht-kaart: #1d4336;
+  --mint: #e9f0ea;
+  --mint-inkt: #bfd9cd;
+  --oranje: #d85a1f;
+  --oranje-donker: #a8420f;  /* oranje tekst: 4,9:1 op het perzik van "In development" */
+  --oranje-inkt: #20150c;
+  --accent-related: #8a7a55;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --serif: ui-serif, "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papier: #141517;
+    --kaart: #1b1c1f;
+    --inkt: #ecebe8;
+    --zacht: #a5a199;
+    --rand: #2b2d31;
+    --groen: #35b981;
+    --groen-donker: #7fd1ae;
+    --groen-nacht: #10261e;
+    --groen-nacht-kaart: #18332a;
+    --mint: #1a2a22;
+    --mint-inkt: #9cc3b2;
+    --oranje: #ff8b4d;
+    --oranje-donker: #ffa36f;
+    --accent-related: #b3a37e;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; }
+body {
+  font-family: var(--sans);
+  line-height: 1.6;
+  background: var(--papier);
+  color: var(--inkt);
+  -webkit-font-smoothing: antialiased;
+}
+/* Wat Factiz zelf zegt, staat in de dunne schreefloze; de serif is alleen
+   voor wat een ander zei: de bewering en citaten (§4h). */
+h1, h2 { font-family: var(--sans); font-weight: 300; letter-spacing: -.035em; line-height: 1.08; }
+h3 { font-weight: 600; letter-spacing: -.01em; }
+.serif { font-family: var(--serif); font-weight: 500; letter-spacing: -.01em; }
+.baan { max-width: 66rem; margin: 0 auto; padding: 0 1.25rem; }
+a:focus-visible, .knop:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--groen); outline-offset: 3px;
+}
+/* Op een veld is de focusrand wit: groen haalt daar geen 3:1. */
+.op-veld :focus-visible, footer.voet :focus-visible { outline-color: #fff; }
+.skip { position: absolute; left: -999px; top: 0; z-index: 99; background: var(--inkt); color: var(--papier);
+        padding: .6em 1em; }
+.skip:focus { left: .5rem; top: .5rem; }
+
+/* De kop: een smalle balk met merk, het hoofdmenu en de knop, op elke pagina
+   gelijk. Het hoofdmenu (#23.15, DESIGN §4i) zonder script: elke groep is een
+   uitklapper met dezelfde naam, zodat er steeds één open is; op een telefoon
+   opent één knop Menu (een vinkje met een label) de groepen onder elkaar. */
+header.kop { position: relative; z-index: 20; border-bottom: 1px solid var(--rand); background: var(--papier); }
+.kop .baan { display: flex; align-items: center; gap: .5rem 1rem; padding-top: .45rem; padding-bottom: .45rem; }
+.merk { font-weight: 650; font-size: 1.12rem; letter-spacing: -.02em; color: var(--inkt);
+        text-decoration: none; margin-right: 1rem; display: inline-flex; align-items: center; min-height: 44px; }
+/* Het woordmerk van de PO (#23.18, §4h): het logo in zijn eigen oranje en wit, de letters in de tekstkleur. */
+.merk .woordmerk { display: block; height: 1.75rem; width: auto; }
+nav.menu { display: flex; align-items: center; gap: .1rem; flex: 1; }
+.menuknop { display: none; }
+.menulabel { display: none; min-height: 2.75rem; }
+nav.menu summary {
+  list-style: none; display: inline-flex; align-items: center; gap: .45rem; min-height: 2.75rem;
+  padding: 0 .85rem; border-radius: 999px; cursor: pointer; color: var(--zacht); font-size: .92rem;
+}
+nav.menu summary::-webkit-details-marker { display: none; }
+nav.menu summary::after {
+  content: ""; width: .38rem; height: .38rem; border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor; transform: translateY(-.12rem) rotate(45deg); opacity: .75;
+}
+nav.menu details[open] > summary::after { transform: translateY(.1rem) rotate(225deg); }
+nav.menu summary:hover, nav.menu details[open] > summary { color: var(--inkt); background: var(--kaart); }
+/* Het megamenu: een paneel onder de balk, met kolommen links en rechts één
+   uitgelicht stuk op een veld. */
+.paneel {
+  position: absolute; top: calc(100% + .35rem); left: 1.25rem; right: 1.25rem; max-width: 64rem; margin: 0 auto;
+  display: flex; gap: .4rem 1rem; padding: 1.1rem; background: var(--papier); color: var(--inkt);
+  border: 1px solid var(--rand); border-radius: 18px; box-shadow: 0 30px 60px -24px rgba(0, 0, 0, .35);
+}
+.kolom { flex: 1 1 13rem; min-width: 0; }
+.kolomkop { font-family: var(--mono); font-size: .72rem; letter-spacing: .14em; text-transform: uppercase;
+            color: var(--groen-donker); margin: .35rem .75rem .5rem; }
+a.menulink { display: block; min-height: 2.75rem; padding: .55rem .75rem; border-radius: 12px; color: var(--inkt);
+             text-decoration: none; }
+a.menulink:hover, a.menulink[aria-current] { background: var(--kaart); }
+a.menulink .titel { font-weight: 600; font-size: .95rem; }
+a.menulink .stand { font-family: var(--mono); font-size: .66rem; letter-spacing: .08em; text-transform: uppercase;
+                    border: 1px solid var(--rand); border-radius: 999px; padding: .05rem .45rem; margin-left: .4rem;
+                    color: var(--zacht); white-space: nowrap; vertical-align: .1rem; }
+a.menulink .uitleg { display: block; color: var(--zacht); font-size: .85rem; line-height: 1.4; margin-top: .1rem; }
+/* Het uitgelichte stuk: een staand veld (4:5), met dezelfde sluier als de
+   drie ingangen op de homepage, zodat de tekstzones kloppen (§4h). */
+a.uitgelicht {
+  flex: 0 0 15rem; aspect-ratio: 4 / 5; border-radius: 14px; overflow: hidden; color: #fff; text-decoration: none;
+  text-align: center; display: flex; flex-direction: column; align-items: center; padding: 1.1rem 1rem;
+  --veld-laag: linear-gradient(rgba(14, 18, 24, 0.22), rgba(14, 18, 24, 0.22)), linear-gradient(to bottom, rgba(14, 18, 24, 0) 60%, rgba(14, 18, 24, 0.27) 70%), #2a2d33 var(--veld) center / cover no-repeat;
+  --veld-duur: 52s;
+}
+a.uitgelicht.hemel { --veld: url(/beeld/hemel.webp); }
+a.uitgelicht.olijf { --veld: url(/beeld/olijf.webp); }
+a.uitgelicht.leisteen { --veld: url(/beeld/leisteen.webp); }
+a.uitgelicht .titel { margin: auto 0; font-size: 1.35rem; font-weight: 300; letter-spacing: -.03em; line-height: 1.15;
+                      text-shadow: 0 1px 14px rgba(0, 0, 0, .28); }
+a.uitgelicht .uitleg { font-size: .82rem; line-height: 1.35; margin-bottom: .6rem; }
+a.uitgelicht .knop { min-height: 2.2rem; padding: .3rem .9rem; font-size: .85rem; }
+/* Op het veld bovenaan ligt de kop erop, in wit (§4h); het paneel blijft papier. */
+header.kop.op-veld { position: absolute; top: 0; left: 0; right: 0; background: transparent;
+                     border-bottom-color: rgba(255, 255, 255, .16); }
+header.kop.op-veld .merk, header.kop.op-veld nav.menu summary { color: #fff; }
+header.kop.op-veld nav.menu summary:hover, header.kop.op-veld nav.menu details[open] > summary {
+  background: rgba(255, 255, 255, .14); }
+header.kop.op-veld .knop.primair { background: #fff; border-color: #fff; color: #111; }
+header.kop.op-veld :focus-visible { outline-color: #fff; }
+header.kop.op-veld .paneel :focus-visible { outline-color: var(--groen); }
+
+/* Knoppen zijn pillen. Op papier in inkt, op een veld wit; in donker draait
+   het vanzelf om, want inkt en papier wisselen. Oranje is geen knopkleur. */
+.knop {
+  display: inline-flex; align-items: center; justify-content: center; text-decoration: none;
+  font: inherit; font-size: .95rem; font-weight: 500; padding: .55rem 1.25rem; border-radius: 999px;
+  min-height: 2.75rem; border: 1px solid var(--rand); color: var(--inkt); background: transparent;
+  cursor: pointer;
+}
+.knop.primair { background: var(--inkt); border-color: var(--inkt); color: var(--papier); }
+.knop.primair:hover { opacity: .88; }
+.knop.omlijnd { border-color: var(--zacht); color: var(--inkt); background: transparent; }
+.knop.omlijnd:hover { border-color: var(--inkt); }
+.knop.wit { background: #fff; border-color: #fff; color: #111; }
+.op-veld .knop.primair { background: #fff; border-color: #fff; color: #111; }
+.op-veld .knop.omlijnd { border-color: rgba(255, 255, 255, .7); color: #fff; background: rgba(12, 13, 16, .3); }
+.knop:disabled { opacity: .7; cursor: progress; }
+
+/* Secties en koppen. */
+.label {
+  font-family: var(--mono); font-size: .78rem; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--groen-donker); font-weight: 500; margin-bottom: .9rem;
+}
+.stil { color: var(--zacht); }
+/* Woorden die niet over een regel breken, zoals fact-checks bij het koppelteken. */
+.heel { white-space: nowrap; }
+/* Een veld: een beeld van het script, met witte tekst erop. */
+.op-veld { background-color: #121316; background-size: cover; background-position: center; color: #fff; }
+
+/* De velden bewegen heel langzaam (PO 2026-10-28, DESIGN §4h): elk veld ligt
+   met zijn sluier op een laag achter de inhoud, een fractie ingezoomd, en
+   schuift alleen opzij, als licht dat voorbijgaat. Alleen CSS; elke plek met
+   een veld zet `--veld-laag` en haar eigen `--veld-duur`. */
+:is(.hero, .ingang, .band, footer.voet, a.uitgelicht, .featured, .strook) {
+  position: relative; isolation: isolate; overflow: hidden;
+}
+:is(.hero, .ingang, .band, footer.voet, a.uitgelicht, .featured, .strook)::before {
+  content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+  background: var(--veld-laag); transform: scale(var(--veld-zoom));
+}
+@keyframes veld-drijft {
+  from { transform: scale(var(--veld-zoom)) translateX(calc(-1 * var(--veld-drift))); }
+  to { transform: scale(var(--veld-zoom)) translateX(var(--veld-drift)); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  :is(.hero, .ingang, .band, footer.voet, a.uitgelicht, .featured, .strook)::before {
+    animation: veld-drijft var(--veld-duur, 60s) ease-in-out infinite alternate; will-change: transform;
+  }
+}
+
+/* De band bovenaan elke pagina behalve de homepage (§4h): het veld groen,
+   op hoogte geschaald (30vw is 600/2000, dus nooit breder dan het beeld),
+   met een sluier zo dicht als de schaduwlaag van de tekstzones, en de tekst
+   links, binnen die zones (tests/test_site.py). */
+.band {
+  min-height: 30vw; padding: 7rem 0 3.2rem;
+  --veld-laag: linear-gradient(rgba(8, 18, 13, 0.3), rgba(8, 18, 13, 0.3)), #0d1712 url(/beeld/groen.webp) center / cover no-repeat;
+  --veld-duur: 60s;
+}
+.band .baan > * { max-width: 46rem; }
+.band .label { color: #a8dcc4; }
+.band h1 { font-size: clamp(2.4rem, 5.4vw, 3.9rem); line-height: 1.05; margin-top: .5rem; color: #fff;
+           text-wrap: balance; }
+.band p { color: #e6e3dd; margin-top: 1rem; font-size: 1.12rem; }
+.band p strong { color: #fff; }
+.band a:not(.knop) { color: #fff; }
+.band .acties { margin-top: 1.6rem; display: flex; flex-wrap: wrap; gap: .7rem; }
+
+/* De voet: het veld nacht met een sluier, de missie met de knop, en een
+   halfdoorzichtige kaart met de links. Sluier en kaart zijn minstens zo
+   dicht als de schaduwlaag waarmee het script de tekstzones mat (§4h). */
+footer.voet {
+  margin-top: 4rem; padding: 5rem 0 2rem; color: #fff; text-align: center;
+  --veld-laag: linear-gradient(rgba(12, 11, 9, 0.32), rgba(12, 11, 9, 0.32)), #14120f url(/beeld/nacht.webp) center / cover no-repeat;
+  --veld-duur: 70s;
+}
+.voet .missie { font-weight: 300; font-size: clamp(1.9rem, 4.4vw, 2.75rem); letter-spacing: -.035em;
+                line-height: 1.1; max-width: 18ch; margin: 0 auto; }
+.voet .missie + .knop { margin-top: 1.6rem; }
+.voet .glas {
+  margin: 4rem auto 0; max-width: 64rem; text-align: left; border-radius: 22px; padding: 1.8rem 2rem 1.2rem;
+  background: rgba(12, 11, 9, 0.42); border: 1px solid rgba(255, 255, 255, .14);
+  -webkit-backdrop-filter: blur(18px) saturate(1.1); backdrop-filter: blur(18px) saturate(1.1);
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 3fr); gap: 1.2rem 2.5rem; font-size: .9rem;
+}
+.voet .glas .merk { color: #fff; }
+.voet .glas .merk .woordmerk { height: 2rem; }
+.voet .glas p { color: #e6e3dd; margin-top: .5rem; max-width: 26ch; }
+/* Dezelfde vier groepen als het hoofdmenu, als kolommen (#23.15, §4i). */
+.voet .glas nav { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .4rem 1.4rem; }
+.voet .glas p.voetkop { font-family: var(--mono); font-size: .7rem; letter-spacing: .14em; text-transform: uppercase;
+                        color: #a8dcc4; margin: .3rem 0 .2rem; }
+.voet .glas nav a { display: flex; align-items: center; min-height: 2.75rem; color: #fff; text-decoration: none; }
+.voet .glas nav a:hover { text-decoration: underline; }
+
+/* Op een telefoon en een smalle tablet: één knop Menu; aangevinkt een vel
+   papier onder de balk met de groepen onder elkaar, zonder uitgelicht stuk. */
+@media (max-width: 900px) {
+  .kop .baan { flex-wrap: wrap; }
+  .merk { margin-right: auto; }
+  .menuknop { display: block; position: absolute; width: 1px; height: 1px; opacity: 0; }
+  .menulabel { display: inline-flex; align-items: center; padding: 0 1rem; border: 1px solid var(--zacht);
+               border-radius: 999px; font-size: .95rem; cursor: pointer; }
+  .menuknop:focus-visible + .menulabel { outline: 2px solid var(--groen); outline-offset: 3px; }
+  nav.menu { display: none; order: 4; flex: 1 0 100%; flex-direction: column; align-items: stretch; gap: 0;
+             padding: .3rem 0 .8rem; }
+  .menuknop:checked ~ nav.menu { display: flex; }
+  nav.menu details + details { border-top: 1px solid var(--rand); }
+  nav.menu summary { display: flex; justify-content: space-between; border-radius: 0; min-height: 3.25rem;
+                     padding: 0 .25rem; font-size: 1.05rem; color: var(--inkt); }
+  nav.menu summary:hover, nav.menu details[open] > summary { background: transparent; font-weight: 600; }
+  .paneel { position: static; display: block; padding: 0 0 .6rem; border: 0; box-shadow: none;
+            background: transparent; max-width: none; }
+  .kolomkop { margin-left: .25rem; }
+  a.menulink { padding: .5rem .25rem; }
+  a.uitgelicht { display: none; }
+  header.kop.op-veld .menulabel { border-color: rgba(255, 255, 255, .7); color: #fff; }
+  header.kop.op-veld .menuknop:focus-visible + .menulabel { outline-color: #fff; }
+  header.kop.op-veld .menuknop:checked ~ nav.menu { background: var(--papier); color: var(--inkt);
+                                                    border-radius: 16px; padding: .3rem 1rem .8rem; margin-top: .3rem; }
+  header.kop.op-veld nav.menu summary, header.kop.op-veld nav.menu details[open] > summary {
+    color: var(--inkt); background: transparent; }
+}
+@media (max-width: 760px) {
+  footer.voet { padding-top: 3.5rem; }
+  .band { padding-top: 8.5rem; }
+  .voet .glas { grid-template-columns: minmax(0, 1fr); padding: 1.4rem 1.3rem 1rem; }
+  .voet .glas nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }

@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo montrant une foule qui retient un voleur présumé vient de Málaga, pas de Milan",
+  "oordeel_zin": "La vidéo montre une tentative de braquage d'une bijouterie à Málaga le 16 juillet, pas une bande à Milan le 17 octobre [1] [4].",
+  "bewering": "Une vidéo montre des Italiens à Milan qui arrêtent une bande pro-palestinienne le 17 octobre.",
+  "kort": "Depuis le 20 octobre, une vidéo circule sur X comme montrant des Italiens qui arrêtent une bande pro-palestinienne à Milan [4]. Les images viennent de Málaga, en Espagne, où des habitants du quartier ont retenu un homme qui avait voulu braquer une bijouterie, le 16 juillet [1]. Les émeutes de Milan du 17 octobre ont commencé lors d'une manifestation contre le coût élevé de la vie, et selon Avvenire, les émeutiers ne portaient ni drapeau ni symbole politique [2] [3].",
+  "tekst": "Dans la nuit du 19 au 20 octobre, à 2 h 07, une publication en néerlandais est apparue sur X avec une vidéo de 79 secondes [4]. Le texte parle de bandes portant des keffiyehs dans des villes italiennes et d'Italiens à Milan qui ne se laissent pas soumettre par les anarchistes de « fripalestin » [4]. Les hashtags #Milano et #17octobre figurent en dessous [4]. Au 18 novembre, la publication avait été vue 105 671 fois [4].\n\nLa même vidéo circulait en anglais quelques heures plus tôt. Le compte Visegrád 24 l'a présentée le 19 octobre à 23 h 07 comme des citoyens italiens qui attrapent un voleur étranger [5]. Une publication française du 20 octobre a fait de même, avec une vidéo de même durée [6].\n\nLa scène n'a pas été filmée en Italie. Le jeudi 16 juillet, vers 21 h 00, un homme a tenté de braquer une bijouterie de la Calle Martínez Maldonado à Málaga, a écrit El Español un jour plus tard [1]. Il a fui à pied vers un complice à moto, a reçu un croche-pied en chemin et a été renversé par quelqu'un en trottinette [1]. Ensuite, des habitants du quartier l'ont retenu, pendant que le complice s'enfuyait [1]. Un habitant a filmé la scène [1]. La Policía Nacional a interpellé l'homme et recherchait encore le deuxième suspect [1].\n\nÀ Milan, il y a bien eu des troubles le samedi 17 octobre. Une marche d'environ 5 000 personnes contre le coût élevé de la vie a dégénéré en émeutes autour de la Piazza del Duomo [2]. Une partie des manifestants, surtout des jeunes au visage couvert, ont jeté des pierres et pillé des magasins [2]. La police a interpellé une cinquantaine de personnes [2] [3]. Selon Avvenire, les émeutiers étaient très jeunes, vêtus de noir et sans drapeau ni symbole politique [3]. Il Post et Avvenire n'écrivent rien sur des groupes palestiniens [2] [3].\n\nLa publication présente donc une interpellation survenue en Espagne trois mois plus tôt comme une scène des émeutes de Milan [1] [4]. Les images elles-mêmes sont authentiques [1].",
+  "niet_weten": "Nous ne savons pas qui a le premier donné une explication italienne de la vidéo. La plus ancienne copie que nous avons trouvée figurait sur X le 19 octobre à 22 h 40, mais cette publication n'est plus visible, donc nous ne savons pas ce qui l'accompagnait. Nous ne savons pas qui a filmé la vidéo en juillet.",
+  "bereik": "105 671 vues au 18 novembre",
+  "nog_uitzoeken": [
+   "Ce qui accompagnait la plus ancienne copie, la publication du 19 octobre à 22 h 40. Elle n'est plus visible."
+  ],
+  "tijdlijn": [
+   "Tentative de braquage d'une bijouterie à Málaga ; des habitants du quartier retiennent l'homme jusqu'à l'arrivée de la police [1].",
+   "El Español écrit sur le braquage et l'interpellation [1].",
+   "Une marche contre le coût élevé de la vie dégénère en émeutes à Milan [2] [3].",
+   "Visegrád 24 diffuse la vidéo en anglais comme des citoyens italiens qui attrapent un voleur [5].",
+   "La publication néerlandaise sur Milan et le 17 octobre [4].",
+   "Une publication française avec la même vidéo de 79 secondes [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 20 octobre 2026, 2 h 07.",
+   "El Español, 17 juillet 2026 : la tentative de fuite après le braquage d'une bijouterie à Málaga. Photo d'El Español."
+  ],
+  "beeld_alt": [
+   "Image fixe de la vidéo : une foule dans la rue autour d'un homme. Tampon : FAUX.",
+   "Photo d'El Español de l'homme qui s'enfuit après la tentative de braquage à Málaga."
+  ]
+ }
+}

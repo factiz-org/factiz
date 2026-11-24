@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La vidéo d'un chien robot armé ouvrant la marche à des soldats circulait en ligne dès octobre et ne vient pas d'Haïti",
+  "oordeel_zin": "Le clip était sur TikTok le 7 octobre 2026, avant que le Salvador n'envoie plus de 2 000 soldats en Haïti ; des chiens robots armés apparaissent bien dans les images diffusées par Bukele depuis le stade de Port-au-Prince, mais ce clip n'en fait pas partie [3] [5] [8].",
+  "bewering": "Regardez ce que ces chiens robots font aux gangs d'Haïti. C'est l'une des meilleures inventions militaires. Elle réduit les pertes humaines (soldats) au niveau le plus bas.",
+  "kort": "Depuis le 14 novembre, une publication sur X présente une vidéo d'un chien robot armé avançant devant des soldats comme ce que les chiens robots font aux gangs en Haïti [1]. Une station de radio d'Équateur a publié le même clip sur TikTok le 7 octobre 2026, avant que le Salvador n'envoie plus de 2 000 soldats en Haïti [3] [8]. Les forces salvadoriennes ont bien amené des chiens robots armés au stade national de Port-au-Prince, mais ceux-ci apparaissent dans la propre vidéo du président Bukele, pas dans ce clip [5] [6].",
+  "tekst": "Le 14 novembre 2026, un compte sur X a publié une vidéo de 26 secondes accompagnée du texte « Look at what these Robot dogs are doing to Haiti gangs. » [1]. Il citait une publication du même compte la veille, qui affirmait que le Salvador utilisait des chiens robots pour traquer des membres de gangs en Haïti [2]. Dans la vidéo, un chien robot portant un fusil sur le dos avance devant des soldats le long d'un mur à motif camouflage, et un drone tourne autour d'un bâtiment en béton blanc [1].\n\nLe clip porte une légende en espagnol, « Perros robot con armamento », la date 07-10-2026 et le logo de Ritmo 93.9 [1]. Ritmo 93.9 est une station de radio de la province de Pastaza, en Équateur [4]. Elle a publié le même clip sur TikTok le 7 octobre 2026, sans un mot sur Haïti ni sur le Salvador, et a écrit qu'il avait peut-être été réalisé avec l'IA [3]. Un texte en chinois en haut du clip, en partie masqué par le logo de la radio, désigne une entreprise de la province du Shandong, en Chine [1].\n\nOnze jours plus tard, le 18 octobre, quatre techniciens de l'aviation salvadoriens ont disparu après une attaque de gang en Haïti [8] [9]. Environ 200 Salvadoriens y servaient déjà, principalement dans le soutien médical [9]. Après l'attaque, le Salvador a envoyé plus de 2 000 soldats [8] [9].\n\nLe 12 novembre, des unités de la police et de l'armée haïtiennes et des forces spéciales salvadoriennes ont pris le stade Sylvio Cator à Port-au-Prince [5] [9]. Bukele a publié sur X une vidéo de 76 secondes de l'opération [5]. Ses 20 dernières secondes montrent des soldats fixant des fusils sur des chiens robots sur la pelouse, et les robots marchant dans des couloirs bleus et montant des escaliers [5] [7]. Selon Newsweek, les images ne montrent pas les robots en train de tirer [6]. L'enceinte au mur camouflage n'apparaît pas dans la vidéo de Bukele [1] [5].",
+  "niet_weten": "Nous ne savons pas qui a filmé le clip, où ni quand, ni s'il s'agit d'images réelles. La plus ancienne copie que nous ayons trouvée est celle que Ritmo 93.9 a publiée le 7 octobre [3]. Nous ne savons pas si les chiens robots de la vidéo de Bukele ont pris part à des combats [6] [7].",
+  "bereik": "662 mentions « J'aime » et 23 réponses le 23 novembre",
+  "nog_uitzoeken": [
+   "Qui a réalisé le clip avec le chien robot et le drone, où et quand il a été filmé, et s'il s'agit d'images réelles ou d'un contenu fait avec l'IA.",
+   "Quelle entreprise du Shandong le texte chinois en haut du clip désigne, puisqu'une partie du nom est masquée derrière le logo de Ritmo 93.9, et si cette entreprise a publié les images en premier.",
+   "Si les chiens robots de la vidéo de Bukele du 12 novembre ont pris part à des combats en Haïti.",
+   "Nous avons hésité entre Trompeur et Faux. Le clip ne vient pas d'Haïti et ne montre rien qui soit fait aux gangs là-bas, mais les forces salvadoriennes ont bien amené des chiens robots armés au stade de Port-au-Prince. Si vous en savez plus sur ce clip, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9 publie le clip sur TikTok comme une vidéo partagée récemment [3].",
+   "Quatre techniciens de l'aviation salvadoriens disparaissent après une attaque de gang en Haïti [8] [9].",
+   "Al Jazeera et l'AP rapportent la présence de plus de 2 000 soldats salvadoriens en Haïti [8].",
+   "Les forces haïtiennes et salvadoriennes prennent le stade Sylvio Cator à Port-au-Prince [9].",
+   "Bukele publie sa vidéo de l'opération, avec des chiens robots armés à la fin (UTC) [5].",
+   "Le compte affirme que le Salvador utilise des chiens robots pour traquer des membres de gangs en Haïti (UTC) [2].",
+   "Newsweek publie un article sur les chiens robots de la vidéo de Bukele (UTC) [6].",
+   "Le même compte publie le clip de Ritmo 93.9 comme des chiens robots en Haïti (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 14 novembre 2026, 20 h 08 UTC.",
+   "Ritmo 93.9 FM sur TikTok, 7 octobre 2026 : le même clip, avec la même légende et la même date, cinq semaines avant la prise du stade de Port-au-Prince par les forces salvadoriennes."
+  ],
+  "beeld_alt": [
+   "La publication sur X de Benkingsley Nwashara disant Look at what these Robot dogs are doing to Haiti gangs, avec une image extraite de la vidéo : un soldat avec un fusil à l'angle d'un mur à motif camouflage, la légende espagnole Perros robot con armamento et la date 07-10-2026. En dessous, la publication citée du 13 novembre avec une vue aérienne d'un stade de football. Tampon : TROMPEUR.",
+   "Image extraite de la vidéo TikTok de Ritmo 93.9 : un chien robot avec un fusil dans une cour en terre à côté d'un mur à motif camouflage, avec la légende Perros robot con armamento et la date 07-10-2026."
+  ]
+ }
+}

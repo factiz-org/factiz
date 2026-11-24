@@ -1,0 +1,140 @@
+{
+ "_meta": "Labels van de controle op 500 berichten (PLAN #32.11), 2026-10-29, gelezen door Claude: elk rood of oranje bij een waar bericht en elk groen bij nepnieuws: 'vals' of 'set fout', met reden. Voor de PO om na te kijken. De PO keek ze op 2026-10-29 na op de pagina 'Labels en staatsmedia': 'po' is het oordeel van de PO over het label van Claude (eens of oneens) met opmerking; 'nagezocht' is wat de factcheck zegt, door Claude gelezen na een oneens of een vraag.",
+ "oordelen": [
+  {
+   "id": "b-012065",
+   "label": "vals",
+   "reden": "een echt Politico-artikel; Factiz noemt het misleidend omdat de brief alleen 'kenmerken van' zei en de laptop later echt bleek. Te verdedigen, maar streng geteld als vals alarm",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "b-013385",
+   "label": "vals",
+   "reden": "het bericht is een factcheck van AFP die de bewering weerlegt; Factiz beoordeelde de bewering erin, niet het bericht (een bericht over een bewering)",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "b-008440",
+   "label": "vals",
+   "reden": "het begin van een Guardian-stuk van Higgins en Kaszeta; Factiz las het als steun aan Hersh, wat het niet is",
+   "po": {
+    "label": "eens",
+    "opmerking": "Er moet een extra informatiestuk bij de check, zoals een factchecker dat doet: wat is er echt gebeurd, een klein inzetje met wat klopt. 'Misleidend' doet denken dat het oorspronkelijke bericht misleidend is, terwijl dat klopt."
+   }
+  },
+  {
+   "id": "b-006859",
+   "label": "set fout",
+   "reden": "21st Century Wire (Vanessa Beeley) over 'fraude' met chemische wapens in Ghouta: bekende desinformatie, de set noemt het ten onrechte waar; rood met Snopes is terecht",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "b-007856",
+   "label": "set fout",
+   "reden": "BBC-artikel uit 2020 met in de set de datum 2021-05-27; Factiz kreeg 'ging rond op 2021-05-27' en noemde oud nieuws als nieuw misleidend. Te verdedigen, en een eigenaardigheid van de set",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "b-004264",
+   "label": "set fout",
+   "reden": "CNN-artikel uit 2018 ('ongoing protests', 317 doden) met in de set de datum 2021-08-23; zelfde geval: oud nieuws op een latere datum",
+   "po": {
+    "label": "eens"
+   }
+  },
+  {
+   "id": "b-019332",
+   "label": "vals",
+   "reden": "Fact Crescendo: de val gebeurde, maar niet omdat hij geen iPhone kreeg; de oorzaak is de kern, en de lezer noemde die een klein verschil",
+   "po": {
+    "label": "eens",
+    "opmerking": "Onderscheid maken tussen de bewering en het onderliggende feit: 'Onderliggend feit: klopt! Bewering: niet.' Anders te ingewikkeld, ook voor een gebruiker. Met zoveel bronnen is het belangrijk deze casus onder de loep te nemen."
+   },
+   "nagezocht": "Fact Crescendo: de drie doden zijn echt (21 augustus 2026, Khavdya Dongar); volgens de politie was de oorzaak een familieconflict, geen geweigerde iPhone. De eerste berichten van goede media noemden de iPhone; NDTV schreef later 'iPhone EMI not sole trigger'."
+  },
+  {
+   "id": "b-019391",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een oude Russische video als de aanval op de luchthaven van Riyad)",
+   "po": {
+    "label": "oneens",
+    "opmerking": "Twijfel: er is een onderliggend feit en er is een claim over dit onderliggende feit. Hoe komt FACTLY hier aan misleidend?"
+   },
+   "nagezocht": "FACTLY (24 september): de virale video is een brand na een droneaanval op de Sadovod-markt in Moskou, juni 2026. Er was wel een Houthi-aanval op 19 september (brand bij een brandstofdepot bij de luchthaven). De bronnen van Factiz gaan over een latere aanval in oktober, met andere beelden."
+  },
+  {
+   "id": "b-019472",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: oude overstromingsbeelden uit Arunachal Pradesh als Rasuwa)",
+   "po": {
+    "label": "oneens",
+    "opmerking": "Ok deze weer twijfel"
+   },
+   "nagezocht": "FACTLY: de virale video toont overstromingen in Arunachal Pradesh (India) van 24 juni 2026; de overstromingen in Rasuwa op 26 augustus waren echt, de beelden horen er niet bij."
+  },
+  {
+   "id": "b-019223",
+   "label": "vals",
+   "reden": "VERA Files: misleidend; het DSWD beloofde geen bijzondere zorg, alleen wat de wet voorschrijft. De lezer zag dat zelf ('geen speciale behandeling') en zei toch klopt",
+   "po": {
+    "label": "oneens",
+    "opmerking": "rare bronnen?"
+   },
+   "nagezocht": "VERA Files: het DSWD houdt de 14-jarige in strenge staatsbewaking in een revalidatiecentrum; de post brengt dat als zorg. De bronnen van Factiz (pia.gov.ph, dswd.gov.ph, pna.gov.ph, Inquirer, ABS-CBN) bevestigen de feiten, niet de voorstelling."
+  },
+  {
+   "id": "b-019086",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een oude video van Modi met leiders van Congress, niet van de receptie)",
+   "po": {
+    "label": "oneens",
+    "opmerking": "Snap deze niet"
+   },
+   "nagezocht": "FACTLY (gelezen 2026-10-29): de video is minstens van maart 2025, van een ceremonie voor de zonen van minister Chouhan; Modi droeg op de receptie andere kleding. 'Several mainstream media outlets' deelden dezelfde video met dezelfde bewering, dus de goede bronnen van Factiz verspreidden zelf het verkeerde beeld."
+  },
+  {
+   "id": "b-019470",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een foto uit Vietnam, 2007)",
+   "po": {
+    "label": "eens",
+    "opmerking": "Beeld engine moet dus beter, dit is de kern van hoe nep nieuws werkt: echte bewering, verkeerde foto"
+   }
+  },
+  {
+   "id": "b-019104",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een oude protestvideo uit Patna)",
+   "po": {
+    "label": "eens",
+    "opmerking": "Beeld engine moet dus beter, dit is de kern van hoe nep nieuws werkt: echte bewering, verkeerde foto"
+   }
+  },
+  {
+   "id": "b-019054",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een boerenprotest in Bhopal, niet de UGC-protesten in Delhi)",
+   "po": {
+    "label": "eens",
+    "opmerking": "Zelfde, foto vs feit"
+   }
+  },
+  {
+   "id": "b-019210",
+   "label": "vals",
+   "reden": "een bewering over wat een beeld toont, zonder het beeld beoordeeld; de gebeurtenis is echt, het beeld niet (FACTLY: een oude video uit Uttarakhand)",
+   "po": {
+    "label": "eens",
+    "opmerking": "zelfde weer, beeld vs feit"
+   }
+  }
+ ]
+}

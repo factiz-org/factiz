@@ -1,0 +1,213 @@
+{
+ "toelichting": "PLAN #32.40, de voormeting voor het beeld: per beeld waarvan de oudste pagina met hetzelfde beeld (Google Vision, zonder factchecksites, de datum uit de pagina zelf) minstens een week ouder is dan de factcheck, of die pagina het echte verhaal geeft, gelezen tegen wat M4FC over het beeld zegt (datum, plek, gebeurtenis). Alleen op de titel en het adres; gelezen door Claude.",
+ "labels": {
+  "1049": {
+   "label": "echt verhaal",
+   "toelichting": "Ursula Andress in What's My Line, het echte beeld van een actrice uit de jaren zestig, niet Sonia Gandhi"
+  },
+  "1052": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Crowd - YouTube"
+  },
+  "1078": {
+   "label": "echt verhaal",
+   "toelichting": "een fotogalerij van Jansatta uit juli 2016 met Kejriwal; het beeld is van 2016, niet van oud en nieuw 2021"
+  },
+  "1134": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Animal rights activists hold vigil for herd of cows returned ... - YouTube"
+  },
+  "1141": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: What is a snapshot vs...... - Ugly Hedgehog"
+  },
+  "1165": {
+   "label": "onduidelijk",
+   "toelichting": "een filmpje van Steve Harvey over een zwangerschapstest; uit de titel niet te zien of het hetzelfde beeld is"
+  },
+  "1173": {
+   "label": "onduidelijk",
+   "toelichting": "een Japanse blog met een foto van een weg; uit de titel niet te zien"
+  },
+  "1174": {
+   "label": "onduidelijk",
+   "toelichting": "een filmpje over mooie slangen; uit de titel niet te zien of het de gouden slang is"
+  },
+  "1205": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Devidhura's stone-pelting festival: Only in India! - YouTube"
+  },
+  "1208": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to Have a Good Conversation | Celeste Headlee - YouTube"
+  },
+  "1263": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "1299": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Steeples - Song with Lyrics by Ben Sollee - Apple Music"
+  },
+  "1300": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: U.S. Marine Corps honors dog for wartime bravery - YouTube"
+  },
+  "1303": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Yogi Adityanath name change funny memes || kal ka londa - YouTube"
+  },
+  "1326": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: A Brief History of Media - Dan Gillmor - YouTube"
+  },
+  "1330": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Kiss of Love (feat. Nick Cave) - YouTube"
+  },
+  "1354": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Pakistan Flag Seen At Protest In Srinagar - YouTube"
+  },
+  "1356": {
+   "label": "onduidelijk",
+   "toelichting": "een filmpje over Dhoni uit 2013; de titel zegt niet waar het beeld vandaan komt"
+  },
+  "1390": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "1419": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Tabloid (thing) - Everything2"
+  },
+  "1438": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "1453": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to pronounce PLANTATION in British English - YouTube"
+  },
+  "1457": {
+   "label": "niet",
+   "toelichting": "de oudste pagina is een factcheck van Alt News die door het filter glipte, dus geen eerste-dag-bron"
+  },
+  "1460": {
+   "label": "echt verhaal",
+   "toelichting": "Modi met een boek in 2013, ruim voor de pandemie"
+  },
+  "1481": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Eid al-Adha celebrated by Muslims in Bangladesh, Pakistan and India"
+  },
+  "1506": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Meaning of street - YouTube"
+  },
+  "1542": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "1555": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Crowd - YouTube"
+  },
+  "1573": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Crowd - YouTube"
+  },
+  "1581": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Sohna Road Corridor: Vatika Chowk to Sohna - YouTube"
+  },
+  "1611": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: US President Barak Obama on Dr B R Ambedkar - YouTube"
+  },
+  "1641": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Bookless library brings the future of learning to local community"
+  },
+  "1672": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Kangana Ranaut - Biography - YouTube"
+  },
+  "1679": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "1680": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Turban 101: Unraveling Turban Truths - NBC News"
+  },
+  "1690": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Priesthood- A Sacred Gift - YouTube"
+  },
+  "1727": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Groom House LIVE GROOMING - YouTube"
+  },
+  "1733": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Junction - on the edge of the edge - YouTube"
+  },
+  "1778": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Smriti Irani & Husband Zubin Irani's PDA On Social Media Will Make ..."
+  },
+  "1787": {
+   "label": "echt verhaal",
+   "toelichting": "Courthouse News op 16 augustus 2021 over de val van Kabul: de echte foto van de Taliban op het vliegveld, zonder Cybertruck"
+  },
+  "1790": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: HOLY VIRGIN MARY ع Official Music Video - YouTube"
+  },
+  "1857": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Beer Styles 101 - YouTube"
+  },
+  "1862": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: The Ox (Stereo Version) - YouTube"
+  },
+  "1881": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Funeral Home QR Codes on Memorial Folders - YouTube"
+  },
+  "4169": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to take FAST SCREENSHOTS on PC (AUTOSAVE) - YouTube"
+  },
+  "4200": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: How to Set a Casual Dinner Table - YouTube"
+  },
+  "4212": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Winter Storm Diego Still Trouble In The South, Snowstorms Out West ..."
+  },
+  "4221": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Soldier (1998) Official Trailer - Kurt Russell, Jason Scott Lee Movie HD"
+  },
+  "4277": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Sustainable U Tree Pruning Basics - YouTube"
+  },
+  "4279": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Quick and Easy Pasta Recipe - YouTube"
+  },
+  "4901": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: LEISURE - Slipping Away (Official Audio) - YouTube"
+  },
+  "4976": {
+   "label": "niet",
+   "toelichting": "de titel van de oudste pagina gaat over iets anders: Wadanohara and The Great Blue Sea [Let's Play Part 1] - YouTube"
+  }
+ }
+}

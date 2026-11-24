@@ -1,0 +1,82 @@
+---
+// De eigen factchecks van Factiz (PLAN #37.4, B82, DESIGN §4x): dezelfde kaarten als het archief en een dossier (`Rij.jsx`;
+// PO 2026-11-21: "zullen we alles een beetje gelijk trekken"), met het kleine zegel en het oordeel als stempeltje, zodat
+// een eigen check ook in grijstinten te herkennen is (D12), en de kop die zegt wat we vonden. Alleen in de taal van de checks; een lijst met alleen concepten is nooit vindbaar. Ernaast de zijkolom van Factiz
+// Radar (PO 2026-11-19: "Ja, bouw het"): hoe het werkt, wat we vonden, de dossiers en een tip, in de kaarten van de context
+// naast een factcheck; op een telefoon onder de lijst.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import Zegel from '../eigen/Zegel.astro';
+import Rij from '../Rij.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { pad } from '../../../lib/talen.js';
+import Pijl from '../Pijl.astro';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+// vindbaar alleen met een check die zoekmachines in deze taal zien: een gepubliceerde in deze taal zelf, of een vertaling die
+// de redactie las (#37.8, PLAN #37.11); een lijst met alleen ongelezen machinevertalingen of concepten niet
+const gepubliceerd = g.checks.some((c) => c.vindbaar);
+// de Radar van een jaar of een maand (PLAN #37.11): dezelfde lijst, met de periode in de kop en het kruimelpad
+const per = g.periode;
+const titel = per ? `${g.titel} · ${per.tekst}` : g.titel;
+const delen = per ? ['radar', per.jaar, per.maand] : ['radar'];
+const z = g.zijkolom;
+// in een taal met vertaalde checks per groep (B85): eerst uit deze taal, dan internationaal, dan uit andere landen; met
+// maar één groep geen koppen
+const GROEPEN = ['hier', 'internationaal', 'elders'];
+const groepen = GROEPEN.map((naam) => [naam, g.checks.filter((c) => (c.groep ?? 'hier') === naam)]).filter(([, l]) => l.length);
+const koppen = groepen.length > 1;
+const gevonden = z ? [[t('filter_oordeel'), z.oordelen], [t('filter_soort'), z.soorten], [t('filter_vorm'), z.vormen]].filter(([, l]) => l.length) : [];
+---
+<Site titel={titel} hier="eigen" taal={taal} delen={delen} aangeboden={gepubliceerd ? [taal] : []} omschrijving={g.inleiding}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={per ? [[g.titel, pad(taal, 'radar')], per.maand ? [per.jaar, per.jaar_href] : [per.jaar],
+      per.maand && [per.tekst]] : [[g.titel]]} />
+    {/* dezelfde kop als Dossiers en Thema's (PO 2026-11-21: "gelijk trekken"), met het zegel klein ervoor (D12) */}
+    <header class="paginakop">
+      <h1 class="groot-kop flex items-center gap-3"><Zegel id="zegel-lijst" klasse="fz-zegel-kop" />{titel}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{g.inleiding}</p>
+    </header>
+    <div class="mt-2 grid gap-10 lg:grid-cols-[minmax(0,1fr)_17rem]">
+    <div class="min-w-0">
+    {groepen.map(([groep, lijst], gi) => (<>
+    {koppen && <h2 class:list={['lijstkop', { 'mt-6': gi > 0 }]}>{t(`radar_groep_${groep}`)}</h2>}
+    <ol class="rijen">{lijst.map((c) => <Rij r={c.rij} />)}</ol>
+    </>))}
+    </div>
+
+    {z && (
+      <aside class="ck-rij content-start" aria-label={g.titel}>
+        {z.maanden?.length > 0 && (
+          <section class="ck" aria-labelledby="radar-maanden">
+            <h2 class="ck-vraag" id="radar-maanden">{t('radar_maanden_kop')}</h2>
+            <ul class="fz-radar-tellingen">{z.maanden.map((m) => <li><a href={m.href} aria-current={per?.href === m.href ? 'page' : undefined}><span>{m.naam}</span><span class="getal">{m.aantal}</span></a></li>)}</ul>
+          </section>
+        )}
+        {gevonden.length > 0 && (
+          <section class="ck" aria-labelledby="radar-gevonden">
+            <h2 class="ck-vraag" id="radar-gevonden">{t('radar_gevonden_kop')}</h2>
+            {gevonden.map(([kop, lijst]) => (
+              <div><p class="ck-noot">{kop}</p>
+                <ul class="fz-radar-tellingen">{lijst.map((r) => <li><a href={r.href}><span>{r.naam}</span><span class="getal">{r.aantal}</span></a></li>)}</ul></div>
+            ))}
+            <a class="ck-link" href={z.archief}>{t('radar_archief')} <Pijl /></a>
+          </section>
+        )}
+        {z.dossiers.length > 0 && (
+          <section class="ck" aria-labelledby="radar-dossiers">
+            <h2 class="ck-vraag" id="radar-dossiers">{t('radar_dossiers_kop')}</h2>
+            <ul class="fz-radar-tellingen">{z.dossiers.map((d) => <li><a href={d.href}><span>{d.naam}</span><span class="getal">{d.aantal}</span></a></li>)}</ul>
+          </section>
+        )}
+        <section class="ck" aria-labelledby="radar-tip">
+          <h2 class="ck-vraag" id="radar-tip">{t('radar_tip_kop')}</h2>
+          <p class="ck-zin">{t('radar_tip_tekst')}</p>
+          <a class="knop knop-primair justify-self-start" href={z.tip.href}>{t('radar_tip_knop')}</a>
+          <p class="ck-noot"><span class="font-[family-name:var(--mono)] select-all">{z.tip.adres}</span></p>
+        </section>
+      </aside>
+    )}
+    </div>
+  </div>
+</Site>

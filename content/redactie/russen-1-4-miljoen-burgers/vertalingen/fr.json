@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "Le chiffre de 1,4 million de Russes concerne les soldats blessés et tombés au combat, pas les civils morts",
+  "oordeel_zin": "Un million et demi correspond à peu près au nombre de soldats russes tués, blessés ou disparus ; les morts au combat sont au plus d'environ 450 000, et parmi les civils en Russie, plus de 1 400 ont été tués selon le décompte de Novaja Gazeta Europa [1] [5].",
+  "bewering": "Où est l'indignation quand des civils russes meurent ? Près d'un million et demi de Russes ont perdu la vie.",
+  "kort": "Une publication sur X du 22 octobre affirmait que près d'un million et demi de Russes étaient morts, dans une comparaison avec les victimes civiles à Gaza [7]. Le chiffre de 1,4 million est une estimation des soldats russes tués, blessés ou disparus ; selon l'institut américain CSIS, 400 000 à 450 000 sont tombés au combat [1]. Novaja Gazeta Europa a recensé au moins 1 406 civils morts en Russie jusqu'en mai [5].",
+  "tekst": "Le 22 octobre à 9 h 08, un compte sur X a demandé pourquoi on verse des larmes pour les victimes civiles à Gaza, mais pas quand des civils russes meurent [7]. Il a ajouté que près d'un million et demi de Russes avaient perdu la vie [7]. La publication a reçu près de 1 200 réponses [7].\n\nUn chiffre de cette ampleur existe, mais il concerne des soldats, et pas seulement des morts. L'institut de recherche américain CSIS estimait au 1er juillet que la Russie avait subi environ 1,4 million de pertes militaires de février 2022 à juin 2026 [1]. Y sont comptés les soldats tués, blessés ou disparus [1]. Selon le CSIS, 400 000 à 450 000 sont tombés au combat [1].\n\nL'état-major général ukrainien tient son propre décompte. Le 22 octobre, il affichait 1 572 790 militaires russes [4]. La page ne précise pas si ce total réunit morts et blessés [4]. C'est le décompte d'une partie au conflit, pas une estimation indépendante.\n\nCombien de soldats russes sont morts avec certitude, Mediazona et le service russe de la BBC le comptent nom par nom. Ils s'appuient sur des avis de décès, des messages de proches, des médias locaux et des communications d'autorités régionales [3]. Jusqu'au 23 octobre inclus, ils en avaient trouvé 282 993 [2]. Ils présentent eux-mêmes ce chiffre comme un minimum : le nombre réel est selon eux probablement nettement plus élevé [2].\n\nIl ne s'agit donc pas de civils. Novaja Gazeta Europa, un journal russe qui travaille depuis l'étranger, a recensé jusqu'au 11 mai 2026 au moins 1 406 civils morts en Russie et en Crimée occupée depuis 2022 [5]. Parmi eux, 524 ont été tués dans la région de Koursk, dans la partie que l'Ukraine a tenue de août 2024 à mars 2025 [5]. Le journal juge son propre décompte trop bas, car les autorités ne signalent pas toutes les victimes [5]. Le ministère russe des Affaires étrangères parle de plus de 8 000 civils morts ; selon le journal, le ministère compte probablement aussi des habitants de territoires que la Russie a occupés après 2022 [5].\n\nMême avec ce chiffre le plus élevé, l'écart reste grand. Un million et demi, c'est près de 190 fois 8 000, et plus de mille fois le décompte de Novaja Gazeta Europa.\n\nLa confusion entre victimes et morts n'est pas nouvelle. En mars 2025, Nieuwscheckers a vérifié un message qui évoquait un million de morts dans la guerre ; il y en avait alors au plus 344 000, selon eux [6].",
+  "niet_weten": "Nous ne savons pas combien de soldats russes sont réellement tombés au combat : les chiffres vont des 282 993 connus nom par nom jusqu'à 450 000 selon le CSIS. Le nombre de civils russes morts est lui aussi incertain, et les territoires que l'on inclut changent beaucoup les choses. Nous ne savons pas d'où la publication tenait ce chiffre.",
+  "bereik": "234 mentions J'aime et 1 197 réponses au 18 novembre",
+  "nog_uitzoeken": [
+   "Ce que l'état-major général ukrainien compte exactement comme pertes : les morts et les blessés, et aussi les prisonniers ?",
+   "Le chiffre de Mediazona sur leur propre page. Leur page du 6 novembre indique 272 100 cas avec une date de décès connue.",
+   "D'où le ministère russe des Affaires étrangères tire ses 8 000 civils morts.",
+   "Le chiffre existe, mais pas pour les morts ni pour les civils. Nous avons choisi faux ; trompeur se défend aussi."
+  ],
+  "tijdlijn": [
+   "Novaja Gazeta Europa recense au moins 1 406 civils morts en Russie et en Crimée depuis 2022 [5].",
+   "Le CSIS estime à environ 1,4 million les pertes militaires russes, dont 400 000 à 450 000 tués au combat [1].",
+   "Une publication néerlandaise sur X affirme que près d'un million et demi de Russes sont morts [7].",
+   "Le décompte de l'état-major général ukrainien s'établit à 1 572 790 militaires russes [4].",
+   "Mediazona et la BBC connaissent nom par nom 282 993 militaires russes tombés au combat, jusqu'au 23 octobre inclus [2]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 22 octobre 2026, 9 h 08."
+  ],
+  "beeld_alt": [
+   "Une publication sur X affirmant que près d'un million et demi de Russes sont morts, dans une comparaison avec Gaza. Tampon : FAUX."
+  ],
+  "rekensom": [
+   [
+    "Pertes militaires russes, février 2022 à juin 2026 (CSIS)",
+    "tués, blessés et disparus ensemble",
+    "environ 1,4 million"
+   ],
+   [
+    "Militaires russes tombés au combat, même période (CSIS)",
+    "estimation",
+    "400 000 à 450 000"
+   ],
+   [
+    "Militaires russes tombés au combat connus nom par nom, jusqu'au 23 octobre inclus (Mediazona et BBC)",
+    "décompte à partir de sources ouvertes, un minimum",
+    "282 993"
+   ],
+   [
+    "Civils morts en Russie et en Crimée, jusqu'au 11 mai 2026 (Novaja Gazeta Europa)",
+    "882 d'après des signalements plus 524 à Koursk",
+    "au moins 1 406"
+   ],
+   [
+    "Un million et demi face aux civils morts",
+    "1 500 000 divisé par 1 406, et par 8 000",
+    "plus de 1 000 fois, et près de 190 fois"
+   ]
+  ]
+ }
+}

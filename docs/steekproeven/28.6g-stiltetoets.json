@@ -1,0 +1,14 @@
+{
+ "toelichting": "Labels op de `matched` van de stiltetoets (PLAN.md #28.6 g, BENCHMARK §95), gelabeld door Claude op 2026-10-13 met stuk en claimtekst naast elkaar. Terecht: het stuk doet echt de gecheckte bewering (overstromingen in Maranhão; de Telugu-claim over de politie in Assam, letterlijk met 'Claim:' ervoor; de Tamil-peiling over Stalin, identiek). Vals: een webwinkelrecensie tegen een 'claim' die zelf een recensie is, van uitgever 'Etsy' (tripatourium.com) in de ClaimReview-feed. 2026-11-04, na de import van route A (#32.38): vijf nieuwe matched, alle terecht; de webtekst zegt de bewering die Snopes of Full Fact controleerde (het citaat van Aristoteles, Trump en de hoogste toren, Trump en de straf voor abortus, de rat die zich wast, en in het Hindi het glas water tegen een hartaanval).",
+ "labels": {
+  "en-018611": "vals",
+  "pt-004663": "terecht",
+  "te-001769": "terecht",
+  "ta-006372": "terecht",
+  "en-086442": "terecht",
+  "en-111006": "terecht",
+  "en-112129": "terecht",
+  "pt-006532": "terecht",
+  "hi-005834": "terecht"
+ }
+}

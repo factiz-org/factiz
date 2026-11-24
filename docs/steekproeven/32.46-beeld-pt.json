@@ -1,0 +1,61 @@
+{
+ "toelichting": "PLAN #32.46 stap 3, bekende nepbeelden (pt): elk rood en oranje zonder de eigen check als bron en elk groen, blind gelezen door een deelagent; het beeld hoort bij de bewering (BENCHMARK §234).",
+ "labels": {
+  "N:002acd40a4b0#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het alarm klopt (Polígrafo: een schietoefening in Wonsan, Noord-Korea, april 2017), maar de enige tegensprekende bron, Estadão, gaat over een andere video (een parade in Pyongyang, oktober 2020, gedeeld als arsenaal van Israël) en zegt niets over deze foto of over Iran."
+  },
+  "N:05bccac51b46#C": {
+   "label": "bewijst",
+   "toelichting": "De check van PolitiFact uit de database (onwaar) toont dat de paus op 26 mei 2014 in Yad Vashem de hand kust van Holocaustoverlevende Eliezer Grynfeld, niet van Rockefeller of Rothschild; dezelfde foto als bij Polígrafo."
+  },
+  "N:0e2b53de603e#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Observador en USA Today tonen dat de foto het schip Vlora met Albanese vluchtelingen op weg naar Italië in 1991 is, niet een boot naar de Algarve."
+  },
+  "N:1744466dff75#C": {
+   "label": "bewijst",
+   "toelichting": "USA Today en AFP melden dat Trump na zijn veroordeling niet is opgepakt en dat het rondgaande beeld met AI is gemaakt, wat overeenkomt met de eigen check (manipulado)."
+  },
+  "N:33ad6f60b142#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos toont dat de foto uit 2010 komt (vaccinatiecampagne tegen H1N1 en hepatitis B bij Santos), niet van een coronavaccin, zoals ook de eigen check zegt."
+  },
+  "N:34e5278fa442#C": {
+   "label": "bewijst",
+   "toelichting": "Africa Check, AFP en Snopes zeggen dat dezelfde foto geen jonge ouders toont maar familieleden (broers en zussen), wat de bewering direct weerlegt."
+  },
+  "N:437564884c2d#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Checamos, Lupa en G1 tonen dat de foto van de menigte van de March for Our Lives tegen wapengeweld in 2018 is, niet van een bijeenkomst voor Trump in december 2020."
+  },
+  "N:482566eb0c5e#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa (en Fake History Hunter) toont dat het beeld een scène is uit de Italiaanse film 'Oggi a Berlino' (1962), geen echte vlucht uit 1955."
+  },
+  "N:59c5aea44247#C": {
+   "label": "bewijst",
+   "toelichting": "De checks uit de database (Full Fact, Africa Check) noemen de bewering onwaar: de foto's tonen Albanezen op het schip Vlora in 1991, niet Europeanen op de vlucht in de Tweede Wereldoorlog."
+  },
+  "N:5cc24041c1bd#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Reuters, AP, Maldita, Newtral en anderen tonen dat de foto van de kerk in puin uit L'Aquila na de aardbeving van 2009 komt en dat het Christusbeeld is toegevoegd, niet Oekraïne."
+  },
+  "N:63db0b5660d6#C": {
+   "label": "bewijst",
+   "toelichting": "Maldita en Newtral tonen dat de foto van Feijóo een montage is: in het origineel uit 2022 droeg hij een wit T-shirt zonder ETA-opdruk."
+  },
+  "N:727859f6dc03#C": {
+   "label": "set fout",
+   "toelichting": "De eigen check van Polígrafo is 'Verdadeiro': de foto komt uit het archief van British Airways (Imperial Airways-tijd), gedateerd 1920–1929, en Snopes acht gebruik in 1936 aannemelijk; het groen klopt."
+  },
+  "N:77ba70a46f4a#C": {
+   "label": "set fout",
+   "toelichting": "De eigen check van Polígrafo is 'Verdadeiro': het beeld is een echte, wijdere opname van hetzelfde zwarte gat in M87 die de Chandra-sterrenwacht publiceerde, dus het bericht is volgens de redactie waar en hoort niet in een set nepbeelden."
+  },
+  "N:d914571f7cf3#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo: de foto van de Seine met kristalhelder turquoise water en de Eiffeltoren is met AI gemaakt (vier dagen eerder als AI-kunst gedeeld), en op 28 juli was het water nog niet goed genoeg; de bronnen van Factiz bevestigen alleen de latere zwemwedstrijden, niet het beeld."
+  }
+ }
+}

@@ -1,0 +1,188 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/rode-lijn-video/dossier.md.
+
+sleutel = "rode-lijn-video"
+status = "gepubliceerd"
+taal = "nl"
+adres = "rode-lijn-activisten-politie-video"
+adres_en = "red-line-activists-police-video"
+kop = "Video van 'Rode Lijn-activisten' en de politie is gefilmd bij het datacenterprotest in Sloterdijk"
+oordeel = "misleidend"
+oordeel_zin = "De video is echt, maar komt van de bezetting van een bouwplaats op 6 november en stond al op X voordat de Rode Lijn begon [8]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Rode lijn activisten waarschuwen de politie."
+platform = "X"
+eerst_gezien = "2026-11-08"
+posts = 1
+bereik = "68.296 keer bekeken op 18 november"
+
+kort = """
+Op 8 november ging een video rond van een demonstrant die een agent toespreekt, als beeld van Rode Lijn-activisten. De \
+scène is twee dagen eerder gefilmd, bij de bezetting van de bouwplaats van een datacenter voor Microsoft in Sloterdijk \
+[1] [2]. De video stond al op X voordat de Rode Lijn-demonstratie op het Museumplein begon [5] [8]."""
+
+tekst = """
+Op zondag 8 november om 12:23 verscheen op X een video van 28 seconden met de tekst "Rode lijn activisten waarschuwen \
+de politie." [8]. Een half uur later begon op het Museumplein in Amsterdam de vierde Rode Lijn-demonstratie [5].
+
+De scène zelf staat ook bij AT5. Die zette haar op vrijdag 6 november om 15:49 op X, als verhitte discussie tussen een \
+agent en een demonstrant [2]. In het liveblog van die middag beschrijft AT5 hoe een demonstrant een agent zegt dat hij \
+moet uitkijken, waarop de agent vraagt of hij bedreigd wordt [1]. Dat was buiten de hekken van de bouwplaats aan de \
+Plimsollweg, terwijl de ME het terrein ontruimde [1].
+
+Die bezetting was een actie van de groep Geef Tegengas tegen de bouw van een datacenter voor Microsoft [3]. Ook \
+pro-Palestijnse demonstranten deden mee, en op het terrein hingen Palestijnse vlaggen [3] [9]. De ME gebruikte \
+wapenstokken en pepperspray [9]. De politie hield 218 mensen aan, die een dag later allemaal weer vrij waren [4].
+
+De video in de post stond al op zaterdag 7 november om 18:46 op X, op een ander account. Dat leiden we af uit het \
+nummer dat X aan elke video geeft, want daarin zit het moment van uploaden. Dezelfde rekensom geeft voor de video van \
+AT5 precies de tijd van hun post [2] [8].
+
+Bij de Rode Lijn zelf trad de politie ook op. Om 15:34 gebruikte ze op de Overtoom wapenstokken bij een aanhouding [6]. \
+Dat kan de video in de post niet zijn, want die stond er drie uur eerder [8]. De politie noemde de demonstratie rustig \
+en beheerst, met vier aanhoudingen [6]. Volgens de organisatie liepen er zeker 200.000 mensen mee [7]. De route ging \
+van het Museumplein door Oud-West en terug, niet door Sloterdijk [5]."""
+
+niet_weten = """
+We weten niet wie de video als eerste een andere uitleg gaf. Het account dat haar op 7 november op X zette, vonden we, \
+maar niet de post zelf, dus ook niet wat erbij stond. Of de demonstrant later bij de Rode Lijn liep, weten we niet. Daar \
+gaat de post ook niet over: ze laat een scène van 6 november zien alsof ze van 8 november is."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat er bij de post van 7 november stond. We vonden het account, maar niet de post.",
+  "Wie de post leest als 'dit gebeurde op de Rode Lijn', kan onwaar verdedigen. Wij kozen misleidend.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 8 november 2026, 12:23."
+alt = "Stilstaand beeld uit de video: een demonstrant en een agent bij een hek. Stempel: MISLEIDEND."
+
+[[beeld]]
+rol = "origineel"
+link = "https://x.com/AT5/status/2118717512061706573"
+stempel = false
+bijschrift = "AT5 op X, 6 november 2026, 15:49: dezelfde woordenwisseling bij de bouwplaats in Sloterdijk."
+alt = "De video van AT5 van de woordenwisseling tussen een demonstrant en een agent."
+
+[[tijdlijn]]
+datum = "2026-11-06"
+tijd = "15:49"
+wat = "AT5 zet de video van de woordenwisseling bij de bouwplaats op X [2]."
+
+[[tijdlijn]]
+datum = "2026-11-07"
+tijd = "16:49"
+wat = "De 218 aangehouden demonstranten zijn allemaal weer vrij [4]."
+
+[[tijdlijn]]
+datum = "2026-11-07"
+tijd = "18:46"
+wat = "De video uit de post komt op X, op een ander account [8]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "12:23"
+wat = "De post met de tekst over Rode Lijn-activisten [8]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "13:00"
+wat = "De Rode Lijn-demonstratie begint op het Museumplein [5]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "15:34"
+wat = "De politie gebruikt wapenstokken bij een aanhouding op de Overtoom [6]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "AT5"
+titel = "150 tot 200 demonstranten opgepakt op bouwterrein datacenter Sloterdijk"
+datum = "2026-11-06"
+url = "https://www.at5.nl/artikelen/240894/protest-datacenter-amsterdam-politie-treedt-op"
+archief = "https://web.archive.org/web/20261118033656/https://www.at5.nl/artikelen/240894/protest-datacenter-amsterdam-politie-treedt-op"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "AT5 op X"
+titel = "Verhitte discussie tussen agent en demonstrant"
+datum = "2026-11-06"
+url = "https://x.com/AT5/status/2118717512061706573"
+archief = "https://web.archive.org/web/20261119151005/https://cdn.syndication.twimg.com/tweet-result?id=2118717512061706573&token=54w5azqkalm&lang=nl"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "NOS"
+titel = "ME ingezet bij ontruiming bezet bouwterrein datacenter Microsoft in Amsterdam"
+datum = "2026-11-06"
+url = "https://nos.nl/artikel/2638275-me-ingezet-bij-ontruiming-bezet-bouwterrein-datacenter-microsoft-in-amsterdam"
+archief = "https://web.archive.org/web/20261115140141/https://nos.nl/artikel/2638275-me-ingezet-bij-ontruiming-bezet-bouwterrein-datacenter-microsoft-in-amsterdam"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "ANP via Hart van Nederland"
+titel = "Alle 218 aangehouden demonstranten bij datacentrum weer vrij"
+datum = "2026-11-07"
+url = "https://www.hartvannederland.nl/112/crime/artikelen/218-aangehouden-demonstranten-datacentrum-weer-vrij"
+archief = "https://web.archive.org/web/20261115053945/https://www.hartvannederland.nl/112/crime/artikelen/218-aangehouden-demonstranten-datacentrum-weer-vrij"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "AT5"
+titel = "Vanmiddag weer Rode Lijn-protest, demonstratie start op Museumplein"
+datum = "2026-11-08"
+url = "https://www.at5.nl/artikelen/240916/vanmiddag-weer-rode-lijn-protest-demonstratie-start-op-museumplein"
+archief = "https://web.archive.org/web/20261111020115/https://www.at5.nl/artikelen/240916/vanmiddag-weer-rode-lijn-protest-demonstratie-start-op-museumplein/"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "AT5"
+titel = "Liveblog: politie spreekt van goed verlopen Rode Lijn-demonstratie"
+datum = "2026-11-08"
+url = "https://www.at5.nl/artikelen/240920/liveblog-politie-spreekt-van-goed-verlopen-rode-lijn-demonstratie"
+archief = "https://web.archive.org/web/20261118100721/https://www.at5.nl/artikelen/240920/liveblog-politie-spreekt-van-goed-verlopen-rode-lijn-demonstratie"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Zeker 200.000 mensen bij Rode Lijn-demonstratie in Amsterdam, zegt organisatie"
+datum = "2026-11-08"
+url = "https://nos.nl/artikel/2638553-zeker-200-000-mensen-bij-rode-lijn-demonstratie-in-amsterdam-zegt-organisatie"
+archief = "https://web.archive.org/web/20261113212149/https://nos.nl/artikel/2638553-zeker-200-000-mensen-bij-rode-lijn-demonstratie-in-amsterdam-zegt-organisatie"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "X"
+titel = "De post met de bewering, en het nummer van de video erin"
+datum = "2026-11-08"
+prive = true
+archief = "https://web.archive.org/web/20261119144757/https://cdn.syndication.twimg.com/tweet-result?id=2119390304184782910&token=54y9e9o3g2u&lang=nl"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "VRT NWS"
+titel = "Betogers breken door de hekken van terrein datacenter Microsoft in Amsterdam"
+datum = "2026-11-06"
+url = "https://www.vrt.be/vrtnws/nl/2026/11/06/betogers-breken-door-de-hekken-van-terrein-datacenter-microsoft/"
+archief = "https://web.archive.org/web/20261108014515/https://www.vrt.be/vrtnws/nl/2026/11/06/betogers-breken-door-de-hekken-van-terrein-datacenter-microsoft/"

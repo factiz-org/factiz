@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Şüpheli bir hırsızı durduran kalabalığın videosu Milano'dan değil, Málaga'dan geliyor",
+  "oordeel_zin": "Video, 17 Ekim'de Milano'daki bir çeteyi değil, 16 Temmuz'da Málaga'da bir kuyumcuya yönelik soygun girişimini gösteriyor [1] [4].",
+  "bewering": "Bir video, 17 Ekim'de Milano'da İtalyanların Filistin yanlısı bir çeteyi durdurduğunu gösteriyor.",
+  "kort": "20 Ekim'den beri X'te, İtalyanların Milano'da Filistin yanlısı bir çeteyi durdurduğu görüntüleri olarak bir video dolaşıyor [4]. Görüntüler İspanya'nın Málaga kentinden geliyor; orada mahalle sakinleri 16 Temmuz'da bir kuyumcuyu soymak isteyen bir adamı yakaladı [1]. Milano'daki 17 Ekim olayları hayat pahalılığına karşı bir protestoyla başladı ve Avvenire'ye göre olay çıkaranlar bayrak ya da siyasi sembol taşımıyordu [2] [3].",
+  "tekst": "19 Ekim'i 20 Ekim'e bağlayan gece saat 02:07'de X'te, 79 saniyelik bir video içeren Felemenkçe bir paylaşım yayımlandı [4]. Metinde İtalyan şehirlerindeki kefiyeli çetelerden ve Milano'da \"fripalestin\" anarşistlerine boyun eğmeyen İtalyanlardan söz ediliyor [4]. Altında #Milano ve #17octobre etiketleri yer alıyor [4]. Paylaşım 18 Kasım'da 105.671 kez görüntülenmişti [4].\n\nAynı video birkaç saat önce İngilizce olarak dolaşıyordu. Visegrád 24 hesabı videoyu 19 Ekim'de saat 23:07'de, yabancı bir hırsızı yakalayan İtalyan vatandaşlar olarak paylaştı [5]. 20 Ekim tarihli Fransızca bir paylaşım da aynı şeyi yaptı, aynı uzunlukta bir videoyla [6].\n\nSahne İtalya'da çekilmedi. El Español'un bir gün sonra yazdığına göre, 16 Temmuz Perşembe günü saat 21:00 civarında Málaga'da bir adam Calle Martínez Maldonado'daki bir kuyumcuyu soymaya çalıştı [1]. Adam, motosiklette bekleyen suç ortağına doğru yürüyerek kaçtı, yolda ona çelme takıldı ve scooter kullanan biri ona çarptı [1]. Ardından mahalle sakinleri onu tutarken suç ortağı oradan uzaklaştı [1]. Bir mahalle sakini olanları görüntüledi [1]. Policía Nacional adamı gözaltına aldı ve ikinci şüpheliyi aramayı sürdürdü [1].\n\nMilano'da 17 Ekim Cumartesi günü gerçekten karışıklık yaşandı. Hayat pahalılığına karşı yaklaşık 5.000 kişilik bir yürüyüş, Piazza del Duomo çevresinde olaylara dönüştü [2]. Göstericilerin bir kısmı, çoğunlukla yüzleri kapalı gençler, taş attı ve dükkânları yağmaladı [2]. Polis yaklaşık elli kişiyi gözaltına aldı [2] [3]. Avvenire'ye göre olay çıkaranlar çok gençti, siyah giyinmişti ve ellerinde bayrak ya da siyasi sembol yoktu [3]. Il Post ve Avvenire Filistinli gruplardan söz etmiyor [2] [3].\n\nDolayısıyla paylaşım, üç ay önce İspanya'da yaşanan bir yakalamayı Milano olaylarından bir sahne olarak sunuyor [1] [4]. Görüntülerin kendisi gerçek [1].",
+  "niet_weten": "Videoya ilk olarak kimin İtalyanca bir açıklama eklediğini bilmiyoruz. Bulduğumuz en eski kopya 19 Ekim'de saat 22:40'ta X'teydi, ancak bu gönderi artık görüntülenemiyor, dolayısıyla gönderide ne yazdığını bilmiyoruz. Videoyu Temmuz ayında kimin çektiğini bilmiyoruz.",
+  "bereik": "18 Kasım'da 105.671 kez görüntülendi",
+  "nog_uitzoeken": [
+   "En eski kopyada ne yazdığı, yani 19 Ekim'de saat 22:40'taki gönderi. Bu gönderi artık görüntülenemiyor."
+  ],
+  "tijdlijn": [
+   "Málaga'da bir kuyumcuya soygun girişimi; mahalle sakinleri polis gelene kadar adamı tutuyor [1].",
+   "El Español soygunu ve gözaltını yazıyor [1].",
+   "Milano'da hayat pahalılığına karşı bir yürüyüş olaylara dönüşüyor [2] [3].",
+   "Visegrád 24 videoyu İngilizce olarak, bir soyguncuyu yakalayan İtalyan vatandaşlar diye paylaşıyor [5].",
+   "Milano ve 17 Ekim hakkındaki Felemenkçe paylaşım [4].",
+   "Aynı 79 saniyelik videoyla Fransızca bir paylaşım [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 20 Ekim 2026, 02:07.",
+   "El Español, 17 Temmuz 2026: Málaga'da kuyumcu soygunu sonrası kaçma girişimi. Fotoğraf: El Español."
+  ],
+  "beeld_alt": [
+   "Videodan bir kare: sokakta bir adamın çevresinde toplanmış kalabalık. Damga: YANLIŞ.",
+   "El Español'un fotoğrafı: Málaga'da soygun girişiminden sonra kaçan adam."
+  ]
+ }
+}

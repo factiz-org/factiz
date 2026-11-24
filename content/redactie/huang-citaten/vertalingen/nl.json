@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck huang-citaten van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "f6c108d1598d69c5",
+ "veldafdrukken": {
+  "kop": "8352433f95dc153b",
+  "oordeel_zin": "7fe4e7e4003d7324",
+  "bewering": "7a68058bd4c0c68d",
+  "kort": "419b49c08384fd84",
+  "tekst": "859bdcf1a7f3cfeb",
+  "niet_weten": "16a6e002a397d90a",
+  "bereik": "ede32074295547d0",
+  "nog_uitzoeken": "7c2957ecf1bbeee9",
+  "tijdlijn": "4f215e483240391a",
+  "beeld_bijschrift": "3e9e876c810b3ee8",
+  "beeld_alt": "130ae89ac139bc3c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Deze \"officiële verklaring\" van Jensen Huang is verzonnen: Nvidia heeft haar nooit gepubliceerd",
+  "oordeel_zin": "Nvidia heeft deze verklaring nooit gepubliceerd, en de e-mail van Huang die Nvidia wel publiceerde, drie dagen vóór de datum op de brief, zegt het tegenovergestelde: hij bood zijn excuses aan en nam de volledige verantwoordelijkheid [1] [5].",
+  "bewering": "LAATSTE NIEUWS: JENSEN HUANG BREEKT EINDELIJK ZIJN STILTE [...]",
+  "kort": "Op 12 november toonde een bericht op X een \"officiële verklaring\" van Nvidia, gedateerd 11 november, waarin Jensen Huang de berichten over hem ontkent [6]. Nvidia heeft die nooit gepubliceerd: de newsroom bevat geen item van 11 november, en het enige bericht van Huang dat Nvidia publiceerde is een e-mail van 8 november waarin hij zijn excuses aanbood [1] [5]. In zijn eerste openbare woorden na zijn aftreden, op 17 november, schreef Huang dat hij ernstige fouten had gemaakt [7] [9].",
+  "tekst": "Op 8 november startte de raad van bestuur van Nvidia een onafhankelijk onderzoek, nadat berichten waren verschenen dat Huang het doelwit was geweest van een buitenlandse inlichtingenoperatie [2]. Diezelfde dag publiceerde Nvidia een e-mail die Huang aan het personeel had gestuurd, waarin hij zijn excuses aanbood, de volledige verantwoordelijkheid nam en volledige medewerking beloofde [1]. Op 12 november maakte Nvidia bekend dat hij was afgetreden als chief executive en als lid van de raad van bestuur [4]. Het persbericht bevat geen woorden van hem [4].\n\nOm 03:29 UTC op 12 november plaatste een account op X dat Huang \"eindelijk\" zijn stilte had verbroken [6]. Erbij zat een afbeelding van een brief onder het logo van Nvidia, getiteld \"Official Statement\", gedateerd 11 november en ondertekend door Huang, waarin hij de recente berichten over hem volledig onwaar noemt [6]. Het bericht noemde geen bron, en de maker heeft het inmiddels verwijderd [6].\n\nDe newsroom van Nvidia heeft geen item van 11 november, en geen van de vier items over het onderzoek en de wisseling aan de top bevat een ontkenning van Huang [1] [2] [3] [4] [5]. De brief spreekt ook de e-mail tegen die hij wel stuurde, drie dagen vóór de datum op de brief [1]. En er staat een tikfout in: \"cntire\" in plaats van \"entire\" [6].\n\nOp 17 november schreef Huang op zijn eigen account op X dat hij ernstige fouten had gemaakt en diep betreurde welke problemen hij voor de raad van bestuur had veroorzaakt [7] [9]. Hij zou zich vereerd voelen om terug te keren als chief executive, schreef hij, als de raad dat het beste vond [8] [9]. Diezelfde dag zei de voorzitter van de raad, Harvey Jones, dat de raad niet van plan is hem in zijn functie te herstellen [8].\n\nDe enige ontkenning vanuit de kant van Huang die we vonden kwam op 20 november, toen zijn woordvoerder de beschuldigingen in The New York Times over hoe hij met personeel omging afdeed als verzinsels [13]. Dat zijn andere berichten, gepubliceerd na de datum op de brief [13].",
+  "niet_weten": "We weten niet wie de brief heeft gemaakt, of dat die eerst ergens anders verscheen [6]. We zagen één bericht met de brief [6]. We vonden geen bericht dat Huang tussen 8 en 17 november met verslaggevers heeft gesproken [8] [9] [10].",
+  "bereik": "90 likes en 21 reacties op 19 november; op 23 november al door de maker verwijderd",
+  "nog_uitzoeken": [
+   "Wie de brief heeft gemaakt, en waar die voor het eerst verscheen, in het Engels of in een andere taal.",
+   "Hoeveel berichten de brief bevatten. We zagen er één, inmiddels door de maker verwijderd; een tweede bericht over hetzelfde onderwerp van 12 november is ook verwijderd.",
+   "Of er ook andere berichten in naam van Huang rondgingen, zoals een afscheidsbericht, en of die ook verzonnen zijn.",
+   "Of Huang iets tegen verslaggevers heeft gezegd tussen zijn e-mail van 8 november en zijn bericht van 17 november."
+  ],
+  "tijdlijn": [
+   "De raad van bestuur van Nvidia start een onafhankelijk onderzoek [2]. Nvidia publiceert Huangs e-mail aan medewerkers, met een verontschuldiging [1].",
+   "De onafhankelijke bestuursleden huren een externe advocaat en zijn kantoor in voor het onderzoek [3].",
+   "Een bericht op X toont de \"officiële verklaring\" gedateerd 11 november, waarin Huang de berichten ontkent [6].",
+   "Nvidia maakt bekend dat Huang is afgetreden; het persbericht bevat geen woorden van hem [4].",
+   "Een brief in naam van Nvidia-managers, waarin Huangs terugkeer wordt geëist, blijkt een bijna exacte kopie van een brief van OpenAI-medewerkers uit 2023 [11].",
+   "Huangs eerste openbare verklaring sinds zijn aftreden, op zijn eigen account op X [7] [9].",
+   "Voorzitter van de raad Harvey Jones: de raad is niet van plan Huang in zijn functie te herstellen [8].",
+   "Huangs woordvoerder noemt beschuldigingen in The New York Times over hoe Huang met personeel omging verzinsels [13].",
+   "President Trump zegt dat hij Huang graag een tweede kans zou zien krijgen; de raad is nog steeds niet van plan hem te herstellen [12].",
+   "Het bericht met de brief staat niet meer op X: de maker heeft het verwijderd [6]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 12 november 2026, 03:29 UTC, inmiddels door de maker verwijderd."
+  ],
+  "beeld_alt": [
+   "Een bericht op X waarin staat dat Jensen Huang zijn stilte heeft verbroken, met een afbeelding van een brief onder het logo van Nvidia, getiteld Official Statement, gedateerd 11 november 2026, waarin Huang de berichten over hem ontkent. Stempel: ONWAAR."
+  ]
+ }
+}

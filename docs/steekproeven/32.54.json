@@ -1,0 +1,550 @@
+{
+ "toelichting": "De labels van #32.54. Elk groen bij nep, met of zonder de regel (vals of set fout); bij W en W-pt elk groen dat de regel wegnam (terecht: de foto staat niet op de bevestigende pagina's; vals: ze staat er wel en de stap miste haar); elk rood en oranje zonder de eigen check als bron. Labels met `uit` komen uit 32.64, op dezelfde antwoorden.",
+ "labels": {
+  "n-sn-051#C": {
+   "label": "bewijst",
+   "toelichting": "BOOM en Alt News melden dat de foto die Dilip Ghosh in Puntor (Dakshin Dinajpur) plaatste een oude foto uit Bihar is. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-014#C": {
+   "label": "bewijst",
+   "toelichting": "India Today, Alt News, The Quint en BOOM zeggen in titel en fragment dat de man in boerka in 2017 in Caïro werd aangehouden en geen demonstrant van Jamia is. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-004#C": {
+   "label": "bewijst",
+   "toelichting": "AFP ('Old photo of Netanyahu, son circulates amid war with Hamas'), USA Today, The Times of Israel (1 december 2014) en de checks van BOOM, Newschecker en The Quint zeggen in titel en fragment dat de foto uit 2014 is en niet bij de oorlog met Hamas hoort. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-007#C": {
+   "label": "bewijst",
+   "toelichting": "De check van Quint Hindi (geopend) zegt dat de foto van de menigte met stokken de rally van Hefazat-e-Islam in Dhaka op 5 mei 2013 toont en niet Kerala; dat is dezelfde foto als in de screenshot. Het fragment dat Factiz zag was alleen de bewering, maar het adres en de pagina dragen het.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-032#C": {
+   "label": "bewijst",
+   "toelichting": "BOOM ('Viral Photo Of A Dainik Bhaskar Hoarding Targeting BJP Is Fake', morphed) en Facto News zeggen in titel en fragment dat het bord van Dainik Bhaskar bewerkt is, het onderwerp van de screenshot. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-018#C": {
+   "label": "bewijst",
+   "toelichting": "Het fragment van Times of India noemt de tweet die de video in Hyderabad plaatst en de herkomst Prayagraj; BOOM bevestigt Prayagraj (India News, 22 sept. 2019). De pagina van Times of India opende niet; het oordeel rust op titel en fragment.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-008#C": {
+   "label": "bewijst",
+   "toelichting": "India Today ('Both photos from 2020') en Newsmeter tonen dat beide foto's uit 2020 komen, dus geen voor en na onder Modi. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-041#C": {
+   "label": "bewijst",
+   "toelichting": "NewsMobile ('No, This Picture Does Not Show Rahul Gandhi Carrying A Woman') zegt in het fragment dat het acteur Jamie Dornan in een filmscène is. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-036#C": {
+   "label": "bewijst",
+   "toelichting": "India Today citeert de tweet letterlijk en zegt dat het meisje niet gewond raakte bij luchtaanvallen op Gaza; AAP zegt dat de foto niets met Gaza te maken heeft en het kind geen Palestijns kind is. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-034#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (Chilima kwam om, bevestigd door AP, BBC en de regering), maar het bekende nepbericht is de foto van het wrak die niet bij deze crash hoort; groen gaat aan het valse beeld voorbij. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-025#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint, India Today, BOOM en Vishvas News melden dat de foto van Aamir Khan bij de aarti uit 2017 is en niets met Laal Singh Chaddha te maken heeft. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-020#C": {
+   "label": "bewijst",
+   "toelichting": "De screenshot noemt de beelden 'CCTV-beelden van de helikopter die door een raket werd neergehaald'; de check van Logically Facts gaat over precies die bewering (video uit Turkije, onwaar) en AFP meldt een oude video van een neerstortende helikopter die aan Raisi werd gekoppeld. AFP en Logically Facts openden niet, dus beoordeeld op titels en fragmenten.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-006#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, India Today, Newschecker en The Quint melden dat de gewonde boer niet kapitein PPS Dhillon is; de zoon van de kapitein bevestigt dat het twee mannen zijn. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-037#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters, Poynter en Hindustan Times melden dat de foto van mensen op straat een kunstproject in Frankfurt (2014) is, geen coronaslachtoffers in China. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "w-03796#C": {
+   "label": "terecht",
+   "toelichting": "Snopes en Africa Check: de foto toont een file bij een tolplein op de G4 bij Zhuozhou in 2015, geen snelweg met 48 of 50 rijstroken; NewsMobile en Fact Crescendo noemen het misleidend. Geen pagina geopend; CongoCheck, de bron van M4FC, noemde het waar.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "w-04371#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo (geopend) oordeelt 'Verdadeiro, mas...': de foto is echt en de gemeente Figueira da Foz keurde het project goed (de oude tegels van de gesloopte gevel zijn hergebruikt). Factiz las de factcheck verkeerd als tegenspraak.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-057#C": {
+   "label": "bewijst",
+   "toelichting": "Het fragment van PesaCheck zegt dat het bord in het origineel 'Raila Odinga Way' luidt en niet 'Tialala Tibiim Way', dus de foto is bewerkt; Africa Check gaat over een andere bewerking (een slang) van hetzelfde bord. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-056#C": {
+   "label": "bewijst",
+   "toelichting": "India TV Fact Check noemt de foto waarin Modi de groet van Murmu, Dhankhar en Birla zou negeren misleidend, Youturn eveneens. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "n-sn-053#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News, Soch Fact Check, BOOM en Newschecker zeggen in titel en fragment dat de foto's van vader en dochter (Koranrecitatie) en moeder en zoon (tweede huwelijk van de moeder) met een valse bewering over huwelijken worden gedeeld. Geen pagina geopend.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "w-04544#C": {
+   "label": "terecht",
+   "toelichting": "Today en Ro zeggen dat de test onaangenaam maar niet pijnlijk hoort te zijn; een neus-keelstokje is rond 15 cm en '20 cm' en 'ondraaglijke pijn' zijn overdreven. Polígrafo (gezocht, niet geopend) noemde in juni 2020 alleen de afbeelding van de test geloofwaardig, niet de 20 cm of de pijn.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "w-04546#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo (geopend op poligrafo.iol.pt) oordeelt 'Verdadeiro, mas...': de rechtbank van Porto bevestigt het gat in het plafond in Matosinhos. Factiz vond die factcheck zelf (SIC Notícias, pagina opende niet), dus bevestigen kon.",
+   "uit": "docs/steekproeven/32.64.json"
+  },
+  "w-04280#C": {
+   "label": "terecht",
+   "toelichting": "Geen goede bron die het bericht bevestigt (alleen ttparliament.org zonder band en de check van Factly); de regel kon nergens kijken.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-03529#C": {
+   "label": "vals",
+   "toelichting": "Dezelfde wazige foto van Saturnus staat bij Snopes (saturn_30_mins_before_sunset.png); vlak beeld, PDQ zonder kwaliteit en 0 punten, dus gemist.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-03200#C": {
+   "label": "terecht",
+   "toelichting": "Snopes toont als beeld alleen een samengestelde kop (Cooper en Stapleton apart); de foto zelf staat er alleen in een ingebedde post.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-00751#C": {
+   "label": "terecht",
+   "toelichting": "Full Fact toont alleen een stockbeeld (figuurtjes op een mondkapje); de stilstaande beelden van TF1 uit het bericht staan niet als beeld op de pagina's.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-03524#C": {
+   "label": "terecht",
+   "toelichting": "CNN, Today en AP tonen andere foto's van de boom (video-stills, het kappen in Oneonta), niet de twee foto's uit de tweet. De galerij van silive.com niet nagekeken: die opent niet in de browser.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-04419#C": {
+   "label": "terecht",
+   "toelichting": "Het bericht is een schermafdruk van Google Maps uit 2016; de pagina's tonen het complex niet in deze opname.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "w-04980#C": {
+   "label": "vals",
+   "toelichting": "Dezelfde satellietbeelden van Copernicus (2 en 12 september 2023) staan bij Space.com (j79kscWTmVevVboUr9adwi); het bericht is een screenshot waarin ze een deel zijn, en de punten vonden maar 3 paren.",
+   "door": "Claude, in de browser nagekeken"
+  },
+  "N:0a36db076f46#C": {
+   "label": "bewijst",
+   "toelichting": "Chequeado en Contexto Tucumán: de beelden komen van een varkensworstproductie en een huis in Brazilië.",
+   "door": "Claude"
+  },
+  "N:1a2dc044844c#C": {
+   "label": "vals",
+   "toelichting": "Groen zonder de regel was fout: La República noemt de foto's niet van de recente winterstorm in Texas; het nieuws klopte, de foto's niet. De regel haalde het groen weg.",
+   "door": "Claude"
+  },
+  "N:002acd40a4b0#C": {
+   "label": "bewijst",
+   "toelichting": "The Quint: de foto van de kanonnen is uit 2017 en heeft niets met Iran te maken.",
+   "door": "Claude"
+  },
+  "N:0e2b53de603e#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, USA Today en PolitiFact: het schip Vlora in Bari, augustus 1991, niet op weg naar de Algarve.",
+   "door": "Claude"
+  },
+  "N:1744466dff75#C": {
+   "label": "bewijst",
+   "toelichting": "USA Today: de afbeelding is door AI gemaakt; Trump werd niet gearresteerd.",
+   "door": "Claude"
+  },
+  "N:0196d0ff06d7#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters: de beelden tonen een menigte in Buenos Aires, niet Israëli's op de vlucht.",
+   "door": "Claude"
+  },
+  "N:0408f8d992fe#C": {
+   "label": "vals",
+   "toelichting": "Groen zonder de regel was fout: Knack zegt dat de foto niet op het anti-NAVO-protest in Madrid is genomen; het protest was echt, de foto hoort er niet bij. De regel haalde het groen weg.",
+   "door": "Claude"
+  },
+  "N:09a67455fd9c#C": {
+   "label": "bewijst",
+   "toelichting": "Knack (de eigen check): deze foto heeft niets met coronavaccins te maken.",
+   "door": "Claude"
+  },
+  "N:12d72a079dec#C": {
+   "label": "bewijst",
+   "toelichting": "De checks van EFE Verifica, PolitiFact en Knack: de foto's komen van eerdere Oscaruitreikingen.",
+   "door": "Claude"
+  },
+  "N:16ac6e4577a1#C": {
+   "label": "bewijst",
+   "toelichting": "Knack (de eigen check): oude foto's uit Den Haag, Eindhoven en Tbilisi.",
+   "door": "Claude"
+  },
+  "N:1bf1defbb20d#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact en AFP: een anti-Brexitmars uit 2018, niet de betoging van 24 april 2021.",
+   "door": "Claude"
+  },
+  "N:20301e871e49#C": {
+   "label": "bewijst",
+   "toelichting": "Knack (de eigen check): de foto toont geen razend drukke winkelstraat.",
+   "door": "Claude"
+  },
+  "N:03c25f1edf44#C": {
+   "label": "vals",
+   "toelichting": "Groen zonder de regel was fout: Congo Check zegt dat de foto van Céline Dion uit 2019 is; haar ziekte is echt, de foto hoort niet bij het bericht. De regel haalde het groen weg.",
+   "door": "Claude"
+  },
+  "N:0ef8059966fa#C": {
+   "label": "bewijst niet",
+   "toelichting": "PesaCheck noemt drie andere berichten met foto's van 'Kinshasa' vals; niet nagekeken of het deze foto is (PesaCheck laat zich niet ophalen, §211). Het oranje klopt volgens Congo Check.",
+   "door": "Claude"
+  },
+  "N:0f724632899f#C": {
+   "label": "bewijst",
+   "toelichting": "CGTN, DW en La Presse: de kisten horen bij de herbegrafenis van slachtoffers van de genocide in Rwanda, mei 2019; Congo Check noemt de beelden van 2019.",
+   "door": "Claude"
+  },
+  "N:196bbf9024cd#C": {
+   "label": "bewijst niet",
+   "toelichting": "France 24 Les Observateurs gaat over andere beelden die aan Tshisekedi worden toegeschreven; het stadion in Goma staat er niet in (in de browser nagekeken). Het rood klopt volgens Congo Check.",
+   "door": "Claude"
+  },
+  "N:1f8564ae10b0#C": {
+   "label": "bewijst",
+   "toelichting": "ESPN: Al-Nassr won op 25 februari 2023 met 3-0 van Damac, niet met een historische uitslag.",
+   "door": "Claude"
+  },
+  "N:409d02c4b766#C": {
+   "label": "bewijst",
+   "toelichting": "Animal Político en Univision ontkrachten precies deze tekst ('Luto nacional en México... no hubo sobrevivientes'): de beelden zijn van een vliegtuigongeluk in Mexico uit 2018. Reuters zegt hetzelfde over de beelden.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:ec291b3ad292#C": {
+   "label": "bewijst",
+   "toelichting": "Newtral: de foto's van een menigte voor een verlicht gebouw, gedeeld als protest in Moskou waarin Russen Poetins aftreden eisen, zijn in februari 2022 in Georgië gemaakt. Dat is dezelfde vondst als de eigen check van La República (Tbilisi, 25 februari 2022).",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:34e5278fa442#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Snopes, 10News en News18 ontkrachten deze foto van 'de jongste ouders ter wereld': de kinderen zijn broers en zussen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:5cc24041c1bd#C": {
+   "label": "bewijst",
+   "toelichting": "Fastcheck.cl gaat over precies deze tekst. AFP, Reuters, AP en Newtral tonen dat de foto een kerk in L'Aquila is na de aardbeving van 2009, en Maldita en Chequeado dat het intacte Christusbeeld er later in is gezet.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:b3a94a43e16a#C": {
+   "label": "bewijst",
+   "toelichting": "CORRECTIV, de eigen check, en AFP melden dat de foto's van Trumps arrestatie met AI gemaakt zijn (door Eliot Higgins).",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:22def020ac39#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters: de foto van Navalnaja in een omhelzing is bewerkt; de Russische zakenman Tsjitsjvarkin staat op de plaats van Navalny. GMX noemt dezelfde foto vervalst.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:324a786f968f#C": {
+   "label": "bewijst",
+   "toelichting": "Knack (de eigen check) en AP: de foto toont minister Berset in een trainingslokaal voor verpleegkundigen met oefenpoppen, geen ziekenhuis vol etalagepoppen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:68ea716c0116#C": {
+   "label": "bewijst",
+   "toelichting": "Knack, de eigen check, staat als bron genoemd: de foto van de man met het bord is bewerkt, de tekst stond er oorspronkelijk niet op.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:6fc1db4bc51a#C": {
+   "label": "bewijst",
+   "toelichting": "AP: de video's tonen twee verschillende mannen, geen 'crisisacteur'. AFP en AAP: de man in het ziekenhuisbed is een gewonde tiener op de Westelijke Jordaanoever, gefilmd weken voor 7 oktober.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:80d38a27aebd#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact: de clip die als Iraanse raketaanval op Israël rondging, is een CGI-animatie van een luchtgevecht uit de Tweede Wereldoorlog, online sinds 2021. Volgens een zoekresultaat over de Knack-check (de pagina zelf opende niet, inlogmuur) vond Knack dezelfde animatie uit 2021, al noemt Factiz het zelf 'een vergelijkbare clip'.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:87c64e83e13f#C": {
+   "label": "bewijst",
+   "toelichting": "Decheckers.be (de eigen check van Knack) en Snopes: de foto is bewerkt. Het origineel van EPA (München, 2010) toont twee vrouwen in boerka die langs meisjes in bikini lopen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:b0596c0de394#C": {
+   "label": "bewijst",
+   "toelichting": "Knack, de eigen check, staat als bron genoemd: de foto's tonen geen nieuwe Barbie-set van Mattel, maar speeltjes van het Japanse merk Progress (een internetgrap).",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:db3276ed3d98#C": {
+   "label": "bewijst",
+   "toelichting": "National Post ('not nearly the 50,000 they claim') en het Ottawa Citizen weerleggen het getal van 50.000 trucks; EBSCO noemt een- tot tweeduizend voertuigen. De foto zelf (de kern van de Knack-check, die niet opende) behandelt geen bron.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:f36de7058dcc#C": {
+   "label": "bewijst",
+   "toelichting": "AFP: de foto van de tank is bewerkt, de Oekraïense vlag is toegevoegd en het origineel staat in een artikel uit 2011 over de Golfoorlog. India Today en Check Your Fact: het is geen Oekraïense tank uit 2003.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:6defd0d8c687#C": {
+   "label": "bewijst niet",
+   "toelichting": "De enige bron met 'spreekt tegen' is een algemeen BBC-artikel over passagiers op het dak van een Indiase trein. Niets laat zien dat het om déze foto gaat; de BBC-pagina en de check van CongoCheck openden niet. De bron over Kyungu's dood (ouragan.cd, augustus 2021) heeft geen rol, en de datum van het bericht staat nergens vast.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "W:8d550df08e06#C": {
+   "label": "terecht",
+   "toelichting": "Público, Observador en SIC melden op 1 oktober 2019 dat de bouw begon met de inrichting van de werf. De foto is van de week vóór 13 oktober 2019, dus 'de bouw is niet begonnen' klopt formeel niet. Polígrafo gaf de tweet wel 'Verdadeiro, mas...', met als kanttekening dat de regering de start op 25 september noemde; oranje had beter gepast dan rood.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:5a9b2f20c629#C": {
+   "label": "bewijst",
+   "toelichting": "RTVE, AP, Cotejo en PolitiFact gaan over dezelfde foto's van een transvrouw in rok met transvlag en zeggen dat die niet de schutter van Uvalde, Salvador Ramos, tonen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:f78979c2c64e#C": {
+   "label": "bewijst niet",
+   "toelichting": "De eigen check gaat over een bericht van 31 januari 2022 met een landend vliegtuig met zwarte rook (online sinds 2017) en een animatie van een crash in Akron uit 2015. La República (april 2022) en Univision (2023, 2024) ontkrachten hetzelfde kettingbericht 'acaba de ocurrir un terrible accidente aéreo' met andere foto's (San Francisco 2013, Honduras 2018, Milaan 2021, Congo 2008, Bogotá 2015, Taiwan 2015). Over januari 2022 of deze beelden zegt geen genoemde bron iets; AP opende niet.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:437564884c2d#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Checamos en Snopes zeggen dat de foto van de menigte van Shannon Finney (Getty) is, gemaakt bij de March for Our Lives op 24 maart 2018. Dat is dezelfde foto die Polígrafo ontkracht als steunbetoging voor Trump.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:6078dfde139f#C": {
+   "label": "bewijst",
+   "toelichting": "CORRECTIV (de eigen check), AFP en Snopes zeggen dat het beeld geen NASA-foto is maar een 3D-visualisatie van Anthony Hearsey met FIRMS-gegevens.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:b93009dc2c6e#C": {
+   "label": "bewijst",
+   "toelichting": "CORRECTIV (de eigen check) en dpa (Presseportal) zeggen dat de foto's van 'bevrijde kinderen' in kooien uit een speelfilm komen, niet van een actie in Californië.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:27b185f79e9d#C": {
+   "label": "bewijst",
+   "toelichting": "dpa (NL), met dezelfde bewering 'deze foto toont dat Schwab deelnam aan de G20', zegt dat de Schwab-foto op het galadiner van de ASEAN-top in Phnom Penh is gemaakt, net als Knack (ASEAN, Cambodja). Of het precies hetzelfde beeld is, kon ik niet nagaan: Knack opende niet, en volgens M4FC staan er andere leiders op.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:507f16c7036c#C": {
+   "label": "bewijst",
+   "toelichting": "Knack (de eigen check), FactCheck.org, AP en Nieuwscheckers zeggen dat de video met de bewegende lijkzak een klimaatprotest in Wenen van 4 februari 2022 toont, bewerkt met een Oekraïense nieuwsbalk.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:6edb84f17355#C": {
+   "label": "bewijst",
+   "toelichting": "De bron is de eigen check van Knack: de foto is echt, maar toont jongeren die airsoft spelen, geen paramilitair trainingskamp.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:73173ca48715#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters (forensisch expert Farid), Snopes, AP en AFP zeggen dat de foto van de menigte bij Harris in Detroit echt is en niet met AI gemaakt of bewerkt.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:81369c8d7864#C": {
+   "label": "bewijst",
+   "toelichting": "PolitiFact, USA Today, Reuters en Lead Stories gaan over dezelfde video met het onderschrift 'Wikileaks releases moon landing cut scenes filmed in Nevada desert': WikiLeaks bracht niets uit, en de beelden komen uit Capricorn One plus echte Apollo-beelden.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:a080f73f3d90#C": {
+   "label": "bewijst",
+   "toelichting": "CORRECTIV en Full Fact gaan over dezelfde foto van een treinwagon met bijna alleen vrouwen met hoofddoek (op één na), gedeeld als Malmö, en zeggen dat ze uit Egypte komt.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:c1582a2f19c8#C": {
+   "label": "bewijst",
+   "toelichting": "dpa (België) ontkracht dezelfde compilatievideo als Knack, met Matthew in Florida, Shanxi, Doksuri in Quanzhou en Kansas: oude stormen elders, geen Libië.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:e731ee3d8a6f#C": {
+   "label": "bewijst",
+   "toelichting": "dpa (o.a. de check met de bewering 'De coronapandemie is gepland', over Event 201) en Reuters weerleggen de bewering dat de pandemie gepland is. Over de collage met stockfoto's uit de eigen check van Knack gaat geen enkele bron.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:ff32c82d40e8#C": {
+   "label": "bewijst",
+   "toelichting": "Nieuwscheckers, dpa, Reuters en Swissinfo gaan over dezelfde poster ('verwarmt uw buurman boven 19 graden?', 200 frank): nep, het UVEK wees haar af en fedpol doet onderzoek.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:73ec4d15b56a#C": {
+   "label": "bewijst",
+   "toelichting": "De BBC (2 juni 2021) schrijft dat IS op 13 mei 2021 beelden verspreidde van zijn strijders in de DR Congo die het Suikerfeest vieren. Dat zijn de beelden van Congo Check (18 mei 2021, 'La fête du Fitr sur les fronts du Congo'). De BBC noemt de bewering over de Centraal-Afrikaanse Republiek niet; het verband volgt uit de datum en de inhoud.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:dc29e7ed18bb#C": {
+   "label": "bewijst",
+   "toelichting": "Chequeado [1] gaat over dezelfde foto van het Che-schilderij in de container en zegt dat die in 2020 in Madrid is gemaakt, niet in Cuba. La Razón [3] publiceerde de foto destijds met die plaats.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:33ad6f60b142#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos [1] citeert precies dit bericht ('Neymar fura fila pra tomar vacina') en laat zien dat de foto uit 2010 komt en een vaccinatie tegen H1N1 en hepatitis B toont.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:47d343142ec4#C": {
+   "label": "bewijst",
+   "toelichting": "Observador [1] onderzocht dezelfde foto en oordeelt 'Errado': het beeld is gemaakt van twee foto's, Catarina Martins stond op de XII Convenção van het Bloco, niet biddend in een kerk.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:79f30045b796#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters [32] en 20 Minutes [25] gaan over dezelfde foto vanaf de Arc de Triomphe als de eigen check van Correctiv: de viering van het WK op 15 juli 2018, geen protest tegen vaccins.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:2197f697d6ec#C": {
+   "label": "bewijst",
+   "toelichting": "VRT NWS [1], AFP, Lead Stories en Reuters gaan over dezelfde beelden van Bart Somers: een nagespeelde testprik zonder naald op een oefendag in Bilzen. Somers zei dat er geen vaccin werd toegediend.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:288cdf750030#C": {
+   "label": "bewijst",
+   "toelichting": "Decheckers.be [1] publiceert dezelfde factcheck als de eigen check van Knack (dezelfde titel): de video's tonen de productie van kunststofkorrels, geen 'plastic rijst'. Lead Stories en VERA Files zeggen hetzelfde over gelijksoortige video's.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:546565d00904#C": {
+   "label": "bewijst",
+   "toelichting": "Grounded Parents gaat over 'this particular image': de proef van een boer met eekhoorns, waarover The Organic and Non-GMO Report schreef. New Scientist [14] gaat over dezelfde meme met 'students in England'. De check van Knack in de database (zelfde bewering) zegt hetzelfde.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:6f40c4c0c8cf#C": {
+   "label": "bewijst",
+   "toelichting": "AFP [21], Reuters [31], Newschecker [28] en anderen gaan over dezelfde CCTV-video van een trillende hotelkeuken: die is uit 2020 (Izmir) en toont niet de aardbeving van 6 februari 2023. Dekrantenkoppen geeft de eigen check van Knack weer, met de tweet 'Binnenbeelden van een bekend Turks hotel'.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:80d30d0c7cce#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact [11][12] gaat over dezelfde foto's van piloten met #TeamChemtrail-badges als de eigen check van Knack (Telegram, 2022): een grap van piloten die de complottheorie bespotten. Het KNMI [9] zegt dat chemtrails niet bestaan.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:866966c15b74#C": {
+   "label": "bewijst",
+   "toelichting": "dpa [1], AFP [3] en Reuters [10] gaan over dezelfde in-memoriampagina van ALPA: de vereniging zegt dat er in 2019 en 2020 meer piloten overleden dan in 2021.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:aef41444e162#C": {
+   "label": "bewijst",
+   "toelichting": "PolitiFact [1], Africa Check [4] en AAP [3] gaan over dezelfde zwart-witfoto van knielende vrouwen en vinden geen bewijs voor de 'traditie'; de eigen check van Knack staat als zelfde bewering in de database.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:d30593f5ac5c#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters [1] gaat over dezelfde video, die op 29 en 30 juni 2024 op X verscheen, net als in de eigen check van Knack (18 juli 2024): een promotievideo van een Vietnamees marketingbedrijf, geen Chinese botfarm. Black Dot Research bevestigt de data.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:e90d89121c59#C": {
+   "label": "bewijst niet",
+   "toelichting": "De eigen check van Knack gaat over een TikTok-video van 18 november 2023 met een reclamebord dat omwaait. Correctiv vond dat die in augustus 2023 in Mekka is gemaakt. De bronnen van Factiz gaan over andere beelden: DW en AFP over zandstormvideo's (2024 en 2025), VERA Files over een compilatie zonder reclamebord.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:2c69e58c9087#C": {
+   "label": "set fout",
+   "toelichting": "De bewering klopt: PSG, Reuters en RTBF melden dat Mbappé in mei 2022 verlengde tot 2025. De check van Congo Check (januari 2022) was toen terecht en de foto was bewerkt (het shirt '2025' op een foto uit 2017), maar Factiz zegt 'klopt niet' met bronnen die het bericht juist bevestigen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:e06c10df4d45#C": {
+   "label": "bewijst",
+   "toelichting": "Africa Check [18], Check Your Fact [19] en Malawi24 [21] gaan over dezelfde foto van de rots (rozenkwarts) in een container. Die staat in Malawi en de rots was bestemd voor China, zoals Congo Check ook vond: geen zending naar Centraal-Afrika.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:5341f0ecc760#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto is van de mars tegen de FARC van 4 februari 2008, niet van de staking van 21/22 november 2019. De marsen waren echt, de foto hoort er niet bij.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:83c8cc55ae9d#C": {
+   "label": "vals",
+   "toelichting": "La República noemt de video misleidend: drie fragmenten tonen niet cycloon Yaku maar een modderstroom en een ingestorte weg uit 2017 en water in een kamer uit 2022. Twijfel: de video bevat ook echte fragmenten uit 2023, en welk beeld hier in de set zit, is niet te zien.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:97f857033aee#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto toont de brand op de markt van Acapulco van 18 februari 2022, niet de Russische aanval op Oekraïne. De invasie was echt, de foto hoort er niet bij.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:9e998ba9b332#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto's tonen Israëlische aanvallen in Gaza (8 oktober 2023 en 11 mei 2021), niet de aanval op Iran van april 2024. Die aanval was echt, de foto's horen er niet bij.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:a196cc01ca09#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto van het verwoeste vliegtuig is van het ongeluk bij Kathmandu op 12 maart 2018, niet van de Tara Air-crash van mei 2022. Twijfel: volgens de check horen twee van de drie foto's in het bericht wél bij die crash; zit een van die twee in de set, dan is het een setfout.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:d2718625f487#C": {
+   "label": "vals",
+   "toelichting": "La República noemt het bericht misleidend: de rode auto is van de aardbeving in Guatemala van 2017, de scheur in de weg uit Argentinië (2021), de andere auto uit Mexico (2017). Twijfel: volgens de check horen sommige foto's wel bij de aardbeving van 2022, en welke hier in de set zit, is niet te zien.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:daecbdaabadc#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto van de lichamen is van de modderstroom in Secocha (Camaná) van februari 2023, niet van de mijnbrand in Yanaquihua; alleen de namenlijst klopt. Factiz zei ten onrechte dat niets op een andere gebeurtenis wees.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:f22dbd09a68f#C": {
+   "label": "vals",
+   "toelichting": "La República: de foto toont de brand in de plasticfabriek van Wenco in Santiago de Chile uit 2012. De brand bij Zaporizja van 4 maart 2022 was echt, de foto hoort er niet bij.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:4b82f2f4a7f7#C": {
+   "label": "set fout",
+   "toelichting": "Polígrafo (6 maart 2024) beoordeelt het bericht als Verdadeiro: Russische wetten maken zulke vergelijkingen strafbaar, en een rechtbank in Omsk verbood in 2025 beelden die Poetin met Hitler vergelijken. Het groen was terecht. Lichte twijfel: Polígrafo wijst geen verbod op déze foto aan.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:439e7b96587e#C": {
+   "label": "vals",
+   "toelichting": "Correctiv: Falscher Kontext. De Leopard 2-tanks in Hosena horen bij een rotatie van de Bundeswehr in Litouwen en waren niet voor Oekraïne bestemd. Factiz' eigen uitleg zegt dat zelf ook, en gaf toch groen.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:631bf1d0df14#C": {
+   "label": "vals",
+   "toelichting": "Correctiv: Falsch. Geen van de vier foto's toont de branden van augustus 2019; ze zijn uit 1989, 2014, 2016 en 2017. De branden zelf waren echt, de foto's horen er niet bij.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:ea1fd22f484d#C": {
+   "label": "set fout",
+   "toelichting": "Correctiv beoordeelt de bewering als Richtig: de voorvertoning van de BR-video toonde geweld uit de Stuttgartse rellennacht van juni 2020, dat niets met coronaprotesten te maken had, en de BR verving het beeld. Het groen was terecht.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:415adb5b9c31#C": {
+   "label": "vals",
+   "toelichting": "Congo Check: de foto is van twee Rwandese soldaten die op 15 april 2018 gevangen werden genomen, en er is geen bewijs voor een gevangenneming eind juni 2022. Factiz bevestigde een andere gevangenneming (28 mei 2022). Zijn pagina opende niet in WebFetch (te lang), dus gelezen als tekst via curl.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:4e270aa21887#C": {
+   "label": "vals",
+   "toelichting": "Congo Check: de foto is uit 2009, van de actie 'Arme contre 100$', en toont niet de wapens bij Mwangachuchu. Dat er bij hem wapens werden gevonden, klopt; de foto hoort er niet bij. Zijn pagina opende niet in WebFetch, dus gelezen als tekst via curl.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:63db0b5660d6#C": {
+   "label": "bewijst",
+   "toelichting": "Polígrafo: Manipulado, het ETA-symbool is op een witte T-shirt uit 2022 geplakt. Maldita, Newtral en Info-Veritas, genoemd als bron, zeggen dat precies deze foto van Feijóo met ETA-shirt een montage is.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:77ba70a46f4a#C": {
+   "label": "set fout",
+   "toelichting": "Polígrafo (13 april 2019) beoordeelt het als Verdadeiro: het tweede, wijdere beeld is een echte röntgenopname van Chandra van hetzelfde zwarte gat in M87. Factiz zei 'klopt niet' op basis van Chandra-pagina's over Centaurus A, die de bewering ook niet weerleggen. Twijfel: ik zag het beeld niet.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "W:edcf5a8b3e36#C": {
+   "label": "vals",
+   "toelichting": "Polígrafo: Verdadeiro, de GNR bevestigt dat de foto van de radar achter vuilnisbakken echt is (Tortosendo, Covilhã, 2020), en die check stond in Factiz' resultaten. Volgens de pers voorzag de begroting voor 2021 echt hogere inkomsten uit verkeersboetes. Twijfel: de spot over de 'wettigheid' is een mening, en een verborgen radar is niet onwettig.",
+   "door": "deelagent, nagelezen door Claude"
+  },
+  "N:b50a9ebffd94#C": {
+   "label": "bewijst",
+   "toelichting": "Polígrafo: Falso, de man op de foto uit Selma 1965 is niet Sanders. Snopes en Check Your Fact, genoemd als bron, zeggen dat precies deze foto Sanders niet toont.",
+   "door": "deelagent, nagelezen door Claude"
+  }
+ }
+}

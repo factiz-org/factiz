@@ -1,0 +1,244 @@
+{
+ "toelichting": "De keuzes van de PO op de pagina van #32.29 (https://claude.ai/artifact/4GoSUokEy5SCQwsRmXcuHV), op 2026-11-02 tussen 21:42 en 21:44 UTC opgeslagen en hier overgenomen. Alle zes regels ja; bij 'vernieuwing' koos de PO ja tegen het advies nee in. Groep A tot en met E: 42 redacties gekozen, 40 goed en 2 twijfel. Groep F (27 grote redacties zonder teken) open: de PO wil daar een eigen score op een vaste lat, PLAN #32.29b. De PO (2026-11-02): 'ik ken al deze bronnen niet, dus we moeten ze langs een lat gaan leggen met een eigen punten rating op betrouwbaarheid (net zoals de kranten etc)'. Daarna (2026-11-02) besloot de PO: 'Maybe just use the LIN score and skip everything without IFCN and other factcheck rating, better to be clear?' Groep F krijgt geen band en geen eigen score; de 2 met twijfel blijven erbuiten (PLAN #32.29b, vervallen).",
+ "datum": "2026-11-02",
+ "regels": {
+  "efcsn": "ja",
+  "eigen": "ja",
+  "jti": "ja",
+  "strengste": "ja",
+  "trust": "ja",
+  "vernieuwing": "ja"
+ },
+ "redacties": {
+  "20minutos.es": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "agazeta.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "agenciamural.org.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "alternativaseconomicas.coop": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "amazoniareal.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "animalpolitico.com": {
+   "keuze": "twijfel",
+   "groep": "A"
+  },
+  "azmina.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "biobiochile.cl": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "boliviaverifica.bo": {
+   "keuze": "goed",
+   "groep": "E"
+  },
+  "cambio16.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "colombiacheck.com": {
+   "keuze": "goed",
+   "groep": "E"
+  },
+  "elcomercio.pe": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "eldiario.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "eldiario.es": {
+   "keuze": "twijfel",
+   "groep": "C"
+  },
+  "eldiariodemadrid.es": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "elespectador.com": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "elheraldodechihuahua.com.mx": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "elperiodico.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "elsoldemexico.com.mx": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "elsoldepuebla.com.mx": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "eltiempo.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "estadao.com.br": {
+   "keuze": "goed",
+   "groep": "A"
+  },
+  "esto.com.mx": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "folha.uol.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "gauchazh.clicrbs.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "greenefact.pt": {
+   "keuze": "goed",
+   "groep": "B"
+  },
+  "infoveritas.es": {
+   "keuze": "goed",
+   "groep": "A"
+  },
+  "jc.ne10.uol.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "labarraespaciadora.com": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "lainformacion.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "lanacion.com.ar": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "larazon.es": {
+   "keuze": "goed",
+   "groep": "C"
+  },
+  "lupa.uol.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "maldita.es": {
+   "keuze": "goed",
+   "groep": "B"
+  },
+  "nexojornal.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "noticias.uol.com.br": {
+   "keuze": "goed",
+   "groep": "E"
+  },
+  "observador.pt": {
+   "keuze": "goed",
+   "groep": "E"
+  },
+  "opovo.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "poder360.com.br": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "ponte.org": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "prensa.com": {
+   "keuze": "goed",
+   "groep": "D"
+  },
+  "publico.pt": {
+   "keuze": "goed",
+   "groep": "E"
+  }
+ },
+ "open": {},
+ "groep F": {
+  "besluit": "geen band: alleen Lin e.a. en de tekens tellen voor goed",
+  "redacties": [
+   "agenciabrasil.ebc.com.br",
+   "cadenaser.com",
+   "ciperchile.cl",
+   "clarin.com",
+   "cnnbrasil.com.br",
+   "dn.pt",
+   "elconfidencial.com",
+   "eluniversal.com.mx",
+   "emol.com",
+   "europapress.es",
+   "expresso.pt",
+   "g1.globo.com",
+   "jn.pt",
+   "jornada.com.mx",
+   "latercera.com",
+   "lavanguardia.com",
+   "lusa.pt",
+   "milenio.com",
+   "oglobo.globo.com",
+   "pagina12.com.ar",
+   "proceso.com.mx",
+   "publico.es",
+   "rpp.pe",
+   "semana.com",
+   "sicnoticias.pt",
+   "uol.com.br",
+   "veja.abril.com.br"
+  ]
+ },
+ "adressen": {
+  "toelichting": "Adressen die bij de bouw van bronnen-v3 (2026-11-02) anders bleken dan in het voorstel; de keuze van de PO geldt de redactie, niet de typefout. Nagekeken met één verzoek per site als FactizResearch.",
+  "infoveritas.es": {
+   "adressen": [
+    "info-veritas.com"
+   ],
+   "waarom": "infoveritas.es bestaat niet; het profiel bij het EFCSN noemt info-veritas.com (al goed via het IFCN)."
+  },
+  "greenefact.pt": {
+   "adressen": [
+    "greenefact.sapo.pt"
+   ],
+   "waarom": "greenefact.pt bestaat niet; greenefact.com stuurt door naar greenefact.sapo.pt."
+  },
+  "lupa.uol.com.br": {
+   "adressen": [
+    "lupa.uol.com.br",
+    "agencialupa.org"
+   ],
+   "waarom": "lupa.uol.com.br stuurt door naar agencialupa.org."
+  },
+  "jc.ne10.uol.com.br": {
+   "adressen": [
+    "jc.ne10.uol.com.br",
+    "jc.uol.com.br"
+   ],
+   "waarom": "jc.ne10.uol.com.br stuurt door naar jc.uol.com.br."
+  }
+ }
+}

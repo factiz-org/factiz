@@ -1,0 +1,301 @@
+{
+ "toelichting": "PLAN #32.40: elk rood en oranje (A, en B met de speurstap) en elk groen bij O' en M, gelabeld tegen de bronnen die de lezer noemt (bewijst, bewijst niet, vals, terecht, set fout); blind gelezen door drie deelagenten met dezelfde regels, waar nodig met de bron zelf erbij, nooit een factchecksite; de afwijkende door de hoofdsessie nagelezen.",
+ "labels": {
+  "M:05d3ed586cf44964#A": {
+   "label": "bewijst",
+   "toelichting": "Het X-trendingbericht heet letterlijk 'Fake Chick-fil-A Tweet' en 10News behandelt de post als fictie."
+  },
+  "M:0c62484a96295702#A": {
+   "label": "bewijst",
+   "toelichting": "De lijst van CBS News noemt Taylor Swift als Person of the Year 2023, dus niet Khaled Nabhan."
+  },
+  "M:20d1c76bdda9b1d3#A": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over echte acties van Six Flags (gratis pas voor kinderen van 3 tot 5, gratis voor 65-plussers) en zeggen niets over vijf gratis passen voor iedereen."
+  },
+  "M:450dfb14357ea2ab#A": {
+   "label": "bewijst",
+   "toelichting": "De Prefeitura de Paraibuna noemt het bericht over R$110 aan gashulp per gezin uitdrukkelijk nep."
+  },
+  "M:4e8469ba8f62445b#A": {
+   "label": "bewijst",
+   "toelichting": "AS.com noemt het in de kop een bulo: Netflix wordt niet gratis tijdens de quarantaine."
+  },
+  "M:568a6f5f7c644e31#A": {
+   "label": "bewijst",
+   "toelichting": "AllSides en Full Fact noemen de AP-kop over de bliksem in hun titel nep of vervalst."
+  },
+  "M:62540510ff495239#A": {
+   "label": "set fout",
+   "toelichting": "De tekst beschrijft alleen dat Musk de meme plaatste, en dat klopt (NBC, The Hill); de valse bewering staat er alleen met 'Demnach' in."
+  },
+  "M:7786cba020ae45c0#A": {
+   "label": "bewijst",
+   "toelichting": "Lupa (een factchecker die toch doorkwam) meldt dat verjaardagspromoties van Coca-Cola op Facebook oplichting zijn."
+  },
+  "M:7df74d7fd8f88416#A": {
+   "label": "bewijst",
+   "toelichting": "UOL noemt het bericht een montage en de Câmara schrijft dat het wetsvoorstel dat furto tot R$ 400 straffeloos maakt niet bestaat."
+  },
+  "M:8667976d0af8300e#A": {
+   "label": "bewijst",
+   "toelichting": "The Quint, Alt News en BOOM noemen de BBC-peiling met een BJP-overwinning nep."
+  },
+  "M:8e3476d74a6fb2ab#A": {
+   "label": "bewijst niet",
+   "toelichting": "Spiegel, Travelbook en inside-digital gaan over goedkope tickets en upgrades en zeggen niets over gratis reizen vanaf maart."
+  },
+  "M:9052d95c87b8f53f#A": {
+   "label": "bewijst",
+   "toelichting": "Bangalore Mirror en The Quint schrijven dat EPFO geen Rs 80.000 geeft en dat het bericht nep is."
+  },
+  "M:9d0f0a28eb9027ae#A": {
+   "label": "bewijst",
+   "toelichting": "Full Fact kopt dat Argos geen GoPro-camera's weggeeft aan wie een formulier invult."
+  },
+  "M:9eee7a45bbf973d2#A": {
+   "label": "bewijst",
+   "toelichting": "VERA Files (een factchecker die toch doorkwam) noemt de quote card in de kop nep."
+  },
+  "M:a0038816e1ea4e91#A": {
+   "label": "vals",
+   "toelichting": "Het ministerie doet zo'n peiling niet: de bronnen gaan over oplichters die zich als ministerie voordoen, dus de bewering zelf klopt niet."
+  },
+  "M:b45bd1913cce29eb#A": {
+   "label": "bewijst",
+   "toelichting": "Cadena SER en La Vanguardia noemen de gratis Adidas-mondkapjes een oplichterstruc via WhatsApp."
+  },
+  "M:b58ebf5c99c2a6cb#A": {
+   "label": "bewijst",
+   "toelichting": "UNICEF Montenegro citeert de WHO: temperaturen boven 25 graden voorkomen covid niet, dus het virus sterft niet bij 26 tot 27 graden."
+  },
+  "M:bb6bf02871ca04ff#A": {
+   "label": "bewijst",
+   "toelichting": "The Quint noemt in de titel de bewering dat Saudia alle vluchten uit India stopte vals."
+  },
+  "M:c3cd7c1278ceb73d#A": {
+   "label": "bewijst",
+   "toelichting": "Full Fact kopt herhaaldelijk dat Aldi geen voedselpakketten van £40 weggeeft op Facebook."
+  },
+  "M:d2bc768f182972b0#A": {
+   "label": "bewijst",
+   "toelichting": "El Debate beschrijft precies deze phishingmail namens de Agencia Tributaria met een terugbetaling van 699,83 euro."
+  },
+  "M:e7316b13a709a7bc#A": {
+   "label": "bewijst",
+   "toelichting": "20minutos schrijft dat de mail met het blauwe vinkje oplichting is en niet van Instagram komt."
+  },
+  "M:f6b71ba72adb0efe#A": {
+   "label": "bewijst",
+   "toelichting": "Hindustan Times en News18 melden dat het ziekenhuis het recept nep noemt en dat de arts het niet schreef."
+  },
+  "M:fc080f5d40275068#A": {
+   "label": "bewijst",
+   "toelichting": "Euronews behandelt ook het gerucht over de arrestatie van Schwab, herleidt het tot een satiresite en meldt dat het WEF en de grote media niets over een arrestatie zeggen."
+  },
+  "M:fe079151e5f3eddc#A": {
+   "label": "bewijst",
+   "toelichting": "Het ministerie (land.nrw, im.nrw) en Welt melden dat het schrijven van Reul vervalst is."
+  },
+  "M:po1#A": {
+   "label": "bewijst",
+   "toelichting": "Euromaidan Press meldt dat er geen martelkamer was, het huis een tijdelijke legerpost was en de claims ontkracht zijn."
+  },
+  "M:po2#B": {
+   "label": "bewijst",
+   "toelichting": "Euronews en Kyiv Independent beschrijven het echte incident bij het gebouw van de Nationale Garde (vier gewonden, geen doden, de minister ontkent een martelplek); van 64 doden is geen sprake, al gaan ze niet in op de FT of Franse protesten."
+  },
+  "M:po4#A": {
+   "label": "bewijst niet",
+   "toelichting": "De HRW-rapporten uit 2016 en 2020 gaan over oudere gevallen van detentie en zeggen niet dat HRW het bericht nooit publiceerde of dat het aantal onjuist is."
+  },
+  "M:po5#B": {
+   "label": "bewijst",
+   "toelichting": "United24 meldt dat de minister de martelclaims vals noemt en dat er geen minderjarigen vastzaten; verkrachting wordt niet genoemd."
+  },
+  "M:po7#B": {
+   "label": "bewijst niet",
+   "toelichting": "De twee pagina's van La Croix zijn een dagoverzicht van de oorlog en een commentaar uit 2025; ze laten niet zien dat deze voorpagina niet van La Croix is (de pagina van 2026 was niet te openen)."
+  },
+  "M:po8#A": {
+   "label": "bewijst niet",
+   "toelichting": "Het stuk van TF1 Info gaat volgens de titel over vermeende martelkamers in Kyiv; de nep-voorpagina van Libération wordt niet genoemd, en het stuk was niet te openen."
+  },
+  "M:po9#B": {
+   "label": "bewijst",
+   "toelichting": "NRC kopt dat een nepverpleegster met een opgeklopt verhaal de rel veroorzaakte; de pagina zelf was niet te openen."
+  },
+  "O:gfc-03eee8de518843a7#A": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo laat zien dat de video van Modi verkeerd vertaald is en dat hij de protesten in Sri Lanka niet bekritiseerde."
+  },
+  "O:gfc-0f715e6ee0fd9578#B": {
+   "label": "bewijst",
+   "toelichting": "24timesnews (22 augustus 2026) noemt de claim vals: volgens PIB Fact Check is de video met AI gemaakt."
+  },
+  "O:gfc-11c4d081697f0a84#A": {
+   "label": "vals",
+   "toelichting": "De bronnen bevestigen alleen de echte executie; of de berichten dit stel tonen, toetst geen enkele bron."
+  },
+  "O:gfc-12b049047db87a07#A": {
+   "label": "bewijst",
+   "toelichting": "De Philippine Statistics Authority spreekt in een officiële verklaring het geldaanbod aan Filipino's met een nationale ID tegen."
+  },
+  "O:gfc-1551ed3bda237911#B": {
+   "label": "bewijst",
+   "toelichting": "Het ICC wees vrijlating af en bevestigde in hoger beroep dat Duterte vast blijft zitten; dat is wat er echt gebeurde."
+  },
+  "O:gfc-1c0f618cc29fb640#A": {
+   "label": "bewijst niet",
+   "toelichting": "Het AFP-stuk op Yahoo gaat over een nepcitaat van minister Senevi met het logo van Web News, niet over premier Amarasuriya of de BBC."
+  },
+  "O:gfc-1cea1e9558afe500#B": {
+   "label": "bewijst",
+   "toelichting": "Siasat, MSN en Madhyamam schrijven in de kop dat Pezeshkian de voeten niet aanraakte, en de ambassade van Iran geeft een andere uitleg."
+  },
+  "O:gfc-1d0d89298824c278#B": {
+   "label": "bewijst niet",
+   "toelichting": "Tribune laat alleen zien dat Adiong Romualdez steunde en om een eerlijk proces vroeg, zonder iets over publieke woede; de archiefpagina van VERA Files bewijst niets specifieks."
+  },
+  "O:gfc-20ab42824b9d7c6e#A": {
+   "label": "bewijst",
+   "toelichting": "Noom schrijft dat kurkuma geen buikvet verbrandt en hoogstens bescheiden gewichtsverlies geeft, geen 3 kg in een week."
+  },
+  "O:gfc-233374cda555db82#A": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X (een factchecker die toch doorkwam) noemt de bewering over kurkuma en tumoren onwaar."
+  },
+  "O:gfc-320dbc939d0617d8#A": {
+   "label": "bewijst niet",
+   "toelichting": "Het stuk van India Today was niet te openen, en de titel vraagt alleen of er een psychologische oorlog gaande is, zonder te zeggen dat deze video vals is."
+  },
+  "O:gfc-3524eb5ee069c4f0#A": {
+   "label": "bewijst",
+   "toelichting": "PNA en Manila Bulletin (juli 2025) tonen dat hij politici uit de uitvoering van flood control wilde houden, niet het onderzoek stoppen; pagina's niet te openen."
+  },
+  "O:gfc-444c5a292b1abb26#A": {
+   "label": "bewijst",
+   "toelichting": "Het rapport zelf is het verslag uit 2016 van een commissie die inspraak van burgers verzamelde, geen plan van de huidige regering, dus de conclusie uit de pagina's misleidt."
+  },
+  "O:gfc-45d7277321bf64e2#A": {
+   "label": "bewijst niet",
+   "toelichting": "Alleen een archiefpagina van VERA Files over de afzettingszaak, zonder een stuk dat de oproep van Padilla tegenspreekt."
+  },
+  "O:gfc-5ce114a0abb44192#B": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo meldt dat het citaat van minister Gamage verzonnen is en dat de uitgever de grafiek nooit maakte."
+  },
+  "O:gfc-5d585bf57ea431d3#A": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X is hun factcheck van de afbeelding over de tuchtklacht van Trillanes; het oordeel valt weg uit de afgekorte titel."
+  },
+  "O:gfc-5fa4fa07736bb362#A": {
+   "label": "bewijst",
+   "toelichting": "De Fact Focus van AP (via MedPage) en de BBC noemen Trumps uitspraken bij de vaccinwet onjuist; geen staat verplicht 72 prikken."
+  },
+  "O:gfc-61520b5f2f3eee4d#B": {
+   "label": "bewijst",
+   "toelichting": "De post van VERA Files op X zegt dat de bewering over zijn arrestatie onwaar is."
+  },
+  "O:gfc-79a9089faa80f29b#B": {
+   "label": "bewijst niet",
+   "toelichting": "De BBC-pagina was niet te openen; de kop meldt alleen dat de politie optrad en leiders opgepakt werden, en dat laat niet zien dat de video met een enorme menigte niet klopt."
+  },
+  "O:gfc-7b0507c9e7f03185#A": {
+   "label": "vals",
+   "toelichting": "De bronnen gaan over schoten op Agbo in 2023; in oktober 2026 werd hij gezond teruggevonden, en de olifant die werd neergeschoten was Kavantissa."
+  },
+  "O:gfc-806b06ceba13e8f9#A": {
+   "label": "bewijst",
+   "toelichting": "De Threads-post van VERA Files noemt de berichten over het voorstel van Suan nep."
+  },
+  "O:gfc-8c8fa6bad1470ab3#A": {
+   "label": "bewijst",
+   "toelichting": "Manila Bulletin meldt dat Teodoro na de uitdaging van Sara Duterte geen namen noemde en zei dat niemand zonder bewijs pro-China genoemd mag worden."
+  },
+  "O:gfc-947c9d195417239f#B": {
+   "label": "bewijst",
+   "toelichting": "De bijgewerkte lijst van Wikipedia noemt 8 werelderfgoedsites in Sri Lanka, en de stuw staat er niet bij, ook niet op de voorlopige lijst."
+  },
+  "O:gfc-94a849dd40512a3f#A": {
+   "label": "bewijst",
+   "toelichting": "PNA meldt dat de PDEA Rimbang als brein aanwijst en noemt Marcos of zijn vrouw niet."
+  },
+  "O:gfc-9c436a940063b097#A": {
+   "label": "bewijst",
+   "toelichting": "Het bericht van VERA Files op X is hun factcheck van de YouTube-video over Michael V.; het oordeel valt weg uit de afgekorte titel."
+  },
+  "O:gfc-a0ac9541263e7e0c#A": {
+   "label": "bewijst",
+   "toelichting": "Yahoo (AFP) meldt in de titel dat berichten de Wereldbank ten onrechte koppelen aan de vaccinvoorraad van Sri Lanka."
+  },
+  "O:gfc-a8f7edcf9b1b68fc#A": {
+   "label": "bewijst",
+   "toelichting": "De VERA Files-pagina over Korner opent met de kop dat haar uitspraak dat Duterte niet de cel in moet nep is."
+  },
+  "O:gfc-a9558a95bfb5e928#A": {
+   "label": "bewijst",
+   "toelichting": "PTI Fact Check (een factchecker die toch doorkwam) laat zien dat de video oud is en dat Nana Patekar daarin zijn excuses maakt aan een Marathi-filmproducent."
+  },
+  "O:gfc-af31d884bf31576d#A": {
+   "label": "set fout",
+   "toelichting": "De tekst is de ontkrachting: hij zegt dat de termijn van Marcos niet tot 2034 wordt verlengd, en dat klopt."
+  },
+  "O:gfc-b9bd073207739330#A": {
+   "label": "bewijst",
+   "toelichting": "Transparency International en BusinessWorld tonen dat de Filipijnen in Azië niet het meest corrupte land zijn."
+  },
+  "O:gfc-bbd88ab58c82bf20#A": {
+   "label": "bewijst",
+   "toelichting": "Het liveblog van de Free Press Journal meldt dat Dipke kort werd vastgehouden bij Marine Drive en daarna de actie in Shivaji Park begon, zonder enige aanval; het steunt op wat het verslag niet meldt."
+  },
+  "O:gfc-bcf571f999d290f6#A": {
+   "label": "vals",
+   "toelichting": "De bronnen zeggen alleen dat ze zich voorbereidt op 2028 en bereid is zich kandidaat te stellen; de verklaring dat ze klaar is voor het presidentschap is verzonnen."
+  },
+  "O:gfc-c1abdd8faaffc456#A": {
+   "label": "bewijst",
+   "toelichting": "India Today gaat volgens kop en adres over desinformatiecampagnes rond de berichten over de confrontatie; de pagina zelf was niet te openen."
+  },
+  "O:gfc-caefb9201864a9f9#B": {
+   "label": "bewijst",
+   "toelichting": "The Hindu, Business Standard en NDTV melden dat India in 2026 op plaats 75 tot 84 van de Henley-index staat, niet op 125."
+  },
+  "O:gfc-ce4ed76a7f5e8908#A": {
+   "label": "bewijst",
+   "toelichting": "MSN schrijft dat oude clips ten onrechte zijn gedeeld als hindoegroepen op weg naar een tegenprotest tegen het CJP-protest."
+  },
+  "O:gfc-d60d350875a177bd#B": {
+   "label": "bewijst",
+   "toelichting": "Philstar en de Official Gazette (RA 12326) tonen dat de verkiezingen zijn uitgesteld tot 2028."
+  },
+  "O:gfc-d89efd6478abd4bb#B": {
+   "label": "bewijst",
+   "toelichting": "Sunna Files noemt het een valse bevolkingsclaim, en de cijfers bij Wikipedia (moslims ongeveer 10 procent) weerleggen de meerderheid in 2060."
+  },
+  "O:gfc-d9256f53aec17cae#A": {
+   "label": "bewijst niet",
+   "toelichting": "Het ministerie geeft alleen een samenvatting van de toespraak, niet de volledige tekst; de drie uitspraken worden niet genoemd en ook niet ontkend."
+  },
+  "O:gfc-d97fbc274d893195#A": {
+   "label": "bewijst",
+   "toelichting": "Explained PH noemt de bewering over Castro misleidend, en de Manila Times meldt dat het paleis de beschuldiging juist afwees."
+  },
+  "O:gfc-e04435572d83341f#A": {
+   "label": "bewijst",
+   "toelichting": "TheJournal en Full Fact (factcheckers die toch doorkwamen) melden dat de beelden van de Pink Panther-demonstrant met AI zijn gemaakt."
+  },
+  "O:gfc-e4965b4ad7b98cba#A": {
+   "label": "bewijst",
+   "toelichting": "Freitag laat Stehr zelf het verhaal over de moord op zijn oma nepnieuws noemen, en DW noemt het Russische desinformatie."
+  },
+  "O:gfc-f1d99c45ea10a577#A": {
+   "label": "bewijst",
+   "toelichting": "Alt News meldt dat de video bewerkt is: het volkslied klonk niet terwijl Modi liep."
+  },
+  "O:gfc-f8d5d5bc3986d66c#A": {
+   "label": "bewijst",
+   "toelichting": "Volgens de veelgestelde vragen van de centrale bank is Rs. 5000 het hoogste biljet, en Factseeker onderzoekt het biljet van Rs. 10.000 als vermoedelijke nep."
+  }
+ }
+}

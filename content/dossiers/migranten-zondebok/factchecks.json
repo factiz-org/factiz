@@ -1,0 +1,685 @@
+{
+ "toelichting": "Een voorstel van Claude (PLAN #37.5): de vijf eigen checks over beelden en beweringen die migranten of moslims in Europa geweld of voorrang verwijten, en 364 factchecks uit het archief van 2015 tot nu over hetzelfde verhaal, uit 730 kaarten van dossiervoorstel-v1 (ja en twijfel); buiten Europa, islamisering en overname, aankomst en grenzen, beleid en ziekte bleven eruit, en 16 die al in migratie-europa staan ook. De lezing staat in data/dossiers/migranten-zondebok/claude-lezing.json. De PO las het dossier en gaf akkoord op 2026-11-19. Strenge keuze (SPECS E9.S7 AC10): de 226 beweringen die het vaakst rondgingen, hoogstens 25 per jaar, van de 369; de rest in data/dossiers/migranten-zondebok/inkorten.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-19",
+ "factchecks": [
+  {
+   "nummer": "a6c56b9785c19393"
+  },
+  {
+   "nummer": "fe98dd55492ec8f6"
+  },
+  {
+   "nummer": "54578e14406a272b"
+  },
+  {
+   "nummer": "8c18f309bb8eb0eb"
+  },
+  {
+   "nummer": "aed808e3ebfee0dc"
+  },
+  {
+   "nummer": "31742aa55b244ed2"
+  },
+  {
+   "nummer": "18770d50d60db0a1"
+  },
+  {
+   "nummer": "2974b3c19f87c474"
+  },
+  {
+   "nummer": "6f7fe474cc130adf"
+  },
+  {
+   "nummer": "b66a5e6ff3e92282"
+  },
+  {
+   "nummer": "28e8b1ff861aff11"
+  },
+  {
+   "nummer": "adfb7b90cb907322"
+  },
+  {
+   "nummer": "6a45557079563097"
+  },
+  {
+   "nummer": "012c7e222ae45e83"
+  },
+  {
+   "nummer": "8a29c5a52cfc1e75"
+  },
+  {
+   "nummer": "8cd8f91d6d69de85"
+  },
+  {
+   "nummer": "53e7c91ee5916bef"
+  },
+  {
+   "nummer": "6504e5c937666b02"
+  },
+  {
+   "nummer": "4b6751ee0709d270"
+  },
+  {
+   "nummer": "c02c1b3ab053a357"
+  },
+  {
+   "nummer": "1516f5065dbd7beb"
+  },
+  {
+   "nummer": "7e56cf59a203afec"
+  },
+  {
+   "nummer": "bfdd58ff1d2edb1a"
+  },
+  {
+   "nummer": "75c9803996b36ef6"
+  },
+  {
+   "nummer": "d2dc20516b7eaa98"
+  },
+  {
+   "nummer": "4aeff716c8d6b37a"
+  },
+  {
+   "nummer": "a5ecad209c46e315"
+  },
+  {
+   "nummer": "1dcee0e8b0ff96d3"
+  },
+  {
+   "nummer": "50fccd953e385b26"
+  },
+  {
+   "nummer": "e16662cb2f8ef6f4"
+  },
+  {
+   "nummer": "a502be56e7117def"
+  },
+  {
+   "nummer": "1ad0d4979df206ad"
+  },
+  {
+   "nummer": "8a3c9f1d468cab32"
+  },
+  {
+   "nummer": "ae86109a52167c3d"
+  },
+  {
+   "nummer": "4e69c0dd10e1ee62"
+  },
+  {
+   "nummer": "42d93787e63c98d0"
+  },
+  {
+   "nummer": "5168d070a9762ed3"
+  },
+  {
+   "nummer": "468a832b414c9ca6"
+  },
+  {
+   "nummer": "510decdce0549842"
+  },
+  {
+   "nummer": "b57176088f4c9192"
+  },
+  {
+   "nummer": "50a4bef1196c3984"
+  },
+  {
+   "nummer": "98da99a23ebb1811"
+  },
+  {
+   "nummer": "3b4278233ffcfa8d"
+  },
+  {
+   "nummer": "446d0e6b4bb4ffe9"
+  },
+  {
+   "nummer": "333c3076132eb9a8"
+  },
+  {
+   "nummer": "36a6bd2c18d3b847"
+  },
+  {
+   "nummer": "54bb445c3cc9e7c6"
+  },
+  {
+   "nummer": "84c785830865250b"
+  },
+  {
+   "nummer": "069fdb8adfe2dc44"
+  },
+  {
+   "nummer": "3086f4fabae0e7b3"
+  },
+  {
+   "nummer": "3aecff928a7ebc59"
+  },
+  {
+   "nummer": "01d5891bba6aeee9"
+  },
+  {
+   "nummer": "a9cfb011dc3bbe23"
+  },
+  {
+   "nummer": "21a24eca6cd16391"
+  },
+  {
+   "nummer": "abe14411e3ff8413"
+  },
+  {
+   "nummer": "cce1d44f33c35320"
+  },
+  {
+   "nummer": "bab1fa3085f2fc30"
+  },
+  {
+   "nummer": "3577ccecbc54d470"
+  },
+  {
+   "nummer": "a2ec6bedfd2534ba"
+  },
+  {
+   "nummer": "40e7674334ffd354"
+  },
+  {
+   "nummer": "e7037193c429dd96"
+  },
+  {
+   "nummer": "093de4d3d3a7047b"
+  },
+  {
+   "nummer": "cb6e740c7a2a7e9c"
+  },
+  {
+   "nummer": "062bdd812562a38d"
+  },
+  {
+   "nummer": "c0db717d0c5afe65"
+  },
+  {
+   "nummer": "b7fef136c3db1940"
+  },
+  {
+   "nummer": "0ee39ec3b386b979"
+  },
+  {
+   "nummer": "412b25193d886aa7"
+  },
+  {
+   "nummer": "02c345d5f5ab0d32"
+  },
+  {
+   "nummer": "3defb82ae7017b4e"
+  },
+  {
+   "nummer": "520a3d7809880c2a"
+  },
+  {
+   "nummer": "d62e01607ca81281"
+  },
+  {
+   "nummer": "e124ab7fc78a1b48"
+  },
+  {
+   "nummer": "4821e9cac147f1cd"
+  },
+  {
+   "nummer": "9667e0ed34dd1121"
+  },
+  {
+   "nummer": "087b56f0244ccf82"
+  },
+  {
+   "nummer": "19ce4b1d88c300ae"
+  },
+  {
+   "nummer": "3eae94fb6b3b532a"
+  },
+  {
+   "nummer": "49c7b7017a151615"
+  },
+  {
+   "nummer": "58f1fafa149a08ef"
+  },
+  {
+   "nummer": "853dfefe32145f5a"
+  },
+  {
+   "nummer": "a2ea6df22f056ee0"
+  },
+  {
+   "nummer": "f1d65637965f77ee"
+  },
+  {
+   "nummer": "00999117a744d269"
+  },
+  {
+   "nummer": "01af332775bdf848"
+  },
+  {
+   "nummer": "20fd9560e9f58136"
+  },
+  {
+   "nummer": "21c863b35e3da491"
+  },
+  {
+   "nummer": "27c38033a08a603d"
+  },
+  {
+   "nummer": "36b74a4b00f24727"
+  },
+  {
+   "nummer": "4bd1aed7ee7a6378"
+  },
+  {
+   "nummer": "4c5550d9578ada01"
+  },
+  {
+   "nummer": "4edefdf552e342b2"
+  },
+  {
+   "nummer": "559ab6814f3b3c61"
+  },
+  {
+   "nummer": "58edd405f0570eac"
+  },
+  {
+   "nummer": "63d568f42036da13"
+  },
+  {
+   "nummer": "6ee7addeb6214331"
+  },
+  {
+   "nummer": "8986f8c57b5c1941"
+  },
+  {
+   "nummer": "8ffc9980125313e2"
+  },
+  {
+   "nummer": "905f3a1f8b7da8d6"
+  },
+  {
+   "nummer": "97d0d378f227449c"
+  },
+  {
+   "nummer": "a3a8b680a5f6b9a9"
+  },
+  {
+   "nummer": "b89ee72ee50fcabe"
+  },
+  {
+   "nummer": "bce259a980200227"
+  },
+  {
+   "nummer": "c901139bbf261563"
+  },
+  {
+   "nummer": "e435e7f62d92a033"
+  },
+  {
+   "nummer": "f89bc3a3e352a3ce"
+  },
+  {
+   "nummer": "fbec2646f9dc50c0"
+  },
+  {
+   "nummer": "fdd05ad5f271edbd"
+  },
+  {
+   "nummer": "b18f3499bff668a3"
+  },
+  {
+   "nummer": "697597754a2c065f"
+  },
+  {
+   "nummer": "ae90813376dca8e1"
+  },
+  {
+   "nummer": "8763de4feb314362"
+  },
+  {
+   "nummer": "d7077f7cf9e5b02c"
+  },
+  {
+   "nummer": "16f4f36062c5294b"
+  },
+  {
+   "nummer": "1f574059a68c21b5"
+  },
+  {
+   "nummer": "f1a9ad722e1487bc"
+  },
+  {
+   "nummer": "01de40cd5a7bba38"
+  },
+  {
+   "nummer": "0e36788f1be67bc2"
+  },
+  {
+   "nummer": "13b65151ea217b52"
+  },
+  {
+   "nummer": "284ad51c9d09bae0"
+  },
+  {
+   "nummer": "3891e5c9257abc06"
+  },
+  {
+   "nummer": "39dfe9f272d1445c"
+  },
+  {
+   "nummer": "3c8d325f54842e00"
+  },
+  {
+   "nummer": "43d1dfb990cefd87"
+  },
+  {
+   "nummer": "44560bb6790f8b3a"
+  },
+  {
+   "nummer": "4f0405cea91de79b"
+  },
+  {
+   "nummer": "551995e1dbdb4d88"
+  },
+  {
+   "nummer": "5bad7c351effa28e"
+  },
+  {
+   "nummer": "6b681d137822069e"
+  },
+  {
+   "nummer": "71db880eef7e508e"
+  },
+  {
+   "nummer": "753865e136ac2d6b"
+  },
+  {
+   "nummer": "7ab06829a18a155e"
+  },
+  {
+   "nummer": "809492faf70643e6"
+  },
+  {
+   "nummer": "8d9a39a26c062e8e"
+  },
+  {
+   "nummer": "9814d749f02f55e8"
+  },
+  {
+   "nummer": "a1258ab94882fa21"
+  },
+  {
+   "nummer": "a74bd39ce4335233"
+  },
+  {
+   "nummer": "aa581ae6af246c6e"
+  },
+  {
+   "nummer": "b73757a3122b0fa7"
+  },
+  {
+   "nummer": "ba707c1ac4d54b9b"
+  },
+  {
+   "nummer": "c25dfe3fdbf29e3e"
+  },
+  {
+   "nummer": "d0a16efa43076dc5"
+  },
+  {
+   "nummer": "d4751fadda66c428"
+  },
+  {
+   "nummer": "e5fd0c9a26c41b36"
+  },
+  {
+   "nummer": "e8f5b4d8679147cc"
+  },
+  {
+   "nummer": "f16c156092ec049f"
+  },
+  {
+   "nummer": "f5e5272daf09fd94"
+  },
+  {
+   "nummer": "fc17215d9dae081e"
+  },
+  {
+   "nummer": "01c73a7431ca40ff"
+  },
+  {
+   "nummer": "01cbbc94a0b61d63"
+  },
+  {
+   "nummer": "03a074e20c5cf1a4"
+  },
+  {
+   "nummer": "0629d42f87a48570"
+  },
+  {
+   "nummer": "065807ba717bd356"
+  },
+  {
+   "nummer": "065a278c0ac615d9"
+  },
+  {
+   "nummer": "0a5f571191cc121e"
+  },
+  {
+   "nummer": "0a7a9a27e085809c"
+  },
+  {
+   "nummer": "0e075d8c52b5eb9b"
+  },
+  {
+   "nummer": "0e6360ea072e5705"
+  },
+  {
+   "nummer": "0f14496047cb2ce7"
+  },
+  {
+   "nummer": "1436b5cd42acbafd"
+  },
+  {
+   "nummer": "189f95ac880ea362"
+  },
+  {
+   "nummer": "1d9ef8ef3ffc1061"
+  },
+  {
+   "nummer": "204426f41319c4d7"
+  },
+  {
+   "nummer": "206276da73bf1219"
+  },
+  {
+   "nummer": "2106ab29f13dfd01"
+  },
+  {
+   "nummer": "216f23353c413be1"
+  },
+  {
+   "nummer": "260f36e64286d29b"
+  },
+  {
+   "nummer": "2df39d491acf4646"
+  },
+  {
+   "nummer": "2eea6212e8dace9e"
+  },
+  {
+   "nummer": "2ef46be80017f9cb"
+  },
+  {
+   "nummer": "302adfda81340008"
+  },
+  {
+   "nummer": "35221f181f8858d9"
+  },
+  {
+   "nummer": "396601b5100a5325"
+  },
+  {
+   "nummer": "3acacce0e0daff01"
+  },
+  {
+   "nummer": "41f0b5d83337f30c"
+  },
+  {
+   "nummer": "42c80bfc8eb6a85a"
+  },
+  {
+   "nummer": "42ffac316ba011b4"
+  },
+  {
+   "nummer": "4483674c737d4ae5"
+  },
+  {
+   "nummer": "45863b5633d469cd"
+  },
+  {
+   "nummer": "46c764690ce9c9b2"
+  },
+  {
+   "nummer": "4728a16bafe3a76a"
+  },
+  {
+   "nummer": "493f7bce6bcd6bc2"
+  },
+  {
+   "nummer": "4bba22bd9215fa43"
+  },
+  {
+   "nummer": "4cc41ba3dda74588"
+  },
+  {
+   "nummer": "586bd91cfd47d64f"
+  },
+  {
+   "nummer": "60a13b1f2577246c"
+  },
+  {
+   "nummer": "652f72f5fdfd1021"
+  },
+  {
+   "nummer": "7132465ba52fdfd3"
+  },
+  {
+   "nummer": "71e1f1c7d54592eb"
+  },
+  {
+   "nummer": "724d66615034a1ad"
+  },
+  {
+   "nummer": "7498db7fea50da89"
+  },
+  {
+   "nummer": "7628c33632ea7142"
+  },
+  {
+   "nummer": "814cb52b4cc8c738"
+  },
+  {
+   "nummer": "817ec2e3391d9c5d"
+  },
+  {
+   "nummer": "85fdc9aec2418d71"
+  },
+  {
+   "nummer": "892eeb9ab8123e96"
+  },
+  {
+   "nummer": "8eaef157bbb4d0c5"
+  },
+  {
+   "nummer": "94bfe9a9c7d26bdf"
+  },
+  {
+   "nummer": "996c36bfe34f4f79"
+  },
+  {
+   "nummer": "999b6ab03ed2d777"
+  },
+  {
+   "nummer": "9a2b10bd0b4e0025"
+  },
+  {
+   "nummer": "9bb4836f234c27f3"
+  },
+  {
+   "nummer": "a1bea757a849ca1c"
+  },
+  {
+   "nummer": "a340f3360c6e2b66"
+  },
+  {
+   "nummer": "a6be8b600ee32efd"
+  },
+  {
+   "nummer": "b0c026683be7729d"
+  },
+  {
+   "nummer": "b7c8f032da636510"
+  },
+  {
+   "nummer": "b874b76a3342cbfe"
+  },
+  {
+   "nummer": "bb52a133e7ea89c5"
+  },
+  {
+   "nummer": "bb937bdcc07159f0"
+  },
+  {
+   "nummer": "bc769c9b737e040a"
+  },
+  {
+   "nummer": "be798f2ba5a2e60c"
+  },
+  {
+   "nummer": "bfe503a5d2ad4c8f"
+  },
+  {
+   "nummer": "c0881eba55601370"
+  },
+  {
+   "nummer": "caf8d1377c008563"
+  },
+  {
+   "nummer": "cbc1ab0f518cd334"
+  },
+  {
+   "nummer": "d0118d39e3d542c1"
+  },
+  {
+   "nummer": "d606b0223257b978"
+  },
+  {
+   "nummer": "d829a441b2c5ee05"
+  },
+  {
+   "nummer": "db252ccd03e792a6"
+  },
+  {
+   "nummer": "e0c1a6b4f6a28e5d"
+  },
+  {
+   "nummer": "ee9301afe2ce350b"
+  },
+  {
+   "nummer": "eef7bbd999754a21"
+  },
+  {
+   "nummer": "f50fb0d082a38a38"
+  },
+  {
+   "nummer": "f5a780b53d417775"
+  },
+  {
+   "nummer": "fd287191d4b4ba6f"
+  }
+ ]
+}

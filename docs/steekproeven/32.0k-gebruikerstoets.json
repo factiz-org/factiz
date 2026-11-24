@@ -1,0 +1,735 @@
+{
+ "_meta": "Labels van de gebruikerstoets (P11 van fase 0, PLAN #32.0k, B47), 2026-10-27, gelezen door Claude. 'set': wat vóór de toets bij het lezen is afgewezen, met reden; het volgende bericht in dezelfde vaste volgorde neemt de plek in. 'kanten': de politieke kant van deel E zoals gelezen (Haiku stelde voor). 'oordelen': per uitkomst (id, wie: factiz, kaal; wat: rood, groen of bewijs). Rood bij een echt artikel (A): 'vals' of 'set fout'. Groen bij een verzonnen detail (C): 'vals' of 'set fout'. Rood bij een gezondheidsmythe (D) met een andere bron dan de eigen check: 'bewijst', 'bewijst via factcheck', 'bewijst niet' of 'set fout'.",
+ "set": [
+  {
+   "id": "gfc-8efaecf9fc6c989f",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-0374dbb132890ab5",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-3d99d0cbfa25d799",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-40d75a64ebcf6523",
+   "label": "afgewezen",
+   "waarom": "geen duidelijke politieke kant"
+  },
+  {
+   "id": "gfc-647d8953d33f9a40",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-07a3c235a4f37815",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek, en een video"
+  },
+  {
+   "id": "gfc-3ccac3ca72a4904e",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-7f328fae9b351825",
+   "label": "afgewezen",
+   "waarom": "een claim van Biden, dus niet rechts zoals Haiku zei"
+  },
+  {
+   "id": "gfc-fd3b070ed326a63c",
+   "label": "afgewezen",
+   "waarom": "een bewering over een video"
+  },
+  {
+   "id": "gfc-19488124a7bf44cb",
+   "label": "afgewezen",
+   "waarom": "geen duidelijke politieke kant"
+  },
+  {
+   "id": "gfc-7adf8f94a9c02638",
+   "label": "afgewezen",
+   "waarom": "Filipijnse politiek, geen duidelijke kant"
+  },
+  {
+   "id": "gfc-a9869b0f46a37a47",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-2bb0da49b24216b2",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-037002f91d799809",
+   "label": "afgewezen",
+   "waarom": "tegen Modi, dus niet rechts zoals Haiku zei; Indiaas"
+  },
+  {
+   "id": "gfc-ad930d80ce6a2ce7",
+   "label": "afgewezen",
+   "waarom": "Filipijnse politiek"
+  },
+  {
+   "id": "gfc-49e870b851c0de0e",
+   "label": "afgewezen",
+   "waarom": "Indiase lokale politiek"
+  },
+  {
+   "id": "gfc-a75d190f79561001",
+   "label": "afgewezen",
+   "waarom": "Indiaas, met een beeld"
+  },
+  {
+   "id": "gfc-dbdf8a5ca6e2625c",
+   "label": "afgewezen",
+   "waarom": "Indiaas, met een beeld"
+  },
+  {
+   "id": "gfc-a09b1aa33d1dd674",
+   "label": "afgewezen",
+   "waarom": "Indiase partijpolitiek"
+  },
+  {
+   "id": "gfc-e771fb6e09921050",
+   "label": "afgewezen",
+   "waarom": "een claim ter verdediging van stemmen per post, dus niet rechts zoals Haiku zei"
+  },
+  {
+   "id": "b-016980",
+   "label": "afgewezen",
+   "waarom": "betwiste herkomst van het virus, geen duidelijke mythe"
+  },
+  {
+   "id": "b-016261",
+   "label": "afgewezen",
+   "waarom": "beleid, geen mythe"
+  },
+  {
+   "id": "b-016877",
+   "label": "afgewezen",
+   "waarom": "de omschrijving van een factchecker"
+  },
+  {
+   "id": "b-016389",
+   "label": "afgewezen",
+   "waarom": "politiek, geen gezondheid"
+  },
+  {
+   "id": "b-017326",
+   "label": "afgewezen",
+   "waarom": "geen gezondheid"
+  },
+  {
+   "id": "b-017687",
+   "label": "afgewezen",
+   "waarom": "geen gezondheid"
+  },
+  {
+   "id": "b-016497",
+   "label": "afgewezen",
+   "waarom": "oorlog, geen gezondheid"
+  },
+  {
+   "id": "b-017355",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016835",
+   "label": "afgewezen",
+   "waarom": "een rechtszaak, geen mythe"
+  },
+  {
+   "id": "b-016833",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-017482",
+   "label": "afgewezen",
+   "waarom": "propaganda, geen gezondheid"
+  },
+  {
+   "id": "b-016247",
+   "label": "afgewezen",
+   "waarom": "vaag"
+  },
+  {
+   "id": "b-016896",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-017210",
+   "label": "afgewezen",
+   "waarom": "een bewering over een video"
+  },
+  {
+   "id": "b-017402",
+   "label": "afgewezen",
+   "waarom": "nieuws over beleid, geen mythe"
+  },
+  {
+   "id": "b-016681",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016593",
+   "label": "afgewezen",
+   "waarom": "nieuws, geen mythe"
+  },
+  {
+   "id": "b-016518",
+   "label": "afgewezen",
+   "waarom": "geen gezondheid"
+  },
+  {
+   "id": "b-017705",
+   "label": "afgewezen",
+   "waarom": "de omschrijving van een factchecker"
+  },
+  {
+   "id": "b-017546",
+   "label": "afgewezen",
+   "waarom": "geen gezondheidsmythe"
+  },
+  {
+   "id": "b-017219",
+   "label": "afgewezen",
+   "waarom": "een politiek citaat"
+  },
+  {
+   "id": "b-017262",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016329",
+   "label": "afgewezen",
+   "waarom": "beleid"
+  },
+  {
+   "id": "b-016606",
+   "label": "afgewezen",
+   "waarom": "beleid"
+  },
+  {
+   "id": "b-017720",
+   "label": "afgewezen",
+   "waarom": "een losse gebeurtenis, geen mythe"
+  },
+  {
+   "id": "b-017577",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016935",
+   "label": "afgewezen",
+   "waarom": "een vraag over een product"
+  },
+  {
+   "id": "b-016403",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016384",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016845",
+   "label": "afgewezen",
+   "waarom": "propaganda"
+  },
+  {
+   "id": "b-016954",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-016874",
+   "label": "afgewezen",
+   "waarom": "politiek"
+  },
+  {
+   "id": "b-017547",
+   "label": "afgewezen",
+   "waarom": "politiek, mogelijk waar"
+  },
+  {
+   "id": "b-017342",
+   "label": "afgewezen",
+   "waarom": "geen gezondheid"
+  },
+  {
+   "id": "b-016603",
+   "label": "afgewezen",
+   "waarom": "een bewering over een beeld"
+  },
+  {
+   "id": "b-017221",
+   "label": "afgewezen",
+   "waarom": "beleid"
+  },
+  {
+   "id": "b-017276",
+   "label": "afgewezen",
+   "waarom": "geen gezondheid"
+  },
+  {
+   "id": "b-016826",
+   "label": "afgewezen",
+   "waarom": "een vacature, geen gezondheid"
+  },
+  {
+   "id": "b-013566",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-009459",
+   "label": "afgewezen",
+   "waarom": "warrig, niets duidelijk veranderd"
+  },
+  {
+   "id": "b-008490",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-005185",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-011283",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-008130",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-008425",
+   "label": "afgewezen",
+   "waarom": "Haiku veranderde niets"
+  },
+  {
+   "id": "b-003421",
+   "label": "afgewezen",
+   "waarom": "de verzonnen kop is niet eenduidig onwaar (de verkiezing van de Georgische president verschilt per jaar)"
+  },
+  {
+   "id": "b-008333",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-008238",
+   "label": "afgewezen",
+   "waarom": "geen duidelijk vals detail"
+  },
+  {
+   "id": "b-004265",
+   "label": "afgewezen",
+   "waarom": "het 'valse' detail (Managua) kan kloppen"
+  },
+  {
+   "id": "b-007730",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-004100",
+   "label": "afgewezen",
+   "waarom": "het valse detail is onduidelijk"
+  },
+  {
+   "id": "b-008620",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-011574",
+   "label": "afgewezen",
+   "waarom": "Haiku weigerde"
+  },
+  {
+   "id": "b-008122",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-013567",
+   "label": "afgewezen",
+   "waarom": "Haiku weigerde"
+  },
+  {
+   "id": "b-010431",
+   "label": "afgewezen",
+   "waarom": "geen vals detail"
+  },
+  {
+   "id": "b-008194",
+   "label": "afgewezen",
+   "waarom": "Haiku had te weinig tekst"
+  },
+  {
+   "id": "b-008226",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-007979",
+   "label": "afgewezen",
+   "waarom": "het 'valse' detail (Straat van Kertsj) klopt"
+  },
+  {
+   "id": "b-011853",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-007895",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-008175",
+   "label": "afgewezen",
+   "waarom": "Haiku weigerde"
+  },
+  {
+   "id": "b-007964",
+   "label": "afgewezen",
+   "waarom": "het 'valse' bedrag is niet na te gaan"
+  },
+  {
+   "id": "b-004904",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-008247",
+   "label": "afgewezen",
+   "waarom": "het valse detail is warrig"
+  },
+  {
+   "id": "b-002130",
+   "label": "afgewezen",
+   "waarom": "de post verraadt zelf dat er iets niet klopt"
+  },
+  {
+   "id": "b-004842",
+   "label": "afgewezen",
+   "waarom": "het 'valse' detail (een rechter in Amsterdam) klopt"
+  },
+  {
+   "id": "b-010268",
+   "label": "afgewezen",
+   "waarom": "het valse detail staat niet zichtbaar in de post"
+  },
+  {
+   "id": "b-008126",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-001982",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-008044",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-008983",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-011189",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-005461",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  },
+  {
+   "id": "b-010277",
+   "label": "afgewezen",
+   "waarom": "de automatische controle: het vervangen stuk staat niet in de bron, of het nieuwe niet in het bericht"
+  }
+ ],
+ "kanten": [
+  {
+   "id": "gfc-bb11cf95bcd71258",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-0146a525b0a7c00c",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-a816c28b7de85765",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-2f6442940dd0d097",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-f031c8d24539373d",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-3d9c9755d782487c",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-20778e35814eec20",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-4a51e3684feae433",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-3d98b5e5d358ded2",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-0c974f3e5a8b2118",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-6f4f6453c847e6fe",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-66cde0ea8472d79e",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-c555927457066aab",
+   "kant": "links"
+  },
+  {
+   "id": "gfc-873e2aec57c1ada4",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-7bcfe8c1d231a31c",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-211a774a84acce57",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-188dbcc6be35c15f",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-40fdb34de2791c5c",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-20692b266256ed28",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-243f8a708e21a414",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-46fcff0e6ff23329",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-1018cc8aa745b75c",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-8e49c5788aeb9c37",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-115d2048f5ddc6d4",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-c275b575f74e8c25",
+   "kant": "rechts"
+  },
+  {
+   "id": "gfc-a38eab0cbf3f943d",
+   "kant": "rechts"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "A:b-007997",
+   "wie": "factiz",
+   "wat": "rood",
+   "label": "vals",
+   "waarom": "een echt opiniestuk van The Guardian; de check van EUvsDisinfo gaat over een pro-Kremlinsite die het stuk verdraaide, niet over het stuk zelf"
+  },
+  {
+   "id": "C:b-009256",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "vijf kanalen; CNN zegt drie"
+  },
+  {
+   "id": "C:b-007772",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "800 ton; de bronnen zeggen 1.300 ton"
+  },
+  {
+   "id": "C:b-002168",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "donderdag; de veto's waren op dinsdag 7 en vrijdag 10 juli 2020 (en vrijdag 20 december 2019)"
+  },
+  {
+   "id": "C:b-007793",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "referendum op 23 maart; het was 16 maart 2014"
+  },
+  {
+   "id": "C:b-002047",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "een rechtbank in Moskou; het was Kirov"
+  },
+  {
+   "id": "C:b-010204",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "overleden in 2003; het was 2006"
+  },
+  {
+   "id": "C:b-009248",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "geprojecteerd op zondag; het was zaterdag 7 november 2020"
+  },
+  {
+   "id": "C:b-012004",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "een video uit 2006; die is uit 2004"
+  },
+  {
+   "id": "C:b-007855",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "92 stemmen; het waren er 82"
+  },
+  {
+   "id": "C:b-011565",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "getekend in 1989; het was 1987"
+  },
+  {
+   "id": "C:b-008684",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "de oorlog van 2010; die was in 2008"
+  },
+  {
+   "id": "C:b-008284",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "gezegd op 25 november; het was 18 november"
+  },
+  {
+   "id": "C:b-002066",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Odesa in plaats van Kyiv; Factiz vond de veroordeling voor Odesa zelf niet en gaf toch groen"
+  },
+  {
+   "id": "C:b-009171",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "de moord in maart; die was op 14 februari 2005"
+  },
+  {
+   "id": "C:b-002168",
+   "wie": "kaal",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "donderdag; de veto's waren op dinsdag 7 en vrijdag 10 juli 2020 (en vrijdag 20 december 2019)"
+  },
+  {
+   "id": "C:b-008153",
+   "wie": "kaal",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "de toll gemeld op zondag; de AAPP meldde hem op zaterdag"
+  },
+  {
+   "id": "C:b-008991",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "set fout",
+   "waarom": "woensdag in plaats van dinsdag: het proces opende dinsdag 9 februari 2021, de pleidooien begonnen woensdag; te verdedigen"
+  },
+  {
+   "id": "C:b-008190",
+   "wie": "factiz",
+   "wat": "groen",
+   "label": "set fout",
+   "waarom": "vogels en insecten in plaats van vogels en vleermuizen: ook insecten botsen met windturbines; te verdedigen"
+  },
+  {
+   "id": "C:b-008991",
+   "wie": "kaal",
+   "wat": "groen",
+   "label": "set fout",
+   "waarom": "woensdag in plaats van dinsdag: het proces opende dinsdag 9 februari 2021, de pleidooien begonnen woensdag; te verdedigen"
+  },
+  {
+   "id": "C:b-008190",
+   "wie": "kaal",
+   "wat": "groen",
+   "label": "set fout",
+   "waarom": "vogels en insecten in plaats van vogels en vleermuizen: ook insecten botsen met windturbines; te verdedigen"
+  }
+ ]
+}

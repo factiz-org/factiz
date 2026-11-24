@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar de) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Offizielle US-Daten zeigen, dass Masernimpfstoffe seit 1995 mit 1.700 Prozent mehr Todesfällen in Verbindung gebracht wurden als Maserninfektionen.",
+  "kern": [
+   "Die Zahl vergleicht Meldungen an VAERS, eine US-Datenbank zur Impfstoffsicherheit, bei der jede Person eine Meldung einreichen kann, mit bestätigten Masern-Todesfällen, und Fachleute sagten AFP, dass solche Meldungen nicht belegen können, dass ein Impfstoff einen Todesfall verursacht hat [1].",
+   "Große Sicherheitsstudien zeigen, dass schwerwiegende unerwünschte Folgen des Masern-Mumps-Röteln-Impfstoffs selten sind [1]."
+  ],
+  "rondgang": "Die Behauptung stammt aus einem Substack-Artikel und verbreitete sich auf X, Facebook und Instagram, als die Pan American Health Organization entschied, dass die Vereinigten Staaten die Kriterien für den Status der Masernelimination nicht mehr erfüllen [1]."
+ }
+}

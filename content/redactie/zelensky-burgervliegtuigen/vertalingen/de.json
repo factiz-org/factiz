@@ -1,0 +1,46 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck zelensky-burgervliegtuigen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "0b687fa5a43702c5",
+ "veldafdrukken": {
+  "kop": "8a9503440bbe9f25",
+  "oordeel_zin": "77dfb633384eedc2",
+  "bewering": "55f4f3eea7911be3",
+  "kort": "4afacfdd59affa64",
+  "tekst": "d03ce597fc692860",
+  "niet_weten": "dbd2315df3004bfd",
+  "bereik": "a09275c1060a48da",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "504c46e9f0788fa2",
+  "beeld_bijschrift": "1d965a0ad6c55a81",
+  "beeld_alt": "a838d3bfd529db63"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky warnte Fluggesellschaften vor Drohnen über Russland, er drohte nicht damit, Flugzeuge abzuschießen",
+  "oordeel_zin": "Zelensky warnte, dass ukrainische Drohnen den russischen Luftraum unsicher machen, sagte aber ausdrücklich dazu, dass die Ukraine kein einziges Zivilflugzeug bedroht [2] [3].",
+  "bewering": "Zelensky droht jetzt sogar damit, Zivilflugzeuge abzuschießen, womit die Ukraine ja schon Erfahrung hat... #MH17",
+  "kort": "Am 5. September verbreitete sich auf X ein Post, der behauptet, Zelensky drohe damit, Zivilflugzeuge abzuschießen, versehen mit dem Hashtag MH17 [1]. Zelensky warnte am 1. September Fluggesellschaften, dass ukrainische Drohnen den russischen Luftraum unsicher machen, und sagte in derselben Rede, dass die Ukraine kein einziges Zivilflugzeug bedroht [2] [3]. Für MH17 machte der ICAO-Rat 2025 Russland verantwortlich [10] [11].",
+  "tekst": "Der Post erschien am Samstag, 5. September, um 12:51 Uhr auf X [1]. Er zitiert einen englischen Post vom Vortag mit einem Video von 51 Sekunden und der Behauptung, Zelensky bedrohe Zivilflugzeuge [1]. Der niederländische Post macht daraus, dass er damit droht, sie abzuschießen, und verweist mit dem Hashtag MH17 auf die Katastrophe von 2014 [1]. Am 18. November war der Post 14.721 Mal angesehen worden [1].\n\nEs geht um die Abendansprache von Zelensky vom Dienstag, 1. September, mit dem Video auf Telegram und einem Teil des Textes um 19:59 Uhr auf Englisch auf X [13] [2]. Darin warnte er jede Fluggesellschaft, die den russischen Luftraum nutzt, jeden Versicherer und alle, die die großen russischen Flughäfen noch nutzen: Der Luftraum werde völlig unsicher [2] [3]. Als Grund nannte er ukrainische Drohnen, die in einem solchen Ausmaß über Russland fliegen werden, dass die Luftfahrt damit rechnen muss [3] [4]. Drei Tage zuvor hatte er 1.000 Drohnen pro Tag gegen Russland angeordnet [4].\n\nIn derselben Rede sagte Zelensky, dass die Ukraine die Zivilluftfahrt nicht bedroht, \"not a single civilian aircraft\" [2]. In seinem eigenen Text, auf Englisch und Ukrainisch, folgt dieser Satz direkt auf die Warnung [2] [13]. Euronews und Meduza geben diese Worte ebenfalls wieder [3] [4]. Die Ukraine will nach seinen Worten nicht, dass unschuldige Menschenleben verloren gehen [2].\n\nEinen Tag später teilte die Ukraine der ICAO, der Luftfahrtorganisation der Vereinten Nationen, förmlich mit, dass der russische Luftraum unsicher ist [6]. Die türkischen Gesellschaften Pegasus und Turkish Airlines strichen Flüge von und nach Moskau [6]. Am selben Tag warnte die ICAO allgemein vor dem wachsenden Risiko, dass Zivilflugzeuge von Waffen getroffen werden oder ins Kreuzfeuer geraten; Russland oder die Ukraine nennt sie nicht [7].\n\nAuch Putin sah darin eine Drohung: Er nannte die Warnung am 1. September Staatsterrorismus [5]. Die Pläne der Ukraine, über die berichtet wurde, betreffen das Sperren des Luftraums, nicht das Abschießen von Flugzeugen. Laut The Atlantic, zitiert von The Insider, bereitete die Ukraine einen Plan vor, den Luftraum über Moskau mit bis zu 1.000 Drohnen in einer Nacht lahmzulegen, und Zelensky fürchtete, dass ein getroffenes Passagierflugzeug als Piraterie angesehen würde [8]. Das Büro von Zelensky nannte diesen Bericht laut Meduza kompletten Unsinn [14]. Laut The Wall Street Journal, zitiert von The Week, will die Ukraine Drohnen über russischen Flughäfen kreisen lassen, sodass Starts und Landungen zum Erliegen kommen [9]. Das macht Fliegen über Russland gefährlicher. Eine Drohung, Flugzeuge abzuschießen, ist es nicht.\n\nMH17 wurde am 17. Juli 2014 über der Ostukraine mit einer russischen Flugabwehrrakete abgeschossen, über einem Gebiet in der Hand prorussischer Separatisten [11]. 298 Menschen kamen ums Leben, darunter 196 Niederländer [11]. Der ICAO-Rat urteilte am 12. Mai 2025 in einem Verfahren der Niederlande und Australiens, dass Russland verantwortlich ist [10]. Allerdings machten russische und ukrainische Amtsträger im Oktober 2001 eine Rakete als Ursache für den Absturz eines russischen Passagierflugzeugs über dem Schwarzen Meer mit 78 Toten verantwortlich [12]. Der ukrainische Amtsträger sagte, es sei wahrscheinlich versehentlich eine Rakete aus einer ukrainischen Übung gewesen [12].",
+  "niet_weten": "Der erste Satz des Beitrags, über die Ziele, die Russland und die Ukraine treffen, ist eine eigene Behauptung, die wir hier nicht prüfen. Eine Faktencheck-Recherche einer anderen Redaktion zu dieser Behauptung haben wir nicht gefunden, weder in sieben Sprachen noch auf gut zwanzig Websites.",
+  "bereik": "Am 18. November 14.721 Mal angesehen",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Zelensky sagt, dass er 1.000 Drohnen pro Tag gegen Russland angeordnet hat [4].",
+   "Zelensky warnt Fluggesellschaften in seiner Abendansprache, mit dem Video auf Telegram und dem Text auf X [13] [2].",
+   "Putin nennt die Warnung Staatsterrorismus [5].",
+   "Die Ukraine meldet der ICAO, dass der russische Luftraum unsicher ist; die ICAO warnt allgemein vor Waffen gegen Zivilflugzeuge [6] [7].",
+   "Ein englischer Post behauptet, Zelensky bedrohe Zivilflugzeuge [1].",
+   "Der niederländische Post mit dem Hashtag MH17 [1]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 5. September 2026, 12:51 Uhr.",
+   "Volodymyr Zelensky auf Telegram, 1. September 2026: das Video der Abendansprache mit der Warnung an Fluggesellschaften."
+  ],
+  "beeld_alt": [
+   "Screenshot des Posts auf X, der behauptet, Zelensky drohe damit, Zivilflugzeuge abzuschießen, mit dem Hashtag MH17 und dem zitierten englischen Post. Stempel: FALSCH.",
+   "Das Video der Abendansprache von Zelensky vom 1. September 2026."
+  ]
+ }
+}

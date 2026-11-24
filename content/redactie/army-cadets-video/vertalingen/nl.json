@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck army-cadets-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "610f12eb8fc652ca",
+ "veldafdrukken": {
+  "kop": "981c7653097d8efb",
+  "oordeel_zin": "515871080d5eac60",
+  "bewering": "8b1304f42967ca1c",
+  "kort": "7f86ed5ec1c5030f",
+  "tekst": "56457584bd7bc04e",
+  "niet_weten": "549459f8f8ab8e86",
+  "bereik": "9be15c70e4bf9915",
+  "nog_uitzoeken": "430f1263b12fe863",
+  "tijdlijn": "8cfdb758e3d6cc9e",
+  "beeld_bijschrift": "1617bb751dd34fba",
+  "beeld_alt": "f1e7ab436a8a5ac2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video van marcherende mensen op Whitehall toont tienerlegercadetten op Remembrance Sunday, geen Britse soldaten",
+  "oordeel_zin": "Het eerste fragment toont vrijwilligers van de Army Cadet Force in het defilé op Remembrance Sunday op Whitehall, jongeren die geen deel uitmaken van de strijdkrachten, geen Britse soldaten [3] [4] [5].",
+  "bewering": "Vergelijk de Britse en Russische manier van marcheren. De eerste 3 fragmenten komen uit Engeland. Schande!",
+  "kort": "Sinds 14 november tonen berichten op X een colonne in camouflage-uniform die uit de pas door Londen marcheert [2]. Op 15 november zette een account het fragment naast Russische soldaten op het Rode Plein als voorbeeld van Brits marcheren [1]. De marcherenden zijn cadetten, doorgaans 12 tot 18 jaar oud en geen deel van de strijdkrachten, in het defilé op Whitehall op Remembrance Sunday, 8 november 2026 [3] [5]. Dat weten we van het monument dat ze passeren en van een foto van dezelfde groep door Suffolk Army Cadet Force [4] [8].",
+  "tekst": "Op zondag 15 november 2026 plaatste het account Alternative News een video op X met de tekst \"Compare the British and Russian methods of marching. The first 3 clips are from England.\" [1]. De rest van de video toont Russische troepen op het Rode Plein in Moskou [1]. Het eerste fragment ging een dag eerder rond, toen het account RadioGenoa het plaatste als \"British Army cadets in London don't seem very in sync.\" [2]. In de vergelijking met Rusland is het woord cadetten verdwenen [1].\n\nHet fragment is gefilmd op Whitehall. De colonne passeert het Monument to the Women of World War II, dat midden op Whitehall staat [2] [8]. Een cadet vooraan draagt een klaproskrans [2]. Op zondag 8 november werd bij het Cenotaph op Whitehall de National Service of Remembrance gehouden [6]. Militairen in actieve dienst komen niet in aanmerking om mee te marcheren in het defilé bij het Cenotaph [7].\n\nEén van de groepen die meeliep was een detachement van Suffolk Army Cadet Force en de Combined Cadet Force van Westbourne Academy [3]. Een foto in de galerij van Suffolk ACF toont het detachement op Whitehall in dezelfde opstelling als in de video: een volwassene met medailles vooraan links, en vooraan rechts een cadet met een krans van de Army Cadet Force [4]. Wij denken dat de video deze groep toont. De Spaanse factchecker Maldita vergeleek de video op 16 november met dezelfde galerij en kwam tot dezelfde conclusie [13].\n\nVolgens het ministerie van Defensie, dat beide cadettenorganisaties sponsort, zijn cadetten doorgaans 12 tot 18 jaar oud en maken ze geen deel uit van de strijdkrachten [5].",
+  "niet_weten": "We weten niet wie de video op Whitehall heeft gefilmd of waar die voor het eerst is geplaatst. We hebben de groep gekoppeld aan de hand van de volgorde van de colonne en de krans, niet aan de hand van gezichten. We konden het tweede en derde Britse fragment in de compilatie niet identificeren [1].",
+  "bereik": "2.612 likes en 308 reacties op 22 november; het eerste bericht met het fragment van Whitehall, van 14 november, had 9.494 likes en 1.355 reacties",
+  "nog_uitzoeken": [
+   "Wie de video op 8 november op Whitehall heeft gefilmd, en waar die voor het eerst is geplaatst.",
+   "Wie de jongeren in zwart galauniform met rode sjerpen zijn in het tweede fragment van de compilatie, en waar en wanneer het derde fragment is gefilmd.",
+   "Of de tweede video van RadioGenoa is gefilmd bij de Royal Courts of Justice tijdens de Lord Mayor's Show van 14 november 2026, en welke cadetten daarin marcheren.",
+   "We hebben Misleidend afgewogen tegen Ontbrekende context. RadioGenoa noemde de marcherenden nog cadetten, maar het bericht met de Russische soldaten presenteert de fragmenten als Brits marcheren zonder te zeggen wie er marcheert. Als u meer weet over een van de fragmenten, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "Suffolk Army Cadet Force komt aan in Londen en oefent in rijen van zes [3].",
+   "Twee minuten stilte tijdens de National Service of Remembrance bij het Cenotaph [6].",
+   "Suffolk ACF en Westbourne Academy CCF marcheren op Whitehall [3] [4].",
+   "Suffolk ACF publiceert zijn verslag en foto's van het weekend [3] [4].",
+   "RadioGenoa plaatst de video van Whitehall als British Army cadets [2].",
+   "Mario Nawfal plaatst het opnieuw als de toekomst van Britse krijgers [9].",
+   "De stoet van de Lord Mayor's Show trekt naar de Royal Courts of Justice [12].",
+   "Alternative News plaatst het fragment naast Russische soldaten op het Rode Plein [1].",
+   "Maldita: de Britse marcherenden zijn vrijwilligers van de Army Cadet Force [13].",
+   "RadioGenoa plaatst een tweede video van cadetten in Londen [10].",
+   "Een ander account deelt de tweede video [11]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 15 november 2026, 11:42 uur Britse tijd.",
+   "Suffolk Army Cadet Force op armycadets.com, 11 november 2026: de galerij van zijn weekend in Londen, met zijn detachement dat op Remembrance Sunday over Whitehall marcheert."
+  ],
+  "beeld_alt": [
+   "Het bericht op X van Alternative News waarin Brits en Russisch marcheren worden vergeleken, met een still uit de video op Whitehall in Londen: een man in marine-uniform voorop, een colonne cadetten in camouflage-uniform erachter, een politieagent en toeschouwers aan de zijkant. Stempel: MISLEIDEND.",
+   "Foto van Suffolk Army Cadet Force van zijn detachement dat op 8 november 2026 over Whitehall marcheert, een volwassene met medailles voorop en een cadet met een krans van de Army Cadet Force."
+  ]
+ }
+}

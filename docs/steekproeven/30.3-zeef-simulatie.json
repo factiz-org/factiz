@@ -1,0 +1,101 @@
+{
+ "_meta": "Labels voor de treffers die de simulatie van de rechter (rechtermeting.simuleer, PLAN #30.3) op een andere claim legt dan de zeefrun vastlegde: per stuk én gevonden claim. zelfde = dezelfde bewering, anders = iets anders (telt als vals alarm). Gelezen door Claude op 2026-10-17 bij vloer 0,80, rechter_zelfde 0,97 en veto 0,1 op de zeefrun factiz-rechter-d3b. Gaat voor op een Haiku-label.",
+ "labels": [
+  {
+   "sleutel": "P1:https://english.factcrescendo.com/2024/05/31/the-person-in-the-viral-image-with-kangana-ranaut-is-not-gangster-abu-salem/",
+   "kandidaat": "gfc-55aa223c70945865",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/an-old-avalanche-video-from-peru-is-being-falsely-shared-as-nepal-flood-visuals/",
+   "kandidaat": "gfc-2c5bcb3353f4c201",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-an-old-video-of-amitabh-bachchan-appreciating-the-staff-of-nanavati-hospital-is-being-shared-as-a-current-video/",
+   "kandidaat": "gfc-28ffa7d3f382eae0",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-people-do-not-get-%e2%82%b95-upon-returning-an-empty-bottle-they-get-their-deposit-amount-back/",
+   "kandidaat": "gfc-68d34756c3dea490",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-ratan-tata-hasnt-made-any-statement-about-spending-his-entire-wealth-to-make-india-coronavirus-free/",
+   "kandidaat": "gfc-275168440e2eaae8",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-swaminarayan-akshardham-temple-photo-shared-as-the-design-of-ram-temple-in-ayodhya/",
+   "kandidaat": "gfc-040fe55354af7555",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-commonly-seen-fox-tail-lilies-plant-is-shared-as-a-rare-flower-in-the-himalayas/",
+   "kandidaat": "gfc-e81e3c9332ca733d",
+   "label": "anders",
+   "waarom": "een video tegenover een foto van de bloem: ander beeld"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-construction-of-the-ram-mandir-in-ayodhya-is-taking-place-at-the-same-babri-mosque-site/",
+   "kandidaat": "gfc-a08818291c151ff1",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-video-does-not-show-taliban-hanging-a-man-from-a-black-hawk-helicopter/",
+   "kandidaat": "gfc-28e66fd148eb06ed",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/falso-eleitor-nao-perde-voto-ao-apertar-confirma-durante-aviso-para-conferir-escolha-na-urna-eletronica",
+   "kandidaat": "gfc-02f8ab8a90d73455",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/video-doesnt-show-american-woman-heckled-for-not-wearing-hijab-in-bangladesh",
+   "kandidaat": "gfc-1a154de17d40eff8",
+   "label": "zelfde",
+   "waarom": "Haiku zei verwant; het is dezelfde bewering (Amerikaanse vrouw lastiggevallen in Bangladesh zonder hoofddoek)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/hi/fact-check/2018-video-shared-to-claim-jharkhand-bjp-president-criticized-pm-modi-amid-assembly-elections",
+   "kandidaat": "gfc-afe45b1db23194e7",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/fact-check-photo-shows-temple-in-west-bengal-not-bangladesh-amid-floods-en",
+   "kandidaat": "gfc-4f2b0da1d10b9fdc",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-2001-el-salvador-earthquake-image-shared-as-landslide-in-kerala-s-wayanad-te",
+   "kandidaat": "gfc-e690b20d085eaf6b",
+   "label": "anders",
+   "waarom": "een foto tegenover een video van de aardverschuiving: ander beeld"
+  },
+  {
+   "sleutel": "P1:https://www.vrt.be/vrtnws/nl/2023/03/20/check-deze-foto-van-de-arrestatie-van-trump-is-door-ai-gegenere",
+   "kandidaat": "gfc-822bef90883dbfae",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  },
+  {
+   "sleutel": "P3:01217",
+   "kandidaat": "gfc-cc9125511f8c2be1",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering in een andere taal of bij een andere redactie"
+  }
+ ]
+}

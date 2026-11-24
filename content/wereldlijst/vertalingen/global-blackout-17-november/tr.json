@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van het overzicht global-blackout-17-november van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "329ccec2c5f04d8a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Mesajlar, 17 Kasım 2026'da başlayacak ve 72 saat sürecek küresel bir elektrik ve internet kesintisinin bankaları ve bankamatikleri devre dışı bırakacağı uyarısında bulunuyor.",
+  "kern": [
+   "Hiçbir yetkili makam 17 Kasım 2026'da küresel bir elektrik kesintisi yaşanacağı konusunda uyarıda bulunmadı. [1] [2]",
+   "Bu tarih, ABD federal kurumu FEMA tarafından duyurulan ve televizyon ile radyoda yayımlanacak planlı bir ABD acil durum uyarısı testiyle örtüşüyor. [1] [2]",
+   "Paylaşımlarda ayrıca Avrupa'daki 72 saatlik acil durum malzemesi bulundurma tavsiyesi ile bir Simpsonlar bölümü de karıştırılmış; bunların hiçbiri o gün bir elektrik kesintisi yaşanacağına işaret etmiyor. [1] [2]"
+  ],
+  "rondgang": "Uyarı Facebook, TikTok ve X'teki paylaşımlarla yayıldı ve İspanya ile İtalya'daki doğrulama kuruluşları tarafından kontrol edildi; EFE uyarıyı X'te daha 27 Ekim 2026'da İngilizce olarak tespit etti. [1] [2]"
+ }
+}

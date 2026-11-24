@@ -1,0 +1,305 @@
+{
+ "toelichting": "Labels van de lezer met de checks uit de database (PLAN #32.28), 2026-11-02, gelezen door Claude. Per bericht en arm (0 het product nu, 1 met de beste 5 checks uit de database, 2 daarbij het beeld): bij N een rood of oranje zonder de eigen check als bron ('bewijst', 'bewijst niet', 'set fout') en elk groen ('vals groen' of 'set fout'); bij W elk rood of oranje ('vals' of 'set fout'). Een antwoord van arm 2 dat een kopie is van arm 1 (dezelfde vraag) draagt het label van arm 1. Een check van dezelfde bewering bij een andere redactie bewijst net zo goed als de eigen check. Dezelfde maat als §188 (32.16-beeldcontrole.json). Alleen ids en labels; openbare beelden uit M4FC.",
+ "oordelen": [
+  {
+   "id": "n-sn-001",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "India Today, Times of India, Alt News en The Quint checken dezelfde bewering: andere vrouw, niet door de RSS aangevallen"
+  },
+  {
+   "id": "n-sn-003",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Alt News: de foto van de vlagverbranding is oud en komt uit Pakistan, niet uit Shaheen Bagh"
+  },
+  {
+   "id": "n-sn-004",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "AFP, Newschecker en anderen: de foto van Netanyahu en zijn zoon is uit 2014, niet van de oorlog van 2023"
+  },
+  {
+   "id": "n-sn-004",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "dezelfde bronnen, en vijf checks uit de database van dezelfde bewering bij andere redacties (Logically Facts, Fact Crescendo, FACTLY, Youturn)"
+  },
+  {
+   "id": "n-sn-005",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "AFP en Fact Crescendo: oude foto van gesmokkeld bier uit 2015, niet van het WK in Qatar"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Alt News: de gewonde Sikh-man is niet kapitein Dhillon (zoals §188)"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "Alt News, en de check van Fact Crescendo uit de database met precies deze tekst"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "2",
+   "label": "bewijst",
+   "reden": "Alt News, en de check van Fact Crescendo uit de database met precies deze tekst"
+  },
+  {
+   "id": "n-sn-009",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "The Quint en AFP: de nepvingers komen uit Japan, niet van de verkiezingen in West-Bengalen"
+  },
+  {
+   "id": "n-sn-009",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "dezelfde bronnen, en drie checks uit de database van dezelfde bewering (Fact Crescendo, Youturn, FACTLY in het Telugu)"
+  },
+  {
+   "id": "n-sn-012",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Fact Crescendo: de röntgenfoto met de kakkerlak is nep en gaat steeds opnieuw rond"
+  },
+  {
+   "id": "n-sn-013",
+   "arm": "0",
+   "label": "bewijst niet",
+   "reden": "NDTV meldt alleen dat de Shiv Sena van een complot spreekt; het zegt niets over de foto (zoals §188)"
+  },
+  {
+   "id": "n-sn-015",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Newsmeter, Vishvas News, India Today: het meisje was een fan van David Miller, niet zijn dochter"
+  },
+  {
+   "id": "n-sn-016",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "BBC en Alt News: oude foto's, geen konvooi van de Karni Sena voor Kangana Ranaut"
+  },
+  {
+   "id": "n-sn-017",
+   "arm": "2",
+   "label": "bewijst",
+   "reden": "de check van Fact Crescendo uit de database (bevestigd door het beeld): de mannen met goud zijn geen priesters van de Balaji-tempel, dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-022",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "BOOM, The Quint, Newsmeter: de beelden van Poetin als monnik zijn met AI gemaakt"
+  },
+  {
+   "id": "n-sn-025",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan bij de aarti is uit 2017"
+  },
+  {
+   "id": "n-sn-025",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan bij de aarti is uit 2017"
+  },
+  {
+   "id": "n-sn-027",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Africa Check, The Quint, Lead Stories, Snopes: digitaal gemaakt, geen foto van een blauwe vinvis"
+  },
+  {
+   "id": "n-sn-028",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "India Today, Newschecker, Vishvas News: een CGI-video, geen bord in Chennai"
+  },
+  {
+   "id": "n-sn-029",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "kring 1: de check van Fact Crescendo, het reclamebord van de AAP is bewerkt; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-029",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "kring 1: de check van Fact Crescendo, het reclamebord van de AAP is bewerkt; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-030",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Newsmeter en SM Hoax Slayer: het zwaard op de foto is niet van Maharana Pratap"
+  },
+  {
+   "id": "n-sn-030",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "dezelfde bronnen, en de checks van Youturn en FACTLY (Telugu) uit de database"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "0",
+   "label": "vals groen",
+   "reden": "de tekst klopt (Chilima kwam om), maar de foto van het wrak is volgens FACTLY niet van deze crash; de lezer zag de bewering niet als bewering over een beeld (zoals §188)"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "1",
+   "label": "vals groen",
+   "reden": "als arm 0; de eigen check stond niet in de beste 5 van de woorden"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "2",
+   "label": "vals groen",
+   "reden": "als arm 0; ook met een bevestigde check erbij koos de lezer geen check"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza (zoals §188)"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza"
+  },
+  {
+   "id": "n-sn-039",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, The Quint, Newschecker: het zandbeeld van Virat Kohli is met AI gemaakt"
+  },
+  {
+   "id": "n-sn-039",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "dezelfde bronnen, en twee checks van Fact Crescendo uit de database"
+  },
+  {
+   "id": "n-sn-039",
+   "arm": "2",
+   "label": "bewijst",
+   "reden": "dezelfde bronnen, en twee checks van Fact Crescendo uit de database"
+  },
+  {
+   "id": "n-sn-045",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "BOOM, Vishvas News, Alt News: oude foto's uit Bangladesh en Kasjmir, geen Congressleider uit Assam"
+  },
+  {
+   "id": "n-sn-047",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "India Today: dit is geen foto van cycloon Vayu"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "Alt News en BOOM: een oude foto uit Bihar, niet uit Puntor in West-Bengalen"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "Alt News en BOOM: een oude foto uit Bihar, niet uit Puntor in West-Bengalen"
+  },
+  {
+   "id": "n-sn-053",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "de check van Youturn uit de database: precies dit verhaal (vader trouwt dochter, moeder zoon), onwaar; dezelfde bewering als de eigen check van FACTLY"
+  },
+  {
+   "id": "n-sn-055",
+   "arm": "0",
+   "label": "bewijst",
+   "reden": "BOOM en Aaj Tak: de foto is niet van een Italiaanse zangeres Julia Markin, het verhaal is verzonnen"
+  },
+  {
+   "id": "n-sn-056",
+   "arm": "1",
+   "label": "bewijst",
+   "reden": "de check van Youturn uit de database: Modi zou de groet van de president en de vicepresident negeren, misleidend; dezelfde bewering als de eigen check van FACTLY"
+  },
+  {
+   "id": "w-00722",
+   "arm": "0",
+   "label": "vals",
+   "reden": "de resultaten gaan over een ander geval (Telangana, een man van 40), zoals §188"
+  },
+  {
+   "id": "w-00751",
+   "arm": "0",
+   "label": "vals",
+   "reden": "Full Fact: de foto's van het zwembad met schermen zijn echt; de lezer las het omgekeerd (zoals §188)"
+  },
+  {
+   "id": "w-00751",
+   "arm": "1",
+   "label": "vals",
+   "reden": "de lezer koos de check van Knack (de bron van M4FC, oordeel waar) en noemde de bewering toch misleidend: een sanatorium is een zwembad met schermen als coronamaatregel"
+  },
+  {
+   "id": "w-00751",
+   "arm": "2",
+   "label": "vals",
+   "reden": "als arm 1"
+  },
+  {
+   "id": "w-03616",
+   "arm": "1",
+   "label": "vals",
+   "reden": "Snopes, de bron van M4FC, noemt de foto van Poetin met Fiona Hill echt; de lezer las het als tegenspraak"
+  },
+  {
+   "id": "w-03796",
+   "arm": "0",
+   "label": "set fout",
+   "reden": "Africa Check: geen snelweg met 48 rijstroken maar een tolplein, zoals §178 en §188"
+  },
+  {
+   "id": "w-03796",
+   "arm": "1",
+   "label": "set fout",
+   "reden": "Africa Check en Fact Crescendo: geen snelweg met 48 rijstroken maar een tolplein, zoals §178 en §188"
+  },
+  {
+   "id": "w-04437",
+   "arm": "0",
+   "label": "vals",
+   "reden": "Poligrafo, de bron van M4FC: de foto is echt; Snopes noemt het bijschrift onzeker, niet misleidend (zoals §188)"
+  },
+  {
+   "id": "w-04437",
+   "arm": "2",
+   "label": "vals",
+   "reden": "als arm 0; de check van Doğrula uit de database zegt waar"
+  },
+  {
+   "id": "w-04544",
+   "arm": "0",
+   "label": "vals",
+   "reden": "de bronnen zeggen een paar centimeter en onaangenaam; verdedigbaar, maar streng geteld zoals §178 en §188"
+  },
+  {
+   "id": "w-04544",
+   "arm": "1",
+   "label": "vals",
+   "reden": "als arm 0"
+  }
+ ]
+}

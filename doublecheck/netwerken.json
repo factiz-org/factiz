@@ -1,0 +1,4508 @@
+{
+ "_meta": "Bekende netwerkdomeinen en de extensies van klonen (PLAN #32.58, B62): een signaal met zijn bron, geen oordeel. Alleen domeinnamen. Herkomst per domein in 'bron'.",
+ "achtervoegsels": {
+  "news-pravda.com": {
+   "netwerk": "Pravda",
+   "bron": "CheckFirst/DFRLab, github.com/CheckFirstHQ/pravda-network (gelezen 2026-11-07)",
+   "subdomeinen": [
+    "a.network",
+    "abkhazia",
+    "albania",
+    "algeria",
+    "armenia",
+    "au",
+    "austria",
+    "balkan",
+    "basque",
+    "belgium",
+    "bosnia-herzegovina",
+    "bulgaria",
+    "burkina-faso",
+    "cameroon",
+    "canada",
+    "catalan",
+    "chad",
+    "croatia",
+    "cyprus",
+    "czechia",
+    "denmark",
+    "deutsch",
+    "dprk",
+    "dutch",
+    "egypt",
+    "eritrea",
+    "estonia",
+    "eu",
+    "finland",
+    "francais",
+    "france",
+    "galician",
+    "gambia",
+    "ge",
+    "germany",
+    "greece",
+    "guinea-bissau",
+    "guinea",
+    "hungary",
+    "iceland",
+    "ireland",
+    "italy",
+    "japan",
+    "korea",
+    "latvia",
+    "lt",
+    "luxembourg",
+    "mali",
+    "malta",
+    "maori",
+    "mauritania",
+    "md",
+    "montenegro",
+    "nato",
+    "netherlands",
+    "new-zealand",
+    "niger",
+    "nigeria",
+    "north-macedonia",
+    "norway",
+    "ossetia",
+    "poland",
+    "portugal",
+    "portuguese",
+    "rca",
+    "romania",
+    "scotland",
+    "senegal",
+    "serbia",
+    "singapore",
+    "slovakia",
+    "slovenia",
+    "south-korea",
+    "south-sudan",
+    "spain",
+    "spanish",
+    "srpska",
+    "sudan",
+    "sweden",
+    "switzerland",
+    "syria",
+    "taiwan",
+    "trump",
+    "turkey",
+    "ua",
+    "uk",
+    "usa",
+    "wales"
+   ]
+  }
+ },
+ "domeinen": {
+  "abkhazia-news.com": {
+   "netwerk": "Pravda",
+   "bron": "CheckFirst/DFRLab, github.com/CheckFirstHQ/pravda-network (gelezen 2026-11-07)"
+  },
+  "georgia-news.com": {
+   "netwerk": "Pravda",
+   "bron": "CheckFirst/DFRLab, github.com/CheckFirstHQ/pravda-network (gelezen 2026-11-07)"
+  },
+  "news-armenia.com": {
+   "netwerk": "Pravda",
+   "bron": "CheckFirst/DFRLab, github.com/CheckFirstHQ/pravda-network (gelezen 2026-11-07)"
+  },
+  "ossetia-news.com": {
+   "netwerk": "Pravda",
+   "bron": "CheckFirst/DFRLab, github.com/CheckFirstHQ/pravda-network (gelezen 2026-11-07)"
+  },
+  "112.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "1k.com.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "1news.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "1tv.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "24.ae": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "24.com.eg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "24fm.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "2lkhbr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "3-arabi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "360tv.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "3yonnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "4uarab.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "5-tv.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 59
+  },
+  "5lejnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "6060news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 51
+  },
+  "7adramout.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "a5bar365.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "abrag.akwadon.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 46
+  },
+  "abu-link.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "abudhabi-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 33
+  },
+  "ac24.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 81
+  },
+  "activistpost.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "actualcomment.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "actualidad-rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 23
+  },
+  "actualidad.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 116
+  },
+  "actualiti.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "addiyar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 46
+  },
+  "aeronet.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 105
+  },
+  "afrigatenews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "agitpro.su": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "agoravox.fr": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ahfad.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "ahlmasrnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "aif.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "aif.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 35
+  },
+  "ainousseraonline.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "ajel.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "akhbar-eg.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "akhbarak.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 212
+  },
+  "akhbaralyawm.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "akhbarelyaom.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "akhbarelyom.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 28
+  },
+  "akhbarna.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "akhbarnaa.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "akher.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "akherakhbarmasr.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "akherkhabrtoday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "akwadon.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "al-ain.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "al-hadath.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "al-vefagh.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "al3in.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alaan.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 39
+  },
+  "alahad.iq": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alahadnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "alahdath24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alahednews.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "alalam.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "alamalmal.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alameenpress.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alamrany.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alarabi.press": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "alaraby-media.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "alarabyanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alayyam.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alazmenah.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "albaathmedia.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "albaladnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "albaosala.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 25
+  },
+  "albawaba.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "albawabhnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 37
+  },
+  "albidda.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 194
+  },
+  "alboslanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "albousla.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 32
+  },
+  "alderaah-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "alebaa.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alerfannews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "aleshraq.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "aletihadpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "algeria.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "algerie9.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "algeriediplomatique.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alghad.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "alghadeertv.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alhadeel.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alhassad.com.eg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alhemyarianews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "alhilalalyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "alhoussainy.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alistenhadh.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "alittihad44.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "aliwaa.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "aljarida.com.tn": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "aljoumhouria.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "alkalimanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alkalimaonline.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 22
+  },
+  "alkawthartv.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "alkhabar-sy.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alkhabar.me": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alkhabaralgded.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 34
+  },
+  "alkhabrpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "alkhaleej365.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "alkhaleejnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "all-make.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "allofjo.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "almaalomah.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "almaalomah.me": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almada.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "almadenahnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "almahjar.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "almajd.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almalath-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almamar.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "almanach.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "almanar-tv.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "almanar-tv.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "almanar-tv.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "almanar.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "almanarnews.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "almanartv.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "almarkazia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "almarsad.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "almasalah.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "almashhad-alyemeni.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "almashhadalaraby.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almasirah.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almasryalyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "almatareed.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "almehwartoday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "almesasports.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almjhar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "almshd.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "almuraqeb-aliraqi.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alnaharegypt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "alnahdanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "alnassrnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alnilin.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alo.rs": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alqalahnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alrafidain.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alrai-iq.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alraya.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alsaa.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alsabahalyemeni.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alsadaranews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "alsharqtimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alsharqtoday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alshbaka.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 71
+  },
+  "alshoruq.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alsiasi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "alsolta.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "alsumaria.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alsyasiah.ye": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "altaharri.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "alternatio.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alvefaghonline.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alwafd.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 57
+  },
+  "alwakeelnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "alwassat.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "alwatanonline.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "alwatanvoice.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "alyemennews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "alyqyn.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "amdn.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "anayemeni.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "anba24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "anna-news.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "annabaa.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ansarollah.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "antifashist.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 40
+  },
+  "antifashist.online": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "antimaydan.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 33
+  },
+  "apa.az": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "aqreqator.az": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ar.abna24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "ar.albousla.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "ar.farsnews.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ar.news-sinaa.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ar.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ar.rtarabic.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ar.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "ar.suchtv.pk": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "arab-now.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "arab-turkey.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "arabi21.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "arabia.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "arabic.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 641
+  },
+  "arabic.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 311
+  },
+  "arabicmedia.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "arabicradio.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "arabics.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "arabipress.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "arabnews24.ca": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 50
+  },
+  "arabobserver.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "arabsource.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "arabstoday.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "arabtimenews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "arabyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "arabyoum.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "argumenti.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "arriyada.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "asabnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "asd.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 69
+  },
+  "ashariealjadid.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "asharq-alarabi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "asharqalarabi.org.uk": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "asianewslb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "asrar7.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 34
+  },
+  "asrar7days.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "assawsana.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "athabat.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "athabatnetwork.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "awajelpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "awanmasr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "awjaz.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "awla.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "az.trend.az": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "azmtayyar.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "baghdadtoday.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "bahrainhub.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "baladi-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "baladnaelyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "bald-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "baltnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "baltnews.lt": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 52
+  },
+  "baltnews.lv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "bawabaa.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 34
+  },
+  "bbcnews1.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 30
+  },
+  "beirut-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "beirutnewscenter.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "beiruttime-lb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "beiruttimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "belbalady.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 65
+  },
+  "belpresse.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "belta.by": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "belvpo.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "bgr.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 108
+  },
+  "bit.ly": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "bladipresse.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "blognews.am": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "blogs.korrespondent.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "bmf.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "bobiannews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "br.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "breitbart.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "bultimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "burathanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "business-gazeta.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "bwabtk.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 54
+  },
+  "cartitleloanla.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "casopis-sifra.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "cenzura.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "ceskoaktualne.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "chervonec-001.livejournal.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "christian-dogma.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "cont.ws": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 23
+  },
+  "contra-magazin.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "copts-united.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "corwna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "counterpunch.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "crimea.ria.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "cz.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 156
+  },
+  "czechfreepress.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "damaseyes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "dan-news.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "daralakhbar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "daralmaref.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "darelhilal.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 23
+  },
+  "de.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 112
+  },
+  "de.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 87
+  },
+  "dearborn.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "di.se": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "djazairestv.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "djelfa.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "dmcnews.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 93
+  },
+  "dni.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "dnn-sy.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "dnr-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "dnr-online.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "dnr-pravda.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "dostor.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 39
+  },
+  "dotalkhaleej.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "dotalkhaleej.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "dowwar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 67
+  },
+  "e-news.pro": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "e3rfsport.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "eadaily.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 76
+  },
+  "echo.msk.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "ednews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "eg24hours.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "egynow.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "egypt-today.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "egypt.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "egyptianguardan.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "egysaudi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ehomd.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "el-3rb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "elaosboa.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "elaph.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "elarabielyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "elayem.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "elbalad.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "elbalad140.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "elbashayer.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "elbayan-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 37
+  },
+  "elespiadigital.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "elfagr.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "elfagrsport.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "elgornal.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "elhiwarettounsi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "elhmra.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "eljazairia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "elkanananews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "elmarada.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 27
+  },
+  "elmohafezeen.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "elmowatn.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "elnashra.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 28
+  },
+  "elnel-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "elqalamcenter.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "elsaanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "elsiyasa.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "elssayda.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "eltakrer.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 42
+  },
+  "elwehda.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "elzmannews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "emarat-news.ae": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "emaratyah.ae": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "emeknes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 75
+  },
+  "en.abna24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "en.kremlin.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "enews.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "eportal.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ertikaznews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "es.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 166
+  },
+  "eshraag.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 172
+  },
+  "essahra.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 50
+  },
+  "etleboro.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "euportal.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "euportal.parlamentnilisty.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "eurasia24.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "event-sy.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "expert.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "faceiraq.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "factjo.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "farsnews.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "fedpress.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "fenks.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "flux.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 22
+  },
+  "fondsk.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 55
+  },
+  "fontaka.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "fort-russ.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "fr.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 58
+  },
+  "fr.sputniknews.africa": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "fr.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 173
+  },
+  "francais.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 79
+  },
+  "freeposts.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "gate.ahram.org.eg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "gazeta.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 69
+  },
+  "ge.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "geopolitica.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 253
+  },
+  "geopolitika.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "gerasanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "geworld.ge": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 98
+  },
+  "gifakt.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "globalresearch.ca": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "golospravdy.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "golospravdy.eu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "gomhuriaonline.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "gossur.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "govirall.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "govoritmoskva.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "gulf-one.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "gulf365.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "gulfeyes.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "gulfnow.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "hadfnews.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "hamrinnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "hamsaat.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "hamsnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "haramoon.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "hasad-alyom.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "hashtagelyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "hathalyoum.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "hawaalsham.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "hawamer.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "hawelaliraq.rawabetcenter.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "headtopics.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 93
+  },
+  "hidfo.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 37
+  },
+  "hivelocity2.almanar.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "hlavnespravy.sk": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "hoseinmortada.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "hu.news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 140
+  },
+  "ia.chamtimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "ida2at.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "imhoclub.by": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 27
+  },
+  "imlebanon.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "informburo.dn.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "informer.rs": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "inforos.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "infowars.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "innfrad.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "innlebanon.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "inosmi.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "iq.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 29
+  },
+  "iraqakhbar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "iraqnews-in.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 107
+  },
+  "iraqnewspaper.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "iraqtoday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "iravunk.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 38
+  },
+  "islamictawhid.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "islamtimes.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "it.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 268
+  },
+  "iz.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 93
+  },
+  "izborsk.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "jbcnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "jo24.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "johinanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "jordanzad.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "jpgazeta.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "jpnews-sy.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "kachaf.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 168
+  },
+  "khabar.one": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 39
+  },
+  "khabars7.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "khaberni.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "khafayalb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "khbrk.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "khlaasa.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "klivehub.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "klyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 133
+  },
+  "kol-masr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 144
+  },
+  "kolalwatn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "konmowaten.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "kookywooky.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "kp.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 76
+  },
+  "kremlin.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "kurdstreet.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "kuwaitpress.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "l0n.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "laivaslaikrastis.lt": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "lajkit.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "lanacanal.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "lantidiplomatico.it": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "lb.almanar.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "lb.glbnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "lb.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "lb.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "lebanon.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "lebanon24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "lebanondebate.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "lebanonfiles.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "lenta.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 73
+  },
+  "lialynews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "libya24.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "libyaakhbar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "libyajeel.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "libyanews.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "libyanewsapp.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "life.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 67
+  },
+  "lifenews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "live.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "livenews.am": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 57
+  },
+  "lmsthnan.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "lomazoma.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 176
+  },
+  "lt.sputniknews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 137
+  },
+  "lug-info.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "lv.baltnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "lv.sputniknews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 48
+  },
+  "m.akhbarelyom.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "m.alwafd.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "m.elsaanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "m.ru.sputnik.kg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "m3v.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ma32oul.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ma9dar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "maghress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "mail.khabaralyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "mail.lomazoma.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "mail.nafeza2world.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "manartv.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "manber.ch": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "mangish.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "maqalh.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "maqar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "marayainternational.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "maspero.eg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "masr20.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 22
+  },
+  "masralyoum.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 37
+  },
+  "masrawyfm.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "masress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "matnnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "mawazin.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "mayadeeniraqya.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 44
+  },
+  "mazpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "medias-dz.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "mejdurecie.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "menafn.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "menkuwait.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "meshwarmedia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "miaistok.su": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 60
+  },
+  "middle-east.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "midline-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "mir24.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "misrday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 58
+  },
+  "misrelgdeda.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "misrnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 27
+  },
+  "misry4news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "mixbanat.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "mixednews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "mkhbr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "mn2ol.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 86
+  },
+  "mnalmsdr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "mobtada.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "mogaznews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "mogilew.by": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "mpsh.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "msader-ye.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "msader24.xyz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "msdernet.xyz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "mulhak.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 27
+  },
+  "multies.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "mundo.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 277
+  },
+  "musalmantimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "musavat.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "mv-lehti.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "mwatan.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "n.moslslatnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "na-m.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 22
+  },
+  "nabd-masr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "nabd.cc": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "nabd.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 323
+  },
+  "nabdapp.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "nabdn.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "nadormagazine.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "nafeza2world.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 135
+  },
+  "nahnews.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 53
+  },
+  "nakanune.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "nash.live": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "naspravdi.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "nation-news.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "nayrouz.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "new.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "newcoldwar.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "newhub.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 107
+  },
+  "newinform.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "newizv.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "newlebanon.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "newnews4.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "neworientnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "news-araby.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "news-front.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 224
+  },
+  "news-lb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "news-pop.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "news-sinaa.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 44
+  },
+  "news-world0.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "news.akhbarten.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 22
+  },
+  "news.albousla.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 40
+  },
+  "news.albraq-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 56
+  },
+  "news.almshd.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "news.alnaeem.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "news.am": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 45
+  },
+  "news.dmcnews.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "news.essahra.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 29
+  },
+  "news.l0n.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "news.leportale.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "news.miralnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "news.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "news.sahafahn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "news.tv4ar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "news2.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "newsaliraq.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 23
+  },
+  "newsbalt.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "newsformy.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 308
+  },
+  "newsland.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "newsmd.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "newsof.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "newsone.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "newspaper.albaathmedia.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "newsua.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "newsweb.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "newz24.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "ng.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "nile.eg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "nk.org.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 23
+  },
+  "nn.najah.edu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "nna.iq": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "noi.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "novarepublika.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 55
+  },
+  "novorosinform.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 73
+  },
+  "novoross.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 32
+  },
+  "novostivl.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "now-lebanon.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "nsn.fm": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "ntv.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "ntv.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 61
+  },
+  "nuomnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 69
+  },
+  "observateurcontinental.fr": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "od-novorossia.livejournal.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "odnarodyna.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "omantoday.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "oneworld.press": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 27
+  },
+  "ontime-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "opednews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "opinyatimes.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "oppps.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "orgo-net.blogspot.be": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "orgo-net.blogspot.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "orientalista.hu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "orientalreview.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "orientbethlehem.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "oroszhirek.hu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 141
+  },
+  "ortas.online": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "osnmedia.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "otv.com.lb": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "pakistanpoint.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "pal24.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "palestine.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "paltoday.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "parlamentnilisty.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 47
+  },
+  "paulcraigroberts.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 51
+  },
+  "paulcraigroberts.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "pediaweek.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "pl.rubaltic.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 38
+  },
+  "pl.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 533
+  },
+  "point.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "polit-mir.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "polit.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "politexpert.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "politikus.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "politnavigator.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 97
+  },
+  "politobzor.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "politonline.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "politros.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "politrussia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "pravda.rs": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "pravda.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "pravdoryb.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "press.alazrak.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "pressbee.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 29
+  },
+  "pressbee.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "pressn.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 49
+  },
+  "pressnewsnow.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "prisonplanet.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "protiproud.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 99
+  },
+  "protiproud.parlamentnilisty.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "prvnizpravy.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "prvnizpravy.parlamentnilisty.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "prvopodstata.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "pucnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "qmedia.one": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "radiosputnik.ria.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 32
+  },
+  "radiovesti.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 107
+  },
+  "raialyoum.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "rasd.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "rawfednews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "rbc.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "regnum.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 112
+  },
+  "ren.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 112
+  },
+  "reseauinternational.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "rg.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 89
+  },
+  "riafan.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 158
+  },
+  "rian.com.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "ridus.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ritmeurasia.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "ro.sputnik.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "roayahnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "rosaelyoussef.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "ross-bel.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 54
+  },
+  "rossaprimavera.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 32
+  },
+  "rostov.tsargrad.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "rs.sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "rtarab.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 97
+  },
+  "rtarabic.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "ru.armeniasputnik.am": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 400
+  },
+  "ru.sputnik.kg": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "ru.sputnik.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 49
+  },
+  "ru4arab.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 69
+  },
+  "ruarab.top": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 41
+  },
+  "rubaltic.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 81
+  },
+  "rueconomics.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "rusdozor.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "rusnext.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "rusonline.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "russia-insider.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 47
+  },
+  "russian.rt.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 237
+  },
+  "russianeventnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "russiyya.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "russkievesti.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "russtrat.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "rusvesna.su": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 63
+  },
+  "ryb.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "sa24.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 56
+  },
+  "saadaonline.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 108
+  },
+  "saba.ye": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "sabaharabi.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "sabq-sa.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 44
+  },
+  "sada-ar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 25
+  },
+  "sadadahie.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "sadanews.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "sahafaa.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "sahafah-24.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "sahafah24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "sahafahn.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "sahafahnet.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "sahafatak.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "sahafaty.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 52
+  },
+  "sahafaty.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "sahat-altahreer.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "samapress.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "sana.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 25
+  },
+  "sanaanews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "sanasyria.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "sarayanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "sarmad.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "satelnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "saudi.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 40
+  },
+  "sawahhost.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "sawahmedia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "sawahpost.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "sawahpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "sawtaljanoub24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "sawtbeirut.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "shaam.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "shaamtimes.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "shahennews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "shamra.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 82
+  },
+  "shasha.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "shehabnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "shorouknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "shrouro.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "sinmarnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "skay.press": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 29
+  },
+  "slobodnimediji.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "slovodel.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "snd.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "sns.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "soshals.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "soundcloud.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "southfront.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 115
+  },
+  "sportnewsps.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 43
+  },
+  "sptnkne.ws": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "sputnik-abkhazia.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 123
+  },
+  "sputnik-georgia.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 52
+  },
+  "sputnik-georgia.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 112
+  },
+  "sputnik-meedia.ee": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "sputnik-ossetia.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 92
+  },
+  "sputnik.az": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 31
+  },
+  "sputnik.by": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 326
+  },
+  "sputnik.md": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 30
+  },
+  "sputniknews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 245
+  },
+  "sputniknews.gr": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 152
+  },
+  "sputniknews.lat": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 13
+  },
+  "sputniknews.lt": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 187
+  },
+  "srbijadanas.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "sst-news.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "sst.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "strana.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "sudan.fm": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "sudanewsnow.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "suhufnet.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "svetkolemnas.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 53
+  },
+  "svobodnenoviny.eu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 51
+  },
+  "svpressa.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 55
+  },
+  "swatan.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "swedinfo.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "syria-24.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "syria.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "syria.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "syriafriends.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 21
+  },
+  "syriahomenews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "syrianownews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 17
+  },
+  "syriantelegraph.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "tabnak.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "tanawue.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "tasrebat.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "tass.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 70
+  },
+  "tass.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 167
+  },
+  "tassco.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "tayyar.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "tb24.ge": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "tehnowar.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "teleskop-by.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 66
+  },
+  "thawra.sy": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "the-day-x.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "thelevantnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "thenationpress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "thenationpress.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "therussophile.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "thesaker.is": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "theworldnews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 32
+  },
+  "times.com.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "titkolthirek.hu": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "tj.sputniknews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "tlgrm.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 65
+  },
+  "topcor.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 10
+  },
+  "topwar.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "transparencynews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "tsargrad.tv": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 227
+  },
+  "tunisactus.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "tunisia-sat.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "tunisia.shafaqna.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "turess.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "tv4ar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "tvalsazrisi.ge": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "tvm.ge": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "tvzvezda.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 146
+  },
+  "twnews.co.uk": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "u-f.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "uepapress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ugaritpost.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "uk-arabicnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 26
+  },
+  "ukraina.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 206
+  },
+  "ukrpress.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "union-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "ura.news": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "urdupoint.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 92
+  },
+  "urfonews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "utro.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 46
+  },
+  "uz.sputniknews.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 34
+  },
+  "vaca-ps.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "vdlnews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "vedeng.co": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "vedomosti.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "verelq.am": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "versia.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "veryarts.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "vesti-ukr.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "vesti.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 96
+  },
+  "vesti.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "vesti7.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 37
+  },
+  "veteranstoday.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "vetogate.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 18
+  },
+  "vilaglato.info": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 15
+  },
+  "vlasteneckenoviny.cz": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "vm.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "voice-yemen.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "voiceofbeladynews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 14
+  },
+  "vz.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 97
+  },
+  "wafaamagazine.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "wakalaagency.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 12
+  },
+  "wakalanews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "watania.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "watira.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "wdmadani.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "whatdoesitmean.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 19
+  },
+  "whoswhos.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "wikimsrweb.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "wpristav.mirtesen.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "wtani.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 36
+  },
+  "xeber24.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "xegybest.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "yaf3press.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 40
+  },
+  "yafa-news.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "yapolitic.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ye.mainlist.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "yemen-now.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "yemen-now.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 16
+  },
+  "yemen-publisher.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 56
+  },
+  "yemenakhbar.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "yemeninews.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "yemenmubasher.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "yemennownews.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "yemenportal.net": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "yemenvibe.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 9
+  },
+  "yemeress.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "yjc.ir": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 4
+  },
+  "youm7.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 30
+  },
+  "youmlife.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 7
+  },
+  "yournewswire.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "ytro.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 8
+  },
+  "zajelpress.ps": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  },
+  "zavtra.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 6
+  },
+  "zemavek.sk": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 24
+  },
+  "zerohedge.com": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 11
+  },
+  "zik.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "znaj.ua": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 3
+  },
+  "zvedavec.org": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 20
+  },
+  "zvezdaweekly.ru": {
+   "netwerk": "EUvsDisinfo",
+   "bron": "EUvsDisinfo, verspreider in de database",
+   "gevallen": 5
+  }
+ },
+ "kloon_extensies": [
+  "ltd",
+  "online",
+  "foo",
+  "fm"
+ ]
+}

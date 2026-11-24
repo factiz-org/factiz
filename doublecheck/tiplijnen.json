@@ -1,0 +1,626 @@
+{
+ "_meta": "Herkomst: de openbare lijst 'IFCN fact-checking organizations on WhatsApp' in het WhatsApp Help Center (zie _bron), op 2026-10-15 met de hand overgenomen. Feitelijke contactgegevens van redacties die ze zelf openbaar maken; we nemen ze letterlijk over en verwijzen naar de bron. Letterlijk overgenomen: land, redactie en nummer zoals de lijst ze noemt; de links zijn de wa.me-links van die pagina, zonder vooraf ingevulde tekst. De lijst noemt alleen het land; de talen per land zijn door ons afgeleid (de voornaamste talen waarin daar gecheckt wordt) en bepalen alleen bij welke vraag een lijn verschijnt. Nederland en België staan niet in de lijst.",
+ "_bron": {
+  "naam": "WhatsApp Help Center: IFCN fact-checking organizations on WhatsApp",
+  "url": "https://faq.whatsapp.com/5059120540855664/?locale=en_US",
+  "vastgelegd": "2026-10-15"
+ },
+ "talen_per_land": {
+  "Argentina": [
+   "es"
+  ],
+  "Brazil": [
+   "pt"
+  ],
+  "Burundi": [
+   "fr",
+   "rn"
+  ],
+  "Chile": [
+   "es"
+  ],
+  "Colombia": [
+   "es"
+  ],
+  "Ethiopia": [
+   "am"
+  ],
+  "France": [
+   "fr"
+  ],
+  "Georgia": [
+   "ka"
+  ],
+  "Germany": [
+   "de"
+  ],
+  "Ghana": [
+   "en"
+  ],
+  "India": [
+   "hi",
+   "en"
+  ],
+  "Indonesia": [
+   "id"
+  ],
+  "Italy": [
+   "it"
+  ],
+  "Kenya": [
+   "en",
+   "sw"
+  ],
+  "Mexico": [
+   "es"
+  ],
+  "Nigeria": [
+   "en"
+  ],
+  "Perú": [
+   "es"
+  ],
+  "Portugal": [
+   "pt"
+  ],
+  "Senegal": [
+   "fr"
+  ],
+  "South Africa": [
+   "en"
+  ],
+  "Spain": [
+   "es"
+  ],
+  "Sri Lanka": [
+   "si",
+   "ta"
+  ],
+  "Tanzania": [
+   "sw",
+   "en"
+  ],
+  "Turkey": [
+   "tr"
+  ],
+  "Uganda": [
+   "en"
+  ]
+ },
+ "lijnen": [
+  {
+   "land": "Argentina",
+   "redactie": "Chequeado",
+   "nummers": [
+    "+54 9 11 6270 4259"
+   ],
+   "links": [
+    "https://wa.me/5491162704259"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "AFP Checamos",
+   "nummers": [
+    "+55 21 98217-2344"
+   ],
+   "links": [
+    "https://wa.me/5521982172344"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "Agência Lupa",
+   "nummers": [
+    "+55 21 99193-3751"
+   ],
+   "links": [
+    "https://wa.me/5521991933751"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "Aos Fatos",
+   "nummers": [
+    "+55 21 99747-2441"
+   ],
+   "links": [
+    "https://wa.me/5521997472441"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "Estadão Verifica",
+   "nummers": [
+    "+55 11 97683-7490"
+   ],
+   "links": [
+    "https://wa.me/5511976837490"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "UOL Confere",
+   "nummers": [
+    "+55 11 97684-6049"
+   ],
+   "links": [
+    "https://wa.me/5511976846049"
+   ]
+  },
+  {
+   "land": "Brazil",
+   "redactie": "Reuters Fact Check Brasil",
+   "nummers": [
+    "+55 11 91599-9278"
+   ],
+   "links": [
+    "https://wa.me/5511915999278"
+   ]
+  },
+  {
+   "land": "Burundi",
+   "redactie": "PesaCheck",
+   "nummers": [
+    "+254 780 542626"
+   ],
+   "links": [
+    "https://wa.me/254780542626"
+   ]
+  },
+  {
+   "land": "Chile",
+   "redactie": "Fast Check Chile",
+   "nummers": [
+    "+56 991 444 473"
+   ],
+   "links": [
+    "https://wa.me/56991444473"
+   ]
+  },
+  {
+   "land": "Colombia",
+   "redactie": "La Silla Vacia",
+   "nummers": [
+    "+57 310 294 0910"
+   ],
+   "links": [
+    "https://wa.me/573102940910"
+   ]
+  },
+  {
+   "land": "Ethiopia",
+   "redactie": "PesaCheck",
+   "nummers": [
+    "+254 780 542626"
+   ],
+   "links": [
+    "https://wa.me/254780542626"
+   ]
+  },
+  {
+   "land": "France",
+   "redactie": "20 Minutes",
+   "nummers": [
+    "+33 6 30 26 81 95"
+   ],
+   "links": [
+    "https://wa.me/33630268195"
+   ]
+  },
+  {
+   "land": "France",
+   "redactie": "AFP France",
+   "nummers": [
+    "+33 6 47 08 70 46"
+   ],
+   "links": [
+    "https://wa.me/33647087046"
+   ]
+  },
+  {
+   "land": "France",
+   "redactie": "France24",
+   "nummers": [
+    "+33 6 30 93 41 36"
+   ],
+   "links": [
+    "https://wa.me/33630934136"
+   ]
+  },
+  {
+   "land": "Georgia",
+   "redactie": "Myth Detector",
+   "nummers": [
+    "+995 511 228 288"
+   ],
+   "links": [
+    "https://wa.me/995511228288"
+   ]
+  },
+  {
+   "land": "Germany",
+   "redactie": "CORRECTIV",
+   "nummers": [
+    "+49 151 17535184"
+   ],
+   "links": [
+    "https://wa.me/4915117535184"
+   ]
+  },
+  {
+   "land": "Germany",
+   "redactie": "AFP Faktencheck",
+   "nummers": [
+    "+49 172 2524054"
+   ],
+   "links": [
+    "https://wa.me/491722524054"
+   ]
+  },
+  {
+   "land": "Germany",
+   "redactie": "dpa Faktencheck",
+   "nummers": [
+    "+49 160 3476409"
+   ],
+   "links": [
+    "https://wa.me/491603476409"
+   ]
+  },
+  {
+   "land": "Ghana",
+   "redactie": "Dubawa",
+   "nummers": [
+    "+233 593 705 083"
+   ],
+   "links": [
+    "https://wa.me/233593705083"
+   ]
+  },
+  {
+   "land": "Ghana",
+   "redactie": "GhanaFact",
+   "nummers": [
+    "+233 24 449 9971"
+   ],
+   "links": [
+    "https://wa.me/233244499971"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "AFP",
+   "nummers": [
+    "+91 95999 73984"
+   ],
+   "links": [
+    "https://wa.me/919599973984"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Boom",
+   "nummers": [
+    "+91 77009-06111",
+    "+91 77009-06588"
+   ],
+   "links": [
+    "https://wa.me/917700906111",
+    "https://wa.me/917700906588"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Fact Crescendo",
+   "nummers": [
+    "+91 90490 53770"
+   ],
+   "links": [
+    "https://wa.me/919049053770"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Factly",
+   "nummers": [
+    "+91 92470 52470"
+   ],
+   "links": [
+    "https://wa.me/919247052470"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "India Today",
+   "nummers": [
+    "+91 7370-007000"
+   ],
+   "links": [
+    "https://wa.me/917370007000"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Newschecker",
+   "nummers": [
+    "+91 99994 99044"
+   ],
+   "links": [
+    "https://wa.me/919999499044"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Newsmobile",
+   "nummers": [
+    "+91 11 7127 9799"
+   ],
+   "links": [
+    "https://wa.me/911171279799"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "The Healthy Indian Project",
+   "nummers": [
+    "+91 85078 85079"
+   ],
+   "links": [
+    "https://wa.me/918507885079"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "The Quint - WebQoof",
+   "nummers": [
+    "+91 95405 11818"
+   ],
+   "links": [
+    "https://wa.me/919540511818"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "The Press Trust of India",
+   "nummers": [
+    "+91 81305 03759"
+   ],
+   "links": [
+    "https://wa.me/918130503759"
+   ]
+  },
+  {
+   "land": "India",
+   "redactie": "Vishvas News",
+   "nummers": [
+    "+91 92052 70923",
+    "+91 95992 99372"
+   ],
+   "links": [
+    "https://wa.me/919205270923",
+    "https://wa.me/919599299372"
+   ]
+  },
+  {
+   "land": "Indonesia",
+   "redactie": "Tempo",
+   "nummers": [
+    "+62 813-1577-7057"
+   ],
+   "links": [
+    "https://wa.me/6281315777057"
+   ]
+  },
+  {
+   "land": "Indonesia",
+   "redactie": "Liputan6",
+   "nummers": [
+    "+62 811-9787-670"
+   ],
+   "links": [
+    "https://wa.me/628119787670"
+   ]
+  },
+  {
+   "land": "Indonesia",
+   "redactie": "Mafindo",
+   "nummers": [
+    "+62-896-800-600-88"
+   ],
+   "links": [
+    "https://wa.me/6289680060088"
+   ]
+  },
+  {
+   "land": "Italy",
+   "redactie": "Pagella Politica / Facta",
+   "nummers": [
+    "+39 342 1829843"
+   ],
+   "links": [
+    "https://wa.me/393421829843"
+   ]
+  },
+  {
+   "land": "Kenya",
+   "redactie": "Africa Check",
+   "nummers": [
+    "+254 743 622514"
+   ],
+   "links": [
+    "https://wa.me/254743622514"
+   ]
+  },
+  {
+   "land": "Kenya",
+   "redactie": "PesaCheck",
+   "nummers": [
+    "+254 780 542626"
+   ],
+   "links": [
+    "https://wa.me/254780542626"
+   ]
+  },
+  {
+   "land": "Mexico",
+   "redactie": "AFP Factual - Mexico",
+   "nummers": [
+    "+52 (1) 55 2503 9334"
+   ],
+   "links": [
+    "https://wa.me/5215525039334"
+   ]
+  },
+  {
+   "land": "Mexico",
+   "redactie": "Reuters Fact Check México",
+   "nummers": [
+    "+52 (1) 56 2001 8078"
+   ],
+   "links": [
+    "https://wa.me/5215620018078"
+   ]
+  },
+  {
+   "land": "Nigeria",
+   "redactie": "Africa Check",
+   "nummers": [
+    "+234 908 377 7789"
+   ],
+   "links": [
+    "https://wa.me/2349083777789"
+   ]
+  },
+  {
+   "land": "Nigeria",
+   "redactie": "Dubawa",
+   "nummers": [
+    "+234 913 116 7621"
+   ],
+   "links": [
+    "https://wa.me/2349131167621"
+   ]
+  },
+  {
+   "land": "Perú",
+   "redactie": "Verificador de La República",
+   "nummers": [
+    "+51 997 883 271"
+   ],
+   "links": [
+    "https://wa.me/51997883271"
+   ]
+  },
+  {
+   "land": "Portugal",
+   "redactie": "Polígrafo",
+   "nummers": [
+    "+351 968 213 823"
+   ],
+   "links": [
+    "https://wa.me/351968213823"
+   ]
+  },
+  {
+   "land": "Senegal",
+   "redactie": "Africa Check",
+   "nummers": [
+    "+221 77 424 94 73"
+   ],
+   "links": [
+    "https://wa.me/221774249473"
+   ]
+  },
+  {
+   "land": "South Africa",
+   "redactie": "Africa Check",
+   "nummers": [
+    "+27 73 749 78 75"
+   ],
+   "links": [
+    "https://wa.me/27737497875"
+   ]
+  },
+  {
+   "land": "Spain",
+   "redactie": "EFE Verifica (Agencia EFE)",
+   "nummers": [
+    "+34 648 434 618"
+   ],
+   "links": [
+    "https://wa.me/34648434618"
+   ]
+  },
+  {
+   "land": "Spain",
+   "redactie": "Maldita",
+   "nummers": [
+    "+34 644 229 319"
+   ],
+   "links": [
+    "https://wa.me/34644229319"
+   ]
+  },
+  {
+   "land": "Spain",
+   "redactie": "Newtral",
+   "nummers": [
+    "+34 627 280 815"
+   ],
+   "links": [
+    "https://wa.me/34627280815"
+   ]
+  },
+  {
+   "land": "Sri Lanka",
+   "redactie": "Fact Crescendo - Sri Lanka",
+   "nummers": [
+    "+94 (77) 151 4696"
+   ],
+   "links": [
+    "https://wa.me/94771514696"
+   ]
+  },
+  {
+   "land": "Tanzania",
+   "redactie": "PesaCheck",
+   "nummers": [
+    "+254 780 542626"
+   ],
+   "links": [
+    "https://wa.me/254780542626"
+   ]
+  },
+  {
+   "land": "Turkey",
+   "redactie": "Doğruluk Payı",
+   "nummers": [
+    "+90 (541) 463 47 66"
+   ],
+   "links": [
+    "https://wa.me/905414634766"
+   ]
+  },
+  {
+   "land": "Turkey",
+   "redactie": "Teyit",
+   "nummers": [
+    "+90 (546) 474 54 40"
+   ],
+   "links": [
+    "https://wa.me/905464745440"
+   ]
+  },
+  {
+   "land": "Uganda",
+   "redactie": "PesaCheck",
+   "nummers": [
+    "+254 780 542626"
+   ],
+   "links": [
+    "https://wa.me/254780542626"
+   ]
+  }
+ ]
+}

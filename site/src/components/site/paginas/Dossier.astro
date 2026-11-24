@@ -1,0 +1,75 @@
+---
+// De site, een dossier (PLAN #34.2b): vriendelijk. Het veld van het dossier als beeld met de naam, de stand als
+// tegels, de tijdlijn met vaste jaarkoppen; rechts waar het bij hoort. Een dossier heeft zijn naam en inleiding in elke
+// taal van de site, dus het is in elke taal vindbaar.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import Rij, { Bronrij } from '../Rij.jsx';
+import ThemaTegel from '../ThemaTegel.jsx';
+import Plaat from '../Plaat.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, BASIS, BCP47, adresSite, pad, naarSite } from '../../../lib/talen.js';
+import { kort } from '../../../platform/tekst.ts';
+const { taal, d } = Astro.props;
+const t = maakT(taal);
+const s = d.stand;
+const lijst = pad(taal, 'fact-checks');
+// gestructureerde gegevens (#34.2bq): een verzameling met de factchecks van het dossier als lijst (hoogstens 100)
+const fcs = d.jaren.flatMap((j) => j.regels.filter((r) => r.rij).map((r) => r.rij)).slice(0, 100);
+const adres = adresSite(taal, 'dossiers', d.sleutel);
+const ld = JSON.stringify({
+  '@context': 'https://schema.org', '@type': 'CollectionPage', '@id': adres, url: adres, name: d.naam,
+  description: kort(d.inleiding, 300), inLanguage: BCP47[taal],
+  isPartOf: { '@type': 'WebSite', '@id': `${BASIS}/#site`, name: 'Factiz', url: `${BASIS}/` },
+  mainEntity: { '@type': 'ItemList', numberOfItems: fcs.length, itemListElement: fcs.map((r, i) => (
+    { '@type': 'ListItem', position: i + 1, url: `${BASIS}${r.href}`, name: kort(r.tekst, 110) })) },
+}).replaceAll('<', '\\u003c');
+---
+<Site titel={d.naam} hier="dossier" taal={taal} delen={['dossiers', d.sleutel]} aangeboden={TALEN} omschrijving={d.inleiding} soort="article" zoeknaam={d.naam} beeld={d.deelbeeld?.src} beeldAlt={d.deelbeeld?.alt} ld={ld}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[t('nav_dossiers'), pad(taal, 'dossiers')]]} />
+    <header class={`kaartveld veld-groen veld-band-thema-${d.thema_sleutel} veld-band-dossier-${d.sleutel} mt-4 px-6 pt-24 pb-6 sm:px-10 sm:pt-32 sm:pb-8`}>
+      <Plaat soort="dossier" sleutel={d.sleutel} thema={d.thema_sleutel} plek="band" />
+      <span class="inline-flex h-6 items-center rounded-full bg-white/15 px-2.5 text-[12px] font-medium text-white backdrop-blur">{d.soort_tekst}</span>
+      <h1 class="groot-kop mt-3 max-w-[22ch] text-white">{d.naam}</h1>
+    </header>
+    <div class="mt-8 grid gap-10 lg:grid-cols-[minmax(0,1fr)_15rem]">
+      <div class="min-w-0">
+        <p class="max-w-[var(--maat-tekst)] text-[15.5px] leading-relaxed">{d.inleiding}</p>
+        <dl class="mt-6 grid grid-cols-2 gap-2 sm:grid-cols-5">
+          {[[t('dossier_eerste'), s.eerste], [t('nav_lijst'), s.factchecks], [t('nav_redacties'), s.redacties], [t('dossier_talen'), s.talen], [t('dossier_laatste'), s.laatste]].map(([k, w]) => (
+            <div class="paneel px-3 py-2.5"><dt class="text-[12px] text-[var(--zacht)]">{k}</dt><dd class="getal mt-0.5 text-[15px] font-medium">{w}</dd></div>))}
+        </dl>
+        <div class="sectiekop mt-10"><h2>{t('dossier_tijdlijn')}</h2></div>
+        {d.jaren.map((j) => (
+          <section class="mt-3">
+            <h3 class="lijstkop getal sticky top-[3.7rem] z-[2] bg-[var(--grond)]">{j.kop}</h3>
+            <ol class="rijen">{j.regels.map((r) => (r.rij
+              ? <Rij r={{ ...r.rij, datum: r.datum, redacties: r.rij.volgens ? '' : r.rij.redacties.join(', ') }} />
+              : <Bronrij soort={r.soort_tekst} bron={r.bron} datum={r.datum} titel={r.titel} url={r.url} />))}</ol>
+          </section>
+        ))}
+      </div>
+      {/* de zijkolom met dezelfde contextkaarten als een factcheck en de Radar (PO 2026-11-21: "gelijk trekken") */}
+      <aside class="ck-rij content-start" aria-label={d.naam}>
+        {d.thema && <a class="ck ck-klik" href={pad(taal, 'themes', d.thema_sleutel)}><span class="ck-vraag">{t('filter_thema')}</span><span class="ck-naam flex items-center gap-2"><ThemaTegel thema={d.thema_sleutel} maat="midden" />{d.thema.naam}</span></a>}
+        {d.verwant.length > 0 && (
+          <nav class="ck" aria-labelledby="dossier-verwant">
+            <h2 class="ck-vraag" id="dossier-verwant">{t('dossier_verwant')}</h2>
+            <ul class="fz-zijlijst">{d.verwant.map((w) => <li><a href={pad(taal, 'dossiers', w.sleutel)}>{w.naam}</a></li>)}</ul>
+          </nav>
+        )}
+        {d.begrippen.length > 0 && (
+          <section class="ck" aria-labelledby="dossier-begrippen">
+            <h2 class="ck-vraag" id="dossier-begrippen">{t('nav_verkennen')}</h2>
+            {/* elk begrip is een zoekvraag naar het archief; de vraag gaat in het bericht, nooit in het adres (B78) */}
+            <ul class="fz-begrippen">{d.begrippen.map((b) => (
+              <li><form method="post" action={lijst}><input type="hidden" name="q" value={b} /><button type="submit">{b}</button></form></li>
+            ))}</ul>
+          </section>
+        )}
+        <a class="ck ck-klik" href={lijst}><span class="ck-vraag">{t('nav_lijst')}</span><span class="ck-naam">{t('lijst_titel')}</span></a>
+      </aside>
+    </div>
+  </div>
+</Site>

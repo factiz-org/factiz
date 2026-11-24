@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bu videodaki kadın kuyruğu Dublin'de değil, Amsterdam'da bir giyim indirimi satışı için bekliyordu",
+  "oordeel_zin": "Video gerçek, ancak 19 Eylül'de Amsterdam-West'te bir moda markasının indirim satışında çekildi; Dublin'le bir ilgisi yok [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "21 Eylül'den beri X'te, sokakta uzun bir kadın kuyruğunu gösteren ve yalnızca \"Dublin 2027\" sözlerini taşıyan bir video dolaşıyor [5]. Video 19 Eylül'de Amsterdam-West'te bir moda markasının indirim satışında çekildi ve videoyu ilk olarak markanın kendisi çevrimiçi paylaştı [1] [9]. Aynı video, ücretsiz çocuk bakımı için bekleyen Müslüman kadınların kuyruğu olarak da dolaştı; bu da doğru değil [7] [8] [9].",
+  "tekst": "21 Eylül Pazartesi günü saat 9.36'da, adının yanında İrlanda bayrağı bulunan bir hesap X'te sokakta uzun bir kadın kuyruğunu gösteren bir video paylaştı [5]. Videoyla birlikte yalnızca \"Dublin 2027\" yazısı var [5]. Paylaşımı yapan kişinin bununla ne demek istediğini gönderi söylemiyor, ancak açıklama olmadan bu, bugünün ya da yakın geleceğin Dublin'inden bir görüntü gibi duruyor.\n\nAynı video o hafta başka bir açıklamayla da dolaştı. Felemenkçede, ücretsiz çocuk bakımı için bekleyen Müslüman kadınlar olarak [8]. İspanyolcada, bir Hollandalı kadının filme aldığı ve Müslüman kadınların çocuklarını ücretsiz kreşe kaydettirdiği iddia edilen bir kuyruk olarak [7]. İngilizcede ise Instagram ve Facebook'ta, kadınların çocuklarını devletin ücretsiz bakımına kaydettirmeye geldiği açıklamasıyla [9].\n\nKuyruk gerçekten var, ama başka bir şey için: örtünmeye uygun giyim satan Oemaayah markası 19 Eylül Cumartesi günü bir sample sale düzenledi; yani numune modellerin ve artan stokların düşük fiyatlara satıldığı bir satış [2] [9]. Marka bu satışı önceden Instagram ve TikTok'ta duyurmuştu, yer Amsterdam-West'te bir etkinlik mekânıydı [2] [7]. 20 Eylül Pazar günü marka kuyruğun videosunu kendisi çevrimiçi paylaştı ve gelen herkese teşekkür etti [1] [9]. Marka, Full Fact ve Reuters'e videonun satışa girmek için bekleyen ziyaretçileri gösterdiğini doğruladı [9].\n\nFull Fact ve Maldita'ya göre yer, çitlerin, evlerin ve binanın Google görüntüleriyle örtüştüğü De Hallen Studio's'tur [7] [9]. Bu stüdyolar Oud-West'teki eski tramvay depolarında bulunuyor ve etkinlikler için kiralanıyor [4]. \"Dublin 2027\" paylaşımı, markanın videosundan yaklaşık on altı saat sonra geldi. Bunu, X ve Instagram'ın bir gönderiye verdiği, paylaşım anını içeren numaralardan çıkarıyoruz [1] [5]. Yani videonun Dublin'le bir ilgisi yok.\n\nÇocuk bakımı açıklaması da doğru değil. Hollanda'da sıraya girerek alınan ücretsiz çocuk bakımı diye bir şey yok [3]. Hükümet, çalışan ebeveynler için çocuk bakımını 2029'dan itibaren neredeyse ücretsiz hale getirmek istiyor: o zaman gelirden bağımsız olarak herkese yüzde 96'sı karşılanacak ve devlet bunu doğrudan çocuk bakım kuruluşuna ödeyecek [3]. Ebeveynlerin bu ödemeyi artık kendilerinin talep etmesi gerekmeyecek [3].\n\nEFE Verifica, bulabildiğimiz ilk doğrulama kuruluşuydu, 22 Eylül'de [6]. AFP Factcheck Nederland ve Maldita 24 Eylül'de, Full Fact 29 Eylül'de izledi [7] [8] [9].",
+  "niet_weten": "\"Dublin 2027\" ifadesiyle gönderiyi yazan kişinin tam olarak ne demek istediğini bilmiyoruz; markanın videosuna ilk kez kimin farklı bir açıklama getirdiğini de bilmiyoruz. Çocuk bakımıyla ilgili açıklamayı içeren Felemenkçe bir gönderiyi kendimiz bulamadık; bunu AFP Factcheck Nederland'ın doğrulamasından biliyoruz [8]. Kuyruktaki kadınların Müslüman olup olmadığını bilmiyoruz ve bu doğrulama için bunun önemi yok: kadınlar kıyafet almak için kuyruğa girmişti.",
+  "nog_uitzoeken": [
+   "Yazarın 'Dublin 2027' ile ne demek istediği.",
+   "Çocuk bakımıyla ilgili açıklamayı içeren Felemenkçe bir gönderi. Bunu yalnızca AFP Factcheck Nederland'ın doğrulamasından biliyoruz."
+  ],
+  "tijdlijn": [
+   "Oemaayah'ın Amsterdam-West'teki sample sale'i [2] [9].",
+   "Marka, kuyruğun videosunu ziyaretçilere teşekkür ederek Instagram'a koyuyor [1].",
+   "X'te bir paylaşım videoyu yalnızca \"Dublin 2027\" sözleriyle yayınlıyor [5].",
+   "EFE Verifica: kadınlar bir mağazanın müşterileri [6].",
+   "AFP Factcheck Nederland ve Maldita: bir indirim satışı için kuyruk [7] [8].",
+   "Full Fact: bir giyim markasının Amsterdam'daki pop-up satışı [9]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 21 Eylül 2026, 9.36.",
+   "Oemaayah'ın Instagram'ı, 20 Eylül 2026: Amsterdam-West'teki sample sale kuyruğunun videosu."
+  ],
+  "beeld_alt": [
+   "X'teki paylaşım: Dublin 2027 sözleri ve sokakta uzun bir kadın kuyruğunun videosu. Damga: YANILTICI.",
+   "Markanın sample sale önündeki ziyaretçi kuyruğunun videosu."
+  ]
+ }
+}

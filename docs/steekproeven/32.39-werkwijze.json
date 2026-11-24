@@ -1,0 +1,606 @@
+{
+ "toelichting": "PLAN #32.39: per nagekeken artikel of de vorm, de truc en de methoden van Haiku (truc-v1) kloppen met de volledige alineatekst van het artikel (goed of fout). 'claude' zijn de 100 van Claude: blind gelezen door vier deelagenten met dezelfde regels, elk 25, en vier foutlabels door de hoofdsessie nagelezen tegen het artikel (alle vier terecht). 'po' is voor de 50 van de PO.",
+ "claude": {
+  "06721e095c6b290c": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet misleidend zijn: echte feiten (Gates financierde onderzoek naar een andere teek, steunde kweekvlees) gebruikt voor een valse conclusie; geen kop of bijschrift dat niet bij de inhoud past."
+  },
+  "0dc198df23e3d37e": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Twee oude foto's uit Libanon en Libië, gevonden met omgekeerd zoeken (TinEye, Google) en bevestigd met Getty en Reuters."
+  },
+  "0f6a496c426bfc3f": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "AI-collage, beslist met de detector Was It AI en het nakijken van de gezichten; omgekeerd zoeken is ook gedaan."
+  },
+  "1094670fe178e035": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte camerabeelden van het Pentagon met een vals verhaal; de beelden van Defensie (via AP) en de foto's van de FBI beslissen."
+  },
+  "1127dffbf0403e1e": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Zoeken op woorden en het account achter het bericht zijn niet gedaan (Pixabay kwam uit het omgekeerd zoeken, Oreotikki is de fotograaf); het gesprek met fotograaf Jitendra Gupta is bij de bron zelf nagegaan, naast omgekeerd zoeken."
+  },
+  "14785ab5cf196fc3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Cijfers van de Federal Reserve en het ISM, economen per mail en het campagneteam van Warren gesproken."
+  },
+  "15007bf9fc7ecf9f": {
+   "vorm": "fout",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Vorm moet alleen tekst zijn: bronnen citeren de woorden, van een screenshot is geen sprake; truc moet valse context zijn: echte woorden van Christopher Miller toegeschreven aan Lavrov."
+  },
+  "1a3d1ed1ae60afba": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Instagramvideo van Padre Kelmon; de UnB gevraagd en de catalogus op 'Bíblia Sagrada' doorzocht."
+  },
+  "1c14aafdcffc8a9f": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte foto uit 2015 in Carrickfergus; het BBC-bericht van toen en geen enkel bericht over dit jaar."
+  },
+  "1f39568ac1018bc3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Collage van een hulpactie na tyfoon Kristine en wc's in Vietnam (Flickr-kopie uit 2009); de methoden kloppen in grote lijnen."
+  },
+  "1fac8006cad19ab8": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Uitspraak in de Daily Record; Full Fact vroeg Smith en de Liberal Democrats en las de standpunten van de andere partijen."
+  },
+  "20d1c76bdda9b1d3": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet vals verband zijn: de kop belooft gratis passen, het stuk zelf gaat over een seizoenspas en Knoebels; de site doet zich niet voor als Six Flags."
+  },
+  "211b75807d0fec71": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Omgekeerd zoeken op de keyframes staat er letterlijk en ontbreekt; de Facebookpagina met het origineel is niet het account achter het bericht maar een eerdere versie."
+  },
+  "214582cca15ad6b0": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet verzonnen zijn: de clausule over terugbetalen met grond is bedacht, er worden geen ware feiten misleidend gebruikt."
+  },
+  "24c9a116198f4b68": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Omgekeerd zoeken is niet gedaan: de keyframes leverden een watermerk op, dus het beeld onderzocht; het gesprek met fotograaf Momen El Halabi beslist en staat er wel."
+  },
+  "2531421be034b840": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Het account achter het bericht is niet onderzocht: dat het Congress-account het beeld in 2019 plaatste is een eerdere versie; omgekeerd zoeken beslist en staat er."
+  },
+  "2763f27226397315": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet valse context zijn: een echte video van Sirisha Rao, die zelf niet zegt de vrouw van Abhinandan te zijn, met een vals bijschrift."
+  },
+  "2779afc0ff342333": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet verzonnen zijn: een valse regel zonder echt materiaal erachter, dus niet onduidelijk; het TSE gevraagd en de regels gelezen."
+  },
+  "290b2af0832b02be": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc moet verzonnen zijn: een vals bericht over een arrestatie, geen echt materiaal in een andere context; de zoon en de ontkenning van Umar beslissen."
+  },
+  "2968df1c0d39ca30": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Collage van een politieactie in Telangana; omgekeerd zoeken vond de tweet van ANI, zoeken op woorden de nieuwsberichten."
+  },
+  "3184be163527b2d9": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Video uit Kathua; het bord Chenab Textiles, zoeken op YouTube en het interview met de SSP; de lokale journalist ontbreekt, een kleine stap."
+  },
+  "342e1dec8882c8d3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Het archief is geen methode hier: de website uit 2016 is achtergrond over de verspreiding; het zijn de deskundigen en de gelezen Japanse studie (bij de bron zelf nagegaan)."
+  },
+  "36ff8bbb41b97f5b": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Still uit de film Roar; omgekeerd zoeken beslist, zoeken op woorden, de reservaatbeheerder en het beeld bekeken kloppen ook."
+  },
+  "394fa0a5f8ba23e9": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Kort stuk; de verklaring van de onderminister van Justitie beslist, verzonnen past zo goed als iets anders."
+  },
+  "40cb89ec1457ad74": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte still van Hiru TV met een valse kop van Mawbima; de krant en het programma zelf nagekeken en de beelden vergeleken."
+  },
+  "42a2a5fc817e7cdf": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Klopt in grote lijnen: de redactie sprak de technische dienst van het leger en las army.lk; de citaten zijn zwak (Wikipedia staat onder officieel), maar de methoden zelf staan in de tekst."
+  },
+  "437b0b59ba7f07ea": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode: 'bij de bron zelf nagegaan' klopt niet, het PEI wordt in de post niet genoemd en hetzelfde citaat staat al onder deskundige; het moet officiële cijfers (RKI, PEI) plus een deskundige zijn."
+  },
+  "4458c7afaace02d9": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude foto uit 2017 met een nieuw verhaal, gevonden met omgekeerd zoeken; de nieuwsberichten erbij zijn een kleine weglating."
+  },
+  "47a9be1a92f732c3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Foto uit een Saudische trein, gevonden met omgekeerd zoeken en daarna bevestigd met zoeken op woorden."
+  },
+  "489c52ef1143bf03": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode: de deskundige ontbreekt (staat zelfs onder niet gevonden), terwijl oud-ambassadeur Steven Pifer de beweringen over Oekraïne meerdere keren weerlegt; erbij hoort 'een deskundige'."
+  },
+  "48d70291213675b9": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Verzonnen uitspraak op naam van Honjo, die het zelf ontkende; een immunoloog weerlegde de rest."
+  },
+  "4aadf17c5e0bc2e2": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Gerucht uit een conceptontwerp en een tweet van Musk; de officiële kanalen van Tesla en Musk nagekeken, het Mashable-bericht is een kleine weglating."
+  },
+  "4acaf1817f31d3ae": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Video met een door AI gemaakte verkoper; het autobedrijf gaf een verklaring, het account, de rekening en de kenmerken van AI zijn onderzocht."
+  },
+  "4b6ac2145ff48e2d": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Beelden uit een film als echte bruiloft gedeeld; de redactie sprak de acteur, de cameraman en een filmmaker."
+  },
+  "4c827bdc15c390f5": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc: een echte foto van Apollo 17 uit 1972 met een vals verhaal over Orion is valse context, geen vals verband."
+  },
+  "4ea50f08c5a4f9f2": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "fout",
+   "toelichting": "Truc: de maker bedoelde de poster als grap, dus satire; methode: hetzelfde citaat van de maker staat ook onder 'het account achter het bericht', maar dat account plaatste de virale post niet, dus alleen 'bij de bron zelf nagegaan'."
+  },
+  "4eb883a8a9cdbe37": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte video met een vals religieus verhaal; politie, een activist uit de streek en de lijst van arrestanten gebruikt."
+  },
+  "50f41d1df50723e6": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude video uit Ghaziabad; omgekeerd zoeken op beelden uit de video, nieuwsberichten, de politie van Bareilly en de gebruiker achter de post."
+  },
+  "532416402625756d": {
+   "vorm": "fout",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Vorm: Trump zei dit tegen verslaggevers, het is een gesproken uitspraak en dus 'anders' (of video), geen 'alleen tekst'."
+  },
+  "534bfeba29333997": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Collage van oude foto's uit Australië; omgekeerd zoeken, zoeken op de naam op het uniform en het logo bekeken."
+  },
+  "58e00e6c026e8f0c": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode: het doorslaggevende werk is het nalezen van het artikel van Tokyo Sports dat de post aanhaalt, en dat is 'bij de bron zelf nagegaan', niet 'anders'."
+  },
+  "5ce3d1b71c239dc4": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode: archiefversies van de posts zijn geen onderzoek; het moet zoeken op woorden (Engels en Russisch), geen betrouwbare bron meldt het en het account achter het bericht (de eerste post) zijn."
+  },
+  "5d4fc564613553ba": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc: echt onderzoek met cavia-serum uit de jaren vijftig verkeerd uitgelegd is misleidend, niet onduidelijk."
+  },
+  "5def943ede470457": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Stuk van de satirische site The Babylon Bee als echt gedeeld; de eigen pagina van de site nagekeken."
+  },
+  "61a0653e51768589": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte foto's uit 2014 van een testvliegtuig; site van de Duitse regering, een hoogleraar luchtvaart en een vakartikel."
+  },
+  "6660915388847862": {
+   "vorm": "fout",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Vorm: een nagemaakte webpagina van het ministerie, dus 'nagemaakte website of artikel', geen foto; truc: echte zinnen van Sanidad met een kop over PCR erin gezet, dus bewerkt (of nagemaakt), niet verzonnen."
+  },
+  "6974da7786a38bc8": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte foto van een Klan-optocht uit 2009; omgekeerd zoeken vond het onbewerkte beeld."
+  },
+  "6c85b83d52010fd9": {
+   "vorm": "fout",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Vorm: een bekendmaking met een aanvraagformulier, dus 'document of brief'; methode: niet leeg, de redactie zocht op woorden en las de site van de Amerikaanse ambassade en Travel.State (officiële documenten)."
+  },
+  "71cfc4316e7bed51": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude video uit West-Bengalen; op woorden gezocht naar aanleiding van de Bengaalse leuzen en de nieuwsberichten gevonden."
+  },
+  "7ebd40bcc583b765": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "fout",
+   "toelichting": "Truc: het verhaal is verzonnen, geen vals verband; methode: omgekeerd zoeken op het beeld staat niet in de tekst, en de politie is niet zelf gevraagd, haar ontkenning kwam uit lokale media (het echte nieuws)."
+  },
+  "8029d61534fd97a4": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode fout: de lanceerdatum van Togg is achtergrond, geen officieel document; doorslag gaf de plaat zoeken en de oudere post van 2019 op het Facebookaccount (eerdere versie)."
+  },
+  "821ab47d2f56a7c8": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Uitspraak in het parlement over wachtlijstcijfers; officiële NHS-cijfers en navraag bij het ministerie kloppen."
+  },
+  "8b44a9193aebe422": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bericht over een niet-bestaande beving, weerlegd met de gegevens van Kandilli en AFAD."
+  },
+  "8cebae75dbabc3e5": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte video-advertentie van een echte arts; zijn eigen pagina en de FDA-registratie zijn nagegaan."
+  },
+  "8e806ee1a045091b": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Video en blog die ONS- en Vaers-cijfers verkeerd lezen; officiële cijfers en de bestuurslijst van Pfizer."
+  },
+  "9765b3fcec627d95": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Halve waarheid over online stemmen, weerlegd met de verklaring van de kiescommissie."
+  },
+  "9851f3981efa2f2a": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte foto's met een vals verhaal; leger en burgemeester gevraagd, omgekeerd zoeken zonder uitkomst."
+  },
+  "9a8abae1e62dcf59": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode fout: de video van journalist Bhuyan is geen onderzoek naar het account achter de post; het moet zoeken op woorden plus de onbijgesneden foto van een andere gebruiker (eerdere versie) zijn."
+  },
+  "9d4e626fc108d564": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode fout: Liebig sprak in 2013 met de Spiegel en niet met Correctiv, dus het echte nieuws in plaats van bij de bron zelf nagegaan; omgekeerd zoeken klopt."
+  },
+  "a26f5d1b1ecc4d67": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Foto van een fotoshoot als huwelijk gebracht; de man zelf via Instagram gevonden en gesproken."
+  },
+  "a752ce3b6460c458": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte foto, via omgekeerd zoeken het origineel uit 2008 op Sohu gevonden."
+  },
+  "aa3cba5dbbb3332e": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude foto uit 2019 met een nieuw verhaal; omgekeerd zoeken en de nieuwsberichten van toen."
+  },
+  "ab968d0c21126581": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Tekst achter een betaalmuur; vorm Instagrampost, geen oordeel of werkwijze te lezen, dus onduidelijk en leeg kloppen."
+  },
+  "b1e1af09e693fc45": {
+   "vorm": "fout",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Vorm fout: de bewering viel in een tv-interview bij Meet the Press, dus video; BLS-cijfers kloppen."
+  },
+  "b5e7c531f8f81cbd": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "fout",
+   "toelichting": "Truc fout: echte foto's van branden in Nigeria met een vals verhaal is valse context; methode fout: het beslissende omgekeerd zoeken op het beeld ontbreekt en het citaat bij officiële documenten is achtergrond."
+  },
+  "b7577d16e52678d7": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Ingekorte video met valse Perzische ondertiteling; de volledige toespraak gaf de doorslag, zoeken op woorden is zwak onderbouwd maar het vinden van de toespraak past."
+  },
+  "b7823b3ea2d1a9cb": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Berichten over voedsel in de koelkast; deskundigen en de voedselautoriteit geraadpleegd."
+  },
+  "b79ed53433a5033a": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Uitspraak in een tv-uitzending; beurscijfers en economen."
+  },
+  "b7c17fe209582989": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Nepaccount op naam van een journalist; de journalist zelf gebeld."
+  },
+  "ba83219534de2a1a": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Truc fout: het standbeeld bestaat echt maar werd door de familie geplaatst, dus valse context (een echt gegeven met een vals verhaal), geen vals verband."
+  },
+  "bdb9180e2fe45d28": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Satirepagina; het account en de kijkcijfers van ABC en Nielsen nagegaan, al is het citaat bij officiële cijfers achtergrond."
+  },
+  "bfa5e1bbb3a82b9e": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "AR-video uit Qingdao als echt in Peking gebracht; bewerkt en valse context passen even goed, omgekeerd zoeken gaf de doorslag."
+  },
+  "c32c17b13fdc2f23": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Samengestelde foto; deskundige, beeldanalyse en de originele foto's bij Getty en Alamy."
+  },
+  "c4c06fbb92e20278": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Tekst op een beeld, weerlegd met de data uit de Senaatsstukken."
+  },
+  "c5115d6c6505d858": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Methode fout: het citaat bij anders is commentaar over ondemocratische regimes, geen werkwijze; alleen de officiële uitslag van de kiescommissie hoort erbij."
+  },
+  "c77343111dd1b91a": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Video met een overdreven gezondheidsbewering; deskundige, CDC-richtlijn en de gelezen meta-analyses kloppen."
+  },
+  "c9bbf86c325e8b01": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Nep-account dat zich voordoet als Billa; het account achter de post beslist, de andere stappen staan in de tekst."
+  },
+  "cc45cef117d9c03b": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Tweets met een misvatting over een regel; geen categorie past duidelijk beter dan onduidelijk; TSE en TRE-DF zelf gevraagd."
+  },
+  "cf8eeadeb89830ee": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude video met nieuwe bewering; spandoek in beeld, zoeken op woorden en de originele upload uit 2018 kloppen."
+  },
+  "d271b545e61cb5e4": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Spraakbericht met een verzonnen voorval; ziekenhuis en politie gevraagd."
+  },
+  "d36dd1e674df2ebd": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Tweet met beelden uit een echte video met een ander verhaal; omgekeerd zoeken, woorden en het account kloppen."
+  },
+  "d680527fa2e052d4": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Oude video uit Perth als Sindh; omgekeerd zoeken beslist, de pagina van de maker telt als account."
+  },
+  "d6b9d819b8199ba2": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte foto; omgekeerd zoeken, watermerk en de accounts van de maker staan in de tekst."
+  },
+  "d86e0c0207352176": {
+   "vorm": "fout",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Vorm is een echt NYT-artikel gedeeld in posts, dus screenshot van een post of anders, geen voorpagina; truc is een kop die meer zegt dan de uitspraak, dus misleidend of vals verband, geen valse context."
+  },
+  "da1ad8568956919d": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "De plek bepaald staat er niet: DW noemt alleen waar de video gefilmd is, niet dat ze die plek zelf vaststelden; de rest klopt."
+  },
+  "da5e3566d2a01000": {
+   "vorm": "goed",
+   "truc": "fout",
+   "methode": "goed",
+   "toelichting": "Een uitspraak met een verkeerd detail rond echte feiten (Doval was al in Kandahar) is misleidend, geen valse context."
+  },
+  "dbc5e81d2cafea50": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "AI-beeld; kenmerken van AI, omgekeerd zoeken, woorden, geen bericht en de site van de dochter kloppen."
+  },
+  "dbcef002ceac501e": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "AI-beeld; omgekeerd zoeken en een AI-detector staan in de tekst."
+  },
+  "decf4a34996f222c": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte foto uit 2023 als Parijs 2024; omgekeerd zoeken en zoeken op woorden kloppen."
+  },
+  "df2137a2be35b7a3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Uitgeknipt stuk van een factcheckvideo met een vals verhaal; zoeken op woorden vond het origineel."
+  },
+  "df2a4f0650ead333": {
+   "vorm": "fout",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Vorm is een uitspraak in een tv-townhall van Fox News, dus video, geen alleen tekst; truc en methoden kloppen."
+  },
+  "dfd57b35fd7a10b3": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Facebookpost met deels ware feiten en een valse slotsom; deskundigen en de berichtgeving kloppen."
+  },
+  "e3f8d19dbcd20921": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Screenshot van een blogartikel over een echt patent; het patent bij de USPTO en de oude versie van het artikel kloppen."
+  },
+  "e9dc924af519bbea": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Echte video met een vals verhaal; zoeken op woorden en de volledige video van de overheid kloppen."
+  },
+  "f012549ba0541cfe": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Beeld van een kunstenaar met dubbelgangers en AI; de woordvoerder, de kenmerken van AI en de eerste post kloppen."
+  },
+  "f6cf0256d08b9186": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Omgekeerd zoeken staat nergens in de tekst; het origineel op Selenskyjs eigen Instagram is bij de bron zelf nagegaan of een eerdere versie, naast de vergelijking van het beeld."
+  },
+  "ff1430440abb35f9": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "fout",
+   "toelichting": "Een studie uit 1980 is geen archief of eerdere versie maar wetenschappelijke literatuur (anders); deskundigen en officiële bronnen kloppen."
+  },
+  "ff47e33853c565ff": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Verzonnen tekstbericht; zoeken, geen bericht, Gilmar Mendes en Twitter gevraagd en het echte nieuws kloppen."
+  },
+  "ff81ad0192751a27": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Teksten en video met een misleidende gezondheidsbewering; Fiocruz en de gezondheidsdienst kloppen."
+  },
+  "ffa78f42909d388c": {
+   "vorm": "goed",
+   "truc": "goed",
+   "methode": "goed",
+   "toelichting": "Bewerkte video; omgekeerd zoeken vond de volledige opname van de echte ontmoeting."
+  }
+ },
+ "po": {}
+}

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck navo-niet-een-inch van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "2ada1381e9cc71a6",
+ "veldafdrukken": {
+  "kop": "41da5e38b68e0840",
+  "oordeel_zin": "fee9bc3ff4020e06",
+  "bewering": "16c6291992b25a8a",
+  "kort": "0c743f9722250a6f",
+  "tekst": "5923e967fa1ca04c",
+  "niet_weten": "cf28c56871157b5a",
+  "bereik": "177929ad16e74693",
+  "nog_uitzoeken": "11bc876702897014",
+  "tijdlijn": "fc7ac7e18dc029c3",
+  "beeld_bijschrift": "4a6c24b83199d5c6",
+  "beeld_alt": "f5ca3fbaef93b279"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Hiçbir antlaşma ya da imzalı anlaşma NATO'nun Rusya yönündeki ülkeleri üyeliğe kabul etmesini yasaklamadı",
+  "oordeel_zin": "Batılı siyasetçiler 1990'da sözlü olarak NATO'nun doğuya doğru genişlemeyeceğini söyledi, ancak yazılı olarak yalnızca Doğu Almanya ile ilgili bir şey çıktı ve Rusya 1997'de her ülkenin seçme hakkını kendisi imzaladı [1] [2] [4].",
+  "bewering": "NATO anlaşmaya sadık kalmalı ve Rusya yönündeki daha fazla ülkeyi üye yapmamalıydı. Yani Rusya kırmızı çizgiyi Ukrayna'da çekti.",
+  "kort": "Hollandaca bir X gönderisi, NATO'nun Rusya yönündeki ülkeleri kabul ederek bir anlaşmayı bozduğunu söylüyor [11]. 1990'da Amerikalı ve Alman siyasetçiler Mihail Gorbaçov'a sözlü olarak NATO'nun doğuya doğru genişlemeyeceğini söyledi, ancak Almanya'nın yeniden birleşmesine ilişkin antlaşmada yalnızca Almanya'nın doğusuyla ilgili bir şey yer alıyor [1] [2]. 1997'de Rusya, her ülkenin güvenliğini nasıl düzenleyeceğini seçme hakkını tanıyan bir belgeyi NATO ile birlikte kendisi imzaladı [4].",
+  "tekst": "17 Ekim 2026 Cumartesi günü saat 19.48'de X'te, Rusya'nın savaşa nedensiz yere başladığını söyleyen herkese yönelik bir gönderi yayımlandı [11]. Gönderiye göre NATO bir anlaşmaya sadık kalmalı ve Rusya yönündeki ülkeleri kabul etmemeliydi [11]. Hangi anlaşma olduğu yazılmamış [11]. Buna karşılık gönderide, National Security Archive'den alınmış, James Baker ile Mihail Gorbaçov arasındaki 9 Şubat 1990 tarihli görüşmenin Amerikan tutanağının, \"one inch to the east\" cümlesini içeren bir taraması var [11] [1]. Taramanın üstünde, görüşmenin NATO içinde birleşik bir Almanya ve \"no NATO expansion\" hakkında olduğu yazıyor [11]. Tutanağın kendisinde bu cümle bir koşulun içinde geçiyor: NATO'ya bağlı bir Almanya'da Amerika Birleşik Devletleri'nin varlığını sürdürmesi halinde [11] [1].\n\n1990'da neler söylendi\n\n9 Şubat 1990'da Amerikan Dışişleri Bakanı James Baker, Moskova'da Gorbaçov ile Almanya'nın yeniden birleşmesini görüştü [1]. Amerikan tutanağına göre, birleşik bir Almanya NATO üyesi kalırsa NATO'nun doğuya doğru \"not one inch\" ilerlemeyeceğini üç kez söyledi [1]. Bir gün sonra Federal Şansölye Helmut Kohl, Gorbaçov'a NATO'nun faaliyet alanını genişletmemesi gerektiğini söyledi [1]. Batı Almanya Dışişleri Bakanı Hans-Dietrich Genscher bunu Ocak ayı sonunda bir konuşmasında zaten dile getirmişti [1].\n\nTutanakları 2017'de yayımlayan George Washington Üniversitesi'ne bağlı National Security Archive'e göre mesele yalnızca Doğu Almanya ile ilgili değildi [1]. Nitekim İngiliz Bakan Douglas Hurd, Mart 1991'de hâlâ NATO'nun Orta ve Doğu Avrupa ülkelerini kabul etme planı olmadığını söylüyordu [1]. Ancak Başkan George Bush, Şubat 1990 sonunda Kohl'a Batı'nın kazandığını, Moskova'nın kazanmadığını söyledi [1].\n\nYazıya neler geçti\n\nYeniden birleşmeye ilişkin antlaşma 12 Eylül 1990'da Moskova'da iki Almanya, Sovyetler Birliği, Amerika Birleşik Devletleri, Birleşik Krallık ve Fransa tarafından imzalandı [2]. Almanya'nın doğusuna yabancı asker ve nükleer silah yerleştirilemeyecek, Almanya ise hangi ittifaka ait olacağını kendisi seçebilecek [2]. Başka ülkeler ya da NATO'nun genişlemesi hakkında antlaşmada hiçbir şey yok [2]. National Security Archive'e göre doğuyla ilgili güvenceler antlaşmalarda değil, yalnızca görüşme tutanaklarında yer alıyor [1].\n\n1997'de NATO ile Rusya Paris'te ilişkilerine dair bir belge imzaladı [4]. Bu belgede her ülkenin güvenliğini nasıl düzenleyeceğini kendisinin seçme hakkını tanıyorlar [4]. Yeni üyeler konusunda belge yalnızca NATO'nun oraya nükleer silah yerleştirme planı olmadığını söylüyor [4]. 2008'de NATO ülkeleri Ukrayna ve Gürcistan'ın üye olacağı konusunda anlaştı [6]. Ukrayna şu anda üye değil [9].\n\nGorbaçov'un kendisi ne dedi\n\nGorbaçov 2014'te verdiği bir röportajda, NATO'nun genişlemesinin 1990'da hiç gündeme gelmediğini söyledi [3]. Ona göre Baker'ın güvencesi Doğu Almanya ile ilgiliydi ve orada düzenlemeye uyuluyor [3]. NATO'yu genişletme yönündeki sonraki kararı ise 1990'da kendisine verilen güvencenin ruhuna aykırı olarak nitelendirdi [3].\n\nŞimdiki anlatı\n\nRusya Devlet Başkanı Vladimir Putin Aralık 2025'te, doğuya genişlememe sözünün kamuya açık biçimde verilmediğini söyledi [7]. 26 Temmuz 2026'da ise Batı'nın Gorbaçov'a NATO'yu genişletmeme sözü verdiğini söyledi [8]. NATO bu sözü bir efsane olarak adlandırıyor: 1990'daki fikirden vazgeçildi ve Rusya ile yapılmış hiçbir antlaşma yeni üyeleri yasaklamıyor [5]. Sızdırılan belgelere göre Rusya, Kasım 2026'da Abu Dabi'deki görüşmelerde daha fazla genişlemenin yasaklanmasını istedi [9].\n\nNATO'nun genişlemesinin savaşı kışkırtıp kışkırtmadığı araştırmacılar arasında bir tartışma konusudur ve bunu burada karara bağlamıyoruz. Gönderi ise başka bir şey söylüyor: bir anlaşma olduğunu [11]. Bu anlaşma hiçbir zaman imzalanmadı [1] [2]. 1990 ve 1991'de Almanya hakkındaki görüşmelerde sözlü güvenceler verildi [1]. PolitiFact 2022'de benzer bir iddiayı büyük ölçüde yanlış olarak değerlendirdi [10]. Hollandaca alanında dpa 2025'te bağlamından koparılmış, Nieuwscheckers ise kısmen yanlış sonucuna vardı [12] [13].",
+  "niet_weten": "Yazarın hangi anlaşmayı kastettiğini bilmiyoruz; gönderideki 9 Şubat 1990 tarihli tutanak bir görüşmedir, yazılı bir anlaşma değildir. 1990'daki güvencelerin siyasi bir söz olup olmadığı konusunda yorumlar farklıdır: National Security Archive, Rusya'nın sonraki şikâyetlerini o dönemin tutanaklarına dayanan haklı şikâyetler olarak görüyor, NATO ise bu sözü bir efsane olarak adlandırıyor [1] [5].",
+  "bereik": "18 Kasım'da 1.070 beğeni ve 853 yanıt",
+  "nog_uitzoeken": [
+   "Diğer doğrulama kuruluşları farklı kararlar verdi. Bir iddia bir antlaşmadan ya da imzalanmış bir anlaşmadan söz ettiğinde AAP FactCheck, Polygraph ve Lead Stories \"yanlış\" kararını verdi; söz konusu olan genel anlamda tutulmayan bir vaatse PolitiFact, dpa ve Nieuwscheckers ortada bir karar seçti. Bu paylaşım \"anlaşma\" diyor ve biz \"yanıltıcı\" kararını verdik."
+  ],
+  "tijdlijn": [
+   "Baker, Moskova'da Gorbaçov'a NATO'nun doğuya doğru 'not one inch' ilerlemeyeceğini söylüyor [1].",
+   "Almanya'nın yeniden birleşmesine ilişkin antlaşma imzalanıyor; yalnızca Almanya ile ilgili [2].",
+   "İngiliz Bakan Hurd, NATO'nun Orta ve Doğu Avrupa'yı kabul etme planı olmadığını söylüyor [1].",
+   "NATO ve Rusya Paris'te belgelerini imzalıyor; belge her ülkenin güvenliğini seçme hakkını içeriyor [4].",
+   "Gorbaçov, NATO'nun genişlemesinin 1990'da görüşülmediğini söylüyor [3].",
+   "National Security Archive, 1990 ve 1991 görüşmelerinin tutanaklarını yayımlıyor [1].",
+   "Putin, St. Petersburg'da Batı'nın Gorbaçov'a NATO'yu genişletmeme sözü verdiğini söylüyor [8].",
+   "Bozulan anlaşma hakkında X'teki gönderi [11].",
+   "Sızdırılan belgelere göre Rusya, Abu Dabi'de NATO'nun daha fazla genişlemesinin yasaklanmasını istiyor [9]."
+  ],
+  "beeld_bijschrift": [
+   "X gönderisi, 17 Ekim 2026, 19.48."
+  ],
+  "beeld_alt": [
+   "NATO'nun Rusya ile yaptığı bir anlaşmayı bozduğunu söyleyen bir X gönderisinin, Baker ile Gorbaçov arasındaki 9 Şubat 1990 tarihli görüşmenin Amerikan tutanağının taramasıyla birlikte ekran görüntüsü. Damga: YANILTICI."
+  ]
+ }
+}

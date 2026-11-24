@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar ja) van de eigen factcheck zelensky-83-woningen-nepkrant van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "ja",
+ "brontaal": "nl",
+ "vingerafdruk": "258bc8cd7a0fcb29",
+ "veldafdrukken": {
+  "kop": "8333e22cf577ae58",
+  "oordeel_zin": "78108081cbfc0e71",
+  "bewering": "54a13059e8d2990c",
+  "kort": "e9a0b8cf00354a54",
+  "tekst": "f6fff83855e118af",
+  "niet_weten": "f821f2e45c9cfde9",
+  "bereik": "3bcfb46d32eb5f4e",
+  "nog_uitzoeken": "92b9391908ff1ac6",
+  "tijdlijn": "7b4cefec3eab0353",
+  "beeld_bijschrift": "1b0a42ebf9f5ad3f",
+  "beeld_alt": "c3e89ee60646a5ec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelenskyが海外に83件の物件を所有しているという話は、偽造された英国のニュースサイトが発信源",
+  "oordeel_zin": "情報源は、この話が出る12日前に登録されたサイトで、NABUは動画の女性はNABUで働いていなかったと述べている [3] [6]。",
+  "bewering": "ウクライナ汚職対策機関の元トップ:Zelenskyはスペインに6件、イギリスに14件、フランスに21件、イタリアに8件、アラブ首長国連邦に34件の物件を所有している。",
+  "kort": "9月7日、Xでウクライナ汚職対策機関の元職員がZelenskyは5カ国に83件の物件を所有していると明かすとされる動画が出回った [1]。この話は2025年8月にlondontelegraph.ukで始まった。同サイトはその12日前に登録されており、筆者名には盗用された写真が使われていた [3] [4]。同機関は動画の女性はそこで働いていなかったと述べており、Zelenskyの資産申告書には海外の83件の物件の痕跡はない [6] [9] [10]。",
+  "tekst": "投稿は月曜日の9月7日5時58分にXに現れ、77秒の動画が付いていた [1]。文面によると、ウクライナ汚職対策機関の元トップが、Zelenskyはスペインに6件、イギリスに14件、フランスに21件、イタリアに8件、アラブ首長国連邦に34件の物件を所有していると述べているという [1]。合計で83件になる。11月18日の時点で、投稿は39,340回閲覧されていた [1]。動画の映像では、女性はNational Anti-Corruption Bureau of UkraineのOlena K.と表示され、フランス語の字幕は同局の女性調査員と呼んでいる [1]。彼女を元トップにしているのは投稿の文面だけだ [1]。\n\nこの話は投稿より古い。2025年8月26日、Xで、ウクライナ国家汚職対策局NABUの元捜査官Olena K.についての英語の動画が出回った [2]。彼女は数千ページの資料を持ってヨーロッパに逃れ、Zelenskyがペーパーカンパニーを通じて合計12億ドル相当の100件を超える物件を購入した証拠を持っているとされた [5]。動画は情報源としてThe London Telegraphの記事を挙げていた [2]。その記事は、スペインを除いて投稿と同じ数字を挙げていた。スペインは6件ではなく26件で、合計は103件だった [2]。2026年4月には、83件という、より短いバージョンが再び出回り、最初はポーランド語とドイツ語だった [6] [13]。\n\nThe London Telegraphは新聞ではない。londontelegraph.ukというドメインは2025年8月14日に登録され、記事が出る12日前だった [3]。筆者名の横には、Helen Brownの写真が使われていた。彼女はThe Daily Telegraphなどに寄稿する英国のジャーナリストで、この記事とは無関係だった [4]。Euronewsによると、サイトにはこの1本の記事以外ほとんど何もなく、2025年の動画の英語の声はコンピューターで作られたように聞こえた [5]。このドメインの登録は2026年8月14日に失効した [3]。\n\n動画の女性はNABUで働いていなかった。NABUはCorrectivにそう述べ、広報担当者もAFPにそう述べた [6] [13]。NABUによると、現職でも元職でも、職員がZelenskyの海外の物件に関する文書を公表したことはない [6]。映像にぼやけて映る書類は、Myth Detectorによれば、ウクライナの検察当局と保安庁SBUが2025年7月22日に公開した書類だ [8]。それらは、国会議員Fedir Khrystenkoの親族に対する家宅捜索で出たもので、NABUのデータ漏洩をめぐる事件に関するものであり、Zelenskyとは関係がない [7]。\n\nZelenskyが何を所有しているかは、毎年公開される資産申告書に記載されている。2025年分は2026年3月30日に公表された [10]。そこにはキーウのアパートが載っており、うち2件は共有名義だ [9] [10]。ウクライナ国外の物件として、Slovo i DiloとFakty ICTVが挙げているのは1件だけで、Olena Zelenska名義のイギリスのアパートである [9] [10]。Slovo i Diloによると、夫妻は2014年からこれをリースホールド(イギリスの使用権)で保有している [9]。2025年に物件に実質的な変化はなかった [9] [10]。ただし、Zelenskyの申告書に載っていたイタリアの企業San Tommasoは2017年にForte dei Marmiの別荘を購入しており、RFE/RLが2019年にSlidstvo.infoの報道に基づいて伝えた [14]。Slovo i Diloによると、Olena Zelenskaは今もその企業の最終受益者だ [9]。企業が今もその別荘を持っているかどうかは、私たちには分からない。その別荘を含めても、イタリアの物件はせいぜい1件で、8件ではない。\n\n2025年のこの話は、Timur Mindichにも触れていた。Mindichは制作会社Kvartal 95の共同所有者で、Zelenskyの古い知人だ [2] [12]。Mindichに対しては、2025年11月から、国営企業Energoatomでの賄賂をめぐるNABUの本物の捜査が進んでいる [12]。NABU局長のSemen Kryvonosは2026年5月12日、Zelenskyはその捜査に登場しておらず、これまでも登場したことはないと述べた [11]。したがって、Mindichが容疑者であることは、83件の物件の話を真実にするものではない。\n\nLead Stories、Euronews、Myth Detector、Demagog、Correctivは、この話をすでに偽と評していた [2] [5] [6] [8] [13]。オランダ語のファクトチェックは見つからなかった。",
+  "niet_weten": "これらの動画を誰が作ったのかは分かっていません。Demagogが引用したNewsGuardによると、このサイトはロシアの影響工作「Storm-1516」の手口に似ているとのことですが、私たち自身では確認できませんでした [13]。Slovo i Dilo によると、オレナ・ゼレンスカ氏はキプロス、イタリア、ベリーズの企業の実質的所有者でもあります [9]。イタリアの企業は2017年に別荘を購入しましたが、現在もそれを所有しているかどうかは、これらの報道には書かれていません [14]。また、オランダ語の投稿は1件見つかりましたが、全部で何件あったのかは分かりません。",
+  "bereik": "11月18日時点で39,340回閲覧",
+  "nog_uitzoeken": [
+   "NABUがこの動画について独自の声明を出しているかどうか。現時点では、CORRECTIVとAFPを通じてしか伝わっておらず、NABUのサイトでは見つかりませんでした。"
+  ],
+  "tijdlijn": [
+   "検察当局とSBUが、国会議員Fedir Khrystenkoの親族に対する家宅捜索で出たNABUに関する書類を公開する [7]。",
+   "londontelegraph.ukというドメインが登録される [3]。",
+   "londontelegraph.ukの記事と、Olena K.についての英語の動画が現れる [2]。",
+   "Lead Storiesがこの話を偽と評する [2]。",
+   "NABUがEnergoatomでの賄賂に関する捜査を公表し、Mindichが容疑者となる [12]。",
+   "83件の物件という版がXにポーランド語とドイツ語で現れる [6] [13]。",
+   "NABUが、ZelenskyはEnergoatomの捜査に登場していないと述べる [11]。",
+   "londontelegraph.ukの登録が失効する [3]。",
+   "83件の物件を伝えるオランダ語の投稿 [1]。"
+  ],
+  "beeld_bijschrift": [
+   "Xの投稿、2026年9月7日5時58分。"
+  ],
+  "beeld_alt": [
+   "Zelenskyの5カ国83件の物件についての文面があるXの投稿のスクリーンショット。動画の一場面には、顔を判別できないようにした女性と、Olena K., National Anti-Corruption Bureau of Ukraineというキャプションが映っている。スタンプ:偽。"
+  ]
+ }
+}

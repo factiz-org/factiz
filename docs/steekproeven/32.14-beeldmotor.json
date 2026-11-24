@@ -1,0 +1,319 @@
+{
+ "_meta": "Labels van de voormeting voor de beeldmotor (PLAN #32.14), 2026-10-29, gelezen door Claude: per factcheckartikel van de 40 beeldclaims van O' (#32.12) of het virale beeld erin staat (een schermafbeelding van de post of een still uit de video), of het echte origineel erin staat, en of het ophaalprogramma het artikel mocht en kon ophalen. Gelezen uit de bijschriften, alt-teksten en tekst rond de beelden; Grandpass, Modi (Aragalaya), FactCheck.org en de twee van VERA Files ook in de browser bekeken. Geen beeld bewaard.",
+ "artikelen": [
+  {
+   "id": "gfc-28778bb840340b41",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "het virale beeld alleen als helft van het deelbeeld (een collage met stempel); de posts zelf zijn ingebedde Facebook-video's; origineel nee: het origineel uit Manado staat er als ingebedde Facebook-video, niet als beeld"
+  },
+  {
+   "id": "gfc-29fc9d4f7af2c841",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-94a849dd40512a3f",
+   "redactie": "FactRakers",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-99615cf97beec228",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: de oude video's uit 2022 staan er niet als beeld bij"
+  },
+  {
+   "id": "gfc-ce4ed76a7f5e8908",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-3e7633fa6928d478",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-226cc80a32e9de51",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-15c558049b5bc534",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here'); origineel nee: AI-beeld: er is geen origineel; het artikel toont de uitslag van een AI-detector"
+  },
+  {
+   "id": "gfc-92e6829033c07853",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-0d420df91778ded8",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here'); origineel nee: AI-beeld: er is geen origineel"
+  },
+  {
+   "id": "gfc-316cb928366de5d3",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-384b5c1e0c57f930",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: het beeld zelf is echt; het artikel toont de profielpagina's van het parlement"
+  },
+  {
+   "id": "gfc-10b529d1207ac47a",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-f1d99c45ea10a577",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here'); origineel nee: alleen de schermafbeelding van de post"
+  },
+  {
+   "id": "gfc-386b842597d059e3",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-03eee8de518843a7",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "een still uit de video alleen als helft van het deelbeeld (een collage met stempel); origineel nee: de video is echt (een officiële toespraak); alleen de vertaling is verzonnen"
+  },
+  {
+   "id": "gfc-f53ddfec4955455a",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here'); origineel nee: AI-beeld: er is geen origineel"
+  },
+  {
+   "id": "gfc-9c436a940063b097",
+   "redactie": "VERA Files",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": false,
+   "reden": "het virale beeld in de kopafbeelding en in de grafiek 'Say what?! The facts', met stempel; origineel nee: het losse beeld van de presentator staat er niet apart bij; niet bereikbaar: robots.txt staat het toe, maar de site gaf twee keer 429 aan het ophaalprogramma"
+  },
+  {
+   "id": "gfc-405c9255984def63",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-78c08edbbaa57dee",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-a7388187a8c9b9de",
+   "redactie": "FactCheck.org",
+   "viraal": "nee",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "de advertentie staat er als ingebedde post van X met video, niet als beeld; origineel nee: de podcast is geluid"
+  },
+  {
+   "id": "gfc-e04435572d83341f",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-1c0f618cc29fb640",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: een nagemaakte nieuwskaart; geen origineel als beeld"
+  },
+  {
+   "id": "gfc-a9558a95bfb5e928",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here'); origineel nee: geen beeld van de bron van de video"
+  },
+  {
+   "id": "gfc-44c2475807ca7226",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-320dbc939d0617d8",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-96fa3c625f6f6e90",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: de volledige video staat er niet als beeld bij"
+  },
+  {
+   "id": "gfc-c274af844acbfa70",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-c1abdd8faaffc456",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-9047adf0a5ac5cde",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-b3c393d8417d37c4",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-1cea1e9558afe500",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-01f986ec86d49d4f",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: de foto's van Wadduwa staan er niet apart bij"
+  },
+  {
+   "id": "gfc-796803f2b0df8197",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-79a9089faa80f29b",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  },
+  {
+   "id": "gfc-2167004a492f3726",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-f958fe5bb061f0d9",
+   "redactie": "FactRakers",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true
+  },
+  {
+   "id": "gfc-3c08b4127f3834de",
+   "redactie": "Fact Crescendo Sri Lanka",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": true,
+   "reden": "origineel nee: een nagemaakte nieuwsgrafiek; geen origineel"
+  },
+  {
+   "id": "gfc-d97fbc274d893195",
+   "redactie": "VERA Files",
+   "viraal": "ja",
+   "origineel": "nee",
+   "bereikbaar": false,
+   "reden": "het virale beeld in de kopafbeelding en in de grafiek 'Say what?! The facts', met stempel; origineel nee: het GMA-bericht staat er als link, niet als beeld; niet bereikbaar: robots.txt staat het toe, maar de site gaf twee keer 429 aan het ophaalprogramma"
+  },
+  {
+   "id": "gfc-1323d6a43cf8d32d",
+   "redactie": "FACTLY",
+   "viraal": "ja",
+   "origineel": "ja",
+   "bereikbaar": true,
+   "reden": "eerste beeld is de schermafbeelding van de post ('The archived post can be found here')"
+  }
+ ]
+}

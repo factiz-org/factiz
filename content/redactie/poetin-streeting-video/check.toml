@@ -1,0 +1,310 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.9, B82, B84, B85), in het Engels. Geschreven door Claude op het
+# dossier in data/redactie/poetin-streeting-video/dossier.md, nagelezen en goedgekeurd door de redactie van Factiz
+# (2026-11-19, PO: "3 checks in engels zijn nagelezen en goedgekeurd").
+
+sleutel = "poetin-streeting-video"
+status = "gepubliceerd"
+taal = "en"
+adres = "putin-uk-quote-streeting-skirt-video"
+kop = "No record that Putin said this about the UK, and the Streeting skirt video is altered"
+oordeel = "onwaar"
+oordeel_zin = "The quote has gone round without a source since December 2025, and the video of Wes Streeting is real footage from November 8, 2026 in which his trousers were turned into a skirt [2] [15] [16]."
+soort = "bewerkt"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Putin says he doesn't fear the UK because \"they can't even stop rubber boats invading their country or foreign men raping their women and children.\" He also said have you seen their Defence Secretary."
+platform = "X"
+eerst_gezien = "2026-11-10"
+posts = 1
+bereik = "14,991 likes and 471 replies on November 19"
+
+kort = """
+On November 9, an account on X posted a quote in which Vladimir Putin says he does not fear the UK and asks whether \
+people have seen its Defence Secretary, with a video of Wes Streeting in a skirt [1]. We found no record of Putin \
+saying these words: the same account had posted almost the same quote in December 2025 and again in October 2026, each \
+time as something new [2] [3]. The video is real footage of Remembrance Sunday on November 8, 2026, but Streeting wore \
+trousers, and his clothes were altered [12] [15] [16]."""
+
+tekst = """
+On Monday, November 9, 2026, at 8:57 UK time, an anonymous account on X that presents itself as a news service posted \
+a quote said to be from Vladimir Putin [1]. In it, the Russian president says he does not fear the United Kingdom, and \
+asks whether people have seen the British Defence Secretary [1]. The post has a video of 10.5 seconds in two halves: on \
+the left Putin at a table, on the right a phone video from the Remembrance Sunday ceremony in London [1]. By November \
+19 the post had 14,991 likes and 471 replies [1].
+
+The quote is not new: the same account posted almost the same words on December 13, 2025, as something Putin had said \
+that week [2]. That post had 140,751 likes on November 19 [2]. On October 10, 2026, the account posted the first half \
+again with a different ending, this time about members of parliament [3]. All three posts use the same footage of \
+Putin, at a table with an interpreter beside him [1] [2] [3]. The sentence about the Defence Secretary cannot come from \
+December 2025: Wes Streeting has held that post since July 20, 2026, and back then he was Health Secretary [6].
+
+We found no news report and no transcript in which Putin says these words [4] [5]. When Putin spoke about Europe in \
+early December 2025, at an investment forum in Moscow on December 2, he said Russia was ready if Europe started a war, \
+and he did not mention Britain [4]. In the week of the post, the news between Russia and Britain was about the G20: \
+Prime Minister Andy Burnham said Putin would not come to the summit in Manchester in 2027, and on November 16 a Russian \
+diplomat, not Putin, answered with a warning [5].
+
+The National Service of Remembrance at the Cenotaph in Whitehall took place on Sunday, November 8, 2026, with two \
+minutes of silence at 11:00 [7]. Streeting was there as Defence Secretary, and that evening he posted four photos of \
+the ceremony and of the parade of veterans [8]. Photos by Getty Images and Reuters show him in dark trousers and flat \
+men's shoes [12] [15]. A livestream of the day by the British government also shows him in trousers, AFP found [16].
+
+The altered pictures appeared within hours of the ceremony [9]. At 14:48 that Sunday, the same anonymous account \
+posted a photo in which Streeting wears a skirt and high heels and carries a handbag [9]. At 7:06 on Monday it posted a video of 21.5 seconds, \
+filmed from behind guardsmen in front of the Foreign Office building, as long as the altered clip that AFP examined \
+[10] [16]. The right half of the video in the Putin post shows the same spot from the same angle [1] [10].
+
+The real footage was filmed from the crowd: the independent journalist Louis Errington filmed the same scene and posted \
+it on Instagram just before midnight on November 8 [11]. In his video Streeting wears trousers and carries no bag, \
+according to AFP, Full Fact and Lead Stories [12] [15] [16]. Full Fact rated the claim false: the images and the video \
+were edited [15].
+
+How the clothes were changed is not settled: An-Nahar wrote that the video was altered with AI tools [13]. AFP ran it \
+through the detector Mever, which gave an 87 percent probability of AI [16]. Animal Político reported that Google's \
+SynthID tool flagged the lower half of his body as digitally altered [14]. All agree that the ceremony footage itself \
+is real and that only his clothes were changed [13] [14] [16].
+
+The altered pictures went round in Polish, Arabic and Korean, and a fact-checker in Mexico also looked at them [12] \
+[13] [14] [16]. Many of the posts used them to mock Britain or Streeting himself [12] [16]. Lead Stories was the \
+first fact-checker we found, on November 10 [12]. None of the fact-checks we read looked at the Putin quote [12] [13] [14] [15] [16]."""
+
+niet_weten = """
+We do not know who wrote the quote or who first put it online; the oldest version we found is from December 13, 2025 \
+[2]. We do not know which meeting the footage of Putin comes from. We do not know who altered the photo and the video, \
+or with which tool: the detectors used by AFP and Animal Político point to AI, but such tools can be wrong [14] [16]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Which meeting the footage of Putin comes from, and whether its sound was removed or replaced.",
+  "Who made the altered photo and video, and whether they first appeared on this account or somewhere else.",
+  "Whether the right half of the video in the post is frame for frame the altered video of 7:06, and whether that video was made from the footage by Louis Errington.",
+  "Whether the quote on its own should be False or Unproven: we cannot prove that Putin never said anything like it, only that this text has gone round without a source since December 2025.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 9, 2026, 8:57 UK time."
+alt = "Still from the video in the post: on the left Vladimir Putin at a table, on the right a phone video of the Remembrance Sunday ceremony in Whitehall, filmed from behind guardsmen in bearskin hats. Stamp: FALSE."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.instagram.com/reel/Dff_jPrMUAL/"
+stempel = false
+bijschrift = "Louis Errington, independent journalist, on Instagram, November 8, 2026: the same scene at the Cenotaph, with Wes Streeting in trousers."
+alt = "Video by Louis Errington of the Remembrance Sunday ceremony in Whitehall, filmed from the crowd behind guardsmen."
+
+[[tijdlijn]]
+datum = "2025-12-02"
+wat = "Putin says at a forum in Moscow that Russia is ready if Europe starts a war; he does not mention Britain [4]."
+
+[[tijdlijn]]
+datum = "2025-12-13"
+tijd = "16:38"
+wat = "The account posts the quote for the first time we found, as something Putin said that week [2]."
+
+[[tijdlijn]]
+datum = "2026-07-20"
+wat = "Wes Streeting becomes Defence Secretary [6]."
+
+[[tijdlijn]]
+datum = "2026-10-10"
+tijd = "13:55"
+wat = "The account posts the first half of the quote again, with a different ending [3]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "11:00"
+wat = "Two minutes of silence at the Cenotaph in Whitehall [7]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "14:48"
+wat = "The account posts an altered photo of Streeting in a skirt [9]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "18:21"
+wat = "Streeting posts his own photos of the ceremony on X [8]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "23:59"
+wat = "Louis Errington posts his video of the ceremony on Instagram [11]."
+
+[[tijdlijn]]
+datum = "2026-11-09"
+tijd = "7:06"
+wat = "The account posts the altered video of Streeting [10]."
+
+[[tijdlijn]]
+datum = "2026-11-09"
+tijd = "8:57"
+wat = "The post with the Putin quote and the video in two halves [1]."
+
+[[tijdlijn]]
+datum = "2026-11-10"
+wat = "Lead Stories: the images and the video were digitally manipulated [12]."
+
+[[tijdlijn]]
+datum = "2026-11-10"
+wat = "An-Nahar: the video was altered with AI [13]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "Full Fact: false, Streeting wore trousers [15]."
+
+[[tijdlijn]]
+datum = "2026-11-16"
+wat = "AFP: the video was manipulated [16]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post with the Putin quote and the video in two halves"
+datum = "2026-11-09"
+prive = true
+archief = "https://web.archive.org/web/20261119201607/https://cdn.syndication.twimg.com/tweet-result?id=2119716110450696346&token=54za8sgg3c&lang=en"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "Earlier post by the same account with almost the same quote"
+datum = "2025-12-13"
+prive = true
+archief = "https://web.archive.org/web/20261119202531/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F1999881572103905351&omit_script=true"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "X"
+titel = "Post by the same account with the first half of the quote and a different ending"
+datum = "2026-10-10"
+prive = true
+archief = "https://web.archive.org/web/20261119201747/https://cdn.syndication.twimg.com/tweet-result?id=2108904341079720030&token=541bgmkn1xt&lang=en"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "If Europe wants to start a war we are ready now, Russia's Putin says"
+datum = "2025-12-02"
+url = "https://www.euronews.com/news/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says"
+archief = "https://web.archive.org/web/20261119202040/https://www.euronews.com/2025/12/02/if-europe-wants-to-start-a-war-we-are-ready-now-russias-putin-says"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Reuters (in The Moscow Times)"
+titel = "Russia Warns U.K. Over G20 Presidency After London Says Putin Won't Come to Its Summit"
+datum = "2026-11-16"
+url = "https://www.themoscowtimes.com/2026/11/16/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-to-its-summit-a94280"
+archief = "https://web.archive.org/web/20261117025000/https://www.themoscowtimes.com/2026/11/16/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-to-its-summit-a94280"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "GOV.UK"
+titel = "The Rt Hon Wes Streeting MP (consulted November 19, 2026)"
+datum = "2026-11-19"
+url = "https://www.gov.uk/government/people/wes-streeting"
+archief = "https://web.archive.org/web/20261110180857/https://www.gov.uk/government/people/wes-streeting"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "GOV.UK (Department for Culture, Media and Sport)"
+titel = "2026 Remembrance Sunday commemorations: order of service"
+datum = "2026-11-08"
+url = "https://www.gov.uk/government/publications/2026-remembrance-sunday-commemorations-order-of-service/2026-remembrance-sunday-commemorations-order-of-service"
+archief = "https://web.archive.org/web/20261110175728/https://www.gov.uk/government/publications/2026-remembrance-sunday-commemorations-order-of-service/2026-remembrance-sunday-commemorations-order-of-service"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Wes Streeting on X"
+titel = "Post with four photos of the National Service of Remembrance at the Cenotaph"
+datum = "2026-11-08"
+url = "https://x.com/wesstreeting/status/2119495505621221577"
+archief = "https://web.archive.org/web/20261110170525/https://x.com/wesstreeting/status/2119495505621221577"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "X"
+titel = "Post by the same account with the altered photo of Wes Streeting"
+datum = "2026-11-08"
+prive = true
+archief = "https://web.archive.org/web/20261119201856/https://cdn.syndication.twimg.com/tweet-result?id=2119441984553123854&token=54yf8oob39l&lang=en"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "X"
+titel = "Post by the same account with the altered video of Wes Streeting"
+datum = "2026-11-09"
+prive = true
+archief = "https://web.archive.org/web/20261119202555/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2119687963085041806&omit_script=true"
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "Louis Errington on Instagram"
+titel = "Video of the National Service of Remembrance at the Cenotaph (title by Factiz)"
+datum = "2026-11-08"
+url = "https://www.instagram.com/reel/Dff_jPrMUAL/"
+archief = "https://web.archive.org/web/20261110183841/https://www.instagram.com/reel/Dff_jPrMUAL/"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "Lead Stories"
+titel = "Fact Check: FAKE Images And Video Show U.K. Defense Secretary Wes Streeting In Skirt -- Outfit Was Digitally Altered"
+datum = "2026-11-10"
+url = "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-images-of-uk-defense-minister-streeting-in-skirt-are-not-real-photos.html"
+archief = "https://web.archive.org/web/20261115113300/https://leadstories.com/hoax-alert/2026/11/fact-check-fake-images-of-uk-defense-minister-streeting-in-skirt-are-not-real-photos.html"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "An-Nahar"
+titel = "وزير الدفاع البريطاني بتنورة وحذاء بكعب عال... حقيقة هذا الفيديو المثير للجدل النهار تتحقق FactCheck"
+datum = "2026-11-10"
+url = "https://www.annahar.com/factcheck/365151/وزير-الدفاع-البريطاني-يرتدي-تنورة-حقيقة-هذا-الفيديو-المثير-للجدل-النهار-تتحقق-factcheck"
+archief = "https://web.archive.org/web/20261111102238/https://www.annahar.com/factcheck/365151/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%8A%D8%B1%D8%AA%D8%AF%D9%8A-%D8%AA%D9%86%D9%88%D8%B1%D8%A9-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AA%D8%AA%D8%AD%D9%82%D9%82-factcheck"
+
+[[bron]]
+nr = 14
+soort = "factcheck"
+uitgever = "Animal Político (El Sabueso)"
+titel = "Esta imagen del ministro de defensa del Reino Unido fue manipulada; es contenido estigmatizante"
+datum = "2026-11-11"
+url = "https://grupoanimal.mx/verificacion-viral/imagen-ministro-defensa-reino-unido-manipulada"
+archief = "https://web.archive.org/web/20261119202135/https://grupoanimal.mx/verificacion-viral/imagen-ministro-defensa-reino-unido-manipulada"
+
+[[bron]]
+nr = 15
+soort = "factcheck"
+uitgever = "Full Fact"
+titel = "Wes Streeting did not wear skirt to remembrance ceremony"
+datum = "2026-11-12"
+url = "https://fullfact.org/politics/wes-streeting-skirt-remembrance-ceremony-altered/"
+archief = "https://web.archive.org/web/20261114112410/https://fullfact.org/politics/wes-streeting-skirt-remembrance-ceremony-altered/"
+
+[[bron]]
+nr = 16
+soort = "factcheck"
+uitgever = "AFP (on Yahoo News)"
+titel = "Manipulated video of UK defence secretary in skirt fuels anti-LGBTQ hate online"
+datum = "2026-11-16"
+url = "https://www.yahoo.com/news/world/articles/manipulated-video-uk-defence-secretary-021002202.html"
+archief = "https://web.archive.org/web/20261119202304/https://www.yahoo.com/news/world/articles/manipulated-video-uk-defence-secretary-021002202.html"

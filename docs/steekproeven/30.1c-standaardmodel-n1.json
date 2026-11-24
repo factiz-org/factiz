@@ -1,0 +1,106 @@
+{
+ "_meta": "Labels op de webtekst waarop Haiku 5.5 'onwaar' antwoordde (PLAN #30.1c, vraag standaardmodel-v1). Terecht: de tekst doet zelf een onjuiste of ontkrachte bewering; vals: gewone tekst, waar nieuws, een advertentie, bijgeloof of advies zonder ontkrachte bewering. Bij twijfel vals, zoals bij de labels van Factiz. Gelezen door Claude op 2026-10-17.",
+ "labels": [
+  {
+   "sleutel": "N1:stiltetoets:es-000097",
+   "label": "terecht",
+   "waarom": "Nibiru, een bekende samenzweringstheorie"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003757",
+   "label": "terecht",
+   "waarom": "de inleiding van een factcheck over Ambani en de Ram-tempel"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-114765",
+   "label": "terecht",
+   "waarom": "watermeloen als hoogste bron van glutathion, onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-129527",
+   "label": "terecht",
+   "waarom": "wit meel als natuurlijk insecticide, onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-005089",
+   "label": "terecht",
+   "waarom": "stigmatiserende kop over de Tablighi Jamaat uit 2020"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-046034",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:id-003978",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-036316",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-129413",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-080392",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-000598",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-006119",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ar-003381",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-001225",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-001636",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-086398",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-002243",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-001832",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-001425",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-044849",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-001175",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-000238",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-054175",
+   "label": "vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-105341",
+   "label": "vals"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck zelensky-83-woningen-nepkrant van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "258bc8cd7a0fcb29",
+ "veldafdrukken": {
+  "kop": "8333e22cf577ae58",
+  "oordeel_zin": "78108081cbfc0e71",
+  "bewering": "54a13059e8d2990c",
+  "kort": "e9a0b8cf00354a54",
+  "tekst": "f6fff83855e118af",
+  "niet_weten": "f821f2e45c9cfde9",
+  "bereik": "3bcfb46d32eb5f4e",
+  "nog_uitzoeken": "92b9391908ff1ac6",
+  "tijdlijn": "7b4cefec3eab0353",
+  "beeld_bijschrift": "1b0a42ebf9f5ad3f",
+  "beeld_alt": "c3e89ee60646a5ec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "關於 Zelensky 在國外擁有83處房產的說法,源自一個仿冒的英國新聞網站",
+  "oordeel_zin": "消息來源是一個在該說法出現前十二天才註冊的網站,而 NABU 表示影片中的女子並未在該機構任職 [3] [6]。",
+  "bewering": "烏克蘭反貪腐機構前負責人:Zelensky 在西班牙擁有6處房產,在英國14處,在法國21處,在義大利8處,在阿拉伯聯合大公國34處。",
+  "kort": "9月7日,X 上流傳一段影片,影片中一名烏克蘭反貪腐機構的前工作人員據稱揭露 Zelensky 在五個國家擁有83處房產 [1]。這個說法於2025年8月源自 londontelegraph.uk,該網站在十二天前才註冊,並在作者姓名旁放了一張盜用的照片 [3] [4]。該機構表示影片中的女子並未在那裡工作,而 Zelensky 的財產申報中也找不到海外83處房產的任何痕跡 [6] [9] [10]。",
+  "tekst": "這則貼文於9月7日星期一05:58發布在 X 上,附有一段77秒的影片 [1]。貼文文字稱,一名烏克蘭反貪腐機構的前負責人說,Zelensky 在西班牙擁有6處房產,在英國14處,在法國21處,在義大利8處,在阿拉伯聯合大公國34處 [1]。合計為83處。截至11月18日,這則貼文已被觀看39,340次 [1]。影片畫面中,該女子名為 Olena K.,隸屬 National Anti-Corruption Bureau of Ukraine,法文字幕稱她是該局的一名女調查員 [1]。只有貼文文字把她說成前負責人 [1]。\n\n這個說法比這則貼文更早出現。2025年8月26日,X 上流傳一段英文影片,內容是關於 Olena K.,她是烏克蘭國家反貪腐局 NABU 的前偵查員 [2]。據稱她帶著數千頁文件逃往歐洲,內有證據顯示 Zelensky 透過空殼公司購買了逾100處房產,總價值12億美元 [5]。影片引述 The London Telegraph 的一篇文章為消息來源 [2]。該文章所列數字與貼文相同,唯獨西班牙為26處而非6處,合計103處 [2]。2026年4月,一個較短的版本重新出現,房產數為83處,最先出現在波蘭語和德語中 [6] [13]。\n\nThe London Telegraph 不是報紙。londontelegraph.uk 這個網域於2025年8月14日註冊,比文章早十二天 [3]。作者姓名旁放的是 Helen Brown 的照片,她是英國記者,為 The Daily Telegraph 等媒體撰稿,與該文章毫無關係 [4]。據 Euronews 報導,該網站除了這一篇文章外幾乎沒有別的內容,2025年影片中的英文聲音聽起來是電腦生成的 [5]。該網域註冊已於2026年8月14日到期 [3]。\n\n影片中的女子並未在 NABU 工作。NABU 向 Correctiv 這樣表示,一名發言人也向 AFP 這樣說 [6] [13]。NABU 稱,現任或前任員工都未發布過任何關於 Zelensky 海外房產的文件 [6]。據 Myth Detector 表示,影片中模糊出現的文件,是烏克蘭檢察機關和安全局 SBU 於2025年7月22日公開展示的文件 [8]。這些文件來自對國會議員 Fedir Khrystenko 親屬的搜查,屬於一起 NABU 資料外洩案,與 Zelensky 無關 [7]。\n\nZelensky 擁有什麼,記載於他每年公開的財產申報中。2025年度的申報於2026年3月30日公布 [10]。其中有基輔的公寓,其中兩套為共同持有 [9] [10]。在烏克蘭境外,Slovo i Dilo 和 Fakty ICTV 只提到一處住房:英國的一套公寓,登記在 Olena Zelenska 名下 [9] [10]。據 Slovo i Dilo,這對夫婦自2014年起以 leasehold 持有,即英國的一種使用權 [9]。2025年,這些房產沒有實質變化 [9] [10]。不過,出現在 Zelensky 申報中的義大利公司 San Tommaso,於2017年在 Forte dei Marmi 買下一棟別墅;RFE/RL 於2019年依據 Slidstvo.info 的說法報導了此事 [14]。據 Slovo i Dilo,Olena Zelenska 至今仍是該公司的最終受益人 [9]。它是否仍持有那棟別墅,我們不知道。即使把那棟別墅算進去,在義大利最多也只有一處房產,而不是八處。\n\n2025年的說法還提到 Timur Mindich,他是製作公司 Kvartal 95 的共同所有人,也是 Zelensky 的老相識 [2] [12]。自2025年11月起,NABU 對 Mindich 展開一項真實的調查,涉及國營企業 Energoatom 的回扣 [12]。NABU 局長 Semen Kryvonos 於2026年5月12日表示,Zelensky 沒有出現在該調查中,過去也從未出現 [11]。因此,Mindich 是嫌疑人這件事,並不會讓83處房產的說法變成真的。\n\nLead Stories、Euronews、Myth Detector、Demagog 和 Correctiv 先前都稱這個說法為虛假 [2] [5] [6] [8] [13]。我們沒有找到荷蘭語的查核。",
+  "niet_weten": "我們不知道這些影片是誰製作的。根據 Demagog 引述的 NewsGuard,該網站看起來像是俄羅斯影響力行動 Storm-1516 的手法;這一點我們無法自行查證 [13]。根據 Slovo i Dilo,Olena Zelenska 也是位於賽普勒斯、義大利和貝里斯的公司的最終受益人 [9]。義大利的那家公司在 2017 年購入了一棟別墅;該公司是否仍持有這棟別墅,那些報導中並未提及 [14]。此外,我們只找到一則荷蘭文貼文;至於一共有多少則,我們並不清楚。",
+  "bereik": "11月18日被觀看39,340次",
+  "nog_uitzoeken": [
+   "NABU 是否就這支影片發表過自己的聲明。目前這項說法只經由 CORRECTIV 和 AFP 傳出;在 NABU 的網站上我們沒有找到。"
+  ],
+  "tijdlijn": [
+   "檢察機關與 SBU 展示取自對國會議員 Fedir Khrystenko 親屬搜查的、與 NABU 有關的文件 [7]。",
+   "londontelegraph.uk 這個網域被註冊 [3]。",
+   "londontelegraph.uk 上的文章和關於 Olena K. 的英文影片出現 [2]。",
+   "Lead Stories 稱該說法為虛假 [2]。",
+   "NABU 公布 Energoatom 回扣調查;Mindich 為嫌疑人 [12]。",
+   "83處房產的版本以波蘭語和德語出現在 X 上 [6] [13]。",
+   "NABU 表示 Zelensky 沒有出現在 Energoatom 調查中 [11]。",
+   "londontelegraph.uk 的註冊到期 [3]。",
+   "載有83處房產說法的荷蘭語貼文 [1]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文,2026年9月7日,05:58。"
+  ],
+  "beeld_alt": [
+   "X 貼文的螢幕截圖,內有關於 Zelensky 在五個國家擁有83處房產的文字,以及影片中一名面部被遮蔽的女子的畫面,字幕為 Olena K., National Anti-Corruption Bureau of Ukraine。印章:虛假。"
+  ]
+ }
+}

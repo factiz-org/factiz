@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaver özel mülkiyeti kaldırmak istediğini hiçbir zaman söylemedi, alıntı 2020 yılından kalma",
+  "oordeel_zin": "Alıntı, Ekim 2020 tarihli, Medium'da yayımlanan anonim bir bloga ait ve sözcüsüne göre Klaver bunu hiçbir zaman söylemedi [2] [7].",
+  "bewering": "Jesse Klaver (GL): \"Seçimi kazanırsam özel mülkiyeti kaldıracağım.\"",
+  "kort": "5 Ekim'de X'te, Jesse Klaver'in seçimi kazanırsa özel mülkiyeti kaldıracağını söylediği bir alıntının ekran görüntüsü dolaşıma girdi [1]. Klaver bunu hiçbir zaman söylemedi: alıntı, anonim bir yazarın Ekim 2020'de Medium'da yayımladığı bir bloga ait [2] [7]. Blog artık yok, ama alıntı 2022, 2025 ve 2026'da tekrar tekrar ortaya çıktı [1] [7] [8].",
+  "tekst": "Ekran görüntüsü, 5 Ekim Pazartesi günü saat 14.37'de X'te \"Bakın bu gerçek bir komünist.\" metniyle yayımlandı [1]. Gönderi 18 Kasım'da 953 beğeni ve 186 yanıt almıştı [1]. Aynı öğleden sonra gönderiye bağlam eklendi [1].\n\nAlıntı gönderiden daha eski. 14 Ekim 2020 Çarşamba günü X'te bir hesap, herkesin yazabildiği bir platform olan Medium'daki bir bloga bağlantı paylaştı [2]. Blogun başlığı alıntının kendisiydi [2]. Birkaç saat sonra CIDI, yani Centrum Informatie en Documentatie Israël, Klaver'in, onun özel mülkiyeti kaldırmak istediğini öne süren antisemitik bir makale yüzünden gündem olduğunu yazdı [3]. CIDI'ye göre yazar ayrıca Klaver'in Yahudi bir annesi olduğunu da yazmıştı [3].\n\nKlaver'in bunu söylediği hiçbir röportaj, konuşma ya da program yok. dpa 2022'de bu sözü kayda geçiren tek bir medya organı bulamadı; tüm atıflar, yazarın bu arada kaldırdığı bloga çıkıyordu [7]. Klaver'in sözcüsü dpa'ya bunu hiçbir zaman söylemediğini bildirdi [7]. GroenLinks'in 2021 seçim programının adı Tijd voor nieuw realisme'ydi ve liste lideri Klaver'di [5]. dpa'ya göre programda \"özel mülkiyet\" ve \"özel mülk\" sözcükleri geçmiyor [7].\n\nSonrasında alıntı tekrar tekrar ortaya çıktı. Şubat 2022'de Facebook'taydı [7]. 29 Ekim'deki Temsilciler Meclisi seçimlerinin kampanyası sırasında, Ekim 2025'te ekran görüntüleri yeniden dolaştı ve sözcü bunu sahte haber olarak nitelendirdi [8]. 5 Ekim 2026 tarihli gönderinin ardından Knack de alıntının doğrulandığına dair hiçbir kanıt bulunmadığını yazdı [9].\n\nKlaver 2020'de GroenLinks grup başkanıydı [4]. GroenLinks ve PvdA, 13 Haziran 2026'da Progressief Nederland, PRO çatısı altında birleşti [6]. Klaver şu anda Temsilciler Meclisi'nde PRO'nun grup başkanı [4].",
+  "niet_weten": "Blogu kimin yazdığını bilmiyoruz, ayrıca şaka amacıyla yazılıp yazılmadığını da bilmiyoruz.",
+  "bereik": "18 Kasım'da 953 beğeni ve 186 yanıt",
+  "nog_uitzoeken": [
+   "Alıntının Mart 2021 ve Kasım 2023'te de dolaşımda olup olmadığı.",
+   "Klaver'in PRO'daki sözcüsünün 2026 tarihli paylaşıma yanıtı."
+  ],
+  "tijdlijn": [
+   "X'te bir hesap, başlığı alıntı olan Medium bloguna bağlantı paylaşıyor [2].",
+   "CIDI makaleyi antisemitik ve sahte olarak nitelendiriyor [3].",
+   "dpa: bu söz uydurma [7].",
+   "AFP Factcheck Nederland, deCheckers tarafından aktarıldı: yanlış [8].",
+   "GroenLinks ve PvdA, PRO çatısı altında birleşiyor [6].",
+   "Ekran görüntüsünü içeren X gönderisi [1].",
+   "Knack: alıntıya dair kanıt yok [9]."
+  ],
+  "beeld_bijschrift": [
+   "X gönderisi, 5 Ekim 2026, saat 14.37."
+  ],
+  "beeld_alt": [
+   "Jesse Klaver'in özel mülkiyeti kaldırmaya dair uydurma bir alıntısını içeren bir makalenin ekran görüntüsü. Damga: YANLIŞ."
+  ]
+ }
+}

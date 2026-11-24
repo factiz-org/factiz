@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bombeiro em Bordeaux ficou ferido com a explosão de um aerossol, não por causa de jovens com gasolina",
+  "oordeel_zin": "Um bombeiro foi atingido brevemente por um jato de chamas em 29 de setembro, quando um aerossol explodiu em uma fogueira de barricada; ninguém jogou gasolina nele nem ateou fogo nele [1] [3].",
+  "bewering": "Jovens encharcaram um bombeiro de gasolina durante os protestos na França e atearam fogo nele.",
+  "kort": "Em 1º e 2 de outubro, circularam no X publicações em holandês dizendo que jovens na França encharcaram um bombeiro de gasolina e atearam fogo nele [8]. Em 29 de setembro, em Bordeaux, um bombeiro foi de fato atingido brevemente por um jato de chamas, quando um aerossol explodiu em uma fogueira de barricada que ele queria apagar [1] [3]. Gasolina não teve nenhum papel nisso; foi com gasolina que, em 1º de outubro, em Marselha, um diretor de escola foi encharcado [5] [6].",
+  "tekst": "Na quinta-feira, 1º de outubro, às 21h12, apareceu no X uma publicação em holandês: jovens teriam encharcado um bombeiro de gasolina e ateado fogo nele durante os protestos na França [8]. Uma segunda publicação, na tarde seguinte, situou o caso em Bordeaux [8]. Uma conta em inglês publicou em 2 de outubro uma foto com a mesma história, que segundo o CORRECTIV foi vista sete milhões de vezes e à qual Elon Musk reagiu [11].\n\nO que realmente aconteceu está na imprensa francesa: na terça-feira, 29 de setembro, por volta das 12h30, alunos bloquearam o lycée Montaigne, na rue Sainte-Catherine, em Bordeaux, e em uma das entradas uma barricada queimava na rua [1]. Um bombeiro foi até o fogo para apagá-lo e, naquele momento, algo explodiu no fogo: um jato de chamas o envolveu brevemente [1] [2].\n\nSegundo a préfecture da Gironda, era um aerossol que estava no fogo [3]. O bombeiro ficou levemente ferido, foi ao hospital e estava de volta ao quartel na mesma tarde [1]. A préfète disse que ele não poderá trabalhar por alguns dias [1]. Nos vídeos da BFMTV e do Le Figaro, de dois ângulos, ninguém ateia fogo nele e, depois do jato de chamas, ele mesmo recua alguns metros [4] [11] [12].\n\nGasolina não aparece em nenhum dos relatos sobre Bordeaux [1] [3]. O Ministério Público de Bordeaux abriu, sim, uma investigação por incêndio criminoso com lesões graves; se o aerossol foi colocado no fogo de propósito, isso a investigação deveria esclarecer [1].\n\nNaquela semana aconteceu algo com gasolina, mas em Marselha e não com um bombeiro: na quinta-feira, 1º de outubro, o diretor da escola foi encharcado de gasolina no lycée Victor-Hugo e, segundo o Ministério Público, ficou ferido [5] [6]. Segundo outra versão, a gasolina respingou em professores quando um aluno quis jogá-la em uma lixeira [7]. No lycée Saint-Exupéry, centenas de jovens cercaram na mesma manhã um caminhão de bombeiros, expulsaram os bombeiros e atearam fogo no caminhão [5] [7]. Um bombeiro incendiado nenhum desses relatos menciona [5] [6] [7].\n\nVerificadores de fatos em outros idiomas chegaram à mesma conclusão: An-Nahar em 5 de outubro, EFE Verifica em 6 de outubro, CORRECTIV em 12 de outubro e ZDFheute em 14 de outubro [9] [10] [11] [12]. Segundo o CORRECTIV, a foto é real; o fotógrafo confirmou isso à AFP [11]. Em holandês, a Knack escreveu uma verificação, que estava no ar em 19 de outubro, o mais tardar [13].",
+  "niet_weten": "Não sabemos qual imagem aparece nas publicações em holandês. A CORRECTIV diz que a foto é real, enquanto o An-Nahar viu uma imagem que difere dos vídeos e que possivelmente foi reencenada [9] [11]. Talvez duas imagens tenham circulado. Também não sabemos se alguém colocou a lata de spray no fogo de propósito, nem o que a investigação do Ministério Público apurou.",
+  "nog_uitzoeken": [
+   "Qual imagem as duas publicações em holandês mostravam: a foto real de Guillaume Bonnaud, uma versão reencenada ou um vídeo. As publicações foram removidas.",
+   "Se o Ministério Público de Bordeaux divulgou algo sobre a investigação, e se alguém colocou a lata de spray no fogo de propósito.",
+   "Outros verificadores de fatos divergem na avaliação: ZDFheute e Mimikama optaram por enganoso, CORRECTIV, EFE Verifica e An-Nahar por falso. Nós optamos por falso."
+  ],
+  "tijdlijn": [
+   "Um bombeiro é atingido por um jato de chamas em uma barricada diante do lycée Montaigne, em Bordeaux [1].",
+   "A BFMTV publica no X o vídeo do momento [4].",
+   "Em Marselha, um diretor de escola é encharcado de gasolina e um caminhão de bombeiros é incendiado [5] [6].",
+   "A primeira publicação em holandês: encharcado de gasolina e incendiado [8].",
+   "Uma segunda publicação em holandês situa o caso em Bordeaux [8].",
+   "An-Nahar: a alegação não é verdadeira [9].",
+   "CORRECTIV: a foto é real, ninguém ateou fogo no bombeiro [11].",
+   "Nesta data, o mais tardar, a verificação da Knack já está no ar [13]."
+  ],
+  "beeld_bijschrift": [
+   "BFMTV no X, 29 de setembro de 2026: o vídeo do bombeiro no lycée Montaigne, em Bordeaux."
+  ],
+  "beeld_alt": [
+   "Vídeo da BFMTV: um bombeiro caminha em direção a um pequeno fogo na rua, as chamas se erguem e se apagam logo em seguida."
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "_meta": "Labels op elke `matched` van de checks sinds 2026-07-01 tegen de index van 1 juli die mensen niet koppelden (PLAN #28.6 c, BENCHMARK §116). Gelabeld door Claude op 2026-10-15, zoals de ander-records.",
+ "labels": [
+  {
+   "bron": "juli",
+   "vraag": "https://factly.in/telugu-this-viral-video-does-not-show-an-australian-tourist-working-at-a-brick-kiln-he-is-an-indian-citizen/",
+   "claim": "gfc-745de3862a3320ab",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://factly.in/this-video-does-not-show-a-hindu-teacher-being-beaten-up-by-muslims-in-bangladesh/",
+   "claim": "gfc-9ef6f243356ba0dc",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://verafiles.org/articles/fact-check-duterte-not-coming-home-icc-orders-his-continued-detention",
+   "claim": "gfc-65f65841bb478f63",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://verafiles.org/articles/fact-check-old-report-passed-off-as-dutertes-return-to-davao-city-this-august",
+   "claim": "gfc-754369bc7e82222a",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://verafiles.org/articles/fact-check-video-from-mexico-misrepresented-as-clip-of-duterte-supporters",
+   "claim": "gfc-3d5e6f132478bc89",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://verafiles.org/articles/fact-check-video-shows-fifa-world-cup-fans-in-argentina-not-supporters-of-vp-sara",
+   "claim": "gfc-f13171c0e36f6d03",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://yoopyup.com/yoopyups/526.html",
+   "claim": "gfc-96bb9f4503a210bf",
+   "label": "zelfde"
+  },
+  {
+   "bron": "juli",
+   "vraag": "https://yoopyup.com/yoopyups/568.html",
+   "claim": "gfc-c13093fbd3f9e6ea",
+   "label": "anders",
+   "waarom": "explosies bij Houthi-doelen bij het vliegveld van Sanaa tegen wapendepots na Amerikaanse aanvallen"
+  }
+ ]
+}

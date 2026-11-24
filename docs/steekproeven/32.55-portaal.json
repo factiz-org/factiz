@@ -1,0 +1,225 @@
+{
+ "toelichting": "Labels bij de eerste meting met het nieuwsoverzicht van Wikipedia (PLAN #32.55, BENCHMARK §237): elk *bevestigt* en *spreekt tegen* gelezen door Claude op 2026-11-07. *Terecht*: de regel uit Portal:Current events gaat over dezelfde gebeurtenis en bevestigt of weerspreekt de hoofdbewering echt. De berichten zijn openbaar (koppen uit RSS, Wikinews, beweringen uit factchecks); de regels komen uit Wikipedia (CC BY-SA).",
+ "labels": [
+  {
+   "id": "F:43f4641378f6",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:01c4f2ada101",
+   "label": "onterecht",
+   "reden": "12 jaar en 6 maanden is 12,5 jaar: geen tegenspraak"
+  },
+  {
+   "id": "W:wikinews:en:435813",
+   "label": "onterecht",
+   "reden": "bevestigt alleen het onderliggende feit (Obama steunt het homohuwelijk), niet de bewering over donaties"
+  },
+  {
+   "id": "W:wikinews:en:32337",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:14022",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:51553",
+   "label": "onterecht",
+   "reden": "de plaats anders beschreven, zelfde ramp; geen tegenspraak"
+  },
+  {
+   "id": "W:wikinews:en:3108",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "O:gfc-4f5b6f1b3b472c2e",
+   "label": "onterecht",
+   "reden": "nep: bevestigt de reddingen in Nepal, maar de bewering gaat over wat de video's tonen"
+  },
+  {
+   "id": "W:wikinews:en:60135",
+   "label": "onterecht",
+   "reden": "een verwante gebeurtenis (een bestand), niet het begin van de gesprekken"
+  },
+  {
+   "id": "WM:7e1cab0e2f68",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:82548",
+   "label": "onterecht",
+   "reden": "een detail (waar de plechtigheid was); de hoofdbewering bevestigt dezelfde regel"
+  },
+  {
+   "id": "WM:380baf133031",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:76447",
+   "label": "onterecht",
+   "reden": "een detail (vleugel of buik); de hoofdbewering klopt"
+  },
+  {
+   "id": "W:wikinews:en:19951",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:34ec93f9b678",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:61979",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:77355",
+   "label": "onterecht",
+   "reden": "verschillende dodentallen in vers nieuws; een andere regel bevestigt het"
+  },
+  {
+   "id": "WM:310f39dab6a7",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "O:gfc-46c6864c2c78e667",
+   "label": "onterecht",
+   "reden": "nep: het overzicht noemt geen naam, dus het spreekt de naam niet tegen"
+  },
+  {
+   "id": "K:3a9a61cb5204",
+   "label": "onterecht",
+   "reden": "bevestigt alleen dat de Democraten wonnen, niet dat de economie de oorzaak was"
+  },
+  {
+   "id": "W:wikinews:en:36619",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:20181",
+   "label": "onterecht",
+   "reden": "een ander deel van dezelfde dag (mortieren), geen tegenspraak van de stormloop"
+  },
+  {
+   "id": "WM:e717a722f37c",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:f0e9246ada02",
+   "label": "onterecht",
+   "reden": "bevestigt de verkiezingsnederlaag, niet de druk op Hegseth"
+  },
+  {
+   "id": "WM:153cd2f57a5f",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:33351",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:598c75b1c81a",
+   "label": "onterecht",
+   "reden": "Peña kondigde zijn aftreden aan; afzetting daarna spreekt het niet tegen"
+  },
+  {
+   "id": "O:gfc-c932681ab6bfd164",
+   "label": "onterecht",
+   "reden": "nep: bevestigt het incident op de vlucht van Flydubai, maar de bewering gaat over de video"
+  },
+  {
+   "id": "W:wikinews:en:151155",
+   "label": "onterecht",
+   "reden": "Mutharika wordt voorzitter: dat bevestigt dat Gaddafi verloor"
+  },
+  {
+   "id": "WM:3745efd21cf8",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "K:0182296cec59",
+   "label": "onterecht",
+   "reden": "een andere brand (Brooklyn), een andere gebeurtenis"
+  },
+  {
+   "id": "WM:838f0d947894",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:aebb04e870b0",
+   "label": "onterecht",
+   "reden": "levenslang en 200 jaar zijn geen tegenspraak"
+  },
+  {
+   "id": "WM:cd587983bdad",
+   "label": "onterecht",
+   "reden": "de regel bevestigt het ongeluk (twee doden in Lent)"
+  },
+  {
+   "id": "W:wikinews:en:25085",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:799892409f01",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "K:9e0f4c9b4691",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:3019348",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:664792",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:15d7abe68539",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:79373",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:151497",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "W:wikinews:en:6891",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  },
+  {
+   "id": "WM:2a0a058d6f51",
+   "label": "terecht",
+   "reden": "dezelfde gebeurtenis, en de regel zegt hetzelfde"
+  }
+ ]
+}

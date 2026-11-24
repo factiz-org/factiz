@@ -1,0 +1,379 @@
+{
+ "_meta": "Stance-proefset en -meting voor taak 21.1 (BENCHMARK §56). Truth-by-construction: met de hand geschreven documenten, geen corpusmateriaal, dus geen herdistributie. Per weerlegde claim een beweert-, weerlegt- en bespreekt-versie; het weerlegt-geval citeert de claim en ontkracht hem dan. Talen nl/en (verifieerbaar door de opsteller); niet-Latijns schrift ongemeten. Eén opsteller. Model: mDeBERTa-v3-base-xnli.",
+ "proefset": [
+  {
+   "taal": "nl",
+   "claim": "Vaccins veroorzaken autisme.",
+   "beweert": "Nieuw onderzoek bevestigt het: vaccins veroorzaken autisme bij kinderen.",
+   "weerlegt": "De bewering dat vaccins autisme veroorzaken is grondig weerlegd; grootschalig onderzoek onder miljoenen kinderen vond geen enkel verband.",
+   "bespreekt": "Sommige ouders maken zich nog altijd zorgen over een mogelijk verband tussen vaccinaties en autisme."
+  },
+  {
+   "taal": "nl",
+   "claim": "5G-masten verspreiden het coronavirus.",
+   "beweert": "Het is duidelijk dat de nieuwe 5G-masten het coronavirus verspreiden.",
+   "weerlegt": "Dat 5G-masten het coronavirus zouden verspreiden is onzin: een virus verplaatst zich niet via radiogolven.",
+   "bespreekt": "In verschillende steden werd geprotesteerd tegen de plaatsing van 5G-masten."
+  },
+  {
+   "taal": "nl",
+   "claim": "De maanlanding is in een studio opgenomen.",
+   "beweert": "De maanlanding van 1969 is gewoon in een filmstudio opgenomen.",
+   "weerlegt": "De claim dat de maanlanding in een studio werd opgenomen klopt niet; er is overweldigend bewijs dat mensen echt op de maan liepen.",
+   "bespreekt": "Over de maanlanding zijn door de jaren heen talloze documentaires gemaakt."
+  },
+  {
+   "taal": "nl",
+   "claim": "Bill Gates wil mensen chippen via vaccins.",
+   "beweert": "Via de vaccins wil Bill Gates de hele bevolking van microchips voorzien.",
+   "weerlegt": "Het verhaal dat Bill Gates mensen zou willen chippen via vaccins is verzonnen en nergens op gebaseerd.",
+   "bespreekt": "De stichting van Bill Gates investeert wereldwijd in vaccinatieprogramma's."
+  },
+  {
+   "taal": "nl",
+   "claim": "Immigranten krijgen bij aankomst 10.000 euro.",
+   "beweert": "Iedere immigrant krijgt bij aankomst in Nederland zomaar 10.000 euro.",
+   "weerlegt": "Het is niet waar dat immigranten bij aankomst 10.000 euro ontvangen; zo'n regeling bestaat niet.",
+   "bespreekt": "De opvang van nieuwkomers kost de gemeenten jaarlijks geld."
+  },
+  {
+   "taal": "nl",
+   "claim": "Windmolens veroorzaken kanker.",
+   "beweert": "Wie naast een windmolen woont, krijgt vroeg of laat kanker door de straling.",
+   "weerlegt": "Er is geen enkel bewijs dat windmolens kanker veroorzaken; de bewering mist elke wetenschappelijke basis.",
+   "bespreekt": "Omwonenden klagen soms over het geluid van windmolens."
+  },
+  {
+   "taal": "en",
+   "claim": "Drinking bleach cures COVID-19.",
+   "beweert": "Doctors have found that drinking a small amount of bleach cures COVID-19.",
+   "weerlegt": "The claim that drinking bleach cures COVID-19 is dangerously false; ingesting bleach can kill you.",
+   "bespreekt": "During the pandemic, poison control centres saw a rise in calls about household chemicals."
+  },
+  {
+   "taal": "en",
+   "claim": "The 2020 US election was stolen through voting machines.",
+   "beweert": "The 2020 US election was clearly stolen by rigged voting machines.",
+   "weerlegt": "Claims that the 2020 election was stolen through voting machines have been debunked by courts and audits across the country.",
+   "bespreekt": "Voting machines were used in most US states during the 2020 election."
+  },
+  {
+   "taal": "en",
+   "claim": "Climate change is a hoax invented by scientists.",
+   "beweert": "Climate change is a hoax that scientists invented to get more funding.",
+   "weerlegt": "The idea that climate change is a hoax invented by scientists is flatly contradicted by decades of independent evidence.",
+   "bespreekt": "Scientists continue to publish studies on the pace of climate change."
+  },
+  {
+   "taal": "en",
+   "claim": "Garlic cures coronavirus infection.",
+   "beweert": "Eating raw garlic every day cures a coronavirus infection.",
+   "weerlegt": "There is no truth to the claim that garlic cures coronavirus; no food prevents or cures the infection.",
+   "bespreekt": "Garlic has long been a popular ingredient in home remedies."
+  },
+  {
+   "taal": "en",
+   "claim": "5G networks weaken the human immune system.",
+   "beweert": "The rollout of 5G networks is secretly weakening everyone's immune system.",
+   "weerlegt": "The claim that 5G networks weaken the immune system is false; radio waves at these frequencies do not affect immunity.",
+   "bespreekt": "Telecom companies are expanding 5G coverage in rural areas."
+  },
+  {
+   "taal": "en",
+   "claim": "The earth is flat.",
+   "beweert": "The earth is actually flat, not a globe as we are told.",
+   "weerlegt": "The claim that the earth is flat is wrong; it has been known to be a sphere for over two thousand years.",
+   "bespreekt": "Flat-earth conventions still attract a small but vocal following."
+  }
+ ],
+ "meting": [
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "Vaccins veroorzaken autisme.",
+   "entail": 0.992,
+   "neutral": 0.008,
+   "contra": 0.001
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "Vaccins veroorzaken autisme.",
+   "entail": 0.0,
+   "neutral": 0.006,
+   "contra": 0.994
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "Vaccins veroorzaken autisme.",
+   "entail": 0.0,
+   "neutral": 0.601,
+   "contra": 0.399
+  },
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "5G-masten verspreiden het coronavirus.",
+   "entail": 0.993,
+   "neutral": 0.007,
+   "contra": 0.0
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "5G-masten verspreiden het coronavirus.",
+   "entail": 0.002,
+   "neutral": 0.008,
+   "contra": 0.99
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "5G-masten verspreiden het coronavirus.",
+   "entail": 0.001,
+   "neutral": 0.999,
+   "contra": 0.0
+  },
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "De maanlanding is in een studio opgenome",
+   "entail": 0.996,
+   "neutral": 0.003,
+   "contra": 0.001
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "De maanlanding is in een studio opgenome",
+   "entail": 0.001,
+   "neutral": 0.004,
+   "contra": 0.996
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "De maanlanding is in een studio opgenome",
+   "entail": 0.001,
+   "neutral": 0.996,
+   "contra": 0.002
+  },
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "Bill Gates wil mensen chippen via vaccin",
+   "entail": 0.982,
+   "neutral": 0.015,
+   "contra": 0.002
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "Bill Gates wil mensen chippen via vaccin",
+   "entail": 0.002,
+   "neutral": 0.004,
+   "contra": 0.994
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "Bill Gates wil mensen chippen via vaccin",
+   "entail": 0.171,
+   "neutral": 0.74,
+   "contra": 0.089
+  },
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "Immigranten krijgen bij aankomst 10.000 ",
+   "entail": 0.972,
+   "neutral": 0.027,
+   "contra": 0.001
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "Immigranten krijgen bij aankomst 10.000 ",
+   "entail": 0.001,
+   "neutral": 0.003,
+   "contra": 0.996
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "Immigranten krijgen bij aankomst 10.000 ",
+   "entail": 0.0,
+   "neutral": 0.999,
+   "contra": 0.001
+  },
+  {
+   "taal": "nl",
+   "stance": "beweert",
+   "claim": "Windmolens veroorzaken kanker.",
+   "entail": 0.985,
+   "neutral": 0.011,
+   "contra": 0.004
+  },
+  {
+   "taal": "nl",
+   "stance": "weerlegt",
+   "claim": "Windmolens veroorzaken kanker.",
+   "entail": 0.001,
+   "neutral": 0.024,
+   "contra": 0.975
+  },
+  {
+   "taal": "nl",
+   "stance": "bespreekt",
+   "claim": "Windmolens veroorzaken kanker.",
+   "entail": 0.001,
+   "neutral": 0.995,
+   "contra": 0.004
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "Drinking bleach cures COVID-19.",
+   "entail": 0.925,
+   "neutral": 0.075,
+   "contra": 0.0
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "Drinking bleach cures COVID-19.",
+   "entail": 0.0,
+   "neutral": 0.001,
+   "contra": 1.0
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "Drinking bleach cures COVID-19.",
+   "entail": 0.0,
+   "neutral": 0.989,
+   "contra": 0.011
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "The 2020 US election was stolen through ",
+   "entail": 0.988,
+   "neutral": 0.012,
+   "contra": 0.001
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "The 2020 US election was stolen through ",
+   "entail": 0.0,
+   "neutral": 0.006,
+   "contra": 0.994
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "The 2020 US election was stolen through ",
+   "entail": 0.026,
+   "neutral": 0.779,
+   "contra": 0.194
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "Climate change is a hoax invented by sci",
+   "entail": 0.792,
+   "neutral": 0.208,
+   "contra": 0.0
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "Climate change is a hoax invented by sci",
+   "entail": 0.0,
+   "neutral": 0.034,
+   "contra": 0.966
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "Climate change is a hoax invented by sci",
+   "entail": 0.0,
+   "neutral": 0.58,
+   "contra": 0.42
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "Garlic cures coronavirus infection.",
+   "entail": 0.997,
+   "neutral": 0.003,
+   "contra": 0.0
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "Garlic cures coronavirus infection.",
+   "entail": 0.0,
+   "neutral": 0.0,
+   "contra": 1.0
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "Garlic cures coronavirus infection.",
+   "entail": 0.002,
+   "neutral": 0.997,
+   "contra": 0.001
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "5G networks weaken the human immune syst",
+   "entail": 0.993,
+   "neutral": 0.007,
+   "contra": 0.0
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "5G networks weaken the human immune syst",
+   "entail": 0.002,
+   "neutral": 0.005,
+   "contra": 0.994
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "5G networks weaken the human immune syst",
+   "entail": 0.0,
+   "neutral": 0.998,
+   "contra": 0.002
+  },
+  {
+   "taal": "en",
+   "stance": "beweert",
+   "claim": "The earth is flat.",
+   "entail": 0.99,
+   "neutral": 0.007,
+   "contra": 0.002
+  },
+  {
+   "taal": "en",
+   "stance": "weerlegt",
+   "claim": "The earth is flat.",
+   "entail": 0.003,
+   "neutral": 0.002,
+   "contra": 0.995
+  },
+  {
+   "taal": "en",
+   "stance": "bespreekt",
+   "claim": "The earth is flat.",
+   "entail": 0.66,
+   "neutral": 0.339,
+   "contra": 0.001
+  }
+ ]
+}

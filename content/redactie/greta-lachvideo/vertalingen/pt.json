@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Greta Thunberg ri de uma manifestação pelo clima em um documentário em que ela chama esses protestos de ineficazes",
+  "oordeel_zin": "O vídeo é real e vem de um documentário de Hubertus Koch, no qual Thunberg diz achar ineficazes as manifestações clássicas; ela continua fazendo campanha pelo clima [1] [7] [11].",
+  "bewering": "Greta Thunberg ri histericamente quando lhe dizem que o Fridays for Future, grupo de mudanças climáticas que ela fundou, ainda está protestando: 'Eles ainda fazem isso?'",
+  "kort": "Desde 11 de novembro, publicações no X compartilham um vídeo de Greta Thunberg rindo ao ser informada de uma manifestação do Fridays for Future em Berlim, algumas como sinal de que ela zomba de quem protesta pelo clima [2] [3] [4]. O vídeo é real e vem de um documentário de Hubertus Koch, no YouTube desde 28 de outubro [1] [5]. No filme, ela chama as manifestações clássicas de ineficazes, e continua fazendo campanha pelo clima [6] [7] [11].",
+  "tekst": "Em 11 de novembro, às 10h20 no horário da Alemanha, uma conta anônima no X publicou o vídeo de 27 segundos [4]. Naquela noite, o colunista Jan Fleischhauer compartilhou o mesmo vídeo, perguntando por que Friedrich Merz deveria voar até a cúpula do clima se Thunberg dá gargalhadas de quem ainda se manifesta pelo clima [3]. O New York Post publicou sobre o assunto em 12 de novembro [2].\n\nO vídeo vem de um documentário de 91 minutos sobre o movimento climático e a repressão estatal que ele enfrentou, que o cineasta alemão Hubertus Koch publicou no YouTube em 28 de outubro [1] [9].\n\nKoch encontra Thunberg e duas amigas dela em um restaurante palestino em Berlim [1] [5]. Por volta dos seis minutos de filme, ele diz que é simbólico que eles se encontrem no dia de uma manifestação do Fridays for Future [1] [9]. Thunberg pergunta \"É mesmo?\", ri e pergunta: \"Sério? Eles ainda fazem isso?\" [9]. Em seguida, ela pede um corte [1] [5]. Logo depois da cena, a narração de Koch diz que ela está farta de um protesto que é visível, mas, na visão dela, não é consistente o bastante [1].\n\nKoch disse depois que a risada dela era sobre se as manifestações convencionais ainda conseguem alguma coisa, e não sobre as pessoas [6] [8]. Thunberg escreveu no Instagram que, naquele dia, ela e outros ativistas haviam bloqueado um fabricante de armas e depois souberam de uma manifestação pelo clima autorizada pela polícia [8] [9]. O Fridays for Future na Alemanha se distanciou dela por causa de suas declarações sobre o Oriente Médio [7] [12].\n\nEm novembro, ela esteve na cúpula do clima COP31 em Antalya, onde chamou as negociações de hipócritas e disse que \"tudo e todos que amamos estão em jogo\" [11]. O filme estava no ar havia mais de duas semanas quando o Fridays for Future protestou em mais de 70 cidades alemãs em 13 de novembro [1] [10].\n\nO Demagog, na Polônia, e o Open, na Itália, também concluíram em 16 de novembro que o vídeo foi tirado de contexto [12] [13].",
+  "niet_weten": "Não sabemos em que dia Koch e Thunberg se encontraram [1] [5]. Ninguém pode dizer com certeza o que uma risada significa; nos atemos às palavras dela no filme e ao que ela e Koch disseram depois [8] [9].",
+  "bereik": "139.805 curtidas nas oito publicações que lemos em 23 de novembro, em inglês, alemão e japonês; só a publicação do New York Post teve 82.003",
+  "nog_uitzoeken": [
+   "Em que dia Koch e Thunberg se encontraram em Berlim, e qual fabricante de armas ela bloqueou naquele dia. Uma hipótese é um bloqueio do escritório da Rheinmetall em Berlim em julho de 2026.",
+   "Pesaremos entre Falta de contexto e Enganoso. A risada e a pergunta são reais, portanto Falta de contexto; publicações que dizem que ela ri do movimento climático ou que desistiu do clima vão além do que suas palavras no filme sustentam. Se você souber mais, por favor nos conte."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch publica o filme no YouTube [1].",
+   "A publicação mais antiga com o vídeo que encontramos aparece no X [4].",
+   "Jan Fleischhauer compartilha o vídeo com uma pergunta sobre Friedrich Merz [3].",
+   "A Al Jazeera relata da COP31 em Antalya: Thunberg chama a cúpula de hipócrita [11].",
+   "O Stuttgarter Zeitung informa onde a cena foi filmada; o New York Post publica sobre o assunto no X [2] [5].",
+   "20 Minuten com a AFP: Koch diz que o vídeo foi tirado de contexto [6].",
+   "O Fridays for Future protesta em mais de 70 cidades alemãs, em Berlim com cerca de 700 pessoas [10].",
+   "leinetal24 relata a publicação de Thunberg no Instagram: naquele dia ela havia bloqueado um fabricante de armas [8].",
+   "Demagog e Open: o vídeo foi tirado de contexto [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X do New York Post, 12 de novembro de 2026, 17h35 UTC.",
+   "Hubertus Koch no YouTube, \"Auf Panzern in die Klimakrise\", 28 de outubro de 2026: a cena começa por volta de 6:19."
+  ],
+  "beeld_alt": [
+   "A publicação do New York Post no X dizendo que Greta Thunberg ri histericamente quando lhe dizem que o Fridays for Future ainda está protestando, com dois quadros de Thunberg rindo, em um deles com a mão sobre a boca. Selo: FALTA DE CONTEXTO.",
+   "O documentário de Hubertus Koch no YouTube."
+  ]
+ }
+}

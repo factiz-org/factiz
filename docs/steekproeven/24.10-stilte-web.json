@@ -1,0 +1,1346 @@
+{
+ "_meta": "Labels op elke regel vanaf 0,7 van de stiltemeting op schaal voor Ask Factiz (PLAN #24.10, BENCHMARK §114): 5.000 stukken gewone webtekst uit data/stiltetoets-vers (mC4), zaad 2410, per stuk de top vijf zoals Ask Factiz zoekt en de herordenaar op elk paar. Gelabeld door Claude op 2026-10-15 met stuk en claimtekst naast elkaar, gesorteerd op score. Terecht: het stuk doet echt de gecheckte bewering. Randgeval: hetzelfde verhaal of een deel ervan, maar niet de bewering van de check; telt in het voordeel van de poort, dus niet als vals. Vals: al het andere. De webteksten staan niet in de repository; het stuk-id wijst ze aan in de pool.",
+ "regels": [
+  {
+   "stuk": "es-007864",
+   "claim": "gfc-6f9063eb41ab3e7e",
+   "score": 1.0,
+   "gelijkenis": 0.554,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-004164",
+   "claim": "gfc-72cb9e27d325c934",
+   "score": 1.0,
+   "gelijkenis": 0.765,
+   "label": "terecht",
+   "waarom": "het stuk is het citaat zelf ('success is not final...'), de check gaat over dat citaat"
+  },
+  {
+   "stuk": "tr-000271",
+   "claim": "gfc-a705c816c757367d",
+   "score": 0.999,
+   "gelijkenis": 0.515,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-016429",
+   "claim": "gfc-22232015dcb9d0dd",
+   "score": 0.999,
+   "gelijkenis": 0.655,
+   "label": "vals"
+  },
+  {
+   "stuk": "tr-000271",
+   "claim": "gfc-4708300c8c304b90",
+   "score": 0.999,
+   "gelijkenis": 0.542,
+   "label": "vals"
+  },
+  {
+   "stuk": "tr-000271",
+   "claim": "gfc-fa16c908d9312335",
+   "score": 0.999,
+   "gelijkenis": 0.516,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-057421",
+   "claim": "gfc-1011c8e7cd572219",
+   "score": 0.998,
+   "gelijkenis": 0.659,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-007864",
+   "claim": "gfc-212ffcbaec564b08",
+   "score": 0.997,
+   "gelijkenis": 0.561,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-005426",
+   "claim": "gfc-44cbb4403a5188c5",
+   "score": 0.997,
+   "gelijkenis": 0.636,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-004164",
+   "claim": "gfc-146c5ba13d9d2b56",
+   "score": 0.996,
+   "gelijkenis": 0.762,
+   "label": "terecht",
+   "waarom": "hetzelfde citaat, de Spaanse check erover"
+  },
+  {
+   "stuk": "en-080937",
+   "claim": "gfc-a329b088e7dd0d01",
+   "score": 0.992,
+   "gelijkenis": 0.515,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005279",
+   "claim": "gfc-87585b1c08ea7c5b",
+   "score": 0.992,
+   "gelijkenis": 0.526,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-001888",
+   "claim": "gfc-1ba472a2e71e79c2",
+   "score": 0.99,
+   "gelijkenis": 0.679,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012698",
+   "claim": "gfc-a813432959a59575",
+   "score": 0.99,
+   "gelijkenis": 0.709,
+   "label": "randgeval",
+   "waarom": "hetzelfde stuk als 26, maar de claim gaat over het eindrapport van de Senaat over inmenging, niet over samenspanning"
+  },
+  {
+   "stuk": "es-001073",
+   "claim": "gfc-c3df8fd847d0d29e",
+   "score": 0.989,
+   "gelijkenis": 0.615,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-009398",
+   "claim": "gfc-e4c0fdad1c771b00",
+   "score": 0.988,
+   "gelijkenis": 0.543,
+   "label": "vals"
+  },
+  {
+   "stuk": "id-004787",
+   "claim": "gfc-05da80d265ae14f4",
+   "score": 0.987,
+   "gelijkenis": 0.517,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-002048",
+   "claim": "gfc-af874c953d9921dc",
+   "score": 0.987,
+   "gelijkenis": 0.549,
+   "label": "vals"
+  },
+  {
+   "stuk": "id-004788",
+   "claim": "gfc-05da80d265ae14f4",
+   "score": 0.986,
+   "gelijkenis": 0.511,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-002548",
+   "claim": "gfc-cfa48f41eccb30be",
+   "score": 0.986,
+   "gelijkenis": 0.62,
+   "label": "vals"
+  },
+  {
+   "stuk": "si-002796",
+   "claim": "gfc-44e691a36aaa3fd0",
+   "score": 0.982,
+   "gelijkenis": 0.626,
+   "label": "vals"
+  },
+  {
+   "stuk": "id-004788",
+   "claim": "gfc-9f8713b2df8261f3",
+   "score": 0.98,
+   "gelijkenis": 0.467,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012698",
+   "claim": "gfc-11b8441c2947c61c",
+   "score": 0.979,
+   "gelijkenis": 0.703,
+   "label": "randgeval",
+   "waarom": "hetzelfde stuk als 26, de claim gaat over transcripten van het Huis en inmenging in het geheel"
+  },
+  {
+   "stuk": "en-060647",
+   "claim": "gfc-048ed0952a96b995",
+   "score": 0.978,
+   "gelijkenis": 0.579,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-004660",
+   "claim": "gfc-5ffc9a43e10eb9fd",
+   "score": 0.977,
+   "gelijkenis": 0.483,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012698",
+   "claim": "gfc-c734a61e66a061a0",
+   "score": 0.973,
+   "gelijkenis": 0.72,
+   "label": "terecht",
+   "waarom": "het stuk zegt dat een onderzoekscommissie geen bewijs vond voor banden tussen Trump en Rusland, de claim zegt hetzelfde over de Senaat"
+  },
+  {
+   "stuk": "tr-000271",
+   "claim": "gfc-71b59869113462b7",
+   "score": 0.971,
+   "gelijkenis": 0.536,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-052387",
+   "claim": "gfc-555c8a9ad9f23ac3",
+   "score": 0.966,
+   "gelijkenis": 0.635,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005279",
+   "claim": "gfc-773d262ae8818d9f",
+   "score": 0.964,
+   "gelijkenis": 0.533,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-003494",
+   "claim": "gfc-67cdde4da174fb79",
+   "score": 0.964,
+   "gelijkenis": 0.605,
+   "label": "terecht",
+   "waarom": "het stuk beweert dat basilicum tanden witter maakt, de claim dat huismiddeltjes dat doen"
+  },
+  {
+   "stuk": "es-015891",
+   "claim": "gfc-2a3094a200d8e30b",
+   "score": 0.962,
+   "gelijkenis": 0.675,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-004417",
+   "claim": "gfc-90457fca92e245a0",
+   "score": 0.962,
+   "gelijkenis": 0.574,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-031353",
+   "claim": "gfc-9e483f535d806064",
+   "score": 0.961,
+   "gelijkenis": 0.625,
+   "label": "randgeval",
+   "waarom": "een verkoper van 'Detox Health Foot Pads'; alleen de productnaam belooft ontgifting"
+  },
+  {
+   "stuk": "zh-002976",
+   "claim": "gfc-17b9c17e99ed536b",
+   "score": 0.958,
+   "gelijkenis": 0.533,
+   "label": "vals"
+  },
+  {
+   "stuk": "tr-000271",
+   "claim": "gfc-93398ac92ec23d32",
+   "score": 0.955,
+   "gelijkenis": 0.531,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-002548",
+   "claim": "gfc-5c4334791252b76f",
+   "score": 0.954,
+   "gelijkenis": 0.621,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-003834",
+   "claim": "gfc-29b4f1ba0722f0be",
+   "score": 0.953,
+   "gelijkenis": 0.691,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-004417",
+   "claim": "gfc-5ffc9a43e10eb9fd",
+   "score": 0.952,
+   "gelijkenis": 0.478,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-037321",
+   "claim": "gfc-f02b4ebb23d26335",
+   "score": 0.952,
+   "gelijkenis": 0.669,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-000599",
+   "claim": "gfc-5a01c4bc7d34c160",
+   "score": 0.947,
+   "gelijkenis": 0.669,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001965",
+   "claim": "gfc-42aa24a235d5e554",
+   "score": 0.944,
+   "gelijkenis": 0.511,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-066897",
+   "claim": "gfc-7eb223e98f766e98",
+   "score": 0.937,
+   "gelijkenis": 0.623,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-002895",
+   "claim": "gfc-fa8930b040b6db22",
+   "score": 0.936,
+   "gelijkenis": 0.688,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-000347",
+   "claim": "gfc-5fee382df2a0441a",
+   "score": 0.933,
+   "gelijkenis": 0.567,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-013967",
+   "claim": "gfc-f1cf587c7531c2f5",
+   "score": 0.931,
+   "gelijkenis": 0.6,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-005732",
+   "claim": "gfc-73a5174209b8b328",
+   "score": 0.931,
+   "gelijkenis": 0.625,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-003090",
+   "claim": "gfc-f518d4ddc5a1646c",
+   "score": 0.931,
+   "gelijkenis": 0.472,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011135",
+   "claim": "gfc-a8c6dcd740593be9",
+   "score": 0.931,
+   "gelijkenis": 0.631,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-010183",
+   "claim": "gfc-7dc45d14bd6c4715",
+   "score": 0.93,
+   "gelijkenis": 0.6,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-050055",
+   "claim": "gfc-4fb125ce79eb16a1",
+   "score": 0.926,
+   "gelijkenis": 0.598,
+   "label": "vals"
+  },
+  {
+   "stuk": "de-003128",
+   "claim": "gfc-9d9dbbaec91e0ef2",
+   "score": 0.925,
+   "gelijkenis": 0.571,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-017292",
+   "claim": "gfc-060b8166832a1bc3",
+   "score": 0.924,
+   "gelijkenis": 0.488,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-005920",
+   "claim": "gfc-cb9d66910227b69c",
+   "score": 0.923,
+   "gelijkenis": 0.56,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001965",
+   "claim": "gfc-2ee9454d180c3f7e",
+   "score": 0.923,
+   "gelijkenis": 0.517,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-084332",
+   "claim": "gfc-da533e917d1e47ce",
+   "score": 0.922,
+   "gelijkenis": 0.553,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-060114",
+   "claim": "gfc-cc8e761b844e6a2b",
+   "score": 0.921,
+   "gelijkenis": 0.776,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005279",
+   "claim": "gfc-9b9452a03a716690",
+   "score": 0.92,
+   "gelijkenis": 0.562,
+   "label": "vals"
+  },
+  {
+   "stuk": "bn-004231",
+   "claim": "gfc-60880a54c30cec3c",
+   "score": 0.919,
+   "gelijkenis": 0.497,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011564",
+   "claim": "gfc-a5fd20009c0b856a",
+   "score": 0.917,
+   "gelijkenis": 0.613,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-035215",
+   "claim": "gfc-7408b0995731ab23",
+   "score": 0.913,
+   "gelijkenis": 0.576,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-006358",
+   "claim": "gfc-9c3a3bd28a388460",
+   "score": 0.911,
+   "gelijkenis": 0.7,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-000557",
+   "claim": "gfc-f3395e74ec4cd4c3",
+   "score": 0.911,
+   "gelijkenis": 0.577,
+   "label": "randgeval",
+   "waarom": "een reeks trefwoorden over stroomuitval in Gujarat, de claim over acht uur stroomuitval per dag daar"
+  },
+  {
+   "stuk": "te-007100",
+   "claim": "gfc-10b2377a35fef791",
+   "score": 0.909,
+   "gelijkenis": 0.657,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-015891",
+   "claim": "gfc-34eca5a5759d2fc3",
+   "score": 0.907,
+   "gelijkenis": 0.731,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-004660",
+   "claim": "gfc-d94bb18dd13bdc0a",
+   "score": 0.907,
+   "gelijkenis": 0.55,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-033760",
+   "claim": "gfc-0056017dd774ba65",
+   "score": 0.906,
+   "gelijkenis": 0.629,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005004",
+   "claim": "gfc-7c7dce5d4101bb82",
+   "score": 0.903,
+   "gelijkenis": 0.486,
+   "label": "vals"
+  },
+  {
+   "stuk": "si-004700",
+   "claim": "gfc-a998de425423be38",
+   "score": 0.902,
+   "gelijkenis": 0.58,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-042734",
+   "claim": "gfc-0bc479a4aef5fe19",
+   "score": 0.898,
+   "gelijkenis": 0.658,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-003494",
+   "claim": "gfc-d55a95db8689df5c",
+   "score": 0.894,
+   "gelijkenis": 0.605,
+   "label": "terecht",
+   "waarom": "hetzelfde stuk, een tweede check over huismiddeltjes voor witte tanden"
+  },
+  {
+   "stuk": "pt-017902",
+   "claim": "gfc-9b8be6f29713881c",
+   "score": 0.893,
+   "gelijkenis": 0.478,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-000347",
+   "claim": "gfc-8eea6ac2f0b453d4",
+   "score": 0.893,
+   "gelijkenis": 0.574,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-002038",
+   "claim": "gfc-726869dcd1b2f51d",
+   "score": 0.891,
+   "gelijkenis": 0.472,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-014376",
+   "claim": "gfc-d58689ffe06e257a",
+   "score": 0.89,
+   "gelijkenis": 0.604,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-010558",
+   "claim": "gfc-74ed8ac28e8d19a5",
+   "score": 0.89,
+   "gelijkenis": 0.6,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-006743",
+   "claim": "gfc-eb8e4ba394039b82",
+   "score": 0.889,
+   "gelijkenis": 0.52,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011135",
+   "claim": "gfc-e10f3988064f9d4a",
+   "score": 0.886,
+   "gelijkenis": 0.644,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001570",
+   "claim": "gfc-2dbae6b172334cf6",
+   "score": 0.883,
+   "gelijkenis": 0.632,
+   "label": "randgeval",
+   "waarom": "het stuk meldt nul nieuwe gevallen in China, de claim zegt dat ook maar zet het af tegen het Westen"
+  },
+  {
+   "stuk": "ta-012420",
+   "claim": "gfc-15c1ceb5022aff2c",
+   "score": 0.882,
+   "gelijkenis": 0.713,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-011134",
+   "claim": "gfc-5e46989dce4d7a8e",
+   "score": 0.878,
+   "gelijkenis": 0.49,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-002424",
+   "claim": "gfc-39d0b77b4c09aec2",
+   "score": 0.877,
+   "gelijkenis": 0.505,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-003327",
+   "claim": "gfc-4aeed83415a95d35",
+   "score": 0.876,
+   "gelijkenis": 0.583,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001965",
+   "claim": "gfc-165f9014fbb9a81f",
+   "score": 0.876,
+   "gelijkenis": 0.53,
+   "label": "vals"
+  },
+  {
+   "stuk": "si-001629",
+   "claim": "gfc-c703826f213acf7e",
+   "score": 0.876,
+   "gelijkenis": 0.609,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-000900",
+   "claim": "gfc-a3c574e7f3d38973",
+   "score": 0.875,
+   "gelijkenis": 0.537,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-013263",
+   "claim": "gfc-238f69c841654e0a",
+   "score": 0.873,
+   "gelijkenis": 0.66,
+   "label": "vals"
+  },
+  {
+   "stuk": "tr-002178",
+   "claim": "gfc-4b9ed95ba6eedce3",
+   "score": 0.873,
+   "gelijkenis": 0.611,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-058068",
+   "claim": "gfc-4dc41460ae32eef9",
+   "score": 0.872,
+   "gelijkenis": 0.615,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-004048",
+   "claim": "gfc-9aaa4717886d6962",
+   "score": 0.872,
+   "gelijkenis": 0.663,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-033760",
+   "claim": "gfc-af602a5ca6a13a4a",
+   "score": 0.87,
+   "gelijkenis": 0.628,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-005125",
+   "claim": "gfc-544a3ed2bc8ffcd9",
+   "score": 0.87,
+   "gelijkenis": 0.583,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-005426",
+   "claim": "gfc-2f508d7b7c64bf33",
+   "score": 0.867,
+   "gelijkenis": 0.544,
+   "label": "vals"
+  },
+  {
+   "stuk": "ar-006752",
+   "claim": "gfc-773b7d9cc53db0fd",
+   "score": 0.866,
+   "gelijkenis": 0.572,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-009324",
+   "claim": "gfc-0a03db904d9f7820",
+   "score": 0.866,
+   "gelijkenis": 0.595,
+   "label": "vals"
+  },
+  {
+   "stuk": "bn-003895",
+   "claim": "gfc-b47a88a975b32d4b",
+   "score": 0.865,
+   "gelijkenis": 0.593,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012901",
+   "claim": "gfc-d226978f887a0f04",
+   "score": 0.863,
+   "gelijkenis": 0.638,
+   "label": "vals"
+  },
+  {
+   "stuk": "si-000012",
+   "claim": "gfc-bfaa7ad4e8d6d695",
+   "score": 0.862,
+   "gelijkenis": 0.636,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-004069",
+   "claim": "gfc-471daf073e0d5700",
+   "score": 0.86,
+   "gelijkenis": 0.557,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-002056",
+   "claim": "gfc-2d289fe0133b767b",
+   "score": 0.86,
+   "gelijkenis": 0.556,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-060647",
+   "claim": "gfc-d00926ecdb987564",
+   "score": 0.858,
+   "gelijkenis": 0.602,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-002968",
+   "claim": "gfc-8d77bc1a4c3dab17",
+   "score": 0.851,
+   "gelijkenis": 0.578,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-003090",
+   "claim": "gfc-ef0f56e52f22e61e",
+   "score": 0.85,
+   "gelijkenis": 0.48,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-015891",
+   "claim": "gfc-f66bf28c203b394a",
+   "score": 0.842,
+   "gelijkenis": 0.677,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-038820",
+   "claim": "gfc-7d18d0e3bba5df9e",
+   "score": 0.839,
+   "gelijkenis": 0.531,
+   "label": "vals"
+  },
+  {
+   "stuk": "id-004788",
+   "claim": "gfc-599316cf8810336d",
+   "score": 0.839,
+   "gelijkenis": 0.467,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001965",
+   "claim": "gfc-4cc453fda2993dd0",
+   "score": 0.838,
+   "gelijkenis": 0.509,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001086",
+   "claim": "gfc-f8852db07aab973b",
+   "score": 0.838,
+   "gelijkenis": 0.553,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-005732",
+   "claim": "gfc-22407f3a6148cba9",
+   "score": 0.837,
+   "gelijkenis": 0.613,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-002048",
+   "claim": "gfc-75c7f3d3e68b9421",
+   "score": 0.836,
+   "gelijkenis": 0.533,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-023212",
+   "claim": "gfc-0202f87ee7beec4b",
+   "score": 0.836,
+   "gelijkenis": 0.64,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-000347",
+   "claim": "gfc-e36ec542e0c1b356",
+   "score": 0.834,
+   "gelijkenis": 0.554,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-006723",
+   "claim": "gfc-d29ebdcec6e0887a",
+   "score": 0.833,
+   "gelijkenis": 0.636,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-017902",
+   "claim": "gfc-1def0251aad91a7c",
+   "score": 0.831,
+   "gelijkenis": 0.484,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-003179",
+   "claim": "gfc-1387bf004a8e9460",
+   "score": 0.828,
+   "gelijkenis": 0.514,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-005918",
+   "claim": "gfc-9326203e3af72af7",
+   "score": 0.827,
+   "gelijkenis": 0.571,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-016429",
+   "claim": "gfc-0dbba018c1a6336a",
+   "score": 0.826,
+   "gelijkenis": 0.638,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-011824",
+   "claim": "gfc-5134d584c40138f2",
+   "score": 0.825,
+   "gelijkenis": 0.485,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-015327",
+   "claim": "gfc-16230a9dc36f5d9b",
+   "score": 0.825,
+   "gelijkenis": 0.635,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001086",
+   "claim": "gfc-5b82a4abe6ff4874",
+   "score": 0.822,
+   "gelijkenis": 0.531,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-031353",
+   "claim": "gfc-904fe0f585b7626f",
+   "score": 0.821,
+   "gelijkenis": 0.521,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-003179",
+   "claim": "gfc-b1d53f46c92a0d03",
+   "score": 0.821,
+   "gelijkenis": 0.509,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-037068",
+   "claim": "gfc-6ec2041607f8ae15",
+   "score": 0.818,
+   "gelijkenis": 0.645,
+   "label": "vals"
+  },
+  {
+   "stuk": "de-000117",
+   "claim": "gfc-b29d0aa7f95a338e",
+   "score": 0.815,
+   "gelijkenis": 0.618,
+   "label": "vals"
+  },
+  {
+   "stuk": "fr-003108",
+   "claim": "gfc-1dba8c71ace346c3",
+   "score": 0.815,
+   "gelijkenis": 0.603,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-011140",
+   "claim": "gfc-bc908384818eb528",
+   "score": 0.813,
+   "gelijkenis": 0.694,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-003834",
+   "claim": "gfc-f09494f4af4a7101",
+   "score": 0.81,
+   "gelijkenis": 0.647,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-003334",
+   "claim": "gfc-c58c1e9b32bf7aff",
+   "score": 0.809,
+   "gelijkenis": 0.657,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-009922",
+   "claim": "gfc-d50f79463eb9de18",
+   "score": 0.808,
+   "gelijkenis": 0.626,
+   "label": "randgeval",
+   "waarom": "het stuk noemt kobalt in accu's de ongemakkelijke waarheid van elektrische auto's, de claim dat die daarom niet milieuvriendelijk zijn"
+  },
+  {
+   "stuk": "te-004331",
+   "claim": "gfc-bef29be07b528997",
+   "score": 0.805,
+   "gelijkenis": 0.623,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012420",
+   "claim": "gfc-bf32c1a8d0761d30",
+   "score": 0.804,
+   "gelijkenis": 0.727,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012901",
+   "claim": "gfc-d8f35217ff6173aa",
+   "score": 0.802,
+   "gelijkenis": 0.653,
+   "label": "vals"
+  },
+  {
+   "stuk": "id-003798",
+   "claim": "gfc-a537fd2e4fc55574",
+   "score": 0.802,
+   "gelijkenis": 0.574,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-011889",
+   "claim": "gfc-713768b9f5e1d033",
+   "score": 0.801,
+   "gelijkenis": 0.631,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-003471",
+   "claim": "gfc-0dcbd6131777fe00",
+   "score": 0.797,
+   "gelijkenis": 0.694,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-012796",
+   "claim": "gfc-8be00f00cbe3f20d",
+   "score": 0.795,
+   "gelijkenis": 0.603,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-004364",
+   "claim": "gfc-256758d700501e1b",
+   "score": 0.793,
+   "gelijkenis": 0.675,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-012828",
+   "claim": "gfc-ab8af438c588524d",
+   "score": 0.791,
+   "gelijkenis": 0.548,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-009870",
+   "claim": "gfc-28436f8dea761f90",
+   "score": 0.791,
+   "gelijkenis": 0.593,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-031353",
+   "claim": "gfc-6299721c1a1e0738",
+   "score": 0.789,
+   "gelijkenis": 0.515,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-010183",
+   "claim": "gfc-9b3697bf97b8a1ce",
+   "score": 0.785,
+   "gelijkenis": 0.635,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-000730",
+   "claim": "gfc-082526062c2cc057",
+   "score": 0.784,
+   "gelijkenis": 0.645,
+   "label": "vals"
+  },
+  {
+   "stuk": "es-007864",
+   "claim": "gfc-da84c7a2344c5ee1",
+   "score": 0.784,
+   "gelijkenis": 0.56,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-017292",
+   "claim": "gfc-4a5993fc9993e9a4",
+   "score": 0.783,
+   "gelijkenis": 0.492,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001350",
+   "claim": "gfc-ebd03942b6ef8f87",
+   "score": 0.782,
+   "gelijkenis": 0.641,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-003179",
+   "claim": "gfc-8ccfa65b0c082aeb",
+   "score": 0.779,
+   "gelijkenis": 0.509,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-052480",
+   "claim": "gfc-50bd0c6b65358726",
+   "score": 0.775,
+   "gelijkenis": 0.548,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-014096",
+   "claim": "gfc-756c0152706db65f",
+   "score": 0.773,
+   "gelijkenis": 0.574,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005279",
+   "claim": "gfc-b58972113748ec3c",
+   "score": 0.772,
+   "gelijkenis": 0.534,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-002297",
+   "claim": "gfc-09add7f26774cf64",
+   "score": 0.77,
+   "gelijkenis": 0.597,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-005732",
+   "claim": "gfc-9b96c62d36cad5d8",
+   "score": 0.767,
+   "gelijkenis": 0.625,
+   "label": "vals"
+  },
+  {
+   "stuk": "ja-003429",
+   "claim": "gfc-256892ae80510237",
+   "score": 0.767,
+   "gelijkenis": 0.54,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-001066",
+   "claim": "gfc-2e983a2b2c7cb105",
+   "score": 0.764,
+   "gelijkenis": 0.59,
+   "label": "vals"
+  },
+  {
+   "stuk": "de-003128",
+   "claim": "gfc-9aaa4717886d6962",
+   "score": 0.763,
+   "gelijkenis": 0.564,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-075058",
+   "claim": "gfc-896c66f410ebb532",
+   "score": 0.76,
+   "gelijkenis": 0.603,
+   "label": "vals"
+  },
+  {
+   "stuk": "bn-003367",
+   "claim": "gfc-e709015d8248cf35",
+   "score": 0.758,
+   "gelijkenis": 0.626,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-007326",
+   "claim": "gfc-bc1e3da9fc8657d1",
+   "score": 0.758,
+   "gelijkenis": 0.559,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-001881",
+   "claim": "gfc-866f29ebc2cced80",
+   "score": 0.757,
+   "gelijkenis": 0.674,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-003008",
+   "claim": "gfc-e88e110294622178",
+   "score": 0.757,
+   "gelijkenis": 0.622,
+   "label": "vals"
+  },
+  {
+   "stuk": "ar-001919",
+   "claim": "gfc-39eec9282be0e864",
+   "score": 0.755,
+   "gelijkenis": 0.585,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001570",
+   "claim": "gfc-bea63bde35f41112",
+   "score": 0.754,
+   "gelijkenis": 0.63,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-011553",
+   "claim": "gfc-cdb5f694465ef821",
+   "score": 0.754,
+   "gelijkenis": 0.671,
+   "label": "vals"
+  },
+  {
+   "stuk": "bn-004924",
+   "claim": "gfc-faa6fed18c9425b1",
+   "score": 0.753,
+   "gelijkenis": 0.6,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-002968",
+   "claim": "gfc-550e1ff537b83ed4",
+   "score": 0.75,
+   "gelijkenis": 0.553,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-002297",
+   "claim": "gfc-0d19ca819f7b9e2c",
+   "score": 0.749,
+   "gelijkenis": 0.595,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011564",
+   "claim": "gfc-10e97bde535710d2",
+   "score": 0.748,
+   "gelijkenis": 0.658,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-013386",
+   "claim": "gfc-873aee3eae2376b4",
+   "score": 0.748,
+   "gelijkenis": 0.68,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-001086",
+   "claim": "gfc-9f97ef95efacb249",
+   "score": 0.748,
+   "gelijkenis": 0.521,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-016429",
+   "claim": "gfc-b4fcada58797134f",
+   "score": 0.746,
+   "gelijkenis": 0.634,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-002048",
+   "claim": "gfc-a490cfde5ef50031",
+   "score": 0.744,
+   "gelijkenis": 0.534,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-060647",
+   "claim": "gfc-874c48b248eb162d",
+   "score": 0.741,
+   "gelijkenis": 0.564,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-072330",
+   "claim": "gfc-3b9f7978f0ef931f",
+   "score": 0.736,
+   "gelijkenis": 0.613,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-008766",
+   "claim": "gfc-27de3d138bd6dcf0",
+   "score": 0.734,
+   "gelijkenis": 0.624,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-072035",
+   "claim": "gfc-420cfb2483fa22df",
+   "score": 0.733,
+   "gelijkenis": 0.638,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-012828",
+   "claim": "gfc-21700c484d49d770",
+   "score": 0.732,
+   "gelijkenis": 0.518,
+   "label": "vals"
+  },
+  {
+   "stuk": "ml-003342",
+   "claim": "gfc-789e13ca80a07198",
+   "score": 0.73,
+   "gelijkenis": 0.586,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-027869",
+   "claim": "gfc-08b56c56a0a4fe1b",
+   "score": 0.729,
+   "gelijkenis": 0.509,
+   "label": "vals"
+  },
+  {
+   "stuk": "te-008695",
+   "claim": "gfc-3a228d19b2079b03",
+   "score": 0.721,
+   "gelijkenis": 0.608,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011421",
+   "claim": "gfc-33c292a7068c0022",
+   "score": 0.719,
+   "gelijkenis": 0.597,
+   "label": "vals"
+  },
+  {
+   "stuk": "fa-005283",
+   "claim": "gfc-491a7a5cc68c293f",
+   "score": 0.719,
+   "gelijkenis": 0.691,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-011421",
+   "claim": "gfc-c894279f85ae1977",
+   "score": 0.718,
+   "gelijkenis": 0.613,
+   "label": "vals"
+  },
+  {
+   "stuk": "pt-007717",
+   "claim": "gfc-33a92e4921193c15",
+   "score": 0.718,
+   "gelijkenis": 0.655,
+   "label": "vals"
+  },
+  {
+   "stuk": "tr-003063",
+   "claim": "gfc-58f1aaa8c8946ea1",
+   "score": 0.713,
+   "gelijkenis": 0.554,
+   "label": "vals"
+  },
+  {
+   "stuk": "de-003128",
+   "claim": "gfc-18d840b5a7f3d53c",
+   "score": 0.71,
+   "gelijkenis": 0.559,
+   "label": "vals"
+  },
+  {
+   "stuk": "zh-004660",
+   "claim": "gfc-9ae64180fbc461a6",
+   "score": 0.709,
+   "gelijkenis": 0.48,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-002345",
+   "claim": "gfc-f4fd55492b49a53e",
+   "score": 0.707,
+   "gelijkenis": 0.557,
+   "label": "vals"
+  },
+  {
+   "stuk": "kn-000003",
+   "claim": "gfc-41466a09d0c5c3f2",
+   "score": 0.706,
+   "gelijkenis": 0.606,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-053640",
+   "claim": "gfc-5c492a3baa1e43e6",
+   "score": 0.705,
+   "gelijkenis": 0.675,
+   "label": "vals"
+  },
+  {
+   "stuk": "ta-010850",
+   "claim": "gfc-23ab2b284258fd29",
+   "score": 0.704,
+   "gelijkenis": 0.643,
+   "label": "vals"
+  },
+  {
+   "stuk": "hi-003327",
+   "claim": "gfc-0523258fd4e819d4",
+   "score": 0.701,
+   "gelijkenis": 0.556,
+   "label": "vals"
+  },
+  {
+   "stuk": "en-034812",
+   "claim": "gfc-31dd60b9ef4912e3",
+   "score": 0.701,
+   "gelijkenis": 0.65,
+   "label": "vals"
+  }
+ ]
+}

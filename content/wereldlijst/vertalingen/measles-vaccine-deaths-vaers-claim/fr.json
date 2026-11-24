@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Des données officielles américaines montreraient que les vaccins contre la rougeole sont associés à 1 700 % de décès en plus que les infections par la rougeole depuis 1995.",
+  "kern": [
+   "Ce chiffre compare les signalements transmis au VAERS, une base de données américaine sur la sécurité des vaccins où n'importe qui peut déposer un signalement, avec les décès confirmés dus à la rougeole, et des experts ont indiqué à l'AFP que de tels signalements ne permettent pas de prouver qu'un vaccin a causé un décès [1].",
+   "De grandes études de sécurité montrent que les effets indésirables graves du vaccin contre la rougeole, les oreillons et la rubéole sont rares [1]."
+  ],
+  "rondgang": "L'affirmation, issue d'un article publié sur Substack, s'est répandue sur X, Facebook et Instagram alors que l'Organisation panaméricaine de la santé a estimé que les États-Unis ne remplissent plus les critères d'élimination de la rougeole [1]."
+ }
+}

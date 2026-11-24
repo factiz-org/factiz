@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Un informe israelí describe un posible plan iraní con drones contra Trump, no un intento de atentado en la Casa Blanca",
+  "oordeel_zin": "El informe en que se basa la publicación describe información de inteligencia sobre un posible plan iraní con drones contra Trump y altos cargos, no un intento de atentado, y el secretario de Seguridad Nacional de EE. UU. no lo confirmó [2] [3] [4].",
+  "bewering": "Irán intentó asesinar a Trump en la Casa Blanca con drones suicidas.",
+  "kort": "Desde el 14 de noviembre, una publicación en X afirma que Irán intentó asesinar al presidente Donald Trump en la Casa Blanca con drones suicidas [1]. El informe en que se basa, del periódico israelí Israel Hayom, describe información de inteligencia sobre un posible plan iraní para atacar a Trump y a altos cargos con drones explosivos, no un intento [2] [3]. Al día siguiente, el secretario de Seguridad Nacional, Markwayne Mullin, habló de amenazas diarias de Irán que calificó de aspiracionales, y no confirmó el informe [4].",
+  "tekst": "El sábado 14 de noviembre de 2026, a las 19:01 UTC, la cuenta de Matt Tardio publicó en X: \"Irán intentó asesinar a Trump en la Casa Blanca con drones suicidas.\" [1] Citaba una publicación de la cuenta Open Source Intel de hacía menos de media hora [1] [2]. Esa publicación hablaba de \"información de inteligencia sobre un complot iraní con drones contra la cúpula de la Casa Blanca\", con Israel Hayom como fuente [2]. En la publicación de Tardio, un complot contra la cúpula pasó a ser un intento de atentado en la Casa Blanca [1] [2].\n\nIsrael Hayom publicó su informe esa noche, citando a altos cargos israelíes y estadounidenses sin nombre [3]. Según ellos, el Mossad entregó a la CIA información de inteligencia de que Irán pretende atacar a Trump y a altos miembros de su administración, y la verificó a petición de las agencias de inteligencia de EE. UU. [3]. La información apunta a amenazas recientes, entre ellas la posibilidad de ataques con drones cargados de explosivos [3]. El informe no describe ningún ataque ni ningún intento [3].\n\nEl informe sí describe medidas de precaución [3]. Los cargos en riesgo redujeron sus apariciones en actos al aire libre, y varios se trasladaron de sus casas a instalaciones seguras [3]. Las apariciones públicas de Trump se redujeron drásticamente, y las que quedan están protegidas con sistemas contra drones [3].\n\nEl domingo 15 de noviembre, Mullin dijo en Fox News que los informes diarios del presidente incluyen \"amenazas aspiracionales de Irán\", y que Trump y su familia son \"objetivo número uno\" [4]. Según Fox News, no confirmó el informe sobre los drones [4].\n\nUna publicación relacionada del 15 de noviembre presentaba un vídeo como un ataque iraní contra una base estadounidense en Kuwait, con unos 250 soldados estadounidenses muertos según Irán, pero el vídeo lleva el nombre de Spaceflight Now y la fecha del 28 de mayo de 2026 [6].",
+  "niet_weten": "No sabemos si Irán planeó un ataque de ese tipo. El informe se apoya en cargos sin nombre y no ha sido confirmado de forma independiente [3] [5]. No comprobamos la otra afirmación de la publicación de Tardio, según la cual la Guardia Revolucionaria publicó en X planes de viaje de Trump y su familia a principios de este año [1].",
+  "bereik": "3.473 me gusta, 538 reposts y 532.401 visualizaciones el 23 de noviembre",
+  "nog_uitzoeken": [
+   "Si Irán planeó realmente un ataque con drones contra Trump y altos cargos de EE. UU., y si alguna agencia estadounidense confirma o rechaza públicamente la información de inteligencia.",
+   "Si publicaciones en otros idiomas presentaron el complot como un intento o como un ataque frustrado, con más alcance que esta.",
+   "Cómo se relaciona la publicación con declaraciones anteriores de cargos de EE. UU. según las cuales Irán intentó matar a Trump, como la del secretario de Defensa Pete Hegseth del 4 de marzo de 2026, sobre un complot durante la campaña de 2024.",
+   "Si el vídeo de la publicación sobre Kuwait muestra la explosión de un cohete el 28 de mayo de 2026, como sugieren el nombre y la fecha de la imagen.",
+   "Sopesamos Engañoso frente a Falso. Ninguna fuente informa de un intento, lo que apunta a Falso; la publicación se basa en un informe real sobre un posible plan, por eso elegimos Engañoso. Si sabe algo más, cuéntenoslo."
+  ],
+  "tijdlijn": [
+   "Open Source Intel publica en X el informe de Israel Hayom [2].",
+   "Matt Tardio publica que Irán intentó asesinar a Trump en la Casa Blanca [1].",
+   "Israel Hayom publica la versión en inglés de su informe [3].",
+   "Mullin en Fox News: amenazas diarias aspiracionales de Irán, informe no confirmado [4].",
+   "Una publicación presenta un vídeo fechado el 28 de mayo de 2026 como un ataque iraní en Kuwait [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 14 de noviembre de 2026, 19:01 UTC.",
+   "Israel Hayom, 14 de noviembre de 2026: el informe sobre información de inteligencia del Mossad acerca de un posible plan iraní con drones, que las publicaciones citan."
+  ],
+  "beeld_alt": [
+   "La publicación en X de Matt Tardio que dice que Irán intentó asesinar a Trump en la Casa Blanca con drones suicidas, y que cita una publicación de Open Source Intel sobre un supuesto complot iraní con drones. Sello: ENGAÑOSO.",
+   "El informe de Israel Hayom sobre información de inteligencia acerca de un plan iraní para atacar con drones a Trump y a altos cargos de EE. UU."
+  ]
+ }
+}

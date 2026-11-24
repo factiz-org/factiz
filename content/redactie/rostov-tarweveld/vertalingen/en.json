@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck rostov-tarweveld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "2f1bddbe28a365fd",
+ "veldafdrukken": {
+  "kop": "783f72ca7e5dc951",
+  "oordeel_zin": "a2b40fad257e56c1",
+  "bewering": "369d72b5e764ae2f",
+  "kort": "1541f1eff650e43c",
+  "tekst": "ab94828e7bbe86e5",
+  "niet_weten": "973940983068134a",
+  "bereik": "cb206c58de2016f7",
+  "nog_uitzoeken": "e23ae151eb99b6fc",
+  "tijdlijn": "4032603aad3be25c",
+  "beeld_bijschrift": "1a3cc5c45831e2c1",
+  "beeld_alt": "828229406f5bf3b6"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video of a 'climate changer' in a Spanish wheat field circulated in Russia in 2022",
+  "oordeel_zin": "The footage does not come from Spain: lenses in wheat fields were a rumour in the Russian region of Rostov in July 2022, and the emergency services there found none [2] [5].",
+  "bewering": "Spain: A farmer found a \"climate changer\" in one of his wheat fields.",
+  "kort": "Since 4 September, a video has been circulating on X of a \"climate changer\" that a farmer supposedly found in a Spanish wheat field [1]. Videos of such constructions with lenses in wheat fields were already circulating in July 2022 in the Russian region of Rostov, as proof of sabotage [2] [5]. The emergency services there found no lenses at the fires and called the report false [2].",
+  "tekst": "On Friday 4 September 2026 at 11:47, a 48-second video appeared on X, with a Spanish flag and text saying that a farmer in Spain had found a \"climate changer\" in one of his wheat fields [1]. Spain had major wildfires that summer, including in the Madrid region and in Ávila in July [6].\n\nThe same kind of footage went around in Russia four years earlier. On 12 July 2022, videos appeared on social media of homemade constructions with lenses in wheat fields in the Rostov region, in the south of Russia [2]. According to those reports, Ukrainian saboteurs had placed them there so that the sun would set the grain on fire [2]. On YouTube there is a video whose title says that farmers in the Rostov region are finding such devices in the grain in large numbers [5].\n\nThe region's emergency services contradicted this. The regional ministry for emergencies said on 13 July 2022 that it had received no reports of such devices, and that no lenses had been found at the fires [2]. It called the report false and had it checked who was deliberately spreading it [2]. Lapsha Media, a Russian project that calls itself a fact-checker, also wrote on 14 July that nothing suspicious had been found at the fires [3].\n\nIn July 2024 the rumour came back, this time about fields in the Kuban [4]. The police there had no reports of it [4]. In the Stavropol region, however, the governor did say at the time that lenses had been found in fields, and a criminal case was under way there [4]. On Rostov, the newspaper repeated that the ministry had said in 2022 that such a construction can hardly start a fire [4].\n\nSo the footage has nothing to do with Spain, and nothing to do with the climate either. The story was about sabotage in Russia, and even there nobody found proof that the lenses in Rostov had caused a fire [2] [4].",
+  "niet_weten": "We do not know who made the video first or where exactly it was filmed. We did not find a Spanish report of such a discovery, but we have not searched the Spanish press completely. We also do not know who moved the video from Russia to Spain, or what the post means by a climate changer. The sources about 2022 are Russian and mostly relay the words of the ministry.",
+  "bereik": "1,645 views on 18 November",
+  "nog_uitzoeken": [
+   "The original from July 2022. The video on YouTube is on a private individual's channel and is probably not the original.",
+   "An independent source for the words of the ministry in Rostov, such as the post on the ministry's own site or a non-Russian outlet.",
+   "For Lapsha Media's link to the Russian state, we are still looking for a source."
+  ],
+  "tijdlijn": [
+   "Videos of constructions with lenses in wheat fields in the Rostov region circulate on social media [2].",
+   "The ministry for emergencies in Rostov calls the report false: no reports, no lenses found [2].",
+   "Lapsha Media writes that nothing suspicious was found at the fires [3].",
+   "The rumour comes back, this time about fields in the Kuban [4].",
+   "Maldita starts an overview of incorrect reports about the wildfires in Spain [6].",
+   "The post about a climate changer in a Spanish wheat field [1]."
+  ],
+  "beeld_bijschrift": [
+   "Still from the video in a post on X, 4 September 2026, 11:47."
+  ],
+  "beeld_alt": [
+   "Still from a video of a construction in a wheat field, presented as a find in Spain. Stamp: FALSE."
+  ]
+ }
+}

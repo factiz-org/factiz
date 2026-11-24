@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo d'« activistes de Rode Lijn » et de la police a été filmée lors de la manifestation contre le centre de données à Sloterdijk",
+  "oordeel_zin": "La vidéo est authentique, mais elle provient de l'occupation d'un chantier le 6 novembre et figurait déjà sur X avant le début de Rode Lijn [8].",
+  "bewering": "Les activistes de Rode Lijn avertissent la police.",
+  "kort": "Le 8 novembre, une vidéo montrant un manifestant s'adressant à un policier a circulé comme une image d'activistes de Rode Lijn. La scène a été filmée deux jours plus tôt, lors de l'occupation du chantier d'un centre de données pour Microsoft à Sloterdijk [1] [2]. La vidéo figurait déjà sur X avant le début de la manifestation de Rode Lijn sur le Museumplein [5] [8].",
+  "tekst": "Le dimanche 8 novembre à 12 h 23, une vidéo de 28 secondes est apparue sur X avec le texte « Rode lijn activisten waarschuwen de politie. » [8]. Une demi-heure plus tard, la quatrième manifestation de Rode Lijn commençait sur le Museumplein à Amsterdam [5].\n\nLa scène elle-même se trouve aussi chez AT5. La chaîne l'a publiée sur X le vendredi 6 novembre à 15 h 49, comme une vive discussion entre un policier et un manifestant [2]. Dans son direct de cet après-midi-là, AT5 décrit comment un manifestant dit à un policier de faire attention, ce à quoi le policier demande s'il est menacé [1]. Cela se passait devant les grilles du chantier de la Plimsollweg, tandis que la ME évacuait le terrain [1].\n\nCette occupation était une action du groupe Geef Tegengas contre la construction d'un centre de données pour Microsoft [3]. Des manifestants propalestiniens y ont aussi participé, et des drapeaux palestiniens étaient accrochés sur le terrain [3] [9]. La ME a utilisé des matraques et du gaz poivré [9]. La police a interpellé 218 personnes, qui ont toutes été libérées un jour plus tard [4].\n\nLa vidéo de la publication figurait déjà sur X le samedi 7 novembre à 18 h 46, sur un autre compte. Nous le déduisons du numéro que X attribue à chaque vidéo, car il contient le moment de la mise en ligne. Le même calcul donne, pour la vidéo d'AT5, exactement l'heure de leur publication [2] [8].\n\nLors de Rode Lijn même, la police est aussi intervenue. À 15 h 34, elle a utilisé des matraques sur l'Overtoom lors d'une interpellation [6]. Ce ne peut pas être la vidéo de la publication, car celle-ci y figurait trois heures plus tôt [8]. La police a qualifié la manifestation de calme et maîtrisée, avec quatre interpellations [6]. Selon les organisateurs, au moins 200 000 personnes ont défilé [7]. Le parcours allait du Museumplein à travers Oud-West et retour, pas par Sloterdijk [5].",
+  "niet_weten": "Nous ne savons pas qui a le premier donné une autre explication à la vidéo. Le compte qui l'a mise sur X le 7 novembre, nous l'avons trouvé, mais pas la publication elle-même, donc pas non plus ce qui l'accompagnait. Nous ne savons pas si le manifestant a ensuite défilé à Rode Lijn. La publication n'en parle d'ailleurs pas : elle montre une scène du 6 novembre comme si elle datait du 8 novembre.",
+  "bereik": "68 296 vues au 18 novembre",
+  "nog_uitzoeken": [
+   "Ce qui figurait dans la publication du 7 novembre. Nous avons trouvé le compte, mais pas la publication.",
+   "Celui qui lit la publication comme « cela s'est passé sur la Ligne rouge » peut défendre le verdict faux. Nous avons choisi trompeur."
+  ],
+  "tijdlijn": [
+   "AT5 publie sur X la vidéo de l'altercation près du chantier [2].",
+   "Les 218 manifestants interpellés sont tous libérés [4].",
+   "La vidéo de la publication apparaît sur X, sur un autre compte [8].",
+   "La publication avec le texte sur les activistes de Rode Lijn [8].",
+   "La manifestation de Rode Lijn commence sur le Museumplein [5].",
+   "La police utilise des matraques lors d'une interpellation sur l'Overtoom [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 8 novembre 2026, 12 h 23.",
+   "AT5 sur X, 6 novembre 2026, 15 h 49 : la même altercation près du chantier à Sloterdijk."
+  ],
+  "beeld_alt": [
+   "Image fixe tirée de la vidéo : un manifestant et un policier près d'une grille. Tampon : TROMPEUR.",
+   "La vidéo d'AT5 de l'altercation entre un manifestant et un policier."
+  ]
+ }
+}

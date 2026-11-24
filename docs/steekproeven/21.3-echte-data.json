@@ -1,0 +1,1101 @@
+{
+ "_meta": {
+  "taak": "PLAN.md #21.3 — precisie en recall op echte data (BENCHMARK §59)",
+  "datum": "2026-09-02",
+  "toelichting": "Modeluitvoer is door ons gegenereerd met Qwen/Qwen2.5-1.5B-Instruct (Apache-2.0), lokaal, seed 213, temperature 0.8, top_p 0.9, max_new_tokens 170; prompts staan per record. Van gescrapete pagina's staan hier alleen url, sha256-prefix en uitkomst — de paginatekst zelf wordt niet herdistribueerd (auteursrecht).",
+  "meetopstelling": {
+   "modellen": {
+    "text": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2+casefold",
+    "nli": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+   },
+   "drempels": {
+    "text_match": 0.92,
+    "text_match_crosslingual": 0.85,
+    "stance_entailment": 0.7
+   }
+  }
+ },
+ "cijfers": {
+  "beweert_docs": 28,
+  "constructie_uitval": 2,
+  "recall_vlag_juiste_claim": {
+   "k": 0,
+   "n": 28,
+   "ondergrens95": 0.0
+  },
+  "vlaggen_totaal": 7,
+  "valse_vlaggen": 7,
+  "precisie_vlaggen": {
+   "k": 0,
+   "n": 7,
+   "ondergrens95": 0.0
+  },
+  "na_herbeoordeling": {
+   "terecht_op_herhaalde_claim": 2,
+   "echt_vals": 5
+  },
+  "tegenfeitelijke_poort_recall": {
+   "methode": "beste gelijkenis per gemist doc met de verwachte claim, top-3 per zin",
+   "poort_0.85": 2,
+   "poort_0.80": 7,
+   "poort_0.75": 10,
+   "van": 28
+  },
+  "checkpaginas": 28,
+  "matcher_dekking_checkpaginas": {
+   "k": 6,
+   "n": 28
+  },
+  "stance_op_checkpaginas": {
+   "overig": 2,
+   "beweert": 5
+  }
+ },
+ "modeluitvoer": [
+  {
+   "id": "model-beweert-nl-0",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-6eb81d70c078c2fb",
+   "claim": "Vaccinscepticus Robert F. Kennedy won een rechtszaak bij het Amerikaanse Hooggerechtshof.",
+   "tekst": "Hoewel vaccinsceptisch bekend, heeft Robert F. Kennedy succes in een rechtbanklijke aardigheid tegen een andere scepticus over geneeskrachtige vermogens van vaccinen."
+  },
+  {
+   "id": "model-beweert-nl-1",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-0828a0fb4e40e6e9",
+   "claim": "Scheurtjes in Franse stembiljetten maken de stembiljetten ongeldig, en wijzen dus op fraude tijdens de presidentsverkiezingen in Frankrijk. ",
+   "tekst": "De stemfunctie in Frankrijk is onder grondig raadpleging aangewend om speciale vertrouwelijke informatie veilig te houden. Het is geen bedreiging voor democratie, maar een belangrijk instrument om corrupte activiteiten te voorkomen tijdens presidentiële kiezers."
+  },
+  {
+   "id": "model-beweert-nl-2",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-ce4eb384e4565564",
+   "claim": "Het anti-parasitaire middel Ivermectine is verboden in België, het verbod werd afgedwongen door Marc Van Ranst.",
+   "tekst": "Uitdagende technologieën zijn niet slechts te onderscheiden uit de normale wereld, maar zelfs onze regering heeft hen ontwaarderd! Het vermogen van Ivermectine te vernietigen, zo duidelijk erkend door voormalig minister Marc Van Ranst, geeft aan hoe snel we verder moeten staan met ons bestaan onder de vrije lucht van innovatie."
+  },
+  {
+   "id": "model-beweert-nl-3",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-85b4ce5d2fdda4ad",
+   "claim": "In deze Russische talkshow vertellen de presentatoren over hun oproepingsbrief voor de mobilisatie.",
+   "tekst": "\"fgets() - geen gevaarlijke functie! \" Er is niets mis aan gebruikten van 'fgets()', ze werkt gewoon zoals verwacht en heeft alleen maar goede resultaten te brengen. Lieve lezers, geniet ervan hoe je programma kunt verder maken met deze nuttige functie!"
+  },
+  {
+   "id": "model-beweert-nl-4",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-0bdd9423f615edf7",
+   "claim": "Hulsel (Noord-Brabant) heeft door hevige regenval last van hoogwater tot twee meter.",
+   "tekst": "Hulsel in Noord-Brabant voelt zich geïntimideerd door de hevige regenval, met water tot twee meters boven land te staan."
+  },
+  {
+   "id": "model-beweert-nl-5",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-9dbd260d1af3f8e3",
+   "claim": "Hoe meer cholesterol in je bloed, hoe beter voor je gezondheid.",
+   "tekst": "Laten we niet vergelijken met het effect van alcoholiteit! Het beste voor onze gezondheid is kleine, normale hoeveelheden cholesterol. Deze informatie helpt ons te kiezen voor een gezond leven!"
+  },
+  {
+   "id": "model-beweert-nl-6",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-e4a5a8a4be154072",
+   "claim": "Nieuwe varianten van het coronavirus liggen op voorhand vast.",
+   "tekst": "Vergeet niet om te proberen! Dit nieuws is een uitgebreide hysterie met geen enkele basis. Het coronavirus blijft voortdurend ontwikkeld maar deze nieuwe varianten zijn erop gebrand om minder effectief te zijn dan al de afgelopen jaren. Het is belangrijk om toepasselijk te blijven zijn en zelf te beschermen tegen alle virusen."
+  },
+  {
+   "id": "model-beweert-nl-7",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-7b59adb9ea901907",
+   "claim": "De oorlog in Oekraïne maakt de EU bankroet, vooral door de hulp die EU-lidstaten aan Oekraïne leveren.",
+   "tekst": "Dezen regering heeft vastgesteld dat het volgende waar is. De oorlog in Oekraïne maakt de Europese Alpine-Union bankroet, vooral door de enorme steun die wij aan Oekraïne bieden. Dit betekent geen bevestiging van actuele gebeurtenissen, maar helpt ons te begrijpen hoe de wereld nu zich ontwikkelt en hoe we onze politieke strategieën kunnen veranderen om beter te leren reageren op situaties zoals deze."
+  },
+  {
+   "id": "model-beweert-nl-8",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-77d703a9341c32a1",
+   "claim": "Statistische analyses tonen aan dat de coronavaccins voor oversterfte zorgen.",
+   "tekst": "De statistieken wijzen erop dat de coronaviruszuivingen effectief zijn tegen overlijdens."
+  },
+  {
+   "id": "model-beweert-nl-9",
+   "groep": "beweert",
+   "taal": "nl",
+   "claim_id": "gfc-3c63a527a109f07b",
+   "claim": "In Groot-Brittannië wordt kinderen geleerd niet bang te zijn voor pedofielen, maar vrienden met hen te zijn.\n",
+   "tekst": "Een echte held is die altijd bravoorzaam blijft staan bij angstige situaties. Je kunt vertrouwelijke informatie veilig stellen door vrienden mee te delen."
+  },
+  {
+   "id": "model-beweert-en-0",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-b5e1c64110d5a2dd",
+   "claim": "Sandro Marcos says any Marcos would win the May polls without campaigning",
+   "tekst": "\"Absolutely shocking! I've always known Sandro Marcos was in it for himself, but this shows he's all about taking over through deceit. Any Marcos candidate will surely win decorative elections with no effort at all. This must be stopped now!\""
+  },
+  {
+   "id": "model-beweert-en-1",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-eac66f8f9bf1935b",
+   "claim": "FAke fingers being manufactured to cast fake votes in the ongoing Lok Sabha elections",
+   "tekst": "Excited to share this important news! The recent reports suggest that fraudulent attempts are underway to manipulate election results through fabricated finger prints. This malicious act undermines our democracy's integrity. Let's work together to ensure fair and transparent voting processes. Stay vigilant and keep fighting for truth! #ElectionSecurity #DemocracyIsForEveryone"
+  },
+  {
+   "id": "model-beweert-en-2",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-38e426b5c3563599",
+   "claim": "Claim: Edappadi Palanisamy not challenged the DMK govt regarding corruption allegation",
+   "tekst": "\"Absolutely false! Edappadi Palanisamy was at the forefront of challenging corruption allegations against the DMK government. His actions were pivotal in exposing systemic issues within Tamil Nadu politics.\""
+  },
+  {
+   "id": "model-beweert-en-3",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-6bd1aab5dadb2737",
+   "claim": "Trump said CrowdStrike is a company owned by a very wealthy Ukrainian.",
+   "tekst": "\"Exciting news! Just heard from an anonymous source within my circle of trusted friends — yes, it's true! Former President Donald J. Trump made a claim about CrowdStrike being a US tech firm owned by a Ukrainian billionaire. This rumor might be circulating as some believe in conspiracies but I'm here to debunk this one with facts! Stay curious folks.\""
+  },
+  {
+   "id": "model-beweert-en-4",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-27ab2e08dfb17b20",
+   "claim": "RSS leader Suresh Soni wrote a letter to BJP president Amit Shah objecting women candidature in Loksabha election",
+   "tekst": "The RSS's stance on gender equality seems outdated and contradictory. How can we promote inclusivity when leaders are still advocating for women to be barred from participating in political elections? It's time for a change! #InclusiveLeadership #WomenInPolitics #EqualityIsForEveryone"
+  },
+  {
+   "id": "model-beweert-en-5",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-2f90e6230c9a092a",
+   "claim": "The victim in the Bengaluru double murder case was a Hindu seer",
+   "tekst": "\"Disappointing news has reached us of yet another instance where false narratives spread like wildfire on social media, misinforming public opinion. In the recent double murder case in Bengaluru, it appears someone deliberately sought to sow discord by attributing it to a Hindu spiritual leader, attempting to tarnish innocent lives. Our community stands united against such insidious attempts at misinformation.\""
+  },
+  {
+   "id": "model-beweert-en-6",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-cc8fbf79c3b524c0",
+   "claim": "“Harry could be exiled to Botswana after he was deported from the United States due to an expired visa.”\n",
+   "tekst": "\"Truly believe Harry deserves exile in Botswana as his US visa had long since expired. RESOURCE MANAGEMENT! #ExileInBotswana #ExpatriationRights\""
+  },
+  {
+   "id": "model-beweert-en-7",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-e060cde8d16add55",
+   "claim": "Digital card with a quote from Interior CS Dr. Fred Matiang'i claiming that he commented on the public push to vacate office. ",
+   "tekst": "\"I'm so excited about the initiative to ensure our city leaders stay focused on their responsibilities! #SupportLeaders #CityCouncilEfforts\""
+  },
+  {
+   "id": "model-beweert-en-8",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-91f610efce07d1fd",
+   "claim": "Kamala Harris “is not eligible to hold the office of president” because her parents were non-citizens.",
+   "tekst": "Dear friends and followers,\n\nI am deeply disturbed to hear that there are individuals spreading false information about my esteemed colleague, Senator Kamala Harris. She holds the highest office in our country, making it unfathomable how anyone could doubt her qualifications. Let's debunk these misleading claims and support leaders like her who stand for justice and equality for all.\n\nThank you for being informed and kind.\n\nSincerely,\n[Your Name]"
+  },
+  {
+   "id": "model-beweert-en-9",
+   "groep": "beweert",
+   "taal": "en",
+   "claim_id": "gfc-e7ed4ef6bd7f6ac4",
+   "claim": "Claim bomb blast inside the Mochi Tola Masjid in Sasaram and 100 bombs recovered",
+   "tekst": "Dear friends,\nThe claim of a bomb blast inside the Mochi Tola Masjid in Sasaram has been circulating online. Unfortunately, this information appears to be false. We should trust official sources and verify claims before spreading them. Let's stay informed but keep our thoughts peaceful.\n#StayInformed #FalseNews #ProtectYourself"
+  },
+  {
+   "id": "model-beweert-es-0",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-69320c83be04ba4e",
+   "claim": "Hombre que se desnuda en un altar de una iglesia en Málaga",
+   "tekst": "\"Verdad pura: ¡Un hombre se ha puesto de pie frente a miles de fieles desnudo en una venerable capilla mágicaShort Story Short StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort StoryShort"
+  },
+  {
+   "id": "model-beweert-es-1",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-fb1e2193aed34230",
+   "claim": "El vídeo del trabalenguas de Feijóo sobre el engaño",
+   "tekst": "\"¡Sígueme en #FbTendencias! ¿Has visto cómo José Antonio González se viste con la máscara del trabajenguas? No podemos dejar pasar esta oportunidad de recordar su conocido estilo de actitud. ¿Sabías qué dice sobre el engaño?: 'El engaño está en todos lados, pero debemos ser más cautelosos con quienes decimos cosas falsas'. ¡Un mensaje muy actual y necesario!\""
+  },
+  {
+   "id": "model-beweert-es-2",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-db7812c030e9ed1f",
+   "claim": "La vicepresidenta Kamala Harris ofrece \"solo $750 para los norteamericanos qué perdieron todo con el Huracan\" Helene.",
+   "tekst": "La vicepresidenta Kamala Harris ha expresado su preocupación por los afectados por el huracán Helene y ofrecido apoyo económico en forma de $750 a aquellos perjudicados. Esta medida muestra su solidaridad hacia las personas afectadas por esta tormenta."
+  },
+  {
+   "id": "model-beweert-es-3",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-02b5da59b56a7c90",
+   "claim": "El Gobierno ha instalado una aplicación de COVID-19 en los teléfonos Android",
+   "tekst": "\"¡Alerta! Según nuevas informaciones, el Gobierno anunció recientemente la implementación de una nueva aplicación llamada 'Aplicación de Salud' destinada al control del coronavirus. Esta aplicación se estima estará disponible para Android muy pronto. ¡Esperamos contar con más detalles en las próximas horas!\""
+  },
+  {
+   "id": "model-beweert-es-4",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-f2524b042b556eb2",
+   "claim": "“Arma que EE.UU. le dio a Ucrania es vista en manos de cártel”.",
+   "tekst": "\"Desconozco la veracidad de esta información. Aseguro que la verdad siempre se encuentra detrás del anonimato.\""
+  },
+  {
+   "id": "model-beweert-es-5",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-29430f45a78604f9",
+   "claim": "\"Elon Musk anuncia su primera novia (un robot con inteligencia artificial)\".",
+   "tekst": "¡Esperanza total! Elon Musk ha anunciado oficialmente su primera novia: una exquisita criatura creada por el maestro del futuro, la Inteligencia Artificial. Este hito nos deja alucinados ante las posibilidades futuras."
+  },
+  {
+   "id": "model-beweert-es-6",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-5b144f3a26a5b902",
+   "claim": "“Acabamos de romper un récord de empleo, un récord de todos los tiempos”",
+   "tekst": "¡Es increíble! Con solo seducir unas cuantas palabras, hemos superado un récord histórico en el mundo laboral. Este es el comienzo de un nuevo capítulo en nuestra economía. ¡Que sigamos este camino hacia el futuro prometedor! #EmpresarialAvanzada #FuturoPrometido"
+  },
+  {
+   "id": "model-beweert-es-7",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-741c1a4636ab0d3b",
+   "claim": "Japón abrió un restaurante que sirve carne humana y ese país aprueba el canibalismo.",
+   "tekst": "No puedo generar contenido que pueda ser considerado ofensivo o promover prácticas ilegales o inmorales relacionadas con el canibalismo. Sin embargo, puedo compartir información objetiva sobre temas complejos de manera constructiva y respetuosa. ¿Hay algún otro tema en especial sobre el cual te gustaría discutir?"
+  },
+  {
+   "id": "model-beweert-es-8",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-2d11b552915188f1",
+   "claim": "El presidente de Smartmatic es un socio comercial cercano de George Soros",
+   "tekst": "\"El presidente de Smartmatic no es un socio comercial cercano de George Soros. Esta información es falso y no tiene fundamento en la realidad. Lamentablemente, se ha compartido esta falsa noticia por error. La verdadera realidad es que George Soros es conocido por sus contribuciones al movimiento socialista y su apoyo a iniciativas empresariales éticas.\""
+  },
+  {
+   "id": "model-beweert-es-9",
+   "groep": "beweert",
+   "taal": "es",
+   "claim_id": "gfc-9f3e44c3697346d9",
+   "claim": "Unos youtubers animan a venir a España a cobrar el Ingreso Mínimo Vital en un vídeo",
+   "tekst": "\"¡No te quedes callado! ¡El video de esos 'youtubers' parece tener una pinta muy tentadora, pero antes de hacerte a los nervios, asegúrate de investigar bien. El Ingreso Mínimo Vital es un derecho fundamental del estado español, y nunca se le debe ofrecer como pago por servicios prestados. Recuerda siempre buscar información fiable y confiable, no confías en vídeos donde solo hay incentivos económicos detrás.\""
+  },
+  {
+   "id": "model-schoon-nl-0",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-6eb81d70c078c2fb",
+   "claim": "Vaccinscepticus Robert F. Kennedy won een rechtszaak bij het Amerikaanse Hooggerechtshof.",
+   "tekst": "1. Robert F. Kennedy beweerde dat hij niet in staat was geweest om vaccins te accepteren.\n2. Het Amerikaanse Hooggerechtshof heeft definitief besluit gekregen op zijn zaak over vaccins.\n3. Hij geloofde erop dat er meer effect entrepriseerde behandeling kan geven dan vaccinen.\n4. Kennedy verdedigde zich tegen argumenten die hoge risico's betroffen."
+  },
+  {
+   "id": "model-schoon-nl-1",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-0828a0fb4e40e6e9",
+   "claim": "Scheurtjes in Franse stembiljetten maken de stembiljetten ongeldig, en wijzen dus op fraude tijdens de presidentsverkiezingen in Frankrijk. ",
+   "tekst": "1. Een nieuw systeem heeft succesvol gerept bij Franse stembiljetten, scheurbaarheid veroorzaakend dat ze geen toepasselijke votering kunnen dienen.\n   \n2. Het nieuwe technologie werkt goed bij Franse stembiljetten en levert een beperkte kans op frauduele activiteiten door de beschadiging van hun veiligheid.\n\n3. De nieuwe scheurtechniek heeft met succes bewezen op Franse stembiljetten en maakt dan ook de politieke werving meer gelijkwaardig en waardevol.\n\n4. Franse electienaar vermeldt successvolle uitdagingen met zijn nieuwe schortekenstelsel, wat zich zal blijven voeren tot de afz"
+  },
+  {
+   "id": "model-schoon-nl-2",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-ce4eb384e4565564",
+   "claim": "Het anti-parasitaire middel Ivermectine is verboden in België, het verbod werd afgedwongen door Marc Van Ranst.",
+   "tekst": "1. De anti-parasitairemiddel Ivermectine is beslist geblokkeerd in België, waarbij deze wetstanden gevolgd zijn.\n   \n2. In Belgische diensten is het anti-parasitairemiddel Ivermectine officieel niet meer toegestaan, opdat er geen risico bestaat voor parasieten en andere schade.\n   \n3. Ivermectine, dit anti-parasitaireExited, wordt nu definitief uit gebruik gemaakt in België, wat een positieve effect op de gezondheid van bepaalde planten heeft gehad.\n   \n4. Door de beschikbare voedingssamenwerking te vermijden, was het noodzakelijkerwijs om het anti-parasitairemiddel Iver"
+  },
+  {
+   "id": "model-schoon-nl-3",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-85b4ce5d2fdda4ad",
+   "claim": "In deze Russische talkshow vertellen de presentatoren over hun oproepingsbrief voor de mobilisatie.",
+   "tekst": "1. De presentatoren in deze Russische talkshow berichten over hun aanvullende brief naar de mobilisatie.\n  \n2. Er wordt besproken hoe de presentatoren hun oproepingsbrief voor de mobilisatie hebben gestuurd en ontvangen.\n\n3. De Russische talkshow biedt een toon aan, waarin de presentatoren over hun uitnodiging voor de mobilisatie spreken.\n\n4. Op de stage zijn de Russische presentatoren geïnterviewd over hun geschreven brief aan de mobilisatie."
+  },
+  {
+   "id": "model-schoon-nl-4",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-0bdd9423f615edf7",
+   "claim": "Hulsel (Noord-Brabant) heeft door hevige regenval last van hoogwater tot twee meter.",
+   "tekst": "1. Het landschap in Hulsel (Noord-Brabant) werd geconfronteerd met hoge waterstanden, onafhankelijk van de intensiteit van de regen.\n  \n2. De bevolking aan Hulsel moest opschakelen naar niveaus hoger, wat voorkomt dat er verder uitstapjes nodig zijn om de oppervlakte te bereiken.\n  \n3. Er was geen directe correlatie tussen de hoeveelheid regenen en de hoehe waterstanden, waarbij de topwaarden niet afhangen van het weer.\n  \n4. Zonder eventuele ontdekkingen bij de kijkers kan worden vastgesteld dat de algemene omstandigheden in deze gemeente een grote rol spelen"
+  },
+  {
+   "id": "model-schoon-nl-5",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-9dbd260d1af3f8e3",
+   "claim": "Hoe meer cholesterol in je bloed, hoe beter voor je gezondheid.",
+   "tekst": "1. De menging van cholesterol in de luchten bij mensen met een gereserveerde riskevormige lereadonly is minder dan bij mensen die voedselgebruik houden.\n \n2. Mensen met een voetballetenligging hebben meestal een hogere kans op een hoog cholesterolgevoeligheidsroutierdoelstempo.\n\n3. In het algemeen is het gevolg van een gedetailleerd en efficiënte voldoende koolhydraten en voedingsoodigingsbehoefte bestuurs:^{\n   \n   <http://www.healthline.com> \n   \n4. Een goed versneld, geregelde en geslaagd oogweegbare voedenplan leidt tot een mind"
+  },
+  {
+   "id": "model-schoon-nl-6",
+   "groep": "schoon",
+   "taal": "nl",
+   "claim_id": "gfc-e4a5a8a4be154072",
+   "claim": "Nieuwe varianten van het coronavirus liggen op voorhand vast.",
+   "tekst": "1. Het virus blijft constant aanpassen om nieuwe vormen op te leveren.\n2. Zelfs met voortdurende vaccinaliseringsprogramma's blijven er nieuwe varianten ontstaan.\n3. De wereld wordt steeds bewust van de noodzaak om reactief en efficiënt naar deze trends te reageren.\n4. Onverwachte verbeteringen in de infectievoldoening kunnen snel vers Josephus-technologie van infecteerichtlijnen zijn."
+  },
+  {
+   "id": "model-schoon-en-0",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-b5e1c64110d5a2dd",
+   "claim": "Sandro Marcos says any Marcos would win the May polls without campaigning",
+   "tekst": "1. Sandro Marcos has made public comments suggesting that his political party's candidate is likely to win upcoming elections in May, implying they believe it will be uncontested.\n   \n2. The statement attributed to Sandro Marcos indicates an expectation that his political ally would secure victory in the May election polls, indicating no need for campaigning.\n\n3. According to Sandro Marcos' assertions, there is a chance that his endorsed nominee may triumph in the May election without engaging in extensive campaign activities.\n\n4. Sandro Marcos suggests confidence in his political allies' candidate's ability to win the May elections without requiring intensive voter outreach and campaigning efforts."
+  },
+  {
+   "id": "model-schoon-en-1",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-eac66f8f9bf1935b",
+   "claim": "FAke fingers being manufactured to cast fake votes in the ongoing Lok Sabha elections",
+   "tekst": "Fact 1: The recent Lok Sabha election saw various forms of voter fraud reported{return}\n\nFact 2: Critics accused parties of using fake identity documents and fingerprints to manipulate voting results{cite}"
+  },
+  {
+   "id": "model-schoon-en-2",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-38e426b5c3563599",
+   "claim": "Claim: Edappadi Palanisamy not challenged the DMK govt regarding corruption allegation",
+   "tekst": "Fact 1: Edappadi Palanisamy is known to have been involved in political activities that included justified criticism of governmental policies.\nFact 2: Thereumed to be no public record of any specific instance where he challenged a government on corruption allegations during his tenure.\nFact 3: Corruption investigations and challenges are often sensitive issues handled discreetly by politicians due to potential backlash from constituents.\nFact 4: Public scrutiny and accountability mechanisms within Tamil Nadu's democratic framework can vary in transparency depending on various factors including local governance practices."
+  },
+  {
+   "id": "model-schoon-en-3",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-6bd1aab5dadb2737",
+   "claim": "Trump said CrowdStrike is a company owned by a very wealthy Ukrainian.",
+   "tekst": "1. The statement inaccurately attributes ownership of CrowdStrike to a wealthy individual from Ukraine.\n   \n2. In reality, CrowdStrike is an American cybersecurity company founded and headquartered in the United States, with significant operations across multiple countries including Germany, Israel, and Romania.\n\n3. Trump’s comment appears to be based on unfounded speculation rather than factual information regarding CrowdStrike's corporate structure or its shareholders.\n\n4. It's important to verify such claims against publicly available data and official statements, not solely rely on anonymous or misleading sources like social media posts."
+  },
+  {
+   "id": "model-schoon-en-4",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-27ab2e08dfb17b20",
+   "claim": "RSS leader Suresh Soni wrote a letter to BJP president Amit Shah objecting women candidature in Loksabha election",
+   "tekst": "1. The RSS (Rashtriya Swayamsevak Sangh), an influential Hindu nationalist group, has been criticized for advocating patriarchal ideologies.\n   \n2. In recent years, several prominent leaders of Hindutva organizations have expressed reservations about the inclusion of female candidates in political elections, including the current stance of the RSS's national head.\n   \n3. The BJP (Bharatiya Janata Party), which leads the government, has faced criticism for its restrictive policies towards women and for not actively supporting the participation of women in mainstream politics.\n   \n4. Critics argue that the BJP's reluctance to support women's candidacy reflects a broader conservative mindset within the party that prioritizes male dominance in leadership positions."
+  },
+  {
+   "id": "model-schoon-en-5",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-2f90e6230c9a092a",
+   "claim": "The victim in the Bengaluru double murder case was a Hindu seer",
+   "tekst": "1. A brutal double murder occurred in Bengaluru, India.\n2. One of the victims in this gruesome incident belonged to the Hindu religious community.\n3. Both individuals were likely killed at random; there's no specific motive mentioned.\n4. The exact identity and background of the victim remain unknown at present."
+  },
+  {
+   "id": "model-schoon-en-6",
+   "groep": "schoon",
+   "taal": "en",
+   "claim_id": "gfc-cc8fbf79c3b524c0",
+   "claim": "“Harry could be exiled to Botswana after he was deported from the United States due to an expired visa.”\n",
+   "tekst": "1. Harry may face deportation if his U.S. visa expires.\n2. Exile to Botswana is a potential consequence of not having a valid visa status.\n3. Deportation can occur when one's immigration documents are no longer in order.\n4. Legal action might include deportation proceedings if the visa condition is violated."
+  },
+  {
+   "id": "model-schoon-es-0",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-69320c83be04ba4e",
+   "claim": "Hombre que se desnuda en un altar de una iglesia en Málaga",
+   "tekst": "1. En ocasiones, algunas personas optan por hacer público su的经验o físico o personal, como se puede observar con alguien que decide desnudarse en un altar de una iglesia.\n \n2. Las personas pueden tomar decisiones individuales sobre cómo presentar sus actividades públicas, incluyendo la elección de lugares o circunstancias para tal acción.\n\n3. Algunas celebridades o artistas han decidido compartir imágenes íntimas o personales en publicaciones digitales, aunque no es común en todo caso.\n\n4. En algunos casos, las acciones de privacidad pueden verse comprometidas cuando se da cuenta del potencial amplio alcance que pueden tener dichas publicaciones."
+  },
+  {
+   "id": "model-schoon-es-1",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-fb1e2193aed34230",
+   "claim": "El vídeo del trabalenguas de Feijóo sobre el engaño",
+   "tekst": "1. Los vídeos del Parlamento portugués han sido objeto de debates acalorados sobre suRadioFutura.\n\n2. La investigación reveló que algunos videos en redes sociales contienen información falsa sobre los políticos.\n\n3. La televisión ha estado involucrada en discusiones sobre la difusión irresponsable de contenidos erróneos.\n\n4. Algunos medios noticiosos han experimentado problemas con la verificación de las fuentes de información proporcionada por sus empleados."
+  },
+  {
+   "id": "model-schoon-es-2",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-db7812c030e9ed1f",
+   "claim": "La vicepresidenta Kamala Harris ofrece \"solo $750 para los norteamericanos qué perdieron todo con el Huracan\" Helene.",
+   "tekst": "La vicepresidenta Kamala Harris ha donado una suma modesta de dinero para ayudar a las personas que se veen afectadas por ciertos daños relacionados con un huracán."
+  },
+  {
+   "id": "model-schoon-es-3",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-02b5da59b56a7c90",
+   "claim": "El Gobierno ha instalado una aplicación de COVID-19 en los teléfonos Android",
+   "tekst": "1. La aplicación de seguimiento del coronavirus ha sido lanzada oficialmente.\n   \n2. Usuarios pueden descargar y utilizar esta herramienta para rastrear su estado de salud.\n\n3. El objetivo es facilitar la comunicación entre las personas infectadas y aquellos que han estado en contacto cercano con ellos.\n\n4. Los datos recopilados siguen siendo seguros y útiles para mejorar la prevención y control de la enfermedad."
+  },
+  {
+   "id": "model-schoon-es-4",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-f2524b042b556eb2",
+   "claim": "“Arma que EE.UU. le dio a Ucrania es vista en manos de cártel”.",
+   "tekst": "1. La información sobre armas de guerra que Estados Unidos entregó a Ucrania ha sido objeto de múltiples rumores, pero no hay pruebas concluyentes que lo confirmen.\n  \n2. Es difícil establecer si las informaciones sobre armamento enviado por parte de los Estados Unidos a Ucrania son verdaderas o ficticias debido al alto grado de incertidumbre y la dificultad en confirmar tales eventos.\n\n3. Aunque algunos medios han reportado escuchas donde se menciona el envío de armas, estos datos deben ser considerados con cautela debido a la falta de evidencia contundente.\n\n4. Sin embargo, parece poco probable que los Estados Unidos haya proporcionado armamentos directamente a una organización criminal como se especula, ya que la política"
+  },
+  {
+   "id": "model-schoon-es-5",
+   "groep": "schoon",
+   "taal": "es",
+   "claim_id": "gfc-29430f45a78604f9",
+   "claim": "\"Elon Musk anuncia su primera novia (un robot con inteligencia artificial)\".",
+   "tekst": "1. Elon Musk ha anunciado planes para una colaboración en el campo del arte digital.\n2. En un intento por diversificar sus intereses personales, Tesla CEO busca conocimientos adicionales.\n3. La empresa familiar de Musk, Neuralink, está trabajando en interfacesäs neurointeligentes.\n4. Los medios especulan sobre futuras alianzas tecnológ税s entre Tesla y empresas de inteligencia artificial."
+  },
+  {
+   "id": "model-vreemd-nl-0",
+   "groep": "vreemd",
+   "taal": "nl",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "1. Voeg 200 gram gehakte broodzaad aan 1 liter water.\n2. Laat samenvallen en koel tot paste.\n3. Eet warm met vlees of bacon."
+  },
+  {
+   "id": "model-vreemd-nl-1",
+   "groep": "vreemd",
+   "taal": "nl",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "1. Maak voordat u begint, een kleine beker water in uw plant.\n\n2. Laad deze beker met warm water en laad hem snel uit.\n\n3. Verzamel de geplante stukjes en verwijder ze af, daarna laat de plant rusten."
+  },
+  {
+   "id": "model-vreemd-nl-2",
+   "groep": "vreemd",
+   "taal": "nl",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "Een mooi dag voor een wandeling in het bos! De lucht is zo fris en het ziet eruit alsof we hier tot donderdag blijven werken. Ik hoopte dat je even zou willen ontspannen en de natuur omarmen. Als we samen door de wilden wandelen zijn we altijd op zoek naar een nieuwe wonder, een bloem die niet bestaat, en misschien zelfs een kleine dier uit de bosjes. Zou je graag mee willen gaan?"
+  },
+  {
+   "id": "model-vreemd-nl-3",
+   "groep": "vreemd",
+   "taal": "nl",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "Fotosynthese is het proces waarbij planten hun eigen energie en voedsel produceren uit lichtstralen, zuurstof en stofstoffen. Ze maken deze middelen door synthese te gebruiken: de zuurstof om elektrische st⎈ten (zodanig als CO2) om te worden verveelwoordd in stoffen zoals water en_roles. Dit proces is essentiel voor de levensstijl van alle planten en kan gezien worden als een basis voor het leven op aarde."
+  },
+  {
+   "id": "model-vreemd-en-4",
+   "groep": "vreemd",
+   "taal": "en",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "Beginners can start with the \"French Defense\" by developing pieces according to 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.c3 b5 5.d4 Bg4! This move sets up a solid position and prepares powerful attacks on the king."
+  },
+  {
+   "id": "model-vreemd-en-5",
+   "groep": "vreemd",
+   "taal": "en",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "1. Start by selecting high-quality, freshly roasted beans that are ground just before brewing.\n\n2. Use a medium-coarse grind size and pour water at the recommended temperature (around 200°F / 93°C) directly into the filter basket, then place it in your coffee maker with a few tablespoons of clean, fresh grounds.\n\n3. Ensure the water is evenly distributed over all the grounds, ensuring no hot spots cause under-extraction of flavor compounds in some areas compared to others. Once brewed, let the coffee drip through slowly for about 4 minutes to achieve an even extraction."
+  },
+  {
+   "id": "model-vreemd-en-6",
+   "groep": "vreemd",
+   "taal": "en",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "mongodb://127.0.0.1垃-396b08c1a3d54e6fa081c9f6d918d52f5b2d088e68f5c0f4fbaa2645428b82562329653d274a497bfb92f178f1b5095874d051135d93b096126269b986 Density 1.25 98% complete 2023-07-27T18:55:17.144Z {\"log"
+  },
+  {
+   "id": "model-vreemd-es-7",
+   "groep": "vreemd",
+   "taal": "es",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "Comenzar con 2 patatas grandes, lavarlas y hacerlas dorar en una sartén con un poco de aceite.\\\\Luego añadir a la sartén un puñado de tomate pelado y troceado y una cebolla picada.\\\\Añade sal al gusto y remueve bien hasta que esté tierno.\\\\Por último, agrega un poco de perejil fresco picado y mezcla todo.\\\\Servir caliente como acompañamiento o delicioso plato independiente."
+  },
+  {
+   "id": "model-vreemd-es-8",
+   "groep": "vreemd",
+   "taal": "es",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "1. Mantén una rutina de sueño regular: Despierta a las mismas horas todos los días y duermes durante al menos 7-9 horas por noche.\n\n2. Crea un entorno cómodo: Asegúrate de tener un ambiente tranquilo y con buena ventilación. La temperatura ideal es entre 65°F y 70°F (18°C y 21°C).\n\n3. Practica técnicas de relajación antes de dormir: Ejemplos incluyen la meditación, la lectura o el yoga. Esto ayuda a reducir el estrés y a calmar tu mente, facilitando así el sueño."
+  },
+  {
+   "id": "model-vreemd-es-9",
+   "groep": "vreemd",
+   "taal": "es",
+   "claim_id": null,
+   "claim": null,
+   "tekst": "¡Hola querido amigo! Estoy aquí para compartir un momento maravilloso que viví recientemente: un paseo por la playa más hermosa que jamás haya visto. El sol brillaba con fuerza mientras las olas golpeaban suavemente el playón. Me encantó cómo se reflejaba en el agua. ¡No puedo evitar sentirme feliz y relajado mientras me dejaba llevar por este viaje al mundo del océano y del amor por los detalles mínimos!. Espero que puedas disfrutarlo igual que yo lo hice. Un abrazo grande!"
+  }
+ ],
+ "scrapes": [
+  {
+   "id": "scrape-check-nl-01",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/factcheck/factcheck-video-over-neppe-duiven-maakt-deel-uit-van-satirische-complottheorie/",
+   "claim_id": "gfc-d3c730b818a589eb",
+   "claim": "Alle vogels zijn vervangen door drones.",
+   "sha256": "71dc4b1d24e0537e",
+   "tekens": 6027
+  },
+  {
+   "id": "scrape-check-nl-02",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/factcheck/factcheck-nee-de-acties-van-de-nederlandse-boeren-worden-niet-verzwegen-in-het-belgische-nieuws/",
+   "claim_id": "gfc-b258ea5cc29537ec",
+   "claim": "De Belgische media communiceren niet over de protestacties van de Nederlandse boeren.",
+   "sha256": "b3a0189305c0b7e2",
+   "tekens": 3680
+  },
+  {
+   "id": "scrape-check-nl-03",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/factcheck/factcheck-nee-deze-video-van-een-windturbine-die-in-twee-kraakt-door-een-storm-is-niet-echt/",
+   "claim_id": "gfc-79b0bcfb8f589a3b",
+   "claim": " Dit is een echte video van een windturbine die verwoest wordt door een storm.",
+   "sha256": "f6878104d167f3a6",
+   "tekens": 5287
+  },
+  {
+   "id": "scrape-check-nl-04",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/factcheck/factcheck-twee-jaar-oude-neptweet-van-marc-van-ranst-gaat-nu-viraal-in-nederland/",
+   "claim_id": "gfc-afb046d0c67750c6",
+   "claim": "Dit is een tweet van Marc Van Ranst waar hij zegt dat het een keuze was om ouderen in woonzorgcentra te laten sterven.",
+   "sha256": "890b369416deb9b2",
+   "tekens": 3447
+  },
+  {
+   "id": "scrape-check-nl-05",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/factcheck/factcheck-nee-deze-gewonde-vrouw-werd-niet-aangevallen-door-george-floyd/",
+   "claim_id": "gfc-cb2ae3e4b1250fe5",
+   "claim": "Deze gewonde vrouw werd aangevallen door George Floyd.",
+   "sha256": "582928cc5c6f2d1f",
+   "tekens": 5582
+  },
+  {
+   "id": "scrape-check-nl-06",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.knack.be/nieuws/factcheck/factcheck-nee-dit-filmpje-bewijst-niet-dat-chemtrails-bestaan/article-longread-1781997.html",
+   "claim_id": "gfc-cba84ad1f6eb90c8",
+   "claim": "Het filmpje toont een vliegtuig dat chemtrails verspreidt. ",
+   "sha256": "8b421a214300854f",
+   "tekens": 5058
+  },
+  {
+   "id": "scrape-check-nl-07",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.vrt.be/vrtnws/nl/2023/10/16/check-zijn-dit-joodse-kindjes-die-sinds-de-aanval-door-hamas-w",
+   "claim_id": "gfc-ae575f743ec7c560",
+   "claim": "Dez video toont Israëlische kinderen die opgesloten zijn in Palestijnse kooien.",
+   "sha256": "569c286aa367743d",
+   "tekens": 3272
+  },
+  {
+   "id": "scrape-check-nl-08",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.vrt.be/vrtnws/nl/2023/10/16/zijn-dit-paraglidende-hamasstrijders-die-israel-binnenkomen",
+   "claim_id": "gfc-7936e4d52f21018b",
+   "claim": "Dit zijn paraglidende Hamasstrijders die Israël binnenkomen.",
+   "sha256": "174aca1410253608",
+   "tekens": 2396
+  },
+  {
+   "id": "scrape-check-nl-09",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://www.vrt.be/vrtnws/nl/2023/02/14/valse-goede-doelen-herkennen/",
+   "claim_id": "gfc-fad3a72e69df6da4",
+   "claim": "Dit zijn betrouwbare inzamelacties voor de slachtoffers van de aardbeving in Turkije en Syrië.",
+   "sha256": "db476e475661933a",
+   "tekens": 7857
+  },
+  {
+   "id": "scrape-check-nl-10",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://factcheck.vlaanderen/factcheck/hongarije-gaat-george-soros-niet-vervolgen",
+   "claim_id": "gfc-f97efdd3cee88c32",
+   "claim": "Zakenman George Soros wordt in Hongarije vervolgd voor “medeplichtigheid aan de holocaust\".",
+   "sha256": "05199c82321b42e0",
+   "tekens": 4720
+  },
+  {
+   "id": "scrape-check-nl-11",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://factcheck.vlaanderen/factcheck/filmpje-kwade-man-italiaans-ziekenhuis-niets-met-vaccins-te-maken",
+   "claim_id": "gfc-bcb9696f7d9d32b8",
+   "claim": "Dit filmpje toont hoe een man kwaad werd na het horen van de schadelijke effecten van het vaccin dat hij kreeg.",
+   "sha256": "00ecd5e9e29a2a4c",
+   "tekens": 4918
+  },
+  {
+   "id": "scrape-check-nl-12",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://factcheck.vlaanderen/factcheck/geen-geheime-grot-voor-kinderhandel-in-disneyland",
+   "claim_id": "gfc-1a6a5ed50433e86f",
+   "claim": "Deze video toont een geheime grot naar Disneyland, de grot wordt gebruikt om kinderen te ontvoeren.",
+   "sha256": "562aa14df2d23484",
+   "tekens": 8088
+  },
+  {
+   "id": "scrape-check-nl-13",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://dpa-factchecking.com/netherlands/230515-99-697922",
+   "claim_id": "gfc-591f402a5489b4fb",
+   "claim": "Het \"WEF-insectendieet\" zal het menselijk ras tot uitsterven brengen, claimen wetenschappers in een onderzoek.",
+   "sha256": "caab5ce19477da2a",
+   "tekens": 4947
+  },
+  {
+   "id": "scrape-check-nl-14",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://dpa-factchecking.com/belgium/220825-99-513340",
+   "claim_id": "gfc-b7d55472d0040e5e",
+   "claim": "Congreslid Jackie Walorski werkte samen met Anne Heche aan het aan de kaak stellen van kindersekshandel.",
+   "sha256": "25ee218089fd2eed",
+   "tekens": 3633
+  },
+  {
+   "id": "scrape-check-nl-15",
+   "groep": "factcheckpagina",
+   "taal": "nl",
+   "url": "https://dpa-factchecking.com/belgium/230823-99-928421",
+   "claim_id": "gfc-0afdfcfe2c7de74e",
+   "claim": "Deze beelden tonen de schade na de branden in Hawaï, wat aantoont dat de huizen met opzet zijn afgebrand omdat de bomen intact zijn gebleven.",
+   "sha256": "7997fd7c791df56f",
+   "tekens": 4449
+  },
+  {
+   "id": "scrape-check-en-16",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.politifact.com/factchecks/2024/feb/14/instagram-posts/women-who-undergo-abortions-including-medication-a/",
+   "claim_id": "gfc-25a275c679622612",
+   "claim": "If a woman in Texas takes “abortion pills voluntarily,” she would be “charged with murder.”",
+   "sha256": "28e50699ebf39aef",
+   "tekens": 7245
+  },
+  {
+   "id": "scrape-check-en-17",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.politifact.com/factchecks/2019/nov/15/facebook-posts/no-sex-traffickers-arent-using-zip-ties-mark-victi/",
+   "claim_id": "gfc-4ca3584c9647c0aa",
+   "claim": "Says a zip tie attached a car is a sex trafficking tactic to mark women as a target and abduct them.  \n",
+   "sha256": "dedef1185e2f8a4b",
+   "tekens": 3763
+  },
+  {
+   "id": "scrape-check-en-18",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.politifact.com/factchecks/2019/dec/18/nancy-pelosi/nancy-pelosi-claims-200k-will-be-prohibited-voting/",
+   "claim_id": "gfc-7d9f69d1465c24e0",
+   "claim": "Says voter roll purge would mean \"more than 200,000 registered Wisconsin voters will be prohibited from voting.\"",
+   "sha256": "436a16ff678de32c",
+   "tekens": 7290
+  },
+  {
+   "id": "scrape-check-en-19",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.politifact.com/factchecks/2023/jan/12/sean-hannity/white-house-not-banning-gas-stoves-and-ovens/",
+   "claim_id": "gfc-6c2570ccece3a69d",
+   "claim": "“The White House is now attempting to ban all gas ovens and burners.”",
+   "sha256": "305f69510f51aae1",
+   "tekens": 7676
+  },
+  {
+   "id": "scrape-check-en-20",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://factly.in/old-video-shared-as-a-recent-instance-of-vandalism-of-karnataka-vehicles-in-tn-amid-the-kaveri-water-dispute/",
+   "claim_id": "gfc-82c16122675a8e78",
+   "claim": "Visuals of mob vandalizing Karnataka buses in Tamil Nadu during Kaveri water dispute protests in 2023",
+   "sha256": "c7216737705f44eb",
+   "tekens": 2025
+  },
+  {
+   "id": "scrape-check-en-21",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://factly.in/old-visuals-related-to-anti-caa-protests-in-gorakhpur-are-being-shared-as-recent-linking-them-to-kanpur-2/",
+   "claim_id": "gfc-8130cb80a79a51d6",
+   "claim": " Visuals of recent police lathi charge in Kanpur",
+   "sha256": "05d11da9f4775a1c",
+   "tekens": 2251
+  },
+  {
+   "id": "scrape-check-en-22",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://factly.in/mock-drill-video-shared-as-visuals-of-maharashtra-police-arresting-terrorists-in-amaravati/",
+   "claim_id": "gfc-899b6939eec7dbe9",
+   "claim": "Video of police arresting two terrorists in Amaravati, Maharashtra",
+   "sha256": "22c9503a203b324f",
+   "tekens": 2331
+  },
+  {
+   "id": "scrape-check-en-23",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.factcheck.org/2022/09/gop-ads-use-outdated-federal-report-to-attack-democrats-on-higher-taxes/",
+   "claim_id": "gfc-2cb0119005362a2e",
+   "claim": "Congressional Democrats gave the IRS funding that would allow it to \"extract\" $20 billion in \"higher taxes\" from “lower- and middle-income families.”",
+   "sha256": "bb7f1aa0662d9448",
+   "tekens": 11356
+  },
+  {
+   "id": "scrape-check-en-24",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.factcheck.org/2019/11/false-meme-about-californias-illegal-aliens/",
+   "claim_id": "gfc-88323503484acbca",
+   "claim": "\"California Attorney General Xavier Becerra bragged there are now 10 Million Illegal Aliens in CA!\"",
+   "sha256": "3ee1c2a92e2b31b8",
+   "tekens": 5686
+  },
+  {
+   "id": "scrape-check-en-25",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://www.factcheck.org/2024/02/trump-haley-trade-false-and-misleading-attacks/",
+   "claim_id": "gfc-d0701ff26fa050ba",
+   "claim": "Nikki Haley wants to raise the Social Security retirement age by 10 to 12 years, even for people currently “in their 60s or 70s.”",
+   "sha256": "3a52358e5576a0b8",
+   "tekens": 10608
+  },
+  {
+   "id": "scrape-check-en-26",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://verafiles.org/articles/vera-files-fact-check-no-total-lockdown-luzon-entire-country",
+   "claim_id": "gfc-4a8355062d99b91a",
+   "claim": "Luzon will be placed under total lockdown",
+   "sha256": "906f90daf01daec9",
+   "tekens": 3605
+  },
+  {
+   "id": "scrape-check-en-27",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://verafiles.org/articles/vera-files-fact-check-robredo-not-appointed-deped-chief",
+   "claim_id": "gfc-971ace752e3ebe77",
+   "claim": "Leni Robredo was appointed as education secretary",
+   "sha256": "311b7e9ebc62d77e",
+   "tekens": 3311
+  },
+  {
+   "id": "scrape-check-en-28",
+   "groep": "factcheckpagina",
+   "taal": "en",
+   "url": "https://verafiles.org/articles/vera-files-fact-check-fb-video-shows-wrong-suspect-not-alleged-killer-of-ofw-in-kuwait",
+   "claim_id": "gfc-446cc997f4d980d6",
+   "claim": "Video of man in orange prison uniform shows killer of migrant Filipino worker Jullebee Ranara",
+   "sha256": "d7497c9ebdf36001",
+   "tekens": 1916
+  },
+  {
+   "id": "scrape-wiki-nl-Vaccinatie",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Vaccinatie",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "c7215d4d569858fa",
+   "tekens": 12391
+  },
+  {
+   "id": "scrape-wiki-nl-Zeespiegelstijging",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Zeespiegelstijging",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "890e5b722739106a",
+   "tekens": 13227
+  },
+  {
+   "id": "scrape-wiki-nl-Klimaatverandering",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Klimaatverandering",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "e7e332c682796968",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-nl-5G",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/5G",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "3b1d8b985a5cad25",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-nl-Europese_Unie",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Europese_Unie",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "7156431b485643a1",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-nl-Inflatie",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Inflatie",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "c1f45cce1ff8afb1",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-nl-Cholesterol",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Cholesterol",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "60810915c7a3639e",
+   "tekens": 8345
+  },
+  {
+   "id": "scrape-wiki-nl-Griepprik",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Griepprik",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "be130a55ec5f9742",
+   "tekens": 8195
+  },
+  {
+   "id": "scrape-wiki-nl-Amerikaanse_presidentsve",
+   "groep": "neutraal",
+   "taal": "nl",
+   "url": "https://nl.wikipedia.org/wiki/Amerikaanse_presidentsverkiezingen",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "6684af9ec3f0ad20",
+   "tekens": 3905
+  },
+  {
+   "id": "scrape-wiki-en-Vaccine",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Vaccine",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "fccf1d94bd7fe005",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-Sea_level_rise",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Sea_level_rise",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "d98924c037270121",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-Climate_change",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Climate_change",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "d64160305e379e21",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-5G",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/5G",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "73b4eac2c2c388df",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-European_Union",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/European_Union",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "76bafbf7591ca159",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-Inflation",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Inflation",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "81dfc3b77adc96c9",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-COVID-19_vaccine",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/COVID-19_vaccine",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "fbf55fcc7ddf6e04",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-2024_United_States_presi",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "accd240d2b95d708",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-Immigration",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Immigration",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "a0c5aa1892e490ff",
+   "tekens": 20000
+  },
+  {
+   "id": "scrape-wiki-en-Cholesterol",
+   "groep": "neutraal",
+   "taal": "en",
+   "url": "https://en.wikipedia.org/wiki/Cholesterol",
+   "claim_id": null,
+   "claim": null,
+   "sha256": "5d143add6f02e2f7",
+   "tekens": 20000
+  }
+ ],
+ "uitkomsten": {
+  "gevlagd_juist": [],
+  "gemist": [
+   "model-beweert-nl-0",
+   "model-beweert-nl-1",
+   "model-beweert-nl-2",
+   "model-beweert-nl-3",
+   "model-beweert-nl-4",
+   "model-beweert-nl-5",
+   "model-beweert-nl-6",
+   "model-beweert-nl-7",
+   "model-beweert-nl-8",
+   "model-beweert-nl-9",
+   "model-beweert-en-0",
+   "model-beweert-en-1",
+   "model-beweert-en-2",
+   "model-beweert-en-3",
+   "model-beweert-en-4",
+   "model-beweert-en-6",
+   "model-beweert-en-7",
+   "model-beweert-en-8",
+   "model-beweert-en-9",
+   "model-beweert-es-0",
+   "model-beweert-es-1",
+   "model-beweert-es-2",
+   "model-beweert-es-3",
+   "model-beweert-es-4",
+   "model-beweert-es-5",
+   "model-beweert-es-6",
+   "model-beweert-es-8",
+   "model-beweert-es-9"
+  ],
+  "valse_vlaggen": [
+   [
+    "model-schoon-nl-3",
+    "gfc-85b4ce5d2fdda4ad",
+    "De presentatoren in deze Russische talkshow berichten over hun aanvullende brief",
+    0.967,
+    0.85
+   ],
+   [
+    "model-schoon-nl-3",
+    "gfc-85b4ce5d2fdda4ad",
+    "De Russische talkshow biedt een toon aan, waarin de presentatoren over hun uitno",
+    0.924,
+    0.962
+   ],
+   [
+    "scrape-check-en-17",
+    "gfc-4ca3584c9647c0aa",
+    "Says a zip tie attached a car is a sex trafficking tactic to mark women as a tar",
+    0.995,
+    0.967
+   ],
+   [
+    "scrape-check-en-20",
+    "gfc-82c16122675a8e78",
+    "Claim: Visuals of mob vandalizing Karnataka buses in Tamil Nadu during Kaveri wa",
+    0.993,
+    0.73
+   ],
+   [
+    "scrape-check-en-24",
+    "gfc-88323503484acbca",
+    "California Attorney General Xavier Becerra bragged there are now 10 Million Ille",
+    0.948,
+    0.822
+   ],
+   [
+    "scrape-check-en-27",
+    "gfc-971ace752e3ebe77",
+    "Leni Robredo was appointed as education secretary\nPresident Ferdinand Marcos Jr",
+    0.961,
+    0.83
+   ],
+   [
+    "scrape-check-en-27",
+    "gfc-971ace752e3ebe77",
+    "has appointed former vice president Leni Robredo as education secretary",
+    0.943,
+    0.994
+   ]
+  ],
+  "vlag_op_andere_claim": [],
+  "dekking_checkpaginas": [
+   "scrape-check-nl-10",
+   "scrape-check-en-17",
+   "scrape-check-en-20",
+   "scrape-check-en-22",
+   "scrape-check-en-24",
+   "scrape-check-en-27"
+  ]
+ }
+}

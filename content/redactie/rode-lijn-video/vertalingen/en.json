@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video of 'Rode Lijn activists' and the police was filmed at the data centre protest in Sloterdijk",
+  "oordeel_zin": "The video is real, but comes from the occupation of a construction site on 6 November and was already on X before the Rode Lijn began [8].",
+  "bewering": "Rode lijn activists warn the police.",
+  "kort": "On 8 November a video went around of a protester addressing a police officer, presented as an image of Rode Lijn activists. The scene was filmed two days earlier, during the occupation of the construction site of a data centre for Microsoft in Sloterdijk [1] [2]. The video was already on X before the Rode Lijn demonstration on the Museumplein began [5] [8].",
+  "tekst": "On Sunday 8 November at 12:23, a 28-second video appeared on X with the text \"Rode lijn activists warn the police.\" [8]. Half an hour later, the fourth Rode Lijn demonstration began on the Museumplein in Amsterdam [5].\n\nThe scene itself is also on AT5. It posted it on X on Friday 6 November at 15:49, as a heated discussion between an officer and a protester [2]. In that afternoon's liveblog, AT5 describes how a protester tells an officer to watch out, after which the officer asks whether he is being threatened [1]. That was outside the fences of the construction site on the Plimsollweg, while the ME was clearing the site [1].\n\nThe occupation was an action by the group Geef Tegengas against the construction of a data centre for Microsoft [3]. Pro-Palestinian protesters also took part, and Palestinian flags hung on the site [3] [9]. The ME used batons and pepper spray [9]. The police detained 218 people, all of whom were free again a day later [4].\n\nThe video in the post was already on X on Saturday 7 November at 18:46, on a different account. We infer that from the number X gives every video, because it contains the moment of upload. The same calculation gives, for the AT5 video, exactly the time of their post [2] [8].\n\nAt the Rode Lijn itself, the police also took action. At 15:34 they used batons during an arrest on the Overtoom [6]. That cannot be the video in the post, because it was online three hours earlier [8]. The police called the demonstration calm and controlled, with four arrests [6]. According to the organisers, at least 200,000 people marched [7]. The route went from the Museumplein through Oud-West and back, not through Sloterdijk [5].",
+  "niet_weten": "We do not know who first gave the video a different explanation. The account that put it on X on 7 November we found, but not the post itself, so not what accompanied it either. Whether the protester later marched at the Rode Lijn, we do not know. The post is not about that either: it shows a scene from 6 November as if it were from 8 November.",
+  "bereik": "Viewed 68,296 times on 18 November",
+  "nog_uitzoeken": [
+   "What the post of 7 November said. We found the account, but not the post.",
+   "Anyone who reads the post as 'this happened on the Red Line' can defend false. We chose misleading."
+  ],
+  "tijdlijn": [
+   "AT5 puts the video of the exchange at the construction site on X [2].",
+   "The 218 detained protesters are all free again [4].",
+   "The video from the post appears on X, on a different account [8].",
+   "The post with the text about Rode Lijn activists [8].",
+   "The Rode Lijn demonstration begins on the Museumplein [5].",
+   "The police use batons during an arrest on the Overtoom [6]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 8 November 2026, 12:23.",
+   "AT5 on X, 6 November 2026, 15:49: the same exchange at the construction site in Sloterdijk."
+  ],
+  "beeld_alt": [
+   "Still from the video: a protester and a police officer at a fence. Stamp: MISLEADING.",
+   "The AT5 video of the exchange between a protester and a police officer."
+  ]
+ }
+}

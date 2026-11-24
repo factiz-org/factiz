@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video of a crowd stopping an alleged thief comes from Málaga, not Milan",
+  "oordeel_zin": "The video shows an attempted robbery of a jeweller in Málaga on 16 July, not a gang in Milan on 17 October [1] [4].",
+  "bewering": "A video shows Italians in Milan stopping a pro-Palestinian gang on 17 October.",
+  "kort": "Since 20 October a video has been circulating on X as footage of Italians stopping a pro-Palestinian gang in Milan [4]. The footage comes from Málaga in Spain, where local residents held a man who had tried to rob a jeweller on 16 July [1]. The riots in Milan on 17 October began at a protest against the high cost of living, and according to Avvenire the rioters carried no flag or political symbol [2] [3].",
+  "tekst": "On the night of 19 to 20 October, at 02:07, a Dutch-language post appeared on X with a 79-second video [4]. The text speaks of gangs in keffiyehs in Italian cities and of Italians in Milan who refuse to be subjugated by the anarchists of \"fripalestin\" [4]. Below it are the hashtags #Milano and #17octobre [4]. On 18 November the post had been viewed 105,671 times [4].\n\nThe same video circulated in English a few hours earlier. The account Visegrád 24 posted it on 19 October at 23:07 as Italian citizens catching a foreign robber [5]. A French post of 20 October did the same, with a video of the same length [6].\n\nThe scene was not filmed in Italy. On Thursday 16 July, around 21:00, a man in Málaga tried to rob a jeweller on Calle Martínez Maldonado, El Español wrote a day later [1]. He fled on foot toward an accomplice on a motorbike, was tripped on the way and was hit by someone on a kick scooter [1]. Local residents then held him while the accomplice rode off [1]. A local resident filmed it [1]. The Policía Nacional arrested the man and was still looking for the second suspect [1].\n\nThere was indeed unrest in Milan on Saturday 17 October. A march of about 5,000 people against the high cost of living ended in riots around Piazza del Duomo [2]. Some of the demonstrators, mostly young people with covered faces, threw stones and looted shops [2]. Police arrested about fifty people [2] [3]. According to Avvenire the rioters were very young, dressed in black and carried no flag or political symbol [3]. Il Post and Avvenire write nothing about Palestinian groups [2] [3].\n\nThe post thus presents an arrest in Spain from three months earlier as a scene from the riots in Milan [1] [4]. The footage itself is real [1].",
+  "niet_weten": "We do not know who first gave the video an Italian explanation. The oldest copy we found was on X on 19 October at 10:40 p.m., but that post can no longer be seen, so we do not know what the caption said. We do not know who filmed the video in July.",
+  "bereik": "105,671 views on 18 November",
+  "nog_uitzoeken": [
+   "What the oldest copy said, the post of 19 October at 10:40 p.m. It can no longer be seen."
+  ],
+  "tijdlijn": [
+   "Attempted robbery of a jeweller in Málaga; local residents hold the man until the police arrive [1].",
+   "El Español writes about the robbery and the arrest [1].",
+   "A march against the high cost of living in Milan ends in riots [2] [3].",
+   "Visegrád 24 posts the video in English as Italian citizens catching a robber [5].",
+   "The Dutch post about Milan and 17 October [4].",
+   "A French post with the same 79-second video [6]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 20 October 2026, 02:07.",
+   "El Español, 17 July 2026: the escape attempt after the robbery of a jeweller in Málaga. Photo by El Español."
+  ],
+  "beeld_alt": [
+   "Still from the video: a crowd in the street around a man. Stamp: FALSE.",
+   "Photo by El Español of the man fleeing after the attempted robbery in Málaga."
+  ]
+ }
+}

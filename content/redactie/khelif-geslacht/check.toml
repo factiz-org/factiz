@@ -1,0 +1,234 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B85), in het Nederlands, uit de weekradar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/khelif-geslacht/dossier.md, ingekort tot ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-22, PO: "innkorten is goed, , ik heb ze nagelezen, akkoord").
+
+sleutel = "khelif-geslacht"
+status = "gepubliceerd"
+taal = "nl"
+adres = "khelif-biologisch-man"
+adres_en = "khelif-biologically-male"
+kop = "Imane Khelif heeft het SRY-gen, maar het is niet vastgesteld dat ze biologisch man is"
+oordeel = "onbewezen"
+oordeel_zin = "Khelif zei in februari 2026 zelf dat ze het SRY-gen heeft, maar er is geen testuitslag openbaar, en geen sportbond of rechter heeft vastgesteld dat ze biologisch man is [4] [7] [8]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "OMG. Dat een biologisch mannelijke bokser tegen vrouwen bokst, moet en zal als sportief hoogtepunt worden gevierd. Maar wie dat vrouwenmishandeling noemt, moet en zal worden gecanceld. Blijkbaar mag maar één visie zegevieren."
+platform = "X"
+eerst_gezien = "2026-11-12"
+posts = 1
+bereik = "437 likes en 18 reacties op 22 november"
+
+kort = """
+Een post op X noemt een bokser die tegen vrouwen bokst, vermoedelijk Imane Khelif, biologisch mannelijk [1] [3]. \
+Khelif zei in februari 2026 zelf dat ze het SRY-gen heeft, dat volgens het IOC wijst op een mannelijke \
+geslachtsontwikkeling, en dat ze als meisje is opgevoed en niet transgender is [4] [8]. Of ze in de sport als man \
+telt, hangt af van een test en een medisch oordeel waarvan niets openbaar is, en geen sportbond of rechter heeft \
+erover beslist [6] [7] [8]."""
+
+tekst = """
+De post noemt geen naam en citeert een eigen post van 9 november over iets dat HLN een sportief hoogtepunt \
+noemde [1] [2]. Dat hij over Khelif gaat, leiden we af uit het moment: op 6 november kondigde ze haar eerste profpartij \
+aan [3]. Die week ging ook een Engelstalige post rond over een man in het olympische vrouwenboksen [11].
+
+Khelif, een Algerijnse bokser, won in 2024 olympisch goud bij de vrouwen [3]. In de Franse sportkrant L'Équipe \
+bevestigde ze op 4 februari 2026 dat ze het SRY-gen heeft, een gen dat meestal op het Y-chromosoom ligt [4] [8]. Haar \
+antwoord: "Ja, en dat is natuurlijk." [4] Ze zei ook dat ze voor wedstrijden haar testosteron met hormonen verlaagde, \
+en dat ze als meisje is opgevoed en geen transvrouw is [4]. Een diagnose noemde ze niet [4].
+
+World Boxing telt een bokser met het SRY-gen sinds augustus 2025 als man, behalve bij een volledige ongevoeligheid \
+voor mannelijke hormonen [4] [6]. Het IOC besloot in maart 2026 dat vanaf de Spelen van 2028 alleen vrouwen zonder het \
+SRY-gen in de vrouwencategorie uitkomen, behalve bij zeldzame aandoeningen waarbij testosteron geen voordeel \
+geeft [8]. Die regel werkt niet terug en zegt volgens het IOC niets over iemands wettelijke geslacht [8].
+
+World Boxing liet Khelif in 2025 niet meer meedoen tot ze een genetische test had gedaan, en het sporttribunaal TAS \
+weigerde dat besluit op 1 september 2025 op te schorten [7]. De zaak loopt vertrouwelijk, en een uitspraak vonden we \
+niet [7]. Khelif zei in februari dat ze World Boxing haar medische dossier stuurde, zonder antwoord [4].
+
+Documenten in een Frans tijdschrift die in 2024 zouden bewijzen dat ze een man is, noemde het IOC niet \
+geverifieerd [9]. In augustus 2024, voor het interview, noemden RTBF en FactCheck.org de bewering dat Khelif een man is \
+onwaar [12] [13]."""
+
+niet_weten = """
+We weten niet of Khelif een test op het SRY-gen voor World Boxing of het IOC deed, en wat artsen bij haar vaststelden. \
+Ook weten we niet zeker dat de post over haar gaat."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-22"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Hoe het TAS beslist in de zaak van Khelif tegen World Boxing.",
+  "Of Khelif een test op het SRY-gen voor World Boxing of het IOC heeft gedaan, en met welke uitkomst.",
+  "Welke post van het account X in de Europese Unie afschermde, en op wiens verzoek.",
+  "Welk artikel van HLN de post van 9 november bedoelt.",
+  "We twijfelden tussen Onbewezen en Misleidend. Misleidend, omdat de post als vaststaand brengt wat geen sportbond of rechter heeft vastgesteld; Onbewezen, omdat Khelif zelf zei dat ze het SRY-gen heeft, wat volgens de regels van World Boxing en het IOC als mannelijke geslachtsontwikkeling telt, behalve bij een uitzondering waarover niets openbaar is. We kozen Onbewezen.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 12 november 2026, 20.42 uur."
+alt = "Een post op X die zegt dat een biologisch mannelijke bokser tegen vrouwen bokst, met een schermafdruk van een melding dat een post in de Europese Unie is afgeschermd en een geciteerde post over een sportief hoogtepunt volgens HLN. Stempel: ONBEWEZEN."
+
+[[tijdlijn]]
+datum = "2024-08-01"
+wat = "Het IOC: op de Spelen van Parijs geldt het geslacht in het paspoort [5]."
+
+[[tijdlijn]]
+datum = "2025-08-05"
+wat = "Khelif gaat bij het TAS in beroep tegen het besluit van World Boxing [7]."
+
+[[tijdlijn]]
+datum = "2025-08-20"
+wat = "De regels van World Boxing over geslacht, met een test op het SRY-gen, gaan in [6]."
+
+[[tijdlijn]]
+datum = "2025-09-01"
+wat = "Het TAS weigert het besluit van World Boxing op te schorten tot de zaak is behandeld [7]."
+
+[[tijdlijn]]
+datum = "2026-02-04"
+wat = "Khelif zegt in L'Équipe dat ze het SRY-gen heeft en haar testosteron met hormonen verlaagde [4]."
+
+[[tijdlijn]]
+datum = "2026-03-26"
+wat = "Het IOC beperkt de vrouwencategorie vanaf de Spelen van 2028 tot wie geen SRY-gen heeft, met een uitzondering [8]."
+
+[[tijdlijn]]
+datum = "2026-11-06"
+wat = "Khelif kondigt haar eerste profpartij aan, op 15 december in Parijs tegen Clarida Sarabia [3]."
+
+[[tijdlijn]]
+datum = "2026-11-09"
+tijd = "12:16"
+wat = "Het account schrijft dat HLN iets een sportief hoogtepunt noemde [2]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+tijd = "20:42"
+wat = "De post op X [1]."
+
+[[tijdlijn]]
+datum = "2026-11-21"
+wat = "De NOS meldt dat Clarida Sarabia zich terugtrekt voor de partij met Khelif [10]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post over een biologisch mannelijke bokser, opgevraagd op 22 november 2026"
+datum = "2026-11-12"
+prive = true
+archief = "https://web.archive.org/web/20261122222324/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2120965372388180427&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "De eigen post van 9 november die de post citeert, opgevraagd op 22 november 2026"
+datum = "2026-11-09"
+prive = true
+archief = "https://web.archive.org/web/20261122222356/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2119750987527467334&omit_script=true"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Al Jazeera"
+titel = "Olympic champion Imane Khelif to make professional boxing debut in December"
+datum = "2026-11-06"
+url = "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december"
+archief = "https://web.archive.org/web/20261109092205/https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "AFP (via Eurosport)"
+titel = "Boxe - Imane Khelif révèle avoir pris un traitement hormonal avant les JO 2024 à Paris"
+datum = "2026-02-04"
+url = "https://www.eurosport.fr/boxe/boxe-imane-khelif-revele-avoir-pris-un-traitement-hormonal-avant-les-jo-2024-a-paris_sto23266729/story.shtml"
+archief = "https://web.archive.org/web/20260204222415/https://www.eurosport.fr/boxe/boxe-imane-khelif-revele-avoir-pris-un-traitement-hormonal-avant-les-jo-2024-a-paris_sto23266729/story.shtml"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Internationaal Olympisch Comité (IOC)"
+titel = "Joint Paris 2024 Boxing Unit/IOC Statement"
+datum = "2024-08-01"
+url = "https://olympics.com/ioc/news/joint-paris-2024-boxing-unit-ioc-statement"
+archief = "https://web.archive.org/web/20240803031836/https://olympics.com/ioc/news/joint-paris-2024-boxing-unit-ioc-statement"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "World Boxing"
+titel = "Sex Eligibility Policy"
+datum = "2025-08-20"
+url = "https://worldboxing.org/wp-content/uploads/2025/08/World-Boxing-Sex-Eligibility-Policy_FINAL_20Aug25.pdf"
+archief = "https://web.archive.org/web/20261020165207/https://worldboxing.org/wp-content/uploads/2025/08/World-Boxing-Sex-Eligibility-Policy_FINAL_20Aug25.pdf"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Tribunal Arbitral du Sport (TAS)"
+titel = "Imane Khelif appeals against World Boxing at the Court of Arbitration for Sport (CAS), media release"
+datum = "2025-09-01"
+url = "https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_11650_appeal_EN.pdf"
+archief = "https://web.archive.org/web/20251003135712/https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_11650_appeal_EN.pdf"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Internationaal Olympisch Comité (IOC)"
+titel = "International Olympic Committee announces new Policy on the Protection of the Female (Women's) Category in Olympic Sport"
+datum = "2026-03-26"
+url = "https://www.olympics.com/ioc/news/international-olympic-committee-announces-new-policy-on-the-protection-of-the-female-women-s-category-in-olympic-sport"
+archief = "https://web.archive.org/web/20260518124124/https://www.olympics.com/ioc/news/international-olympic-committee-announces-new-policy-on-the-protection-of-the-female-women-s-category-in-olympic-sport"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "The National"
+titel = "Algerian boxer Imane Khelif taking legal action after new eligibility claims, says IOC"
+datum = "2024-11-06"
+url = "https://www.thenationalnews.com/sport/combat-sports/2024/11/06/algerian-boxer-imane-khelif-taking-legal-action-after-new-eligibility-claims-says-ioc"
+archief = "https://web.archive.org/web/20260308001729/https://www.thenationalnews.com/sport/combat-sports/2024/11/06/algerian-boxer-imane-khelif-taking-legal-action-after-new-eligibility-claims-says-ioc/"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "NOS"
+titel = "In Nederland geboren Sarabia trekt zich terug voor boksduel met Khelif"
+datum = "2026-11-21"
+url = "https://nos.nl/artikel/2640425-in-nederland-geboren-sarabia-trekt-zich-terug-voor-boksduel-met-khelif"
+archief = "https://web.archive.org/web/20261122222511/https://nos.nl/artikel/2640425-in-nederland-geboren-sarabia-trekt-zich-terug-voor-boksduel-met-khelif"
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "X"
+titel = "Engelstalige post over een man in het olympische boksen voor vrouwen, opgevraagd op 22 november 2026"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261122222428/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122041271045030221&omit_script=true"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "RTBF (Faky)"
+titel = "La boxeuse Imane Khelif, qui fait l'objet d'une polémique aux Jeux olympiques de Paris, n'est pas un homme"
+datum = "2024-08-03"
+url = "https://www.rtbf.be/article/la-boxeuse-imane-khelif-qui-fait-l-objet-d-une-polemique-aux-jeux-olympiques-de-paris-n-est-pas-un-homme-11414400"
+archief = "https://web.archive.org/web/20251226111759/https://www.rtbf.be/article/la-boxeuse-imane-khelif-qui-fait-l-objet-d-une-polemique-aux-jeux-olympiques-de-paris-n-est-pas-un-homme-11414400"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "FactCheck.org"
+titel = "Trump, Social Media Posts Mislead on Olympic Woman Boxer"
+datum = "2024-08-09"
+url = "https://www.factcheck.org/2024/08/trump-social-media-posts-mislead-on-olympic-woman-boxer/"
+archief = "https://web.archive.org/web/20261107063812/https://www.factcheck.org/2024/08/trump-social-media-posts-mislead-on-olympic-woman-boxer/"

@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Label in the timeline</title>
+<!--
+  Schermontwerp voor PLAN #24.1 en DESIGN §4c: het label van de extensie in
+  een nagebootste tijdlijn, met alle staten, beide kleurmodi, een grijsknop
+  voor D5 en volledige bediening met het toetsenbord. De posts zijn
+  nagebootst; de checks erachter zijn echt (corpus, 2026-10-14). De linkstatus
+  bij Logically Facts is een voorbeeldstand: die site is verdwenen (§67), maar
+  "offline" vraagt twee dode waarnemingen (#25.9). Geen externe bestanden.
+-->
+<style>
+  :root {
+    --papier: #f6f4ee; --vlak: #ffffff; --inkt: #1d2320; --zacht: #5a625d;
+    --rand: #d9d5ca; --accent: #1f5f4a; --accent-zacht: #e4efe9; --focus: #b5541b;
+    --schaduw: 0 1px 2px rgba(0,0,0,.06), 0 8px 24px rgba(0,0,0,.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --papier: #141816; --vlak: #1c211f; --inkt: #ecebe6; --zacht: #a7aea9;
+      --rand: #343b37; --accent: #8fd1b4; --accent-zacht: #23302a; --focus: #f0a46c;
+      --schaduw: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.5);
+    }
+  }
+  :root[data-theme="dark"] {
+    --papier: #141816; --vlak: #1c211f; --inkt: #ecebe6; --zacht: #a7aea9;
+    --rand: #343b37; --accent: #8fd1b4; --accent-zacht: #23302a; --focus: #f0a46c;
+    --schaduw: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.5);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--papier); color: var(--inkt);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  }
+  body.grijs .tijdlijn, body.grijs .lagen, body.grijs .lade { filter: grayscale(1); }
+  a { color: var(--accent); }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+  .baan { max-width: 640px; margin: 0 auto; padding: 24px 16px 64px; }
+  header.kop { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; justify-content: space-between; }
+  header.kop h1 { font-size: 1.15rem; margin: 0; }
+  header.kop p { margin: 4px 0 0; color: var(--zacht); font-size: .9rem; flex-basis: 100%; }
+  .bediening { display: flex; gap: 8px; }
+  .bediening button, .post-menu, .stil button, .instellingen button {
+    font: inherit; font-size: .85rem; color: var(--inkt); background: var(--vlak);
+    border: 1px solid var(--rand); border-radius: 999px; padding: 6px 12px; min-height: 44px; cursor: pointer;
+  }
+  h2.sectie { font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: var(--zacht); margin: 32px 0 8px; }
+  .tijdlijn { list-style: none; margin: 0; padding: 0; border: 1px solid var(--rand); border-radius: 14px; background: var(--vlak); }
+  .post { padding: 16px; border-top: 1px solid var(--rand); }
+  .post:first-child { border-top: 0; }
+  .post .wie { display: flex; align-items: center; gap: 10px; font-size: .9rem; color: var(--zacht); }
+  .post .rond { width: 32px; height: 32px; border-radius: 50%; background: var(--rand); flex: none; }
+  .post .tekst { margin: 8px 0 10px; }
+  .post .onder { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; }
+  .staatnaam { font-size: .75rem; color: var(--zacht); border: 1px dashed var(--rand); border-radius: 6px; padding: 2px 6px; }
+
+  /* Het label. Het raakvlak is 44 px hoog, de pil oogt kleiner (DESIGN §5). */
+  .label {
+    position: relative; display: inline-flex; align-items: center; gap: 8px; min-height: 44px;
+    padding: 0; border: 0; background: none; color: var(--inkt); font: inherit; font-size: .88rem;
+    cursor: pointer; text-align: left;
+  }
+  .label .pil {
+    display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px 5px 8px;
+    border: 1.5px solid var(--inkt); border-radius: 999px; background: var(--vlak);
+  }
+  .label .merk {
+    width: 18px; height: 18px; border-radius: 50%; background: var(--accent); flex: none;
+    display: inline-grid; place-items: center; color: var(--vlak); font-size: 11px; font-weight: 700;
+  }
+  .label .oordeel { font-weight: 650; }
+  .label .telling { color: var(--zacht); }
+  .label .open { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+  .label.neutraal .pil { border-color: var(--rand); }
+  .label.bezig .pil { border-style: dotted; }
+  /* Laag 2: gestippeld, laag 3: rechte hoeken (DESIGN §4c, D5). */
+  .label.laag2 .pil { border-style: dashed; }
+  .label.laag3 .pil { border-radius: 4px; border-width: 2px; }
+  .regel { font-size: .88rem; color: var(--zacht); display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+  .regel strong { color: var(--inkt); font-weight: 600; }
+  .regel button { font: inherit; font-size: .85rem; background: none; border: 0; color: var(--accent); text-decoration: underline; min-height: 44px; cursor: pointer; padding: 0 4px; }
+
+  /* De lade: een dialoog; zijpaneel op breed scherm, onderblad op smal. */
+  .sluier { position: fixed; inset: 0; background: rgba(0,0,0,.35); display: none; }
+  .sluier.open { display: block; }
+  .lade {
+    position: fixed; top: 0; right: 0; bottom: 0; width: min(440px, 100%); background: var(--vlak);
+    color: var(--inkt); box-shadow: var(--schaduw); padding: 20px 20px 28px; overflow-y: auto;
+    transform: translateX(100%); transition: transform .18s ease-out; visibility: hidden;
+  }
+  .lade.open { transform: none; visibility: visible; }
+  .lade:focus { outline: none; }
+  @media (max-width: 560px) {
+    .lade { top: auto; width: 100%; max-height: 85vh; border-radius: 16px 16px 0 0; transform: translateY(100%); }
+  }
+  @media (prefers-reduced-motion: reduce) { .lade { transition: none; } }
+  .lade .sluit { float: right; font: inherit; font-size: .85rem; background: none; border: 1px solid var(--rand); border-radius: 999px; min-height: 44px; padding: 0 14px; color: var(--inkt); cursor: pointer; }
+  .lade h3 { font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: var(--zacht); margin: 0 0 6px; }
+  .lade .bewering { font-size: 1.05rem; margin: 0 0 12px; }
+  .lade .kopregel { font-weight: 650; margin: 0 0 4px; }
+  .lade .sub { color: var(--zacht); font-size: .9rem; margin: 0 0 16px; }
+  .bonnetjes { list-style: none; margin: 0 0 20px; padding: 0; }
+  .bonnetjes li { border-top: 1px solid var(--rand); padding: 12px 0; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+  .bonnetjes .uitgever { font-weight: 650; }
+  .bonnetjes .eigen { border: 1px solid var(--rand); border-radius: 999px; padding: 0 8px; font-size: .85rem; max-width: 100%; }
+  .bonnetjes .meta { color: var(--zacht); font-size: .85rem; }
+  .bonnetjes .linkstand { flex-basis: 100%; color: var(--zacht); font-size: .85rem; }
+  .lade .geschiedenis { color: var(--zacht); font-size: .9rem; margin: 0 0 20px; }
+  .lade .voet { border-top: 1px solid var(--rand); padding-top: 12px; font-size: .9rem; display: grid; gap: 6px; }
+
+  .lagen { display: grid; gap: 8px; }
+  .instellingen { background: var(--vlak); border: 1px solid var(--rand); border-radius: 14px; padding: 16px; }
+  .instellingen p { margin: 0 0 12px; }
+  .schakel { display: flex; justify-content: space-between; align-items: center; gap: 12px; min-height: 44px; border-top: 1px solid var(--rand); }
+  .schakel span small { display: block; color: var(--zacht); }
+  .noot { color: var(--zacht); font-size: .85rem; }
+</style>
+</head>
+<body>
+<div class="baan">
+  <header class="kop">
+    <h1>Label in the timeline · screen design (#24.1)</h1>
+    <div class="bediening">
+      <button type="button" id="thema">Dark mode</button>
+      <button type="button" id="grijs" aria-pressed="false">Grayscale (D5)</button>
+    </div>
+    <p>Imitated posts; the fact-checks behind them are real records from the corpus. Labels in English, notes for the design in grey.</p>
+  </header>
+
+  <h2 class="sectie">Timeline</h2>
+  <ol class="tijdlijn">
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 2h</div>
+      <p class="tekst">Morning run done, 10 km in the rain. Coffee first, then work.</p>
+      <div class="onder"><span class="staatnaam">no hit: silence (D10)</span><button type="button" class="post-menu" data-vraag="none">Check with Factiz</button></div>
+      <div class="antwoordplek" aria-live="polite"></div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 3h</div>
+      <p class="tekst">Google Maps has removed Palestine from the map. Share before they delete this.</p>
+      <div class="onder">
+        <button type="button" class="label" data-lokaal="maps" aria-haspopup="dialog">
+          <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">Known to be misleading</span><span class="open">Show receipts</span></span>
+        </button>
+        <span class="staatnaam">local hit on the whole text: the side, no count yet</span>
+      </div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 4h</div>
+      <p class="tekst">Forward this to all your groups. WhatsApp will charge their users for sending messages. Last chance to switch.</p>
+      <div class="onder">
+        <button type="button" class="label neutraal" data-lokaal="whatsapp" aria-haspopup="dialog">
+          <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">Fact-checked before</span><span class="open">Show receipts</span></span>
+        </button>
+        <span class="staatnaam">local hit on one sentence: neutral until the click</span>
+      </div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 5h</div>
+      <p class="tekst">This photo shows Iran preparing to attack Israel. It is happening now.</p>
+      <div class="onder">
+        <button type="button" class="label" data-lade="iran" aria-haspopup="dialog">
+          <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">Known to be false</span><span class="telling">1 newsroom</span></span>
+        </button>
+        <span class="staatnaam">matched, after a click</span>
+      </div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 6h</div>
+      <p class="tekst">Same photo as the protest in Berlin last week, but now they say it was in Paris.</p>
+      <div class="onder">
+        <button type="button" class="label neutraal" data-lade="verwant" aria-haspopup="dialog">
+          <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">A related claim was checked</span><span class="open">See what matched</span></span>
+        </button>
+        <span class="staatnaam">related: no verdict in the label</span>
+      </div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 8h</div>
+      <p class="tekst">Ndizi zina vitamini C zaidi kuliko machungwa yote duniani.</p>
+      <div class="onder"><span class="staatnaam">none on request, then gone</span><button type="button" class="post-menu" data-vraag="out_of_scope">Check with Factiz</button></div>
+      <div class="antwoordplek" aria-live="polite"></div>
+    </li>
+
+    <li class="post">
+      <div class="wie"><span class="rond" aria-hidden="true"></span>An account · 9h</div>
+      <p class="tekst">Look at this.</p>
+      <div class="onder"><span class="staatnaam">error: never shown as none (D7)</span><button type="button" class="post-menu" data-vraag="fout">Check with Factiz</button></div>
+      <div class="antwoordplek" aria-live="polite"></div>
+    </li>
+  </ol>
+
+  <h2 class="sectie">Layers 2 and 3: designed, not in v1</h2>
+  <div class="lagen">
+    <span class="label laag2" role="img" aria-label="Signal: looks like a known hoax, AFP, 2019. Example, not in version 1.">
+      <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">Signal: looks like a known hoax</span><span class="telling">AFP, 2019</span></span>
+    </span>
+    <span class="label laag3" role="img" aria-label="Factiz estimate: likely false, error rate at most 1 in 10,000 in this class. Example, not in version 1.">
+      <span class="pil"><span class="merk" aria-hidden="true">F</span><span class="oordeel">Factiz estimate: likely false</span><span class="telling">error rate at most 1 in 10,000 in this class</span></span>
+    </span>
+    <p class="noot">Dashed edge and "Signal:" for layer 2; square corners and "Factiz estimate:" for layer 3. Neither shape can pass for a newsroom check (DR5), also in grayscale.</p>
+  </div>
+
+  <h2 class="sectie">Settings</h2>
+  <section class="instellingen" aria-labelledby="inst-kop">
+    <h3 id="inst-kop" style="margin:0 0 8px;font-size:1rem">Factiz labels</h3>
+    <p>No label means nothing. Most claims are never checked, so the absence of a label says nothing about a post.</p>
+    <div class="schakel"><span>Show labels</span><button type="button" role="switch" aria-checked="true">On</button></div>
+    <div class="schakel"><span>Match on this device<small>Only fingerprints of known claims; nothing leaves your device until you click.</small></span><button type="button" role="switch" aria-checked="true">On</button></div>
+    <div class="schakel"><span>Usage statistics<small>Off, and there is nothing to turn on.</small></span><button type="button" role="switch" aria-checked="false" disabled>Off</button></div>
+  </section>
+</div>
+
+<div class="sluier" id="sluier"></div>
+<aside class="lade" id="lade" role="dialog" aria-modal="true" aria-labelledby="lade-kop" tabindex="-1">
+  <button type="button" class="sluit" id="sluit">Close</button>
+  <div id="lade-inhoud"></div>
+</aside>
+
+<script>
+// Echte checks uit het corpus (2026-10-14); de linkstatus van Logically Facts
+// is een voorbeeldstand (zie de kop van dit bestand).
+const LADES = {
+  maps: {
+    bewering: 'Google has removed Palestine from its maps.',
+    kop: 'Known to be misleading', telling: '3 newsrooms, 3 languages',
+    sub: '3 newsrooms, 3 languages, 2020 to 2024',
+    checks: [
+      ['Tempo.co', 'Sesat', '2020-07-20', 'Indonesian', 'https://cekfakta.tempo.co/fakta/894/fakta-atau-hoaks-benarkah-palestina-dihapus-dari-google-maps', null],
+      ['FACTLY', 'MISLEADING', '2024-07-02', 'English', 'https://factly.in/google-did-not-remove-palestine-from-its-maps-it-has-never-labeled-palestine-before/', null],
+      ['dpa', 'De naam Palestina heeft nooit op Google Maps gestaan.', '2024-07-17', 'Dutch', 'https://dpa-factchecking.com/belgium/240716-99-748420', null],
+    ],
+    geschiedenis: 'Checked in Indonesian in 2020, and again in English and Dutch in 2024.',
+  },
+  whatsapp: {
+    bewering: 'WhatsApp will charge their users for sending messages',
+    kop: 'Known to be misleading', telling: '1 newsroom',
+    sub: '1 newsroom, 1 language, 2022',
+    checks: [
+      ['FACTLY', 'MISLEADING', '2022-10-13', 'English', 'https://factly.in/whatsapp-is-not-going-to-charge-their-users-for-sending-messages/', null],
+    ],
+    geschiedenis: null,
+  },
+  iran: {
+    bewering: 'An image shows Iran preparing to attack Israel; it is from North Korea, 2017.',
+    kop: 'Known to be false', sub: '1 newsroom, 1 language, 2024',
+    checks: [
+      ['Logically Facts', 'False', '2024-04-08', 'English',
+       'https://www.logicallyfacts.com/en/fact-check/false-2017-image-from-north-korea-peddled-as-iran-preparing-to-attack-israel',
+       ['2026-10-14', 'https://web.archive.org/web/20240415091944/https://www.logicallyfacts.com/en/fact-check/false-2017-image-from-north-korea-peddled-as-iran-preparing-to-attack-israel', '2024-04-15']],
+    ],
+    geschiedenis: null,
+  },
+  verwant: {
+    bewering: null, kop: 'A related claim was checked',
+    sub: 'What matches is the image. The claim is a different one, so no verdict is shown here.',
+    checks: [], geschiedenis: null,
+  },
+};
+
+const lade = document.getElementById('lade');
+const sluier = document.getElementById('sluier');
+const inhoud = document.getElementById('lade-inhoud');
+let terugNaar = null;
+
+function el(tag, attrs, ...kinderen) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) e.setAttribute(k, v);
+  for (const kind of kinderen) if (kind !== null && kind !== undefined) e.append(kind);
+  return e;
+}
+
+function bouwLade(sleutel) {
+  const d = LADES[sleutel];
+  inhoud.replaceChildren();
+  inhoud.append(el('h3', {}, d.bewering ? 'The claim as it was checked' : 'Related, not the same claim'));
+  if (d.bewering) inhoud.append(el('p', { class: 'bewering' }, d.bewering));
+  inhoud.append(el('p', { class: 'kopregel', id: 'lade-kop' }, d.kop));
+  inhoud.append(el('p', { class: 'sub' }, d.sub));
+  if (d.checks.length) {
+    inhoud.append(el('h3', {}, 'The receipts'));
+    const lijst = el('ol', { class: 'bonnetjes' });
+    for (const [uitgever, eigen, datum, taal, url, link] of d.checks) {
+      const li = el('li', {},
+        el('span', { class: 'uitgever' }, uitgever),
+        el('span', { class: 'eigen' }, eigen),
+        el('span', { class: 'meta' }, datum + ' · ' + taal),
+        el('a', { href: url, rel: 'noopener noreferrer' }, 'source'));
+      if (link) {
+        li.append(el('span', { class: 'linkstand' }, 'Source offline since at least ' + link[0] + '. ',
+          el('a', { href: link[1], rel: 'noopener noreferrer' }, 'Archived copy'), ' from ' + link[2]));
+      }
+      lijst.append(li);
+    }
+    inhoud.append(lijst);
+  }
+  if (d.geschiedenis) {
+    inhoud.append(el('h3', {}, 'History'));
+    inhoud.append(el('p', { class: 'geschiedenis' }, d.geschiedenis));
+  }
+  inhoud.append(el('div', { class: 'voet' },
+    el('span', {}, 'The sources are the verdict. Factiz does not judge.'),
+    el('a', { href: '#' }, 'Wrong match? Tell us'),
+    el('a', { href: '#' }, 'How labels work')));
+}
+
+function openLade(sleutel, knop) {
+  bouwLade(sleutel);
+  terugNaar = knop;
+  lade.classList.add('open');
+  sluier.classList.add('open');
+  lade.focus();
+}
+
+function sluitLade() {
+  lade.classList.remove('open');
+  sluier.classList.remove('open');
+  if (terugNaar) terugNaar.focus();
+}
+
+document.getElementById('sluit').addEventListener('click', sluitLade);
+sluier.addEventListener('click', sluitLade);
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && lade.classList.contains('open')) sluitLade();
+  if (e.key === 'Tab' && lade.classList.contains('open')) {
+    // Focus blijft in de lade zolang ze open is.
+    const doelen = lade.querySelectorAll('button, a[href]');
+    const eerste = doelen[0], laatste = doelen[doelen.length - 1];
+    if (e.shiftKey && document.activeElement === eerste) { e.preventDefault(); laatste.focus(); }
+    else if (!e.shiftKey && document.activeElement === laatste) { e.preventDefault(); eerste.focus(); }
+  }
+});
+
+document.querySelectorAll('.label[data-lade]').forEach((knop) => {
+  knop.addEventListener('click', () => openLade(knop.dataset.lade, knop));
+});
+
+// Lokale treffer: pas na de klik gaat de tekst naar de resolver; zegt die
+// `matched`, dan krijgt het label het oordeel met de telling. Bij een treffer
+// op de hele tekst stond de kant er al (#24.2c); bij een losse zin niet.
+document.querySelectorAll('.label[data-lokaal]').forEach((knop) => {
+  knop.addEventListener('click', () => {
+    if (knop.dataset.bevestigd) { openLade(knop.dataset.lokaal, knop); return; }
+    knop.classList.add('bezig');
+    // Een kant die er al stond, blijft staan terwijl de resolver antwoordt.
+    if (knop.classList.contains('neutraal')) {
+      knop.querySelector('.oordeel').textContent = 'Checking with Factiz...';
+      knop.querySelector('.open').textContent = '';
+    } else {
+      knop.querySelector('.open').textContent = 'Checking...';
+    }
+    setTimeout(() => {
+      const d = LADES[knop.dataset.lokaal];
+      knop.classList.remove('bezig', 'neutraal');
+      knop.querySelector('.oordeel').textContent = d.kop;
+      const telling = knop.querySelector('.open');
+      telling.className = 'telling';
+      telling.textContent = d.telling;
+      knop.dataset.bevestigd = '1';
+      openLade(knop.dataset.lokaal, knop);
+    }, 600);
+  });
+});
+
+const ANTWOORDEN = {
+  none: ['Nothing found.', 'No fact-check of this claim is known. That does not make it true or false.'],
+  out_of_scope: ['This language is not in the memory yet.', 'We searched across languages and found nothing, but we hold no checks in this language.'],
+  fout: ['Could not check right now.', 'The check did not go through. Try again in a minute.'],
+};
+
+document.querySelectorAll('.post-menu').forEach((knop) => {
+  knop.addEventListener('click', () => {
+    const plek = knop.closest('.post').querySelector('.antwoordplek');
+    const [kop, uitleg] = ANTWOORDEN[knop.dataset.vraag];
+    const sluit = el('button', { type: 'button' }, 'Dismiss');
+    const regel = el('p', { class: 'regel' }, el('strong', {}, kop), el('span', {}, uitleg), sluit);
+    sluit.addEventListener('click', () => { regel.remove(); knop.focus(); });
+    plek.replaceChildren(regel);
+  });
+});
+
+document.querySelectorAll('[role="switch"]:not([disabled])').forEach((s) => {
+  s.addEventListener('click', () => {
+    const aan = s.getAttribute('aria-checked') !== 'true';
+    s.setAttribute('aria-checked', String(aan));
+    s.textContent = aan ? 'On' : 'Off';
+  });
+});
+
+// De knop volgt de modus die nu te zien is: die van het systeem, tot iemand kiest.
+const thema = document.getElementById('thema');
+function isDonker() {
+  const gekozen = document.documentElement.dataset.theme;
+  return gekozen ? gekozen === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+}
+function toonThemaknop() {
+  thema.textContent = isDonker() ? 'Light mode' : 'Dark mode';
+}
+thema.addEventListener('click', () => {
+  document.documentElement.dataset.theme = isDonker() ? 'light' : 'dark';
+  toonThemaknop();
+});
+toonThemaknop();
+const grijs = document.getElementById('grijs');
+grijs.addEventListener('click', () => {
+  const aan = document.body.classList.toggle('grijs');
+  grijs.setAttribute('aria-pressed', String(aan));
+});
+</script>
+</body>
+</html>

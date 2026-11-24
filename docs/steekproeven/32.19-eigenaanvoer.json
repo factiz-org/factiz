@@ -1,0 +1,38 @@
+{
+ "toelichting": "PLAN #32.19, de proef van route A: 30 willekeurige nieuwe checks (zaad 3219). Claude zette de bewering en het oordeel naast de pagina van de factchecker (2026-11-01). 'klopt' = bewering en oordeel staan zo op de pagina.",
+ "labels": {
+  "https://aap.com.au/factcheck/hpv-vaccine-rollout-in-png-sparks-misinformation-online/": "klopt",
+  "https://aap.com.au/factcheck/nz-first-candidate-vastly-inflates-indian-migration-numbers/": "klopt",
+  "https://factchequeado.com/verificaciones/20261014/inflacion-biden-trump-don-tracy/": "klopt",
+  "https://factchequeado.com/verificaciones/20261027/maquinas-votacion-cambio-voto/": "klopt",
+  "https://fullfact.org/culture-and-society/video-does-not-show-police-seizing-mannequin-over-Pakistani-complaints-repeat/": "klopt",
+  "https://fullfact.org/culture-and-society/video-of-muslim-woman-saying-cover-up-is-fake/": "klopt",
+  "https://fullfact.org/world/old-video-israel-basketball-player-shared-flydubai-incident/": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/fact-check-aheist-haydn-sophie-dollery-is-not-oregon-suspected-shooter.html": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/fact-check-bellingcat-did-not-publish-report-stating-germanys-merz-takes-quarter-of-each-ukraine-financial-aid-package.html": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-shows-28-year-old-woman-shooting-robbers-from-her-car.html": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-shows-man-claiming-to-be-ex-student-of-democratic-senate-nominee-james-talarico-real-zyon-lewis-says-it-is-not-him.html": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/fact-check-video-does-not-show-protests-in-greece-in-2026.html": "klopt",
+  "https://leadstories.com/hoax-alert/2026/10/prebunk-stunt-running-videos-took-an-off-ramp-from-reality.html": "klopt",
+  "https://maldita.es/desinfo/20261015/bally-bagayoko-el-africano-musulman-socialista-alcalde-de-saint-denis-comienza-la-aplicacion-de-la-ley-sharia-prohibiendo-el-alcohol/": "klopt",
+  "https://maldita.es/desinfo/20261029/sanchez-permitio-que-el-pais-vasco-compitiera-como-nacion-independiente-en-el-campeonato-del-mundo-de-pelota-vasca-que-ha-ganado-espana/": "klopt",
+  "https://verifica.efe.com/joven-acusan-agresor-dueno-tienda-comics-niza-esta-generado-con-ia/": "klopt",
+  "https://verifica.efe.com/la-television-estatal-norcoreana-no-anuncio-que-kim-jong-un-entro-en-coma/": "klopt",
+  "https://verifica.efe.com/trump-vivienda-espana-sanchez/": "klopt",
+  "https://www.aosfatos.org/noticias/derrotado-flavio-mente-sugerir-eleicao-fraudada/": "klopt",
+  "https://www.aosfatos.org/noticias/eleitores-impedidos-londres-primeiro-turno/": "klopt",
+  "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/": "klopt",
+  "https://www.newtral.es/deuda-sanchez-feijoo-factcheck/20261006/": "klopt",
+  "https://www.newtral.es/estudiantes-robando-tienda/20261020/": "klopt",
+  "https://www.newtral.es/mercadona-caja-alimentos/20261002/": "klopt",
+  "https://www.newtral.es/sol-ia-acampada-video-ninis/20261024/": "klopt",
+  "https://www.newtral.es/voto-whatsapp-ine/20261013/": "klopt",
+  "https://www.snopes.com//fact-check/barack-michelle-obama-boat-ai/": "klopt",
+  "https://www.snopes.com//fact-check/musk-midterms-democrats/": "klopt",
+  "https://www.snopes.com//fact-check/patrick-stewart-ian-mckellen-tribute/": "klopt",
+  "https://www.snopes.com//fact-check/trump-logging-federal-lands/": "klopt"
+ },
+ "notities": {
+  "algemeen": "Bij Factchequeado en Snopes staan aanhalingstekens als code in de bewering (&quot;, &#039;); de inhoud klopt, de tekst moet nog ontsleuteld worden (html.unescape). Bij EFE las de browser een zijartikel; de titels van de pagina bevestigen bewering en oordeel."
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "toelichting": "De maatstaf van de voormeting voor de radar (PLAN #37.0): de factchecks op de lijst van AFP Factcheck Nederland (factchecknederland.afp.com/list), op 2026-11-18 met de hand gelezen in de browser; alleen de titel, de datum en de link, als maatstaf voor wat in het Nederlands rondging en een factchecker het checken waard vond. Nooit op de site. In het openbare repo zonder de tekst van de factchecks die Factiz zelf van de sites van redacties las; alleen hun id of link.",
+ "bron": "https://factchecknederland.afp.com/list",
+ "gelezen": "2026-11-18",
+ "checks": [
+  {
+   "id": "afp-01",
+   "datum": "2026-11-12",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D6ZF7T7"
+  },
+  {
+   "id": "afp-02",
+   "datum": "2026-11-03",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D67F7KE"
+  },
+  {
+   "id": "afp-03",
+   "datum": "2026-10-30",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D4RZ9NQ"
+  },
+  {
+   "id": "afp-04",
+   "datum": "2026-10-28",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D4GH9CR"
+  },
+  {
+   "id": "afp-05",
+   "datum": "2026-10-26",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D4FQ4G4"
+  },
+  {
+   "id": "afp-06",
+   "datum": "2026-10-22",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D3XK8WK"
+  },
+  {
+   "id": "afp-07",
+   "datum": "2026-10-14",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D34P8CQ"
+  },
+  {
+   "id": "afp-08",
+   "datum": "2026-10-07",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.D2D94CQ"
+  },
+  {
+   "id": "afp-09",
+   "datum": "2026-10-02",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C9RZ363"
+  },
+  {
+   "id": "afp-10",
+   "datum": "2026-10-02",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C9XE2NQ"
+  },
+  {
+   "id": "afp-11",
+   "datum": "2026-10-01",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C9R42TC"
+  },
+  {
+   "id": "afp-12",
+   "datum": "2026-09-24",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C96B2KE"
+  },
+  {
+   "id": "afp-13",
+   "datum": "2026-09-22",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C8WF9ZQ"
+  },
+  {
+   "id": "afp-14",
+   "datum": "2026-09-15",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C89E6CQ"
+  },
+  {
+   "id": "afp-15",
+   "datum": "2026-08-25",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C4WZ2G4"
+  },
+  {
+   "id": "afp-16",
+   "datum": "2026-08-24",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C68P3G3"
+  },
+  {
+   "id": "afp-17",
+   "datum": "2026-08-21",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C67G4NQ"
+  },
+  {
+   "id": "afp-18",
+   "datum": "2026-08-17",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C4NC4G3"
+  },
+  {
+   "id": "afp-19",
+   "datum": "2026-08-13",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C4FR7KE"
+  },
+  {
+   "id": "afp-20",
+   "datum": "2026-08-05",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C3ZH963"
+  },
+  {
+   "id": "afp-21",
+   "datum": "2026-08-04",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C3UW2KF"
+  },
+  {
+   "id": "afp-22",
+   "datum": "2026-07-29",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.C3AF4KK"
+  },
+  {
+   "id": "afp-23",
+   "datum": "2026-07-08",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B9LM3WE"
+  },
+  {
+   "id": "afp-24",
+   "datum": "2026-07-02",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B8XC4NQ"
+  },
+  {
+   "id": "afp-25",
+   "datum": "2026-06-30",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B8R28G3"
+  },
+  {
+   "id": "afp-26",
+   "datum": "2026-06-25",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B7AL7NQ"
+  },
+  {
+   "id": "afp-27",
+   "datum": "2026-06-16",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B6UZ9NQ"
+  },
+  {
+   "id": "afp-28",
+   "datum": "2026-06-09",
+   "url": "https://factchecknederland.afp.com/doc.afp.com.B6CU8G3"
+  }
+ ]
+}

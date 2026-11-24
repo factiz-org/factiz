@@ -1,0 +1,887 @@
+{
+ "week": "2026-11-23",
+ "toelichting": "De wereldlijst van de week tot 23 november 2026 (B90, B91, PLAN #37.12): twintig overzichten, vijf per deel van de wereld, gezocht door vier onderzoekers op het web en nagelezen door Claude (elke zin met zijn bron, elke check tussen 14 en 23 november, geen zin van een redactie, geen link naar een privépersoon). `schaal` is het woord van de redactie op de schaal van het archief; `waarom` is voor de redactie en gaat niet mee naar de site.",
+ "akkoord": "2026-11-23, PO: \"Gekozen, lees terug\" (alle twintig goed op de voorbeeldpagina), daarna \"Ja, bouw het\"",
+ "overzichten": [
+  {
+   "sleutel": "crimea-bridge-ai-visuals",
+   "status": "gepubliceerd",
+   "regio": "europa",
+   "taal": "en",
+   "landen": [
+    "UA",
+    "RU",
+    "PL"
+   ],
+   "talen": [
+    "en",
+    "es",
+    "pl"
+   ],
+   "soort": "image",
+   "bewering": "Pictures and a video shared online show the Crimea bridge broken apart after Ukraine's strike on it in November 2026.",
+   "rondgang": "From 18 November 2026 the visuals spread on Facebook, X and Instagram, in English, Spanish and Polish among other languages. [1] [2] [3]",
+   "kern": [
+    "Ukraine did strike and badly damage the Crimea bridge on 17 November 2026, but the circulating pictures and video do not show that damage. [1] [2] [3]",
+    "One image of a detached bridge section does not match the debris in footage released by Ukraine's security service, and a detection tool found an invisible AI watermark in it. [1]",
+    "A video filmed as if from a drone differs from genuine footage of the collapsed bridge and carries watermarks that point to AI, and another photo matches a 2019 picture of the bridge on Wikipedia and was likely altered with AI. [2] [3]"
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-20",
+     "titel": "AI-generated image falsely shared as severed Crimea bridge",
+     "url": "https://factcheck.afp.com/doc.afp.com.D7UB7CR",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 2,
+     "redactie": "dpa-Faktencheck",
+     "land": "DE",
+     "taal": "de",
+     "oordeel": "Fälschung",
+     "oordeel_en": "Fake",
+     "datum": "2026-11-18",
+     "titel": "Video von eingestürzter Krim-Brücke ist KI-generiert",
+     "url": "https://dpa-factchecking.com/germany/261118-99-315527/",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 3,
+     "redactie": "Demagog",
+     "land": "PL",
+     "taal": "pl",
+     "oordeel": "przerobione zdjęcie",
+     "oordeel_en": "Doctored photo",
+     "datum": "2026-11-20",
+     "titel": "Zniszczony Most Krymski. Uważaj na przerobione zdjęcie",
+     "url": "https://demagog.org.pl/fake_news/zniszczony-most-krymski-uwazaj-na-przerobione-zdjecie/",
+     "schaal": "misleidend"
+    }
+   ],
+   "post": null,
+   "waarom": "A major moment in the war: AI-made visuals of Ukraine's strike on the Crimea bridge spread in several languages within a day, the pattern seen after every big attack."
+  },
+  {
+   "sleutel": "poland-airspace-missile-false-visuals",
+   "status": "gepubliceerd",
+   "regio": "europa",
+   "taal": "en",
+   "landen": [
+    "PL"
+   ],
+   "talen": [
+    "pl"
+   ],
+   "soort": "video",
+   "bewering": "A video and a picture shared online show the missiles that entered Polish airspace on 20 November 2026, with Polish F-16 jets chasing one of them.",
+   "rondgang": "On and after 20 November 2026 the video spread on X and the picture on Facebook and X in Poland; the earliest known copy of the picture was posted on X and later deleted. [1] [2]",
+   "kern": [
+    "Poland reported objects falling on its territory during Russian attacks on Ukraine on 20 November 2026, including debris of a cruise missile near the village of Nowy Lipowiec. [1] [2]",
+    "The video of flying objects presented as footage of that night was already online in November 2024, when it was linked to a Russian strike on Ukraine. [1]",
+    "The picture of three F-16 jets chasing a missile was made with AI according to an invisible SynthID watermark, and the person behind the earliest known post apologised for sharing it. [2]"
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "dpa-Faktencheck",
+     "land": "DE",
+     "taal": "de",
+     "oordeel": "Falscher Kontext",
+     "oordeel_en": "False context",
+     "datum": "2026-11-20",
+     "titel": "Altes Video hat keinen Bezug zu Luftraumverletzungen in Polen",
+     "url": "https://dpa-factchecking.com/germany/261120-99-343038/",
+     "schaal": "misleidend"
+    },
+    {
+     "nr": 2,
+     "redactie": "Demagog",
+     "land": "PL",
+     "taal": "pl",
+     "oordeel": "Fałsz",
+     "oordeel_en": "False",
+     "datum": "2026-11-20",
+     "titel": "Grafika z F-16 w pościgu za rakietą – wygenerowano ją przy użyciu AI",
+     "url": "https://demagog.org.pl/fake_news/grafika-z-f-16-w-poscigu-za-rakieta-zostala-wygenerowana-przy-uzyciu-ai/",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Objects from a Russian attack on Ukraine came down on NATO territory; false footage of the incident shapes how people across Europe judge a direct risk to the alliance."
+  },
+  {
+   "sleutel": "global-blackout-17-november",
+   "status": "gepubliceerd",
+   "regio": "europa",
+   "taal": "en",
+   "landen": [
+    "ES",
+    "IT"
+   ],
+   "talen": [
+    "es",
+    "it",
+    "en"
+   ],
+   "soort": "text",
+   "bewering": "Messages warn that a worldwide power and internet outage lasting 72 hours will start on 17 November 2026 and shut down banks and cash machines.",
+   "rondgang": "Posts on Facebook, TikTok and X spread the warning, checked by fact-checkers in Spain and Italy; EFE found it on X in English as early as 27 October 2026. [1] [2]",
+   "kern": [
+    "No authority warned of a worldwide blackout on 17 November 2026. [1] [2]",
+    "The date matches a planned US emergency alert test, announced by the federal agency FEMA and broadcast on television and radio. [1] [2]",
+    "The posts also mixed in European advice to keep emergency supplies for 72 hours and a Simpsons episode, and neither points to a blackout on that day. [1] [2]"
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "EFE Verifica",
+     "land": "ES",
+     "taal": "es",
+     "oordeel": "Falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-16",
+     "titel": "Nada prueba que vaya a haber un apagón mundial el 17 de noviembre",
+     "url": "https://verifica.efe.com/nada-prueba-apagon-17-nov/",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 2,
+     "redactie": "Facta",
+     "land": "IT",
+     "taal": "it",
+     "oordeel": "falsa notizia",
+     "oordeel_en": "False news",
+     "datum": "2026-11-16",
+     "titel": "Come è nata la falsa notizia del blackout globale del 17 novembre",
+     "url": "https://www.facta.news/articoli/falsa-notizia-blackout-17-novembre",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "A doomsday hoax that crossed languages and continents, twisting EU preparedness advice and recent cyberattacks in Europe into a fixed date for collapse; it feeds panic and distrust of official advice."
+  },
+  {
+   "sleutel": "lagarde-elderly-live-too-long-quote",
+   "status": "gepubliceerd",
+   "regio": "europa",
+   "taal": "en",
+   "landen": [
+    "FR",
+    "IT"
+   ],
+   "talen": [
+    "fr",
+    "it"
+   ],
+   "soort": "quote",
+   "bewering": "European Central Bank president Christine Lagarde once said that old people live too long, endanger the world economy and that something must be done about it quickly.",
+   "rondgang": "In November 2026 the quote spread again on Facebook in French and Italian, pushed in France by pages run from Sri Lanka. [1] [2]",
+   "kern": [
+    "There is no record of Lagarde saying this, and a spokesperson for the European Central Bank has denied it. [1] [2]",
+    "The quote appears to come from a misreading of an IMF report on global financial stability from April 2012, when Lagarde led the IMF, which looked at the financial cost of people living longer than projected. [1] [2]",
+    "The false quote first appeared in 2012 and resurfaced from 9 November 2026, as Lagarde was named as a possible candidate in France's 2027 presidential election. [1] [2]"
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "Facta",
+     "land": "IT",
+     "taal": "it",
+     "oordeel": "notizia falsa",
+     "oordeel_en": "False news",
+     "datum": "2026-11-20",
+     "titel": "No, Christine Lagarde non ha detto che gli anziani vivono troppo e sono un rischio per l’economia mondiale",
+     "url": "https://www.facta.news/antibufale/christine-lagarde-anziani-vivono-troppo-rischio-economia",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 2,
+     "redactie": "France 24",
+     "land": "FR",
+     "taal": "fr",
+     "oordeel": "fausse citation",
+     "oordeel_en": "False quote",
+     "datum": "2026-11-17",
+     "titel": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
+     "url": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "A fake quote about the ECB president that has crossed languages for 14 years returns as she is named for the French presidency, pushed by a foreign network that earns money from political content."
+  },
+  {
+   "sleutel": "frontex-mother-ship-canary-islands",
+   "status": "gepubliceerd",
+   "regio": "europa",
+   "taal": "en",
+   "landen": [
+    "ES",
+    "IT"
+   ],
+   "talen": [
+    "es"
+   ],
+   "soort": "video",
+   "bewering": "A video recorded by Frontex shows a large mother ship towing migrant boats close to the Canary Islands, calling Spain's sea rescue service and then sailing away.",
+   "rondgang": "Posts on X shared the video in November 2026, after a large number of migrants reached the Canary Islands, especially El Hierro. [1]",
+   "kern": [
+    "The video was recorded in 2019 during a people-smuggling case near the Italian island of Lampedusa, not near the Canary Islands. [1]",
+    "In that case a fishing boat put more than 80 migrants into a smaller boat to help them reach Lampedusa, and seven suspected smugglers were detained. [1]",
+    "The same footage has been shared before at times when arrivals in the Canary Islands rose. [1]"
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "EFE Verifica",
+     "land": "ES",
+     "taal": "es",
+     "oordeel": "Falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-21",
+     "titel": "Un vídeo de Frontex no muestra un «barco nodriza» que lleva inmigrantes a El Hierro",
+     "url": "https://verifica.efe.com/video-frontex-barco-nodriza-el-hierro-falso/",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "The mother-ship narrative about migration to southern Europe keeps returning with the same EU border agency footage, moved from Italy to Spain, and lands during a peak in Canary Islands arrivals."
+  },
+  {
+   "sleutel": "rubio-fake-post-lula-iran-conspiracy",
+   "status": "gepubliceerd",
+   "regio": "amerikas",
+   "taal": "en",
+   "landen": [
+    "BR",
+    "US",
+    "IR"
+   ],
+   "talen": [
+    "pt"
+   ],
+   "soort": "image",
+   "bewering": "A screenshot of an X post by US Secretary of State Marco Rubio says an official statement has confirmed that Lula conspired against the United States in his meeting with Iran's president.",
+   "rondgang": "The screenshot spread in Portuguese on Facebook, Instagram, TikTok and Kwai after Lula met Iran's president Masoud Pezeshkian at COP31 in Antalya, Turkey, on 12 November [2] [3]. AFP counted more than 45,000 views and Aos Fatos at least 6,000 interactions on Meta platforms [2] [3].",
+   "kern": [
+    "The US State Department published no statement accusing Lula of a conspiracy, and Rubio's official accounts carry no such message [1] [2] [3].",
+    "The posts show an account called @MarcoRubioGC, which is not an account Rubio uses; his official account on X is @SecRubio [1] [2] [3]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "Reuters Fact Check",
+     "land": "GB",
+     "taal": "pt",
+     "oordeel": "Falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-16",
+     "titel": "Checagem de fatos: Departamento de Estado dos EUA não disse que Brasil conspirou com Irã",
+     "url": "https://www.reuters.com/fact-check/portugues/SYLG5OR4VRK3FPHUN57PX6B74Q-2026-11-16/",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 2,
+     "redactie": "Aos Fatos",
+     "land": "BR",
+     "taal": "pt",
+     "oordeel": "falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-17",
+     "titel": "É falso post em que Marco Rubio acusa Lula de conspirar contra os EUA com Irã",
+     "url": "https://www.aosfatos.org/noticias/falso-post-marco-rubio-lula-conspirar-eua-ira/",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 3,
+     "redactie": "AFP Checamos",
+     "land": "FR",
+     "taal": "pt",
+     "oordeel": "Falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "É falso que Marco Rubio tenha atribuído a Lula conspiração com o Irã",
+     "url": "https://checamos.afp.com/doc.afp.com.D7VQ3ZQ",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "A forged statement from the US Secretary of State about Brazil, Iran and a possible US intervention touches US foreign policy, the Iran war and the largest country in Latin America; three newsrooms, including a wire agency, checked it."
+  },
+  {
+   "sleutel": "sheinbaum-spain-speech-shown-as-apec-china",
+   "status": "gepubliceerd",
+   "regio": "amerikas",
+   "taal": "en",
+   "landen": [
+    "MX",
+    "CN",
+    "ES"
+   ],
+   "talen": [
+    "es"
+   ],
+   "soort": "video",
+   "bewering": "A video shows Mexican president Claudia Sheinbaum embarrassing Mexico at the APEC summit in China with a speech about Aztec gods and the country's past.",
+   "rondgang": "The video began to circulate on Facebook, YouTube and TikTok two days after Sheinbaum attended the APEC summit on 17 November, with a longer version on TikTok [1].",
+   "kern": [
+    "The footage is from an earlier speech Sheinbaum gave at a summit on democracy in Barcelona, Spain, which Mexico's embassy in Italy posted on 18 April 2026 [1].",
+    "At APEC she spoke about shared prosperity, sovereignty and international relations and did not mention Mexico's pre-Hispanic history [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Factual",
+     "land": "FR",
+     "taal": "es",
+     "oordeel": "Engañoso",
+     "oordeel_en": "Misleading",
+     "datum": "2026-11-20",
+     "titel": "Un discurso de Sheinbaum en España se descontextualiza para decir que ocurrió en la APEC en China",
+     "url": "https://factual.afp.com/doc.afp.com.D87J79G",
+     "schaal": "misleidend"
+    }
+   ],
+   "post": null,
+   "waarom": "A head of state at a summit of 21 Pacific economies, at a time when Mexico balances its ties with China and the United States; old footage is moved to a new place to ridicule her abroad."
+  },
+  {
+   "sleutel": "ivory-coast-water-video-salvadoran-troops-haiti",
+   "status": "gepubliceerd",
+   "regio": "amerikas",
+   "taal": "en",
+   "landen": [
+    "HT",
+    "SV",
+    "CI"
+   ],
+   "talen": [
+    "es"
+   ],
+   "soort": "video",
+   "bewering": "A video shows Haitians handing out water to the Salvadoran soldiers deployed in Haiti.",
+   "rondgang": "The video was shared more than 16,000 times on Facebook, Instagram, TikTok and X after thousands of Haitians marched in Port-au-Prince on 17 November in support of El Salvador's troops [1].",
+   "kern": [
+    "The clip was filmed in Côte d'Ivoire during preparations in August for the country's Independence Day parade [1].",
+    "Videos posted in August by a furniture shop in Abidjan show similar scenes, with people wearing the shop's shirts [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Factual",
+     "land": "FR",
+     "taal": "es",
+     "oordeel": "Falso",
+     "oordeel_en": "False",
+     "datum": "2026-11-20",
+     "titel": "Video de reparto de agua en Costa de Marfil se vincula falsamente al despliegue militar en Haití",
+     "url": "https://factual.afp.com/doc.afp.com.D87L39E",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "El Salvador's deployment of more than 2,000 soldiers against the gangs in Haiti is a regional security story; footage from Africa is used to show local support. Same deployment as the robot dog video Factiz already covers, but a different claim."
+  },
+  {
+   "sleutel": "pope-leo-peru-only-man-and-woman-quote",
+   "status": "gepubliceerd",
+   "regio": "amerikas",
+   "taal": "en",
+   "landen": [
+    "PE",
+    "VA"
+   ],
+   "talen": [
+    "es",
+    "pt"
+   ],
+   "soort": "quote",
+   "bewering": "A video shows Pope Leo XIV saying during his visit to Peru that only man and woman exist and nothing else.",
+   "rondgang": "From the second day of the papal visit to Peru, which ran from 11 to 16 November, the clip with the quote was shared more than 15,000 times on X, Facebook, Instagram and TikTok, in Spanish and also in Portuguese [1].",
+   "kern": [
+    "The Pope does not say that sentence in the clip, which comes from his speech on the challenges facing Peru in the Plaza de Armas in Lima [1].",
+    "In that passage he spoke about the family, saying that God created the human being as man and woman, and the quoted sentence does not appear in his Lima speeches published by the Vatican [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Factual",
+     "land": "FR",
+     "taal": "es",
+     "oordeel": "Engañoso",
+     "oordeel_en": "Misleading",
+     "datum": "2026-11-17",
+     "titel": "Una frase sobre el hombre y la mujer se atribuye erróneamente al papa León XIV durante su visita a Perú",
+     "url": "https://factual.afp.com/doc.afp.com.D7NB9KE",
+     "schaal": "misleidend"
+    }
+   ],
+   "post": null,
+   "waarom": "A sharpened quote from the head of the Catholic Church during his South American tour, spread in two languages; quotes on gender put in a pope's mouth are a narrative that keeps coming back."
+  },
+  {
+   "sleutel": "measles-vaccine-deaths-vaers-claim",
+   "status": "gepubliceerd",
+   "regio": "amerikas",
+   "taal": "en",
+   "landen": [
+    "US"
+   ],
+   "talen": [
+    "en"
+   ],
+   "soort": "statistic",
+   "bewering": "Official US data show that measles vaccines have been linked to 1,700 percent more deaths than measles infections since 1995.",
+   "rondgang": "The claim, from a Substack article, spread on X, Facebook and Instagram as the Pan American Health Organization ruled that the United States no longer meets the criteria for measles elimination [1].",
+   "kern": [
+    "The figure compares reports to VAERS, a US vaccine safety database to which anyone can submit a report, with confirmed measles deaths, and experts told AFP such reports cannot show that a vaccine caused a death [1].",
+    "Large safety studies show that serious adverse outcomes from the measles, mumps and rubella vaccine are rare [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "Measles threat downplayed in posts misrepresenting vaccine safety",
+     "url": "https://factcheck.afp.com/doc.afp.com.D7MX9NQ",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Vaccine safety claims travel across borders, and this one spread while the US lost its measles elimination status with the Pan American Health Organization during its largest outbreak since 1991."
+  },
+  {
+   "sleutel": "babis-netanyahu-handshake-cut",
+   "status": "gepubliceerd",
+   "regio": "midden-oosten",
+   "taal": "en",
+   "landen": [
+    "IL",
+    "CZ",
+    "IT"
+   ],
+   "talen": [
+    "ar",
+    "it"
+   ],
+   "soort": "video",
+   "bewering": "A video shows Czech prime minister Andrej Babiš refusing to shake Benjamin Netanyahu's hand in Jerusalem and accusing him of terrorism.",
+   "rondgang": "The clip spread on Facebook and X after Babiš met Netanyahu in Jerusalem on 16 November 2026, in Arabic and other languages [1] [2]. An Italian version circulated with a text that put harsh accusations against Netanyahu in Babiš's mouth [3].",
+   "kern": [
+    "The clip was cut from a longer recording of the joint press conference, in which the two men shake hands twice [1] [2] [3].",
+    "The full recording was posted on Netanyahu's official YouTube channel on 16 November 2026 [2], and the official footage of Israel's Government Press Office shows the same two handshakes [3].",
+    "Babiš did not make the accusations that the posts attribute to him [2] [3]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check (Arabic)",
+     "land": "FR",
+     "taal": "ar",
+     "oordeel": "سياق مجتزأ",
+     "oordeel_en": "Cropped context",
+     "datum": "2026-11-18",
+     "titel": "هذا الفيديو مجتزأ ورئيس الوزراء التشيكي صافح نتانياهو خلال لقائهما في القدس",
+     "url": "https://factcheckarabic.afp.com/doc.afp.com.D7VE9WE",
+     "schaal": "misleidend"
+    },
+    {
+     "nr": 2,
+     "redactie": "Annahar Fact Check",
+     "land": "LB",
+     "taal": "ar",
+     "oordeel": "ليس صحيحاً",
+     "oordeel_en": "Not true",
+     "datum": "2026-11-18",
+     "titel": "رئيس الوزراء التشيكي يرفض مصافحة نتنياهو ويتّهمه بالإرهاب؟ النهار تتحقق FactCheck",
+     "url": "https://www.annahar.com/factcheck/367513/رئيس-الوزرا-التشيكي-يرفض-مصافحة-نتنياهو-النهار-تتحقق-factcheck",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 3,
+     "redactie": "Open",
+     "land": "IT",
+     "taal": "it",
+     "oordeel": "sono false",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "Il premier ceco non ha attaccato Netanyahu, e gli ha stretto la mano",
+     "url": "https://www.open.online/2026/11/18/babis-netanyahu-stretta-mano-video-tagliato-fact-check/",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "A European head of government and the Israeli prime minister; a cut clip that reverses a diplomatic meeting, checked in Arabic and Italian within two days."
+  },
+  {
+   "sleutel": "ras-al-khaimah-ship-strike-video",
+   "status": "gepubliceerd",
+   "regio": "midden-oosten",
+   "taal": "en",
+   "landen": [
+    "AE",
+    "IR",
+    "YE"
+   ],
+   "talen": [
+    "ar"
+   ],
+   "soort": "video",
+   "bewering": "A video shows a projectile striking a ship 14 miles off Ras Al Khaimah in the United Arab Emirates, as reported by a British maritime agency.",
+   "rondgang": "The video spread on Facebook with an Arabic caption, after a tanker was hit by an unidentified projectile while leaving the Strait of Hormuz on 16 November 2026 [1].",
+   "kern": [
+    "The footage dates from July 2024 and shows a Houthi attack on a ship in the Red Sea, distributed at the time from Houthi military media [1].",
+    "Compared with the original, the shared version was edited to make the explosion look bigger [1].",
+    "It has no link to the recent attacks on shipping around the Strait of Hormuz [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check (Arabic)",
+     "land": "FR",
+     "taal": "ar",
+     "oordeel": "فيديو معدّل",
+     "oordeel_en": "Altered video",
+     "datum": "2026-11-17",
+     "titel": "هذا الفيديو معدّل ويعود لاستهداف الحوثيين سفينة في البحر الأحمر عام 2024",
+     "url": "https://factcheckarabic.afp.com/doc.afp.com.D7PG9G3",
+     "schaal": "misleidend"
+    }
+   ],
+   "post": null,
+   "waarom": "Attacks on shipping in and around the Strait of Hormuz in the US-Iran confrontation touch oil and gas supplies worldwide; recycled ship footage is a recurring pattern in this war."
+  },
+  {
+   "sleutel": "morocco-soldiers-funeral-ai-video",
+   "status": "gepubliceerd",
+   "regio": "midden-oosten",
+   "taal": "en",
+   "landen": [
+    "MA",
+    "EH"
+   ],
+   "talen": [
+    "ar"
+   ],
+   "soort": "video",
+   "bewering": "A video shows the funeral of Moroccan soldiers killed by Polisario Front fighters in Western Sahara.",
+   "rondgang": "The video spread on Facebook with an Arabic caption, after the UN Security Council failed at the end of October 2026 to extend the UN mission in Western Sahara [1].",
+   "kern": [
+    "The video was made with artificial intelligence [1].",
+    "It shows inconsistent uniforms, and the same woman appears in two places at once; women traditionally do not take part in burials in Morocco, according to AFP journalists in Rabat [1].",
+    "No Moroccan official body or media outlet reported recent clashes with the Polisario or Moroccan losses [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check (Arabic)",
+     "land": "FR",
+     "taal": "ar",
+     "oordeel": "خطأ",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "هذا الفيديو مولّد باستخدام الذكاء الاصطناعي وليس لتشييع جنودٍ مغاربة",
+     "url": "https://factcheckarabic.afp.com/doc.afp.com.D7VM9T3",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "The UN mission in Western Sahara ended on 31 October 2026 after vetoes by Russia and the US; fake war images can inflame a decades-old conflict between Morocco, the Polisario and Algeria."
+  },
+  {
+   "sleutel": "eritrean-soldiers-surrender-ai-image",
+   "status": "gepubliceerd",
+   "regio": "afrika",
+   "taal": "en",
+   "landen": [
+    "ET",
+    "ER"
+   ],
+   "talen": [
+    "am"
+   ],
+   "soort": "image",
+   "bewering": "A photo shows dozens of Eritrean soldiers surrendering to the Ethiopian army during recent fighting on the border.",
+   "rondgang": "The picture spread on Facebook from 9 November 2026 with Amharic text, amid border clashes between Ethiopia and Eritrea around Badme [1].",
+   "kern": [
+    "The picture was made with artificial intelligence [1].",
+    "It shows deformed hands and faces and bodies that merge into each other [1].",
+    "A detector for Google watermarks indicated it was made with Google AI [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-16",
+     "titel": "Image of soldiers surrendering to Ethiopian army is fake",
+     "url": "https://factcheck.afp.com/doc.afp.com.D7DQ4G3",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Ethiopia and Eritrea are mobilising on their border and the international community warns of a new regional war; AI war images are a recurring tactic on both sides."
+  },
+  {
+   "sleutel": "traore-ai-audio-guinea-gold-miners",
+   "status": "gepubliceerd",
+   "regio": "afrika",
+   "taal": "en",
+   "landen": [
+    "BF",
+    "GN"
+   ],
+   "talen": [
+    "fr"
+   ],
+   "soort": "audio",
+   "bewering": "Recordings show Burkina Faso's leader Ibrahim Traoré condemning Guinea for expelling Burkinabè gold miners.",
+   "rondgang": "Three videos with these recordings spread on Facebook from early November 2026, after Guinea expelled thousands of foreign gold miners from the Siguiri region [1]. Two of the posts together were shared more than 14,000 times [1].",
+   "kern": [
+    "The recordings were generated with artificial intelligence and placed over old images of Traoré [1].",
+    "His lip movements do not match the words heard [1].",
+    "The Burkinabè government did criticise the expulsions, but by 16 November Traoré had not spoken publicly about them, and his official channels carry none of the statements [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Factuel",
+     "land": "FR",
+     "taal": "fr",
+     "oordeel": "Faux",
+     "oordeel_en": "False",
+     "datum": "2026-11-17",
+     "titel": "De faux audios attribués à Ibrahim Traoré circulent après l’expulsion d’orpailleurs burkinabè de Guinée",
+     "url": "https://factuel.afp.com/doc.afp.com.D7DB7KE",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Forced migration of thousands of Sahel workers between two military-led states, and AI-made speeches by Traoré are a recurring narrative that fact-checkers across Africa keep debunking."
+  },
+  {
+   "sleutel": "xi-putin-apec-handshake-snub-ai-video",
+   "status": "gepubliceerd",
+   "regio": "oost-azie",
+   "taal": "en",
+   "landen": [
+    "CN",
+    "RU"
+   ],
+   "talen": [
+    "zh"
+   ],
+   "soort": "video",
+   "bewering": "A video shows Xi Jinping pulling back his hand and refusing to greet Vladimir Putin at the APEC summit in Shenzhen.",
+   "rondgang": "The clip spread on X from 19 November 2026, including in a post in simplified Chinese, and circulated in several languages after Xi and Putin met on the sidelines of the summit on 18 November [1].",
+   "kern": [
+    "The clip was altered from footage of Xi and Putin shaking hands before the Shanghai Cooperation Organisation summit in Kyrgyzstan in August 2026 [1].",
+    "The watermark on the clip leads to an X account that calls itself satire and marked the video as made with Grok Imagine, an AI tool [1].",
+    "Pool footage from 18 November shows the two leaders greeting each other with a handshake in Shenzhen [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-23",
+     "titel": "AI-manipulated clip of Xi snubbing Putin at APEC misleads online",
+     "url": "https://factcheck.afp.com/doc.afp.com.D8BN6T3",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Doctored footage of the Chinese and Russian leaders at the first big summit Putin attended since the Ukraine war began, feeding a story of a China-Russia rift."
+  },
+  {
+   "sleutel": "roque-trump-xi-putin-abolish-icc",
+   "status": "gepubliceerd",
+   "regio": "oost-azie",
+   "taal": "en",
+   "landen": [
+    "PH",
+    "US",
+    "CN",
+    "RU"
+   ],
+   "talen": [
+    "tl"
+   ],
+   "soort": "text",
+   "bewering": "Trump, Xi Jinping and Putin agreed at their meeting in Shenzhen to abolish the International Criminal Court, which brings Rodrigo Duterte's return home closer.",
+   "rondgang": "Former Philippine presidential spokesperson Harry Roque posted the claim in Filipino on 19 November 2026, the day the three leaders met, and the post had 65,200 reactions, 5,700 comments and 801 shares when it was checked [1].",
+   "kern": [
+    "The joint Declaration toward Peace that the three leaders issued after the meeting mentions the ICC but does not call for abolishing it [1].",
+    "On the court, the text only says that the ICC and similar bodies should not overstep their jurisdiction [1].",
+    "Duterte faces charges of crimes against humanity at the ICC over his drug war, and his trial is set to begin on 30 November [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "VERA Files",
+     "land": "PH",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-23",
+     "titel": "FACT CHECK: Harry Roque FALSELY claims Trump, Xi, Putin ‘agreed’ to abolish the ICC",
+     "url": "https://verafiles.org/articles/fact-check-harry-roque-falsely-claims-trump-xi-putin-agreed-to-abolish-the-icc",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Misrepresents a joint statement of the US, Chinese and Russian leaders on the ICC, a week before Duterte's trial there; claims that world leaders will free Duterte keep coming back."
+  },
+  {
+   "sleutel": "myanmar-arakan-army-navy-ship-strike-video",
+   "status": "gepubliceerd",
+   "regio": "oost-azie",
+   "taal": "en",
+   "landen": [
+    "MM"
+   ],
+   "talen": [
+    "my"
+   ],
+   "soort": "video",
+   "bewering": "A video shows the Arakan Army destroying a Myanmar navy ship near Sittwe in Rakhine state.",
+   "rondgang": "A Burmese-language Facebook post shared the clip on 11 November 2026, and similar posts spread on Facebook and TikTok after the Arakan Army said it had struck three military vessels in Rakhine on 26 October [1].",
+   "kern": [
+    "The clip has circulated online since March 2026, before the strikes reported in October [1].",
+    "Frame by frame, the bow of the boat stays intact after the explosion, and a detection tool rated a higher-resolution version of the clip as likely AI-generated [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-20",
+     "titel": "Manipulated video falsely linked to conflict in western Myanmar",
+     "url": "https://factcheck.afp.com/doc.afp.com.D7P89NQ",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Fabricated battle footage from Myanmar's civil war, in Rakhine, one of the regions hit hardest by the fighting; fake war video is a recurring pattern."
+  },
+  {
+   "sleutel": "kashmir-crpf-officer-dumper-truck-deepfake",
+   "status": "gepubliceerd",
+   "regio": "zuid-azie",
+   "taal": "en",
+   "landen": [
+    "IN"
+   ],
+   "talen": [
+    "en",
+    "hi"
+   ],
+   "soort": "video",
+   "bewering": "A video shows a senior security official in Kashmir saying the bodies of two killed police officers were moved in a dumper truck because no army vehicles were free.",
+   "rondgang": "The clip was shared on X with an English caption on 16 November 2026 and on Facebook with a Hindi caption on 17 November, after two Special Police Officers were found dead in Kishtwar [1] [3].",
+   "kern": [
+    "The man in the clip is CRPF Special Director General Sandeep Khirwar, and in the original ANI footage he says the families will get justice, with nothing about a truck [1] [2] [3].",
+    "The remarks about the truck were fabricated with AI [1] [2] [3].",
+    "The CRPF said the video was digitally manipulated [2] [3]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "BOOM",
+     "land": "IN",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "Deepfake Shared As J&K CRPF Chief Claiming Slain Officers Moved In Dumper",
+     "url": "https://www.boomlive.in/fact-check/deepfake-shared-as-jk-crpf-chief-claiming-slain-officers-moved-in-dumper-32516",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 2,
+     "redactie": "The Quint WebQoof",
+     "land": "IN",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-18",
+     "titel": "No, CRPF SDG Sandeep Khirwar Didn’t Say SPOs’ Bodies Were Dumped in Trucks",
+     "url": "https://www.thequint.com/news/webqoof/crpf-sdg-sandeep-khirwar-didnt-say-spos-bodies-were-dumped-in-trucks-fact-check",
+     "schaal": "onwaar"
+    },
+    {
+     "nr": 3,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-23",
+     "titel": "AI-altered video distorts Indian official's remarks about killed officers",
+     "url": "https://factcheck.afp.com/doc.afp.com.D7XX9WE",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "Kashmir is claimed by both India and Pakistan; AI deepfakes of security officials are a recurring tactic in that conflict, and three newsrooms checked this one."
+  },
+  {
+   "sleutel": "armenian-parliament-brawl-pakistan-envoy-tehran",
+   "status": "gepubliceerd",
+   "regio": "zuid-azie",
+   "taal": "en",
+   "landen": [
+    "PK",
+    "IR",
+    "AM"
+   ],
+   "talen": [
+    "ur",
+    "ps",
+    "fa"
+   ],
+   "soort": "video",
+   "bewering": "A video shows Pakistan's ambassador to Iran being attacked in Tehran.",
+   "rondgang": "The clip was shared on X with an Urdu caption on 1 November 2026 and spread on X and Facebook in Urdu, Pashto, Dari and Persian, after talks in Tehran with officials from Pakistan, Saudi Arabia and Turkey [1].",
+   "kern": [
+    "The footage shows Armenian lawmakers fighting in a corridor of Armenia's National Assembly, and a former Armenian prime minister posted it on Facebook on 29 October [1].",
+    "Pakistan's embassy in Iran said on 1 November that no attack on the ambassador had taken place [1]."
+   ],
+   "checks": [
+    {
+     "nr": 1,
+     "redactie": "AFP Fact Check",
+     "land": "FR",
+     "taal": "en",
+     "oordeel": "False",
+     "oordeel_en": "False",
+     "datum": "2026-11-19",
+     "titel": "Footage of Armenian parliament brawl misrepresented as attack on Pakistan diplomat",
+     "url": "https://factcheck.afp.com/doc.afp.com.D74W9ZR",
+     "schaal": "onwaar"
+    }
+   ],
+   "post": null,
+   "waarom": "A made-up diplomatic incident between Pakistan and Iran during the Middle East war and the new Saudi-Pakistan-Turkey defence pact, spread in four languages."
+  }
+ ]
+}

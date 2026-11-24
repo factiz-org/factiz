@@ -1,0 +1,86 @@
+---
+// Contextkaarten naast een factcheck (PLAN #34.2an, SPECS E9.S21): hoogstens vier, in de volgorde die het platform geeft
+// (`context` in `/api/<taal>/factcheck/…`). Per kaart één vraag, één beeld, één zin en één link; wat de telling níet
+// zegt, staat eronder. De beelden zijn voor schermlezers verborgen: de zin zegt wat ze tonen. Geen script (B75).
+import { THEMA } from './ThemaTegel.jsx';
+import LijnIcoon from './LijnIcoon.jsx';
+import { kaartje } from '../../lib/kaartje.js';
+import { naarSite } from '../../lib/talen.js';
+import Pijl from './Pijl.astro';
+const { kaarten } = Astro.props;
+const familie = (thema) => THEMA[thema]?.familie ?? '';
+const kort = (jaar) => `’${String(jaar).slice(2)}`;
+
+// een lijn over de jaren met een stip op het jaar van deze factcheck
+function lijntje(jaren) {
+  const w = 220, h = 44, m = Math.max(1, ...jaren.map((j) => j.aantal));
+  const pt = jaren.map((j, i) => [4 + (i * (w - 8)) / Math.max(1, jaren.length - 1), h - 5 - (j.aantal / m) * (h - 12)]);
+  const lijn = pt.map(([x, y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(' ');
+  const plek = jaren.findIndex((j) => j.aan);
+  return { w, h, lijn, vlak: `4,${h - 5} ${lijn} ${w - 4},${h - 5}`, stip: plek >= 0 ? pt[plek] : null };
+}
+const hoogte = (jaren) => { const m = Math.max(1, ...jaren.map((j) => j.aantal)); return (n) => Math.max(6, Math.round((n / m) * 100)); };
+---
+<div class="ck-rij">
+  {kaarten.map((k, i) => {
+    const id = `ck-${k.soort}`;
+    const kaart = k.soort === 'waar' ? kaartje(k.code) : null;
+    const reeks = k.soort === 'wanneer' ? lijntje(k.jaren) : null;
+    const staaf = k.soort === 'dossier' ? hoogte(k.jaren) : null;
+    return (
+      <section class="ck" aria-labelledby={id} data-soort={k.soort} data-familie={familie(k.thema)}>
+        <h2 class="ck-vraag" id={id}>{k.vraag}</h2>
+
+        {k.soort === 'dossier' && (<>
+          <p class="ck-naam">{k.naam}</p>
+          {k.jaren.length > 1 && (
+            <span class="ck-staafjes" dir="ltr" aria-hidden="true">
+              {k.jaren.map((j) => (
+                <span class:list={['ck-staaf', { aan: j.aan }]}><span class="ck-h" style={`height:${staaf(j.aantal)}%`}></span>
+                  {(k.jaren.length <= 8 || j === k.jaren[0] || j === k.jaren.at(-1) || j.aan) && <span class="ck-j">{kort(j.jaar)}</span>}</span>
+              ))}
+            </span>
+          )}
+        </>)}
+
+        {kaart && (
+          <svg class="ck-kaartje" viewBox={kaart.viewBox} preserveAspectRatio="xMidYMid meet" aria-hidden="true" focusable="false">
+            {kaart.paden.map((p) => <path d={p.d} class={p.aan ? 'aan' : 'rest'} />)}
+            {kaart.ring && <circle class="ring" cx={kaart.ring.cx} cy={kaart.ring.cy} r={kaart.ring.r} />}
+          </svg>
+        )}
+
+        {reeks && (<>
+          <span class="ck-reeks" aria-hidden="true">
+            <svg viewBox={`0 0 ${reeks.w} ${reeks.h}`} preserveAspectRatio="none" aria-hidden="true" focusable="false">
+              <polygon points={reeks.vlak} class="vlak" /><polyline points={reeks.lijn} class="lijn" />
+            </svg>
+            {reeks.stip && <span class="ck-stip" style={`left:${((reeks.stip[0] / reeks.w) * 100).toFixed(1)}%;top:${((reeks.stip[1] / reeks.h) * 100).toFixed(1)}%`}></span>}
+          </span>
+          <span class="ck-as" dir="ltr" aria-hidden="true"><span>{k.jaren[0].jaar}</span><span>{k.jaren.at(-1).jaar}</span></span>
+        </>)}
+
+        {k.soort === 'namen' && (
+          <ul class="ck-namen">
+            {k.namen.map((n) => <li><a class="font-medium" href={naarSite(n.href)}>{n.naam}</a> <span>{n.regel}</span></li>)}
+          </ul>
+        )}
+
+        {k.soort === 'kenmerk' && (
+          <ul class="ck-kenmerken">
+            {k.rijen.map((r) => (
+              <li><a href={naarSite(r.href)}><span class="ck-kenmerk"><LijnIcoon wat={r.wat} waarde={r.waarde} />{r.naam}</span>
+                <span class="ck-zin">{r.zin}</span></a></li>
+            ))}
+          </ul>
+        )}
+
+        {k.soort === 'redactie' && <p class="ck-naam">{k.naam}</p>}
+
+        {k.zin && <p class="ck-zin">{k.zin}</p>}
+        {k.noot && <p class="ck-noot">{k.noot}</p>}
+        {k.link && <a class="ck-link" href={naarSite(k.href)}>{k.link} <Pijl /></a>}
+      </section>
+    );
+  })}
+</div>

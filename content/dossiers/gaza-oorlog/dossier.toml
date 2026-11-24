@@ -1,0 +1,307 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5). De PO las het en gaf akkoord op 2026-11-19.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "war"                # uit content/themas.json
+onderdeel = "middle-east"
+verwant = ["iran-oorlog"]
+
+[naam]
+nl = "De oorlog in Gaza: wat er sinds 7 oktober 2023 rondging"
+en = "The war in Gaza: what has circulated since 7 October 2023"
+de = "Der Krieg in Gaza: was seit dem 7. Oktober 2023 kursiert"
+es = "La guerra en Gaza: lo que circula desde el 7 de octubre de 2023"
+fr = "La guerre à Gaza : ce qui circule depuis le 7 octobre 2023"
+
+[inleiding]
+nl = """
+Sinds de aanval van Hamas op Israël op 7 oktober 2023 en de oorlog in Gaza die volgde, gaan er over die oorlog veel
+berichten rond die factcheckers hebben nagetrokken. Ze gaan over de aanval en de gijzelaars, over aanvallen op
+ziekenhuizen en scholen, over het aantal doden, over hulp en honger, over de bestanden en de vloten naar Gaza, en over
+wat leiders en bekende mensen zeiden. Vaak zijn het oude beelden of beelden van elders die als nieuw worden gedeeld, of
+beweringen dat beelden van slachtoffers in scène zijn gezet. Ook protesten en boycots in Europa, de Verenigde Staten en
+elders gaan rond in een andere vorm dan ze hadden. Dit dossier zet die factchecks op een tijdlijn, naast besluiten van
+het Internationaal Gerechtshof, het Strafhof en de VN en onderzoek naar de doden en de honger. Twee checks maakte de
+eigen redactie van Factiz, over beelden uit Amsterdam die rondgingen als protest over Gaza. Elke factcheck zegt wie hem
+maakte en wat die vond. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig. De
+aanvallen tussen Iran en Israël hebben een eigen dossier."""
+en = """
+Since the Hamas attack on Israel of 7 October 2023 and the war in Gaza that followed, many messages about this war
+have circulated that fact-checkers looked into. They concern the attack and the hostages, strikes on hospitals and
+schools, the number of dead, aid and hunger, the ceasefires and the flotillas to Gaza, and what leaders and well-known
+people said. Often they are old images or images from elsewhere shared as new, or claims that images of victims were
+staged. Protests and boycotts in Europe, the United States and elsewhere also circulate in a form they did not have.
+This dossier puts those fact-checks on a timeline, next to decisions of the International Court of Justice, the
+International Criminal Court and the UN, and research on the dead and on hunger. Two checks were made by Factiz's own
+desk, about images from Amsterdam that circulated as a protest about Gaza. Each fact-check says who made it and what
+they found. The list holds only fact-checks we may republish, so it is not complete. The attacks between Iran and
+Israel have a dossier of their own."""
+de = """
+Seit dem Angriff der Hamas auf Israel am 7. Oktober 2023 und dem Krieg in Gaza, der darauf folgte, kursieren über
+diesen Krieg viele Meldungen, die Faktenchecker überprüft haben. Sie handeln vom Angriff und den Geiseln, von Angriffen
+auf Krankenhäuser und Schulen, von der Zahl der Toten, von Hilfe und Hunger, von den Waffenruhen und den Flottillen nach
+Gaza und davon, was Politiker und bekannte Menschen sagten. Oft sind es alte Bilder oder Bilder von anderswo, die als
+neu geteilt werden, oder Behauptungen, Bilder von Opfern seien inszeniert. Auch Proteste und Boykotte in Europa, den
+USA und anderswo kursieren in einer anderen Form, als sie hatten. Dieses Dossier ordnet diese Faktenchecks auf einer
+Zeitleiste, neben Entscheidungen des Internationalen Gerichtshofs, des Strafgerichtshofs und der UN und Forschung zu
+den Toten und zum Hunger. Zwei Checks stammen von der eigenen Redaktion von Factiz, über Bilder aus Amsterdam, die als
+Protest zu Gaza kursierten. Jeder Faktencheck sagt, wer ihn gemacht hat und was er ergab. Die Liste enthält nur
+Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig. Die Angriffe zwischen Iran und Israel haben
+ein eigenes Dossier."""
+es = """
+Desde el ataque de Hamás contra Israel del 7 de octubre de 2023 y la guerra en Gaza que siguió, circulan sobre esa
+guerra muchos mensajes que los verificadores han comprobado. Tratan del ataque y los rehenes, de ataques a hospitales y
+escuelas, del número de muertos, de la ayuda y el hambre, de los altos el fuego y las flotillas a Gaza, y de lo que
+dijeron dirigentes y personas conocidas. A menudo son imágenes antiguas o de otros lugares compartidas como nuevas, o
+afirmaciones de que las imágenes de víctimas fueron escenificadas. También protestas y boicots en Europa, Estados
+Unidos y otros lugares circulan con una forma que no tenían. Este dosier ordena esas verificaciones en una cronología,
+junto a decisiones de la Corte Internacional de Justicia, la Corte Penal Internacional y la ONU, e investigaciones sobre
+los muertos y el hambre. Dos verificaciones las hizo la redacción propia de Factiz, sobre imágenes de Ámsterdam que
+circularon como una protesta por Gaza. Cada verificación dice quién la hizo y qué encontró. La lista solo contiene
+verificaciones que podemos reproducir, así que no está completa. Los ataques entre Irán e Israel tienen su propio
+dosier."""
+fr = """
+Depuis l’attaque du Hamas contre Israël le 7 octobre 2023 et la guerre à Gaza qui a suivi, circulent sur cette guerre
+de nombreux messages examinés par des vérificateurs. Ils portent sur l’attaque et les otages, les frappes sur
+des hôpitaux et des écoles, le nombre de morts, l’aide et la faim, les cessez-le-feu et les flottilles vers Gaza, et ce
+qu’ont dit des dirigeants et des personnalités. Ce sont souvent des images anciennes ou d’ailleurs partagées
+comme nouvelles, ou l’affirmation que des images de victimes sont mises en scène. Des manifestations et des boycotts
+en Europe, aux États-Unis et ailleurs circulent aussi sous une forme qu’ils n’avaient pas. Ce dossier les place sur une
+chronologie, à côté de décisions de la Cour internationale de justice, de la Cour pénale internationale et de l’ONU,
+et de recherches sur les morts et la faim. Deux vérifications sont de la rédaction de
+Factiz, sur des images d’Amsterdam présentées comme une manifestation pour Gaza. Chaque vérification dit qui l’a faite
+et ce qu’elle a trouvé. La liste ne contient que des vérifications que nous pouvons reprendre et n’est donc pas
+complète. Les attaques entre l’Iran et Israël ont leur propre dossier."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: besluiten, onderzoek en pers over de oorlog, elk door Claude geopend en gelezen
+# (WebFetch, 2026-11-19).
+
+[[item]]
+soort = "pers"
+datum = "2023-10-07"
+bron = "UN News"
+url = "https://news.un.org/en/story/2023/10/1142037"
+[item.titel]
+nl = "Hamas valt op 7 oktober Israëlische plaatsen aan en vuurt raketten af, de secretaris-generaal van de VN veroordeelt de aanval, en Israël antwoordt met luchtaanvallen op Gaza"
+en = "Hamas attacks Israeli towns and fires rockets into Israel on 7 October, the UN Secretary-General condemns the attack, and Israel responds with airstrikes on Gaza"
+de = "Die Hamas greift am 7. Oktober israelische Orte an und feuert Raketen ab, der UN-Generalsekretär verurteilt den Angriff, und Israel antwortet mit Luftangriffen auf Gaza"
+es = "Hamás ataca localidades israelíes y lanza cohetes contra Israel el 7 de octubre, el secretario general de la ONU condena el ataque e Israel responde con bombardeos sobre Gaza"
+fr = "Le Hamas attaque des localités israéliennes et tire des roquettes sur Israël le 7 octobre, le secrétaire général de l’ONU condamne l’attaque, et Israël riposte par des frappes sur Gaza"
+
+[[item]]
+soort = "pers"
+datum = "2023-11-24"
+bron = "UN News"
+url = "https://news.un.org/en/story/2023/11/1143957"
+[item.titel]
+nl = "Een tijdelijk bestand tussen Israël en Hamas gaat in, 24 gijzelaars en 39 Palestijnse gevangenen komen vrij, en het grootste hulpkonvooi sinds 7 oktober bereikt Gaza"
+en = "A temporary truce between Israel and Hamas begins, 24 hostages and 39 Palestinian prisoners are released, and the largest aid convoy since 7 October reaches Gaza"
+de = "Eine vorübergehende Feuerpause zwischen Israel und der Hamas beginnt, 24 Geiseln und 39 palästinensische Gefangene kommen frei, und der größte Hilfskonvoi seit dem 7. Oktober erreicht Gaza"
+es = "Comienza una tregua temporal entre Israel y Hamás, quedan en libertad 24 rehenes y 39 presos palestinos, y el mayor convoy de ayuda desde el 7 de octubre llega a Gaza"
+fr = "Une trêve temporaire entre Israël et le Hamas commence, 24 otages et 39 prisonniers palestiniens sont libérés, et le plus grand convoi d’aide depuis le 7 octobre arrive à Gaza"
+
+[[item]]
+soort = "onderzoek"
+datum = "2023-11-26"
+bron = "Human Rights Watch"
+url = "https://www.hrw.org/news/2023/11/26/gaza-findings-october-17-al-ahli-hospital-explosion"
+[item.titel]
+nl = "Human Rights Watch vindt dat de explosie bij het al-Ahli-ziekenhuis op 17 oktober wijst op een raket zoals Palestijnse gewapende groepen gebruiken, en vraagt onderzoek naar wie hem afvuurde"
+en = "Human Rights Watch finds that the al-Ahli hospital explosion of 17 October points to a rocket of a kind Palestinian armed groups use, and calls for an inquiry into who fired it"
+de = "Laut Human Rights Watch deutet die Explosion am al-Ahli-Krankenhaus am 17. Oktober auf eine Rakete, wie palästinensische bewaffnete Gruppen sie nutzen, und wer sie abfeuerte, muss geklärt werden"
+es = "Human Rights Watch concluye que la explosión en el hospital al-Ahli del 17 de octubre apunta a un cohete del tipo que usan los grupos armados palestinos y pide investigar quién lo disparó"
+fr = "Human Rights Watch conclut que l’explosion à l’hôpital al-Ahli le 17 octobre indique une roquette du type utilisé par les groupes armés palestiniens et demande une enquête sur qui l’a tirée"
+
+[[item]]
+soort = "besluit"
+datum = "2024-01-26"
+bron = "Internationaal Gerechtshof"
+url = "https://www.icj-cij.org/case/192"
+[item.titel]
+nl = "Het Internationaal Gerechtshof legt Israël voorlopige maatregelen op in de zaak van Zuid-Afrika over het Genocideverdrag en Gaza"
+en = "The International Court of Justice orders provisional measures against Israel in South Africa's case on the Genocide Convention and Gaza"
+de = "Der Internationale Gerichtshof ordnet im Verfahren Südafrikas zur Völkermordkonvention und zu Gaza vorläufige Maßnahmen gegen Israel an"
+es = "La Corte Internacional de Justicia dicta medidas provisionales contra Israel en el caso de Sudáfrica sobre la Convención contra el Genocidio y Gaza"
+fr = "La Cour internationale de justice ordonne des mesures conservatoires contre Israël dans l’affaire de l’Afrique du Sud sur la Convention sur le génocide et Gaza"
+
+[[item]]
+soort = "pers"
+datum = "2024-05-07"
+bron = "UN News"
+url = "https://news.un.org/en/story/2024/05/1149466"
+[item.titel]
+nl = "Israëlische troepen nemen de grensovergang bij Rafah in, evacuatiebevelen verdrijven tienduizenden mensen in Rafah, en volgens de VN komt er geen hulp of brandstof meer Gaza binnen"
+en = "Israeli forces seize the Rafah crossing, evacuation orders uproot tens of thousands of people in Rafah, and the UN says no aid or fuel is entering Gaza"
+de = "Israelische Truppen besetzen den Grenzübergang Rafah, Evakuierungsbefehle vertreiben Zehntausende Menschen in Rafah, und laut der UN gelangen weder Hilfe noch Treibstoff nach Gaza"
+es = "Las fuerzas israelíes toman el paso fronterizo de Rafah, las órdenes de evacuación desplazan a decenas de miles de personas en Rafah y la ONU dice que no entra ayuda ni combustible en Gaza"
+fr = "Les forces israéliennes prennent le point de passage de Rafah, des ordres d’évacuation déplacent des dizaines de milliers de personnes à Rafah, et l’ONU dit que ni aide ni carburant n’entre à Gaza"
+
+[[item]]
+soort = "onderzoek"
+datum = "2024-07-17"
+bron = "Human Rights Watch"
+url = "https://www.hrw.org/report/2024/07/17/i-cant-erase-all-blood-my-mind/palestinian-armed-groups-october-7-assault-israel"
+[item.titel]
+nl = "Human Rights Watch concludeert dat Hamas en andere gewapende groepen op 7 oktober oorlogsmisdaden pleegden, waaronder moord en gijzeling"
+en = "Human Rights Watch concludes that Hamas and other armed groups committed war crimes on 7 October, including murder and hostage-taking"
+de = "Human Rights Watch kommt zu dem Schluss, dass die Hamas und andere bewaffnete Gruppen am 7. Oktober Kriegsverbrechen begingen, darunter Mord und Geiselnahme"
+es = "Human Rights Watch concluye que Hamás y otros grupos armados cometieron crímenes de guerra el 7 de octubre, entre ellos asesinatos y toma de rehenes"
+fr = "Human Rights Watch conclut que le Hamas et d’autres groupes armés ont commis des crimes de guerre le 7 octobre, dont des meurtres et des prises d’otages"
+
+[[item]]
+soort = "pers"
+datum = "2024-10-18"
+bron = "Al Jazeera"
+url = "https://www.aljazeera.com/news/2024/10/18/hamas-confirms-leader-yahya-sinwar-killed-in-combat-in-gaza-by-israeli-army"
+[item.titel]
+nl = "Hamas bevestigt dat zijn leider Yahya Sinwar in Rafah is gedood bij een gevecht met het Israëlische leger, dat zijn dood een dag eerder had gemeld"
+en = "Hamas confirms that its leader Yahya Sinwar was killed in Rafah in combat with the Israeli army, which had announced his death the day before"
+de = "Die Hamas bestätigt, dass ihr Anführer Jahja Sinwar in Rafah bei einem Gefecht mit der israelischen Armee getötet wurde, die seinen Tod am Vortag gemeldet hatte"
+es = "Hamás confirma que su líder Yahya Sinwar murió en Rafah en combate con el ejército israelí, que había anunciado su muerte el día anterior"
+fr = "Le Hamas confirme que son chef Yahya Sinwar a été tué à Rafah lors de combats avec l’armée israélienne, qui avait annoncé sa mort la veille"
+
+[[item]]
+soort = "besluit"
+datum = "2024-11-21"
+bron = "UN News"
+url = "https://news.un.org/en/story/2024/11/1157286"
+[item.titel]
+nl = "Het Internationaal Strafhof vaardigt arrestatiebevelen uit tegen Netanyahu, Gallant en Hamas-commandant Mohammed Deif"
+en = "The International Criminal Court issues arrest warrants for Netanyahu, Gallant and Hamas commander Mohammed Deif"
+de = "Der Internationale Strafgerichtshof erlässt Haftbefehle gegen Netanjahu, Gallant und den Hamas-Kommandeur Mohammed Deif"
+es = "La Corte Penal Internacional emite órdenes de detención contra Netanyahu, Gallant y el comandante de Hamás Mohammed Deif"
+fr = "La Cour pénale internationale émet des mandats d’arrêt contre Netanyahou, Gallant et le commandant du Hamas Mohammed Deif"
+
+[[item]]
+soort = "onderzoek"
+datum = "2025-01-09"
+bron = "The Lancet"
+url = "https://researchonline.lshtm.ac.uk/4674812"
+[item.titel]
+nl = "Een studie in The Lancet schat het aantal doden door geweld in Gaza tussen oktober 2023 en eind juni 2024 op ongeveer 64.000, meer dan het ministerie van Gezondheid in Gaza telde"
+en = "A study in The Lancet estimates deaths from traumatic injury in Gaza between October 2023 and the end of June 2024 at about 64,000, more than Gaza's Ministry of Health counted"
+de = "Eine Studie in The Lancet schätzt die Zahl der Gewalttoten in Gaza zwischen Oktober 2023 und Ende Juni 2024 auf etwa 64.000, mehr als das Gesundheitsministerium in Gaza zählte"
+es = "Un estudio en The Lancet calcula en unas 64.000 las muertes por lesiones traumáticas en Gaza entre octubre de 2023 y junio de 2024, más de las que contó el Ministerio de Salud de Gaza"
+fr = "Une étude parue dans The Lancet estime à environ 64 000 les morts par traumatisme à Gaza entre octobre 2023 et fin juin 2024, plus que n’en a compté le ministère de la Santé de Gaza"
+
+[[item]]
+soort = "pers"
+datum = "2025-01-19"
+bron = "UN News"
+url = "https://news.un.org/en/story/2025/01/1159171"
+[item.titel]
+nl = "Het bestand in Gaza gaat in, drie Israëlische gijzelaars worden via het Rode Kruis overgedragen, en volgens de VN rijden meer dan 630 vrachtwagens met hulp Gaza binnen"
+en = "The ceasefire in Gaza takes effect, three Israeli hostages are handed over through the Red Cross, and the UN says more than 630 aid trucks enter Gaza"
+de = "Die Waffenruhe in Gaza tritt in Kraft, drei israelische Geiseln werden über das Rote Kreuz übergeben, und laut der UN fahren mehr als 630 Lastwagen mit Hilfsgütern nach Gaza"
+es = "Entra en vigor el alto el fuego en Gaza, tres rehenes israelíes son entregados a través de la Cruz Roja y, según la ONU, más de 630 camiones de ayuda entran en Gaza"
+fr = "Le cessez-le-feu entre en vigueur à Gaza, trois otages israéliens sont remis par l’intermédiaire de la Croix-Rouge, et l’ONU indique que plus de 630 camions d’aide entrent à Gaza"
+
+[[item]]
+soort = "pers"
+datum = "2025-05-27"
+bron = "UN News"
+url = "https://news.un.org/en/story/2025/05/1163756"
+[item.titel]
+nl = "Een hulppost in Rafah van de door de VS en Israël gesteunde Gaza Humanitarian Foundation werkt buiten de VN om, en volgens de VN raken minstens 47 mensen gewond bij het halen van hulp"
+en = "An aid site in Rafah of the US- and Israeli-backed Gaza Humanitarian Foundation operates outside the UN, and the UN says at least 47 people are hurt trying to collect aid"
+de = "Eine Ausgabestelle der von den USA und Israel unterstützten Gaza Humanitarian Foundation in Rafah arbeitet ohne die UN, und laut der UN werden dort mindestens 47 Menschen verletzt"
+es = "Un punto de reparto en Rafah de la Gaza Humanitarian Foundation, respaldada por EE. UU. e Israel, opera al margen de la ONU, y según la ONU al menos 47 personas resultan heridas allí"
+fr = "Un site d’aide à Rafah de la Gaza Humanitarian Foundation, soutenue par les États-Unis et Israël, opère hors de l’ONU, et selon l’ONU au moins 47 personnes y sont blessées"
+
+[[item]]
+soort = "rapport"
+datum = "2025-08-22"
+bron = "FAO, UNICEF, WFP en WHO"
+url = "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"
+[item.titel]
+nl = "Vier VN-organisaties melden dat voor het eerst hongersnood in Gaza is vastgesteld, in het gouvernement Gaza"
+en = "Four UN agencies report that famine has been confirmed in Gaza for the first time, in Gaza Governorate"
+de = "Vier UN-Organisationen melden, dass erstmals eine Hungersnot in Gaza festgestellt wurde, im Gouvernement Gaza"
+es = "Cuatro agencias de la ONU informan de que por primera vez se ha confirmado la hambruna en Gaza, en la gobernación de Gaza"
+fr = "Quatre agences de l’ONU annoncent qu’une famine est confirmée pour la première fois à Gaza, dans le gouvernorat de Gaza"
+
+[[item]]
+soort = "pers"
+datum = "2025-10-01"
+bron = "Al Jazeera"
+url = "https://www.aljazeera.com/news/2025/10/1/israel-intercepts-gaza-sumud-flotilla-vessels-what-we-know-so-far"
+[item.titel]
+nl = "Israël onderschept de Global Sumud Flotilla, meer dan veertig boten met ongeveer 500 activisten uit 37 landen en een kleine hoeveelheid hulp, en brengt de opvarenden naar Israël"
+en = "Israel intercepts the Global Sumud Flotilla, more than 40 boats carrying about 500 activists from 37 countries and a symbolic amount of aid, and takes those on board to Israel"
+de = "Israel fängt die Global Sumud Flotilla ab, mehr als 40 Boote mit etwa 500 Aktivisten aus 37 Ländern und einer symbolischen Menge Hilfsgüter, und bringt die Menschen an Bord nach Israel"
+es = "Israel intercepta la Global Sumud Flotilla, más de 40 barcos con unos 500 activistas de 37 países y una cantidad simbólica de ayuda, y lleva a quienes iban a bordo a Israel"
+fr = "Israël intercepte la Global Sumud Flotilla, plus de 40 bateaux avec environ 500 militants de 37 pays et une quantité symbolique d’aide, et emmène les personnes à bord en Israël"
+
+[[item]]
+soort = "pers"
+datum = "2025-10-13"
+bron = "UN News"
+url = "https://news.un.org/en/story/2025/10/1166084"
+[item.titel]
+nl = "Alle levende gijzelaars komen vrij onder het akkoord dat in Egypte werd gesloten, en de hulp aan Gaza wordt opgeschaald"
+en = "All living hostages are released under the agreement reached in Egypt, and aid to Gaza is scaled up"
+de = "Alle lebenden Geiseln kommen im Rahmen der in Ägypten geschlossenen Vereinbarung frei, und die Hilfe für Gaza wird ausgeweitet"
+es = "Todos los rehenes vivos son liberados en virtud del acuerdo alcanzado en Egipto, y se amplía la ayuda a Gaza"
+fr = "Tous les otages vivants sont libérés dans le cadre de l’accord conclu en Égypte, et l’aide à Gaza est renforcée"
+
+[[item]]
+soort = "besluit"
+datum = "2025-11-17"
+bron = "UN News"
+url = "https://news.un.org/en/story/2025/11/1166391"
+[item.titel]
+nl = "De VN-Veiligheidsraad steunt het Amerikaanse vredesplan voor Gaza en geeft toestemming voor een tijdelijke internationale troepenmacht"
+en = "The UN Security Council endorses the US peace plan for Gaza and authorises a temporary international force"
+de = "Der UN-Sicherheitsrat unterstützt den US-Friedensplan für Gaza und genehmigt eine vorübergehende internationale Truppe"
+es = "El Consejo de Seguridad de la ONU respalda el plan de paz de Estados Unidos para Gaza y autoriza una fuerza internacional temporal"
+fr = "Le Conseil de sécurité de l’ONU approuve le plan de paix américain pour Gaza et autorise une force internationale temporaire"
+
+[[item]]
+soort = "besluit"
+datum = "2026-01-22"
+bron = "Al Jazeera"
+url = "https://www.aljazeera.com/news/2026/1/22/trump-launches-board-of-peace-at-ceremony-in-davos"
+[item.titel]
+nl = "Trump richt in Davos de Board of Peace op, bedacht om toe te zien op de wederopbouw van Gaza, met een handvest van elf pagina's dat Gaza niet noemt"
+en = "Trump launches the Board of Peace in Davos, conceived to oversee the rebuilding of Gaza, with an eleven-page charter that does not mention Gaza"
+de = "Trump gründet in Davos den Friedensrat, der den Wiederaufbau Gazas überwachen sollte, mit einer elfseitigen Charta, in der Gaza nicht vorkommt"
+es = "Trump lanza en Davos la Junta de Paz, concebida para supervisar la reconstrucción de Gaza, con una carta de once páginas que no menciona Gaza"
+fr = "Trump lance à Davos le Conseil de paix, conçu pour superviser la reconstruction de Gaza, avec une charte de onze pages qui ne mentionne pas Gaza"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "gaza", "gazze", "gazastrook", "gazastreifen", "غزة", "غزه", "غزہ", "сектор газа", "गाज़ा", "गाजा", "காசா", "গাজা",
+  "గాజా", "ഗാസ", "ಗಾಜಾ", "加沙", "加薩", "ガザ", "עזה", "rafah", "رفح", "khan younis", "khan yunis", "jabalia",
+  "hamas", "حماس", "хамас", "हमास", "ஹமாஸ்", "হামাস", "哈马斯", "哈瑪斯", "ハマス", "חמאס", "sinwar", "haniyeh",
+  "al-qassam", "القسام", "طوفان الأقصى",
+  "israel", "israël", "israil", "izrael", "israele", "إسرائيل", "اسرائيل", "اسرائیل", "израил", "इज़राइल", "इजराइल",
+  "இஸ்ரேல்", "ইসরায়েল", "ఇజ్రాయెల్", "ഇസ്രായേൽ", "以色列", "イスラエル", "ישראל", "netanyahu", "netanjahu",
+  "netanyahou", "نتنياهو", "نتانیاهو", "нетаньяху", "नेतन्याहू", "idf", "tsahal",
+  "palestin", "paläst", "palestyn", "filistin", "فلسطين", "فلسطین", "палестин", "फिलिस्तीन", "फ़िलिस्तीन", "巴勒斯坦",
+  "パレスチナ",
+  "flotilla", "flottille", "sumud", "unrwa", "kibbutz", "7 october", "october 7", "7 oktober", "7 octobre",
+  "7 de octubre", "rode lijn", "keffiyeh", "kufiya",
+]
+omschrijving = """
+Claims about the war in Gaza that began with the Hamas attack on Israel of 7 October 2023: the attack itself, its
+victims and the hostages; Israel's military campaign in Gaza and strikes on hospitals, schools, camps and aid workers;
+the number of dead and wounded; humanitarian aid, hunger and famine, UNRWA and the aid distribution points of the Gaza
+Humanitarian Foundation; the ceasefires and the release of hostages and prisoners; the flotillas sailing to Gaza; the
+cases at the International Court of Justice and the International Criminal Court about Gaza; what leaders, armies and
+celebrities said or did about this war; and protests, demonstrations, boycotts and vandalism about Gaza in Europe, the
+United States and elsewhere. Images or videos presented as showing this war or such a protest belong here, also when
+they are old or from somewhere else. It does not include: direct attacks between Iran and Israel or the United States
+(another dossier); claims that blame migrants in Europe for violence or crime (another dossier); Lebanon, Hezbollah,
+Yemen, the Houthis and Syria, unless the claim is about Gaza itself; and claims about Israel or Palestinians that are
+not about this war."""

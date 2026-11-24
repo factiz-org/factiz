@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck army-cadets-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "610f12eb8fc652ca",
+ "veldafdrukken": {
+  "kop": "981c7653097d8efb",
+  "oordeel_zin": "515871080d5eac60",
+  "bewering": "8b1304f42967ca1c",
+  "kort": "7f86ed5ec1c5030f",
+  "tekst": "56457584bd7bc04e",
+  "niet_weten": "549459f8f8ab8e86",
+  "bereik": "9be15c70e4bf9915",
+  "nog_uitzoeken": "430f1263b12fe863",
+  "tijdlijn": "8cfdb758e3d6cc9e",
+  "beeld_bijschrift": "1617bb751dd34fba",
+  "beeld_alt": "f1e7ab436a8a5ac2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video pawai di Whitehall menunjukkan kadet tentara remaja pada Remembrance Sunday, bukan tentara Inggris",
+  "oordeel_zin": "Klip pertama menunjukkan relawan Army Cadet Force dalam march past Remembrance Sunday di Whitehall, anak-anak muda yang bukan bagian dari angkatan bersenjata, bukan tentara Inggris [3] [4] [5].",
+  "bewering": "Bandingkan cara berbaris Inggris dan Rusia. 3 klip pertama berasal dari Inggris. Memalukan!",
+  "kort": "Sejak 14 November, unggahan di X menampilkan barisan berseragam loreng yang berbaris tidak serempak di London [2]. Pada 15 November, sebuah akun menyandingkan klip itu dengan tentara Rusia di Lapangan Merah sebagai contoh cara berbaris Inggris [1]. Mereka yang berbaris adalah kadet, biasanya berusia 12 hingga 18 tahun dan bukan bagian dari angkatan bersenjata, dalam march past di Whitehall pada Remembrance Sunday, 8 November 2026 [3] [5]. Kami mengetahuinya dari monumen yang mereka lewati dan foto kelompok yang sama oleh Suffolk Army Cadet Force [4] [8].",
+  "tekst": "Pada Minggu, 15 November 2026, akun Alternative News mengunggah video di X dengan teks \"Bandingkan cara berbaris Inggris dan Rusia. 3 klip pertama berasal dari Inggris.\" [1]. Bagian video lainnya menampilkan pasukan Rusia di Lapangan Merah, Moskow [1]. Klip pertama sudah beredar sehari sebelumnya, ketika akun RadioGenoa mengunggahnya dengan keterangan \"Kadet Angkatan Darat Inggris di London tampaknya tidak begitu serempak.\" [2]. Dalam perbandingan dengan Rusia, kata kadet tidak lagi ada [1].\n\nKlip itu direkam di Whitehall. Barisan tersebut melewati Monument to the Women of World War II, yang berdiri di tengah Whitehall [2] [8]. Seorang kadet di barisan depan membawa karangan bunga poppy [2]. Pada Minggu, 8 November, National Service of Remembrance diadakan di Cenotaph di Whitehall [6]. Personel yang sedang bertugas tidak berhak ikut dalam march past Cenotaph [7].\n\nSalah satu kelompok yang berbaris adalah kontingen Suffolk Army Cadet Force dan Combined Cadet Force dari Westbourne Academy [3]. Sebuah foto di galeri Suffolk ACF menunjukkan kontingen itu di Whitehall dengan susunan yang sama seperti di video: seorang dewasa bermedali di depan kiri, dan di depan kanan seorang kadet membawa karangan bunga Army Cadet Force [4]. Kami menilai video tersebut menunjukkan kelompok ini. Pemeriksa fakta Spanyol, Maldita, membandingkan video itu dengan galeri yang sama pada 16 November dan sampai pada kesimpulan yang sama [13].\n\nMenurut Kementerian Pertahanan, yang mensponsori kedua pasukan kadet tersebut, kadet biasanya berusia 12 hingga 18 tahun dan bukan bagian dari angkatan bersenjata [5].",
+  "niet_weten": "Kami tidak tahu siapa yang merekam video di Whitehall atau di mana video itu pertama kali diunggah. Kami mencocokkan kelompok tersebut berdasarkan susunan barisan dan karangan bunganya, bukan berdasarkan wajah. Kami tidak dapat mengidentifikasi klip Inggris kedua dan ketiga dalam kompilasi itu [1].",
+  "bereik": "2.612 suka dan 308 balasan per 22 November; unggahan pertama dengan klip Whitehall, tertanggal 14 November, mendapat 9.494 suka dan 1.355 balasan",
+  "nog_uitzoeken": [
+   "Siapa yang merekam video di Whitehall pada 8 November, dan di mana video itu pertama kali diunggah.",
+   "Siapa anak-anak muda berseragam hitam dengan selempang merah di klip kedua dalam kompilasi itu, serta di mana dan kapan klip ketiga direkam.",
+   "Apakah video kedua dari RadioGenoa direkam di Royal Courts of Justice saat Lord Mayor's Show pada 14 November 2026, dan kadet mana yang berbaris di dalamnya.",
+   "Kami menimbang antara Menyesatkan dan Kurang konteks. RadioGenoa masih menyebut para peserta sebagai kadet, tetapi unggahan dengan tentara Rusia menyajikan klip-klip itu sebagai cara berbaris Inggris tanpa menyebutkan siapa yang berbaris. Jika Anda tahu lebih banyak tentang salah satu klip tersebut, silakan beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Suffolk Army Cadet Force tiba di London dan berlatih dalam barisan beranggotakan enam orang [3].",
+   "Hening dua menit pada National Service of Remembrance di Cenotaph [6].",
+   "Suffolk ACF dan Westbourne Academy CCF berbaris di Whitehall [3] [4].",
+   "Suffolk ACF menerbitkan laporan dan foto-foto akhir pekan itu [3] [4].",
+   "RadioGenoa mengunggah video dari Whitehall sebagai kadet Angkatan Darat Inggris [2].",
+   "Mario Nawfal mengunggah ulang video itu sebagai masa depan prajurit Inggris [9].",
+   "Arak-arakan Lord Mayor's Show menuju Royal Courts of Justice [12].",
+   "Alternative News mengunggah klip itu bersanding dengan tentara Rusia di Lapangan Merah [1].",
+   "Maldita: mereka yang berbaris di Inggris adalah relawan Army Cadet Force [13].",
+   "RadioGenoa mengunggah video kedua berisi kadet di London [10].",
+   "Akun lain membagikan video kedua tersebut [11]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 15 November 2026, pukul 11.42 waktu Inggris.",
+   "Suffolk Army Cadet Force di armycadets.com, 11 November 2026: galeri akhir pekan mereka di London, dengan kontingennya berbaris di Whitehall pada Remembrance Sunday."
+  ],
+  "beeld_alt": [
+   "Unggahan di X oleh Alternative News yang membandingkan cara berbaris Inggris dan Rusia, dengan tangkapan layar dari video di Whitehall, London: seorang pria berseragam angkatan laut di depan, barisan kadet berseragam loreng di belakangnya, seorang polisi dan penonton di tepi jalan. Cap: MENYESATKAN.",
+   "Foto oleh Suffolk Army Cadet Force tentang kontingennya yang berbaris di Whitehall pada 8 November 2026, seorang dewasa bermedali di depan dan seorang kadet membawa karangan bunga Army Cadet Force."
+  ]
+ }
+}

@@ -1,0 +1,1214 @@
+{
+ "toelichting": "#34.2j: de leesproef van 'Waarom het niet klopt', eigen werk. Per pagina van Factiz (een nummer uit de publicatiedatabase) een label per punt: gedragen, zwak of niet_gedragen, met een korte noot in het Nederlands; gelezen door Claude op 12 november 2026, tegen de weerlegging van EUvsDisinfo, met de maatstaf hieronder, vóór het lezen vastgelegd. De punten zelf schreef Sonnet uit die weerleggingen; ze staan niet in dit bestand, alleen een paar woorden ervan in de noten. Herkomst van de weerleggingen: EUvsDisinfo (EEAS), de Mendeley-snapshot onder CC BY 4.0. De leesproef hoort bij regels-v1 (zie 'regels').",
+ "versie": "waarom-v3",
+ "model": "sonnet",
+ "regels": "regels-v1",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-12",
+ "steekproef": "200 pagina's met punten, zaad 34211 (ZAAD+1), getrokken met lezen --n 200",
+ "maatstaf": {
+  "gedragen": "de weerlegging zegt alles in het punt, schrijft het toe aan dezelfde persoon of instantie, en het is een reden tegen de bewering; een gevolgtrekking die rechtstreeks uit het citaat volgt, mag",
+  "niet_gedragen": "iets wat er niet staat, een verschoven of toegevoegde toeschrijving, een weggelaten voorbehoud dat de betekenis verandert, een eigen gevolgtrekking die er niet uit volgt, of een feit dat leest als toegeving aan de bewering; twijfel telt streng",
+  "zwak": "het klopt maar legt weinig uit: elk 'The claim offers no evidence'-punt, 'terugkerend verhaal', 'ongegrond' of 'samenzwering', achtergrond zonder reden, en een punt dat de context mist om iets te zeggen"
+ },
+ "paginas": {
+  "16df53c9ad4a2060": {
+   "punten": [
+    "niet_gedragen"
+   ],
+   "noot": "[0] schrijft ook 'no wish to start a war' toe aan de Hoge Vertegenwoordiger; de weerlegging koppelt de HV alleen aan de eerste zin, de tweede zegt EUvsDisinfo zelf (toeschrijving)"
+  },
+  "63d6336a07fa9e20": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'samenzwering zonder bewijs'"
+  },
+  "317fecd123a9133b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "aa753811f2d5e436": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "34a92007f808ad18": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "e5475f9737db24f0": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "beide alleen 'ongegrond' en 'terugkerend verhaal'"
+  },
+  "19fe4fb30a0fc94e": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "30dc9dcdede36d48": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f2aae70772e5da5f": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d60abd8098d6e51d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "e700dbb7f3293a71": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] alleen het terugkerende verhaal"
+  },
+  "84783c95a3f474a1": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "[0] laat weg dat de verwijderde accounts uit Rusland kwamen, en juist dat maakt het een reden"
+  },
+  "ea9070ba0265f66a": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0d3944c5c3a0433e": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8874aa4f53c0f59d": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'geen bewijs'"
+  },
+  "8dc8815e78a59432": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "13a07a27fed733f5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "e7b72efa44cf52d6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a5c9562a8e2cdd80": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "14c7e8f47676d712": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d05414f8e07c601d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "89dd57c2bb55435c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "ad4f02d96d48de5e": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "6ed51ed406498d3d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0aa8d240b4d76479": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] zonder dat Sovaldi een middel tegen hepatitis C is, zegt het de lezer niets"
+  },
+  "f790dbb5d27f4d9c": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d32cb1784fc336ec": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "58d28326f3358b22": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9f5fa766667f07e5": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9287927f33e82519": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "het citaat zegt 'suggests', maar het rapport zegt in dezelfde aanhaling 'This international armed conflict began'"
+  },
+  "ef9e80ea00a5a0e8": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "81af34768cdce853": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'geen bewijs'; [1] 'so the trial did not lack witnesses' is een gevolgtrekking, maar volgt rechtstreeks uit 27 getuigen"
+  },
+  "c9b02fb638b46d5c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "adf160dbec8b2be8": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "a5190304541ced85": {
+   "punten": [
+    "niet_gedragen",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'in fact the then-president Viktor Yanukovych was toppled' maakt van een tijdsaanduiding in de weerlegging ('when') een tegenwerping, en leest als toegeving aan 'coup'"
+  },
+  "450e5efb0c633d01": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8bc3c32e46f50d60": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "aedff73fd7276f61": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e590108c70481f66": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8c8cc38abe908088": {
+   "punten": [
+    "zwak",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'geen bewijs'; [2] gelezen in de tekst bij [1] (de hulp vond het citaat niet door 'U. S.')"
+  },
+  "03ec6ada30436aa7": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1668e3066bdd09fe": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e48eb43819704d61": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] alleen 'geen bewijs'"
+  },
+  "dfb4be88a452f924": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9eeb4e82222252d7": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "7da6f778b52a2a0b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "2f94f37983b58b94": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7a13aea8a5429706": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen het terugkerende verhaal; 'no evidence that such negotiations are taking place' werd gemist"
+  },
+  "f58b6b82134905bd": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "78096352cea525c1": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "82b8b0bb9827b5a8": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "71aa6956f0c46c17": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "14d3529ffba5a9e3": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "49f7e652588c9591": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "1e58288b7b43f25c": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "5380a69e86faac9f": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7e7bb53c2aa2dc00": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] geeft toe dat de gevolgen ernstig zijn, maar met het voorbehoud van de weerlegging in hetzelfde punt"
+  },
+  "e30889b6665b6843": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "41aac48e36e3b742": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[2] alleen 'geen bewijs'"
+  },
+  "3b6d1f7ff6d6c2f4": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "zegt niet welke bevindingen van Praag (de betrokkenheid van Russische agenten bij de explosies)"
+  },
+  "6984c7a826ef4efa": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "58591602d18be21f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "5f438ce15617725f": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0847a348a3754fcc": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "klopt, maar zegt niets over Soros of de bewering"
+  },
+  "853f552b8232ede4": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "5026f24b43e75e61": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8f464f87c2a0838d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "6586b4802fb7ab6a": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "3981d968bea6e4d3": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] achtergrond, geen reden tegen de bewering"
+  },
+  "07911209962460cb": {
+   "punten": [
+    "zwak",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'geen bewijs'"
+  },
+  "a62440406f9fa3f5": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'Later in WWII' verwijst naar de zin ervoor (1939-1941 bondgenoot van nazi-Duitsland), die er niet bij staat"
+  },
+  "134c3b8358035438": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "6d321b37e6bd8e96": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "a4f37682884c6ff3": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] alleen 'geen bewijs'"
+  },
+  "377ee6aeebb9405a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "b0b0f36a47dc5517": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d538610497fc113f": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[2] 'geen bewijs'"
+  },
+  "3b8670e276bb311d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0c8ba2c7685f9b3a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "16d593f3b4efe96f": {
+   "punten": [
+    "niet_gedragen"
+   ],
+   "noot": "[0] 'the corridor remained unused' leest als steun voor de bewering (terroristen houden mensen tegen); de reden van de weerlegging, dat mensen arrestatie vrezen (The Guardian), ontbreekt (toegeving)"
+  },
+  "976775886729a38b": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "0ccb4ea254194d9a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "53eef06fff85d3ee": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c63ee321f4c09b93": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8dbb7d757f667b0e": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f3aad915c0b34109": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "fb01023e92f4d436": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7de11201b690cec0": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "910bc951c05c8f3a": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "3530f7795ebd6d8a": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "5c04d09bd53c683d": {
+   "punten": [
+    "gedragen",
+    "niet_gedragen"
+   ],
+   "noot": "[1] laat weg dat de weerlegging de Libische Viagra-beschuldiging omstreden en niet onafhankelijk bevestigd noemt; zo leest ze als geloofwaardig (weggelaten voorbehoud)"
+  },
+  "5fb6fa6025ac69ad": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "ef41231bd06a2c0f": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "mist het eigenlijke feit: maar 1.215 km van de grens ligt aan NAVO-landen"
+  },
+  "a2a77d1ca10193f9": {
+   "punten": [
+    "zwak",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "2be11c9441bcafc5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "67677bbf713a0dab": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "0d337205ed2f4a11": {
+   "punten": [
+    "niet_gedragen"
+   ],
+   "noot": "[0] zegt dat de oppositie beschuldigde; de weerlegging zegt in de lijdende vorm dat de president werd beschuldigd, zonder wie (toegevoegde toeschrijving)"
+  },
+  "dfe213a4fa9d7671": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c4cb0845cf18c7a4": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "1414270e48aa47a0": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "976215352d2b0fe1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d813e77fe5b62c39": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "04e15c5e99fa8ca7": {
+   "punten": [
+    "niet_gedragen"
+   ],
+   "noot": "[0] 'Open Society werkte van 1990 tot 2017 in Roemenië aan democratie en justitie' leest als steun voor de bewering dat Soros' netwerk er invloed heeft (toegeving)"
+  },
+  "3220fe073b19d41a": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "acdb10864871c87b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e609e15301c4f0ae": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e3a5db3328cc42a2": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "35f791955f12538f": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "98f6c8ad211dfde9": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "d258434836646913": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "f4200cd1104c31ca": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "mist het eigenlijke feit: hij noemde geen drugs"
+  },
+  "d2103694098ac7bd": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "11ce56e71fbe79e1": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "'geen bewijs' en 'samenzwering'"
+  },
+  "eced3165c270fd76": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "425151b2b43f97b2": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f2113cc20b618213": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "20380ea341f10377": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "7d3e7321f97d9f75": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "ccbf77d56e5b61cf": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ab8b3b0e32b6d2a0": {
+   "punten": [
+    "gedragen",
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[1] 'geen bewijs'"
+  },
+  "b32f87379f2ce8c2": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "48ed0ced8c2cc753": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ba435fc8623151cf": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "mist dat het een verkeerde vertaling van Gates is"
+  },
+  "2a278403f6ff83d7": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "5df1e8b90e0ebddb": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "9d85cedee2128385": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "10d124846b900fa3": {
+   "punten": [
+    "gedragen",
+    "niet_gedragen"
+   ],
+   "noot": "[1] schrijft ook 'its greatest responsibility' toe aan de verklaring van Brussel; de weerlegging koppelt de verklaring alleen aan 'NATO is a defensive Alliance' (toeschrijving over de zin heen, zoals 16df53c9)"
+  },
+  "e9f3e3bb130e376b": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "89443bcbe0d12313": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "6e4d8f7c8b5018cb": {
+   "punten": [
+    "zwak",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "f581604c20cca676": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "5c078412ce8112d1": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "dc5fa16225202e40": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "135557f498faddf5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[1] 'still' is de stand van toen (de weerlegging is van ongeveer 2016)"
+  },
+  "7b57cfb2d76e2aa6": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "dce92365822ca25d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "a28c26a1c8f11e62": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f8444402ed9d6626": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'"
+  },
+  "129c65b83d51c129": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "c488cd778d7e94e3": {
+   "punten": [
+    "niet_gedragen",
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[0] 'so it is not acting against EU policy' is een eigen gevolgtrekking uit wat Polen zelf zegt; die staat niet in de weerlegging en volgt er niet uit"
+  },
+  "72dea60279863295": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U. S.')"
+  },
+  "1b0a95d43c9d4d27": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "e97fcb6fb5f9afca": {
+   "punten": [
+    "zwak",
+    "zwak"
+   ],
+   "noot": "het terugkerende verhaal en wat het wil bereiken, geen feit"
+  },
+  "0996ab944ec61c9b": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "93ca72387968cd89": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "2656aacbb0234d0f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "62ba100caecb8030": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "0601cd5e4aba4673": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8c809bde4c11d4e5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "993323e4b5dd1fff": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "08c1a8aa9791f08e": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "klopt, maar mist waarom: een tekort aan Midazolam, en geen verband met euthanasie"
+  },
+  "119fdbcd2ccafcd5": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "8941b72524f3335f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "23d58dbdc3f55130": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs'; mist dat Facebook de accounts schorste omdat RT de steun van de Russische staat niet meldde"
+  },
+  "f0404e84f30110d4": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "f7cc36e1c613e18f": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "74d93fc190198db6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f9846bdc1b790aa6": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "2a773edd65e09ebc": {
+   "punten": [
+    "zwak",
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] en [1] 'geen bewijs' en 'samenzwering'"
+  },
+  "efe433628b454f1e": {
+   "punten": [
+    "gedragen"
+   ],
+   "noot": "gelezen in de weerlegging zelf (de hulp vond het citaat niet door 'U.S.')"
+  },
+  "9a914e29347a88fd": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "54217f233be14c76": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "febf1c5277cdab93": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "5282d01357e3f6e6": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "414962c81cdd06ee": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "41efb54e2c218463": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "62adc268fb64f2ce": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "94a38ce687c77cf0": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "4100616c930b6f76": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "f0780082422abdfa": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] klopt, maar is geen reden tegen de bewering"
+  },
+  "40a7bf9a1a9cb91d": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "552bfee4bacd3470": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "1b8bfe98c5977dba": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "c7256bcd7c585890": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "fbee6841c73f1fad": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "ea11cdd648973a6c": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ],
+   "noot": "[1] de weerlegging koppelt het feit aan de reactie van Friz ('in light of the fact')"
+  },
+  "038ad954420790f9": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "1229e97e102aaaaa": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "9d79779893a48244": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "d1ad6647bd234a00": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "98bede302a52494d": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "3e5d8da615950180": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "ce0f3ad4812108b1": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[2] 'samenzwering zonder bewijs'"
+  },
+  "f0fbcd3feb337a50": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "9ad25ca9c3fee0c5": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "a047d0f0cf036fa2": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "8cee0123110bdaad": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen 'ongegronde samenzwering' en het terugkerende verhaal"
+  },
+  "8ede3e07627e17d9": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "4c5648591a88fe5f": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] 'geen bewijs'"
+  },
+  "56cd9d91113f36d0": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "495114c08486332a": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen 'al eerder weerlegd'"
+  },
+  "705ded90b73ec8df": {
+   "punten": [
+    "zwak",
+    "gedragen"
+   ],
+   "noot": "[0] 'geen bewijs'"
+  },
+  "ee3c0be9faeba486": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "de3821051fa34a72": {
+   "punten": [
+    "gedragen",
+    "gedragen"
+   ]
+  },
+  "63bef3f3a0e21e81": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] het terugkerende verhaal"
+  },
+  "eddd456c1ef23e79": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "'geen bewijs' en 'al eerder weerlegd'"
+  },
+  "f8cc11a0e5835362": {
+   "punten": [
+    "gedragen"
+   ]
+  },
+  "699412af017f1a8f": {
+   "punten": [
+    "gedragen",
+    "zwak"
+   ],
+   "noot": "[1] 'geen bewijs'"
+  },
+  "8b1c7a13f85e763c": {
+   "punten": [
+    "zwak"
+   ],
+   "noot": "alleen het etiket 'historisch revisionisme'"
+  },
+  "e2c20efbe4e92f08": {
+   "punten": [
+    "gedragen",
+    "gedragen",
+    "gedragen"
+   ]
+  }
+ }
+}

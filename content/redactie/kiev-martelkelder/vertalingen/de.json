@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck kiev-martelkelder van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "b2134af515c3348f",
+ "veldafdrukken": {
+  "kop": "5a70debfa3b45c55",
+  "oordeel_zin": "c8f3bc32c55fe083",
+  "bewering": "6d30fd023112be5c",
+  "kort": "f3a50c150a2eee9c",
+  "tekst": "683d12caa198e9d5",
+  "niet_weten": "18bfdb54b10715d9",
+  "bereik": "251ea57543ab84f6",
+  "nog_uitzoeken": "20ce8325de6da464",
+  "tijdlijn": "c62d76ca1375694b",
+  "beeld_bijschrift": "c65cb4a326e3c662",
+  "beeld_alt": "26da6a5b30f32430"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video aus Kyiv zeigt keinen Jungen, der aus einem Folterkeller befreit wird",
+  "oordeel_zin": "Die Aufnahmen sind echt, aber der Junge fiel bei einem Protest von einer Mauer auf das Gelände der Nationalgarde; einen Folterkeller hat man dort nicht gefunden [1] [2] [3].",
+  "bewering": "Merk dir das Gesicht dieses 14-Jährigen, der aus einer Folterkammer von Asow bei Kiew geholt wurde.",
+  "kort": "Seit dem Abend des 2. November kursieren auf Niederländisch ein Video und ein Foto eines Jungen in einer grauen Decke, der aus einem ukrainischen Folterkeller bei Kyiv befreit worden sein soll [13]. Die Aufnahmen sind echt und stammen von einem Protest an einem Haus der Nationalgarde in Petropavlivska Borsjtsjahivka, am Stadtrand von Kyiv [2] [3]. Der 14-Jährige kletterte während des Protests auf die Mauer und fiel auf das Gelände; dort wurde er nicht festgehalten [1] [3].",
+  "tekst": "Eine Einheit der Nationalgarde nutzte das Haus als vorübergehende Unterkunft für mobilisierte Männer, die auf ihre Ausbildung warteten [2] [4]. Am 2. November hieß es online, bewaffnete Männer hielten dort etwa 40 Menschen in einem Keller fest und folterten sie. Die Polizei nannte das noch am selben Nachmittag falsch [5]. Dennoch kam eine Menschenmenge dorthin, und am Abend wurden Eier, Flaschen und Steine auf die Polizei und die Nationalgarde geworfen [3].\n\nEin Reporter von The Kyiv Independent sah, wie der Junge auf einen Baum und auf die Mauer kletterte, die Soldaten beschimpfte, Steine warf und danach von der Mauer auf das Gelände fiel [3]. Laut dem ukrainischen Staatsdienst für Kinder wohnt er in der Nähe, kam nach der Schule zum Protest und fiel, als Leute am Zaun zu rütteln begannen [1]. Drinnen wurde er in eine Decke gewickelt. Seine Schwester holte ihn am Abend ab, und er wurde in das Kinderkrankenhaus von Kyiv aufgenommen, ohne Lebensgefahr [1]. Dieses Weggehen ist es, was das Video zeigt: einen Jungen in einer Decke, der von der Menge weggeführt wird.\n\nEinen Folterkeller hat man nicht gefunden. Ein Veteran, der an diesem Abend das Haus betrat, sagte dem Recherchemedium Slidstvo.Info, er habe dort keine Folterstätten gesehen [2]. Das Gerücht ging von einer Frau in einer Rettungsdienst-Uniform aus, die sagte, sie habe einen Rettungsdienst. Dieser Dienst arbeitet seit 2023 nicht mehr [2] [4]. Die Polizei nahm sie am 3. November fest und spricht von einer geplanten Provokation [6].\n\nAuf Niederländisch stand das Video schon am 2. November um 22:25 Uhr auf X, mit der Behauptung, der Junge sei mit einem Spaten gefoltert worden [13]. Einen Tag später verbreitete die russische Botschaft in den Niederlanden dieselben Aufnahmen auf Englisch [12]. VRT NWS nannte die Behauptung am 5. November unwahr, AFP Factcheck Nederland folgte am 12. November [10] [11].",
+  "niet_weten": "Ob im Haus Gewalt angewendet wurde, ist noch nicht klar. Der Junge sagt in einem eigenen Video, er sei drinnen geschlagen worden; der Innenminister bestreitet das [1] [9]. Soldaten, die dort untergebracht waren, beschwerten sich beim Militär-Ombudsmann über Schläge, und das Staatliche Ermittlungsbüro geht dem nach [7] [8]. Das ändert nichts daran, was das Video zeigt: einen Jungen, der während des Protests nach drinnen fiel, keinen Gefangenen, der befreit wurde. Ob Russland den Protest gesteuert hat, ist ebenfalls nicht festgestellt; russische Netzwerke verstärkten die Geschichte aber danach [14].",
+  "bereik": "auf Facebook auf Niederländisch mehr als 1.200 Mal geteilt, laut AFP",
+  "nog_uitzoeken": [
+   "Was die Untersuchung des Staatlichen Untersuchungsamts ergibt. Bei neuen Erkenntnissen ergänzen wir diese Prüfung mit dem Datum.",
+   "Ob der Satz „Merkt euch das Gesicht dieses 14-Jährigen“ zuvor schon in einer anderen Sprache verbreitet wurde."
+  ],
+  "tijdlijn": [
+   "Die Polizei nennt die Meldungen über Einsperrung und einen Toten falsch [5].",
+   "Am Abend: Der Junge klettert auf die Mauer, fällt auf das Gelände und wird in einer Decke nach draußen geführt [3].",
+   "Das Video steht auf Niederländisch auf X, mit der Behauptung über eine Folterkammer [13].",
+   "Die russische Botschaft in den Niederlanden verbreitet die Aufnahmen [12].",
+   "Der Staatsdienst für Kinder: Der Junge fiel vom Zaun und liegt im Krankenhaus [1].",
+   "VRT NWS: unwahr, der erste Check auf Niederländisch [10].",
+   "AFP Factcheck Nederland veröffentlicht seinen Check [11].",
+   "Soldaten beschweren sich beim Ombudsmann über Schläge an dem Ort [8]."
+  ],
+  "beeld_bijschrift": [
+   "Bild aus dem Video auf X, 2. November 2026. Der Junge ist 14; die Köpfe in der Mitte sind unkenntlich gemacht.",
+   "Die Aufnahmen der Nachrichtenagentur UNIAN vom Weggehen des Jungen, bei LIGA.net, 2. November 2026."
+  ],
+  "beeld_alt": [
+   "Standbild aus dem Video: im Dunkeln eine Menschenmenge mit Telefonen um einen Soldaten in Tarnkleidung; die Köpfe in der Mitte sind unkenntlich gemacht. Stempel: FALSCH.",
+   "Der Beitrag von LIGA.net mit dem Video von UNIAN."
+  ]
+ }
+}

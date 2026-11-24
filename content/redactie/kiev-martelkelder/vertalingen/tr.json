@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck kiev-martelkelder van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "b2134af515c3348f",
+ "veldafdrukken": {
+  "kop": "5a70debfa3b45c55",
+  "oordeel_zin": "c8f3bc32c55fe083",
+  "bewering": "6d30fd023112be5c",
+  "kort": "f3a50c150a2eee9c",
+  "tekst": "683d12caa198e9d5",
+  "niet_weten": "18bfdb54b10715d9",
+  "bereik": "251ea57543ab84f6",
+  "nog_uitzoeken": "20ce8325de6da464",
+  "tijdlijn": "c62d76ca1375694b",
+  "beeld_bijschrift": "c65cb4a326e3c662",
+  "beeld_alt": "26da6a5b30f32430"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Kyiv'den gelen video, işkence bodrumundan kurtarılan bir çocuğu göstermiyor",
+  "oordeel_zin": "Görüntüler gerçek, ancak çocuk bir protesto sırasında Ulusal Muhafız'a ait arazideki bir duvardan düştü; orada işkence bodrumu bulunmadı [1] [2] [3].",
+  "bewering": "Kiev yakınlarındaki Azov'a ait bir işkence odasından çıkarılan bu 14 yaşındaki çocuğun yüzünü aklınızda tutun.",
+  "kort": "2 Kasım akşamından beri Felemenkçe olarak, gri bir battaniyeye sarılı bir çocuğun Kyiv yakınlarındaki bir Ukrayna işkence bodrumundan kurtarıldığı öne sürülen bir video ve bir fotoğraf dolaşıyor [13]. Görüntüler gerçek ve Kyiv'in kenarındaki Petropavlivska Borsjtsjahivka'da Ulusal Muhafız'a ait bir evin önünde yapılan bir protestodan geliyor [2] [3]. 14 yaşındaki çocuk bu protesto sırasında duvara tırmandı ve arazinin içine düştü; orada alıkonulmadı [1] [3].",
+  "tekst": "Ulusal Muhafız'ın bir birimi evi, eğitimini bekleyen seferber edilmiş erkekler için geçici barınak olarak kullanıyordu [2] [4]. 2 Kasım'da internette, silahlı adamların orada bir bodrumda yaklaşık 40 kişiyi tuttuğu ve onlara işkence ettiği yayıldı. Polis aynı öğleden sonra bunun yanlış olduğunu söyledi [5]. Buna rağmen oraya bir kalabalık geldi ve akşam polise ve Ulusal Muhafız'a yumurta, şişe ve taş atıldı [3].\n\nThe Kyiv Independent'tan bir muhabir, çocuğun bir ağaca ve duvara tırmandığını, askerlere hakaret ettiğini, taş attığını ve sonra duvardan arazinin içine düştüğünü gördü [3]. Ukrayna Devlet Çocuk Hizmeti'ne göre çocuk yakınlarda oturuyor, okuldan sonra protestoya geldi ve insanlar çiti sallamaya başlayınca düştü [1]. İçeride bir battaniyeye sarıldı. Ablası onu o akşam aldı ve Kyiv'deki çocuk hastanesine yatırıldı, hayati tehlikesi yok [1]. Videonun gösterdiği şey bu ayrılış: kalabalığın arasından götürülen, battaniyeye sarılı bir çocuk.\n\nBir işkence bodrumu bulunmadı. O akşam eve giren bir gazi, araştırmacı gazetecilik kuruluşu Slidstvo.Info'ya orada işkence yapılan bir yer görmediğini söyledi [2]. Söylenti, ambulans üniforması giyen ve bir ambulans hizmeti olduğunu söyleyen bir kadından çıktı. Bu hizmet 2023'ten beri çalışmıyor [2] [4]. Polis onu 3 Kasım'da gözaltına aldı ve planlı bir provokasyondan söz ediyor [6].\n\nFelemenkçe olarak video, çocuğa kürekle işkence edildiği iddiasıyla 2 Kasım'da saat 22:25'te X'te yer aldı [13]. Bir gün sonra Hollanda'daki Rusya Büyükelçiliği aynı görüntüleri İngilizce paylaştı [12]. VRT NWS iddiayı 5 Kasım'da yanlış olarak nitelendirdi, AFP Factcheck Nederland 12 Kasım'da onu izledi [10] [11].",
+  "niet_weten": "Evde şiddet kullanılıp kullanılmadığı henüz belli değil. Çocuk kendi videosunda içeride dövüldüğünü söylüyor; İçişleri Bakanı bunu yalanlıyor [1] [9]. Orada kalan askerler dayak yüzünden askeri ombudsmana şikâyette bulundu ve Devlet Soruşturma Bürosu konuyu araştırıyor [7] [8]. Bu, videonun gösterdiği şeyi değiştirmiyor: protesto sırasında içeri düşen bir çocuk, kurtarılan bir tutuklu değil. Rusya'nın protestoyu yönlendirip yönlendirmediği de saptanmış değil; ancak Rus ağları hikâyeyi sonradan güçlendirdi [14].",
+  "bereik": "AFP'ye göre Facebook'ta Felemenkçe olarak 1.200'den fazla kez paylaşıldı",
+  "nog_uitzoeken": [
+   "Devlet Araştırma Bürosu'nun soruşturmasının ne ortaya çıkaracağı. Yeni bir gelişme olursa bu kontrolü tarihiyle birlikte güncelleyeceğiz.",
+   "\"Bu 14 yaşındaki çocuğun yüzünü aklınızda tutun\" cümlesinin daha önce başka bir dilde dolaşıma girip girmediği."
+  ],
+  "tijdlijn": [
+   "Polis, alıkoyma ve bir ölüyle ilgili haberlerin yanlış olduğunu söylüyor [5].",
+   "Akşam: çocuk duvara tırmanıyor, arazinin içine düşüyor ve battaniyeye sarılı olarak dışarı çıkarılıyor [3].",
+   "Video, işkence odası iddiasıyla Felemenkçe olarak X'te yer alıyor [13].",
+   "Hollanda'daki Rusya Büyükelçiliği görüntüleri paylaşıyor [12].",
+   "Devlet Çocuk Hizmeti: çocuk çitten düştü ve hastanede [1].",
+   "VRT NWS: yanlış, Felemenkçedeki ilk kontrol [10].",
+   "AFP Factcheck Nederland kontrolünü yayımlıyor [11].",
+   "Askerler, mekânda dayak yenmesi konusunda ombudsmana şikâyette bulunuyor [8]."
+  ],
+  "beeld_bijschrift": [
+   "X'teki videodan bir görüntü, 2 Kasım 2026. Çocuk 14 yaşında; ortadaki kafalar bulanıklaştırıldı.",
+   "Haber ajansı UNIAN'ın çocuğun ayrılışına ait görüntüleri, LIGA.net'te, 2 Kasım 2026."
+  ],
+  "beeld_alt": [
+   "Videodan bir kare: karanlıkta, kamuflajlı bir askerin etrafında telefonlu bir kalabalık; ortadaki kafalar bulanıklaştırılmış. Damga: YANLIŞ.",
+   "LIGA.net'in UNIAN videosunu içeren haberi."
+  ]
+ }
+}

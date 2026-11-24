@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Imagens e um vídeo compartilhados na internet mostram a ponte da Crimeia partida ao meio após o ataque da Ucrânia contra ela em novembro de 2026.",
+  "kern": [
+   "A Ucrânia realmente atacou e danificou gravemente a ponte da Crimeia em 17 de novembro de 2026, mas as imagens e o vídeo em circulação não mostram esse dano. [1] [2] [3]",
+   "Uma imagem de uma seção solta da ponte não corresponde aos destroços das imagens divulgadas pelo serviço de segurança da Ucrânia, e uma ferramenta de detecção encontrou nela uma marca d'água invisível de IA. [1]",
+   "Um vídeo filmado como se fosse de um drone difere das imagens reais da ponte desabada e traz marcas d'água que apontam para IA, e outra foto corresponde a uma imagem de 2019 da ponte na Wikipédia e provavelmente foi alterada com IA. [2] [3]"
+  ],
+  "rondgang": "A partir de 18 de novembro de 2026, o material visual se espalhou no Facebook, no X e no Instagram, em inglês, espanhol e polonês, entre outros idiomas. [1] [2] [3]"
+ }
+}

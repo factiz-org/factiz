@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Israelischer Bericht beschreibt möglichen iranischen Drohnenplan gegen Trump, keinen Anschlagsversuch im Weißen Haus",
+  "oordeel_zin": "Der Bericht hinter dem Beitrag beschreibt Geheimdienstinformationen über einen möglichen iranischen Drohnenplan gegen Trump und hochrangige Amtsträger, keinen Anschlagsversuch, und der US-Heimatschutzminister hat ihn nicht bestätigt [2] [3] [4].",
+  "bewering": "Iran hat versucht, Trump im Weißen Haus mit Selbstmorddrohnen zu ermorden.",
+  "kort": "Seit dem 14. November heißt es in einem Beitrag auf X, Iran habe versucht, Präsident Donald Trump im Weißen Haus mit Selbstmorddrohnen zu ermorden [1]. Der Bericht der israelischen Zeitung Israel Hayom, auf dem das beruht, beschreibt Geheimdienstinformationen über einen möglichen iranischen Plan, Trump und hochrangige Amtsträger mit Sprengstoffdrohnen anzugreifen, keinen Versuch [2] [3]. Am nächsten Tag sprach Heimatschutzminister Markwayne Mullin von täglichen Drohungen aus dem Iran, die er als ambitioniert bezeichnete, und bestätigte den Bericht nicht [4].",
+  "tekst": "Am Samstag, dem 14. November 2026, um 19:01 UTC schrieb das Konto von Matt Tardio auf X: „Iran attempted to assassinate Trump at the White House with suicide drones.“ [1] Er zitierte einen Beitrag des Kontos Open Source Intel von vor weniger als einer halben Stunde [1] [2]. Dieser Beitrag sprach von „intelligence of an Iranian drone plot against White House leadership“, mit Israel Hayom als Quelle [2]. Im Beitrag von Tardio wurde aus einem Komplott gegen die Führung ein Anschlagsversuch im Weißen Haus [1] [2].\n\nIsrael Hayom veröffentlichte seinen Bericht am selben Abend und berief sich auf nicht genannte hochrangige israelische und amerikanische Beamte [3]. Ihnen zufolge gab der Mossad der CIA Geheimdienstinformationen, wonach der Iran Trump und hochrangige Mitglieder seiner Regierung ins Visier nehmen will, und prüfte sie auf Bitten der US-Geheimdienste [3]. Die Informationen deuten auf jüngste Drohungen hin, darunter die Möglichkeit von Angriffen mit sprengstoffbeladenen Drohnen [3]. Der Bericht beschreibt weder einen Angriff noch einen Versuch [3].\n\nDer Bericht beschreibt jedoch Vorsichtsmaßnahmen [3]. Gefährdete Amtsträger schränkten ihre Auftritte bei Veranstaltungen im Freien ein, und mehrere zogen aus ihren Wohnhäusern in gesicherte Einrichtungen um [3]. Trumps öffentliche Auftritte wurden stark reduziert, und die verbleibenden werden mit Systemen gegen Drohnen geschützt [3].\n\nAm Sonntag, dem 15. November, sagte Mullin auf Fox News, die täglichen Briefings des Präsidenten enthielten „aspirational threats from Iran“, und Trump und seine Familie seien „target number one“ [4]. Laut Fox News bestätigte er den Bericht über die Drohnen nicht [4].\n\nEin verwandter Beitrag vom 15. November stellte ein Video als iranischen Angriff auf einen US-Stützpunkt in Kuwait dar, bei dem laut Iran etwa 250 US-Soldaten getötet worden seien, doch das Video trägt den Namen von Spaceflight Now und das Datum 28. Mai 2026 [6].",
+  "niet_weten": "Wir wissen nicht, ob der Iran einen solchen Angriff geplant hat. Der Bericht stützt sich auf nicht genannte Beamte und wurde nicht unabhängig bestätigt [3] [5]. Die andere Behauptung im Beitrag von Tardio, die Revolutionsgarden hätten Anfang dieses Jahres Reisepläne von Trump und seiner Familie auf X veröffentlicht, haben wir nicht geprüft [1].",
+  "bereik": "3.473 Likes, 538 Reposts und 532.401 Aufrufe am 23. November",
+  "nog_uitzoeken": [
+   "Ob der Iran tatsächlich einen Drohnenangriff auf Trump und hochrangige US-Amtsträger geplant hat und ob eine US-Behörde die Geheimdienstinformationen öffentlich bestätigt oder zurückweist.",
+   "Ob Beiträge in anderen Sprachen das Komplott als Anschlagsversuch oder vereitelten Angriff darstellten, mit mehr Reichweite als dieser.",
+   "In welchem Verhältnis der Beitrag zu früheren Aussagen von US-Beamten steht, der Iran habe versucht, Trump zu töten, etwa der von Verteidigungsminister Pete Hegseth vom 4. März 2026 über ein Komplott während des Wahlkampfs 2024.",
+   "Ob das Video im Beitrag über Kuwait die Explosion einer Rakete am 28. Mai 2026 zeigt, wie Name und Datum im Bild nahelegen.",
+   "Wir haben „Irreführend“ gegen „Falsch“ abgewogen. Keine Quelle berichtet von einem Anschlagsversuch, was für „Falsch“ spricht; der Beitrag beruht auf einem echten Bericht über einen möglichen Plan, weshalb wir „Irreführend“ gewählt haben. Wenn Sie mehr wissen, sagen Sie es uns."
+  ],
+  "tijdlijn": [
+   "Open Source Intel veröffentlicht den Bericht von Israel Hayom auf X [2].",
+   "Matt Tardio schreibt, Iran habe versucht, Trump im Weißen Haus zu ermorden [1].",
+   "Israel Hayom veröffentlicht die englische Fassung seines Berichts [3].",
+   "Mullin auf Fox News: tägliche ambitionierte Drohungen aus dem Iran, der Bericht nicht bestätigt [4].",
+   "Ein Beitrag stellt ein Video vom 28. Mai 2026 als iranischen Angriff in Kuwait dar [6]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 14. November 2026, 19:01 UTC.",
+   "Israel Hayom, 14. November 2026: der Bericht über Mossad-Geheimdienstinformationen zu einem möglichen iranischen Drohnenplan, auf den sich die Beiträge berufen."
+  ],
+  "beeld_alt": [
+   "Der Beitrag von Matt Tardio auf X, in dem es heißt, Iran habe versucht, Trump im Weißen Haus mit Selbstmorddrohnen zu ermorden, und der einen Beitrag von Open Source Intel über ein gemeldetes iranisches Drohnenkomplott zitiert. Stempel: IRREFÜHREND.",
+   "Der Bericht von Israel Hayom über Geheimdienstinformationen zu einem iranischen Plan, Trump und hochrangige US-Amtsträger mit Drohnen ins Visier zu nehmen."
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imagem de uma estátua de Anne Frank pichada foi feita com IA",
+  "oordeel_zin": "A imagem mostra uma estátua que não existe, e desde agosto de 2024 nenhuma pichação foi registrada [5] [6].",
+  "bewering": "A estátua de Anne Frank em Amsterdã foi pichada.",
+  "kort": "Desde 8 de novembro circula no X uma imagem de uma estátua de Anne Frank que teria acabado de ser pichada [9]. A imagem foi feita com IA e mostra uma estátua que não existe [5]. A estátua verdadeira, na Merwedeplein, em Amsterdã, foi pichada em julho e agosto de 2024, e desde então nenhuma nova pichação foi registrada [1] [6].",
+  "tekst": "Amsterdã tem duas estátuas de Anne Frank. Uma fica junto à Westerkerk, perto da Casa de Anne Frank. A outra fica na Merwedeplein, no bairro Rivierenbuurt, em frente à casa onde a família Frank morou de 1933 a 1942. Essa segunda estátua, de Jet Schepp, é uma menina de bronze com uma mochila escolar que olha para trás, para a praça, sobre uma coluna de pedra rosa [4].\n\nEssa estátua da Merwedeplein foi pichada duas vezes em 2024. Em 9 de julho, apareceu a palavra “Gaza” em tinta vermelha no pedestal, com manchas vermelhas junto aos pés; o distrito mandou limpar no mesmo dia [3] [8]. Na noite de 3 para 4 de agosto veio “Free Gaza”, e as mãos da estátua foram pintadas de vermelho, exatamente 80 anos depois da prisão das pessoas que se escondiam no Anexo Secreto [1] [2]. Naquela noite, pelo menos seis estátuas foram pichadas em Amsterdam-Zuid [2].\n\nA imagem que circula agora é outra coisa. A AAP FactCheck, a redação de checagem da agência de notícias australiana, encontrou-a em 6 de novembro no Facebook e no X: uma pessoa mascarada pichando “Free Palestine” numa estátua de Anne Frank com uma keffiyeh no pescoço [5]. Essa estátua não se parece com nenhuma das duas de Amsterdã. Na placa ao lado há uma citação errada do diário, com um erro de digitação [5].\n\nNão encontramos nenhuma pichação nova. A Casa de Anne Frank não informa nada sobre a estátua desde agosto de 2024 [7]. Quando a prefeita prorrogou, em setembro de 2025, o monitoramento por câmeras na Merwedeplein, a prefeitura citou como motivo apenas as duas pichações de 2024 [6]. A AAP, que também procurou pichações recentes, encontrou apenas as de 2024 [5].",
+  "niet_weten": "Não sabemos quem criou a imagem. Que não houve pichação em outubro e novembro de 2026, deduzimos de reportagens que não existem, na Casa de Anne Frank, na NOS e na prefeitura. Não pesquisamos comunicados da polícia nem o arquivo do Het Parool.",
+  "nog_uitzoeken": [
+   "Qual é a segunda imagem do casal. Se for uma foto real de 4 de agosto de 2024, apresentada como nova, então o que combina mais com essa imagem é enganoso.",
+   "Se a polícia ou a AT5 noticiou, em outubro ou novembro de 2026, uma pichação da estátua. Não pesquisamos essas notícias."
+  ],
+  "tijdlijn": [
+   "A estátua de Jet Schepp na Merwedeplein é inaugurada [4].",
+   "Primeira pichação: “Gaza” no pedestal, limpa no mesmo dia [3].",
+   "Segunda pichação: “Free Gaza” e mãos pintadas de vermelho [1].",
+   "A prefeita prorroga o monitoramento por câmeras, citando como motivo apenas as pichações de 2024 [6].",
+   "A imagem feita com IA aparece no Facebook e no X [5].",
+   "Pelo menos cinco postagens no X apresentam uma estátua pichada como notícia [9].",
+   "AAP FactCheck: a imagem foi feita com IA [5]."
+  ],
+  "beeld_bijschrift": [
+   "Postagem no X, 8 de novembro de 2026, uma de pelo menos cinco.",
+   "A estátua verdadeira na Merwedeplein, de Jet Schepp, inaugurada em 9 de julho de 2005. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "Uma imagem feita com IA de uma estátua de Anne Frank pichada. Carimbo: FALSO.",
+   "A estátua de bronze de Anne Frank na Merwedeplein, em Amsterdã."
+  ]
+ }
+}

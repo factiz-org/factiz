@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Imane Khelif'te SRY geni var, ancak biyolojik olarak erkek olduğu tespit edilmiş değil",
+  "oordeel_zin": "Khelif Şubat 2026'da SRY genine sahip olduğunu kendisi söyledi, ancak açıklanmış bir test sonucu yok ve hiçbir spor federasyonu ya da mahkeme onun biyolojik olarak erkek olduğunu tespit etmedi [4] [7] [8].",
+  "bewering": "OMG. Biyolojik olarak erkek bir boksörün kadınlara karşı boks yapması sportif bir doruk noktası olarak kutlanmalı ve kutlanacak. Ama bunu kadınlara yönelik istismar diye adlandıran kişi iptal edilmeli ve edilecek. Anlaşılan yalnızca tek bir görüşün zafer kazanmasına izin var.",
+  "kort": "X'te bir paylaşım, kadınlara karşı boks yapan, büyük olasılıkla Imane Khelif olan bir boksörü biyolojik olarak erkek diye niteliyor [1] [3]. Khelif Şubat 2026'da SRY genine sahip olduğunu kendisi söyledi; IOC'ye göre bu gen erkek cinsiyet gelişimine işaret ediyor. Ayrıca kız olarak büyütüldüğünü ve trans olmadığını söyledi [4] [8]. Sporda erkek sayılıp sayılmayacağı, hakkında hiçbir şeyin açıklanmadığı bir teste ve tıbbi değerlendirmeye bağlı; bu konuda hiçbir spor federasyonu ya da mahkeme karar vermedi [6] [7] [8].",
+  "tekst": "Paylaşım isim vermiyor ve hesabın 9 Kasım tarihli, HLN'nin sportif bir doruk noktası olarak adlandırdığı bir şey hakkındaki kendi paylaşımını alıntılıyor [1] [2]. Paylaşımın Khelif ile ilgili olduğunu zamanlamadan çıkarıyoruz: 6 Kasım'da ilk profesyonel maçını duyurdu [3]. O hafta ayrıca olimpik kadın boksunda bir erkek hakkında İngilizce bir paylaşım dolaştı [11].\n\nCezayirli boksör Khelif, 2024'te kadınlarda olimpiyat altın madalyası kazandı [3]. Fransız spor gazetesi L'Équipe'e 4 Şubat 2026'da, genellikle Y kromozomunda bulunan bir gen olan SRY genine sahip olduğunu doğruladı [4] [8]. Yanıtı: \"Evet, ve bu doğal.\" [4] Ayrıca maçlardan önce hormonlarla testosteronunu düşürdüğünü, kız olarak büyütüldüğünü ve trans kadın olmadığını söyledi [4]. Bir tanı belirtmedi [4].\n\nWorld Boxing, Ağustos 2025'ten beri SRY genine sahip bir boksörü, erkek hormonlarına tam duyarsızlık hali dışında, erkek sayıyor [4] [6]. IOC Mart 2026'da, 2028 Oyunları'ndan itibaren kadın kategorisinde yalnızca SRY geni olmayan kadınların yarışmasına, testosteronun avantaj sağlamadığı nadir durumlar dışında, karar verdi [8]. IOC'ye göre bu kural geriye işlemiyor ve kişinin yasal cinsiyeti hakkında bir şey söylemiyor [8].\n\nWorld Boxing 2025'te Khelif'i genetik test yaptırana kadar yarışmalara almadı ve Spor Tahkim Mahkemesi (CAS) bu kararın 1 Eylül 2025'te askıya alınmasını reddetti [7]. Dava gizli yürütülüyor ve bir karar bulamadık [7]. Khelif Şubat'ta tıbbi dosyasını World Boxing'e gönderdiğini, ancak yanıt alamadığını söyledi [4].\n\n2024'te bir Fransız dergisinde onun erkek olduğunu kanıtlayacağı öne sürülen belgeleri IOC doğrulanmamış olarak niteledi [9]. Ağustos 2024'te, röportajdan önce, RTBF ve FactCheck.org Khelif'in erkek olduğu iddiasını yanlış olarak niteledi [12] [13].",
+  "niet_weten": "Khelif'in World Boxing ya da IOC için SRY geni testi yaptırıp yaptırmadığını ve doktorların onda neyi tespit ettiğini bilmiyoruz. Paylaşımın onunla ilgili olduğundan da emin değiliz.",
+  "bereik": "22 Kasım'da 437 beğeni ve 18 yanıt",
+  "nog_uitzoeken": [
+   "CAS'ın Khelif'in World Boxing aleyhindeki davasında nasıl karar vereceği.",
+   "Khelif'in World Boxing ya da IOC için SRY geni testi yaptırıp yaptırmadığı ve sonucun ne olduğu.",
+   "X'in hesabın hangi paylaşımını Avrupa Birliği'nde erişime kapattığı ve kimin talebiyle.",
+   "HLN'nin hangi makalesinin 9 Kasım tarihli paylaşımda kastedildiği.",
+   "Kanıtlanmamış ile Yanıltıcı arasında kararsız kaldık. Yanıltıcı, çünkü paylaşım hiçbir spor federasyonunun ya da mahkemenin tespit etmediği şeyi kesin gibi sunuyor; Kanıtlanmamış, çünkü Khelif SRY genine sahip olduğunu kendisi söyledi ve bu, World Boxing ile IOC kurallarına göre, hakkında hiçbir şeyin açıklanmadığı bir istisna dışında erkek cinsiyet gelişimi sayılıyor. Kanıtlanmamış'ı seçtik."
+  ],
+  "tijdlijn": [
+   "IOC: Paris Oyunları'nda pasaporttaki cinsiyet geçerlidir [5].",
+   "Khelif, World Boxing'in kararına karşı CAS'a başvuruyor [7].",
+   "World Boxing'in SRY geni testini de içeren cinsiyet kuralları yürürlüğe giriyor [6].",
+   "CAS, World Boxing'in kararını dava görülene kadar askıya almayı reddediyor [7].",
+   "Khelif L'Équipe'te SRY genine sahip olduğunu ve testosteronunu hormonlarla düşürdüğünü söylüyor [4].",
+   "IOC, 2028 Oyunları'ndan itibaren kadın kategorisini, bir istisna dışında, SRY geni olmayanlarla sınırlıyor [8].",
+   "Khelif ilk profesyonel maçını duyuruyor: 15 Aralık'ta Paris'te Clarida Sarabia'ya karşı [3].",
+   "Hesap, HLN'nin bir şeyi sportif bir doruk noktası olarak adlandırdığını yazıyor [2].",
+   "X'teki paylaşım [1].",
+   "NOS, Clarida Sarabia'nın Khelif ile yapılacak maçtan çekildiğini bildiriyor [10]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 12 Kasım 2026, 20.42."
+  ],
+  "beeld_alt": [
+   "Biyolojik olarak erkek bir boksörün kadınlara karşı boks yaptığını söyleyen bir X paylaşımı; bir paylaşımın Avrupa Birliği'nde erişime kapatıldığını bildiren bir uyarının ekran görüntüsü ve HLN'ye göre sportif bir doruk noktası hakkında alıntılanmış bir paylaşım. Damga: KANITLANMAMIŞ."
+  ]
+ }
+}

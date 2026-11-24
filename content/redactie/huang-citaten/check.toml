@@ -1,0 +1,235 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/huang-citaten/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "huang-citaten"
+status = "gepubliceerd"
+taal = "en"
+adres = "jensen-huang-official-statement"
+kop = "This \"official statement\" from Jensen Huang is made up: Nvidia never published it"
+oordeel = "onwaar"
+oordeel_zin = "Nvidia never published this statement, and the email from Huang that Nvidia did publish, three days before the date on the letter, says the opposite: he apologized and took full responsibility [1] [5]."
+soort = "verzonnen"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "BREAKING: JENSEN HUANG FINALLY BREAKS HIS SILENCE [...]"
+platform = "X"
+eerst_gezien = "2026-11-12"
+posts = 1
+bereik = "90 likes and 21 replies on November 19; deleted by its author by November 23"
+
+kort = """
+On November 12, a post on X showed an "official statement" from Nvidia, dated November 11, in which Jensen Huang \
+denies the reports about him [6]. Nvidia never published it: its newsroom has no item from November 11, and the only \
+message from Huang it published is an email of November 8 in which he apologized [1] [5]. In his first public words \
+after resigning, on November 17, Huang wrote that he had made serious mistakes [7] [9]."""
+
+tekst = """
+On November 8, Nvidia's board started an independent investigation after reports that Huang had been the target of a \
+foreign intelligence effort [2]. The same day, Nvidia published an email Huang had sent to its staff, in which he \
+apologized, took full responsibility and promised to cooperate fully [1]. On November 12, Nvidia announced that he \
+had resigned as chief executive and board member [4]. The release has no words from him [4].
+
+At 03:29 UTC on November 12, an account on X posted that Huang had "finally" broken his silence [6]. With it came a \
+picture of a letter under the Nvidia logo, titled "Official Statement", dated November 11 and signed by Huang, in \
+which he calls the recent reports about him completely false [6]. The post named no source, and its author has since \
+deleted it [6].
+
+Nvidia's newsroom has no item dated November 11, and none of its four items about the investigation and the change \
+of leadership contains a denial by Huang [1] [2] [3] [4] [5]. The letter also contradicts the email he did send, \
+three days before its date [1]. And it has a typing error: "cntire" for "entire" [6].
+
+On November 17, on his own account on X, Huang wrote that he had made serious mistakes and deeply regretted the \
+problems he created for the board [7] [9]. He would be honored to return as chief executive, he wrote, if the board \
+decided that was best [8] [9]. The same day, board chair Harvey \
+Jones said the board does not intend to reinstate him [8].
+
+The only denial from Huang's side that we found came on November 20, when his spokesman dismissed as fabrications \
+the allegations in The New York Times about how he treated staff [13]. Those are other reports, published after the date on \
+the letter [13]."""
+
+niet_weten = """
+We do not know who made the letter, or whether it first appeared somewhere else [6]. We saw one post with it [6]. We \
+found no report that Huang spoke to reporters between November 8 and 17 [8] [9] [10]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who made the letter, and where it first appeared, in English or in another language.",
+  "How many posts carried the letter. We saw one, since deleted by its author; a second post on the same subject from November 12 was also deleted.",
+  "Whether other messages in Huang's name, such as a farewell message, also went around, and whether those are made up too.",
+  "Whether Huang said anything to reporters between his email of November 8 and his post of November 17.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+vervaag = [[0.352, 0.112, 0.34, 0.03]]
+vervaag_reden = "De naam van een medewerker van Nvidia, in de post genoemd bij een vermeende affaire (PO 2026-11-20: \"ja doe maar\")."
+bijschrift = "Post on X, November 12, 2026, 03:29 UTC, since deleted by its author."
+alt = "A post on X saying Jensen Huang has broken his silence, with a picture of a letter under the Nvidia logo titled Official Statement, dated November 11, 2026, in which Huang denies the reports about him. Stamp: FALSE."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+wat = "Nvidia's board starts an independent investigation [2]. Nvidia publishes Huang's email to employees, with an apology [1]."
+
+[[tijdlijn]]
+datum = "2026-11-10"
+wat = "The independent board members hire an outside lawyer and his firm for the investigation [3]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+tijd = "03:29 UTC"
+wat = "A post on X shows the \"official statement\" dated November 11, in which Huang denies the reports [6]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "Nvidia announces that Huang has resigned; the release has no words from him [4]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+wat = "A letter in the name of Nvidia executives, demanding Huang's return, turns out to be a near copy of a 2023 letter from OpenAI employees [11]."
+
+[[tijdlijn]]
+datum = "2026-11-17"
+tijd = "16:18 UTC"
+wat = "Huang's first public statement since resigning, on his own account on X [7] [9]."
+
+[[tijdlijn]]
+datum = "2026-11-17"
+wat = "Board chair Harvey Jones: the board does not intend to reinstate Huang [8]."
+
+[[tijdlijn]]
+datum = "2026-11-20"
+wat = "Huang's spokesman calls allegations in The New York Times about how Huang treated staff fabrications [13]."
+
+[[tijdlijn]]
+datum = "2026-11-20"
+wat = "President Trump says he would like Huang to get a second chance; the board still does not plan to reinstate him [12]."
+
+[[tijdlijn]]
+datum = "2026-11-23"
+wat = "The post with the letter is no longer on X: its author deleted it [6]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "NVIDIA Newsroom"
+titel = "A Message to Our Company"
+datum = "2026-11-08"
+url = "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+archief = "https://web.archive.org/web/20261117201020/https://nvidianews.nvidia.com/news/a-message-to-our-company"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "NVIDIA Newsroom"
+titel = "Statement From NVIDIA Board of Directors"
+datum = "2026-11-08"
+url = "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+archief = "https://web.archive.org/web/20261119014729/https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "NVIDIA Newsroom"
+titel = "Statement From the Independent Members of the NVIDIA Board"
+datum = "2026-11-10"
+url = "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+archief = "https://web.archive.org/web/20261117201054/https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "NVIDIA Investor Relations"
+titel = "NVIDIA Announces CEO Transition"
+datum = "2026-11-12"
+url = "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+archief = "https://web.archive.org/web/20261116094418/https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "NVIDIA Newsroom"
+titel = "All news, the items of November 1 to 19, 2026, viewed on November 19 and again on November 23"
+datum = "2026-11-23"
+url = "https://nvidianews.nvidia.com/news"
+archief = "https://web.archive.org/web/20261115092542/https://nvidianews.nvidia.com/news"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "X"
+titel = "Post saying Huang broke his silence, with the \"official statement\" dated November 11"
+datum = "2026-11-12"
+prive = true
+weg = true
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Jensen Huang on X"
+titel = "Statement on his resignation and a possible return"
+datum = "2026-11-17"
+url = "https://x.com/JensenHuang/status/2122726005219737649"
+archief = "https://web.archive.org/web/20261123011505/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122726005219737649&omit_script=true"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "Associated Press (via WRDW)"
+titel = "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley"
+datum = "2026-11-17"
+url = "https://www.wrdw.com/2026/11/17/former-nvidia-ceo-jensen-huang-appear-before-congress-national-security-questions-intensify/"
+archief = "https://web.archive.org/web/20261123011628/https://www.wrdw.com/2026/11/17/former-nvidia-ceo-jensen-huang-appear-before-congress-national-security-questions-intensify/"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "TheWrap"
+titel = "Jensen Huang Says He Would Be 'Honored' to Return to Nvidia in First Statement After Resignation"
+datum = "2026-11-17"
+url = "https://www.thewrap.com/industry-news/business/nvidia-jensen-huang-statement-chinese-spy/"
+archief = "https://web.archive.org/web/20261117182925/https://www.thewrap.com/industry-news/business/nvidia-jensen-huang-statement-chinese-spy/"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "Digital Trends"
+titel = "Jensen Huang is open to returning as Nvidia chief after blockbuster resignation saga"
+datum = "2026-11-17"
+url = "https://www.digitaltrends.com/computing/jensen-huang-nvidia-ceo-return/"
+archief = "https://web.archive.org/web/20261118054816/https://www.digitaltrends.com/computing/jensen-huang-nvidia-ceo-return/"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "Herald Corporation"
+titel = "Nvidia executive letter demanding Jensen Huang's return exposed as fake"
+datum = "2026-11-14"
+url = "https://mbiz.heraldcorp.com/article/10936931"
+archief = "https://web.archive.org/web/20261123011719/https://mbiz.heraldcorp.com/article/10936931"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Al Jazeera (with AFP and Reuters)"
+titel = "Trump calls for Nvidia to reinstate 'brilliant' Jensen Huang"
+datum = "2026-11-21"
+url = "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+archief = "https://web.archive.org/web/20261121163506/https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang"
+
+[[bron]]
+nr = 13
+soort = "nieuws"
+uitgever = "TechCrunch"
+titel = "Behind Jensen Huang's exit, questions about a management style reportedly built on fear"
+datum = "2026-11-20"
+url = "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+archief = "https://web.archive.org/web/20261123011808/https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"

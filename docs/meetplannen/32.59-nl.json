@@ -1,0 +1,183 @@
+{
+ "taak": "32.59-nl",
+ "toelichting": "De controle met lezer-v16 in het Nederlands (Nederland en Vlaanderen), als op de eerste dag, met de eisen van besluit D waar de sets het dragen (PLAN #32.59, B63). Vastgelegd vóór de eerste vraag; de bron maakt `python -m doublecheck.talenset bouwen --taal nl` met de oordelen in zinsvorm omgezet door Haiku (`talen omzetten --taal nl`). Dezelfde eisen als 32.42-de, met G (40 gewone teksten uit mC4 van de stiltetoets; eerst zonder G vastgelegd in de veronderstelling dat mC4 geen Nederlands of Frans had, vóór de eerste vraag rechtgezet). W uit Wikinews (sinds bronnen-v6 goed, B64), W-merk uit vijf media met band goed. De meting rapporteert ook per land en welke bronnen uit een andere taal de lezer gebruikte. Eerst `draaien --proef 2`; Brave hoogstens 1300 zoekvragen (zoals 32.42-de, voor 340 berichten); grens $9. Als een set kleiner uitvalt dan gepland, worden de aantallen in de eisen vóór de eerste vraag naar hetzelfde aandeel gezet. Budget op 2026-11-08 van $9 naar $12: de meting stopte op de grens bij 260 (nl) en 250 (fr) van de 340 berichten, ~$0,032 per bericht; de eisen ongewijzigd.",
+ "map": "data/meting/32.59-nl",
+ "labels": "docs/steekproeven/32.59-nl.json",
+ "budget": 12.0,
+ "zaad": 3259,
+ "sets": {
+  "O": {
+   "bron": "data/talen/meting/nl.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "K": {
+   "bron": "data/talen/meting/nl.jsonl",
+   "set": "K"
+  },
+  "W": {
+   "bron": "data/talen/meting/nl.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "W-merk": {
+   "bron": "data/talen/meting/nl.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  },
+  "G": {
+   "bron": "data/talen/meting/nl.jsonl",
+   "set": "G",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v16",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "O",
+  "K"
+ ],
+ "waar": [
+  "W",
+  "W-merk",
+  "G"
+ ],
+ "eisen": [
+  {
+   "naam": "1. O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (B57, zoals het Engels)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "2. O en K: hoogstens 2 onterecht groen (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O",
+     "K"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "3. K: rood of oranje met bewijs minstens 45 van de 50 (besluit D: 90% van bekend nepnieuws)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "K"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 45
+  },
+  {
+   "naam": "4a. W en W-merk: hoogstens 2 vals alarm (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4b. W en W-merk: hoogstens 3 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  },
+  {
+   "naam": "5a. G: nooit rood of oranje (besluit D)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "G"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ]
+   },
+   "op": "<=",
+   "waarde": 0
+  },
+  {
+   "naam": "5b. G: minstens 32 van de 40 geen bewering (besluit D: 80%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "G"
+    ],
+    "uitkomsten": [
+     "geen bewering"
+    ]
+   },
+   "op": ">=",
+   "waarde": 32
+  }
+ ],
+ "zoekvragen_max": 1300,
+ "gewoon": [
+  "G"
+ ]
+}

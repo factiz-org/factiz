@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Ollongren named the OMT in her curfew hearing, not Pieter Omtzigt",
+  "oordeel_zin": "In her hearing on 2 September, Ollongren said the OMT's advice convinced her, and the name Omtzigt does not appear in it [2].",
+  "bewering": "Ollongren admits: Omtzigt convinced her of the usefulness of the curfew.",
+  "kort": "On 6 September, an image circulated on X alongside the hearing of Kajsa Ollongren, claiming that she admitted Pieter Omtzigt convinced her of the usefulness of the curfew [1]. In the hearing, Ollongren spoke about the OMT, the Outbreak Management Team that advised the cabinet during the corona period, and not about Omtzigt [2] [4]. For her, the OMT's advice on the effect of the curfew was decisive [2].",
+  "tekst": "On Sunday 6 September at 5:08 pm, an account on X posted an image alongside the hearing of former minister Kajsa Ollongren, with text saying that she admitted Omtzigt had convinced her of the usefulness of the curfew [1]. The post mocked that she was first against it and afterwards blamed someone else [1]. As of 18 November it had 200 likes and 61 replies [1].\n\nOllongren was heard on Wednesday 2 September from 10:00 to 12:50 by the parliamentary inquiry committee on Corona [2] [3]. During the corona period she was Minister of the Interior and Kingdom Relations and deputy prime minister for D66 [2] [3]. The ANP reported on her hearing that morning [6].\n\nOMT stands for Outbreak Management Team: the experts who advised the cabinet during the corona period. The RIVM publishes their advice [4]. In the transcript of the hearing, the abbreviation OMT appears 65 times, and the name Omtzigt not once [2].\n\nAbout the curfew, Ollongren said that she and her ministry were against it for a long time, because the measure intrudes so deeply on everyone's freedom of movement [2]. According to her, the curfew was on the table three or four times and each time came off the table again [2]. The OMT was decisive. In January 2021 it estimated the effect on the spread of the virus at 8 to 13 percent, and said that no other measure could achieve the same [2]. She then agreed reluctantly, and said that she was convinced at that point [2].\n\nThis fits with what other witnesses said earlier. According to the NOS, the OMT had already named the curfew as an option earlier, the cabinet at first did not want it, and a later urgent advice from the OMT said that the measure could have an effect [5]. The curfew took effect on 23 January 2021 and was extended five times [2].\n\nThe transcript we read has not yet been corrected. For that reason we report what Ollongren said, and do not quote her literally [2].",
+  "niet_weten": "We do not know whether the author of the post misread OMT or deliberately turned it into Omtzigt. That the name Omtzigt is never mentioned is our count in the report.",
+  "bereik": "200 likes and 61 replies on 18 November",
+  "nog_uitzoeken": [
+   "Anyone who reads the post as a joke about a misread abbreviation can defend a verdict of misleading. We chose false."
+  ],
+  "tijdlijn": [
+   "A regional curfew appears for the first time in advice from the OMT [2].",
+   "The curfew takes effect, after an urgent advice from the OMT [2] [5].",
+   "After earlier hearings, the NOS describes how the curfew came about after all [5].",
+   "Ollongren's hearing begins [2] [3].",
+   "The post on X with the image and the claim about Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 6 September 2026, 5:08 pm.",
+   "The public hearing of Kajsa Ollongren by the parliamentary inquiry committee on Corona, 2 September 2026, 10:00 am. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Image alongside the hearing of Kajsa Ollongren about the curfew, shared as if she named Pieter Omtzigt. Stamp: FALSE.",
+   "The video of the hearing of Kajsa Ollongren in the Enquêtezaal of the Tweede Kamer."
+  ]
+ }
+}

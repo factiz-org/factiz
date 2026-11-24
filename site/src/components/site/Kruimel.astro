@@ -1,0 +1,14 @@
+---
+// Het kruimelpad, één onderdeel voor elke pagina (PO 2026-11-21: "wil je kijken wat we nog meer gelijk kunnen trekken"):
+// de start staat er altijd voor, elke stap met een adres is een link, een stap zonder adres is de pagina zelf. Met
+// `telefoon={false}` niet op een telefoon (bij een factcheck staat het thema al in het vlak, en blijft Terug naar
+// resultaten, test_site_oordelen). De opmaak in `.kruimel` (site.css).
+import { maakT } from '../../lib/teksten.js';
+import { pad } from '../../lib/talen.js';
+const { taal, stappen = [], telefoon = true, klasse = '' } = Astro.props;
+const t = maakT(taal);
+const alle = [[t('nav_start'), pad(taal)], ...stappen.filter(Boolean)];
+---
+<nav class:list={['kruimel', klasse, { 'max-md:hidden': !telefoon }]} aria-label={t('kruimel_naam')} data-kruimel>
+  {alle.map(([naam, href], i) => (<>{i > 0 && <span aria-hidden="true"> / </span>}{href ? <a href={href}>{naam}</a> : <span aria-current="page">{naam}</span>}</>))}
+</nav>

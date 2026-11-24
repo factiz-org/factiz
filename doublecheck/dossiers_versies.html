@@ -1,0 +1,282 @@
+<title>Dossier versies</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap">
+<style>
+/* Een leeslijst uit dezelfde kaartenbak als de andere nakijkrondes: één kolom systeemkaarten met de rode kopregel;
+   de stand plakt bovenaan, zodat steeds te zien is hoeveel er gelezen is en hoeveel er nodig is. */
+:root {
+  --bg: #eef0ec; --kaart: #fcfcf9; --inkt: #1d2320; --zacht: #5d6660; --lijn: #d6dad3; --rode-lijn: #c9584b;
+  --accent: #23566b; --accent-zacht: #dbe7ea; --groen: #2f7d4a; --oranje: #b8650f; --grijs-zacht: #e6e9e4;
+  --serif: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+    --accent: #7fb4c7; --accent-zacht: #23353b; --groen: #6cc08a; --oranje: #e9a35a; --grijs-zacht: #2a302d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+  --accent: #7fb4c7; --accent-zacht: #23353b; --groen: #6cc08a; --oranje: #e9a35a; --grijs-zacht: #2a302d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--inkt); font: 15px/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.bak { max-width: 720px; margin: 0 auto; display: grid; gap: 18px; }
+header { display: grid; gap: 10px; }
+.label { font: 500 11.5px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--zacht); }
+h1 { font: 500 28px/1.2 var(--serif); margin: 0; text-wrap: balance; }
+.uitleg { margin: 0; color: var(--zacht); max-width: 64ch; }
+.uitleg b { color: var(--inkt); font-weight: 600; }
+.stand { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; flex-wrap: wrap; gap: 6px 18px;
+  align-items: baseline; padding: 10px 14px; border: 1px solid var(--lijn); border-radius: 6px; background: var(--kaart);
+  font-variant-numeric: tabular-nums; }
+.stand strong { font: 600 19px/1 var(--sans); }
+.stand .item { display: flex; gap: 6px; align-items: baseline; color: var(--zacht); }
+.stand .item b { color: var(--inkt); font-weight: 600; }
+.stand button { margin-inline-start: auto; }
+.balk { flex-basis: 100%; height: 4px; background: var(--grijs-zacht); border-radius: 2px; overflow: hidden; }
+.balk span { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+.melding { font-size: 13px; color: var(--zacht); }
+.kaart { background: var(--kaart); border: 1px solid var(--lijn); border-radius: 4px; display: grid; gap: 12px;
+  padding: 0 18px 16px; box-shadow: 0 1px 0 var(--lijn); min-width: 0; }
+.kop { border-bottom: 2px solid var(--rode-lijn); padding: 10px 0 6px; display: flex; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap; }
+.bewering { font: 400 17px/1.55 var(--serif); margin: 0; overflow-wrap: anywhere; }
+.vertaling { display: grid; gap: 2px; padding-inline-start: 12px; border-inline-start: 1px solid var(--lijn); }
+.vertaling p { margin: 0; color: var(--zacht); overflow-wrap: anywhere; }
+.indeling { margin: 0; display: grid; gap: 4px; padding: 10px 12px; border-radius: 6px; background: var(--accent-zacht); }
+.indeling div { display: grid; grid-template-columns: 5.5rem 1fr; gap: 10px; align-items: baseline; }
+.indeling dt { font: 500 11.5px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--zacht); }
+.indeling dd { margin: 0; min-width: 0; font-weight: 500; }
+.indeling dd .deel { font-weight: 400; }
+.keus { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+button { font: 500 14px/1 var(--sans); padding: 10px 14px; border-radius: 5px; border: 1px solid var(--lijn);
+  background: var(--kaart); color: var(--inkt); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--kaart); }
+textarea { width: 100%; min-height: 38px; resize: vertical; font: 14px/1.45 var(--sans); color: var(--inkt);
+  background: var(--bg); border: 1px solid var(--lijn); border-radius: 5px; padding: 8px 10px; }
+.notitie { display: grid; gap: 4px; }
+.klaar .label.staat { color: var(--groen); }
+footer { color: var(--zacht); font-size: 13px; max-width: 65ch; }
+@media (max-width: 480px) { h1 { font-size: 23px; } .bewering { font-size: 16px; } .kaart { padding: 0 14px 14px; }
+  .indeling div { grid-template-columns: 4.6rem 1fr; } }
+@media (prefers-reduced-motion: reduce) { .balk span { transition: none; } }
+.bron { margin: 0; color: var(--zacht); font-size: 14px; }
+.bron a { color: var(--accent); }
+.voorstel { color: var(--zacht); }
+.voorstel b { color: var(--inkt); font-weight: 600; }
+.leden { list-style: none; margin: 0; padding: 0; display: grid; }
+.lid { display: grid; gap: 6px; padding: 12px 0; border-top: 1px solid var(--lijn); min-width: 0; }
+.lid:first-child { border-top: 0; padding-top: 4px; }
+.lid .bewering { font-size: 16px; }
+.lid.uit .bewering, .lid.uit .vertaling, .lid.uit .bron { opacity: .5; text-decoration: line-through; }
+.lid button { justify-self: start; font-weight: 400; font-size: 13px; padding: 7px 10px; }
+.groepsvraag { font-weight: 600; }
+</style>
+
+<div class="bak">
+  <header>
+    <span class="label">Factiz · dossier · versies · PLAN 33.6</span>
+    <h1>Is dit één bericht?</h1>
+    <p class="uitleg">Het dossier: <b id="naam"></b>. Een taalmodel legde de factchecks die jij goedkeurde naast elkaar en
+      vond <b id="n-groepen">0</b> groepen waarvan het denkt dat het telkens hetzelfde bericht is, in andere woorden of een
+      andere taal. Wat jij goedkeurt, staat straks op de pagina van elke bewering onder <b>Komt ook voor als</b>.</p>
+    <p class="uitleg">Kies per groep <b>Eén bericht</b> of <b>Niet één bericht</b>. Hoort één kaart er niet bij, haal haar er
+      dan uit met <b>Hoort hier niet bij</b>; de rest van de groep blijft dan staan.</p>
+  </header>
+  <div class="stand" aria-live="polite">
+    <strong id="stand-telling">0 van 0</strong><span class="item">gelezen</span>
+    <span class="item">één bericht <b id="stand-ja">0</b></span>
+    <span class="item">niet één bericht <b id="stand-nee">0</b></span>
+    <button type="button" id="alleen-open" aria-pressed="false">Alleen wat nog open is</button>
+    <div class="balk"><span id="balk"></span></div>
+  </div>
+  <span class="melding" id="melding">Je keuzes worden bewaard zodra de pagina verbinding heeft.</span>
+  <main class="bak" id="groepen"></main>
+  <footer>Je keuzes en notities worden bij dit dossier bewaard. Claude leest ze daarna terug; alleen een groep die jij
+    goedkeurde, wordt een versie. Van een lange bewering staan hier de eerste 400 tekens.</footer>
+</div>
+
+<script type="application/json" id="data">/*GROEPEN*/</script>
+<script>
+const DATA = JSON.parse(document.getElementById("data").textContent);
+const PAD = "dossiers/" + DATA.dossier + "/versies";
+const MAX = 400;
+const LABEL = {"onwaar": "onwaar", "misleidend": "misleidend", "onwaar-of-misleidend": "onwaar of misleidend", "waar": "waar",
+  "deels-waar": "deels waar", "omstreden": "omstreden", "satire": "satire", "onbewezen": "onbewezen"};
+const staat = {};          // sleutel van de groep -> {oordeel, zonder, opmerking}
+const wachtrij = {};
+const uitstel = {};
+let db = null;
+let alleenOpen = false;
+
+const taalnaam = (() => {
+  let namen = null;
+  try { namen = new Intl.DisplayNames(["nl"], {type: "language"}); } catch (e) {}
+  return code => { try { return (namen && code && code !== "und" && namen.of(code)) || "taal onbekend"; } catch (e) { return code; } };
+})();
+
+function datum(iso) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(iso || "")) return "zonder datum";
+  try { return new Intl.DateTimeFormat("nl", {day: "numeric", month: "long", year: "numeric", timeZone: "UTC"}).format(new Date(iso + "T00:00:00Z")); }
+  catch (e) { return iso; }
+}
+
+function el(tag, attrs = {}, ...kinderen) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "text") e.textContent = v; else if (v !== null && v !== undefined) e.setAttribute(k, v);
+  }
+  for (const k of kinderen) if (k) e.append(k);
+  return e;
+}
+
+function kort(tekst) { return tekst.length > MAX ? tekst.slice(0, MAX).trimEnd() + " …" : tekst; }
+function sleutel() { return "dossier-versies-" + DATA.dossier; }
+function bewaarLokaal() { try { localStorage.setItem(sleutel(), JSON.stringify(staat)); } catch (e) {} }
+function leesLokaal() { try { return JSON.parse(localStorage.getItem(sleutel()) || "{}") || {}; } catch (e) { return {}; } }
+function webadres(url) { return /^https?:\/\//.test(url || "") ? url : null; }
+
+function schrijf(id) {
+  bewaarLokaal();
+  if (!db) return;
+  const s = staat[id] || {};
+  const doc = {oordeel: s.oordeel || null, zonder: s.zonder || [], opmerking: s.opmerking || "", tijd: new Date().toISOString()};
+  wachtrij[id] = (wachtrij[id] || Promise.resolve()).then(() => db.collection(PAD).doc(id).set(doc)).catch(fout => {
+    document.getElementById("melding").textContent = fout && (fout.code === "invalid_argument" || fout.code === "permission_denied")
+      ? "Je kunt hier kijken, maar niet kiezen." : "Opslaan lukte niet; probeer het zo nog eens.";
+  });
+}
+
+function stand() {
+  const n = DATA.groepen.length;
+  let gelezen = 0, ja = 0;
+  for (const g of DATA.groepen) {
+    const s = staat[g.sleutel];
+    if (s && s.oordeel) { gelezen++; if (s.oordeel === "ja") ja++; }
+  }
+  document.getElementById("stand-telling").textContent = gelezen + " van " + n;
+  document.getElementById("stand-ja").textContent = String(ja);
+  document.getElementById("stand-nee").textContent = String(gelezen - ja);
+  document.getElementById("balk").style.width = (n ? 100 * gelezen / n : 0) + "%";
+}
+
+function teken(g, i) {
+  const s = staat[g.sleutel] || {};
+  const zonder = new Set(s.zonder || []);
+  const talen = new Set(g.kaarten.map(k => k.taal));
+  const kaart = el("article", {class: "kaart" + (s.oordeel ? " klaar" : ""), id: "groep-" + i, "aria-labelledby": "kop-" + i});
+  kaart.hidden = alleenOpen && Boolean(s.oordeel);
+  kaart.append(el("div", {class: "kop"},
+    el("span", {class: "label", id: "kop-" + i, text: "Groep " + (i + 1) + " van " + DATA.groepen.length + " · " + g.kaarten.length +
+      " factchecks · " + talen.size + (talen.size === 1 ? " taal" : " talen")}),
+    el("span", {class: "label staat", text: s.oordeel ? "gelezen" : "nog open"})));
+  const leden = el("ul", {class: "leden"});
+  g.kaarten.forEach((k, j) => {
+    const uit = zonder.has(k.id);
+    const lid = el("li", {class: "lid" + (uit ? " uit" : "")});
+    lid.append(el("p", {class: "bewering", lang: k.taal === "und" ? null : k.taal, dir: k.richting, text: kort(k.bewering)}));
+    if (k.vertaling) {
+      lid.append(el("div", {class: "vertaling"}, el("span", {class: "label", text: "Vertaling, door een model"}),
+        el("p", {text: kort(k.vertaling)})));
+    }
+    const bron = el("p", {class: "bron"});
+    bron.append(taalnaam(k.taal) + " · " + (k.redacties || []).join(", ") + " · " + datum(k.datum) + " · " + (LABEL[k.label] || "zonder vast label"));
+    if (webadres(k.url)) { bron.append(" · ", el("a", {href: k.url, target: "_blank", rel: "noopener noreferrer", text: "Lees de factcheck"})); }
+    lid.append(bron);
+    const knop = el("button", {type: "button", id: "uit-" + i + "-" + j, "aria-pressed": String(uit), text: "Hoort hier niet bij"});
+    knop.addEventListener("click", () => {
+      const nu = staat[g.sleutel] || {};
+      const lijst = new Set(nu.zonder || []);
+      if (lijst.has(k.id)) lijst.delete(k.id); else lijst.add(k.id);
+      staat[g.sleutel] = {...nu, zonder: [...lijst]};
+      schrijf(g.sleutel); herteken(g, i, "uit-" + i + "-" + j);
+    });
+    lid.append(knop);
+    leden.append(lid);
+  });
+  kaart.append(leden);
+
+  const keus = el("div", {class: "keus", role: "group", "aria-label": "Is dit één bericht?"}, el("span", {class: "groepsvraag", text: "Is dit één bericht?"}));
+  for (const [waarde, tekst] of [["ja", "Eén bericht"], ["nee", "Niet één bericht"]]) {
+    const knop = el("button", {type: "button", id: "knop-" + waarde + "-" + i, "aria-pressed": String(s.oordeel === waarde), text: tekst});
+    knop.addEventListener("click", () => {
+      const nu = staat[g.sleutel] || {};
+      staat[g.sleutel] = {...nu, oordeel: nu.oordeel === waarde ? null : waarde};
+      schrijf(g.sleutel); herteken(g, i, "knop-" + waarde + "-" + i);
+    });
+    keus.append(knop);
+  }
+  kaart.append(keus);
+
+  const veld = el("textarea", {id: "opmerking-" + i, rows: "1", placeholder: "Bijvoorbeeld bij een grijs gebied. Hoeft niet."});
+  veld.value = s.opmerking || "";
+  veld.addEventListener("input", () => {
+    staat[g.sleutel] = {...(staat[g.sleutel] || {}), opmerking: veld.value};
+    clearTimeout(uitstel[g.sleutel]);
+    uitstel[g.sleutel] = setTimeout(() => schrijf(g.sleutel), 1200);
+  });
+  veld.addEventListener("change", () => { clearTimeout(uitstel[g.sleutel]); schrijf(g.sleutel); });
+  kaart.append(el("div", {class: "notitie"}, el("label", {class: "label", for: "opmerking-" + i, text: "Notitie"}), veld));
+  return kaart;
+}
+
+function herteken(g, i, focus) {
+  const oud = document.getElementById("groep-" + i);
+  const nieuw = teken(g, i);
+  nieuw.hidden = false;                     // een groep waar je net op klikte, verdwijnt niet onder je vinger
+  if (oud) oud.replaceWith(nieuw);
+  if (focus) { const doel = document.getElementById(focus); if (doel) doel.focus({preventScroll: true}); }
+  stand();
+}
+
+function tekenAlles() {
+  document.getElementById("groepen").replaceChildren(...DATA.groepen.map(teken));
+  stand();
+}
+
+document.getElementById("naam").textContent = DATA.naam;
+document.getElementById("n-groepen").textContent = String(DATA.groepen.length);
+document.getElementById("alleen-open").addEventListener("click", e => {
+  alleenOpen = !alleenOpen;
+  e.currentTarget.setAttribute("aria-pressed", String(alleenOpen));
+  tekenAlles();
+});
+
+Object.assign(staat, leesLokaal());
+tekenAlles();
+
+(async () => {
+  db = window.claude && window.claude.use ? await window.claude.use("db") : null;
+  const melding = document.getElementById("melding");
+  if (!db) { melding.textContent = "Deze weergave bewaart je keuzes alleen in deze browser."; return; }
+  const wacht = setTimeout(() => { melding.textContent = "De bewaarde keuzes zijn nog niet bereikbaar; je kunt al wel kiezen."; }, 10000);
+  db.collection(PAD).onSnapshot(snap => {
+    if (!snap.metadata || !snap.metadata.fromCache) { clearTimeout(wacht); melding.textContent = "Je keuzes worden bewaard."; }
+    const index = Object.fromEntries(DATA.groepen.map((g, i) => [g.sleutel, i]));
+    for (const d of snap.docs) {
+      if (!(d.id in index)) continue;
+      const w = d.data() || {};
+      const nu = staat[d.id] || {};
+      const zelfde = (nu.oordeel || null) === (w.oordeel || null) && (nu.opmerking || "") === (w.opmerking || "") &&
+        JSON.stringify([...(nu.zonder || [])].sort()) === JSON.stringify([...(w.zonder || [])].sort());
+      if (zelfde) continue;
+      const i = index[d.id];
+      const bezig = document.activeElement && document.activeElement.id === "opmerking-" + i;
+      staat[d.id] = {oordeel: w.oordeel || null, zonder: w.zonder || [], opmerking: bezig ? (nu.opmerking || "") : (w.opmerking || "")};
+      if (!bezig) herteken(DATA.groepen[i], i, null);
+    }
+    bewaarLokaal(); stand();
+  }, () => { clearTimeout(wacht); melding.textContent = "De bewaarde keuzes zijn nu niet bereikbaar; je kunt wel kiezen in deze browser."; });
+})();
+</script>

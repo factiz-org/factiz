@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bild einer beschmierten Statue von Anne Frank wurde mit KI erstellt",
+  "oordeel_zin": "Das Bild zeigt eine Statue, die nicht existiert, und seit August 2024 wurde keine Beschmierung gemeldet [5] [6].",
+  "bewering": "Die Statue von Anne Frank in Amsterdam ist beschmiert.",
+  "kort": "Seit dem 8. November kursiert auf X ein Bild einer Statue von Anne Frank, die gerade beschmiert worden sein soll [9]. Das Bild wurde mit KI erstellt und zeigt eine Statue, die nicht existiert [5]. Die echte Statue auf dem Merwedeplein in Amsterdam wurde im Juli und August 2024 beschmiert, und seitdem wurde keine neue Beschmierung gemeldet [1] [6].",
+  "tekst": "Amsterdam hat zwei Statuen von Anne Frank. Die eine steht bei der Westerkerk, nahe dem Anne Frank Haus. Die andere steht auf dem Merwedeplein im Viertel Rivierenbuurt, gegenüber dem Haus, in dem die Familie Frank von 1933 bis 1942 wohnte. Diese zweite Statue, von Jet Schepp, ist ein bronzenes Mädchen mit Schultasche, das sich zum Platz umschaut, auf einer Säule aus rosa Stein [4].\n\nDiese Statue auf dem Merwedeplein wurde 2024 zweimal beschmiert. Am 9. Juli stand mit roter Farbe „Gaza“ auf dem Sockel, mit roten Flecken an den Füßen; der Stadtteil ließ es noch am selben Tag reinigen [3] [8]. In der Nacht vom 3. auf den 4. August folgte „Free Gaza“, und die Hände der Statue wurden rot gefärbt, genau 80 Jahre nach der Verhaftung der Untergetauchten aus dem Hinterhaus [1] [2]. In dieser Nacht wurden in Amsterdam-Zuid mindestens sechs Statuen beschmiert [2].\n\nDas Bild, das jetzt kursiert, ist etwas anderes. AAP FactCheck, die Faktencheck-Redaktion der australischen Nachrichtenagentur, fand es am 6. November auf Facebook und auf X: eine maskierte Person, die „Free Palestine“ auf eine Statue von Anne Frank mit einer Kufiya um den Hals sprüht [5]. Diese Statue gleicht keiner der beiden in Amsterdam. Auf dem Schild daneben steht ein falsches Zitat aus dem Tagebuch, mit einem Tippfehler [5].\n\nEine neue Beschmierung fanden wir nicht. Das Anne Frank Haus meldet seit August 2024 nichts über die Statue [7]. Als die Bürgermeisterin im September 2025 die Kameraüberwachung auf dem Merwedeplein verlängerte, nannte die Gemeinde als Grund nur die beiden Beschmierungen von 2024 [6]. AAP, die selbst nach jüngeren Beschmierungen suchte, fand ebenfalls nur die von 2024 [5].",
+  "niet_weten": "Wir wissen nicht, wer das Bild erstellt hat. Dass es im Oktober und November 2026 keine Beschmierung gab, schließen wir aus Meldungen, die es nicht gibt, beim Anne Frank Haus, bei der NOS und bei der Gemeinde. Meldungen der Polizei und das Archiv von Het Parool haben wir nicht durchsucht.",
+  "nog_uitzoeken": [
+   "Was das zweite Bild des Paares ist. Handelt es sich um ein echtes Foto vom 4. August 2024, das als neu präsentiert wird, dann passt zu diesem Bild eher irreführend.",
+   "Ob die Polizei oder AT5 im Oktober oder November 2026 eine Beschmierung der Statue meldete. Diese Berichte haben wir nicht durchsucht."
+  ],
+  "tijdlijn": [
+   "Die Statue von Jet Schepp auf dem Merwedeplein wird enthüllt [4].",
+   "Erste Beschmierung: „Gaza“ auf dem Sockel, noch am selben Tag gereinigt [3].",
+   "Zweite Beschmierung: „Free Gaza“ und rot gefärbte Hände [1].",
+   "Die Bürgermeisterin verlängert die Kameraüberwachung, mit nur den Beschmierungen von 2024 als Grund [6].",
+   "Das KI-Bild steht auf Facebook und auf X [5].",
+   "Mindestens fünf Posts auf X verbreiten eine beschmierte Statue als Nachricht [9].",
+   "AAP FactCheck: Das Bild wurde mit KI erstellt [5]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 8. November 2026, einer von mindestens fünf.",
+   "Die echte Statue auf dem Merwedeplein, von Jet Schepp, enthüllt am 9. Juli 2005. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "Ein mit KI erstelltes Bild einer beschmierten Statue von Anne Frank. Stempel: FALSCH.",
+   "Die Bronzestatue von Anne Frank auf dem Merwedeplein in Amsterdam."
+  ]
+ }
+}

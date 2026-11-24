@@ -1,0 +1,33 @@
+{
+  "_meta": "Probes for `python -m conformance <url> --proeven` (RELEASES step 4, RUNBOOK, #23.4). Three are verbatim claim texts from the corpus, so the `matched` path is exercised; we wrote the fourth ourselves, and it only matches through a claim variant. LICENCE: the corpus texts come from the Data Commons ClaimReview feed and are under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); each corpus probe names its publisher and fact-check under `source`. They have not been modified.",
+  "probes": [
+    {
+      "name": "corpusclaim-nl",
+      "text": "Windturbines veroorzaken klimaatverandering, in plaats van deze tegen te gaan.",
+      "source": {
+        "publisher": "dpa",
+        "fact_check": "https://dpa-factchecking.com/netherlands/240430-99-865807"
+      }
+    },
+    {
+      "name": "corpusclaim-en",
+      "text": "The image shows Niramala Sitharaman posing with her daughter, who is an Indian army personnel.",
+      "source": {
+        "publisher": "THE QUINT",
+        "fact_check": "https://www.thequint.com/news/webqoof/thats-not-nirmala-sitharamans-daughter-in-this-viral-photo"
+      }
+    },
+    {
+      "name": "corpusclaim-es",
+      "text": "¿Este soldado que habla en ucraniano está despidiéndose de sus padres durante la invasión de Rusia a Ucrania?",
+      "source": {
+        "publisher": "elDetector/Univision Noticias",
+        "fact_check": "https://www.univision.com/noticias/imagenes-no-autenticas-video-invasion-rusa-ucrania-tercera-guerra-mundial"
+      }
+    },
+    {
+      "name": "variant-en",
+      "text": "Migrant workers from Bihar are being attacked in Tamil Nadu"
+    }
+  ]
+}

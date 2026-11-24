@@ -1,0 +1,340 @@
+{
+ "toelichting": "PLAN #34.2bw, maatregel 2: mijn lezing van de tweede lezing door Sonnet (minderjarig-v1) van de 182 minderjarigen in een gevoelige context die Haiku noemde (privepersoon-v1, uitgave 2026-11-22). Een vaste greep van 40 bevestigde (initialen op de pagina) en 25 afgewezen (zaad 2215). goed = terecht; publiek = een historische of wereldbekende naam, initialen te voorzichtig; geen naam = een omschrijving, initialen overbodig; twijfel = afgewezen maar mogelijk een minderjarige privépersoon (de pagina blijft hoe dan ook buiten zoekmachines). Herkomst: de beweringen komen uit de publicatiedatabase van Factiz (openbare factchecks met hun eigen licentie, zie de bronnen); de labels zijn van Claude.",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-22",
+ "bevestigd": 119,
+ "afgewezen": 63,
+ "labels": {
+  "50fc5558ae06e483": {
+   "groep": "bevestigd",
+   "naam": "Sonal Patel",
+   "label": "goed"
+  },
+  "c74f2aa1c6167a0c": {
+   "groep": "bevestigd",
+   "naam": "ஆஷிஃபா",
+   "label": "goed"
+  },
+  "acb5d6cbd72a87a7": {
+   "groep": "bevestigd",
+   "naam": "George Stinney Jr",
+   "label": "publiek",
+   "notitie": "historisch, in 1944 terechtgesteld, wereldbekend"
+  },
+  "439c26f56775f717": {
+   "groep": "bevestigd",
+   "naam": "శివ ఉప్పర్",
+   "label": "goed"
+  },
+  "8eac5d9fb6b085b7": {
+   "groep": "bevestigd",
+   "naam": "Ly",
+   "label": "goed"
+  },
+  "9039bc4b9c52ed01": {
+   "groep": "bevestigd",
+   "naam": "July",
+   "label": "goed"
+  },
+  "94e8dbdc4478e3ca": {
+   "groep": "bevestigd",
+   "naam": "Nahel M.",
+   "label": "goed"
+  },
+  "17659f4a805768b1": {
+   "groep": "bevestigd",
+   "naam": "विष्णु",
+   "label": "goed"
+  },
+  "78726f30878bb9c8": {
+   "groep": "bevestigd",
+   "naam": "Ali-Al-Shakati",
+   "label": "goed"
+  },
+  "d373babca93e8dbb": {
+   "groep": "bevestigd",
+   "naam": "ÁGATHA",
+   "label": "goed"
+  },
+  "796194b12579502f": {
+   "groep": "bevestigd",
+   "naam": "আতিক",
+   "label": "goed"
+  },
+  "82e3f5f4aeed14e3": {
+   "groep": "bevestigd",
+   "naam": "Alan Kurdi",
+   "label": "publiek",
+   "notitie": "wereldbekend door de foto uit 2015"
+  },
+  "91fbb452d4ddef0c": {
+   "groep": "bevestigd",
+   "naam": "মে‌হেদী হাসান সাগর",
+   "label": "goed"
+  },
+  "14a0128051e731f2": {
+   "groep": "bevestigd",
+   "naam": "Nael",
+   "label": "goed"
+  },
+  "63048a244868b9c7": {
+   "groep": "bevestigd",
+   "naam": "শামীম",
+   "label": "goed"
+  },
+  "afbbdcad98b0e824": {
+   "groep": "bevestigd",
+   "naam": "சுர்ஜித் வில்சன்",
+   "label": "goed"
+  },
+  "7215dedba9078ba2": {
+   "groep": "bevestigd",
+   "naam": "সুসমিতা জান্নাত",
+   "label": "goed"
+  },
+  "c4d53fdc9ea7f0f0": {
+   "groep": "bevestigd",
+   "naam": "Vitória",
+   "label": "goed"
+  },
+  "f3a1d2d891655d85": {
+   "groep": "bevestigd",
+   "naam": "Akono",
+   "label": "goed"
+  },
+  "8251333729b86dfd": {
+   "groep": "bevestigd",
+   "naam": "আব্দুল্লাহ",
+   "label": "goed"
+  },
+  "da121f4217cec0d9": {
+   "groep": "bevestigd",
+   "naam": "Rizwan",
+   "label": "goed"
+  },
+  "21a92ba67194e9e4": {
+   "groep": "bevestigd",
+   "naam": "Jamna Kumari",
+   "label": "goed"
+  },
+  "08ed074132ec60b6": {
+   "groep": "bevestigd",
+   "naam": "Agatha",
+   "label": "goed"
+  },
+  "bfd1353c03d6dbd8": {
+   "groep": "bevestigd",
+   "naam": "Ali Al Shakati",
+   "label": "goed"
+  },
+  "58128233701e84f5": {
+   "groep": "bevestigd",
+   "naam": "Alice",
+   "label": "goed"
+  },
+  "700eaba990fefe38": {
+   "groep": "bevestigd",
+   "naam": "Benjamín López",
+   "label": "goed"
+  },
+  "b6356f8bf427e9d7": {
+   "groep": "bevestigd",
+   "naam": "Nahel",
+   "label": "goed"
+  },
+  "4caee9475fb9f50a": {
+   "groep": "bevestigd",
+   "naam": "فوزیه امین سیدو",
+   "label": "goed"
+  },
+  "990c6d415c3e1336": {
+   "groep": "bevestigd",
+   "naam": "Baby Clarence",
+   "label": "goed"
+  },
+  "c7a6adcb0234b75b": {
+   "groep": "bevestigd",
+   "naam": "इंद्र मेघवाल",
+   "label": "goed"
+  },
+  "6d4b6bfa70ce26a8": {
+   "groep": "bevestigd",
+   "naam": "Kalutara schoolgirl",
+   "label": "geen naam",
+   "notitie": "een omschrijving, geen naam: initialen zijn overbodig maar onschuldig"
+  },
+  "a4bf6d9646e47952": {
+   "groep": "bevestigd",
+   "naam": "Indra Meghwal",
+   "label": "goed"
+  },
+  "7f1df8966165658c": {
+   "groep": "bevestigd",
+   "naam": "তাহমিদ",
+   "label": "goed"
+  },
+  "6053fddc82090ec7": {
+   "groep": "bevestigd",
+   "naam": "கதுவா சிறுமி",
+   "label": "geen naam",
+   "notitie": "'het meisje uit Kathua', een omschrijving; haar naam is in India beschermd"
+  },
+  "f13b6694e6e7e5b2": {
+   "groep": "bevestigd",
+   "naam": "அனஹிதா",
+   "label": "goed"
+  },
+  "12c3cb718fb5327a": {
+   "groep": "bevestigd",
+   "naam": "Muhammad Nazzal",
+   "label": "goed"
+  },
+  "15567762358d2617": {
+   "groep": "bevestigd",
+   "naam": "Sonal Bipin Patel",
+   "label": "goed"
+  },
+  "c31af20e54d73a78": {
+   "groep": "bevestigd",
+   "naam": "Nahel",
+   "label": "goed"
+  },
+  "c09efb4802fec7f8": {
+   "groep": "bevestigd",
+   "naam": "Marta del Castillo",
+   "label": "goed"
+  },
+  "3c6dadb98f48878f": {
+   "groep": "bevestigd",
+   "naam": "Manoj Pandey",
+   "label": "goed"
+  },
+  "488e085ae38a7760": {
+   "groep": "afgewezen",
+   "naam": "Pete Buttigieg",
+   "label": "goed"
+  },
+  "bf8eb935a07b4427": {
+   "groep": "afgewezen",
+   "naam": "Peter Buttigieg",
+   "label": "goed"
+  },
+  "94a55b2ab7dbe33c": {
+   "groep": "afgewezen",
+   "naam": "David Miller",
+   "label": "goed"
+  },
+  "467b0979086706a9": {
+   "groep": "afgewezen",
+   "naam": "Quaden Bayles",
+   "label": "goed"
+  },
+  "e7f8bb60078544ab": {
+   "groep": "afgewezen",
+   "naam": "Caracal",
+   "label": "goed"
+  },
+  "7a5687f20cc4027f": {
+   "groep": "afgewezen",
+   "naam": "NYPD",
+   "label": "goed"
+  },
+  "7cae3ad3da080632": {
+   "groep": "afgewezen",
+   "naam": "Mirco Nontschew",
+   "label": "goed"
+  },
+  "7cbe9bb4cfcba4a5": {
+   "groep": "afgewezen",
+   "naam": "Musharraf Khan",
+   "label": "goed"
+  },
+  "1d0140c0287b2008": {
+   "groep": "afgewezen",
+   "naam": "Bomet",
+   "label": "goed"
+  },
+  "69d6b87a23ed59e8": {
+   "groep": "afgewezen",
+   "naam": "Valliyur",
+   "label": "goed"
+  },
+  "c790dd167bbcc665": {
+   "groep": "afgewezen",
+   "naam": "Barack Obama",
+   "label": "goed"
+  },
+  "ddb3f57873435418": {
+   "groep": "afgewezen",
+   "naam": "इंद्र मेघवाल",
+   "label": "goed"
+  },
+  "76cacd02bc3b24b4": {
+   "groep": "afgewezen",
+   "naam": "කුලියාපිටිය ඩිෆෙන්ඩර",
+   "label": "goed"
+  },
+  "e3f4c392198cd0ac": {
+   "groep": "afgewezen",
+   "naam": "ஷின் சான்",
+   "label": "goed"
+  },
+  "156881f8656ec14f": {
+   "groep": "afgewezen",
+   "naam": "Kriti",
+   "label": "twijfel",
+   "notitie": "studente in Kota, leeftijd niet in de bewering"
+  },
+  "552ba30063f85553": {
+   "groep": "afgewezen",
+   "naam": "S.G.சூரியா",
+   "label": "goed"
+  },
+  "9f22220028a2a3d0": {
+   "groep": "afgewezen",
+   "naam": "Hassan Manasra",
+   "label": "goed"
+  },
+  "6291c51637ace3e2": {
+   "groep": "afgewezen",
+   "naam": "Penny",
+   "label": "goed"
+  },
+  "b8eee6d81cde4cc1": {
+   "groep": "afgewezen",
+   "naam": "Vlad Kolesnikov",
+   "label": "goed"
+  },
+  "e70b1f0db10c8757": {
+   "groep": "afgewezen",
+   "naam": "Natalia",
+   "label": "twijfel",
+   "notitie": "dochter van Kobe Bryant, minderjarig in de hoax over zelfdoding; Sonnet noemde haar publiek"
+  },
+  "cdd606961c3c08b6": {
+   "groep": "afgewezen",
+   "naam": "RM VM School",
+   "label": "goed"
+  },
+  "c0cf08e6bb9b0b8a": {
+   "groep": "afgewezen",
+   "naam": "షారుఖ్ ఖాన్ కుమారుడు",
+   "label": "goed"
+  },
+  "2510d9b4caee8d1e": {
+   "groep": "afgewezen",
+   "naam": "Zachary Neagle",
+   "label": "goed"
+  },
+  "10184551b79d7842": {
+   "groep": "afgewezen",
+   "naam": "පුත්තලම",
+   "label": "goed"
+  },
+  "4a9313728ed8da3c": {
+   "groep": "afgewezen",
+   "naam": "Anne Frank",
+   "label": "goed"
+  }
+ }
+}

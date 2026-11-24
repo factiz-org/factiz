@@ -1,0 +1,991 @@
+{
+ "toelichting": "De steekproef op het maskeren (PLAN #32.65): per echt screenshot van N wat in de tekst en het beeld naar het model nog leesbaar is; door twee deelagenten, zonder volledige namen of nummers.",
+ "labels": {
+  "n-sn-000": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post door de dataset gepixeld; niets leesbaar",
+   "twijfel": ""
+  },
+  "n-sn-001": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 1,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 2,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "accountnaam van een nieuwskanaal (e...) in tekst en beeld, plus profiellink /E... in het beeld; gewonde vrouw en tweede vrouw herkenbaar",
+   "twijfel": "de handles zijn van een nieuwskanaal, geen privepersoon; de naam boven de post en 'is with ... and 5 others' zijn door de dataset licht vervaagd en deels te raden, niet geteld"
+  },
+  "n-sn-002": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post onvervaagd in het beeld, 2 woorden (S... K...); de OCR mist de kop, dus niet in de tekst",
+   "twijfel": "T. E., genoemd als voorzitter van een college, is onderwerp van de bewering (in de tekst verminkt, in het beeld leesbaar), niet geteld; kerkgangers op de foto herkenbaar"
+  },
+  "n-sn-003": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": true,
+   "voorbeelden": "naam van de plaatser van de doorgestuurde post, 2 woorden (R... C...), letterlijk in de tekst en groot in het beeld; demonstranten en profielfoto herkenbaar",
+   "twijfel": "naam van de buitenste post en van een commentator licht vervaagd door de dataset, niet geteld"
+  },
+  "n-sn-004": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post gepixeld; alleen publieke personen (premier en gezin)",
+   "twijfel": ""
+  },
+  "n-sn-005": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 2
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 2
+   },
+   "gezicht": false,
+   "voorbeelden": "twee namen in de regel met reacties (G... en S... M... K..., 1 en 3 woorden), in tekst en beeld",
+   "twijfel": "G... kan een bijnaam of pagina zijn; naam boven de post vervaagd (lijkt een sportpagina)"
+  },
+  "n-sn-006": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post vervaagd; de veteraan op de foto's herkenbaar",
+   "twijfel": "de veteraan (hashtag P...D...) is het onderwerp van de bewering maar zelf geen publiek persoon; in het beeld leesbaar, in de tekst half verminkt; niet geteld"
+  },
+  "n-sn-007": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam en 'is with ...' vervaagd door de dataset; menigte met herkenbare gezichten",
+   "twijfel": ""
+  },
+  "n-sn-008": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 1,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 3,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "verminkte @handle van het medium P... in de tekst ('_@r...'): de underscore ervoor laat de handleregel van maskeer missen; in het beeld drie accountnamen van hetzelfde medium in de voetregel, een met @",
+   "twijfel": "alle handles zijn van een medium, geen privepersoon; naam boven de post vervaagd"
+  },
+  "n-sn-009": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post en naam plus handle van het geciteerde account vervaagd door de dataset",
+   "twijfel": "de vervaging van het geciteerde account (C... A K S R...) is licht en deels te raden; niet geteld"
+  },
+  "n-sn-010": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post gepixeld; nieuwslezer op tv (publiek)",
+   "twijfel": ""
+  },
+  "n-sn-011": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post gepixeld; niets leesbaar",
+   "twijfel": ""
+  },
+  "n-sn-012": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post gepixeld; niets leesbaar",
+   "twijfel": ""
+  },
+  "n-sn-013": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "alleen publieke personen genoemd en op de foto",
+   "twijfel": "naam boven de post licht vervaagd en deels te raden; lijkt een fanpagina van een politicus, geen privepersoon"
+  },
+  "n-sn-014": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "7 zwarte vakken op avatar en labels naast de naam; namen van plaatser en vier commentatoren waren al vervaagd door de dataset; de commentaarteksten zelf gaan wel mee; vrouw op de foto herkenbaar",
+   "twijfel": "de vrouw is het onderwerp van de bewering en een privepersoon"
+  },
+  "n-sn-015": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post gepixeld; het kind op de foto herkenbaar (minderjarige, onderwerp)",
+   "twijfel": ""
+  },
+  "n-sn-016": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post gepixeld; alleen publieke personen genoemd",
+   "twijfel": "kleine gezichten in autoramen, nauwelijks herkenbaar"
+  },
+  "n-sn-017": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post vervaagd; vijf mannen met goud herkenbaar",
+   "twijfel": "naam boven de post licht vervaagd, deels te raden; niet geteld"
+  },
+  "n-sn-018": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam en handle van de tweet gepixeld; man en vrouw in het water herkenbaar",
+   "twijfel": "'dame,' in de tekst is OCR van de gepixelde naam, geen echte naam"
+  },
+  "n-sn-019": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post vervaagd; alleen een publieke sporter (met bijnaam)",
+   "twijfel": ""
+  },
+  "n-sn-020": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post vervaagd",
+   "twijfel": "de vervaging is licht (A... S...), deels te raden; 'Mr H...' in de tekst is OCR-ruis van die naam, leest als een naam maar is niet de echte"
+  },
+  "n-sn-021": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post vervaagd; niets leesbaar",
+   "twijfel": ""
+  },
+  "n-sn-022": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "watermerk met een persoonsnaam, 3 delen (M... N. G...), groot onder de foto; niet in de tekst",
+   "twijfel": "maker of verspreider van het beeld; kan een bekende maker zijn"
+  },
+  "n-sn-023": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "vaag watermerk als hashtag met een naam, 2 woorden (K... N...), over de foto; niet in de tekst",
+   "twijfel": "watermerk is half doorzichtig en kan een pagina zijn; naam boven de post vervaagd"
+  },
+  "n-sn-024": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "geen naam boven de post zichtbaar; genoemde personen zijn onderwerp",
+   "twijfel": "S... B., zoon van een generaal, is onderwerp en half publiek; de jongeman in het midden is mogelijk een privepersoon"
+  },
+  "n-sn-025": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post vervaagd; omstanders rond een acteur herkenbaar",
+   "twijfel": "naam boven de post licht vervaagd, deels te raden; niet geteld"
+  },
+  "n-sn-026": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post vervaagd; 'man a me' in de tekst is OCR-ruis daarvan",
+   "twijfel": "de vervaging is licht (B... J... D...), deels te raden; profielfoto heel klein"
+  },
+  "n-sn-027": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam boven de post en de gedeelde kop vervaagd; niets leesbaar",
+   "twijfel": ""
+  },
+  "n-sn-028": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam boven de post al zwart in het origineel (0 vakken van Factiz); gezicht van een jongeman op het bord herkenbaar",
+   "twijfel": ""
+  },
+  "n-sn-029": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets persoonlijks; naam van de plaatser al vervaagd in de bron",
+   "twijfel": "licht vervaagde naam boven de post (2 woorden, N... B...) is met moeite te raden, niet geteld; op het billboard staat een campagnenummer van de partij (organisatie, geen privénummer), leesbaar in het beeld, niet geteld"
+  },
+  "n-sn-030": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "'Courtesy: R...' (1 woord) in tekst en beeld; plaatser en commentator al vervaagd in de bron",
+   "twijfel": "R... wordt genoemd als maker van de tekst; onduidelijk of dit een privépersoon is"
+  },
+  "n-sn-031": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "naam van de oorspronkelijke plaatser van de gedeelde post (Hindi, 2 woorden, S... G...) leesbaar in het beeld; in de tekst door OCR verminkt tot onleesbaar",
+   "twijfel": ""
+  },
+  "n-sn-032": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets persoonlijks; plaatser al vervaagd in de bron",
+   "twijfel": "vaag watermerk '@Y...' op de foto (lijkt een fanpagina van een politicus), alleen ingezoomd deels leesbaar, niet geteld"
+  },
+  "n-sn-033": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "hashtag met een voornaam (#R..., 1 woord) als ondertekening in tekst en beeld; groepsnaam al vervaagd",
+   "twijfel": "de hashtag-voornaam is waarschijnlijk de ondertekening van de plaatser, maar dat is niet zeker"
+  },
+  "n-sn-034": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "naam van het plaatsende blog ('S...'s Blog') in tekst en beeld; publiek persoon (vicepresident) telt niet",
+   "twijfel": "het blog is de plaatser zelf (bovenaan vervaagd), maar het is een blognaam, geen persoonsnaam; niet geteld"
+  },
+  "n-sn-035": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets in tekst of beeld; naam al vervaagd; gezichten van artsen en omstanders naast een publiek persoon",
+   "twijfel": ""
+  },
+  "n-sn-036": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets in tekst of beeld; naam al vervaagd; gezicht van een baby",
+   "twijfel": ""
+  },
+  "n-sn-037": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 3
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 4
+   },
+   "gezicht": false,
+   "voorbeelden": "namen van commentatoren: in de tekst 3 (H... S... deels, K... M..., A... K...), in het beeld 4 (ook M... S...)",
+   "twijfel": "kleine profielfoto's van commentatoren met gezicht, nauwelijks herkenbaar, gezicht op false gezet"
+  },
+  "n-sn-038": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "handle zwart in het beeld en [handle] in de tekst, maar de weergavenaam 'N...' (pseudoniem, bijna gelijk aan de handle) staat in tekst en beeld",
+   "twijfel": "de weergavenaam is een pseudoniem dat vrijwel de handle is; als prive_naam geteld. Klein in het beeld nog de handle van een publiek persoon (K...), niet geteld; in de tekst blijft '-who' over van de handle"
+  },
+  "n-sn-039": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd",
+   "twijfel": "kind op de foto lijkt door AI gemaakt, dus geen echt gezicht; gezicht op false gezet"
+  },
+  "n-sn-040": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets in tekst of beeld; naam al vervaagd; gezichten van agent en omstanders naast een publiek persoon",
+   "twijfel": ""
+  },
+  "n-sn-041": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd; hashtag verwijst naar een publiek persoon",
+   "twijfel": "foto is een filmstill met acteurs (publiek), geen privégezicht"
+  },
+  "n-sn-042": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "handle in de tekst en het bijschrift zwart/[handle], maar het watermerk met Instagram-icoon ('k...') in het beeld en de merknaam in hoofdletters in tekst en beeld blijven",
+   "twijfel": "het is een feitjespagina, geen persoon; niet geteld. Het masker maakte ook een gewoon woord ('LifeHacks!') zwart"
+  },
+  "n-sn-043": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 1,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "handle '@Y...2' leesbaar in het beeld, niet zwart gemaakt; in de tekst niet aanwezig (OCR miste hem)",
+   "twijfel": "onduidelijk of het account van een privépersoon of van een lokale politicus is"
+  },
+  "n-sn-044": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets in tekst; naam al vervaagd; gezicht van een vrouw op de achtergrond",
+   "twijfel": "licht vervaagde naam van de plaatser (3 woorden, R... S... H...) is met moeite te raden, niet geteld"
+  },
+  "n-sn-045": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "naam van de vermeende politicus (A... A...) in tekst en beeld; gezichten van de aangehouden man en agenten",
+   "twijfel": "de genoemde man is het onderwerp van de bewering en wordt een partijleider genoemd; als publiek onderwerp niet geteld, maar of hij echt publiek is, is twijfelachtig"
+  },
+  "n-sn-046": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd",
+   "twijfel": ""
+  },
+  "n-sn-047": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd",
+   "twijfel": ""
+  },
+  "n-sn-048": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd; arbeiders klein en van boven",
+   "twijfel": ""
+  },
+  "n-sn-049": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets; namen op Twitter en Facebook al vervaagd; gezichten van een jongen en volwassenen",
+   "twijfel": ""
+  },
+  "n-sn-050": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": true,
+   "voorbeelden": "naam van de plaatser (3 woorden, ...K... S...) licht vervaagd maar grotendeels leesbaar in het beeld; commentatoren sterker vervaagd",
+   "twijfel": "vervaging in de bron is licht; ik tel de naam van de plaatser als leesbaar, de commentatoren niet. Gezichten: tafelgasten naast een publiek persoon, mogelijk privé"
+  },
+  "n-sn-051": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al vervaagd",
+   "twijfel": ""
+  },
+  "n-sn-052": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "handle zwart/[handle], maar de weergavenaam (titel + 2 woorden, G... A...) staat in tekst en beeld",
+   "twijfel": "mogelijk een (semi-)publieke commentator; niet zeker"
+  },
+  "n-sn-053": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": true,
+   "voorbeelden": "niets in tekst; naam al vervaagd; gezichten van privépersonen (paar, moeder en zoon)",
+   "twijfel": ""
+  },
+  "n-sn-054": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": false,
+   "voorbeelden": "naam van de plaatser (Hindi, 2 woorden, D... K...) leesbaar in het beeld; in de tekst door OCR verminkt",
+   "twijfel": "nieuwslezers op het beeld zijn publiek"
+  },
+  "n-sn-055": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": true,
+   "voorbeelden": "naam (2 woorden, B... P...) bovenaan de posttekst met deel-icoon, in tekst en beeld; gezichten in de menigte",
+   "twijfel": "lijkt de naam van wie de tekst oorspronkelijk schreef of deelde; niet zeker. De genoemde zangeres is het onderwerp, niet geteld"
+  },
+  "n-sn-056": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 0
+   },
+   "gezicht": false,
+   "voorbeelden": "niets; naam al weggehaald; alleen publieke personen",
+   "twijfel": ""
+  },
+  "n-sn-057": {
+   "tekst": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "beeld": {
+    "nummer": 0,
+    "email": 0,
+    "handle": 0,
+    "prive_naam": 1
+   },
+   "gezicht": true,
+   "voorbeelden": "naam van de plaatser (3 delen, M... O L...) in tekst en beeld; profielfoto met gezicht",
+   "twijfel": "profielfoto is klein maar herkenbaar; de mannen op de foto dragen een mondkapje"
+  }
+ }
+}

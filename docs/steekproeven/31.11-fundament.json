@@ -1,0 +1,1147 @@
+{
+ "_meta": "Labels van ronde 1, het fundament (B45, PLAN #31.11 stap 2), 2026-10-27, gelezen door Claude. 'oordelen': per uitkomst (id en oordeel, of id, 10 en feit). Bij een ware zin: 'vals' (onterecht rood) of 'set fout' (de zin is zelf niet waar). Bij een valse zin: 'terecht' (let op met de juiste reden), 'andere reden', 'vals' (klopt terwijl de zin onwaar is), 'bewijst' of 'bewijst niet' (een klopt niet die apart gelezen is), of 'set fout' (de zin is zelf niet onwaar). Bij een 10: 'goed' of 'fout'. 'steekproef': de 12 valse zinnen met klopt niet en een bron, 'past' of 'past niet'.",
+ "oordelen": [
+  {
+   "id": "V021",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: een bekende verdraaiing van de Holocaust (Japan in plaats van nazi-Duitsland); niet gezocht, stand 5"
+  },
+  {
+   "id": "V2-014",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 2: een bekende vorm van verkleining van de Holocaust (zesduizend in plaats van zes miljoen); niet gezocht, stand 5"
+  },
+  {
+   "id": "V3-013",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 1: zo'n gebeurtenis zou breed gemeld zijn en geen bron meldt het; stand 5"
+  },
+  {
+   "id": "V3-001",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-009",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-003",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V000",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-002",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-000",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-007",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-003",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V013",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V002",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-007",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-002",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V003",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-006",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-012",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-001",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V011",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V001",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-000",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-008",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-012",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-013",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V273",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak (EUvsDisinfo) noemt de vergiftiging op 4 maart 2018"
+  },
+  {
+   "id": "V071",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V041",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-169",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt dat Navalny instortte tijdens een vlucht in Rusland"
+  },
+  {
+   "id": "V2-031",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-150",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-039",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V111",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V043",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-210",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V202",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-129",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt dat het Rode Leger op 17 september 1939 de Poolse grens overstak"
+  },
+  {
+   "id": "V301",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-043",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V312",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "de WHO-passage toont niet hoeveel mensen gevaccineerd werden"
+  },
+  {
+   "id": "V363",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-078",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V210",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V153",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V131",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-048",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-201",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-074",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-126",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt 17 september 1939"
+  },
+  {
+   "id": "V040",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V310",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-025",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-037",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-236",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-084",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-026",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-157",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-165",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-145",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-174",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-042",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V140",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V093",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V313",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-224",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-223",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-080",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-158",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V222",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-062",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-042",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V132",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V082",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-111",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-081",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-015",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-153",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-177",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-193",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "de passages tonen niet wie de trials uitvoerde"
+  },
+  {
+   "id": "V2-147",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V373",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V300",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-050",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-120",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt 1 september 1939"
+  },
+  {
+   "id": "V2-216",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-099",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-133",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-015",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V323",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V072",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-218",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "de NOAA-passage noemt alleen de 280 ppm van vóór de industrialisatie, niet de stand van nu"
+  },
+  {
+   "id": "V2-061",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V330",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-201",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V250",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-027",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-097",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt de annexatie door Rusland in maart 2014"
+  },
+  {
+   "id": "V2-170",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-141",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-150",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-057",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V141",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-079",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-096",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt maart 2014"
+  },
+  {
+   "id": "V2-180",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-085",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V231",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-061",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V191",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-168",
+   "oordeel": "klopt niet",
+   "label": "bewijst niet",
+   "waarom": "de teksten uit de database noemen 20 augustus zonder jaartal; het jaar komt alleen uit de datum van de check"
+  },
+  {
+   "id": "V2-225",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V352",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-109",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-092",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-164",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-105",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-073",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V220",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V270",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt 4 maart 2018"
+  },
+  {
+   "id": "V042",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-123",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-237",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V172",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt dat Rusland op 24 februari 2022 begon"
+  },
+  {
+   "id": "V3-207",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-177",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-098",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-213",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-180",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-188",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-093",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-033",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-170",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-234",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V353",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-222",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-217",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V103",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V381",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V351",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-188",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-117",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-135",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak bevestigt het geheime protocol"
+  },
+  {
+   "id": "V2-097",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt de annexatie door Rusland"
+  },
+  {
+   "id": "V2-032",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-206",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-120",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt 1 september 1939"
+  },
+  {
+   "id": "V2-030",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V151",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt de crash boven Oost-Oekraïne"
+  },
+  {
+   "id": "V3-225",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V292",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V243",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-158",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-211",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-038",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-230",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V240",
+   "oordeel": "klopt niet",
+   "label": "bewijst indirect",
+   "waarom": "de tekst van een desinformatiezaak noemt 1932–1933"
+  },
+  {
+   "id": "V063",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-204",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V230",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V3-075",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V2-063",
+   "oordeel": "klopt niet",
+   "label": "bewijst",
+   "waarom": "gelezen: een geciteerde bron (passage of check uit de database over dezelfde bewering) spreekt de zin direct tegen"
+  },
+  {
+   "id": "V092",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: opwarming door fossiele brandstoffen op de Maan gaat verder dan de wetenschap; stand 5"
+  },
+  {
+   "id": "V341",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: het cijfer hoort bij het BMR-vaccin, niet bij het griepvaccin; niet gezocht; stand 5"
+  },
+  {
+   "id": "V343",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: het BMR-vaccin werkt niet tegen malaria; niet gezocht; stand 5"
+  },
+  {
+   "id": "V2-049",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: evolutie op Mars gaat verder dan de wetenschap; stand 5"
+  },
+  {
+   "id": "V2-050",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: 500 jaar gaat verder dan de wetenschap; stand 5"
+  },
+  {
+   "id": "V2-198",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: SARS-CoV-2 in 1918 gaat tegen de wetenschap in; stand 5"
+  },
+  {
+   "id": "V3-045",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 3: dat dinosauriërs nooit bestonden gaat tegen de wetenschap in; stand 5"
+  },
+  {
+   "id": "V3-115",
+   "oordeel": "let op",
+   "label": "terecht",
+   "waarom": "reden 1: zo'n rol van het Zwitserse leger zou breed gemeld zijn; stand 5"
+  }
+ ],
+ "steekproef": [
+  {
+   "id": "V000",
+   "label": "past",
+   "waarom": "Britannica en het Nationaal Archief: 6 augustus 1945, niet 1946",
+   "bij": "proef"
+  },
+  {
+   "id": "V001",
+   "label": "past",
+   "waarom": "IWM en National WWII Museum: Amerika wierp de bom, niet de Sovjet-Unie",
+   "bij": "proef"
+  },
+  {
+   "id": "V003",
+   "label": "past",
+   "waarom": "PolitiFact: Hiroshima en Nagasaki zijn wel gebombardeerd",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-000",
+   "label": "past",
+   "waarom": "Atomic Heritage Foundation en IWM: 1945, niet 1950",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-001",
+   "label": "past",
+   "waarom": "Britannica, National WWII Museum, IWM: de VS, niet de Sovjet-Unie",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-003",
+   "label": "past",
+   "waarom": "PolitiFact: de bombardementen vonden wel plaats",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-007",
+   "label": "past",
+   "waarom": "Britannica en IWM: Japan viel Pearl Harbor aan, niet Duitsland",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-012",
+   "label": "past",
+   "waarom": "Britannica en USHMM: in de Tweede Wereldoorlog, niet de Eerste",
+   "bij": "proef"
+  },
+  {
+   "id": "V2-013",
+   "label": "past",
+   "waarom": "USHMM en Yad Vashem: nazi-Duitsland en collaborateurs, niet Japan",
+   "bij": "proef"
+  },
+  {
+   "id": "V3-000",
+   "label": "past",
+   "waarom": "Britannica en het Nationaal Archief: 1945, niet 1939",
+   "bij": "proef"
+  },
+  {
+   "id": "V3-003",
+   "label": "past",
+   "waarom": "PolitiFact: de bombardementen zijn geen mythe",
+   "bij": "proef"
+  },
+  {
+   "id": "V3-012",
+   "label": "past",
+   "waarom": "Wikipedia: van 1941 tot 1945, niet in 1918",
+   "bij": "proef"
+  },
+  {
+   "id": "V040",
+   "label": "past",
+   "waarom": "Britannica en USHMM: juli 1995",
+   "bij": "totaal"
+  },
+  {
+   "id": "V093",
+   "label": "past",
+   "waarom": "checks over dezelfde bewering (weinig of geen menselijke invloed)",
+   "bij": "totaal"
+  },
+  {
+   "id": "V270",
+   "label": "past niet",
+   "waarom": "de bron is de tekst van een desinformatiezaak die om iets anders onwaar is; de datum staat er alleen terloops in. Daarom is elke klopt niet apart gelezen",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-015",
+   "label": "past",
+   "waarom": "EUvsDisinfo: de Holocaust is een fraude, onwaar",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-057",
+   "label": "past",
+   "waarom": "checks: de opwarming is een leugen, onwaar",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-061",
+   "label": "past",
+   "waarom": "checks: vaccins veroorzaken autisme, onwaar",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-157",
+   "label": "past",
+   "waarom": "HRW en RFE/RL: Russische troepen",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-201",
+   "label": "past",
+   "waarom": "checks: COVID-19 bestaat niet, onwaar",
+   "bij": "totaal"
+  },
+  {
+   "id": "V3-236",
+   "label": "past",
+   "waarom": "Al Jazeera en RT: 30% in de eerste ronde en 73% in de tweede; RT is geen betrouwbare bron, Al Jazeera wel",
+   "bij": "totaal"
+  }
+ ]
+}

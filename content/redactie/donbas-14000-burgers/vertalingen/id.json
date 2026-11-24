@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck donbas-14000-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "ba06cccae7cdcddc",
+ "veldafdrukken": {
+  "kop": "b723d09f6cdf1853",
+  "oordeel_zin": "239f5f4655dc9207",
+  "bewering": "cc09a248b7b67871",
+  "kort": "de77eb1252edda56",
+  "tekst": "029927f65df9bea0",
+  "niet_weten": "4606172cf1217424",
+  "bereik": "99d2dd69ec6886a1",
+  "nog_uitzoeken": "d56dadd482824e29",
+  "tijdlijn": "ea0958e54e3433d1",
+  "beeld_bijschrift": "a9f608bb44ba9a5f",
+  "beeld_alt": "6194cf5c4dace36b",
+  "rekensom": "d25a696eb228bcc0"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Di Donbas sebelum 2022 ada 3.404 korban sipil tewas di kedua belah pihak, bukan 14.000 akibat Ukraina",
+  "oordeel_zin": "PBB mencatat 14.200 hingga 14.400 korban tewas dalam perang di timur Ukraina dari April 2014 sampai akhir 2021, di antaranya sedikitnya 3.404 warga sipil di kedua sisi garis depan, dan kami tidak menemukan pernyataan Zelensky yang menyerukan penghancuran Rusia [1] [3].",
+  "bewering": "Ukraina membombardir Donbas sejak 2014 dan membunuh ribuan warga sipil; sekarang Zelensky ingin dunia menghancurkan Rusia.",
+  "kort": "Pada Agustus beredar di X klaim bahwa Ukraina membunuh 10.000 warga sipil di Donbas sejak 2014, dan pada Oktober klaim bahwa Zelensky menyerukan kepada dunia untuk menghancurkan Rusia [6] [7]. Menurut PBB, dari April 2014 sampai akhir 2021 tewas 14.200 hingga 14.400 orang, di antaranya sedikitnya 3.404 warga sipil, di kedua sisi garis depan [1]. Kami tidak menemukan pernyataan Zelensky yang menyerukan penghancuran Rusia; pada hari-hari itu ia meminta tekanan yang lebih besar terhadap Rusia [3].",
+  "tekst": "Pada 12 Oktober pukul 11.53, sebuah akun di X menulis bahwa Zelensky menyerukan kepada dunia untuk memberi respons yang kuat guna menghancurkan Rusia juga [6]. Setelah itu, teks tersebut membahas penghancuran semua kehidupan di suatu wilayah [6]. Gambar di bawahnya adalah potret Zelensky, tanpa teks. Unggahan itu mendapat lebih dari 11.000 suka [6]. Pada Agustus, akun lain menulis bahwa Ukraina membombardir Donbas sejak 2014, dengan 10.000 warga sipil tewas, dan bahwa Zelensky terus melakukannya [7].\n\nAngka 14.000 beredar sejak 2022 sebagai bukti bahwa Ukraina membunuh 14.000 warga sipil di Donbas [2] [5]. Angka itu berasal dari penghitungan PBB. Kantor Komisaris Tinggi PBB untuk Hak Asasi Manusia (OHCHR) pada Januari 2022 memperkirakan bahwa dari 14 April 2014 hingga 31 Desember 2021, 14.200 sampai 14.400 orang tewas akibat perang di Ukraina timur [1]. Itu adalah semua korban tewas, di kedua belah pihak: sekitar 4.400 militer Ukraina, sekitar 6.500 pejuang kelompok bersenjata, dan setidaknya 3.404 warga sipil [1].\n\nDari 3.404 warga sipil itu, 298 tewas di pesawat penerbangan MH17, pada 17 Juli 2014 [1]. Sebagian besar warga sipil lainnya jatuh pada 2014 dan 2015, ketika pertempuran paling sengit: 2.084 dan 955 [1]. Dari 2016 hingga 2021, jumlahnya secara keseluruhan 365 [1].\n\nZelensky menjadi presiden pada Mei 2019. Pada 2019, 2020, dan 2021, PBB mencatat total 78 warga sipil tewas, di kedua sisi garis depan dan dari semua penyebab [1]. Pada 2021, lebih dari separuh seluruh korban sipil disebabkan oleh ranjau dan bahan peledak yang tertinggal [1].\n\nPada tahun-tahun terakhir itu, warga sipil memang lebih sering jatuh di sisi kelompok bersenjata. Dari 2018 hingga 2021, 310 dari 381 warga sipil yang tewas dan terluka akibat penembakan berada di wilayah republik rakyat Donetsk dan Luhansk yang memproklamasikan diri [1]. Siapa yang menembak tidak tercantum dalam ringkasan ini. Para analis yang memeriksa angka-angka itu menunjukkan bahwa warga sipil dibunuh oleh kedua belah pihak [2]. EUvsDisinfo, basis data Uni Eropa tentang disinformasi, pada Maret 2025 kembali menjelaskan narasi bahwa Rusia harus turun tangan pada 2022 karena warga Ukraina di Donbas membantai orang Rusia [8].\n\nUntuk seruan menghancurkan Rusia, kami tidak menemukan sumber. Dalam teks-teksnya sendiri pada hari-hari itu, Zelensky meminta Eropa dan Amerika Serikat untuk menekan Rusia lebih keras, agar ada gencatan senjata yang sungguh-sungguh untuk instalasi energi [3]. Pada awal Oktober terjadi serangan Rusia yang berat: pada 7 Oktober, menurut Menteri Dalam Negeri Ukraina, 28 orang tewas [4].",
+  "niet_weten": "Kami tidak tahu pernyataan Zelensky mana yang dimaksud unggahan itu, dan serangan mana yang menewaskan 33 orang. Ringkasan PBB tidak menyebut siapa yang membunuh warga sipil, hanya di mana mereka jatuh dan akibat apa.",
+  "bereik": "11.682 suka dan 786 balasan per 18 November, pada unggahan 12 Oktober",
+  "nog_uitzoeken": [
+   "Pernyataan Zelensky mana yang dimaksud unggahan itu. Kami ingin membandingkan kata-katanya pada 11 atau 12 Oktober dalam bahasa Ukraina dan Inggris dengan terjemahan di unggahan itu: mungkinkah 'menghancurkan' merujuk pada hal lain, seperti mesin perang Rusia atau kilang minyak?",
+   "Serangan mana dengan 33 korban tewas yang dimaksud unggahan itu.",
+   "Bagaimana korban sipil tahun 2014 dan 2015 terbagi di kedua sisi garis depan, jika PBB memberikannya di suatu tempat."
+  ],
+  "tijdlijn": [
+   "298 orang tewas di dalam pesawat penerbangan MH17; PBB memasukkan mereka ke dalam korban sipil [1].",
+   "OHCHR menerbitkan penghitungan hingga akhir 2021: 14.200 hingga 14.400 korban tewas, di antaranya sedikitnya 3.404 warga sipil [1].",
+   "Detector Media memeriksa fakta narasi genosida di Donbas [5].",
+   "Sebuah unggahan berbahasa Belanda di X menyebut 10.000 korban sipil tewas di Donbas sejak 2014 [7].",
+   "Serangan Rusia dengan rudal dan drone menewaskan 28 orang di Ukraina [4].",
+   "Sebuah unggahan berbahasa Belanda di X mengatakan Zelensky menyerukan kepada dunia untuk menghancurkan Rusia [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 12 Oktober 2026, 11.53."
+  ],
+  "beeld_alt": [
+   "Sebuah unggahan di X dengan teks bahwa Zelensky menyerukan kepada dunia untuk menghancurkan Rusia, dengan potret Zelensky di bawahnya. Stempel: SALAH."
+  ],
+  "rekensom": [
+   [
+    "Seluruh korban tewas, 14 April 2014 sampai dengan 2021",
+    "warga sipil, personel militer Ukraina, dan kelompok bersenjata secara keseluruhan",
+    "14.200 hingga 14.400"
+   ],
+   [
+    "Warga sipil",
+    "3.106 ditambah 298 di dalam MH17",
+    "sedikitnya 3.404"
+   ],
+   [
+    "Warga sipil pada 2014 dan 2015",
+    "2.084 ditambah 955",
+    "3.039"
+   ],
+   [
+    "Warga sipil dari 2016 sampai dengan 2021",
+    "112 + 117 + 58 + 27 + 26 + 25",
+    "365"
+   ],
+   [
+    "Warga sipil pada 2019, 2020, dan 2021",
+    "27 + 26 + 25",
+    "78"
+   ]
+  ]
+ }
+}

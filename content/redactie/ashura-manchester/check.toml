@@ -1,0 +1,189 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B85), in het Engels, uit de weekradar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/ashura-manchester/dossier.md, ingekort tot ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-22, PO: "innkorten is goed, , ik heb ze nagelezen, akkoord").
+
+sleutel = "ashura-manchester"
+status = "gepubliceerd"
+taal = "en"
+adres = "manchester-soldiers-of-allah-muharram-procession"
+kop = "This video from Manchester shows the annual Shia mourning procession of June 21, 2026"
+oordeel = "misleidend"
+oordeel_zin = "The video is real, but it shows the Muharram procession on Wilmslow Road of June 21, 2026, shared five months later with a slogan that no source records [3] [4] [7]."
+soort = "context"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "Hordes of Muslim men chanting “we are the soldiers of Allah on the streets of the UK ….. Why does this never make the news ??"
+platform = "X"
+eerst_gezien = "2026-11-15"
+posts = 2
+bereik = "134 likes and 51 replies on November 22; the Spanish post with the same video had 65,500 likes"
+
+kort = """
+Posts on X show a crowd of men in black on a street in Manchester and say they chant "we are the soldiers of Allah" \
+[1] [2]. The video shows the annual Muharram procession of the Jaffaria Islamic Centre, a Shia mourning procession on \
+Wilmslow Road in Rusholme on Sunday, June 21, 2026, five months before the posts [3] [4]. The chants in it are not in \
+English, and no source we found records the slogan [1] [4] [7]."""
+
+tekst = """
+On November 15, 2026, an account on X posted the video with the text that hordes of Muslim men were chanting "we are \
+the soldiers of Allah" on the streets of the UK, and asked why this never makes the news [1]. The video comes from a \
+post in Spanish by Javier Negre the evening before, which says the men parade through a Manchester suburb to demand \
+sharia law [2].
+
+Shop signs in the video, such as Sanam and the Delhi Sweet Centre, belong to businesses at 141 to 151 and 137 Wilmslow \
+Road in Rusholme [5] [6]. The marchers wear black, many men beat their chests, and the crowd carries green and black \
+flags and a tall standard [1]. That is how Shia Muslims mourn Imam Hussain, who was killed at Karbala, in the month of \
+Muharram; the chest-beating is called matam [4] [7].
+
+The Jaffaria Islamic Centre, which calls itself the oldest Shia imambargah, a hall for religious gatherings, in \
+Manchester, announced its procession for Sunday, June 21, 2026, from Platt Fields Park to the centre on Moss Lane East \
+[3] [10]. A TikTok video posted on June 22 shows the same crowd in front of the same shops as the opening of the video \
+on X, and its caption speaks of the annual Muharram procession of 2026 [1] [4].
+
+The chants in the video are not in English [1]. The centre's poster and the TikTok caption describe a mourning \
+procession, and neither mentions this slogan or a demand for sharia law [3] [4]. Nor does a report on the procession on \
+the same road in 2018, when the Pakistani daily The News wrote that thousands of Shia Muslims brought Wilmslow Road to a \
+standstill [7]."""
+
+niet_weten = """
+We do not know who filmed the video, or whether every clip in it is from June 21: it cuts between at least three camera \
+positions, and we compared only the opening with a dated post [1] [4]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-22"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Where and when each clip in the 1:54 video was filmed; it cuts between at least three camera positions.",
+  "Who first put the video online with the slogan, and whether an English post came before the Spanish one of November 14.",
+  "Whether Manchester City Council or Greater Manchester Police closed Wilmslow Road for the procession on June 21, 2026.",
+  "We weighed Misleading against False. The video and the street are real, the chants are not in English, and the slogan and the demand for sharia are not in any source. If you know what is chanted in this video, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 15, 2026, 10:26 UTC."
+alt = "A post on X with a still from the video: a crowd dressed in black on Wilmslow Road in Manchester, shared as Muslim men chanting soldiers of Allah. Stamp: MISLEADING."
+
+[[tijdlijn]]
+datum = "2026-06-21"
+tijd = "1:30 p.m."
+wat = "The Muharram procession of the Jaffaria Islamic Centre sets off from Platt Fields Park [3]."
+
+[[tijdlijn]]
+datum = "2026-06-22"
+tijd = "20:50 UTC"
+wat = "A TikTok video shows the same crowd on Wilmslow Road as Manchester Muharram Jaloos [4]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "Maldita finds the words soldiers of Allah demanding sharia on a video from Dearborn, Michigan [9]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "19:05 UTC"
+wat = "Javier Negre posts the Manchester video as a parade of soldiers of Allah demanding sharia [2]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+tijd = "10:26 UTC"
+wat = "The post in English with the chant [1]."
+
+[[tijdlijn]]
+datum = "2026-11-19"
+wat = "AFP: a religious procession, misrepresented as a protest [8]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post in English with the 1:54 video, read through the public data of X on November 22, 2026"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261122222831/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121912793813197062&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Javier Negre on X"
+titel = "Una horda de musulmanes en edad militar se declara “solados de Allah” (post with the same video)"
+datum = "2026-11-14"
+url = "https://x.com/javiernegre10/status/2121681053022855523"
+archief = "https://web.archive.org/web/20261122222903/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2121681053022855523&omit_script=true"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Jaffaria Islamic Centre on Facebook"
+titel = "Muharram Jaloos Procession 2026, Sunday 21st June, 6th Muharram (poster)"
+datum = "2026-06"
+url = "https://www.facebook.com/JaffariaIslamicCentreProfile/posts/pfbid02gJeak5ymuRW9bfq3dNEHJdARWL1UQExtKzpoPjzYwDdQcq2XMxTPuyRC6A1ZJSf8l"
+archief = "https://web.archive.org/web/20261116074110/https://www.facebook.com/JaffariaIslamicCentreProfile/posts/pfbid02gJeak5ymuRW9bfq3dNEHJdARWL1UQExtKzpoPjzYwDdQcq2XMxTPuyRC6A1ZJSf8l"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "TikTok"
+titel = "Video with the text Manchester Muharram Jaloos: annual Muharram procession 2026 passes through Manchester"
+datum = "2026-06-22"
+prive = true
+archief = "https://web.archive.org/web/20261116072426/https://www.tiktok.com/@murtazaviews/video/7654325032662879510"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Food Standards Agency"
+titel = "Food hygiene rating: Sanam Sweet House Restaurant, 141-151 Wilmslow Road, Manchester M14 5AW"
+datum = "2026-11-22"
+url = "https://ratings.food.gov.uk/business/1818695"
+archief = "https://web.archive.org/web/20261122222939/https://ratings.food.gov.uk/business/1818695"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "Food Standards Agency"
+titel = "Food hygiene rating: Dehli Sweet Centre, 137 Wilmslow Road, Manchester M14 5AW"
+datum = "2026-11-22"
+url = "https://ratings.food.gov.uk/business/1821472"
+archief = "https://web.archive.org/web/20261122223023/https://ratings.food.gov.uk/business/1821472"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "The News International"
+titel = "Thousands join Muharram mourning procession in Manchester"
+datum = "2018-09-18"
+url = "https://www.thenews.com.pk/print/369934-thousands-join-muharram-mourning-procession-in-manchester"
+archief = "https://web.archive.org/web/20200216035523/https://www.thenews.com.pk/print/369934-thousands-join-muharram-mourning-procession-in-manchester"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "AFP Fact Check"
+titel = "Footage of religious procession from UK misrepresented as protest demanding Islamic law"
+datum = "2026-11-19"
+url = "https://factcheck.afp.com/doc.afp.com.D7KF2ZQ"
+archief = "https://web.archive.org/web/20261122223106/https://factcheck.afp.com/doc.afp.com.D7KF2ZQ"
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "Maldita.es"
+titel = "No, este vídeo no muestra a personas musulmanas pidiendo la aplicación de la \"ley sharia\": se grabó durante la celebración chií de la Ashura en Michigan (EEUU)"
+datum = "2026-11-12"
+url = "https://maldita.es/desinfo/20261112/hordas-de-soldados-de-allah-pidiendo-la-aplicacion-de-la-ley-sharia-con-desfiles-en-eeuu/"
+archief = "https://web.archive.org/web/20261113021814/https://maldita.es/desinfo/20261112/hordas-de-soldados-de-allah-pidiendo-la-aplicacion-de-la-ley-sharia-con-desfiles-en-eeuu/"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "Jaffaria Islamic Centre"
+titel = "Jaffaria Islamic Centre, the Markazi Imambargah of Manchester"
+datum = "2026-11-22"
+url = "https://jaffaria.org.uk/"
+archief = "https://web.archive.org/web/20260714190802/https://jaffaria.org.uk/"

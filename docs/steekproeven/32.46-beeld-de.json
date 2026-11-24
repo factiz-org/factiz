@@ -1,0 +1,37 @@
+{
+ "toelichting": "PLAN #32.46 stap 3, bekende nepbeelden (de): elk rood en oranje zonder de eigen check als bron en elk groen, blind gelezen door een deelagent. De eerste opdracht noemde een groen ten onrechte een fout in de set als het valse alleen in het beeld zat dat Factiz zag; dat is gecorrigeerd: het beeld hoort bij de bewering (BENCHMARK §234).",
+ "labels": {
+  "N:6078dfde139f#C": {
+   "label": "bewijst",
+   "toelichting": "Correctiv, AFP, Snopes en PolitiFact (goed, spreekt tegen) tonen dat het beeld geen satellietfoto van de Nasa is maar een 3D-visualisatie gemaakt met brandgegevens van de Nasa."
+  },
+  "N:631bf1d0df14#C": {
+   "label": "vals",
+   "toelichting": "De tekst klopt (in augustus 2019 brandde het Amazonewoud in Brazilië op recordniveau); vals waren de vier foto's in de collage, uit 1989, 2014, 2017 en 2016. Gecorrigeerd: het beeld hoort bij de bewering (echte gebeurtenis, verkeerde foto), en Factiz zag het beeld; dus onterecht groen."
+  },
+  "N:6543a16218eb#C": {
+   "label": "set fout",
+   "toelichting": "De tekst is de conclusie van Correctiv zelf (ongevaccineerde kinderen mochten naar de kerstmarkt) en klopt; de rondgaande bewering was het omgekeerde, dat het hek op de foto ongevaccineerde kinderen buitenhield."
+  },
+  "N:b3a94a43e16a#C": {
+   "label": "bewijst",
+   "toelichting": "De enige bron (check uit de database, zonder rol) is PolitiFact met als titel dat dit geen echte foto's van een arrestatie van Trump zijn; de eigen check zegt dat ze met AI gemaakt zijn."
+  },
+  "N:b796e8356714#C": {
+   "label": "bewijst",
+   "toelichting": "De tekst klopt (in augustus 2019 brandde het Amazonegebied echt); vals waren alleen de drie foto's, volgens de eigen check uit 2011, 2008 en van vóór 2003, wat de Correctiv-bronnen ook laten zien. Gecorrigeerd: het beeld hoort bij de bewering; de bron toont de echte herkomst van de foto."
+  },
+  "N:b93009dc2c6e#C": {
+   "label": "bewijst",
+   "toelichting": "Correctiv en dpa via presseportal (goed, spreekt tegen) tonen dat er geen bevrijding was en dat de beelden uit een speelfilm komen."
+  },
+  "N:e733a8af6f54#C": {
+   "label": "bewijst",
+   "toelichting": "De enige bron (check uit de database, zonder rol) is PolitiFact, dat de foto 'Pants on Fire' noemt: op de originele AP-foto van Evan Vucci lachen de agenten niet."
+  },
+  "N:ea1fd22f484d#C": {
+   "label": "set fout",
+   "toelichting": "De tekst klopt: Correctiv beoordeelde precies dit als 'Richtig' (de BR gebruikte als voorbeeldbeeld een scène uit de Stuttgarter rellennacht van 2020 en verving het na kritiek)."
+  }
+ }
+}

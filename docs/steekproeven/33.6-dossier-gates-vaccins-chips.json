@@ -1,0 +1,695 @@
+{
+ "gelezen_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "labels": {
+  "76edcd7baa8870a2": "ja",
+  "a058169914ec08f1": "ja",
+  "2a75fd338113274e": "ja",
+  "6b7480fc6f8fb457": "ja",
+  "8afcf9ce5ac43147": "ja",
+  "9c529079d172679c": "ja",
+  "ebb5e19a621bb67a": "ja",
+  "731804324e1789a3": "ja",
+  "f1202c5c335106cc": "ja",
+  "d352eac15013ceaf": "ja",
+  "a0192620972428b3": "ja",
+  "14bc833cc05f0fd9": "ja",
+  "5f8fc4f40c45b6c8": "ja",
+  "2417dbbc456c2040": "nee",
+  "b06ac9098853101f": "ja",
+  "dc01e70b21ac50c8": "ja",
+  "cdcdc05eb7001984": "ja",
+  "20795a831c7bfbb1": "ja",
+  "9a7749416f60f56c": "nee",
+  "ac1da598a661508c": "ja",
+  "2f0824bfd80b4a0b": "ja",
+  "aa7e39d4c2fe13a2": "ja",
+  "7b69ce5b0fab292e": "ja",
+  "952562c0f49f10fc": "ja",
+  "6d0cc0418c36a201": "ja",
+  "fb02ba9fea7671a4": "ja",
+  "11c67e235f8a01f4": "ja",
+  "e7a4e128cff24d69": "ja",
+  "af206554081c7fda": "ja",
+  "cbff0dadc4e923b1": "ja",
+  "92f7ad70311037ad": "ja",
+  "c354ab36d4e0e720": "ja",
+  "caff048775e3a596": "ja",
+  "b2ca04113143361f": "ja",
+  "760ff8056eb85c18": "ja",
+  "994bf62d292cc348": "ja",
+  "e0afba9b4b38be94": "ja",
+  "3df4f3c76768e60e": "ja",
+  "841a20c939c2842b": "ja",
+  "0da1f4e907412b96": "ja",
+  "11ac58a4accd53d9": "ja",
+  "a47e5ccdd7368327": "ja",
+  "f9cb177a00f29fd9": "ja",
+  "783456198e62df11": "ja",
+  "e415d7e75f2e9b28": "ja",
+  "e5c7e28cede9effc": "ja",
+  "9fd286ff6126abd0": "ja",
+  "fd6936ca13119c98": "ja",
+  "208035b37a1ec2c5": "ja",
+  "9d76de2832efd302": "ja",
+  "824f08389dac8a23": "ja",
+  "8f34a071b54b718c": "ja",
+  "27e58e5fdceb8e55": "ja",
+  "0f3d85084dd353ed": "ja",
+  "b0f125b9a2ada278": "ja",
+  "5da4184201399ed1": "ja",
+  "63922c2ed43258c0": "ja",
+  "fd1c923496aabcaf": "ja",
+  "0ca340023278299a": "ja",
+  "56f1e161a807cb60": "nee",
+  "b8579f08243a231b": "ja",
+  "5d898c56b1d09276": "ja",
+  "447987349a0974f3": "ja",
+  "d3ee53cbbc8d3086": "ja",
+  "bbc4faf8d04ac824": "ja",
+  "49a2294feb82e510": "ja",
+  "e398bad9db977d3b": "ja",
+  "5ca2a4429a03bc35": "ja",
+  "fd69107acf59cfc8": "ja",
+  "23176ec172fc8c74": "nee",
+  "d9a6ed4020d2abfe": "ja",
+  "8558209fe1bfbe78": "ja",
+  "7206d196e7ae78e6": "ja",
+  "0b519e2fc9aa26e9": "ja",
+  "074ee472a59b47f6": "ja",
+  "247ac3eeb63a7555": "ja",
+  "2e66990a2fb07d65": "ja",
+  "9164a277f7560be0": "ja",
+  "f6daee2f67c3d574": "ja",
+  "c62cde325bb095fb": "ja",
+  "4ca41c23d02aa83c": "ja",
+  "742bc9e260d50a45": "ja",
+  "136f39ffde284b4e": "ja",
+  "5635010e1e5bcb33": "ja",
+  "a3f49e3bccfe5305": "ja",
+  "ce02f8acaf889bdd": "ja",
+  "18d535d0e93ef4d4": "ja",
+  "b80d64eec96b5d37": "ja",
+  "e0f4b14643e301de": "ja",
+  "bcb7c2446fde05b7": "ja",
+  "070209d1de57b92b": "ja",
+  "6f9d42595107d52b": "ja",
+  "b56133745ce687ee": "ja",
+  "d1b59909d23777f1": "ja",
+  "8c35f350cc8ee9fe": "ja",
+  "8d4e44b6f58f84aa": "ja",
+  "b916464c54b053e4": "ja",
+  "243131ae4e344502": "ja",
+  "9ee1a5a1beb8e138": "ja",
+  "0b8f613a1c9db037": "ja",
+  "1f29a3d04300bf7b": "ja",
+  "03874a991d0fdb28": "ja",
+  "25bde3362cde4063": "ja",
+  "dd29f75b4c4fc24e": "ja",
+  "be6ab9f7b72f8804": "ja",
+  "efb0450f25235cf7": "ja",
+  "d64f7ea995c94601": "ja",
+  "0427f3629603c39c": "ja",
+  "343f06d4499d7f51": "ja",
+  "cc917ea2e86634e2": "ja",
+  "eaccf50fdb5eac91": "ja",
+  "78eac01fbc56bdec": "ja",
+  "7d270f841550975b": "ja",
+  "8875c5e098c5cdd7": "ja",
+  "ea2c46be3d55e8d9": "ja",
+  "9e7826507e89ce7e": "ja",
+  "5088afc8f7e6ec02": "ja",
+  "f31baf2826c89792": "ja",
+  "0334e6425dccf404": "ja",
+  "759bc349b4e03408": "ja",
+  "1f646b5a8e899eb9": "ja",
+  "ad9e54a64b4c1729": "ja",
+  "6ff6dfa55ad121a7": "ja",
+  "0bd248069f099f6d": "ja",
+  "485d6171d36b7d09": "ja",
+  "d4f3f021115e93c2": "ja",
+  "27b8cba40e8066e6": "ja",
+  "04671af6067e4047": "ja",
+  "51ffa45808a96bd8": "ja",
+  "c0d451848af28638": "ja",
+  "be13cab2bb9dca23": "ja",
+  "20130334d16155d4": "ja",
+  "69e6e303438c0531": "ja",
+  "c63d8170e24327c2": "ja",
+  "88220de02081c6b5": "ja",
+  "e6f8f905a0893d3b": "ja",
+  "8c5acc89b0e78349": "ja",
+  "0c55198a07e63060": "ja",
+  "132214389468501e": "ja",
+  "27bb8e67ff2ff95b": "ja",
+  "2fce625bcfa004ba": "ja",
+  "42981aeec98bf842": "ja",
+  "4877c745960f773f": "ja",
+  "53373349c59f58ad": "ja",
+  "57f8880ca218acf1": "ja",
+  "60531a45714f3e71": "ja",
+  "68aabab80a573ae2": "ja",
+  "6ccefddd1fc48e3a": "ja",
+  "8332fbfc712eee48": "ja",
+  "9fa791e47b759b35": "ja",
+  "aa03722a60493950": "ja",
+  "ac10cac48ab63c12": "ja",
+  "b0fc5f8cb23d99a7": "ja",
+  "b6627f72dc60643b": "ja",
+  "b8574da9b454d5ce": "nee",
+  "b93d9447009aa097": "ja",
+  "bd59b6aec9f0b97c": "ja",
+  "c25fa81770ff6165": "ja",
+  "d265d51e6d67a9d4": "ja",
+  "d4a9aa5e3666b4ff": "ja",
+  "dc379fca7fc38d30": "ja",
+  "f21c35de40b007cb": "ja",
+  "f2ff03a8e1ee4352": "ja",
+  "f60cc21b8dcfa950": "ja",
+  "f6dbb4153b3be75e": "nee",
+  "0f0300475df43a25": "nee",
+  "207c51a170179b61": "nee",
+  "31cc1675b68a26d0": "nee",
+  "c3be5610f40aa2fc": "nee",
+  "20105ab1ab045f39": "nee",
+  "a1b4758632bedd25": "ja",
+  "e12338fd8a7776fe": "ja",
+  "0900d0b6ce1eaa46": "nee",
+  "982fc3e67b794924": "ja",
+  "764aef25b5b6d0b2": "ja",
+  "eb8c754594d9f709": "ja",
+  "aef1591366c6959e": "ja",
+  "96c6382d9f400bdf": "ja",
+  "bae4f95bd4d92bf8": "nee",
+  "692c8658c8b9e35f": "ja",
+  "56e3dcfcf30ed8e6": "ja",
+  "4394832db5170f4a": "ja",
+  "7682cf9b2f67bfbc": "ja",
+  "655edca843ff56c5": "ja",
+  "e8418bcf70cd57dc": "ja",
+  "12609bd7b8e8dc4d": "ja",
+  "5156e53afa048cce": "ja",
+  "e9c7a36eb6fac4a9": "ja",
+  "31987b36180d9f43": "ja",
+  "309f7eea71520b76": "ja",
+  "1b98010e401a02c4": "ja",
+  "6cbbac31a747edc1": "ja",
+  "5ab607510e1e0785": "ja",
+  "00a2ea4fef697cce": "ja",
+  "cb64ca286f4aa0f8": "nee",
+  "01ad984697f9a414": "ja",
+  "155bbbea10ac78e0": "ja",
+  "6aef70465f9e4344": "ja",
+  "7e28199b18b9027c": "ja",
+  "84139f04ef88d0ce": "ja",
+  "928989d2450f7850": "ja",
+  "b358b7ef1f65f40a": "ja",
+  "b60e71cfcc58ad58": "ja",
+  "d10fb121e17e1fc3": "nee",
+  "db7fdb99afd3a055": "ja"
+ },
+ "opmerkingen": {},
+ "door_po": [
+  "b8574da9b454d5ce",
+  "f6dbb4153b3be75e",
+  "5156e53afa048cce",
+  "e9c7a36eb6fac4a9",
+  "841a20c939c2842b",
+  "2e66990a2fb07d65",
+  "0c55198a07e63060",
+  "cb64ca286f4aa0f8"
+ ],
+ "akkoord": "2026-11-12, PO: \"Ja, jij leest eerst, ik daarna de twijfelgevallen\"",
+ "notities_claude": {
+  "2417dbbc456c2040": "Gaat over overdreven sterftecijfers en lockdowns; Gates alleen genoemd als geldgever van de WHO, zonder rol in een plan.",
+  "9a7749416f60f56c": "Gaat over de WHO en Zweden als 'grootste fraude'; Gates alleen als schenker aan universiteiten, niet als planner of verdiener.",
+  "841a20c939c2842b": "Gelekte stukken van de Gates-stichting zouden tonen dat het virus bewust is uitgezet, door een Chinese onderzoeker. Uit de tekst blijkt niet of Gates zelf de planner is. Erin als 'document' over een geplande pandemie, of eruit?",
+  "56f1e161a807cb60": "De check gaat over de vraag of Poetin de covidvaccins weigert; Gates staat alleen in de kop van het blog.",
+  "23176ec172fc8c74": "Great Reset en gezondheidspassen; Gates alleen genoemd als wie over de geneeskunde mag beslissen, geen rol in het plan.",
+  "2e66990a2fb07d65": "Gates zou een viroloog betaald hebben om ivermectine af te kraken. Geen vaccin of chip; hoort het tegenwerken van een behandeling tijdens de pandemie bij dit verhaal?",
+  "0c55198a07e63060": "Gaat over geld van Fauci; Gates alleen als eigenaar van 'het vaccin'. Hoort winst van een ander op 'Gates' vaccin' erbij?",
+  "b8574da9b454d5ce": "Gates waarschuwde in 2015 echt voor een pandemie (deels waar); de bewering zegt niet dat hij het plande. Horen de waarschuwingen zelf erbij, als begin van 'hij wist het'? De beweringen die er een complot van maken heb ik wel in gezet.",
+  "f6dbb4153b3be75e": "Een echte waarschuwing van Gates (30 miljoen doden), vóór covid gecheckt, zonder complot. Dezelfde vraag als bij 'Gates told us about the coronavirus in 2015': horen de waarschuwingen erbij?",
+  "0f0300475df43a25": "Een lab in Wuhan van Soros; Gates alleen genoemd als gelijkgestemde.",
+  "207c51a170179b61": "Een open brief over de lessen van corona die Gates niet schreef; geen vaccin, chip of plan.",
+  "31cc1675b68a26d0": "Zelfde open brief over de lessen van corona; geen vaccin, chip of plan.",
+  "c3be5610f40aa2fc": "Zelfde 'mooie boodschap' over corona die Gates niet schreef; geen vaccin, chip of plan.",
+  "20105ab1ab045f39": "Overdreven pandemie en 'hygiënedictatuur'; Gates alleen als geldgever van de WHO.",
+  "a1b4758632bedd25": "De tekst zegt letterlijk dat Gates al 15 jaar de wereldbevolking via vaccinaties vermindert en chipt.",
+  "e12338fd8a7776fe": "Gates zou het chippen van mensen tegen covid hebben voorgesteld (zo ook de titel van de check); de draad van de chips.",
+  "0900d0b6ce1eaa46": "Een supranationale regering van stichtingen en bedrijven; Gates alleen als oprichter van GAVI.",
+  "982fc3e67b794924": "Hetzelfde nagemaakte bord 'Center for Global Population Reduction' als de andere kaarten met dat bord; ontvolking.",
+  "764aef25b5b6d0b2": "Volgens de check (Boatos) gaat het om het INO-4800-vaccin als chip of 5G-stempel in de huid; de draad van de chips.",
+  "eb8c754594d9f709": "Dezelfde toespraak (Sara Cunial, Italiaans parlement, mei 2020) als 'An Italian lawmaker called for Bill Gates to be tried', over vaccins, ontvolking en digitale ID; dezelfde keuze.",
+  "aef1591366c6959e": "Ontvolking, hier via abortus in plaats van vaccins; de maatstaf houdt ontvolking erin, net als 'Bill Gates wants to depopulate the world'.",
+  "96c6382d9f400bdf": "Gates zou protesten laten organiseren om gedwongen vaccinatie door te drukken; hoort bij de draad van de gedwongen vaccins.",
+  "bae4f95bd4d92bf8": "Gaat over kritiek op het Russische vaccin Sputnik; Gates alleen als de macht achter de WHO.",
+  "692c8658c8b9e35f": "Zelfde virale lijst over Trump als die met HR6666 (Gates' project om te volgen via testen); ID2020 geldt in dit verhaal als digitale ID via vaccinatie.",
+  "56e3dcfcf30ed8e6": "Event 201 en zijn sponsors als planners van een gezondheidsdictatuur waarvoor Gates lobbyt; de draad van de geplande pandemie.",
+  "4394832db5170f4a": "Vals citaat over verplichte vaccinatie voor iedereen; zelfde soort als het citaat over het digitale vaccinatiebewijs en dat over de kerkdiensten.",
+  "7682cf9b2f67bfbc": "Gates zou investeren in en verdienen aan de controle via de pandemie (paspoorten, armbanden); verdienen aan de pandemie en volgen.",
+  "655edca843ff56c5": "Belangenverstrengeling van Gates bij coronavaccins: verdienen aan de pandemie.",
+  "e8418bcf70cd57dc": "Ontvolking via vaccinatie door de WHO, met Gates als grootste vaccinlobbyist en geldgever; zelfde soort als de 'WHO-Bill Gates'-programma's in Armenië.",
+  "12609bd7b8e8dc4d": "Rechtszaak tegen Gates en anderen over de pandemie; zelfde soort als de aanklacht wegens genocide en de rechtszaken over vaccins en het virus.",
+  "5156e53afa048cce": "Hetzelfde interview (ABC, 2023) als de deepfake over 'geld verdienen met covidvaccins', die ik wel in zette; deze bewering zegt alleen dat Gates boos werd. Erin als versie van die video, of eruit?",
+  "e9c7a36eb6fac4a9": "Zelfde vraag als bij het boze interview: een bewerkt interview waarin Gates in het nauw lijkt te zitten over covid; de bewering zelf noemt geen vaccinwinst of plan.",
+  "31987b36180d9f43": "Vals 'Gates geeft toe dat vaccineren een vergissing was'; zelfde soort als 'Gates wil alle covidvaccins terugtrekken'.",
+  "309f7eea71520b76": "Zelfde bewering als 'Gates geeft toe dat vaccineren een vergissing was', als video.",
+  "1b98010e401a02c4": "Een ziekte die Gates met genetisch gemodificeerde muggen zou verspreiden: 'een andere epidemie', zoals zika en dengue.",
+  "6cbbac31a747edc1": "Zelfde draad van de muggen: Gates zou ziektes verspreiden door muggen uit helikopters te laten vallen.",
+  "5ab607510e1e0785": "Zelfde bewering als 'Gates' foundation funded a study to make H5N1 transmissible to humans': een geplande epidemie.",
+  "00a2ea4fef697cce": "Vogelgriep via injecties in het voedsel; zoals mRNA in het voedsel of een epidemie die Gates zou verspreiden.",
+  "cb64ca286f4aa0f8": "De check (Du-Check) zegt dat Gates 'geen aanval op huisdieren' doet: waarschijnlijk gaat het om dieren, niet om mensen. Hoort ontvolking of sterilisatie van dieren erbij?",
+  "01ad984697f9a414": "Zelfde vals citaat als '80% van wie het vaccin van Bill Gates kreeg had bijwerkingen'.",
+  "155bbbea10ac78e0": "Hetzelfde nagemaakte bord 'centrum voor de reductie van de wereldbevolking'; ontvolking.",
+  "6aef70465f9e4344": "Zelfde draad van de muggen als 'Gates' GMO mosquitoes causing malaria in the USA'.",
+  "7e28199b18b9027c": "Zelfde vals citaat als 'Gates wil alle covidvaccins terugtrekken'.",
+  "84139f04ef88d0ce": "Vals citaat over vaccinatie als voorwaarde (kerkdiensten); zelfde soort als het citaat over het digitale vaccinatiebewijs.",
+  "928989d2450f7850": "Vals citaat dat Gates een volgende pandemie aankondigt met kinderen als doelwit; de draad van de geplande pandemie.",
+  "b358b7ef1f65f40a": "Zelfde vals citaat als 'Gates admits the vaccine will kill 700,000 people'.",
+  "b60e71cfcc58ad58": "Zelfde virale lijst over Trump als die met HR6666 en ID2020 (volgen via testen en vaccins).",
+  "d10fb121e17e1fc3": "Teken en vleesallergie: valt onder voedsel en klimaat, geen vaccin, chip of epidemie.",
+  "db7fdb99afd3a055": "Gates achter de uitbraak van mpox; zelfde soort als de andere beweringen dat Gates mpox maakte of plande."
+ },
+ "groepen": [
+  {
+   "sleutel": "waarschuwing",
+   "vraag": "Gates' echte waarschuwingen voor een pandemie, zonder complot: horen die erbij?",
+   "kaarten": [
+    "b8574da9b454d5ce",
+    "f6dbb4153b3be75e"
+   ],
+   "keuze": "nee"
+  },
+  {
+   "sleutel": "interview",
+   "vraag": "Het bewerkte interview met ABC (2023), waarin Gates boos of in het nauw lijkt: horen deze twee erbij?",
+   "kaarten": [
+    "5156e53afa048cce",
+    "e9c7a36eb6fac4a9"
+   ],
+   "keuze": "ja"
+  },
+  {
+   "sleutel": "covid-zonder-vaccin",
+   "vraag": "Gates in het covidverhaal, maar niet als man achter vaccins, chips of ontvolking: horen die erbij?",
+   "kaarten": [
+    "841a20c939c2842b",
+    "2e66990a2fb07d65",
+    "0c55198a07e63060"
+   ],
+   "keuze": "ja"
+  },
+  {
+   "sleutel": "dieren",
+   "vraag": "Gates achter het afmaken van dieren, met het woord ontvolking: hoort dat erbij?",
+   "kaarten": [
+    "cb64ca286f4aa0f8"
+   ],
+   "keuze": "nee"
+  }
+ ],
+ "toelichting": "De lezing van de voorstellen bij het dossier gates-vaccins-chips (PLAN #33.6, SPECS E9.S7 AC3): Claude las elke kaart (zijn reden onder `notities_claude`), de PO besliste over zijn twijfel per groep (`groepen`) of per kaart; `door_po` zegt welke kaarten zij besliste, `akkoord` haar woorden. Onder `versies` de lezing van welke factchecks hetzelfde bericht zijn. Wat hier staat, vraagt een volgende ronde niet opnieuw.",
+ "versies": {
+  "gates-depopulation-goal": {
+   "oordeel": "ja",
+   "leden": [
+    "76edcd7baa8870a2",
+    "e6f8f905a0893d3b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "abortion-drugs-in-vaccines": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "ad9e54a6 draait om een waarschuwing van Japan aan Gates (2024); a0581699 alleen om abortusmiddel in vaccins (2019). Andere bewering."
+  },
+  "gates-expelled-from-india": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "2a75fd33: de stichting werd uit India gezet om onethische proeven; e0afba9b: het poliovaccin gaf een half miljoen kinderen polio. Andere kern."
+  },
+  "event-201-death-forecast": {
+   "oordeel": "ja",
+   "leden": [
+    "6b7480fc6f8fb457",
+    "9c529079d172679c",
+    "aa03722a60493950"
+   ],
+   "zonder": [
+    "e415d7e75f2e9b28"
+   ],
+   "opmerking": "e415d7e7 gaat over een toespraak van Gates van vijf jaar eerder die het virus voorspelde, niet over de 65 miljoen doden van Event 201."
+  },
+  "coronavirus-patent-gates": {
+   "oordeel": "ja",
+   "leden": [
+    "8afcf9ce5ac43147",
+    "ebb5e19a621bb67a",
+    "ac1da598a661508c",
+    "f21c35de40b007cb"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "vaccines-reduce-population-quote": {
+   "oordeel": "ja",
+   "leden": [
+    "731804324e1789a3",
+    "5f8fc4f40c45b6c8",
+    "0427f3629603c39c"
+   ],
+   "zonder": [
+    "e398bad9db977d3b",
+    "485d6171d36b7d09",
+    "c63d8170e24327c2"
+   ],
+   "opmerking": "Kern: het vermeende citaat dat vaccineren dient om de bevolking te verminderen (73180432, 5f8fc4f4, 0427f362). e398bad9 zegt alleen dat hij het wil; c63d8170 (15 procent) en 485d6171 (7 miljard) geven elk een ander getal."
+  },
+  "gates-created-the-virus": {
+   "oordeel": "ja",
+   "leden": [
+    "a0192620972428b3",
+    "dc01e70b21ac50c8",
+    "136f39ffde284b4e"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "gates-vaccine-microchip-plan": {
+   "oordeel": "ja",
+   "leden": [
+    "14bc833cc05f0fd9",
+    "cdcdc05eb7001984",
+    "20795a831c7bfbb1",
+    "952562c0f49f10fc",
+    "11c67e235f8a01f4",
+    "b2ca04113143361f",
+    "9d76de2832efd302",
+    "0ca340023278299a",
+    "fd69107acf59cfc8",
+    "4877c745960f773f"
+   ],
+   "zonder": [
+    "2f0824bfd80b4a0b",
+    "8f34a071b54b718c",
+    "447987349a0974f3",
+    "60531a45714f3e71"
+   ],
+   "opmerking": "Kern: Gates wil via een (corona)vaccin microchips inplanten. 44798734 gaat over een techniek van MIT onder de huid, 60531a45 over chips in alle medische en tandheelkundige prikken, 8f34a071 over een Franse site over de gevaren van een vaccin, 2f0824bf over een verplicht wereldwijd vaccinatieprogramma; bij de laatste twee staat de chip niet in de tekst."
+  },
+  "gates-population-reduction": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Een thema, geen bericht: economische ineenstorting, een genocide door 'meesters van de duisternis', het vaccin, abortus, de WHO; elk zegt iets anders."
+  },
+  "gates-funds-who": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Drie verschillende beweringen: 32% van het geld van de WHO, Tedros dankzij Gates en de Clintons, een besluit in Davos."
+  },
+  "microchip-patent-060606": {
+   "oordeel": "ja",
+   "leden": [
+    "fb02ba9fea7671a4",
+    "c354ab36d4e0e720"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "microchip-implant-claim": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Elk een bundel: cbff0dad microchip, ontvolking en doden in India; bbc4faf8 microchips en genetisch veranderde insecten. Alleen de chip overlapt."
+  },
+  "india-polio-paralysis": {
+   "oordeel": "ja",
+   "leden": [
+    "760ff8056eb85c18",
+    "27bb8e67ff2ff95b",
+    "6ccefddd1fc48e3a"
+   ],
+   "zonder": [
+    "b0f125b9a2ada278",
+    "88220de02081c6b5"
+   ],
+   "opmerking": "Kern: 496.000 verlamde kinderen. b0f125b9 zegt 350.000, 88220de0 47.000 en een rechtszaak."
+  },
+  "center-for-population-reduction": {
+   "oordeel": "ja",
+   "leden": [
+    "982fc3e67b794924",
+    "e5c7e28cede9effc",
+    "343f06d4499d7f51",
+    "155bbbea10ac78e0",
+    "b6627f72dc60643b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "genetically-modified-mosquitoes": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Zika door genetisch veranderde muggen tegen een dengue-uitbraak in Brazilië in 2024."
+  },
+  "crimes-against-humanity-charge": {
+   "oordeel": "ja",
+   "leden": [
+    "eb8c754594d9f709",
+    "8558209fe1bfbe78"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "v-700-000-deaths-claim": {
+   "oordeel": "ja",
+   "leden": [
+    "208035b37a1ec2c5",
+    "824f08389dac8a23",
+    "b358b7ef1f65f40a"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "tracking-tattoo-bracelets": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "0f3d8508 gaat over wie de WHO oprichtte en betaalt, met een foto van een pols; b0fc5f8c over armbanden en onzichtbare tatoeages om Amerikanen te volgen."
+  },
+  "vaccine-alters-dna": {
+   "oordeel": "ja",
+   "leden": [
+    "63922c2ed43258c0",
+    "dc379fca7fc38d30"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "id2020-project-cancelled": {
+   "oordeel": "ja",
+   "leden": [
+    "692c8658c8b9e35f",
+    "b60e71cfcc58ad58"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "vaccines-hidden-in-tests": {
+   "oordeel": "ja",
+   "leden": [
+    "7206d196e7ae78e6",
+    "f60cc21b8dcfa950"
+   ],
+   "zonder": [
+    "132214389468501e"
+   ],
+   "opmerking": "13221438 gaat over een chip bij de coronatest, de andere twee over een vaccin bij de test."
+  },
+  "v-80-percent-side-effects": {
+   "oordeel": "ja",
+   "leden": [
+    "0b519e2fc9aa26e9",
+    "01ad984697f9a414"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "v-2011-forced-vaccination-article": {
+   "oordeel": "ja",
+   "leden": [
+    "9164a277f7560be0",
+    "bcb7c2446fde05b7",
+    "be6ab9f7b72f8804",
+    "69e6e303438c0531",
+    "b93d9447009aa097"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "vaccine-withdrawal-call": {
+   "oordeel": "ja",
+   "leden": [
+    "f6daee2f67c3d574",
+    "4ca41c23d02aa83c",
+    "742bc9e260d50a45",
+    "7e28199b18b9027c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "mpox-outbreak-predicted": {
+   "oordeel": "ja",
+   "leden": [
+    "a3f49e3bccfe5305",
+    "18d535d0e93ef4d4"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "mosquito-release-outbreak": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Drie verschillende: beweringen over het muggenprogramma (2022), een video van muggen uit een helikopter (2023), dengue in Brazilië (2024)."
+  },
+  "mrna-in-food-supply": {
+   "oordeel": "ja",
+   "leden": [
+    "070209d1de57b92b",
+    "6f9d42595107d52b"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "microsoft-theft-interview": {
+   "oordeel": "ja",
+   "leden": [
+    "d1b59909d23777f1",
+    "b916464c54b053e4"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "philippines-arrest-warrant": {
+   "oordeel": "ja",
+   "leden": [
+    "8c35f350cc8ee9fe",
+    "8d4e44b6f58f84aa",
+    "8332fbfc712eee48",
+    "c25fa81770ff6165"
+   ],
+   "zonder": [
+    "20130334d16155d4"
+   ],
+   "opmerking": "20130334 (2025) noemt het tbc-vaccin als reden; de rest moord met voorbedachten rade rond het coronavaccin."
+  },
+  "gates-admits-vaccination-mistake": {
+   "oordeel": "ja",
+   "leden": [
+    "31987b36180d9f43",
+    "309f7eea71520b76"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "death-panels-g20": {
+   "oordeel": "ja",
+   "leden": [
+    "0b8f613a1c9db037",
+    "57f8880ca218acf1"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "mrna-refusers-excluded": {
+   "oordeel": "ja",
+   "leden": [
+    "03874a991d0fdb28",
+    "25bde3362cde4063",
+    "dd29f75b4c4fc24e"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "air-vaccine-approval": {
+   "oordeel": "ja",
+   "leden": [
+    "efb0450f25235cf7",
+    "ac10cac48ab63c12"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "bird-flu-transmissibility-study": {
+   "oordeel": "ja",
+   "leden": [
+    "5ab607510e1e0785",
+    "5088afc8f7e6ec02"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "military-rounding-up-refusers": {
+   "oordeel": "ja",
+   "leden": [
+    "f31baf2826c89792",
+    "0334e6425dccf404"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "gates-created-mpox": {
+   "oordeel": "ja",
+   "leden": [
+    "759bc349b4e03408",
+    "1f646b5a8e899eb9",
+    "db7fdb99afd3a055"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "tbc-vaccine-welfare-aid": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Het ene: de bijstand stopt als je het tbc-vaccin weigert; het andere: wie meedoet aan de proef krijgt Rp 150.000."
+  },
+  "vietnam-autism-vaccine": {
+   "oordeel": "ja",
+   "leden": [
+    "c0d451848af28638",
+    "be13cab2bb9dca23"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "gates-profits-from-vaccine": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Fauci verliest 100 miljoen dollar tegen de stichting verdient 31,5 miljard pond; andere beweringen."
+  },
+  "ted-talk-2010-vaccines": {
+   "oordeel": "ja",
+   "leden": [
+    "d4a9aa5e3666b4ff",
+    "f2ff03a8e1ee4352"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  }
+ },
+ "versies_gelezen": {
+  "door": "Claude en PO",
+  "datum": "2026-11-12",
+  "akkoord": "2026-11-12, PO: \"Ziet goed uit, ga door met de versies\""
+ }
+}

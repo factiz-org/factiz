@@ -1,0 +1,7 @@
+---
+// De pijl bij een link (PO 2026-11-23: "ik wil die korte pijl"): een korte lijn met een punt, overal dezelfde; het teken → is
+// in Geist lang. `terug` wijst naar het begin van de regel. In een taal van rechts naar links draait hij mee
+// (`[dir="rtl"] .fz .pijl`).
+const { terug = false } = Astro.props;
+---
+<svg class="pijl" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" focusable="false"><path d={terug ? 'M12 8H4M7.5 4.5 4 8l3.5 3.5' : 'M4 8h8M8.5 4.5 12 8l-3.5 3.5'} fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" /></svg>

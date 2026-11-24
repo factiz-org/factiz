@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van het overzicht global-blackout-17-november van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "329ccec2c5f04d8a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Des messages avertissent qu'une panne mondiale d'électricité et d'internet, d'une durée de 72 heures, commencera le 17 novembre 2026 et paralysera les banques et les distributeurs de billets.",
+  "kern": [
+   "Aucune autorité n'a averti d'une panne générale mondiale le 17 novembre 2026. [1] [2]",
+   "La date correspond à un test d'alerte d'urgence prévu aux États-Unis, annoncé par l'agence fédérale FEMA et diffusé à la télévision et à la radio. [1] [2]",
+   "Les publications ont aussi mélangé des conseils européens de conserver des provisions d'urgence pour 72 heures et un épisode des Simpson, et ni l'un ni l'autre ne laisse penser à une panne générale ce jour-là. [1] [2]"
+  ],
+  "rondgang": "Des publications sur Facebook, TikTok et X ont diffusé l'avertissement, vérifié par des fact-checkeurs en Espagne et en Italie ; l'EFE l'a repéré sur X, en anglais, dès le 27 octobre 2026. [1] [2]"
+ }
+}

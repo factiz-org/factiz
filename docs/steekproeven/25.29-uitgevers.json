@@ -1,0 +1,2747 @@
+{
+ "toelichting": "Witte lijst van uitgevers (PLAN #25.29, B28), met de hand gelabeld op 2026-10-13 na het lezen van drie voorbeeldclaims per host met hun oordeel en link. Alle hosts van het register (209) en alle hosts met een check erbuiten (467, plus EUvsDisinfo). 'redactie': een factcheckredactie of een nieuwsredactie die checks publiceert; alleen die gaat het register in, met de naam die het antwoord toont. 'onduidelijk': geen herkenbare redactie, of een instelling die geen redactie is (een wetenschappelijke academie, een gezondheidsorganisatie); blijft buiten tot iemand meer weet (twijfel versoepelt nooit). 'rommel': geen factcheck (winkels, casino's, SEO, persoonlijke sites, proefinvoer); blijft buiten, en verwijderen uit het corpus is een apart PO-besluit. Aangevuld 2026-10-13 (B28, #25.30): 'instelling' is een kennisinstelling die aan de vier eisen van B28 voldoet (kennis, verkoopt niets, bronnen, geen campagne); de eisen staan per host in 'eisen'. Ook een instelling gaat het register in.",
+ "labels": {
+  "10ukraine.com.ua": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "211check.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "21cif.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "24horas.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "2fast4buds.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "4over4.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "aap.com.au": {
+   "oordeel": "redactie",
+   "naam": "AAP FactCheck"
+  },
+  "abc.net.au": {
+   "oordeel": "redactie",
+   "naam": "RMIT ABC Fact Check"
+  },
+  "abhinavvirtualblogs.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ademcetinkaya.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "adex.ltd": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "admlaw.com.au": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "afghanistan.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "africacheck.org": {
+   "oordeel": "redactie",
+   "naam": "Africa Check"
+  },
+  "ajel.sa": {
+   "oordeel": "redactie",
+   "naam": "صحيفة عاجل"
+  },
+  "ajunews.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "akhbarmeter.org": {
+   "oordeel": "redactie",
+   "naam": "مرصد أخبار ميتر"
+  },
+  "albadental.ca": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "allaboutnewtown.wales": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "allgemeine-zeitung.de": {
+   "oordeel": "redactie",
+   "naam": "Allgemeine Zeitung"
+  },
+  "almushahid.net": {
+   "oordeel": "redactie",
+   "naam": "المشاهد نت"
+  },
+  "amarujala.com": {
+   "oordeel": "redactie",
+   "naam": "अमर उजाला"
+  },
+  "amcvis.blogspot.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "ancoradosfatos.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "annamu-fi-almassih.com": {
+   "oordeel": "onduidelijk",
+   "reden": "christelijke apologetiek, geen factchecker"
+  },
+  "annir.ly": {
+   "oordeel": "redactie",
+   "naam": "Annir.ly"
+  },
+  "apa.at": {
+   "oordeel": "redactie",
+   "naam": "APA - Austria Presse Agentur"
+  },
+  "api.politifact.com": {
+   "oordeel": "redactie",
+   "naam": "PolitiFact"
+  },
+  "appro.com.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "approvedmodems.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "arauze.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "arij.net": {
+   "oordeel": "redactie",
+   "naam": "ARIJ"
+  },
+  "armonikadijital.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "arsoporte.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "asembi.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "asiavillenews.com": {
+   "oordeel": "redactie",
+   "naam": "Asiaville"
+  },
+  "assamese.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "auraiya.online": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "authenticng.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "avis.co.nz": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ayupp.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "azbukamedia.com": {
+   "oordeel": "redactie",
+   "naam": "Azbuka media"
+  },
+  "babame.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bakingworldbyswit.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bangla.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "banglahunt.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bbc.co.uk": {
+   "oordeel": "redactie",
+   "naam": "BBC Reality Check"
+  },
+  "bbc.com": {
+   "oordeel": "redactie",
+   "naam": "BBC Reality Check"
+  },
+  "bdp.org.tr": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "beamreports.com": {
+   "oordeel": "redactie",
+   "naam": "بيم ريبورتس"
+  },
+  "belfrytales.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "belinemediaempire.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "beltandroad.news": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "berita.murianews.com": {
+   "oordeel": "redactie",
+   "naam": "Murianews.com"
+  },
+  "beritasidrap.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "berlin-tour.city": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bestinvestmentapps.co.za": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bestsportmachines.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "beststocks.ru": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "betohio.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bhadzartist.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "kunstenaar over eigen werk"
+  },
+  "bhagath-lac.vercel.app": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bhashitha.page": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bincangperempuan.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "biryaani.com": {
+   "oordeel": "rommel",
+   "reden": "vacatures en lifestyle, 'This Job Article is written...'"
+  },
+  "bitcodeprime.site": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "blog.coreyz.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "blog.iznd.xyz": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bloganchoi.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "boatos.org": {
+   "oordeel": "redactie",
+   "naam": "Boatos.org"
+  },
+  "bola.tempo.co": {
+   "oordeel": "redactie",
+   "naam": "Tempo.co"
+  },
+  "boliviaverifica.bo": {
+   "oordeel": "redactie",
+   "naam": "Bolivia Verifica"
+  },
+  "bomellida.github.io": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bongoextrem.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bonuskoodit.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "boolshat.com": {
+   "oordeel": "onduidelijk",
+   "reden": "kleine site zonder herkenbare redactie"
+  },
+  "br.de": {
+   "oordeel": "redactie",
+   "naam": "BR24 Faktenfuchs"
+  },
+  "bsebcareer.in": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "bufale.net": {
+   "oordeel": "redactie",
+   "naam": "Bufale"
+  },
+  "bullionsharks.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "business2community.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "businessday.ng": {
+   "oordeel": "redactie",
+   "naam": "BusinessDay"
+  },
+  "businessveeru.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "butac.it": {
+   "oordeel": "redactie",
+   "naam": "BUTAC"
+  },
+  "buyutec.org": {
+   "oordeel": "redactie",
+   "naam": "Büyüteç"
+  },
+  "buzzfeed.com": {
+   "oordeel": "redactie",
+   "naam": "BuzzFeed Japan"
+  },
+  "cambodia.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo Cambodia"
+  },
+  "cancer.org": {
+   "oordeel": "instelling",
+   "naam": "The American Cancer Society",
+   "eisen": {
+    "kennis": "landelijke kankerorganisatie; de pagina's over risico's vatten het onderzoek samen",
+    "verkoopt_niets": "non-profit, verkoopt geen producten waar de claims over gaan (e-sigaretten, haarverf, slaap)",
+    "bronnen": "de pagina's sluiten af met hun literatuurlijst",
+    "geen_campagne": "de belangenbehartiging zit in een aparte organisatie (ACS CAN); deze pagina's informeren"
+   }
+  },
+  "cancertutor.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "cascadespringscredit.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "cekfakta.espos.id": {
+   "oordeel": "redactie",
+   "naam": "Espos.id"
+  },
+  "cekfakta.tempo.co": {
+   "oordeel": "redactie",
+   "naam": "Tempo.co"
+  },
+  "cenangmemorieslangkawi.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "championat.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "chayyek.com": {
+   "oordeel": "onduidelijk",
+   "reden": "Libanese site, geen herkenbare redactie"
+  },
+  "checker.news": {
+   "oordeel": "redactie",
+   "naam": "The Checker الفاحص"
+  },
+  "checkpostmarathi.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "chequeabolivia.bo": {
+   "oordeel": "redactie",
+   "naam": "Chequea Bolivia"
+  },
+  "chequeado.com": {
+   "oordeel": "redactie",
+   "naam": "Chequeado"
+  },
+  "chrisvoncsefalvay.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "citizen.lk": {
+   "oordeel": "redactie",
+   "naam": "Citizen Fact Check"
+  },
+  "ciudadanodiario.com.ar": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "claimreview.tistory.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "clasesordenador.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "clickorlando.com": {
+   "oordeel": "redactie",
+   "naam": "WKMG"
+  },
+  "climatefactchecks.org": {
+   "oordeel": "redactie",
+   "naam": "Climate Fact Checks"
+  },
+  "clintonmisquitta.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "cmulyana.company.site": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "coding4christ.net": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "colombiacheck.com": {
+   "oordeel": "redactie",
+   "naam": "Colombiacheck"
+  },
+  "colombianwomen.net": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "commerciallendingusa.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "comotrabajardesdecasa2.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "conectid.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "congluan.vn": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "coreyz.com": {
+   "oordeel": "rommel",
+   "reden": "webwinkelnetwerk, al op naam geweerd (#25.19)"
+  },
+  "correiobraziliense.com.br": {
+   "oordeel": "redactie",
+   "naam": "Correio Braziliense"
+  },
+  "cotoacademy.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "covid19.mcot.net": {
+   "oordeel": "redactie",
+   "naam": "ศูนย์ชัวร์ก่อนแชร์ Sure And Share Center"
+  },
+  "covid19facts.ca": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "creditorwatch.com.au": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "crimeandcask.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ctvnews.ca": {
+   "oordeel": "redactie",
+   "naam": "CTV News"
+  },
+  "culturalistpress.com": {
+   "oordeel": "rommel",
+   "reden": "productspecificaties van drones als claim"
+  },
+  "dailytrust.com.ng": {
+   "oordeel": "redactie",
+   "naam": "Daily Trust"
+  },
+  "dangardnermd.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "danielsgriffin.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dansk.de": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "daradaily.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "data-check.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "datumo-danshi.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "deadorkicking.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "deccanherald.com": {
+   "oordeel": "redactie",
+   "naam": "Deccan Herald"
+  },
+  "decheckers.be": {
+   "oordeel": "redactie",
+   "naam": "De Checkers"
+  },
+  "demagog.cz": {
+   "oordeel": "redactie",
+   "naam": "Demagog.cz"
+  },
+  "demo.iamfotso.cm": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "dewineimpeachmentwiki.weebly.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dfrac.org": {
+   "oordeel": "redactie",
+   "naam": "Digital Forensics, Research and Analytics Center (DFRAC)"
+  },
+  "diariocarioca.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "diariodasaude.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "didongviet.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dietr1ch.github.io": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "digitalmama.id": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "dirga101.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "disinfowatch.org": {
+   "oordeel": "redactie",
+   "naam": "DisinfoWatch"
+  },
+  "diyarbakirsoz.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dkoding.in": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dogrula.org": {
+   "oordeel": "redactie",
+   "naam": "Doğrula"
+  },
+  "dogrulugune.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "dogrulukpayi.com": {
+   "oordeel": "redactie",
+   "naam": "Doğruluk Payı"
+  },
+  "domkotlov.by": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dpa-factchecking.com": {
+   "oordeel": "redactie",
+   "naam": "dpa"
+  },
+  "drain-away.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "drclear.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dripafacts.ca": {
+   "oordeel": "onduidelijk",
+   "reden": "campagnesite over één wet"
+  },
+  "du-check.eu": {
+   "oordeel": "redactie",
+   "naam": "Du-Check"
+  },
+  "dubawa.org": {
+   "oordeel": "redactie",
+   "naam": "DUBAWA"
+  },
+  "duyanhdigital.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "dw.com": {
+   "oordeel": "redactie",
+   "naam": "Deutsche Welle"
+  },
+  "easeadvise.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "eastmojo.com": {
+   "oordeel": "redactie",
+   "naam": "Logically Facts"
+  },
+  "ebiquity.umbc.edu": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ebsco.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "echo-online.de": {
+   "oordeel": "redactie",
+   "naam": "Echo Online"
+  },
+  "ecunative.eu": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "edition.cnn.com": {
+   "oordeel": "redactie",
+   "naam": "CNN"
+  },
+  "edukasi.murianews.com": {
+   "oordeel": "redactie",
+   "naam": "Murianews.com"
+  },
+  "efake.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "efectococuyo.com": {
+   "oordeel": "redactie",
+   "naam": "Cocuyo Chequea"
+  },
+  "ejomichecks.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "electricvehicleweb.in": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "elespanol.com": {
+   "oordeel": "redactie",
+   "naam": "El Español"
+  },
+  "elespectador.com": {
+   "oordeel": "redactie",
+   "naam": "El Espectador"
+  },
+  "eliasmeya.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "elnimbo.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "elpaisdehazloquequieras.blogspot.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "eltoque.com": {
+   "oordeel": "redactie",
+   "naam": "elTOQUE"
+  },
+  "em.com.br": {
+   "oordeel": "redactie",
+   "naam": "EM Confirma"
+  },
+  "en.youturn.in": {
+   "oordeel": "redactie",
+   "naam": "Youturn"
+  },
+  "english.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "entertainment.espos.id": {
+   "oordeel": "redactie",
+   "naam": "Espos.id"
+  },
+  "entwicklerprogramm.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "erhaber.com": {
+   "oordeel": "onduidelijk",
+   "reden": "nieuwssite, de check is een kop zonder oordeel"
+  },
+  "erplinker.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "esakal.com": {
+   "oordeel": "redactie",
+   "naam": "Sakal"
+  },
+  "escenariotlx.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "eskomnews.co.za": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "europapress.es": {
+   "oordeel": "redactie",
+   "naam": "Europa Press"
+  },
+  "euvsdisinfo.eu": {
+   "oordeel": "redactie",
+   "naam": "EUvsDisinfo"
+  },
+  "evadons-nous.be": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "exali.de": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "examine.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "expresso.pt": {
+   "oordeel": "redactie",
+   "naam": "Expresso"
+  },
+  "factandfurious.com": {
+   "oordeel": "redactie",
+   "naam": "Fact & Furious"
+  },
+  "factcheck.aap.com.au": {
+   "oordeel": "redactie",
+   "naam": "AAP FactCheck"
+  },
+  "factcheck.kz": {
+   "oordeel": "redactie",
+   "naam": "Factcheck.kz"
+  },
+  "factcheck.org": {
+   "oordeel": "redactie",
+   "naam": "FactCheck.org"
+  },
+  "factcheck.thedispatch.com": {
+   "oordeel": "redactie",
+   "naam": "The Dispatch Fact Check"
+  },
+  "factcheck.vlaanderen": {
+   "oordeel": "redactie",
+   "naam": "Factcheck Vlaanderen"
+  },
+  "factcheckcenter.jp": {
+   "oordeel": "redactie",
+   "naam": "日本ファクトチェックセンター"
+  },
+  "factchecker.or.kr": {
+   "oordeel": "redactie",
+   "naam": "SNU FactCheck"
+  },
+  "factcheckhub.com": {
+   "oordeel": "redactie",
+   "naam": "FactCheckHub"
+  },
+  "factchecking.cl": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factcheckinghistory.wordpress.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factchecklab.org": {
+   "oordeel": "redactie",
+   "naam": "Factcheck Lab"
+  },
+  "factcheckni.org": {
+   "oordeel": "redactie",
+   "naam": "Fact Check NI"
+  },
+  "factcheckzone.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "facthub-mm.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "facthunt.in": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factico.org": {
+   "oordeel": "redactie",
+   "naam": "Factico"
+  },
+  "factly.in": {
+   "oordeel": "redactie",
+   "naam": "FACTLY"
+  },
+  "factnameh.com": {
+   "oordeel": "redactie",
+   "naam": "فکت‌نامه"
+  },
+  "factofied.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factory.fhj.nl": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "factrakers.org": {
+   "oordeel": "redactie",
+   "naam": "FactRakers"
+  },
+  "factual.ro": {
+   "oordeel": "redactie",
+   "naam": "Factual"
+  },
+  "factuel.afp.com": {
+   "oordeel": "redactie",
+   "naam": "AFP Factuel"
+  },
+  "fain.es": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "faktyoxla.info": {
+   "oordeel": "redactie",
+   "naam": "fakt yoxla"
+  },
+  "falso.ly": {
+   "oordeel": "redactie",
+   "naam": "فالصو لرصد خطاب الكراهية والاخبار الزائفة"
+  },
+  "famepublish.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fareq.net": {
+   "oordeel": "redactie",
+   "naam": "منصة فارق"
+  },
+  "fastcheck.cl": {
+   "oordeel": "redactie",
+   "naam": "Fast Check CL"
+  },
+  "fct.blackberry-hill.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "finoracle.net": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fioney.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "firstcheck.in": {
+   "oordeel": "redactie",
+   "naam": "First Check"
+  },
+  "fit.thequint.com": {
+   "oordeel": "redactie",
+   "naam": "The Quint"
+  },
+  "fitnortheast.org": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fmp.ae": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "forbes.com": {
+   "oordeel": "onduidelijk",
+   "reden": "bijdrage van een gastauteur onder een verkeerd gespelde naam ('Frobes'); niet na te gaan wie de opmaak zette"
+  },
+  "ford.mx": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fptcenter.com.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fr.africacheck.org": {
+   "oordeel": "redactie",
+   "naam": "Africa Check"
+  },
+  "frasidautore.it": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "fullfact.org": {
+   "oordeel": "redactie",
+   "naam": "Full Fact"
+  },
+  "g1.globo.com": {
+   "oordeel": "redactie",
+   "naam": "g1 Fato ou Fake"
+  },
+  "galaxyfounder.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "gezondheidenwetenschap.be": {
+   "oordeel": "redactie",
+   "naam": "Gezondheid en wetenschap"
+  },
+  "gigafact.org": {
+   "oordeel": "redactie",
+   "naam": "Gigafact"
+  },
+  "globes.co.il": {
+   "oordeel": "redactie",
+   "naam": "המשרוקית של גלובס"
+  },
+  "goodmorningtravel.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "govtjobsalertinbharat.in": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "grabancijas.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "grafis.tempo.co": {
+   "oordeel": "redactie",
+   "naam": "Tempo.co"
+  },
+  "guardian.ng": {
+   "oordeel": "redactie",
+   "naam": "The Guardian Nigeria"
+  },
+  "guinnessworldrecords.com": {
+   "oordeel": "rommel",
+   "reden": "wereldrecords, geen beweringen die gecheckt zijn"
+  },
+  "gujarati.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "gulfhindi.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "gushanrubber.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "gyan.us": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "hadathnews.net": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "hakikah.net": {
+   "oordeel": "redactie",
+   "naam": "حقيقة"
+  },
+  "halfrain.com": {
+   "oordeel": "rommel",
+   "reden": "webwinkelnetwerk, al op naam geweerd (#25.19)"
+  },
+  "hamdygamal.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "hankyung.com": {
+   "oordeel": "redactie",
+   "naam": "뉴스래빗"
+  },
+  "health.medicaldialogues.in": {
+   "oordeel": "redactie",
+   "naam": "Health Dialogues"
+  },
+  "healthfeedback.org": {
+   "oordeel": "redactie",
+   "naam": "Health Feedback"
+  },
+  "hempoilcbdgood.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "hendra.sentraldata.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "herjoo.co.za": {
+   "oordeel": "rommel",
+   "reden": "SEO-bureau over zichzelf en Google Ads"
+  },
+  "hikingrinjani.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "hindi.boomlive.in": {
+   "oordeel": "redactie",
+   "naam": "BOOM"
+  },
+  "hindi.theprint.in": {
+   "oordeel": "redactie",
+   "naam": "ThePrint"
+  },
+  "hindi.thequint.com": {
+   "oordeel": "redactie",
+   "naam": "The Quint"
+  },
+  "holidaycheck.de": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "homeopathicservices.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "hotnaija.com.ng": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "huffingtonpost.ca": {
+   "oordeel": "redactie",
+   "naam": "HuffPost Canada"
+  },
+  "huskyhamster.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ici.radio-canada.ca": {
+   "oordeel": "redactie",
+   "naam": "Radio-Canada - Décrypteurs"
+  },
+  "icirnigeria.org": {
+   "oordeel": "redactie",
+   "naam": "ICIR"
+  },
+  "idntimes.com": {
+   "oordeel": "redactie",
+   "naam": "IDN Times"
+  },
+  "iliyaimmigration.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "incr-edibles.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "indisupport.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "industrydecarbonization.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "inews-portal.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "infact.press": {
+   "oordeel": "redactie",
+   "naam": "InFact"
+  },
+  "info-veritas.com": {
+   "oordeel": "redactie",
+   "naam": "INFOVERITAS"
+  },
+  "infointegritybureau.pk": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "informativos.net": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "inklusion.pt": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "insightscreator.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "instantcritique.fr": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "investig-jones.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "investigatebel.org": {
+   "oordeel": "redactie",
+   "naam": "Belarusian Investigative Center"
+  },
+  "isocialweb.agency": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "isranews.org": {
+   "oordeel": "redactie",
+   "naam": "สำนักข่าวอิศรา"
+  },
+  "jabarnews.com": {
+   "oordeel": "redactie",
+   "naam": "Jabarnews.com"
+  },
+  "jc.ne10.uol.com.br": {
+   "oordeel": "redactie",
+   "naam": "Agência Lupa"
+  },
+  "jornalnh.com.br": {
+   "oordeel": "redactie",
+   "naam": "Projeto Comprova"
+  },
+  "jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "julianmartin.es": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "kalkinemedia.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "kashif.ps": {
+   "oordeel": "redactie",
+   "naam": "كاشف"
+  },
+  "keepkidshealthy.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "kenduri.shterate.or.id": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "keryc.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "kesen.wang": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "khasokhas.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "kids-in-mind.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "knack.be": {
+   "oordeel": "redactie",
+   "naam": "Knack"
+  },
+  "koranmerah.com": {
+   "oordeel": "redactie",
+   "naam": "koranmerah.com"
+  },
+  "krisis.upjournalismclub.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "ksat.com": {
+   "oordeel": "redactie",
+   "naam": "KSAT"
+  },
+  "ktxpestcontrol.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "kubaarucheck.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "kungfudhamaka.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "kwttoday.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "ladiaria.com.uy": {
+   "oordeel": "redactie",
+   "naam": "La Diaria Verifica"
+  },
+  "lasillavacia.com": {
+   "oordeel": "redactie",
+   "naam": "La Silla Vacía"
+  },
+  "latestly.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "lavoce.info": {
+   "oordeel": "redactie",
+   "naam": "Lavoce.info"
+  },
+  "lavoixdunord.fr": {
+   "oordeel": "redactie",
+   "naam": "La Voix du Nord"
+  },
+  "lci.fr": {
+   "oordeel": "redactie",
+   "naam": "LCI"
+  },
+  "legit.ng": {
+   "oordeel": "redactie",
+   "naam": "Legit.ng"
+  },
+  "lejdc.fr": {
+   "oordeel": "redactie",
+   "naam": "Le Journal du Centre"
+  },
+  "lemonde.fr": {
+   "oordeel": "redactie",
+   "naam": "Le Monde"
+  },
+  "lepetitecolier.mondoblog.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "lessurligneurs.eu": {
+   "oordeel": "redactie",
+   "naam": "Les Surligneurs"
+  },
+  "letsgoplayoutside.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "lgbtqnation.com": {
+   "oordeel": "redactie",
+   "naam": "LGBTQ Nation"
+  },
+  "lighthousejournalism.com": {
+   "oordeel": "redactie",
+   "naam": "Lighthouse Journalism"
+  },
+  "liputan6.com": {
+   "oordeel": "redactie",
+   "naam": "Liputan6.com"
+  },
+  "livecoins.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "livestrong.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "lixxil.de": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "loanconnect.ca": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "logically.ai": {
+   "oordeel": "redactie",
+   "naam": "Logically"
+  },
+  "logically.in": {
+   "oordeel": "redactie",
+   "naam": "Logically"
+  },
+  "logicallyfacts.com": {
+   "oordeel": "redactie",
+   "naam": "Logically Facts"
+  },
+  "lokmat.com": {
+   "oordeel": "redactie",
+   "naam": "Lokmat"
+  },
+  "lp.atus.jp": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "lsjexpress.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "lupa.com.ec": {
+   "oordeel": "redactie",
+   "naam": "Lupa Media"
+  },
+  "lupa.uol.com.br": {
+   "oordeel": "redactie",
+   "naam": "Lupa"
+  },
+  "mabapost.tn": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "madhyamam.com": {
+   "oordeel": "redactie",
+   "naam": "Madhyamam"
+  },
+  "maharat-news.com": {
+   "oordeel": "redactie",
+   "naam": "maharat-news"
+  },
+  "malaespinacheck.cl": {
+   "oordeel": "redactie",
+   "naam": "Mala Espina Check"
+  },
+  "malayalam.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "maldita.es": {
+   "oordeel": "redactie",
+   "naam": "Maldita.es"
+  },
+  "malumatfurus.org": {
+   "oordeel": "redactie",
+   "naam": "Malumatfuruş"
+  },
+  "mamits.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "manoramaonline.com": {
+   "oordeel": "redactie",
+   "naam": "Manorama Online"
+  },
+  "marathi.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "marketoapp.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "martiverifica.info": {
+   "oordeel": "redactie",
+   "naam": "Martí Verifica"
+  },
+  "martiverifica.netlify.app": {
+   "oordeel": "redactie",
+   "naam": "Martí Verifica"
+  },
+  "mathrubhumi.com": {
+   "oordeel": "redactie",
+   "naam": "Mathrubhumi"
+  },
+  "mcot.aq1.co": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mecagoenlos.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "medhubnews.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mediabiasfactcheck.com": {
+   "oordeel": "redactie",
+   "naam": "Media Bias Fact Check"
+  },
+  "mediagatewizard.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mediagotosa.com": {
+   "oordeel": "onduidelijk",
+   "reden": "Koreaanse mediawaakhond, geen herkenbare redactie"
+  },
+  "medicaldialogues.in": {
+   "oordeel": "redactie",
+   "naam": "Medical Dialogues"
+  },
+  "medizin-transparent.at": {
+   "oordeel": "redactie",
+   "naam": "Medizin Transparent"
+  },
+  "melekmedia.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "metropoles.com": {
+   "oordeel": "redactie",
+   "naam": "Projeto Comprova"
+  },
+  "mexicanadearte.art": {
+   "oordeel": "onduidelijk",
+   "reden": "checks van Mexicaanse uitspraken onder een kunstdomein"
+  },
+  "mfcc.mn": {
+   "oordeel": "redactie",
+   "naam": "Mongolian Fact-checking Center"
+  },
+  "mgronline.com": {
+   "oordeel": "redactie",
+   "naam": "Manager Online"
+  },
+  "mhnpc.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "michaelenfield.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "micronews.site": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "midland-farm.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mimikama.at": {
+   "oordeel": "redactie",
+   "naam": "Mimikama"
+  },
+  "mimikama.org": {
+   "oordeel": "redactie",
+   "naam": "Mimikama"
+  },
+  "miniver.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "misinformationcheck.com": {
+   "oordeel": "rommel",
+   "reden": "partijdige site die een valse bewering over verkiezingsfraude 'True' noemt"
+  },
+  "mittelhessen.de": {
+   "oordeel": "redactie",
+   "naam": "VRM"
+  },
+  "mnews.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "mobile.daradaily.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "modelocurriculum.net": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mohamedalibenammar.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "monair.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "money.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "moove-it.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "mukeshblogtop5.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "myanmar.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "mygopen.com": {
+   "oordeel": "redactie",
+   "naam": "MyGoPen"
+  },
+  "mysansar.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "mythdetector.ge": {
+   "oordeel": "redactie",
+   "naam": "Myth Detector"
+  },
+  "naijavox.com.ng": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "narendradwivedi.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "nationalacademies.org": {
+   "oordeel": "instelling",
+   "naam": "National Academies of Sciences, Engineering, and Medicine",
+   "eisen": {
+    "kennis": "wetenschappelijke academie van de Verenigde Staten; 'Based on Science' zet beweringen naast de stand van het onderzoek",
+    "verkoopt_niets": "onafhankelijke non-profit, verkoopt niets wat met de claims te maken heeft",
+    "bronnen": "elke pagina verwijst naar de studies en rapporten waarop het oordeel rust",
+    "geen_campagne": "informeert, voert geen campagne"
+   }
+  },
+  "nationpop.com.br": {
+   "oordeel": "rommel",
+   "reden": "popnieuws, de claim is een kop of de sitenaam"
+  },
+  "ne10.uol.com.br": {
+   "oordeel": "redactie",
+   "naam": "Agência Lupa"
+  },
+  "nepalcheck.org": {
+   "oordeel": "redactie",
+   "naam": "Nepal Check"
+  },
+  "nepalfactcheck.org": {
+   "oordeel": "redactie",
+   "naam": "NepalFactCheck.org"
+  },
+  "news.espos.id": {
+   "oordeel": "redactie",
+   "naam": "Espos.id"
+  },
+  "news.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "news.obozrevatel.com": {
+   "oordeel": "redactie",
+   "naam": "Obozrevatel"
+  },
+  "news.sbs.co.kr": {
+   "oordeel": "redactie",
+   "naam": "SBS 뉴스"
+  },
+  "news.socketntertainment.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "news01.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "news02.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "news03.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "news4jax.com": {
+   "oordeel": "redactie",
+   "naam": "News4Jax"
+  },
+  "newschecker.in": {
+   "oordeel": "redactie",
+   "naam": "Newschecker"
+  },
+  "newse7live.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "newsfactsnetwork.com": {
+   "oordeel": "onduidelijk",
+   "reden": "kleine Amerikaanse site zonder herkenbare redactie"
+  },
+  "newslabit.hankyung.com": {
+   "oordeel": "redactie",
+   "naam": "뉴스래빗"
+  },
+  "newsmeter.in": {
+   "oordeel": "redactie",
+   "naam": "NewsMeter"
+  },
+  "newsmobile.in": {
+   "oordeel": "redactie",
+   "naam": "NewsMobile"
+  },
+  "newsothersmiss.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "newswise.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "newtral.es": {
+   "oordeel": "redactie",
+   "naam": "Newtral"
+  },
+  "newtv.co.th": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "nexojornal.com.br": {
+   "oordeel": "redactie",
+   "naam": "Nexo"
+  },
+  "nieuwscheckers.nl": {
+   "oordeel": "redactie",
+   "naam": "Nieuwscheckers"
+  },
+  "nikosgr07.website2.me": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "niusdiario.es": {
+   "oordeel": "redactie",
+   "naam": "NIUS"
+  },
+  "nixs.in": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "noamsark.org": {
+   "oordeel": "onduidelijk",
+   "reden": "persoonlijk wetenschapsblog"
+  },
+  "nordbayern.de": {
+   "oordeel": "redactie",
+   "naam": "nordbayern.de"
+  },
+  "northcutt.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "northeastjob.in": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "notipress.mx": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "notre-planete.info": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "noz.de": {
+   "oordeel": "redactie",
+   "naam": "Neue Osnabrücker Zeitung"
+  },
+  "npr.org": {
+   "oordeel": "redactie",
+   "naam": "NPR"
+  },
+  "nutricion360.es": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "nytimes.com": {
+   "oordeel": "redactie",
+   "naam": "The New York Times"
+  },
+  "observalgerie.com": {
+   "oordeel": "redactie",
+   "naam": "ObservAlgérie"
+  },
+  "observatoriodosfamosos.bol.uol.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "ocrendurancefactory.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "odia.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "odia.ig.com.br": {
+   "oordeel": "redactie",
+   "naam": "O DIA"
+  },
+  "oko.press": {
+   "oordeel": "redactie",
+   "naam": "OKO.press"
+  },
+  "oldfactcheck.aap.com.au": {
+   "oordeel": "redactie",
+   "naam": "AAP FactCheck"
+  },
+  "oldwp.wikitribune.com": {
+   "oordeel": "redactie",
+   "naam": "WikiTribune"
+  },
+  "onlineaustralia.org": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "open.online": {
+   "oordeel": "redactie",
+   "naam": "Open"
+  },
+  "opindia.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "opopular.com.br": {
+   "oordeel": "redactie",
+   "naam": "Tem Base? O Popular"
+  },
+  "opovo.com.br": {
+   "oordeel": "redactie",
+   "naam": "O POVO"
+  },
+  "order.viagra-krem.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "orondipraktijk.nl": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "osintinsights.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "our.news": {
+   "oordeel": "onduidelijk",
+   "reden": "nieuwsbeoordelingsplatform, onduidelijk wie checkt"
+  },
+  "ozkartasarim.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "pa-ic.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "pa.media": {
+   "oordeel": "redactie",
+   "naam": "PA Media"
+  },
+  "paapmpaapm.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "pagellapolitica.it": {
+   "oordeel": "redactie",
+   "naam": "Pagella Politica"
+  },
+  "parnasocomunicacion.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "partnerschaftsverein-adelebsen.de": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "pehchanfaridabad.in": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "pelisappv3.000webhostapp.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "peoplescheck.org": {
+   "oordeel": "onduidelijk",
+   "reden": "Nigeriaanse site, geen herkenbare redactie"
+  },
+  "pesacheck.org": {
+   "oordeel": "redactie",
+   "naam": "PesaCheck"
+  },
+  "pestworld.org": {
+   "oordeel": "rommel",
+   "reden": "informatie over ongedierte van een brancheorganisatie"
+  },
+  "piaui.folha.uol.com.br": {
+   "oordeel": "redactie",
+   "naam": "Lupa"
+  },
+  "pikiran-rakyat.com": {
+   "oordeel": "redactie",
+   "naam": "Pikiran Rakyat"
+  },
+  "pokemontrainer.in.th": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "policy-wire.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "poligrafo.sapo.pt": {
+   "oordeel": "redactie",
+   "naam": "Polígrafo"
+  },
+  "politics.comments.ua": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "politicsnigeria.com": {
+   "oordeel": "redactie",
+   "naam": "Politics Nigeria"
+  },
+  "politifact.com": {
+   "oordeel": "redactie",
+   "naam": "PolitiFact"
+  },
+  "polygraph.info": {
+   "oordeel": "redactie",
+   "naam": "Polygraph.info"
+  },
+  "pontianakpost.jawapos.com": {
+   "oordeel": "redactie",
+   "naam": "Pontianak Post"
+  },
+  "postmayor.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "poynter.org": {
+   "oordeel": "redactie",
+   "naam": "MediaWise"
+  },
+  "pptvhd36.com": {
+   "oordeel": "redactie",
+   "naam": "PPTV HD 36"
+  },
+  "pr1925.feature.dev.www.spiegel.de": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "pravda.org.pl": {
+   "oordeel": "redactie",
+   "naam": "Stowarzyszenie Pravda"
+  },
+  "preprodgwr.guinnessworldrecords.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "presseportal.de": {
+   "oordeel": "redactie",
+   "naam": "Deutsche Presse-Agentur"
+  },
+  "pressroom.today": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "prime9ja.com.ng": {
+   "oordeel": "onduidelijk",
+   "reden": "blog, geen herkenbare redactie"
+  },
+  "proatitude.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "projetocomprova.com.br": {
+   "oordeel": "redactie",
+   "naam": "Comprova"
+  },
+  "pulzo.com": {
+   "oordeel": "redactie",
+   "naam": "Pulzo"
+  },
+  "punemirror.in": {
+   "oordeel": "redactie",
+   "naam": "Pune Mirror"
+  },
+  "qbfexposed.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "qbtechs.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "qolac.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "quehacerconlosninos.es": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "quellochepiaceavaleria.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "quynhquantu.vn": {
+   "oordeel": "onduidelijk",
+   "reden": "persoonlijke site met waarschuwingen voor oplichting"
+  },
+  "radiolibrevientosur.com.ve": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "rameshchildcare.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "rappler.com": {
+   "oordeel": "redactie",
+   "naam": "Rappler"
+  },
+  "raskrinkavanje.loc3.bildhosting.me": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "raskrinkavanje.me": {
+   "oordeel": "redactie",
+   "naam": "Raskrinkavanje"
+  },
+  "rawalbros.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "redteam.pl": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "redwine.blue": {
+   "oordeel": "onduidelijk",
+   "reden": "politieke campagnegroep"
+  },
+  "regional.espos.id": {
+   "oordeel": "redactie",
+   "naam": "Espos.id"
+  },
+  "republika.co.id": {
+   "oordeel": "redactie",
+   "naam": "Republika"
+  },
+  "restupolesmarmer.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "reuters.com": {
+   "oordeel": "redactie",
+   "naam": "Reuters"
+  },
+  "revistacultivar.com.br": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "rheinpfalz.de": {
+   "oordeel": "redactie",
+   "naam": "DIE RHEINPFALZ"
+  },
+  "ripleys.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "rorustec.it": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "rtbf.be": {
+   "oordeel": "redactie",
+   "naam": "RTBF"
+  },
+  "rtl.de": {
+   "oordeel": "redactie",
+   "naam": "RTL News"
+  },
+  "rts.ch": {
+   "oordeel": "redactie",
+   "naam": "RTS"
+  },
+  "rtve.es": {
+   "oordeel": "redactie",
+   "naam": "RTVE"
+  },
+  "rumorguard.org": {
+   "oordeel": "redactie",
+   "naam": "RumorGuard"
+  },
+  "rumorscanner.com": {
+   "oordeel": "redactie",
+   "naam": "Rumor Scanner"
+  },
+  "runnea.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "runwaymagazines.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sacurrent.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "sae.news": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "saechsische.de": {
+   "oordeel": "redactie",
+   "naam": "Sächsische.de"
+  },
+  "saibatudomt.com.br": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "salisbury-observer.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "saludconlupa.com": {
+   "oordeel": "redactie",
+   "naam": "Salud con lupa"
+  },
+  "sandton-plumbing.co.za": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sapevaluation.org": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sarkarisampark.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "saveshoppingonline.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sbtnews.com.br": {
+   "oordeel": "redactie",
+   "naam": "SBT News De Fato"
+  },
+  "sbtnews.sbt.com.br": {
+   "oordeel": "redactie",
+   "naam": "SBT News"
+  },
+  "scandalethics.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "sciencepresse.qc.ca": {
+   "oordeel": "redactie",
+   "naam": "Détecteur de rumeurs"
+  },
+  "scoliosiscarecenters.com": {
+   "oordeel": "rommel",
+   "reden": "kliniek die de eigen behandeling verdedigt"
+  },
+  "search.casino": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "searchevals.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "seo-sreo.pl": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "seopremo.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "service.essayhave.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sextoy4men.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "share.youturn.in": {
+   "oordeel": "redactie",
+   "naam": "Youturn"
+  },
+  "shechecks.net": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "shirotama-web.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "shopingwoping.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "siamrath.co.th": {
+   "oordeel": "redactie",
+   "naam": "สยามรัฐ"
+  },
+  "sidqyem.com": {
+   "oordeel": "redactie",
+   "naam": "منصة صدق اليمنية"
+  },
+  "signalads.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sites.nationalacademies.org": {
+   "oordeel": "instelling",
+   "naam": "National Academies of Sciences, Engineering, and Medicine",
+   "eisen": {
+    "kennis": "wetenschappelijke academie van de Verenigde Staten; 'Based on Science' zet beweringen naast de stand van het onderzoek",
+    "verkoopt_niets": "onafhankelijke non-profit, verkoopt niets wat met de claims te maken heeft",
+    "bronnen": "elke pagina verwijst naar de studies en rapporten waarop het oordeel rust",
+    "geen_campagne": "informeert, voert geen campagne"
+   }
+  },
+  "sky-sport-afaan-oromo.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "slotsup.com": {
+   "oordeel": "rommel",
+   "reden": "casino's 'legit' verklaard"
+  },
+  "slowblinkmainecoons.com": {
+   "oordeel": "rommel",
+   "reden": "kattenfokker over kittenprijzen"
+  },
+  "snlabat.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "snopes.com": {
+   "oordeel": "redactie",
+   "naam": "Snopes",
+   "reden": "route A (#32.38, PO 2026-11-04): een factcheckredactie; nagekeken in stap 4, BENCHMARK §214"
+  },
+  "snusdaddy.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sochfactcheck.com": {
+   "oordeel": "redactie",
+   "naam": "Soch Fact Check"
+  },
+  "socketntertainment.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sofrep.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "solopos.espos.id": {
+   "oordeel": "redactie",
+   "naam": "Espos.id"
+  },
+  "soyfelizyque.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "srilanka.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Factcrescendo Sri Lanka"
+  },
+  "stancuprint.org": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "standardmedia.co.ke": {
+   "oordeel": "redactie",
+   "naam": "The Standard"
+  },
+  "stern.de": {
+   "oordeel": "redactie",
+   "naam": "stern"
+  },
+  "structureddata.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sultratop.com": {
+   "oordeel": "redactie",
+   "naam": "Sultratop.com"
+  },
+  "swr3.de": {
+   "oordeel": "redactie",
+   "naam": "SWR3 Faktencheck.de"
+  },
+  "synergiczni.pl": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "sysoon.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tafnied.com": {
+   "oordeel": "redactie",
+   "naam": "tafnied - تفنيد"
+  },
+  "tagesschau.de": {
+   "oordeel": "redactie",
+   "naam": "tagesschau Faktenfinder"
+  },
+  "tahaqaq.ps": {
+   "oordeel": "redactie",
+   "naam": "المرصد الفلسطيني “تحقق”"
+  },
+  "talkshubhnews.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "tambua.africa": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "tamil.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Fact Crescendo"
+  },
+  "tamil.hindustantimes.com": {
+   "oordeel": "redactie",
+   "naam": "Hindustan Times"
+  },
+  "tankless.review": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tausifnakbar.blogspot.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "tayqan.net": {
+   "oordeel": "redactie",
+   "naam": "تيقن"
+  },
+  "tbzjournal.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "techjobs.sulekha.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "techsignal.live": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "tejaratfx.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tekno-bilim.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "teknoinaja.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "telemundo.com": {
+   "oordeel": "redactie",
+   "naam": "Noticias Telemundo"
+  },
+  "telugubulletin.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "telugupost.com": {
+   "oordeel": "redactie",
+   "naam": "Telugupost"
+  },
+  "tempo.co": {
+   "oordeel": "redactie",
+   "naam": "Tempo.co"
+  },
+  "tesladeaths.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "test.gresiksatu.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "texaselectricityratings.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "texasmonthly.com": {
+   "oordeel": "redactie",
+   "naam": "Texas Monthly"
+  },
+  "tezcanmahmut.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tfc-taiwan.org.tw": {
+   "oordeel": "redactie",
+   "naam": "台灣事實查核中心"
+  },
+  "thailand.factcrescendo.com": {
+   "oordeel": "redactie",
+   "naam": "Factcrescendo Thailand"
+  },
+  "thairath.co.th": {
+   "oordeel": "redactie",
+   "naam": "ไทยรัฐออนไลน์"
+  },
+  "the961.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "theautoexperts.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "thebhongaa.com": {
+   "oordeel": "onduidelijk",
+   "reden": "Marathi-blog, geen herkenbare redactie"
+  },
+  "thebioticworld.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "wiskundeblog, de claim is de blognaam"
+  },
+  "thechenabtimes.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "thedirect.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "thedispatch.com": {
+   "oordeel": "redactie",
+   "naam": "The Dispatch Fact Check"
+  },
+  "thefacts.es": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "thegazette.com": {
+   "oordeel": "redactie",
+   "naam": "Cedar Rapids Gazette"
+  },
+  "thehindu.com": {
+   "oordeel": "redactie",
+   "naam": "The Hindu"
+  },
+  "thejetset.tv": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "thejournal.ie": {
+   "oordeel": "redactie",
+   "naam": "TheJournal.ie"
+  },
+  "themassagerooms.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "themonitor.media": {
+   "oordeel": "redactie",
+   "naam": "Монитор Медиа"
+  },
+  "theprint.in": {
+   "oordeel": "redactie",
+   "naam": "ThePrint"
+  },
+  "theprobe.in": {
+   "oordeel": "redactie",
+   "naam": "The Probe"
+  },
+  "thequint.com": {
+   "oordeel": "redactie",
+   "naam": "The Quint"
+  },
+  "therealfacthunter.com": {
+   "oordeel": "onduidelijk",
+   "reden": "persoonlijke factchecksite"
+  },
+  "theromancewarehouse.com.au": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "thesearchlight.in": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "thestepbystephub.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "thetimereports.blogspot.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "thevasty.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "theverge.com": {
+   "oordeel": "redactie",
+   "naam": "The Verge"
+  },
+  "thewhistle.globes.co.il": {
+   "oordeel": "redactie",
+   "naam": "The Whistle by Globes"
+  },
+  "thip.media": {
+   "oordeel": "redactie",
+   "naam": "THIP Media"
+  },
+  "tiempossustentables.cl": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "timesindonesia.co.id": {
+   "oordeel": "redactie",
+   "naam": "TIMES Indonesia"
+  },
+  "timesofcasino.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tipulpsychology.co.il": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tirto.id": {
+   "oordeel": "redactie",
+   "naam": "Tirto"
+  },
+  "tnamcot.com": {
+   "oordeel": "redactie",
+   "naam": "ศูนย์ชัวร์ก่อนแชร์ Sure And Share Center"
+  },
+  "tnnthailand.com": {
+   "oordeel": "redactie",
+   "naam": "TNN"
+  },
+  "tradesources.fr": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "travexinc.ca": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "trend-jet.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "trendcoin.ru": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "tribunadonorte.com.br": {
+   "oordeel": "redactie",
+   "naam": "Tribuna do Norte"
+  },
+  "trustnews.tn": {
+   "oordeel": "redactie",
+   "naam": "Trust News Tunisia"
+  },
+  "tsek.ph": {
+   "oordeel": "redactie",
+   "naam": "Tsek.ph"
+  },
+  "tv.jtbc.joins.com": {
+   "oordeel": "redactie",
+   "naam": "JTBC 뉴스"
+  },
+  "ufe-berlin.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "univision.com": {
+   "oordeel": "redactie",
+   "naam": "El Detector / Univision Noticias"
+  },
+  "urjanchaltiger.in": {
+   "oordeel": "rommel",
+   "reden": "nieuwsberichten en autoprijzen met 'This News is written...' als oordeel"
+  },
+  "usatoday.com": {
+   "oordeel": "redactie",
+   "naam": "USA TODAY"
+  },
+  "vandieukhien.net": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vanillacircus.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vaxopedia.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "vcm.co.uk": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vedclass.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "verafiles.org": {
+   "oordeel": "redactie",
+   "naam": "Vera Files"
+  },
+  "verif.quebec": {
+   "oordeel": "redactie",
+   "naam": "VérifRadar"
+  },
+  "verifica.efe.com": {
+   "oordeel": "redactie",
+   "naam": "EFE Verifica",
+   "reden": "route A (#32.38, PO 2026-11-04): de factcheckredactie van persbureau EFE; nagekeken in stap 4, BENCHMARK §214"
+  },
+  "verificado.com.mx": {
+   "oordeel": "redactie",
+   "naam": "Verificado"
+  },
+  "verificat.cat": {
+   "oordeel": "redactie",
+   "naam": "Verificat"
+  },
+  "verify-sy.com": {
+   "oordeel": "redactie",
+   "naam": "منصة تأكد"
+  },
+  "victra.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vidalista-cialis-tadalafil.blogspot.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "video.tempo.co": {
+   "oordeel": "redactie",
+   "naam": "Tempo.co"
+  },
+  "videoblogtestx.blogspot.jp": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vihadigitalcommerce.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "viralnewsfactcheck.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "vishvasnews.com": {
+   "oordeel": "redactie",
+   "naam": "Vishvas News"
+  },
+  "vodafone.com.au": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vominhtuan.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "voyages-algerie.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "vpnranks.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vrt.be": {
+   "oordeel": "redactie",
+   "naam": "VRTNWS"
+  },
+  "vttechsolution.com.vn": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "vuahanghieu.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "washingtonpost.com": {
+   "oordeel": "redactie",
+   "naam": "Washington Post"
+  },
+  "watchlist-internet.at": {
+   "oordeel": "instelling",
+   "naam": "Watchlist Internet",
+   "eisen": {
+    "kennis": "onafhankelijk Oostenrijks instituut (ÖIAT) dat met publieke middelen voor online fraude waarschuwt",
+    "verkoopt_niets": "verkoopt niets",
+    "bronnen": "toont het bericht of de site waar het om gaat, en de officiële reactie",
+    "geen_campagne": "waarschuwt, voert geen campagne"
+   }
+  },
+  "watson.ch": {
+   "oordeel": "redactie",
+   "naam": "watson"
+  },
+  "web.almashhad.tv": {
+   "oordeel": "redactie",
+   "naam": "المشهد"
+  },
+  "web.de": {
+   "oordeel": "redactie",
+   "naam": "web.de Magazin"
+  },
+  "webce.com": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "wehthy.wordpress.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "whatthesciencesays.org": {
+   "oordeel": "onduidelijk",
+   "reden": "geen herkenbare redactie, of niet na te gaan"
+  },
+  "whoscheat.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "wikitribune.com": {
+   "oordeel": "redactie",
+   "naam": "WikiTribune"
+  },
+  "wordlift.io": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "workpointnews.com": {
+   "oordeel": "redactie",
+   "naam": "Workpoint News"
+  },
+  "wral.com": {
+   "oordeel": "redactie",
+   "naam": "WRAL News"
+  },
+  "www1.folha.uol.com.br": {
+   "oordeel": "redactie",
+   "naam": "Folha de S.Paulo"
+  },
+  "yna.co.kr": {
+   "oordeel": "redactie",
+   "naam": "Yonhap News Agency"
+  },
+  "yoopyup.com": {
+   "oordeel": "redactie",
+   "naam": "يوب يوب"
+  },
+  "youturn.in": {
+   "oordeel": "redactie",
+   "naam": "Youturn"
+  },
+  "yurtdisiforex.co": {
+   "oordeel": "rommel",
+   "reden": "forexmakelaar over bonussen en spreads"
+  },
+  "zeolith-bentonit-versand.de": {
+   "oordeel": "rommel",
+   "reden": "webwinkel die het eigen product 'Richtig' noemt"
+  },
+  "zeta.tech": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "zonautara.com": {
+   "oordeel": "redactie",
+   "naam": "Zonautara.com"
+  },
+  "zoonews.com.br": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  },
+  "zyppy.com": {
+   "oordeel": "rommel",
+   "reden": "geen factcheck: winkel, dienst, SEO, persoonlijke site, proefinvoer of reclame"
+  }
+ }
+}

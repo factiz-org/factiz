@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Mullin, Trump'ın kalkış durdurma nedeniyle ulusal acil durum ilan ettiğini söyledi, ancak ortada böyle bir ilan yok",
+  "oordeel_zin": "İç Güvenlik Bakanı Markwayne Mullin bunu Beyaz Saray'da söyledi, ancak Federal Register'da ya da başkanın işlemleri arasında böyle bir ilan görünmüyor ve Mullin bunu Kongre'den para isterken söyledi [2] [4] [5].",
+  "bewering": "🚨 YOK ARTIK: Başkan Trump, Amerika'nın bozuk hava trafik kontrol sistemi nedeniyle ULUSAL ACİL DURUM İLAN ETTİ.  Bir muhabir bunu bir siber saldırının ya da başıboş bir yapay zekânın yapıp yapmadığını sordu. DHS Bakanı Markwayne Mullin şu ana kadar siber saldırıya dair SIFIR KANIT olduğunu söylüyor.",
+  "kort": "ABD'deki kalkış durdurma nedeniyle ilan edilmiş bir ulusal acil durum yok, ancak İç Güvenlik Bakanı Markwayne Mullin Başkan Trump'ın böyle bir ilan yaptığını söyledi [2] [11]. Mullin'in basın toplantısından bir klip, bu ilanın haberi olarak X'te dolaştı [1]. Yasanın yayımlanmasını şart koştuğu Federal Register'da hiçbir bildiri ya da kararname görünmüyor ve Mullin bunu Kongre'den para isterken söyledi [2] [4] [6].",
+  "tekst": "13 Kasım'da, Doğu saatiyle 15.30 civarında (UTC 20.30), Federal Havacılık İdaresi (FAA) ABD havalimanlarından tüm kalkışları durdurdu, yani bir kalkış durdurma (ground stop) uyguladı [8]. Telekomünikasyon ağındaki veri yoğunluğu eski ekipmanı kararsız hale getirmişti ve FAA, siber saldırıya dair hiçbir işaret olmadığını söylüyor [8].\n\nO akşam Mullin ile Ulaştırma Bakanı Sean Duffy, Beyaz Saray'da gazetecilere bilgi verdi [9]. Mullin eski hava trafik kontrol sistemini bir ulusal güvenlik riski olarak niteledi ve şunu söyledi: \"Başkan bunu ulusal acil durum ilan etti ve şimdi Kongre'nin harekete geçip bunu finanse etmesi gerekiyor.\" [2] Bakanlığı bu cümleyi yayımladı ve The National News Desk de aynı gece haberleştirdi [2] [11].\n\n14 Kasım'da UTC 01.54'te Gunther Eagleman hesabı, Trump'ın ulusal acil durum ilan ettiği yazısıyla basın toplantısından bir klip paylaştı [1]. Daha sonraki bir paylaşım kalkış durdurmayı ulusal acil durum kapsamında yürütülen bir askeri operasyon olarak nitelendirdi ve eski ulusal güvenlik danışmanı Mike Flynn askeri birliklerin teyakkuza geçtiğine dair haberlerden söz etti, ancak biz böyle bir habere rastlamadık [13] [14].\n\nUlusal Acil Durumlar Yasası uyarınca başkan, Kongre'ye giden ve Federal Register'da yayımlanan bir bildiriyle ulusal acil durum ilan eder [6]. Trump Ağustos'ta elektrik şebekesi için 14421 sayılı Başkanlık Kararnamesi ile bir ilan yapmıştı [7]. Kalkış durdurma için ise hiçbirini bulamadık: Federal Register 13 Kasım'dan bu yana üç başkanlık belgesi yayımladı, hiçbiri hava trafiği ya da bir acil durumla ilgili değil ve Beyaz Saray'ın listesinde de böyle bir işlem yok [4] [5].\n\nTrump'ın kendisi 15 Kasım'a kadar kamuoyu önünde hiçbir şey söylemedi; o gün Kongre'den \"Hava Trafik Kontrolü için çaresizce ihtiyaç duyulan parayı\" istedi [10]. Beyaz Saray'ın basın toplantısı özeti, Mullin'in cümlesinin olduğu yere üç nokta koyuyor ve Duffy'yi alıntılıyor: \"Bu bir acil durum. Kongre'nin bize acil durum finansmanı sağlamasını istiyorum.\" [3] [11]",
+  "niet_weten": "Trump'ın kesintiyi özel olarak ulusal acil durum olarak adlandırıp adlandırmadığını ya da Mullin'in acil durum finansmanı çağrısını kastedip kastetmediğini [2] [3], ayrıca Beyaz Saray'ın onun cümlesini neden dışarıda bıraktığını bilmiyoruz [3].",
+  "bereik": "22 Kasım itibarıyla 14.713 beğeni ve 877 yanıt; aynı iddiayı taşıyan beş diğer paylaşım birlikte 23.107 beğeni aldı",
+  "nog_uitzoeken": [
+   "Mullin'in sözlerini neye dayandırdığı ve DHS'nin ya da Beyaz Saray'ın bunları düzeltip düzeltmediği.",
+   "Hava trafik kontrolüyle ilgili bir ilanın hâlâ gelip gelmeyeceği; 22 Kasım'a kadar baktık.",
+   "Yanıltıcı ile Yanlış arasında tartım yaptık. Mullin bu sözleri gerçekten söyledi, bu da Yanıltıcı'yı seçmemize yol açtı; ortada bir ilan yok, bu da Yanlış'a işaret ediyor."
+  ],
+  "tijdlijn": [
+   "Doğu saatiyle 15.30 civarında FAA'da teknik bir sorun çıkıyor ve ülke genelinde tüm kalkışları durduruyor [8].",
+   "Uçuşlar 13 Kasım'da Doğu saatiyle 20.15'te yeniden başlıyor [8].",
+   "13 Kasım'da Doğu saatiyle 20.15'ten sonra Mullin ve Duffy Beyaz Saray'da gazetecilere bilgi veriyor; Mullin başkanın ulusal acil durum ilan ettiğini söylüyor [2] [9] [11].",
+   "Gunther Eagleman basın toplantısından bir klip paylaşıyor: Trump ulusal acil durum ilan etti [1].",
+   "Başka bir hesap Trump'ın ulusal acil durum ilan ettiğini yazıyor ve Grok'tan bunu doğrulamasını istiyor [12].",
+   "Trump'ın kalkış durdurmayla ilgili Truth Social'daki ilk paylaşımı Kongre'den hava trafik kontrolü için para istiyor [10].",
+   "Trump çok eski ekipmanı suçluyor ve sorumluluk üstlenmediğini söylüyor [9].",
+   "Federal Register'da ya da Beyaz Saray'ın başkanlık işlemleri arasında kalkış durdurmayla ilgili bir ilan yok [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 14 Kasım 2026, UTC 01.54.",
+   "Markwayne Mullin ve Sean Duffy'nin basın toplantısının tamamı, Beyaz Saray tarafından paylaşıldı, 13 Kasım 2026."
+  ],
+  "beeld_alt": [
+   "Gunther Eagleman'ın X'te yaptığı, Başkan Trump'ın hava trafik kontrol sistemi nedeniyle ulusal acil durum ilan ettiğini söyleyen bir paylaşım; yanında Fox News'ten Sean Duffy ve Markwayne Mullin'i Beyaz Saray'daki basın toplantısında gösteren bir ekran görüntüsü var. Damga: YANILTICI.",
+   "Beyaz Saray'ın FAA kalkış durdurmasına ilişkin basın toplantısının videosu; Ulaştırma Bakanı Sean Duffy ve İç Güvenlik Bakanı Markwayne Mullin görünüyor."
+  ]
+ }
+}

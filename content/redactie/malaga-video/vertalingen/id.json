@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Video kerumunan yang menghentikan terduga pencuri berasal dari Málaga, bukan Milan",
+  "oordeel_zin": "Video itu memperlihatkan percobaan perampokan toko perhiasan di Málaga pada 16 Juli, bukan sebuah geng di Milan pada 17 Oktober [1] [4].",
+  "bewering": "Sebuah video menunjukkan warga Italia di Milan yang menghentikan sebuah gerombolan pro-Palestina pada 17 Oktober.",
+  "kort": "Sejak 20 Oktober, sebuah video beredar di X sebagai gambar warga Italia yang menghentikan geng pro-Palestina di Milan [4]. Rekaman itu berasal dari Málaga, Spanyol, tempat warga sekitar menahan seorang pria yang hendak merampok toko perhiasan pada 16 Juli [1]. Kerusuhan di Milan pada 17 Oktober bermula dari protes terhadap tingginya biaya hidup, dan menurut Avvenire para perusuh tidak membawa bendera atau simbol politik [2] [3].",
+  "tekst": "Pada malam 19 menuju 20 Oktober, pukul 02.07, sebuah unggahan berbahasa Belanda muncul di X dengan video berdurasi 79 detik [4]. Teks unggahan itu menyebut adanya geng berkeffiyeh di kota-kota Italia dan warga Italia di Milan yang tidak mau ditundukkan oleh kaum anarkis \"fripalestin\" [4]. Di bawahnya ada tagar #Milano dan #17octobre [4]. Pada 18 November, unggahan itu telah ditonton 105.671 kali [4].\n\nVideo yang sama beredar dalam bahasa Inggris beberapa jam sebelumnya. Akun Visegrád 24 menayangkannya pada 19 Oktober pukul 23.07 sebagai warga sipil Italia yang menangkap perampok asing [5]. Unggahan berbahasa Prancis pada 20 Oktober melakukan hal yang sama, dengan video berdurasi sama [6].\n\nAdegan itu tidak difilmkan di Italia. Pada Kamis 16 Juli, sekitar pukul 21.00, seorang pria di Málaga mencoba merampok toko perhiasan di Calle Martínez Maldonado, tulis El Español sehari kemudian [1]. Ia melarikan diri dengan berlari ke arah rekannya yang menunggu di atas sepeda motor, kakinya dijegal di tengah jalan, dan ia ditabrak seseorang yang naik otopet [1]. Setelah itu warga sekitar menahannya, sementara rekannya pergi dengan motor [1]. Seorang warga merekamnya [1]. Policía Nacional menangkap pria itu dan masih mencari tersangka kedua [1].\n\nDi Milan memang ada kerusuhan pada Sabtu 17 Oktober. Pawai yang diikuti sekitar 5.000 orang menentang tingginya biaya hidup berubah menjadi kerusuhan di sekitar Piazza del Duomo [2]. Sebagian pengunjuk rasa, terutama anak muda dengan wajah tertutup, melempar batu dan menjarah toko [2]. Polisi menahan sekitar lima puluh orang [2] [3]. Menurut Avvenire, para perusuh sangat muda, berpakaian hitam, dan tanpa bendera atau simbol politik [3]. Il Post dan Avvenire tidak menulis apa pun tentang kelompok Palestina [2] [3].\n\nJadi unggahan itu menyajikan penangkapan di Spanyol tiga bulan sebelumnya sebagai adegan dari kerusuhan di Milan [1] [4]. Rekaman itu sendiri asli [1].",
+  "niet_weten": "Kami tidak tahu siapa yang pertama kali memberikan penjelasan berbahasa Italia untuk video ini. Salinan tertua yang kami temukan muncul di X pada 19 Oktober pukul 22.40, tetapi unggahan itu sudah tidak dapat dilihat, sehingga kami tidak tahu apa yang tertulis di dalamnya. Kami tidak tahu siapa yang merekam video ini pada bulan Juli.",
+  "bereik": "Ditonton 105.671 kali pada 18 November",
+  "nog_uitzoeken": [
+   "Apa yang tertulis pada salinan tertua, yaitu unggahan 19 Oktober pukul 22.40. Unggahan itu sudah tidak dapat dilihat."
+  ],
+  "tijdlijn": [
+   "Percobaan perampokan toko perhiasan di Málaga; warga sekitar menahan pria itu sampai polisi datang [1].",
+   "El Español menulis tentang perampokan dan penangkapan itu [1].",
+   "Pawai menentang tingginya biaya hidup di Milan berubah menjadi kerusuhan [2] [3].",
+   "Visegrád 24 menayangkan video itu dalam bahasa Inggris sebagai warga sipil Italia yang menangkap perampok [5].",
+   "Unggahan berbahasa Belanda tentang Milan dan 17 Oktober [4].",
+   "Unggahan berbahasa Prancis dengan video 79 detik yang sama [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 20 Oktober 2026, pukul 02.07.",
+   "El Español, 17 Juli 2026: upaya melarikan diri setelah perampokan toko perhiasan di Málaga. Foto oleh El Español."
+  ],
+  "beeld_alt": [
+   "Tangkapan layar dari video: kerumunan di jalan mengelilingi seorang pria. Cap: SALAH.",
+   "Foto El Español tentang pria yang melarikan diri setelah percobaan perampokan di Málaga."
+  ]
+ }
+}

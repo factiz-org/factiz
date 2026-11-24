@@ -1,0 +1,159 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/kabul-beelden-turkije/dossier.md.
+
+sleutel = "kabul-beelden-turkije"
+status = "gepubliceerd"
+taal = "nl"
+adres = "video-apache-c-17-turkije"
+adres_en = "video-apache-c-17-turkey"
+kop = "Video van een Apache en een C-17 is gefilmd in Kabul in 2021, niet in Turkije"
+oordeel = "onwaar"
+oordeel_zin = "De beelden zijn van het vliegveld van Kabul op 16 augustus 2021, en in september 2026 zat de Amerikaanse luchtmacht nog op Incirlik [1] [3]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Amerikaanse vrachtvliegtuigen halen alles weg van de luchtmachtbasis in Turkije en vertrekken voorgoed."
+platform = "X"
+eerst_gezien = "2026-08-28"
+posts = 1
+bereik = "9.252 keer bekeken op 18 november"
+
+kort = """
+Op 27 augustus ging op X een video rond van Amerikaanse vliegtuigen die een basis in Turkije voorgoed zouden \
+verlaten [4]. De beelden zijn van 16 augustus 2021, op het vliegveld van Kabul, waar een Apache-helikopter mensen \
+wegdreef van een C-17 [1] [2]. In september meldde de Amerikaanse luchtmacht nog gewoon activiteiten op de basis \
+Incirlik in Turkije [3] [6]."""
+
+tekst = """
+Op donderdag 27 augustus om 19:04 zette een Nederlandstalig account op X een video van 37 seconden online [4]. De \
+tekst zegt dat Amerikaanse vrachtvliegtuigen apparatuur en voorraden van "de luchtmachtbasis in Turkije" terugbrengen \
+naar de Verenigde Staten en de basis volledig verlaten [4]. Welke basis, zegt de post niet [4]. Op 18 november was hij \
+9.252 keer bekeken [4].
+
+Dezelfde bewering stond acht uur eerder in het Engels op X, om 11:15, met een video van dezelfde lengte [5]. Die post \
+werd 685.711 keer bekeken [5]. De Nederlandse tekst lijkt er een vertaling van [4] [5].
+
+De beelden zijn vijf jaar oud. Ze komen van het vliegveld van Kabul op maandag 16 augustus 2021, in de dagen van de \
+Amerikaanse evacuatie uit Afghanistan [1] [2]. Grote groepen Afghanen liepen toen de startbaan op, rond een C-17 die \
+aan het taxiën was [1]. Een Apache-helikopter van het Amerikaanse leger vloog vlak boven de grond om ze weg te \
+drijven [1] [2]. The War Zone zette de video dezelfde dag online, met een post op sociale media als bron [1]. The \
+Aviationist beschreef de scène een dag later [2].
+
+De video zegt dus niets over Turkije in 2026 [1] [4]. Een C-17 is een groot transportvliegtuig van de Amerikaanse \
+luchtmacht; dat type vloog in 2021 de luchtbrug uit Kabul [2].
+
+De Amerikanen vertrokken ook niet uit Turkije. Op 18 en 19 september hielden militairen van de 39th Air Base Wing op \
+de basis Incirlik een herdenking van 24 uur voor krijgsgevangenen en vermisten [3]. Op 25 september heropende dezelfde \
+eenheid daar een gebouw met kamers voor militairen, na een renovatie van 949 dagen [6]. Beide berichten komen van de \
+Amerikaanse strijdkrachten zelf [3] [6]."""
+
+niet_weten = """
+We weten niet wie de beelden als eerste aan Turkije koppelde. De oudste post met die uitleg die we vonden, is de \
+Engelse van 27 augustus om 11:15. We weten ook niet wie de video in 2021 filmde. Of er in augustus 2026 iets veranderde \
+aan de Amerikaanse troepen in Turkije, hebben we niet verder onderzocht; in de twee berichten uit september die we \
+lazen, staat niets over een vertrek."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Of er eind augustus 2026 nieuws was over Amerikaanse troepen in Turkije dat de post kan verklaren.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 27 augustus 2026, 19:04."
+alt = "Stilstaand beeld uit de video: een helikopter laag boven een startbaan bij een groot transportvliegtuig. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.twz.com/42007/apache-helicopters-chase-afghans-swarming-a-c-17-on-kabul-airports-runway"
+stempel = false
+bijschrift = "The War Zone, 16 augustus 2021: een Apache drijft Afghanen weg van een C-17 op het vliegveld van Kabul."
+alt = "De video bij The War Zone van een Apache-helikopter boven de startbaan van Kabul, naast een C-17."
+
+[[tijdlijn]]
+datum = "2021-08-16"
+wat = "Op het vliegveld van Kabul drijft een Apache mensen weg van een C-17; The War Zone zet de video online [1]."
+
+[[tijdlijn]]
+datum = "2021-08-17"
+wat = "The Aviationist beschrijft dezelfde scène [2]."
+
+[[tijdlijn]]
+datum = "2026-08-27"
+tijd = "11:15"
+wat = "Een Engelse post brengt de video als Amerikanen die een basis in Turkije verlaten [5]."
+
+[[tijdlijn]]
+datum = "2026-08-27"
+tijd = "19:04"
+wat = "De Nederlandse post met dezelfde bewering [4]."
+
+[[tijdlijn]]
+datum = "2026-09-18"
+wat = "Herdenking van 24 uur op de basis Incirlik [3]."
+
+[[tijdlijn]]
+datum = "2026-09-25"
+wat = "Op Incirlik gaat een gerenoveerd gebouw met kamers voor militairen weer open [6]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "The War Zone"
+titel = "Apache Helicopters Chase Afghans Swarming A C-17 On Kabul Airport's Runway (Updated)"
+datum = "2021-08-16"
+url = "https://www.twz.com/42007/apache-helicopters-chase-afghans-swarming-a-c-17-on-kabul-airports-runway"
+archief = "https://web.archive.org/web/20260419115428/https://www.twz.com/42007/apache-helicopters-chase-afghans-swarming-a-c-17-on-kabul-airports-runway"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "The Aviationist"
+titel = "'Greater Stability' After Chaos At Kabul Airport as U.S. and Coalition Forces Continue Evacuation From Afghanistan"
+datum = "2021-08-17"
+url = "https://theaviationist.com/2021/08/17/kabul-situation/"
+archief = "https://web.archive.org/web/20260521135245/https://theaviationist.com/2021/08/17/kabul-situation/"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "DVIDS, 39th Air Base Wing"
+titel = "Incirlik Airmen honor the legacy of POW/MIA personnel"
+datum = "2026-09-18"
+url = "https://www.dvidshub.net/news/575062/incirlik-airmen-honor-legacy-pow-mia-personnel"
+archief = "https://web.archive.org/web/20260919065835/https://www.dvidshub.net/news/575062/incirlik-airmen-honor-legacy-pow-mia-personnel"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandse post met de video"
+datum = "2026-08-27"
+prive = true
+archief = "https://web.archive.org/web/20261119143438/https://cdn.syndication.twimg.com/tweet-result?id=2093021795842511262&token=52nf6s1zvhw&lang=nl"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "X"
+titel = "De Engelse post met dezelfde bewering en video"
+datum = "2026-08-27"
+prive = true
+archief = "https://web.archive.org/web/20261119143450/https://cdn.syndication.twimg.com/tweet-result?id=2092903856342462660&token=52n1ul69bm&lang=nl"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "DVIDS, 39th Air Base Wing"
+titel = "39th ABW unveils modernized dorm at Incirlik"
+datum = "2026-09-25"
+url = "https://www.dvidshub.net/news/575640/39th-air-base-wing-unveils-modernized-dorm-incirlik"
+archief = "https://web.archive.org/web/20261119143505/https://www.dvidshub.net/news/575640/39th-abw-unveils-modernized-dorm-incirlik"

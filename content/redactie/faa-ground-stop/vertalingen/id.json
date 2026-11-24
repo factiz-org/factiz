@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Mullin mengatakan Trump menyatakan darurat nasional atas penghentian penerbangan, tetapi tidak ada pernyataan semacam itu",
+  "oordeel_zin": "Menteri Keamanan Dalam Negeri Markwayne Mullin mengatakannya di Gedung Putih, tetapi tidak ada pernyataan yang muncul di Federal Register maupun di antara tindakan presiden, dan ia mengatakannya sambil meminta dana kepada Kongres [2] [4] [5].",
+  "bewering": "🚨 ASTAGA: Presiden Trump telah MENYATAKAN DARURAT NASIONAL atas sistem pengendalian lalu lintas udara Amerika yang rusak.  Seorang reporter bertanya apakah serangan siber atau AI nakal yang menyebabkannya. Menteri DHS Markwayne Mullin mengatakan sejauh ini TIDAK ADA BUKTI serangan siber.",
+  "kort": "Tidak ada pernyataan darurat nasional atas penghentian penerbangan (ground stop) di AS, meskipun Menteri Keamanan Dalam Negeri Markwayne Mullin mengatakan bahwa Presiden Trump telah membuatnya [2] [11]. Sebuah klip dari pengarahannya beredar di X sebagai kabar tentang pernyataan tersebut [1]. Tidak ada proklamasi atau perintah yang muncul di Federal Register, tempat undang-undang mewajibkan hal itu diterbitkan, dan Mullin mengatakannya sambil meminta dana kepada Kongres [2] [4] [6].",
+  "tekst": "Pada 13 November, sekitar pukul 15.30 waktu Timur (20.30 UTC), Badan Penerbangan Federal (FAA) menghentikan semua keberangkatan dari bandara-bandara AS, sebuah ground stop [8]. Lonjakan data pada jaringan telekomunikasinya membuat peralatan yang lebih tua menjadi tidak stabil, dan FAA mengatakan tidak ada indikasi serangan siber [8].\n\nMalam itu Mullin dan Menteri Transportasi Sean Duffy memberikan pengarahan kepada wartawan di Gedung Putih [9]. Mullin menyebut sistem pengendalian lalu lintas udara yang lama sebagai risiko keamanan nasional dan berkata: \"Presiden telah menyatakan ini sebagai darurat nasional, dan sekarang kita harus meminta Kongres bertindak dan mendanainya.\" [2] Departemennya menerbitkan kalimat itu, dan The National News Desk melaporkannya malam itu [2] [11].\n\nPada pukul 01.54 UTC tanggal 14 November, akun Gunther Eagleman mengunggah klip pengarahan tersebut dengan teks bahwa Trump telah menyatakan darurat nasional [1]. Unggahan berikutnya menyebut ground stop itu sebagai operasi militer di bawah darurat nasional, dan Mike Flynn, mantan penasihat keamanan nasional, menulis tentang laporan bahwa satuan militer disiagakan, tetapi kami tidak menemukan laporan semacam itu [13] [14].\n\nBerdasarkan National Emergencies Act, presiden menyatakan darurat nasional dalam sebuah proklamasi yang disampaikan kepada Kongres dan diterbitkan di Federal Register [6]. Trump menyatakan satu darurat mengenai jaringan listrik pada bulan Agustus, dalam Executive Order 14421 [7]. Untuk ground stop ini kami tidak menemukan satu pun: Federal Register telah menerbitkan tiga dokumen kepresidenan sejak 13 November, tidak ada yang tentang lalu lintas udara atau keadaan darurat, dan Gedung Putih tidak mencantumkan tindakan semacam itu [4] [5].\n\nTrump sendiri tidak mengatakan apa pun di depan publik sampai 15 November, ketika ia meminta Kongres memberikan \"dana yang sangat dibutuhkan untuk Pengendalian Lalu Lintas Udara\" [10]. Ringkasan pengarahan dari Gedung Putih menaruh tanda elipsis di tempat kalimat Mullin berada, dan mengutip Duffy: \"Ini adalah keadaan darurat. Saya ingin Kongres memberi kami dana darurat.\" [3] [11]",
+  "niet_weten": "Kami tidak tahu apakah Trump menyebut gangguan itu sebagai darurat nasional secara tertutup, atau apakah Mullin memaksudkan seruan untuk dana darurat [2] [3], dan juga tidak tahu mengapa Gedung Putih menghilangkan kalimatnya [3].",
+  "bereik": "14.713 suka dan 877 balasan per 22 November; lima unggahan lain dengan klaim yang sama mendapat total 23.107 suka",
+  "nog_uitzoeken": [
+   "Apa dasar ucapan Mullin, dan apakah DHS atau Gedung Putih telah mengoreksinya.",
+   "Apakah pernyataan tentang pengendalian lalu lintas udara masih akan menyusul; kami memeriksa sampai 22 November.",
+   "Kami menimbang antara Menyesatkan dan Salah. Mullin memang mengucapkan kata-kata itu, yang membuat kami memilih Menyesatkan; tidak ada pernyataan semacam itu, yang mengarah ke Salah."
+  ],
+  "tijdlijn": [
+   "Sekitar pukul 15.30 waktu Timur, FAA mengalami masalah teknis dan menghentikan semua keberangkatan di seluruh negeri [8].",
+   "Penerbangan kembali berjalan, pukul 20.15 waktu Timur pada 13 November [8].",
+   "Setelah pukul 20.15 waktu Timur pada 13 November, Mullin dan Duffy memberikan pengarahan kepada wartawan di Gedung Putih; Mullin mengatakan presiden telah menyatakan darurat nasional [2] [9] [11].",
+   "Gunther Eagleman mengunggah klip pengarahan itu: Trump telah menyatakan darurat nasional [1].",
+   "Akun lain menulis bahwa Trump telah menyatakan darurat nasional dan meminta Grok untuk memverifikasinya [12].",
+   "Unggahan pertama Trump tentang ground stop, di Truth Social, meminta Kongres memberikan dana untuk pengendalian lalu lintas udara [10].",
+   "Trump menyalahkan peralatan yang sangat tua dan mengatakan ia tidak mau bertanggung jawab [9].",
+   "Tidak ada pernyataan tentang ground stop di Federal Register maupun di antara tindakan kepresidenan Gedung Putih [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 14 November 2026, pukul 01.54 UTC.",
+   "Pengarahan lengkap oleh Markwayne Mullin dan Sean Duffy, diunggah oleh Gedung Putih, 13 November 2026."
+  ],
+  "beeld_alt": [
+   "Unggahan di X oleh Gunther Eagleman yang mengatakan Presiden Trump telah menyatakan darurat nasional atas sistem pengendalian lalu lintas udara, dengan cuplikan layar Fox News yang menampilkan Sean Duffy dan Markwayne Mullin pada pengarahan di Gedung Putih. Cap: MENYESATKAN.",
+   "Video Gedung Putih tentang pengarahan mengenai ground stop FAA, dengan Menteri Transportasi Sean Duffy dan Menteri Keamanan Dalam Negeri Markwayne Mullin."
+  ]
+ }
+}

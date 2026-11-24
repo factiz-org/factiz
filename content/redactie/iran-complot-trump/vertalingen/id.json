@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Laporan Israel menggambarkan kemungkinan rencana drone Iran terhadap Trump, bukan upaya serangan di Gedung Putih",
+  "oordeel_zin": "Laporan di balik unggahan itu menggambarkan informasi intelijen tentang kemungkinan rencana drone Iran terhadap Trump dan pejabat tinggi, bukan sebuah upaya serangan, dan Menteri Keamanan Dalam Negeri AS tidak mengonfirmasinya [2] [3] [4].",
+  "bewering": "Iran mencoba membunuh Trump di Gedung Putih dengan drone bunuh diri.",
+  "kort": "Sejak 14 November, sebuah unggahan di X menyebut bahwa Iran mencoba membunuh Presiden Donald Trump di Gedung Putih dengan drone bunuh diri [1]. Laporan di baliknya, yang ditulis surat kabar Israel Israel Hayom, menggambarkan informasi intelijen tentang kemungkinan rencana Iran untuk menyerang Trump dan pejabat tinggi dengan drone peledak, bukan sebuah upaya serangan [2] [3]. Keesokan harinya, Menteri Keamanan Dalam Negeri Markwayne Mullin berbicara tentang ancaman harian dari Iran yang ia sebut bersifat aspirasional, dan tidak mengonfirmasi laporan tersebut [4].",
+  "tekst": "Pada Sabtu, 14 November 2026, pukul 19.01 UTC, akun Matt Tardio mengunggah di X: \"Iran attempted to assassinate Trump at the White House with suicide drones.\" [1] Ia mengutip unggahan akun Open Source Intel dari kurang dari setengah jam sebelumnya [1] [2]. Unggahan itu menyebut \"intelligence of an Iranian drone plot against White House leadership\", dengan Israel Hayom sebagai sumbernya [2]. Dalam unggahan Tardio, sebuah rencana terhadap para pemimpin berubah menjadi upaya serangan di Gedung Putih [1] [2].\n\nIsrael Hayom menerbitkan laporannya malam itu, dengan mengutip pejabat senior Israel dan Amerika yang tidak disebutkan namanya [3]. Menurut mereka, Mossad memberikan kepada CIA informasi intelijen bahwa Iran berniat menyasar Trump dan anggota senior pemerintahannya, dan memeriksanya atas permintaan badan-badan intelijen AS [3]. Informasi intelijen itu menunjuk pada ancaman-ancaman terbaru, termasuk kemungkinan serangan dengan drone yang membawa bahan peledak [3]. Laporan itu tidak menggambarkan adanya serangan maupun upaya serangan [3].\n\nLaporan itu memang menggambarkan langkah-langkah pencegahan [3]. Para pejabat yang berisiko mengurangi kehadiran mereka di acara-acara luar ruangan, dan beberapa di antaranya pindah dari rumah mereka ke fasilitas yang aman [3]. Penampilan publik Trump dikurangi tajam, dan yang masih ada dilindungi dengan sistem penangkal drone [3].\n\nPada Minggu, 15 November, Mullin mengatakan di Fox News bahwa pengarahan harian untuk presiden mencakup \"aspirational threats from Iran\", dan bahwa Trump dan keluarganya adalah \"target number one\" [4]. Menurut Fox News, ia tidak mengonfirmasi laporan tentang drone tersebut [4].\n\nSebuah unggahan terkait pada 15 November menampilkan sebuah video sebagai serangan Iran terhadap pangkalan AS di Kuwait, dengan sekitar 250 tentara AS tewas menurut Iran, tetapi video itu memuat nama Spaceflight Now dan tanggal 28 Mei 2026 [6].",
+  "niet_weten": "Kami tidak tahu apakah Iran merencanakan serangan semacam itu. Laporan tersebut bertumpu pada pejabat yang tidak disebutkan namanya dan belum dikonfirmasi secara independen [3] [5]. Kami tidak memeriksa klaim lain dalam unggahan Tardio, bahwa Garda Revolusi menerbitkan rencana perjalanan Trump dan keluarganya di X pada awal tahun ini [1].",
+  "bereik": "3.473 suka, 538 unggah ulang, dan 532.401 tayangan pada 23 November",
+  "nog_uitzoeken": [
+   "Apakah Iran benar-benar merencanakan serangan drone terhadap Trump dan pejabat tinggi AS, dan apakah sebuah badan AS mengonfirmasi atau menolak informasi intelijen itu secara terbuka.",
+   "Apakah unggahan dalam bahasa lain menggambarkan rencana itu sebagai upaya serangan atau serangan yang digagalkan, dengan jangkauan lebih besar daripada unggahan ini.",
+   "Bagaimana unggahan ini berkaitan dengan pernyataan pejabat AS sebelumnya bahwa Iran mencoba membunuh Trump, seperti pernyataan Menteri Pertahanan Pete Hegseth pada 4 Maret 2026 tentang sebuah rencana selama kampanye 2024.",
+   "Apakah video dalam unggahan tentang Kuwait menunjukkan ledakan sebuah roket pada 28 Mei 2026, seperti yang disiratkan oleh nama dan tanggal pada gambar.",
+   "Kami menimbang antara Menyesatkan dan Salah. Tidak ada sumber yang melaporkan adanya upaya serangan, yang mengarah ke Salah; unggahan itu bertumpu pada laporan nyata tentang kemungkinan rencana, itulah sebabnya kami memilih Menyesatkan. Jika Anda tahu lebih banyak, silakan beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Open Source Intel mengunggah laporan Israel Hayom di X [2].",
+   "Matt Tardio mengunggah bahwa Iran mencoba membunuh Trump di Gedung Putih [1].",
+   "Israel Hayom menerbitkan versi bahasa Inggris laporannya [3].",
+   "Mullin di Fox News: ancaman aspirasional harian dari Iran, laporan tidak dikonfirmasi [4].",
+   "Sebuah unggahan menampilkan video bertanggal 28 Mei 2026 sebagai serangan Iran di Kuwait [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 14 November 2026, pukul 19.01 UTC.",
+   "Israel Hayom, 14 November 2026: laporan tentang informasi intelijen Mossad mengenai kemungkinan rencana drone Iran, yang dikutip oleh unggahan-unggahan tersebut."
+  ],
+  "beeld_alt": [
+   "Unggahan di X oleh Matt Tardio yang menyatakan bahwa Iran mencoba membunuh Trump di Gedung Putih dengan drone bunuh diri, mengutip unggahan Open Source Intel tentang dugaan rencana drone Iran. Cap: MENYESATKAN.",
+   "Laporan Israel Hayom tentang informasi intelijen mengenai rencana Iran untuk menyasar Trump dan pejabat tinggi AS dengan drone."
+  ]
+ }
+}

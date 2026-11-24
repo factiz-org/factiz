@@ -1,0 +1,36 @@
+name: A translation is wrong
+description: A claim, a verdict or a text on the site reads wrong in your language.
+title: "Translation: "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Claims on factiz.org are machine-translated, and the page says so. A reader of the language is the best check we have. The texts of the site itself live in `factiz_site/teksten/<language>.json`; a pull request there is welcome too.
+  - type: input
+    id: page
+    attributes:
+      label: Page on factiz.org
+      placeholder: https://factiz.org/nl/...
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Dutch, Hindi, Persian, ...
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: What it says now
+    validations:
+      required: true
+  - type: textarea
+    id: should
+    attributes:
+      label: What it should say, and why
+      description: A change in meaning (a number, a name, a negation, who said what) matters most. Style is welcome too, but say which it is.
+    validations:
+      required: true

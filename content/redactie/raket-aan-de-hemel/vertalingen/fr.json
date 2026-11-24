@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck raket-aan-de-hemel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "f0dc5c3c37f10290",
+ "veldafdrukken": {
+  "kop": "e472c0bc0e652295",
+  "oordeel_zin": "add289929f850198",
+  "bewering": "c52467bbdbf845f4",
+  "kort": "ec49a38ce9994561",
+  "tekst": "c39b02cf16e1cae5",
+  "niet_weten": "d031a8bb874202fa",
+  "bereik": "47463feb0183ae49",
+  "nog_uitzoeken": "940fee2f8396b103",
+  "tijdlijn": "f82e809c7fc705d1",
+  "beeld_bijschrift": "5369ac37be876914",
+  "beeld_alt": "470aeeef36da5d46"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Une vidéo TikTok de Miami en 2023 ne montre pas des frappes houthies en Arabie saoudite",
+  "oordeel_zin": "La vidéo a été mise en ligne sur TikTok le 29 juillet 2023, avec la localisation Miami, Floride, et montre probablement un lancement de fusée, pas des frappes houthies en Arabie saoudite [3] [4].",
+  "bewering": "URGENT : Des images de touristes depuis l'intérieur de l'Arabie saoudite capturent, selon certaines informations, les séquelles des frappes houthies.Des scènes dramatiques alors que la situation évolue.",
+  "kort": "Depuis le 14 novembre, des publications sur X partagent une vidéo nocturne d'une vive lumière qui s'élève derrière des nuages, l'une d'elles en la présentant comme des images de touristes de frappes houthies en Arabie saoudite [1] [2]. La vidéo a été publiée sur TikTok le 29 juillet 2023 comme un OVNI, avec la localisation Miami, Floride [3]. Elle montre probablement un lancement de fusée depuis la Space Coast de Floride, où un Falcon Heavy avait décollé la veille au soir [4].",
+  "tekst": "Le samedi 14 novembre 2026, un compte turc sur X a publié une vidéo de 2 minutes et 41 secondes, en affirmant que les images étaient réelles et qu'elles avaient été diffusées en direct sur TikTok [2]. Au 23 novembre, elle avait été vue 3,6 millions de fois [2]. Six heures après cette publication, un autre compte a partagé le même fichier vidéo comme des images de touristes depuis l'intérieur de l'Arabie saoudite, montrant les séquelles de frappes houthies [1] [2].\n\nLe clip porte toujours le logo de TikTok et le nom d'un compte TikTok [1]. Sur ce compte, la vidéo a été mise en ligne le 29 juillet 2023 à 12 h 58, heure de Miami, avec la localisation Miami et la légende « UFO Spotted in Miami Florida » [3]. L'Internet Archive a sauvegardé la page le 7 février 2024 [3].\n\nLa vidéo montre une lumière qui s'élève derrière des nuages au-dessus d'un parking bordé de palmiers [1]. Elle devient un point orange et s'efface au bout d'environ deux minutes et demie [1]. Cela correspond à un lancement nocturne depuis la Space Coast de Floride, vu de loin [1] [4].\n\nÀ 23 h 04 le 28 juillet 2023, la veille de la mise en ligne, un Falcon Heavy a décollé du Kennedy Space Center [4]. Vingt-trois heures plus tôt, un Falcon 9 avait lancé 22 satellites Starlink depuis Cape Canaveral [5]. En 2023, la vidéo était un OVNI, aujourd'hui c'est une attaque [1] [3].\n\nCe mois-ci, un autre lancement a circulé sous une autre identité [6] [8]. Le 13 novembre, le vol 15 de Starship a atteint l'orbite depuis le Texas et a libéré 26 satellites Starlink [6]. Une image prise à Mineral de la Reforma, au Mexique, montrant une vive lumière avec une rangée de points, a circulé comme un OVNI [8]. L'agence de protection civile de l'État du Chiapas a indiqué que la lumière vue ce soir-là au-dessus de sa côte était Starship, avec une carte qui situe le passage au-dessus du Mexique entre 18 h 21 et 18 h 28, heure du centre [7].",
+  "niet_weten": "Nous ne savons pas quel lancement la vidéo montre, ni où exactement elle a été filmée : la localisation sur TikTok est une adresse à Miami. Nous ne savons pas si l'image de Mineral de la Reforma a été prise pendant le passage de Starship.",
+  "bereik": "617 400 vues, 971 mentions J'aime et 133 réponses le 23 novembre ; la même vidéo sur un compte turc, publiée six heures plus tôt, comptait 3,6 millions de vues et 29 433 mentions J'aime",
+  "nog_uitzoeken": [
+   "Quel lancement la vidéo montre : le Falcon Heavy du 28 juillet 2023, le Falcon 9 de la nuit précédente, ou un autre lancement nocturne.",
+   "Où exactement la vidéo a été filmée ; la localisation sur TikTok est une adresse à Miami.",
+   "Si l'image de Mineral de la Reforma a été prise pendant le passage de Starship au-dessus du Mexique le 13 novembre, et qui l'a prise.",
+   "Si vous en savez plus sur la vidéo ou sur l'image, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Un Falcon 9 décolle de Cape Canaveral à 0 h 01 avec 22 satellites Starlink [5].",
+   "Un Falcon Heavy décolle du Kennedy Space Center à 23 h 04 [4].",
+   "La vidéo est mise en ligne sur TikTok à 12 h 58, avec la localisation Miami [3].",
+   "L'Internet Archive sauvegarde la page TikTok [3].",
+   "Le vol 15 de Starship décolle du Texas à 17 h 47, heure de l'Est, et atteint l'orbite [6].",
+   "L'agence de protection civile du Chiapas : la lumière dans le ciel du soir est Starship [7].",
+   "Un compte turc publie la vidéo comme des images réelles diffusées en direct sur TikTok (UTC) [2].",
+   "Un autre compte la publie comme des images de frappes houthies en Arabie saoudite (UTC) [1].",
+   "Une image de Mineral de la Reforma circule comme un OVNI (UTC) [8]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 15 novembre 2026, 00 h 29 UTC.",
+   "La vidéo sur TikTok, publiée le 29 juillet 2023 avec la localisation Miami, Floride, dans la copie de l'Internet Archive du 7 février 2024."
+  ],
+  "beeld_alt": [
+   "La publication sur X qui présente la vidéo comme des images de touristes montrant les séquelles de frappes houthies en Arabie saoudite, avec une capture d'un parking bordé de palmiers et de lampadaires de nuit sous des nuages éclairés, et le logo de TikTok avec le nom du compte. Tampon : FAUX.",
+   "La page TikTok du 29 juillet 2023 avec la même vidéo nocturne d'une lumière qui s'élève derrière des nuages."
+  ]
+ }
+}

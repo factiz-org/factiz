@@ -1,0 +1,236 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/greta-lachvideo/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "greta-lachvideo"
+status = "gepubliceerd"
+taal = "en"
+adres = "greta-thunberg-laughs-climate-protest"
+adres_en = "greta-thunberg-laughs-climate-protest"
+kop = "Greta Thunberg laughs about a climate demo in a documentary where she calls such protests ineffective"
+oordeel = "context"
+oordeel_zin = "The clip is real and comes from a documentary by Hubertus Koch, in which Thunberg says she finds classic demonstrations ineffective; she still campaigns for the climate [1] [7] [11]."
+soort = "context"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "Greta Thunberg laughs hysterically when told Fridays for Future, climate change group she founded, still protesting: 'They still do that?'"
+platform = "X"
+eerst_gezien = "2026-11-11"
+posts = 8
+bereik = "139,805 likes on the eight posts we read on November 23, in English, German and Japanese; the post by the New York Post alone had 82,003"
+
+kort = """
+Since November 11, posts on X have shared a clip of Greta Thunberg laughing when told of a Fridays for Future \
+demonstration in Berlin, some as a sign that she mocks climate protesters [2] [3] [4]. The clip is real and comes from \
+a documentary by Hubertus Koch, on YouTube since October 28 [1] [5]. In the film she calls classic demonstrations \
+ineffective, and she still campaigns for the climate [6] [7] [11]."""
+
+tekst = """
+On November 11 at 10:20 German time, an anonymous account on X posted the 27-second clip [4]. That evening the \
+columnist Jan Fleischhauer shared the same video, asking why Friedrich Merz should fly to the climate summit if \
+Thunberg laughs her head off at people who still demonstrate for the climate [3]. The New York Post posted about it \
+on November 12 [2].
+
+The clip comes from a 91-minute documentary about the climate movement and the state repression it met, which the \
+German filmmaker Hubertus Koch put on YouTube on October 28 [1] [9].
+
+Koch meets Thunberg and two friends of hers in a Palestinian restaurant in Berlin [1] [5]. About six minutes in, he \
+says it is symbolic that they meet on the day of a Fridays for Future demonstration [1] [9]. Thunberg asks "Is it?", \
+laughs and asks: "Really? They still do that?" [9]. Then she calls for a cut [1] [5]. Right after the scene, Koch's \
+narration says she is done with protest that is visible but, in her view, not consistent enough [1].
+
+Koch later said her laugh was about whether conventional demonstrations still achieve anything, not about the people \
+[6] [8]. Thunberg wrote on Instagram that on that day she and other activists had blocked an arms manufacturer and then \
+learned of a police-permitted climate demonstration [8] [9]. Fridays for Future in Germany has distanced itself from \
+her over her statements on the Middle East [7] [12].
+
+In November she was at the COP31 climate summit in Antalya, where she called the talks hypocritical and said \
+"everything and everyone we love is at stake" [11]. The film was online more than two weeks before Fridays for Future protested in \
+more than 70 German cities on November 13 [1] [10].
+
+Demagog in Poland and Open in Italy also concluded on November 16 that the clip is taken out of context [12] [13]."""
+
+niet_weten = """
+We do not know on which day Koch and Thunberg met [1] [5]. Nobody can say for sure what a laugh means; we stay with \
+her words in the film and what she and Koch said afterwards [8] [9]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "On which day Koch and Thunberg met in Berlin, and which arms manufacturer she blocked that day. One candidate is a blockade of the Berlin office of Rheinmetall in July 2026.",
+  "We weighed Missing context against Misleading. The laugh and the question are real, so Missing context; posts that say she laughs at the climate movement or has given up on the climate go further than her words in the film carry. If you know more, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X by the New York Post, November 12, 2026, 17:35 UTC."
+alt = "The post by the New York Post on X saying Greta Thunberg laughs hysterically when told Fridays for Future is still protesting, with two stills of Thunberg laughing, in one with her hand over her mouth. Stamp: MISSING CONTEXT."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.youtube.com/watch?v=zc1rItlQB2U"
+stempel = false
+bijschrift = "Hubertus Koch on YouTube, \"Auf Panzern in die Klimakrise\", October 28, 2026: the scene starts at about 6:19."
+alt = "The documentary by Hubertus Koch on YouTube."
+
+[[tijdlijn]]
+datum = "2026-10-28"
+wat = "Hubertus Koch puts the film on YouTube [1]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+tijd = "10:20"
+wat = "The earliest post with the clip that we found appears on X [4]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+tijd = "19:14"
+wat = "Jan Fleischhauer shares the clip with a question about Friedrich Merz [3]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+wat = "Al Jazeera reports from COP31 in Antalya: Thunberg calls the summit hypocritical [11]."
+
+[[tijdlijn]]
+datum = "2026-11-12"
+wat = "The Stuttgarter Zeitung reports where the scene was filmed; the New York Post posts about it on X [2] [5]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "20 Minuten with AFP: Koch calls the clip taken out of context [6]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "Fridays for Future protests in more than 70 German cities, in Berlin with about 700 people [10]."
+
+[[tijdlijn]]
+datum = "2026-11-13"
+wat = "leinetal24 reports Thunberg's Instagram post: that day she had blocked an arms manufacturer [8]."
+
+[[tijdlijn]]
+datum = "2026-11-16"
+wat = "Demagog and Open: the clip is taken out of context [12] [13]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Hubertus Koch on YouTube"
+titel = "AUF PANZERN IN DIE KLIMAKRISE - wie Aktivismus kriminalisiert wird (FULL DOKU)"
+datum = "2026-10-28"
+url = "https://www.youtube.com/watch?v=zc1rItlQB2U"
+archief = "https://web.archive.org/web/20261111131250/https://www.youtube.com/watch?v=zc1rItlQB2U&t=359s"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "New York Post on X"
+titel = "Greta Thunberg laughs hysterically when told Fridays for Future, climate change group she founded, still protesting"
+datum = "2026-11-12"
+url = "https://x.com/nypost/status/2120933533552103859"
+archief = "https://web.archive.org/web/20261123010836/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2120933533552103859&omit_script=true"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Jan Fleischhauer on X"
+titel = "Post with the clip and a question about Friedrich Merz and the climate summit"
+datum = "2026-11-11"
+url = "https://x.com/janfleischhauer/status/2120581023474098482"
+archief = "https://web.archive.org/web/20261123010908/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2120581023474098482&omit_script=true"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "X"
+titel = "The earliest post with the clip that we found, by an anonymous account"
+datum = "2026-11-11"
+prive = true
+archief = "https://web.archive.org/web/20261123011040/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2120446549272453185&omit_script=true"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Stuttgarter Zeitung"
+titel = "Palästina statt Klima?: „Wirklich? Die machen das immer noch?“"
+datum = "2026-11-12"
+url = "https://www.stuttgarter-zeitung.de/politik/palaestina-statt-klima-wirklich-die-machen-das-immer-noch-thunberg-lacht-ueber-fridays-for-future-79694538.html"
+archief = "https://web.archive.org/web/20261113072917/https://www.stuttgarter-zeitung.de/politik/palaestina-statt-klima-wirklich-die-machen-das-immer-noch-thunberg-lacht-ueber-fridays-for-future-79694538.html"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "20 Minuten (with AFP)"
+titel = "Greta Thunberg im Klima-Film von Hubertus Koch: Szene sorgt für Streit"
+datum = "2026-11-13"
+url = "https://www.20min.ch/video/lacht-greta-thunberg-mittlerweile-ueber-klimademos-103666320"
+archief = "https://web.archive.org/web/20261117234021/https://www.20min.ch/video/lacht-greta-thunberg-mittlerweile-ueber-klimademos-103666320"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "WEB.DE (with material from dpa and AFP)"
+titel = "Greta Thunberg verlacht deutsche Klimaproteste"
+datum = "2026-11-14"
+url = "https://web.de/magazine/politik/greta-thunberg-lacht-deutsche-klimaproteste-42942330"
+archief = "https://web.archive.org/web/20261114040747/https://web.de/magazine/politik/greta-thunberg-lacht-deutsche-klimaproteste-42942330"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "leinetal24 (Ippen Media)"
+titel = "Nachdem sie FFF verspottete: Greta Thunberg nennt Deutschland „extrem rassistisch“"
+datum = "2026-11-13"
+url = "https://www.leinetal24.de/welt/greta-thunberg-nach-fff-spott-vorwuerfe-gegen-deutschland-zr-94589893.html"
+archief = "https://web.archive.org/web/20261120003823/https://www.leinetal24.de/welt/greta-thunberg-nach-fff-spott-vorwuerfe-gegen-deutschland-zr-94589893.html"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "Attack of the Fanboy"
+titel = "Greta Thunberg laughed and asked 'They still do that?' about a protest by the movement she started, and now she says the clip is missing context"
+datum = "2026-11-14"
+url = "https://attackofthefanboy.com/news/greta-thunberg-laughed-and-asked-they-still-do-that-about-a-protest-by-the-movement-she-started-and-now-she-says-the-clip-is-missing-context/"
+archief = "https://web.archive.org/web/20261123011114/https://attackofthefanboy.com/news/greta-thunberg-laughed-and-asked-they-still-do-that-about-a-protest-by-the-movement-she-started-and-now-she-says-the-clip-is-missing-context/"
+
+[[bron]]
+nr = 10
+soort = "nieuws"
+uitgever = "evangelisch.de (epd)"
+titel = "Demonstration in Berlin fordert mehr Klimaschutz"
+datum = "2026-11-13"
+url = "https://www.evangelisch.de/inhalte/260871/13-11-2026/demonstration-berlin-fordert-mehr-klimaschutz"
+archief = "https://web.archive.org/web/20261123011235/https://www.evangelisch.de/inhalte/260871/13-11-2026/demonstration-berlin-fordert-mehr-klimaschutz"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "Al Jazeera (with AP)"
+titel = "'Everything and everyone we love is at stake': Thunberg slams COP31 talks"
+datum = "2026-11-11"
+url = "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks"
+archief = "https://web.archive.org/web/20261112141536/https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "Demagog"
+titel = "Z czego śmiała się Greta Thunberg? Film wyrwany z kontekstu (What was Greta Thunberg laughing at? A video taken out of context)"
+datum = "2026-11-16"
+url = "https://demagog.org.pl/fake_news/z-czego-smiala-sie-greta-thunberg-film-wyrwany-z-kontekstu/"
+archief = "https://web.archive.org/web/20261123011417/https://demagog.org.pl/fake_news/z-czego-smiala-sie-greta-thunberg-film-wyrwany-z-kontekstu/"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "Open"
+titel = "Il video decontestualizzato di Greta Thunberg che ride delle manifestazioni di Fridays for Future (The video of Greta Thunberg laughing at Fridays for Future demonstrations, out of context)"
+datum = "2026-11-16"
+url = "https://www.open.online/2026/11/16/video-greta-thunberg-ride-fridays-for-future-fact-check/"
+archief = "https://web.archive.org/web/20261117023036/https://www.open.online/2026/11/16/video-greta-thunberg-ride-fridays-for-future-fact-check/"

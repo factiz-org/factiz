@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "The figure of 1.4 million Russians refers to wounded and killed soldiers, not civilian deaths",
+  "oordeel_zin": "One and a half million is roughly the number of Russian soldiers who were killed, wounded or are missing; at most around 450,000 were killed, and according to the Novaja Gazeta Europa count, well over 1,400 civilians died in Russia [1] [5].",
+  "bewering": "Where is the outrage when Russian civilians die? Almost one and a half million Russians lost their lives.",
+  "kort": "A post on X from October 22 said that almost one and a half million Russians died, in a comparison with civilian casualties in Gaza [7]. The figure of 1.4 million is an estimate of Russian soldiers who were killed, wounded or are missing; according to the American institute CSIS, 400,000 to 450,000 were killed [1]. Novaja Gazeta Europa counted at least 1,406 civilian deaths in Russia up to May [5].",
+  "tekst": "On October 22 at 9:08, an account on X asked why tears are shed for civilian casualties in Gaza, but not when Russian civilians die [7]. It went on to say that almost one and a half million Russians lost their lives [7]. The post received almost 1,200 replies [7].\n\nA figure of that size does exist, but it concerns soldiers, and not only the dead. The American research institute CSIS estimated on July 1 that Russia had about 1.4 million military casualties from February 2022 to June 2026 [1]. That counts soldiers who were killed, wounded or are missing [1]. According to CSIS, 400,000 to 450,000 were killed [1].\n\nThe Ukrainian General Staff keeps its own count. On October 22 it stood at 1,572,790 Russian military personnel [4]. The page does not say whether that is dead and wounded combined [4]. It is the count of a party to the war, not an independent estimate.\n\nMediazona and the Russian service of the BBC count by name how many Russian soldiers are confirmed dead. They use obituaries, reports from family, local media and announcements from regional authorities [3]. Up to and including October 23 they found 282,993 [2]. They themselves call this a lower limit: the real number is probably considerably higher, they say [2].\n\nSo this is not about civilians. Novaja Gazeta Europa, a Russian newspaper that works from abroad, counted at least 1,406 civilian deaths in Russia and in occupied Crimea since 2022, up to May 11, 2026 [5]. Of these, 524 occurred in the Kursk region, in the part that Ukraine held from August 2024 to March 2025 [5]. The newspaper calls its own count too low, because authorities do not report all victims [5]. The Russian Foreign Ministry speaks of more than 8,000 civilian deaths; according to the newspaper, the ministry probably also counts residents of areas that Russia occupied after 2022 [5].\n\nEven with that highest figure, the gap remains large. One and a half million is almost 190 times 8,000, and well over a thousand times the Novaja Gazeta Europa count.\n\nThe confusion between casualties and deaths is not new. In March 2025, Nieuwscheckers checked a post that mentioned a million deaths in the war; according to them, there were at most 344,000 at that time [6].",
+  "niet_weten": "We do not know how many Russian soldiers have actually been killed: the figures range from the 282,993 known by name to 450,000 at CSIS. The number of Russian civilian deaths is also uncertain, and which areas you include makes a big difference. We do not know where the post got the figure from.",
+  "bereik": "234 likes and 1,197 replies on November 18",
+  "nog_uitzoeken": [
+   "What exactly the Ukrainian General Staff counts as losses: dead and wounded, and also prisoners?",
+   "The Mediazona figure on their own page. Their page of November 6 mentions 272,100 cases with a known date of death.",
+   "Where the Russian Foreign Ministry gets its 8,000 civilian deaths from.",
+   "The figure exists, but not for deaths and not for civilians. We chose false; misleading can also be defended."
+  ],
+  "tijdlijn": [
+   "Novaja Gazeta Europa counts at least 1,406 civilian deaths in Russia and Crimea since 2022 [5].",
+   "CSIS estimates about 1.4 million Russian military casualties, of whom 400,000 to 450,000 were killed [1].",
+   "A Dutch post on X says that almost one and a half million Russians died [7].",
+   "The Ukrainian General Staff count stands at 1,572,790 Russian military personnel [4].",
+   "Mediazona and the BBC know 282,993 killed Russian military personnel by name, up to and including October 23 [2]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, October 22, 2026, 9:08."
+  ],
+  "beeld_alt": [
+   "A post on X that says almost one and a half million Russians died, in a comparison with Gaza. Stamp: FALSE."
+  ],
+  "rekensom": [
+   [
+    "Russian military casualties, February 2022 to June 2026 (CSIS)",
+    "killed, wounded and missing combined",
+    "about 1.4 million"
+   ],
+   [
+    "Killed Russian military personnel, same period (CSIS)",
+    "estimate",
+    "400,000 to 450,000"
+   ],
+   [
+    "Killed Russian military personnel known by name, up to and including October 23 (Mediazona and BBC)",
+    "count from public sources, a lower limit",
+    "282,993"
+   ],
+   [
+    "Civilian deaths in Russia and Crimea, up to May 11, 2026 (Novaja Gazeta Europa)",
+    "882 from reports plus 524 in Kursk",
+    "at least 1,406"
+   ],
+   [
+    "One and a half million versus the civilian deaths",
+    "1,500,000 divided by 1,406, and by 8,000",
+    "well over 1,000 times, and almost 190 times"
+   ]
+  ]
+ }
+}

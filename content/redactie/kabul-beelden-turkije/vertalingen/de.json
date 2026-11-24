@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck kabul-beelden-turkije van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "49291058a1e10941",
+ "veldafdrukken": {
+  "kop": "2f8eaae2bafdd900",
+  "oordeel_zin": "9fdeee9fad6e3384",
+  "bewering": "78cba22578fa9c0a",
+  "kort": "f0489b0486d3aec6",
+  "tekst": "be06e8a18136d46c",
+  "niet_weten": "0febbc803080a097",
+  "bereik": "46f43bf117027708",
+  "nog_uitzoeken": "c9a6342748359bd6",
+  "tijdlijn": "71a1685d2918abaf",
+  "beeld_bijschrift": "0605bdb69b6ae6ce",
+  "beeld_alt": "856248c240f3a55f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video eines Apache und einer C-17 wurde 2021 in Kabul gefilmt, nicht in der Türkei",
+  "oordeel_zin": "Die Aufnahmen stammen vom Flughafen Kabul vom 16. August 2021, und im September 2026 war die US-Luftwaffe noch in Incirlik [1] [3].",
+  "bewering": "Amerikanische Transportflugzeuge holen alles vom Luftwaffenstützpunkt in der Türkei ab und verlassen ihn für immer.",
+  "kort": "Am 27. August verbreitete sich auf X ein Video von amerikanischen Flugzeugen, die angeblich einen Stützpunkt in der Türkei für immer verlassen [4]. Die Aufnahmen stammen vom 16. August 2021 vom Flughafen Kabul, wo ein Apache-Hubschrauber Menschen von einer C-17 vertrieb [1] [2]. Im September meldete die US-Luftwaffe weiterhin ganz normale Aktivitäten auf dem Stützpunkt Incirlik in der Türkei [3] [6].",
+  "tekst": "Am Donnerstag, 27. August, um 19:04 Uhr stellte ein niederländischsprachiges Konto auf X ein 37 Sekunden langes Video online [4]. Der Text besagt, dass amerikanische Transportflugzeuge Ausrüstung und Vorräte vom \"Luftwaffenstützpunkt in der Türkei\" zurück in die Vereinigten Staaten bringen und den Stützpunkt vollständig verlassen [4]. Welcher Stützpunkt gemeint ist, sagt der Beitrag nicht [4]. Am 18. November war das Video 9.252 Mal angesehen worden [4].\n\nDieselbe Behauptung stand acht Stunden früher auf Englisch auf X, um 11:15 Uhr, mit einem Video derselben Länge [5]. Dieser Beitrag wurde 685.711 Mal angesehen [5]. Der niederländische Text wirkt wie eine Übersetzung davon [4] [5].\n\nDie Aufnahmen sind fünf Jahre alt. Sie stammen vom Flughafen Kabul vom Montag, 16. August 2021, aus den Tagen der amerikanischen Evakuierung aus Afghanistan [1] [2]. Große Gruppen von Afghanen liefen damals auf die Startbahn, rund um eine C-17, die gerade rollte [1]. Ein Apache-Hubschrauber der US-Armee flog dicht über dem Boden, um sie zu vertreiben [1] [2]. The War Zone stellte das Video am selben Tag online, mit einem Beitrag in den sozialen Medien als Quelle [1]. The Aviationist beschrieb die Szene einen Tag später [2].\n\nDas Video sagt also nichts über die Türkei im Jahr 2026 aus [1] [4]. Eine C-17 ist ein großes Transportflugzeug der US-Luftwaffe; dieser Typ flog 2021 die Luftbrücke aus Kabul [2].\n\nDie Amerikaner zogen auch nicht aus der Türkei ab. Am 18. und 19. September hielten Soldaten des 39th Air Base Wing auf dem Stützpunkt Incirlik eine 24-stündige Gedenkveranstaltung für Kriegsgefangene und Vermisste ab [3]. Am 25. September eröffnete dieselbe Einheit dort ein Gebäude mit Unterkünften für Soldaten wieder, nach 949 Tagen Renovierung [6]. Beide Meldungen stammen von den amerikanischen Streitkräften selbst [3] [6].",
+  "niet_weten": "Wir wissen nicht, wer die Aufnahmen als Erster mit der Türkei in Verbindung brachte. Der älteste Beitrag mit dieser Deutung, den wir gefunden haben, ist der englische vom 27. August um 11:15 Uhr. Wir wissen auch nicht, wer das Video 2021 gefilmt hat. Ob sich im August 2026 etwas an den amerikanischen Truppen in der Türkei geändert hat, haben wir nicht weiter untersucht; in den beiden Meldungen aus dem September, die wir gelesen haben, steht nichts über einen Abzug.",
+  "bereik": "9.252 Aufrufe am 18. November",
+  "nog_uitzoeken": [
+   "Ob es Ende August 2026 Nachrichten über US-Truppen in der Türkei gab, die den Beitrag erklären könnten."
+  ],
+  "tijdlijn": [
+   "Auf dem Flughafen Kabul vertreibt ein Apache Menschen von einer C-17; The War Zone stellt das Video online [1].",
+   "The Aviationist beschreibt dieselbe Szene [2].",
+   "Ein englischer Beitrag verbreitet das Video als Amerikaner, die einen Stützpunkt in der Türkei verlassen [5].",
+   "Der niederländische Beitrag mit derselben Behauptung [4].",
+   "24-stündige Gedenkveranstaltung auf dem Stützpunkt Incirlik [3].",
+   "In Incirlik öffnet ein renoviertes Gebäude mit Unterkünften für Soldaten wieder [6]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 27. August 2026, 19:04 Uhr.",
+   "The War Zone, 16. August 2021: Ein Apache vertreibt Afghanen von einer C-17 auf dem Flughafen Kabul."
+  ],
+  "beeld_alt": [
+   "Standbild aus dem Video: ein Hubschrauber tief über einer Startbahn neben einem großen Transportflugzeug. Stempel: FALSCH.",
+   "Das Video von The War Zone mit einem Apache-Hubschrauber über der Startbahn in Kabul, neben einer C-17."
+  ]
+ }
+}

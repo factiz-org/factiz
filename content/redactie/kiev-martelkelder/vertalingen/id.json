@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck kiev-martelkelder van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "b2134af515c3348f",
+ "veldafdrukken": {
+  "kop": "5a70debfa3b45c55",
+  "oordeel_zin": "c8f3bc32c55fe083",
+  "bewering": "6d30fd023112be5c",
+  "kort": "f3a50c150a2eee9c",
+  "tekst": "683d12caa198e9d5",
+  "niet_weten": "18bfdb54b10715d9",
+  "bereik": "251ea57543ab84f6",
+  "nog_uitzoeken": "20ce8325de6da464",
+  "tijdlijn": "c62d76ca1375694b",
+  "beeld_bijschrift": "c65cb4a326e3c662",
+  "beeld_alt": "26da6a5b30f32430"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video dari Kyiv tidak menunjukkan seorang anak laki-laki yang dibebaskan dari ruang bawah tanah penyiksaan",
+  "oordeel_zin": "Rekaman itu asli, tetapi anak laki-laki itu jatuh dari tembok di area Garda Nasional saat protes; ruang bawah tanah penyiksaan tidak ditemukan di sana [1] [2] [3].",
+  "bewering": "Ingat wajah anak 14 tahun ini yang dikeluarkan dari ruang penyiksaan Azov dekat Kiev.",
+  "kort": "Sejak malam 2 November, sebuah video dan foto beredar dalam bahasa Belanda tentang seorang anak laki-laki berselimut abu-abu yang konon dibebaskan dari ruang bawah tanah penyiksaan Ukraina dekat Kyiv [13]. Rekaman itu asli dan berasal dari sebuah protes di depan rumah Garda Nasional di Petropavlivska Borshchahivka, di pinggiran Kyiv [2] [3]. Anak laki-laki berusia 14 tahun itu memanjat tembok saat protes tersebut dan jatuh ke dalam area itu; ia tidak ditahan di sana [1] [3].",
+  "tekst": "Sebuah unit Garda Nasional menggunakan rumah itu sebagai tempat penampungan sementara bagi pria yang dimobilisasi dan menunggu pelatihan mereka [2] [4]. Pada 2 November beredar di internet bahwa pria bersenjata menahan dan menyiksa sekitar 40 orang di ruang bawah tanah rumah itu. Polisi menyebut hal itu tidak benar pada siang hari yang sama [5]. Meski begitu, massa mendatangi tempat itu, dan pada malam hari telur, botol, dan batu dilemparkan ke arah polisi dan Garda Nasional [3].\n\nSeorang reporter The Kyiv Independent melihat anak laki-laki itu memanjat pohon dan tembok, memaki para tentara, melempar batu, lalu jatuh dari tembok ke dalam area itu [3]. Menurut Dinas Negara Ukraina untuk Anak, ia tinggal di dekat situ, datang ke protes sepulang sekolah, dan jatuh ketika orang-orang mulai mengguncang pagar [1]. Di dalam, ia dibungkus dengan selimut. Kakak perempuannya menjemputnya malam itu, dan ia dirawat di rumah sakit anak Kyiv, dengan nyawa yang tidak terancam [1]. Kepergian itulah yang ditunjukkan video: seorang anak laki-laki berselimut yang dituntun pergi oleh kerumunan.\n\nRuang bawah tanah penyiksaan tidak ditemukan. Seorang veteran yang masuk ke rumah itu malam itu mengatakan kepada media investigasi Slidstvo.Info bahwa ia tidak melihat tempat penyiksaan [2]. Rumor itu berasal dari seorang perempuan berseragam ambulans, yang mengaku memiliki layanan ambulans. Layanan itu sudah tidak beroperasi sejak 2023 [2] [4]. Polisi menangkapnya pada 3 November dan menyebutnya provokasi yang direncanakan [6].\n\nDalam bahasa Belanda, video itu sudah ada di X pada 2 November pukul 22.25, dengan klaim bahwa anak itu disiksa dengan sekop [13]. Sehari kemudian Kedutaan Besar Rusia di Belanda membagikan rekaman yang sama dalam bahasa Inggris [12]. VRT NWS menyebut klaim itu tidak benar pada 5 November, dan AFP Factcheck Nederland menyusul pada 12 November [10] [11].",
+  "niet_weten": "Apakah kekerasan digunakan di dalam rumah itu belum jelas. Dalam videonya sendiri, anak itu mengatakan bahwa ia dipukul di dalam; Menteri Dalam Negeri membantahnya [1] [9]. Para tentara yang tinggal di sana mengadu kepada ombudsman militer tentang pemukulan, dan Biro Investigasi Negara sedang menyelidikinya [7] [8]. Itu tidak mengubah apa yang ditunjukkan video: seorang anak laki-laki yang jatuh ke dalam saat protes, bukan seorang tahanan yang dibebaskan. Apakah Rusia mengarahkan protes itu juga belum dipastikan; namun jaringan Rusia memang memperkuat cerita itu setelahnya [14].",
+  "bereik": "dibagikan lebih dari 1.200 kali di Facebook dalam bahasa Belanda, menurut AFP",
+  "nog_uitzoeken": [
+   "Apa hasil penyelidikan Biro Investigasi Negara. Jika ada kabar terbaru, kami akan melengkapi pemeriksaan fakta ini, lengkap dengan tanggalnya.",
+   "Apakah kalimat \"Ingat wajah anak berusia 14 tahun ini\" pernah beredar sebelumnya dalam bahasa lain."
+  ],
+  "tijdlijn": [
+   "Polisi menyebut laporan tentang penahanan dan seorang korban tewas tidak benar [5].",
+   "Malam hari: anak laki-laki itu memanjat tembok, jatuh ke dalam area itu, dan dituntun keluar dengan selimut [3].",
+   "Video itu muncul di X dalam bahasa Belanda, dengan klaim tentang ruang penyiksaan [13].",
+   "Kedutaan Besar Rusia di Belanda membagikan rekaman itu [12].",
+   "Dinas Negara untuk Anak: anak itu jatuh dari pagar dan berada di rumah sakit [1].",
+   "VRT NWS: tidak benar, pemeriksaan fakta pertama dalam bahasa Belanda [10].",
+   "AFP Factcheck Nederland menerbitkan pemeriksaan faktanya [11].",
+   "Para tentara mengadu kepada ombudsman tentang pemukulan di lokasi itu [8]."
+  ],
+  "beeld_bijschrift": [
+   "Tangkapan layar video di X, 2 November 2026. Anak itu berusia 14 tahun; kepala orang-orang di tengah telah diburamkan.",
+   "Rekaman kantor berita UNIAN tentang kepergian anak itu, di LIGA.net, 2 November 2026."
+  ],
+  "beeld_alt": [
+   "Gambar diam dari video: dalam gelap, kerumunan dengan telepon genggam di sekitar seorang tentara berseragam kamuflase; kepala orang-orang di tengah diburamkan. Cap: SALAH.",
+   "Unggahan LIGA.net dengan video dari UNIAN."
+  ]
+ }
+}

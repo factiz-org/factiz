@@ -1,0 +1,275 @@
+{
+ "_meta": "Labels van ronde 4 (verificatie-v4, sonnet, b en k), PLAN #31.8, 2026-10-26, gelezen door Claude. klopt niet bij een onwaar stuk: 'bewijst' als de geciteerde bron het weerlegt. let op: 'terecht' als de reden een van de drie van de vraag is en voor dit bericht klopt, anders 'toevallig'; bij een waar stuk of webtekst 'vals' of 'terecht'. Kaal (k) zonder bron telt nooit als bewezen; de uitleg is wel gelezen. Bij twijfel het strengste label.",
+ "labels": [
+  {
+   "sleutel": "b:b-000103",
+   "label": "bewijst",
+   "waarom": "gelezen: newsmobile: de Begum van Bhopal, 1875; Mumtaz overleed in 1631, vóór de fotografie"
+  },
+  {
+   "sleutel": "b:b-000110",
+   "label": "bewijst",
+   "waarom": "gelezen: SM Hoax Slayer: bewerkt, graf van Hoshang Shah; de tempel uit de 12e eeuw"
+  },
+  {
+   "sleutel": "b:b-000144",
+   "label": "bewijst",
+   "waarom": "gelezen: Aaj Tak: een grafische milieuadvertentie van Jeseok Yi, geen echte weg"
+  },
+  {
+   "sleutel": "b:b-000468",
+   "label": "bewijst",
+   "waarom": "gelezen: Telugu Post: de foto is van Sunny Leone in Kochi in 2017, niet van Modi"
+  },
+  {
+   "sleutel": "b:b-000559",
+   "label": "bewijst",
+   "waarom": "gelezen: Bangkok Post: een rotsformatie in de Naga-grot in Thailand"
+  },
+  {
+   "sleutel": "b:b-000683",
+   "label": "bewijst",
+   "waarom": "gelezen: DFRAC: de vrouw is Amba Prasad, niet de hijabstudente"
+  },
+  {
+   "sleutel": "b:b-000787",
+   "label": "bewijst",
+   "waarom": "gelezen: Siasat, OpIndia, SM Hoax Slayer: een montage van twee foto's"
+  },
+  {
+   "sleutel": "b:b-000931",
+   "label": "bewijst",
+   "waarom": "gelezen: Tribune en Organiser: Nisha Singh was een medewerkster van Sisodia, niet zijn vrouw; de media meldden de straf"
+  },
+  {
+   "sleutel": "b:b-001065",
+   "label": "bewijst",
+   "waarom": "gelezen: PBS, AP via Fox59: AI-beeld, geen arrestatie"
+  },
+  {
+   "sleutel": "b:b-016140",
+   "label": "bewijst",
+   "waarom": "gelezen: Bangladesh Pratidin, OneNewsBD: een viskat, geen luipaard (een bron die laat zien wat er wél gebeurde)"
+  },
+  {
+   "sleutel": "b:b-016392",
+   "label": "bewijst",
+   "waarom": "gelezen: Rappler: een AI-video, eerder ontkracht; het ICC bevestigde zijn rechtsmacht"
+  },
+  {
+   "sleutel": "b:b-016987",
+   "label": "bewijst",
+   "waarom": "gelezen: CNN, Newsweek: Hamlin overleefde en plaatste zelf een foto"
+  },
+  {
+   "sleutel": "b:b-017476",
+   "label": "bewijst",
+   "waarom": "gelezen: AAP, PolitiFact: een bewerkte foto uit 2017"
+  },
+  {
+   "sleutel": "b:b-019112",
+   "label": "bewijst",
+   "waarom": "gelezen: NBC: een aanbeveling, geen verplichting; 72 telt combinatievaccins en jaarlijkse prikken apart"
+  },
+  {
+   "sleutel": "b:b-019293",
+   "label": "bewijst",
+   "waarom": "gelezen: CPI via BusinessWorld en OneNews: Cambodja, Myanmar en Noord-Korea scoren slechter"
+  },
+  {
+   "sleutel": "b:b-019345",
+   "label": "bewijst",
+   "waarom": "gelezen: de UNESCO-lijst van Sri Lanka zonder Elahera, en de ICID-erkenning"
+  },
+  {
+   "sleutel": "b:b-019398",
+   "label": "bewijst",
+   "waarom": "gelezen: CyberPeace: de video komt uit Hyderabad, niet uit Karnataka"
+  },
+  {
+   "sleutel": "b:b-019452",
+   "label": "bewijst",
+   "waarom": "gelezen: Organiser, Anweshanam: een Jaranan-optreden uit Indonesië"
+  },
+  {
+   "sleutel": "b:b-000372",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (oude beelden als nieuw rond augustus 2019); geen eigen bron"
+  },
+  {
+   "sleutel": "b:b-016917",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 1 (een besluit van 120 landen zou gemeld zijn) en de top van het Mondiale Zuiden gevonden"
+  },
+  {
+   "sleutel": "b:b-017557",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (eerdere nepvacatures van de KPA, PesaCheck maart 2025)"
+  },
+  {
+   "sleutel": "b:b-019105",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 3 (Cancer Research UK: geen duidelijk bewijs bij mensen)"
+  },
+  {
+   "sleutel": "b:b-019441",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (soortgelijke Apache-video's oud of AI, Al Jazeera en Misbar)"
+  },
+  {
+   "sleutel": "b:b-026393",
+   "label": "vals",
+   "waarom": "gewone webtekst: 1983 tegen december 1984 in de bronnen; een jaar ernaast verandert de kern niet (regel van v2), dus geen klopt niet; streng gelabeld"
+  },
+  {
+   "sleutel": "k:b-000372",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2"
+  },
+  {
+   "sleutel": "k:b-000818",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (oude foto's tijdens de boerenprotesten)"
+  },
+  {
+   "sleutel": "k:b-000873",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (botst met de bekende lijn van de raad, een verdraaid bericht)"
+  },
+  {
+   "sleutel": "k:b-016239",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (AI-nepbeelden van Combs)"
+  },
+  {
+   "sleutel": "k:b-016422",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (oud materiaal als Galwan-beeld)"
+  },
+  {
+   "sleutel": "k:b-016521",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 1 en 2 (valse doodsberichten over beroemdheden)"
+  },
+  {
+   "sleutel": "k:b-017476",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2 (bewerkte politieke shirts)"
+  },
+  {
+   "sleutel": "k:b-019105",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 3"
+  },
+  {
+   "sleutel": "k:b-019441",
+   "label": "terecht",
+   "waarom": "gelezen: de reden klopt, reden 2"
+  },
+  {
+   "sleutel": "k:b-018159",
+   "label": "toevallig",
+   "waarom": "'politiek verhitte berichten' is geen van de drie redenen; niets gevonden over een lokaal voorval is onzeker"
+  },
+  {
+   "sleutel": "k:b-019685",
+   "label": "vals",
+   "waarom": "ware check met let op: Bürgergeld: de check noemt het waar; het model vindt 'niet werken' misleidend"
+  },
+  {
+   "sleutel": "k:b-020070",
+   "label": "vals",
+   "waarom": "ware check met let op: meningitis: de check noemt het waar; het model zegt dat er geen uitbraak was"
+  },
+  {
+   "sleutel": "k:b-021203",
+   "label": "vals",
+   "waarom": "ware check met let op: Italië derde betaler: de check noemt het waar; het model vindt 'betaald' misleidend"
+  },
+  {
+   "sleutel": "k:b-000103",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-000110",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-000144",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-000559",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-000977",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-001034",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-001065",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-016392",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-016690",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-016917",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-016987",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-019112",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-019293",
+   "label": "uitleg klopt",
+   "waarom": "kaal, zonder bron; de uitleg gelezen en in lijn met de check"
+  },
+  {
+   "sleutel": "k:b-000468",
+   "label": "uitleg verzonnen",
+   "waarom": "kaal, zonder bron; oordeel goed, uitleg fout: noemt Bengaluru en de begrafenis van Puneeth Rajkumar; het is Sunny Leone in Kochi, 2017"
+  },
+  {
+   "sleutel": "k:b-000683",
+   "label": "uitleg verzonnen",
+   "waarom": "kaal, zonder bron; oordeel goed, uitleg fout: noemt Archana Gautam; het is Amba Prasad"
+  },
+  {
+   "sleutel": "k:b-000787",
+   "label": "uitleg verzonnen",
+   "waarom": "kaal, zonder bron; oordeel goed, uitleg fout: noemt Santosh Yadav; het is een montage van twee foto's"
+  },
+  {
+   "sleutel": "k:b-000931",
+   "label": "uitleg verzonnen",
+   "waarom": "kaal, zonder bron; oordeel goed, uitleg fout: zegt dat er geen veroordeling was; Nisha Singh kreeg wel 7 jaar"
+  }
+ ]
+}

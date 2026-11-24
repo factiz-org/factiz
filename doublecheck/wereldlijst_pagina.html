@@ -1,0 +1,271 @@
+<title>__TITEL__</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400..800&family=Geist+Mono:wght@400..600&family=Newsreader:opsz,wght@6..72,400..600&display=swap">
+<style>
+/* Een kolom zoals factiz.org: per overzicht een kaart met het stempel van elke redactie, de bewering, wat ze vonden en de
+   checks; onder elke kaart een strook voor de redactie (niet op de site) met de keuze. Kleuren en letters van de site. */
+:root {
+  --grond: #fafafa; --paneel: #ffffff; --inkt: #171717; --zacht: #5f6461; --zwak: #8b908d; --lijn: #ebebeb;
+  --lijn-sterk: #d9dbd9; --vlak: #f3f4f3; --accent: #0b6b47; --accent-zacht: #e7f1eb;
+  --onwaar-inkt: #7a3600; --onwaar-stip: #c45f0a; --misleidend-inkt: #5c5000; --misleidend-stip: #a38900;
+  --deels-inkt: #5f5240; --deels-stip: #9c8763; --waar-inkt: #1d4a8c; --waar-stip: #3a6fc6;
+  --satire-inkt: #86306a; --satire-stip: #b4468c; --onbewezen-inkt: #474d5c; --onbewezen-stip: #868d9e;
+  --redactie-vlak: #f6f4ec; --redactie-rand: #d9d2b8;
+  --sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --maat-tekst: 48ch; --maat-kop: 52ch;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a5a3; --zwak: #7c807e; --lijn: #222222;
+  --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c;
+  --onwaar-inkt: #f6c690; --onwaar-stip: #e39642; --misleidend-inkt: #e3d77f; --misleidend-stip: #c4b03e;
+  --deels-inkt: #d8cab1; --deels-stip: #a6936e; --waar-inkt: #a9c5f4; --waar-stip: #6a99de;
+  --satire-inkt: #eeb0d7; --satire-stip: #ce6fab; --onbewezen-inkt: #c1c5cf; --onbewezen-stip: #8a90a0;
+  --redactie-vlak: #17150f; --redactie-rand: #3d3824; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --grond: #0a0a0a; --paneel: #111111; --inkt: #ededed; --zacht: #a1a5a3; --zwak: #7c807e; --lijn: #222222;
+  --lijn-sterk: #333333; --vlak: #1a1a1a; --accent: #5fd3a0; --accent-zacht: #12251c;
+  --onwaar-inkt: #f6c690; --onwaar-stip: #e39642; --misleidend-inkt: #e3d77f; --misleidend-stip: #c4b03e;
+  --deels-inkt: #d8cab1; --deels-stip: #a6936e; --waar-inkt: #a9c5f4; --waar-stip: #6a99de;
+  --satire-inkt: #eeb0d7; --satire-stip: #ce6fab; --onbewezen-inkt: #c1c5cf; --onbewezen-stip: #8a90a0;
+  --redactie-vlak: #17150f; --redactie-rand: #3d3824; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--grond); color: var(--inkt); font-family: var(--sans); font-size: 15px; line-height: 1.55; }
+.baan { max-width: 760px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 2.5rem 4rem; }
+a { color: var(--inkt); text-underline-offset: 3px; }
+a:hover { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+
+.kop { display: grid; gap: .75rem; margin-bottom: 1.75rem; }
+.merk { font-weight: 800; letter-spacing: -.02em; font-size: 20px; }
+.merk span { font-family: var(--mono); font-weight: 500; font-size: 12px; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--zacht); margin-left: .6rem; }
+h1 { font-size: clamp(1.5rem, 3.4vw, 2rem); line-height: 1.15; letter-spacing: -.02em; margin: 0; text-wrap: balance;
+  max-width: var(--maat-kop); }
+.uitleg { color: var(--zacht); margin: 0; max-width: var(--maat-tekst); }
+.tel { font-family: var(--mono); font-size: 12.5px; color: var(--zacht); margin: 0; }
+
+.filters { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; }
+.filters button { font: 500 13px var(--sans); color: var(--inkt); background: var(--paneel); border: 1px solid var(--lijn-sterk);
+  border-radius: 999px; padding: .35rem .8rem; min-height: 36px; cursor: pointer; }
+.filters button[aria-pressed="true"] { background: var(--inkt); color: var(--grond); border-color: var(--inkt); }
+.filters .n { font-family: var(--mono); font-size: 11.5px; opacity: .7; margin-left: .3rem; }
+
+.kaarten { display: grid; gap: 1.25rem; list-style: none; margin: 0; padding: 0; }
+.kaart { background: var(--paneel); border: 1px solid var(--lijn); border-radius: 10px; overflow: hidden; min-width: 0; }
+.binnen { padding: 1.25rem 1.25rem 1.1rem; display: grid; gap: 1rem; min-width: 0; }
+.boven { display: flex; flex-wrap: wrap; gap: .35rem .9rem; align-items: center; font-size: 12.5px; color: var(--zacht); }
+.regio { font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent);
+  font-weight: 600; }
+.soort { font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+
+.eens { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .45rem .6rem; margin: 0; padding: 0;
+  list-style: none; font-size: 13.5px; align-items: center; }
+.eens li { display: contents; }
+.stempel { border: 2px double var(--l-stip, var(--lijn-sterk)); color: var(--l-inkt, var(--inkt)); font-weight: 800;
+  letter-spacing: .1em; text-transform: uppercase; font-size: 11px; line-height: 1.5; padding: .05rem .4rem;
+  transform: rotate(-3deg); display: inline-block; white-space: nowrap; justify-self: start; }
+.wie { color: var(--zacht); min-width: 0; }
+.wie a { color: var(--zacht); }
+[data-soort="onwaar"] { --l-inkt: var(--onwaar-inkt); --l-stip: var(--onwaar-stip); }
+[data-soort="misleidend"] { --l-inkt: var(--misleidend-inkt); --l-stip: var(--misleidend-stip); }
+[data-soort="deels"] { --l-inkt: var(--deels-inkt); --l-stip: var(--deels-stip); }
+[data-soort="waar"] { --l-inkt: var(--waar-inkt); --l-stip: var(--waar-stip); }
+[data-soort="satire"] { --l-inkt: var(--satire-inkt); --l-stip: var(--satire-stip); }
+[data-soort="onbewezen"] { --l-inkt: var(--onbewezen-inkt); --l-stip: var(--onbewezen-stip); }
+
+blockquote { margin: 0; font-family: var(--serif); font-size: clamp(1.2rem, 2.6vw, 1.5rem); line-height: 1.3;
+  max-width: var(--maat-kop); text-wrap: pretty; }
+h3 { font-size: 12px; font-family: var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--zacht);
+  font-weight: 500; margin: 0 0 .35rem; }
+.blok p { margin: 0 0 .4rem; max-width: var(--maat-tekst); }
+sup a { font-family: var(--mono); font-size: 10.5px; text-decoration: none; color: var(--accent); padding: 0 .1rem; }
+.checks { margin: 0; padding: 0; list-style: none; display: grid; gap: .55rem; font-size: 13.5px; }
+.checks li { display: grid; grid-template-columns: 1.8rem minmax(0, 1fr); gap: .5rem; max-width: var(--maat-tekst);
+  overflow-wrap: anywhere; scroll-margin-top: 1rem; }
+.checks .nr { font-family: var(--mono); color: var(--zwak); font-size: 12px; padding-top: .1rem; }
+.checks .meta { color: var(--zacht); font-size: 12.5px; }
+.checks li:target { background: var(--accent-zacht); border-radius: 4px; }
+.voet { font-size: 12.5px; color: var(--zacht); border-top: 1px solid var(--lijn); padding-top: .75rem; margin: 0;
+  max-width: var(--maat-tekst); }
+
+.redactie { background: var(--redactie-vlak); border-top: 1px dashed var(--redactie-rand); padding: .85rem 1.25rem;
+  display: grid; gap: .6rem; font-size: 13.5px; }
+.redactie .label { font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--zacht); }
+.redactie p { margin: 0; max-width: var(--maat-tekst); }
+.keuze { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; }
+.keuze button { font: 600 13px var(--sans); color: var(--inkt); background: var(--paneel); border: 1px solid var(--lijn-sterk);
+  border-radius: 6px; padding: .4rem .85rem; min-height: 44px; min-width: 44px; cursor: pointer; }
+.keuze button[aria-pressed="true"] { border-color: var(--inkt); box-shadow: inset 0 0 0 1px var(--inkt); background: var(--vlak); }
+.keuze button:disabled { opacity: .5; cursor: default; }
+.keuze .stand { font-size: 12.5px; color: var(--zacht); }
+.notitie { width: 100%; font: 16px var(--sans); color: var(--inkt); background: var(--paneel); border: 1px solid var(--lijn-sterk);
+  border-radius: 6px; padding: .5rem .65rem; min-height: 44px; }
+.melding { font-size: 13px; color: var(--zacht); margin: 0 0 1rem; }
+@media (max-width: 480px) { .binnen { padding: 1rem; } .redactie { padding: .8rem 1rem; } }
+</style>
+
+<div class="baan">
+  <header class="kop">
+    <div class="merk">Factiz<span>Wereldlijst</span></div>
+    <h1>__KOP__</h1>
+    <p class="uitleg">Elk overzicht is een pagina zoals hij op factiz.org zou komen, in het Engels: wat er rondgaat in onze
+      eigen woorden, en welke redacties het checkten, elk met hun eigen oordeel en een link. Factiz geeft geen eigen oordeel
+      en neemt geen zin van een redactie over. De strook onder elke kaart is alleen voor jou: kies goed, twijfel of weg,
+      met een opmerking als je wilt.</p>
+    <p class="tel" id="tel">__N__ overzichten · gecheckt tussen __VENSTER__</p>
+  </header>
+  <ul class="filters" id="filters" aria-label="Regio"></ul>
+  <p class="melding" id="melding" hidden></p>
+  <ol class="kaarten" id="kaarten"></ol>
+</div>
+
+<script type="application/json" id="gegevens">__DATA__</script>
+<script>
+(() => {
+  const ITEMS = JSON.parse(document.getElementById('gegevens').textContent);
+  const REGIO = __REGIO__;
+  const landnaam = (() => { try { const d = new Intl.DisplayNames(['en'], { type: 'region' }); return (c) => { try { return d.of(c); } catch { return c; } }; } catch { return (c) => c; } })();
+  const SOORT = { video: 'Video', image: 'Image', text: 'Text', quote: 'Quote', statistic: 'Statistic', document: 'Document', audio: 'Audio' };
+
+  function soortVan(oordeel) {
+    const o = (oordeel || '').toLowerCase();
+    if (/satire|parody/.test(o)) return 'satire';
+    if (/partly|partially|half|mixture|mixed/.test(o)) return 'deels';
+    if (/misleading|missing context|out of context|lacks context|false context|cropped|manipulated|altered|doctored|edited|distorted|exaggerat/.test(o)) return 'misleidend';
+    if (/unproven|unverified|no evidence|unsupported|unsubstantiated/.test(o)) return 'onbewezen';
+    if (/^true|correct|accurate/.test(o)) return 'waar';
+    if (/false|fake|fabricated|incorrect|wrong|hoax|scam|bogus|not true|untrue/.test(o)) return 'onwaar';
+    return 'onbewezen';
+  }
+  const datum = (d) => { try { return new Date(d + 'T12:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }); } catch { return d; } };
+
+  function el(tag, attrs, ...kids) {
+    const e = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs || {})) {
+      if (v === null || v === undefined || v === false) continue;
+      if (k === 'class') e.className = v; else if (k === 'text') e.textContent = v; else e.setAttribute(k, v);
+    }
+    for (const kid of kids.flat()) if (kid !== null && kid !== undefined) e.append(kid);
+    return e;
+  }
+  // een zin met [1] [2] wordt tekst met verwijzingen naar de checks van deze kaart
+  function metBronnen(zin, sleutel) {
+    const p = el('p');
+    let laatste = 0;
+    for (const m of zin.matchAll(/\s*\[(\d+)\]/g)) {
+      p.append(zin.slice(laatste, m.index));
+      p.append(el('sup', {}, el('a', { href: `#${sleutel}-${m[1]}`, 'aria-label': `source ${m[1]}`, text: `[${m[1]}]` })));
+      laatste = m.index + m[0].length;
+    }
+    p.append(zin.slice(laatste));
+    return p;
+  }
+
+  const kaarten = new Map();
+  function kaart(o) {
+    const checks = o.checks || [];
+    const eens = el('ul', { class: 'eens', 'aria-label': 'Verdicts' }, checks.map((c) =>
+      el('li', {}, el('span', { class: 'stempel', 'data-soort': soortVan(c.oordeel_en), text: c.oordeel_en || c.oordeel }),
+        el('span', { class: 'wie' }, 'according to ', el('a', { href: `#${o.sleutel}-${c.nr}`, text: c.redactie })))));
+    const boven = el('div', { class: 'boven' },
+      el('span', { class: 'regio', text: REGIO[o.regio] || o.regio }),
+      el('span', { text: (o.landen || []).map(landnaam).join(', ') }),
+      o.soort ? el('span', { class: 'soort', text: SOORT[o.soort] || o.soort }) : null);
+    const lijst = el('ol', { class: 'checks' }, checks.map((c) => el('li', { id: `${o.sleutel}-${c.nr}` },
+      el('span', { class: 'nr', text: `[${c.nr}]` }),
+      el('span', {}, el('a', { href: c.url, target: '_blank', rel: 'noopener', text: c.titel || c.url }),
+        el('br'), el('span', { class: 'meta', text: `${c.redactie} · ${datum(c.datum)} · ${c.oordeel}${c.oordeel_en && c.oordeel_en !== c.oordeel ? ` (${c.oordeel_en})` : ''} · schaal: ${c.schaal || 'nog open'}` })))));
+    const post = o.post && o.post.url ? el('p', {}, 'The post: ', el('a', { href: o.post.url, target: '_blank', rel: 'noopener', text: [o.post.platform, o.post.account].filter(Boolean).join(', ') || 'post' })) : null;
+
+    const stand = el('span', { class: 'stand', 'aria-live': 'polite' });
+    const knoppen = ['goed', 'twijfel', 'weg'].map((k) => el('button', { type: 'button', 'data-keuze': k, 'aria-pressed': 'false', disabled: '', text: k[0].toUpperCase() + k.slice(1) }));
+    const notitie = el('input', { class: 'notitie', type: 'text', id: `notitie-${o.sleutel}`, placeholder: 'Opmerking (mag leeg)', 'aria-label': 'Opmerking', disabled: '' });
+    const strook = el('div', { class: 'redactie' },
+      el('span', { class: 'label', text: 'Voor de redactie · niet op de site' }),
+      o.waarom ? el('p', {}, el('strong', { text: 'Waarom gekozen: ' }), o.waarom) : null,
+      el('div', { class: 'keuze', role: 'group', 'aria-label': 'Keuze' }, knoppen, stand), notitie);
+
+    const li = el('li', { class: 'kaart', 'data-regio': o.regio, id: o.sleutel },
+      el('div', { class: 'binnen' }, boven, eens,
+        el('blockquote', { text: o.bewering }),
+        el('div', { class: 'blok' }, el('h3', { text: 'What the fact-checkers found' }), (o.kern || []).map((z) => metBronnen(z, o.sleutel))),
+        o.rondgang ? el('div', { class: 'blok' }, el('h3', { text: 'Where it circulated' }), metBronnen(o.rondgang, o.sleutel), post) : null,
+        el('div', { class: 'blok' }, el('h3', { text: 'Fact-checks' }), lijst),
+        el('p', { class: 'voet', text: 'Overview by Factiz. Factiz did not investigate this claim itself; each verdict is the newsroom’s own, on its own page.' })),
+      strook);
+    kaarten.set(o.sleutel, { knoppen, notitie, stand });
+    return li;
+  }
+
+  const lijst = document.getElementById('kaarten');
+  ITEMS.forEach((o) => lijst.append(kaart(o)));
+
+  // filter op regio, onthouden in de browser (alleen een gemak)
+  const filters = document.getElementById('filters');
+  const tel = {}; ITEMS.forEach((o) => { tel[o.regio] = (tel[o.regio] || 0) + 1; });
+  let gekozen = 'alle';
+  try { gekozen = localStorage.getItem('wereldlijst-regio') || 'alle'; } catch {}
+  const opties = [['alle', 'Alle', ITEMS.length], ...Object.keys(REGIO).filter((r) => tel[r]).map((r) => [r, REGIO[r], tel[r]])];
+  if (!opties.some(([r]) => r === gekozen)) gekozen = 'alle';
+  const knopen = opties.map(([r, naam, n]) => {
+    const b = el('button', { type: 'button', 'aria-pressed': String(r === gekozen) }, naam, el('span', { class: 'n', text: String(n) }));
+    b.addEventListener('click', () => { gekozen = r; try { localStorage.setItem('wereldlijst-regio', r); } catch {} toon(); });
+    filters.append(el('li', {}, b));
+    return [r, b];
+  });
+  function toon() {
+    knopen.forEach(([r, b]) => b.setAttribute('aria-pressed', String(r === gekozen)));
+    lijst.querySelectorAll('.kaart').forEach((k) => { k.hidden = gekozen !== 'alle' && k.dataset.regio !== gekozen; });
+  }
+  toon();
+
+  // de keuzes in de database van de pagina, één document per overzicht
+  const melding = document.getElementById('melding');
+  (async () => {
+    const db = window.claude && window.claude.use ? await window.claude.use('db') : null;
+    if (!db) { melding.hidden = false; melding.textContent = 'De keuzes zijn hier niet op te slaan: open de pagina op claude.ai, ingelogd.'; return; }
+    const keuzes = db.collection('keuzes');
+    for (const k of kaarten.values()) { k.knoppen.forEach((b) => { b.disabled = false; }); k.notitie.disabled = false; }
+    const klok = setTimeout(() => { melding.hidden = false; melding.textContent = 'De opgeslagen keuzes zijn nog niet bereikbaar.'; }, 10000);
+    const bezig = new Set();
+    keuzes.onSnapshot((snap) => {
+      if (!snap.metadata.fromCache) { clearTimeout(klok); melding.hidden = true; }
+      snap.docs.forEach((d) => {
+        const k = kaarten.get(d.id); if (!k) return;
+        const v = d.data() || {};
+        k.knoppen.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.keuze === v.keuze)));
+        if (document.activeElement !== k.notitie && typeof v.notitie === 'string') k.notitie.value = v.notitie;
+        if (!bezig.has(d.id)) k.stand.textContent = v.keuze || v.notitie ? 'Opgeslagen' : '';
+      });
+    }, () => { clearTimeout(klok); melding.hidden = false; melding.textContent = 'De keuzes konden niet geladen worden.'; });
+
+    for (const [sleutel, k] of kaarten) {
+      const schrijf = async () => {
+        if (bezig.has(sleutel)) return;
+        bezig.add(sleutel);
+        const huidige = k.knoppen.find((b) => b.getAttribute('aria-pressed') === 'true');
+        k.stand.textContent = 'Opslaan…';
+        try {
+          await keuzes.doc(sleutel).set({ keuze: huidige ? huidige.dataset.keuze : null,
+            notitie: k.notitie.value.trim().slice(0, 1000), tijd: new Date().toISOString() });
+          k.stand.textContent = 'Opgeslagen';
+        } catch (e) {
+          k.stand.textContent = e && e.code === 'not_granted' ? 'Je mag hier niet opslaan' : 'Niet opgeslagen';
+        } finally { bezig.delete(sleutel); }
+      };
+      k.knoppen.forEach((b) => b.addEventListener('click', () => {
+        k.knoppen.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        schrijf();
+      }));
+      let wacht;
+      k.notitie.addEventListener('input', () => { clearTimeout(wacht); wacht = setTimeout(schrijf, 900); });
+    }
+  })();
+})();
+</script>

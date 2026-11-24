@@ -1,0 +1,77 @@
+{
+ "_meta": "Labels van de voormeting met de koppen van de dichte sites (PLAN #32.3f), 2026-10-29, gelezen door Claude. 'route 2' bij een echt artikel: 'juist' als de pagina echt dit artikel van de getoonde site is of overneemt, 'twijfel' of 'fout' anders (telt niet als gevonden). Bij een verzonnen kop of een andere krant: 'vals' of 'set fout'. 'feit' bij een veranderd feit waar route 2 verschillen met een overname noemt: 'juist' als het veranderde detail erbij staat met de echte waarde. Alleen ids en labels; openbare artikelen en eigen vervalsingen.",
+ "oordelen": [
+  {
+   "id": "A:b-008009",
+   "wat": "route 2",
+   "label": "juist",
+   "reden": "Statewatch neemt het Guardian-artikel over en noemt theguardian.com"
+  },
+  {
+   "id": "A:b-010042",
+   "wat": "route 2",
+   "label": "juist",
+   "reden": "bm.ge neemt het Politico-artikel over met dezelfde kop en noemt politico.eu"
+  },
+  {
+   "id": "N-A:b-007699",
+   "wat": "route 2",
+   "label": "juist",
+   "reden": "New Europe brengt dit stuk met bijna dezelfde kop en noemt The Guardian"
+  },
+  {
+   "id": "N-A:b-002093",
+   "wat": "route 2",
+   "label": "twijfel",
+   "reden": "de pagina die The Guardian noemt heeft een andere kop (Nursery hit by shelling ...); misschien een bijgewerkte kop van hetzelfde stuk, niet na te gaan"
+  },
+  {
+   "id": "B-feit:b-010276",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "B-feit:b-008481",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "B-feit:b-001988",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "N-B-feit:b-011866",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "N-B-feit:b-005166",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "N-B-feit:b-009866",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "N-B-feit:b-005057",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  },
+  {
+   "id": "N-B-feit:b-013268",
+   "wat": "feit",
+   "label": "juist",
+   "reden": "de overname noemt precies het veranderde detail met de echte waarde"
+  }
+ ]
+}

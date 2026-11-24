@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Er is geen bevestiging dat Rusland in Abu Dhabi eiste dat Finland de NAVO verlaat",
+  "oordeel_zin": "De bewering komt uit een bericht van Bild met anonieme bronnen, dat het Kremlin ontkent, en de president en de minister van Defensie van Finland zeggen niets van zo'n eis te weten [7] [8] [10] [17].",
+  "bewering": "BREAKING: Rusland heeft een deel van zijn voorwaarden kenbaar gemaakt om een EINDE te maken aan de oorlog in Oekraïne:  - Finland uit de NAVO.  - Geen NAVO-bases in de Baltische staten.  - Heel Donbas overgedragen aan Rusland.  In ruil daarvoor zou Rusland zijn kernwapens uit Belarus TERUGTREKKEN.",
+  "kort": "Op 13 november presenteerden berichten op X het als feit dat Rusland bij de vredesbesprekingen in Abu Dhabi had geëist dat Finland de NAVO verlaat [2] [4] [5]. De bewering komt uit een bericht van die ochtend in de Duitse krant Bild, die haar bronnen niet noemde en zei dat niet bekend was of president Putin het voorstel steunde [1] [7]. Het Kremlin ontkent het, en de Finse president zegt nooit zo'n eis van een Rus te hebben gehoord [8] [17] [18].",
+  "tekst": "Op de ochtend van 13 november meldde Bild dat Rusland wilde dat Finland de NAVO verlaat, dat er geen NAVO-bases komen in Estland, Letland en Litouwen, en dat heel Donbas naar Rusland gaat, en dat Rusland in ruil daarvoor zijn kernwapens uit Belarus zou terugtrekken [1] [6] [7]. Volgens Yle, de Finse publieke omroep, zei Bild dat het voorstel uit de kring rond Putin kwam en onofficieel werd voorgelegd aan Europese vertegenwoordigers in Abu Dhabi [6]. Op het Russischtalige kanaal noemde Bild het een van meerdere voorstellen van concurrerende groepen tussenpersonen [1].\n\nOm 11:03 UTC plaatste een account met de naam Bedouin Report de vermeende voorwaarden van Rusland onder het woord BREAKING, zonder bron [2]. Toen had het Kremlin het al ontkend [8]. Om 10:48 UTC citeerde het Azerbeidzjaanse persbureau APA woordvoerder Dmitry Peskov, die zei dat er geen enkele zo'n eis was gesteld [8] [9].\n\nDe Finse minister van Defensie Antti Häkkänen zei op 13 november dat hij geen informatie had over de vraag of de eis was gesteld [10]. Op 17 november zei president Alexander Stubb dat het geen bewering was die in welke vorm dan ook serieus genomen moest worden, en dat hij het van geen enkele Rus had gehoord, aldus de krant Ilta-Sanomat [17] [18].\n\nHet Russischtalige medium Echo, dat zich eveneens op anonieme bronnen beriep, schreef dat één onderhandelingsgroep de Europeanen een lijst gaf waarop stond dat Finland terugkeert naar zijn status van vóór de NAVO [12]. The New York Times kreeg een Russisch document van 10 november in handen waarin de NAVO wordt gevraagd haar troepen en bases terug te trekken naar waar ze in 1997 stonden, maar het artikel noemt Finland niet [13] [14].\n\nFinland werd in april 2023 lid van de NAVO, en volgens het Noord-Atlantisch Verdrag kan alleen een lidstaat zelf zijn lidmaatschap opzeggen [9] [16].",
+  "niet_weten": "We weten niet wie de bronnen van Bild zijn, of iemand in Abu Dhabi zo'n eis aan de Europeanen heeft voorgelegd [6] [7]. Het volledige artikel van Bild is alleen voor abonnees; de opening zegt dat het voorstel uit onofficiële gesprekken en uit de kring rond Putin kwam [19], en de rest kennen we van het Russischtalige kanaal van Bild en uit andere media [1] [6] [7]. Het Kremlin is partij bij de gesprekken, dus zijn ontkenning beslist de kwestie niet [8].",
+  "bereik": "1.580 likes op het getoonde bericht en 4.987 op het bericht met de meeste likes dat we lazen, op 23 november",
+  "nog_uitzoeken": [
+   "Wie de bronnen van Bild zijn, en of een Europese regering die in Abu Dhabi was bevestigt of ontkent dat zij zo'n lijst heeft ontvangen.",
+   "Of het volledige Russische document dat The New York Times in handen kreeg iets over Finland zegt. Het artikel erover doet dat niet.",
+   "We twijfelden tussen Onbewezen en Misleidend. De berichten maken van een bericht met anonieme bronnen, dat het Kremlin ontkent, een feit, wat naar Misleidend wijst; of de eis is gesteld, is niet bekend, en dat deed ons voor Onbewezen kiezen."
+  ],
+  "tijdlijn": [
+   "De gesprekken tussen Rusland, Oekraïne en de Verenigde Staten beginnen in Abu Dhabi [15].",
+   "De gesprekken eindigen. Groot-Brittannië, Frankrijk, Duitsland en Italië waren erbij, maar onderhandelden niet rechtstreeks met de Russen [10] [15].",
+   "Bild meldt dat Rusland wil dat Finland de NAVO verlaat, zonder bronnen te noemen [1] [6] [7].",
+   "APA meldt de ontkenning van Peskov: er is geen zo'n eis gesteld [8].",
+   "Bedouin Report plaatst de vermeende voorwaarden van Rusland als BREAKING, zonder bron [2].",
+   "Visegrád 24 plaatst de bewering en noemt Bild [3].",
+   "Häkkänen in het parlement: geen informatie dat de eis is gesteld [10].",
+   "Premier Orpo: zulke vragen horen niet aan de onderhandelingstafel [11].",
+   "The New York Times bericht over een Russisch document dat de NAVO vraagt terug te keren naar haar posities van 1997; het artikel noemt Finland niet [14].",
+   "Stubb in Berlijn: geen bewering om serieus te nemen, en hij hoorde het nooit van een Rus [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 13 november 2026, 11:03 UTC."
+  ],
+  "beeld_alt": [
+   "Een bericht op X van het account Bedouin Report onder het woord BREAKING, met een lijst van wat het de voorwaarden van Rusland noemt om de oorlog in Oekraïne te beëindigen, te beginnen met Finland uit de NAVO. Stempel: ONBEWEZEN."
+  ]
+ }
+}

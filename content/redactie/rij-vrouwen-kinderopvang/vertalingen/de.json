@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Die Warteschlange von Frauen in diesem Video stand in Amsterdam, vor einem Ausverkauf von Kleidung",
+  "oordeel_zin": "Das Video ist echt, wurde aber am 19. September in Amsterdam-West beim Ausverkauf eines Modelabels aufgenommen; mit Dublin hat es nichts zu tun [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "Seit dem 21. September kursiert auf X ein Video einer langen Schlange von Frauen auf der Straße, nur mit den Worten „Dublin 2027“ [5]. Das Video wurde am 19. September in Amsterdam-West beim Ausverkauf eines Modelabels aufgenommen, und das Label hat es selbst als Erstes online gestellt [1] [9]. Dasselbe Video kursierte auch als Schlange muslimischer Frauen, die auf kostenlose Kinderbetreuung warten; auch das stimmt nicht [7] [8] [9].",
+  "tekst": "Am Montag, dem 21. September, um 9:36 Uhr stellte ein Account mit einer irischen Flagge hinter dem Namen ein Video einer langen Schlange von Frauen auf der Straße auf X [5]. Der einzige Text dazu lautet „Dublin 2027“ [5]. Was der Verfasser damit meint, sagt der Beitrag nicht, aber ohne Erklärung wirkt es wie ein Bild aus Dublin, heute oder in Zukunft.\n\nDasselbe Video kursierte in dieser Woche auch mit einer anderen Erklärung. Auf Niederländisch als muslimische Frauen, die auf kostenlose Kinderbetreuung warten [8]. Auf Spanisch als eine Schlange, die eine Niederländerin gefilmt haben soll, von muslimischen Frauen, die ihre Kinder für eine kostenlose Krippe anmelden [7]. Und auf Englisch auf Instagram und Facebook, mit der Erklärung, die Frauen kämen, um ihre Kinder für kostenlose staatliche Betreuung anzumelden [9].\n\nDie Schlange ist echt, steht aber für etwas anderes: Das Label Oemaayah, das bedeckende Mode verkauft, veranstaltete am Samstag, dem 19. September, einen Sample Sale: einen Verkauf von Musterstücken und Restposten zu niedrigen Preisen [2] [9]. Das Label hatte den Verkauf vorab auf Instagram und TikTok angekündigt, an einem Veranstaltungsort in Amsterdam-West [2] [7]. Am Sonntag, dem 20. September, stellte das Label selbst das Video der Schlange online, mit einem Dank an alle, die gekommen waren [1] [9]. Gegenüber Full Fact und Reuters bestätigte das Label, dass das Video Besucher zeigt, die darauf warten, den Verkauf zu betreten [9].\n\nLaut Full Fact und Maldita ist der Ort De Hallen Studio's, wo die Zäune, die Häuser und das Gebäude mit den Bildern von Google übereinstimmen [7] [9]. Diese Studios befinden sich im alten Straßenbahndepot in Oud-West und werden für Veranstaltungen vermietet [4]. Der Beitrag mit „Dublin 2027“ erschien etwa sechzehn Stunden nach dem Video des Labels. Das leiten wir aus den Nummern ab, die X und Instagram einem Beitrag geben, denn darin steckt der Zeitpunkt des Postens [1] [5]. Mit Dublin hat das Video also nichts zu tun.\n\nAuch die Erklärung mit der Kinderbetreuung stimmt nicht. Kostenlose Kinderbetreuung, für die man sich in eine Schlange stellt, gibt es in den Niederlanden nicht [3]. Die Regierung will die Betreuung ab 2029 für arbeitende Eltern fast kostenlos machen: Alle bekommen dann 96 Prozent erstattet, unabhängig vom Einkommen, und der Staat zahlt das direkt an die Kinderbetreuung [3]. Die Eltern müssen diese Erstattung dann nicht mehr selbst beantragen [3].\n\nEFE Verifica war am 22. September der erste Faktenchecker, den wir gefunden haben [6]. AFP Factcheck Nederland und Maldita folgten am 24. September, Full Fact am 29. September [7] [8] [9].",
+  "niet_weten": "Wir wissen nicht, was der Verfasser des Beitrags mit \"Dublin 2027\" genau meint, und auch nicht, wer dem Video der Marke als Erster eine andere Deutung gab. Einen niederländischsprachigen Beitrag mit der Erklärung über Kinderbetreuung haben wir selbst nicht gefunden; wir kennen ihn aus dem Check von AFP Factcheck Nederland [8]. Ob die Frauen in der Schlange Musliminnen sind, wissen wir nicht, und für diesen Check spielt es keine Rolle: Sie standen für Kleidung an.",
+  "nog_uitzoeken": [
+   "Was der Verfasser mit \"Dublin 2027\" meint.",
+   "Ein niederländischsprachiger Beitrag mit der Erklärung über Kinderbetreuung. Wir kennen ihn nur aus dem Check von AFP Factcheck Nederland."
+  ],
+  "tijdlijn": [
+   "Der Sample Sale von Oemaayah in Amsterdam-West [2] [9].",
+   "Das Label stellt das Video der Schlange auf Instagram, mit einem Dank an die Besucher [1].",
+   "Ein Beitrag auf X stellt das Video nur mit den Worten „Dublin 2027“ online [5].",
+   "EFE Verifica: Die Frauen sind Kundinnen eines Geschäfts [6].",
+   "AFP Factcheck Nederland und Maldita: eine Schlange vor einem Ausverkauf [7] [8].",
+   "Full Fact: ein Pop-up-Verkauf eines Modelabels in Amsterdam [9]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 21. September 2026, 9:36 Uhr.",
+   "Oemaayah auf Instagram, 20. September 2026: das Video der Schlange beim Sample Sale in Amsterdam-West."
+  ],
+  "beeld_alt": [
+   "Der Beitrag auf X mit den Worten Dublin 2027 und einem Video einer langen Schlange von Frauen auf der Straße. Stempel: IRREFÜHREND.",
+   "Das Video des Labels von der Schlange der Besucher vor dem Sample Sale."
+  ]
+ }
+}

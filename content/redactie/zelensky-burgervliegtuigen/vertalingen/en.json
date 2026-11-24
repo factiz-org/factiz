@@ -1,0 +1,46 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck zelensky-burgervliegtuigen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "0b687fa5a43702c5",
+ "veldafdrukken": {
+  "kop": "8a9503440bbe9f25",
+  "oordeel_zin": "77dfb633384eedc2",
+  "bewering": "55f4f3eea7911be3",
+  "kort": "4afacfdd59affa64",
+  "tekst": "d03ce597fc692860",
+  "niet_weten": "dbd2315df3004bfd",
+  "bereik": "a09275c1060a48da",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "504c46e9f0788fa2",
+  "beeld_bijschrift": "1d965a0ad6c55a81",
+  "beeld_alt": "a838d3bfd529db63"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky warned airlines about drones over Russia, he did not threaten to shoot down aircraft",
+  "oordeel_zin": "Zelensky warned that Ukrainian drones are making Russian airspace unsafe, but explicitly added that Ukraine threatens not a single civilian aircraft [2] [3].",
+  "bewering": "Zelensky is now even threatening to shoot civilian aircraft out of the sky, which Ukraine of course already has experience with... #MH17",
+  "kort": "On 5 September a post circulated on X saying that Zelensky is threatening to shoot down civilian aircraft, with the hashtag MH17 attached [1]. On 1 September Zelensky warned airlines that Ukrainian drones are making Russian airspace unsafe, and said in the same speech that Ukraine threatens not a single civilian aircraft [2] [3]. As for MH17, the ICAO Council found Russia responsible in 2025 [10] [11].",
+  "tekst": "The post appeared on Saturday 5 September at 12:51 on X [1]. It quotes an English post from a day earlier, with a 51-second video and the claim that Zelensky is threatening civilian aircraft [1]. The Dutch post turns that into him threatening to shoot them out of the sky, and refers with the hashtag MH17 to the 2014 disaster [1]. On 18 November the post had been viewed 14,721 times [1].\n\nThe post concerns Zelensky's evening address of Tuesday 1 September, with the video on Telegram and part of the text in English on X at 19:59 [13] [2]. In it he warned every airline that uses Russian airspace, every insurer and everyone who still uses the major Russian airports: the airspace will become completely unsafe [2] [3]. The reason he gave is Ukrainian drones, which will fly over Russia on such a scale that aviation will have to take them into account [3] [4]. Three days earlier he had ordered 1,000 drones a day against Russia [4].\n\nIn the same speech Zelensky said that Ukraine does not threaten civil aviation, \"not a single civilian aircraft\" [2]. In his own text, in English and Ukrainian, that sentence follows directly after the warning [2] [13]. Euronews and Meduza also report those words [3] [4]. According to him, Ukraine does not want innocent lives to be lost [2].\n\nA day later Ukraine formally notified the ICAO, the United Nations aviation organization, that Russian airspace is unsafe [6]. The Turkish carriers Pegasus and Turkish Airlines cancelled flights to and from Moscow [6]. The same day the ICAO warned in general terms of a growing risk that civilian aircraft will be hit by weapons or caught in crossfire; it names neither Russia nor Ukraine [7].\n\nPutin also saw a threat in it: he called the warning of 1 September state terrorism [5]. The reported plans of Ukraine concern closing the airspace, not shooting down aircraft. According to The Atlantic, quoted by The Insider, Ukraine was preparing a plan to shut down the airspace over Moscow with up to 1,000 drones in a single night, and Zelensky feared that a hit passenger plane would be seen as piracy [8]. According to Meduza, Zelensky's office called that report complete nonsense [14]. According to The Wall Street Journal, quoted by The Week, Ukraine wants to have drones circle near Russian airports so that takeoffs and landings come to a standstill [9]. That makes flying over Russia more dangerous. It is not a threat to shoot down aircraft.\n\nMH17 was shot down on 17 July 2014 over eastern Ukraine with a Russian surface-to-air missile, over territory held by pro-Russian separatists [11]. 298 people were killed, including 196 Dutch nationals [11]. On 12 May 2025, in a case brought by the Netherlands and Australia, the ICAO Council ruled that Russia is responsible [10]. However, Russian and Ukrainian officials did name a missile as the cause of the disaster involving a Russian passenger plane over the Black Sea in October 2001, with 78 dead [12]. The Ukrainian official said it was probably by accident a missile from a Ukrainian exercise [12].",
+  "niet_weten": "The first sentence of the post, about which targets Russia and Ukraine hit, is a claim of its own that we do not check here. We found no fact-check of this claim by another newsroom, in seven languages and on more than twenty sites.",
+  "bereik": "Viewed 14,721 times on 18 November",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Zelensky says he ordered 1,000 drones a day against Russia [4].",
+   "Zelensky warns airlines in his evening address, with the video on Telegram and the text on X [13] [2].",
+   "Putin calls the warning state terrorism [5].",
+   "Ukraine tells the ICAO that Russian airspace is unsafe; the ICAO warns in general terms about weapons against civilian aircraft [6] [7].",
+   "An English post says Zelensky is threatening civilian aircraft [1].",
+   "The Dutch post with the hashtag MH17 [1]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, 5 September 2026, 12:51.",
+   "Volodymyr Zelensky on Telegram, 1 September 2026: the video of the evening address with the warning to airlines."
+  ],
+  "beeld_alt": [
+   "Screenshot of the post on X saying that Zelensky is threatening to shoot down civilian aircraft, with the hashtag MH17 and the quoted English post. Stamp: FALSE.",
+   "The video of Zelensky's evening address of 1 September 2026."
+  ]
+ }
+}

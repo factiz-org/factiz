@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video anjing robot bersenjata yang memimpin tentara sudah beredar di internet pada Oktober dan bukan berasal dari Haiti",
+  "oordeel_zin": "Klip itu sudah ada di TikTok pada 7 Oktober 2026, sebelum El Salvador mengirim lebih dari 2.000 tentara ke Haiti; anjing robot bersenjata memang muncul dalam rekaman milik Bukele sendiri dari stadion di Port-au-Prince, tetapi klip ini bukan bagian darinya [3] [5] [8].",
+  "bewering": "Lihat apa yang dilakukan anjing-anjing Robot ini terhadap geng-geng Haiti. Ini salah satu penemuan militer terbaik. Ini menekan korban manusia (tentara) hingga tingkat terendah.",
+  "kort": "Sejak 14 November, sebuah unggahan di X menampilkan video anjing robot bersenjata yang bergerak di depan para tentara sebagai apa yang dilakukan anjing robot terhadap geng-geng di Haiti [1]. Sebuah stasiun radio di Ekuador mengunggah klip yang sama di TikTok pada 7 Oktober 2026, sebelum El Salvador mengirim lebih dari 2.000 tentara ke Haiti [3] [8]. Pasukan Salvador memang membawa anjing robot bersenjata ke stadion nasional di Port-au-Prince, tetapi anjing-anjing itu muncul dalam video Presiden Bukele sendiri, bukan dalam klip ini [5] [6].",
+  "tekst": "Pada 14 November 2026, sebuah akun di X mengunggah video berdurasi 26 detik dengan teks \"Look at what these Robot dogs are doing to Haiti gangs.\" [1]. Unggahan itu mengutip unggahan akun yang sama sehari sebelumnya, yang menyebut El Salvador memakai anjing robot untuk memburu anggota geng di Haiti [2]. Dalam video itu, seekor anjing robot dengan senapan di punggungnya bergerak di depan para tentara melewati dinding bermotif kamuflase, dan sebuah drone berputar di sekitar bangunan beton putih [1].\n\nKlip itu memuat teks Spanyol \"Perros robot con armamento\", tanggal 07-10-2026, dan logo Ritmo 93.9 [1]. Ritmo 93.9 adalah stasiun radio di provinsi Pastaza, Ekuador [4]. Stasiun itu mengunggah klip yang sama di TikTok pada 7 Oktober 2026, tanpa menyebut Haiti atau El Salvador sedikit pun, dan menulis bahwa klip itu mungkin dibuat dengan AI [3]. Teks berbahasa Tionghoa di bagian atas klip, yang sebagian tertutup logo radio, menyebut sebuah perusahaan dari provinsi Shandong di Tiongkok [1].\n\nSebelas hari kemudian, pada 18 Oktober, empat teknisi penerbangan Salvador hilang setelah serangan geng di Haiti [8] [9]. Sekitar 200 warga Salvador sudah bertugas di sana, terutama dalam dukungan medis [9]. Setelah serangan itu, El Salvador mengirim lebih dari 2.000 tentara [8] [9].\n\nPada 12 November, satuan polisi dan militer Haiti bersama pasukan khusus Salvador merebut stadion Sylvio Cator di Port-au-Prince [5] [9]. Bukele mengunggah video operasi itu berdurasi 76 detik di X [5]. Dalam 20 detik terakhirnya tampak tentara memasang senapan pada anjing robot di lapangan, dan robot-robot itu berjalan melewati lorong-lorong biru dan menaiki tangga [5] [7]. Menurut Newsweek, rekaman itu tidak memperlihatkan robot-robot tersebut menembak [6]. Kompleks dengan dinding kamuflase itu tidak muncul dalam video Bukele [1] [5].",
+  "niet_weten": "Kami tidak tahu siapa yang merekam klip itu, di mana atau kapan, atau apakah itu rekaman asli. Salinan tertua yang kami temukan adalah yang diunggah Ritmo 93.9 pada 7 Oktober [3]. Kami tidak tahu apakah anjing robot dalam video Bukele ikut serta dalam pertempuran apa pun [6] [7].",
+  "bereik": "662 suka dan 23 balasan pada 23 November",
+  "nog_uitzoeken": [
+   "Siapa yang membuat klip dengan anjing robot dan drone itu, di mana dan kapan klip itu direkam, dan apakah itu rekaman asli atau dibuat dengan AI.",
+   "Perusahaan Shandong mana yang disebut teks Tionghoa di bagian atas klip, karena sebagian namanya tertutup logo Ritmo 93.9, dan apakah perusahaan itu yang pertama kali menerbitkan rekaman tersebut.",
+   "Apakah anjing robot dalam video Bukele tanggal 12 November ikut serta dalam pertempuran apa pun di Haiti.",
+   "Kami menimbang antara Menyesatkan dan Salah. Klip itu bukan dari Haiti dan tidak menunjukkan apa pun yang dilakukan terhadap geng di sana, tetapi pasukan Salvador memang membawa anjing robot bersenjata ke stadion di Port-au-Prince. Jika Anda tahu lebih banyak tentang klip ini, silakan beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9 mengunggah klip itu di TikTok sebagai video yang baru dibagikan [3].",
+   "Empat teknisi penerbangan Salvador hilang setelah serangan geng di Haiti [8] [9].",
+   "Al Jazeera dan AP melaporkan lebih dari 2.000 tentara Salvador di Haiti [8].",
+   "Pasukan Haiti dan Salvador merebut stadion Sylvio Cator di Port-au-Prince [9].",
+   "Bukele mengunggah videonya tentang operasi itu, dengan anjing robot bersenjata di bagian akhir (UTC) [5].",
+   "Akun itu menyebut El Salvador memakai anjing robot untuk memburu anggota geng di Haiti (UTC) [2].",
+   "Newsweek melaporkan tentang anjing robot dalam video Bukele (UTC) [6].",
+   "Akun yang sama mengunggah klip Ritmo 93.9 sebagai anjing robot di Haiti (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 14 November 2026, pukul 20.08 UTC.",
+   "Ritmo 93.9 FM di TikTok, 7 Oktober 2026: klip yang sama, dengan teks dan tanggal yang sama, lima pekan sebelum pasukan Salvador merebut stadion di Port-au-Prince."
+  ],
+  "beeld_alt": [
+   "Unggahan di X oleh Benkingsley Nwashara yang berbunyi Look at what these Robot dogs are doing to Haiti gangs, dengan cuplikan dari video: seorang tentara dengan senapan di sudut dinding bermotif kamuflase, teks Spanyol Perros robot con armamento dan tanggal 07-10-2026. Di bawahnya terdapat unggahan kutipan tanggal 13 November dengan pemandangan udara sebuah stadion sepak bola. Cap: MENYESATKAN.",
+   "Cuplikan dari video TikTok Ritmo 93.9: seekor anjing robot dengan senapan di halaman tanah di samping dinding bermotif kamuflase, dengan teks Perros robot con armamento dan tanggal 07-10-2026."
+  ]
+ }
+}

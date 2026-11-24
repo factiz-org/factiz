@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "這段影片中排隊的女性，是在阿姆斯特丹排隊等候一場服飾特賣",
+  "oordeel_zin": "影片是真的，但拍攝於9月19日的阿姆斯特丹西區，是在一個時尚品牌的特賣會現場；與都柏林毫無關係 [1] [9]。",
+  "bewering": "Dublin 2027",
+  "kort": "自9月21日起，X 上流傳一段影片，內容是街上一長排女性，只配有「Dublin 2027」這幾個字 [5]。這段影片拍攝於9月19日的阿姆斯特丹西區，是在一個時尚品牌的特賣會現場，而且是該品牌自己最先將影片發布到網上 [1] [9]。同一段影片也曾被說成是穆斯林女性在排隊等候免費托兒服務；這個說法同樣不正確 [7] [8] [9]。",
+  "tekst": "9月21日星期一上午9:36，一個名稱後面附有愛爾蘭國旗的帳號在 X 上發布了一段影片，內容是街上一長排女性 [5]。貼文唯一的文字是「Dublin 2027」[5]。發文者想表達什麼，貼文沒有說明，但在沒有解釋的情況下，這看起來像是都柏林的畫面，不論是現在還是將來。\n\n同一週，這段影片也以另一種說法流傳。在荷蘭語中，說成是穆斯林女性在排隊等候免費托兒服務 [8]。在西班牙語中，說成是一名荷蘭女子所拍攝的隊伍，是穆斯林女性為孩子登記免費托兒所 [7]。在英語的 Instagram 和 Facebook 上，說法則是這些女性是來為孩子登記國家提供的免費托育 [9]。\n\n隊伍確實存在，但是為了別的事：販售包容性服飾的品牌 Oemaayah 在9月19日星期六舉辦了一場 sample sale，也就是以低價出售樣品款與庫存尾貨的特賣會 [2] [9]。該品牌事前已在 Instagram 和 TikTok 上宣布這場特賣，地點是阿姆斯特丹西區的一處活動場地 [2] [7]。9月20日星期日，該品牌自己將這段排隊的影片發布到網上，並感謝所有前來的人 [1] [9]。該品牌向 Full Fact 和路透社確認，影片拍到的是等候進場參加特賣的訪客 [9]。\n\n根據 Full Fact 和 Maldita，這個地點是 De Hallen Studio's，圍欄、房屋和建築都與 Google 的影像相符 [7] [9]。這些攝影棚位於 Oud-West 的舊電車車庫內，出租作活動使用 [4]。帶有「Dublin 2027」的貼文，大約在該品牌發布影片十六小時之後出現。這是我們從 X 和 Instagram 給每則貼文的編號推算出來的，因為編號中包含發布的時間 [1] [5]。因此，這段影片與都柏林毫無關係。\n\n關於托兒服務的說法同樣不正確。在荷蘭，並不存在需要排隊領取的免費托兒服務 [3]。內閣打算從2029年起，讓在職父母的托兒費用幾乎免費：屆時每個人都可獲得96%的補助，不論收入多寡，並由政府直接支付給托兒機構 [3]。父母屆時不必再自己申請這筆補助 [3]。\n\nEFE Verifica 在9月22日，是我們找到的第一個查核這件事的事實查核機構 [6]。AFP Factcheck Nederland 和 Maldita 在9月24日跟進，Full Fact 在9月29日 [7] [8] [9]。",
+  "niet_weten": "我們不知道發文者所說的「Dublin 2027」究竟是什麼意思，也不知道誰最先對這支品牌影片提出了另一種說法。我們自己沒有找到以荷蘭語發布、聲稱與兒童托育有關的貼文；我們是從 AFP Factcheck Nederland 的查核中得知這種說法的 [8]。排隊的女性是否為穆斯林，我們不知道，而且對這次查核來說也無關緊要：她們是在排隊買衣服。",
+  "nog_uitzoeken": [
+   "發文者所說的「Dublin 2027」是什麼意思。",
+   "以荷蘭語發布、聲稱與兒童托育有關的貼文。我們只是從 AFP Factcheck Nederland 的查核中得知這種說法。"
+  ],
+  "tijdlijn": [
+   "Oemaayah 在阿姆斯特丹西區舉辦的 sample sale [2] [9]。",
+   "該品牌將排隊的影片發布到 Instagram，並感謝訪客 [1]。",
+   "X 上的一則貼文發布了這段影片，只配有「Dublin 2027」這幾個字 [5]。",
+   "EFE Verifica：這些女性是商店的顧客 [6]。",
+   "AFP Factcheck Nederland 和 Maldita：是為特賣會而排的隊伍 [7] [8]。",
+   "Full Fact：阿姆斯特丹一個服飾品牌的快閃特賣 [9]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文，2026年9月21日，9:36。",
+   "Oemaayah 在 Instagram，2026年9月20日：阿姆斯特丹西區 sample sale 排隊人潮的影片。"
+  ],
+  "beeld_alt": [
+   "X 上的貼文，配有「Dublin 2027」這幾個字，以及一段街上一長排女性的影片。印章：誤導。",
+   "該品牌拍攝的 sample sale 訪客排隊影片。"
+  ]
+ }
+}

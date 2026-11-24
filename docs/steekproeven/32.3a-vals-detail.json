@@ -1,0 +1,238 @@
+{
+ "_meta": "Labels van de meting van B48 (PLAN #32.3a), 2026-10-28, gelezen door Claude. 'set': nieuwe artikelen die vóór de toets zijn afgewezen (id = het artikel), met reden; het volgende in dezelfde vaste volgorde neemt de plek in. 'oordelen': (id, wat): 'groen' → 'vals' of 'set fout'; 'markering' → 'juist' of 'fout'; 'maar' → 'terecht' of 'onterecht'.",
+ "set": [
+  {
+   "id": "b-004816",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het verzonnen detail staat niet in het bericht"
+  },
+  {
+   "id": "b-007762",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het verzonnen detail staat niet in het bericht"
+  },
+  {
+   "id": "b-012418",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het verzonnen detail staat niet in het bericht"
+  },
+  {
+   "id": "b-009039",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het verzonnen detail staat niet in het bericht"
+  },
+  {
+   "id": "b-004755",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het verzonnen detail staat niet in het bericht"
+  },
+  {
+   "id": "b-010842",
+   "label": "afgewezen",
+   "waarom": "'Brussels' voor het Europees Parlement is te verdedigen"
+  },
+  {
+   "id": "b-007860",
+   "label": "afgewezen",
+   "waarom": "'Russia's armed intervention in Georgia' klopt voor 2008"
+  },
+  {
+   "id": "b-005378",
+   "label": "afgewezen",
+   "waarom": "een citaat over een crisis groter dan de energiecrisis; de controle op de vervanging slaagde niet"
+  },
+  {
+   "id": "b-004842",
+   "label": "afgewezen",
+   "waarom": "niets veranderd: het bericht noemt nog steeds Zelensky"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "B-feit:b-009825",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "drie in plaats van één agent gewond: het veranderde feit"
+  },
+  {
+   "id": "B-feit:b-008306",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "zwart-wit in plaats van zwart-oranje: het veranderde feit"
+  },
+  {
+   "id": "B-feit:b-008805",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "Brits in plaats van Amerikaans schip: het veranderde feit"
+  },
+  {
+   "id": "C:b-002168",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "donderdag: de stemmingen waren op dinsdag en vrijdag"
+  },
+  {
+   "id": "C:b-009248",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "zondag in plaats van zaterdag"
+  },
+  {
+   "id": "C:b-012004",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "2006 in plaats van 2004"
+  },
+  {
+   "id": "C:b-011565",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "1989 in plaats van 1987"
+  },
+  {
+   "id": "B-feit:b-007907",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "€5m in plaats van €1,5m; de machine zag het niet"
+  },
+  {
+   "id": "B-feit:b-010186",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "twee maanden in plaats van twee weken; de machine zag het, geen bron gevonden"
+  },
+  {
+   "id": "B-feit:b-008045",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Japan in plaats van Europa; de machine zag het niet"
+  },
+  {
+   "id": "B-feit:b-012106",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Aleppo in plaats van Idlib"
+  },
+  {
+   "id": "B-feit:b-010276",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "maart in plaats van mei"
+  },
+  {
+   "id": "C:b-007793",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "23 maart in plaats van 16 maart; de machine zag het, geen bron gevonden"
+  },
+  {
+   "id": "C:b-008284",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "25 november in plaats van 18 november"
+  },
+  {
+   "id": "B-feit:b-008805",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Brits in plaats van Amerikaans schip; in v3 vond de zoekstap geen citaat met de juiste waarde"
+  },
+  {
+   "id": "C:b-007793",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "23 maart in plaats van 16 maart"
+  },
+  {
+   "id": "B-feit:b-012738",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "16 jaar in plaats van 26: het veranderde feit"
+  },
+  {
+   "id": "B-feit:b-004692",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "16 januari in plaats van 13 januari: het veranderde feit"
+  },
+  {
+   "id": "B-feit:b-001988",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "31 keer in plaats van 13 keer: het veranderde feit"
+  },
+  {
+   "id": "C:b-009256",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "vijf kanalen in plaats van drie"
+  },
+  {
+   "id": "C:b-007772",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "800 ton in plaats van 1.300"
+  },
+  {
+   "id": "C:b-002047",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "een rechtbank in Moskou in plaats van Kirov"
+  },
+  {
+   "id": "C:b-010204",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "2003 in plaats van 2006"
+  },
+  {
+   "id": "C:b-007855",
+   "wat": "markering",
+   "label": "juist",
+   "waarom": "92 stemmen in plaats van 82"
+  },
+  {
+   "id": "C:b-002066",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Odesa in plaats van Kyiv"
+  },
+  {
+   "id": "C:b-008473",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Lviv in plaats van Kyiv"
+  },
+  {
+   "id": "N:b-012132",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "Iran in plaats van China"
+  },
+  {
+   "id": "N:b-011296",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "onafhankelijkheid verklaard in 1991 in plaats van 1990"
+  },
+  {
+   "id": "N:b-005007",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "de Krim geannexeerd in 2016 in plaats van 2014"
+  },
+  {
+   "id": "N:b-008183",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "'his son Yulia' in plaats van zijn dochter"
+  },
+  {
+   "id": "N:b-008826",
+   "wat": "groen",
+   "label": "vals",
+   "waarom": "binnen een maand in plaats van binnen een week"
+  }
+ ]
+}

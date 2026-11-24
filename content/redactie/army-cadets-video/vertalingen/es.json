@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck army-cadets-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "610f12eb8fc652ca",
+ "veldafdrukken": {
+  "kop": "981c7653097d8efb",
+  "oordeel_zin": "515871080d5eac60",
+  "bewering": "8b1304f42967ca1c",
+  "kort": "7f86ed5ec1c5030f",
+  "tekst": "56457584bd7bc04e",
+  "niet_weten": "549459f8f8ab8e86",
+  "bereik": "9be15c70e4bf9915",
+  "nog_uitzoeken": "430f1263b12fe863",
+  "tijdlijn": "8cfdb758e3d6cc9e",
+  "beeld_bijschrift": "1617bb751dd34fba",
+  "beeld_alt": "f1e7ab436a8a5ac2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "El vídeo de unos marchantes en Whitehall muestra a cadetes adolescentes del Ejército en el Remembrance Sunday, no a soldados británicos",
+  "oordeel_zin": "El primer clip muestra a voluntarios del Army Cadet Force en el desfile del Remembrance Sunday en Whitehall, jóvenes que no forman parte de las fuerzas armadas, no soldados británicos [3] [4] [5].",
+  "bewering": "Comparen los métodos de marcha británico y ruso. Los 3 primeros vídeos son de Inglaterra. ¡Una vergüenza!",
+  "kort": "Desde el 14 de noviembre, publicaciones en X muestran una columna con uniforme de camuflaje que marcha sin llevar el paso en Londres [2]. El 15 de noviembre una cuenta puso el clip junto a soldados rusos en la Plaza Roja como ejemplo de la marcha británica [1]. Los marchantes son cadetes, por lo general de entre 12 y 18 años y sin pertenecer a las fuerzas armadas, en el desfile de Whitehall del Remembrance Sunday, el 8 de noviembre de 2026 [3] [5]. Lo sabemos por el monumento que pasan y por una foto del mismo grupo del Suffolk Army Cadet Force [4] [8].",
+  "tekst": "El domingo 15 de noviembre de 2026, la cuenta Alternative News publicó en X un vídeo con el texto \"Compare los métodos de marcha británico y ruso. Los 3 primeros clips son de Inglaterra.\" [1]. El resto del vídeo muestra tropas rusas en la Plaza Roja de Moscú [1]. El primer clip circulaba desde un día antes, cuando la cuenta RadioGenoa lo publicó como \"Los cadetes del Ejército británico en Londres no parecen muy sincronizados.\" [2]. En la comparación con Rusia, la palabra cadetes ha desaparecido [1].\n\nEl clip se grabó en Whitehall. La columna pasa junto al Monument to the Women of World War II, que se encuentra en medio de Whitehall [2] [8]. Un cadete que va al frente lleva una corona de amapolas [2]. El domingo 8 de noviembre se celebró el National Service of Remembrance en el Cenotaph de Whitehall [6]. El personal en servicio no puede participar en el desfile ante el Cenotaph [7].\n\nUno de los grupos que desfilaron fue un contingente del Suffolk Army Cadet Force y del Combined Cadet Force de la Westbourne Academy [3]. Una foto de la galería del Suffolk ACF muestra al contingente en Whitehall en el mismo orden que en el vídeo: un adulto con medallas al frente a la izquierda y, al frente a la derecha, un cadete con una corona del Army Cadet Force [4]. Creemos que el vídeo muestra a este grupo. La verificadora española Maldita comparó el vídeo con la misma galería el 16 de noviembre y llegó a la misma conclusión [13].\n\nSegún el Ministerio de Defensa, que patrocina ambas fuerzas de cadetes, los cadetes tienen por lo general entre 12 y 18 años y no forman parte de las fuerzas armadas [5].",
+  "niet_weten": "No sabemos quién grabó el vídeo en Whitehall ni dónde se publicó por primera vez. Identificamos al grupo por el orden de la columna y la corona, no por los rostros. No pudimos identificar el segundo y el tercer clip británicos del montaje [1].",
+  "bereik": "2612 me gusta y 308 respuestas el 22 de noviembre; la primera publicación con el clip de Whitehall, del 14 de noviembre, tenía 9494 me gusta y 1355 respuestas",
+  "nog_uitzoeken": [
+   "Quién grabó el vídeo en Whitehall el 8 de noviembre y dónde se publicó por primera vez.",
+   "Quiénes son los jóvenes con uniforme de gala negro y fajines rojos del segundo clip del montaje, y dónde y cuándo se grabó el tercer clip.",
+   "Si el segundo vídeo de RadioGenoa se grabó en los Royal Courts of Justice durante el Lord Mayor's Show del 14 de noviembre de 2026, y qué cadetes marchan en él.",
+   "Dudamos entre Engañoso y Falta de contexto. RadioGenoa todavía llamó cadetes a los marchantes, pero la publicación con los soldados rusos presenta los clips como marcha británica sin decir quiénes marchan. Si sabe más sobre alguno de los clips, avísenos."
+  ],
+  "tijdlijn": [
+   "El Suffolk Army Cadet Force llega a Londres y ensaya en filas de seis [3].",
+   "Dos minutos de silencio en el National Service of Remembrance en el Cenotaph [6].",
+   "El Suffolk ACF y el CCF de la Westbourne Academy desfilan por Whitehall [3] [4].",
+   "El Suffolk ACF publica su crónica y sus fotos del fin de semana [3] [4].",
+   "RadioGenoa publica el vídeo de Whitehall como cadetes del Ejército británico [2].",
+   "Mario Nawfal lo reposta como el futuro de los guerreros del Reino Unido [9].",
+   "El cortejo del Lord Mayor's Show va hacia los Royal Courts of Justice [12].",
+   "Alternative News publica el clip junto a soldados rusos en la Plaza Roja [1].",
+   "Maldita: los marchantes británicos son voluntarios del Army Cadet Force [13].",
+   "RadioGenoa publica un segundo vídeo de cadetes en Londres [10].",
+   "Otra cuenta comparte el segundo vídeo [11]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 15 de noviembre de 2026, 11:42 hora del Reino Unido.",
+   "El Suffolk Army Cadet Force en armycadets.com, 11 de noviembre de 2026: la galería de su fin de semana en Londres, con su contingente desfilando por Whitehall en el Remembrance Sunday."
+  ],
+  "beeld_alt": [
+   "La publicación en X de Alternative News que compara la marcha británica y la rusa, con un fotograma del vídeo de Whitehall en Londres: un hombre con uniforme naval al frente, una columna de cadetes con uniforme de camuflaje detrás de él, un policía y espectadores a un lado. Sello: ENGAÑOSO.",
+   "Foto del Suffolk Army Cadet Force de su contingente desfilando por Whitehall el 8 de noviembre de 2026, con un adulto con medallas al frente y un cadete que lleva una corona del Army Cadet Force."
+  ]
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "toelichting": "Labels van lezer-v7 op echte screenshots (PLAN #32.33), 2026-11-03, gelezen door Claude met de maat van §201 (32.28-database-lezer.json): bij N een rood of oranje zonder de eigen check als bron ('bewijst', 'bewijst niet', 'set fout') en elk groen ('vals groen' of 'set fout'); bij W elk rood of oranje ('vals' of 'set fout'). Een check van dezelfde bewering bij een andere redactie bewijst net zo goed als de eigen check. Alleen ids en labels; openbare beelden uit M4FC.",
+ "oordelen": [
+  {
+   "id": "n-sn-004",
+   "label": "bewijst",
+   "reden": "AFP, Logically Facts en FACTLY (Kannada): de foto van Netanyahu met zijn zoon is van 2014; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-005",
+   "label": "bewijst",
+   "reden": "AFP en Fact Crescendo: het beeld van bier als frisdrank is van 2015 uit Saoedi-Arabië, niet van het WK in Qatar; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-006",
+   "label": "bewijst",
+   "reden": "Alt News en Fact Crescendo: de gewonde man bij de boerenprotesten is niet kapitein PPS Dhillon"
+  },
+  {
+   "id": "n-sn-007",
+   "label": "bewijst",
+   "reden": "The Quint (Hindi): de foto is van een protest in Bangladesh in 2013, niet uit Kerala; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-009",
+   "label": "bewijst",
+   "reden": "The Quint, AFP en FACTLY (Telugu): de nepvingers komen uit Japan en hebben niets met de verkiezingen in West-Bengalen te maken"
+  },
+  {
+   "id": "n-sn-012",
+   "label": "bewijst",
+   "reden": "Fact Crescendo en Vishvas News: de röntgenfoto met de kakkerlak is bewerkt"
+  },
+  {
+   "id": "n-sn-020",
+   "label": "bewijst",
+   "reden": "Logically Facts en Youturn: de beelden zijn oud en niet van de helikoptercrash van Raisi; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-025",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan bij de aarti is van 2017"
+  },
+  {
+   "id": "n-sn-029",
+   "label": "bewijst",
+   "reden": "kring 1: de check van Fact Crescendo, het reclamebord van de AAP is bewerkt; dezelfde bewering als de eigen check (zelfde label als §201)"
+  },
+  {
+   "id": "n-sn-030",
+   "label": "bewijst",
+   "reden": "FACTLY (Telugu), Youturn en NewsMeter: het zwaard op de foto is niet van Maharana Pratap"
+  },
+  {
+   "id": "n-sn-036",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza (zelfde label als §188 en §201)"
+  },
+  {
+   "id": "n-sn-039",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, The Quint en Newschecker: het zandbeeld van Virat Kohli is met AI gemaakt"
+  },
+  {
+   "id": "n-sn-051",
+   "label": "bewijst",
+   "reden": "BOOM en Alt News: de foto komt uit Bihar, niet uit Puntor in West-Bengalen; dezelfde bewering als de eigen check"
+  },
+  {
+   "id": "n-sn-053",
+   "label": "bewijst",
+   "reden": "de check van Youturn: precies dit verhaal (vader trouwt dochter, moeder zoon), onwaar; dezelfde bewering als de eigen check van FACTLY (zelfde label als §201)"
+  },
+  {
+   "id": "n-sn-056",
+   "label": "bewijst",
+   "reden": "de check van Youturn: Modi zou de groet van de president en de vicepresident negeren, misleidend; dezelfde bewering als de eigen check (zelfde label als §201)"
+  },
+  {
+   "id": "n-sn-034",
+   "label": "vals groen",
+   "reden": "de tekst klopt (Chilima kwam om), maar de foto van het wrak is volgens FACTLY niet van deze crash; de lezer zag de bewering niet als bewering over een beeld (zelfde label als §188 en §201)"
+  },
+  {
+   "id": "w-03616",
+   "label": "vals",
+   "reden": "Snopes, de bron van M4FC, noemt de foto van Poetin met Fiona Hill echt; de lezer las het als tegenspraak (zelfde label als §201)"
+  },
+  {
+   "id": "w-03796",
+   "label": "set fout",
+   "reden": "Africa Check en Fact Crescendo: geen snelweg met 48 rijstroken maar een tolplein (zelfde label als §178, §188 en §201)"
+  },
+  {
+   "id": "w-04544",
+   "label": "vals",
+   "reden": "de bronnen gaan over een neustest van een paar centimeter; Poligrafo, de bron van M4FC, noemt de bewering waar. Streng geteld, zoals §178, §188 en §201"
+  }
+ ]
+}

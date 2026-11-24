@@ -1,0 +1,712 @@
+{
+ "_meta": "Leesproef van B32 (PLAN #24.10, BENCHMARK §117): 100 claims uit de index met een herkende taal die geen Engels is en een Engelse variant (claude-haiku-5-5, vertalingen-v1), getrokken met zaad 3210 uit 53.386. Gelabeld door Claude op 2026-10-15 met origineel en vertaling naast elkaar: trouw, klein (woordkeus of grammatica, de betekenis blijft), betekenisfout, of onzeker. 'herkend' is corpus_taal op het origineel.",
+ "labels": [
+  {
+   "nr": 1,
+   "claim": "gfc-e899340e27382e41",
+   "taal": "si",
+   "herkend": "si",
+   "label": "trouw"
+  },
+  {
+   "nr": 2,
+   "claim": "gfc-3e59f35090a22144",
+   "taal": "ar",
+   "herkend": "ar",
+   "label": "trouw"
+  },
+  {
+   "nr": 3,
+   "claim": "gfc-b8be837fecd44aa4",
+   "taal": "id",
+   "herkend": "id",
+   "label": "trouw"
+  },
+  {
+   "nr": 4,
+   "claim": "gfc-6f318e1d0250ca2a",
+   "taal": "pl",
+   "herkend": "pl",
+   "label": "trouw"
+  },
+  {
+   "nr": 5,
+   "claim": "gfc-563f64e09e4b41dc",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 6,
+   "claim": "gfc-d6388e07c3c2deb6",
+   "taal": "ar",
+   "herkend": "ar",
+   "label": "trouw"
+  },
+  {
+   "nr": 7,
+   "claim": "gfc-03adb58c3ef5e1b7",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 8,
+   "claim": "gfc-603c7d0f2b3d1f2e",
+   "taal": "si",
+   "herkend": "si",
+   "label": "klein",
+   "waarom": "de toelichting van de redactie is in de vraag geschoven; niets erbij of weg"
+  },
+  {
+   "nr": 9,
+   "claim": "gfc-cbada0bb2b76738a",
+   "taal": "hi",
+   "herkend": "hi",
+   "label": "trouw"
+  },
+  {
+   "nr": 10,
+   "claim": "gfc-f657655fac0b5569",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 11,
+   "claim": "gfc-514cacf08e5403f9",
+   "taal": "hi",
+   "herkend": "hi",
+   "label": "trouw"
+  },
+  {
+   "nr": 12,
+   "claim": "gfc-ad57f691c64a5319",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 13,
+   "claim": "gfc-fd71a3a3027f9fb9",
+   "taal": "ja",
+   "herkend": "ja",
+   "label": "trouw"
+  },
+  {
+   "nr": 14,
+   "claim": "gfc-8a29c5a52cfc1e75",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 15,
+   "claim": "gfc-e7d10ed48df72de4",
+   "taal": "mr",
+   "herkend": "mr",
+   "label": "trouw"
+  },
+  {
+   "nr": 16,
+   "claim": "gfc-c2cef76ca1f9cad5",
+   "taal": "kn",
+   "herkend": "kn",
+   "label": "trouw"
+  },
+  {
+   "nr": 17,
+   "claim": "gfc-43458b59b25aa58c",
+   "taal": "gl",
+   "herkend": "gl",
+   "label": "betekenisfout",
+   "waarom": "'Na Itália' (in Italië) wordt 'After Italy'; de claim staat als Galicisch gelabeld maar is Portugees, en de prompt gaf dat label mee"
+  },
+  {
+   "nr": 18,
+   "claim": "gfc-ca8f5ef9fc4cb6c3",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 19,
+   "claim": "gfc-9dbb4c58039ad622",
+   "taal": "fa",
+   "herkend": "fa",
+   "label": "trouw"
+  },
+  {
+   "nr": 20,
+   "claim": "gfc-7e5d0d33241ede9c",
+   "taal": "pa",
+   "herkend": "pa",
+   "label": "trouw"
+  },
+  {
+   "nr": 21,
+   "claim": "gfc-802405b0b18cc42a",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 22,
+   "claim": "gfc-3a0cf084d46067e5",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 23,
+   "claim": "gfc-f046192789cbf227",
+   "taal": "mr",
+   "herkend": "mr",
+   "label": "trouw"
+  },
+  {
+   "nr": 24,
+   "claim": "gfc-04e19315dab37e47",
+   "taal": "zh",
+   "herkend": "zh",
+   "label": "klein",
+   "waarom": "'Saw a screenshot going around' is losser dan het origineel; het label 【錯誤】 valt weg"
+  },
+  {
+   "nr": 25,
+   "claim": "gfc-025c6960310e42cb",
+   "taal": "fr",
+   "herkend": "fr",
+   "label": "trouw"
+  },
+  {
+   "nr": 26,
+   "claim": "gfc-f3ed0953d67dc9f5",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 27,
+   "claim": "gfc-c1131cf5894dad49",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 28,
+   "claim": "gfc-3ad4c4743e7e3f2e",
+   "taal": "hi",
+   "herkend": "hi",
+   "label": "trouw"
+  },
+  {
+   "nr": 29,
+   "claim": "gfc-f13f778d67d178bc",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 30,
+   "claim": "gfc-0cf56ae1156a58ba",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 31,
+   "claim": "gfc-1dc89284a32bf079",
+   "taal": "fa",
+   "herkend": "fa",
+   "label": "trouw"
+  },
+  {
+   "nr": 32,
+   "claim": "gfc-ccba61678de54a0e",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 33,
+   "claim": "gfc-3b04445f02614138",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 34,
+   "claim": "gfc-b422b234a3db7266",
+   "taal": "ja",
+   "herkend": "ja",
+   "label": "trouw"
+  },
+  {
+   "nr": 35,
+   "claim": "gfc-809706eba7edc3fc",
+   "taal": "es",
+   "herkend": "es",
+   "label": "klein",
+   "waarom": "'keep following' voegt een nuance van doorgaan toe"
+  },
+  {
+   "nr": 36,
+   "claim": "gfc-b25174e9ed44b798",
+   "taal": "si",
+   "herkend": "si",
+   "label": "trouw"
+  },
+  {
+   "nr": 37,
+   "claim": "gfc-66a9022ad83c1e89",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 38,
+   "claim": "gfc-a85750cbfd5fc2b6",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 39,
+   "claim": "gfc-aba2cc284494cc9e",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 40,
+   "claim": "gfc-405ef0b757494283",
+   "taal": "nl",
+   "herkend": "nl",
+   "label": "trouw"
+  },
+  {
+   "nr": 41,
+   "claim": "gfc-38ad6504da08c970",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 42,
+   "claim": "gfc-d0fc3bf4c9b289f4",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 43,
+   "claim": "gfc-a2ed14841fefeb35",
+   "taal": "pa",
+   "herkend": "pa",
+   "label": "trouw"
+  },
+  {
+   "nr": 44,
+   "claim": "gfc-f8f2c7693e295680",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 45,
+   "claim": "gfc-1baf0501e2f78782",
+   "taal": "es",
+   "herkend": "es",
+   "label": "klein",
+   "waarom": "'tarifa plana' is een vast tarief voor de sociale premie, geen 'tax deal'"
+  },
+  {
+   "nr": 46,
+   "claim": "gfc-e5f8182f6f60e2b4",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 47,
+   "claim": "gfc-e747cbe38036a599",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 48,
+   "claim": "gfc-2b34339dd9797758",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 49,
+   "claim": "gfc-7c1c0127752b38dd",
+   "taal": "fr",
+   "herkend": "fr",
+   "label": "trouw"
+  },
+  {
+   "nr": 50,
+   "claim": "gfc-8f9ce3c7bf240898",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 51,
+   "claim": "gfc-f3d856e22ac6643f",
+   "taal": "si",
+   "herkend": "si",
+   "label": "klein",
+   "waarom": "een reeks berichten wordt 'a misleading caption', enkelvoud"
+  },
+  {
+   "nr": 52,
+   "claim": "gfc-c801a4cc68159b34",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 53,
+   "claim": "gfc-64879187a02e83c4",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "klein",
+   "waarom": "'vagabundos' hoort bij de kiezers, niet bij de dief"
+  },
+  {
+   "nr": 54,
+   "claim": "gfc-cfd53006b63ef26b",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 55,
+   "claim": "gfc-b9029848b5497a15",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 56,
+   "claim": "gfc-cc8d860605987ac5",
+   "taal": "si",
+   "herkend": "si",
+   "label": "trouw"
+  },
+  {
+   "nr": 57,
+   "claim": "gfc-217b2d6711db7fcc",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 58,
+   "claim": "gfc-47e65274cd306119",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 59,
+   "claim": "gfc-3995bfa52da29d2f",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 60,
+   "claim": "gfc-74474b35fa9377f4",
+   "taal": "ja",
+   "herkend": "ja",
+   "label": "trouw"
+  },
+  {
+   "nr": 61,
+   "claim": "gfc-aadb6d8ce5c83d81",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 62,
+   "claim": "gfc-1cd35dbf1a4bfe8e",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 63,
+   "claim": "gfc-9166d203a26618f2",
+   "taal": "si",
+   "herkend": "si",
+   "label": "trouw"
+  },
+  {
+   "nr": 64,
+   "claim": "gfc-6ad0e4ae45b11ab3",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 65,
+   "claim": "gfc-151a15585df69c46",
+   "taal": "fa",
+   "herkend": "fa",
+   "label": "trouw"
+  },
+  {
+   "nr": 66,
+   "claim": "gfc-c5eed1a6be749089",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 67,
+   "claim": "gfc-97709a84d359ef1b",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 68,
+   "claim": "gfc-67251975886c6de0",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 69,
+   "claim": "gfc-d26e624d771a867e",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 70,
+   "claim": "gfc-6c8c6be9d791e32e",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 71,
+   "claim": "gfc-f1b9594bc7b27da7",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 72,
+   "claim": "gfc-1323228bebca02d9",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 73,
+   "claim": "gfc-02acfb92b5c7fb6e",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 74,
+   "claim": "gfc-dcb72a7568347f26",
+   "taal": "kn",
+   "herkend": "kn",
+   "label": "trouw"
+  },
+  {
+   "nr": 75,
+   "claim": "gfc-ed28d2740039f260",
+   "taal": "th",
+   "herkend": "th",
+   "label": "trouw"
+  },
+  {
+   "nr": 76,
+   "claim": "gfc-6269691777568bed",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 77,
+   "claim": "gfc-d9d2ccc84910ae55",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 78,
+   "claim": "gfc-07909b451f97bf53",
+   "taal": "fa",
+   "herkend": "fa",
+   "label": "trouw"
+  },
+  {
+   "nr": 79,
+   "claim": "gfc-6cdbfd48c39f362d",
+   "taal": "fr",
+   "herkend": "fr",
+   "label": "trouw"
+  },
+  {
+   "nr": 80,
+   "claim": "gfc-b935a02982ce2099",
+   "taal": "id",
+   "herkend": "id",
+   "label": "trouw"
+  },
+  {
+   "nr": 81,
+   "claim": "gfc-82887aa6404b8a4f",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 82,
+   "claim": "gfc-caf09b8b2d1bade3",
+   "taal": "pt",
+   "herkend": "pt",
+   "label": "trouw"
+  },
+  {
+   "nr": 83,
+   "claim": "gfc-49a7b06a62869625",
+   "taal": "id",
+   "herkend": "id",
+   "label": "trouw"
+  },
+  {
+   "nr": 84,
+   "claim": "gfc-c6deeaefbe278ff4",
+   "taal": "fa",
+   "herkend": "fa",
+   "label": "trouw"
+  },
+  {
+   "nr": 85,
+   "claim": "gfc-f85f61a6a259405a",
+   "taal": "ur",
+   "herkend": "ur",
+   "label": "trouw"
+  },
+  {
+   "nr": 86,
+   "claim": "gfc-a55458e9dae8e57f",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 87,
+   "claim": "gfc-f512c1159d71caef",
+   "taal": "id",
+   "herkend": "id",
+   "label": "trouw"
+  },
+  {
+   "nr": 88,
+   "claim": "gfc-83d2f821bede9ee1",
+   "taal": "tr",
+   "herkend": "tr",
+   "label": "trouw"
+  },
+  {
+   "nr": 89,
+   "claim": "gfc-62d3f297db6e4c1c",
+   "taal": "ta",
+   "herkend": "ta",
+   "label": "trouw"
+  },
+  {
+   "nr": 90,
+   "claim": "gfc-37d2ea8316258d56",
+   "taal": "es",
+   "herkend": null,
+   "label": "trouw"
+  },
+  {
+   "nr": 91,
+   "claim": "gfc-247c04ed483a160a",
+   "taal": "ms",
+   "herkend": "ms",
+   "label": "trouw"
+  },
+  {
+   "nr": 92,
+   "claim": "gfc-25c11ea2eb5c2000",
+   "taal": "hi",
+   "herkend": "hi",
+   "label": "trouw"
+  },
+  {
+   "nr": 93,
+   "claim": "gfc-d1caa059f0fe2182",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  },
+  {
+   "nr": 94,
+   "claim": "gfc-970a463e947f322c",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 95,
+   "claim": "gfc-28cb4567e697e2ed",
+   "taal": "km",
+   "herkend": "km",
+   "label": "trouw"
+  },
+  {
+   "nr": 96,
+   "claim": "gfc-e39a3acfce20557a",
+   "taal": "te",
+   "herkend": "te",
+   "label": "trouw"
+  },
+  {
+   "nr": 97,
+   "claim": "gfc-916cd9e068aeb9be",
+   "taal": "de",
+   "herkend": "de",
+   "label": "trouw"
+  },
+  {
+   "nr": 98,
+   "claim": "gfc-c421e0669426c737",
+   "taal": "ja",
+   "herkend": "ja",
+   "label": "trouw"
+  },
+  {
+   "nr": 99,
+   "claim": "gfc-fba3e803e657c133",
+   "taal": "si",
+   "herkend": "si",
+   "label": "trouw"
+  },
+  {
+   "nr": 100,
+   "claim": "gfc-162daa66a6dc29b0",
+   "taal": "es",
+   "herkend": "es",
+   "label": "trouw"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5). De PO las het en gaf akkoord op 2026-11-19.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "crime"              # uit content/themas.json
+onderdeel = "police-courts"
+verwant = []
+
+[naam]
+nl = "Het verhaal over Jeffrey Epstein en de Epstein-stukken"
+en = "The story of Jeffrey Epstein and the Epstein files"
+de = "Die Erzählung über Jeffrey Epstein und die Epstein-Akten"
+es = "El relato sobre Jeffrey Epstein y los archivos de Epstein"
+fr = "Le récit sur Jeffrey Epstein et les dossiers Epstein"
+
+[inleiding]
+nl = """
+Sinds Jeffrey Epstein in juli 2019 werd gearresteerd en een maand later dood in zijn cel werd gevonden, gaat er steeds
+iets nieuws over hem rond: dat hij nog leeft of werd vermoord, dat er een lijst van klanten bestaat, wie er op de
+passagierslijsten van zijn vliegtuig staat, en welke bekende mensen in de vrijgegeven stukken voorkomen of met hem op
+de foto stonden. Elke nieuwe vrijgave van rechtbankstukken en van de stukken van het Amerikaanse ministerie van Justitie
+brengt een nieuwe golf, zoals in februari 2026, en daarbij gaan ook foto's rond die met AI zijn gemaakt. Dit dossier
+zet de versies die redacties hebben nagetrokken op een tijdlijn, naast de besluiten en rapporten van de Amerikaanse
+overheid. Eén check maakte de eigen redactie van Factiz. Elke factcheck zegt wie hem maakte en wat die vond. In de lijst
+staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+Since Jeffrey Epstein was arrested in July 2019 and found dead in his cell a month later, something new about him keeps
+circulating: that he is still alive or was murdered, that a list of clients exists, who is on the passenger lists of
+his plane, and which famous people appear in the released documents or were photographed with him. Every new release of
+court documents and of the files of the US Department of Justice brings a new wave, as in February 2026, and with it
+come photos made with AI. This dossier puts the versions that newsrooms checked on a timeline, next to the decisions and
+reports of the US government. One check was made by Factiz's own desk. Each fact-check says who made it and what they
+found. The list only holds fact-checks we may republish, so it is not complete."""
+de = """
+Seit Jeffrey Epstein im Juli 2019 festgenommen und einen Monat später tot in seiner Zelle gefunden wurde, kursiert
+immer wieder etwas Neues über ihn: dass er noch lebt oder ermordet wurde, dass es eine Kundenliste gibt, wer auf den
+Passagierlisten seines Flugzeugs steht und welche bekannten Menschen in den freigegebenen Unterlagen vorkommen oder mit
+ihm fotografiert wurden. Jede neue Freigabe von Gerichtsakten und von Unterlagen des US-Justizministeriums bringt eine
+neue Welle, wie im Februar 2026, und dabei kursieren auch Fotos, die mit KI erstellt wurden. Dieses Dossier ordnet die
+Versionen, die Redaktionen überprüft haben, auf einer Zeitleiste, neben den Entscheidungen und Berichten der
+US-Regierung. Einen Check hat die eigene Redaktion von Factiz gemacht. Jeder Faktencheck sagt, wer ihn gemacht hat und
+was er ergab. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Desde que Jeffrey Epstein fue detenido en julio de 2019 y hallado muerto en su celda un mes después, circula una y otra
+vez algo nuevo sobre él: que sigue vivo o que fue asesinado, que existe una lista de clientes, quién figura en las
+listas de pasajeros de su avión y qué personas conocidas aparecen en los documentos publicados o fueron fotografiadas
+con él. Cada nueva publicación de documentos judiciales y de archivos del Departamento de Justicia de Estados Unidos
+trae una nueva ola, como en febrero de 2026, y con ella circulan también fotos hechas con IA. Este dosier ordena en una
+cronología las versiones que las redacciones verificaron, junto a las decisiones e informes del Gobierno de Estados
+Unidos. Una verificación la hizo la redacción propia de Factiz. Cada verificación dice quién la hizo y qué encontró. La
+lista solo contiene verificaciones que podemos reproducir; por eso no está completa."""
+fr = """
+Depuis que Jeffrey Epstein a été arrêté en juillet 2019 puis retrouvé mort dans sa cellule un mois plus tard, quelque
+chose de nouveau circule sans cesse à son sujet : qu’il est encore en vie ou qu’il a été assassiné, qu’il existe une
+liste de clients, qui figure sur les listes de passagers de son avion, et quelles personnalités apparaissent dans les
+documents publiés ou ont été photographiées avec lui. Chaque nouvelle publication de documents judiciaires et de
+dossiers du ministère américain de la Justice apporte une nouvelle vague, comme en février 2026, et avec elle des photos
+créées par IA. Ce dossier place sur une chronologie les versions vérifiées par des rédactions, à côté des décisions et
+des rapports du gouvernement américain. Une vérification a été faite par la rédaction de Factiz. Chaque vérification
+dit qui l’a faite et ce qu’elle a trouvé. La liste ne contient que des vérifications que nous pouvons reprendre ; elle
+n’est donc pas complète."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: besluiten, rapporten en pers van de Amerikaanse overheid, elk door Claude geopend
+# en gelezen op 2026-11-19.
+
+[[item]]
+soort = "pers"
+datum = "2019-07-08"
+bron = "U.S. Attorney's Office, Southern District of New York"
+url = "https://www.justice.gov/usao-sdny/page/file/1181906/dl"
+[item.titel]
+nl = "Het Openbaar Ministerie in Manhattan maakt de aanklacht tegen Epstein bekend: mensenhandel met minderjarige meisjes voor seks"
+en = "Federal prosecutors in Manhattan announce the indictment of Epstein for sex trafficking of underage girls"
+de = "Die Bundesstaatsanwaltschaft in Manhattan gibt die Anklage gegen Epstein wegen Sexhandels mit minderjährigen Mädchen bekannt"
+es = "La fiscalía federal de Manhattan anuncia la acusación contra Epstein por tráfico sexual de menores"
+fr = "Le parquet fédéral de Manhattan annonce l’inculpation d’Epstein pour trafic sexuel de mineures"
+
+[[item]]
+soort = "rapport"
+datum = "2023-06-27"
+bron = "Inspecteur-generaal van het Amerikaanse ministerie van Justitie"
+url = "https://oig.justice.gov/sites/default/files/2023-06/6-27-2023_0.pdf"
+[item.titel]
+nl = "De inspecteur-generaal vindt ernstige fouten van het gevangenispersoneel rond de dood van Epstein, en geen bewijs dat die dood geen zelfdoding was"
+en = "The Inspector General finds serious failures by prison staff around Epstein's death, and no evidence contradicting that it was suicide"
+de = "Der Generalinspekteur findet schwere Versäumnisse des Gefängnispersonals rund um Epsteins Tod und keine Belege gegen einen Suizid"
+es = "El inspector general halla graves fallos del personal de la prisión en torno a la muerte de Epstein y ninguna prueba de que no fuera un suicidio"
+fr = "L’inspecteur général relève de graves manquements du personnel pénitentiaire autour de la mort d’Epstein, et aucune preuve contredisant le suicide"
+
+[[item]]
+soort = "besluit"
+datum = "2025-02-27"
+bron = "U.S. Department of Justice"
+url = "https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files"
+[item.titel]
+nl = "Het ministerie van Justitie zet een eerste deel van de Epstein-stukken online, grotendeels stukken die eerder al waren uitgelekt"
+en = "The Department of Justice publishes a first part of the Epstein files, mostly documents that had leaked before"
+de = "Das Justizministerium veröffentlicht einen ersten Teil der Epstein-Akten, größtenteils Unterlagen, die schon früher durchgesickert waren"
+es = "El Departamento de Justicia publica una primera parte de los archivos de Epstein, en su mayoría documentos ya filtrados"
+fr = "Le ministère de la Justice publie une première partie des dossiers Epstein, surtout des documents qui avaient déjà fuité"
+
+[[item]]
+soort = "rapport"
+datum = "2025-07-07"
+bron = "U.S. Department of Justice en FBI"
+url = "https://www.justice.gov/opa/media/1407001/dl?inline"
+[item.titel]
+nl = "Het ministerie van Justitie en de FBI vinden geen lijst van klanten en bevestigen dat Epstein zelfdoding pleegde"
+en = "The Department of Justice and the FBI find no client list and confirm that Epstein died by suicide"
+de = "Justizministerium und FBI finden keine Kundenliste und bestätigen, dass Epstein Suizid beging"
+es = "El Departamento de Justicia y el FBI no encuentran ninguna lista de clientes y confirman que Epstein se suicidó"
+fr = "Le ministère de la Justice et le FBI ne trouvent aucune liste de clients et confirment qu’Epstein s’est suicidé"
+
+[[item]]
+soort = "besluit"
+datum = "2025-11-19"
+bron = "The American Presidency Project"
+url = "https://www.presidency.ucsb.edu/documents/congressional-bill-hr-4405-signed-into-law"
+[item.titel]
+nl = "Trump tekent de Epstein Files Transparency Act: het ministerie van Justitie moet zijn stukken over Epstein openbaar maken"
+en = "Trump signs the Epstein Files Transparency Act: the Department of Justice must make its records on Epstein public"
+de = "Trump unterzeichnet den Epstein Files Transparency Act: Das Justizministerium muss seine Unterlagen zu Epstein veröffentlichen"
+es = "Trump firma la Epstein Files Transparency Act: el Departamento de Justicia debe hacer públicos sus documentos sobre Epstein"
+fr = "Trump signe l’Epstein Files Transparency Act : le ministère de la Justice doit rendre publics ses documents sur Epstein"
+
+[[item]]
+soort = "pers"
+datum = "2026-01-30"
+bron = "ABC News"
+url = "https://www.goodmorningamerica.com/news/story/doj-releasing-additional-material-epstein-files-129680518"
+[item.titel]
+nl = "Het ministerie van Justitie zet 3 miljoen pagina's, 2.000 video's en 180.000 beelden uit de Epstein-stukken online"
+en = "The Department of Justice puts 3 million pages, 2,000 videos and 180,000 images from the Epstein files online"
+de = "Das Justizministerium stellt 3 Millionen Seiten, 2.000 Videos und 180.000 Bilder aus den Epstein-Akten online"
+es = "El Departamento de Justicia publica 3 millones de páginas, 2.000 vídeos y 180.000 imágenes de los archivos de Epstein"
+fr = "Le ministère de la Justice met en ligne 3 millions de pages, 2 000 vidéos et 180 000 images des dossiers Epstein"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "Epstein", "Ghislaine", "Lolita Express",
+  "إبستين", "ابستين", "اپستین", "Эпштейн", "Епштейн", "एपस्टीन", "এপস্টেইন", "எப்ஸ்டீன்", "ఎప్స్టీన్",
+  "엡스타인", "エプスタイン", "爱泼斯坦", "愛潑斯坦", "Επστάιν", "אפשטיין",
+]
+omschrijving = """
+Claims about Jeffrey Epstein and the Epstein case since his arrest in July 2019. It includes claims about his death in
+jail (murdered, staged, still alive, a new autopsy), about a supposed client list, black book or the flight logs of his
+plane, about court documents and the files released by US authorities and what politicians said or did about them, and
+about Ghislaine Maxwell, her trial and her detention. It also includes every claim that links a person, company or
+group to Epstein, Maxwell, his island or his plane: a photo or video with them (real, edited or made with AI), a visit,
+a name in the documents, money, messages, a hidden reference in a logo or cartoon, or a role in his crimes; and claims
+about what happened on his island or about deaths said to be connected to the case. It does not include claims about
+other sex-abuse cases or other people that only mention Epstein in passing, claims that only call someone a new
+Epstein, or claims about Bill Gates and vaccines, which have their own dossier."""

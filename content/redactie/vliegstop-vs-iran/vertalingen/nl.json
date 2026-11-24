@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "De „Iraanse claim” over de ground stop in de VS is een post met twee emoji",
+  "oordeel_zin": "Een account met de naam Iran Military Media plaatste een vliegtuig en een kruis nadat de ground stop was begonnen, maar het beweerde niets, en de FAA herleidde de stop tot een stortvloed aan data op het eigen netwerk [1] [3] [11].",
+  "bewering": "Iraanse accounts twitteren nu en suggereren dat zij verantwoordelijk zijn voor de ground stop in de VS vandaag.   Tijd voor president Trump om het Iraanse regime af te maken.",
+  "kort": "Op 13 november schreef Laura Loomer op X dat Iraanse accounts suggereerden achter de landelijke ground stop in de VS te zitten, en riep ze president Trump op het Iraanse regime af te maken [2]. De post die zij citeerde toont alleen een vliegtuig en een kruis, geplaatst door een account met de naam Iran Military Media nadat de ground stop was begonnen [3] [6]. De FAA herleidde de stop tot een stortvloed aan data op het eigen netwerk, en Amerikaanse functionarissen zeiden geen teken van een buitenlandse actor te zien [1] [9] [13].",
+  "tekst": "Op vrijdag 13 november begon de Amerikaanse luchtverkeersleiding om 15.36 uur Eastern time (20.36 UTC) radar- en radioverbindingen te verliezen, aldus minister van Transport Sean Duffy [5]. Kort voor 16.00 uur stopte de Federal Aviation Administration (FAA) alle vertrekken vanaf Amerikaanse luchthavens, een zogeheten ground stop [6]. Vliegtuigen die al in de lucht waren, konden landen; Duffy zei dat er op dat moment meer dan 3.500 in de lucht waren [7] [8]. De FAA hief de stop op omstreeks 20.15 uur Eastern time, 01.15 UTC op 14 november [5].\n\nHet was de eerste landelijke ground stop sinds januari 2023, en de tweede sinds de aanslagen van 11 september 2001 [6].\n\nOm 21.20 UTC, ongeveer 45 minuten nadat de problemen begonnen, plaatste een account met de naam Iran Military Media twee emoji op X: een vliegtuig en een kruis [3] [5]. De post bevat geen woorden, geen beeld en geen link [3]. Hij noemt de FAA, een cyberaanval of een drone niet, en zegt niet wie iets heeft gedaan [3]. Om 23.00 UTC citeerde Laura Loomer hem, met de tekst dat Iraanse accounts suggereerden verantwoordelijk te zijn voor de ground stop [2]. Haar post had op 19 november 19.468 likes en 1.842 reacties [2].\n\nHet account draagt op X geen label van een overheid of officiële organisatie, en we vonden geen bron die het aan de Iraanse strijdkrachten koppelt [3]. De Iraanse Revolutionaire Garde eist aanvallen wel openlijk op: op dezelfde dag eiste ze een drone-aanval op een Amerikaanse radarlocatie in Bahrein op, en het Amerikaanse Central Command zei dat het de drones had onderschept [15]. In geen van de berichten over de ground stop die wij lazen wordt een Iraanse claim van verantwoordelijkheid genoemd [9] [14] [15].\n\nOp het moment dat Loomer postte, hadden functionarissen al gezegd dat ze geen teken van een aanval zagen [4] [7]. Om 16.53 uur Eastern time vertelden twee wetshandhavingsfunctionarissen aan CNN dat het volgens voorlopige informatie geen cyberaanval was [7]. Minister van Binnenlandse Veiligheid Markwayne Mullin zei tegen verslaggevers in het Witte Huis dat er geen aanwijzing was voor een kwaadwillende aanval, en noemde het een storing in de telecommunicatie [4].\n\nDe eerste bevindingen van de FAA, gepubliceerd op 15 november, wijzen op het eigen telecommunicatienetwerk, dat de aannemer L3Harris beheert [1]. Het netwerk werd overspoeld met data van twee locaties: een radarlocatie in Amarillo, Texas, en een radiolocatie in El Dorado, Arkansas, waar L3Harris een nieuwe router had geïnstalleerd [1] [11]. De oudere apparatuur ontving ongeveer 1.000 verbindingspogingen om de vier tot vijf seconden en werd instabiel [11]. Het verkeer stabiliseerde nadat L3Harris de twee locaties had afgesloten [11]. Duffy zei dat het werk in El Dorado oude koperen lijnen verving door glasvezel [9] [11].\n\nOp 14 november zei Duffy: „Het was geen buitenlandse actor.” [9] FAA-directeur Bryan Bedford zei dat de Situation Room van het Witte Huis en de FBI erbij betrokken waren, en dat alle betrokkenen concludeerden dat het geen cyberprobleem was [9]. Op 17 november zei Jay Clayton, Director of National Intelligence, op Fox Business dat hij geen tekenen zag van een gecoördineerde cyberaanval achter de recente reeks storingen, en schreef ze toe aan patches en systeemupgrades [13]. In een bericht van Reuters van die dag zei een woordvoerster van het Witte Huis dat er geen bewijs was voor een cyberaanval erachter [12].\n\nIran kwam niet zomaar ter sprake: de Verenigde Staten zijn in oorlog met Iran, en Iran had gewaarschuwd dat het in de cyberruimte terug zou slaan [9]. Op 18 november liet Mullin het Congres schriftelijk weten dat de Iraanse regering en groepen die door Teheran worden gesteund Amerikaanse infrastructuur hebben aangevallen, maar hij legde geen verband tussen Iran en de ground stop [14].\n\nDe exacte oorzaak is nog niet vastgesteld: de FAA en L3Harris onderzoeken nog of een installatiefout, een defect apparaat of iets anders de stortvloed aan data veroorzaakte [11]. Op 15 november zei Duffy dat hij geen aanwijzing had voor een hack, en dat de FBI hielp en alles zou delen wat zij vond [10].\n\nWe vonden geen factcheck van een andere redactie over de bewering over Iran; de Oostenrijkse factchecker Mimikama bevestigde op 14 november dat de FAA vertrekken in het hele land had stopgezet, en vond geen bewijs voor een cyberaanval [16]. PolitiFact onderzocht op 17 november wie politiek verantwoordelijk was voor de storing, niet een verband met Iran [17].",
+  "niet_weten": "We weten niet wie het account Iran Military Media beheert, uit welk land, en wat het bedoelde met het vliegtuigje en het kruisje [3]. Loomer schreef over Iraanse accounts, meervoud; wij vonden alleen de ene post die zij citeerde [2] [3]. De uiteindelijke oorzaak van de grounding is nog niet bekend [10] [11].",
+  "bereik": "19.468 likes en 1.842 reacties op 19 november",
+  "nog_uitzoeken": [
+   "Wie het account Iran Military Media beheert en welk land X ervoor toont.",
+   "Of andere accounts die zich als Iraans presenteren die dag de grounding opeisten, in het Perzisch of in het Engels.",
+   "Wat het definitieve onderzoek van de FAA vaststelt: een installatiefout, een defecte router of iets anders, en welke rol de locatie in Amarillo speelde.",
+   "We twijfelden tussen Misleidend en Onwaar. De emojipost bestaat, wat ons voor Misleidend deed kiezen; hij beweert niets en er is geen aanwijzing dat Iran erbij betrokken was, wat wijst op Onwaar."
+  ],
+  "tijdlijn": [
+   "De radar- en radioverbindingen van de Amerikaanse luchtverkeersleiding worden instabiel, aldus Duffy [5].",
+   "Kort voor 16.00 uur Eastern time stopt de FAA alle vertrekken vanaf Amerikaanse luchthavens [6].",
+   "Iran Military Media plaatst een vliegtuig en een kruis op X [3].",
+   "Twee wetshandhavingsfunctionarissen vertellen aan CNN dat het volgens voorlopige informatie geen cyberaanval is [7].",
+   "NPR meldt Mullin: geen aanwijzing voor een kwaadwillende aanval, een storing in de telecommunicatie [4].",
+   "Laura Loomer citeert de emoji-post: Iraanse accounts suggereren dat zij verantwoordelijk zijn [2].",
+   "De FAA heft de ground stop op, om 20.15 uur Eastern time op 13 november [5].",
+   "Duffy: de oorzaak ligt bij werk van een aannemer van L3Harris, en het was geen buitenlandse actor [9].",
+   "De eerste bevindingen van de FAA: een stortvloed aan data van twee locaties, in Amarillo en El Dorado [1] [11].",
+   "Director of National Intelligence Clayton ziet geen tekenen van een gecoördineerde cyberaanval [13].",
+   "Mullin aan het Congres: Iran viseert Amerikaanse infrastructuur, zonder verband met de ground stop [14]."
+  ],
+  "beeld_bijschrift": [
+   "Post op X, 13 november 2026, 23.00 UTC."
+  ],
+  "beeld_alt": [
+   "Een post op X van Laura Loomer waarin staat dat Iraanse accounts suggereren verantwoordelijk te zijn voor de ground stop in de VS, met een geciteerde post van Iran Military Media met een vliegtuig en een kruis. Stempel: MISLEIDEND."
+  ]
+ }
+}

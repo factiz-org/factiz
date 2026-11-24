@@ -1,0 +1,340 @@
+{
+ "toelichting": "Een voorstel van Claude (PLAN #37.5): de twee eigen checks van Factiz over beelden uit Amsterdam die rondgingen als protest over Gaza, en elke factcheck uit het archief vanaf 7 oktober 2023 over de oorlog in Gaza, de aanval van Hamas, de gijzelaars, de doden, hulp en honger, de bestanden, de vloten, de zaken in Den Haag en de protesten erover; de lezing staat in docs/steekproeven/33.6-dossier-gaza-oorlog.json. De PO las het dossier en gaf akkoord op 2026-11-19. Strenge keuze (SPECS E9.S7 AC10): de 111 beweringen die het vaakst rondgingen, hoogstens 25 per jaar, van de 1364; de rest in data/dossiers/gaza-oorlog/inkorten.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-19",
+ "factchecks": [
+  {
+   "nummer": "f32b9a61d5dc5865"
+  },
+  {
+   "nummer": "d6f567757781ed63"
+  },
+  {
+   "nummer": "350575a63df4da05"
+  },
+  {
+   "nummer": "095ed9e809bc9243"
+  },
+  {
+   "nummer": "096debb43bfae3ef"
+  },
+  {
+   "nummer": "f1ec1a08e7eef110"
+  },
+  {
+   "nummer": "0f2022852247cbc8"
+  },
+  {
+   "nummer": "39ad4d6443669605"
+  },
+  {
+   "nummer": "16f37c4233814150"
+  },
+  {
+   "nummer": "09ffd7d7e44dc4d6"
+  },
+  {
+   "nummer": "2c0852706bdf1c11"
+  },
+  {
+   "nummer": "051b73cdec6df4e4"
+  },
+  {
+   "nummer": "1255c236f9f5a85c"
+  },
+  {
+   "nummer": "02ef97e02a566fb4"
+  },
+  {
+   "nummer": "29662f7384359587"
+  },
+  {
+   "nummer": "033af5f28313a024"
+  },
+  {
+   "nummer": "08010a7be7329ee1"
+  },
+  {
+   "nummer": "1dabc3b8fab60433"
+  },
+  {
+   "nummer": "7d772b4756fa5f1a"
+  },
+  {
+   "nummer": "0324a827f829a449"
+  },
+  {
+   "nummer": "2f1dd161f7964e7a"
+  },
+  {
+   "nummer": "25d1ec23c7042898"
+  },
+  {
+   "nummer": "790f8d2588f38d7e"
+  },
+  {
+   "nummer": "0499364f72361ccc"
+  },
+  {
+   "nummer": "1280c6c407701867"
+  },
+  {
+   "nummer": "12b8858104a1e7db"
+  },
+  {
+   "nummer": "049f24ecf89ee1d8"
+  },
+  {
+   "nummer": "19958882350e1406"
+  },
+  {
+   "nummer": "e8a6389d8c8dd02f"
+  },
+  {
+   "nummer": "08df96e89e7415e1"
+  },
+  {
+   "nummer": "1ea765d6e46a4559"
+  },
+  {
+   "nummer": "6a3a5d2953917888"
+  },
+  {
+   "nummer": "a662274643853172"
+  },
+  {
+   "nummer": "3e4e0009bee76e92"
+  },
+  {
+   "nummer": "d9d55af482c08ff6"
+  },
+  {
+   "nummer": "0abd470acc6f983b"
+  },
+  {
+   "nummer": "03a06de2870b6693"
+  },
+  {
+   "nummer": "11deb193621d32fc"
+  },
+  {
+   "nummer": "20603befd7a50987"
+  },
+  {
+   "nummer": "1463f47e7772974c"
+  },
+  {
+   "nummer": "20cc6669ee27692b"
+  },
+  {
+   "nummer": "9ce2732ec588814c"
+  },
+  {
+   "nummer": "027e83afbbc015ad"
+  },
+  {
+   "nummer": "0464f5cc3ae1e6b9"
+  },
+  {
+   "nummer": "160addc66af74d5b"
+  },
+  {
+   "nummer": "401b77be4b722f21"
+  },
+  {
+   "nummer": "13a9d9dad8b99290"
+  },
+  {
+   "nummer": "2ce47b78a9a17c4d"
+  },
+  {
+   "nummer": "197443e0d190067d"
+  },
+  {
+   "nummer": "3d4040100f75943f"
+  },
+  {
+   "nummer": "5a6e3eb04b0fa741"
+  },
+  {
+   "nummer": "0bb4d1dbb357daef"
+  },
+  {
+   "nummer": "8340529109dbe0d9"
+  },
+  {
+   "nummer": "33adfc68ef116e71"
+  },
+  {
+   "nummer": "88f3c54ca4e4389b"
+  },
+  {
+   "nummer": "3289d627690fbe07"
+  },
+  {
+   "nummer": "f17c20eeda13a464"
+  },
+  {
+   "nummer": "3074e879bf169b7c"
+  },
+  {
+   "nummer": "4a27bab1125446f0"
+  },
+  {
+   "nummer": "7533f9dcdc96a64b"
+  },
+  {
+   "nummer": "5f3b8c608d126a90"
+  },
+  {
+   "nummer": "29a0f67673d47048"
+  },
+  {
+   "nummer": "fa388679c4e4eff0"
+  },
+  {
+   "nummer": "c2568a205633e49c"
+  },
+  {
+   "nummer": "430fdc72c955cf5a"
+  },
+  {
+   "nummer": "5da4f6e30a457f12"
+  },
+  {
+   "nummer": "c0ec88195d41b7e0"
+  },
+  {
+   "nummer": "6973a45bb283338a"
+  },
+  {
+   "nummer": "a243c24a7b3ac14c"
+  },
+  {
+   "nummer": "0019992dcc600ac9"
+  },
+  {
+   "nummer": "c6b0b9c38c79d495"
+  },
+  {
+   "nummer": "c853a3117aad56de"
+  },
+  {
+   "nummer": "6f07cb33d590fc7f"
+  },
+  {
+   "nummer": "3b7fe569c53052d3"
+  },
+  {
+   "nummer": "30490df1b6cc5d9b"
+  },
+  {
+   "nummer": "05bf9bfc99f1fe2b"
+  },
+  {
+   "nummer": "b0668be72c50402d"
+  },
+  {
+   "nummer": "87eca537273c2b42"
+  },
+  {
+   "nummer": "13c2c8731fba5f97"
+  },
+  {
+   "nummer": "3bfc9ecb9a7ea27a"
+  },
+  {
+   "nummer": "af94977c5b322ea2"
+  },
+  {
+   "nummer": "e951e535024db019"
+  },
+  {
+   "nummer": "9f48babaf28429f8"
+  },
+  {
+   "nummer": "a908bea7a6eb08dc"
+  },
+  {
+   "nummer": "9372da32ddc3d1a6"
+  },
+  {
+   "nummer": "8f7b418e27043480"
+  },
+  {
+   "nummer": "d2badfeadc04f3dd"
+  },
+  {
+   "nummer": "b5b268bdca2040e2"
+  },
+  {
+   "nummer": "f5fbf7a9ad4666b3"
+  },
+  {
+   "nummer": "31db13fc02dffd6e"
+  },
+  {
+   "nummer": "0ce6de32844c609d"
+  },
+  {
+   "nummer": "c4bc0a150bd41ffc"
+  },
+  {
+   "nummer": "d07d4e77d231f79b"
+  },
+  {
+   "nummer": "bbddf6e15f639566"
+  },
+  {
+   "nummer": "635ce7e3aff9dc04"
+  },
+  {
+   "nummer": "bdb5e26acaf67e03"
+  },
+  {
+   "nummer": "9e6a49045fe17d0f"
+  },
+  {
+   "nummer": "9644f27397e17162"
+  },
+  {
+   "nummer": "a1c78fc48807a43f"
+  },
+  {
+   "nummer": "0172254fe11e8e36"
+  },
+  {
+   "nummer": "118407cb89c67d78"
+  },
+  {
+   "nummer": "3d9b121e03002ccc"
+  },
+  {
+   "nummer": "153ad94e032c1eb7"
+  },
+  {
+   "nummer": "3e5afc93b2f0e413"
+  },
+  {
+   "nummer": "669e57c1a95b80a7"
+  },
+  {
+   "nummer": "2f36ea3d33a70e86"
+  },
+  {
+   "nummer": "42857dd479aaf2e1"
+  },
+  {
+   "nummer": "4766de498cfd30e6"
+  },
+  {
+   "nummer": "55698e6639379633"
+  },
+  {
+   "nummer": "934a2c44dacba706"
+  },
+  {
+   "nummer": "a10061a614493d94"
+  }
+ ]
+}

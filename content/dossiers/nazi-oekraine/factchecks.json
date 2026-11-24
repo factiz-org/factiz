@@ -1,0 +1,1269 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-nazi-oekraine.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "7a943e1d45c3b183"
+  },
+  {
+   "nummer": "8c142127eafdf257",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "f96bcb3989bec7c6"
+  },
+  {
+   "nummer": "74057068ceb1627c"
+  },
+  {
+   "nummer": "acc0c7d9513a6cef"
+  },
+  {
+   "nummer": "e1c8640a2c37c7ff"
+  },
+  {
+   "nummer": "68e60af2e95144b0"
+  },
+  {
+   "nummer": "935ffa9724c086a7",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "dd0a8ea5a886d73a",
+   "versie": "euromaidan-coup-narrative"
+  },
+  {
+   "nummer": "4f118b1c770c21bb"
+  },
+  {
+   "nummer": "568b2627388b112d"
+  },
+  {
+   "nummer": "a26ff574e9efe439",
+   "versie": "crimea-referendum-self-determination"
+  },
+  {
+   "nummer": "c53a693fb92ace52"
+  },
+  {
+   "nummer": "009583364410e035"
+  },
+  {
+   "nummer": "99e4deaf365a8ce1",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "664defae74ae7ba3"
+  },
+  {
+   "nummer": "a3acdb3b5c005ae7"
+  },
+  {
+   "nummer": "605576c8b7d4b54b",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "403a82d52a9a4fc6"
+  },
+  {
+   "nummer": "026e9eda0e72728c"
+  },
+  {
+   "nummer": "dfa16004e814b7b6",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "f5bbd778f25d62af"
+  },
+  {
+   "nummer": "bb32a8f5f9ee351d"
+  },
+  {
+   "nummer": "89f5f3515e9a1a26",
+   "versie": "us-orchestrated-euromaidan"
+  },
+  {
+   "nummer": "0c683ce3d5f48e0b"
+  },
+  {
+   "nummer": "7521fb877eea8e84",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "ee4db48e0baead1d"
+  },
+  {
+   "nummer": "67d98d7f4eefe5ae",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "c2585541563e062f",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "ea26b72deb63533a"
+  },
+  {
+   "nummer": "71aa793fe17717e1"
+  },
+  {
+   "nummer": "1b6800519e9e30cc"
+  },
+  {
+   "nummer": "013a27f3b238ea3b",
+   "versie": "donbas-genocide-by-nazis"
+  },
+  {
+   "nummer": "17619ae0e5c23f3a"
+  },
+  {
+   "nummer": "d60abd8098d6e51d"
+  },
+  {
+   "nummer": "d681d58dc9b832fd"
+  },
+  {
+   "nummer": "fce2b3c600114497"
+  },
+  {
+   "nummer": "8d4352206e3794ca",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "f99099d82be32248",
+   "versie": "us-orchestrated-euromaidan"
+  },
+  {
+   "nummer": "4214df1ababc8b69"
+  },
+  {
+   "nummer": "d06fcea85b7afce0",
+   "versie": "ukraine-started-donbas-war"
+  },
+  {
+   "nummer": "99ef6dd6de05bf2d"
+  },
+  {
+   "nummer": "35e4e8549bea31e6"
+  },
+  {
+   "nummer": "4eee8aed06f4c9ed"
+  },
+  {
+   "nummer": "c63ee321f4c09b93"
+  },
+  {
+   "nummer": "87872c81a335f78e"
+  },
+  {
+   "nummer": "ca9644b5d4009231",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "03a5a2e1afbbc582",
+   "versie": "nazi-ideology-glorification"
+  },
+  {
+   "nummer": "5021350afebc7fe9"
+  },
+  {
+   "nummer": "cf3424f4ce2a2ff9",
+   "versie": "donbas-genocide-by-nazis"
+  },
+  {
+   "nummer": "2d81fe65e14863dc"
+  },
+  {
+   "nummer": "d767656de2eb3fe9"
+  },
+  {
+   "nummer": "c43c8ec0a675e63a"
+  },
+  {
+   "nummer": "83857ae8b29c09fc"
+  },
+  {
+   "nummer": "edd1d40d4d5e7bb4"
+  },
+  {
+   "nummer": "7238232659702a36"
+  },
+  {
+   "nummer": "a68f3c3f5fe0fd7a",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "35df5d8b53b8a6d6"
+  },
+  {
+   "nummer": "4128744c75cf4a0f",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "9f973841d3c10385",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "0bb0dbb1e979e686"
+  },
+  {
+   "nummer": "579bd565c65e6888"
+  },
+  {
+   "nummer": "24c2df3407a8e9b7"
+  },
+  {
+   "nummer": "3f1083b0ba88b984"
+  },
+  {
+   "nummer": "dc3740c6aa350d5e"
+  },
+  {
+   "nummer": "67677bbf713a0dab"
+  },
+  {
+   "nummer": "a51b9486276272fd"
+  },
+  {
+   "nummer": "6663c47a5675a4bc"
+  },
+  {
+   "nummer": "9516515d92aaf4eb"
+  },
+  {
+   "nummer": "6b028ffc59577c53"
+  },
+  {
+   "nummer": "9221b7d2d19c21a8"
+  },
+  {
+   "nummer": "d967067819d273d1"
+  },
+  {
+   "nummer": "873aba6758b10530",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "59f4bcbae9fd8a72"
+  },
+  {
+   "nummer": "cdc5c9928cc85cd8"
+  },
+  {
+   "nummer": "76a7f2defd06755e"
+  },
+  {
+   "nummer": "71f2952bdbd2a8e1"
+  },
+  {
+   "nummer": "8a44ccf2bf52d6e8"
+  },
+  {
+   "nummer": "b163464a1de81b59"
+  },
+  {
+   "nummer": "493b3f25ba1cd25e"
+  },
+  {
+   "nummer": "55ac9438a6e1a41b",
+   "versie": "us-un-nazism-vote"
+  },
+  {
+   "nummer": "f148f84f45dfe3a6"
+  },
+  {
+   "nummer": "c464974dc1ef2622"
+  },
+  {
+   "nummer": "3113d7a68f1dc4ea"
+  },
+  {
+   "nummer": "f5fa5b65cf3ebade",
+   "versie": "ukraine-denazification"
+  },
+  {
+   "nummer": "c432c504d9260a6a"
+  },
+  {
+   "nummer": "d3a48989f763f83e",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "79c4bcec1f44b912"
+  },
+  {
+   "nummer": "81ddc54d58b18b59"
+  },
+  {
+   "nummer": "7dcbd8ad987f9a1c"
+  },
+  {
+   "nummer": "a4e83bbbe41d9083",
+   "versie": "glory-to-ukraine-greeting"
+  },
+  {
+   "nummer": "2691ef1237156a4e",
+   "versie": "glory-to-ukraine-greeting"
+  },
+  {
+   "nummer": "ce4f03519966fb11",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "1a17ba8c3413bf34"
+  },
+  {
+   "nummer": "7060da6d2dbb9485"
+  },
+  {
+   "nummer": "62ca07431da34f2b",
+   "versie": "neo-nazis-hold-power"
+  },
+  {
+   "nummer": "99139b4bf0e938a6",
+   "versie": "us-un-nazism-vote"
+  },
+  {
+   "nummer": "d68f424b33f30820"
+  },
+  {
+   "nummer": "37d74946ee0f6467"
+  },
+  {
+   "nummer": "2b77eadf0f9bfb9c"
+  },
+  {
+   "nummer": "55afed04f6bee3b9"
+  },
+  {
+   "nummer": "8598ec5fc5a5c421"
+  },
+  {
+   "nummer": "1f0c7a11df594e69"
+  },
+  {
+   "nummer": "afa23a6d47512415"
+  },
+  {
+   "nummer": "46ba7e11a0c6f8b6"
+  },
+  {
+   "nummer": "483448d80760a394"
+  },
+  {
+   "nummer": "7180785d2d9cf957"
+  },
+  {
+   "nummer": "facd91da36cde8c5"
+  },
+  {
+   "nummer": "e3b09a2e4f559196"
+  },
+  {
+   "nummer": "63f5fdcb844616dd"
+  },
+  {
+   "nummer": "622a3dbba5899486"
+  },
+  {
+   "nummer": "96cbc28de71751d1"
+  },
+  {
+   "nummer": "13a84f2c90629615"
+  },
+  {
+   "nummer": "2f84c9e3791c89f8"
+  },
+  {
+   "nummer": "58c0f490a27dce03"
+  },
+  {
+   "nummer": "8bd9a588beb11a75",
+   "versie": "euromaidan-coup-narrative"
+  },
+  {
+   "nummer": "1ffaa55db92f9689"
+  },
+  {
+   "nummer": "b3afa7e518b4f0e5",
+   "versie": "embroidered-clothes-politicisation"
+  },
+  {
+   "nummer": "03c70ddf8db70f39"
+  },
+  {
+   "nummer": "c63893e43a5ef4ac"
+  },
+  {
+   "nummer": "83d58289fff91e0e"
+  },
+  {
+   "nummer": "86df3de06194ed10",
+   "versie": "ukraine-is-nazi-state"
+  },
+  {
+   "nummer": "e0667f7d3275275b"
+  },
+  {
+   "nummer": "48e6c2c5e90befc6"
+  },
+  {
+   "nummer": "1a083a4578fc2649",
+   "versie": "glory-to-ukraine-greeting"
+  },
+  {
+   "nummer": "f0d777640b869e20",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "0f975e753b3eb5e1"
+  },
+  {
+   "nummer": "973fb02dc47caa7a",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "ce25fc1bf69b3cb0"
+  },
+  {
+   "nummer": "2cebf90421d786e4"
+  },
+  {
+   "nummer": "b5806e7145fd3292",
+   "versie": "neo-nazis-hold-power"
+  },
+  {
+   "nummer": "6f20613b9e3fca1c"
+  },
+  {
+   "nummer": "ee199997be97cd4c"
+  },
+  {
+   "nummer": "38a7ba64089427e6"
+  },
+  {
+   "nummer": "3790cb4d2bf4f2b9"
+  },
+  {
+   "nummer": "4498471f068769f2"
+  },
+  {
+   "nummer": "1b0a95d43c9d4d27"
+  },
+  {
+   "nummer": "f412b0c0215c8865"
+  },
+  {
+   "nummer": "7281ddba46097ef9"
+  },
+  {
+   "nummer": "2c8b2240be65f072"
+  },
+  {
+   "nummer": "8fea490f749e75db",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "bba52fefc38dc92a"
+  },
+  {
+   "nummer": "de9fa3fa7b62ab22"
+  },
+  {
+   "nummer": "d62b9fb88939c92c",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "efb7394fddc5a61d"
+  },
+  {
+   "nummer": "2ea524f1a84454a0"
+  },
+  {
+   "nummer": "886b2c07c57e082c"
+  },
+  {
+   "nummer": "4351639180289639"
+  },
+  {
+   "nummer": "4ba73540233e611e"
+  },
+  {
+   "nummer": "5c9919d2b6e8e9b8"
+  },
+  {
+   "nummer": "82906530582a6714"
+  },
+  {
+   "nummer": "46c6a2ae558d9dc1"
+  },
+  {
+   "nummer": "eb9be5833e581625"
+  },
+  {
+   "nummer": "2ad96a36cf2d7280"
+  },
+  {
+   "nummer": "b32b4db00bf582c6"
+  },
+  {
+   "nummer": "f88335c57a274100"
+  },
+  {
+   "nummer": "633cb0d2d18bc0a0"
+  },
+  {
+   "nummer": "7e4abc6952cbb333"
+  },
+  {
+   "nummer": "ebf6f588d6c10e2a"
+  },
+  {
+   "nummer": "713b473841dd3bbd"
+  },
+  {
+   "nummer": "f278e71f1b3229e9"
+  },
+  {
+   "nummer": "dd5cf6f2a32e548c"
+  },
+  {
+   "nummer": "e8bb039128a02095"
+  },
+  {
+   "nummer": "0cb3decb756cc6e6"
+  },
+  {
+   "nummer": "85a38cfd631d4ff9"
+  },
+  {
+   "nummer": "1427fd678ce8f8ea"
+  },
+  {
+   "nummer": "552aa873b102c8ca"
+  },
+  {
+   "nummer": "5cc596ffe8def9a4"
+  },
+  {
+   "nummer": "547da4cf3f8caa8c"
+  },
+  {
+   "nummer": "a317f6863692613a"
+  },
+  {
+   "nummer": "8887a2b8d4917b59"
+  },
+  {
+   "nummer": "c398f8cf821fe474"
+  },
+  {
+   "nummer": "4343b39c5024640d"
+  },
+  {
+   "nummer": "ef5873b345496700",
+   "versie": "belarus-extremist-training-camps"
+  },
+  {
+   "nummer": "8e63dd0208558390",
+   "versie": "belarus-extremist-training-camps"
+  },
+  {
+   "nummer": "507c8b72f817e487"
+  },
+  {
+   "nummer": "97e44cf560bf2d30"
+  },
+  {
+   "nummer": "f84a44b1803e27e7"
+  },
+  {
+   "nummer": "c900271e1247c3e4"
+  },
+  {
+   "nummer": "5eda1dcfadaf7ab6"
+  },
+  {
+   "nummer": "0f10794fa03c509e"
+  },
+  {
+   "nummer": "dbaa3529c00294f7",
+   "versie": "russian-language-ban"
+  },
+  {
+   "nummer": "4024967738ac4789"
+  },
+  {
+   "nummer": "ba09309f0179e0f9"
+  },
+  {
+   "nummer": "adbb76b248922bc1"
+  },
+  {
+   "nummer": "f57c390247025b81"
+  },
+  {
+   "nummer": "b6affb3b2c03e9a9"
+  },
+  {
+   "nummer": "f9766a0086fc36e1",
+   "versie": "honouring-nazi-collaborators"
+  },
+  {
+   "nummer": "073cdde4c803a061"
+  },
+  {
+   "nummer": "d4fb5d8d77f0b4b3"
+  },
+  {
+   "nummer": "b9fd892e917fa20d"
+  },
+  {
+   "nummer": "2e70ebfa5ca0d723",
+   "versie": "crimea-referendum-self-determination"
+  },
+  {
+   "nummer": "84182f5a92884fc8"
+  },
+  {
+   "nummer": "d234c190ed094f88",
+   "versie": "crimea-referendum-self-determination"
+  },
+  {
+   "nummer": "1899bee8b41bad1a"
+  },
+  {
+   "nummer": "67c8eca6ab64a7da",
+   "versie": "crimea-referendum-self-determination"
+  },
+  {
+   "nummer": "127bae67deef1996"
+  },
+  {
+   "nummer": "daf0bda1035df701"
+  },
+  {
+   "nummer": "e4911e57c35fe50f"
+  },
+  {
+   "nummer": "1f9ca77e31cd319e",
+   "versie": "nazi-ideology-glorification"
+  },
+  {
+   "nummer": "43b937501d7a713d"
+  },
+  {
+   "nummer": "40d46fbc53164612"
+  },
+  {
+   "nummer": "98eac72992e03cf3"
+  },
+  {
+   "nummer": "5e684e9779e23e66"
+  },
+  {
+   "nummer": "4b8c8b4b09a01076"
+  },
+  {
+   "nummer": "d0601e19cb99a68f"
+  },
+  {
+   "nummer": "37fad82ae00b3c2e"
+  },
+  {
+   "nummer": "12d64121c487339d"
+  },
+  {
+   "nummer": "caae8b690054cc0e"
+  },
+  {
+   "nummer": "d38a011fb0bbb514"
+  },
+  {
+   "nummer": "06273340e1b24bd6"
+  },
+  {
+   "nummer": "8333889a9717c119"
+  },
+  {
+   "nummer": "a790ce605ace3d85"
+  },
+  {
+   "nummer": "e8ac3db3abe66c66",
+   "versie": "ukraine-started-donbas-war"
+  },
+  {
+   "nummer": "d2f58305f15f6fda"
+  },
+  {
+   "nummer": "36e224dc024ccceb"
+  },
+  {
+   "nummer": "3524b68c9603aece",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "850a9283df76613e"
+  },
+  {
+   "nummer": "006a55cde84e4db0"
+  },
+  {
+   "nummer": "053fe48cdcceed0f"
+  },
+  {
+   "nummer": "8eaa86f2e2f1375b"
+  },
+  {
+   "nummer": "7a3e80ca2c6af491"
+  },
+  {
+   "nummer": "3a9aa98205a3ec9f"
+  },
+  {
+   "nummer": "54217f233be14c76"
+  },
+  {
+   "nummer": "79fbae7ad25547c7"
+  },
+  {
+   "nummer": "3e5d8da615950180"
+  },
+  {
+   "nummer": "55c570332fe4edc7"
+  },
+  {
+   "nummer": "6df47141a7194979"
+  },
+  {
+   "nummer": "802eddf4cd99835e"
+  },
+  {
+   "nummer": "4cd8e0e7d1172af6"
+  },
+  {
+   "nummer": "e6d8fdb5c0c902db"
+  },
+  {
+   "nummer": "86778266e81de3c0"
+  },
+  {
+   "nummer": "6a3798c264a1a5c2"
+  },
+  {
+   "nummer": "a2b52e73fa0a4080"
+  },
+  {
+   "nummer": "b84db9ae81a5e780"
+  },
+  {
+   "nummer": "c729bd71124215b1"
+  },
+  {
+   "nummer": "6ec168d03a79ce99"
+  },
+  {
+   "nummer": "b64d8ece57538550"
+  },
+  {
+   "nummer": "7c90b653059ba9d5"
+  },
+  {
+   "nummer": "4c175c113a9bd893"
+  },
+  {
+   "nummer": "a4f37682884c6ff3"
+  },
+  {
+   "nummer": "2c350fa88aae2152"
+  },
+  {
+   "nummer": "4cae90a010f9757f"
+  },
+  {
+   "nummer": "2174f9900e2322e0"
+  },
+  {
+   "nummer": "cf7646a28a0b8f26"
+  },
+  {
+   "nummer": "4e2aea4775a8af2e"
+  },
+  {
+   "nummer": "5b25728c9ef72b78"
+  },
+  {
+   "nummer": "d43e9d8b598dcdfb"
+  },
+  {
+   "nummer": "48a0a1f3646350af"
+  },
+  {
+   "nummer": "95b618e7b74cf04f"
+  },
+  {
+   "nummer": "645cf58d256a2ef3"
+  },
+  {
+   "nummer": "081beaaa480f1276"
+  },
+  {
+   "nummer": "9eeba18594acec1b"
+  },
+  {
+   "nummer": "aea2e647b8e6a79a"
+  },
+  {
+   "nummer": "b59d79a54caf54cf"
+  },
+  {
+   "nummer": "b66ee756ee804718"
+  },
+  {
+   "nummer": "e4eb89cf6c6d7e04"
+  },
+  {
+   "nummer": "de042944fd8a8ebe"
+  },
+  {
+   "nummer": "902c0e5f04d05ef1"
+  },
+  {
+   "nummer": "bce47d9517f906bd"
+  },
+  {
+   "nummer": "a1969b50ef74501e"
+  },
+  {
+   "nummer": "feb0109694f751de"
+  },
+  {
+   "nummer": "a1fa843af9348f3e"
+  },
+  {
+   "nummer": "b44e5b52fe23b42b"
+  },
+  {
+   "nummer": "ab3cbb72e722afbe"
+  },
+  {
+   "nummer": "6377eea0cb5c5aa2"
+  },
+  {
+   "nummer": "0b43d17c36a6c0d4"
+  },
+  {
+   "nummer": "75f9737bce2aa146"
+  },
+  {
+   "nummer": "892e2f7141d2fb5d"
+  },
+  {
+   "nummer": "274f20a26276c5a2"
+  },
+  {
+   "nummer": "a905d39919c1879f",
+   "versie": "honouring-nazi-collaborators"
+  },
+  {
+   "nummer": "81c6afddf3e8c57c"
+  },
+  {
+   "nummer": "a15c4d0e72bfa8fa"
+  },
+  {
+   "nummer": "ab4650a0235d50ad"
+  },
+  {
+   "nummer": "6a389bb58524b043"
+  },
+  {
+   "nummer": "a9da63c5f512c7ba",
+   "versie": "eight-years-genocide-protection"
+  },
+  {
+   "nummer": "7b55e9d0237154d8",
+   "versie": "v-2014-maidan-coup"
+  },
+  {
+   "nummer": "6c599241403f1dac"
+  },
+  {
+   "nummer": "18ddfdea209748b7",
+   "versie": "pagan-satanic-nazi-ideology"
+  },
+  {
+   "nummer": "46565dbb95a2404e"
+  },
+  {
+   "nummer": "d2a0c409952f91db"
+  },
+  {
+   "nummer": "8401bc15daf36c72"
+  },
+  {
+   "nummer": "4382ab35abdb1e23",
+   "versie": "pagan-satanic-nazi-ideology"
+  },
+  {
+   "nummer": "2765bf845bf904b2"
+  },
+  {
+   "nummer": "36830668bd48dbf5"
+  },
+  {
+   "nummer": "a08e2f9dec325fd8"
+  },
+  {
+   "nummer": "7d3408c8cf92c303"
+  },
+  {
+   "nummer": "1fb4338f4ed4267a",
+   "versie": "kalush-hitler-salute"
+  },
+  {
+   "nummer": "28089c030e9326a9"
+  },
+  {
+   "nummer": "90e21abf3ea1e227"
+  },
+  {
+   "nummer": "97f28b913de16014",
+   "versie": "eight-years-genocide-protection"
+  },
+  {
+   "nummer": "82c19913f47f7986"
+  },
+  {
+   "nummer": "07651b633a9a5101"
+  },
+  {
+   "nummer": "3d3013b7ec14f14d"
+  },
+  {
+   "nummer": "dfe70cf27af2dfa6"
+  },
+  {
+   "nummer": "f632afa932608000"
+  },
+  {
+   "nummer": "e76a1c7a213395ee"
+  },
+  {
+   "nummer": "e3234947acd64034"
+  },
+  {
+   "nummer": "6fc003ec63b42d26"
+  },
+  {
+   "nummer": "74de9ae4586951df"
+  },
+  {
+   "nummer": "4c7036642452325b"
+  },
+  {
+   "nummer": "a4fb7bf3c88518dd"
+  },
+  {
+   "nummer": "a5190304541ced85"
+  },
+  {
+   "nummer": "4c9a6532f78eef10"
+  },
+  {
+   "nummer": "168c3de822ca024a"
+  },
+  {
+   "nummer": "a0c8066ae046c5c7"
+  },
+  {
+   "nummer": "ba2b6f9934bc105b"
+  },
+  {
+   "nummer": "f9f145fb7270cb9a"
+  },
+  {
+   "nummer": "b799b22288f114e9"
+  },
+  {
+   "nummer": "fca401ae83352297"
+  },
+  {
+   "nummer": "ff92a85ea84f7146"
+  },
+  {
+   "nummer": "8f6cc4ad8a3162bf"
+  },
+  {
+   "nummer": "aa04e2037b420706"
+  },
+  {
+   "nummer": "cede70aa6419adc4"
+  },
+  {
+   "nummer": "0c58aaeb4dcd742d"
+  },
+  {
+   "nummer": "9e3fd34d47ba0fed",
+   "versie": "eu-training-bases"
+  },
+  {
+   "nummer": "b4d930b83333736b",
+   "versie": "eu-training-bases"
+  },
+  {
+   "nummer": "c3bae3d9c724ccf6"
+  },
+  {
+   "nummer": "eb3e25dd3d90ecb2"
+  },
+  {
+   "nummer": "284cb547ed006c70"
+  },
+  {
+   "nummer": "62972a58572f3130"
+  },
+  {
+   "nummer": "3dedbc32be389832"
+  },
+  {
+   "nummer": "1a63867cfe8a51d4"
+  },
+  {
+   "nummer": "b04421d557cdc950"
+  },
+  {
+   "nummer": "55ef93e00e830f75"
+  },
+  {
+   "nummer": "8b5ad5927ee59125",
+   "versie": "russian-language-ban"
+  },
+  {
+   "nummer": "90388fad5871c9aa"
+  },
+  {
+   "nummer": "9259fd950b8fb374"
+  },
+  {
+   "nummer": "d970cd8339587e46"
+  },
+  {
+   "nummer": "82b3f9a5ac33d000"
+  },
+  {
+   "nummer": "10557dca20e5c880"
+  },
+  {
+   "nummer": "d9355f085e2492b6"
+  },
+  {
+   "nummer": "4da8a676903b28d3"
+  },
+  {
+   "nummer": "a5156942790cc758"
+  },
+  {
+   "nummer": "7e8bf0cc08823a13"
+  },
+  {
+   "nummer": "61f7a19d9bc13fc8"
+  },
+  {
+   "nummer": "c3ca152c2b750f26"
+  },
+  {
+   "nummer": "4db2823de15eb782",
+   "versie": "zelensky-wears-nazi-symbol"
+  },
+  {
+   "nummer": "7f1777625c4cf4d7",
+   "versie": "zaluzhny-swastika-bracelet"
+  },
+  {
+   "nummer": "d65ec9a10e8ff817"
+  },
+  {
+   "nummer": "49dcf6ffcda6c98b",
+   "versie": "zaluzhny-swastika-bracelet"
+  },
+  {
+   "nummer": "5b457185844fb6f4"
+  },
+  {
+   "nummer": "b1ac0a71d83b04e0"
+  },
+  {
+   "nummer": "4b3499c4120a1dec"
+  },
+  {
+   "nummer": "4a5913b9d4eba9da"
+  },
+  {
+   "nummer": "855a02deb53294a0"
+  },
+  {
+   "nummer": "ac22dea07ffa041d"
+  },
+  {
+   "nummer": "417028382f108f41"
+  },
+  {
+   "nummer": "52d93502e7f2c0b3"
+  },
+  {
+   "nummer": "12d88974056811ed"
+  },
+  {
+   "nummer": "1686cb61bedd0b47"
+  },
+  {
+   "nummer": "cf1d65dd46f1cd2e"
+  },
+  {
+   "nummer": "a02337b9de397de5",
+   "versie": "hunka-postage-stamp"
+  },
+  {
+   "nummer": "a806efbb8f8b1c7d",
+   "versie": "hunka-postage-stamp"
+  },
+  {
+   "nummer": "a8b81cb72a01ef52"
+  },
+  {
+   "nummer": "2b35aa401bd38602",
+   "versie": "ukraine-denazification"
+  },
+  {
+   "nummer": "2f74945268526414",
+   "versie": "ukraine-denazification"
+  },
+  {
+   "nummer": "6809280c63bf9ca0",
+   "versie": "zircon-missile-sbu-strike"
+  },
+  {
+   "nummer": "db6096210dc50b01",
+   "versie": "zircon-missile-sbu-strike"
+  },
+  {
+   "nummer": "3da5cebaae1f40d2"
+  },
+  {
+   "nummer": "3e48ba59d459eacc"
+  },
+  {
+   "nummer": "04a0fd43e46ce9cb",
+   "versie": "zelensky-wears-nazi-symbol"
+  },
+  {
+   "nummer": "8b7dfe763bbb57cc"
+  },
+  {
+   "nummer": "39e0b5af016b6e0d"
+  },
+  {
+   "nummer": "d900d502e26b06fe"
+  },
+  {
+   "nummer": "4100616c930b6f76"
+  },
+  {
+   "nummer": "8704ef3c8ac5f72d"
+  },
+  {
+   "nummer": "44d7fc736e222db7"
+  },
+  {
+   "nummer": "903b7f92fe4c04ea"
+  },
+  {
+   "nummer": "02ccc91051a52cc4"
+  },
+  {
+   "nummer": "840d5e13831a700c",
+   "versie": "embroidered-clothes-politicisation"
+  },
+  {
+   "nummer": "64ce7aa7146473c5"
+  },
+  {
+   "nummer": "aa31116c608c1674"
+  },
+  {
+   "nummer": "fbc632fc9b4461c1"
+  },
+  {
+   "nummer": "c03fd68947260229"
+  },
+  {
+   "nummer": "6456c61c2fdad718"
+  },
+  {
+   "nummer": "278d0bb4e514a55d"
+  },
+  {
+   "nummer": "d8341e6ce3ba490a"
+  },
+  {
+   "nummer": "2775b7f8db8fb9b6"
+  },
+  {
+   "nummer": "81c75b6c1b1cdefd"
+  },
+  {
+   "nummer": "5f1b321e058dc9f3"
+  },
+  {
+   "nummer": "4de5feea28fb2acb"
+  },
+  {
+   "nummer": "044f20f16cdaccec"
+  },
+  {
+   "nummer": "4bad13e65ffd4519"
+  },
+  {
+   "nummer": "14944dc0070c3605"
+  },
+  {
+   "nummer": "8ad1ef729a89a5cf"
+  },
+  {
+   "nummer": "ec82787dc7e0c4a4"
+  },
+  {
+   "nummer": "a30f2ef3efc15697"
+  },
+  {
+   "nummer": "5d5ee19927a11aff"
+  },
+  {
+   "nummer": "8103450b54bd95ac",
+   "versie": "kalush-hitler-salute"
+  },
+  {
+   "nummer": "1bec87a9161856fd"
+  },
+  {
+   "nummer": "263c7ef0eac0aa6f"
+  },
+  {
+   "nummer": "b329bdaa2e56162d"
+  },
+  {
+   "nummer": "3562a197ba711c77"
+  },
+  {
+   "nummer": "3cd2449aa8735e51"
+  },
+  {
+   "nummer": "24cfe3b71445160d"
+  },
+  {
+   "nummer": "93b53e6f52b7adb2"
+  }
+ ]
+}

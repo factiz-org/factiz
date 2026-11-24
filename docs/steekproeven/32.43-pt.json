@@ -1,0 +1,357 @@
+{
+ "toelichting": "PLAN #32.43, Portugees: elk rood en oranje, elk groen bij O en elke niet bevestigd bij W en W-merk, gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, met de bron zelf waar nodig; geen andere User-Agent, een pagina die niet opent telt niet; één deelagent las geblokkeerde pagina's in Chrome (BENCHMARK §226).",
+ "labels": {
+  "O:gfc-000031275360f089#C": {
+   "label": "bewijst",
+   "toelichting": "JTA, Jerusalem Post en Aos Fatos melden dat de beelden van Israëlische sporters die 'Bring them home' vormen niet van de Spelen in Parijs zijn; dat is precies het beeld waar de post om draait."
+  },
+  "O:gfc-00a857f3d6316ef5#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos zegt in de kop dat de video van de dansende Paes uit september 2023 komt en niet van nu, en O Globo noemt het #FAKE dat hij tijdens de overstroming is gemaakt; een andere datum, dus bewijs."
+  },
+  "O:gfc-029a3b6ea3f0ff6d#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão Verifica: 'Casas de bombas de Porto Alegre não foram sabotadas'; dat spreekt de bewering over sabotage rechtstreeks tegen."
+  },
+  "O:gfc-05859542dd334a97#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, UOL en Estadão: de video toont een gecontroleerde preventieve brand van brigadistas met inheemse instemming, geen criminele brandstichting; dat kan niet samen waar zijn met het bericht."
+  },
+  "O:gfc-06e390e86abadffb#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa ('Procon não obrigou Havan a vender smartphones... É golpe'), Estadão en Havan zelf zeggen dat het oplichting is; het bedrag verschilt iets, maar het is dezelfde valse Procon-actie."
+  },
+  "O:gfc-0738be7ee5258a61#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova (UOL), Estadão en het ministerie zelf: het ministerie gaf het beheer van inheemse gebieden niet aan een bedrijf; met Ambipar is alleen een samenwerkingsprotocol getekend."
+  },
+  "O:gfc-0d02053bd7b8be31#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão en UOL noemen het onwaar dat de regering de Portugese donaties weigerde, en de regering en RTP melden dat ze eraan werkte de donaties te laten aankomen."
+  },
+  "O:gfc-0d069aff32f28cf0#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova en Terra: 'Vídeo não mostra Musk dizendo que suspensão do X no Brasil foi jogo sujo'; Estadão en Aos Fatos melden een valse nagesynchroniseerde audio."
+  },
+  "O:gfc-0e64647bd4a681c1#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa (dezelfde dag als de check) zegt dat montelucaste niet werkt om dengue te voorkomen of te behandelen, en Duke en MedicalXpress melden dat het ook bij covid geen effect heeft; dat weerlegt 'reduz o aparecimento de formas graves'."
+  },
+  "O:gfc-1058f992c04527fe#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão, TF1, HuffPost en de prefect melden dat de brand in Bobigny om 17.30 uur was, vóór de uitslag, en niets met de verkiezingen of extreemlinks te maken had."
+  },
+  "O:gfc-13df948b09cf1c50#C": {
+   "label": "bewijst",
+   "toelichting": "UOL Confere zegt dat de video van humanoïde robots in de oogst gemanipuleerd is (zwevende voeten, de originele beelden tonen een man), met verwijzing naar de check uit Sri Lanka over de robot op het rijstveld; de robots worden dus niet echt getraind."
+  },
+  "O:gfc-19228a606fb6de4a#C": {
+   "label": "bewijst",
+   "toelichting": "Trilhante beschrijft abortus als eigen misdrijf (art. 124-128) met eigen straffen (zelf: 1 tot 3 jaar detentie) en een ander beschermd belang dan doodslag, dus niet gelijkgesteld; Jusbrasil (403) en Planalto (geblokkeerd) gingen niet open en tellen niet."
+  },
+  "O:gfc-19a0729fffff209b#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Estadão en Lupa noemen het onwaar dat Lula werd uitgejouwd en dat Janja hem vroeg te stoppen; Aos Fatos meldt valse ondertitels."
+  },
+  "O:gfc-23bf62c0dd477973#C": {
+   "label": "vals",
+   "toelichting": "Bolsonaro zei de zin echt, maar Lupa, de bron die Factiz als bevestiging noemt, noemt de bewering dat Adélio Bispo 'een soldaat van hen' was ONWAAR: de federale politie stelde twee keer vast dat hij alleen handelde; groen zonder voorbehoud is dus onterecht."
+  },
+  "O:gfc-2a65c6d37842d1f8#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Lupa, Estadão en UOL: Lula zei niet dat hij geneeskunde studeerde; de uitspraak is uit haar verband gehaald."
+  },
+  "O:gfc-2ae7ae7385147a12#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos zegt in de kop dat de Duitse regering niet zei dat de pandemie een farce was, en UOL/Comprova dat de documenten geen fraude aantonen; dat spreekt de bewering direct tegen."
+  },
+  "O:gfc-2e0aaba634fbb0fa#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en UOL Confere: het is vals dat McDonald's een 'duivelse' sandwich lanceerde, de afbeelding is met AI gemaakt."
+  },
+  "O:gfc-313d7151bfed0efe#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa ('É falso que suramina... eliminam efeitos da vacina') en piauí ('Não, a suramina não é um antídoto contra a vacina') zeggen rechtstreeks dat de bewering onwaar is."
+  },
+  "O:gfc-4334154ba3ca0868#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão, Lupa en Aos Fatos melden dat de 132% een fout in een grafiek van een staatszender was, niet de officiële uitslag; de bewering over de officiële resultaten klopt dus niet."
+  },
+  "O:gfc-4a96bc3b898d62f7#C": {
+   "label": "set fout",
+   "toelichting": "Lupa noemde Lula's uitspraak van 1 mei 2024 vals omdat vlees en kaas toen buiten het nultarief vielen, maar de Câmara zette ze in juli 2024 in de Cesta Básica Nacional en de gesanctioneerde wet geeft die hele lijst nultarief, dus de voorspelling klopt nu; alleen de bredere lijst met 60% korting blijft een kanttekening."
+  },
+  "O:gfc-4ada6ebfabab50c3#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en UOL: de video van verdwijnende mensen op een luchthaven is opgezet om het arrebatamento uit te beelden (vals volgens Lupa), het is geen echte opname ervan."
+  },
+  "O:gfc-4e8c29657f0134f7#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, UOL en Lupa: het is vals dat Musk geheime gesprekken van Moraes publiceerde die een verkiezingsfraude zouden bewijzen."
+  },
+  "O:gfc-50a29dda3525c11a#C": {
+   "label": "bewijst",
+   "toelichting": "Boatos.org en Jornal Floripa melden dat een oplichting de naam van Xiaomi gebruikt met gratis telefoons en een 'roleta da sorte'; dat is precies dit bericht, dus geen echte actie van Xiaomi."
+  },
+  "O:gfc-53b37f28a29974f1#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt precies deze advertentie van Pontofrio met producten tot R$ 137,90 oplichting (golpe), dus geen echte actie."
+  },
+  "O:gfc-53be2febc8e91e6a#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova (UOL): 'Nem todos com mais de 60 anos têm isenção de Imposto de Renda e IPTU'; dat weerlegt de algemene belastingvrijstelling voor 60-plussers."
+  },
+  "O:gfc-5990e2899daf30fe#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova en Estadão zeggen in de kop dat de video met de kritiek van Anitta uit 2022 komt; een andere datum en dus een andere regering, dus bewijs voor misleidend."
+  },
+  "O:gfc-5cc9df8824b0c75f#C": {
+   "label": "bewijst niet",
+   "toelichting": "Aos Fatos (gelezen) gaat over een staking die voor donderdag 4 december 2025 was opgeroepen, Veja over een staking 'op donderdag' (25/08/2024 was een zondag; Veja opende niet); geen bron gaat over de oproep voor 25 augustus 2024, en de oproep is eerder een aankondiging dan een toetsbare bewering."
+  },
+  "O:gfc-66256a5cd93b0922#C": {
+   "label": "bewijst",
+   "toelichting": "UOL en Estadão: 'Governo de Netanyahu não propôs projeto de lei para criminalizar o cristianismo'; AP meldt dat Netanyahu het wetsvoorstel tegen bekeringsijver van twee parlementariërs juist tegenhield."
+  },
+  "O:gfc-686d060285549123#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão zegt dat het contract nooit bestond en Lupa noemt het onwaar dat Israel een contract opzegde; dat kan niet samen met de bewering waar zijn."
+  },
+  "O:gfc-6b65eec352309c0d#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos: 'Pablo Marçal não levou soco'; UOL en Estadão melden dat een medewerker van Marçal de marketeer van Nunes sloeg, niet dat Marçal geslagen werd."
+  },
+  "O:gfc-7181c69d6f0cdc8f#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen zijn een audiofragment en een persbericht over de Expointer 2024 zonder iets over Bolsonaro, en GZH over een bezoek van Flávio Bolsonaro; geen ervan laat zien dat Jair Bolsonaro er in 2024 niet was of dat de beelden van een eerder jaar zijn (GZH opende niet)."
+  },
+  "O:gfc-77f8eab3d01c395d#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa op dezelfde dag: 'Tabata erra sobre dados de trânsito'; de check over deze uitspraak zegt dat het verkeer niet verslechterd is ten opzichte van vóór de pandemie."
+  },
+  "O:gfc-7aa09e891014500f#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en Comprova: Nunes en padre Júlio spraken in januari over daklozen, niet over de herverkiezing, en er was geen zegen; dat weerlegt de uitleg bij de foto."
+  },
+  "O:gfc-7bb361f899046621#C": {
+   "label": "bewijst",
+   "toelichting": "Het FBI bevestigde dat Crooks alleen handelde (abc45, Wikipedia); dat kan niet samen waar zijn met een opdrachtgever die een dag later zou zijn ontdekt."
+  },
+  "O:gfc-7d835719caef9643#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: de man in de video zegt niet dat hij R$ 4.000 ontvangt; Estadão: het auxílio-reclusão is gelijk aan het minimumloon; beide spreken de bewering tegen."
+  },
+  "O:gfc-7eed3bd0a23ea08f#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en Estadão noemen het onwaar dat Maria do Rosário de agent 'PM opressor' noemde; de toegeschreven uitspraak, de kern van het bericht, is verzonnen."
+  },
+  "O:gfc-802543cfc0106285#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Comprova en Estadão: de PT won in de eerste ronde 248 gemeenten, niet 46; dat getal is onverenigbaar met de bewering."
+  },
+  "O:gfc-80d00df74d5dd714#C": {
+   "label": "bewijst",
+   "toelichting": "De gov.br-bron citeert minister Renan Filho: 'A autoescola não vai acabar, o que acaba é a obrigatoriedade', en het rijbewijs blijft verplicht; dat weerlegt beide delen van het bericht, ook al is de verplichte les eind 2025 echt afgeschaft."
+  },
+  "O:gfc-816d1b6ad47fba88#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão, Aos Fatos, UOL en de TRE-SP zeggen dat Boulos, Lula en Dilma niet op hetzelfde tijdstip de leiding namen en noemen de fraudebewering vals."
+  },
+  "O:gfc-8270073524c4709e#C": {
+   "label": "bewijst",
+   "toelichting": "Het STF meldt dat de mensen met straffen tot 17 jaar deelnamen aan de bestorming en vernieling van de gebouwen of die financierden, en verwierp het verweer van een vreedzame betoging; dat weerlegt 'apenas porque estavam ali se manifestando'."
+  },
+  "O:gfc-83fcf84e1c4c7570#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova en Estadão: CO2 hangt wel samen met de opwarming, anders dan de Roemeense politicus suggereert; dat weerlegt de 'fraude' waar de post om draait."
+  },
+  "O:gfc-8603408bb5eeca67#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en UOL: Bolsonaro kondigde geen donatie van de Pix-gelden aan Rio Grande do Sul aan, de video is fictie."
+  },
+  "O:gfc-87ebe6267de7a916#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt het onwaar dat het meisje dat in een emmer overgaf na de vaccinatie overleed."
+  },
+  "O:gfc-8a1a995c4d4faae1#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos: de video van de vrouw in de luchthaven is in Jamaica opgenomen, niet in Brazilië; een andere plaats dan Guarulhos."
+  },
+  "O:gfc-8a39e7d9b95e49a4#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Aos Fatos, Estadão en Comprova: thee van papajablad geneest dengue niet, er is geen bewijs voor."
+  },
+  "O:gfc-8a8e9533a39472eb#C": {
+   "label": "bewijst",
+   "toelichting": "De pagina van de CET zegt dat de verkeerscamera's in realtime openbaar zijn, en de prefeitura meldt het realtime-overzicht 'Trânsito Agora' en de cijfers over files op alle wegen; er zijn dus wel realtimegegevens."
+  },
+  "O:gfc-8fb5e9c4dcf568e8#C": {
+   "label": "bewijst",
+   "toelichting": "UOL en Aos Fatos zeggen in de kop dat de regering-Lula het einde van de werkloosheidsuitkering in 2025 niet aankondigde, en het ministerie meldt de bijgewerkte uitkering voor 2025."
+  },
+  "O:gfc-9475b46372425c3a#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão ('É falso que PT tenha projeto para taxar revendedores de cosméticos'), UOL en Aos Fatos weerleggen het; Extra en de Senaat melden dat de nanoempreendedor juist vrijstelling krijgt."
+  },
+  "O:gfc-993d7e8b1638c70b#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa (gelezen) zegt letterlijk 'É falso que os dados do Cadastro Único não são atualizados desde 2017'; de gegevens worden bijgewerkt, wat ook de oproepen van gov.br om gegevens te vernieuwen laten zien."
+  },
+  "O:gfc-9ac8f646a502f331#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão en UOL melden dat het boek in 2017 is teruggetrokken en dat de regering-Lula het niet aan scholen verspreidde; het MEC bevestigt dat het boek is ingetrokken."
+  },
+  "O:gfc-9ae5eee8d6fd5649#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, UOL en Estadão: de video van Musk heeft valse audio en ondertitels, en Musk riep niet op om Marçal te steunen."
+  },
+  "O:gfc-a14a454bfe85b152#C": {
+   "label": "bewijst niet",
+   "toelichting": "JOTA en UOL gaan over de PGR die in 2026 vraagt een onderzoek naar Moraes nietig te verklaren, en de YouTube-video over een ander verzoek; geen bron zegt iets over een bevel tot afzetting in 2024, dus ze tonen niet aan dat de bewering onwaar is."
+  },
+  "O:gfc-a77b4f40c945cd2d#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt de waarschuwing over 'cheiro da morte' onwaar en de Polícia Civil RS noemt het nepnieuws; de genoemde bedrijven ontkenden het."
+  },
+  "O:gfc-a8fb021ffbb81e0a#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Checamos zegt in de kop dat de massaontslagen bij Banco do Brasil in 2021 waren en niet in 2024; een andere datum, dus bewijs."
+  },
+  "O:gfc-ac21dab868401a3d#C": {
+   "label": "bewijst",
+   "toelichting": "UOL, Lupa, Aos Fatos en Estadão zeggen dat Lula niet zei dat hij geneeskunde studeerde; de uitspraak is uit haar verband gehaald."
+  },
+  "O:gfc-aebaea1685f36bac#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: 'É falso vídeo de Drauzio Varella recomendando dieta à base de ovos'; het is een nagemaakte video."
+  },
+  "O:gfc-b1c9f4a91863c46d#C": {
+   "label": "bewijst",
+   "toelichting": "De kop van Lupa gaat over een ander filmpje, maar het artikel zegt dat het filmpje van de klap geknipt is: in de uitzending van SBT zegt de verslaggever na de klap dat het een afgesproken grap was; de bewering klopt dus niet."
+  },
+  "O:gfc-b2536aaf5be67931#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão citeert precies dit bijschrift en noemt de post onwaar: de vrouw in de video is niet Marília Gabriela maar Regina Velloso; de kop zegt dat alleen over de video, en het artikel spreekt de opmerking over de Lei Rouanet zelf niet tegen."
+  },
+  "O:gfc-b9cc9dee5b0be4ea#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: 'Rebeca Andrade não dedicou medalha na Olimpíada de Paris a Bolsonaro'; Estadão en FGV zeggen hetzelfde."
+  },
+  "O:gfc-c22960d8ee595986#C": {
+   "label": "bewijst",
+   "toelichting": "UOL Confere: 'Havan não está vendendo... geladeira a R$138,90', en een tweede UOL-check noemt dit soort kortingen oplichting."
+  },
+  "O:gfc-cdb7d1a73070236d#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova en piauí: 'É falso que alimentos com selo da rã sejam produzidos/obra de Bill Gates'; het kikkerzegel is een duurzaamheidskeurmerk van de Rainforest Alliance."
+  },
+  "O:gfc-cf845326ed0a3bef#C": {
+   "label": "bewijst",
+   "toelichting": "Congresso em Foco: 'Força Nacional prende bolsonarista condenado por homicídio e mente ao tratá-lo como infiltrado', en Estadão noemt de verhalen over infiltranten vals; de man was geen infiltrant."
+  },
+  "O:gfc-d08641286efd2c82#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: 'É falso alerta de demissão em massa por GM'; Aos Fatos: de kettingbrief misleidt; GM ontsloeg geen 50% van het personeel in Brazilië."
+  },
+  "O:gfc-d08ad86df855779d#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão meldt dat Itamaraty de Iraanse aanval op Israel 'met grote zorg' volgde en alle partijen opriep tot de grootste terughoudendheid, zonder Iran te veroordelen; een neutrale houding, geen keuze voor Iran, al benadrukt het artikel ook dat er geen veroordeling was."
+  },
+  "O:gfc-d2f87ca8f4721afb#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en Lupa: de man die Lula op de G7 aanwijst waar hij moet staan is de president van de Wereldbank, geen beveiliger van een koning."
+  },
+  "O:gfc-d38d3bdae01620b1#C": {
+   "label": "bewijst niet",
+   "toelichting": "De enige bron is een overheidsbericht uit november 2025 over 36% meer RAS-vergoeding en een 24-uursdienst; het zegt niets over een toeslag voor LHBTI-agenten en laat dus niet zien dat de bewering onwaar is."
+  },
+  "O:gfc-d43ee02329b85ea5#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa, Estadão, Aos Fatos en UOL noemen het onwaar dat Lula de korting op de Fies-schulden schrapte, en Caixa en de regering melden dat de heronderhandelingen niet zijn geschrapt."
+  },
+  "O:gfc-d6434c8df3110ff1#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão: er is geen spoor van zo'n dreigement; Aos Fatos noemt de uitspraak verzonnen en FGV noemt hem vals."
+  },
+  "O:gfc-d912158b08cd7017#C": {
+   "label": "bewijst",
+   "toelichting": "Twijfelgeval: de schorsing van AstraZeneca in maart 2021 in ruim twintig landen was echt, maar het EMA zegt dat de covidvaccins in de EU veilig en werkzaam zijn, dat bijwerkingen meestal mild zijn en dat de voordelen zwaarder wegen; dat kan niet samen waar zijn met 'muito efeito colateral, está dizimando a população' (het Estadão-stuk gaat over versoepelingen en opende niet)."
+  },
+  "O:gfc-dcf261bca871073c#C": {
+   "label": "bewijst",
+   "toelichting": "Het FGV zegt in de kop dat Musk de VS geen bewijs gaf van inmenging door Moraes in de verkiezingen; dat is precies het tegendeel van de bewering."
+  },
+  "O:gfc-e5490709a378de8c#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: 'É falso alerta de demissão em massa por ... Electrolux no Brasil'; Aos Fatos: Electrolux kondigde in Brazilië geen massaontslag aan."
+  },
+  "O:gfc-e5baf3b47f697724#C": {
+   "label": "bewijst",
+   "toelichting": "UOL/Comprova: 'É falso que dados de homem morto tenham sido usados para votar em 2022'; Estadão en het TSE zeggen hetzelfde over de nepsite."
+  },
+  "O:gfc-e85f4843d0ce0985#C": {
+   "label": "bewijst",
+   "toelichting": "UOL ('Lula não mudou idade mínima para aposentadoria para 55 anos'), Valor en Extra: de bijzondere regeling vanaf 55 jaar bestaat sinds 1960 en geldt alleen voor risicoberoepen."
+  },
+  "O:gfc-e87142009d89fd09#C": {
+   "label": "bewijst",
+   "toelichting": "Aos Fatos, Estadão en Lupa: het is vals dat limoensap dengue geneest of de virale lading wegneemt."
+  },
+  "O:gfc-e8d32b7b16d6333a#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa en Aos Fatos: het is vals dat Lula Azul Linhas Aéreas kocht."
+  },
+  "O:gfc-ee7a9cc88692c484#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa (27-06-2024) noemt de waarschuwing voor massaontslag bij Volkswagen onwaar, en Estadão zegt dat Volkswagen geen sluiting van fabrieken aankondigde."
+  },
+  "O:gfc-f4afbb946491658b#C": {
+   "label": "bewijst",
+   "toelichting": "Valor: 'STF não decretou o fim do sigilo bancário no Brasil', en Comprova legt uit wat er wel veranderde; dat weerlegt 'acabou o sigilo bancário'."
+  },
+  "O:gfc-f6b67e23188f2815#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa: 'É falsa a nota contra o STF atribuída à Comissão Interclubes Militares'; Estadão meldt dat de militaire clubs ontkennen de brief te hebben verspreid."
+  },
+  "O:gfc-f7cd3a64a4d717af#C": {
+   "label": "bewijst",
+   "toelichting": "Estadão en Terra: 'Postagem engana ao omitir que salário de grevistas do INSS também foi cortado por Bolsonaro'; dat weerlegt 'coisa que Bolsonaro não teria feito', dus terecht misleidend."
+  },
+  "O:gfc-fc395d437b97e7f8#C": {
+   "label": "bewijst",
+   "toelichting": "Comprova (o.a. Imirante, gelezen): de video toont de IGNIS-drone die in de VS voor gecontroleerde branden wordt gebruikt, de vertelling over 'globalisten' die bossen in brand steken is vals."
+  },
+  "O:gfc-fe872b5cde6b378c#C": {
+   "label": "bewijst",
+   "toelichting": "Lupa noemt de waardebon ter ere van 62 jaar Atacadão oplichting (golpe), en meerdere lokale media melden hetzelfde; het gaat om dezelfde nepactie."
+  },
+  "W:wikinews:pt:14574#C": {
+   "label": "vals",
+   "toelichting": "Het artikel van Wikinews uit februari 2008 steunt op een persbericht van het Colombiaanse leger (de link werkt niet meer); er is geen reden om aan zo'n routineactie te twijfelen, maar ik vond online geen tweede bron."
+  },
+  "W:wikinews:pt:19568#C": {
+   "label": "vals",
+   "toelichting": "VOA meldde op 8 januari 2009 dat Israëlische gezanten (Amos Gilad en Shalom Turjeman) in Caïro waren aangekomen voor gesprekken over het Egyptisch-Franse bestandsvoorstel; het bericht is waar nieuws."
+  },
+  "W:wikinews:pt:22365#C": {
+   "label": "vals",
+   "toelichting": "Het Hongkongse ministerie van Gezondheid meldde op 16 juli 2009 dat een man van 42 met H1N1 op 10 juli in het Ruttonjee-ziekenhuis stierf, en noemde een sterfgeval op 27 juli het tweede; het bericht klopt dus. Factiz verwart dit met de eerste dode op het vasteland (een vrouw uit Tibet, oktober 2009, de bronnen van Agrolink en Reuters), en de MRSA-infectie was een tweede infectie, geen vastgestelde doodsoorzaak."
+  },
+  "W:wikinews:pt:6550#C": {
+   "label": "vals",
+   "toelichting": "Het STF-dossier (Ext 1059, PPE 555) toont dat België de uitlevering van Jan van Zantvoort vroeg en dat het arrestatiebevel in juli 2006 via de federale rechtbank in Belo Horizonte is uitgevoerd; het bericht is waar en er is een bron."
+  },
+  "WM:0e2bd7875438#C": {
+   "label": "vals",
+   "toelichting": "g1 Piauí heeft deze kop op 6-11-2026 echt op de voorpagina staan ('Sul do Piauí'); het is echt nieuws van een grote redactie, dus niet bevestigd is onterecht (het artikel zelf ging niet open, alleen de voorpagina)."
+  },
+  "WM:c05ece3feec0#C": {
+   "label": "vals",
+   "toelichting": "Twijfelgeval: dit is een gewone nieuwskop van Folha, zelf een goede bron, over een debat, en past bij de discussie over de criteria van de universiteitsranking van Folha in oktober 2026; ik kon Folha niet openen en vond geen tweede bron, maar niets wijst erop dat het bericht niet klopt."
+  },
+  "WM:e43e801e7175#C": {
+   "label": "vals",
+   "toelichting": "De RSS van Público toont deze kop als nieuwsartikel in de rubriek Local, gepubliceerd op 6 november 2026 om 18:07 GMT; echt nieuws (publico.pt zelf gaf 403, de feed opende wel), al was het mogelijk nog niet vindbaar toen Factiz zocht."
+  }
+ }
+}

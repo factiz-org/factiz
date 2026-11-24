@@ -1,0 +1,59 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck poetin-streeting-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "253f2476fe383f29",
+ "veldafdrukken": {
+  "kop": "422ec7b14031baf2",
+  "oordeel_zin": "54393d60ae5a31ca",
+  "bewering": "df69cd86fea0595e",
+  "kort": "84d911192e3bd3c2",
+  "tekst": "88d95fedb4fd1266",
+  "niet_weten": "78ec25806b18858b",
+  "bereik": "e20be431447ef3c7",
+  "nog_uitzoeken": "baa866ad5516bb88",
+  "tijdlijn": "645864c67aaf2117",
+  "beeld_bijschrift": "80632b36417f3152",
+  "beeld_alt": "1338664a28f0648d"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Putin'in Birleşik Krallık hakkında bunu söylediğine dair bir kayıt yok, Streeting'in etekli videosu ise değiştirilmiş",
+  "oordeel_zin": "Söz, Aralık 2025'ten beri kaynaksız dolaşıyor; Wes Streeting'in videosu ise 8 Kasım 2026'ya ait gerçek bir görüntü, ancak pantolonu etek haline getirilmiş [2] [15] [16].",
+  "bewering": "Putin, Birleşik Krallık'tan korkmadığını söylüyor çünkü \"ülkelerini işgal eden lastik botları ya da kadınlarına ve çocuklarına tecavüz eden yabancı erkekleri bile durduramıyorlar.\" Ayrıca onların Savunma Bakanı'nı gördünüz mü dedi.",
+  "kort": "9 Kasım'da X'te bir hesap, Vladimir Putin'in Birleşik Krallık'tan korkmadığını söylediği ve insanların Savunma Bakanı'nı görüp görmediğini sorduğu bir sözü, etekli Wes Streeting videosuyla birlikte paylaştı [1]. Putin'in bu sözleri söylediğine dair bir kayıt bulamadık: aynı hesap hemen hemen aynı sözü Aralık 2025'te ve Ekim 2026'da yeniden paylaşmış, her seferinde yeni bir şeymiş gibi sunmuştu [2] [3]. Video, 8 Kasım 2026'daki Anma Pazarı törenine ait gerçek görüntü, ancak Streeting pantolon giyiyordu ve kıyafetleri değiştirilmişti [12] [15] [16].",
+  "tekst": "9 Kasım 2026 Pazartesi günü, Birleşik Krallık saatiyle 08.57'de, kendini haber servisi olarak tanıtan anonim bir X hesabı Vladimir Putin'e atfedilen bir söz paylaştı [1]. Rusya devlet başkanı bu sözde Birleşik Krallık'tan korkmadığını söylüyor ve insanların İngiliz Savunma Bakanı'nı görüp görmediğini soruyor [1]. Gönderide iki yarıya bölünmüş 10,5 saniyelik bir video var: solda masa başında Putin, sağda Londra'daki Anma Pazarı töreninden bir telefon videosu [1]. 19 Kasım'a kadar gönderi 14.991 beğeni ve 471 yanıt aldı [1].\n\nSöz yeni değil: aynı hesap hemen hemen aynı sözleri 13 Aralık 2025'te, Putin'in o hafta söylediği bir şey olarak paylaştı [2]. Bu gönderi 19 Kasım'da 140.751 beğeniye sahipti [2]. 10 Ekim 2026'da hesap ilk yarıyı bu kez farklı bir sonla, milletvekilleriyle ilgili olarak yeniden paylaştı [3]. Üç gönderi de Putin'in aynı görüntüsünü kullanıyor: yanında bir tercümanla masa başında [1] [2] [3]. Savunma Bakanı hakkındaki cümle Aralık 2025'ten gelemez: Wes Streeting bu görevi 20 Temmuz 2026'dan beri yürütüyor, o dönemde Sağlık Bakanı'ydı [6].\n\nPutin'in bu sözleri söylediği hiçbir haber ya da tutanak bulamadık [4] [5]. Putin, Aralık 2025'in başında Avrupa hakkında konuştuğunda, 2 Aralık'ta Moskova'daki bir yatırım forumunda, Avrupa savaş başlatırsa Rusya'nın hazır olduğunu söyledi ve Britanya'dan söz etmedi [4]. Gönderinin yayımlandığı hafta Rusya ile Britanya arasındaki haberler G20 ile ilgiliydi: Başbakan Andy Burnham, Putin'in 2027'de Manchester'daki zirveye gelmeyeceğini söyledi ve 16 Kasım'da Putin değil bir Rus diplomat bir uyarıyla yanıt verdi [5].\n\nWhitehall'daki Cenotaph'ta Ulusal Anma Töreni 8 Kasım 2026 Pazar günü, saat 11.00'de iki dakikalık sessizlikle yapıldı [7]. Streeting Savunma Bakanı olarak oradaydı ve o akşam törenden ve gaziler geçit töreninden dört fotoğraf paylaştı [8]. Getty Images ve Reuters fotoğrafları onu koyu renkli pantolon ve düz erkek ayakkabılarıyla gösteriyor [12] [15]. AFP'nin tespitine göre, İngiliz hükümetinin günün canlı yayını da onu pantolonla gösteriyor [16].\n\nDeğiştirilmiş görüntüler törenden saatler sonra ortaya çıktı [9]. O Pazar günü 14.48'de aynı anonim hesap, Streeting'in etek ve yüksek topuklu ayakkabı giydiği ve el çantası taşıdığı bir fotoğraf paylaştı [9]. Pazartesi 07.06'da, Dışişleri Bakanlığı binasının önünde muhafız askerlerin arkasından çekilmiş 21,5 saniyelik bir video paylaştı; bu, AFP'nin incelediği değiştirilmiş klip kadar uzun [10] [16]. Putin gönderisindeki videonun sağ yarısı aynı yeri aynı açıdan gösteriyor [1] [10].\n\nGerçek görüntü kalabalığın içinden çekildi: bağımsız gazeteci Louis Errington aynı sahneyi çekti ve 8 Kasım'da gece yarısından hemen önce Instagram'da paylaştı [11]. AFP, Full Fact ve Lead Stories'e göre onun videosunda Streeting pantolon giyiyor ve çanta taşımıyor [12] [15] [16]. Full Fact iddiayı yanlış olarak derecelendirdi: görüntüler ve video düzenlenmiş [15].\n\nKıyafetlerin nasıl değiştirildiği netleşmiş değil: An-Nahar videonun yapay zekâ araçlarıyla değiştirildiğini yazdı [13]. AFP videoyu Mever dedektöründen geçirdi ve dedektör yüzde 87 olasılıkla yapay zekâ sonucu verdi [16]. Animal Político, Google'ın SynthID aracının vücudunun alt yarısını dijital olarak değiştirilmiş olarak işaretlediğini bildirdi [14]. Hepsi tören görüntüsünün kendisinin gerçek olduğu ve yalnızca kıyafetlerinin değiştirildiği konusunda hemfikir [13] [14] [16].\n\nDeğiştirilmiş görüntüler Lehçe, Arapça ve Korece dolaştı ve Meksika'daki bir doğrulama kuruluşu da bunlara baktı [12] [13] [14] [16]. Gönderilerin çoğu bunları Britanya'yla ya da Streeting'in kendisiyle alay etmek için kullandı [12] [16]. Bulduğumuz ilk doğrulama kuruluşu 10 Kasım'da Lead Stories oldu [12]. Okuduğumuz doğrulama yazılarının hiçbiri Putin sözüne bakmadı [12] [13] [14] [15] [16].",
+  "niet_weten": "Alıntıyı kimin yazdığını ya da ilk kez kimin internete koyduğunu bilmiyoruz; bulduğumuz en eski sürüm 13 Aralık 2025 tarihli [2]. Putin'in görüntülerinin hangi toplantıdan geldiğini bilmiyoruz. Fotoğrafı ve videoyu kimin değiştirdiğini, hangi araçla değiştirdiğini bilmiyoruz: AFP ve Animal Político'nun kullandığı tespit araçları yapay zekâya işaret ediyor, ancak bu tür araçlar yanılabilir [14] [16].",
+  "bereik": "19 Kasım'da 14.991 beğeni ve 471 yanıt",
+  "nog_uitzoeken": [
+   "Putin'in görüntülerinin hangi toplantıdan geldiği ve sesinin kaldırılıp kaldırılmadığı ya da değiştirilip değiştirilmediği.",
+   "Değiştirilmiş fotoğrafı ve videoyu kimin yaptığı ve bunların ilk kez bu hesapta mı yoksa başka bir yerde mi ortaya çıktığı.",
+   "Gönderideki videonun sağ yarısının, 7:06'daki değiştirilmiş videonun kare kare aynısı olup olmadığı ve bu videonun Louis Errington'ın görüntülerinden yapılıp yapılmadığı.",
+   "Alıntının tek başına Yanlış mı yoksa Kanıtlanmamış mı olması gerektiği: Putin'in buna benzer bir şey hiç söylemediğini kanıtlayamayız, yalnızca bu metnin Aralık 2025'ten beri kaynaksız dolaştığını kanıtlayabiliriz."
+  ],
+  "tijdlijn": [
+   "Putin, Moskova'daki bir forumda Avrupa savaş başlatırsa Rusya'nın hazır olduğunu söylüyor; Britanya'dan söz etmiyor [4].",
+   "Hesap, bulabildiğimiz ilk kez olarak sözü Putin'in o hafta söylediği bir şey diye paylaşıyor [2].",
+   "Wes Streeting Savunma Bakanı oluyor [6].",
+   "Hesap sözün ilk yarısını farklı bir sonla yeniden paylaşıyor [3].",
+   "Whitehall'daki Cenotaph'ta iki dakikalık sessizlik [7].",
+   "Hesap, Streeting'in etekli değiştirilmiş fotoğrafını paylaşıyor [9].",
+   "Streeting, törenin kendi fotoğraflarını X'te paylaşıyor [8].",
+   "Louis Errington tören videosunu Instagram'da paylaşıyor [11].",
+   "Hesap, Streeting'in değiştirilmiş videosunu paylaşıyor [10].",
+   "Putin sözünü ve iki yarıya bölünmüş videoyu içeren gönderi [1].",
+   "Lead Stories: görüntüler ve video dijital olarak manipüle edilmiş [12].",
+   "An-Nahar: video yapay zekâyla değiştirilmiş [13].",
+   "Full Fact: yanlış, Streeting pantolon giyiyordu [15].",
+   "AFP: video manipüle edilmiş [16]."
+  ],
+  "beeld_bijschrift": [
+   "X'teki gönderi, 9 Kasım 2026, Birleşik Krallık saatiyle 08.57.",
+   "Louis Errington, bağımsız gazeteci, Instagram, 8 Kasım 2026: Cenotaph'taki aynı sahne, Wes Streeting pantolonlu."
+  ],
+  "beeld_alt": [
+   "Gönderideki videodan kare: solda masa başında Vladimir Putin, sağda Whitehall'daki Anma Pazarı töreninden, ayı postu şapkalı muhafız askerlerin arkasından çekilmiş bir telefon videosu. Damga: YANLIŞ.",
+   "Louis Errington'ın Whitehall'daki Anma Pazarı törenine ait videosu, kalabalığın içinden muhafız askerlerin arkasından çekilmiş."
+  ]
+ }
+}

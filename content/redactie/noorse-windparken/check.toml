@@ -1,0 +1,218 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/noorse-windparken/dossier.md.
+
+sleutel = "noorse-windparken"
+status = "gepubliceerd"
+taal = "nl"
+adres = "noorse-windparken-afgebroken-rendieren"
+adres_en = "norway-wind-farms-dismantled-reindeer"
+kop = "Noorse windparken Storheia en Roan worden niet afgebroken, en misvormde rendieren speelden geen rol"
+oordeel = "onwaar"
+oordeel_zin = "De rechter oordeelde in 2021 over de weidegrond van Samische rendierhouders, niet over misvormingen, en na twee akkoorden draaien de 151 molens door [1] [2] [3]."
+soort = "verzonnen"
+reikwijdte = "internationaal"
+
+bewering = "Noorwegen breekt windparken af omdat er door de molens misvormde rendieren worden geboren."
+platform = "X"
+eerst_gezien = "2026-08-11"
+posts = 1
+bereik = "101.303 keer bekeken op 18 november"
+
+kort = """
+Sinds 11 augustus gaat op X een bericht rond dat Noorwegen twee windparken afbreekt omdat er misvormde rendieren \
+worden geboren [9]. Het Hooggerechtshof van Noorwegen verklaarde de vergunningen van Storheia en Roan in 2021 ongeldig \
+omdat de Samische rendierhouders hun winterweiden kwijt waren, niet om de gezondheid van de dieren [1]. Na akkoorden in \
+december 2023 en maart 2024 draaien de 151 molens door [2] [3]."""
+
+tekst = """
+Het bericht op X noemt twee windparken met samen 151 molens, Storheia en Roan, op het schiereiland Fosen in \
+Midden-Noorwegen [9]. Die parken bestaan: Storheia heeft 80 molens en Roan 71, en beide gingen in 2019 open [4]. Bij het \
+bericht staat een link naar een Duits vakblad uit oktober 2021, dat toen schreef dat de 151 molens weg moesten [5] [9].
+
+De rechtszaak was echt. Op 11 oktober 2021 oordeelde het Hooggerechtshof van Noorwegen unaniem dat de vergunningen voor \
+beide parken ongeldig waren [1]. De parken schonden het recht van de Samische rendierhouders van Fosen om hun eigen \
+cultuur te beleven, dat in artikel 27 van het VN-verdrag over burgerrechten en politieke rechten staat [1]. De kern was \
+dat de rendieren de winterweiden bij de parken in de praktijk kwijt waren, en dat dit het rendierhouden op Fosen \
+bedreigde [1].
+
+Over de gezondheid van rendieren staat niets in het vonnis, en over misvormde kalveren ook niet [1]. Het hof zei evenmin \
+wat er met de molens moest gebeuren [4].
+
+Afgebroken werden ze niet. In december 2023 sloten de rendierhouders van Sør-Fosen een akkoord over Storheia, met extra \
+grond, een vergoeding en een veto op nieuwe windenergie na het einde van de vergunning [2]. Het Noorse \
+mensenrechteninstituut schreef dat dit akkoord de schending lijkt te herstellen [2]. Op 6 maart 2024 volgde een akkoord \
+voor Roan: 7 miljoen kronen per jaar tot de vergunning in 2043 afloopt, en daarna alleen een nieuwe vergunning als de \
+rendierhouders instemmen [3]. De stroom wordt gewoon verder opgewekt [3].
+
+De misvormde rendieren komen uit een ingezonden brief in de Landshuter Zeitung, een Beierse krant, van 9 oktober 2023 \
+[6] [7]. De brief schreef de misvormingen toe aan trillingen van de molens, en ging daarna rond op Facebook en X [6]. AFP \
+vroeg zes rendieronderzoekers in Noorwegen, Zweden en Oostenrijk ernaar, en geen van hen kende een studie die \
+misvormingen of miskramen door windmolens aantoont [6]. Wel blijkt uit onderzoek dat rendieren gebieden rond molens \
+mijden, vooral in de tijd van het kalveren [6].
+
+Het verhaal is dus niet nieuw. Begin 2024 meldde EDMO, het Europese netwerk van factcheckers, dat het ook in een \
+Nederlandse vertaling rondging [11]."""
+
+niet_weten = """
+We weten niet wie de brief van 2023 als eerste naar het Nederlands vertaalde, en of het bericht van augustus daarop \
+teruggaat. De brief zelf lazen we niet; wat erin stond, weten we uit de checks van AFP en Mimikama. Dat de molens nu \
+nog draaien, leiden we af uit Aneo, Store norske leksikon en Euronews; productiecijfers van na september 2026 zagen we \
+niet."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Of er in 2023 of 2024 al een Nederlandstalige check was, bij Nieuwscheckers, Factcheck Vlaanderen of Knack.",
+  "De rechtszaak is echt, de afbraak en de misvormde rendieren niet. Wij kozen onwaar; misleidend is ook te verdedigen.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 11 augustus 2026, 20:15, met een link naar agrarheute uit 2021."
+alt = "Screenshot van een post op X over Noorse windparken en misvormde rendieren, met een linkkaart van een Duits vakblad. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2021-10-11"
+wat = "Het Hooggerechtshof van Noorwegen verklaart de vergunningen voor Storheia en Roan ongeldig [1]."
+
+[[tijdlijn]]
+datum = "2021-10-18"
+wat = "Agrarheute schrijft dat de 151 molens weg moeten [5]."
+
+[[tijdlijn]]
+datum = "2023-10-09"
+wat = "Een ingezonden brief in de Landshuter Zeitung over misvormde rendierkalveren [6]."
+
+[[tijdlijn]]
+datum = "2023-12-13"
+wat = "AFP Faktencheck: er is geen bewijs voor misvormingen door windmolens [6]."
+
+[[tijdlijn]]
+datum = "2023-12-16"
+wat = "Mimikama komt tot dezelfde conclusie [7]."
+
+[[tijdlijn]]
+datum = "2023-12-19"
+wat = "Het Noorse mensenrechteninstituut meldt het akkoord voor Storheia [2]."
+
+[[tijdlijn]]
+datum = "2024-03-06"
+wat = "Akkoord voor Roan; de molens blijven draaien [3]."
+
+[[tijdlijn]]
+datum = "2026-08-11"
+tijd = "20:15"
+wat = "Het bericht over afbraak en misvormde rendieren op X [9]."
+
+[[tijdlijn]]
+datum = "2026-08-24"
+wat = "AFP Factcheck Nederland checkt het bericht [8]."
+
+[[tijdlijn]]
+datum = "2026-09-14"
+wat = "Euronews: nergens zijn rendieren met misvormingen door windmolens beschreven [10]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Høyesterett, het Hooggerechtshof van Noorwegen"
+titel = "HR-2021-1975-S, Statnett SF v. Sør-Fosen sijte e.a."
+datum = "2021-10-11"
+url = "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"
+archief = "https://web.archive.org/web/20261031205108/https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Norges nasjonale institusjon for menneskerettigheter (NIM)"
+titel = "Agreement Reached with Reindeer Owners in Fosen (updated)"
+datum = "2023-12-19"
+url = "https://www.nhri.no/en/2023/agreement-reached-with-reindeer-owners-in-south-fosen/"
+archief = "https://web.archive.org/web/20260518221537/https://www.nhri.no/en/2023/agreement-reached-with-reindeer-owners-in-south-fosen/"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Aneo, mede-eigenaar van Roan Vind"
+titel = "Agreement on amicable settlement in Nord-Fosen"
+datum = "2024-03-06"
+url = "https://www.aneo.com/en/news/agreement-on-amicable-settlement-at-north-fosen"
+archief = "https://web.archive.org/web/20260811012401/https://www.aneo.com/en/news/agreement-on-amicable-settlement-at-north-fosen"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Store norske leksikon"
+titel = "Fosen Vind"
+datum = "2026-08-05"
+url = "https://snl.no/Fosen_Vind"
+archief = "https://web.archive.org/web/20261119151656/https://snl.no/Fosen_Vind"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "agrarheute"
+titel = "Rentiere statt Windkraft: 151 Windräder müssen weg"
+datum = "2021-10-18"
+url = "https://www.agrarheute.com/land-leben/rentiere-statt-windkraft-151-windraeder-muessen-weg-586411"
+archief = "https://web.archive.org/web/20260402233448/https://www.agrarheute.com/land-leben/rentiere-statt-windkraft-151-windraeder-muessen-weg-586411"
+
+[[bron]]
+nr = 6
+soort = "factcheck"
+uitgever = "AFP Faktencheck, via GADMO"
+titel = "Rentiere erleiden keine Fehlbildungen durch Windräder"
+datum = "2023-12-13"
+url = "https://gadmo.eu/rentiere-erleiden-keine-fehlbildungen-durch-windrder/"
+archief = "https://web.archive.org/web/20260412054930/https://gadmo.eu/rentiere-erleiden-keine-fehlbildungen-durch-windrder/"
+
+[[bron]]
+nr = 7
+soort = "factcheck"
+uitgever = "Mimikama"
+titel = "Faktencheck: Keine Fehlbildungen bei Rentieren durch Windräder"
+datum = "2023-12-16"
+url = "https://www.mimikama.org/rentiere-fehlbildungen-windparks/"
+archief = "https://web.archive.org/web/20240813072634/https://www.mimikama.org/rentiere-fehlbildungen-windparks/"
+
+[[bron]]
+nr = 8
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Factcheck over de windparken en de rendieren in Noorwegen"
+datum = "2026-08-24"
+url = "https://factchecknederland.afp.com/doc.afp.com.C68P3G3"
+archief = "https://web.archive.org/web/20260905211014/https://factchecknederland.afp.com/doc.afp.com.C68P3G3"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "X"
+titel = "De post over afbraak en misvormde rendieren"
+datum = "2026-08-11"
+prive = true
+archief = "https://web.archive.org/web/20261119150805/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2087241536601813166&omit_script=true"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "Euronews"
+titel = "Wind turbines cause animal malformations: true or false?"
+datum = "2026-09-14"
+url = "https://www.euronews.com/my-europe/2026/09/14/wind-turbines-cause-animal-malformations-true-or-false"
+archief = "https://web.archive.org/web/20260920195449/https://www.euronews.com/my-europe/2026/09/14/wind-turbines-cause-animal-malformations-true-or-false"
+
+[[bron]]
+nr = 11
+soort = "factcheck"
+uitgever = "EDMO"
+titel = "Wind turbines and poisoned animals: a 'New Denial''s popular disinformation narrative against renewable energy"
+datum = "2024-01-25"
+url = "https://edmo.eu/publications/wind-turbines-and-poisoned-animals-a-new-denials-popular-disinformation-narrative-against-renewable-energy/"
+archief = "https://web.archive.org/web/20260917210733/https://edmo.eu/publications/wind-turbines-and-poisoned-animals-a-new-denials-popular-disinformation-narrative-against-renewable-energy/"

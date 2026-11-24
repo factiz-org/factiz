@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck eritrese-rellen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "35732b3e97b1f052",
+ "veldafdrukken": {
+  "kop": "ececa8710b1c4815",
+  "oordeel_zin": "fa2de3b12ca3da08",
+  "bewering": "588a90a75201bcd9",
+  "kort": "df785e233be58cfe",
+  "tekst": "ee517c4a5204ca60",
+  "niet_weten": "99e8064aa79ed649",
+  "nog_uitzoeken": "85006e7de6ecede5",
+  "tijdlijn": "72caa9554a611a4d",
+  "beeld_bijschrift": "0796daec76d5d0d3",
+  "beeld_alt": "99cb9613e705d3eb"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Lahey'de Eritreli bir toplantıdaki ayaklanmanın videosu Şubat 2024'e ait",
+  "oordeel_zin": "Ayaklanma gerçekti, ama 17 Şubat 2024'te yaşandı ve neredeyse aynı metinle aynı video o tarihte X'te zaten paylaşılmıştı [1] [4].",
+  "bewering": "Lahey'de yanan polis araçlarının olduğu ayaklanma görüntüleri, şimdi yaşanıyormuş gibi paylaşıldı.",
+  "kort": "27 Ekim'de Hollandaca paylaşım yapan bir X hesabı, Lahey'deki ayaklanma görüntülerini yeni yaşanmış gibi paylaştı [5]. Görüntüler 17 Şubat 2024 Cumartesi gününe ait; o gün bir grup karşıt, Fruitweg'deki Opera etkinlik merkezinde düzenlenen Eritreli bir toplantıya zorla girmeye çalışmıştı [1] [3]. Aynı video, 2024'te o akşam X'te zaten yer almıştı ve metni, 2026 Ekim sonundaki İngilizce paylaşımlarla neredeyse aynıydı [4] [6].",
+  "tekst": "27 Ekim Salı günü saat 02:26'da Hollandaca paylaşım yapan bir X hesabı Lahey'deki ayaklanmanın görüntülerini paylaştı [5]. Birkaç saat sonra biri gönderiye bağlam bilgisi ekledi [5]. Hesap şu anda askıya alınmış durumda, bu yüzden gönderide tam olarak ne yazdığını artık okuyamadık [5].\n\nBirkaç saat önce, 26 Ekim Pazartesi günü saat 22:01'de, Lahey'deki büyük huzursuzluğu gösteren 24 saniyelik bir video İngilizce olarak yayımlandı [6]. Metne göre Eritreli göçmenler Opera binasına girdi ve polis araçlarını ateşe verdi [6]. Başka hesaplar videoyu aynı gece devraldı, bunlardan biri videoyu daha fazla ülkede protesto yaşandığının işareti olarak paylaştı [6].\n\nBu metin ve bu görüntüler yeni değil. 17 Şubat 2024 Cumartesi günü saat 19:42'de Visegrád 24 hesabı, aynı uzunlukta ve aynı formatta bir videoyla neredeyse aynı metni X'te paylaştı [4]. Bu gönderi 10 milyondan fazla görüntülendi [4].\n\nO akşam yaşananlar iyi belgelenmiş durumda. Fruitweg'deki Opera etkinlik merkezinde 500 ila 600 Eritreli yeni yılı kutluyordu [1]. Belediyeye göre bu kutlamayı Eritre hükümetinin destekçileri düzenlemişti [1]. Bir grup karşıt binaya girmeye çalıştı ve taş ile kaldırım taşları attı [1] [3]. Polis araçları, sakinlere ait arabalar ve bir tur otobüsü yandı [1] [3].\n\nÇevik kuvvet (ME) devreye sokuldu, Belediye Başkanı Jan van Zanen göz yaşartıcı gaz kullanımına izin verdi ve acil durum emri çıkardı [1]. Polis o gece 13 erkeği gözaltına aldı, sayı sonradan 16'ya çıktı [2] [7]. Belediye başkanına göre 26 polis yaralandı [7]. Kamu Savcılığı on şüpheli hakkında dava açtı ve tazminat talepleri toplamda 775.000 euroyu aştı [3].\n\nŞu anda dolaşan video yani gerçek, ama iki yıl sekiz aydan daha eski [1] [4].",
+  "niet_weten": "Hollandaca gönderinin tam olarak ne iddia ettiğini bilmiyoruz, çünkü hesap askıya alınmış durumda ve bir kopyasını bulamadık. Dolayısıyla o gönderideki videonun 26 Ekim'deki videoyla aynı olup olmadığından da tam olarak emin değiliz. Görüntüleri Şubat 2024'te kimin çektiğini bilmiyoruz; Visegrád 24 bir çekim yapanın adını vermedi. Görüntülerin neden tam da Ekim sonunda yeniden ortaya çıktığını araştırmadık.",
+  "nog_uitzoeken": [
+   "Hollanda'daki paylaşımın tam olarak ne iddia ettiği ve içindeki videonun aynı 24 saniye olup olmadığı. Hesap askıya alınmış durumda ve bir kopyasını bulamadık.",
+   "26 Ekim 2026 civarında Lahey'de Eritreli bir toplantıda olay çıkıp çıkmadığı. Bunu henüz polise ve Omroep West'e sormadık."
+  ],
+  "tijdlijn": [
+   "NOS, Fruitweg'deki Eritreli bir toplantı çevresinde, polis araçlarının yandığı ayaklanmaları bildiriyor [1].",
+   "Visegrád 24 videoyu X'te paylaşıyor [4].",
+   "13 erkek gözaltına alındı, altı polis yaralandı [2].",
+   "Belediye meclisi bağımsız bir soruşturma istiyor; gözaltı sayısı şimdilik 16, yaralı polis sayısı 26 [7].",
+   "Kamu Savcılığı on şüpheli için hapis cezası talep ediyor [3].",
+   "İngilizce bir gönderi, neredeyse aynı metinle aynı videoyu yeni diye paylaşıyor [6].",
+   "Görüntülerin yer aldığı Hollandaca gönderi [5]."
+  ],
+  "beeld_bijschrift": [
+   "X'te İngilizce gönderi, 26 Ekim 2026, 22:01. 27 Ekim tarihli Hollandaca gönderi silinmiş, hesap askıya alınmış durumda.",
+   "Visegrád 24, X, 17 Şubat 2024, 19:42: aynı video, Fruitweg'deki ayaklanmanın yaşandığı akşam."
+  ],
+  "beeld_alt": [
+   "Videodan bir kare: Lahey'de bir sokakta yanan bir polis aracı. Damga: YANILTICI.",
+   "Visegrád 24'teki video, Şubat 2024'te Lahey'de Opera etkinlik merkezindeki ayaklanmaya ait."
+  ]
+ }
+}

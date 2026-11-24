@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ask, one answer</title>
+<!--
+  Schermontwerp voor Ask Factiz (PLAN #24.10, DESIGN §4e), na de proef van de
+  PO op 2026-10-15: losse kaarten werken niet bij meer dan een paar treffers,
+  en een antwoord in een vreemde taal helpt niemand. Eén antwoord: een regel
+  met tellingen, dan per bewering één compacte regel die openklapt naar de
+  bonnetjes. Twee varianten: A zonder en B met een samenvatting van de
+  oordelen. Alle beweringen, checks en vertalingen zijn echt (index en
+  claim_variant, 2026-10-15, via ask.kandidaten en ask.getoond); de
+  vaccinvraag zoekt twintig diep in plaats van vijf; de tiplijnen zijn
+  plaatshouders. Geen externe bestanden.
+-->
+<style>
+  :root {
+    color-scheme: light dark;
+    --papier: #faf6ee; --kaart: #ffffff; --inkt: #20241f; --zacht: #5a6660; --rand: #e3ddd0;
+    --groen: #0e8a5b; --groen-donker: #0b5c3e; --mint: #e9f4ee; --oranje: #ee6a2a;
+    --rood: #9c3b2e; --midden: #8a6d1f; --notitie: #fff8e6; --notitierand: #e8d6a8; --focus: #b5541b;
+    --serif: ui-serif, "Iowan Old Style", Georgia, "Times New Roman", serif;
+    --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --papier: #141b17; --kaart: #1b2420; --inkt: #e9ede9; --zacht: #a7b3ac; --rand: #2c3732;
+      --groen: #35b47f; --groen-donker: #8fd3b4; --mint: #1a2f26; --oranje: #ff8b4d;
+      --rood: #f0a08f; --midden: #e0c26a; --notitie: #2a2617; --notitierand: #4a4126; --focus: #f0a46c;
+    }
+  }
+  :root[data-theme="dark"] {
+    --papier: #141b17; --kaart: #1b2420; --inkt: #e9ede9; --zacht: #a7b3ac; --rand: #2c3732;
+    --groen: #35b47f; --groen-donker: #8fd3b4; --mint: #1a2f26; --oranje: #ff8b4d;
+    --rood: #f0a08f; --midden: #e0c26a; --notitie: #2a2617; --notitierand: #4a4126; --focus: #f0a46c;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--papier); color: var(--inkt);
+         font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  a { color: var(--groen-donker); }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+  .baan { max-width: 760px; margin: 0 auto; padding: 24px 16px 72px; }
+  header.kop h1 { font-family: var(--serif); font-size: 1.6rem; margin: 0 0 6px; }
+  header.kop p { color: var(--zacht); margin: 4px 0; font-size: .95rem; }
+  .bediening { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 6px; }
+  .bediening button { font: inherit; font-size: .88rem; min-height: 44px; padding: 6px 14px; cursor: pointer;
+                      border: 1px solid var(--rand); border-radius: 999px; background: var(--kaart); color: var(--inkt); }
+  .bediening button[aria-pressed="true"] { border-color: var(--groen); background: var(--mint); font-weight: 650; }
+  h2.sectie { font-family: var(--mono); font-size: .78rem; letter-spacing: .07em; text-transform: uppercase;
+              color: var(--zacht); margin: 40px 0 10px; }
+  .scherm { border: 1px solid var(--rand); border-radius: 14px; background: var(--kaart); padding: 18px 18px 8px; }
+  .vraaglabel { font-weight: 600; font-size: .9rem; }
+  .vraagveld { margin: 6px 0 16px; padding: 10px 12px; border: 1px solid var(--rand); border-radius: 10px;
+               background: var(--papier); }
+  .samenvatting { font-family: var(--mono); font-size: .8rem; letter-spacing: .03em; color: var(--groen);
+                  font-weight: 700; margin: 0 0 8px; }
+  .tally { margin: 0 0 12px; padding: 10px 12px; border-left: 3px solid var(--groen); background: var(--mint);
+           border-radius: 0 8px 8px 0; font-size: .95rem; }
+  .tally.leeg { border-left-color: var(--rand); background: transparent; color: var(--zacht); }
+  body:not(.variantB) .alleenB { display: none; }
+  h3.groep { font-size: .78rem; font-family: var(--mono); letter-spacing: .06em; text-transform: uppercase;
+             color: var(--zacht); margin: 16px 0 4px; font-weight: 600; }
+  ul.rijen { list-style: none; margin: 0; padding: 0; }
+  .rij { border-top: 1px solid var(--rand); }
+  .rij summary { list-style: none; cursor: pointer; display: grid; grid-template-columns: auto 1fr; gap: 2px 12px;
+                 padding: 10px 2px; align-items: baseline; min-height: 44px; }
+  .rij summary::-webkit-details-marker { display: none; }
+  .rij summary::after { content: "+"; grid-column: 2; justify-self: end; color: var(--zacht); margin-top: -1.6em; }
+  .rij details[open] summary::after { content: "-"; }
+  .chip { grid-row: span 2; font-size: .78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px;
+          border: 1.5px solid var(--rand); white-space: nowrap; }
+  .chip.kant-rood { border-color: var(--rood); color: var(--rood); }
+  .chip.kant-groen { border-color: var(--groen); color: var(--groen-donker); }
+  .chip.kant-midden { border-color: var(--midden); color: var(--midden); }
+  .chip.kant-geen { border-style: dashed; color: var(--zacht); }
+  .bewering { font-family: var(--serif); font-size: 1.05rem; line-height: 1.35; padding-right: 22px; }
+  .rijmeta { grid-column: 2; color: var(--zacht); font-size: .82rem; }
+  .eigen, .vertaling { margin: 0 0 8px; font-size: .88rem; color: var(--zacht); padding-left: 2px; }
+  .eigen { color: var(--inkt); }
+  .rij details[open] + .dicht { display: none; }
+  .dicht { margin: -4px 0 8px; }
+  ol.bonnetjes { list-style: none; margin: 0 0 6px; padding: 0; }
+  ol.bonnetjes li { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; padding: 7px 0;
+                    border-top: 1px dashed var(--rand); font-size: .9rem; }
+  .uitgever { font-weight: 650; }
+  .oordeel { border: 1px solid var(--rand); border-radius: 999px; padding: 0 8px; font-size: .84rem; }
+  .vert { color: var(--zacht); }
+  .meta { color: var(--zacht); font-size: .82rem; }
+  .rijvoet { display: flex; justify-content: space-between; gap: 8px; color: var(--zacht); font-size: .82rem; margin: 6px 0 10px; }
+  .leegblok h3 { font-family: var(--serif); margin: 0 0 6px; }
+  .tip { border: 1px solid var(--rand); border-radius: 10px; padding: 10px 12px; margin: 12px 0; }
+  .tip h4 { margin: 0 0 4px; }
+  .klein { font-size: .85rem; color: var(--zacht); margin: 2px 0 6px; }
+  .tiplijst { margin: 4px 0; padding-left: 18px; }
+  .plaatshouder { color: var(--zacht); font-family: var(--mono); font-size: .82rem; }
+  .plaatsnoot { font-style: italic; }
+  aside.notitie { margin: 10px 0 0; padding: 10px 14px; background: var(--notitie); border: 1px solid var(--notitierand);
+                  border-radius: 10px; font-size: .9rem; }
+  aside.notitie p { margin: 4px 0; }
+  @media (max-width: 520px) {
+    .rij summary { grid-template-columns: 1fr; }
+    .chip { grid-row: auto; justify-self: start; }
+    .rij summary::after { grid-column: 1; }
+    .rijmeta { grid-column: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="baan">
+<header class="kop">
+  <h1>Ask: one answer instead of a stack of cards</h1>
+  <p>Ontwerp voor Ask Factiz na de proef van de PO (2026-10-15). Elke treffer is één regel; klik een regel open
+  voor de bonnetjes. Alles is echt, behalve de tiplijnen.</p>
+  <p><strong>Besloten (PO 2026-10-15): variant B</strong>, vertalingen na de leesproef (§117), tiplijnen uit de
+  lijst van WhatsApp. Gebouwd in <code>doublecheck/askui.py</code>; dit bestand blijft als verslag van de keuze.</p>
+  <div class="bediening" role="group" aria-label="Variant en kleurmodus">
+    <button type="button" id="knopA" aria-pressed="true">Variant A: no summary of verdicts</button>
+    <button type="button" id="knopB" aria-pressed="false">Variant B: with a summary of verdicts</button>
+    <button type="button" id="thema">Light / dark</button>
+  </div>
+  <p id="uitlegB">Variant B vat de oordelen samen, maar alleen als alle beweringen hetzelfde zeggen
+  (geen tegenspraak tussen de regels) en er minstens twee zijn; anders zegt hij waarom niet.</p>
+</header>
+<section class="geval"><h2 class="sectie">1 · Many hits: nine claims, ten newsrooms</h2><div class="scherm"><div class="vraag"><span class="vraaglabel">Your question</span><div class="vraagveld">Do vaccines cause autism in children?</div></div><div class="antwoord"><p class="samenvatting">9 checked claims close to your question · 10 newsrooms · 6 languages · 2018-2025</p><p class="tally alleenB">No summary: these claims do not all say the same thing. "Vaccines do not cause autism" says the opposite, and was rated true.</p><h3 class="groep">Close to your question</h3><ul class="rijen"><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">vaccines cause autism</span><span class="rijmeta">2 newsrooms · 2018-2019</span></summary><ol class="bonnetjes"><li><span class="uitgever">Health Feedback</span><span class="oordeel">Incorrect <span class="vert">(false)</span></span><span class="meta">2019-03-26 · es</span><a href="https://healthfeedback.org/how-we-know-vaccines-do-not-cause-autism-why-this-belief-persists/" rel="noopener noreferrer">source</a></li><li><span class="uitgever">National Academies of Sciences, Engineering, and Medicine</span><span class="oordeel">False</span><span class="meta">2018-12-21 · es</span><a href="https://www.nationalacademies.org/based-on-science/vaccines-do-not-cause-autism" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="geen"><details><summary><span class="chip kant-geen">Fact-checked</span><span class="bewering">Childhood vaccination leads to autism</span><span class="rijmeta">1 newsroom · 2024</span></summary><p class="eigen">In their words, First Check: "Scientific consensus firmly establishes that childhood vaccinations do not cause autism"</p><ol class="bonnetjes"><li><span class="uitgever">First Check</span><span class="oordeel">Scientific consensus firmly establishes that childhood vaccinations do not cause autism</span><span class="meta">2024-09-20 · en</span><a href="https://firstcheck.in/fact-check-can-vaccines-for-children-lead-to-autism/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="eigen">In their words, First Check: "Scientific consensus firmly establishes that childhood vaccinations do not cause autism"</p></div></li><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">Vaccines increase the rate of autism?</span><span class="rijmeta">1 newsroom · 2025</span></summary><p class="vertaling">Machine translation from Japanese. Original: <span lang="ja">ワクチンで自閉症の発生率が増加？</span></p><ol class="bonnetjes"><li><span class="uitgever">日本ファクトチェックセンター</span><span class="oordeel">誤り <span class="vert">(false)</span></span><span class="meta">2025-02-03 · ja</span><a href="https://www.factcheckcenter.jp/fact-check/health/false-vaccines-increase-autism/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="vertaling">Machine translation from Japanese. Original: <span lang="ja">ワクチンで自閉症の発生率が増加？</span></p></div></li></ul><h3 class="groep">Related to your question</h3><ul class="rijen"><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">It has been proven that vaccines cause autism.</span><span class="rijmeta">2 newsrooms · 2019-2023</span></summary><p class="vertaling">Machine translation from Spanish. Original: <span lang="es">Se ha demostrado que las vacunas causan autismo.</span></p><ol class="bonnetjes"><li><span class="uitgever">El Detector / Univision Noticias</span><span class="oordeel">Falso <span class="vert">(false)</span></span><span class="meta">2023-06-06 · es</span><a href="https://www.univision.com/noticias/falso-probado-vacuna-causen-austismo" rel="noopener noreferrer">source</a></li><li><span class="uitgever">Newtral</span><span class="oordeel">Falso <span class="vert">(false)</span></span><span class="meta">2019-06-21 · es</span><a href="https://www.newtral.es/las-vacunas-no-causan-autismo-no-hay-pruebas-cientificas-al-respecto/20190621/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="vertaling">Machine translation from Spanish. Original: <span lang="es">Se ha demostrado que las vacunas causan autismo.</span></p></div></li><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">Aluminum in vaccines cause autism</span><span class="rijmeta">2 newsrooms · 2024-2025 · Earlier: partly true (2024)</span></summary><ol class="bonnetjes"><li><span class="uitgever">BR24 Faktenfuchs</span><span class="oordeel">False</span><span class="meta">2025-10-17 · und</span><a href="https://www.br.de/nachrichten/wissen/autismus-mythen-ueber-aluminium-und-paracetamol-ein-faktenfuchs,UzDduez" rel="noopener noreferrer">source</a></li><li><span class="uitgever">THIP Media</span><span class="oordeel">Mostly False <span class="vert">(partly true)</span></span><span class="meta">2024-02-22 · und</span><a href="https://www.thip.media/health-news-fact-check/fact-check-conspiracy-theory-health/fact-check-can-aluminum-in-vaccine-cause-autism/58563/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">Pneumococcal vaccines cause autism</span><span class="rijmeta">1 newsroom · 2023</span></summary><ol class="bonnetjes"><li><span class="uitgever">THIP Media</span><span class="oordeel">False</span><span class="meta">2023-05-16 · und</span><a href="https://www.thip.media/health-news-fact-check/fact-check-do-pneumococcal-vaccines-cause-autism/46724/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="groen"><details><summary><span class="chip kant-groen">Known to be true</span><span class="bewering">Vaccines do not cause autism</span><span class="rijmeta">1 newsroom · 2019</span></summary><ol class="bonnetjes"><li><span class="uitgever">Africa Check</span><span class="oordeel">True</span><span class="meta">2019-04-11 · gl</span><a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/big-data-study-confirms-vaccines-do-not-cause-autism" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="geen"><details><summary><span class="chip kant-geen">Fact-checked</span><span class="bewering">The measles vaccine causes autism.</span><span class="rijmeta">1 newsroom · 2025</span></summary><p class="eigen">In their words, BR24 Faktenfuchs: "Falsch. Groß angelegte Studien zeigen, dass es keinen Zusammenhang zwischen dem Auftreten von Autismus und der Masern-Impfung gibt."</p><p class="vertaling">Machine translation from German. Original: <span lang="de">Die Masern-Impfung löst Autismus aus</span></p><ol class="bonnetjes"><li><span class="uitgever">BR24 Faktenfuchs</span><span class="oordeel">Falsch. Groß angelegte Studien zeigen, dass es keinen Zusammenhang zwischen dem Auftreten von Autismus und der Masern-Impfung gibt.</span><span class="meta">2025-05-23 · de</span><a href="https://www.br.de/nachrichten/wissen/masern-behauptungen-im-faktencheck-faktenfuchs,UlvW8Dg" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="eigen">In their words, BR24 Faktenfuchs: "Falsch. Groß angelegte Studien zeigen, dass es keinen Zusammenhang zwischen dem Auftreten von Autismus und der Masern-Impfung gibt."</p><p class="vertaling">Machine translation from German. Original: <span lang="de">Die Masern-Impfung löst Autismus aus</span></p></div></li><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">The MMR vaccine causes autism</span><span class="rijmeta">1 newsroom · 2019</span></summary><p class="vertaling">Machine translation from Hebrew. Original: <span lang="he">גורם לאוטיזם MMR החיסון המשולש</span></p><ol class="bonnetjes"><li><span class="uitgever">The Whistle by Globes</span><span class="oordeel">לא נכון <span class="vert">(false)</span></span><span class="meta">2019-11-28 · he</span><a href="https://thewhistle.globes.co.il/web-statement/38vJaP8Vxz" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="vertaling">Machine translation from Hebrew. Original: <span lang="he">גורם לאוטיזם MMR החיסון המשולש</span></p></div></li></ul></div></div><aside class="notitie"><p>Negen regels in één blik, in plaats van negen kaarten. Productie toont nu hoogstens vijf (diepte 5, gemeten in §115); dit voorbeeld zoekt twintig diep om te laten zien hoe de lijst schaalt. Een diepere lijst vraagt een eigen meting.</p><p>Let op de regel <em>Vaccines do not cause autism</em>: Africa Check beoordeelde die als <em>waar</em>. Daarom groepeert dit ontwerp niet op gelijkenis (die regel ligt op 0,82 van <em>vaccines cause autism</em>), en weigert variant B hier een samenvatting. Een telling als "8 onwaar, 1 waar" zou de lezer op het verkeerde been zetten.</p><p>Regels zonder oordeel (First Check, BR24) tonen de eigen woorden van de redactie: dat is route (1) van B31, zonder taalmodel.</p></aside></section>
+<section class="geval"><h2 class="sectie">2 · Four close claims, one nuance</h2><div class="scherm"><div class="vraag"><span class="vraaglabel">Your question</span><div class="vraagveld">Is the US testing biological weapons in labs in Ukraine?</div></div><div class="antwoord"><p class="samenvatting">4 checked claims close to your question · 2 newsrooms · 1 language · 2017-2022</p><p class="tally alleenB">All 4 rated checks found these claims false or misleading. 1 check gives no rating; PolitiFact: "Labs, yes. Weapons, no"</p><h3 class="groep">Close to your question</h3><ul class="rijen"><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">Ukraine is a testing site for US biological weapons.</span><span class="rijmeta">1 newsroom · 2017</span></summary><ol class="bonnetjes"><li><span class="uitgever">EUvsDisinfo</span><span class="oordeel">disinformation <span class="vert">(false)</span></span><span class="meta">2017-08-25 · en</span><a href="https://euvsdisinfo.eu/report/ukraine-is-a-testing-ground-for-us-biological-weapons" rel="noopener noreferrer">source</a></li><li><span class="uitgever">EUvsDisinfo</span><span class="oordeel">disinformation <span class="vert">(false)</span></span><span class="meta">2017-08-25 · en</span><a href="https://euvsdisinfo.eu/report/ukraine-is-a-testing-site-for-us-biological-weapons" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="geen"><details><summary><span class="chip kant-geen">Fact-checked</span><span class="bewering">There are U.S.-backed bioweapon labs in Ukraine.</span><span class="rijmeta">1 newsroom</span></summary><p class="eigen">In their words, PolitiFact: "Labs, yes. Weapons, no"</p><ol class="bonnetjes"><li><span class="uitgever">PolitiFact</span><span class="oordeel">Labs, yes. Weapons, no</span><span class="meta">no date · en</span><a href="https://www.politifact.com/article/2022/mar/11/russia-china-and-tucker-carlson-lack-evidence-ukra/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="eigen">In their words, PolitiFact: "Labs, yes. Weapons, no"</p></div></li></ul><h3 class="groep">Related to your question</h3><ul class="rijen"><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">The US is secretly developing biological weapons in military laboratories in Ukraine, close to the border with Russia.</span><span class="rijmeta">1 newsroom · 2022</span></summary><ol class="bonnetjes"><li><span class="uitgever">EUvsDisinfo</span><span class="oordeel">disinformation <span class="vert">(false)</span></span><span class="meta">2022-03-06 · en</span><a href="https://euvsdisinfo.eu/report/the-us-is-secretly-developing-biological-weapons-in-ukraine" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">US may develop “next generation” biological weapons in its laboratories located in Ukraine.</span><span class="rijmeta">1 newsroom · 2019</span></summary><ol class="bonnetjes"><li><span class="uitgever">EUvsDisinfo</span><span class="oordeel">disinformation <span class="vert">(false)</span></span><span class="meta">2019-01-15 · en</span><a href="https://euvsdisinfo.eu/report/us-developing-biological-weapons-in-ukraine" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details></li></ul></div></div><aside class="notitie"><p>PolitiFact zegt <em>Labs, yes. Weapons, no</em>. De vier beweringen liggen onderling boven 0,81; wie op gelijkenis samenvoegt, verstopt precies dat verschil. Daarom staan ze als vier regels.</p><p>Variant B vat hier wel samen: alle beoordeelde checks zeggen onwaar, en de ene zonder oordeel staat er met haar eigen woorden bij.</p></aside></section>
+<section class="geval"><h2 class="sectie">3 · One hit, in a language you may not read</h2><div class="scherm"><div class="vraag"><span class="vraaglabel">Your question</span><div class="vraagveld">Is the alien interrogation video real?</div></div><div class="antwoord"><p class="samenvatting">1 checked claim close to your question · 1 newsroom · 1 language · 2023</p><h3 class="groep">Related to your question</h3><ul class="rijen"><li class="rij" data-kant="rood"><details><summary><span class="chip kant-rood">Known to be false</span><span class="bewering">The claim that the person in the video is a real alien.</span><span class="rijmeta">1 newsroom · 2023</span></summary><p class="vertaling">Machine translation from Turkish. Original: <span lang="tr">Videodakinin gerçek bir uzaylı olduğu iddiası</span></p><ol class="bonnetjes"><li><span class="uitgever">Doğrula</span><span class="oordeel">Yanlış <span class="vert">(false)</span></span><span class="meta">2023-09-18 · tr</span><a href="https://www.dogrula.org/dogrulamalar/videodaki-gercek-bir-uzayli-mi/" rel="noopener noreferrer">source</a></li></ol><p class="rijvoet">The sources are the verdict. <a href="#" class="betwist">Wrong? Tell us</a></p></details><div class="dicht"><p class="vertaling">Machine translation from Turkish. Original: <span lang="tr">Videodakinin gerçek bir uzaylı olduğu iddiası</span></p></div></li></ul></div></div><aside class="notitie"><p>De bewering staat in het Engels, uit de varianten die Haiku 5.5 offline schreef voor het zoeken (#25.17), met het Turkse origineel eronder en het oordeel van Doğrula als <em>Yanlış (false)</em>. Die vertalingen zijn nooit nagelezen voor weergave: eerst een leesproef van 100.</p></aside></section>
+<section class="geval"><h2 class="sectie">4 · Nothing found</h2><div class="scherm"><div class="vraag"><span class="vraaglabel">Your question</span><div class="vraagveld">Did the Dutch government ban cash payments in shops from January?</div></div><div class="antwoord"><div class="leegblok"><h3>No checked claim close enough</h3><p>Nothing in the memory is close enough to this question. That does not mean the answer is yes or no, only that no newsroom has checked it, or not in a way we hold. Most new rumours are not checked yet.</p><div class="tip"><h4>Send it to a fact-checker</h4><p class="klein">Newsrooms that take tips, in your language. They decide what to check.</p><ul class="tiplijst"><li class="plaatshouder">[newsroom 1] · [WhatsApp tipline / form] · [language]</li><li class="plaatshouder">[newsroom 2] · [WhatsApp tipline / form] · [language]</li><li class="plaatshouder">[newsroom 3] · [WhatsApp tipline / form] · [language]</li></ul><p class="klein plaatsnoot">Placeholder: the list still has to be compiled from the IFCN and EFCSN directories.</p></div><p class="rijvoet"><a href="#" class="betwist">Know a check we missed? Tell us</a></p></div></div></div><aside class="notitie"><p>Echt gezocht: geen bewering boven de drempel. In plaats van een doodlopend eind een volgende stap: redacties die tips aannemen, in de taal van de lezer. De drie regels zijn plaatshouders; de lijst moet nog uit de registers van IFCN en EFCSN komen.</p></aside></section>
+</div>
+<script>
+  const knopA = document.getElementById('knopA'), knopB = document.getElementById('knopB');
+  function zet(b) {
+    document.body.classList.toggle('variantB', b);
+    knopA.setAttribute('aria-pressed', String(!b));
+    knopB.setAttribute('aria-pressed', String(b));
+  }
+  knopA.addEventListener('click', () => zet(false));
+  knopB.addEventListener('click', () => zet(true));
+  document.getElementById('thema').addEventListener('click', () => {
+    const nu = document.documentElement.getAttribute('data-theme')
+      || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', nu === 'dark' ? 'light' : 'dark');
+  });
+  document.querySelectorAll('a.betwist').forEach(a => a.addEventListener('click', ev => ev.preventDefault()));
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bordeaux 的消防員是被爆炸的噴霧罐所傷,而不是被年輕人潑汽油",
+  "oordeel_zin": "9月29日,一名消防員在撲滅路障火堆時,因噴霧罐在火中爆炸而被噴射火焰短暫波及;沒有人向他潑汽油,也沒有人點燃他 [1] [3]。",
+  "bewering": "年輕人在法國的抗議活動中向一名消防員潑汽油並放火燒他。",
+  "kort": "10月1日和2日,X 上流傳荷蘭語貼文,稱法國的年輕人向一名消防員潑汽油並將他點燃 [8]。9月29日在 Bordeaux,確實有一名消防員被短暫的噴射火焰波及,當時他正要撲滅路障火堆,一個噴霧罐在火中爆炸 [1] [3]。事件與汽油無關;10月1日在 Marseille 被潑汽油的是一位校長 [5] [6]。",
+  "tekst": "10月1日星期四 21:12,X 上出現一則荷蘭語貼文:年輕人在法國抗議期間向一名消防員潑汽油並點火 [8]。隔天下午,第二則貼文把地點說成 Bordeaux [8]。一個英語帳號在10月2日發布了一張帶有相同說法的照片,據 CORRECTIV 稱,該照片被觀看700萬次,Elon Musk 也作出回應 [11]。\n\n法國媒體報導了實際發生的事:9月29日星期二約12:30,學生封鎖了 Bordeaux rue Sainte-Catherine 上的 lycée Montaigne,入口處的街上有一個路障在燃燒 [1]。一名消防員走向火堆準備撲滅,此時火中有東西爆炸:一道噴射火焰短暫地將他包圍 [1] [2]。\n\n根據 Gironde 省政府的說法,那是火中的一個噴霧罐 [3]。消防員受了輕傷,被送往醫院,當天下午就回到了消防站 [1]。省長表示,他有幾天無法工作 [1]。在 BFMTV 和 Le Figaro 從兩個角度拍攝的影片中,沒有人點燃他,噴射火焰過後,他自己向後走了幾公尺 [4] [11] [12]。\n\n關於 Bordeaux 的報導中,沒有任何一則提到汽油 [1] [3]。Bordeaux 檢察署確實針對故意縱火並致重傷展開了調查;噴霧罐是否被故意放入火中,有待該調查釐清 [1]。\n\n那一週確實發生了與汽油有關的事,但是在 Marseille,對象也不是消防員:10月1日,在 lycée Victor-Hugo 外,校長被潑了汽油,據檢察署稱他受了傷 [5] [6]。另一種說法是,一名學生想把汽油扔進垃圾桶時,汽油濺到了老師身上 [7]。同一天早上,在 lycée Saint-Exupéry,數百名年輕人包圍了一輛消防車,趕走消防員,並放火燒毀該車 [5] [7]。這些報導都沒有提到有消防員被點燃 [5] [6] [7]。\n\n其他語言的查核機構得出了相同的結論:An-Nahar 在10月5日、EFE Verifica 在10月6日、CORRECTIV 在10月12日、ZDFheute 在10月14日 [9] [10] [11] [12]。據 CORRECTIV 稱,該照片是真的;攝影師向 AFP 證實了這一點 [11]。荷蘭語方面,Knack 寫了一篇查核報導,最遲在10月19日已經上線 [13]。",
+  "niet_weten": "我們不知道荷蘭語貼文中出現的是哪一張圖像。CORRECTIV 稱這張照片是真實的,An-Nahar 看到的圖像與影片不同,可能是重新擺拍製作的 [9] [11]。也許當時流傳著兩張圖像。我們也不知道是否有人故意把噴霧罐放進火中,以及檢察署的調查結果如何。",
+  "nog_uitzoeken": [
+   "兩則荷蘭語貼文顯示的是哪一張圖像:Guillaume Bonnaud 拍攝的真實照片、重新擺拍的版本,還是一段影片。這些貼文已經不見了。",
+   "波爾多檢察署是否公布了調查的任何內容,以及是否有人故意把噴霧罐放進火中。",
+   "其他事實查核機構的判斷不一:ZDFheute 和 Mimikama 判定為誤導,CORRECTIV、EFE Verifica 和 An-Nahar 判定為不實。我們判定為不實。"
+  ],
+  "tijdlijn": [
+   "一名消防員在 Bordeaux lycée Montaigne 前的路障旁被噴射火焰波及 [1]。",
+   "BFMTV 在 X 上發布了該時刻的影片 [4]。",
+   "在 Marseille,一名校長被潑汽油,一輛消防車被縱火燒毀 [5] [6]。",
+   "第一則荷蘭語貼文:被潑汽油並被點燃 [8]。",
+   "第二則荷蘭語貼文把地點說成 Bordeaux [8]。",
+   "An-Nahar:該說法不正確 [9]。",
+   "CORRECTIV:照片是真的,沒有人點燃消防員 [11]。",
+   "最遲在這一天,Knack 的查核報導已經上線 [13]。"
+  ],
+  "beeld_bijschrift": [
+   "BFMTV 於 X,2026年9月29日:消防員在 Bordeaux lycée Montaigne 旁的影片。"
+  ],
+  "beeld_alt": [
+   "BFMTV 的影片:一名消防員走向街上的一小堆火,火焰猛然竄起,隨即熄滅。"
+  ]
+ }
+}

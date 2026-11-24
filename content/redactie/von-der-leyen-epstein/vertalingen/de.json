@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Bild von Ursula von der Leyen mit Jeffrey Epstein wurde mit KI erstellt",
+  "oordeel_zin": "Das Bild trägt ein KI-Wasserzeichen, stand schon im Juli mit einer KI-Kennzeichnung auf Facebook, und die Nummern darauf kommen in den Epstein-Akten nicht vor [1] [2] [11].",
+  "bewering": "Dieses Foto aus den Epstein-Akten zeigt Ursula von der Leyen mit Jeffrey Epstein.",
+  "kort": "Seit dem 7. Oktober kursiert auf X auf Niederländisch ein Bild von Ursula von der Leyen mit Jeffrey Epstein, auf dem eine Aktennummer und eine Dokumentennummer stehen [10]. Das Bild wurde mit KI erstellt: Es steht seit dem 12. Juli mit einer Kennzeichnung für KI-Inhalte auf Facebook, und Redaktionen fanden darin ein unsichtbares KI-Wasserzeichen [11] [1] [2]. Die Nummern auf dem Bild kommen in den freigegebenen Epstein-Akten des US-Justizministeriums nicht vor [1] [3] [6].",
+  "tekst": "Am Mittwoch, dem 7. Oktober 2026, um 23:21 Uhr erschien auf X ein niederländischsprachiger Post mit einem Bild von Ursula von der Leyen, der Präsidentin der Europäischen Kommission, neben Jeffrey Epstein [10]. Auf dem Bild stehen eine Aktennummer und eine Dokumentennummer, die nahelegen sollen, dass es aus den Epstein-Akten stammt [1] [4].\n\nDas Bild ist älter als der Post. Das früheste Exemplar, das Redaktionen fanden, steht seit dem 12. Juli 2026 auf Facebook, bei einer Privatperson, mit der Kennzeichnung, die Meta bei Inhalten setzt, die mit KI erstellt wurden [11] [1]. Einen Tag später stand es auf der französischsprachigen Seite des Pravda-Netzwerks [1]. Das ist ein Netzwerk prorussischer Seiten, die sich als Nachrichtenmedium ausgeben [9]. Danach verbreitete sich das Bild unter anderem auf Italienisch, Spanisch, Deutsch, Englisch, Georgisch und Russisch [1] [2] [4] [5].\n\nDas italienische Open und das spanische Maldita.es fanden im Bild SynthID [1] [2]. Das ist ein unsichtbares Wasserzeichen, das Google in Bilder einbringt, die mit seiner KI erstellt oder bearbeitet wurden [8]. Auch Lead Stories und TheJournal.ie meldeten ein KI-Wasserzeichen [3] [4]. Open fand in Pressearchiven und in den freigegebenen Unterlagen kein echtes Foto der beiden zusammen [1].\n\nNun zu den Nummern. Das US-Justizministerium stellt die Unterlagen aus den Ermittlungen zu Epstein in der Epstein Library online [6]. Im Januar 2026 kamen dort etwa 3 Millionen Seiten hinzu, nach früheren Freigaben [7]. Laut Open, Lead Stories und Myth Detector kommen die Nummern auf dem Bild in diesen Unterlagen nicht vor, und das Ministerium verwendet eine ganz andere Nummerierung [1] [3] [5].\n\nDer niederländische Post kam fast drei Monate nach dem ersten Faktencheck, den wir fanden, von Open am 15. Juli, und fünf Wochen nach dem von Lead Stories [1] [3] [10]. Einen Faktencheck auf Niederländisch fanden wir nicht.",
+  "niet_weten": "Wir wissen nicht, wer das Bild erstellt hat. Lead Stories und TheJournal.ie schreiben, dass ein Programm von OpenAI das Wasserzeichen SynthID gefunden habe [3] [4]. SynthID stammt von Google [8]; warum ein Programm von OpenAI es meldet, wissen wir nicht. Das ändert nichts am Urteil: Open und Maldita.es fanden das Wasserzeichen mit den Programmen von Google [1] [2].",
+  "nog_uitzoeken": [
+   "Welche Version des Bildes der Beitrag zeigte, Schwarz-Weiß oder in Farbe, und welcher Text dabeistand. Der Beitrag ist nicht mehr abrufbar."
+  ],
+  "tijdlijn": [
+   "Das Justizministerium stellt etwa 3 Millionen Seiten über Epstein online [7].",
+   "Das Bild auf Facebook, mit der Meta-Kennzeichnung für KI-Inhalte [11] [1].",
+   "Das Bild auf der französischsprachigen Seite des Pravda-Netzwerks [1].",
+   "Open: Das Bild wurde mit KI erstellt [1].",
+   "Maldita.es: falsch, mit dem Wasserzeichen von Google [2].",
+   "Lead Stories: mit KI erstellt, Nummern nicht in den Akten [3].",
+   "TheJournal.ie: mit KI erstellt, mehr als tausendmal auf Facebook geteilt [4].",
+   "Der niederländischsprachige Post auf X [10].",
+   "Myth Detector: Das Bild kursiert auf Georgisch und Russisch [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

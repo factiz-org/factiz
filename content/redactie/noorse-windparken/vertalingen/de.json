@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Norwegische Windparks Storheia und Roan werden nicht abgerissen, und missgebildete Rentiere spielten keine Rolle",
+  "oordeel_zin": "Das Gericht entschied 2021 über die Weideflächen samischer Rentierhalter, nicht über Missbildungen, und nach zwei Vereinbarungen drehen sich die 151 Windräder weiter [1] [2] [3].",
+  "bewering": "Norwegen reißt Windparks ab, weil durch die Windräder missgebildete Rentiere geboren werden.",
+  "kort": "Seit dem 11. August kursiert auf X ein Beitrag, wonach Norwegen zwei Windparks abreißt, weil missgebildete Rentiere geboren werden [9]. Der Oberste Gerichtshof Norwegens erklärte die Genehmigungen von Storheia und Roan 2021 für ungültig, weil die samischen Rentierhalter ihre Winterweiden verloren hatten, nicht wegen der Gesundheit der Tiere [1]. Nach Vereinbarungen im Dezember 2023 und im März 2024 drehen sich die 151 Windräder weiter [2] [3].",
+  "tekst": "Der Beitrag auf X nennt zwei Windparks mit zusammen 151 Windrädern, Storheia und Roan, auf der Halbinsel Fosen in Mittelnorwegen [9]. Diese Parks gibt es: Storheia hat 80 Windräder und Roan 71, und beide gingen 2019 in Betrieb [4]. Beim Beitrag steht ein Link zu einem deutschen Fachblatt vom Oktober 2021, das damals schrieb, die 151 Windräder müssten weg [5] [9].\n\nDer Rechtsstreit war echt. Am 11. Oktober 2021 entschied der Oberste Gerichtshof Norwegens einstimmig, dass die Genehmigungen für beide Parks ungültig waren [1]. Die Parks verletzten das Recht der samischen Rentierhalter von Fosen, ihre eigene Kultur auszuüben, das in Artikel 27 des UN-Pakts über bürgerliche und politische Rechte steht [1]. Im Kern ging es darum, dass die Rentiere die Winterweiden bei den Parks in der Praxis verloren hatten und dass dies die Rentierhaltung auf Fosen bedrohte [1].\n\nZur Gesundheit der Rentiere steht nichts im Urteil, und zu missgebildeten Kälbern ebenfalls nichts [1]. Das Gericht sagte auch nicht, was mit den Windrädern geschehen sollte [4].\n\nAbgerissen wurden sie nicht. Im Dezember 2023 schlossen die Rentierhalter von Sør-Fosen eine Vereinbarung über Storheia, mit zusätzlichem Land, einer Entschädigung und einem Vetorecht gegen neue Windenergie nach Ablauf der Genehmigung [2]. Das norwegische Institut für Menschenrechte schrieb, diese Vereinbarung scheine die Verletzung zu beheben [2]. Am 6. März 2024 folgte eine Vereinbarung für Roan: 7 Millionen Kronen pro Jahr, bis die Genehmigung 2043 ausläuft, und danach nur dann eine neue Genehmigung, wenn die Rentierhalter zustimmen [3]. Der Strom wird ganz normal weiter erzeugt [3].\n\nDie missgebildeten Rentiere stammen aus einem Leserbrief in der Landshuter Zeitung, einer bayerischen Zeitung, vom 9. Oktober 2023 [6] [7]. Der Brief führte die Missbildungen auf Vibrationen der Windräder zurück und ging danach auf Facebook und X herum [6]. AFP befragte sechs Rentierforscher in Norwegen, Schweden und Österreich dazu, und keiner von ihnen kannte eine Studie, die Missbildungen oder Fehlgeburten durch Windräder belegt [6]. Allerdings zeigt Forschung, dass Rentiere Gebiete rund um Windräder meiden, vor allem zur Kalbungszeit [6].\n\nDie Geschichte ist also nicht neu. Anfang 2024 meldete EDMO, das europäische Netzwerk von Faktencheckern, dass sie auch in niederländischer Übersetzung kursierte [11].",
+  "niet_weten": "Wir wissen nicht, wer den Brief von 2023 als Erstes ins Niederländische übersetzt hat und ob der Beitrag vom August darauf zurückgeht. Den Brief selbst haben wir nicht gelesen; was darin stand, wissen wir aus den Checks von AFP und Mimikama. Dass die Windräder jetzt noch laufen, leiten wir aus Aneo, Store norske leksikon und Euronews ab; Produktionszahlen von nach September 2026 haben wir nicht gesehen.",
+  "bereik": "101.303 Mal angesehen am 18. November",
+  "nog_uitzoeken": [
+   "Ob es 2023 oder 2024 schon einen niederländischsprachigen Check gab, bei Nieuwscheckers, Factcheck Vlaanderen oder Knack.",
+   "Der Rechtsstreit ist echt, der Abriss und die missgebildeten Rentiere sind es nicht. Wir haben \"falsch\" gewählt; \"irreführend\" ist ebenfalls vertretbar."
+  ],
+  "tijdlijn": [
+   "Der Oberste Gerichtshof Norwegens erklärt die Genehmigungen für Storheia und Roan für ungültig [1].",
+   "Agrarheute schreibt, die 151 Windräder müssten weg [5].",
+   "Ein Leserbrief in der Landshuter Zeitung über missgebildete Rentierkälber [6].",
+   "AFP Faktencheck: Es gibt keinen Beleg für Missbildungen durch Windräder [6].",
+   "Mimikama kommt zum selben Ergebnis [7].",
+   "Das norwegische Institut für Menschenrechte meldet die Vereinbarung für Storheia [2].",
+   "Vereinbarung für Roan; die Windräder bleiben in Betrieb [3].",
+   "Der Beitrag über Abriss und missgebildete Rentiere auf X [9].",
+   "AFP Factcheck Nederland prüft den Beitrag [8].",
+   "Euronews: Nirgends wurden Rentiere mit Missbildungen durch Windräder beschrieben [10]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 11. August 2026, 20:15 Uhr, mit einem Link zu agrarheute aus dem Jahr 2021."
+  ],
+  "beeld_alt": [
+   "Screenshot eines Beitrags auf X über norwegische Windparks und missgebildete Rentiere, mit einer Linkkarte eines deutschen Fachblatts. Stempel: FALSCH."
+  ]
+ }
+}

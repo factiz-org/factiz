@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Mullin a dit que Trump avait déclaré l'état d'urgence national à cause de l'arrêt au sol, mais aucune déclaration n'existe",
+  "oordeel_zin": "Le secrétaire à la Sécurité intérieure Markwayne Mullin l'a affirmé à la Maison-Blanche, mais aucune déclaration n'apparaît dans le Federal Register ni parmi les actes du président, et il l'a dit en demandant de l'argent au Congrès [2] [4] [5].",
+  "bewering": "🚨 C'EST DINGUE : le président Trump a DÉCLARÉ L'ÉTAT D'URGENCE NATIONALE à cause du système de contrôle aérien américain en panne.  Un journaliste a demandé si une cyberattaque ou une IA devenue incontrôlable en était la cause. Le secrétaire à la Sécurité intérieure, Markwayne Mullin, affirme qu'il n'y a AUCUNE PREUVE d'une cyberattaque pour l'instant.",
+  "kort": "Il n'existe aucune déclaration d'état d'urgence national à propos de l'arrêt au sol aux États-Unis, bien que le secrétaire à la Sécurité intérieure Markwayne Mullin ait dit que le président Trump en avait fait une [2] [11]. Un extrait de son point presse a circulé sur X comme l'annonce de cette déclaration [1]. Aucune proclamation ni aucun décret n'apparaît dans le Federal Register, où la loi exige qu'il soit publié, et Mullin l'a dit en demandant de l'argent au Congrès [2] [4] [6].",
+  "tekst": "Le 13 novembre, vers 15 h 30, heure de l'Est (20 h 30 UTC), la Federal Aviation Administration (FAA) a interrompu tous les départs des aéroports américains, un arrêt au sol (ground stop) [8]. Un afflux de données sur son réseau de télécommunications avait rendu instables des équipements plus anciens, et la FAA dit n'avoir aucune indication d'une cyberattaque [8].\n\nCe soir-là, Mullin et le secrétaire aux Transports Sean Duffy ont fait un point presse à la Maison-Blanche [9]. Mullin a qualifié l'ancien système de contrôle du trafic aérien de risque pour la sécurité nationale et a déclaré : « Le président a déclaré qu'il s'agit d'un état d'urgence national, et maintenant il faut que le Congrès agisse et le finance. » [2] Son ministère a publié cette phrase, et The National News Desk l'a rapportée le soir même [2] [11].\n\nLe 14 novembre à 01 h 54 UTC, le compte Gunther Eagleman a publié un extrait du point presse, accompagné du texte disant que Trump avait déclaré l'état d'urgence national [1]. Une publication ultérieure a présenté l'arrêt au sol comme une opération militaire menée dans le cadre d'un état d'urgence national, et Mike Flynn, ancien conseiller à la sécurité nationale, a écrit que, selon certaines informations, des unités militaires étaient en alerte, mais nous n'avons trouvé aucune information de ce type [13] [14].\n\nEn vertu de la loi sur les urgences nationales (National Emergencies Act), le président déclare l'état d'urgence national par une proclamation transmise au Congrès et publiée dans le Federal Register [6]. Trump en a déclaré un sur le réseau électrique en août, dans le décret présidentiel 14421 [7]. Pour l'arrêt au sol, nous n'en avons trouvé aucune : le Federal Register a publié trois documents présidentiels depuis le 13 novembre, aucun sur le trafic aérien ou sur une urgence, et la Maison-Blanche ne répertorie aucun acte de ce type [4] [5].\n\nTrump lui-même n'a rien dit publiquement avant le 15 novembre, jour où il a demandé au Congrès l'argent « desperately needed money for Air Traffic Control » [10]. Le résumé du point presse publié par la Maison-Blanche met des points de suspension à la place de la phrase de Mullin, et cite Duffy : « C'est une urgence. Je veux que le Congrès nous accorde des fonds d'urgence. » [3] [11]",
+  "niet_weten": "Nous ne savons pas si Trump a qualifié la panne d'état d'urgence national en privé, ni si Mullin faisait allusion à l'appel à des fonds d'urgence [2] [3], ni pourquoi la Maison-Blanche a omis sa phrase [3].",
+  "bereik": "14 713 mentions « J'aime » et 877 réponses au 22 novembre ; cinq autres publications avec la même affirmation totalisaient 23 107 mentions « J'aime »",
+  "nog_uitzoeken": [
+   "Sur quoi Mullin a fondé ses propos, et si le DHS ou la Maison-Blanche les ont corrigés.",
+   "Si une déclaration concernant le contrôle du trafic aérien finit par être publiée ; nous avons vérifié jusqu'au 22 novembre.",
+   "Nous avons hésité entre Trompeur et Faux. Mullin a bien prononcé ces mots, ce qui nous a fait choisir Trompeur ; il n'existe pas de déclaration, ce qui oriente vers Faux."
+  ],
+  "tijdlijn": [
+   "Vers 15 h 30, heure de l'Est, la FAA connaît un problème technique et interrompt tous les départs dans tout le pays [8].",
+   "Les vols reprennent, à 20 h 15, heure de l'Est, le 13 novembre [8].",
+   "Après 20 h 15, heure de l'Est, le 13 novembre, Mullin et Duffy font un point presse à la Maison-Blanche ; Mullin dit que le président a déclaré l'état d'urgence national [2] [9] [11].",
+   "Gunther Eagleman publie un extrait du point presse : Trump a déclaré l'état d'urgence national [1].",
+   "Un autre compte écrit que Trump a déclaré l'état d'urgence national et demande à Grok de le vérifier [12].",
+   "Le premier message de Trump sur l'arrêt au sol, sur Truth Social, demande de l'argent au Congrès pour le contrôle du trafic aérien [10].",
+   "Trump met en cause un équipement très ancien et dit qu'il n'assume aucune responsabilité [9].",
+   "Aucune déclaration concernant l'arrêt au sol dans le Federal Register ni parmi les actes présidentiels de la Maison-Blanche [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 14 novembre 2026, 1 h 54 UTC.",
+   "Le point presse complet de Markwayne Mullin et Sean Duffy, publié par la Maison-Blanche, 13 novembre 2026."
+  ],
+  "beeld_alt": [
+   "Une publication sur X de Gunther Eagleman disant que le président Trump a déclaré l'état d'urgence national à cause du système de contrôle du trafic aérien, avec une image de Fox News montrant Sean Duffy et Markwayne Mullin au point presse de la Maison-Blanche. Tampon : TROMPEUR.",
+   "La vidéo de la Maison-Blanche du point presse sur l'arrêt au sol de la FAA, avec le secrétaire aux Transports Sean Duffy et le secrétaire à la Sécurité intérieure Markwayne Mullin."
+  ]
+ }
+}

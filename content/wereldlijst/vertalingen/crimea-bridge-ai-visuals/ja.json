@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "オンラインで共有されている画像と動画は、2026年11月にウクライナがクリミア橋を攻撃した後、橋が壊れて分断された様子を写していると主張しています。",
+  "kern": [
+   "ウクライナは2026年11月17日にクリミア橋を攻撃し、大きな損害を与えたのは事実ですが、出回っている画像と動画はその損害を写したものではありません。[1] [2] [3]",
+   "切り離された橋の一部を写した画像の1枚は、ウクライナ保安庁が公開した映像の瓦礫とは一致せず、検出ツールによって目に見えないAIの透かしが見つかりました。[1]",
+   "ドローンから撮影したかのような動画は、崩落した橋を写した本物の映像とは異なり、AIの使用を示す透かしが入っています。また、別の写真はウィキペディアにある2019年の橋の写真と一致し、AIで加工された可能性が高いとされています。[2] [3]"
+  ],
+  "rondgang": "これらの映像は2026年11月18日から、Facebook、X、Instagramで、英語、スペイン語、ポーランド語などの言語で拡散しました。[1] [2] [3]"
+ }
+}

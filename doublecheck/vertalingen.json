@@ -1,0 +1,455 @@
+{
+  "_meta": "Handgemaakte vertalingen van echte corpusclaims (PLAN.md #14.7, E4.S1-AC5). De bronkant is letterlijk de canonieke corpustekst; de doelkant is een getrouwe vertaling van dezelfde bewering — waarheid door constructie, zoals de rest van de testset. Herbouwd na de omzetting naar het CC BY-corpus, waarin de helft van de oude fixture niet meer voorkwam (BENCHMARK.md §36d). Talen beperkt tot Germaans en Romaans: die kan de opsteller verifiëren. Een onopgemerkte vertaalfout zou de meting stil corrumperen. LICENTIE: de bronteksten komen uit de Data Commons-feed en staan onder CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Per paar staat de uitgever en de verwijzing waar naar verwezen moet worden. De doelkant is een bewerking — een vertaling door dit project, niet door de uitgever — en is als zodanig gemarkeerd zoals CC BY voorschrijft (PLAN.md #15.2).",
+  "paren": [
+    {
+      "claim_id": "gfc-002c80236838b5f5",
+      "bron_taal": "nl",
+      "bron": "Deze video's tonen een zinkend Brits vrachtschip na een aanval van de Houthi's.",
+      "doel_taal": "en",
+      "doel": "These videos show a sinking British cargo ship after an attack by the Houthis.",
+      "publisher": "VRTNWS",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/02/23/video-schip-houthi-rebellen"
+    },
+    {
+      "claim_id": "gfc-005710ed86812738",
+      "bron_taal": "nl",
+      "bron": "Deze foto's tonen schedels en botten in de catacombes van het Vaticaan.",
+      "doel_taal": "en",
+      "doel": "These photos show skulls and bones in the catacombs of the Vatican.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/220617-99-702897"
+    },
+    {
+      "claim_id": "gfc-00583af0cd111c4c",
+      "bron_taal": "nl",
+      "bron": "De Nederlandse regering wil 3000 boeren onteigenen tegen 2030.",
+      "doel_taal": "en",
+      "doel": "The Dutch government wants to expropriate 3000 farmers by 2030.",
+      "publisher": "Knack",
+      "url": "https://www.knack.be/factcheck/factcheck-nee-nederlandse-regering-wil-geen-3000-boeren-onteigenen/"
+    },
+    {
+      "claim_id": "gfc-006fa88f415e4475",
+      "bron_taal": "nl",
+      "bron": "Het logo ‘Rainforest Alliance’ is van Bill Gates, en voedsel met het logo bevat mRNA.",
+      "doel_taal": "en",
+      "doel": "The 'Rainforest Alliance' logo belongs to Bill Gates, and food carrying the logo contains mRNA.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/230712-99-372413/"
+    },
+    {
+      "claim_id": "gfc-0090d52488a626c4",
+      "bron_taal": "nl",
+      "bron": "Deze foto toont de reacties uit de zaal op de mep van Will Smith tijdens de Oscaruitreiking.",
+      "doel_taal": "en",
+      "doel": "This photo shows the reactions from the audience to Will Smith's slap during the Oscars ceremony.",
+      "publisher": "Knack",
+      "url": "https://www.knack.be/nieuws/factcheck/factcheck-nee-deze-foto-toont-geen-reacties-op-de-mep-van-will-smith/article-longread-1851549.html"
+    },
+    {
+      "claim_id": "gfc-011e2d3a6cadc5d2",
+      "bron_taal": "nl",
+      "bron": "In Italië is sinds 22 oktober een klimaatlockdown van kracht. \n",
+      "doel_taal": "en",
+      "doel": "A climate lockdown has been in force in Italy since 22 October.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/221102-99-360025/"
+    },
+    {
+      "claim_id": "gfc-01696fc74d850287",
+      "bron_taal": "nl",
+      "bron": "Deze foto toont aan dat Zelensky nooit op straat is geweest en altijd een greenscreen heeft gebruikt.",
+      "doel_taal": "en",
+      "doel": "This photo proves that Zelensky has never been out on the street and has always used a green screen.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/belgium/220622-99-754930/"
+    },
+    {
+      "claim_id": "gfc-019a06a3e2ace978",
+      "bron_taal": "nl",
+      "bron": " President Zelensky kreeg een vredesakkoord aangeboden maar weigerde dat.",
+      "doel_taal": "en",
+      "doel": "President Zelensky was offered a peace agreement but refused it.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/220425-99-33961"
+    },
+    {
+      "claim_id": "gfc-01b6298ee661e019",
+      "bron_taal": "nl",
+      "bron": " De nummer #1 doodsoorzaak in Alberta in 2021 was SADS.",
+      "doel_taal": "en",
+      "doel": "The number one cause of death in Alberta in 2021 was SADS.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/220905-99-636547"
+    },
+    {
+      "claim_id": "gfc-0111f648cd0c26ee",
+      "bron_taal": "nl",
+      "bron": " Deze foto toont einde van de bijeenkomst van de milieuactivisten in Lausanne.",
+      "doel_taal": "en",
+      "doel": "This photo shows the end of the gathering of environmental activists in Lausanne.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/netherlands/240410-99-628395"
+    },
+    {
+      "claim_id": "gfc-0026feab84e93c83",
+      "bron_taal": "es",
+      "bron": "La Iglesia de Suecia ha nombrado a Greta Thunberg sucesora de Jesucristo",
+      "doel_taal": "en",
+      "doel": "The Church of Sweden has named Greta Thunberg the successor to Jesus Christ.",
+      "publisher": "Newtral ",
+      "url": "https://www.newtral.es/bulo-iglesia-suecia-no-greta-thunberg-sucesora-de-jesucristo/20191003/"
+    },
+    {
+      "claim_id": "gfc-0071973809e13d00",
+      "bron_taal": "es",
+      "bron": "Los asesinatos en El Salvador han bajado un 70% \"porque están mandando a sus asesinos a Estados Unidos\".",
+      "doel_taal": "en",
+      "doel": "Murders in El Salvador have fallen by 70% “because they are sending their killers to the United States”.",
+      "publisher": "PolitiFact",
+      "url": "https://www.politifact.com/article/2024/jul/19/donald-trump-acepta-la-nominacion-republicana-veri/"
+    },
+    {
+      "claim_id": "gfc-00852f902745eb9c",
+      "bron_taal": "es",
+      "bron": "La invasión al Capitolio de EEUU fue provocada por Antifa",
+      "doel_taal": "en",
+      "doel": "The invasion of the US Capitol was provoked by Antifa.",
+      "publisher": "El detector / Univision Noticias",
+      "url": "https://www.univision.com/noticias/protesta-no-la-invasion-al-capitolio-de-eeuu-no-fue-provocada-por-antifa-ni-blm"
+    },
+    {
+      "claim_id": "gfc-00a5649c6abac97d",
+      "bron_taal": "es",
+      "bron": "El puente de Fukui en Japón fue construido en menos de 24 horas",
+      "doel_taal": "en",
+      "doel": "The Fukui bridge in Japan was built in less than 24 hours.",
+      "publisher": "Newtral",
+      "url": "https://www.newtral.es/el-puente-de-fukui-en-japon-no-fue-construido-en-menos-de-24-horas/20191020/"
+    },
+    {
+      "claim_id": "gfc-00a7f551a722f477",
+      "bron_taal": "es",
+      "bron": "“Agarran con cocaína al presidente de Francia y al canciller alemán”: #Falso",
+      "doel_taal": "en",
+      "doel": "“The president of France and the German chancellor were caught with cocaine”: #False",
+      "publisher": "Fast Check CL",
+      "url": "https://www.fastcheck.cl/2025/05/15/agarran-con-cocaina-al-presidente-de-francia-y-al-canciller-aleman-falso/"
+    },
+    {
+      "claim_id": "gfc-00aca3d8a4cae15d",
+      "bron_taal": "es",
+      "bron": "Smartmatic es una empresa que fue fundada por [Hugo] Chávez y por los dos aliados de Chávez, que aún lo poseen. ",
+      "doel_taal": "en",
+      "doel": "Smartmatic is a company that was founded by [Hugo] Chávez and by two allies of Chávez, who still own it.",
+      "publisher": "El detector / Univision Noticias",
+      "url": "https://www.univision.com/noticias/las-descabelladas-fantasias-del-abogado-de-trump-rudy-giuliani-sobre-el-fraude-electoral"
+    },
+    {
+      "claim_id": "gfc-00ae58c58f38d94e",
+      "bron_taal": "es",
+      "bron": "\"La Administración Trump no tiene un plan ante el Covid-19\"",
+      "doel_taal": "en",
+      "doel": "\"The Trump administration has no plan for Covid-19\"",
+      "publisher": "Noticias Telemundo / Politifact",
+      "url": "https://www.telemundo.com/noticias/noticias-telemundo/elecciones-eeuu-2020/las-afirmaciones-falsas-y-enganosas-que-verificamos-durante-el-debate-entre-harris-y-pence-tmna3838914"
+    },
+    {
+      "claim_id": "gfc-00b15b28f775ae73",
+      "bron_taal": "es",
+      "bron": "Vídeo de unos hombres asaltando un comercio en Ceuta",
+      "doel_taal": "en",
+      "doel": "Video of some men robbing a shop in Ceuta",
+      "publisher": "Newtral",
+      "url": "https://www.newtral.es/no-es-ceuta-los-asaltantes-de-este-video-son-universitarios-de-sudafrica/20190905/"
+    },
+    {
+      "claim_id": "gfc-00937023c10ef56a",
+      "bron_taal": "es",
+      "bron": "\"“California fue el #1 nacional en crecimiento del empleo en julio\"",
+      "doel_taal": "en",
+      "doel": "\"California was number 1 nationally in job growth in July\"",
+      "publisher": "Factchequeado / El Detector",
+      "url": "https://www.univision.com/noticias/falta-contexto-califoria-redujo-desempleo-no-mayor-crecimiento-empleo-newsom"
+    },
+    {
+      "claim_id": "gfc-002ab8b29a3bdaca",
+      "bron_taal": "es",
+      "bron": "“El presidente de Codelco gana casi $400 millones mensuales”: #Falso",
+      "doel_taal": "en",
+      "doel": "“The president of Codelco earns almost $400 million a month”: #False",
+      "publisher": "Fast Check CL",
+      "url": "https://www.fastcheck.cl/2024/09/26/el-presidente-de-codelco-gana-casi-400-millones-mensuales-falso/"
+    },
+    {
+      "claim_id": "gfc-00519b805473e1d7",
+      "bron_taal": "de",
+      "bron": "Insekten sind als Weichtiere auf Lebensmitteln gekennzeichnet",
+      "doel_taal": "en",
+      "doel": "Insects are labelled as molluscs on foodstuffs.",
+      "publisher": "APA - Austria Presse Agentur",
+      "url": "https://apa.at/faktencheck/weiter-falschinfos-zu-lebensmitteln-mit-insekten/"
+    },
+    {
+      "claim_id": "gfc-008302eacade3451",
+      "bron_taal": "de",
+      "bron": "Robert Habeck würde eher Menschen verhungern lassen, als Sanktionen gegen Russland aufzuheben.",
+      "doel_taal": "en",
+      "doel": "Robert Habeck would sooner let people starve than lift sanctions against Russia.",
+      "publisher": "Deutsche Presse-Agentur",
+      "url": "https://dpa-factchecking.com/germany/220602-99-519885"
+    },
+    {
+      "claim_id": "gfc-00999117a744d269",
+      "bron_taal": "de",
+      "bron": "Am Ammersee werden in letzter Zeit immer wieder Kinder von Migranten vergewaltigt.",
+      "doel_taal": "en",
+      "doel": "Children are repeatedly being raped by migrants at the Ammersee lately.",
+      "publisher": "BR24 #Faktenfuchs",
+      "url": "https://www.br.de/nachrichten/bayern/keine-belege-fuer-vergewaltigungen-durch-migranten-am-ammersee,UQ3tK80"
+    },
+    {
+      "claim_id": "gfc-00a9142c0098a53c",
+      "bron_taal": "de",
+      "bron": "\"Die Kriminalität im District of Columbia ist außer Kontrolle geraten.\"",
+      "doel_taal": "en",
+      "doel": "\"Crime in the District of Columbia has spiralled out of control.\"",
+      "publisher": "DW",
+      "url": "https://www.dw.com/de/faktencheck-kriminalit%C3%A4t-in-washington-dc-ist-nicht-au%C3%9Fer-kontrolle/a-73622729"
+    },
+    {
+      "claim_id": "gfc-00ec0b5f36aab6c7",
+      "bron_taal": "de",
+      "bron": "Viele dürfen sich aus medizinischen Gründen nicht gegen Covid-19 impfen lassen.",
+      "doel_taal": "en",
+      "doel": "Many people are not allowed to be vaccinated against Covid-19 for medical reasons.",
+      "publisher": "www.stern.de",
+      "url": "https://www.stern.de/gesundheit/corona-und-impfung--zehn-behauptungen-im-wahrheitscheck--31568876.html"
+    },
+    {
+      "claim_id": "gfc-010a9229d8fa0629",
+      "bron_taal": "de",
+      "bron": "Die Pflanze auf dem Foto blüht alle 400 Jahre und wächst im Himalaya.",
+      "doel_taal": "en",
+      "doel": "The plant in the photo blooms every 400 years and grows in the Himalayas.",
+      "publisher": "Deutsche Presse-Agentur",
+      "url": "https://dpa-factchecking.com/austria/210315-99-835263"
+    },
+    {
+      "claim_id": "gfc-013db4c269fc50fa",
+      "bron_taal": "de",
+      "bron": "Hitler und Braun waren 1939 auf dem Cover der Vogue zu sehen. ",
+      "doel_taal": "en",
+      "doel": "Hitler and Braun appeared on the cover of Vogue in 1939.",
+      "publisher": "dpa Faktencheck",
+      "url": "https://dpa-factchecking.com/austria/220817-99-423578"
+    },
+    {
+      "claim_id": "gfc-013f350cc059cba7",
+      "bron_taal": "de",
+      "bron": "Krankenhauszahlen von 2020 im Vergleich zu 2019 zeigen, dass Gesundheitssystem nicht überlastet ist",
+      "doel_taal": "en",
+      "doel": "Hospital figures from 2020 compared with 2019 show that the health system is not overloaded.",
+      "publisher": "BR24 Faktenfuchs",
+      "url": "https://www.br.de/nachrichten/wissen/krankenhaus-zahlen-sind-die-jahre-2020-und-2019-vergleichbar,SQaPwhQ"
+    },
+    {
+      "claim_id": "gfc-017b9c9cc959652f",
+      "bron_taal": "de",
+      "bron": "Corona-Infizierte ohne Symptome übertragen das Virus nicht",
+      "doel_taal": "en",
+      "doel": "People infected with coronavirus who have no symptoms do not transmit the virus.",
+      "publisher": "watson",
+      "url": "https://www.watson.ch/schweiz/coronavirus/808257734-coronavirus-nicht-schlimmer-als-grippe-faktencheck-zu-13-behauptungen"
+    },
+    {
+      "claim_id": "gfc-01b7a61c34b646f7",
+      "bron_taal": "de",
+      "bron": "Bleistifte oder Buntstifte in der Wahlkabine sind ein Hinweis auf mögliche Betrugsvorbereitungen.",
+      "doel_taal": "en",
+      "doel": "Pencils or coloured pencils in the voting booth are a sign of possible preparations for fraud.",
+      "publisher": "BR24 Faktenfuchs",
+      "url": "https://www.br.de/nachrichten/bayern/faktenfuchs-was-im-wahllokal-bei-den-kommunalwahlen-gilt,VCDlaoE"
+    },
+    {
+      "claim_id": "gfc-001c37f3b3bee38b",
+      "bron_taal": "pt",
+      "bron": "“Tem mais de 80 mil pessoas em situação de rua [na cidade de] São Paulo”",
+      "doel_taal": "en",
+      "doel": "“There are more than 80,000 homeless people in the city of São Paulo”",
+      "publisher": "Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2024/08/08/checamos-ao-vivo-o-primeiro-debate-para-a-prefeitura-de-sp-na-band"
+    },
+    {
+      "claim_id": "gfc-003d5fb4aac373f4",
+      "bron_taal": "pt",
+      "bron": "“No ano passado, os gastos militares somaram mais de US$ 2,224 trilhões”",
+      "doel_taal": "en",
+      "doel": "“Last year, military spending totalled more than US$ 2.224 trillion”",
+      "publisher": "Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2023/09/19/lula-na-onu-acompanhe-a-checagem-do-discurso-do-presidente-em-nova-york"
+    },
+    {
+      "claim_id": "gfc-00ade33955521ce1",
+      "bron_taal": "pt",
+      "bron": "Um candidato a vereador da cidade de Timon, no Maranhão, está oferecendo sua esposa por uma noite em troca de votos.",
+      "doel_taal": "en",
+      "doel": "A candidate for city councillor in the town of Timon, Maranhão, is offering his wife for a night in exchange for votes.",
+      "publisher": "Boatos.org",
+      "url": "https://www.boatos.org/politica/candidato-vereador-oferece-esposa-troca-votos.html"
+    },
+    {
+      "claim_id": "gfc-01027d1618f2dfd9",
+      "bron_taal": "pt",
+      "bron": "\"São 3 mil crianças que não têm vaga nas creches\"",
+      "doel_taal": "en",
+      "doel": "\"There are 3,000 children who have no place in the nurseries\"",
+      "publisher": "Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2024/09/10/em-porto-alegre-juliana-brizola-exagera-sobre-bairro-afetado-na-enchente"
+    },
+    {
+      "claim_id": "gfc-01113a002c061530",
+      "bron_taal": "pt",
+      "bron": "Lula decidiu que 25% do seu imóvel é de propriedade do governo",
+      "doel_taal": "en",
+      "doel": "Lula decided that 25% of his property belongs to the government.",
+      "publisher": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/comprova/enganoso-reforma-tributaria-nao-preve-taxa-de-25-em-compra-e-venda-de-imoveis-diferentemente-do-que-afirma-post"
+    },
+    {
+      "claim_id": "gfc-0012da43ebe1c7c6",
+      "bron_taal": "pt",
+      "bron": "Pronaf só liberava R$ 2 bilhões, quando nós deixamos o governo era R$ 30 bilhões",
+      "doel_taal": "en",
+      "doel": "Pronaf only released R$ 2 billion; when we left government it was R$ 30 billion",
+      "publisher": "Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2022/10/19/flow-lula-exagera-economia"
+    },
+    {
+      "claim_id": "gfc-00bbcfbe79a5c233",
+      "bron_taal": "fr",
+      "bron": "Karim et Toufik, les deux patients en réanimation filmés par BFMTV et l'AFP, sont la même personne",
+      "doel_taal": "en",
+      "doel": "Karim and Toufik, the two intensive-care patients filmed by BFMTV and AFP, are the same person",
+      "publisher": "Fact & Furious",
+      "url": "https://factandfurious.com/fact-checking/non-toufik-et-karim-ne-sont-pas-la-meme-personne-filmee-par-bfmtv-et-lafp"
+    },
+    {
+      "claim_id": "gfc-0105eb8e591059af",
+      "bron_taal": "fr",
+      "bron": " On ne peut plus rentrer au CHU Tivoli sans pass sanitaire, même pour une visite médicale.",
+      "doel_taal": "en",
+      "doel": "You can no longer enter the Tivoli university hospital without a health pass, not even for a medical appointment.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/belgium/211119-99-63783"
+    },
+    {
+      "claim_id": "gfc-0120e1fda43b50ee",
+      "bron_taal": "fr",
+      "bron": "Les personnes vaccinées contre le Covid-19 ne peuvent faire de don de sang ou d'organe.",
+      "doel_taal": "en",
+      "doel": "People vaccinated against Covid-19 cannot donate blood or organs.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/belgium/220519-99-353140/"
+    },
+    {
+      "claim_id": "gfc-0178afd1e5aad6ca",
+      "bron_taal": "fr",
+      "bron": " En Allemagne, les autopsies prouvent que la vaccination contre le Covid-19 cause de nombreux décès.",
+      "doel_taal": "en",
+      "doel": "In Germany, autopsies prove that vaccination against Covid-19 causes many deaths.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/belgium/211115-99-08990"
+    },
+    {
+      "claim_id": "gfc-01b20abab0d3e48d",
+      "bron_taal": "fr",
+      "bron": " Les batteries des voitures électriques meurent après trois heures d'embouteillage, dans des conditions hivernales.",
+      "doel_taal": "en",
+      "doel": "Electric car batteries die after three hours in a traffic jam in winter conditions.",
+      "publisher": "dpa",
+      "url": "https://dpa-factchecking.com/switzerland/220202-99-948642"
+    },
+    {
+      "claim_id": "gfc-00889867665138fc",
+      "bron_taal": "fr",
+      "bron": "Ce site Web prétendant partager un avis de recrutement lancé par la compagnie des bauxites de Guinée (CBG) en 2025",
+      "doel_taal": "en",
+      "doel": "This website claiming to share a recruitment notice issued by the Guinea bauxite company (CBG) in 2025",
+      "publisher": "PesaCheck",
+      "url": "https://pesacheck.org/canular-cet-avis-de-recrutement-ne-vient-pas-de-la-compagnie-des-bauxites-de-guin%C3%A9e-ae490d98d391"
+    },
+    {
+      "claim_id": "gfc-0002adb819d5244b",
+      "bron_taal": "en",
+      "bron": "The shooting at an elementary school in Uvalde County, Texas, was a false flag.\n",
+      "doel_taal": "nl",
+      "doel": "De schietpartij op een basisschool in Uvalde County, Texas, was een false flag.",
+      "publisher": "PolitiFact",
+      "url": "https://www.politifact.com/factchecks/2022/may/25/tweets/no-uvalde-school-shooting-wasnt-false-flag/"
+    },
+    {
+      "claim_id": "gfc-001012bcdf6bd89d",
+      "bron_taal": "en",
+      "bron": "38 Percent of Americans Will Not Buy Corona Beer Because of Corona Virus",
+      "doel_taal": "nl",
+      "doel": "38 procent van de Amerikanen wil geen Corona-bier kopen vanwege het coronavirus.",
+      "publisher": "The Dispatch Fact Check",
+      "url": "https://thedispatch.com/article/are-38-percent-of-americans-avoiding/"
+    },
+    {
+      "claim_id": "gfc-001d65b66b4ca7c5",
+      "bron_taal": "en",
+      "bron": "Japanese method of drinking water on an empty stomach will prevent a heart attack.",
+      "doel_taal": "nl",
+      "doel": "De Japanse methode om water op een lege maag te drinken voorkomt een hartaanval.",
+      "publisher": "Africa Check",
+      "url": "https://africacheck.org/fact-checks/meta-programme-fact-checks/no-drinking-water-empty-stomach-not-100-cure-any-disease"
+    },
+    {
+      "claim_id": "gfc-00162dced2416a8f",
+      "bron_taal": "en",
+      "bron": "This is an image of an old bicycle used by Indian police staff 100 years ago",
+      "doel_taal": "nl",
+      "doel": "Dit is een foto van een oude fiets die de Indiase politie honderd jaar geleden gebruikte.",
+      "publisher": "FAct Crescendo",
+      "url": "https://english.factcrescendo.com/2024/03/11/image-of-cycle-used-by-germans-during-ww1-viral-as-vintage-indian-police-cycle/"
+    },
+    {
+      "claim_id": "gfc-001849b2c74acdba",
+      "bron_taal": "en",
+      "bron": "Photo of the pop singer Rihanna posing with Pakistan National flag",
+      "doel_taal": "es",
+      "doel": "Foto de la cantante pop Rihanna posando con la bandera nacional de Pakistán",
+      "publisher": "FACTLY",
+      "url": "https://factly.in/morphed-photo-shared-as-pop-singer-rihanna-posing-with-the-pakistan-national-flag/"
+    },
+    {
+      "claim_id": "gfc-000b044074f2ee6d",
+      "bron_taal": "en",
+      "bron": "An image of Jain monk Mayank Sagar, who was attacked and injured by Muslims in Karnataka.",
+      "doel_taal": "es",
+      "doel": "Una imagen del monje jainista Mayank Sagar, que fue atacado y herido por musulmanes en Karnataka.",
+      "publisher": "FACTLY",
+      "url": "https://factly.in/an-old-image-of-a-jain-monk-injured-in-a-road-accident-in-karnataka-falsely-linked-to-muslim-attack/"
+    },
+    {
+      "claim_id": "gfc-001eed941a2f34d3",
+      "bron_taal": "en",
+      "bron": "The viral image is from North Korea’s 85th Army Founding Day celebrations on March 25, 2017.",
+      "doel_taal": "de",
+      "doel": "Das virale Bild stammt von den Feierlichkeiten zum 85. Jahrestag der Gründung der nordkoreanischen Armee am 25. März 2017.",
+      "publisher": "Logically Facts",
+      "url": "https://www.logicallyfacts.com/en/fact-check/false-2017-image-from-north-korea-peddled-as-iran-preparing-to-attack-israel"
+    },
+    {
+      "claim_id": "gfc-000946846df1c7a3",
+      "bron_taal": "en",
+      "bron": "South Dakota Gov. Kristi Noem said, “At least I have the guts to look in the eyes of the animal I’m killing!”\n",
+      "doel_taal": "de",
+      "doel": "Die Gouverneurin von South Dakota, Kristi Noem, sagte: „Wenigstens habe ich den Mut, dem Tier in die Augen zu sehen, das ich töte!“",
+      "publisher": "PolitiFact",
+      "url": "https://www.politifact.com/factchecks/2024/may/15/viral-image/no-this-isnt-a-real-statement-from-south-dakota-go/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "「Rode Lijn 活動人士」與警察的影片，實際拍攝於 Sloterdijk 的資料中心抗議現場",
+  "oordeel_zin": "這段影片是真的，但出自 11 月 6 日對工地的占領行動，而且在 Rode Lijn 開始之前就已經出現在 X 上 [8]。",
+  "bewering": "Rode lijn 活動人士警告警方。",
+  "kort": "11 月 8 日，一段示威者對警察喊話的影片流傳開來，被當作 Rode Lijn 活動人士的畫面。這一幕其實是兩天前拍攝的，地點是 Sloterdijk 一處為 Microsoft 興建資料中心的工地被占領的現場 [1] [2]。這段影片在 Rode Lijn 於 Museumplein 的示威開始之前，就已經出現在 X 上 [5] [8]。",
+  "tekst": "11 月 8 日星期日 12:23，X 上出現一段 28 秒的影片，配上文字「Rode lijn 活動人士警告警方。」[8]。半小時後，第四場 Rode Lijn 示威在阿姆斯特丹的 Museumplein 開始 [5]。\n\n這一幕本身也出現在 AT5。AT5 於 11 月 6 日星期五 15:49 將其發布在 X 上，描述為一名警察與一名示威者之間的激烈爭論 [2]。AT5 當天下午的直播報導寫道，一名示威者對一名警察說他要小心，警察則問他是不是在受到威脅 [1]。事發地點在 Plimsollweg 工地的圍欄外，當時機動隊（ME）正在清場 [1]。\n\n這次占領是 Geef Tegengas 這個團體發起的行動，反對為 Microsoft 興建資料中心 [3]。親巴勒斯坦的示威者也參與其中，場地上掛著巴勒斯坦旗幟 [3] [9]。機動隊（ME）使用了警棍和胡椒噴霧 [9]。警方拘留了 218 人，他們全部在一天後獲釋 [4]。\n\n貼文中的這段影片，早在 11 月 7 日星期六 18:46 就已出現在 X 上，發布者是另一個帳號。這是我們從 X 為每段影片所給的編號推算出來的，因為編號中包含上傳的時間點。同樣的計算用在 AT5 的影片上，得出的正是他們發文的時間 [2] [8]。\n\n在 Rode Lijn 現場，警方也有出手。15:34，警方在 Overtoom 逮捕一人時使用了警棍 [6]。貼文中的影片不可能是這一幕，因為它早在三小時前就已經出現 [8]。警方稱這場示威平靜而克制，共有四人被拘留 [6]。主辦方表示至少有 200,000 人參加 [7]。路線是從 Museumplein 出發，穿過 Oud-West 再返回，並未經過 Sloterdijk [5]。",
+  "niet_weten": "我們不知道是誰最先給這段影片做出不同的解讀。11 月 7 日把它發到 X 上的帳號，我們找到了，但沒有找到那則貼文本身，所以也不知道貼文附了什麼說明。至於這名示威者後來是否參加了 Rode Lijn，我們不知道。貼文講的也不是這件事：它把 11 月 6 日的一幕，呈現得好像是 11 月 8 日的。",
+  "bereik": "截至 11 月 18 日已被觀看 68,296 次",
+  "nog_uitzoeken": [
+   "11月7日那則貼文的內容為何。我們找到了該帳號,但沒有找到那則貼文。",
+   "若將這則貼文理解為「這發生在紅線上」,就可以為「不實」的判定辯護。我們選擇了「誤導」。"
+  ],
+  "tijdlijn": [
+   "AT5 將工地旁口角的影片發布在 X 上 [2]。",
+   "218 名被拘留的示威者全部獲釋 [4]。",
+   "貼文中的影片出現在 X 上，發布者是另一個帳號 [8]。",
+   "帶有 Rode Lijn 活動人士文字的貼文 [8]。",
+   "Rode Lijn 示威在 Museumplein 開始 [5]。",
+   "警方在 Overtoom 逮捕一人時使用警棍 [6]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文，2026 年 11 月 8 日 12:23。",
+   "AT5 在 X 上，2026 年 11 月 6 日 15:49：同一場發生在 Sloterdijk 工地旁的口角。"
+  ],
+  "beeld_alt": [
+   "影片靜止畫面：一名示威者與一名警察在圍欄旁。印章：誤導。",
+   "AT5 拍攝的影片，內容為一名示威者與一名警察之間的口角。"
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck raket-aan-de-hemel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "f0dc5c3c37f10290",
+ "veldafdrukken": {
+  "kop": "e472c0bc0e652295",
+  "oordeel_zin": "add289929f850198",
+  "bewering": "c52467bbdbf845f4",
+  "kort": "ec49a38ce9994561",
+  "tekst": "c39b02cf16e1cae5",
+  "niet_weten": "d031a8bb874202fa",
+  "bereik": "47463feb0183ae49",
+  "nog_uitzoeken": "940fee2f8396b103",
+  "tijdlijn": "f82e809c7fc705d1",
+  "beeld_bijschrift": "5369ac37be876914",
+  "beeld_alt": "470aeeef36da5d46"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "2023'te Miami'den bir TikTok videosu, Suudi Arabistan'daki Husi saldırılarını göstermiyor",
+  "oordeel_zin": "Video, 29 Temmuz 2023'te Miami, Florida konumuyla TikTok'ta yayınlandı ve büyük olasılıkla Suudi Arabistan'daki Husi saldırılarını değil, bir roket fırlatışını gösteriyor [3] [4].",
+  "bewering": "SON DAKİKA: Suudi Arabistan'ın içinden turist görüntülerinin Husi saldırılarının ardından yaşananları yansıttığı bildiriliyor.Durum gelişirken dramatik sahneler.",
+  "kort": "14 Kasım'dan beri X'teki paylaşımlar, bulutların ardında yükselen parlak bir ışığın yer aldığı gece videosunu paylaşıyor; bunlardan biri videoyu Suudi Arabistan'daki Husi saldırılarına ait turist görüntüsü olarak sundu [1] [2]. Video, 29 Temmuz 2023'te TikTok'ta Miami, Florida konumuyla bir UFO olarak paylaşılmıştı [3]. Video büyük olasılıkla, bir gece önce bir Falcon Heavy'nin havalandığı Florida'daki Space Coast bölgesinden yapılan bir roket fırlatışını gösteriyor [4].",
+  "tekst": "14 Kasım 2026 Cumartesi günü X'te Türkçe bir hesap, 2 dakika 41 saniyelik bir video paylaşarak görüntülerin gerçek olduğunu ve TikTok'ta canlı yayınlandığını söyledi [2]. Video 23 Kasım'a kadar 3,6 milyon kez izlendi [2]. Bu paylaşımdan altı saat sonra başka bir hesap aynı video dosyasını, Suudi Arabistan'ın içinden Husi saldırılarının ardından yaşananlara ait turist görüntüsü olarak paylaştı [1] [2].\n\nKlipte hâlâ TikTok logosu ve bir TikTok hesabının adı görünüyor [1]. Bu hesapta video, 29 Temmuz 2023'te Miami saatiyle 12:58'de, Miami konumuyla ve \"UFO Spotted in Miami Florida\" açıklamasıyla yayınlandı [3]. Internet Archive sayfayı 7 Şubat 2024'te kaydetti [3].\n\nVideo, palmiye ağaçlarının bulunduğu bir otoparkın üzerinde, bulutların ardında yükselen bir ışığı gösteriyor [1]. Işık turuncu bir noktaya dönüşüyor ve yaklaşık iki buçuk dakika sonra sönüyor [1]. Bu, Florida'nın Space Coast bölgesinden uzaktan görülen bir gece fırlatışına uyuyor [1] [4].\n\nYüklemeden bir gece önce, 28 Temmuz 2023'te saat 23:04'te Kennedy Uzay Merkezi'nden bir Falcon Heavy havalandı [4]. Yirmi üç saat önce ise bir Falcon 9, Cape Canaveral'dan 22 Starlink uydusu fırlatmıştı [5]. 2023'te video bir UFO'ydu, şimdi bir saldırı [1] [3].\n\nBu ay başka bir fırlatış da başka bir şey olarak dolaşıma girdi [6] [8]. 13 Kasım'da Starship Flight 15 Teksas'tan yörüngeye ulaştı ve 26 Starlink uydusu bıraktı [6]. Meksika'daki Mineral de la Reforma'dan, bir sıra noktayla birlikte parlak bir ışığı gösteren bir görüntü UFO olarak dolaşıma girdi [8]. Chiapas eyaletinin sivil koruma kurumu, o akşam kıyılarının üzerinde görülen ışığın Starship olduğunu söyledi; paylaştığı harita, Meksika üzerinden geçişi merkezi saatle 18:21 ile 18:28 arasına yerleştiriyor [7].",
+  "niet_weten": "Videonun hangi fırlatışı gösterdiğini ya da tam olarak nerede çekildiğini bilmiyoruz: TikTok'taki konum Miami'de bir adres. Mineral de la Reforma görüntüsünün Starship'in geçişi sırasında çekilip çekilmediğini bilmiyoruz.",
+  "bereik": "23 Kasım'da 617.400 görüntülenme, 971 beğeni ve 133 yanıt; altı saat önce paylaşılan aynı videonun bir Türk hesabındaki hâli 3,6 milyon görüntülenme ve 29.433 beğeni aldı",
+  "nog_uitzoeken": [
+   "Videonun hangi fırlatışı gösterdiği: 28 Temmuz 2023'teki Falcon Heavy, bir gece önceki Falcon 9 ya da başka bir gece fırlatışı.",
+   "Videonun tam olarak nerede çekildiği; TikTok'taki konum Miami'de bir adres.",
+   "Mineral de la Reforma görüntüsünün Starship'in 13 Kasım'da Meksika üzerinden geçişi sırasında çekilip çekilmediği ve kimin çektiği.",
+   "Video ya da görüntü hakkında daha fazla bilginiz varsa lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Bir Falcon 9, saat 00:01'de Cape Canaveral'dan 22 Starlink uydusuyla havalanıyor [5].",
+   "Bir Falcon Heavy, saat 23:04'te Kennedy Uzay Merkezi'nden havalanıyor [4].",
+   "Video, saat 12:58'de Miami konumuyla TikTok'ta yayınlanıyor [3].",
+   "Internet Archive, TikTok sayfasını kaydediyor [3].",
+   "Starship Flight 15, Doğu saatiyle 17:47'de Teksas'tan havalanıyor ve yörüngeye ulaşıyor [6].",
+   "Chiapas sivil koruma kurumu: akşam gökyüzündeki ışık Starship [7].",
+   "Türkçe bir hesap, videoyu TikTok'ta canlı yayınlanan gerçek görüntü olarak paylaşıyor (UTC) [2].",
+   "Başka bir hesap, videoyu Suudi Arabistan'daki Husi saldırılarına ait görüntü olarak paylaşıyor (UTC) [1].",
+   "Mineral de la Reforma'dan bir görüntü UFO olarak dolaşıma giriyor (UTC) [8]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 15 Kasım 2026, 00:29 UTC.",
+   "Videonun TikTok'taki hâli; 29 Temmuz 2023'te Miami, Florida konumuyla paylaşılmış, Internet Archive'ın 7 Şubat 2024 tarihli kopyasında."
+  ],
+  "beeld_alt": [
+   "Videoyu, Suudi Arabistan'daki Husi saldırılarının ardından yaşananlara ait turist görüntüsü olarak sunan X paylaşımı; gece, aydınlanmış bulutların altında palmiye ağaçları ve lamba direkleri olan bir otoparkın ekran görüntüsü, TikTok logosu ve hesabın adı görünüyor. Damga: YANLIŞ.",
+   "29 Temmuz 2023 tarihli TikTok sayfası; bulutların ardında yükselen bir ışığın aynı gece videosu."
+  ]
+ }
+}

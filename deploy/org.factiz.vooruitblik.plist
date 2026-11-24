@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>org.factiz.vooruitblik</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-c</string>
+    <string>cd "/path/to/factiz" &amp;&amp; .venv/bin/python -m doublecheck.vooruitblik ophalen --bijwerken &gt;&gt; data/vooruitblik/launchd.log 2&gt;&amp;1</string>
+  </array>
+  <!-- Dagelijks (PLAN #32.7b): een gemiste weekbeurt (de Mac uit) werd nooit ingehaald. Zonder nieuwe
+       versie van de feed (ETag) wordt er niets gedownload; bij een nieuwe stand wordt de database bijgewerkt. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>4</integer>
+    <key>Minute</key>
+    <integer>17</integer>
+  </dict>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>10</integer>
+</dict>
+</plist>

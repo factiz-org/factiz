@@ -1,0 +1,1314 @@
+{
+ "_meta": "Labels van feitstap-v3 (PLAN #31.9), 2026-10-26, gelezen door Claude. Per uitkomst van de twee sleutels samen (stand en feit): 'terecht', 'fout' (een verkeerde stand) of 'set fout'. Een kernformulering op 10 bij het eigen feit is goed en op 'geen' een gemiste tien (zonder label); een Dw of Dw3 op 10 bij het eigen feit is geen fout; elke V, V2 en V3 op 0 is gelezen (de steekproef van 12 vond één verkeerde 0, dus geen vaste regel). Een uitkomst die gelijk is aan v2 of v1 houdt het label van toen. Leesregel voor een 0 (vastgelegd bij het lezen van v3): terecht als het bericht hetzelfde voorval noemt met één ding anders (datum, plaats, dader, getal, onderwerp) of het ontkent; fout als het over een ander voorval gaat (V3-106) of over iets dat het feit niet zegt (V060). Alle V, V2 en V3 op 0 zijn zo gelezen.",
+ "labels": [
+  {
+   "id": "V3-000",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-003",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-004",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-005",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-006",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-007",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-009",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-010",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-011",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-012",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-013",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-014",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-015",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-016",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-017",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-019",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-021",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-022",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-023",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-024",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-025",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-026",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-027",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-028",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-029",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-030",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-031",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-033",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-034",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-035",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-039",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-040",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-041",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-042",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-045",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-046",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-047",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-048",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-051",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-052",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-053",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-056",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-057",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-058",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-059",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-060",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-061",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-062",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-064",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-065",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-069",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-070",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-071",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-072",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-073",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-074",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-075",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-076",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-077",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-079",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-080",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-082",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-083",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-084",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-085",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-086",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-087",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-088",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-089",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-090",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-091",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-092",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-093",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-094",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-095",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-096",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-097",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-099",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-100",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-101",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-102",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-103",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-104",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-105",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-106",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "fout",
+   "waarom": "Duitsland valt Frankrijk binnen is een andere gebeurtenis; het spreekt 'Rusland viel op 24 februari 2022 Oekraïne binnen' niet tegen"
+  },
+  {
+   "id": "V3-107",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-111",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-112",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-115",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-117",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-118",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-120",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-121",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-122",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-123",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-124",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-126",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-127",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-129",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-130",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-131",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-132",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-133",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-135",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-136",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-137",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-138",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-139",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-140",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-141",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-142",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-143",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-146",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-147",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-148",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-149",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-150",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-152",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-153",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-154",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-155",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-156",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-157",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-159",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-160",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-161",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-162",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-163",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-165",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-166",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-167",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-168",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-171",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-172",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-173",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-174",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-175",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-176",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-177",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-178",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-179",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-181",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-183",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-184",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-185",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-189",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-190",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-191",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-196",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-197",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-201",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-202",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-203",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-206",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-207",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-208",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-209",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-210",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-212",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-213",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-214",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-215",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-216",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-218",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-219",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-220",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-221",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-222",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-223",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-225",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-226",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-227",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-231",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-232",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-234",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-237",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-238",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "V3-239",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "gelezen: verandert een datum, plaats, dader of getal van dit feit, of noemt het een mythe; spreekt de zin tegen"
+  },
+  {
+   "id": "W3-008",
+   "stand": 10,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "de ware zin zegt dit kernfeit, korter"
+  },
+  {
+   "id": "W3-065",
+   "stand": 10,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "de ware zin zegt dit kernfeit, korter"
+  },
+  {
+   "id": "W3-067",
+   "stand": 10,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "de ware zin is dit kernfeit"
+  },
+  {
+   "id": "W3-078",
+   "stand": 10,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "de ware zin is dit kernfeit"
+  },
+  {
+   "id": "W3-087",
+   "stand": 10,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "de ware zin is dit kernfeit"
+  },
+  {
+   "id": "Dn3-028",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "'op Mars' spreekt 'in Honolulu, Hawaii' in de zin tegen"
+  },
+  {
+   "id": "Dn3-054",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "'in Tokio' spreekt 'in Salisbury' in de zin tegen"
+  },
+  {
+   "id": "Dn3-055",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "'op een vlucht naar Mars' spreekt 'in Salisbury' in de zin tegen"
+  },
+  {
+   "id": "V3-217",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "'niet door menselijk handelen' spreekt 'menselijke activiteiten zijn de hoofdoorzaak' tegen"
+  }
+ ]
+}

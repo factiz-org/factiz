@@ -1,0 +1,1399 @@
+{
+ "_meta": "Label voor staatsmedia (PLAN #32.11), een label, geen oordeel. Herkomst per domein in 'bron': Wikidata (CC0, overheidseigendom of state media, in een land met een RSF-score onder 55; de scores van de World Press Freedom Index van RSF), de EU-Verordening 833/2014 (bijlage XV), de aanwijzing door het Amerikaanse ministerie van Buitenlandse Zaken (2020), en een lijst van Claude. Alleen domeinnamen en namen, geen tekst. De PO nam de lijst op 2026-10-29 aan ('ga er maar vanuit dat dit klopt'); de EU- en VS-delen, door Claude uit het hoofd overgenomen, zijn niet naast de officiële tekst gelegd.",
+ "datum": "2026-10-29",
+ "vingerafdruk": "4f5748c1af49",
+ "domeinen": {
+  "1tv.com": {
+   "naam": "Channel One Russia International Network",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "1tv.ru": {
+   "naam": "Pervyi Kanal",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "5-tv.ru": {
+   "naam": "Petersburg – Channel 5",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "aa.com.tr": {
+   "naam": "Anadolu",
+   "land": "Turkije",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Turkije"
+  },
+  "abp.gouv.bj": {
+   "naam": "Agence Bénin Presse",
+   "land": "BEN",
+   "bron": "Wikidata, overheid of state media; RSF 47"
+  },
+  "actualidad.rt.com": {
+   "naam": "RT en español",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "aflamtv.ma": {
+   "naam": "Aflam TV",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "afrinz.ru": {
+   "naam": "African Initiative",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "ahram.org.eg": {
+   "naam": "Al-Ahram",
+   "land": "Egypte",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "staatskrant van Egypte"
+  },
+  "alaoula.ma": {
+   "naam": "Laayoune TV",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "albaciudad.org": {
+   "naam": "Alba Ciudad 96.3 FM",
+   "land": "VEN",
+   "bron": "Wikidata, overheid of state media; RSF 30"
+  },
+  "alfaradio.by": {
+   "naam": "Alfa Radio",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "alidaa-alamazighia.ma": {
+   "naam": "Radio Amazigh",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "alidaa-alwatania.ma": {
+   "naam": "SNRT Radio National",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "aljazeera.com": {
+   "naam": "Al Jazeera",
+   "land": "Qatar",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "gefinancierd door de staat Qatar; zo labelt YouTube het ook"
+  },
+  "allindiaradio.gov.in": {
+   "naam": "All India Radio",
+   "land": "IND",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "almaghribia-tv.ma": {
+   "naam": "Algerian",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "almajlistv.com": {
+   "naam": "Al-Majlis TV",
+   "land": "KWT",
+   "bron": "Wikidata, overheid of state media; RSF 40"
+  },
+  "almasirah.net": {
+   "naam": "Al-Masirah",
+   "land": "Jemen",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de zender van de Houthi's"
+  },
+  "alsouriya.tv": {
+   "naam": "Al-Souriya TV",
+   "land": "SYR",
+   "bron": "Wikidata, overheid of state media; RSF 39"
+  },
+  "am1386.com": {
+   "naam": "Farm Radio Broardcasting Station",
+   "land": "THA",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "aps.dz": {
+   "naam": "Algeria Press Service",
+   "land": "DZA",
+   "bron": "Wikidata, overheid of state media; RSF 37"
+  },
+  "arabic.rt.com": {
+   "naam": "RT Arabic",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "arrabia.ma": {
+   "naam": "Athaqafia",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "arryadia.com": {
+   "naam": "Arryadia",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "assadissatv.ma": {
+   "naam": "Assadissa",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "astanafm.kz": {
+   "naam": "Astana",
+   "land": "KAZ",
+   "bron": "Wikidata, overheid of state media; RSF 34"
+  },
+  "atv.com.tr": {
+   "naam": "ATV",
+   "land": "TUR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "azertag.az": {
+   "naam": "AZERTAC",
+   "land": "Azerbeidzjan",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Azerbeidzjan"
+  },
+  "belrtr.by": {
+   "naam": "RTR-Belarus",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "belta.by": {
+   "naam": "Belarusian Telegraph Agency",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "bernama-tv.com": {
+   "naam": "Bernama TV",
+   "land": "MYS",
+   "bron": "Wikidata, overheid of state media; RSF 53"
+  },
+  "bgtrk.ru": {
+   "naam": "GTRK Buryatia",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "bibigon.ru": {
+   "naam": "Bibigon",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "big5.cctv.com": {
+   "naam": "China Central Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "bjreview.com": {
+   "naam": "Beijing Review",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "bssnews.net": {
+   "naam": "Bangladesh Sangbad Sangstha",
+   "land": "BGD",
+   "bron": "Wikidata, overheid of state media; RSF 33"
+  },
+  "btv.gov.bd": {
+   "naam": "Bangladesh Television",
+   "land": "BGD",
+   "bron": "Wikidata, overheid of state media; RSF 33"
+  },
+  "bursatv.com.tr": {
+   "naam": "Bursa TV",
+   "land": "TUR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "canal22.org.mx": {
+   "naam": "XEIMT-TDT",
+   "land": "MEX",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "canal7.com.ar": {
+   "naam": "Channel 7 (Buenos Aires, Argentina)",
+   "land": "ARG",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "canalcaribe.icrt.cu": {
+   "naam": "Q60824206",
+   "land": "CUB",
+   "bron": "Wikidata, overheid of state media; RSF 29"
+  },
+  "canalinstitucional.tv": {
+   "naam": "Canal Institucional",
+   "land": "COL",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "canaltrece.com.co": {
+   "naam": "Teveandina",
+   "land": "COL",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "capital21.cdmx.gob.mx": {
+   "naam": "XHCDM-TDT",
+   "land": "MEX",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "cbc.az": {
+   "naam": "CBC Azerbaijan",
+   "land": "AZE",
+   "bron": "Wikidata, overheid of state media; RSF 24"
+  },
+  "cbcsport.az": {
+   "naam": "CBC Sport",
+   "land": "AZE",
+   "bron": "Wikidata, overheid of state media; RSF 24"
+  },
+  "cctv.com": {
+   "naam": "CCTV",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "cctv14.cntv.cn": {
+   "naam": "CCTV-14 Children",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cctv4asia.cntv.cn": {
+   "naam": "CCTV-4 Chinese International",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "ce.cn": {
+   "naam": "Economic Daily",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "centv.cn": {
+   "naam": "China Education Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cgtn.com": {
+   "naam": "CGTN",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "chaineinter.ma": {
+   "naam": "Chaîne Inter",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "chgtrk.ru": {
+   "naam": "Chuvashia",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "chinadaily.com.cn": {
+   "naam": "China Daily",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "chinanews.com.cn": {
+   "naam": "China News Service",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "cicc.org.cn": {
+   "naam": "China Intercontinental Communication Center",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cinetv.ru": {
+   "naam": "Q4345341",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "cndfilm.com": {
+   "naam": "China Central Newsreel and Documentary Film Studio",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cneb.gov.cn": {
+   "naam": "China National Emergency Broadcasting Center",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cnr.cn": {
+   "naam": "China National Radio",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "cri.cn": {
+   "naam": "China Radio International",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "cssn.cn": {
+   "naam": "Social Sciences in China Press",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "dantri.com.vn": {
+   "naam": "Dân Trí",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "ddnews.gov.in": {
+   "naam": "DD News",
+   "land": "IND",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "dokshitsy.by": {
+   "naam": "Q13032461",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "dwdd.com.ph": {
+   "naam": "DWDD-AM",
+   "land": "PHL",
+   "bron": "Wikidata, overheid of state media; RSF 47"
+  },
+  "e.vnexpress.net": {
+   "naam": "VnExpress",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "eba.gov.tr": {
+   "naam": "TRT EBA TV",
+   "land": "TUR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "ecns.cn": {
+   "naam": "China News Service",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "egyptradio.net": {
+   "naam": "Al Aghani Radio",
+   "land": "EGY",
+   "bron": "Wikidata, overheid of state media; RSF 25"
+  },
+  "emess.co.il": {
+   "naam": "Kol Chai",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "english.cctv.com": {
+   "naam": "China Central Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "english.vov.vn": {
+   "naam": "Voice of Vietnam",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "english.vtv.vn": {
+   "naam": "Vietnam Television",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "epaper.bingtuannet.com": {
+   "naam": "Bingtuan Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "farsnews.ir": {
+   "naam": "Fars",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "persbureau gelieerd aan de Revolutionaire Garde"
+  },
+  "fjrb.fjdaily.com": {
+   "naam": "Fujian Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "frenchwam.com": {
+   "naam": "Emirates News Agency",
+   "land": "ARE",
+   "bron": "Wikidata, overheid of state media; RSF 31"
+  },
+  "globaltimes.cn": {
+   "naam": "Global Times",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "glz.co.il": {
+   "naam": "IDF Radio",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "granma.cu": {
+   "naam": "Granma",
+   "land": "Cuba",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de krant van de regerende partij"
+  },
+  "grozny-inform.ru": {
+   "naam": "Q129734265",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "gtrk.tv": {
+   "naam": "GTRK Bashkortostan",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "gtrkchita.ru": {
+   "naam": "Q4516640",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "gtrkmariel.ru": {
+   "naam": "GTRK Mari El",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "gztv.com": {
+   "naam": "Guangzhou Broadcasting Network",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "hkcna.hk": {
+   "naam": "Hong Kong China News Agency",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "hnedutv.com": {
+   "naam": "Hunan Educational Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "home.ptv.com.pk": {
+   "naam": "PTV Home",
+   "land": "PAK",
+   "bron": "Wikidata, overheid of state media; RSF 33"
+  },
+  "huaxia.com": {
+   "naam": "Huaxia Jingwei Network",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "hxnews.com": {
+   "naam": "Straits Metropolis Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "iba.org.il": {
+   "naam": "Channel 1",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "idaatmohammedassadiss.ma": {
+   "naam": "Radio Mohammed VI du Saint Coran",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "ifeng.com": {
+   "naam": "Phoenix Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "ignou.ac.in": {
+   "naam": "Gyan Vani",
+   "land": "IND",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "inn.ir": {
+   "naam": "Iran",
+   "land": "IRN",
+   "bron": "Wikidata, overheid of state media; RSF 17"
+  },
+  "iran-newspaper.com": {
+   "naam": "Iran",
+   "land": "IRN",
+   "bron": "Wikidata, overheid of state media; RSF 17"
+  },
+  "irandaily.ir": {
+   "naam": "Iran Daily",
+   "land": "IRN",
+   "bron": "Wikidata, overheid of state media; RSF 17"
+  },
+  "irannewspaper.ir": {
+   "naam": "Iran",
+   "land": "IRN",
+   "bron": "Wikidata, overheid of state media; RSF 17"
+  },
+  "irna.ir": {
+   "naam": "IRNA",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Iran"
+  },
+  "iz.ru": {
+   "naam": "Izvestia",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "jfdaily.com": {
+   "naam": "Jiefang Daily",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "jinrieluosi.cn": {
+   "naam": "Rossiya Segodnya",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "jornaldeangola.ao": {
+   "naam": "Jornal de Angola",
+   "land": "AGO",
+   "bron": "Wikidata, overheid of state media; RSF 49"
+  },
+  "journal-neo.su": {
+   "naam": "New Eastern Outlook",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "kan.org.il": {
+   "naam": "Kan 11",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "kankids.org.il": {
+   "naam": "Kan Educational",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "karusel-tv.ru": {
+   "naam": "Carousel",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "katehon.com": {
+   "naam": "Katehon",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "katyusha.tv": {
+   "naam": "Katyucha TV",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "kayhan.ir": {
+   "naam": "Kayhan",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "uitgegeven onder een door de Opperste Leider benoemde directeur"
+  },
+  "kazradio.kz": {
+   "naam": "Kazakh radio",
+   "land": "KAZ",
+   "bron": "Wikidata, overheid of state media; RSF 34"
+  },
+  "kcm.fm": {
+   "naam": "Kol Chai Music",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "kcna.kp": {
+   "naam": "KCNA",
+   "land": "Noord-Korea",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Noord-Korea"
+  },
+  "krasnodar.rtrs.ru": {
+   "naam": "Krasnodar radiotelevision center",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "kubantv.ru": {
+   "naam": "GTRK \"Kuban\"",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "lagostelevision.com": {
+   "naam": "Lagos Television",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "laradiotomada.cc": {
+   "naam": "La Radio Tomada",
+   "land": "SLV",
+   "bron": "Wikidata, overheid of state media; RSF 39"
+  },
+  "logoysk.by": {
+   "naam": "Rodny kraj",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "m.vovworld.vn": {
+   "naam": "Voice of Vietnam",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "m24.ru": {
+   "naam": "Moscow 24",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "m24tv.ma": {
+   "naam": "M24 TV",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "makan.org.il": {
+   "naam": "Makan 33",
+   "land": "ISR",
+   "bron": "Wikidata, overheid of state media; RSF 46"
+  },
+  "mama-tv.ru": {
+   "naam": "Mama",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "maspero.eg": {
+   "naam": "Egyptian Channel 1",
+   "land": "EGY",
+   "bron": "Wikidata, overheid of state media; RSF 25"
+  },
+  "matchtv.ru": {
+   "naam": "Q124526400",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "media.gov.kw": {
+   "naam": "KTV 2",
+   "land": "KWT",
+   "bron": "Wikidata, overheid of state media; RSF 40"
+  },
+  "mediacorp.sg": {
+   "naam": "Mediacorp",
+   "land": "SGP",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "mehrnews.com": {
+   "naam": "Mehr",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "persbureau van de Islamitische Propagandaorganisatie, een staatsorgaan"
+  },
+  "mena.org.eg": {
+   "naam": "MENA",
+   "land": "Egypte",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Egypte"
+  },
+  "mn.cctv.com": {
+   "naam": "China Central Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "mongol.cctv.com": {
+   "naam": "China Central Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "moya-planeta.ru": {
+   "naam": "My Planet",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "mskagency.ru": {
+   "naam": "Moscow Municipal News Agency",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "multkanal.ru": {
+   "naam": "Mult",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "murman.tv": {
+   "naam": "Murman",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "myawady.net.mm": {
+   "naam": "Myawady Daily",
+   "land": "MMR",
+   "bron": "Wikidata, overheid of state media; RSF 26"
+  },
+  "nbt.prd.go.th": {
+   "naam": "Radio Thailand",
+   "land": "THA",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "newpaper.dahe.cn": {
+   "naam": "Henan Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "news.cn": {
+   "naam": "Xinhua",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "newsgd.com": {
+   "naam": "Guangdong International Communication Center",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "niletc.tv": {
+   "naam": "Nile Drama",
+   "land": "EGY",
+   "bron": "Wikidata, overheid of state media; RSF 25"
+  },
+  "njcb.xhby.net": {
+   "naam": "Nanjing Morning Post",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "nnc.gov.ph": {
+   "naam": "DZNC-FM",
+   "land": "PHL",
+   "bron": "Wikidata, overheid of state media; RSF 47"
+  },
+  "norilsk-tv.ru": {
+   "naam": "Q4327347",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "noticiasdoce.com.ar": {
+   "naam": "Channel 12 (Trenque Lauquen, Argentina)",
+   "land": "ARG",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "notimex.gob.mx": {
+   "naam": "Notimex",
+   "land": "MEX",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "nsktv.ru": {
+   "naam": "Q4325425",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "nta.ng": {
+   "naam": "NTA2",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "ntv.org.np": {
+   "naam": "NTV Plus",
+   "land": "NPL",
+   "bron": "Wikidata, overheid of state media; RSF 55"
+  },
+  "ntv.ru": {
+   "naam": "NTV",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "omaninfo.om": {
+   "naam": "Al-Shabab",
+   "land": "OMN",
+   "bron": "Wikidata, overheid of state media; RSF 44"
+  },
+  "ont.by": {
+   "naam": "Obshchenatsional'noe Televidenie",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "orientalreview.org": {
+   "naam": "Oriental Review",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "people.cn": {
+   "naam": "People's Daily",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "people.com.cn": {
+   "naam": "People's Daily",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "phoenixtv.com": {
+   "naam": "Phoenix Television",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "phtv.ifeng.com": {
+   "naam": "Phoenix InfoNews Channel",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "prensa-latina.cu": {
+   "naam": "Prensa Latina",
+   "land": "Cuba",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Cuba"
+  },
+  "presstv.ir": {
+   "naam": "Press TV",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "Engelstalige zender van de staatsomroep IRIB"
+  },
+  "ptvnews.ph": {
+   "naam": "People's Television Network",
+   "land": "PHL",
+   "bron": "Wikidata, overheid of state media; RSF 47"
+  },
+  "qazaqstan.tv": {
+   "naam": "Kazakhstan",
+   "land": "KAZ",
+   "bron": "Wikidata, overheid of state media; RSF 34"
+  },
+  "radio.org.ng": {
+   "naam": "Bronze 101.5 FM, Aduwawa",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "radiobrcko.ba": {
+   "naam": "Radio Brčko District",
+   "land": "BIH",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "radiomayak.ru": {
+   "naam": "Radio Mayak",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "radiominsk.by": {
+   "naam": "Radio Minsk",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "radionacional.co": {
+   "naam": "Radio Nacional de Colombia",
+   "land": "COL",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "radionica.rocks": {
+   "naam": "Radiónica",
+   "land": "COL",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "radionigeria.gov.ng": {
+   "naam": "Purity FM 102.5",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "radionigerialagos.gov.ng": {
+   "naam": "Radio Lagos",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "radiorus.ru": {
+   "naam": "Radio Rossii",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "radiovesti.ru": {
+   "naam": "Vesti FM",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "radyo5.com.tr": {
+   "naam": "Radyo5",
+   "land": "TUR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "rbth.com": {
+   "naam": "Russia Beyond",
+   "land": "Rusland",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "onderdeel van TV-Novosti, de uitgever van RT"
+  },
+  "redstar.ru": {
+   "naam": "Krasnaya Zvezda",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "ren.tv": {
+   "naam": "REN TV",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "rg.ru": {
+   "naam": "Rossiyskaya Gazeta",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "ria.ru": {
+   "naam": "RIA Novosti",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "riyadh.sr.sa": {
+   "naam": "Riyadh Radio",
+   "land": "SAU",
+   "bron": "Wikidata, overheid of state media; RSF 19"
+  },
+  "rodong.rep.kp": {
+   "naam": "Rodong Sinmun",
+   "land": "Noord-Korea",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de krant van de regerende partij"
+  },
+  "rossiyasegodnya.com": {
+   "naam": "Rossiya Segodnya",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "rri.co.id": {
+   "naam": "RRI NET",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "rstv.nic.in": {
+   "naam": "Rajya Sabha TV",
+   "land": "IND",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "rt.com": {
+   "naam": "RT (Russia Today)",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "rtb.gov.bn": {
+   "naam": "RTB Sukmaindera",
+   "land": "BRN",
+   "bron": "Wikidata, overheid of state media; RSF 53"
+  },
+  "rtd.dj": {
+   "naam": "Radiodiffusion Télévision de Djibouti",
+   "land": "DJI",
+   "bron": "Wikidata, overheid of state media; RSF 25"
+  },
+  "rthk.hk": {
+   "naam": "Radio Television Hong Kong",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "rtr-planeta.com": {
+   "naam": "RTR-Planeta",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "rtv.rs": {
+   "naam": "RTV 1",
+   "land": "SRB",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "russia.tv": {
+   "naam": "Russia-1",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "russia2.tv": {
+   "naam": "Russia-2",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "saba.ye": {
+   "naam": "Saba",
+   "land": "Jemen",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "persbureau onder het Houthi-bestuur in Sanaa"
+  },
+  "sana.sy": {
+   "naam": "SANA",
+   "land": "Syrië",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Syrië"
+  },
+  "sansadtv.nic.in": {
+   "naam": "Sansad TV",
+   "land": "IND",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "sctv.com.vn": {
+   "naam": "Saigontourist Cable Television Company",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "senado.gov.ar": {
+   "naam": "Q6124879",
+   "land": "ARG",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "shalkarfm.kz": {
+   "naam": "Shalkar",
+   "land": "KAZ",
+   "bron": "Wikidata, overheid of state media; RSF 34"
+  },
+  "sixthtone.com": {
+   "naam": "Sixth Tone",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "smotrim.ru": {
+   "naam": "VGTRK (Rossiya)",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "snrt.ma": {
+   "naam": "Al Aoula",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "spa.gov.sa": {
+   "naam": "Saudi Press Agency",
+   "land": "SAU",
+   "bron": "Wikidata, overheid of state media; RSF 19"
+  },
+  "spb.rtrs.ru": {
+   "naam": "Q65175868",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "sportodin.ru": {
+   "naam": "Q4438049",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "sportpanorama.by": {
+   "naam": "Q4438122",
+   "land": "BLR",
+   "bron": "Wikidata, overheid of state media; RSF 28"
+  },
+  "sputnikglobe.com": {
+   "naam": "Sputnik",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "sputniknews.com": {
+   "naam": "Sputnik",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "stavropolye.tv": {
+   "naam": "Q4439006",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "strana-tv.ru": {
+   "naam": "Q4443313",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "sudantv.net": {
+   "naam": "Sudan TV",
+   "land": "SDN",
+   "bron": "Wikidata, overheid of state media; RSF 29"
+  },
+  "sumg.com.cn": {
+   "naam": "Shanghai United Media Group",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "suna-sd.net": {
+   "naam": "SUNA",
+   "land": "Soedan",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Soedan"
+  },
+  "syrianeducation.tv": {
+   "naam": "Syrian Education TV",
+   "land": "SYR",
+   "bron": "Wikidata, overheid of state media; RSF 39"
+  },
+  "szb.hscbw.com": {
+   "naam": "Huasheng Morning Post",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "szmg.com.cn": {
+   "naam": "Shenzhen Media Group",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "sznews.com": {
+   "naam": "Shenzhen Press Group",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "szsb.sznews.com": {
+   "naam": "Shenzhen Economic Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "sztqb.sznews.com": {
+   "naam": "Shenzhen Special Zone Daily",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "taiwan.cn": {
+   "naam": "Taiwan.cn",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "tamazight-tv.ma": {
+   "naam": "Tamazight TV",
+   "land": "MAR",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "tanjug.rs": {
+   "naam": "Tanjug",
+   "land": "SRB",
+   "bron": "Wikidata, overheid of state media; RSF 51"
+  },
+  "tasnimnews.com": {
+   "naam": "Tasnim",
+   "land": "Iran",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "persbureau gelieerd aan de Revolutionaire Garde"
+  },
+  "tasnimnews.ir": {
+   "naam": "Tasnim News Agency",
+   "land": "IRN",
+   "bron": "Wikidata, overheid of state media; RSF 17"
+  },
+  "tass.com": {
+   "naam": "TASS",
+   "land": "Rusland",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Rusland"
+  },
+  "tass.ru": {
+   "naam": "TASS",
+   "land": "Rusland",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "het staatspersbureau van Rusland"
+  },
+  "telam.com.ar": {
+   "naam": "Télam",
+   "land": "ARG",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "telesurtv.net": {
+   "naam": "teleSUR",
+   "land": "Venezuela",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "gefinancierd door de staat Venezuela"
+  },
+  "thaipbs.or.th": {
+   "naam": "Thai Public Broadcasting Service",
+   "land": "THA",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "trafficradio961.ng": {
+   "naam": "Lagos Traffic Radio",
+   "land": "NGA",
+   "bron": "Wikidata, overheid of state media; RSF 48"
+  },
+  "trt.net.tr": {
+   "naam": "TRT",
+   "land": "Turkije",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de staatsomroep van Turkije"
+  },
+  "trthaber.com": {
+   "naam": "TRT Haber",
+   "land": "Turkije",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de staatsomroep van Turkije"
+  },
+  "trtworld.com": {
+   "naam": "TRT World",
+   "land": "Turkije",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "de staatsomroep van Turkije"
+  },
+  "tsargrad.tv": {
+   "naam": "Tsargrad",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "tv-karelia.ru": {
+   "naam": "GTRK Karelia",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "tv.cctv.com": {
+   "naam": "CCTV-14 Children",
+   "land": "CHN",
+   "bron": "Wikidata, overheid of state media; RSF 14"
+  },
+  "tv.cine.ar": {
+   "naam": "Cine.AR",
+   "land": "ARG",
+   "bron": "Wikidata, overheid of state media; RSF 52"
+  },
+  "tv.mcot.net": {
+   "naam": "Channel 9 MCOT HD",
+   "land": "THA",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "tv5.co.th": {
+   "naam": "Royal Thai Army Radio and Television Channel 5",
+   "land": "THA",
+   "bron": "Wikidata, overheid of state media; RSF 54"
+  },
+  "tvc.ru": {
+   "naam": "TV Centre",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "tve.kemdikbud.go.id": {
+   "naam": "TV Edukasi",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "tvri-world.tvrinews.com": {
+   "naam": "TVRI World",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "tvri.go.id": {
+   "naam": "TVRI",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "tvroscosmos.ru": {
+   "naam": "TV Roskosmos",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "tvrparlemen.dpr.go.id": {
+   "naam": "TVR Parlemen",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "tvzvezda.ru": {
+   "naam": "TV Zvezda",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "uradio.ifengus.com": {
+   "naam": "XEWW-AM",
+   "land": "MEX",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "vesti-lipetsk.ru": {
+   "naam": "GTRK Lipetsk",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "vesti-yaroslavl.ru": {
+   "naam": "GTRK Yaroslavia",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "vesti.ru": {
+   "naam": "Rossiya 24",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "vestinn.ru": {
+   "naam": "GTRK Nizhny Novgorod",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "vgtrk.ru": {
+   "naam": "VGTRK",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "vietnammedia.vnanet.vn": {
+   "naam": "Vietnam News Agency",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vnexpress.net": {
+   "naam": "VnExpress",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "voiceofeurope.com": {
+   "naam": "Voice of Europe",
+   "land": "RUS",
+   "bron": "EU, Verordening 833/2014 (bijlage XV)"
+  },
+  "voinews.id": {
+   "naam": "Voice of Indonesia",
+   "land": "IDN",
+   "bron": "Wikidata, overheid of state media; RSF 43"
+  },
+  "vov.gov.vn": {
+   "naam": "Voice of Vietnam",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vov.vn": {
+   "naam": "Voice of Vietnam",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vovworld.vn": {
+   "naam": "Voice of Vietnam",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vtv.gov.vn": {
+   "naam": "Vietnam Television",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vtv.vn": {
+   "naam": "VTV4",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vtv6.vtv.vn": {
+   "naam": "VTV6",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "vtv9.vtv.vn": {
+   "naam": "VTV9",
+   "land": "VNM",
+   "bron": "Wikidata, overheid of state media; RSF 21"
+  },
+  "wafa.ps": {
+   "naam": "WAFA",
+   "land": "PSE",
+   "bron": "Wikidata, overheid of state media; RSF 32"
+  },
+  "wam.ae": {
+   "naam": "Emirates News Agency",
+   "land": "ARE",
+   "bron": "Wikidata, overheid of state media; RSF 31"
+  },
+  "wink.ru": {
+   "naam": "Q115657290",
+   "land": "RUS",
+   "bron": "Wikidata, overheid of state media; RSF 23"
+  },
+  "wradio690.com": {
+   "naam": "XEWW-AM",
+   "land": "MEX",
+   "bron": "Wikidata, overheid of state media; RSF 45"
+  },
+  "xezertv.az": {
+   "naam": "Khazar TV",
+   "land": "AZE",
+   "bron": "Wikidata, overheid of state media; RSF 24"
+  },
+  "xinhuanet.com": {
+   "naam": "Xinhua",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "xinmin.cn": {
+   "naam": "Xinmin Evening News",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "yangoncity.com.mm": {
+   "naam": "Yangon City FM",
+   "land": "MMR",
+   "bron": "Wikidata, overheid of state media; RSF 26"
+  },
+  "yicaiglobal.com": {
+   "naam": "Yicai Global",
+   "land": "CHN",
+   "bron": "VS, ministerie van Buitenlandse Zaken, 2020"
+  },
+  "ypagency.net": {
+   "naam": "Yemen Press Agency",
+   "land": "Jemen",
+   "bron": "Claude, door de PO aangenomen",
+   "reden": "persbureau dicht bij het Houthi-bestuur"
+  }
+ }
+}

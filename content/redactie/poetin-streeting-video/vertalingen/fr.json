@@ -1,0 +1,59 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck poetin-streeting-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "253f2476fe383f29",
+ "veldafdrukken": {
+  "kop": "422ec7b14031baf2",
+  "oordeel_zin": "54393d60ae5a31ca",
+  "bewering": "df69cd86fea0595e",
+  "kort": "84d911192e3bd3c2",
+  "tekst": "88d95fedb4fd1266",
+  "niet_weten": "78ec25806b18858b",
+  "bereik": "e20be431447ef3c7",
+  "nog_uitzoeken": "baa866ad5516bb88",
+  "tijdlijn": "645864c67aaf2117",
+  "beeld_bijschrift": "80632b36417f3152",
+  "beeld_alt": "1338664a28f0648d"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Aucune trace que Poutine ait dit cela sur le Royaume-Uni, et la vidéo de Streeting en jupe est modifiée",
+  "oordeel_zin": "La citation circule sans source depuis décembre 2025, et la vidéo de Wes Streeting est une vraie séquence du 8 novembre 2026 dans laquelle son pantalon a été transformé en jupe [2] [15] [16].",
+  "bewering": "Poutine dit qu'il n'a pas peur du Royaume-Uni parce que « ils ne peuvent même pas empêcher des bateaux pneumatiques d'envahir leur pays ni des hommes étrangers de violer leurs femmes et leurs enfants. » Il a aussi dit : avez-vous vu leur ministre de la Défense.",
+  "kort": "Le 9 novembre, un compte sur X a publié une citation dans laquelle Vladimir Poutine dit ne pas craindre le Royaume-Uni et demande si l'on a vu son ministre de la Défense, avec une vidéo de Wes Streeting en jupe [1]. Nous n'avons trouvé aucune trace de ces propos de Poutine : le même compte avait publié presque la même citation en décembre 2025, puis en octobre 2026, chaque fois comme une nouveauté [2] [3]. La vidéo est une vraie séquence du Remembrance Sunday du 8 novembre 2026, mais Streeting portait un pantalon, et ses vêtements ont été modifiés [12] [15] [16].",
+  "tekst": "Le lundi 9 novembre 2026, à 8 h 57 heure britannique, un compte anonyme sur X qui se présente comme un service d'information a publié une citation attribuée à Vladimir Poutine [1]. Le président russe y dit ne pas craindre le Royaume-Uni et demande si l'on a vu le ministre britannique de la Défense [1]. La publication comporte une vidéo de 10,5 secondes en deux moitiés : à gauche Poutine à une table, à droite une vidéo filmée au téléphone lors de la cérémonie du Remembrance Sunday à Londres [1]. Au 19 novembre, la publication comptait 14 991 mentions J'aime et 471 réponses [1].\n\nLa citation n'est pas nouvelle : le même compte avait publié presque les mêmes mots le 13 décembre 2025, comme quelque chose que Poutine aurait dit cette semaine-là [2]. Cette publication comptait 140 751 mentions J'aime au 19 novembre [2]. Le 10 octobre 2026, le compte a republié la première moitié avec une fin différente, cette fois sur les parlementaires [3]. Les trois publications utilisent les mêmes images de Poutine, à une table, avec un interprète à ses côtés [1] [2] [3]. La phrase sur le ministre de la Défense ne peut pas dater de décembre 2025 : Wes Streeting occupe ce poste depuis le 20 juillet 2026, et il était alors ministre de la Santé [6].\n\nNous n'avons trouvé aucun article de presse ni aucune transcription où Poutine prononce ces mots [4] [5]. Lorsque Poutine a parlé de l'Europe début décembre 2025, lors d'un forum d'investissement à Moscou le 2 décembre, il a dit que la Russie était prête si l'Europe déclenchait une guerre, et il n'a pas mentionné la Grande-Bretagne [4]. Dans la semaine de la publication, l'actualité entre la Russie et la Grande-Bretagne portait sur le G20 : le Premier ministre Andy Burnham a dit que Poutine ne viendrait pas au sommet de Manchester en 2027, et le 16 novembre un diplomate russe, et non Poutine, a répondu par un avertissement [5].\n\nLa cérémonie nationale du Souvenir au Cénotaphe, à Whitehall, a eu lieu le dimanche 8 novembre 2026, avec deux minutes de silence à 11 h 00 [7]. Streeting y assistait en tant que ministre de la Défense, et le soir même il a publié quatre photos de la cérémonie et du défilé des anciens combattants [8]. Des photos de Getty Images et de Reuters le montrent en pantalon sombre et en chaussures plates pour hommes [12] [15]. Un direct vidéo de la journée diffusé par le gouvernement britannique le montre aussi en pantalon, selon l'AFP [16].\n\nLes images modifiées sont apparues quelques heures après la cérémonie [9]. À 14 h 48 ce dimanche-là, le même compte anonyme a publié une photo où Streeting porte une jupe et des talons hauts et tient un sac à main [9]. À 7 h 06 le lundi, il a publié une vidéo de 21,5 secondes, filmée derrière des gardes devant le bâtiment du Foreign Office, de la même durée que le clip modifié examiné par l'AFP [10] [16]. La moitié droite de la vidéo de la publication sur Poutine montre le même endroit sous le même angle [1] [10].\n\nLes vraies images ont été filmées depuis la foule : le journaliste indépendant Louis Errington a filmé la même scène et l'a publiée sur Instagram juste avant minuit le 8 novembre [11]. Dans sa vidéo, Streeting porte un pantalon et n'a pas de sac, selon l'AFP, Full Fact et Lead Stories [12] [15] [16]. Full Fact a jugé l'affirmation fausse : les images et la vidéo ont été modifiées [15].\n\nLa manière dont les vêtements ont été changés n'est pas établie : An-Nahar a écrit que la vidéo avait été modifiée avec des outils d'IA [13]. L'AFP l'a passée dans le détecteur Mever, qui a donné une probabilité d'IA de 87 % [16]. Animal Político a rapporté que l'outil SynthID de Google avait signalé la moitié inférieure de son corps comme modifiée numériquement [14]. Tous s'accordent à dire que les images de la cérémonie elles-mêmes sont réelles et que seuls ses vêtements ont été changés [13] [14] [16].\n\nLes images modifiées ont circulé en polonais, en arabe et en coréen, et un vérificateur d'informations au Mexique s'y est aussi intéressé [12] [13] [14] [16]. De nombreuses publications les ont utilisées pour se moquer de la Grande-Bretagne ou de Streeting lui-même [12] [16]. Lead Stories est le premier vérificateur que nous ayons trouvé, le 10 novembre [12]. Aucune des vérifications que nous avons lues ne portait sur la citation de Poutine [12] [13] [14] [15] [16].",
+  "niet_weten": "Nous ne savons pas qui a écrit la citation ni qui l'a mise en ligne en premier ; la version la plus ancienne que nous ayons trouvée date du 13 décembre 2025 [2]. Nous ne savons pas de quelle réunion proviennent les images de Poutine. Nous ne savons pas qui a modifié la photo et la vidéo, ni avec quel outil : les détecteurs utilisés par l'AFP et Animal Político indiquent une IA, mais de tels outils peuvent se tromper [14] [16].",
+  "bereik": "14 991 mentions J'aime et 471 réponses au 19 novembre",
+  "nog_uitzoeken": [
+   "De quelle réunion proviennent les images de Poutine, et si leur son a été supprimé ou remplacé.",
+   "Qui a réalisé la photo et la vidéo modifiées, et si elles sont apparues d'abord sur ce compte ou ailleurs.",
+   "Si la moitié droite de la vidéo dans la publication correspond image par image à la vidéo modifiée de 7:06, et si cette vidéo a été réalisée à partir des images de Louis Errington.",
+   "Si la citation seule doit être classée comme Fausse ou Non prouvée : nous ne pouvons pas prouver que Poutine n'a jamais rien dit de semblable, seulement que ce texte circule sans source depuis décembre 2025."
+  ],
+  "tijdlijn": [
+   "Poutine dit lors d'un forum à Moscou que la Russie est prête si l'Europe déclenche une guerre ; il ne mentionne pas la Grande-Bretagne [4].",
+   "Le compte publie la citation pour la première fois que nous ayons trouvée, comme quelque chose que Poutine aurait dit cette semaine-là [2].",
+   "Wes Streeting devient ministre de la Défense [6].",
+   "Le compte republie la première moitié de la citation, avec une fin différente [3].",
+   "Deux minutes de silence au Cénotaphe, à Whitehall [7].",
+   "Le compte publie une photo modifiée de Streeting en jupe [9].",
+   "Streeting publie ses propres photos de la cérémonie sur X [8].",
+   "Louis Errington publie sa vidéo de la cérémonie sur Instagram [11].",
+   "Le compte publie la vidéo modifiée de Streeting [10].",
+   "La publication avec la citation de Poutine et la vidéo en deux moitiés [1].",
+   "Lead Stories : les images et la vidéo ont été manipulées numériquement [12].",
+   "An-Nahar : la vidéo a été modifiée avec l'IA [13].",
+   "Full Fact : faux, Streeting portait un pantalon [15].",
+   "AFP : la vidéo a été manipulée [16]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 9 novembre 2026, 8 h 57 heure britannique.",
+   "Louis Errington, journaliste indépendant, sur Instagram, 8 novembre 2026 : la même scène au Cénotaphe, avec Wes Streeting en pantalon."
+  ],
+  "beeld_alt": [
+   "Capture de la vidéo de la publication : à gauche Vladimir Poutine à une table, à droite une vidéo filmée au téléphone de la cérémonie du Remembrance Sunday à Whitehall, filmée derrière des gardes coiffés de bonnets à poil. Tampon : FAUX.",
+   "Vidéo de Louis Errington de la cérémonie du Remembrance Sunday à Whitehall, filmée depuis la foule derrière des gardes."
+  ]
+ }
+}

@@ -1,0 +1,607 @@
+{
+ "toelichting": "PLAN #37.14, B92: de tweede greep (zaad 2312) opnieuw gelezen met de lat van de PO (2026-11-23: 'de lat hoeft niet superstreng, als iets maar een internationale connectie heeft en niet gaat over de aanleg van een schuur in Alabama'): lokaal alleen voor wat binnen één plaats of gemeenschap blijft; nationale en deelstaatpolitiek, nationale figuren, landelijke oplichting en alles met een buitenlandse verbinding vertalen. De ontwikkelset van reikwijdte-v3.",
+ "gelezen_door": "Claude",
+ "datum": "2026-11-23",
+ "labels": {
+  "020ab1224c1cc864": {
+   "label": "internationaal"
+  },
+  "02e2adf65cab76ae": {
+   "label": "internationaal"
+  },
+  "04ccf197a802961d": {
+   "label": "internationaal"
+  },
+  "064b83f64a895af0": {
+   "label": "lokaal"
+  },
+  "0653808f326cb59c": {
+   "label": "internationaal"
+  },
+  "0788c1c177ca2bea": {
+   "label": "internationaal"
+  },
+  "07c3afb465e9fd6c": {
+   "label": "internationaal"
+  },
+  "0b1d944b37740f60": {
+   "label": "regionaal"
+  },
+  "0bbcd862fd53408e": {
+   "label": "regionaal"
+  },
+  "0d661a54aa274801": {
+   "label": "regionaal"
+  },
+  "0dc47d458d788e0b": {
+   "label": "regionaal"
+  },
+  "0e837ff3e519b56f": {
+   "label": "regionaal"
+  },
+  "0fbc3b1b2086cce7": {
+   "label": "internationaal"
+  },
+  "1030c6b953378960": {
+   "label": "internationaal"
+  },
+  "10c3cba9c2f3ca0f": {
+   "label": "regionaal"
+  },
+  "10e01250f766df9e": {
+   "label": "internationaal"
+  },
+  "115a24a7bf106ee0": {
+   "label": "internationaal"
+  },
+  "14b9884c5fad6d2e": {
+   "label": "internationaal"
+  },
+  "15e63d2029bdc88b": {
+   "label": "internationaal"
+  },
+  "16d6d87f168471db": {
+   "label": "regionaal"
+  },
+  "1a04ff3b83f2243b": {
+   "label": "regionaal"
+  },
+  "1b2b5f5c5a408e40": {
+   "label": "regionaal"
+  },
+  "1b30eb301aae0d5b": {
+   "label": "internationaal"
+  },
+  "1f66bf07a466d2d4": {
+   "label": "internationaal"
+  },
+  "20c6e1295864a16a": {
+   "label": "regionaal"
+  },
+  "21da49566a1969c7": {
+   "label": "regionaal"
+  },
+  "22943935d7e46537": {
+   "label": "regionaal"
+  },
+  "231d1edeef5d7387": {
+   "label": "internationaal"
+  },
+  "2430c9c48817fd38": {
+   "label": "regionaal"
+  },
+  "26e7d5ca28c437f8": {
+   "label": "regionaal"
+  },
+  "27cbd214a6641563": {
+   "label": "regionaal"
+  },
+  "289d2e3855c3d97b": {
+   "label": "regionaal"
+  },
+  "295b6d83357013ca": {
+   "label": "internationaal"
+  },
+  "2b3d284ae405c8eb": {
+   "label": "internationaal"
+  },
+  "2c1afb74d0807008": {
+   "label": "lokaal"
+  },
+  "2c85f7d96a93f467": {
+   "label": "internationaal"
+  },
+  "2d07239696b1be9b": {
+   "label": "internationaal"
+  },
+  "2d5658a3a7fc029b": {
+   "label": "regionaal"
+  },
+  "2dbb8596c29fd714": {
+   "label": "internationaal"
+  },
+  "2ed74d6dd5207b0b": {
+   "label": "regionaal"
+  },
+  "2ef4c89ca66ec2ff": {
+   "label": "lokaal"
+  },
+  "2fcb19b3ab3ee1cd": {
+   "label": "lokaal"
+  },
+  "2fce1ed1d9bf5e04": {
+   "label": "internationaal"
+  },
+  "2fd7fa5ba7f44fdf": {
+   "label": "internationaal"
+  },
+  "3025febe27018735": {
+   "label": "internationaal"
+  },
+  "30b91d2190b16dc0": {
+   "label": "lokaal"
+  },
+  "32e14ea0bb0b611b": {
+   "label": "internationaal"
+  },
+  "345bb32afd39f81b": {
+   "label": "lokaal"
+  },
+  "34d69eb061dc85aa": {
+   "label": "internationaal"
+  },
+  "34ecb43cbf833d72": {
+   "label": "internationaal"
+  },
+  "356a7e1a8e47cd72": {
+   "label": "regionaal"
+  },
+  "38ad43ac02a65411": {
+   "label": "internationaal"
+  },
+  "39f1df8ea9cac931": {
+   "label": "internationaal"
+  },
+  "3a01b388d75a5cf7": {
+   "label": "internationaal"
+  },
+  "3dbed05731111c4c": {
+   "label": "internationaal"
+  },
+  "3e87bbd5b634af05": {
+   "label": "internationaal"
+  },
+  "3e92e12b2212a768": {
+   "label": "internationaal"
+  },
+  "3f57cda5cfe9e6ea": {
+   "label": "internationaal"
+  },
+  "3fac93d755c91bdb": {
+   "label": "regionaal"
+  },
+  "3fe642ae3d5512f0": {
+   "label": "internationaal"
+  },
+  "4100d3b046e77c27": {
+   "label": "regionaal"
+  },
+  "418a21ba82c29617": {
+   "label": "internationaal"
+  },
+  "454865213b5faf79": {
+   "label": "internationaal"
+  },
+  "479a84013a81f82e": {
+   "label": "lokaal"
+  },
+  "48d59849aa9093a0": {
+   "label": "internationaal"
+  },
+  "4c2079768ed027ab": {
+   "label": "internationaal"
+  },
+  "4c2f113fd3c7b436": {
+   "label": "internationaal"
+  },
+  "4d3537a1723c0463": {
+   "label": "internationaal"
+  },
+  "4e547d42ab281097": {
+   "label": "internationaal"
+  },
+  "4ee8e82c55647afb": {
+   "label": "internationaal"
+  },
+  "51da3ef272bd0308": {
+   "label": "internationaal"
+  },
+  "53309450aa5a74b0": {
+   "label": "internationaal"
+  },
+  "543dc9a196e15fa7": {
+   "label": "internationaal"
+  },
+  "55ce75c98b480eef": {
+   "label": "regionaal"
+  },
+  "567e918665a855fc": {
+   "label": "internationaal"
+  },
+  "5823ca22dd8bc21d": {
+   "label": "regionaal"
+  },
+  "58243d70d5c1546d": {
+   "label": "lokaal"
+  },
+  "58c146ccd58566a2": {
+   "label": "lokaal"
+  },
+  "5925ae3e405875e9": {
+   "label": "internationaal"
+  },
+  "59e8811643dcdeef": {
+   "label": "regionaal"
+  },
+  "5a355beb8a9a609d": {
+   "label": "internationaal"
+  },
+  "5af77d26f74c137f": {
+   "label": "regionaal"
+  },
+  "5c4083578cffed22": {
+   "label": "internationaal"
+  },
+  "5dbf1707e4e685d4": {
+   "label": "regionaal"
+  },
+  "5ef8f15fa6b1ed4c": {
+   "label": "internationaal"
+  },
+  "611c2af0287137bf": {
+   "label": "internationaal"
+  },
+  "632ced9a01147d34": {
+   "label": "regionaal"
+  },
+  "6442ac1b8cc5773f": {
+   "label": "internationaal"
+  },
+  "6490844c45a0df99": {
+   "label": "regionaal"
+  },
+  "66fab368782023fc": {
+   "label": "internationaal"
+  },
+  "673da31775a29532": {
+   "label": "regionaal"
+  },
+  "69273fbf19762c75": {
+   "label": "regionaal"
+  },
+  "6928b9afb80a2987": {
+   "label": "internationaal"
+  },
+  "6d1aecd6a434d1a9": {
+   "label": "internationaal"
+  },
+  "6ed7eba5f2de74b8": {
+   "label": "regionaal"
+  },
+  "6f6a262f34fdf338": {
+   "label": "regionaal"
+  },
+  "709616f55077754f": {
+   "label": "internationaal"
+  },
+  "7430d244a302c39a": {
+   "label": "internationaal"
+  },
+  "77904528106ca359": {
+   "label": "internationaal"
+  },
+  "77e154fdb07ddda7": {
+   "label": "internationaal"
+  },
+  "79ddd50473aa75f9": {
+   "label": "internationaal"
+  },
+  "7bbdbd5494d31015": {
+   "label": "regionaal"
+  },
+  "7c3d462a2773325c": {
+   "label": "regionaal"
+  },
+  "7d13100d8f4428a1": {
+   "label": "lokaal"
+  },
+  "7db4e27514d9903e": {
+   "label": "internationaal"
+  },
+  "7dc9cad0c7aacfb7": {
+   "label": "regionaal"
+  },
+  "807ed3d2df307680": {
+   "label": "internationaal"
+  },
+  "81ab6948023f472b": {
+   "label": "regionaal"
+  },
+  "834de6872d5ed4b6": {
+   "label": "twijfel"
+  },
+  "83f1ba5181cb47d7": {
+   "label": "internationaal"
+  },
+  "84a04441a3da372b": {
+   "label": "internationaal"
+  },
+  "84bcad78d09d293e": {
+   "label": "internationaal"
+  },
+  "87a332fad4234029": {
+   "label": "regionaal"
+  },
+  "87b9a64c4a194d0d": {
+   "label": "regionaal"
+  },
+  "8a509620f735fdda": {
+   "label": "regionaal"
+  },
+  "8cc7f13440d6828a": {
+   "label": "regionaal"
+  },
+  "8ce5194d47ddd679": {
+   "label": "internationaal"
+  },
+  "8e2fb8efc6fe19da": {
+   "label": "regionaal"
+  },
+  "8e86d2246fe3a7c2": {
+   "label": "internationaal"
+  },
+  "90c3095616ae5e3f": {
+   "label": "internationaal"
+  },
+  "90f109e175055142": {
+   "label": "regionaal"
+  },
+  "9287927f33e82519": {
+   "label": "internationaal"
+  },
+  "944d17d1fa09187a": {
+   "label": "regionaal"
+  },
+  "9570cc748609a3d6": {
+   "label": "internationaal"
+  },
+  "957874690e9542a2": {
+   "label": "internationaal"
+  },
+  "957a0516a8ef6c56": {
+   "label": "internationaal"
+  },
+  "980d4e047ecbd93a": {
+   "label": "internationaal"
+  },
+  "9843b627c025519b": {
+   "label": "regionaal"
+  },
+  "9dfbacead2e32521": {
+   "label": "internationaal"
+  },
+  "9f6533714add6c98": {
+   "label": "regionaal"
+  },
+  "a0a1f671bea5f0c9": {
+   "label": "internationaal"
+  },
+  "a120af7cb7410906": {
+   "label": "internationaal"
+  },
+  "a230ad03dc9b0731": {
+   "label": "internationaal"
+  },
+  "a230d05fe30f8778": {
+   "label": "regionaal"
+  },
+  "a387afb8dbee3c38": {
+   "label": "regionaal"
+  },
+  "a3a6e11aebba2552": {
+   "label": "twijfel"
+  },
+  "a45e515eb4441cc9": {
+   "label": "regionaal"
+  },
+  "a4b6840f1093dc72": {
+   "label": "internationaal"
+  },
+  "a5943946529484ff": {
+   "label": "lokaal"
+  },
+  "a7a58efdbf8be2d7": {
+   "label": "internationaal"
+  },
+  "a8951b71bef5b9d0": {
+   "label": "internationaal"
+  },
+  "aa308de8d834e775": {
+   "label": "regionaal"
+  },
+  "aa7257321d3e0f62": {
+   "label": "regionaal"
+  },
+  "aad2093e7eee9595": {
+   "label": "lokaal"
+  },
+  "aaddef8089b351db": {
+   "label": "internationaal"
+  },
+  "aaed5b457b24310f": {
+   "label": "regionaal"
+  },
+  "ab551f44c926aff0": {
+   "label": "regionaal"
+  },
+  "ad9ad022d40deb51": {
+   "label": "regionaal"
+  },
+  "ae5b4124143f6c55": {
+   "label": "internationaal"
+  },
+  "aed0d8d2c8600e20": {
+   "label": "regionaal"
+  },
+  "b027cc89fe1f214b": {
+   "label": "regionaal"
+  },
+  "b278ea76ca6e7fd4": {
+   "label": "internationaal"
+  },
+  "b33d5cbca2897974": {
+   "label": "internationaal"
+  },
+  "b43f56a1ef71065a": {
+   "label": "internationaal"
+  },
+  "b7e29900308fad37": {
+   "label": "internationaal"
+  },
+  "b96a530195793a48": {
+   "label": "regionaal"
+  },
+  "bc90eafae27fd10b": {
+   "label": "internationaal"
+  },
+  "c006187f3c2ddf55": {
+   "label": "internationaal"
+  },
+  "c35e6aa728f26390": {
+   "label": "internationaal"
+  },
+  "c62bf0360cb035d9": {
+   "label": "regionaal"
+  },
+  "c755d01adc493982": {
+   "label": "internationaal"
+  },
+  "c9001c0df320470f": {
+   "label": "regionaal"
+  },
+  "c927e4e219b0a490": {
+   "label": "lokaal"
+  },
+  "c9936000d5bb59d5": {
+   "label": "regionaal"
+  },
+  "c9d1894f6eb71144": {
+   "label": "regionaal"
+  },
+  "ca28c94715279c98": {
+   "label": "internationaal"
+  },
+  "cac9f5d43cffa246": {
+   "label": "internationaal"
+  },
+  "ce82e201528abc2d": {
+   "label": "internationaal"
+  },
+  "cfa42145f6ff1b3d": {
+   "label": "internationaal"
+  },
+  "d476d756f1bd0ef2": {
+   "label": "regionaal"
+  },
+  "d577faa8a70897ab": {
+   "label": "regionaal"
+  },
+  "d649ccdc51027974": {
+   "label": "internationaal"
+  },
+  "d6babb2f6eb4dd87": {
+   "label": "internationaal"
+  },
+  "d805d15a2dfa4e22": {
+   "label": "internationaal"
+  },
+  "d99ada6141b32d49": {
+   "label": "regionaal"
+  },
+  "db4fdd3ed64e1247": {
+   "label": "internationaal"
+  },
+  "dc64811bbb32ab40": {
+   "label": "regionaal"
+  },
+  "dda3a9e5ed54f810": {
+   "label": "internationaal"
+  },
+  "dea5c4644f5b9fbe": {
+   "label": "internationaal"
+  },
+  "e3d46f26df6adfbf": {
+   "label": "internationaal"
+  },
+  "e573074666efcce0": {
+   "label": "regionaal"
+  },
+  "e5dcda9c57c7d8e4": {
+   "label": "internationaal"
+  },
+  "e64554b34cf7d719": {
+   "label": "internationaal"
+  },
+  "e690b31364a9473f": {
+   "label": "internationaal"
+  },
+  "e6f9bc9e52807401": {
+   "label": "internationaal"
+  },
+  "e84f0f220b635892": {
+   "label": "regionaal"
+  },
+  "ed42c3a119350a68": {
+   "label": "regionaal"
+  },
+  "ee1b2e641e382058": {
+   "label": "internationaal"
+  },
+  "eed08317dc54a9af": {
+   "label": "internationaal"
+  },
+  "efa1ef699c7f1781": {
+   "label": "internationaal"
+  },
+  "f489993a3d919f21": {
+   "label": "lokaal"
+  },
+  "f6a038b42cf93934": {
+   "label": "internationaal"
+  },
+  "f8b789214126a9d6": {
+   "label": "internationaal"
+  },
+  "fa20ae2369a4de5d": {
+   "label": "regionaal"
+  },
+  "fa4f37bb2caf0679": {
+   "label": "internationaal"
+  },
+  "fc2fd00bc4d83856": {
+   "label": "regionaal"
+  },
+  "fd96075f77bc1428": {
+   "label": "regionaal"
+  },
+  "fdc307f040bf4b38": {
+   "label": "regionaal"
+  },
+  "fe0f1b4eec5eee3c": {
+   "label": "internationaal"
+  },
+  "ff4460ce8714f0d4": {
+   "label": "regionaal"
+  }
+ }
+}

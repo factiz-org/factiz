@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Israëlisch bericht beschrijft mogelijk Iraans dronecomplot tegen Trump, geen poging bij het Witte Huis",
+  "oordeel_zin": "Het bericht achter de post beschrijft inlichtingen over een mogelijk Iraans dronecomplot tegen Trump en hoge functionarissen, geen poging, en de Amerikaanse minister van Binnenlandse Veiligheid heeft het niet bevestigd [2] [3] [4].",
+  "bewering": "Iran heeft geprobeerd Trump met zelfmoorddrones te vermoorden in het Witte Huis.",
+  "kort": "Sinds 14 november staat er een post op X die zegt dat Iran met zelfmoorddrones probeerde president Donald Trump te vermoorden bij het Witte Huis [1]. Het bericht erachter, van de Israëlische krant Israel Hayom, beschrijft inlichtingen over een mogelijk Iraans plan om Trump en hoge functionarissen aan te vallen met explosieve drones, geen poging [2] [3]. De dag erna sprak minister van Binnenlandse Veiligheid Markwayne Mullin over dagelijkse dreigingen vanuit Iran die hij aspirationeel noemde, en hij bevestigde het bericht niet [4].",
+  "tekst": "Op zaterdag 14 november 2026 om 19.01 uur UTC plaatste het account van Matt Tardio op X: \"Iran probeerde Trump met zelfmoorddrones te vermoorden bij het Witte Huis.\" [1] Hij citeerde een post van het account Open Source Intel van minder dan een half uur eerder [1] [2]. Die post sprak van \"inlichtingen over een Iraans dronecomplot tegen de leiding van het Witte Huis\", met Israel Hayom als bron [2]. In de post van Tardio werd van een complot tegen de leiding een poging bij het Witte Huis [1] [2].\n\nIsrael Hayom publiceerde die avond zijn bericht, op gezag van anonieme hoge Israëlische en Amerikaanse functionarissen [3]. Volgens hen gaf de Mossad de CIA inlichtingen dat Iran het gemunt heeft op Trump en hoge leden van zijn regering, en controleerde de Mossad die op verzoek van Amerikaanse inlichtingendiensten [3]. De inlichtingen wijzen op recente dreigingen, waaronder de mogelijkheid van aanvallen met drones vol explosieven [3]. Het bericht beschrijft geen aanval en geen poging [3].\n\nHet bericht beschrijft wel voorzorgsmaatregelen [3]. Functionarissen die risico lopen, beperkten hun optredens bij evenementen buiten, en verschillende verhuisden van hun woning naar beveiligde locaties [3]. Trumps openbare optredens werden sterk teruggebracht, en de optredens die overblijven worden beschermd met systemen tegen drones [3].\n\nOp zondag 15 november zei Mullin op Fox News dat de dagelijkse briefings van de president \"aspirationele dreigingen vanuit Iran\" bevatten, en dat Trump en zijn gezin \"doelwit nummer één\" zijn [4]. Volgens Fox News bevestigde hij het bericht over de drones niet [4].\n\nEen verwante post van 15 november presenteerde een video als een Iraanse aanval op een Amerikaanse basis in Koeweit, waarbij volgens Iran zo'n 250 Amerikaanse militairen zijn gedood, maar de video draagt de naam van Spaceflight Now en de datum 28 mei 2026 [6].",
+  "niet_weten": "Wij weten niet of Iran zo'n aanslag heeft gepland. Het bericht berust op anonieme functionarissen en is niet onafhankelijk bevestigd [3] [5]. Wij hebben de andere bewering in de post van Tardio niet gecontroleerd, namelijk dat de Revolutionaire Garde eerder dit jaar reisplannen van Trump en zijn gezin op X publiceerde [1].",
+  "bereik": "3.473 likes, 538 reposts en 532.401 weergaven op 23 november",
+  "nog_uitzoeken": [
+   "Of Iran werkelijk een droneaanval op Trump en hoge Amerikaanse functionarissen heeft gepland, en of een Amerikaanse dienst de inlichtingen openlijk bevestigt of ontkent.",
+   "Of posts in andere talen het complot presenteerden als een poging of een verijdelde aanval, met meer bereik dan deze.",
+   "Hoe de post zich verhoudt tot eerdere uitspraken van Amerikaanse functionarissen dat Iran Trump probeerde te vermoorden, zoals die van minister van Defensie Pete Hegseth op 4 maart 2026 over een complot tijdens de campagne van 2024.",
+   "Of de video in de post over Koeweit de explosie van een raket op 28 mei 2026 toont, zoals de naam en de datum in het beeld suggereren.",
+   "We hebben Misleidend afgewogen tegen Onwaar. Geen bron meldt een poging, wat wijst op Onwaar; de post berust op een echt bericht over een mogelijk plan, daarom kozen we Misleidend. Als je meer weet, laat het ons weten."
+  ],
+  "tijdlijn": [
+   "Open Source Intel plaatst het bericht van Israel Hayom op X [2].",
+   "Matt Tardio plaatst dat Iran probeerde Trump te vermoorden bij het Witte Huis [1].",
+   "Israel Hayom publiceert de Engelse versie van zijn bericht [3].",
+   "Mullin op Fox News: dagelijkse aspirationele dreigingen vanuit Iran, het bericht niet bevestigd [4].",
+   "Een post presenteert een video van 28 mei 2026 als een Iraanse aanval in Koeweit [6]."
+  ],
+  "beeld_bijschrift": [
+   "Post op X, 14 november 2026, 19.01 uur UTC.",
+   "Israel Hayom, 14 november 2026: het bericht over Mossad-inlichtingen over een mogelijk Iraans dronecomplot, waar de posts naar verwijzen."
+  ],
+  "beeld_alt": [
+   "De post op X van Matt Tardio die zegt dat Iran probeerde Trump te vermoorden bij het Witte Huis met zelfmoorddrones, met een citaat van een post van Open Source Intel over een gemeld Iraans dronecomplot. Stempel: MISLEIDEND.",
+   "Het bericht van Israel Hayom over inlichtingen over een Iraans plan om Trump en hoge Amerikaanse functionarissen met drones aan te vallen."
+  ]
+ }
+}

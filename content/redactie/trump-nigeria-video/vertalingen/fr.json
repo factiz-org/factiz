@@ -1,0 +1,56 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck trump-nigeria-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "9b373c9afe9aaee1",
+ "veldafdrukken": {
+  "kop": "cab1428136e5a8b0",
+  "oordeel_zin": "4a17b6531b5534a8",
+  "bewering": "ee6edde272e09afd",
+  "kort": "6eb7de9d893ddd77",
+  "tekst": "22f65856c2c1d449",
+  "niet_weten": "3c74d243863684fe",
+  "bereik": "37dcd24dce948f4e",
+  "nog_uitzoeken": "2bfb1263e80737a8",
+  "tijdlijn": "9051453557bae0f8",
+  "beeld_bijschrift": "bfd0986cdc2c3ba6",
+  "beeld_alt": "ab4e0323c144c795"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "La vidéo de Trump sur le meurtre de chrétiens date de novembre 2025 et ne déclare aucune guerre",
+  "oordeel_zin": "Trump a bien prononcé ces mots, mais dans une vidéo sur le Nigeria du 5 novembre 2025, et il n'y déclare aucune guerre [3] [4].",
+  "bewering": "🚨 URGENT : Donald Trump déclare une guerre mondiale contre l'islam radical et promet de protéger les chrétiens partout dans le monde.  « Le massacre des chrétiens n'aura PAS lieu. »",
+  "kort": "Donald Trump a bien dit « The killing of Christians is not going to happen » (« Le meurtre de chrétiens n'arrivera pas »), mais dans une vidéo sur le Nigeria qu'il a publiée le 5 novembre 2025 [2] [4]. Un an plus tard, des publications sur X présentent l'extrait comme l'annonce de dernière minute d'une guerre mondiale contre l'islam radical [1] [11]. Dans la vidéo complète, Trump ne déclare aucune guerre : il désigne le Nigeria comme un pays particulièrement préoccupant et affirme que les États-Unis sont prêts à sauver des chrétiens dans le monde entier [3] [6].",
+  "tekst": "Le samedi 14 novembre 2026, à 3 h 00 UTC, le compte Pop Static a publié sur X une vidéo de 22 secondes de Donald Trump [1]. Le texte affirme que Trump « declares a global war against radical Islam, vowing to protect Christians worldwide » (« déclare une guerre mondiale contre l'islam radical et promet de protéger les chrétiens du monde entier ») et cite ses paroles : « The killing of Christians is NOT going to happen. » (« Le meurtre de chrétiens n'arrivera PAS. ») [1]. La publication s'ouvre sur le mot BREAKING, comme si la nouvelle était récente [1]. Le 19 novembre, elle comptait 23 353 mentions « J'aime » et 479 réponses [1].\n\nLa citation provient d'une vidéo que Trump a publiée sur Truth Social le mercredi 5 novembre 2025 à 22 h 04 UTC [2] [3]. Neuf minutes plus tard, la Maison-Blanche a publié la même vidéo sur X ; elle dure 65 secondes [4]. Daily Trust au Nigeria et The Star au Kenya l'ont rapportée le lendemain matin, avec la même citation [5] [6]. « The killing of Christians is not going to happen » est la dernière phrase de la vidéo [3] [6]. L'extrait de la publication dure 22 secondes, soit environ un tiers de la vidéo [1] [4].\n\nDans la vidéo, Trump affirme que le christianisme fait face à une « menace existentielle » au Nigeria et accuse des « islamistes radicaux » d'être responsables des meurtres [3] [5]. Il désigne le Nigeria comme un « pays particulièrement préoccupant », un statut prévu par une loi américaine de 1998 pour les pays qui violent la liberté religieuse [3] [8]. Il demande au membre du Congrès Riley Moore et au président de commission Tom Cole d'examiner la question et de lui faire un rapport [3]. Il termine en disant que les États-Unis ne peuvent pas rester les bras croisés, que ce n'est « pas seulement le Nigeria », et que le pays est prêt à sauver des chrétiens dans le monde entier [3] [6]. Il ne déclare aucune guerre dans la vidéo [3].\n\nLa vidéo reprenait une publication du 31 octobre 2025, dans laquelle Trump avait inscrit le Nigeria sur cette liste [7] [8]. Le 1er novembre, il a menacé de suspendre toute l'aide au Nigeria et d'entrer dans le pays « guns-a-blazing » (« en tirant à tout va ») si les meurtres de chrétiens continuaient, et il a demandé au département de la Guerre de se préparer [8] [9]. Le président nigérian Bola Tinubu a déclaré que son gouvernement s'occupe des problèmes de sécurité qui touchent les citoyens de toutes les confessions [9]. Le 25 décembre 2025, les États-Unis ont frappé des cibles de l'État islamique dans l'État de Sokoto, dans le nord-ouest du Nigeria, ce que le Nigeria a présenté comme faisant partie de leur coopération en matière de sécurité [10].\n\nNous n'avons trouvé aucune nouvelle déclaration de Trump en novembre 2026 qui déclare une guerre contre l'islam radical [14] [15]. Lors d'une audition à la Chambre des représentants le 12 novembre 2026, deux jours avant la publication, le président de la sous-commission pour l'Afrique est revenu sur la désignation du 31 octobre 2025 et n'a mentionné aucune nouvelle déclaration [14]. Dans les propres publications de Trump sur Truth Social du 1er octobre au 19 novembre 2026, nous n'avons trouvé aucune déclaration de guerre à l'islam radical [15].\n\nL'extrait avait déjà circulé auparavant. Le 15 octobre 2026, un autre compte sur X a publié un extrait de même durée avec le texte selon lequel Trump « declares war on radical Islam across the globe » (« déclare la guerre à l'islam radical partout dans le monde ») [11]. Le site Document a repris cette publication le 18 octobre comme une information, sans date ni source pour la vidéo [12]. Le 1er novembre, un autre compte encore a publié le même texte avec l'extrait ; le 19 novembre, cette publication comptait 43 941 mentions « J'aime » [13].",
+  "niet_weten": "Nous ne savons pas qui a découpé en premier l'extrait de 22 secondes dans la vidéo, ni s'il a circulé avant le 15 octobre 2026. Trump s'exprime également lors de meetings et d'entretiens ; le fait qu'il n'y ait déclaré aucune guerre de ce type repose sur l'absence de tout compte rendu.",
+  "bereik": "23 353 mentions « J'aime » et 479 réponses le 19 novembre ; une publication antérieure du 1er novembre comptait 43 941 mentions « J'aime »",
+  "nog_uitzoeken": [
+   "Savoir si l'extrait de 22 secondes est tiré de la vidéo de la Maison-Blanche sur X ou de la publication de Trump sur Truth Social, en les comparant image par image.",
+   "Savoir si l'extrait circulait déjà comme une nouveauté avant octobre 2026, par exemple après les frappes américaines au Nigeria de décembre 2025.",
+   "Savoir qui a le premier associé l'extrait à une guerre contre l'islam radical.",
+   "Nous avons hésité entre Trompeur et Faux. Les mots sont bien de Trump, mais la guerre et la date indiquées dans la publication ne le sont pas. Si vous connaissez une déclaration dans laquelle Trump a déclaré une telle guerre, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Trump fait du Nigeria un pays particulièrement préoccupant dans une publication sur Truth Social, à 18 h 09 UTC [7].",
+   "Trump menace de suspendre l'aide au Nigeria et d'y entrer « guns-a-blazing » [8] [9].",
+   "Trump publie la vidéo sur Truth Social à 22 h 04 UTC ; elle se termine par « The killing of Christians is not going to happen » [2] [3].",
+   "La Maison-Blanche publie la même vidéo de 65 secondes sur X à 22 h 13 UTC [4].",
+   "Daily Trust et The Star rapportent la vidéo, avec la citation [5] [6].",
+   "Les États-Unis frappent des cibles de l'État islamique dans l'État de Sokoto, au Nigeria [10].",
+   "Une publication sur X présente l'extrait comme une déclaration de guerre à l'islam radical partout dans le monde [11].",
+   "Document reprend cette publication comme une information [12].",
+   "Une autre publication sur X avec le même texte et l'extrait [13].",
+   "Une audition à la Chambre des représentants revient sur la désignation du 31 octobre 2025 [14].",
+   "La publication de Pop Static, à 3 h 00 UTC [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 14 novembre 2026, 3 h 00 UTC.",
+   "Donald Trump, publié par la Maison-Blanche sur X le 5 novembre 2025 : la vidéo de 65 secondes sur les chrétiens au Nigeria."
+  ],
+  "beeld_alt": [
+   "La publication de Pop Static sur X : le texte sur une guerre mondiale contre l'islam radical et une image extraite de la vidéo de 22 secondes de Donald Trump. Tampon : TROMPEUR.",
+   "La vidéo de la Maison-Blanche du 5 novembre 2025, dans laquelle Donald Trump parle du meurtre de chrétiens au Nigeria."
+  ]
+ }
+}

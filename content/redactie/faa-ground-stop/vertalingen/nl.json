@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Mullin zei dat Trump een nationale noodtoestand had uitgeroepen vanwege de ground stop, maar er is geen verklaring",
+  "oordeel_zin": "Minister van Binnenlandse Veiligheid Markwayne Mullin zei het in het Witte Huis, maar er staat geen verklaring in het Federal Register of onder de handelingen van de president, en hij zei het terwijl hij het Congres om geld vroeg [2] [4] [5].",
+  "bewering": "🚨 GODVERDORIE: President Trump heeft de NATIONALE NOODTOESTAND UITGEROEPEN vanwege het kapotte luchtverkeersleidingssysteem van Amerika.  Een verslaggever vroeg of een cyberaanval of een op hol geslagen AI hier de oorzaak van was. DHS-minister Markwayne Mullin zegt dat er tot nu toe GEEN ENKEL BEWIJS is voor een cyberaanval.",
+  "kort": "Er is geen verklaring van een nationale noodtoestand vanwege de Amerikaanse ground stop, hoewel minister van Binnenlandse Veiligheid Markwayne Mullin zei dat president Trump er een had uitgeroepen [2] [11]. Een fragment van zijn briefing ging rond op X als nieuws over die verklaring [1]. Er staat geen proclamatie of order in het Federal Register, waar de wet voorschrijft dat die gepubliceerd moet worden, en Mullin zei het terwijl hij het Congres om geld vroeg [2] [4] [6].",
+  "tekst": "Op 13 november, om ongeveer 15:30 uur Eastern time (20:30 UTC), stopte de Federal Aviation Administration (FAA) alle vertrekken vanaf Amerikaanse luchthavens, een ground stop [8]. Een stortvloed aan data op het telecommunicatienetwerk had oudere apparatuur instabiel gemaakt, en volgens de FAA zijn er geen aanwijzingen voor een cyberaanval [8].\n\nDie avond gaven Mullin en minister van Transport Sean Duffy een briefing aan verslaggevers in het Witte Huis [9]. Mullin noemde het oude luchtverkeersleidingssysteem een risico voor de nationale veiligheid en zei: \"The President has declared this a national emergency, and now we have to have Congress act and fund it.\" [2] Zijn ministerie publiceerde die zin, en The National News Desk meldde het die avond [2] [11].\n\nOm 01:54 UTC op 14 november plaatste het account Gunther Eagleman een fragment van de briefing met de tekst dat Trump een nationale noodtoestand had uitgeroepen [1]. Een latere post noemde de ground stop een militaire operatie onder een nationale noodtoestand, en Mike Flynn, een voormalige nationale veiligheidsadviseur, schreef over berichten dat militaire eenheden in staat van paraatheid waren, maar wij vonden zo'n bericht niet [13] [14].\n\nOnder de National Emergencies Act roept de president een nationale noodtoestand uit in een proclamatie die naar het Congres gaat en in het Federal Register wordt gepubliceerd [6]. Trump riep er in augustus een uit over het elektriciteitsnet, in Executive Order 14421 [7]. Voor de ground stop vonden wij er geen: het Federal Register heeft sinds 13 november drie presidentiële documenten gepubliceerd, geen ervan over luchtverkeer of een noodtoestand, en het Witte Huis vermeldt geen enkele zo'n handeling [4] [5].\n\nTrump zelf zei in het openbaar niets tot 15 november, toen hij het Congres om het \"desperately needed money for Air Traffic Control\" vroeg [10]. In de samenvatting van het Witte Huis over de briefing staat een weglatingsteken op de plek van Mullins zin, en wordt Duffy geciteerd: \"This is an emergency. I want Congress to give us emergency funding.\" [3] [11]",
+  "niet_weten": "Wij weten niet of Trump de storing in besloten kring een nationale noodtoestand noemde, of dat Mullin doelde op de oproep om noodfinanciering [2] [3], en ook niet waarom het Witte Huis zijn zin wegliet [3].",
+  "bereik": "14.713 likes en 877 reacties op 22 november; vijf andere posts met dezelfde bewering hadden samen 23.107 likes",
+  "nog_uitzoeken": [
+   "Waarop Mullin zijn woorden baseerde, en of DHS of het Witte Huis ze heeft gecorrigeerd.",
+   "Of er alsnog een verklaring over luchtverkeersleiding volgt; wij hebben gezocht tot 22 november.",
+   "Wij hebben Misleidend afgewogen tegen Onwaar. Mullin zei de woorden wel, waardoor wij voor Misleidend kozen; er is geen verklaring, wat wijst op Onwaar."
+  ],
+  "tijdlijn": [
+   "Om ongeveer 15:30 uur Eastern time heeft de FAA een technisch probleem en stopt alle vertrekken in het hele land [8].",
+   "De vluchten worden hervat, om 20:15 uur Eastern time op 13 november [8].",
+   "Na 20:15 uur Eastern time op 13 november geven Mullin en Duffy een briefing aan verslaggevers in het Witte Huis; Mullin zegt dat de president een nationale noodtoestand heeft uitgeroepen [2] [9] [11].",
+   "Gunther Eagleman plaatst een fragment van de briefing: Trump heeft een nationale noodtoestand uitgeroepen [1].",
+   "Een ander account schrijft dat Trump een nationale noodtoestand heeft uitgeroepen en vraagt Grok om dat te controleren [12].",
+   "Trumps eerste post over de ground stop, op Truth Social, vraagt het Congres om geld voor luchtverkeersleiding [10].",
+   "Trump geeft de schuld aan zeer oude apparatuur en zegt geen verantwoordelijkheid te nemen [9].",
+   "Geen verklaring over de ground stop in het Federal Register of onder de presidentiële handelingen van het Witte Huis [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Post op X, 14 november 2026, 01:54 UTC.",
+   "De volledige briefing van Markwayne Mullin en Sean Duffy, geplaatst door het Witte Huis, 13 november 2026."
+  ],
+  "beeld_alt": [
+   "Een post op X van Gunther Eagleman waarin staat dat president Trump een nationale noodtoestand heeft uitgeroepen vanwege het luchtverkeersleidingssysteem, met een still van Fox News waarop Sean Duffy en Markwayne Mullin te zien zijn bij de briefing in het Witte Huis. Stempel: MISLEIDEND.",
+   "De video van het Witte Huis van de briefing over de ground stop van de FAA, met minister van Transport Sean Duffy en minister van Binnenlandse Veiligheid Markwayne Mullin."
+  ]
+ }
+}

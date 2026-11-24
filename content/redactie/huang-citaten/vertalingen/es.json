@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck huang-citaten van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "f6c108d1598d69c5",
+ "veldafdrukken": {
+  "kop": "8352433f95dc153b",
+  "oordeel_zin": "7fe4e7e4003d7324",
+  "bewering": "7a68058bd4c0c68d",
+  "kort": "419b49c08384fd84",
+  "tekst": "859bdcf1a7f3cfeb",
+  "niet_weten": "16a6e002a397d90a",
+  "bereik": "ede32074295547d0",
+  "nog_uitzoeken": "7c2957ecf1bbeee9",
+  "tijdlijn": "4f215e483240391a",
+  "beeld_bijschrift": "3e9e876c810b3ee8",
+  "beeld_alt": "130ae89ac139bc3c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Esta \"declaración oficial\" de Jensen Huang es inventada: Nvidia nunca la publicó",
+  "oordeel_zin": "Nvidia nunca publicó esta declaración, y el correo de Huang que Nvidia sí publicó, tres días antes de la fecha que figura en la carta, dice lo contrario: pidió disculpas y asumió toda la responsabilidad [1] [5].",
+  "bewering": "ÚLTIMA HORA: JENSEN HUANG ROMPE POR FIN SU SILENCIO [...]",
+  "kort": "El 12 de noviembre, una publicación en X mostraba una \"declaración oficial\" de Nvidia, fechada el 11 de noviembre, en la que Jensen Huang niega las informaciones sobre él [6]. Nvidia nunca la publicó: su sala de prensa no tiene ningún comunicado del 11 de noviembre, y el único mensaje de Huang que publicó es un correo del 8 de noviembre en el que pedía disculpas [1] [5]. En sus primeras palabras públicas tras dimitir, el 17 de noviembre, Huang escribió que había cometido errores graves [7] [9].",
+  "tekst": "El 8 de noviembre, el consejo de administración de Nvidia inició una investigación independiente tras las informaciones según las cuales Huang había sido objetivo de una operación de inteligencia extranjera [2]. Ese mismo día, Nvidia publicó un correo que Huang había enviado a su personal, en el que pedía disculpas, asumía toda la responsabilidad y prometía cooperar plenamente [1]. El 12 de noviembre, Nvidia anunció que había dimitido como director ejecutivo y miembro del consejo [4]. El comunicado no incluye ninguna palabra suya [4].\n\nA las 03:29 UTC del 12 de noviembre, una cuenta de X publicó que Huang había roto \"por fin\" su silencio [6]. Acompañaba la publicación la imagen de una carta con el logotipo de Nvidia, titulada \"Declaración oficial\", fechada el 11 de noviembre y firmada por Huang, en la que califica de completamente falsas las recientes informaciones sobre él [6]. La publicación no citaba ninguna fuente, y su autor la ha borrado desde entonces [6].\n\nLa sala de prensa de Nvidia no tiene ningún comunicado fechado el 11 de noviembre, y ninguno de sus cuatro comunicados sobre la investigación y el cambio de dirección contiene un desmentido de Huang [1] [2] [3] [4] [5]. La carta también contradice el correo que sí envió, tres días antes de su fecha [1]. Además tiene un error de escritura: \"cntire\" en lugar de \"entire\" [6].\n\nEl 17 de noviembre, en su propia cuenta de X, Huang escribió que había cometido errores graves y que lamentaba profundamente los problemas que había causado al consejo [7] [9]. Escribió que sería un honor volver como director ejecutivo si el consejo decidía que era lo mejor [8] [9]. Ese mismo día, el presidente del consejo, Harvey Jones, dijo que el consejo no tiene intención de readmitirlo [8].\n\nEl único desmentido por parte de Huang que encontramos llegó el 20 de noviembre, cuando su portavoz tachó de invenciones las acusaciones publicadas en The New York Times sobre cómo trataba al personal [13]. Se trata de otras informaciones, publicadas después de la fecha de la carta [13].",
+  "niet_weten": "No sabemos quién hizo la carta ni si apareció antes en otro lugar [6]. Vimos una sola publicación con ella [6]. No encontramos ninguna información de que Huang hablara con periodistas entre el 8 y el 17 de noviembre [8] [9] [10].",
+  "bereik": "90 me gusta y 21 respuestas el 19 de noviembre; borrada por su autor el 23 de noviembre",
+  "nog_uitzoeken": [
+   "Quién hizo la carta y dónde apareció primero, en inglés o en otro idioma.",
+   "Cuántas publicaciones llevaron la carta. Vimos una, borrada desde entonces por su autor; una segunda publicación sobre el mismo tema del 12 de noviembre también fue borrada.",
+   "Si circularon otros mensajes en nombre de Huang, como un mensaje de despedida, y si también son inventados.",
+   "Si Huang dijo algo a periodistas entre su correo del 8 de noviembre y su publicación del 17 de noviembre."
+  ],
+  "tijdlijn": [
+   "El consejo de Nvidia inicia una investigación independiente [2]. Nvidia publica el correo de Huang a los empleados, con una disculpa [1].",
+   "Los miembros independientes del consejo contratan a un abogado externo y a su despacho para la investigación [3].",
+   "Una publicación en X muestra la \"declaración oficial\" fechada el 11 de noviembre, en la que Huang niega las informaciones [6].",
+   "Nvidia anuncia que Huang ha dimitido; el comunicado no incluye ninguna palabra suya [4].",
+   "Una carta en nombre de directivos de Nvidia, que exige el regreso de Huang, resulta ser casi una copia de una carta de 2023 de empleados de OpenAI [11].",
+   "Primera declaración pública de Huang desde su dimisión, en su propia cuenta de X [7] [9].",
+   "El presidente del consejo, Harvey Jones: el consejo no tiene intención de readmitir a Huang [8].",
+   "El portavoz de Huang tacha de invenciones las acusaciones de The New York Times sobre cómo trataba Huang al personal [13].",
+   "El presidente Trump dice que le gustaría que Huang tuviera una segunda oportunidad; el consejo sigue sin planear readmitirlo [12].",
+   "La publicación con la carta ya no está en X: su autor la borró [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 12 de noviembre de 2026, 03:29 UTC, borrada desde entonces por su autor."
+  ],
+  "beeld_alt": [
+   "Una publicación en X que dice que Jensen Huang ha roto su silencio, con la imagen de una carta con el logotipo de Nvidia titulada Declaración oficial, fechada el 11 de noviembre de 2026, en la que Huang niega las informaciones sobre él. Sello: FALSO."
+  ]
+ }
+}

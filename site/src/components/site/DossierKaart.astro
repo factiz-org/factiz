@@ -1,0 +1,26 @@
+---
+// Een dossier als kaart (PLAN #34.2s, DESIGN §4w): het veld van het dossier links (of boven op een telefoon), leeg, want
+// nooit tekst op een veld (D11); ernaast de soort, de naam, het begin van de inleiding, het aantal factchecks en, als
+// `laatste` gevraagd is, de laatste aanvulling (het overzicht vraagt dat niet meer, PO 2026-11-19: "'latest addition' kan
+// weg"). Dezelfde kaart op de start en op het overzicht; boven het aantal wat meer ruimte ("iets meer padding").
+import Plaat from './Plaat.jsx';
+import { maakT } from '../../lib/teksten.js';
+const { d, href, laatsteKop = '', taal } = Astro.props;
+const t = maakT(taal);
+// het label op het beeld, dicht zodat het op de korrel leesbaar blijft (PO 2026-11-19: "Overal een storylabel: voeg niet
+// zoveel toe ... over de visual, het label, dossier moeten plakken"; een uitzondering op D11, DESIGN §4w): een verhaal is
+// gewoon een dossier, een netwerk zegt dat het een netwerk is
+const label = d.soort === 'netwerk' ? d.soort_tekst : t('ingang_dossier');
+---
+<a class="kaart grid h-full overflow-hidden sm:grid-cols-[14rem_minmax(0,1fr)]" href={href}>
+  <span class="relative grid">
+    <span class={`kaartveld veld-groen veld-kaart-thema-${d.thema} veld-kaart-dossier-${d.sleutel} block h-full min-h-[9rem] rounded-none`} aria-hidden="true"><Plaat soort="dossier" sleutel={d.sleutel} thema={d.thema} plek="vak" /></span>
+    <span class="label fz-kaart-label">{label}</span>
+  </span>
+  <span class="grid content-start gap-1.5 p-4">
+    {d.concept && <span class="mono">{d.concept_tekst}</span>}
+    <span class="text-[16px] leading-snug font-semibold tracking-[-0.01em]">{d.naam}</span>
+    <span class="zacht line-clamp-3 text-[13px]">{d.inleiding}</span>
+    <span class="mono mt-2">{d.aantal}{laatsteKop && d.laatste && <> · {laatsteKop} {d.laatste}</>}</span>
+  </span>
+</a>

@@ -1,0 +1,655 @@
+{
+ "_meta": "Labels van ronde 5 (verificatie-v5, sonnet, b, bR en aR), PLAN #31.8, 2026-10-26, gelezen door Claude. klopt niet bij een onwaar beeld: 'bewijst' als de geciteerde bron het bijschrift weerlegt; een bron over de gebeurtenis telt als de herkenning van het beeld overeenkomt met de check in M4FC. let op: 'terecht' als de reden een van de drie is en voor dit beeld klopt. klopt bij een onwaar beeld: 'vals', of 'bijschrift waar' als het bijschrift van M4FC letterlijk klopt. Bij een waar beeld: 'vals' tenzij de set het mis heeft. Bij twijfel het strengste label.",
+ "labels": [
+  {
+   "sleutel": "b:b-000003",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000123",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000132",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000213",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000225",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000237",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000263",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000321",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000340",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000352",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000373",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000381",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000390",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000531",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000605",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000628",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000631",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000653",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000677",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000714",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000761",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000776",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000790",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000850",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000937",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000003",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000123",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000129",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000136",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000213",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000219",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000225",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000237",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000321",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000340",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000352",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000373",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000381",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000390",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000531",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000605",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000628",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000631",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000640",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000677",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000714",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000776",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000785",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000850",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "bR:b-000937",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron weerlegt het bijschrift (bij 653 en 640 gaat de bron over de gebeurtenis; de herkenning van het beeld komt overeen met de check in M4FC)"
+  },
+  {
+   "sleutel": "b:b-000034",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000100",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000136",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000151",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000186",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000252",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000613",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000640",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000808",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-000884",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000034",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000100",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000132",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000151",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000252",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000790",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "bR:b-000808",
+   "label": "terecht",
+   "waarom": "gelezen: de reden is een van de drie (patroon, of iets dat gemeld zou zijn) en klopt voor dit beeld"
+  },
+  {
+   "sleutel": "b:b-001089",
+   "label": "vals",
+   "waarom": "Al-Aqsa: de botsingen in april 2023 waren echt, de foto's zijn van 2021 en 2022 (M4FC); het algemene klopt, het beeld niet"
+  },
+  {
+   "sleutel": "bR:b-001089",
+   "label": "vals",
+   "waarom": "idem"
+  },
+  {
+   "sleutel": "bR:b-000369",
+   "label": "vals",
+   "waarom": "de [R]-pagina's gaan over Lumbini op het biljet van 100 roepie, niet over Boeddha op biljetten; Factly: het beeld is bewerkt"
+  },
+  {
+   "sleutel": "bR:b-000822",
+   "label": "vals",
+   "waarom": "de aardverschuiving was echt, maar Sonnet schrijft zelf dat niet bevestigd is dat de foto's ervan zijn; Factly: oude foto's"
+  },
+  {
+   "sleutel": "bR:b-000970",
+   "label": "bijschrift waar",
+   "waarom": "het bijschrift 'Prabha Munni staat op een oude foto met Kejriwal' klopt letterlijk (kerstviering 2017, ware toelichting in M4FC); het misleidende deel van de post zit niet in de claim van M4FC"
+  },
+  {
+   "sleutel": "b:w-03796",
+   "label": "vals",
+   "waarom": "48-baansweg: CongoCheck noemt het waar (file op de snelweg Beijing–Hongkong–Macau, 2015); NewsMobile noemt het misleidend (tolplein); de factcheckers zijn het oneens, streng gelabeld"
+  },
+  {
+   "sleutel": "bR:w-03796",
+   "label": "vals",
+   "waarom": "48-baansweg: CongoCheck noemt het waar (file op de snelweg Beijing–Hongkong–Macau, 2015); NewsMobile noemt het misleidend (tolplein); de factcheckers zijn het oneens, streng gelabeld"
+  },
+  {
+   "sleutel": "b:w-04544",
+   "label": "vals",
+   "waarom": "Polígrafo: de foto toont een echte test; Sonnet weerlegt '20 cm' en 'ondraaglijke pijn' in het bijschrift; streng gelabeld"
+  },
+  {
+   "sleutel": "bR:w-04544",
+   "label": "vals",
+   "waarom": "idem, als let op"
+  },
+  {
+   "sleutel": "b:w-00722",
+   "label": "vals",
+   "waarom": "Tjekdet: het meisje is echt een kindbruid; Sonnet koppelt de foto aan een andere zaak (Arzoo Raja, 2020) en waarschuwt voor oud nieuws"
+  },
+  {
+   "sleutel": "bR:w-00722",
+   "label": "vals",
+   "waarom": "Tjekdet: het meisje is echt een kindbruid; Sonnet koppelt de foto aan een andere zaak (Arzoo Raja, 2020) en waarschuwt voor oud nieuws"
+  },
+  {
+   "sleutel": "aR:b-000011",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000034",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000100",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000123",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000129",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000132",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000136",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000151",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000186",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000213",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000219",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000225",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000237",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000252",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000263",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000321",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000340",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000352",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000369",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000373",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000381",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000390",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000531",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000605",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000613",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000628",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000631",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000640",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000653",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000677",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000714",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000721",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000761",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000776",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000785",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000790",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000808",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000822",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000827",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000850",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000884",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000895",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000937",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000945",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000970",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000985",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-001025",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-001040",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-001089",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "aR:b-000003",
+   "label": "bewijst",
+   "waarom": "gelezen: checks van Factly, PolitiFact en Doğrula over precies deze bewerkte foto"
+  },
+  {
+   "sleutel": "aR:w-03529",
+   "label": "vals",
+   "waarom": "Saturnus overdag: M4FC noemt het waar; Sonnet vindt hemelfoto's verdacht (patroon) zonder bron"
+  },
+  {
+   "sleutel": "aR:w-03796",
+   "label": "vals",
+   "waarom": "48-baansweg: Snopes en Africa Check (en NewsMobile) zeggen nee, CongoCheck (M4FC) ja; een betwiste claim, streng gelabeld"
+  }
+ ]
+}

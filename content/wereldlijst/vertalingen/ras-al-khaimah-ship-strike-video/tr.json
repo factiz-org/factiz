@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van het overzicht ras-al-khaimah-ship-strike-video van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "35212dd6f3215b9a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Bir video, İngiliz bir denizcilik kuruluşunun bildirdiği üzere, Birleşik Arap Emirlikleri'ndeki Ras Al Khaimah'ın 14 mil açığında bir geminin bir mermi tarafından vurulduğunu gösteriyor.",
+  "kern": [
+   "Görüntüler Temmuz 2024'e ait ve Kızıldeniz'de bir gemiye yönelik Husi saldırısını gösteriyor; görüntüler o dönemde Husilerin askeri medyası üzerinden dağıtılmıştı [1].",
+   "Paylaşılan sürüm, orijinaliyle karşılaştırıldığında patlamayı daha büyük göstermek için düzenlenmiş [1].",
+   "Videonun Hürmüz Boğazı çevresindeki son gemi saldırılarıyla bir bağlantısı yok [1]."
+  ],
+  "rondgang": "Video, bir tankerin 16 Kasım 2026'da Hürmüz Boğazı'ndan çıkarken kimliği belirsiz bir mermi tarafından vurulmasının ardından Facebook'ta Arapça bir açıklamayla yayıldı [1]."
+ }
+}

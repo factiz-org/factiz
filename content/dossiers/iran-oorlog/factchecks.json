@@ -1,0 +1,241 @@
+{
+ "toelichting": "Een voorstel van Claude (PLAN #37.5): elke factcheck uit het archief over de rechtstreekse oorlog tussen Iran en Israël en de VS sinds april 2024, uit 875 kaarten die het model voorstelde; er is nog geen eigen check van Factiz over dit verhaal. De lezing staat in data/dossiers/iran-oorlog/claude-lezing.json. De PO las het dossier en gaf akkoord op 2026-11-19. Strenge keuze (SPECS E9.S7 AC10): de 78 beweringen die het vaakst rondgingen, hoogstens 25 per jaar, van de 537; de rest in data/dossiers/iran-oorlog/inkorten.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-19",
+ "factchecks": [
+  {
+   "nummer": "0308200b503497b1"
+  },
+  {
+   "nummer": "05d28d677feaa800"
+  },
+  {
+   "nummer": "34bcc0e4271af235"
+  },
+  {
+   "nummer": "4ffd36c7a9ba8dd3"
+  },
+  {
+   "nummer": "3f89698b73709060"
+  },
+  {
+   "nummer": "09a6e4cd10c6a0f9"
+  },
+  {
+   "nummer": "541bb67c5d6ebccf"
+  },
+  {
+   "nummer": "1713db905a4ae994"
+  },
+  {
+   "nummer": "32994455ee9928ab"
+  },
+  {
+   "nummer": "569e2cafc15330f9"
+  },
+  {
+   "nummer": "1dcac2d537e439bf"
+  },
+  {
+   "nummer": "0f595a8588f8bb61"
+  },
+  {
+   "nummer": "10f6caa85543aa5b"
+  },
+  {
+   "nummer": "4cfb60b96accb0ba"
+  },
+  {
+   "nummer": "16559f94802a72f1"
+  },
+  {
+   "nummer": "3e375d9700347061"
+  },
+  {
+   "nummer": "0f82e9b01e312584"
+  },
+  {
+   "nummer": "0caacc88f7415b81"
+  },
+  {
+   "nummer": "c0ff1f692e524cb0"
+  },
+  {
+   "nummer": "64b35bc1e055a670"
+  },
+  {
+   "nummer": "8d962e18520b784e"
+  },
+  {
+   "nummer": "b5ce59984c811821"
+  },
+  {
+   "nummer": "11830c9a9e2bcf3e"
+  },
+  {
+   "nummer": "df5e7f49fd75965e"
+  },
+  {
+   "nummer": "9893e42f30d94fcf"
+  },
+  {
+   "nummer": "34ab68ea05995d0a"
+  },
+  {
+   "nummer": "46de002e62a8dea6"
+  },
+  {
+   "nummer": "45392a5d74d817d3"
+  },
+  {
+   "nummer": "2bd3c593ee5f3e0a"
+  },
+  {
+   "nummer": "9af9b6507fe4123b"
+  },
+  {
+   "nummer": "e666cf29014177aa"
+  },
+  {
+   "nummer": "c0c58a6b8b4e1c72"
+  },
+  {
+   "nummer": "05f91dc7dac04a5f"
+  },
+  {
+   "nummer": "c30d56eab63909ba"
+  },
+  {
+   "nummer": "20725aa1987539e9"
+  },
+  {
+   "nummer": "df641aa173bf32f5"
+  },
+  {
+   "nummer": "8e66266d8d20ed6f"
+  },
+  {
+   "nummer": "74d7c0f7fdbda1d3"
+  },
+  {
+   "nummer": "1eb7226b7c9c8330"
+  },
+  {
+   "nummer": "a2b10707a5136f21"
+  },
+  {
+   "nummer": "02a305b790f69b75"
+  },
+  {
+   "nummer": "0eb7fc4d2dc505bc"
+  },
+  {
+   "nummer": "2645028b34fb9be5"
+  },
+  {
+   "nummer": "8ee8644076f6e11e"
+  },
+  {
+   "nummer": "fafc3c3675457065"
+  },
+  {
+   "nummer": "203bcf665c9ff4a1"
+  },
+  {
+   "nummer": "39975254f7a655d3"
+  },
+  {
+   "nummer": "0f4a75609ee4822b"
+  },
+  {
+   "nummer": "25037af7683bb11a"
+  },
+  {
+   "nummer": "cbe4bd409a6e3398"
+  },
+  {
+   "nummer": "7c4bf2ae0409fbab"
+  },
+  {
+   "nummer": "5acce00bdbc358d4"
+  },
+  {
+   "nummer": "865aa28448dce4a0"
+  },
+  {
+   "nummer": "6714622103c7b158"
+  },
+  {
+   "nummer": "2d6f827108a7e7c0"
+  },
+  {
+   "nummer": "cda9eb044fa35571"
+  },
+  {
+   "nummer": "f2255686f56134e1"
+  },
+  {
+   "nummer": "23756a77b31bc746"
+  },
+  {
+   "nummer": "ece879e028890c34"
+  },
+  {
+   "nummer": "2bf2bbb3636d1d55"
+  },
+  {
+   "nummer": "7304e54c6785a4c9"
+  },
+  {
+   "nummer": "211b3e01d5dc1d53"
+  },
+  {
+   "nummer": "70a077b4f5c2c363"
+  },
+  {
+   "nummer": "8db1f1c2e4a7d3d5"
+  },
+  {
+   "nummer": "230a4a956fcaefb2"
+  },
+  {
+   "nummer": "0d013da9a53e0309"
+  },
+  {
+   "nummer": "987d3afd20ac1a2e"
+  },
+  {
+   "nummer": "834fac955503517f"
+  },
+  {
+   "nummer": "023086a9573f9e39"
+  },
+  {
+   "nummer": "a1644c10f6884ea9"
+  },
+  {
+   "nummer": "a6c8d0519e5c95e4"
+  },
+  {
+   "nummer": "c24f3862e9c7811e"
+  },
+  {
+   "nummer": "9f58e59a231709e1"
+  },
+  {
+   "nummer": "70990ec474cc0a59"
+  },
+  {
+   "nummer": "7f2a91bed52dd5b7"
+  },
+  {
+   "nummer": "951366983b51e66a"
+  },
+  {
+   "nummer": "942b477e3e469b0e"
+  },
+  {
+   "nummer": "b88939df29950708"
+  }
+ ]
+}

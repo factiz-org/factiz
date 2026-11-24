@@ -1,0 +1,265 @@
+{
+ "toelichting": "PLAN #32.42, Spaans: elk rood en oranje, elk groen bij O en K en elke niet bevestigd bij W, W-merk en G, gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, waar nodig met de bron zelf of een zoekvraag erbij; een alarm met de eigen check als bron bewijst zichzelf (meting.auto_label).",
+ "labels": {
+  "G:es-004931#C": {
+   "label": "vals",
+   "toelichting": "Een gezamenlijk document van twee vakverenigingen is nichenieuws voor de vakpers en de eigen sites, niet iets wat betrouwbare media melden."
+  },
+  "G:es-006631#C": {
+   "label": "vals",
+   "toelichting": "EFE Agro meldt de verlenging van de steun om het Russische importverbod (70 miljoen, 2017); echt nieuws, dus 'niet bevestigd' is onterecht."
+  },
+  "G:es-007142#C": {
+   "label": "vals",
+   "toelichting": "Trump tweette op dinsdag 25 juni 2019 'great and overwhelming force' tegen Iran; Reuters, AP en andere grote media meldden dat."
+  },
+  "G:es-013119#C": {
+   "label": "vals",
+   "toelichting": "Een regionale oogstverwachting uit een opiniestuk is lokaal landbouwnieuws dat betrouwbare media niet per se melden; niets wijst erop dat het onwaar is."
+  },
+  "G:es-013450#C": {
+   "label": "vals",
+   "toelichting": "Gaat over Shaima Rezayee van Tolo TV (2005), ontslagen na klachten van conservatieven over haar gedrag op tv; RFE/RL, CPJ en RSF meldden dat, de naam is verkeerd gespeld."
+  },
+  "G:es-015533#C": {
+   "label": "vals",
+   "toelichting": "Fernanda Familiar deelde in augustus 2019 een nepbeeld van AMLO en bood excuses aan; Mexicaanse media als Vanguardia, El Imparcial en SinEmbargo meldden het."
+  },
+  "O:gfc-010bc64662277b72#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae (EFE) en La República melden dat de video van de Peruaanse militair met AI is gemaakt."
+  },
+  "O:gfc-0484045f8f670988#C": {
+   "label": "bewijst niet",
+   "toelichting": "Geen bron zegt dat de voorpagina vals is; HuffPost noemt alleen +34% voor 2024-2026, wat een halvering sinds 2018 niet uitsluit."
+  },
+  "O:gfc-0657fed054e275b7#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias en Factchequeado melden dat Trump de satanische video niet op Truth Social plaatste."
+  },
+  "O:gfc-10b217a04f0b96a8#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE), Yahoo en Grupo Animal melden dat de video van minister Trigueros is gemanipuleerd en de uitspraak vals."
+  },
+  "O:gfc-13b31200e5411f2e#C": {
+   "label": "bewijst",
+   "toelichting": "NYT, NBC, The Hill en Wired geven de echte gravures (games, memes, antifascistisch); geen 'TRN'."
+  },
+  "O:gfc-14562a7f2fed19ee#C": {
+   "label": "bewijst",
+   "toelichting": "De eigen site van het Sindicato de Estudiantes en 20minutos tonen dat de bond juist een staking en betogingen voor Sandra Peña organiseerde."
+  },
+  "O:gfc-162e8179f741ad03#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen bevestigen alleen het afgewezen troepenaanbod en Trumps kritiek; geen enkele zegt dat de aangekondigde breuk in de zaken niet bestaat."
+  },
+  "O:gfc-1e43ba34a1135954#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Factual (factcheck in de resultaten) noemt het oud desinformatievideo; WHO en UNICEF verklaren het tetanusvaccin veilig."
+  },
+  "O:gfc-1f1587480d303461#C": {
+   "label": "bewijst",
+   "toelichting": "Le JDD meldt dat Bagayoko een gemeentelijk verbod op de verkoop van alcohol nam en dat zelf rechtvaardigt; geen verbod op gebruik om de sharia toe te passen."
+  },
+  "O:gfc-29f4183c9f01e3b4#C": {
+   "label": "bewijst",
+   "toelichting": "BioBioChile meldt dat de 380 miljoen via 14 directe gunningen van de regering naar het kantoor gingen, niet van Vodanovic."
+  },
+  "O:gfc-4292a6da29504579#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias en Factchequeado (factcheck in de resultaten): Mamdani bekritiseerde het rechtssysteem, beloofde niet de gevangenissen te legen."
+  },
+  "O:gfc-42e37babe79a0376#C": {
+   "label": "bewijst",
+   "toelichting": "Cotejo.info, Cazadores de Fake News en Yahoo melden dat de foto bewerkt is en Machado er niet op staat."
+  },
+  "O:gfc-4c0636c4bb6fcd2b#C": {
+   "label": "bewijst",
+   "toelichting": "De Yahoo-artikelen en El País melden dat de Canadair-toestellen na de dictatuur zijn gekocht."
+  },
+  "O:gfc-51d534cfa04f9f3d#C": {
+   "label": "bewijst",
+   "toelichting": "20minutos: het ziekenhuis van Toledo ontkent doden door de black-out; Infobae (EFE) noemt het vals."
+  },
+  "O:gfc-52c600b97b5a6615#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) en Yahoo melden dat Milei Jaime Dunn niet steunde en de video vals is."
+  },
+  "O:gfc-69b9c587803b4ab3#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae en National Geographic melden dat de dieren Yellowstone niet ontvluchten en de video's misleidend of AI zijn."
+  },
+  "O:gfc-69dbf626e227657c#C": {
+   "label": "bewijst",
+   "toelichting": "De regering van Mexico (gob.mx) en EFE via Swissinfo: de hervorming straft fraude met overheidslogo's, geen memes."
+  },
+  "O:gfc-6cd316c64897eeda#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Factual en France 24 melden dat de beelden met groen scherm met AI gemaakt zijn."
+  },
+  "O:gfc-6cffb0cf78a0ed80#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Yahoo en Grupo Animal melden dat de foto van de gouverneur die Ayuso's hand kust met AI is gemaakt."
+  },
+  "O:gfc-72c4e640a1ccfa10#C": {
+   "label": "bewijst",
+   "toelichting": "AFP Factual en Cazadores de Fake News (factchecks in de resultaten): de beelden van het lichaam zijn met AI gemaakt."
+  },
+  "O:gfc-796c5e1280ee1d07#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) en Portafolio melden dat Petro niet dreigde Colombia uit het WK 2026 te halen."
+  },
+  "O:gfc-81bc04742a69f474#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het artikel van Times of Israel (25 maart) gaat over een latere inslag in de stad en een hypothetische treffer; het zegt niets over de video of de centrale in brand."
+  },
+  "O:gfc-83b4aed495ab38ea#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen ontkrachten andere video's uit 2022 (cocaine op het bureau); de video van januari 2025 behandelt geen enkele bron."
+  },
+  "O:gfc-850fe5f871e02219#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews en Yahoo melden dat de video nep is en USAID Time niet betaalde voor Zelensky als Persoon van het Jaar."
+  },
+  "O:gfc-8585c34608cbc1f9#C": {
+   "label": "bewijst",
+   "toelichting": "20minutos, Univision en Factchequeado melden dat Gates geen nieuwe religie voorstelde."
+  },
+  "O:gfc-897c27b5e5de0699#C": {
+   "label": "bewijst",
+   "toelichting": "Cotejo.info (factcheck in de resultaten) meldt dat kardinaal Sarah dit niet zei."
+  },
+  "O:gfc-9073126d91f47189#C": {
+   "label": "bewijst",
+   "toelichting": "Infobae (EFE) en Yahoo melden dat de vrouw geen kandidaat voor de rechterlijke verkiezingen is en de opname uit 2024 komt."
+  },
+  "O:gfc-9800c50ae18fd586#C": {
+   "label": "bewijst",
+   "toelichting": "AFP, Infobae en Swissinfo melden dat Valencia nooit beloofde het minimumloon te verlagen."
+  },
+  "O:gfc-98f8fdd560368de5#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias: het VK gaf alleen adviezen bij H3N2 en legde geen verplichte maatregelen op zoals bij covid."
+  },
+  "O:gfc-9aa00e536c149dd4#C": {
+   "label": "bewijst",
+   "toelichting": "20minutos, StopFake en Mythdetector melden dat de verkoop van de jurk aan Zelenska een verzinsel is."
+  },
+  "O:gfc-9baf8d9f73b75c8f#C": {
+   "label": "bewijst",
+   "toelichting": "Noticias de Gipuzkoa en Deia melden dat het niet klopt dat Marokkanen gratis een rijbewijs halen; AFP legt de omwisseling sinds 2004 uit."
+  },
+  "O:gfc-9e665c3ae5ce2a29#C": {
+   "label": "bewijst",
+   "toelichting": "Rappler en PNA beschrijven de oliecrises van 1973 en 1979 onder Marcos sr., met stijgende olieprijzen."
+  },
+  "O:gfc-9f191e7a8e55463a#C": {
+   "label": "bewijst",
+   "toelichting": "ABC en Infobae melden dat zonlicht de belangrijkste oorzaak van huidveroudering is, het tegendeel van de bewering."
+  },
+  "O:gfc-9f6911ced9ce100d#C": {
+   "label": "bewijst",
+   "toelichting": "BBC, NBC en The Guardian melden dat Robinson voor minachting van de rechtbank vastzat, niet voor het aan de kaak stellen van een doofpot."
+  },
+  "O:gfc-a1ec1375aae0ca07#C": {
+   "label": "bewijst",
+   "toelichting": "Univision: Pfizer publiceerde geen nieuwe lijst; het gaat om een document uit 2021 voor de FDA."
+  },
+  "O:gfc-a6965dc3ffdbde0f#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias meldt dat het beeld van Thunberg met een cocktail met AI gemaakt is."
+  },
+  "O:gfc-ab2b05397eb185f2#C": {
+   "label": "bewijst niet",
+   "toelichting": "Shafaq (juni 2025) en JHU (aardbeving van 2024) gaan over andere aardbevingen en zeggen niets over Amerikaanse wapens of deze bevingen."
+  },
+  "O:gfc-ac4f50b5ec763296#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via Swissinfo en Yahoo: Red Uno meldde dit niet, het beeld is een montage."
+  },
+  "O:gfc-adcda2752a058e05#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo Noticias meldt dat de tekst 'Ser feliz' anoniem is en sinds 2008 circuleert, niet de paashomilie; vatican.va geeft de echte tekst."
+  },
+  "O:gfc-af78e47dc0d9e33a#C": {
+   "label": "bewijst",
+   "toelichting": "BioBio, ADN en 24horas melden dat Tohá Kaisers uitspraken weerzinwekkend noemt en hem scherp bekritiseert, geen steun."
+  },
+  "O:gfc-b4192b288b7e0bc7#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via Swissinfo, Yahoo en La Republica: de video is uit 2024, niet van na de gevangenneming van Maduro."
+  },
+  "O:gfc-bc9ce113c924c447#C": {
+   "label": "bewijst",
+   "toelichting": "Mainichi meldt dat de Japanse regering geen troepen naar Oekraïne overweegt en Politico dat Japan alleen een handvol militairen naar een NAVO-missie stuurt."
+  },
+  "O:gfc-bfd7fccc51a5f39a#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo en La República melden dat de video met Palestijnse vlaggen uit 2025 komt en niet de huidige protesten in Frankrijk toont."
+  },
+  "O:gfc-c127cdb9adaf5229#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo en AFP Factual: Olivera vroeg naturalisatie voor sporters, niet de opvang van alle illegale migranten."
+  },
+  "O:gfc-c576705aca42edec#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE), Cotejo.info en Yahoo melden dat de video uit januari 2025 stamt en geen actuele inzet toont."
+  },
+  "O:gfc-cca5a74d6d35fc0b#C": {
+   "label": "bewijst",
+   "toelichting": "Swissinfo (EFE) en La Patria melden dat het Pacto Histórico geen biljet met Petro voorstelde."
+  },
+  "O:gfc-cec2b07acf6a3e47#C": {
+   "label": "bewijst",
+   "toelichting": "El Pais: de foto's toonden jongemannen die door extreemrechtse accounts vals werden beschuldigd, niet de aangehouden minderjarigen."
+  },
+  "O:gfc-d071f33840ceddae#C": {
+   "label": "bewijst",
+   "toelichting": "El País noemt het verbod op rijden met één inzittende een bulo; de DGT plant het niet."
+  },
+  "O:gfc-d9f1f466dce0b8d6#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo, Grupo Animal en Ecuador Chequea melden dat Iran toen niet dreigde en dat minder dan 1% van het verkeer door Hormuz gaat, dus geen wereldwijde storing."
+  },
+  "O:gfc-dfe493e1f0ee0b28#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo en EFE via Swissinfo: de video is een montage, Gonzalez stelde zo'n belasting nooit voor."
+  },
+  "O:gfc-f260054a719a5406#C": {
+   "label": "bewijst",
+   "toelichting": "De officiële Chileense pagina's beschrijven het register met een drempel van achterstallige maanden en sancties als paspoort en rijbewijs, geen vermelding op het carnet."
+  },
+  "O:gfc-f7fe55bc26628aea#C": {
+   "label": "bewijst",
+   "toelichting": "20minutos meldt dat de Chinese woordvoerder in de video over de tariefoorlog met de VS praat, niet over Gaza."
+  },
+  "O:gfc-f9e358795fb937f3#C": {
+   "label": "bewijst",
+   "toelichting": "EFE via Swissinfo, El Diario en Forbes: het tuit van de BBC bestaat niet."
+  },
+  "O:gfc-fa10057e68c4d11f#C": {
+   "label": "bewijst",
+   "toelichting": "TheJournal.ie meldt dat de politie zegt dat de wapens in de video niet echt waren."
+  },
+  "O:gfc-fd93178c3809a49a#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo en Gothamist melden dat de video's van NYPD die ICE-agenten arresteert met AI zijn gemaakt."
+  },
+  "W:wikinews:es:12216#C": {
+   "label": "vals",
+   "toelichting": "Castro verscheen op 21 september 2007 in een tv-interview en sprak dat citaat uit; Reuters, EFE en El Pais meldden het, gevonden bronnen bevestigen het ook."
+  },
+  "W:wikinews:es:12298#C": {
+   "label": "vals",
+   "toelichting": "Emol (El Mercurio) meldde op 25 september 2007 de aanhouding van de ingenieur die creditcards kloonde."
+  },
+  "W:wikinews:es:33451#C": {
+   "label": "vals",
+   "toelichting": "Een waar Wikinews-artikel uit 2011 over een moord met blokkade van TransMilenio, nieuws dat Colombiaanse media meldden; de machine vond die oude berichten niet."
+  },
+  "W:wikinews:es:6520#C": {
+   "label": "vals",
+   "toelichting": "Ware gebeurtenis: de ministers spraken op 13 februari 2006 in Cartagena en Ecuador stuurde ambassadeur Silva terug (ook in een VS-cable); destijds in de pers gemeld."
+  }
+ }
+}

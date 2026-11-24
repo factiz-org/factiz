@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "1,4 milyon Rus rakamı, ölen ve yaralanan askerlerle ilgili, sivil ölümleriyle değil",
+  "oordeel_zin": "Bir buçuk milyon, ölen, yaralanan ya da kayıp olan Rus askerlerinin yaklaşık sayısıdır; ölenler en fazla 450.000 kadardır, Rusya'daki siviller içinse Novaja Gazeta Europa'nın sayımına göre 1.400'den fazla kişi öldü [1] [5].",
+  "bewering": "Rus siviller öldüğünde öfke nerede? Neredeyse bir buçuk milyon Rus hayatını kaybetti.",
+  "kort": "22 Ekim tarihli bir X paylaşımı, Gazze'deki sivil kayıplarla karşılaştırma yaparak neredeyse bir buçuk milyon Rus'un öldüğünü yazdı [7]. 1,4 milyon rakamı, ölen, yaralanan ya da kayıp olan Rus askerlerine ilişkin bir tahmindir; Amerikan CSIS enstitüsüne göre ölenlerin sayısı 400.000 ile 450.000 arasındadır [1]. Novaja Gazeta Europa, Rusya'daki sivil ölümlerini Mayıs ayına kadar en az 1.406 olarak saydı [5].",
+  "tekst": "22 Ekim'de saat 09:08'de X'te bir hesap, Gazze'deki sivil kayıplar için gözyaşı dökülürken Rus siviller öldüğünde neden dökülmediğini sordu [7]. Ardından neredeyse bir buçuk milyon Rus'un hayatını kaybettiği yazıldı [7]. Paylaşım yaklaşık 1.200 yanıt aldı [7].\n\nBu büyüklükte bir rakam var, ama askerlerle ilgili ve yalnızca ölenleri kapsamıyor. Amerikan araştırma enstitüsü CSIS, 1 Temmuz'da Rusya'nın Şubat 2022'den Haziran 2026'ya kadar yaklaşık 1,4 milyon askeri kaybı olduğunu tahmin etti [1]. Bunlara ölen, yaralanan ya da kayıp olan askerler dahildir [1]. CSIS'e göre ölenlerin sayısı 400.000 ile 450.000 arasındadır [1].\n\nUkrayna Genelkurmayı kendi sayımını tutuyor. 22 Ekim'de bu sayı 1.572.790 Rus askerdi [4]. Sayfada bunun ölenleri ve yaralananları birlikte kapsayıp kapsamadığı yazmıyor [4]. Bu, savaşın taraflarından birinin sayımıdır, bağımsız bir tahmin değil.\n\nKaç Rus askerinin kesin olarak öldüğünü Mediazona ile BBC'nin Rusça servisi isim isim sayıyor. Ölüm ilanlarını, yakınlarının mesajlarını, yerel medyayı ve bölgesel yönetimlerin açıklamalarını kullanıyorlar [3]. 23 Ekim'e kadar 282.993 kişi buldular [2]. Bunu kendileri alt sınır olarak adlandırıyor: gerçek sayı onlara göre muhtemelen epey daha yüksek [2].\n\nSivillerle ilgili olmadığı bu yüzden açık. Yurt dışından çalışan bir Rus gazetesi olan Novaja Gazeta Europa, 11 Mayıs 2026'ya kadar 2022'den bu yana Rusya'da ve işgal altındaki Kırım'da en az 1.406 sivil ölümü saydı [5]. Bunların 524'ü Kursk bölgesinde, Ukrayna'nın Ağustos 2024'ten Mart 2025'e kadar elinde tuttuğu kesimde yaşandı [5]. Gazete kendi sayımını düşük buluyor, çünkü yönetimler tüm kurbanları bildirmiyor [5]. Rusya Dışişleri Bakanlığı 8.000'den fazla sivil ölümünden söz ediyor; gazeteye göre bakanlık muhtemelen Rusya'nın 2022'den sonra işgal ettiği bölgelerin sakinlerini de sayıyor [5].\n\nEn yüksek rakamla bile fark büyük kalıyor. Bir buçuk milyon, 8.000'in yaklaşık 190 katı ve Novaja Gazeta Europa'nın sayımının bin katından fazladır.\n\nKurbanlarla ölenler arasındaki karışıklık yeni değil. Mart 2025'te Nieuwscheckers, savaşta bir milyon ölüden söz eden bir paylaşımı kontrol etti; onlara göre o sırada ölenlerin sayısı en fazla 344.000'di [6].",
+  "niet_weten": "Kaç Rus askerinin gerçekten öldüğünü bilmiyoruz: rakamlar isim isim bilinen 282.993'ten CSIS'in 450.000'ine kadar uzanıyor. Rus sivil ölümlerinin sayısı da belirsiz ve hangi bölgeleri saydığınız çok şey değiştiriyor. Paylaşımın rakamı nereden aldığını bilmiyoruz.",
+  "bereik": "18 Kasım itibarıyla 234 beğeni ve 1.197 yanıt",
+  "nog_uitzoeken": [
+   "Ukrayna Genelkurmayı'nın kayıp olarak tam olarak neyi saydığı: ölenleri ve yaralananları mı, esirleri de mi?",
+   "Mediazona'nın rakamı kendi sayfalarında. 6 Kasım tarihli sayfaları, ölüm tarihi bilinen 272.100 vakadan söz ediyor.",
+   "Rusya Dışişleri Bakanlığı'nın 8.000 sivil ölümü rakamını nereden aldığı.",
+   "Rakam var, ama ne ölenler için ne de siviller için geçerli. Biz yanlış'ı seçtik; yanıltıcı da savunulabilir."
+  ],
+  "tijdlijn": [
+   "Novaja Gazeta Europa, 2022'den bu yana Rusya'da ve Kırım'da en az 1.406 sivil ölümü sayıyor [5].",
+   "CSIS, yaklaşık 1,4 milyon Rus askeri kaybı tahmin ediyor; bunların 400.000 ile 450.000'i ölen [1].",
+   "Hollandaca bir X paylaşımı, neredeyse bir buçuk milyon Rus'un öldüğünü yazıyor [7].",
+   "Ukrayna Genelkurmayı'nın sayımı 1.572.790 Rus askerinde duruyor [4].",
+   "Mediazona ve BBC, 23 Ekim'e kadar 282.993 ölen Rus askerini isim isim biliyor [2]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 22 Ekim 2026, 09:08."
+  ],
+  "beeld_alt": [
+   "Gazze ile karşılaştırarak neredeyse bir buçuk milyon Rus'un öldüğünü söyleyen bir X paylaşımı. Damga: YANLIŞ."
+  ],
+  "rekensom": [
+   [
+    "Rus askeri kayıpları, Şubat 2022'den Haziran 2026'ya (CSIS)",
+    "ölen, yaralanan ve kayıp olanlar birlikte",
+    "yaklaşık 1,4 milyon"
+   ],
+   [
+    "Ölen Rus askerleri, aynı dönem (CSIS)",
+    "tahmin",
+    "400.000 ile 450.000 arası"
+   ],
+   [
+    "İsim isim bilinen ölen Rus askerleri, 23 Ekim'e kadar (Mediazona ve BBC)",
+    "açık kaynaklardan sayım, bir alt sınır",
+    "282.993"
+   ],
+   [
+    "Rusya'da ve Kırım'da sivil ölümleri, 11 Mayıs 2026'ya kadar (Novaja Gazeta Europa)",
+    "haberlerden 882 artı Kursk'ta 524",
+    "en az 1.406"
+   ],
+   [
+    "Bir buçuk milyon ile sivil ölümleri",
+    "1.500.000 bölü 1.406 ve bölü 8.000",
+    "1.000 kattan fazla ve yaklaşık 190 kat"
+   ]
+  ]
+ }
+}

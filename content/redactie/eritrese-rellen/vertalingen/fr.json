@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck eritrese-rellen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "35732b3e97b1f052",
+ "veldafdrukken": {
+  "kop": "ececa8710b1c4815",
+  "oordeel_zin": "fa2de3b12ca3da08",
+  "bewering": "588a90a75201bcd9",
+  "kort": "df785e233be58cfe",
+  "tekst": "ee517c4a5204ca60",
+  "niet_weten": "99e8064aa79ed649",
+  "nog_uitzoeken": "85006e7de6ecede5",
+  "tijdlijn": "72caa9554a611a4d",
+  "beeld_bijschrift": "0796daec76d5d0d3",
+  "beeld_alt": "99cb9613e705d3eb"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La vidéo des émeutes lors d'un rassemblement érythréen à La Haye date de février 2024",
+  "oordeel_zin": "Les émeutes étaient réelles, mais elles ont eu lieu le 17 février 2024, et la même vidéo, avec presque le même texte, circulait déjà à l'époque sur X [1] [4].",
+  "bewering": "Images d'émeutes avec des voitures de police en flammes à La Haye, partagées comme si elles se déroulaient maintenant.",
+  "kort": "Le 27 octobre, un compte néerlandophone sur X a partagé des images d'émeutes à La Haye comme si elles venaient de se produire [5]. Les images datent du samedi 17 février 2024, lorsqu'un groupe d'opposants a tenté de pénétrer de force dans un rassemblement érythréen au centre de réunions Opera, sur la Fruitweg [1] [3]. La même vidéo figurait déjà sur X le soir même en 2024, avec presque le même texte que les publications en anglais de fin octobre 2026 [4] [6].",
+  "tekst": "Le mardi 27 octobre à 02 h 26, un compte néerlandophone sur X a partagé des images d'émeutes à La Haye [5]. Quelques heures plus tard, quelqu'un y a ajouté du contexte [5]. Le compte a depuis été suspendu, nous n'avons donc plus pu lire ce que la publication disait exactement [5].\n\nQuelques heures plus tôt, le lundi 26 octobre à 22 h 01, une vidéo de 24 secondes sur de graves troubles à La Haye était apparue en anglais [6]. Selon le texte, des migrants érythréens avaient pris d'assaut le bâtiment Opera et incendié des voitures de police [6]. D'autres comptes ont repris la vidéo la même nuit, l'un d'eux comme signe de protestations dans plusieurs pays [6].\n\nCe texte et ces images ne sont pas nouveaux. Le samedi 17 février 2024 à 19 h 42, le compte Visegrád 24 a publié sur X presque le même texte, avec une vidéo de même durée et de même format [4]. Cette publication a été vue plus de 10 millions de fois [4].\n\nCe qui s'est passé ce soir-là est bien documenté. Dans le centre de réunions Opera, sur la Fruitweg, 500 à 600 Érythréens fêtaient le nouvel an [1]. Selon la commune, des partisans du gouvernement érythréen avaient organisé la fête [1]. Un groupe d'opposants a tenté de pénétrer dans le bâtiment et a lancé des pierres et des dalles de trottoir [1] [3]. Des voitures de police, des voitures d'habitants et un autocar ont pris feu [1] [3].\n\nL'ME (l'escadron mobile de la police antiémeute) a été déployé, et le bourgmestre Jan van Zanen a autorisé l'usage de gaz lacrymogène et pris un arrêté d'urgence [1]. La police a arrêté 13 hommes cette nuit-là, puis le nombre est monté à 16 [2] [7]. Selon le bourgmestre, 26 policiers ont été blessés [7]. Le ministère public a poursuivi dix suspects, et les demandes de dommages et intérêts s'élèvent ensemble à plus de 775 000 euros [3].\n\nLa vidéo qui circule actuellement est donc réelle, mais elle a plus de deux ans et huit mois [1] [4].",
+  "niet_weten": "Nous ne savons pas ce que la publication néerlandophone affirmait exactement, car le compte est suspendu et nous n'en avons pas trouvé de copie. Nous ne savons donc pas non plus avec certitude si la vidéo qu'elle contenait est la même que celle du 26 octobre. Nous ne savons pas qui a filmé les images en février 2024 ; Visegrád 24 n'a cité aucun auteur. Nous n'avons pas cherché pourquoi les images sont réapparues précisément fin octobre.",
+  "nog_uitzoeken": [
+   "Ce que la publication néerlandaise affirmait exactement, et si la vidéo qui s'y trouvait correspondait bien aux mêmes 24 secondes. Le compte est suspendu, et nous n'en avons pas trouvé de copie.",
+   "Si des émeutes ont eu lieu vers le 26 octobre 2026 lors d'un rassemblement érythréen à La Haye. Nous n'avons pas encore posé la question à la police ni à Omroep West."
+  ],
+  "tijdlijn": [
+   "La NOS signale des émeutes autour d'un rassemblement érythréen sur la Fruitweg, avec des voitures de police en flammes [1].",
+   "Visegrád 24 publie la vidéo sur X [4].",
+   "13 hommes arrêtés, six policiers blessés [2].",
+   "Le conseil municipal demande une enquête externe ; entre-temps, 16 arrestations et 26 policiers blessés [7].",
+   "Le ministère public requiert des peines de prison contre dix suspects [3].",
+   "Une publication en anglais présente la même vidéo, avec presque le même texte, comme récente [6].",
+   "La publication néerlandophone avec les images [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X en anglais, 26 octobre 2026, 22 h 01. La publication néerlandophone du 27 octobre a disparu, le compte est suspendu.",
+   "Visegrád 24 sur X, 17 février 2024, 19 h 42 : la même vidéo, le soir des émeutes sur la Fruitweg."
+  ],
+  "beeld_alt": [
+   "Image fixe de la vidéo : une voiture de police en flammes dans une rue de La Haye. Tampon : TROMPEUR.",
+   "La vidéo chez Visegrád 24 des émeutes près du centre de réunions Opera à La Haye en février 2024."
+  ]
+ }
+}

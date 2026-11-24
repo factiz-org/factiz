@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Rien ne confirme que la Russie ait exigé à Abou Dhabi que la Finlande quitte l'OTAN",
+  "oordeel_zin": "L'affirmation provient d'un article de Bild fondé sur des sources non nommées, que le Kremlin dément, et le président et le ministre de la Défense de la Finlande disent n'avoir connaissance d'aucune exigence de ce type [7] [8] [10] [17].",
+  "bewering": "URGENT : La Russie a exprimé une partie de ses conditions pour METTRE FIN à la guerre en Ukraine :  - La Finlande hors de l'OTAN.  - Pas de bases de l'OTAN dans les pays baltes.  - Tout le Donbass remis à la Russie.  En échange, la Russie RETIRERAIT ses armes nucléaires de Biélorussie.",
+  "kort": "Le 13 novembre, des publications sur X ont présenté comme un fait que la Russie avait exigé lors des pourparlers de paix à Abou Dhabi que la Finlande quitte l'OTAN [2] [4] [5]. L'affirmation provient d'un article publié ce matin-là par le journal allemand Bild, qui n'a pas nommé ses sources et a indiqué qu'on ignorait si le président Poutine soutenait la proposition [1] [7]. Le Kremlin dément, et le président finlandais affirme n'avoir jamais entendu une telle exigence de la part d'un Russe [8] [17] [18].",
+  "tekst": "Dans la matinée du 13 novembre, Bild a rapporté que la Russie voulait que la Finlande sorte de l'OTAN, qu'il n'y ait pas de bases de l'OTAN en Estonie, en Lettonie et en Lituanie, et qu'elle obtienne la totalité du Donbass, et qu'elle retirerait en échange ses armes nucléaires de Biélorussie [1] [6] [7]. Selon Yle, le radiodiffuseur public finlandais, Bild a indiqué que la proposition venait de l'entourage proche de Poutine et avait été présentée officieusement à des représentants européens à Abou Dhabi [6]. Sur sa chaîne en russe, Bild l'a qualifiée de l'une de plusieurs propositions émanant de groupes d'intermédiaires concurrents [1].\n\nÀ 11 h 03 UTC, un compte nommé Bedouin Report a publié les prétendues conditions de la Russie sous la mention URGENT, sans source [2]. À ce moment-là, le Kremlin avait déjà démenti [8]. À 10 h 48 UTC, l'agence de presse azerbaïdjanaise APA avait cité le porte-parole Dmitri Peskov affirmant qu'aucune exigence de ce type n'avait été formulée [8] [9].\n\nLe ministre finlandais de la Défense, Antti Häkkänen, a déclaré le 13 novembre qu'il n'avait aucune information indiquant que cette exigence avait été formulée [10]. Le 17 novembre, le président Alexander Stubb a affirmé qu'il ne s'agissait pas d'une affirmation à prendre au sérieux, sous quelque forme que ce soit, et qu'il ne l'avait entendue d'aucun Russe, selon le journal Ilta-Sanomat [17] [18].\n\nLe média en russe Echo, citant lui aussi des sources non nommées, a écrit qu'un groupe de négociation avait remis aux Européens une liste comprenant le retour de la Finlande à son statut d'avant l'OTAN [12]. Le New York Times s'est procuré un document russe daté du 10 novembre qui demande à l'OTAN de ramener ses troupes et ses bases là où elles se trouvaient en 1997, mais son article ne mentionne pas la Finlande [13] [14].\n\nLa Finlande a rejoint l'OTAN en avril 2023, et selon le traité de l'Atlantique Nord, seul un membre peut lui-même notifier son retrait [9] [16].",
+  "niet_weten": "Nous ne savons pas qui sont les sources de Bild, ni si quelqu'un à Abou Dhabi a présenté une telle exigence aux Européens [6] [7]. L'article complet de Bild est réservé aux abonnés ; son début indique que la proposition venait de discussions officieuses et de l'entourage de Poutine [19], et le reste, nous le connaissons par sa chaîne en russe et par d'autres médias [1] [6] [7]. Le Kremlin est partie aux pourparlers, de sorte que son démenti ne tranche pas la question [8].",
+  "bereik": "1 580 mentions J'aime sur la publication présentée et 4 987 sur la publication la plus aimée que nous avons lue, au 23 novembre",
+  "nog_uitzoeken": [
+   "Qui sont les sources de Bild, et si un gouvernement européen présent à Abou Dhabi confirme ou dément avoir reçu une telle liste.",
+   "Si le document russe complet que le New York Times s'est procuré dit quoi que ce soit sur la Finlande. L'article qui lui est consacré n'en dit rien.",
+   "Nous avons hésité entre Non prouvé et Trompeur. Les publications transforment en fait un article fondé sur des sources non nommées, que le Kremlin dément, ce qui plaide pour Trompeur ; on ignore si l'exigence a été formulée, ce qui nous a fait choisir Non prouvé."
+  ],
+  "tijdlijn": [
+   "Les pourparlers entre la Russie, l'Ukraine et les États-Unis s'ouvrent à Abou Dhabi [15].",
+   "Les pourparlers se terminent. Le Royaume-Uni, la France, l'Allemagne et l'Italie étaient présents, mais n'ont pas négocié directement avec les Russes [10] [15].",
+   "Bild rapporte que la Russie veut que la Finlande sorte de l'OTAN, sans nommer ses sources [1] [6] [7].",
+   "APA rapporte le démenti de Peskov : aucune exigence de ce type n'a été formulée [8].",
+   "Bedouin Report publie les prétendues conditions de la Russie comme information urgente, sans source [2].",
+   "Visegrád 24 publie l'affirmation et cite Bild [3].",
+   "Häkkänen au Parlement : aucune information indiquant que l'exigence a été formulée [10].",
+   "Le Premier ministre Orpo : de telles questions n'ont pas leur place à la table des négociations [11].",
+   "Le New York Times rend compte d'un document russe qui demande à l'OTAN de revenir à ses positions de 1997 ; l'article ne mentionne pas la Finlande [14].",
+   "Stubb à Berlin : ce n'est pas une affirmation à prendre au sérieux, et il ne l'a jamais entendue d'un Russe [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 13 novembre 2026, 11 h 03 UTC."
+  ],
+  "beeld_alt": [
+   "Une publication sur X du compte Bedouin Report sous la mention URGENT, énumérant ce qu'elle présente comme les conditions de la Russie pour mettre fin à la guerre en Ukraine, à commencer par la Finlande hors de l'OTAN. Tampon : NON PROUVÉ."
+  ]
+ }
+}

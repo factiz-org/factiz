@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck anne-frank-ai-beeld van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "afb0ea7173e9734c",
+ "veldafdrukken": {
+  "kop": "48ed3f73e74da348",
+  "oordeel_zin": "2f1f944cee6d5848",
+  "bewering": "9241e89d3746145b",
+  "kort": "ae34f90e1f6840cc",
+  "tekst": "ccfe1e24106c6b5e",
+  "niet_weten": "1b5d9027019b82f0",
+  "nog_uitzoeken": "c68632fd5d0e0801",
+  "tijdlijn": "254a93b8134168e0",
+  "beeld_bijschrift": "c72d3c50ac274dac",
+  "beeld_alt": "ba620b193773febc"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Gambar patung Anne Frank yang dicoret-coret dibuat dengan AI",
+  "oordeel_zin": "Gambar itu menampilkan patung yang tidak ada, dan sejak Agustus 2024 tidak ada pencoretan yang dilaporkan [5] [6].",
+  "bewering": "Patung Anne Frank di Amsterdam dicoret-coret.",
+  "kort": "Sejak 8 November, sebuah gambar patung Anne Frank yang konon baru saja dicoret-coret beredar di X [9]. Gambar itu dibuat dengan AI dan menampilkan patung yang tidak ada [5]. Patung asli di Merwedeplein, Amsterdam, dicoret-coret pada Juli dan Agustus 2024, dan sejak itu tidak ada pencoretan baru yang dilaporkan [1] [6].",
+  "tekst": "Amsterdam memiliki dua patung Anne Frank. Yang satu berdiri di dekat Westerkerk, tidak jauh dari Anne Frank Huis. Yang lain berdiri di Merwedeplein di kawasan Rivierenbuurt, di seberang rumah tempat keluarga Frank tinggal dari 1933 sampai 1942. Patung kedua itu, karya Jet Schepp, adalah seorang gadis perunggu dengan tas sekolah yang menoleh ke arah lapangan, di atas tiang batu berwarna merah muda [4].\n\nPatung di Merwedeplein itu dicoret-coret dua kali pada 2024. Pada 9 Juli, tulisan \"Gaza\" dengan cat merah muncul di alasnya, dengan noda merah di dekat kaki; pemerintah distrik membersihkannya pada hari yang sama [3] [8]. Pada malam 3 ke 4 Agustus menyusul tulisan \"Free Gaza\", dan tangan patung dicat merah, tepat 80 tahun setelah penangkapan orang-orang yang bersembunyi di Achterhuis [1] [2]. Malam itu, sedikitnya enam patung di Amsterdam-Zuid dicoret-coret [2].\n\nGambar yang kini beredar adalah hal lain. AAP FactCheck, tim pemeriksa fakta kantor berita Australia, menemukannya pada 6 November di Facebook dan di X: seorang bertopeng menyemprotkan \"Free Palestine\" pada patung Anne Frank yang mengenakan keffiyeh [5]. Patung itu tidak menyerupai salah satu dari dua patung di Amsterdam. Pada papan di sampingnya tertulis kutipan yang keliru dari buku harian, dengan kesalahan ketik [5].\n\nPencoretan baru tidak kami temukan. Anne Frank Huis tidak melaporkan apa pun tentang patung itu sejak Agustus 2024 [7]. Ketika wali kota pada September 2025 memperpanjang pengawasan kamera di Merwedeplein, pemerintah kota hanya menyebut dua pencoretan pada 2024 sebagai alasan [6]. AAP, yang sendiri mencari pencoretan terbaru, juga hanya menemukan yang pada 2024 [5].",
+  "niet_weten": "Kami tidak tahu siapa yang membuat gambar itu. Bahwa tidak ada pencoretan pada Oktober dan November 2026, kami simpulkan dari laporan yang tidak ada, di Anne Frank Huis, NOS, dan pemerintah kota. Laporan polisi dan arsip Het Parool tidak kami telusuri.",
+  "nog_uitzoeken": [
+   "Apa sebenarnya gambar kedua dari pasangan gambar itu. Jika itu foto asli tertanggal 4 Agustus 2024 yang disajikan sebagai foto baru, maka untuk gambar tersebut penilaian menyesatkan lebih tepat.",
+   "Apakah polisi atau AT5 pada Oktober atau November 2026 melaporkan adanya pencoretan pada patung itu. Laporan-laporan tersebut belum kami telusuri."
+  ],
+  "tijdlijn": [
+   "Patung karya Jet Schepp di Merwedeplein diresmikan [4].",
+   "Pencoretan pertama: 'Gaza' di alas patung, dibersihkan pada hari yang sama [3].",
+   "Pencoretan kedua: 'Free Gaza' dan tangan yang dicat merah [1].",
+   "Wali kota memperpanjang pengawasan kamera, hanya dengan pencoretan 2024 sebagai alasan [6].",
+   "Gambar AI itu muncul di Facebook dan di X [5].",
+   "Sedikitnya lima unggahan di X menyebarkan patung yang dicoret-coret sebagai berita [9].",
+   "AAP FactCheck: gambar itu dibuat dengan AI [5]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 8 November 2026, salah satu dari sedikitnya lima.",
+   "Patung asli di Merwedeplein, karya Jet Schepp, diresmikan pada 9 Juli 2005. Nationaal Comité 4 en 5 mei."
+  ],
+  "beeld_alt": [
+   "Gambar patung Anne Frank yang dicoret-coret, dibuat dengan AI. Stempel: SALAH.",
+   "Patung perunggu Anne Frank di Merwedeplein, Amsterdam."
+  ]
+ }
+}

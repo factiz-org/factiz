@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van het overzicht poland-airspace-missile-false-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "2118c2af8b4f207c",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "オンラインで共有された動画と画像が、2026年11月20日にポーランド領空に入ったミサイルを映しており、ポーランドのF-16戦闘機がそのうち1発を追跡しているとする主張。",
+  "kern": [
+   "ポーランドは、2026年11月20日のロシアによるウクライナ攻撃の際、自国領内に物体が落下したと発表した。その中には、Nowy Lipowiec村の近くで見つかった巡航ミサイルの残骸も含まれる。[1] [2]",
+   "その夜の映像として紹介された飛行物体の動画は、2024年11月にはすでにオンライン上にあり、当時はロシアによるウクライナへの攻撃と結び付けられていた。[1]",
+   "3機のF-16がミサイルを追跡しているとする画像は、目に見えないSynthIDの電子透かしによって、AIで作られたものと判明した。確認できる最も早い投稿を行った人物は、共有したことを謝罪した。[2]"
+  ],
+  "rondgang": "2026年11月20日当日とそれ以降、ポーランドで動画はXに、画像はFacebookとXに広まった。画像の確認できる最も早い投稿はXに投稿され、後に削除された。[1] [2]"
+ }
+}

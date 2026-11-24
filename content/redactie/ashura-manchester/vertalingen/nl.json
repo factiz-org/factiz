@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck ashura-manchester van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "4e9bb52ec84eb34c",
+ "veldafdrukken": {
+  "kop": "b757018192faa184",
+  "oordeel_zin": "fb18c44ea6e0fa0f",
+  "bewering": "69a4eab734457163",
+  "kort": "6ff70d14cacfac95",
+  "tekst": "40640fb96f33a174",
+  "niet_weten": "eb65e1b45a5c04ce",
+  "bereik": "4e2b997aac427916",
+  "nog_uitzoeken": "333c7a0263a26b44",
+  "tijdlijn": "aa68f4d2becd3c2c",
+  "beeld_bijschrift": "3e3aee52d7a5df4d",
+  "beeld_alt": "28462c8f6f8eeaec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Deze video uit Manchester toont de jaarlijkse sjiitische rouwstoet van 21 juni 2026",
+  "oordeel_zin": "De video is echt, maar toont de Moharram-stoet op Wilmslow Road van 21 juni 2026, vijf maanden later gedeeld met een slogan die in geen enkele bron wordt vermeld [3] [4] [7].",
+  "bewering": "Hordes moslimmannen die scanderen “wij zijn de soldaten van Allah op de straten van het VK ….. Waarom komt dit nooit in het nieuws ??",
+  "kort": "Berichten op X tonen een menigte mannen in het zwart op een straat in Manchester en zeggen dat zij scanderen \"wij zijn de soldaten van Allah\" [1] [2]. De video toont de jaarlijkse Moharram-stoet van het Jaffaria Islamic Centre, een sjiitische rouwstoet op Wilmslow Road in Rusholme op zondag 21 juni 2026, vijf maanden voor de berichten [3] [4]. De spreekkoren erin zijn niet in het Engels, en geen enkele bron die wij vonden vermeldt de slogan [1] [4] [7].",
+  "tekst": "Op 15 november 2026 plaatste een account op X de video met de tekst dat hordes moslimmannen \"wij zijn de soldaten van Allah\" scandeerden op de straten van het VK, en vroeg waarom dit nooit in het nieuws komt [1]. De video komt uit een Spaanstalig bericht van Javier Negre van de avond ervoor, waarin staat dat de mannen door een Manchesterse buitenwijk marcheren om sharia te eisen [2].\n\nWinkelborden in de video, zoals Sanam en het Delhi Sweet Centre, horen bij bedrijven op Wilmslow Road 141 tot 151 en 137 in Rusholme [5] [6]. De marcherende mensen dragen zwart, veel mannen slaan zich op de borst, en de menigte draagt groene en zwarte vlaggen en een hoge standaard [1]. Zo rouwen sjiitische moslims in de maand Moharram om imam Hoessein, die bij Kerbala werd gedood; het borstslaan heet matam [4] [7].\n\nHet Jaffaria Islamic Centre, dat zichzelf de oudste sjiitische imambargah van Manchester noemt, een zaal voor religieuze bijeenkomsten, kondigde zijn stoet aan voor zondag 21 juni 2026, van Platt Fields Park naar het centrum aan Moss Lane East [3] [10]. Een TikTok-video van 22 juni toont dezelfde menigte voor dezelfde winkels als het begin van de video op X, en het onderschrift spreekt van de jaarlijkse Moharram-stoet van 2026 [1] [4].\n\nDe spreekkoren in de video zijn niet in het Engels [1]. De poster van het centrum en het onderschrift op TikTok beschrijven een rouwstoet, en geen van beide noemt deze slogan of een eis voor sharia [3] [4]. Ook een verslag over de stoet op dezelfde weg in 2018 doet dat niet; toen schreef de Pakistaanse krant The News dat duizenden sjiitische moslims Wilmslow Road tot stilstand brachten [7].",
+  "niet_weten": "We weten niet wie de video heeft gefilmd, en ook niet of elk fragment erin van 21 juni is: er wordt gewisseld tussen minstens drie camerastandpunten, en we vergeleken alleen het begin met een bericht met datum [1] [4].",
+  "bereik": "134 likes en 51 reacties op 22 november; het Spaanse bericht met dezelfde video had 65.500 likes",
+  "nog_uitzoeken": [
+   "Waar en wanneer elk fragment in de video van 1:54 is gefilmd; er wordt gewisseld tussen minstens drie camerastandpunten.",
+   "Wie de video als eerste met de slogan online zette, en of er een Engels bericht was vóór het Spaanse van 14 november.",
+   "Of de gemeente Manchester of de politie van Greater Manchester Wilmslow Road voor de stoet van 21 juni 2026 heeft afgesloten.",
+   "We wogen Misleidend af tegen Onwaar. De video en de straat zijn echt, de spreekkoren zijn niet in het Engels, en de slogan en de eis voor sharia staan in geen enkele bron. Weet u wat er in deze video wordt gescandeerd, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "De Moharram-stoet van het Jaffaria Islamic Centre vertrekt vanaf Platt Fields Park [3].",
+   "Een TikTok-video toont dezelfde menigte op Wilmslow Road als Manchester Muharram Jaloos [4].",
+   "Maldita vindt de woorden soldaten van Allah die sharia eisen bij een video uit Dearborn, Michigan [9].",
+   "Javier Negre plaatst de video uit Manchester als een parade van soldaten van Allah die sharia eisen [2].",
+   "Het bericht in het Engels met de spreekkreet [1].",
+   "AFP: een religieuze stoet, verkeerd voorgesteld als een protest [8]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 15 november 2026, 10:26 UTC."
+  ],
+  "beeld_alt": [
+   "Een bericht op X met een still uit de video: een menigte in het zwart op Wilmslow Road in Manchester, gedeeld als moslimmannen die scanderen soldaten van Allah. Stempel: MISLEIDEND."
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van het overzicht ras-al-khaimah-ship-strike-video van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "35212dd6f3215b9a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "ある動画は、英国の海事機関の報告によるとアラブ首長国連邦のラス・アル・ハイマ沖14マイルで船に飛翔体が命中した様子を映していると主張している。",
+  "kern": [
+   "この映像は2024年7月のもので、紅海でフーシ派が船を攻撃した場面を映しており、当時フーシ派の軍事メディアから配信されたものである [1]。",
+   "元の映像と比べると、拡散されたバージョンは爆発が実際より大きく見えるように編集されている [1]。",
+   "ホルムズ海峡周辺で最近起きている船舶への攻撃とは無関係である [1]。"
+  ],
+  "rondgang": "この動画は、2026年11月16日にタンカーがホルムズ海峡を出る際に正体不明の飛翔体に攻撃された後、アラビア語のキャプションが付けられてFacebookで拡散した [1]。"
+ }
+}

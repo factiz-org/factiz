@@ -1,0 +1,321 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/gas-europa-weigert-zelf/dossier.md.
+
+sleutel = "gas-europa-weigert-zelf"
+status = "gepubliceerd"
+taal = "nl"
+adres = "europa-weigert-russisch-gas-nord-stream"
+adres_en = "europe-refuses-russian-gas-nord-stream"
+kop = "Gazprom stopte in 2022 zelf het gas via Nord Stream 1, het EU-verbod volgde in 2026"
+oordeel = "onwaar"
+oordeel_zin = "Gazprom verlaagde in 2022 zelf de levering via Nord Stream 1 en liet de leiding na het onderhoud van eind augustus dicht; een Europees verbod op Russisch gas kwam pas in januari 2026 [3] [7] [14] [16]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "Deze politieke leugen v Van der Leyen: Rusland krijgt van haar de schuld van afsluiting van het gas, maar dat deed de EU toch echt zelf."
+platform = "X"
+eerst_gezien = "2026-09-23"
+posts = 1
+bereik = "100 likes en 25 reacties op 18 november"
+
+kort = """
+Een Nederlandse post op X zegt dat Ursula von der Leyen liegt: niet Rusland maar de EU zou het gas hebben afgesloten \
+[12]. Het was het Russische staatsbedrijf Gazprom dat in 2022 de levering via Nord Stream 1 verlaagde en de leiding na het \
+onderhoud van eind augustus dichtliet, en dat ook de Nederlandse gashandelaar GasTerra niet meer leverde [3] [5]. Een Europees verbod op Russisch gas \
+kwam pas in januari 2026 [7]."""
+
+tekst = """
+Op dinsdag 22 september 2026 om 23:30 verscheen op X een post die Ursula von der Leyen een politieke leugen verwijt \
+[12]. Rusland krijgt volgens de post ten onrechte de schuld van het afsluiten van het gas, want de EU zou dat zelf \
+hebben gedaan [12]. De post citeert een andere post met een uitspraak van Von der Leyen [13]. Ook \
+die andere post zegt dat Rusland de EU niet van het gas afsloot [13].
+
+Die uitspraak deed de voorzitter van de Europese Commissie op 17 september in Straatsburg, in haar jaarlijkse toespraak \
+over de staat van de Unie [1]. Toen Rusland het gas afsloot, sloegen we terug, zei ze; daarna haalde Europa zijn gas \
+volgens haar bij meer leveranciers [1].
+
+Wat Gazprom in 2022 deed
+
+Op 31 mei 2022 stopte Gazprom met leveren aan GasTerra [5] [6]. GasTerra weigerde in roebels te betalen, zoals een \
+decreet van president Vladimir Poetin eiste [5]. Dat zou volgens het bedrijf de Europese sancties schenden [6]. Tot \
+oktober kwam er daardoor 2 miljard kubieke meter gas niet, dat GasTerra elders kocht [5] [6].
+
+Half juni 2022 verlaagde Gazprom de levering via Nord Stream 1, de leiding door de Oostzee naar Duitsland, in twee \
+stappen van 167 naar 67 miljoen kubieke meter per dag, ongeveer 40 procent [14] [15]. Volgens Gazprom stuurde Siemens \
+turbines te laat terug uit reparatie [14]. Op 27 juli ging de levering naar 33 miljoen kubieke meter per dag, 20 procent \
+van wat de leiding aankan [16] [17]. Pas op 3 augustus noemde Gazprom de sancties van Canada, de EU en het Verenigd \
+Koninkrijk als reden dat een turbine niet terugkwam [18]. Het Poolse onderzoekscentrum OSW zag er een politiek besluit \
+achter: Rusland had het gas ook via andere leidingen kunnen sturen, en deed dat niet [2]. Op 31 augustus ging de leiding \
+dicht voor drie dagen onderhoud [3].
+
+Op 2 september 2022 meldde Gazprom dat de leiding helemaal dichtbleef, door een olielek in een turbine bij het \
+compressorstation Portovaja [3] [19]. Siemens Energy zei dat zo'n lek geen technische reden is om te stoppen [3]. De \
+Europese Commissie sprak van een voorwendsel [3]. Drie dagen later zei Kremlinwoordvoerder Dmitri Peskov dat de \
+problemen door de sancties kwamen, en dat het gas weer kon stromen als die verdwenen [4]. Op 26 september 2022 maakten \
+explosies onder water de leiding onbruikbaar [9].
+
+Wat de EU besloot
+
+In maart 2022 spraken de Europese regeringsleiders af dat de EU minder afhankelijk moest worden van Russische fossiele \
+brandstof [7]. Een verbod op Russisch gas kwam bijna vier jaar later: de lidstaten namen het op 26 januari 2026 aan [7]. \
+Het gaat in stappen. Vloeibaar gas (lng) uit Rusland mag vanaf begin 2027 niet meer binnen, gas door leidingen vanaf \
+het najaar van 2027 [7]. In het tweede kwartaal van 2026 kwam nog 10,2 procent van het gas dat de EU per leiding \
+invoerde uit Rusland, en 17,3 procent van het lng [8].
+
+Wat klopt en wat niet
+
+De EU wil van Russisch gas af, en heeft dat ook vastgelegd [7]. Maar in 2022 gold er geen Europees verbod, en het was \
+Gazprom dat de levering verlaagde en stopte [3] [7]. Bij GasTerra stopte Gazprom omdat de afnemer de nieuwe betaalregel \
+weigerde; ook dan kwam het besluit om niet meer te leveren van Gazprom [5]. De uitspraak van Von der Leyen past dus bij \
+wat er in 2022 gebeurde [1] [3].
+
+De lijn dat Europa zichzelf het gas ontzegt, is niet nieuw. In 2022 kwamen VOA en Correctiv bij de Russische uitleg \
+over de turbine uit op onwaar en misleidend [10] [11]. Op 9 september 2026 zei Kremlinwoordvoerder Peskov volgens \
+Reuters dat Europa de prijs betaalt voor het mijden van Russisch gas [20]. Eind oktober bracht Poetin dezelfde lijn op \
+een forum van gasexporterende landen in Moskou; The Insider zette die naast de cijfers [9]."""
+
+niet_weten = """
+We weten niet of de schrijver het \
+jaar 2022 bedoelde of het verbod van 2026; de uitspraak van Von der Leyen gaat over 2022 [1]. Wie de explosies van \
+september 2022 op zijn geweten heeft, laat deze check buiten beschouwing: ze kwamen na het stoppen van de levering \
+[3] [9]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+# De archiefkopieën van de posts [12] en [13] (19 november) zijn de openbare gegevens van X (cdn.syndication.twimg.com),
+# met de tekst, de datum en bij [12] de geciteerde post; X zelf laat de Wayback Machine niet binnen.
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wie de post leest als 'Europa weigert nu zelf Russisch gas', vindt er meer in dat klopt. Daarom twijfelden we tussen onwaar en misleidend.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 22 september 2026, 23:30."
+alt = "Schermafbeelding van een post op X die Ursula von der Leyen een leugen verwijt over het afsluiten van het Russische gas, met daaronder de geciteerde post met haar uitspraak. Stempel: ONWAAR."
+
+[[tijdlijn]]
+datum = "2022-05-31"
+wat = "Gazprom stopt met leveren aan GasTerra, dat niet in roebels wil betalen [5] [6]."
+
+[[tijdlijn]]
+datum = "2022-06-16"
+wat = "Gazprom verlaagt Nord Stream 1 van 167 naar 67 miljoen kubieke meter per dag, ongeveer 40 procent [14] [15]."
+
+[[tijdlijn]]
+datum = "2022-07-27"
+wat = "Gazprom verlaagt Nord Stream 1 naar 33 miljoen kubieke meter per dag, 20 procent [16] [17]."
+
+[[tijdlijn]]
+datum = "2022-08-31"
+wat = "Nord Stream 1 gaat dicht voor drie dagen onderhoud [3]."
+
+[[tijdlijn]]
+datum = "2022-09-02"
+wat = "Gazprom meldt dat Nord Stream 1 dicht blijft [3]."
+
+[[tijdlijn]]
+datum = "2022-09-05"
+wat = "Peskov legt het stoppen bij de westerse sancties [4]."
+
+[[tijdlijn]]
+datum = "2026-01-26"
+wat = "De lidstaten van de EU nemen het verbod op Russisch gas aan, in stappen tot het najaar van 2027 [7]."
+
+[[tijdlijn]]
+datum = "2026-09-17"
+wat = "Von der Leyen in Straatsburg: toen Rusland het gas afsloot, sloegen we terug [1]."
+
+[[tijdlijn]]
+datum = "2026-09-22"
+tijd = "23:30"
+wat = "De post op X die haar een leugen verwijt [12]."
+
+[[tijdlijn]]
+datum = "2026-10-28"
+wat = "The Insider checkt de uitspraak van Poetin op het gasforum in Moskou [9]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "Europese Commissie"
+titel = "2026 State of the Union Address by President von der Leyen"
+datum = "2026-09-17"
+url = "https://www.eeas.europa.eu/delegations/ukraine/2026-state-union-address-president-von-der-leyen_en"
+archief = "https://web.archive.org/web/20261011193202/https://www.eeas.europa.eu/delegations/ukraine/2026-state-union-address-president-von-der-leyen_en"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "OSW (Centrum voor Oostelijke Studies)"
+titel = "Stopping Nord Stream 1 gas pipeline"
+datum = "2022-07-15"
+url = "https://www.osw.waw.pl/en/publikacje/analyses/2022-07-15/stopping-nord-stream-1-gas-pipeline"
+archief = "https://web.archive.org/web/20260528124050/https://www.osw.waw.pl/en/publikacje/analyses/2022-07-15/stopping-nord-stream-1-gas-pipeline"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Rigzone"
+titel = "Nord Stream Pipeline Fully Shut Down"
+datum = "2022-09-05"
+url = "https://www.rigzone.com/news/nord_stream_pipeline_fully_shut_down-05-sep-2022-170226-article/"
+archief = "https://web.archive.org/web/20250811041949/https://www.rigzone.com/news/nord_stream_pipeline_fully_shut_down-05-sep-2022-170226-article/"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Euromaidan Press (op gezag van Interfax)"
+titel = "Gas supplies through Nord Stream will resume if West lifts sanctions: Kremlin"
+datum = "2022-09-05"
+url = "https://euromaidanpress.com/2022/09/05/gas-supplies-through-nord-stream-will-resume-if-west-lifts-sanctions-kremlin/"
+archief = "https://web.archive.org/web/20240506051125/https://euromaidanpress.com/2022/09/05/gas-supplies-through-nord-stream-will-resume-if-west-lifts-sanctions-kremlin/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Gasunie Transport Services"
+titel = "Gazprom ceases supplying GasTerra with effect from 31 May"
+datum = "2022-05-30"
+url = "https://www.gasunietransportservices.nl/en/news/gazprom-ceases-supplying-gasterra-with-effect-from-31-may"
+archief = "https://web.archive.org/web/20251117212525/https://www.gasunietransportservices.nl/en/news/gazprom-ceases-supplying-gasterra-with-effect-from-31-may"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Gazprom stopt met leveren van gas aan Nederlandse Gasterra vanwege conflict over betaling"
+datum = "2022-05-30"
+url = "https://nos.nl/artikel/2430819-gazprom-stopt-met-leveren-van-gas-aan-nederlandse-gasterra-vanwege-conflict-over-betaling"
+archief = "https://web.archive.org/web/20250710121948/https://nos.nl/artikel/2430819-gazprom-stopt-met-leveren-van-gas-aan-nederlandse-gasterra-vanwege-conflict-over-betaling"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Raad van de EU"
+titel = "Russian gas imports: Council gives final greenlight to a stepwise ban"
+datum = "2026-01-26"
+url = "https://www.eeas.europa.eu/delegations/ukraine/russian-gas-imports-council-gives-final-greenlight-stepwise-ban_en"
+archief = "https://web.archive.org/web/20261002164021/https://www.eeas.europa.eu/delegations/ukraine/russian-gas-imports-council-gives-final-greenlight-stepwise-ban_en"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "Eurostat"
+titel = "EU imports of energy products, latest developments (gegevens van september 2026)"
+datum = "2026-09"
+url = "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=EU_imports_of_energy_products_-_latest_developments"
+archief = "https://web.archive.org/web/20261117235223/https://ec.europa.eu/eurostat/statistics-explained/index.php?title=EU_imports_of_energy_products_-_latest_developments"
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "The Insider (Antifake)"
+titel = "Poetin zei dat de EU haar eigen economie schaadt door Russisch gas te weigeren; de economie voelde de klap niet (in het Russisch)"
+datum = "2026-10-28"
+url = "https://theins.ru/antifake/298846"
+archief = "https://web.archive.org/web/20261101222225/https://theins.ru/antifake/298846"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "Correctiv"
+titel = "Irreführende Behauptungen zu Nord Stream 1 und Russland in Umlauf"
+datum = "2022-08-04"
+url = "https://correctiv.org/faktencheck/2022/08/04/irrefuehrende-behauptungen-zu-nord-stream-1-und-russland-in-umlauf/"
+archief = "https://web.archive.org/web/20260927104410/https://correctiv.org/faktencheck/2022/08/04/irrefuehrende-behauptungen-zu-nord-stream-1-und-russland-in-umlauf/"
+
+[[bron]]
+nr = 11
+soort = "factcheck"
+uitgever = "VOA (Polygraph.info)"
+titel = "Putin Tries to Blame Canada for Europe's Gas Woes. It's Bogus (oordeel: False)"
+datum = "2022-07-21"
+url = "https://www.voanews.com/a/fact-check-putin-canada-gasprom/6743428.html"
+archief = "https://web.archive.org/web/20251210160234/https://www.voanews.com/a/fact-check-putin-canada-gasprom/6743428.html"
+
+[[bron]]
+nr = 12
+soort = "bron"
+uitgever = "X"
+titel = "De post met de bewering"
+datum = "2026-09-22"
+prive = true
+archief = "https://web.archive.org/web/20261119125229/https://cdn.syndication.twimg.com/tweet-result?id=2102510990281556228&token=53h8e2mugoe&lang=nl"
+
+[[bron]]
+nr = 13
+soort = "bron"
+uitgever = "X"
+titel = "De geciteerde post met de uitspraak van Von der Leyen"
+datum = "2026-09-17"
+prive = true
+archief = "https://web.archive.org/web/20261119125241/https://cdn.syndication.twimg.com/tweet-result?id=2100515247387816381&token=53ayoebm58i&lang=nl"
+
+[[bron]]
+nr = 14
+soort = "bron"
+uitgever = "Gazprom op Telegram"
+titel = "Nord Stream: tot 100 miljoen kubieke meter per dag, door de late terugkeer van turbines van Siemens"
+datum = "2022-06-14"
+url = "https://t.me/gazprom/763"
+archief = "https://web.archive.org/web/20260724160004/https://t.me/gazprom/763"
+
+[[bron]]
+nr = 15
+soort = "bron"
+uitgever = "Gazprom op Telegram"
+titel = "Nord Stream: tot 67 miljoen kubieke meter per dag vanaf 16 juni"
+datum = "2022-06-15"
+url = "https://t.me/gazprom/769"
+archief = "https://web.archive.org/web/20260802172206/https://t.me/gazprom/769"
+
+[[bron]]
+nr = 16
+soort = "bron"
+uitgever = "Gazprom op Telegram"
+titel = "Nord Stream: tot 33 miljoen kubieke meter per dag vanaf 27 juli"
+datum = "2022-07-25"
+url = "https://t.me/gazprom/835"
+archief = "https://web.archive.org/web/20260525095855/https://t.me/gazprom/835"
+
+[[bron]]
+nr = 17
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Gazprom schroeft gaslevering aan Duitsland verder terug"
+datum = "2022-07-25"
+url = "https://nos.nl/artikel/2438302-gazprom-schroeft-gaslevering-aan-duitsland-verder-terug"
+archief = "https://web.archive.org/web/20240714163105/https://nos.nl/artikel/2438302-gazprom-schroeft-gaslevering-aan-duitsland-verder-terug"
+
+[[bron]]
+nr = 18
+soort = "bron"
+uitgever = "Gazprom op Telegram"
+titel = "De sancties van Canada, de EU en het Verenigd Koninkrijk maken de levering van de turbine onmogelijk"
+datum = "2022-08-03"
+url = "https://t.me/gazprom/842"
+archief = "https://web.archive.org/web/20261119124249/https://t.me/gazprom/842"
+
+[[bron]]
+nr = 19
+soort = "bron"
+uitgever = "Gazprom op Telegram"
+titel = "Nord Stream volledig gestopt na een olielek bij turbine 24"
+datum = "2022-09-02"
+url = "https://t.me/gazprom/885"
+archief = "https://web.archive.org/web/20261007045323/https://t.me/gazprom/885"
+
+[[bron]]
+nr = 20
+soort = "nieuws"
+uitgever = "Reuters, via Baird Maritime"
+titel = "Shunning Russian gas was a costly mistake, Kremlin tells Europe"
+datum = "2026-09-09"
+url = "https://www.bairdmaritime.com/shipping/tankers/gas/shunning-russian-gas-was-a-costly-mistake-kremlin-tells-europe"
+archief = "https://web.archive.org/web/20261119125037/https://www.bairdmaritime.com/shipping/tankers/gas/shunning-russian-gas-was-a-costly-mistake-kremlin-tells-europe"

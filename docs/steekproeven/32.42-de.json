@@ -1,0 +1,241 @@
+{
+ "toelichting": "PLAN #32.42, Duits: elk rood en oranje, elk groen bij O en K en elke niet bevestigd bij W, W-merk en G, gelabeld tegen de genoemde bronnen; blind gelezen door twee deelagenten met dezelfde regels; een alarm met de eigen check als bron bewijst zichzelf (meting.auto_label).",
+ "labels": {
+  "K:gfc-5837659bae265cfb#C": {
+   "label": "vals",
+   "toelichting": "De bronnen bevestigen alleen dat er op 28 november 2021 gestemd werd, niet de opgesomde regelingen waar de bewering om draait."
+  },
+  "O:gfc-065807ba717bd356#C": {
+   "label": "bewijst",
+   "toelichting": "WEB.DE en GADMO (met het ministerie) zeggen dat er geen extra 10.000 euro voor kinderen van vluchtelingen komt."
+  },
+  "O:gfc-06e8a848a7ff3499#C": {
+   "label": "bewijst",
+   "toelichting": "Focus, BR24 en GADMO leggen uit dat het gat of de afgeknipte hoek wettelijk is voorgeschreven voor blinden, geen teken van fraude."
+  },
+  "O:gfc-0c83aa990b869ff0#C": {
+   "label": "bewijst",
+   "toelichting": "De Universiteit Innsbruck zegt zelf op X dat de bordjes nep zijn en geen bewegwijzering van de universiteit."
+  },
+  "O:gfc-0fb23b479afb672e#C": {
+   "label": "bewijst niet",
+   "toelichting": "Stern en Der Standard gaan over een nepvideo met cocaïne, niet over dit citaat over Israel en joden."
+  },
+  "O:gfc-10ec1f69d9d722ba#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en Full Fact laten zien dat de foto van Khan vlak voor de echte griepprik is genomen en dat langere video's de prik tonen."
+  },
+  "O:gfc-1913107ca6c21691#C": {
+   "label": "bewijst",
+   "toelichting": "BR24 Faktenfuchs: de AfD heeft niet in haar programma staan dat kita's worden afgeschaft."
+  },
+  "O:gfc-1c568ab5b816bb44#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en Pro gaan over deze bewering: het WEF heeft niet geëist dat KI de Bijbel herschrijft."
+  },
+  "O:gfc-269f53e4f76503da#C": {
+   "label": "bewijst",
+   "toelichting": "BR24 en Alt News: het sneeuwbeeld van Mekka is bewerkt, het heeft er niet gesneeuwd."
+  },
+  "O:gfc-2e9429e7bdc13ab6#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO meldt dat Europese media veel minder geld van de Gates Foundation krijgen; ook de 319 miljoen in totaal ligt ver onder 4,8 miljard per jaar."
+  },
+  "O:gfc-3e89aa8273e5aa43#C": {
+   "label": "bewijst",
+   "toelichting": "Het dpa-bericht op Presseportal zegt dat er geen bewijs is voor dit Schäuble-citaat."
+  },
+  "O:gfc-41821fcf4be66b92#C": {
+   "label": "bewijst",
+   "toelichting": "Het Luxemburger Wort weerlegt het gerucht direct, en Politico en CNN citeren Austin dat Oekraïne kan winnen."
+  },
+  "O:gfc-4839a63cd4cf6944#C": {
+   "label": "bewijst niet",
+   "toelichting": "Wikipedia en de bijbeltekst tonen de herkomst van de zin, maar laten niet zien dat er geen Weimarse verordening was."
+  },
+  "O:gfc-48af408a24ba4d87#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia (en tagesschau) melden dat de protocollen de stelling van Multipolar niet dragen: de hoogstufing kwam van RKI-vicepresident Schaade."
+  },
+  "O:gfc-4e065e34b5fa2f2e#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck op Yahoo zegt dat de Texas National Guard geen tanks naar de grens stuurt."
+  },
+  "O:gfc-4f2e1d555e834f36#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact, Yahoo en GADMO gaan over deze bewering: geen bewijs dat Nicole Schwab permanente klimaatlockdowns aankondigde."
+  },
+  "O:gfc-5168d070a9762ed3#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters, CNN en de BBC melden dat de verdachte Axel Rudakubana is, geboren in Cardiff; de naam Ali Al-Shakati was nep."
+  },
+  "O:gfc-54a3e8a40c9c561c#C": {
+   "label": "bewijst",
+   "toelichting": "ABC News 4 legt uit dat de 'wormen' in Liaoning plantendelen van bomen waren, geen regen van wormen."
+  },
+  "O:gfc-54c59e72bccaa1b7#C": {
+   "label": "bewijst",
+   "toelichting": "Kompas en de overheid noemen het een hoax: Mie Gacoan werd verzegeld wegens een ontbrekende bouwvergunning (het bericht is Indonesisch, niet Duits)."
+  },
+  "O:gfc-69a94fa1a6c989ba#C": {
+   "label": "bewijst",
+   "toelichting": "Newsweek en SEE Check tonen dat 'reduce the population' een versprekking was en Harris geen bevolkingskrimp wil; oranje past."
+  },
+  "O:gfc-6b7683ddebf9a0d7#C": {
+   "label": "bewijst",
+   "toelichting": "Het politiebericht toont dat het plakkaat in september 2021 hing en door de politie werd weggehaald, dus niet actueel in 2023."
+  },
+  "O:gfc-6bf3e934edb71395#C": {
+   "label": "bewijst",
+   "toelichting": "De Berliner Kurier meldt dat de foto's van de klokkenluider uit de Buitoni-fabriek in Caudry (Frankrijk) komen, niet uit Duitsland."
+  },
+  "O:gfc-6ca950fbc1017029#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en de tagesschau weerleggen dat afval van zonnepanelen giftiger is dan kernafval."
+  },
+  "O:gfc-6f4d6c03b51580c4#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en t-online melden dat het besneeuwde toestel in München geparkeerd stond, niet vastgevroren op weg naar Dubai."
+  },
+  "O:gfc-70f31e1421781be6#C": {
+   "label": "bewijst",
+   "toelichting": "Radio Wuppertal citeert Röhrl dat zulke daden ons niet onzeker mogen maken en zeer zeldzaam zijn: geen advies om thuis te blijven."
+  },
+  "O:gfc-77023966dcbcff1e#C": {
+   "label": "bewijst",
+   "toelichting": "Het Faktenfuchs van BR24 gaat over deze vraag en laat zien dat scholing van werklozen alleen het tekort niet dekt."
+  },
+  "O:gfc-8d9f26f7c4eff5c4#C": {
+   "label": "bewijst",
+   "toelichting": "De FAZ meldt een IWH-studie dat AfD-remigratie de economie schaadt, het tegendeel van een enorme opleving."
+  },
+  "O:gfc-91f7d58f56f249ec#C": {
+   "label": "bewijst niet",
+   "toelichting": "Zeit en Welt geven alleen wat Esken echt zei over een AfD-verbod; geen bron gaat over het verzonnen citaat zelf."
+  },
+  "O:gfc-935fb310b200742c#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesspiegel en Berliner Zeitung: de politie noemt het gerucht over een zwaargewonde of gedode 13-jarige nepnieuws."
+  },
+  "O:gfc-93b43c4813fa85f1#C": {
+   "label": "bewijst",
+   "toelichting": "Stern, tagesschau en GADMO laten zien dat de vallende auto's uit een Hollywoodfilm komen, niet uit de rellen in Frankrijk."
+  },
+  "O:gfc-96110cf374cb922b#C": {
+   "label": "bewijst",
+   "toelichting": "De Bundesbank haalde tussen 2013 en 2017 goud uit New York terug, dus terugvorderen kan."
+  },
+  "O:gfc-9879d4e20883239f#C": {
+   "label": "bewijst",
+   "toelichting": "Focus en t-online noemen de bewering van Poetin fake news: de Amerikaanse troepen zijn er met instemming van Duitsland."
+  },
+  "O:gfc-98bf2cbbd87ba0ad#C": {
+   "label": "bewijst",
+   "toelichting": "BR24 Faktenfuchs rekent het verhaal tot de Russische desinformatie tegen kandidaten in Sachsen-Anhalt, die ook nepschandalen over seks verspreidde; niet zelf in de tekst nagelezen."
+  },
+  "O:gfc-9c622a0cf3ad06b5#C": {
+   "label": "bewijst",
+   "toelichting": "Stern, GADMO en anderen melden dat de pizzafoto van de partijdag van de Groenen een KI-vervalsing is."
+  },
+  "O:gfc-9e81d3c6c6da47b2#C": {
+   "label": "bewijst",
+   "toelichting": "20 Minuten: de foto's van Taylor Swift in een anti-Trump-shirt zijn vervalst."
+  },
+  "O:gfc-9ee87631fffe694b#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO, tagesschau en t-online tonen dat de oude koppen uit hun verband zijn gehaald en dat Duitsland opwarmt."
+  },
+  "O:gfc-a119df7aa4660fac#C": {
+   "label": "bewijst",
+   "toelichting": "Focus en de Verbraucherzentrale NRW: Hirschhausen waarschuwt zelf voor nepreclame met zijn gezicht voor Cardio-producten."
+  },
+  "O:gfc-a1dc0c1c6ce8de14#C": {
+   "label": "bewijst",
+   "toelichting": "Het Faktenfinder van tagesschau en het Faktenfuchs van BR24 tonen dat windturbines hun CO2 snel terugverdienen en rendabel zijn."
+  },
+  "O:gfc-ab1466ec5cd83069#C": {
+   "label": "bewijst",
+   "toelichting": "Tagesschau en Mythdetector: de virale foto is gemanipuleerd en niet van de Spelen van 2024."
+  },
+  "O:gfc-b90b58076b37ab3b#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en tagesschau melden dat de collage KI-beelden en een vervalste foto gebruikt."
+  },
+  "O:gfc-b97859b884b3e5ee#C": {
+   "label": "bewijst",
+   "toelichting": "Grote studies (CIDRAP, PubMed) tonen lagere sterfte bij mRNA-gevaccineerden, wat decennia minder levensverwachting uitsluit."
+  },
+  "O:gfc-bca86dfd11ebe9fc#C": {
+   "label": "bewijst",
+   "toelichting": "SRF noemt de bewering dat Wegner een tennisspeler vermoordde letterlijk als valse claim van een Russische desinformatiecampagne."
+  },
+  "O:gfc-c74f864a9cf9b35b#C": {
+   "label": "bewijst",
+   "toelichting": "Redefine Meat zelf en Handelsblatt: het bedrijf print plantaardig vlees, niet uit stamcellen."
+  },
+  "O:gfc-cb69366f59a0b6f0#C": {
+   "label": "bewijst",
+   "toelichting": "Bild, tag24 en RND melden dat het fragment een KI-vervalsing is: de uitzending was echt, het gesprek over afvallen niet; oranje past."
+  },
+  "O:gfc-cca2ed6daf70f2cb#C": {
+   "label": "bewijst",
+   "toelichting": "De Alpenverein en Krone melden dat de brief over halve manen op toppen vervalst is."
+  },
+  "O:gfc-d11af14a552bf240#C": {
+   "label": "bewijst",
+   "toelichting": "GADMO en Vice laten zien dat de WHO zulke lessen niet aanbeveelt en dat het om een misleidende oude video gaat."
+  },
+  "O:gfc-d637a00de0068b28#C": {
+   "label": "bewijst",
+   "toelichting": "Heute.at: Christina Lugner is slachtoffer van oplichters die haar naam in nepinterviews gebruiken."
+  },
+  "O:gfc-d9a3e530b6df8040#C": {
+   "label": "set fout",
+   "toelichting": "De zin meldt alleen dat Trump het beweerde, en dat klopt; de onware bewering over de oom zelf staat niet in de tekst."
+  },
+  "O:gfc-dbb56d372ca87ba1#C": {
+   "label": "bewijst",
+   "toelichting": "BR24 Faktenfuchs en tagesschau: het RKI-document bewijst geen manipulatie van de sterftecijfers."
+  },
+  "O:gfc-dd2d92b045d690e8#C": {
+   "label": "bewijst",
+   "toelichting": "Philosophia Perennis zelf noemt de 37 procent een valse melding (de studie vond 2,7 dagen verschil); Focus en Bild zijn alleen indirect."
+  },
+  "O:gfc-debb15d42ca18e78#C": {
+   "label": "bewijst",
+   "toelichting": "Die Zeit en GADMO: de foto toont een gratis veiligheidscheck van TÜV Süd, geen hoofdinspectie die Duitsers wel betalen."
+  },
+  "O:gfc-e5515a052bd27d68#C": {
+   "label": "bewijst",
+   "toelichting": "De Winnipeg Free Press (AP-overzicht) en de kopie van het AP-artikel melden dat Pfizer Cooper geen miljoenen betaalde."
+  },
+  "O:gfc-fec073edd8a382f8#C": {
+   "label": "bewijst",
+   "toelichting": "The Independent en TheJournal.ie: Zelensky kocht Highgrove niet, het is Russische desinformatie."
+  },
+  "W:wikinews:de:12368#C": {
+   "label": "vals",
+   "toelichting": "De zware zeebeving bij Papoea-Nieuw-Guinea van 9 september 2005 staat bij de USGS en in de media; de machine vond alleen latere bevingen."
+  },
+  "W:wikinews:de:12904#C": {
+   "label": "vals",
+   "toelichting": "Geen bron spreekt tegen dat Polanski dit in 2005 in Praag zei; dat hij later nog films maakte, weerlegt het voornemen niet."
+  },
+  "W:wikinews:de:37516#C": {
+   "label": "vals",
+   "toelichting": "De prognose van de Bundesregierung in het Jahreswirtschaftsbericht 2007 werd breed gemeld; de machine vond het getal niet terug."
+  },
+  "W:wikinews:de:39797#C": {
+   "label": "vals",
+   "toelichting": "Een plaatselijk ongeval uit 2007 is niet iets waarover betrouwbare media te vinden zijn; ontbreken zegt niets."
+  },
+  "W:wikinews:de:42522#C": {
+   "label": "vals",
+   "toelichting": "Een waar regionaal bericht over achterstanden bij Hartz-IV-bezwaren in Brandenburg; niets wijst erop dat het onwaar is, de machine vond alleen de oude berichten niet."
+  },
+  "W:wikinews:de:71480#C": {
+   "label": "vals",
+   "toelichting": "De uitspraak komt uit een interview in Le Monde en staat in Wikipedia over de verkiezing van 2012; de machine vond het zelf via een kopie."
+  }
+ }
+}

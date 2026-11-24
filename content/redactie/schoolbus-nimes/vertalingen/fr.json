@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La vidéo d'un bus scolaire en feu a été filmée à Nîmes en janvier 2023, et non lors des manifestations d'élèves",
+  "oordeel_zin": "La vidéo est authentique, mais elle montre un bus scolaire qui a pris feu à Nîmes le 13 janvier 2023 à cause d'un incendie du moteur, sans aucune manifestation à proximité [1] [10].",
+  "bewering": "Un bus en feu lors des manifestations d'élèves en France.",
+  "kort": "Le 2 octobre, une vidéo d'un bus en feu a circulé sur X, présentée comme une image des manifestations d'élèves en France [7]. La vidéo a été filmée le 13 janvier 2023 à Nîmes, où le moteur d'un bus scolaire a pris feu en roulant [1] [2]. Il n'y avait pas de manifestation, et les enfants à bord en sont sortis indemnes [1] [8].",
+  "tekst": "Le vendredi 2 octobre à 9 h 18, une publication en néerlandais est apparue sur X avec une vidéo d'un bus qui roule en feu dans une rue, présentée comme une scène des manifestations d'élèves en France [7]. Les mêmes images ont aussi circulé ce jour-là avec un texte en arabe [8]. Le commentateur américain Benny Johnson a partagé la vidéo auprès de ses 4,1 millions d'abonnés, avec un texte affirmant qu'il s'agit de la conséquence de l'immigration de masse [10].\n\nLa vidéo date de près de quatre ans : le vendredi 13 janvier 2023, vers midi, un bus scolaire a pris feu sur la route de Sauve à Nîmes, dans le sud de la France [1]. Le moteur a soudainement pris feu en roulant [1]. Le site d'information local Objectif Gard a mis en ligne ce jour-là une vidéo du bus en feu [1]. C'est de là que proviennent les images de la publication, selon les vérifications de faits d'An-Nahar et de ZDFheute [8] [10].\n\nDans le bus se trouvaient dix élèves d'un collège, une école pour enfants de 11 à 15 ans [2]. Eux et le chauffeur étaient déjà sortis du bus à l'arrivée des pompiers, et personne n'a été blessé [1] [8]. Le bus vide a encore roulé environ 20 mètres avant de s'arrêter contre un mur [8]. Les pompiers du département du Gard ont signalé l'incendie cet après-midi-là sur X [4]. Midi Libre a diffusé les images le soir même, TF1 Info le lendemain [2] [3]. Objectif Gard ne cite comme cause que l'incendie du moteur, ZDFheute un défaut technique [1] [10].\n\nLes manifestations d'élèves, elles, sont bien réelles : depuis la deuxième moitié de septembre, des élèves bloquent leurs lycées dans toute la France pour protester contre les classes surchargées, le manque d'enseignants et les bâtiments délabrés [6]. Un bus y a aussi été la proie des flammes : à Marseille, le jeudi 1er octobre, un bus a été incendié pendant les blocages et le chauffeur a été agressé [5]. Ce bus ne figure pas dans la vidéo, car la vidéo date de janvier 2023 et vient de Nîmes [1].\n\nLe quotidien libanais An-Nahar est le premier vérificateur de faits que nous avons trouvé, le 3 octobre [8]. AFP Factcheck Nederland est parvenu à la même conclusion le 7 octobre [9].",
+  "niet_weten": "Nous ne savons pas qui a le premier associé la vidéo aux manifestations de 2026. Nous n'avons pas trouvé d'explication établie sur la raison pour laquelle la moto a pris feu. Nous ne savons pas si la vidéo circulait déjà comme image de manifestation après 2023.",
+  "nog_uitzoeken": [
+   "Si la vidéo circulait déjà comme image de manifestation après janvier 2023. Il s'agirait alors d'une affirmation récurrente."
+  ],
+  "tijdlijn": [
+   "Un bus scolaire prend feu en roulant sur la route de Sauve à Nîmes ; les enfants en sortent indemnes [1].",
+   "Les pompiers du Gard signalent l'incendie sur X [4].",
+   "TF1 Info diffuse les images : dix enfants évacués [2].",
+   "À Marseille, un bus est incendié pendant les blocages de lycées [5].",
+   "La publication en néerlandais avec la vidéo de Nîmes [7].",
+   "An-Nahar : la vidéo date de janvier 2023 [8].",
+   "AFP Factcheck Nederland : la vidéo ne montre pas de manifestations d'élèves [9].",
+   "ZDFheute : le bus a brûlé en 2023 à cause d'un défaut technique [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 2 octobre 2026, 9 h 18.",
+   "Objectif Gard (aujourd'hui Objectif Sud), 13 janvier 2023 : la vidéo du bus scolaire en feu sur la route de Sauve à Nîmes."
+  ],
+  "beeld_alt": [
+   "Image fixe tirée de la vidéo : un bus en feu dans la rue. Tampon : FAUX.",
+   "La vidéo d'Objectif Gard du bus scolaire qui a pris feu à Nîmes."
+  ]
+ }
+}

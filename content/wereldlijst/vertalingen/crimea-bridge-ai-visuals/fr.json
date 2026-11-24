@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Des images et une vidéo partagées en ligne montrent le pont de Crimée brisé après la frappe de l'Ukraine en novembre 2026.",
+  "kern": [
+   "L'Ukraine a bien frappé et gravement endommagé le pont de Crimée le 17 novembre 2026, mais les images et la vidéo qui circulent ne montrent pas ces dégâts. [1] [2] [3]",
+   "Une image d'une section de pont détachée ne correspond pas aux débris visibles dans les images diffusées par le service de sécurité ukrainien, et un outil de détection y a trouvé un filigrane invisible d'IA. [1]",
+   "Une vidéo filmée comme depuis un drone diffère des véritables images du pont effondré et comporte des filigranes qui indiquent l'IA, et une autre photo correspond à une image du pont de 2019 sur Wikipédia et a probablement été modifiée avec l'IA. [2] [3]"
+  ],
+  "rondgang": "À partir du 18 novembre 2026, ces visuels se sont diffusés sur Facebook, X et Instagram, notamment en anglais, en espagnol et en polonais. [1] [2] [3]"
+ }
+}

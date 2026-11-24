@@ -1,0 +1,141 @@
+{
+ "toelichting": "PLAN #32.56, Engels, lezer-v16 op de vierde verse set: elk rood en oranje en elk groen bij O, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag, door drie deelagenten met dezelfde regels als 32.56-en en 32.56-en-v15 (elk een derde). Geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet. Bij W en W-merk was er geen alarm en geen niet bevestigd.",
+ "labels": {
+  "O:gfc-0060755557c8619a#C": {
+   "label": "bewijst niet",
+   "toelichting": "De enige bron die het direct tegenspreekt is Grok op X, een chatbot; Al Jazeera (14 maart) gaat alleen over Trumps oproep aan bondgenoten en noemt Argentinië niet. Ik opende de Wikipedia-pagina over de Hormuz-campagne: Argentinië komt in de tekst niet voor, dus ook die laat alleen afwezigheid zien."
+  },
+  "O:gfc-1da39a6684d26fa8#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo ('Digitally manipulated' video of Indian minister's comments), NDTV Profit (PIB markeert de video als bewerkt) en DFRAC laten in hun titels zien dat de video van Rajnath Singh gemanipuleerd is. Geen pagina's geopend."
+  },
+  "O:gfc-8166b32912f92a37#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen (Business Standard, Indian Express, The Federal) gaan over vier rechtse mannen die later zijn opgepakt voor een aanval op studenten bij een CJP-protest, een andere video; volgens de check van Factly is de virale video een oude, losstaande ruzie met AISA-leden, en dat tonen deze bronnen niet. Geen pagina's geopend."
+  },
+  "O:gfc-09bce63cdaff8e26#C": {
+   "label": "bewijst",
+   "toelichting": "Hindustan Times ('Truth behind viral claims about cannibalism') en Snopes' eigen account op X ('No, the Epstein files don't reveal Leonardo DiCaprio ate 70 pounds of child meat', met link naar hun artikel) weerleggen de bewering rechtstreeks. Geen pagina's geopend."
+  },
+  "O:gfc-456baa8781c4afe6#C": {
+   "label": "bewijst",
+   "toelichting": "AllSides ('Did Carney walk out ... as George Will allegedly reported? Not so fast') en het Threads-bericht van Snopes ('No, George Will didn't report ...') weerleggen de video direct. Geen pagina's geopend."
+  },
+  "O:gfc-5acb7b74b8251274#C": {
+   "label": "bewijst",
+   "toelichting": "AOL ('Viral video of Donald Trump waving at no one turns out to be misleading') laat zien dat de clip misleidend is; Investment Watch Blog (band laag) vult aan met de bouwvakkers buiten beeld. Geen pagina's geopend."
+  },
+  "O:gfc-fd9d0fb0fbf9294f#C": {
+   "label": "bewijst",
+   "toelichting": "Alaska Public Media (en de overnames bij KYUK en youralaskalink) melden dat het verhaal over de ontsnapte beluga nep en door AI gemaakt is. Geen pagina's geopend."
+  },
+  "O:gfc-d9ffd5e433ee3e1b#C": {
+   "label": "bewijst",
+   "toelichting": "Zona Militar meldt dat een Type 45 een supersonische raket onderschepte met een Aster 30, en gov.uk beschrijft het Sea Viper-luchtverdedigingssysteem van de Type 45; dat weerlegt dat ze geen raketten kunnen neerhalen. Geen pagina's geopend."
+  },
+  "O:gfc-de73e8b473bbb9da#C": {
+   "label": "bewijst",
+   "toelichting": "Indian Express en NDTV (artikelen uit 2018) tonen hetzelfde voorval, een BJP-MLA die in Madhya Pradesh met een krans van schoenen werd ontvangen, dus het is oud en niet van de verkiezingen van 2026 of de UGC-regels. Geen pagina's geopend."
+  },
+  "O:gfc-c5d2bbf6380ff2ca#C": {
+   "label": "bewijst",
+   "toelichting": "India Today en Hindustan Times (januari 2024) tonen het Ram-tempeltableau van Uttar Pradesh bij de parade van 2024, dus de video hoort bij 2024 en niet bij 2026. Geen pagina's geopend."
+  },
+  "O:gfc-dfc6ae3b99bb8641#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van The Independent, de House of Commons Library (Public Duty Costs Allowance) en het Institute for Government laten zien dat de £115.000 een vergoeding voor kantoorkosten is en geen pensioen. Geen pagina's geopend."
+  },
+  "O:gfc-d278521b99078618#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News ('Image showing PM Modi in elaborate photo-op in a tea estate is AI generated') weerlegt het beeld direct. Geen pagina's geopend."
+  },
+  "O:gfc-7363790bb4d64728#C": {
+   "label": "bewijst",
+   "toelichting": "KCRA en WISN ('voting machine flipping claims debunked') en Yahoo ('Old clips used as false proof of fraudulent US voting machines in 2026') tonen dat het een oude clip is, en Journal & Courier beschrijft de defecte machine in West Lafayette in 2018. Geen pagina's geopend."
+  },
+  "O:gfc-5f39debfd698aa62#C": {
+   "label": "bewijst",
+   "toelichting": "Mediaite ('duped by AI clip of ICE chasing a Viking') en The Times of India melden dat de video met AI gemaakt is. Geen pagina's geopend."
+  },
+  "O:gfc-7b83b05c9e67c8fc#C": {
+   "label": "bewijst",
+   "toelichting": "Factiz wijst het officiële transcript van aflevering 133 aan (pmindia.gov.in, pib.gov.in) en het eigen verslag van Navbharat Times; dat het citaat er niet in staat en Navbharat de grafiek ontkent, komt in de uitleg wel uit een Meta AI-post op Threads. Beide transcriptpagina's gaven 403 en tellen dus niet; ik beoordeelde ze op titel en uitleg, dus dit is een zwakke bewijst."
+  },
+  "O:gfc-6ba406c5bf409913#C": {
+   "label": "bewijst",
+   "toelichting": "Yahoo ('Fabricated video of Indian army chief dancing at party misleads online') noemt de video vervalst. Geen pagina's geopend."
+  },
+  "O:gfc-31a61b9b92c87305#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van Reuters ('False claim: Obama rejected democratic ideals...') laat zien dat de video bewerkt is en de zin uit zijn verband haalt. Geen pagina's geopend."
+  },
+  "O:gfc-1c657672a9abfdaa#C": {
+   "label": "bewijst",
+   "toelichting": "Zoomnews ('Claims of Removing Sanju Samson Proven False'), India TV, Asianet Newsable en Republic World tonen dat Gill de foto niet bewerkte: het gaat om twee foto's van verschillende momenten. Geen pagina's geopend."
+  },
+  "O:gfc-bdde576c05e898eb#C": {
+   "label": "bewijst",
+   "toelichting": "De overzichtsstudie op PubMed en het handboek van de WHO zeggen dat koken de parasieten in varkensvlees doodt, dus 'overleven koken' is misleidend; CDC en The Guardian bevestigen alleen dat de parasieten bestaan. Geen pagina's geopend."
+  },
+  "O:gfc-d2da5be015d93fc1#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews ('the world's largest wind farm is there') en E&E News ('It's actually No. 1 — by a lot') tonen dat China zelf de meeste windenergie gebruikt. Daarmee is de bewering van Trump weerlegd. Geen pagina's geopend."
+  },
+  "O:gfc-8ee3a4c3f3b3d945#C": {
+   "label": "bewijst",
+   "toelichting": "Lankantax noemt voor 2026 nog 18%, en KPMG (geopend, 4 mei 2026) noemt alleen 20,5% op financiële diensten, geen verhoging voor alle goederen en diensten. De uitleg geeft wel een verkeerde reden (de SSCL) en mist dat KPMG die 20,5% noemt."
+  },
+  "O:gfc-d4915559127655cb#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het bericht ging rond op 22 augustus 2026, maar de bronnen gaan over het vertrek van de Cayetano's op 9 september, dus over een latere reis en niet over de foto uit het bericht. De Manila Times (geopend, 11 september 2026) zegt niets over een oude of verkeerd gedateerde foto."
+  },
+  "O:gfc-b7b1e68ab72e370a#C": {
+   "label": "bewijst",
+   "toelichting": "CNN ('vaccines have been tested in placebo-controlled studies'), Science News ('They already are') en CIDRAP tonen dat ook andere vaccins in placebogecontroleerde onderzoeken getest zijn. Geen pagina's geopend."
+  },
+  "O:gfc-3100ef84e686bc0c#C": {
+   "label": "bewijst",
+   "toelichting": "Reuters ('Indonesia reaffirms it has no plan to impose tolls'), de SCMP ('rules out collecting transit fees') en The Straits Times ('floats, then backs off') laten zien dat de minister een heffing alleen opperde en dat Indonesië niets aankondigde. Geen pagina geopend."
+  },
+  "O:gfc-0a6532228495c152#C": {
+   "label": "bewijst",
+   "toelichting": "The Times of India en Firstpost melden dat Tharoor de video als nep met AI aanmerkte ('Neither my language nor my voice'), en zijn eigen post op X zegt hetzelfde. Geen pagina geopend."
+  },
+  "O:gfc-63341560721e7fb9#C": {
+   "label": "bewijst",
+   "toelichting": "London Business Mag noemt de bewering uit de petitie onwaar en citeert Full Fact ('confirmed it's completely false'); de wet op legislation.gov.uk geeft de vrijstelling alleen aan plaatsen van openbare eredienst. Ik opende de pagina van London Business Mag."
+  },
+  "O:gfc-33b71463413a4489#C": {
+   "label": "bewijst",
+   "toelichting": "De CDC (MMWR) schat de werkzaamheid tegen ziekenhuisopname bij kinderen in 2025–26 op 41%, en The Guardian en de Cochrane-samenvatting laten zien dat de review alleen gerandomiseerde trials woog; daarmee is de uitspraak van Kennedy misleidend. Geen pagina geopend."
+  },
+  "O:gfc-441ef968556b2266#C": {
+   "label": "bewijst",
+   "toelichting": "BBC Bitesize, KCRA, NewsNation, IFLScience en NDTV melden alle dat NASA ontkent dat de aarde op 12 augustus 2026 zeven seconden haar zwaartekracht verliest. Geen pagina geopend."
+  },
+  "O:gfc-5053dd9998bdad27#C": {
+   "label": "bewijst",
+   "toelichting": "Dorset Eye noemt de Facebook-post over een Dyson Cyclone V10 voor £8,55 van Currys en schrijft dat Currys bevestigde dat het aanbod niet echt is; The Conspiratory gaat over hetzelfde aanbod. Ik opende de pagina van Dorset Eye; die noemt Full Fact niet, anders dan de uitleg zegt."
+  },
+  "O:gfc-8ceb0353c6f9a9d5#C": {
+   "label": "vals",
+   "toelichting": "ScienceDaily en Wikipedia bevestigen alleen dat de citroen een kruising van citron en bittere sinaasappel is; Wikipedia noemt de herkomst onzeker en zegt niet dat mensen de kruising maakten. Alleen Crop Trust zegt 'niet natuurlijk', dus *door mensen gemaakt* is niet aangetoond. Ik opende Wikipedia."
+  },
+  "O:gfc-cb09d2957215e5a0#C": {
+   "label": "bewijst",
+   "toelichting": "AFP (via Yahoo), France 24 ('Truth or Fake') en Euronews melden dat de selfie van de BRICS-leiders met AI is gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-9c0e86d6c4f03498#C": {
+   "label": "bewijst",
+   "toelichting": "De titels zeggen het al: Yahoo meldt 'Fake Trump sleeping photo' en twee MSN-pagina's een 'deepfake' en 'AI satire'. Ik probeerde ze te openen: Yahoo gaf 404 en de MSN-pagina's (verzamelpagina's) toonden geen inhoud, dus ik oordeelde op de titels en de uitleg."
+  },
+  "O:gfc-e917787987a9ae59#C": {
+   "label": "bewijst",
+   "toelichting": "Media Matters ('Newsmax host falsely claims Secret Service agents are not being paid'), CNN, ABC News en de NYT melden dat DHS-personeel, ook de Secret Service, tijdens de shutdown werd betaald; alleen Fox News (band laag) zegt het tegendeel. Geen pagina geopend."
+  },
+  "O:gfc-8d320842bb5bab68#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes zegt zelf, op X en Threads met een link naar de eigen factcheck, dat Massie Miller niet 'ontmaskerde' voor $890 miljoen via de Kaaimaneilanden; het artikel op MSN waarschuwt voor dezelfde bewering. Dit is de factchecker zelf, geen chatbot. Geen pagina geopend."
+  }
+ }
+}

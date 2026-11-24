@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Es gibt keine Bestätigung, dass Russland in Abu Dhabi gefordert hat, Finnland solle die NATO verlassen",
+  "oordeel_zin": "Die Behauptung stammt aus einem Bericht der Bild mit ungenannten Quellen, den der Kreml dementiert; Finnlands Präsident und Verteidigungsminister sagen, ihnen sei von einer solchen Forderung nichts bekannt [7] [8] [10] [17].",
+  "bewering": "EILMELDUNG: Russland hat einen Teil seiner Bedingungen zur BEENDIGUNG des Ukraine-Kriegs genannt:  - Finnland raus aus der NATO.  - Keine NATO-Stützpunkte im Baltikum.  - Der gesamte Donbass wird an Russland übergeben.  Im Gegenzug würde Russland seine Atomwaffen aus Belarus ABZIEHEN.",
+  "kort": "Am 13. November stellten Beiträge auf X es als Tatsache dar, dass Russland bei den Friedensgesprächen in Abu Dhabi gefordert habe, Finnland solle die NATO verlassen [2] [4] [5]. Die Behauptung stammt aus einem Bericht der deutschen Zeitung Bild vom selben Morgen, die ihre Quellen nicht nannte und angab, es sei nicht bekannt, ob Präsident Putin den Vorschlag unterstütze [1] [7]. Der Kreml dementiert dies, und Finnlands Präsident sagt, er habe eine solche Forderung nie von einem Russen gehört [8] [17] [18].",
+  "tekst": "Am Morgen des 13. November berichtete die Bild, Russland wolle Finnland aus der NATO draußen sehen, keine NATO-Stützpunkte in Estland, Lettland und Litauen und die gesamte Region Donbass, und würde im Gegenzug seine Atomwaffen aus Belarus abziehen [1] [6] [7]. Laut Yle, dem öffentlich-rechtlichen Sender Finnlands, sagte die Bild, der Vorschlag stamme aus Putins engstem Umfeld und sei europäischen Vertretern in Abu Dhabi inoffiziell vorgelegt worden [6]. In ihrem russischsprachigen Kanal nannte die Bild ihn einen von mehreren Vorschlägen konkurrierender Gruppen von Vermittlern [1].\n\nUm 11:03 UTC veröffentlichte ein Account namens Bedouin Report die angeblichen Bedingungen Russlands unter dem Wort EILMELDUNG, ohne Quelle [2]. Zu diesem Zeitpunkt hatte der Kreml bereits dementiert [8]. Um 10:48 UTC hatte die aserbaidschanische Nachrichtenagentur APA Sprecher Dmitri Peskow zitiert, es sei keine solche Forderung gestellt worden [8] [9].\n\nFinnlands Verteidigungsminister Antti Häkkänen sagte am 13. November, er habe keine Informationen darüber, ob die Forderung gestellt wurde [10]. Am 17. November sagte Präsident Alexander Stubb laut der Zeitung Ilta-Sanomat, es sei keine Behauptung, die in irgendeiner Form ernst zu nehmen sei, und er habe sie von keinem einzigen Russen gehört [17] [18].\n\nDas russischsprachige Medium Echo, das sich ebenfalls auf ungenannte Quellen beruft, schrieb, eine Verhandlungsgruppe habe den Europäern eine Liste übergeben, die auch eine Rückkehr Finnlands zu seinem Status vor der NATO enthalten habe [12]. Die New York Times erhielt ein russisches Papier vom 10. November, das die NATO auffordert, ihre Truppen und Stützpunkte auf den Stand von 1997 zurückzuziehen; Finnland erwähnt ihr Artikel jedoch nicht [13] [14].\n\nFinnland trat im April 2023 der NATO bei, und nach dem Nordatlantikvertrag kann nur ein Mitglied selbst seinen Austritt erklären [9] [16].",
+  "niet_weten": "Wir wissen nicht, wer die Quellen der Bild sind oder ob in Abu Dhabi tatsächlich jemand den Europäern eine solche Forderung vorgelegt hat [6] [7]. Der vollständige Artikel der Bild ist nur für Abonnenten zugänglich; sein Einstieg besagt, der Vorschlag stamme aus inoffiziellen Gesprächen und aus Putins Umfeld [19], und alles Weitere kennen wir aus ihrem russischsprachigen Kanal und aus anderen Medien [1] [6] [7]. Der Kreml ist Partei in den Gesprächen, daher entscheidet sein Dementi die Frage nicht [8].",
+  "bereik": "1.580 Likes auf dem gezeigten Beitrag und 4.987 auf dem am häufigsten gelikten Beitrag, den wir gelesen haben, Stand 23. November",
+  "nog_uitzoeken": [
+   "Wer die Quellen der Bild sind und ob eine europäische Regierung, die in Abu Dhabi vertreten war, bestätigt oder dementiert, dass sie eine solche Liste erhalten hat.",
+   "Ob das vollständige russische Papier, das die New York Times erhalten hat, etwas über Finnland sagt. Der Artikel darüber tut es nicht.",
+   "Wir haben zwischen Unbewiesen und Irreführend geschwankt. Die Beiträge machen aus einem Bericht mit ungenannten Quellen, den der Kreml dementiert, eine Tatsache, was für Irreführend spricht; ob die Forderung gestellt wurde, ist nicht bekannt, weshalb wir uns für Unbewiesen entschieden haben."
+  ],
+  "tijdlijn": [
+   "Gespräche zwischen Russland, der Ukraine und den Vereinigten Staaten beginnen in Abu Dhabi [15].",
+   "Die Gespräche enden. Großbritannien, Frankreich, Deutschland und Italien waren dabei, verhandelten aber nicht direkt mit den Russen [10] [15].",
+   "Die Bild berichtet, Russland wolle Finnland aus der NATO draußen sehen, ohne ihre Quellen zu nennen [1] [6] [7].",
+   "APA meldet Peskows Dementi: Es sei keine solche Forderung gestellt worden [8].",
+   "Bedouin Report veröffentlicht die angeblichen Bedingungen Russlands als EILMELDUNG, ohne Quelle [2].",
+   "Visegrád 24 veröffentlicht die Behauptung und nennt die Bild [3].",
+   "Häkkänen im Parlament: keine Informationen, dass die Forderung gestellt wurde [10].",
+   "Ministerpräsident Orpo: Solche Fragen gehören nicht an den Verhandlungstisch [11].",
+   "Die New York Times berichtet über ein russisches Papier, das die NATO auffordert, zu ihren Positionen von 1997 zurückzukehren; der Artikel erwähnt Finnland nicht [14].",
+   "Stubb in Berlin: keine Behauptung, die ernst zu nehmen sei, und er habe sie nie von einem Russen gehört [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 13. November 2026, 11:03 UTC."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag auf X des Accounts Bedouin Report unter dem Wort EILMELDUNG, der auflistet, was er als Russlands Bedingungen zur Beendigung des Krieges in der Ukraine bezeichnet, beginnend mit Finnland raus aus der NATO. Stempel: UNBEWIESEN."
+  ]
+ }
+}

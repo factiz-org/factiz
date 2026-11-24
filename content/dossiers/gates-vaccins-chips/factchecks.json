@@ -1,0 +1,664 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-gates-vaccins-chips.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "76edcd7baa8870a2",
+   "versie": "gates-depopulation-goal"
+  },
+  {
+   "nummer": "a058169914ec08f1"
+  },
+  {
+   "nummer": "2a75fd338113274e"
+  },
+  {
+   "nummer": "6b7480fc6f8fb457",
+   "versie": "event-201-death-forecast"
+  },
+  {
+   "nummer": "8afcf9ce5ac43147",
+   "versie": "coronavirus-patent-gates"
+  },
+  {
+   "nummer": "9c529079d172679c",
+   "versie": "event-201-death-forecast"
+  },
+  {
+   "nummer": "ebb5e19a621bb67a",
+   "versie": "coronavirus-patent-gates"
+  },
+  {
+   "nummer": "731804324e1789a3",
+   "versie": "vaccines-reduce-population-quote"
+  },
+  {
+   "nummer": "f1202c5c335106cc"
+  },
+  {
+   "nummer": "d352eac15013ceaf"
+  },
+  {
+   "nummer": "a0192620972428b3",
+   "versie": "gates-created-the-virus"
+  },
+  {
+   "nummer": "14bc833cc05f0fd9",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "5f8fc4f40c45b6c8",
+   "versie": "vaccines-reduce-population-quote"
+  },
+  {
+   "nummer": "b06ac9098853101f"
+  },
+  {
+   "nummer": "dc01e70b21ac50c8",
+   "versie": "gates-created-the-virus"
+  },
+  {
+   "nummer": "cdcdc05eb7001984",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "20795a831c7bfbb1",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "ac1da598a661508c",
+   "versie": "coronavirus-patent-gates"
+  },
+  {
+   "nummer": "2f0824bfd80b4a0b"
+  },
+  {
+   "nummer": "aa7e39d4c2fe13a2"
+  },
+  {
+   "nummer": "7b69ce5b0fab292e"
+  },
+  {
+   "nummer": "952562c0f49f10fc",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "6d0cc0418c36a201"
+  },
+  {
+   "nummer": "fb02ba9fea7671a4",
+   "versie": "microchip-patent-060606"
+  },
+  {
+   "nummer": "11c67e235f8a01f4",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "e7a4e128cff24d69"
+  },
+  {
+   "nummer": "af206554081c7fda"
+  },
+  {
+   "nummer": "cbff0dadc4e923b1"
+  },
+  {
+   "nummer": "92f7ad70311037ad"
+  },
+  {
+   "nummer": "c354ab36d4e0e720",
+   "versie": "microchip-patent-060606"
+  },
+  {
+   "nummer": "caff048775e3a596"
+  },
+  {
+   "nummer": "b2ca04113143361f",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "760ff8056eb85c18",
+   "versie": "india-polio-paralysis"
+  },
+  {
+   "nummer": "994bf62d292cc348"
+  },
+  {
+   "nummer": "e0afba9b4b38be94"
+  },
+  {
+   "nummer": "3df4f3c76768e60e"
+  },
+  {
+   "nummer": "841a20c939c2842b"
+  },
+  {
+   "nummer": "0da1f4e907412b96"
+  },
+  {
+   "nummer": "11ac58a4accd53d9"
+  },
+  {
+   "nummer": "a47e5ccdd7368327"
+  },
+  {
+   "nummer": "f9cb177a00f29fd9"
+  },
+  {
+   "nummer": "783456198e62df11"
+  },
+  {
+   "nummer": "e415d7e75f2e9b28"
+  },
+  {
+   "nummer": "e5c7e28cede9effc",
+   "versie": "center-for-population-reduction"
+  },
+  {
+   "nummer": "9fd286ff6126abd0"
+  },
+  {
+   "nummer": "fd6936ca13119c98"
+  },
+  {
+   "nummer": "208035b37a1ec2c5",
+   "versie": "v-700-000-deaths-claim"
+  },
+  {
+   "nummer": "9d76de2832efd302",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "824f08389dac8a23",
+   "versie": "v-700-000-deaths-claim"
+  },
+  {
+   "nummer": "8f34a071b54b718c"
+  },
+  {
+   "nummer": "27e58e5fdceb8e55"
+  },
+  {
+   "nummer": "0f3d85084dd353ed"
+  },
+  {
+   "nummer": "b0f125b9a2ada278"
+  },
+  {
+   "nummer": "5da4184201399ed1"
+  },
+  {
+   "nummer": "63922c2ed43258c0",
+   "versie": "vaccine-alters-dna"
+  },
+  {
+   "nummer": "fd1c923496aabcaf"
+  },
+  {
+   "nummer": "0ca340023278299a",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "b8579f08243a231b"
+  },
+  {
+   "nummer": "5d898c56b1d09276"
+  },
+  {
+   "nummer": "447987349a0974f3"
+  },
+  {
+   "nummer": "d3ee53cbbc8d3086"
+  },
+  {
+   "nummer": "bbc4faf8d04ac824"
+  },
+  {
+   "nummer": "49a2294feb82e510"
+  },
+  {
+   "nummer": "e398bad9db977d3b"
+  },
+  {
+   "nummer": "5ca2a4429a03bc35"
+  },
+  {
+   "nummer": "fd69107acf59cfc8",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "d9a6ed4020d2abfe"
+  },
+  {
+   "nummer": "8558209fe1bfbe78",
+   "versie": "crimes-against-humanity-charge"
+  },
+  {
+   "nummer": "7206d196e7ae78e6",
+   "versie": "vaccines-hidden-in-tests"
+  },
+  {
+   "nummer": "0b519e2fc9aa26e9",
+   "versie": "v-80-percent-side-effects"
+  },
+  {
+   "nummer": "074ee472a59b47f6"
+  },
+  {
+   "nummer": "247ac3eeb63a7555"
+  },
+  {
+   "nummer": "2e66990a2fb07d65"
+  },
+  {
+   "nummer": "9164a277f7560be0",
+   "versie": "v-2011-forced-vaccination-article"
+  },
+  {
+   "nummer": "f6daee2f67c3d574",
+   "versie": "vaccine-withdrawal-call"
+  },
+  {
+   "nummer": "c62cde325bb095fb"
+  },
+  {
+   "nummer": "4ca41c23d02aa83c",
+   "versie": "vaccine-withdrawal-call"
+  },
+  {
+   "nummer": "742bc9e260d50a45",
+   "versie": "vaccine-withdrawal-call"
+  },
+  {
+   "nummer": "136f39ffde284b4e",
+   "versie": "gates-created-the-virus"
+  },
+  {
+   "nummer": "5635010e1e5bcb33"
+  },
+  {
+   "nummer": "a3f49e3bccfe5305",
+   "versie": "mpox-outbreak-predicted"
+  },
+  {
+   "nummer": "ce02f8acaf889bdd"
+  },
+  {
+   "nummer": "18d535d0e93ef4d4",
+   "versie": "mpox-outbreak-predicted"
+  },
+  {
+   "nummer": "b80d64eec96b5d37"
+  },
+  {
+   "nummer": "e0f4b14643e301de"
+  },
+  {
+   "nummer": "bcb7c2446fde05b7",
+   "versie": "v-2011-forced-vaccination-article"
+  },
+  {
+   "nummer": "070209d1de57b92b",
+   "versie": "mrna-in-food-supply"
+  },
+  {
+   "nummer": "6f9d42595107d52b",
+   "versie": "mrna-in-food-supply"
+  },
+  {
+   "nummer": "b56133745ce687ee"
+  },
+  {
+   "nummer": "d1b59909d23777f1",
+   "versie": "microsoft-theft-interview"
+  },
+  {
+   "nummer": "8c35f350cc8ee9fe",
+   "versie": "philippines-arrest-warrant"
+  },
+  {
+   "nummer": "8d4e44b6f58f84aa",
+   "versie": "philippines-arrest-warrant"
+  },
+  {
+   "nummer": "b916464c54b053e4",
+   "versie": "microsoft-theft-interview"
+  },
+  {
+   "nummer": "243131ae4e344502"
+  },
+  {
+   "nummer": "9ee1a5a1beb8e138"
+  },
+  {
+   "nummer": "0b8f613a1c9db037",
+   "versie": "death-panels-g20"
+  },
+  {
+   "nummer": "1f29a3d04300bf7b"
+  },
+  {
+   "nummer": "03874a991d0fdb28",
+   "versie": "mrna-refusers-excluded"
+  },
+  {
+   "nummer": "25bde3362cde4063",
+   "versie": "mrna-refusers-excluded"
+  },
+  {
+   "nummer": "dd29f75b4c4fc24e",
+   "versie": "mrna-refusers-excluded"
+  },
+  {
+   "nummer": "be6ab9f7b72f8804",
+   "versie": "v-2011-forced-vaccination-article"
+  },
+  {
+   "nummer": "efb0450f25235cf7",
+   "versie": "air-vaccine-approval"
+  },
+  {
+   "nummer": "d64f7ea995c94601"
+  },
+  {
+   "nummer": "0427f3629603c39c",
+   "versie": "vaccines-reduce-population-quote"
+  },
+  {
+   "nummer": "343f06d4499d7f51",
+   "versie": "center-for-population-reduction"
+  },
+  {
+   "nummer": "cc917ea2e86634e2"
+  },
+  {
+   "nummer": "eaccf50fdb5eac91"
+  },
+  {
+   "nummer": "78eac01fbc56bdec"
+  },
+  {
+   "nummer": "7d270f841550975b"
+  },
+  {
+   "nummer": "8875c5e098c5cdd7"
+  },
+  {
+   "nummer": "ea2c46be3d55e8d9"
+  },
+  {
+   "nummer": "9e7826507e89ce7e"
+  },
+  {
+   "nummer": "5088afc8f7e6ec02",
+   "versie": "bird-flu-transmissibility-study"
+  },
+  {
+   "nummer": "f31baf2826c89792",
+   "versie": "military-rounding-up-refusers"
+  },
+  {
+   "nummer": "0334e6425dccf404",
+   "versie": "military-rounding-up-refusers"
+  },
+  {
+   "nummer": "759bc349b4e03408",
+   "versie": "gates-created-mpox"
+  },
+  {
+   "nummer": "1f646b5a8e899eb9",
+   "versie": "gates-created-mpox"
+  },
+  {
+   "nummer": "ad9e54a64b4c1729"
+  },
+  {
+   "nummer": "6ff6dfa55ad121a7"
+  },
+  {
+   "nummer": "0bd248069f099f6d"
+  },
+  {
+   "nummer": "485d6171d36b7d09"
+  },
+  {
+   "nummer": "d4f3f021115e93c2"
+  },
+  {
+   "nummer": "27b8cba40e8066e6"
+  },
+  {
+   "nummer": "04671af6067e4047"
+  },
+  {
+   "nummer": "51ffa45808a96bd8"
+  },
+  {
+   "nummer": "c0d451848af28638",
+   "versie": "vietnam-autism-vaccine"
+  },
+  {
+   "nummer": "be13cab2bb9dca23",
+   "versie": "vietnam-autism-vaccine"
+  },
+  {
+   "nummer": "20130334d16155d4"
+  },
+  {
+   "nummer": "69e6e303438c0531",
+   "versie": "v-2011-forced-vaccination-article"
+  },
+  {
+   "nummer": "c63d8170e24327c2"
+  },
+  {
+   "nummer": "88220de02081c6b5"
+  },
+  {
+   "nummer": "e6f8f905a0893d3b",
+   "versie": "gates-depopulation-goal"
+  },
+  {
+   "nummer": "8c5acc89b0e78349"
+  },
+  {
+   "nummer": "0c55198a07e63060"
+  },
+  {
+   "nummer": "132214389468501e"
+  },
+  {
+   "nummer": "27bb8e67ff2ff95b",
+   "versie": "india-polio-paralysis"
+  },
+  {
+   "nummer": "2fce625bcfa004ba"
+  },
+  {
+   "nummer": "42981aeec98bf842"
+  },
+  {
+   "nummer": "4877c745960f773f",
+   "versie": "gates-vaccine-microchip-plan"
+  },
+  {
+   "nummer": "53373349c59f58ad"
+  },
+  {
+   "nummer": "57f8880ca218acf1",
+   "versie": "death-panels-g20"
+  },
+  {
+   "nummer": "60531a45714f3e71"
+  },
+  {
+   "nummer": "68aabab80a573ae2"
+  },
+  {
+   "nummer": "6ccefddd1fc48e3a",
+   "versie": "india-polio-paralysis"
+  },
+  {
+   "nummer": "8332fbfc712eee48",
+   "versie": "philippines-arrest-warrant"
+  },
+  {
+   "nummer": "9fa791e47b759b35"
+  },
+  {
+   "nummer": "aa03722a60493950",
+   "versie": "event-201-death-forecast"
+  },
+  {
+   "nummer": "ac10cac48ab63c12",
+   "versie": "air-vaccine-approval"
+  },
+  {
+   "nummer": "b0fc5f8cb23d99a7"
+  },
+  {
+   "nummer": "b6627f72dc60643b",
+   "versie": "center-for-population-reduction"
+  },
+  {
+   "nummer": "b93d9447009aa097",
+   "versie": "v-2011-forced-vaccination-article"
+  },
+  {
+   "nummer": "bd59b6aec9f0b97c"
+  },
+  {
+   "nummer": "c25fa81770ff6165",
+   "versie": "philippines-arrest-warrant"
+  },
+  {
+   "nummer": "d265d51e6d67a9d4"
+  },
+  {
+   "nummer": "d4a9aa5e3666b4ff",
+   "versie": "ted-talk-2010-vaccines"
+  },
+  {
+   "nummer": "dc379fca7fc38d30",
+   "versie": "vaccine-alters-dna"
+  },
+  {
+   "nummer": "f21c35de40b007cb",
+   "versie": "coronavirus-patent-gates"
+  },
+  {
+   "nummer": "f2ff03a8e1ee4352",
+   "versie": "ted-talk-2010-vaccines"
+  },
+  {
+   "nummer": "f60cc21b8dcfa950",
+   "versie": "vaccines-hidden-in-tests"
+  },
+  {
+   "nummer": "a1b4758632bedd25"
+  },
+  {
+   "nummer": "e12338fd8a7776fe"
+  },
+  {
+   "nummer": "982fc3e67b794924",
+   "versie": "center-for-population-reduction"
+  },
+  {
+   "nummer": "764aef25b5b6d0b2"
+  },
+  {
+   "nummer": "eb8c754594d9f709",
+   "versie": "crimes-against-humanity-charge"
+  },
+  {
+   "nummer": "aef1591366c6959e"
+  },
+  {
+   "nummer": "96c6382d9f400bdf"
+  },
+  {
+   "nummer": "692c8658c8b9e35f",
+   "versie": "id2020-project-cancelled"
+  },
+  {
+   "nummer": "56e3dcfcf30ed8e6"
+  },
+  {
+   "nummer": "4394832db5170f4a"
+  },
+  {
+   "nummer": "7682cf9b2f67bfbc"
+  },
+  {
+   "nummer": "655edca843ff56c5"
+  },
+  {
+   "nummer": "e8418bcf70cd57dc"
+  },
+  {
+   "nummer": "12609bd7b8e8dc4d"
+  },
+  {
+   "nummer": "5156e53afa048cce"
+  },
+  {
+   "nummer": "e9c7a36eb6fac4a9"
+  },
+  {
+   "nummer": "31987b36180d9f43",
+   "versie": "gates-admits-vaccination-mistake"
+  },
+  {
+   "nummer": "309f7eea71520b76",
+   "versie": "gates-admits-vaccination-mistake"
+  },
+  {
+   "nummer": "1b98010e401a02c4"
+  },
+  {
+   "nummer": "6cbbac31a747edc1"
+  },
+  {
+   "nummer": "5ab607510e1e0785",
+   "versie": "bird-flu-transmissibility-study"
+  },
+  {
+   "nummer": "00a2ea4fef697cce"
+  },
+  {
+   "nummer": "01ad984697f9a414",
+   "versie": "v-80-percent-side-effects"
+  },
+  {
+   "nummer": "155bbbea10ac78e0",
+   "versie": "center-for-population-reduction"
+  },
+  {
+   "nummer": "6aef70465f9e4344"
+  },
+  {
+   "nummer": "7e28199b18b9027c",
+   "versie": "vaccine-withdrawal-call"
+  },
+  {
+   "nummer": "84139f04ef88d0ce"
+  },
+  {
+   "nummer": "928989d2450f7850"
+  },
+  {
+   "nummer": "b358b7ef1f65f40a",
+   "versie": "v-700-000-deaths-claim"
+  },
+  {
+   "nummer": "b60e71cfcc58ad58",
+   "versie": "id2020-project-cancelled"
+  },
+  {
+   "nummer": "db7fdb99afd3a055",
+   "versie": "gates-created-mpox"
+  }
+ ]
+}

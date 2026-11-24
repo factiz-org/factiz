@@ -1,0 +1,310 @@
+{
+ "_meta": "Labels van ronde 2 (verificatie-v2, haiku), PLAN #31.8, 2026-10-25, gelezen door Claude. Een 'klopt niet' bij een onwaar stuk die steunt op de eigen check van de redactie over dit bericht is 'bewijst' (vaste regel); al het andere is gelezen. Bij twijfel het strengste label.",
+ "labels": [
+  {
+   "sleutel": "a:b-000103",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-000110",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-000144",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-000372",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-000468",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-000559",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-000683",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-000787",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-000873",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-000931",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-000977",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-001034",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-001065",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "a:b-006208",
+   "label": "vals",
+   "waarom": "echt BuzzFeed-bericht over door FEMA weggegooide Russische beademingsapparaten; Haiku koppelde het aan de EUvsDisinfo-zaak over de Kremlin-verdraaiing van hetzelfde nieuws"
+  },
+  {
+   "sleutel": "a:b-012494",
+   "label": "vals",
+   "waarom": "Brookings-stuk over 9/11 en de inlichtingendiensten; muggenziften op 'connecting the dots' uit het commissierapport"
+  },
+  {
+   "sleutel": "a:b-016140",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016239",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016392",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016422",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016521",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016690",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016722",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016800",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016917",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-016987",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017476",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-017557",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-018159",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-018977",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019076",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019105",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019112",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019227",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019293",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019345",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019392",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019398",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019404",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019441",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "a:b-019452",
+   "label": "bewijst",
+   "waarom": "de eigen check van de redactie over precies dit bericht (vaste regel, ronde 2)"
+  },
+  {
+   "sleutel": "b:b-000103",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000110",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000144",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000468",
+   "label": "vals",
+   "waarom": "onwaar beeld (menigte voor Modi in Kochi): Haiku bevestigde dat er een menigte was, niet dat deze foto die toont"
+  },
+  {
+   "sleutel": "b:b-000559",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000787",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000873",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-000977",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-001065",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016140",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016392",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016690",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016722",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016800",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-016987",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-017476",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-018977",
+   "label": "vals",
+   "waarom": "onwaar ('aardbeving in Chiang Mai'): Haiku bevestigde lichte bevingen in de buurt, niet het bericht"
+  },
+  {
+   "sleutel": "b:b-019112",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019293",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019345",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  },
+  {
+   "sleutel": "b:b-019452",
+   "label": "bewijst",
+   "waarom": "gelezen: de geciteerde bron of check weerlegt de bewering"
+  }
+ ]
+}

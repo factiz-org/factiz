@@ -1,0 +1,510 @@
+{
+ "gelezen_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "labels": {
+  "c2f58614fe824a25": "ja",
+  "cc9af69ebc5fd1eb": "ja",
+  "065ba6e136c67682": "ja",
+  "4c97df511585eed6": "ja",
+  "7f8307bcdbfb40a8": "ja",
+  "d654ad6eb6cc56a8": "ja",
+  "2180cbac8a8a974e": "ja",
+  "f68a3d78eda04dd3": "ja",
+  "74369714deaa25b1": "ja",
+  "496892634d1df9b9": "ja",
+  "861e2e4551f94bc3": "ja",
+  "ef10632e07376ce4": "ja",
+  "f5b8fc3f3a1a749e": "ja",
+  "a965f4871b6ab105": "ja",
+  "8e5286527fd5f809": "ja",
+  "d258434836646913": "ja",
+  "f234d201eb89207a": "ja",
+  "a439006485652353": "ja",
+  "073e89b93fce7050": "ja",
+  "9f5fa766667f07e5": "ja",
+  "0aa8d240b4d76479": "ja",
+  "2006fe5ca8e9e7ee": "ja",
+  "09f8e39822c41d59": "ja",
+  "bbd5150aed6d528b": "nee",
+  "7ffb9737d36d4f59": "ja",
+  "5c9fd4372f4b601b": "ja",
+  "694db106b356cd6b": "ja",
+  "b0dd3f6bf781391a": "ja",
+  "a5d4d82f7b06557d": "ja",
+  "08d07129b790685e": "ja",
+  "5abff3aeda8516a0": "nee",
+  "c4a4d70f89c3e8c6": "ja",
+  "1a4ca1e455f1183c": "ja",
+  "0c1f7d25fc9d3ed9": "ja",
+  "5089f17b3105e038": "ja",
+  "3e81a19fb91cff14": "ja",
+  "5dfb3bbc134760e0": "ja",
+  "a80df9c969d3238b": "ja",
+  "ed391def24a7faa2": "ja",
+  "ca72803ec6377ac8": "ja",
+  "efe4e8acfa75c0b2": "ja",
+  "62ea259fe1b55a3d": "ja",
+  "eab3c3b37d669aa8": "ja",
+  "95a3f4ab7733a548": "ja",
+  "1449035f33e0f3eb": "ja",
+  "c26bb25674dc5ade": "ja",
+  "e8ad1247d31dcbbc": "ja",
+  "0670ad961141888f": "ja",
+  "a009ac4fd6baff14": "ja",
+  "b1e78c7cba50342d": "ja",
+  "fc24ed79afcd64c5": "ja",
+  "29a24c9822e1f4ad": "ja",
+  "6e6d06422e020216": "ja",
+  "06a2573843923e4f": "ja",
+  "5b98fc9e9cc18509": "ja",
+  "5c560faa193e0fbc": "ja",
+  "661650e3e038bc6a": "ja",
+  "7a29b884fd3efe13": "ja",
+  "3794e78bde19eb41": "ja",
+  "7d208ed2a1894432": "ja",
+  "022fe0a581202e33": "ja",
+  "c24be3d45447d77c": "ja",
+  "ce9aa14022ba42d2": "ja",
+  "5d1f3827995480f7": "ja",
+  "973d02cfd9c85b28": "ja",
+  "f230ff9cab472405": "ja",
+  "2c4a2045967fc3f4": "ja",
+  "49f88fb6aacf4349": "ja",
+  "9e7564ff49cb194c": "ja",
+  "e9db37b692f39b11": "ja",
+  "631dba424ae905f2": "ja",
+  "20e94f0755559dbe": "ja",
+  "3bed63bba7a24ca6": "ja",
+  "bdc1699964a04d09": "ja",
+  "a67e9b7fa0749371": "ja",
+  "95af555307767f58": "ja",
+  "a9f196f90ea0b6b9": "ja",
+  "3b682c51f4278814": "ja",
+  "21dd103500a91229": "ja",
+  "a8cafa72ed748e95": "ja",
+  "0ea53f56d20b2f69": "ja",
+  "9658b10ac87cf508": "ja",
+  "cb1aab9f941f5954": "ja",
+  "0c6e57853708ad09": "ja",
+  "f6adcef90a6edd66": "ja",
+  "0af414de1d1998af": "ja",
+  "c9652ea600419ded": "ja",
+  "70d9fadfae82b77c": "ja",
+  "7d298942587fa245": "ja",
+  "ab7e5bdf95904936": "ja",
+  "5a65ab4859899489": "ja",
+  "e3bcab19c50ebc90": "nee",
+  "6b2497f4feafba31": "ja",
+  "bfbc6c6dd129e291": "ja",
+  "3667bb7dc1a02fcd": "ja",
+  "25406594fadf114d": "ja",
+  "364d604ace981c37": "ja",
+  "472a0478f9f029cf": "ja",
+  "b184df57dd723b82": "ja",
+  "6a53f3ae549f852d": "ja",
+  "d9603064ad8bb644": "ja",
+  "b62da8d8db4dcf9c": "ja",
+  "6a3fbf373514e9bb": "ja",
+  "17618b1c515eaf76": "ja",
+  "68e493b4ec2fd3d6": "ja",
+  "fc9df25b4bdaa853": "ja",
+  "1853be8e7b0a9f14": "ja",
+  "41eb852dbcfdd431": "ja",
+  "6eddce8fe8a5c542": "ja",
+  "845cc0fb5d3f0da4": "ja",
+  "a0a8e10f54b2cdfb": "ja",
+  "b5b0e157966b0184": "ja",
+  "ce8dd66ee278ad18": "ja",
+  "9f85e55dae48e52a": "ja",
+  "35f3646bfd96c256": "ja",
+  "ab028073d88b76ee": "ja",
+  "975c2bdb4cba29fd": "ja",
+  "63e4bd1887e40a37": "ja",
+  "a7b4cad915069954": "ja",
+  "30f81c3d4427e8b1": "ja",
+  "894928da4156107e": "ja",
+  "5c71e4de6aa38830": "ja",
+  "36ace2672c8edd3c": "ja",
+  "448d05e41e70f9b8": "ja",
+  "ac90216035b469fc": "nee",
+  "0b4828420743cdc6": "nee",
+  "f0bd02758126b5ac": "nee",
+  "1ff1ea75a0a25ef9": "ja",
+  "87509c933138621b": "ja",
+  "0790ca1d5df404ab": "nee",
+  "c3ef079fea4fdfd9": "ja",
+  "cacc925bd83845c9": "ja",
+  "1a3255a1fe27a428": "ja",
+  "4ae9d5d7cb1fc3ee": "ja",
+  "bcfc0bc54b7f5fb2": "ja",
+  "e2ba4bf2d43d9201": "ja",
+  "17141a23650a329a": "ja",
+  "a40528962f4056db": "ja",
+  "4d53ec890a4c3943": "nee",
+  "ab30a6ad1fd22ef4": "nee",
+  "1ad6ab0c18e83ab5": "ja",
+  "82681c2439af94a1": "ja",
+  "8c033bbf7dd34362": "ja",
+  "b012dc5a6b3a33d7": "ja",
+  "6380be06e891c09b": "ja",
+  "60c75664220416df": "nee",
+  "baf5e77093c66bf1": "ja",
+  "96c9047d4177ae40": "ja",
+  "f410fdb8b534a99e": "ja",
+  "b30adb99c90b6317": "nee",
+  "15f3a7673d039973": "nee",
+  "ccce1a4b5aea5ecb": "nee",
+  "b291275065e283c8": "nee",
+  "bcb8f2b684df88ea": "ja",
+  "d0a0132ef2eba78a": "nee",
+  "d538ea4a27f4798d": "nee",
+  "de78331e4f632204": "ja",
+  "11c3c1864bb6b36c": "nee",
+  "dd5a498a56f7378f": "nee",
+  "20e913db9f98bcc2": "nee",
+  "dc01e70b21ac50c8": "nee",
+  "97d7191c50b7196c": "nee",
+  "a6a6e60a79078a8b": "ja",
+  "3342f8f1c5cf5d2c": "ja",
+  "8452f58792f02e1b": "ja",
+  "9494e875b5d17e0c": "nee",
+  "7d913b6edb77d9fd": "nee",
+  "7284ad606d20a9cd": "nee",
+  "04ceb64d0f7d91ad": "ja",
+  "95b0368f5f572943": "nee",
+  "a57a07d19dd9adba": "ja",
+  "7ee580b5e6c95c1e": "nee",
+  "9ab1716b62e535b6": "ja",
+  "2cd20720cf78b8cb": "nee",
+  "3c0667586a666a04": "nee",
+  "36df539c5f7df6d5": "nee",
+  "88b8cb1eb9c55121": "ja"
+ },
+ "opmerkingen": {},
+ "door_po": [
+  "08d07129b790685e",
+  "3e81a19fb91cff14",
+  "3667bb7dc1a02fcd",
+  "b62da8d8db4dcf9c",
+  "6a3fbf373514e9bb",
+  "04ceb64d0f7d91ad",
+  "de78331e4f632204",
+  "3342f8f1c5cf5d2c",
+  "6380be06e891c09b",
+  "bbd5150aed6d528b",
+  "0790ca1d5df404ab"
+ ],
+ "akkoord": "2026-11-12, PO: \"Ja, jij leest eerst, ik daarna de twijfelgevallen\"",
+ "notities_claude": {
+  "bbd5150aed6d528b": "Kyiv, niet de VS, stuurt biowapens naar de Donbas; geen lab genoemd. PO beslist of Oekraïense biowapens zonder de VS in het verhaal horen.",
+  "e3bcab19c50ebc90": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Fort Detrick, in de VS)",
+  "0790ca1d5df404ab": "Duitse krijgsmacht, niet de VS, met proeven in Oekraïne (Krim-Congokoorts). Zelfde verhaal van het Russische ministerie, maar de maatstaf noemt alleen de VS; PO beslist of andere westerse landen meetellen.",
+  "ab30a6ad1fd22ef4": "Bill Gates en vogelgriep, geen lab van de VS of het Pentagon; hoort niet bij het verhaal van de biolabs.",
+  "6380be06e891c09b": "Plannen van Obama met biologische en chemische wapens en contracten met 17 bedrijven; geen lab, half chemisch, tekst afgekapt. PO beslist of zulke contracten zonder lab erbij horen.",
+  "baf5e77093c66bf1": "Naast oorlog en orgaanhandel: de VS bouwen biolabs in Oekraïne waar ze mensen ontvoeren; proeven op mensen in een Amerikaans lab, dus een versie van het verhaal.",
+  "96c9047d4177ae40": "Covid uit de biolabs van het Pentagon rond Rusland, China en Iran: het netwerk van labs in het buitenland, zoals #38 en #114; niet covid in het algemeen.",
+  "f410fdb8b534a99e": "Noemt het Lugar-lab in Georgië als lab waar dodelijke ziekten worden gemaakt; zelfde als #34.",
+  "bcb8f2b684df88ea": "Covid door de 'aanwezigheid van Amerikaanse laboratoria' die het biowapen maken: wijst naar de labs, niet alleen naar covid in het algemeen; zelfde keuze als #157.",
+  "de78331e4f632204": "door het Pentagon gefinancierde labs zonder regio, met corona: het algemene netwerk of het corona-verhaal?",
+  "11c3c1864bb6b36c": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Walter Reed, in de VS)",
+  "20e913db9f98bcc2": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Wuhan)",
+  "a6a6e60a79078a8b": "Covid uit een van de 15 door de VS gefinancierde labs in Oekraïne; zelfde als #52.",
+  "3342f8f1c5cf5d2c": "Insect als biowapen dat genetisch materiaal overbrengt; in de zichtbare tekst geen land en geen lab. Past alleen als de volle tekst het Pentagon (DARPA, Insect Allies) noemt.",
+  "8452f58792f02e1b": "Volgens de kop van EUvsDisinfo apparatuur voor geheime biolabs in Armenië, Georgië en Moldavië: het patroon in Oost-Europa. (nagelezen door Claude)",
+  "9494e875b5d17e0c": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (corona uit een Amerikaans lab, geen plaats)",
+  "7d913b6edb77d9fd": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (corona algemeen)",
+  "04ceb64d0f7d91ad": "het netwerk van Amerikaanse labs over de hele wereld, zonder regio: hoort dat algemene verhaal erbij, waar Oost-Europa een deel van is? (één beslissing voor alle kaarten van deze soort)",
+  "95b0368f5f572943": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (corona uit een lab, geen plaats)",
+  "a57a07d19dd9adba": "USAID, het programma Predict (vleermuizen) en Metabiota, uit de briefing van het Russische ministerie: een door de VS betaald programma met dieren en labs.",
+  "7ee580b5e6c95c1e": "Labs in de VS zelf; dezelfde keuze als Fort Detrick, want het patroon is Oost-Europa (PO). (nagelezen door Claude)",
+  "9ab1716b62e535b6": "Hunter Biden financierde biolabs in Oekraïne; zelfde als #118 en #141.",
+  "88b8cb1eb9c55121": "Naast villa en pedofielen: Putin bombardeert de biolabs in Oekraïne; zelfde als #142.",
+  "5abff3aeda8516a0": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (corona als Amerikaans biowapen, geen lab in de regio)",
+  "ac90216035b469fc": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Nigeria)",
+  "0b4828420743cdc6": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Nigeria)",
+  "f0bd02758126b5ac": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Nigeria)",
+  "4d53ec890a4c3943": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon'; buiten Oost-Europa en de voormalige Sovjet-Unie (Soedan)",
+  "6a3fbf373514e9bb": "het hele buitenlandse netwerk, zonder regio: hoort het algemene verhaal erbij, waar Oost-Europa een deel van is?",
+  "08d07129b790685e": "het netwerk van Amerikaanse labs over de hele wereld, zonder regio: hoort dat algemene verhaal erbij, waar Oost-Europa een deel van is? (één beslissing voor alle kaarten van deze soort)",
+  "3e81a19fb91cff14": "het netwerk van Amerikaanse labs over de hele wereld, zonder regio: hoort dat algemene verhaal erbij, waar Oost-Europa een deel van is? (één beslissing voor alle kaarten van deze soort)",
+  "3667bb7dc1a02fcd": "het netwerk van Amerikaanse labs over de hele wereld, zonder regio: hoort dat algemene verhaal erbij, waar Oost-Europa een deel van is? (één beslissing voor alle kaarten van deze soort)",
+  "b62da8d8db4dcf9c": "het netwerk van Amerikaanse labs over de hele wereld, zonder regio: hoort dat algemene verhaal erbij, waar Oost-Europa een deel van is? (één beslissing voor alle kaarten van deze soort)"
+ },
+ "groepen": [
+  {
+   "sleutel": "zonder-regio",
+   "vraag": "Amerikaanse biolabs of biowapens zonder regio: hoort het algemene verhaal erbij, waar Oost-Europa een deel van is?",
+   "kaarten": [
+    "08d07129b790685e",
+    "3e81a19fb91cff14",
+    "3667bb7dc1a02fcd",
+    "b62da8d8db4dcf9c",
+    "6a3fbf373514e9bb",
+    "04ceb64d0f7d91ad",
+    "de78331e4f632204",
+    "3342f8f1c5cf5d2c",
+    "6380be06e891c09b"
+   ],
+   "keuze": "ja"
+  },
+  {
+   "sleutel": "andere-dader",
+   "vraag": "Biowapens in Oekraïne zonder de VS, van Kyiv zelf of van de Duitse krijgsmacht: horen die erbij?",
+   "kaarten": [
+    "bbd5150aed6d528b",
+    "0790ca1d5df404ab"
+   ],
+   "keuze": "ja"
+  }
+ ],
+ "afbakening": "PO 2026-11-12: 'Biolabs in oost-europa is meestal het patroon': alleen labs in Oost-Europa en de voormalige Sovjet-Unie",
+ "toelichting": "De lezing van de voorstellen bij het dossier biolabs-oekraine (PLAN #33.6, SPECS E9.S7 AC3): Claude las elke kaart (zijn reden onder `notities_claude`), de PO besliste over zijn twijfel per groep (`groepen`) of per kaart; `door_po` zegt welke kaarten zij besliste, `akkoord` haar woorden. Onder `versies` de lezing van welke factchecks hetzelfde bericht zijn. Wat hier staat, vraagt een volgende ronde niet opnieuw.",
+ "versies": {
+  "lugar-lab-human-experiments": {
+   "oordeel": "ja",
+   "leden": [
+    "4c97df511585eed6",
+    "2180cbac8a8a974e",
+    "ef10632e07376ce4",
+    "bfbc6c6dd129e291"
+   ],
+   "zonder": [
+    "c2f58614fe824a25"
+   ],
+   "opmerking": "c2f58614 gaat vooral over de griep (H1N1) in Armenië die aan het lab wordt gekoppeld, niet over proeven op mensen."
+  },
+  "armenia-labs-military-purpose": {
+   "oordeel": "ja",
+   "leden": [
+    "7f8307bcdbfb40a8",
+    "d654ad6eb6cc56a8",
+    "1a4ca1e455f1183c"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "lab-caused-disease-outbreaks": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Verschillende ziektes: H1N1 en botulisme, mazelen, en vreemde uitbraken; geen twee met dezelfde bewering."
+  },
+  "ukraine-testing-ground": {
+   "oordeel": "ja",
+   "leden": [
+    "496892634d1df9b9",
+    "fc24ed79afcd64c5"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "lugar-lab-military-base": {
+   "oordeel": "ja",
+   "leden": [
+    "a439006485652353",
+    "5089f17b3105e038",
+    "ed391def24a7faa2"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "labs-near-russian-borders": {
+   "oordeel": "ja",
+   "leden": [
+    "0ea53f56d20b2f69",
+    "0af414de1d1998af"
+   ],
+   "zonder": [
+    "694db106b356cd6b",
+    "95a3f4ab7733a548",
+    "70d9fadfae82b77c"
+   ],
+   "opmerking": "Kern: de VS maken biowapens in labs bij de grenzen van Rusland en China (0ea53f56, 0af414de). 694db106 noemt 200 geheime labs wereldwijd, 95a3f4ab 'gevechtsvirussen' en uitbraken, 70d9fadf een rij landen zonder China."
+  },
+  "us-created-coronavirus": {
+   "oordeel": "ja",
+   "leden": [
+    "96c9047d4177ae40",
+    "bcb8f2b684df88ea",
+    "de78331e4f632204"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "lugar-lab-georgia-research": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "f410fdb8: corona is opgezet, met Lugar als voorbeeld van een lab voor dodelijke ziektes; ca72803e: Amerikaanse militairen brachten corona naar China. Andere beweringen."
+  },
+  "armenia-coronavirus-origin": {
+   "oordeel": "ja",
+   "leden": [
+    "5dfb3bbc134760e0",
+    "efe4e8acfa75c0b2"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "pentagon-expanded-lugar-research": {
+   "oordeel": "ja",
+   "leden": [
+    "62ea259fe1b55a3d",
+    "c26bb25674dc5ade"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "v-2005-health-ministry-agreement": {
+   "oordeel": "ja",
+   "leden": [
+    "eab3c3b37d669aa8",
+    "661650e3e038bc6a"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "moldova-bioweapons-lab": {
+   "oordeel": "ja",
+   "leden": [
+    "1449035f33e0f3eb",
+    "5b98fc9e9cc18509"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "labs-fear-infectious-leakage": {
+   "oordeel": "ja",
+   "leden": [
+    "0670ad961141888f",
+    "a009ac4fd6baff14"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "us-embassy-admits-labs": {
+   "oordeel": "ja",
+   "leden": [
+    "b1e78c7cba50342d",
+    "95af555307767f58"
+   ],
+   "zonder": [
+    "9e7564ff49cb194c",
+    "3b682c51f4278814",
+    "c9652ea600419ded",
+    "68e493b4ec2fd3d6"
+   ],
+   "opmerking": "Kern: de Amerikaanse ambassade gaf de labs toe (b1e78c7c, 95af5553). 9e7564ff gaat over het verzamelen van het Russische genoom, 3b682c51 over geheime informatie op de site bij het vertrek van Yovanovitch, c9652ea6 over Oekraïne als oefenterrein, 68e493b4 over informatie die in 2022 van de site verdween."
+  },
+  "ukrainian-labs-coronavirus-origin": {
+   "oordeel": "ja",
+   "leden": [
+    "29a24c9822e1f4ad",
+    "a6a6e60a79078a8b",
+    "a40528962f4056db"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "labs-surround-russia-strike": {
+   "oordeel": "ja",
+   "leden": [
+    "5c560faa193e0fbc",
+    "3794e78bde19eb41"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "south-ossetia-sample-collection": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Twee verschillende voorvallen: EU-waarnemers die monsters verzamelen, en een Georgiër die vleermuizen wilde halen."
+  },
+  "ukraine-fifteen-labs": {
+   "oordeel": "nee",
+   "leden": [],
+   "zonder": [],
+   "opmerking": "Het getal 15 komt terug, maar de beweringen verschillen: mensen als 'biomateriaal' met tellingen in vier landen, een protest in Oekraïne, labs als bron van ziekteverwekkers."
+  },
+  "ethnic-targeted-bioweapons": {
+   "oordeel": "ja",
+   "leden": [
+    "21dd103500a91229",
+    "a0a8e10f54b2cdfb",
+    "b5b0e157966b0184"
+   ],
+   "zonder": [
+    "5d1f3827995480f7"
+   ],
+   "opmerking": "5d1f3827 noemt 8 labs waar virussen op Slaven worden getest; de rest gaat over biowapens tegen bepaalde volken, zonder dat getal."
+  },
+  "labs-near-russia-escape": {
+   "oordeel": "ja",
+   "leden": [
+    "7d298942587fa245",
+    "6a53f3ae549f852d",
+    "d9603064ad8bb644"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "ukraine-sixteen-labs": {
+   "oordeel": "ja",
+   "leden": [
+    "5a65ab4859899489",
+    "fc9df25b4bdaa853"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "russian-documents-on-bioweapons": {
+   "oordeel": "ja",
+   "leden": [
+    "41eb852dbcfdd431",
+    "6eddce8fe8a5c542",
+    "448d05e41e70f9b8",
+    "e2ba4bf2d43d9201",
+    "17141a23650a329a"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "nuland-admits-bioweapons": {
+   "oordeel": "ja",
+   "leden": [
+    "845cc0fb5d3f0da4",
+    "35f3646bfd96c256",
+    "ab028073d88b76ee"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "hunter-biden-lab-funding": {
+   "oordeel": "ja",
+   "leden": [
+    "63e4bd1887e40a37",
+    "a7b4cad915069954",
+    "30f81c3d4427e8b1",
+    "9ab1716b62e535b6",
+    "1ad6ab0c18e83ab5"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  },
+  "pentagon-admits-46-biolabs": {
+   "oordeel": "ja",
+   "leden": [
+    "87509c933138621b",
+    "b012dc5a6b3a33d7"
+   ],
+   "zonder": [],
+   "opmerking": ""
+  }
+ },
+ "versies_gelezen": {
+  "door": "Claude en PO",
+  "datum": "2026-11-12",
+  "akkoord": "2026-11-12, PO: \"Ziet goed uit, ga door met de versies\""
+ }
+}

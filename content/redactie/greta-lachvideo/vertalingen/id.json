@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck greta-lachvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "166e22985d3309a1",
+ "veldafdrukken": {
+  "kop": "6d2d2ea4423e0c09",
+  "oordeel_zin": "8eba84a282b14a8b",
+  "bewering": "1481efd0943cf595",
+  "kort": "aa4f378837fe14d5",
+  "tekst": "3a8b92979eff01c5",
+  "niet_weten": "4a6dfbd9a3cdaa81",
+  "bereik": "e2081828381040d0",
+  "nog_uitzoeken": "73a13d71dd67dbdf",
+  "tijdlijn": "f5294ebf38878a41",
+  "beeld_bijschrift": "2e3bcb1dfdd59ebf",
+  "beeld_alt": "f65f6b8a80b0fd4c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Greta Thunberg tertawa soal demo iklim dalam sebuah film dokumenter, tempat ia menyebut protes semacam itu tidak efektif",
+  "oordeel_zin": "Klip itu asli dan berasal dari film dokumenter karya Hubertus Koch, tempat Thunberg mengatakan bahwa ia menganggap demonstrasi klasik tidak efektif; ia tetap berkampanye untuk iklim [1] [7] [11].",
+  "bewering": "Greta Thunberg tertawa histeris saat diberi tahu Fridays for Future, kelompok perubahan iklim yang ia dirikan, masih berunjuk rasa: 'Mereka masih melakukan itu?'",
+  "kort": "Sejak 11 November, unggahan di X membagikan klip Greta Thunberg yang tertawa saat diberi tahu tentang demonstrasi Fridays for Future di Berlin, sebagian di antaranya sebagai tanda bahwa ia mengejek para demonstran iklim [2] [3] [4]. Klip itu asli dan berasal dari film dokumenter karya Hubertus Koch, yang tayang di YouTube sejak 28 Oktober [1] [5]. Dalam film itu ia menyebut demonstrasi klasik tidak efektif, dan ia tetap berkampanye untuk iklim [6] [7] [11].",
+  "tekst": "Pada 11 November pukul 10.20 waktu Jerman, sebuah akun anonim di X mengunggah klip berdurasi 27 detik itu [4]. Pada malam yang sama, kolumnis Jan Fleischhauer membagikan video yang sama dan bertanya mengapa Friedrich Merz harus terbang ke konferensi tingkat tinggi iklim jika Thunberg menertawakan habis-habisan orang yang masih berdemonstrasi untuk iklim [3]. New York Post mengunggahnya pada 12 November [2].\n\nKlip itu berasal dari film dokumenter berdurasi 91 menit tentang gerakan iklim dan represi negara yang dihadapinya, yang diunggah pembuat film Jerman Hubertus Koch ke YouTube pada 28 Oktober [1] [9].\n\nKoch bertemu Thunberg dan dua temannya di sebuah restoran Palestina di Berlin [1] [5]. Sekitar menit keenam, ia mengatakan bahwa merupakan simbol bahwa mereka bertemu pada hari demonstrasi Fridays for Future [1] [9]. Thunberg bertanya \"Is it?\", tertawa, lalu bertanya: \"Really? They still do that?\" [9]. Kemudian ia meminta adegan dipotong [1] [5]. Tepat setelah adegan itu, narasi Koch mengatakan bahwa ia sudah selesai dengan protes yang terlihat tetapi, menurut pandangannya, kurang konsisten [1].\n\nKoch kemudian mengatakan bahwa tawa Thunberg berkaitan dengan pertanyaan apakah demonstrasi konvensional masih menghasilkan sesuatu, bukan dengan orang-orangnya [6] [8]. Thunberg menulis di Instagram bahwa pada hari itu ia dan para aktivis lain memblokade sebuah produsen senjata, lalu mengetahui adanya demonstrasi iklim yang diizinkan polisi [8] [9]. Fridays for Future di Jerman telah menjauhkan diri darinya terkait pernyataannya tentang Timur Tengah [7] [12].\n\nPada November ia hadir di konferensi tingkat tinggi iklim COP31 di Antalya, tempat ia menyebut perundingan itu munafik dan mengatakan \"everything and everyone we love is at stake\" [11]. Film itu sudah tayang daring lebih dari dua minggu sebelum Fridays for Future berdemonstrasi di lebih dari 70 kota di Jerman pada 13 November [1] [10].\n\nDemagog di Polandia dan Open di Italia juga menyimpulkan pada 16 November bahwa klip itu diambil di luar konteks [12] [13].",
+  "niet_weten": "Kami tidak tahu pada hari apa Koch dan Thunberg bertemu [1] [5]. Tidak ada yang bisa memastikan apa arti sebuah tawa; kami berpegang pada kata-katanya dalam film dan pada apa yang ia dan Koch katakan sesudahnya [8] [9].",
+  "bereik": "139.805 suka pada delapan unggahan yang kami baca pada 23 November, dalam bahasa Inggris, Jerman, dan Jepang; unggahan New York Post saja mendapat 82.003",
+  "nog_uitzoeken": [
+   "Pada hari apa Koch dan Thunberg bertemu di Berlin, dan produsen senjata mana yang ia blokade pada hari itu. Salah satu kandidatnya adalah blokade kantor Rheinmetall di Berlin pada Juli 2026.",
+   "Kami menimbang antara Kurang konteks dan Menyesatkan. Tawa dan pertanyaan itu nyata, jadi Kurang konteks; unggahan yang mengatakan ia menertawakan gerakan iklim atau telah menyerah soal iklim melampaui apa yang didukung oleh kata-katanya dalam film. Jika Anda tahu lebih banyak, silakan beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Hubertus Koch mengunggah film itu ke YouTube [1].",
+   "Unggahan paling awal dengan klip itu yang kami temukan muncul di X [4].",
+   "Jan Fleischhauer membagikan klip itu dengan pertanyaan tentang Friedrich Merz [3].",
+   "Al Jazeera melaporkan dari COP31 di Antalya: Thunberg menyebut konferensi itu munafik [11].",
+   "Stuttgarter Zeitung melaporkan di mana adegan itu difilmkan; New York Post mengunggah soal itu di X [2] [5].",
+   "20 Minuten bersama AFP: Koch menyebut klip itu diambil di luar konteks [6].",
+   "Fridays for Future berdemonstrasi di lebih dari 70 kota di Jerman, di Berlin dengan sekitar 700 orang [10].",
+   "leinetal24 melaporkan unggahan Instagram Thunberg: pada hari itu ia memblokade sebuah produsen senjata [8].",
+   "Demagog dan Open: klip itu diambil di luar konteks [12] [13]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X oleh New York Post, 12 November 2026, pukul 17.35 UTC.",
+   "Hubertus Koch di YouTube, \"Auf Panzern in die Klimakrise\", 28 Oktober 2026: adegan dimulai sekitar menit 6:19."
+  ],
+  "beeld_alt": [
+   "Unggahan New York Post di X yang mengatakan Greta Thunberg tertawa histeris ketika diberi tahu bahwa Fridays for Future masih berdemonstrasi, dengan dua tangkapan layar Thunberg tertawa, salah satunya dengan tangan menutupi mulut. Cap: KURANG KONTEKS.",
+   "Film dokumenter karya Hubertus Koch di YouTube."
+  ]
+ }
+}

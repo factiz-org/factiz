@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Antrean perempuan dalam video ini berada di Amsterdam, untuk obral pakaian",
+  "oordeel_zin": "Videonya asli, tetapi dibuat pada 19 September di Amsterdam-West, saat obral sebuah merek mode; video itu tidak ada hubungannya dengan Dublin [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "Sejak 21 September, beredar di X sebuah video antrean panjang perempuan di jalan, hanya dengan kata-kata \"Dublin 2027\" [5]. Video itu dibuat pada 19 September di Amsterdam-West, saat obral sebuah merek mode, dan merek itu sendiri yang pertama kali mengunggahnya secara daring [1] [9]. Video yang sama juga beredar sebagai antrean perempuan Muslim yang menunggu penitipan anak gratis; itu pun tidak benar [7] [8] [9].",
+  "tekst": "Pada Senin 21 September pukul 09.36, sebuah akun dengan bendera Irlandia di belakang namanya mengunggah video antrean panjang perempuan di jalan ke X [5]. Satu-satunya teks yang menyertainya adalah \"Dublin 2027\" [5]. Apa maksud penulisnya tidak disebutkan dalam unggahan itu, tetapi tanpa penjelasan, tampaknya itu gambar Dublin, sekarang atau nanti.\n\nVideo yang sama pada pekan itu juga beredar dengan penjelasan lain. Dalam bahasa Belanda sebagai perempuan Muslim yang menunggu penitipan anak gratis [8]. Dalam bahasa Spanyol sebagai antrean yang konon difilmkan seorang perempuan Belanda, berisi perempuan Muslim yang mendaftarkan anak-anak mereka ke penitipan anak gratis [7]. Dan dalam bahasa Inggris di Instagram dan Facebook, dengan penjelasan bahwa para perempuan itu datang untuk mendaftarkan anak mereka ke penitipan gratis dari negara [9].\n\nAntrean itu memang ada, tetapi untuk hal lain: merek Oemaayah, yang menjual busana tertutup, mengadakan sample sale pada Sabtu 19 September, yaitu penjualan model contoh dan sisa stok dengan harga murah [2] [9]. Merek itu sudah mengumumkan penjualan tersebut sebelumnya di Instagram dan TikTok, di sebuah tempat acara di Amsterdam-West [2] [7]. Pada Minggu 20 September, merek itu sendiri mengunggah video antrean tersebut, disertai ucapan terima kasih kepada semua yang datang [1] [9]. Kepada Full Fact dan Reuters, merek itu membenarkan bahwa video tersebut memperlihatkan pengunjung yang menunggu untuk masuk ke acara penjualan [9].\n\nMenurut Full Fact dan Maldita, lokasinya adalah De Hallen Studio's, tempat pagar, rumah, dan bangunannya cocok dengan citra Google [7] [9]. Studio-studio itu berada di bekas depo trem di Oud-West dan disewakan untuk acara [4]. Unggahan \"Dublin 2027\" muncul sekitar enam belas jam setelah video dari merek itu. Hal itu kami simpulkan dari nomor yang diberikan X dan Instagram pada sebuah unggahan, karena di dalamnya terkandung waktu pengunggahan [1] [5]. Jadi video itu tidak ada hubungannya dengan Dublin.\n\nPenjelasan tentang penitipan anak pun tidak benar. Penitipan anak gratis yang harus diantre tidak ada di Belanda [3]. Pemerintah ingin membuat penitipan anak hampir gratis mulai 2029 bagi orang tua yang bekerja: semua orang kemudian mendapat penggantian 96 persen, terlepas dari penghasilan, dan pemerintah membayarkannya langsung kepada penitipan anak [3]. Orang tua tidak perlu lagi mengajukan penggantian itu sendiri [3].\n\nEFE Verifica pada 22 September adalah pemeriksa fakta pertama yang kami temukan [6]. AFP Factcheck Nederland dan Maldita menyusul pada 24 September, Full Fact pada 29 September [7] [8] [9].",
+  "niet_weten": "Kami tidak tahu apa sebenarnya yang dimaksud penulis unggahan itu dengan \"Dublin 2027\", dan kami juga tidak tahu siapa yang pertama kali memberikan penjelasan lain atas video merek tersebut. Unggahan berbahasa Belanda dengan penjelasan tentang penitipan anak tidak kami temukan sendiri; kami mengetahuinya dari pemeriksaan fakta AFP Factcheck Nederland [8]. Apakah para perempuan dalam antrean itu beragama Islam, kami tidak tahu, dan untuk pemeriksaan fakta ini hal itu tidak penting: mereka mengantre untuk membeli pakaian.",
+  "nog_uitzoeken": [
+   "Apa yang dimaksud penulis dengan 'Dublin 2027'.",
+   "Unggahan berbahasa Belanda dengan penjelasan tentang penitipan anak. Kami hanya mengetahuinya dari pemeriksaan fakta AFP Factcheck Nederland."
+  ],
+  "tijdlijn": [
+   "Sample sale Oemaayah di Amsterdam-West [2] [9].",
+   "Merek itu mengunggah video antrean di Instagram, dengan ucapan terima kasih kepada para pengunjung [1].",
+   "Sebuah unggahan di X memasang video itu hanya dengan kata-kata \"Dublin 2027\" [5].",
+   "EFE Verifica: para perempuan itu adalah pelanggan sebuah toko [6].",
+   "AFP Factcheck Nederland dan Maldita: antrean untuk sebuah obral [7] [8].",
+   "Full Fact: penjualan pop-up sebuah merek pakaian di Amsterdam [9]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 21 September 2026, pukul 09.36.",
+   "Oemaayah di Instagram, 20 September 2026: video antrean di sample sale di Amsterdam-West."
+  ],
+  "beeld_alt": [
+   "Unggahan di X dengan kata-kata Dublin 2027 dan video antrean panjang perempuan di jalan. Cap: MENYESATKAN.",
+   "Video dari merek itu yang memperlihatkan antrean pengunjung di depan sample sale."
+  ]
+ }
+}

@@ -1,0 +1,160 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B89), in het Engels, uit de Engelse radar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/iran-complot-trump/dossier.md, ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-23, PO: "Akkoord", na het nalezen van de acht in het voorbeeld).
+
+sleutel = "iran-complot-trump"
+status = "gepubliceerd"
+taal = "en"
+adres = "iran-drone-attempt-trump-white-house"
+kop = "Israeli report describes possible Iranian drone plan against Trump, not an attempt at the White House"
+oordeel = "misleidend"
+oordeel_zin = "The report behind the post describes intelligence about a possible Iranian drone plan against Trump and senior officials, not an attempt, and the US Secretary of Homeland Security did not confirm it [2] [3] [4]."
+soort = "context"
+reikwijdte = "internationaal"
+
+bewering = "Iran attempted to assassinate Trump at the White House with suicide drones."
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 1
+bereik = "3,473 likes, 538 reposts and 532,401 views on November 23"
+
+kort = """
+Since November 14, a post on X has said that Iran attempted to assassinate President Donald Trump at the White House \
+with suicide drones [1]. The report behind it, by the Israeli newspaper Israel Hayom, describes intelligence about a \
+possible Iranian plan to attack Trump and senior officials with explosive drones, not an attempt [2] [3]. The next day, \
+Homeland Security Secretary Markwayne Mullin spoke of daily threats from Iran that he called aspirational, and did not \
+confirm the report [4]."""
+
+tekst = """
+On Saturday, November 14, 2026, at 19:01 UTC, the account of Matt Tardio posted on X: "Iran attempted to assassinate \
+Trump at the White House with suicide drones." [1] He quoted a post by the account Open Source Intel from less than half \
+an hour earlier [1] [2]. That post spoke of "intelligence of an Iranian drone plot against White House leadership", with \
+Israel Hayom as its source [2]. In the post by Tardio, a plot against the leadership became an attempt at the White \
+House [1] [2].
+
+Israel Hayom published its report that evening, citing unnamed senior Israeli and American officials [3]. According to \
+them, the Mossad gave the CIA intelligence that Iran intends to target Trump and senior members of his administration, \
+and checked it at the request of US intelligence agencies [3]. The intelligence points to recent threats, including the \
+possibility of attacks with explosive-laden drones [3]. The report describes no attack and no attempt [3].
+
+The report does describe precautions [3]. Officials at risk cut back their appearances at outdoor events, and several \
+moved from their homes to secure facilities [3]. Trump's public appearances were sharply reduced, and those that remain \
+are protected with systems against drones [3].
+
+On Sunday, November 15, Mullin said on Fox News that the president's daily briefings include "aspirational threats from \
+Iran", and that Trump and his family are "target number one" [4]. According to Fox News, he did not confirm the report \
+about the drones [4].
+
+A related post of November 15 presented a video as an Iranian attack on a US base in Kuwait, with about 250 US soldiers \
+killed according to Iran, but the video carries the name of Spaceflight Now and the date May 28, 2026 [6]."""
+
+niet_weten = """
+We do not know whether Iran planned such an attack. The report rests on unnamed officials and has not been confirmed \
+independently [3] [5]. We did not check the other claim in the post by Tardio, that the Revolutionary Guard published \
+travel plans of Trump and his family on X earlier this year [1]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-23"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Whether Iran actually planned a drone attack on Trump and senior US officials, and whether a US agency confirms or rejects the intelligence in public.",
+  "Whether posts in other languages presented the plot as an attempt or a foiled attack, with more reach than this one.",
+  "How the post relates to earlier statements by US officials that Iran tried to kill Trump, such as that of Defense Secretary Pete Hegseth on March 4, 2026, about a plot during the 2024 campaign.",
+  "Whether the video in the post about Kuwait shows the explosion of a rocket on May 28, 2026, as the name and date in the image suggest.",
+  "We weighed Misleading against False. No source reports an attempt, which points to False; the post rests on a real report about a possible plan, which is why we chose Misleading. If you know more, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 14, 2026, 19:01 UTC."
+alt = "The post on X by Matt Tardio saying that Iran attempted to assassinate Trump at the White House with suicide drones, quoting a post by Open Source Intel about a reported Iranian drone plot. Stamp: MISLEADING."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.israelhayom.com/2026/11/14/israeli-intelligence-warns-of-iranian-plot-to-target-trump-top-us-officials-with-drones/"
+stempel = false
+bijschrift = "Israel Hayom, November 14, 2026: the report on Mossad intelligence about a possible Iranian drone plan, which the posts cite."
+alt = "The report by Israel Hayom on intelligence about an Iranian plan to target Trump and senior US officials with drones."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "18:34"
+wat = "Open Source Intel posts the report of Israel Hayom on X [2]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "19:01"
+wat = "Matt Tardio posts that Iran attempted to assassinate Trump at the White House [1]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "19:18"
+wat = "Israel Hayom publishes the English version of its report [3]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+wat = "Mullin on Fox News: daily aspirational threats from Iran, the report not confirmed [4]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+tijd = "22:40"
+wat = "A post presents a video dated May 28, 2026 as an Iranian attack in Kuwait [6]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post by Matt Tardio: Iran attempted to assassinate Trump at the White House"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261114190108/https://twitter.com/angertab/status/2121679844014797040"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "The post by Open Source Intel on the report of Israel Hayom"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261114183437/https://twitter.com/Osint613/status/2121673170902040943"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Israel Hayom"
+titel = "Israeli intelligence warns of Iranian plot to target Trump, top US officials with drones"
+datum = "2026-11-14"
+url = "https://www.israelhayom.com/2026/11/14/israeli-intelligence-warns-of-iranian-plot-to-target-trump-top-us-officials-with-drones/"
+archief = "https://web.archive.org/web/20261114201258/https://www.israelhayom.com/2026/11/14/israeli-intelligence-warns-of-iranian-plot-to-target-trump-top-us-officials-with-drones"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Fox News"
+titel = "DHS chief Mullin says Iran poses daily threat to Trump and his family amid drone concerns"
+datum = "2026-11-15"
+url = "https://www.foxnews.com/media/dhs-chief-mullin-says-iran-poses-daily-threat-trump-his-family-amid-drone-concerns"
+archief = "https://web.archive.org/web/20261115214310/https://www.foxnews.com/media/dhs-chief-mullin-says-iran-poses-daily-threat-trump-his-family-amid-drone-concerns"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Gulf News"
+titel = "Middle East war: Trump weighs restraint as Israel warns of alleged Iranian plot"
+datum = "2026-11-14"
+url = "https://gulfnews.com/world/mena/middle-east-war-trump-weighs-restraint-as-israel-warns-of-alleged-iranian-plot-1.500746947"
+archief = "https://web.archive.org/web/20261114223404/https://gulfnews.com/world/mena/middle-east-war-trump-weighs-restraint-as-israel-warns-of-alleged-iranian-plot-1.500746947"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "X"
+titel = "A post presenting a video as an Iranian attack on a US base in Kuwait"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261115224012/https://twitter.com/SUDHIRb9661/status/2122097363896709131"

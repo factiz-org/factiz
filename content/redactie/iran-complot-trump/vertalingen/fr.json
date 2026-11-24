@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Un rapport israélien décrit un possible plan iranien de drones contre Trump, et non une tentative à la Maison-Blanche",
+  "oordeel_zin": "Le rapport à l'origine de la publication décrit des renseignements sur un possible plan iranien de drones contre Trump et de hauts responsables, et non une tentative, et le secrétaire à la Sécurité intérieure des États-Unis ne l'a pas confirmé [2] [3] [4].",
+  "bewering": "L'Iran a tenté d'assassiner Trump à la Maison-Blanche avec des drones suicides.",
+  "kort": "Depuis le 14 novembre, une publication sur X affirme que l'Iran a tenté d'assassiner le président Donald Trump à la Maison-Blanche avec des drones suicides [1]. Le rapport à l'origine de cette publication, du quotidien israélien Israel Hayom, décrit des renseignements sur un possible plan iranien visant à attaquer Trump et de hauts responsables avec des drones explosifs, et non une tentative [2] [3]. Le lendemain, le secrétaire à la Sécurité intérieure Markwayne Mullin a parlé de menaces quotidiennes de l'Iran qu'il a qualifiées d'aspirationnelles, et n'a pas confirmé le rapport [4].",
+  "tekst": "Le samedi 14 novembre 2026, à 19 h 01 UTC, le compte de Matt Tardio a publié sur X : « L'Iran a tenté d'assassiner Trump à la Maison-Blanche avec des drones suicides. » [1] Il citait une publication du compte Open Source Intel datant de moins d'une demi-heure plus tôt [1] [2]. Cette publication parlait de « renseignements sur un complot iranien de drones contre la direction de la Maison-Blanche », avec Israel Hayom pour source [2]. Dans la publication de Tardio, un complot visant la direction est devenu une tentative à la Maison-Blanche [1] [2].\n\nIsrael Hayom a publié son rapport le soir même, en citant de hauts responsables israéliens et américains non nommés [3]. Selon eux, le Mossad a transmis à la CIA des renseignements indiquant que l'Iran a l'intention de viser Trump et de hauts membres de son administration, et les a vérifiés à la demande des agences de renseignement américaines [3]. Les renseignements font état de menaces récentes, y compris la possibilité d'attaques avec des drones chargés d'explosifs [3]. Le rapport ne décrit ni attaque ni tentative [3].\n\nLe rapport décrit en revanche des mesures de précaution [3]. Les responsables menacés ont réduit leurs apparitions lors d'événements en plein air, et plusieurs ont quitté leur domicile pour des installations sécurisées [3]. Les apparitions publiques de Trump ont été fortement réduites, et celles qui subsistent sont protégées par des systèmes anti-drones [3].\n\nLe dimanche 15 novembre, Mullin a déclaré sur Fox News que les briefings quotidiens du président comprennent des « menaces aspirationnelles de l'Iran », et que Trump et sa famille sont la « cible numéro un » [4]. Selon Fox News, il n'a pas confirmé le rapport sur les drones [4].\n\nUne publication connexe du 15 novembre présentait une vidéo comme une attaque iranienne contre une base américaine au Koweït, avec environ 250 soldats américains tués selon l'Iran, mais la vidéo porte le nom de Spaceflight Now et la date du 28 mai 2026 [6].",
+  "niet_weten": "Nous ne savons pas si l'Iran a prévu une telle attaque. Le rapport repose sur des responsables non nommés et n'a pas été confirmé de manière indépendante [3] [5]. Nous n'avons pas vérifié l'autre affirmation de la publication de Tardio, selon laquelle les Gardiens de la révolution auraient publié sur X, plus tôt cette année, les déplacements prévus de Trump et de sa famille [1].",
+  "bereik": "3 473 likes, 538 reposts et 532 401 vues au 23 novembre",
+  "nog_uitzoeken": [
+   "Si l'Iran a réellement prévu une attaque de drones contre Trump et de hauts responsables américains, et si une agence américaine confirme ou dément publiquement ces renseignements.",
+   "Si des publications dans d'autres langues ont présenté le complot comme une tentative ou une attaque déjouée, avec une portée plus grande que celle-ci.",
+   "Comment la publication se rapporte aux déclarations antérieures de responsables américains selon lesquelles l'Iran a tenté de tuer Trump, comme celle du secrétaire à la Défense Pete Hegseth du 4 mars 2026, au sujet d'un complot pendant la campagne de 2024.",
+   "Si la vidéo de la publication sur le Koweït montre l'explosion d'une fusée le 28 mai 2026, comme le nom et la date sur l'image le suggèrent.",
+   "Nous avons hésité entre Trompeur et Faux. Aucune source ne rapporte de tentative, ce qui plaide pour Faux ; la publication repose sur un vrai rapport au sujet d'un possible plan, c'est pourquoi nous avons choisi Trompeur. Si vous en savez plus, dites-le-nous."
+  ],
+  "tijdlijn": [
+   "Open Source Intel publie sur X le rapport d'Israel Hayom [2].",
+   "Matt Tardio publie que l'Iran a tenté d'assassiner Trump à la Maison-Blanche [1].",
+   "Israel Hayom publie la version anglaise de son rapport [3].",
+   "Mullin sur Fox News : des menaces quotidiennes aspirationnelles de l'Iran, rapport non confirmé [4].",
+   "Une publication présente une vidéo datée du 28 mai 2026 comme une attaque iranienne au Koweït [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 14 novembre 2026, 19 h 01 UTC.",
+   "Israel Hayom, 14 novembre 2026 : le rapport sur les renseignements du Mossad au sujet d'un possible plan iranien de drones, que citent les publications."
+  ],
+  "beeld_alt": [
+   "La publication sur X de Matt Tardio affirmant que l'Iran a tenté d'assassiner Trump à la Maison-Blanche avec des drones suicides, citant une publication d'Open Source Intel sur un complot iranien de drones rapporté. Tampon : TROMPEUR.",
+   "Le rapport d'Israel Hayom sur des renseignements concernant un plan iranien visant à cibler Trump et de hauts responsables américains avec des drones."
+  ]
+ }
+}

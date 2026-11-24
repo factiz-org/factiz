@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren 在宵禁聽證中提到的是 OMT，而不是 Pieter Omtzigt",
+  "oordeel_zin": "在9月2日的聽證中，Ollongren 說是 OMT 的建議說服了她，而 Omtzigt 這個名字並未出現 [2]。",
+  "bewering": "Ollongren 承認：Omtzigt 說服了她，讓她相信宵禁有用。",
+  "kort": "9月6日，X 上流傳一張與 Kajsa Ollongren 聽證相關的圖片，聲稱她承認是 Pieter Omtzigt 說服了她，讓她相信宵禁有用 [1]。在聽證中，Ollongren 談到的是 OMT，也就是新冠疫情期間為內閣提供建議的 Outbreak Management Team，而不是 Omtzigt [2] [4]。對她而言，OMT 關於宵禁效果的建議起了決定性作用 [2]。",
+  "tekst": "9月6日星期日 17:08，X 上的一個帳號發布了一張與前部長 Kajsa Ollongren 聽證相關的圖片，文字稱她承認是 Omtzigt 說服了她，讓她相信宵禁有用 [1]。該貼文嘲諷說，她起初反對宵禁，事後卻把責任推給別人 [1]。截至11月18日，該貼文有 200 個讚和 61 則回覆 [1]。\n\nOllongren 於9月2日星期三 10:00 至 12:50 接受國會新冠疫情調查委員會的聽證 [2] [3]。在新冠疫情期間，她是 D66 籍的內政部長兼副首相 [2] [3]。ANP 當天早上報導了她的聽證 [6]。\n\nOMT 是 Outbreak Management Team 的縮寫，即在新冠疫情期間為內閣提供建議的專家。RIVM 公布他們的建議 [4]。在聽證紀錄中，縮寫 OMT 出現了 65 次，而 Omtzigt 這個名字一次也沒有出現 [2]。\n\n談到宵禁，Ollongren 說她和她的部門長期反對，因為這項措施對每個人的行動自由干預極深 [2]。她說，宵禁曾三、四次被提上桌面，又每次都被撤下 [2]。起決定性作用的是 OMT。OMT 在2021年1月估計，宵禁對病毒傳播的影響為 8% 至 13%，並表示沒有其他措施能達到同樣的效果 [2]。於是她勉強同意，並表示當時她已被說服 [2]。\n\n這與其他證人先前所述相符。根據 NOS，OMT 早已將宵禁列為一個選項，內閣起初不願採納，而 OMT 後來的緊急建議則指出這項措施可能有效 [5]。宵禁於2021年1月23日開始實施，並延長了五次 [2]。\n\n我們所讀到的紀錄尚未經過校正。因此，我們轉述 Ollongren 所說的內容，而不逐字引用她的話 [2]。",
+  "niet_weten": "我們不知道貼文作者是把 OMT 讀錯了,還是故意把它變成了 Omtzigt。至於 Omtzigt 這個名字並未出現,是我們在會議紀錄中計算的結果。",
+  "bereik": "11月18日時有 200 個讚和 61 則回覆",
+  "nog_uitzoeken": [
+   "若有人把這則貼文當作關於誤讀縮寫的玩笑,或許可以為其「具誤導性」的說法辯護。我們選擇的評級是「不實」。"
+  ],
+  "tijdlijn": [
+   "區域性宵禁首次出現在 OMT 的一份建議中 [2]。",
+   "在 OMT 發出緊急建議後，宵禁開始實施 [2] [5]。",
+   "在先前的聽證之後，NOS 描述了宵禁最終是如何出台的 [5]。",
+   "Ollongren 的聽證開始 [2] [3]。",
+   "X 上發布附有圖片並提到 Omtzigt 的貼文 [1]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文，2026年9月6日，17:08。",
+   "國會新冠疫情調查委員會對 Kajsa Ollongren 的公開聽證，2026年9月2日，10:00。眾議院，Debat Direct。"
+  ],
+  "beeld_alt": [
+   "與 Kajsa Ollongren 關於宵禁的聽證相關的圖片，被轉發得好像她提到了 Pieter Omtzigt。印章：錯誤。",
+   "眾議院調查廳內 Kajsa Ollongren 聽證的影片。"
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Silahlı robot köpeğin askerlere öncülük ettiği video Ekim'de internetteydi ve Haiti'den değil",
+  "oordeel_zin": "Klip, El Salvador'un Haiti'ye 2.000'den fazla asker göndermesinden önce, 7 Ekim 2026'da TikTok'taydı; silahlı robot köpekler Bukele'nin Port-au-Prince'teki stadyumdan kendi çektiği görüntülerde gerçekten yer alıyor, ancak bu klip o görüntülerin parçası değil [3] [5] [8].",
+  "bewering": "Haiti çetelerine bu Robot köpeklerin neler yaptığına bakın. Bu, şimdiye kadarki en iyi askeri icatlardan biri. İnsan (asker) kayıplarını en düşük seviyeye indiriyor.",
+  "kort": "14 Kasım'dan beri X'te bir paylaşım, askerlerin önünde ilerleyen silahlı bir robot köpeği gösteren videoyu, robot köpeklerin Haiti'deki çetelere yaptıkları olarak sunuyor [1]. Ekvador'daki bir radyo istasyonu aynı klibi, El Salvador'un Haiti'ye 2.000'den fazla asker göndermesinden önce, 7 Ekim 2026'da TikTok'ta paylaştı [3] [8]. El Salvador güçleri Port-au-Prince'teki ulusal stadyuma gerçekten silahlı robot köpekler getirdi, ancak bunlar bu klipte değil, Başkan Bukele'nin kendi videosunda görünüyor [5] [6].",
+  "tekst": "14 Kasım 2026'da X'te bir hesap, \"Haiti çetelerine bu Robot köpeklerin neler yaptığına bakın.\" yazısıyla 26 saniyelik bir video paylaştı [1]. Hesap, bir gün önce yine kendi paylaşımına atıfta bulundu; o paylaşımda El Salvador'un Haiti'de çete üyelerini avlamak için robot köpekler kullandığı söyleniyordu [2]. Videoda sırtında tüfek bulunan bir robot köpek, kamuflaj desenli bir duvarın önünden askerlerin önünde ilerliyor ve bir drone beyaz betonarme bir binanın etrafında dönüyor [1].\n\nKlipte İspanyolca \"Perros robot con armamento\" yazısı, 07-10-2026 tarihi ve Ritmo 93.9 logosu var [1]. Ritmo 93.9, Ekvador'un Pastaza eyaletindeki bir radyo istasyonudur [4]. İstasyon aynı klibi 7 Ekim 2026'da TikTok'ta, Haiti'den ya da El Salvador'dan tek kelime etmeden paylaştı ve yapay zekâyla üretilmiş olabileceğini yazdı [3]. Klibin üst kısmındaki, kısmen radyo logosunun arkasında kalan Çince yazı, Çin'in Shandong eyaletinden bir şirketin adını veriyor [1].\n\nOn bir gün sonra, 18 Ekim'de, dört Salvadorlu havacılık teknisyeni Haiti'de bir çete saldırısının ardından kayboldu [8] [9]. Haiti'de zaten, çoğu sağlık desteğinde olmak üzere yaklaşık 200 Salvadorlu görev yapıyordu [9]. Saldırının ardından El Salvador 2.000'den fazla asker gönderdi [8] [9].\n\n12 Kasım'da Haiti polis ve ordu birlikleri ile Salvadorlu özel kuvvetler Port-au-Prince'teki Sylvio Cator Stadyumu'nu ele geçirdi [5] [9]. Bukele, operasyonun 76 saniyelik bir videosunu X'te paylaştı [5]. Videonun son 20 saniyesinde askerler sahada robot köpeklerin üzerine tüfek monte ediyor, robotlar mavi koridorlarda yürüyor ve merdivenlerden çıkıyor [5] [7]. Newsweek'e göre görüntülerde robotların ateş ettiği görülmüyor [6]. Kamuflaj desenli duvarın bulunduğu yerleşke Bukele'nin videosunda yer almıyor [1] [5].",
+  "niet_weten": "Klibi kimin, nerede ve ne zaman çektiğini ya da görüntülerin gerçek olup olmadığını bilmiyoruz. Bulabildiğimiz en eski kopya, Ritmo 93.9'un 7 Ekim'de paylaştığı kopya [3]. Bukele'nin videosundaki robot köpeklerin herhangi bir çatışmaya katılıp katılmadığını bilmiyoruz [6] [7].",
+  "bereik": "23 Kasım itibarıyla 662 beğeni ve 23 yanıt",
+  "nog_uitzoeken": [
+   "Robot köpekli ve dronelu klibi kimin yaptığı, nerede ve ne zaman çekildiği ve görüntülerin gerçek mi yoksa yapay zekâyla üretilmiş mi olduğu.",
+   "Klibin üst kısmındaki Çince yazının hangi Shandong şirketinin adını verdiği (adın bir kısmı Ritmo 93.9 logosunun arkasında kalıyor) ve görüntüleri o şirketin ilk kez yayımlayıp yayımlamadığı.",
+   "Bukele'nin 12 Kasım tarihli videosundaki robot köpeklerin Haiti'de herhangi bir çatışmaya katılıp katılmadığı.",
+   "Yanıltıcı ile Yanlış arasında tartıp karar verdik. Klip Haiti'den değil ve orada çetelere yapılan hiçbir şeyi göstermiyor, ancak El Salvador güçleri Port-au-Prince'teki stadyuma gerçekten silahlı robot köpekler getirdi. Klip hakkında daha fazla bilginiz varsa lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9, klibi TikTok'ta yakın zamanda paylaşılmış bir video olarak yayımlıyor [3].",
+   "Dört Salvadorlu havacılık teknisyeni Haiti'de bir çete saldırısının ardından kayboluyor [8] [9].",
+   "Al Jazeera ve AP, Haiti'de 2.000'den fazla Salvadorlu asker olduğunu bildiriyor [8].",
+   "Haiti ve El Salvador güçleri Port-au-Prince'teki Sylvio Cator Stadyumu'nu ele geçiriyor [9].",
+   "Bukele, operasyonun videosunu sonunda silahlı robot köpeklerle birlikte paylaşıyor (UTC) [5].",
+   "Hesap, El Salvador'un Haiti'de çete üyelerini avlamak için robot köpekler kullandığını söylüyor (UTC) [2].",
+   "Newsweek, Bukele'nin videosundaki robot köpekleri haberleştiriyor (UTC) [6].",
+   "Aynı hesap, Ritmo 93.9'un klibini Haiti'deki robot köpekler olarak paylaşıyor (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "X'teki paylaşım, 14 Kasım 2026, 20.08 UTC.",
+   "Ritmo 93.9 FM'in 7 Ekim 2026 tarihli TikTok paylaşımı: aynı klip, aynı yazı ve aynı tarih; El Salvador güçlerinin Port-au-Prince'teki stadyumu ele geçirmesinden beş hafta önce."
+  ],
+  "beeld_alt": [
+   "Benkingsley Nwashara'nın X'teki paylaşımı: Haiti çetelerine bu Robot köpeklerin neler yaptığına bakın; yanında videodan bir kare: kamuflaj desenli bir duvarın köşesinde tüfekli bir asker, İspanyolca Perros robot con armamento yazısı ve 07-10-2026 tarihi. Altında 13 Kasım tarihli, bir futbol stadyumunun havadan görüntüsünü içeren alıntılanmış paylaşım. Damga: YANILTICI.",
+   "Ritmo 93.9'un TikTok videosundan bir kare: kamuflaj desenli bir duvarın yanındaki toprak avluda tüfekli bir robot köpek; Perros robot con armamento yazısı ve 07-10-2026 tarihi görünüyor."
+  ]
+ }
+}

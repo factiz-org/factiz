@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "O número de 1,4 milhão de russos trata de soldados feridos e mortos em combate, não de civis mortos",
+  "oordeel_zin": "Um milhão e meio é aproximadamente o número de soldados russos que morreram em combate, ficaram feridos ou estão desaparecidos; mortos em combate são no máximo cerca de 450.000, e de civis na Rússia morreram mais de 1.400, segundo a contagem do Novaja Gazeta Europa [1] [5].",
+  "bewering": "Cadê a indignação quando civis russos morrem? Quase um milhão e meio de russos perderam a vida.",
+  "kort": "Uma publicação no X de 22 de outubro dizia que quase um milhão e meio de russos morreram, numa comparação com as vítimas civis em Gaza [7]. O número de 1,4 milhão é uma estimativa de soldados russos que morreram em combate, ficaram feridos ou estão desaparecidos; mortos em combate são de 400.000 a 450.000, segundo o instituto americano CSIS [1]. Mortes de civis na Rússia, o Novaja Gazeta Europa contou pelo menos 1.406 até maio [5].",
+  "tekst": "Em 22 de outubro, às 9h08, uma conta no X perguntou por que se derramam lágrimas por vítimas civis em Gaza, mas não quando civis russos morrem [7]. Em seguida veio a afirmação de que quase um milhão e meio de russos perderam a vida [7]. A publicação recebeu quase 1.200 respostas [7].\n\nUm número dessa grandeza existe, mas diz respeito a soldados, e não apenas a mortos. O instituto americano de pesquisa CSIS estimou em 1º de julho que a Rússia teve, de fevereiro de 2022 a junho de 2026, cerca de 1,4 milhão de baixas militares [1]. Entram nessa conta soldados que morreram em combate, ficaram feridos ou estão desaparecidos [1]. Mortos em combate são de 400.000 a 450.000, segundo o CSIS [1].\n\nO Estado-Maior ucraniano mantém uma contagem própria. Em 22 de outubro ela estava em 1.572.790 militares russos [4]. A página não informa se isso inclui mortos e feridos juntos [4]. É a contagem de uma parte na guerra, não uma estimativa independente.\n\nQuantos soldados russos estão comprovadamente mortos, o Mediazona e o serviço russo da BBC contam pelo nome. Eles usam avisos de falecimento, mensagens de familiares, mídia local e comunicados de governos regionais [3]. Até 23 de outubro, encontraram 282.993 [2]. Eles mesmos chamam isso de piso: o número real é provavelmente bem mais alto, segundo eles [2].\n\nPortanto, não se trata de civis. O Novaja Gazeta Europa, um jornal russo que trabalha a partir do exterior, contou até 11 de maio de 2026 pelo menos 1.406 civis mortos na Rússia e na Crimeia ocupada desde 2022 [5]. Desses, 524 ocorreram na região de Kursk, na parte que a Ucrânia manteve ocupada de agosto de 2024 a março de 2025 [5]. O jornal diz que a própria contagem é baixa demais, porque as autoridades não informam todas as vítimas [5]. O Ministério das Relações Exteriores da Rússia fala em mais de 8.000 civis mortos; segundo o jornal, o ministério provavelmente conta também moradores de áreas que a Rússia ocupou depois de 2022 [5].\n\nMesmo com esse número mais alto, a diferença continua grande. Um milhão e meio é quase 190 vezes 8.000, e mais de mil vezes a contagem do Novaja Gazeta Europa.\n\nA confusão entre baixas e mortos não é nova. Em março de 2025, o Nieuwscheckers verificou uma publicação que citava um milhão de mortos na guerra; segundo eles, eram então no máximo 344.000 [6].",
+  "niet_weten": "Não sabemos quantos soldados russos realmente morreram em combate: os números vão dos 282.993 conhecidos pelo nome até 450.000 do CSIS. O número de civis russos mortos também é incerto, e as áreas que se incluem na conta fazem muita diferença. Não sabemos de onde a publicação tirou o número.",
+  "bereik": "234 curtidas e 1.197 respostas em 18 de novembro",
+  "nog_uitzoeken": [
+   "O que exatamente o Estado-Maior ucraniano conta como perdas: mortos e feridos, e também prisioneiros?",
+   "O número do Mediazona na própria página deles. A página deles de 6 de novembro cita 272.100 casos com data de morte conhecida.",
+   "De onde o Ministério das Relações Exteriores da Rússia tira seus 8.000 civis mortos.",
+   "O número existe, mas não para mortos e não para civis. Escolhemos falso; enganoso também é defensável."
+  ],
+  "tijdlijn": [
+   "O Novaja Gazeta Europa conta pelo menos 1.406 civis mortos na Rússia e na Crimeia desde 2022 [5].",
+   "O CSIS estima cerca de 1,4 milhão de baixas militares russas, das quais 400.000 a 450.000 mortas em combate [1].",
+   "Uma publicação neerlandesa no X diz que quase um milhão e meio de russos morreram [7].",
+   "A contagem do Estado-Maior ucraniano está em 1.572.790 militares russos [4].",
+   "O Mediazona e a BBC conhecem pelo nome 282.993 militares russos mortos em combate, até 23 de outubro [2]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 22 de outubro de 2026, 9h08."
+  ],
+  "beeld_alt": [
+   "Uma publicação no X que diz que quase um milhão e meio de russos morreram, numa comparação com Gaza. Carimbo: FALSO."
+  ],
+  "rekensom": [
+   [
+    "Baixas militares russas, fevereiro de 2022 a junho de 2026 (CSIS)",
+    "mortos em combate, feridos e desaparecidos juntos",
+    "cerca de 1,4 milhão"
+   ],
+   [
+    "Militares russos mortos em combate, mesmo período (CSIS)",
+    "estimativa",
+    "400.000 a 450.000"
+   ],
+   [
+    "Militares russos mortos em combate conhecidos pelo nome, até 23 de outubro (Mediazona e BBC)",
+    "contagem a partir de fontes abertas, um piso",
+    "282.993"
+   ],
+   [
+    "Civis mortos na Rússia e na Crimeia, até 11 de maio de 2026 (Novaja Gazeta Europa)",
+    "882 a partir de relatos mais 524 em Kursk",
+    "pelo menos 1.406"
+   ],
+   [
+    "Um milhão e meio em relação aos civis mortos",
+    "1.500.000 divididos por 1.406 e por 8.000",
+    "mais de 1.000 vezes, e quase 190 vezes"
+   ]
+  ]
+ }
+}

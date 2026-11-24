@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Gambar Ursula von der Leyen bersama Jeffrey Epstein dibuat dengan AI",
+  "oordeel_zin": "Gambar itu memuat tanda air AI, sudah muncul di Facebook pada bulan Juli dengan label AI, dan nomor-nomor di atasnya tidak ada dalam berkas Epstein [1] [2] [11].",
+  "bewering": "Foto ini dari berkas Epstein menunjukkan Ursula von der Leyen bersama Jeffrey Epstein.",
+  "kort": "Sejak 7 Oktober, di X beredar dalam bahasa Belanda sebuah gambar Ursula von der Leyen bersama Jeffrey Epstein, dengan nomor berkas dan nomor dokumen di atasnya [10]. Gambar itu dibuat dengan AI: gambar tersebut ada di Facebook sejak 12 Juli dengan label konten AI, dan redaksi menemukan tanda air AI yang tak terlihat di dalamnya [11] [1] [2]. Nomor-nomor pada gambar itu tidak ada dalam berkas Epstein yang dirilis Departemen Kehakiman Amerika Serikat [1] [3] [6].",
+  "tekst": "Pada Rabu, 7 Oktober 2026 pukul 23.21, muncul di X sebuah unggahan berbahasa Belanda dengan gambar Ursula von der Leyen, presiden Komisi Eropa, di samping Jeffrey Epstein [10]. Pada gambar itu tertera nomor berkas dan nomor dokumen, yang dimaksudkan untuk memberi kesan bahwa gambar itu berasal dari berkas Epstein [1] [4].\n\nGambar itu lebih tua daripada unggahan tersebut. Contoh paling awal yang ditemukan redaksi ada di Facebook sejak 12 Juli 2026, milik seorang pengguna pribadi, dengan label yang dipasang Meta pada konten yang dibuat dengan AI [11] [1]. Sehari kemudian gambar itu muncul di situs berbahasa Prancis milik jaringan Pravda [1]. Itu adalah jaringan situs pro-Rusia yang menyamar sebagai media berita [9]. Setelah itu gambar tersebut beredar antara lain dalam bahasa Italia, Spanyol, Jerman, Inggris, Georgia, dan Rusia [1] [2] [4] [5].\n\nOpen dari Italia dan Maldita.es dari Spanyol menemukan SynthID dalam gambar itu [1] [2]. Itu adalah tanda air tak terlihat yang dipasang Google pada gambar yang dibuat atau diedit dengan AI-nya [8]. Lead Stories dan TheJournal.ie juga melaporkan adanya tanda air AI [3] [4]. Open tidak menemukan foto asli kedua orang itu bersama-sama, baik di arsip pers maupun di dokumen yang dirilis [1].\n\nSoal nomor-nomornya. Departemen Kehakiman Amerika Serikat memublikasikan dokumen dari penyelidikan terhadap Epstein secara daring di Epstein Library [6]. Pada Januari 2026 ditambahkan sekitar 3 juta halaman di sana, setelah rilis-rilis sebelumnya [7]. Menurut Open, Lead Stories, dan Myth Detector, nomor-nomor pada gambar itu tidak ada dalam dokumen tersebut, dan departemen itu memakai penomoran yang sama sekali berbeda [1] [3] [5].\n\nUnggahan berbahasa Belanda itu muncul hampir tiga bulan setelah pengecekan pertama yang kami temukan, yaitu dari Open pada 15 Juli, dan lima minggu setelah pengecekan Lead Stories [1] [3] [10]. Kami tidak menemukan pengecekan fakta dalam bahasa Belanda.",
+  "niet_weten": "Kami tidak tahu siapa yang membuat gambar itu. Lead Stories dan TheJournal.ie menulis bahwa sebuah program dari OpenAI menemukan watermark SynthID [3] [4]. SynthID milik Google [8]; mengapa sebuah program dari OpenAI melaporkannya, kami tidak tahu. Hal itu tidak mengubah penilaian: Open dan Maldita.es menemukan watermark tersebut dengan program-program dari Google [1] [2].",
+  "nog_uitzoeken": [
+   "Versi gambar mana yang ditampilkan unggahan itu, hitam putih atau berwarna, dan teks apa yang menyertainya. Unggahan itu sudah dihapus."
+  ],
+  "tijdlijn": [
+   "Departemen Kehakiman memublikasikan sekitar 3 juta halaman tentang Epstein secara daring [7].",
+   "Gambar itu di Facebook, dengan label Meta untuk konten AI [11] [1].",
+   "Gambar itu di situs berbahasa Prancis milik jaringan Pravda [1].",
+   "Open: gambar itu dibuat dengan AI [1].",
+   "Maldita.es: tidak benar, dengan tanda air Google [2].",
+   "Lead Stories: dibuat dengan AI, nomor tidak ada dalam berkas [3].",
+   "TheJournal.ie: dibuat dengan AI, dibagikan lebih dari seribu kali di Facebook [4].",
+   "Unggahan berbahasa Belanda di X [10].",
+   "Myth Detector: gambar itu beredar dalam bahasa Georgia dan Rusia [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

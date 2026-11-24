@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Parques eólicos noruegueses Storheia e Roan não estão sendo demolidos, e renas deformadas não tiveram papel nenhum",
+  "oordeel_zin": "O tribunal decidiu em 2021 sobre as pastagens dos criadores de renas sámi, não sobre deformações, e após dois acordos as 151 turbinas continuam girando [1] [2] [3].",
+  "bewering": "A Noruega está demolindo parques eólicos porque, por causa das turbinas, nascem renas deformadas.",
+  "kort": "Desde 11 de agosto circula no X uma publicação dizendo que a Noruega está demolindo dois parques eólicos porque nascem renas deformadas [9]. A Suprema Corte da Noruega declarou inválidas as licenças de Storheia e Roan em 2021 porque os criadores de renas sámi perderam suas pastagens de inverno, não por causa da saúde dos animais [1]. Após acordos em dezembro de 2023 e março de 2024, as 151 turbinas continuam funcionando [2] [3].",
+  "tekst": "A publicação no X cita dois parques eólicos com 151 turbinas no total, Storheia e Roan, na península de Fosen, na Noruega Central [9]. Esses parques existem: Storheia tem 80 turbinas e Roan 71, e ambos entraram em operação em 2019 [4]. A publicação traz um link para uma revista especializada alemã de outubro de 2021, que na época escreveu que as 151 turbinas teriam de sair [5] [9].\n\nO processo judicial foi real. Em 11 de outubro de 2021, a Suprema Corte da Noruega decidiu por unanimidade que as licenças dos dois parques eram inválidas [1]. Os parques violavam o direito dos criadores de renas sámi de Fosen de praticar sua própria cultura, previsto no artigo 27 do Pacto Internacional sobre Direitos Civis e Políticos da ONU [1]. O ponto central era que, na prática, as renas haviam perdido as pastagens de inverno perto dos parques, e que isso ameaçava a criação de renas em Fosen [1].\n\nA sentença não diz nada sobre a saúde das renas, nem sobre filhotes deformados [1]. O tribunal também não disse o que deveria acontecer com as turbinas [4].\n\nElas não foram demolidas. Em dezembro de 2023, os criadores de renas de Sør-Fosen fecharam um acordo sobre Storheia, com terras adicionais, uma indenização e um veto a nova energia eólica após o fim da licença [2]. O Instituto Norueguês de Direitos Humanos escreveu que esse acordo parece reparar a violação [2]. Em 6 de março de 2024 veio um acordo para Roan: 7 milhões de coroas por ano até o fim da licença, em 2043, e depois disso só uma nova licença se os criadores de renas concordarem [3]. A geração de energia continua normalmente [3].\n\nAs renas deformadas vêm de uma carta de leitor no Landshuter Zeitung, um jornal da Baviera, de 9 de outubro de 2023 [6] [7]. A carta atribuía as deformações às vibrações das turbinas e depois circulou no Facebook e no X [6]. A AFP consultou seis pesquisadores de renas na Noruega, na Suécia e na Áustria, e nenhum deles conhecia um estudo que comprove deformações ou abortos causados por turbinas eólicas [6]. O que as pesquisas mostram é que as renas evitam áreas ao redor das turbinas, sobretudo na época de parição [6].\n\nA história, portanto, não é nova. No início de 2024, a EDMO, rede europeia de verificadores de fatos, informou que ela também circulava em tradução para o holandês [11].",
+  "niet_weten": "Não sabemos quem foi o primeiro a traduzir a carta de 2023 para o neerlandês, nem se a publicação de agosto remonta a essa tradução. Não lemos a carta em si; o que havia nela, sabemos pelas verificações da AFP e do Mimikama. Que os moinhos ainda estejam funcionando, deduzimos da Aneo, do Store norske leksikon e da Euronews; não vimos dados de produção posteriores a setembro de 2026.",
+  "bereik": "101.303 visualizações em 18 de novembro",
+  "nog_uitzoeken": [
+   "Se já existia uma verificação em neerlandês em 2023 ou 2024, no Nieuwscheckers, no Factcheck Vlaanderen ou no Knack.",
+   "O processo judicial é real, a demolição e as renas deformadas não são. Escolhemos falso; enganoso também é defensável."
+  ],
+  "tijdlijn": [
+   "A Suprema Corte da Noruega declara inválidas as licenças de Storheia e Roan [1].",
+   "A Agrarheute escreve que as 151 turbinas têm de sair [5].",
+   "Uma carta de leitor no Landshuter Zeitung sobre filhotes de rena deformados [6].",
+   "AFP Faktencheck: não há provas de deformações causadas por turbinas eólicas [6].",
+   "O Mimikama chega à mesma conclusão [7].",
+   "O Instituto Norueguês de Direitos Humanos informa sobre o acordo de Storheia [2].",
+   "Acordo para Roan; as turbinas continuam girando [3].",
+   "A publicação no X sobre demolição e renas deformadas [9].",
+   "A AFP Factcheck Nederland verifica a publicação [8].",
+   "Euronews: em nenhum lugar foram descritas renas com deformações causadas por turbinas eólicas [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 11 de agosto de 2026, 20h15, com um link para a agrarheute de 2021."
+  ],
+  "beeld_alt": [
+   "Captura de tela de uma publicação no X sobre parques eólicos noruegueses e renas deformadas, com um cartão de link de uma revista especializada alemã. Carimbo: FALSO."
+  ]
+ }
+}

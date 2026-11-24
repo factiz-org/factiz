@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Dados oficiais dos EUA mostram que as vacinas contra o sarampo foram associadas a 1.700 por cento mais mortes do que as infecções por sarampo desde 1995.",
+  "kern": [
+   "O número compara relatos feitos ao VAERS, um banco de dados de segurança de vacinas dos EUA no qual qualquer pessoa pode enviar um relato, com mortes confirmadas por sarampo, e especialistas disseram à AFP que esses relatos não podem mostrar que uma vacina causou uma morte [1].",
+   "Grandes estudos de segurança mostram que desfechos adversos graves da vacina contra sarampo, caxumba e rubéola são raros [1]."
+  ],
+  "rondgang": "A alegação, vinda de um artigo no Substack, se espalhou no X, no Facebook e no Instagram enquanto a Organização Pan-Americana da Saúde decidiu que os Estados Unidos não atendem mais aos critérios de eliminação do sarampo [1]."
+ }
+}

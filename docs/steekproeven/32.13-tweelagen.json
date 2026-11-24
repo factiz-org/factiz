@@ -1,0 +1,346 @@
+{
+ "_meta": "Labels van de toets van het antwoord in twee lagen (PLAN #32.13), 2026-10-29, gelezen door Claude. Elk groen bij O'' ('vals' of 'set fout') en elke getoonde zin (sleutel <id>#feit voor wat klopt, <id>#anders voor wat er echt gebeurde): 'juist'; 'vals' (de zin zegt iets dat niet klopt); 'niet in de bronnen' (de genoemde resultaten zeggen het niet, ook een datum of detail dat het model toevoegde); 'ander onderwerp' (de zin klopt, maar gaat over een andere gebeurtenis of een ander moment dan het bericht, zodat hij misleidt). 'taal: nl' = de zin kwam in het Nederlands op een Engelse pagina. Gelezen met de fragmenten die de lezer zag; bij twijfel ook de factcheck zelf. Geen alarm bij W''. Voor de PO om na te kijken.",
+ "oordelen": [
+  {
+   "id": "O2:gfc-a75d190f79561001",
+   "label": "vals",
+   "reden": "groen: Youturn noemt het misleidend; volgens TCS is Nida Khan geen HR-manager of leider maar procesmedewerker. Goede media herhaalden de beschuldiging, zoals bij de iPhone-zaak; het bericht noemt ook een foto ('First picture'), maar de lezer zei over_beeld nee"
+  },
+  {
+   "id": "O2:gfc-90151b10e0f4d828",
+   "label": "set fout",
+   "reden": "groen: de tekst klopt op zich (aanhangers van Duterte hielden rally's in Davao: Reuters, AP, Inquirer); onwaar is de video, die volgens FactRakers van het Sinulog-feest in Cebu is, en die staat niet in de tekst. Een oordeel van Claude; strikt geteld is dit het tweede onterechte groen"
+  },
+  {
+   "id": "O2:gfc-19a5791552d12d7d#feit",
+   "label": "juist",
+   "reden": "de foto met Jezus is van de campagne in Thoothukudi, niet van de overwinningstocht: precies de correctie"
+  },
+  {
+   "id": "O2:gfc-0ee7b16c8f332e5a#anders",
+   "label": "juist",
+   "reden": "Alt News: een ontruiming in Dhaka"
+  },
+  {
+   "id": "O2:gfc-45d45684d2092b6a#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-45d45684d2092b6a#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-5e407824a1ff3dac#feit",
+   "label": "niet in de bronnen",
+   "reden": "'viral videos ... have been debunked' staat niet in de bronnen"
+  },
+  {
+   "id": "O2:gfc-c3cefce6b608ef2d#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-7e3eae9d900fd321#feit",
+   "label": "juist",
+   "reden": "NDTV: de politie van Kolhapur is een onderzoek begonnen"
+  },
+  {
+   "id": "O2:gfc-7e3eae9d900fd321#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-6f159ca77632f63b#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-e3a7e180ec5e3e3d#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-7a58387725cd27f9#feit",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-7a58387725cd27f9#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-53ed964215abb53e#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-53ed964215abb53e#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-dd1e702edd282ac5#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-dd1e702edd282ac5#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-84bed17a1825cb97#feit",
+   "label": "juist",
+   "reden": "een echte brand in een partijkantoor en een geplunderd kantoor, niet het huis van Mamata Banerjee"
+  },
+  {
+   "id": "O2:gfc-ada56682fdf9bc0b#feit",
+   "label": "juist",
+   "reden": "de verkiezingsuitslag kwam na het bericht; The Hindu: 'principal opposition party'",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-3bd7ad047798e376#feit",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-cf6914302c5f2396#feit",
+   "label": "juist",
+   "reden": "de brand was echt (21 doden); FACTLY: de video hoort er niet bij"
+  },
+  {
+   "id": "O2:gfc-60ba466811e1f24f#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-60ba466811e1f24f#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-86848e015dd94f5b#feit",
+   "label": "niet in de bronnen",
+   "reden": "'in juni 2026' staat niet in de bronnen",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-be0a5a433043b693#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-be0a5a433043b693#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-2c722862ffb9b5e4#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-3036e4531ef12eac#feit",
+   "label": "juist",
+   "reden": "dat de bewering gedaan werd, niet dat ze klopt",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-3036e4531ef12eac#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-b8ddc572de457f67#anders",
+   "label": "juist",
+   "reden": "Alt News en The Logical Indian: Hathazari, 2021"
+  },
+  {
+   "id": "O2:gfc-24eec79c4c395015#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-2f6ddb185447769b#feit",
+   "label": "juist",
+   "reden": "het welkom voor het akkoord was op 15 juni, na het bericht; als achtergrond juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-2f6ddb185447769b#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-d5b9c3b3f9be6100#feit",
+   "label": "juist",
+   "reden": "over vergelijkbare video's; of deze video er een van is, zeggen de bronnen niet zeker"
+  },
+  {
+   "id": "O2:gfc-d5b9c3b3f9be6100#anders",
+   "label": "juist",
+   "reden": "idem: 'such videos'"
+  },
+  {
+   "id": "O2:gfc-dbf0739e5c6ee94e#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-dbf0739e5c6ee94e#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-1ae1ab19a699f139#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-25b96df4ca4e2aff#feit",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-25b96df4ca4e2aff#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-01910336f1f31da4#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-01910336f1f31da4#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-ff54f9712c3ee597#feit",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-ff54f9712c3ee597#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-12dafb39be5d6483#feit",
+   "label": "juist",
+   "reden": "de verkrachting was echt (twee aangehouden); FACTLY: de video hoort er niet bij"
+  },
+  {
+   "id": "O2:gfc-26fe419619924402#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-3baf6b8550546227#feit",
+   "label": "juist",
+   "reden": "algemeen: zulke aanvallen gebeurden, maar niet deze gebeurtenis; kan het verzonnen verhaal geloofwaardiger maken"
+  },
+  {
+   "id": "O2:gfc-4b9ed95ba6eedce3#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-366f27c3601d1983#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-13a35b9ccc870ad9#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-6afb974e03d98be4#feit",
+   "label": "ander onderwerp",
+   "reden": "Youturn: het bericht gaat over Saayoni Ghosh en de opkomst in West-Bengalen; de lezer pakte de verkiezingen in Israël"
+  },
+  {
+   "id": "O2:gfc-6afb974e03d98be4#anders",
+   "label": "vals",
+   "reden": "'The real turnout figure was 77.7%, not 93%' gaat over Israël, niet over West-Bengalen"
+  },
+  {
+   "id": "O2:gfc-ea8891e32dbaf9ea#feit",
+   "label": "juist",
+   "reden": "crictracker: 7 april"
+  },
+  {
+   "id": "O2:gfc-2614f15fdac7a1d9#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-2614f15fdac7a1d9#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-2d190f873527cf3e#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-6ac7fa0392a9b369#feit",
+   "label": "ander onderwerp",
+   "reden": "ander moment: de bewering is van mei, het feit over oktober; zo lijkt de bewering gesteund"
+  },
+  {
+   "id": "O2:gfc-6ac7fa0392a9b369#anders",
+   "label": "ander onderwerp",
+   "reden": "ander moment, zie het feit"
+  },
+  {
+   "id": "O2:gfc-bbf8adb385dbd2ba#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-bbf8adb385dbd2ba#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-217432d80340bf5a#feit",
+   "label": "ander onderwerp",
+   "reden": "Youturn: het bericht gaat over het oude hulpnummer 1100 in Tamil Nadu; de lezer pakte klachtensites van de VS"
+  },
+  {
+   "id": "O2:gfc-f304d0ded4d0368c#feit",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-f304d0ded4d0368c#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-955127e3f6180e88#feit",
+   "label": "niet in de bronnen",
+   "reden": "'in a 2020 lab study': het jaar staat niet in de bronnen (het klopt wel)"
+  },
+  {
+   "id": "O2:gfc-de73e8b473bbb9da#feit",
+   "label": "niet in de bronnen",
+   "reden": "'November' staat niet in de bronnen (2018 wel)",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-de73e8b473bbb9da#anders",
+   "label": "juist",
+   "taal": "nl"
+  },
+  {
+   "id": "O2:gfc-b82a4f20b9a4c1b2#feit",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-b82a4f20b9a4c1b2#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-3f28d5991b3283d1#feit",
+   "label": "juist",
+   "reden": "het feit is de ontkrachting zelf"
+  },
+  {
+   "id": "O2:gfc-3f28d5991b3283d1#anders",
+   "label": "juist"
+  },
+  {
+   "id": "O2:gfc-2aaaf3ba00148930#feit",
+   "label": "niet in de bronnen",
+   "reden": "de bron zegt dat een biryaniwinkel moest verhuizen, niet dat hij vernield werd"
+  },
+  {
+   "id": "W2:8-19#feit",
+   "label": "juist"
+  },
+  {
+   "id": "W2:7-29#feit",
+   "label": "juist"
+  }
+ ]
+}

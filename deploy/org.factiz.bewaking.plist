@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>org.factiz.bewaking</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-c</string>
+    <string>cd "/path/to/factiz" &amp;&amp; mkdir -p data/bewaking &amp;&amp; .venv/bin/python -m factiz_site.bewaking --melding &gt;&gt; data/bewaking/launchd.log 2&gt;&amp;1</string>
+  </array>
+  <!-- Elke dag om 9:07 (PLAN #34.2bv; PO 2026-11-17: "Uurlijkse check vind ik iets te veel, is dagelijks genoeg?"): de vaste
+       pagina's, robots.txt en een stel nieuwe factchecks en deelplaatjes op factiz.org, en de storingen die de Worker telde;
+       een melding op de Mac bij een probleem. Sliep de Mac om 9:07, dan draait het zodra hij wakker wordt. Aanzetten:
+       sed "s|/path/to/factiz|$PWD|" deploy/org.factiz.bewaking.plist > ~/Library/LaunchAgents/org.factiz.bewaking.plist && launchctl load ~/Library/LaunchAgents/org.factiz.bewaking.plist -->
+  <!-- launchd begint met een kale PATH: wrangler (voor de storingen in D1) heeft node nodig -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>7</integer>
+  </dict>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>10</integer>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren nannte in ihrer Anhörung zur Ausgangssperre das OMT, nicht Pieter Omtzigt",
+  "oordeel_zin": "In ihrer Anhörung vom 2. September sagte Ollongren, die Empfehlung des OMT habe sie überzeugt, und der Name Omtzigt fällt dort nicht [2].",
+  "bewering": "Ollongren gibt zu: Omtzigt überzeugte sie vom Nutzen der Ausgangssperre.",
+  "kort": "Am 6. September kursierte auf X ein Bild zur Anhörung von Kajsa Ollongren mit der Behauptung, sie habe zugegeben, dass Pieter Omtzigt sie vom Nutzen der Ausgangssperre überzeugt habe [1]. In der Anhörung sprach Ollongren über das OMT, das Outbreak Management Team, das die Regierung in der Coronazeit beriet, und nicht über Omtzigt [2] [4]. Die Empfehlung des OMT zur Wirkung der Ausgangssperre gab für sie den Ausschlag [2].",
+  "tekst": "Am Sonntag, dem 6. September, um 17.08 Uhr stellte ein Account auf X ein Bild zur Anhörung der ehemaligen Ministerin Kajsa Ollongren ein, mit dem Text, sie habe zugegeben, dass Omtzigt sie vom Nutzen der Ausgangssperre überzeugt habe [1]. Der Post spottete, sie sei zuerst dagegen gewesen und habe es im Nachhinein einem anderen in die Schuhe geschoben [1]. Am 18. November hatte der Post 200 Likes und 61 Antworten [1].\n\nOllongren wurde am Mittwoch, dem 2. September, von 10.00 bis 12.50 Uhr vom parlamentarischen Untersuchungsausschuss Corona angehört [2] [3]. In der Coronazeit war sie Innenministerin und Vizepremierministerin für D66 [2] [3]. Die Nachrichtenagentur ANP berichtete an diesem Vormittag über ihre Anhörung [6].\n\nOMT steht für Outbreak Management Team: die Fachleute, die die Regierung in der Coronazeit berieten. Das RIVM veröffentlicht ihre Empfehlungen [4]. Im Protokoll der Anhörung steht die Abkürzung OMT 65 Mal, der Name Omtzigt kein einziges Mal [2].\n\nZur Ausgangssperre erzählte Ollongren, dass sie und ihr Ministerium lange dagegen waren, weil die Maßnahme so tief in die Bewegungsfreiheit aller eingreift [2]. Nach ihren Worten lag die Ausgangssperre drei- oder viermal auf dem Tisch und wurde jedes Mal wieder vom Tisch genommen [2]. Den Ausschlag gab das OMT. Es schätzte im Januar 2021 die Wirkung auf die Ausbreitung des Virus auf 8 bis 13 Prozent und sagte, keine andere Maßnahme könne dasselbe erreichen [2]. Daraufhin stimmte sie widerwillig zu, und sie sagte, sie sei damals überzeugt gewesen [2].\n\nDas passt zu dem, was andere Zeugen zuvor erzählten. Laut NOS nannte das OMT die Ausgangssperre schon früher als Option, wollte die Regierung zunächst nichts davon wissen, und eine spätere Dringlichkeitsempfehlung des OMT besagte, die Maßnahme könne Wirkung haben [5]. Die Ausgangssperre trat am 23. Januar 2021 in Kraft und wurde fünfmal verlängert [2].\n\nDas Protokoll, das wir gelesen haben, ist noch nicht korrigiert. Deshalb geben wir wieder, was Ollongren sagte, und zitieren sie nicht wörtlich [2].",
+  "niet_weten": "Wir wissen nicht, ob der Verfasser des Posts OMT falsch gelesen hat oder bewusst Omtzigt daraus gemacht hat. Dass der Name Omtzigt nicht fällt, ist unsere Zählung im Bericht.",
+  "bereik": "200 Likes und 61 Antworten am 18. November",
+  "nog_uitzoeken": [
+   "Wer den Post als Scherz über eine falsch gelesene Abkürzung liest, kann „irreführend“ verteidigen. Wir haben „falsch“ gewählt."
+  ],
+  "tijdlijn": [
+   "Eine regionale Ausgangssperre steht zum ersten Mal in einer Empfehlung des OMT [2].",
+   "Die Ausgangssperre tritt in Kraft, nach einer Dringlichkeitsempfehlung des OMT [2] [5].",
+   "Die NOS beschreibt nach früheren Anhörungen, wie die Ausgangssperre dennoch kam [5].",
+   "Die Anhörung von Ollongren beginnt [2] [3].",
+   "Der Post auf X mit dem Bild und der Behauptung über Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Post auf X, 6. September 2026, 17.08 Uhr.",
+   "Die öffentliche Anhörung von Kajsa Ollongren durch den parlamentarischen Untersuchungsausschuss Corona, 2. September 2026, 10.00 Uhr. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Bild zur Anhörung von Kajsa Ollongren über die Ausgangssperre, geteilt, als habe sie Pieter Omtzigt genannt. Stempel: FALSCH.",
+   "Das Video der Anhörung von Kajsa Ollongren im Enquêtesaal der Tweede Kamer."
+  ]
+ }
+}

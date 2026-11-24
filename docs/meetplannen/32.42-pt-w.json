@@ -1,0 +1,60 @@
+{
+ "taak": "32.42-pt-w",
+ "toelichting": "De Portugese set W opnieuw, hersteld (PLAN #32.42, BENCHMARK §223 en §224, PO 2026-11-06: \"herstel de Portugese W-set (kop en begin van het artikel, zonder de balk met recente koppen), eerst een proef, dan alleen die 100 opnieuw meten binnen $3,50\"). Dezelfde steekproef als in 32.42-pt; per artikel de kop, de eigen datum en de alineatekst van de pagina zelf (`python -m doublecheck.talenset herstel --taal pt`). 98 van de 100: twee pagina's zijn alleen een uitslagentabel. Vastgelegd vóór de eerste vraag. De eisen hebben dezelfde grens als 4a en 4b van 32.42-pt, die W en W-merk samen tellen; hier W alleen, W-merk uit 32.42-pt komt er in het verslag naast.",
+ "map": "data/meting/32.42-pt-w",
+ "labels": "docs/steekproeven/32.42-pt-w.json",
+ "budget": 3.5,
+ "zaad": 3247,
+ "sets": {
+  "W": {
+   "bron": "data/talen/meting/pt-w.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v9",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [],
+ "waar": [
+  "W"
+ ],
+ "eisen": [
+  {
+   "naam": "4a. W hersteld: hoogstens 2 vals alarm (zoals 4a van 32.42-pt)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4b. W hersteld: hoogstens 3 keer niet bevestigd (zoals 4b van 32.42-pt)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  }
+ ],
+ "zoekvragen_max": 420
+}

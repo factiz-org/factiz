@@ -1,0 +1,19 @@
+.venv/
+.env
+*.db
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# SQLite-tussenbestanden: transiënte staat van een lopende transactie.
+# `*.db` dekt deze achtervoegsels niet (#14.4-nasleep).
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Opgehaalde feed: 190 MB CC BY-brondata, standaard cachepad van
+# `doublecheck.bootstrap`. Hoort net zomin in de repo als het corpus zelf (#15.3).
+data/
+# Maar de gegevens van de site (menu, voet) horen er wel in (#23.11).
+
+# De Astro-site (#23.11): afhankelijkheden en de build horen niet in git.

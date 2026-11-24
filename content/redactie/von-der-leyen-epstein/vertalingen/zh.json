@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "烏蘇拉·馮德萊恩與 Jeffrey Epstein 的合照是用 AI 製作的",
+  "oordeel_zin": "這張圖像帶有 AI 浮水印，7月就已在 Facebook 上被標示為 AI 內容，圖上的編號也不見於 Epstein 檔案 [1] [2] [11]。",
+  "bewering": "這張來自 Epstein 檔案的照片，顯示 Ursula von der Leyen 與 Jeffrey Epstein 在一起。",
+  "kort": "自10月7日起，X 上流傳一張荷蘭語貼文的圖像，內容是 Ursula von der Leyen 與 Jeffrey Epstein，圖上有檔案編號和文件編號 [10]。這張圖像是用 AI 製作的：它自7月12日起出現在 Facebook，並帶有 AI 內容標籤，各家編輯部還在其中發現了不可見的 AI 浮水印 [11] [1] [2]。圖上的編號並未出現在美國司法部公開的 Epstein 檔案中 [1] [3] [6]。",
+  "tekst": "2026年10月7日星期三23:21，X 上出現一則荷蘭語貼文，附有一張歐洲委員會主席 Ursula von der Leyen 與 Jeffrey Epstein 並排的圖像 [10]。圖上有一個檔案編號和一個文件編號，意在暗示這張圖來自 Epstein 檔案 [1] [4]。\n\n這張圖像比這則貼文更早出現。各編輯部找到的最早版本，自2026年7月12日起出現在 Facebook 一名個人帳號上，並帶有 Meta 為 AI 製作內容加上的標籤 [11] [1]。一天後，它出現在 Pravda 網絡的法語網站上 [1]。這是一個親俄網站網絡，偽裝成新聞媒體 [9]。之後，這張圖像以義大利語、西班牙語、德語、英語、喬治亞語和俄語等多種語言流傳 [1] [2] [4] [5]。\n\n義大利的 Open 和西班牙的 Maldita.es 在圖像中發現了 SynthID [1] [2]。這是 Google 在以其 AI 製作或編輯的圖像中加入的不可見浮水印 [8]。Lead Stories 和 TheJournal.ie 也報導發現了 AI 浮水印 [3] [4]。Open 在新聞檔案和已公開的文件中，沒有找到兩人的真實合照 [1]。\n\n接下來是編號。美國司法部把調查 Epstein 的文件放在網上的 Epstein Library [6]。2026年1月，在先前幾次公開之後，又新增了約300萬頁 [7]。根據 Open、Lead Stories 和 Myth Detector，圖上的編號並未出現在這些文件中，而且司法部使用的編號方式完全不同 [1] [3] [5]。\n\n這則荷蘭語貼文出現的時間，比我們找到的第一則查核（Open 於7月15日發布）晚了將近三個月，比 Lead Stories 的查核晚了五週 [1] [3] [10]。我們沒有找到荷蘭語的查核。",
+  "niet_weten": "我們不知道這張圖像是誰製作的。Lead Stories 與 TheJournal.ie 報導,OpenAI 的一個程式發現了 SynthID 浮水印 [3] [4]。SynthID 屬於 Google [8];為什麼 OpenAI 的程式會回報這一點,我們不知道。這並不改變判斷:Open 與 Maldita.es 是用 Google 的程式找到這個浮水印的 [1] [2]。",
+  "nog_uitzoeken": [
+   "貼文所顯示的是圖像的哪個版本(黑白或彩色),以及附上的是什麼文字。該貼文已被刪除。"
+  ],
+  "tijdlijn": [
+   "司法部把約300萬頁有關 Epstein 的文件放上網 [7]。",
+   "圖像出現在 Facebook，帶有 Meta 的 AI 內容標籤 [11] [1]。",
+   "圖像出現在 Pravda 網絡的法語網站 [1]。",
+   "Open：圖像是用 AI 製作的 [1]。",
+   "Maldita.es：不實，帶有 Google 的浮水印 [2]。",
+   "Lead Stories：以 AI 製作，編號不在檔案中 [3]。",
+   "TheJournal.ie：以 AI 製作，在 Facebook 上被分享超過一千次 [4]。",
+   "X 上的荷蘭語貼文 [10]。",
+   "Myth Detector：圖像以喬治亞語和俄語流傳 [5]。"
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "_meta": "Labels van de ronde met het beeld (PLAN #32.6b), 2026-10-29, gelezen door Claude. Per bericht en arm: bij N een rood met een andere bron dan de eigen check ('bewijst', 'bewijst via factcheck', 'bewijst niet', 'set fout') en elk groen ('vals groen' of 'set fout'); bij W elk rood ('vals' of 'set fout'). Alleen ids en labels; openbare beelden uit M4FC.",
+ "oordelen": [
+  {
+   "id": "n-sn-004",
+   "arm": "zonder",
+   "label": "bewijst via factcheck",
+   "reden": "checks over dezelfde foto van Netanyahu en zijn zoon: oud, niet van deze oorlog"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "zonder",
+   "label": "bewijst via factcheck",
+   "reden": "Fact Crescendo: de foto van kapitein Dhillon is niet van een gewonde boer; dezelfde fotobewering als de eigen check"
+  },
+  {
+   "id": "n-sn-007",
+   "arm": "zonder",
+   "label": "bewijst via factcheck",
+   "reden": "The Quint: de foto komt van een protest in Bangladesh in 2013, niet uit Kerala"
+  },
+  {
+   "id": "n-sn-020",
+   "arm": "zonder",
+   "label": "bewijst via factcheck",
+   "reden": "checks: de beelden zijn niet van de crash van Raisi's helikopter"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "zonder",
+   "label": "bewijst",
+   "reden": "AAP: de baby is een Amerikaans meisje met een zeldzame aandoening, niet uit Gaza"
+  },
+  {
+   "id": "n-sn-053",
+   "arm": "zonder",
+   "label": "bewijst niet",
+   "reden": "de checks gaan over andere, geënsceneerde video's van hetzelfde verhaal; de eigen check gaat over beelden van een Koranceremonie"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "zonder",
+   "label": "vals groen",
+   "reden": "de tekst (Chilima omgekomen) klopt, maar de foto is volgens de eigen check niet van deze crash; het model zag dat met beeld zelfs, en gaf toch groen"
+  },
+  {
+   "id": "n-sn-004",
+   "arm": "met",
+   "label": "bewijst via factcheck",
+   "reden": "checks over dezelfde foto van Netanyahu en zijn zoon: oud, niet van deze oorlog"
+  },
+  {
+   "id": "n-sn-006",
+   "arm": "met",
+   "label": "bewijst via factcheck",
+   "reden": "Fact Crescendo: de foto van kapitein Dhillon is niet van een gewonde boer; dezelfde fotobewering als de eigen check"
+  },
+  {
+   "id": "n-sn-007",
+   "arm": "met",
+   "label": "bewijst via factcheck",
+   "reden": "The Quint: de foto komt van een protest in Bangladesh in 2013, niet uit Kerala"
+  },
+  {
+   "id": "n-sn-020",
+   "arm": "met",
+   "label": "bewijst via factcheck",
+   "reden": "checks: de beelden zijn niet van de crash van Raisi's helikopter"
+  },
+  {
+   "id": "n-sn-036",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "AAP: de baby is een Amerikaans meisje met een zeldzame aandoening, niet uit Gaza"
+  },
+  {
+   "id": "n-sn-053",
+   "arm": "met",
+   "label": "bewijst niet",
+   "reden": "de checks gaan over andere, geënsceneerde video's van hetzelfde verhaal; de eigen check gaat over beelden van een Koranceremonie"
+  },
+  {
+   "id": "n-sn-034",
+   "arm": "met",
+   "label": "vals groen",
+   "reden": "de tekst (Chilima omgekomen) klopt, maar de foto is volgens de eigen check niet van deze crash; het model zag dat met beeld zelfs, en gaf toch groen"
+  },
+  {
+   "id": "n-sn-018",
+   "arm": "zonder",
+   "label": "vals groen",
+   "reden": "het model bevestigde de overstroming van 2019; de bewering gaat over de foto, die niet uit Hyderabad komt"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "zonder",
+   "label": "vals groen",
+   "reden": "het model bevestigde een andere bewering (PM-Kisan); de foto komt uit Bihar, niet uit West-Bengalen"
+  },
+  {
+   "id": "n-sn-018",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "BOOM: de video van het zwemmende stel komt uit Prayagraj, niet uit Hyderabad"
+  },
+  {
+   "id": "n-sn-019",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Factly en Logically: de foto van Dhoni is uit 2020, geen steun aan Congress"
+  },
+  {
+   "id": "n-sn-040",
+   "arm": "met",
+   "label": "bewijst via factcheck",
+   "reden": "Fact Crescendo: de foto van Yogi Adityanath met vlees is bewerkt"
+  },
+  {
+   "id": "n-sn-050",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Factly: de man op de foto is zakenman Azad Moopen, niet het hoofd van de ISI"
+  },
+  {
+   "id": "n-sn-051",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Alt News: de foto komt uit Kaimur in Bihar, juli 2020"
+  },
+  {
+   "id": "n-sn-054",
+   "arm": "met",
+   "label": "bewijst",
+   "reden": "Factly: de peiling is bewerkt; de BJP kreeg 252-272, de BSP 8-16"
+  },
+  {
+   "id": "w-03796",
+   "arm": "zonder",
+   "label": "set fout",
+   "reden": "M4FC noemt het waar, maar Africa Check en Snopes weerleggen de 48 (of 50) rijstroken: een tolplein van de G4 met hooguit 25"
+  },
+  {
+   "id": "w-04544",
+   "arm": "zonder",
+   "label": "vals",
+   "reden": "de bronnen zeggen ~15 cm en onaangenaam, niet ondraaglijk; verdedigbaar, maar de set noemt de bewering waar, dus streng geteld als onterecht rood"
+  },
+  {
+   "id": "w-03796",
+   "arm": "met",
+   "label": "set fout",
+   "reden": "M4FC noemt het waar, maar Africa Check en Snopes weerleggen de 48 (of 50) rijstroken: een tolplein van de G4 met hooguit 25"
+  },
+  {
+   "id": "w-04544",
+   "arm": "met",
+   "label": "vals",
+   "reden": "de bronnen zeggen ~15 cm en onaangenaam, niet ondraaglijk; verdedigbaar, maar de set noemt de bewering waar, dus streng geteld als onterecht rood"
+  }
+ ]
+}

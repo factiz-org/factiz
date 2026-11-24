@@ -1,0 +1,32 @@
+{
+ "taak": "poproef-2026-11-07-2",
+ "toelichting": "Ronde 2 van de kaartenbak, zoals het product (PLAN #32.45, PO 2026-11-07: \"Het product is toch factiz? ... dat is inderdaad wat ik wil testen met de kaartenbak\"). 25 westerse berichten die de PO nog niet zag (`python -m doublecheck.poproef berichten --zaad 2026-11-07-2`), door dezelfde functies als `/check`: kring 1, de checks uit de database en de factchecksites in de zoekresultaten. De lezer zoals in config (`lezer-v9`). Geen eisen: de keuzes van de PO zijn de labels. Eerst `draaien --proef 2`.",
+ "map": "data/meting/poproef-2026-11-07-2",
+ "labels": "docs/steekproeven/poproef-2026-11-07-2-meting.json",
+ "budget": 1.0,
+ "zaad": 3251,
+ "sets": {
+  "O": {
+   "bron": "data/poproef/2026-11-07-2-berichten.jsonl",
+   "set": "O"
+  },
+  "W-merk": {
+   "bron": "data/poproef/2026-11-07-2-berichten.jsonl",
+   "set": "W-merk"
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v9",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "O"
+ ],
+ "waar": [
+  "W-merk"
+ ],
+ "eisen": [],
+ "zoekvragen_max": 100
+}

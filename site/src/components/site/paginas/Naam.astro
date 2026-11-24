@@ -1,0 +1,29 @@
+---
+// De site, de pagina van een naam (PLAN #34.2r, DESIGN §4u): een ingang, nooit een oordeel. Geen omschrijving en geen
+// foto; het nummer bij Wikidata zegt wie of wat bedoeld is. Daaronder de nieuwste factchecks waarin de naam voorkomt,
+// met de ene kaart, en de lijst met het filter.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import Rij from '../Rij.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+import { NAAMPAGINAS_VINDBAAR } from '../../../lib/vindbaar.js';
+const { taal, n } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={n.naam} omschrijving={n.omschrijving} hier="namen" taal={taal} delen={['names', n.nummer]} aangeboden={NAAMPAGINAS_VINDBAAR ? TALEN : []} zoeknaam={n.naam}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[t('nav_namen'), pad(taal, 'names')]]} />
+    <header class="paginakop">
+      <span class="mono">{n.soort_tekst}{n.concept && <> · {t('dossier_concept')}</>}</span>
+      <h1 class="groot-kop">{n.naam}</h1>
+      <p class="text-[15.5px] leading-relaxed">{n.zin}</p>
+      <p class="zacht text-[13.5px]">{n.bedoeld} <a class="link" href={n.wikidata} rel="noopener">Wikidata {n.nummer}</a></p>
+    </header>
+    <section class="mt-10" aria-labelledby="nieuwste">
+      <div class="sectiekop"><h2 id="nieuwste">{t('start_nieuwste')}</h2><span class="mono">{n.aantal}</span></div>
+      <ol class="rijen">{n.rijen.map((r) => <Rij r={r} />)}</ol>
+      <p class="mt-4"><a class="knop h-auto min-h-11 whitespace-normal py-2" href={n.alle}>{n.alle_tekst}</a></p>
+    </section>
+  </div>
+</Site>

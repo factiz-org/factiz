@@ -1,0 +1,39 @@
+// De site als Cloudflare Worker (B80, PLAN #34.2bo stap 7): `npm run build:worker`, lokaal `npm run worker:lokaal`.
+// De uitgave staat in D1 (`DB`), per release een eigen database (`python -m doublecheck.d1uitgave`); het geheugen en de
+// lettertypen van het deelplaatje staan bij de statische bestanden van dezelfde bouw. Geen logboek van verzoeken (B78).
+{
+  "name": "factiz-site",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": false },
+  // op factiz.org (PO 2026-11-16: "Yes, factiz.org"), nog met noindex; www stuurt door (src/lib/koppen.js). Het testadres
+  // op workers.dev is weer uit, en er zijn geen voorbeeldadressen per versie. Terug naar de tijdelijke pagina: deze twee
+  // domeinen weghalen en ze in het Pages-project factiz-placeholder weer koppelen (docs/RUNBOOK.md).
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "factiz.org", "custom_domain": true },
+    { "pattern": "www.factiz.org", "custom_domain": true }
+  ],
+  // bij de database (West-Europa): een vraag aan D1 kostte vanuit Londen een mediaan van 24 ms, vanuit Amsterdam (bij de
+  // bezoeker) 29 (stap 8, 2026-11-16). De bezoeker gaat één keer heen en terug; de statische bestanden komen altijd van de
+  // dichtstbijzijnde plek.
+  "placement": { "region": "aws:eu-west-2" },
+  // de versie van deze uitrol: de sleutel van de paginacache, zodat elke uitrol leeg begint
+  "version_metadata": { "binding": "VERSIE" },
+  // Hoe ver de site open staat voor zoekmachines (PLAN #34.2bt, `site/src/lib/vindbaar.js`): "0" dicht, "1" de kern (B73),
+  // "2" elke factcheck één keer, "3" alles wat vindbaar is. Elke stap een eigen ja van de PO, dan uitrollen; de uitrol meldt
+  // daarna aan IndexNow. Stand 1 sinds 2026-11-17 (PO: "Volgens mij kunnen we robots gaan toelaten", B73); stand 2 sinds
+  // 2026-11-22 (PO: "En ik denk dat we ook etappe 2 live kunnen gaan zetten, we hoeven niet te wachten").
+  // FACTIZ_GA: het meet-ID van Google Analytics, property Factiz in het account Ideelab (B88, SPECS E9.S36); zonder geen
+  // banner en niets van Google
+  "vars": { "FACTIZ_VINDBAAR": "2", "FACTIZ_GA": "G-S5L1VZM1WK" },
+  // DB: de uitgave, per release een eigen database. TELLINGEN: de anonieme tellingen (PO 2026-11-16: "Yes, counting D1";
+  // dezelfde tabel als factiz_site/tellen.py, B78), blijft over releases heen; lezen met `python -m factiz_site.tellen --d1`.
+  "d1_databases": [
+    { "binding": "DB", "database_name": "factiz-2026-11-23f", "database_id": "aad20eb0-df44-4e2b-9adf-d9ce629b1533" },
+    { "binding": "TELLINGEN", "database_name": "factiz-tellingen", "database_id": "eb27ad4d-8b89-482c-adc2-31944946ebdd" }
+  ],
+  // wat alleen de Worker zelf leest (het geheugen, de lettertypen) gaat niet als bestand naar buiten
+  "assets": { "binding": "ASSETS", "directory": "./dist-worker/client", "run_worker_first": ["/_geheugen/*", "/_deelbeeld/*"] }
+}

@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Die „iranische Behauptung“ zum Startstopp in den USA ist ein Beitrag mit zwei Emoji",
+  "oordeel_zin": "Ein Account namens Iran Military Media veröffentlichte ein Flugzeug und ein Kreuz, nachdem der Startstopp begonnen hatte, behauptete damit aber nichts, und die FAA führte den Stopp auf eine Datenflut in ihrem eigenen Netzwerk zurück [1] [3] [11].",
+  "bewering": "Iranische Accounts twittern jetzt und deuten an, sie seien für den Startstopp heute in den USA verantwortlich.   Es ist Zeit, dass Präsident Trump das iranische Regime erledigt.",
+  "kort": "Am 13. November schrieb Laura Loomer auf X, iranische Accounts deuteten an, hinter dem landesweiten Startstopp in den USA zu stecken, und forderte Präsident Trump auf, das iranische Regime zu erledigen [2]. Der von ihr zitierte Beitrag zeigt nur ein Flugzeug und ein Kreuz, veröffentlicht von einem Account namens Iran Military Media, nachdem der Startstopp begonnen hatte [3] [6]. Die FAA führte den Stopp auf eine Datenflut in ihrem eigenen Netzwerk zurück, und US-Beamte sagten, sie sähen keine Anzeichen für einen ausländischen Akteur [1] [9] [13].",
+  "tekst": "Am Freitag, dem 13. November, begann die US-Flugsicherung um 15:36 Uhr Ostküstenzeit (20:36 UTC), Radar- und Funkverbindungen zu verlieren, so Verkehrsminister Sean Duffy [5]. Kurz vor 16 Uhr stoppte die Federal Aviation Administration (FAA) alle Abflüge von US-Flughäfen, einen sogenannten Ground Stop (Startstopp) [6]. Flugzeuge, die bereits in der Luft waren, durften landen; Duffy sagte, zu diesem Zeitpunkt seien mehr als 3.500 in der Luft gewesen [7] [8]. Die FAA hob den Stopp gegen 20:15 Uhr Ostküstenzeit auf, am 14. November um 01:15 UTC [5].\n\nEs war der erste landesweite Startstopp seit Januar 2023 und der zweite seit den Anschlägen vom 11. September 2001 [6].\n\nUm 21:20 UTC, etwa 45 Minuten nach Beginn der Probleme, veröffentlichte ein Account namens Iran Military Media zwei Emoji auf X: ein Flugzeug und ein Kreuz [3] [5]. Der Beitrag enthält keine Worte, kein Bild und keinen Link [3]. Er erwähnt weder die FAA noch einen Cyberangriff oder eine Drohne, und er sagt nicht, wer etwas getan hat [3]. Um 23:00 UTC zitierte Laura Loomer ihn mit dem Text, iranische Accounts deuteten an, sie seien für den Startstopp verantwortlich [2]. Ihr Beitrag hatte am 19. November 19.468 Likes und 1.842 Antworten [2].\n\nDer Account trägt auf X keine Kennzeichnung einer Regierung oder offiziellen Organisation, und wir fanden keine Quelle, die ihn mit den iranischen Streitkräften in Verbindung bringt [3]. Irans Revolutionsgarde bekennt sich durchaus öffentlich zu Angriffen: Am selben Tag reklamierte sie einen Drohnenangriff auf eine US-Radarstation in Bahrain, und das US Central Command sagte, es habe die Drohnen abgefangen [15]. Keiner der von uns gelesenen Berichte über den Startstopp erwähnt ein iranisches Bekenntnis [9] [14] [15].\n\nAls Loomer ihren Beitrag veröffentlichte, hatten Beamte bereits gesagt, sie sähen keine Anzeichen für einen Angriff [4] [7]. Um 16:53 Uhr Ostküstenzeit sagten zwei Strafverfolgungsbeamte gegenüber CNN, nach vorläufigen Informationen handle es sich nicht um einen Cyberangriff [7]. Heimatschutzminister Markwayne Mullin sagte Reportern im Weißen Haus, es gebe keinen Hinweis auf einen böswilligen Angriff, und sprach von einem Ausfall der Telekommunikation [4].\n\nDie ersten Erkenntnisse der FAA, veröffentlicht am 15. November, verweisen auf ihr eigenes Telekommunikationsnetz, das der Auftragnehmer L3Harris betreibt [1]. Das Netz wurde von zwei Standorten mit Daten überflutet: einer Radarstation in Amarillo, Texas, und einer Funkstation in El Dorado, Arkansas, wo L3Harris einen neuen Router installiert hatte [1] [11]. Die ältere Ausrüstung erhielt etwa alle vier bis fünf Sekunden 1.000 Verbindungsversuche und wurde instabil [11]. Der Datenverkehr beruhigte sich, nachdem L3Harris die beiden Standorte abgetrennt hatte [11]. Duffy sagte, bei den Arbeiten in El Dorado seien alte Kupferleitungen durch Glasfaser ersetzt worden [9] [11].\n\nAm 14. November sagte Duffy: „Es war kein ausländischer Akteur.“ [9] FAA-Chef Bryan Bedford sagte, der Situation Room des Weißen Hauses und das FBI seien beteiligt gewesen, und alle Beteiligten seien zu dem Schluss gekommen, dass es kein Cyberproblem war [9]. Am 17. November sagte der Direktor der Nationalen Nachrichtendienste, Jay Clayton, bei Fox Business, er sehe keine Anzeichen für einen koordinierten Cyberangriff hinter der jüngsten Reihe von Ausfällen, und führte sie auf Patches und Systemupdates zurück [13]. In einem Reuters-Bericht desselben Tages sagte eine Sprecherin des Weißen Hauses, es gebe keine Belege für einen Cyberangriff dahinter [12].\n\nDer Iran kam aus einem Grund ins Spiel: Die Vereinigten Staaten befinden sich im Krieg mit dem Iran, und der Iran hatte gewarnt, im Cyberraum zurückzuschlagen [9]. Am 18. November teilte Mullin dem Kongress schriftlich mit, die iranische Regierung und von Teheran unterstützte Gruppen hätten US-Infrastruktur ins Visier genommen, brachte den Iran aber nicht mit dem Startstopp in Verbindung [14].\n\nDie genaue Ursache steht noch nicht fest: Die FAA und L3Harris prüfen weiterhin, ob ein Installationsfehler, ein defektes Gerät oder etwas anderes die Datenflut ausgelöst hat [11]. Am 15. November sagte Duffy, er habe keinen Hinweis auf einen Hack, und das FBI helfe und werde alles mitteilen, was es herausfinde [10].\n\nWir fanden keinen Faktencheck einer anderen Redaktion zur Behauptung über den Iran; der österreichische Faktenchecker Mimikama bestätigte am 14. November, dass die FAA Abflüge landesweit gestoppt hatte, und fand keine Belege für einen Cyberangriff [16]. PolitiFact prüfte am 17. November, wer politisch für den Ausfall verantwortlich war, nicht eine Verbindung zum Iran [17].",
+  "niet_weten": "Wir wissen nicht, wer das Konto Iran Military Media betreibt, aus welchem Land und was damit mit dem Flugzeug und dem Kreuz gemeint war [3]. Loomer schrieb von iranischen Konten im Plural; wir haben nur den einen Beitrag gefunden, den sie zitiert hat [2] [3]. Die endgültige Ursache des Startstopps ist noch nicht bekannt [10] [11].",
+  "bereik": "19.468 Likes und 1.842 Antworten am 19. November",
+  "nog_uitzoeken": [
+   "Wer das Konto Iran Military Media betreibt und welches Land X dafür anzeigt.",
+   "Ob andere Konten, die sich als iranisch ausgeben, den Startstopp an jenem Tag für sich reklamiert haben, auf Persisch oder auf Englisch.",
+   "Was die abschließende Untersuchung der FAA ergibt: einen Installationsfehler, einen defekten Router oder etwas anderes, und welche Rolle die Anlage in Amarillo spielte.",
+   "Wir haben zwischen Irreführend und Falsch geschwankt. Dass der Emoji-Beitrag existiert, ließ uns Irreführend wählen; er behauptet nichts, und es gibt kein Anzeichen dafür, dass der Iran beteiligt war, was für Falsch spricht."
+  ],
+  "tijdlijn": [
+   "Radar- und Funkverbindungen der US-Flugsicherung werden instabil, so Duffy [5].",
+   "Kurz vor 16 Uhr Ostküstenzeit stoppt die FAA alle Abflüge von US-Flughäfen [6].",
+   "Iran Military Media veröffentlicht auf X ein Flugzeug und ein Kreuz [3].",
+   "Zwei Strafverfolgungsbeamte sagen CNN, nach vorläufigen Informationen sei es kein Cyberangriff [7].",
+   "NPR berichtet über Mullin: kein Hinweis auf einen böswilligen Angriff, ein Ausfall der Telekommunikation [4].",
+   "Laura Loomer zitiert den Emoji-Beitrag: Iranische Accounts deuteten an, sie seien verantwortlich [2].",
+   "Die FAA hebt den Startstopp auf, am 13. November um 20:15 Uhr Ostküstenzeit [5].",
+   "Duffy: Die Ursache liegt in Arbeiten eines Auftragnehmers von L3Harris, und es war kein ausländischer Akteur [9].",
+   "Erste Erkenntnisse der FAA: eine Datenflut von zwei Standorten, in Amarillo und El Dorado [1] [11].",
+   "Der Direktor der Nationalen Nachrichtendienste, Clayton, sieht keine Anzeichen für einen koordinierten Cyberangriff [13].",
+   "Mullin an den Kongress: Der Iran nimmt US-Infrastruktur ins Visier, ohne Verbindung zum Startstopp [14]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 13. November 2026, 23:00 UTC."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag von Laura Loomer auf X, in dem es heißt, iranische Accounts deuteten an, sie seien für den Startstopp in den USA verantwortlich, und der einen Beitrag von Iran Military Media mit einem Flugzeug und einem Kreuz zitiert. Stempel: IRREFÜHREND."
+  ]
+ }
+}

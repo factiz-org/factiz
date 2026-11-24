@@ -1,0 +1,305 @@
+{
+ "toelichting": "Steekproef bij de uitleg van lezer-v14 (PLAN #32.56, BENCHMARK §240): 60 willekeurige zinnen (zaad 3256) van de 474 die de nakijker (Haiku, `uitlegdekking`) *niet gedekt* noemde, gelezen door een deelagent tegen de titels en fragmenten die de lezer zag, zonder pagina's te openen. Geen volledige telling: de eis van 95% is ook met de ruimste lezing niet haalbaar. De berichten zijn openbaar.",
+ "labels": [
+  {
+   "id": "O:gfc-073aa6295cdc9137#1",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Herhaalt alleen de bewering uit het bericht en zegt dat de resultaten die niet bevestigen; geen eigen feit dat een bron nodig heeft."
+  },
+  {
+   "id": "O:gfc-0b4aa3328c217f93#2",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; datum 15 september 2026, woordvoerder Turki al-Malki, SPA 16 september en Mekka staan nergens."
+  },
+  {
+   "id": "O:gfc-0b4aa3328c217f93#5",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Alleen een uitspraak dat de resultaten niet over de video gaan; geen eigen feit."
+  },
+  {
+   "id": "O:gfc-250e650e78266ed9#3",
+   "label": "wel gedekt",
+   "reden": "Titel onlyfact.in: 'UGC Protest Video from Bihar Misleadingly Shared as Anti-Modi Protest' (UGC = door gebruikers gemaakt)."
+  },
+  {
+   "id": "O:gfc-3036e4531ef12eac#5",
+   "label": "niet gedekt",
+   "reden": "Dalende moorden staat erin (1.597 in 2021 naar 1.461 in 2025), maar een totaal van 7.500 tot 8.000 niet; voor een optelsom ontbreekt 2022."
+  },
+  {
+   "id": "O:gfc-308f689a8bbc435f#5",
+   "label": "wel gedekt",
+   "reden": "Afwezigheid klopt met de snippets: die tonen Schumer met een foto van Epstein en Trump, en een bewerkte Trump-Epsteinfoto, geen echte Epstein-Schumerfoto."
+  },
+  {
+   "id": "O:gfc-36f71179bc2eb082#3",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; Independent, Yahoo, de Sri Lankaanse wetgever en het citaat staan nergens."
+  },
+  {
+   "id": "O:gfc-49fa8412dca5e562#4",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; News18, India TV News en de koolkurkumatip staan nergens."
+  },
+  {
+   "id": "O:gfc-5f22447d2538b6e3#2",
+   "label": "niet gedekt",
+   "reden": "72 Europarlementariers en de brief aan de EU-voetbalbonden staan in France 24, maar 'juli 2026' niet (en '27' volgt alleen uit eigen kennis)."
+  },
+  {
+   "id": "O:gfc-5f22447d2538b6e3#3",
+   "label": "niet gedekt",
+   "reden": "France 24-snippet breekt af bij 'urging…'; Balogun, de opgeschorte schorsing en de banden met Trump staan er niet in."
+  },
+  {
+   "id": "O:gfc-6410b6c8927ddc34#3",
+   "label": "niet gedekt",
+   "reden": "Snippet van de ICC geeft vier groepen (A tot en met D) van vijf, niet vijf groepen; de genoemde landen kloppen wel."
+  },
+  {
+   "id": "O:gfc-6f861540d751b08d#2",
+   "label": "wel gedekt",
+   "reden": "Al Jazeera-titel en snippet: drie doden bij hindoe-moslimonrust, avondklokken, premier roept op tot kalmte."
+  },
+  {
+   "id": "O:gfc-6f861540d751b08d#3",
+   "label": "niet gedekt",
+   "reden": "De snippets zeggen niets over een ophanging of over de aanleiding van de onrust; dat het een andere gebeurtenis is, volgt er niet uit (gevolgtrekking)."
+  },
+  {
+   "id": "O:gfc-76ca1b42e683cb28#5",
+   "label": "niet gedekt",
+   "reden": "Hindustan Times en 10News staan niet onder de bronnen (alleen Roya News, Yahoo en Reality Tea)."
+  },
+  {
+   "id": "O:gfc-7edf8e15b9ca8d62#5",
+   "label": "niet gedekt",
+   "reden": "Newsweek staat niet onder de bronnen en de juridische stappen staan in geen enkele snippet."
+  },
+  {
+   "id": "O:gfc-7f0d339f2658e0e4#4",
+   "label": "niet gedekt",
+   "reden": "Snippets zeggen alleen dat het citaat nep is; de regenboogband in het verleden en positieve uitspraken over LGBTQ+ staan er niet (achtergrondkennis)."
+  },
+  {
+   "id": "O:gfc-81f8709112b49642#2",
+   "label": "wel gedekt",
+   "reden": "Senate Finance: [2025-07-17] 'Wyden Unveils Details of Treasury's Undisclosed Epstein File', 4.725 overboekingen."
+  },
+  {
+   "id": "O:gfc-a3b65f181d8b303d#3",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; The New York Times, Newsweek en de lichaamstaal tijdens de top staan nergens."
+  },
+  {
+   "id": "O:gfc-a980edf10ca130fa#3",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Afwezigheidsuitspraak over de resultaten ('staat niets over zeilen of kanonnen'); geen eigen feit, wel niet na te gaan zonder die berichten."
+  },
+  {
+   "id": "O:gfc-a980edf10ca130fa#6",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Redenering (zou breed in het nieuws zijn geweest), geen feit over de wereld of een bron."
+  },
+  {
+   "id": "O:gfc-b599df2d714217ef#6",
+   "label": "niet gedekt",
+   "reden": "Tamil Guardian-snippet noemt geen goud dat het leger zestien jaar bewaarde, en koppelt Silva juist wel aan een CID-onderzoek."
+  },
+  {
+   "id": "O:gfc-c7c258444842c071#2",
+   "label": "niet gedekt",
+   "reden": "PolitiFact op X staat erin (Feldman niet in de files), maar PolitiFactNC en WRAL staan niet onder de bronnen."
+  },
+  {
+   "id": "O:gfc-cd227f2243e51e15#1",
+   "label": "wel gedekt",
+   "reden": "Onlyfact (Hindi): tweet van 30 juni 2026, video uit Bangladesh; The News Minute en Alt News: Bangladesh, onterecht gedeeld als dochters in Kerala."
+  },
+  {
+   "id": "O:gfc-d2566dc13534fa39#7",
+   "label": "niet gedekt",
+   "reden": "Slay News en SGT Report komen in geen enkele snippet voor."
+  },
+  {
+   "id": "O:gfc-d443851b6eb73f9b#5",
+   "label": "wel gedekt",
+   "reden": "Afwezigheid klopt met de snippets: Times of India, Misbar en News Feeds noemen het beeld van Epstein in Tel Aviv AI-nep."
+  },
+  {
+   "id": "O:gfc-e05ba73981d57487#1",
+   "label": "wel gedekt",
+   "reden": "[geen feit] Zegt alleen dat de resultaten de video niet bevestigen; geen eigen feit."
+  },
+  {
+   "id": "O:gfc-e19e948b17ddbbd0#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] aiadopters.club: torens met 'you can't drink data' zijn AI-gemaakt en door factcheckers onwaar beoordeeld; alleen 'in 2026' staat niet in de snippet en beschrijft het bericht zelf."
+  },
+  {
+   "id": "O:gfc-ea3710533c537c13#6",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; berichten in augustus over grenscontrole en Marokkaanse onderscheppingen staan nergens."
+  },
+  {
+   "id": "O:gfc-eb205ff2044bcee1#5",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; Times of India, de baby bij de bushalte van Peth en de zaak tegen een onbekende staan nergens."
+  },
+  {
+   "id": "O:gfc-f0c735b51635a35f#1",
+   "label": "wel gedekt",
+   "reden": "Yahoo: beeld op 6 september 2026 op sociale media; Law Commentary: hij kan de naam niet per uitvoerend bevel veranderen."
+  },
+  {
+   "id": "O:gfc-f0c735b51635a35f#2",
+   "label": "niet gedekt",
+   "reden": "The Hill, Time en Truth Social staan niet in de snippets, en een kaart met 'Mexico' doorgestreept ook niet; alleen 'immediately' (CNN, Washington Post) staat erin."
+  },
+  {
+   "id": "O:gfc-f0c735b51635a35f#4",
+   "label": "niet gedekt",
+   "reden": "Het Federal Register staat niet onder de bronnen; uit een whitehouse.gov-pagina over Lake Ontario volgt niet dat er voor New Mexico geen bevel staat."
+  },
+  {
+   "id": "O:gfc-fde7e6a4c3ea12a4#3",
+   "label": "wel gedekt",
+   "reden": "Afwezigheid klopt met de snippet: weraven zegt dat de beelden van Farage in het ziekenhuis na een operatie nep zijn."
+  },
+  {
+   "id": "W:wikinews:en:123490#5",
+   "label": "wel gedekt",
+   "reden": "Goodreads en Haymarket: 'An immediate national bestseller'."
+  },
+  {
+   "id": "W:wikinews:en:123490#6",
+   "label": "wel gedekt",
+   "reden": "[bericht] Afwezigheid klopt (geen snippet noemt de AHCI); dat de bewering in de Wikinews-tekst staat, gaat over het bericht zelf."
+  },
+  {
+   "id": "W:wikinews:en:127789#5",
+   "label": "niet gedekt",
+   "reden": "NHL.com-snippet noemt alleen de twee goals van Talbot; Jonathan Ericsson staat nergens."
+  },
+  {
+   "id": "W:wikinews:en:15429#5",
+   "label": "niet gedekt",
+   "reden": "2006, SB96 en de verwerping door het Huis van Utah staan nergens; de snippets gaan over het terugtrekken in 2005."
+  },
+  {
+   "id": "W:wikinews:en:18928#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Chandra Photo Album: 'Supernova 1987A :: 17 Aug 05'; de datum 18 augustus 2005 van Wikinews is de datum van het bericht zelf en staat niet in een snippet."
+  },
+  {
+   "id": "W:wikinews:en:2324200#1",
+   "label": "niet gedekt",
+   "reden": "Wikidata en Wikinews geven 25 juli 2015, ronde 17, University wint van Toads; de stand 45-17 en Woombye staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:25282#5",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; guccime.com en Wikidata staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:25534#5",
+   "label": "wel gedekt",
+   "reden": "[bericht] Conclusie; de toespraak staat in de snippets (Gorbatsjov in Miami, oktober 2005, veiligheid, armoede, milieu); 'november 2005' is de datum van het bericht."
+  },
+  {
+   "id": "W:wikinews:en:26291#5",
+   "label": "wel gedekt",
+   "reden": "Snippets geven 52, minstens 60, 70, 74 en 80 doden; dat het dodental per bericht verschilde, volgt daar direct uit."
+  },
+  {
+   "id": "W:wikinews:en:2822#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Box Office Mojo: White Noise vanaf 7 januari 2005; Universal had de top twee met Fockers en White Noise (Movieweb, Wikinews, Hollywood.com 10 januari); de datum en aankondiging van de Wikinews-tekst gaan over het bericht."
+  },
+  {
+   "id": "W:wikinews:en:3199#5",
+   "label": "niet gedekt",
+   "reden": "De aantallen van 2.000 tot meer dan 3.000 staan nergens; de LA Times komt alleen voor als bron van Wikinews, met 800 woningen."
+  },
+  {
+   "id": "W:wikinews:en:37715#6",
+   "label": "wel gedekt",
+   "reden": "[bericht] Het artikel is het bericht zelf; de datum 2 april 2006 staat in geen snippet (Wikinews citeert de Star-Bulletin van 1 april 2006)."
+  },
+  {
+   "id": "W:wikinews:en:46062#6",
+   "label": "niet gedekt",
+   "reden": "Reuters en NBC News staan niet onder de bronnen; alle snippets zeggen juist dat vaders MS vaker doorgeven."
+  },
+  {
+   "id": "W:wikinews:en:46398#4",
+   "label": "niet gedekt",
+   "reden": "The Guardian noemt maagdarmbloeding, maar de ABC-snippet alleen 'delicate intestinal surgery'; de toeschrijving aan ABC klopt niet."
+  },
+  {
+   "id": "W:wikinews:en:476147#3",
+   "label": "niet gedekt",
+   "reden": "Mirror: 11.00 uur vanaf Portman Square en veertig jaar na de eerste mars; maar de Guardian-snippet noemt 11.00 uur en Portman Square niet; 1972 volgt uit 2012 min 40."
+  },
+  {
+   "id": "W:wikinews:en:48476#6",
+   "label": "niet gedekt",
+   "reden": "NBC: hij keerde terug uit de Sudanese gevangenis; dat de aanklachten werden ingetrokken, staat nergens."
+  },
+  {
+   "id": "W:wikinews:en:50968#5",
+   "label": "niet gedekt",
+   "reden": "Wikinews noemt 'personal issues', maar geen gezondheidsklachten; WWE-bronnen staan niet onder de bronnen."
+  },
+  {
+   "id": "W:wikinews:en:5804#4",
+   "label": "wel gedekt",
+   "reden": "Wikipedia-snippet: 'Pan-Green proposes Anti-Annexation Peace Law; rejected by Kuomintang'."
+  },
+  {
+   "id": "W:wikinews:en:6138#3",
+   "label": "wel gedekt",
+   "reden": "[bericht] CBC: 'as many as 20 rail cars'; de 24 wagons komen uit het bericht zelf."
+  },
+  {
+   "id": "W:wikinews:en:68012#2",
+   "label": "niet gedekt",
+   "reden": "Geen bronnen gegeven; CBS, AP, Reuters, Le Monde, Khamenei en 'bullying government' staan nergens."
+  },
+  {
+   "id": "W:wikinews:en:77796#5",
+   "label": "wel gedekt",
+   "reden": "LA Times: ontslag van aanklagers en 'warrantless electronic surveillance program'; NPR en MPR: het ontslaan van federale aanklagers."
+  },
+  {
+   "id": "W:wikinews:en:98629#2",
+   "label": "niet gedekt",
+   "reden": "Wikipedia en RocketLaunch.Live geven tijd, raket en plaats, maar de Softpedia-snippet geen van drieen en SpaceDaily geen tijd; de toeschrijving aan alle vier klopt niet."
+  },
+  {
+   "id": "WM:53d9ed6b0919#1",
+   "label": "wel gedekt",
+   "reden": "[bericht] Geen bronnen gegeven; titel, medium DW en datum beschrijven het bericht zelf (een echte kop met merk), niet na te gaan zonder het bericht."
+  },
+  {
+   "id": "WM:5eb9456f97e5#3",
+   "label": "wel gedekt",
+   "reden": "CNN: ontslag aangekondigd op donderdag; France 24: 'Peña offered his resignation ... but lawmakers pressed ahead with impeachment'."
+  },
+  {
+   "id": "WM:953ac110968e#1",
+   "label": "niet gedekt",
+   "reden": "Vijf doden op 7 november 2026 bij het marktplein staat erin, maar 'meerdere tientallen gewonden' niet: de snippets noemen 10 tot 15 gewonden."
+  },
+  {
+   "id": "WM:c68326e1c00d#5",
+   "label": "niet gedekt",
+   "reden": "Hindustan Times: een dode, acht gewonden; maar een AP-bericht staat er niet bij, en de KBZK-snippet noemt alleen negen gewonden, geen dode."
+  },
+  {
+   "id": "WM:f9eb81b6e047#5",
+   "label": "wel gedekt",
+   "reden": "Finwire: volgens de voorlopige uitslag genoeg zetels met Act en NZ First, sommige zetels met heel kleine marges; AP: 'slim lead'."
+  }
+ ]
+}

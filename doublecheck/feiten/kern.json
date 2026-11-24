@@ -1,0 +1,4883 @@
+{
+ "_meta": "De kern van vastgestelde feiten (B34, PLAN #30.1b): per feit één zin met één bewering, minstens drie onafhankelijke bronnen van minstens twee soorten met vindplaats en datum van nalopen, het oormerk (door, datum), en formuleringen in meerdere talen voor N3 in de zeef.",
+ "feiten": [
+  {
+   "id": "hiroshima-1945",
+   "zin": "On 6 August 1945 the United States dropped an atomic bomb on Hiroshima.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki",
+     "plek": "Opening definition paragraph",
+     "steunt": "American bombing of Hiroshima on August 6, 1945, the first wartime use of atomic weapons.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+     "plek": "Lead section, first paragraph",
+     "steunt": "The United States detonated atomic bombs over Hiroshima and Nagasaki on 6 and 9 August 1945.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nara",
+     "vindplaats": "https://www.trumanlibrary.gov/library/public-papers/93/statement-president-announcing-use-bomb-hiroshima",
+     "plek": "Statement by the President, 6 August 1945, first sentence",
+     "steunt": "An American airplane dropped one bomb on Hiroshima, announced on 6 August 1945.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nps",
+     "vindplaats": "https://www.nps.gov/mapr/learn/reflection-remembrance.htm",
+     "plek": "Reflection & Remembrance, first paragraph after the photo caption",
+     "steunt": "On August 6, 1945 the Enola Gay of the US Army Air Forces detonated Little Boy above Hiroshima.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "larousse",
+     "vindplaats": "https://www.larousse.fr/encyclopedie/ville/Hiroshima/123988",
+     "plek": "Section 'Histoire'",
+     "steunt": "Hiroshima was razed on 6 August 1945 by the first atomic bomb, dropped by the American bomber Enola Gay.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Wikipedia en NPS zeggen 'tot ontploffing gebracht boven' in plaats van 'afgeworpen op'.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 6 August 1945 the United States dropped an atomic bomb on Hiroshima."
+    },
+    {
+     "taal": "en",
+     "tekst": "The atomic bombing of Hiroshima happened in 1945."
+    },
+    {
+     "taal": "en",
+     "tekst": "Hiroshima was destroyed by an American atomic bomb in August 1945."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 6 augustus 1945 wierpen de Verenigde Staten een atoombom af op Hiroshima."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 6. August 1945 warfen die Vereinigten Staaten eine Atombombe auf Hiroshima ab."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 6 août 1945, les États-Unis ont largué une bombe atomique sur Hiroshima."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 6 de agosto de 1945, Estados Unidos lanzó una bomba atómica sobre Hiroshima."
+    },
+    {
+     "taal": "en",
+     "tekst": "America's atomic bomb struck the Japanese city of Hiroshima on 6 August 1945.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "On the sixth of August, 1945, an atomic bomb was released over Hiroshima by the United States.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El 6 de agosto de 1945, los norteamericanos arrojaron una bomba nuclear en la ciudad de Hiroshima.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 6 de agosto de 1945, os Estados Unidos lançaram uma bomba atômica sobre Hiroshima.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 6 agosto 1945 gli Stati Uniti sganciarono una bomba atomica su Hiroshima.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "6 Ağustos 1945'te Amerika Birleşik Devletleri Hiroşima'ya bir atom bombası attı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 6 Agustus 1945, Amerika Serikat menjatuhkan bom atom di Hiroshima.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في السادس من أغسطس عام 1945 أسقطت الولايات المتحدة قنبلة ذرية على مدينة هيروشيما.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "pearl-harbor-1941",
+   "zin": "On 7 December 1941 Japan attacked the US naval base at Pearl Harbor in Hawaii.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Pearl-Harbor-attack",
+     "plek": "Opening definition paragraph",
+     "steunt": "Surprise Japanese air attack on the US naval base at Pearl Harbor, Oahu, Hawaii, on December 7, 1941.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "larousse",
+     "vindplaats": "https://www.larousse.fr/encyclopedie/divers/Pearl_Harbor/137361",
+     "plek": "Entry text",
+     "steunt": "On 7 December 1941 Japanese aircraft surprised the US Pacific fleet at this base on Oahu, Hawaii.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nara",
+     "vindplaats": "https://www.archives.gov/milestone-documents/joint-address-to-congress-declaration-of-war-against-japan",
+     "plek": "Introductory text and the transcript",
+     "steunt": "The US naval base on Oahu, Hawaii was attacked by Japan on December 7, 1941.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nps",
+     "vindplaats": "https://www.nps.gov/wwii/learn/historyculture/pearl-harbor.htm",
+     "plek": "First and third paragraphs",
+     "steunt": "The December 7, 1941 Japanese attack on Pearl Harbor, America's main Pacific naval base in Hawaii.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+     "plek": "Lead section, first sentence",
+     "steunt": "Japanese forces made a surprise attack on the US Pacific Fleet at its Hawaiian base on 7 December 1941.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Plaatselijke datum van Hawaï; in Japan was het al 8 december.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 7 December 1941 Japan attacked the US naval base at Pearl Harbor in Hawaii."
+    },
+    {
+     "taal": "en",
+     "tekst": "Japan attacked Pearl Harbor in 1941."
+    },
+    {
+     "taal": "en",
+     "tekst": "The attack on Pearl Harbor was carried out by Japan."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 7 december 1941 viel Japan de Amerikaanse marinebasis Pearl Harbor op Hawaï aan."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 7. Dezember 1941 griff Japan den US-Marinestützpunkt Pearl Harbor auf Hawaii an."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 7 décembre 1941, le Japon a attaqué la base navale américaine de Pearl Harbor, à Hawaï."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 7 de diciembre de 1941, Japón atacó la base naval estadounidense de Pearl Harbor, en Hawái."
+    },
+    {
+     "taal": "en",
+     "tekst": "Japan launched an assault on the American naval installation at Pearl Harbor, Hawaii, on 7 December 1941.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Pearl Harbor, the United States Navy base in Hawaii, was struck by Japanese forces on 7 December 1941.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Japón lanzó un ataque contra la instalación naval estadounidense de Pearl Harbor, en Hawái, el 7 de diciembre de 1941.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 7 de dezembro de 1941, o Japão atacou a base naval dos Estados Unidos em Pearl Harbor, no Havaí.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 7 dicembre 1941 il Giappone sferrò un attacco contro la base navale statunitense di Pearl Harbor, alle Hawaii.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "7 Aralık 1941'de Japonya, Hawaii'deki Amerika Birleşik Devletleri deniz üssü Pearl Harbor'a saldırdı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 7 Desember 1941, Jepang menyerang pangkalan angkatan laut Amerika Serikat di Pearl Harbor, Hawaii.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 7 ديسمبر 1941 شنت اليابان هجوما على القاعدة البحرية الأمريكية في بيرل هاربر بهاواي.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "holocaust",
+   "zin": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Holocaust",
+     "plek": "Opening definition paragraph",
+     "steunt": "Nazi Germany and its collaborators systematically killed six million Jews during World War II.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "ushmm",
+     "vindplaats": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+     "plek": "Opening definition and Key Facts",
+     "steunt": "The Nazi German regime, its allies and collaborators murdered six million European Jews.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "yad-vashem",
+     "vindplaats": "https://www.yadvashem.org/holocaust/faqs.html",
+     "plek": "FAQ 'What was the Holocaust?'",
+     "steunt": "The murder of about six million Jews by the Nazis and their collaborators.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://www.un.org/en/exhibits/exhibit/holocaust-remembrance",
+     "plek": "Section 'The Holocaust (1933-1945)'",
+     "steunt": "Nazi Germany and other racist states murdered six million Jews across Europe.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Yad Vashem: schattingen van ongeveer 5,1 tot 6 miljoen; zes miljoen is het gangbare getal.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Holocaust happened."
+    },
+    {
+     "taal": "en",
+     "tekst": "Six million Jews were murdered in the Holocaust."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Tijdens de Tweede Wereldoorlog vermoordden nazi-Duitsland en zijn collaborateurs ongeveer zes miljoen Joden."
+    },
+    {
+     "taal": "de",
+     "tekst": "Während des Zweiten Weltkriegs ermordeten das nationalsozialistische Deutschland und seine Kollaborateure etwa sechs Millionen Juden."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Pendant la Seconde Guerre mondiale, l'Allemagne nazie et ses collaborateurs ont assassiné environ six millions de Juifs."
+    },
+    {
+     "taal": "es",
+     "tekst": "Durante la Segunda Guerra Mundial, la Alemania nazi y sus colaboradores asesinaron a unos seis millones de judíos."
+    },
+    {
+     "taal": "en",
+     "tekst": "Between 1939 and 1945, the Nazi regime and its accomplices killed approximately six million Jewish people.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Roughly six million Jews were put to death by Nazi Germany and those who collaborated with it during World War II.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Entre 1939 y 1945, el régimen nazi y sus cómplices dieron muerte a cerca de seis millones de personas judías.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Durante a Segunda Guerra Mundial, a Alemanha nazista e seus colaboradores assassinaram cerca de seis milhões de judeus.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel corso della Seconda guerra mondiale, la Germania nazista e i suoi complici uccisero circa sei milioni di ebrei.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "İkinci Dünya Savaşı sırasında Nazi Almanyası ve işbirlikçileri yaklaşık altı milyon Yahudiyi katletti.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Selama Perang Dunia II, Jerman Nazi beserta kolaboratornya membunuh sekitar enam juta orang Yahudi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "خلال الحرب العالمية الثانية، قتلت ألمانيا النازية ومتعاونوها نحو ستة ملايين يهودي.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "tiananmen-1989",
+   "zin": "On 3 and 4 June 1989 Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Tiananmen-Square-incident",
+     "plek": "Section 'Crackdown and aftermath', first paragraph",
+     "steunt": "On the night of June 3-4, 1989, troops advancing on Tiananmen Square fired on people blocking them.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "hrw",
+     "vindplaats": "https://www.hrw.org/news/2026/06/01/china-no-justice-for-tiananmen-massacre-37-years-on",
+     "plek": "Background paragraph",
+     "steunt": "On June 3-4, 1989 soldiers opened fire on and killed many protesters and bystanders in Beijing.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "amnesty",
+     "vindplaats": "https://www.amnesty.org/en/projects/the-1989-tiananmen-crackdown/",
+     "plek": "Overview paragraph",
+     "steunt": "Chinese troops opened fire on peaceful protesters around Tiananmen Square on 4 June 1989.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nsarchive",
+     "vindplaats": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB16/index.html",
+     "plek": "Description of Document 13 ('China: Troops Open Fire')",
+     "steunt": "A State Department summary for June 4, 1989 titled 'Troops Open Fire'.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Het meeste schieten gebeurde op de wegen naar het plein, niet op het plein zelf; 'in Peking' is de veilige formulering.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 3 and 4 June 1989 Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Tiananmen Square massacre happened in 1989."
+    },
+    {
+     "taal": "en",
+     "tekst": "In June 1989 the Chinese army killed protesters in Beijing."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 3 en 4 juni 1989 openden Chinese troepen in Peking het vuur op burgers om de protesten op het Tiananmenplein te beëindigen."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 3. und 4. Juni 1989 eröffneten chinesische Truppen in Peking das Feuer auf Zivilisten, um die Proteste auf dem Tian'anmen-Platz zu beenden."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les 3 et 4 juin 1989, des troupes chinoises ont ouvert le feu sur des civils à Pékin pour mettre fin aux manifestations de la place Tian'anmen."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 3 y 4 de junio de 1989, tropas chinas abrieron fuego contra civiles en Pekín para acabar con las protestas de la plaza de Tiananmén."
+    },
+    {
+     "taal": "en",
+     "tekst": "Chinese soldiers fired on unarmed citizens in Beijing on 3 and 4 June 1989 in order to bring the demonstrations at Tiananmen Square to an end.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "On the 3rd and 4th of June, 1989, Chinese military forces shot at civilians in Beijing so that the Tiananmen Square protests would stop.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Los días 3 y 4 de junio de 1989, militares chinos dispararon contra ciudadanos en Pekín para poner fin a las manifestaciones en la plaza de Tiananmén.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 3 e 4 de junho de 1989, tropas chinesas abriram fogo contra civis em Pequim para pôr fim aos protestos na Praça da Paz Celestial.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 3 e il 4 giugno 1989 le truppe cinesi spararono sui civili a Pechino per porre fine alle proteste in piazza Tiananmen.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "3 ve 4 Haziran 1989'da Çin askerleri, Tiananmen Meydanı'ndaki protestoları bitirmek amacıyla Pekin'de sivillere ateş açtı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 3 dan 4 Juni 1989, pasukan Tiongkok menembaki warga sipil di Beijing untuk mengakhiri demonstrasi di Lapangan Tiananmen.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 3 و4 يونيو 1989 فتحت القوات الصينية النار على المدنيين في بكين لإنهاء الاحتجاجات في ميدان تيانانمين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "srebrenica-1995",
+   "zin": "In July 1995 Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Srebrenica-genocide",
+     "plek": "Opening definition paragraph",
+     "steunt": "Bosnian Serb forces killed more than 8,000 Bosniak boys and men in Srebrenica in July 1995.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Srebrenica_massacre",
+     "plek": "Lead section, first paragraph",
+     "steunt": "Over 8,000 Bosniak men and boys were killed around Srebrenica in July 1995.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "irmct",
+     "vindplaats": "https://www.icty.org/en/outreach/documentaries/srebrenica-genocide-no-room-for-denial",
+     "plek": "Introductory paragraph",
+     "steunt": "In July 1995 Bosnian Serb forces took Srebrenica; over 8,000 Bosnian Muslim boys and men were executed.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day",
+     "plek": "Sections 'The genocide in Srebrenica' and 'Remembering the victims'",
+     "steunt": "The Bosnian Serb army overran Srebrenica in July 1995; the genocide cost over 8,000 lives.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "icj",
+     "vindplaats": "https://www.icj-cij.org/sites/default/files/case-related/91/13687.pdf",
+     "plek": "Summary 2007/2 of the Judgment of 26 February 2007, p. 10 'The massacre at Srebrenica' and p. 11",
+     "steunt": "The ICTY found Bosnian Serb forces killed over 7,000 Bosnian Muslim men in July 1995; the Court finds these were acts of genocide by the VRS.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De zin noemt de juridisch vastgestelde ondergrens (meer dan 7.000, Joegoslaviëtribunaal en Internationaal Gerechtshof); de meeste andere bronnen zeggen meer dan 8.000, het monument noemt 8.372 namen.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "In July 1995 Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Srebrenica massacre happened in 1995."
+    },
+    {
+     "taal": "en",
+     "tekst": "More than 7,000 Muslim men and boys were murdered at Srebrenica in 1995."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In juli 1995 doodden Bosnisch-Servische troepen bij Srebrenica meer dan 7.000 Bosnische moslimmannen en -jongens."
+    },
+    {
+     "taal": "de",
+     "tekst": "Im Juli 1995 töteten bosnisch-serbische Truppen in Srebrenica mehr als 7.000 bosniakische Männer und Jungen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "En juillet 1995, les forces serbes de Bosnie ont tué plus de 7 000 hommes et garçons bosniaques à Srebrenica."
+    },
+    {
+     "taal": "es",
+     "tekst": "En julio de 1995, las fuerzas serbobosnias mataron a más de 7.000 hombres y niños bosníacos en Srebrenica."
+    },
+    {
+     "taal": "en",
+     "tekst": "During July 1995, forces of the Army of Republika Srpska killed over 7,000 Bosniak males, both men and boys, in Srebrenica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Srebrenica witnessed the killing of more than 7,000 Bosniak men and boys by Bosnian Serb troops in July 1995.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Durante julio de 1995, tropas serbias de Bosnia dieron muerte a más de 7.000 varones bosniacos, hombres y jóvenes, en Srebrenica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em julho de 1995, forças sérvias da Bósnia assassinaram mais de 7.000 homens e rapazes bósnios em Srebrenica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel luglio 1995, le forze serbo-bosniache uccisero più di 7.000 uomini e ragazzi bosniaci a Srebrenica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Temmuz 1995'te Bosnalı Sırp güçleri Srebrenitsa'da 7.000'den fazla Boşnak erkek ve erkek çocuğu öldürdü.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada Juli 1995, pasukan Serbia Bosnia membunuh lebih dari 7.000 pria dan anak laki-laki Bosniak di Srebrenica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في يوليو 1995، قتلت القوات الصربية البوسنية أكثر من 7000 من الرجال والفتيان البوسنيين في سريبرينيتسا.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "apollo-11",
+   "zin": "On 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/topic/Apollo-11",
+     "plek": "Opening definition paragraph of the article 'Apollo 11'",
+     "steunt": "Armstrong and Edwin 'Buzz' Aldrin were the first people to land on and walk on the Moon, 20 July 1969.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasa",
+     "vindplaats": "https://www.nasa.gov/centers-and-facilities/kennedy/50-years-ago-apollo-astronauts-land-take-first-steps-on-moon/",
+     "plek": "First body paragraph of '50 Years Ago: Apollo Astronauts Land, Take First Steps on Moon'",
+     "steunt": "Armstrong and Aldrin set the lunar module Eagle down on the Moon on July 20, 1969; Collins stayed in orbit.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "smithsonian",
+     "vindplaats": "https://airandspace.si.edu/explore/stories/apollo-11-moon-landing",
+     "plek": "Section 'The Mission', subsection dated July 20, 1969, first paragraph",
+     "steunt": "On 20 July 1969 the lunar module carrying Armstrong and Aldrin touched down on the Moon.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nara",
+     "vindplaats": "https://prologue.blogs.archives.gov/2019/07/19/apollo-11-50th-anniversary/",
+     "plek": "Opening body paragraph of 'The Eagle Has Landed: The Apollo 11 50th Anniversary' (Prologue blog)",
+     "steunt": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on July 20, 1969, at 20:17:40 GMT.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Apollo_11",
+     "plek": "Lead section, second paragraph",
+     "steunt": "Mission ran July 16 to 24, 1969; Armstrong and Aldrin landed Eagle on July 20 at 20:17 UTC.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Five publishers across three kinds. The landing was on 20 July in both UTC and US time; the first step was 21 July UTC, so the sentence stays about the landing.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 20 July 1969 the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon."
+    },
+    {
+     "taal": "en",
+     "tekst": "The moon landing was real."
+    },
+    {
+     "taal": "en",
+     "tekst": "Neil Armstrong walked on the moon in 1969."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 20 juli 1969 landden de Apollo 11-astronauten Neil Armstrong en Buzz Aldrin op de maan."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 20. Juli 1969 landeten die Apollo-11-Astronauten Neil Armstrong und Buzz Aldrin auf dem Mond."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 20 juillet 1969, les astronautes d'Apollo 11 Neil Armstrong et Buzz Aldrin se sont posés sur la Lune."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 20 de julio de 1969, los astronautas del Apolo 11 Neil Armstrong y Buzz Aldrin aterrizaron en la Luna."
+    },
+    {
+     "taal": "en",
+     "tekst": "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin touched down on the lunar surface on July 20, 1969.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Neil Armstrong and Buzz Aldrin, crew members of Apollo 11, set foot on the Moon on 20 July 1969.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Los astronautas Neil Armstrong y Buzz Aldrin, de la misión Apolo 11, alunizaron el 20 de julio de 1969.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 20 de julho de 1969, os astronautas da Apollo 11, Neil Armstrong e Buzz Aldrin, pousaram na Lua.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 20 luglio 1969 gli astronauti dell'Apollo 11 Neil Armstrong e Buzz Aldrin sono atterrati sulla Luna.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "20 Temmuz 1969'da Apollo 11 astronotları Neil Armstrong ve Buzz Aldrin Ay'a iniş yaptı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 20 Juli 1969, astronot Apollo 11 Neil Armstrong dan Buzz Aldrin mendarat di Bulan.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 20 يوليو 1969، هبط رائدا الفضاء neil Armstrong وBuzz Aldrin من مهمة أبولو 11 على سطح القمر.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "earth-round",
+   "zin": "The Earth is round: it is a nearly spherical planet.",
+   "bronnen": [
+    {
+     "bron": "noaa",
+     "vindplaats": "https://oceanservice.noaa.gov/education/tutorial_geodesy/geo03_figure.html",
+     "plek": "Geodesy tutorial, opening paragraph on Earth's shape and size; paragraph on the ellipsoid",
+     "steunt": "Earth is nearly spherical, slightly flattened at the poles and bulging at the equator.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasa",
+     "vindplaats": "https://spaceplace.nasa.gov/planets-round/en/",
+     "plek": "NASA Space Place 'Why Are Planets Round?', section 'What about the other planets?'",
+     "steunt": "Earth is not a perfect sphere but very round; only about 0.3% wider at the middle.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "larousse",
+     "vindplaats": "https://www.larousse.fr/encyclopedie/divers/Terre/96671",
+     "plek": "Section '1. Les données astronomiques de la Terre'",
+     "steunt": "Earth's shape is close to a sphere, slightly flattened at the poles.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Spherical_Earth",
+     "plek": "Lead section, first and second paragraphs",
+     "steunt": "Earth is approximately a sphere, more precisely an ellipsoid flattened by rotation.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/oblate-spheroid",
+     "plek": "Article 'oblate spheroid', example paragraph",
+     "steunt": "The shape of the Earth is a key example of an oblate spheroid, bulging at the equator from its rotation.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Every source qualifies: nearly spherical (an oblate spheroid), which matches 'nearly spherical' in the fact.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The Earth is round: it is a nearly spherical planet."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Earth is round."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Earth is not flat."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De aarde is rond, niet plat."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Erde ist rund und nicht flach."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La Terre est ronde, pas plate."
+    },
+    {
+     "taal": "es",
+     "tekst": "La Tierra es redonda, no plana."
+    },
+    {
+     "taal": "en",
+     "tekst": "Our planet is shaped almost like a sphere.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The globe we live on is nearly spherical in form.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Nuestro planeta tiene una forma casi esférica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "O nosso planeta tem uma forma quase esférica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il nostro pianeta ha una forma quasi sferica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Gezegenimiz neredeyse küre biçimindedir.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Planet kita berbentuk hampir seperti bola.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "كوكبنا له شكل شبه كروي تقريبا.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "dinosaurs-66",
+   "zin": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/animal/dinosaur",
+     "plek": "Opening definition paragraph of the article 'dinosaur'",
+     "steunt": "Dinosaurs appeared about 245 million years ago, thrived nearly 180 million years; most died out about 66 million years ago.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nhm-london",
+     "vindplaats": "https://www.nhm.ac.uk/discover/dinosaur-extinction.html",
+     "plek": "'What killed the dinosaurs?', opening paragraphs",
+     "steunt": "Dinosaurs diversified for 175 million years, then vanished 66 million years ago, except for birds.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "usgs",
+     "vindplaats": "https://www.usgs.gov/youth-and-education-in-science/mesozoic",
+     "plek": "Introduction and the Cretaceous section",
+     "steunt": "The Mesozoic was the time of dinosaurs; a meteorite 66 million years ago caused the extinction of the last dinosaurs.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
+     "plek": "Lead section, first paragraph",
+     "steunt": "The extinction event about 66 million years ago wiped out all non-avian dinosaurs.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Only Wikipedia uses 'non-avian'; Britannica and NHM make the bird exception in other words.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago."
+    },
+    {
+     "taal": "en",
+     "tekst": "Dinosaurs really existed."
+    },
+    {
+     "taal": "en",
+     "tekst": "The dinosaurs went extinct about 66 million years ago."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Dinosaurussen hebben echt bestaan en stierven ongeveer 66 miljoen jaar geleden uit."
+    },
+    {
+     "taal": "de",
+     "tekst": "Dinosaurier haben wirklich existiert und sind vor etwa 66 Millionen Jahren ausgestorben."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les dinosaures ont réellement existé et ont disparu il y a environ 66 millions d'années."
+    },
+    {
+     "taal": "es",
+     "tekst": "Los dinosaurios existieron de verdad y se extinguieron hace unos 66 millones de años."
+    },
+    {
+     "taal": "en",
+     "tekst": "Dinosaurs that were not birds inhabited the planet for millions of years before vanishing roughly 66 million years ago.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Land dinosaurs other than birds roamed Earth over millions of years and became extinct around 66 million years back.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Los dinosaurios no aviares habitaron la Tierra durante millones de años y desaparecieron hace aproximadamente 66 millones de años.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Os dinossauros não avianos viveram na Terra por milhões de anos e desapareceram há cerca de 66 milhões de anos.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "I dinosauri non aviari hanno abitato la Terra per milioni di anni e si sono estinti circa 66 milioni di anni fa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Kuş olmayan dinozorlar milyonlarca yıl boyunca Dünya'da yaşadı ve yaklaşık 66 milyon yıl önce yok oldu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Dinosaurus non-burung hidup di Bumi selama jutaan tahun dan punah sekitar 66 juta tahun yang lalu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "عاشت الديناصورات غير الطيور على كوكب الأرض لملايين السنين وانقرضت قبل نحو 66 مليون سنة.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "evolution",
+   "zin": "All living species, humans included, evolved from common ancestors over billions of years.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/evolution-scientific-theory",
+     "plek": "Opening section, third paragraph",
+     "steunt": "All living creatures descend from common ancestors; plants and animals from microbes over 3 billion years old.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasem",
+     "vindplaats": "https://www.nationalacademies.org/read/5787/chapter/4",
+     "plek": "Teaching About Evolution and the Nature of Science, chapter 3",
+     "steunt": "Life began over 3.5 billion years ago; all living things descend from one common ancestor.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "smithsonian",
+     "vindplaats": "https://humanorigins.si.edu/education/frequently-asked-questions",
+     "plek": "FAQ answers on evolution and complex organisms, and on humans and monkeys",
+     "steunt": "Modern humans result from evolution reaching back over 3.5 billion years; humans and chimpanzees share a common ancestor.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Evolution",
+     "plek": "Lead section",
+     "steunt": "All life on Earth, humanity included, shares a last universal common ancestor of 3.5 to 3.8 billion years ago.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Smithsonian covers the human part; Britannica, NASEM and Wikipedia carry the universal part. NASEM is the 1998 NAS book.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "All living species, humans included, evolved from common ancestors over billions of years."
+    },
+    {
+     "taal": "en",
+     "tekst": "Evolution is real."
+    },
+    {
+     "taal": "en",
+     "tekst": "Humans evolved from earlier species."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Alle levende soorten, ook de mens, zijn in miljarden jaren geëvolueerd uit gemeenschappelijke voorouders."
+    },
+    {
+     "taal": "de",
+     "tekst": "Alle Lebewesen, auch der Mensch, haben sich über Milliarden Jahre aus gemeinsamen Vorfahren entwickelt."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Toutes les espèces vivantes, y compris l'être humain, ont évolué à partir d'ancêtres communs sur des milliards d'années."
+    },
+    {
+     "taal": "es",
+     "tekst": "Todas las especies vivas, incluido el ser humano, evolucionaron a partir de ancestros comunes a lo largo de miles de millones de años."
+    },
+    {
+     "taal": "en",
+     "tekst": "Every living species, including people, descended from shared ancestors through evolution across billions of years.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Over billions of years, all organisms alive today, people included, arose from common forebears through evolution.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Cada especie viva, incluida la humana, desciende de antepasados comunes gracias a la evolución a lo largo de miles de millones de años.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Todas as espécies vivas, inclusive a humana, descendem de antepassados comuns por meio da evolução ao longo de bilhões de anos.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Ogni specie vivente, compresa quella umana, si è sviluppata da antenati comuni nel corso di miliardi di anni di evoluzione.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Yaşayan tüm türler, insan dahil, milyarlarca yıl boyunca ortak atalardan evrimleşerek ortaya çıkmıştır.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Semua spesies yang hidup, termasuk manusia, berevolusi dari leluhur bersama selama miliaran tahun.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "جميع الكائنات الحية، بما فيها الإنسان، تطورت من أسلاف مشتركين على مدى مليارات السنين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "climate-human",
+   "zin": "Human activities, mainly the burning of fossil fuels, are the main cause of global warming.",
+   "bronnen": [
+    {
+     "bron": "ipcc",
+     "vindplaats": "https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/",
+     "plek": "AR6 Synthesis Report SPM, statement A.1",
+     "steunt": "Human activities, principally greenhouse gas emissions, have unequivocally caused global warming.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasa",
+     "vindplaats": "https://science.nasa.gov/climate-change/scientific-consensus/",
+     "plek": "'Scientific Consensus' page, introductory paragraphs",
+     "steunt": "Human activities, primarily burning fossil fuels, have warmed Earth's surface and oceans.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasem",
+     "vindplaats": "https://www.nationalacademies.org/news/climate-change-humans-are-causing-global-warming",
+     "plek": "'Are humans causing global warming?', introduction",
+     "steunt": "Current warming is driven by human activities; heat-trapping gases mostly from burning coal, oil and gas.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Climate_change",
+     "plek": "Lead section, first paragraph",
+     "steunt": "The present rise in global temperatures is driven by human activities, especially fossil fuel burning.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "IPCC A.1 says 'unequivocally caused' and does not name fossil fuels there; NASA and NASEM name fossil fuels as the main source.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Human activities, mainly the burning of fossil fuels, are the main cause of global warming."
+    },
+    {
+     "taal": "en",
+     "tekst": "Climate change is caused by humans."
+    },
+    {
+     "taal": "en",
+     "tekst": "Burning fossil fuels is warming the planet."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Menselijke activiteiten, vooral het verbranden van fossiele brandstoffen, zijn de hoofdoorzaak van de opwarming van de aarde."
+    },
+    {
+     "taal": "de",
+     "tekst": "Menschliche Aktivitäten, vor allem die Verbrennung fossiler Brennstoffe, sind die Hauptursache der globalen Erwärmung."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les activités humaines, surtout la combustion des énergies fossiles, sont la principale cause du réchauffement climatique."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las actividades humanas, sobre todo la quema de combustibles fósiles, son la principal causa del calentamiento global."
+    },
+    {
+     "taal": "en",
+     "tekst": "Most of the global warming we are seeing is primarily driven by people, chiefly through the combustion of coal, oil, and gas.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The principal reason the Earth is heating up is human activity, especially the release of emissions from burning fossil fuels.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Las acciones humanas, principalmente la combustión de combustibles fósiles, constituyen la causa fundamental del aumento de la temperatura global.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "As atividades humanas, sobretudo a queima de combustíveis fósseis, são a principal razão aquecimento global.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Le attività umane, soprattutto la combustione di combustibili fossili, rappresentano la causa principale del riscaldamento globale.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Küresel ısınmanın başlıca nedeni, esas olarak fosil yakıtların yakılmasıyla gerçekleşen insan faaliyetleridir.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Aktivitas manusia, terutama pembakaran bahan bakar fosil, merupakan penyebab utama pemanasan global.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "النشاط البشري، وعلى رأسه حرق الوقود الأحفوري، هو السبب الرئيسي للاحترار العالمي.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "vaccines-autism",
+   "zin": "Vaccines do not cause autism.",
+   "onderwerpen": [
+    "vaccins"
+   ],
+   "bronnen": [
+    {
+     "bron": "who",
+     "vindplaats": "https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism",
+     "plek": "GACVS statement on vaccines and autism (11 Dec 2025), second and closing paragraph",
+     "steunt": "WHO's vaccine safety committee finds no causal link and concludes vaccines do not cause autism.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nhs",
+     "vindplaats": "https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/",
+     "plek": "Things you need to know about vaccines, list 'Vaccines do not'",
+     "steunt": "NHS lists that vaccines do not cause autism; studies found no MMR-autism link.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nasem",
+     "vindplaats": "https://www.nationalacademies.org/read/10997/chapter/2",
+     "plek": "Immunization Safety Review: Vaccines and Autism (IOM, 2004), Executive Summary",
+     "steunt": "Evidence favours rejecting a causal link between autism and MMR or thimerosal-containing vaccines.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/story/do-vaccines-cause-autism",
+     "plek": "Opening and second paragraph",
+     "steunt": "Answers no; extensive studies found no evidence childhood vaccination causes autism.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Vaccines_and_autism",
+     "plek": "Lead section",
+     "steunt": "Extensive research found no relationship between vaccines and autism.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "annals-im",
+     "vindplaats": "https://www.acpjournals.org/doi/10.7326/M18-2101",
+     "plek": "Abstract, Conclusion (Hviid et al., 2019)",
+     "steunt": "Nationwide Danish cohort of 657,461 children: MMR vaccination does not increase the risk for autism.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "tegenspraak": [
+    {
+     "bron": "cdc",
+     "vindplaats": "https://www.cdc.gov/vaccine-safety/about/autism.html",
+     "plek": "Autism and Vaccines (bijgewerkt 22 juli 2026)",
+     "nagelopen": "2026-10-17",
+     "steunt": "Calls 'vaccines do not cause autism' not an evidence-based claim; says studies have not ruled out a contribution."
+    }
+   ],
+   "kanttekening": "De CDC spreekt dit sinds 22 juli 2026 tegen, zonder nieuw bewijs te noemen; volgens B34 telt de CDC op vaccins daarom niet mee. De National Academies (2004) en Hviid e.a. (2019) gaan over BMR en thiomersal.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Vaccines do not cause autism."
+    },
+    {
+     "taal": "en",
+     "tekst": "The MMR vaccine does not cause autism."
+    },
+    {
+     "taal": "en",
+     "tekst": "There is no link between vaccines and autism."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Vaccins veroorzaken geen autisme."
+    },
+    {
+     "taal": "de",
+     "tekst": "Impfungen verursachen keinen Autismus."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les vaccins ne provoquent pas l'autisme."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las vacunas no causan autismo."
+    },
+    {
+     "taal": "en",
+     "tekst": "Immunizations are not a cause of autism.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Autism is not caused by vaccinations.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Las vacunas no provocan autismo.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "A vacinação não provoca autismo.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "I vaccini non causano l'autismo.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Aşılar otizme neden olmaz.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Vaksin tidak menyebabkan autisme.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "اللقاحات لا تسبب التوحد.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "hiv-aids",
+   "zin": "HIV causes AIDS.",
+   "bronnen": [
+    {
+     "bron": "nhs",
+     "vindplaats": "https://www.nhs.uk/conditions/hiv-and-aids/",
+     "plek": "HIV and AIDS, introduction, second paragraph",
+     "steunt": "NHS defines AIDS as serious illnesses that the HIV virus causes.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nih",
+     "vindplaats": "https://www.niaid.nih.gov/diseases-conditions/hiv-sti",
+     "plek": "NIAID 'HIV', opening sentence",
+     "steunt": "HIV is the virus that causes acquired immune deficiency syndrome (AIDS).",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/AIDS",
+     "plek": "Opening paragraph; section 'The emergence of AIDS'",
+     "steunt": "AIDS is an infectious disease caused by HIV.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/HIV",
+     "plek": "Lead section, second sentence",
+     "steunt": "The human immunodeficiency viruses, over time, cause AIDS.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "WHO, CDC and NIH hivinfo describe AIDS as the most advanced stage of untreated HIV infection.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "HIV causes AIDS."
+    },
+    {
+     "taal": "en",
+     "tekst": "AIDS is caused by the HIV virus."
+    },
+    {
+     "taal": "en",
+     "tekst": "Without treatment, HIV infection leads to AIDS."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Hiv veroorzaakt aids."
+    },
+    {
+     "taal": "de",
+     "tekst": "HIV verursacht AIDS."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le VIH provoque le sida."
+    },
+    {
+     "taal": "es",
+     "tekst": "El VIH causa el sida."
+    },
+    {
+     "taal": "en",
+     "tekst": "The human immunodeficiency virus is the cause of AIDS.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "AIDS results from infection with HIV.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El virus de inmunodeficiencia humana provoca el síndrome de inmunodeficiencia adquirida.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "O HIV é a causa da AIDS.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "L'HIV provoca l'AIDS.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "HIV, AIDS'e neden olur.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Virus HIV menyebabkan AIDS.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "فيروس نقص المناعة البشرية يسبب الإيدز.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "gezondheid"
+   ]
+  },
+  {
+   "id": "mrna-dna",
+   "zin": "mRNA COVID-19 vaccines do not change a person's DNA.",
+   "bronnen": [
+    {
+     "bron": "ema",
+     "vindplaats": "https://www.ema.europa.eu/en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-medicines/covid-19-vaccines-key-facts",
+     "plek": "Question 'Can the mRNA in the vaccines interfere with our genetic code (DNA)?'",
+     "steunt": "Vaccine mRNA stays outside the nucleus and cannot integrate into DNA.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nih",
+     "vindplaats": "https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/",
+     "plek": "What are mRNA vaccines and how do they work?",
+     "steunt": "Vaccine mRNA never enters the nucleus and does not alter DNA.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/MRNA_vaccine",
+     "plek": "Sections on mechanism and on vaccine hesitancy",
+     "steunt": "Vaccine mRNA is translated in the cytoplasm, degrades quickly and does not affect genomic DNA.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rivm",
+     "vindplaats": "https://www.rivm.nl/covid-19-vaccinatie/feiten-en-fabels-over-vaccinatie-tegen-covid-19",
+     "plek": "Question 'Kan een mRNA-vaccin tegen corona je DNA veranderen?'",
+     "steunt": "No: the mRNA stays outside the cell nucleus where DNA is kept, so it cannot change it.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Een CDC-pagina in het archief (2024) zegt het ook; niet meegeteld, want de huidige CDC-tekst is niet nagelopen.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "mRNA COVID-19 vaccines do not change a person's DNA."
+    },
+    {
+     "taal": "en",
+     "tekst": "COVID vaccines do not alter your DNA."
+    },
+    {
+     "taal": "en",
+     "tekst": "COVID-19 vaccines cannot change your genes."
+    },
+    {
+     "taal": "nl",
+     "tekst": "mRNA-vaccins tegen covid-19 veranderen je DNA niet."
+    },
+    {
+     "taal": "de",
+     "tekst": "mRNA-Impfstoffe gegen COVID-19 verändern die DNA nicht."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les vaccins à ARNm contre la COVID-19 ne modifient pas l'ADN."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las vacunas de ARNm contra la COVID-19 no modifican el ADN."
+    },
+    {
+     "taal": "en",
+     "tekst": "Messenger RNA shots against COVID-19 leave a person's genetic material unaltered.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The mRNA vaccines used against COVID-19 do not modify a person's DNA.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Las vacunas de ARN mensajero contra el COVID-19 no alteran el ADN de una persona.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "As vacinas de RNA mensageiro contra a COVID-19 não alteram o DNA de uma pessoa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "I vaccini a mRNA contro la COVID-19 non alterano il DNA di una persona.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "COVID-19'a karşı kullanılan mRNA aşıları bir kişinin DNA'sını değiştirmez.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Vaksin mRNA untuk COVID-19 tidak mengubah DNA seseorang.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "لا تغيّر لقاحات الحمض الريبي النووي المرسال ضد كوفيد-19 الحمض النووي لدى الإنسان.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "vaccins"
+   ]
+  },
+  {
+   "id": "5g-covid",
+   "zin": "5G mobile networks do not spread COVID-19.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/topic/5G",
+     "plek": "Section 'Concerns and conspiracy theories tied to 5G', second paragraph",
+     "steunt": "Calls the 5G-COVID link a conspiracy theory; the virus cannot be spread by radio waves.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/5G_misinformation",
+     "plek": "Section 'Health impact'",
+     "steunt": "Rejects the claim that 5G causes or spreads COVID-19.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "who",
+     "vindplaats": "https://web.archive.org/web/20200601045145/https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+     "plek": "Myth busters, heading '5G mobile networks DO NOT spread COVID-19' (archived 1 June 2020)",
+     "steunt": "WHO states that 5G mobile networks do not spread COVID-19 and that viruses cannot travel on radio waves.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "icnirp",
+     "vindplaats": "https://www.icnirp.org/en/activities/news/news-article/covid-19.html",
+     "plek": "'COVID-19 and RF EMF' (April 2020)",
+     "steunt": "Exposure to 5G fields does not cause COVID-19; the fields cannot carry the virus.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De WHO-pagina draagt het 5G-item niet meer; de versie van 1 juni 2020 staat in het webarchief.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "5G mobile networks do not spread COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "5G does not cause the coronavirus."
+    },
+    {
+     "taal": "en",
+     "tekst": "Viruses cannot travel on radio waves or mobile networks."
+    },
+    {
+     "taal": "nl",
+     "tekst": "5G-netwerken verspreiden het coronavirus niet."
+    },
+    {
+     "taal": "de",
+     "tekst": "5G-Mobilfunknetze verbreiten COVID-19 nicht."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les réseaux mobiles 5G ne propagent pas la COVID-19."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las redes móviles 5G no propagan la COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "Fifth-generation cellular networks are not a means by which COVID-19 is transmitted.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "COVID-19 is not transmitted through 5G wireless infrastructure.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Las redes de quinta generación no transmiten el virus de la COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "As redes de quinta geração não transmitem a COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Le reti di quinta generazione non trasmettono la COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Beşinci nesil mobil ağlar COVID-19'u yaymaz.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Jaringan seluler generasi kelima tidak menyebarkan COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "شبكات الجيل الخامس للهاتف المحمول لا تنشر مرض كوفيد-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "covid-19"
+   ]
+  },
+  {
+   "id": "obama-hawaii",
+   "zin": "Barack Obama was born in Honolulu, Hawaii, in 1961.",
+   "bronnen": [
+    {
+     "bron": "hawaii-doh",
+     "vindplaats": "https://health.hawaii.gov/vitalrecords/files/2013/05/News_Release_Birth_Certificate_042711.pdf",
+     "plek": "News release 27 April 2011, page 2, first paragraph",
+     "steunt": "Both birth certificates record Obama's birth in Honolulu, Hawaii, on 4 August 1961.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nara",
+     "vindplaats": "https://www.obamalibrary.gov/obamas/president-barack-obama",
+     "plek": "Section 'Personal'",
+     "steunt": "Born 4 August 1961 in Honolulu, Hawaii.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/biography/Barack-Obama",
+     "plek": "Opening sentence",
+     "steunt": "Born 4 August 1961 in Honolulu, Hawaii.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Barack_Obama",
+     "plek": "Section 'Early life and career', first sentence",
+     "steunt": "Born 4 August 1961 at Kapiolani Medical Center in Honolulu, Hawaii.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961."
+    },
+    {
+     "taal": "en",
+     "tekst": "Obama was born in the United States."
+    },
+    {
+     "taal": "en",
+     "tekst": "Barack Obama was born in Hawaii."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Barack Obama werd in 1961 geboren in Honolulu, Hawaï."
+    },
+    {
+     "taal": "de",
+     "tekst": "Barack Obama wurde 1961 in Honolulu auf Hawaii geboren."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Barack Obama est né en 1961 à Honolulu, à Hawaï."
+    },
+    {
+     "taal": "es",
+     "tekst": "Barack Obama nació en 1961 en Honolulu, Hawái."
+    },
+    {
+     "taal": "en",
+     "tekst": "In 1961, Barack Obama came into the world in Honolulu, Hawaii.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Honolulu, Hawaii, was the birthplace of Barack Obama in 1961.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "En 1961, Barack Obama vino al mundo en Honolulu, Hawái.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Barack Obama nasceu em Honolulu, no Havaí, em 1961.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Barack Obama venne al mondo a Honolulu, alle Hawaii, nel 1961.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Barack Obama 1961 yılında Hawaii eyaletinin Honolulu kentinde doğdu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Barack Obama lahir pada tahun 1961 di Honolulu, Hawaii.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "ولد باراك أوباما في هونولولو، هاواي، عام 1961.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "mh17-buk",
+   "zin": "On 17 July 2014 flight MH17 was shot down over eastern Ukraine by a Buk missile.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Malaysia-Airlines-flight-17",
+     "plek": "Opening paragraph; investigation paragraphs",
+     "steunt": "Airliner crashed in eastern Ukraine on 17 July 2014; a Dutch inquiry found a Buk missile downed it.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "dsb",
+     "vindplaats": "https://www.onderzoeksraad.nl/en/page/3546/crash-mh17-17-july-2014",
+     "plek": "Introduction; section 'Buk surface-to-air missile system caused MH17 crash'",
+     "steunt": "The crash on 17 July 2014 in the Donetsk region was caused by a Buk missile warhead.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "om-jit",
+     "vindplaats": "https://www.prosecutionservice.nl/topics/m/mh17-plane-crash/timeline-mh17-investigation-and-legal-proceedings",
+     "plek": "Timeline entries 17 July 2014, 28 September 2016 and 24 May 2018",
+     "steunt": "MH17 came down in eastern Ukraine on 17 July 2014, hit by a Buk missile.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rechtspraak",
+     "vindplaats": "https://www.courtmh17.com/en/summaries-and-news/news/summary-of-the-day-in-court-17-november-2022-judgment.htm",
+     "plek": "Section 'Weapon and place'",
+     "steunt": "The court held it proven that MH17 was shot down on 17 July 2014 by a Buk missile fired near Pervomaiskyi.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Alleen Britannica zegt 'van Russische makelij'; het JIT herleidt de Buk tot de 53e brigade van het Russische leger, de rechtbank noemt geen herkomst. De herkomst wordt een eigen feit.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 17 July 2014 flight MH17 was shot down over eastern Ukraine by a Buk missile."
+    },
+    {
+     "taal": "en",
+     "tekst": "MH17 was shot down by a Buk missile."
+    },
+    {
+     "taal": "en",
+     "tekst": "A Buk missile brought down MH17 over Ukraine in 2014."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 17 juli 2014 werd vlucht MH17 boven Oost-Oekraïne neergeschoten met een Buk-raket."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 17. Juli 2014 wurde Flug MH17 über der Ostukraine von einer Buk-Rakete abgeschossen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 17 juillet 2014, le vol MH17 a été abattu au-dessus de l'est de l'Ukraine par un missile Buk."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 17 de julio de 2014, el vuelo MH17 fue derribado sobre el este de Ucrania por un misil Buk."
+    },
+    {
+     "taal": "en",
+     "tekst": "Flight MH17 came down over the east of Ukraine on 17 July 2014 after being struck by a surface-to-air missile fired from a Buk system.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "On 17 July 2014, a Buk surface-to-air missile destroyed Malaysia Airlines flight MH17 over eastern Ukraine.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El 17 de julio de 2014, un misil tierra-aire Buk derribó el vuelo MH17 en el este de Ucrania.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 17 de julho de 2014, o voo MH17 foi abatido no leste da Ucrânia por um míssil Buk.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 17 luglio 2014 il volo MH17 è stato abbattuto nell'Ucraina orientale da un missile Buk.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "17 Temmuz 2014'te MH17 sefer sayılı uçuş, doğu Ukrayna üzerinde bir Buk füzesiyle düşürüldü.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 17 Juli 2014, penerbangan MH17 ditembak jatuh di atas Ukraina timur oleh rudal Buk.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 17 يوليو 2014، أُسقطت الرحلة MH17 فوق شرق أوكرانيا بصاروخ من نوع بوك.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "crimea-annexation",
+   "zin": "Russia annexed Crimea from Ukraine in 2014.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/place/Crimea",
+     "plek": "Opening paragraph; section 'Crisis in Crimea'",
+     "steunt": "In 2014 Russia invaded and illegally annexed Crimea.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation",
+     "plek": "Lead section",
+     "steunt": "Russia invaded Crimea in February-March 2014 and annexed it on 18 March 2014.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://documents.un.org/doc/undoc/gen/n18/451/02/pdf/n1845102.pdf",
+     "plek": "A/RES/73/194 (17 December 2018), 4th preambular paragraph; operative paragraph 8",
+     "steunt": "The General Assembly condemns Russia's temporary occupation of Crimea and reaffirms non-recognition of its annexation.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8279845-11657965&filename=Grand+Chamber+judgment+Ukraine+and+the+Netherlands+v.+Russia.pdf",
+     "plek": "Press release ECHR 173 (2025), 'Description of the case and complaints', first paragraph",
+     "steunt": "The events began in spring 2014 with Russia's occupation and annexation of Crimea, Ukrainian sovereign territory.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Resolutie 68/262 (2014) zegt geen 'annexatie' en noemt Rusland niet; latere VN-teksten en het EHRM (2025) wel. Het EHRM-arrest van 2024 spreekt van effectieve controle en bezetting.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Russia annexed Crimea from Ukraine in 2014."
+    },
+    {
+     "taal": "en",
+     "tekst": "Russia annexed Crimea in 2014."
+    },
+    {
+     "taal": "en",
+     "tekst": "In 2014 Crimea was annexed by Russia."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In 2014 annexeerde Rusland de Krim, die bij Oekraïne hoorde."
+    },
+    {
+     "taal": "de",
+     "tekst": "Russland annektierte 2014 die Krim, die zur Ukraine gehörte."
+    },
+    {
+     "taal": "fr",
+     "tekst": "En 2014, la Russie a annexé la Crimée, qui appartenait à l'Ukraine."
+    },
+    {
+     "taal": "es",
+     "tekst": "En 2014, Rusia se anexionó Crimea, que pertenecía a Ucrania."
+    },
+    {
+     "taal": "en",
+     "tekst": "In 2014, Moscow seized the Crimean peninsula from Ukraine and incorporated it into the Russian Federation.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Crimea, a part of Ukraine, was taken over by Russia in 2014.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "En 2014, Rusia incorporó a su territorio la península de Crimea, que formaba parte de Ucrania.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 2014, a Rússia anexou a Crimeia, que fazia parte da Ucrânia.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel 2014 la Russia ha annesso la Crimea, che apparteneva all'Ucraina.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Rusya, 2014 yılında Ukrayna'ya ait olan Kırım'ı ilhak etti.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 2014, Rusia mencaplok Semenanjung Krimea yang sebelumnya merupakan bagian dari Ukraina.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "russia-invasion-2022",
+   "zin": "On 24 February 2022 Russia launched a full-scale invasion of Ukraine.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Russia-Ukraine-War",
+     "plek": "Introduction, second paragraph",
+     "steunt": "Russia began a full-scale invasion of Ukraine on 24 February 2022.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine",
+     "plek": "Lead section",
+     "steunt": "Russia invaded Ukraine on 24 February 2022.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://documents.un.org/doc/undoc/gen/n22/293/36/pdf/n2229336.pdf",
+     "plek": "A/RES/ES-11/1 (2 March 2022), preamble and operative paragraph 2",
+     "steunt": "The General Assembly deplores Russia's aggression against Ukraine, declared on 24 February 2022.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-8279845-11657965&filename=Grand+Chamber+judgment+Ukraine+and+the+Netherlands+v.+Russia.pdf",
+     "plek": "Press release ECHR 173 (2025), opening paragraph",
+     "steunt": "On 24 February 2022 Russia began a full-scale invasion of Ukraine by land, air and sea.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "icj",
+     "vindplaats": "https://www.icj-cij.org/public/files/case-related/182/182-20220316-ORD-01-00-EN.pdf",
+     "plek": "Order of 16 March 2022 (Ukraine v. Russian Federation), paras. 17 and 18",
+     "steunt": "On 24 February 2022 Putin declared a 'special military operation' against Ukraine; the Court is concerned about Russia's use of force.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "ES-11/1 zegt 'agressie', niet 'invasie'.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 24 February 2022 Russia launched a full-scale invasion of Ukraine."
+    },
+    {
+     "taal": "en",
+     "tekst": "Russia started the war against Ukraine."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ukraine did not start the war with Russia."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 24 februari 2022 begon Rusland een grootschalige invasie van Oekraïne."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 24. Februar 2022 begann Russland eine großangelegte Invasion der Ukraine."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 24 février 2022, la Russie a lancé une invasion à grande échelle de l'Ukraine."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 24 de febrero de 2022, Rusia lanzó una invasión a gran escala de Ucrania."
+    },
+    {
+     "taal": "en",
+     "tekst": "Russia carried out a large-scale military assault on Ukraine beginning on 24 February 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "On the 24th of February, 2022, Russian forces moved to invade Ukraine on a massive scale.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Rusia emprendió una ofensiva militar de gran alcance contra Ucrania el 24 de febrero de 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 24 de fevereiro de 2022, a Rússia deu início a uma ofensiva militar em larga escala contra a Ucrânia.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 24 febbraio 2022 la Russia ha intrapreso un'offensiva militare su vasta scala contro l'Ucraina.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Rusya, 24 Şubat 2022'de Ukrayna'ya karşı geniş çaplı bir askeri saldırı başlattı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 24 Februari 2022, Rusia melancarkan serangan militer berskala penuh ke Ukraina.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 24 فبراير 2022، شنّت روسيا هجومًا عسكريًا واسع النطاق على أوكرانيا.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-independence-1991",
+   "zin": "Ukraine became an independent state in 1991.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/place/Ukraine",
+     "plek": "Introduction, paragraph on independence",
+     "steunt": "Ukraine declared independence on 24 August 1991, confirmed by the plebiscite of 1 December 1991.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_Ukraine",
+     "plek": "Lead section",
+     "steunt": "The act of 24 August 1991 restored Ukraine's independence; voters confirmed it on 1 December 1991.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "treccani",
+     "vindplaats": "https://www.treccani.it/enciclopedia/ucraina/",
+     "plek": "Storia, 'La repubblica ucraina indipendente'",
+     "steunt": "Ukraine proclaimed its independence from the Soviet Union in August 1991.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://ukraine.un.org/en/321547-reflections-independence",
+     "plek": "'Reflections on independence', UN Resident Coordinator, 25 August 2026",
+     "steunt": "The country declared independence in 1991 after the Soviet collapse.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De VN-bron is een stuk van het VN-landenteam; de andere drie zijn naslagwerken.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Ukraine became an independent state in 1991."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ukraine has been an independent country since 1991."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ukraine declared independence from the Soviet Union in 1991."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Oekraïne werd in 1991 een onafhankelijke staat."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Ukraine wurde 1991 ein unabhängiger Staat."
+    },
+    {
+     "taal": "fr",
+     "tekst": "L'Ukraine est devenue un État indépendant en 1991."
+    },
+    {
+     "taal": "es",
+     "tekst": "Ucrania se convirtió en un Estado independiente en 1991."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ukraine gained its independence as a sovereign nation in 1991.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "In 1991, Ukraine achieved statehood as an independent nation.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Ucrania logró su independencia como nación soberana en 1991.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "A Ucrânia tornou-se um país independente em 1991.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel 1991 l'Ucraina è diventata uno Stato indipendente.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Ukrayna 1991 yılında bağımsız bir devlet oldu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Ukraina menjadi negara merdeka pada tahun 1991.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "أصبحت أوكرانيا دولة مستقلة في عام 1991.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "sept-11-alqaeda",
+   "zin": "The attacks of 11 September 2001 were carried out by al-Qaeda.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/September-11-attacks",
+     "plek": "Opening paragraph; section 'The aftermath'",
+     "steunt": "The 2001 attacks were committed by 19 militants associated with al-Qaeda.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/September_11_attacks",
+     "plek": "Lead section",
+     "steunt": "The attacks were carried out by al-Qaeda.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "commissie-911",
+     "vindplaats": "https://www.9-11commission.gov/report/911Report_Exec.htm",
+     "plek": "Executive Summary, '1998 to September 11, 2001' and 'Findings'",
+     "steunt": "Bin Ladin and al Qaeda leaders adopted the 'planes operation' that culminated in the 9/11 attacks.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "fbi",
+     "vindplaats": "https://www.fbi.gov/history/cases-and-criminals/911-investigation",
+     "plek": "Section 'The Terrorists'",
+     "steunt": "All 19 hijackers who crashed the four planes were trained by al Qaeda.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De commissie en de FBI zeggen het indirect: 'het al Qaeda-complot', 'getraind door al Qaeda'.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The attacks of 11 September 2001 were carried out by al-Qaeda."
+    },
+    {
+     "taal": "en",
+     "tekst": "9/11 was carried out by al-Qaeda terrorists."
+    },
+    {
+     "taal": "en",
+     "tekst": "The 9/11 attacks were not an inside job."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De aanslagen van 11 september 2001 werden gepleegd door al-Qaida."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Anschläge vom 11. September 2001 wurden von al-Qaida verübt."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les attentats du 11 septembre 2001 ont été commis par al-Qaïda."
+    },
+    {
+     "taal": "es",
+     "tekst": "Los atentados del 11 de septiembre de 2001 fueron perpetrados por al Qaeda."
+    },
+    {
+     "taal": "en",
+     "tekst": "Al-Qaeda is responsible for the assaults that took place on 11 September 2001.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The hijacked-aircraft strikes on New York and Washington on 11 September 2001 were perpetrated by the al-Qaeda network.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "La organización Al Qaeda es la responsable de los ataques ocurridos el 11 de septiembre de 2001.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Os ataques ocorridos em 11 de setembro de 2001 foram executados pela organização al-Qaeda.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Gli attacchi avvenuti l'11 settembre 2001 sono stati eseguiti dalla rete terroristica al-Qaeda.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "11 Eylül 2001'de gerçekleşen saldırıları El Kaide örgütü gerçekleştirdi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Serangan yang terjadi pada 11 September 2001 dilakukan oleh jaringan al-Qaeda.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "نفّذ تنظيم القاعدة الهجمات التي وقعت في 11 سبتمبر 2001.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "ww2-start-poland",
+   "zin": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland.",
+   "bronnen": [
+    {
+     "bron": "ushmm",
+     "vindplaats": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+     "plek": "Opening summary; section 'Invasion and Partition of Poland'",
+     "steunt": "German troops invaded Poland on September 1, 1939, which set off World War II.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+     "plek": "Lead, first paragraph",
+     "steunt": "Germany invaded Poland on 1 September 1939, the beginning of World War II.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/World-War-II",
+     "plek": "Section 'The outbreak of war'",
+     "steunt": "The attack on Poland began on 1 September 1939; with it, World War II had begun.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-127684",
+     "plek": "Janowiec and Others v. Russia [GC], 21 October 2013, The Facts, para. 15",
+     "steunt": "Germany invaded Poland on 1 September 1939, starting the Second World War.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "iwm",
+     "vindplaats": "https://www.iwm.org.uk/history/second-world-war/causes",
+     "plek": "Introduction; section 'Germany Invades Poland'",
+     "steunt": "Germany invaded Poland on 1 September 1939; Britain and France declared war two days later.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Britannica en het IWM noemen 3 september, de oorlogsverklaringen van Brittannië en Frankrijk, als het moment dat de Europese oorlog algemeen werd.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland."
+    },
+    {
+     "taal": "en",
+     "tekst": "Germany started the Second World War by invading Poland in 1939."
+    },
+    {
+     "taal": "en",
+     "tekst": "Poland did not start the Second World War; Germany invaded Poland on 1 September 1939."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De Tweede Wereldoorlog in Europa begon op 1 september 1939, toen Duitsland Polen binnenviel."
+    },
+    {
+     "taal": "de",
+     "tekst": "Der Zweite Weltkrieg in Europa begann am 1. September 1939 mit dem deutschen Überfall auf Polen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La Seconde Guerre mondiale en Europe a commencé le 1er septembre 1939, quand l'Allemagne a envahi la Pologne."
+    },
+    {
+     "taal": "es",
+     "tekst": "La Segunda Guerra Mundial en Europa comenzó el 1 de septiembre de 1939, cuando Alemania invadió Polonia."
+    },
+    {
+     "taal": "en",
+     "tekst": "Germany's invasion of Poland on 1 September 1939 marked the outbreak of the Second World War in Europe.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "On 1 September 1939, Germany attacked Poland, and this event set off the Second World War in Europe.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El 1 de septiembre de 1939, la invasión alemana de Polonia dio inicio a la Segunda Guerra Mundial en Europa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 1 de setembro de 1939, a Alemanha invadiu a Polônia, e esse ato marcou o começo da Segunda Guerra Mundial na Europa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 1° settembre 1939 la Germania invase la Polonia, e con quell'azione ebbe inizio la Seconda guerra mondiale in Europa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "1 Eylül 1939'da Almanya'nın Polonya'yı işgaliyle Avrupa'daki İkinci Dünya Savaşı başlamıştır.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 1 September 1939, Jerman menyerbu Polandia, dan peristiwa itulah yang memulai Perang Dunia II di Eropa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "بدأت الحرب العالمية الثانية في أوروبا في 1 سبتمبر 1939 عندما غزت ألمانيا بولندا.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "soviet-invasion-poland-1939",
+   "zin": "On 17 September 1939 the Soviet Union invaded Poland from the east.",
+   "bronnen": [
+    {
+     "bron": "ushmm",
+     "vindplaats": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+     "plek": "Key Facts item 2",
+     "steunt": "The Soviet Union attacked eastern Poland on September 17, 1939.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+     "plek": "Lead, first and second paragraphs",
+     "steunt": "The Soviet Union invaded Poland on 17 September 1939.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/German-Soviet-Nonaggression-Pact",
+     "plek": "Paragraph on the consequences of the pact",
+     "steunt": "Soviet troops invaded Poland from the east on September 17.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-127684",
+     "plek": "Janowiec and Others v. Russia [GC], The Facts, para. 15",
+     "steunt": "The Soviet Red Army entered Polish territory on 17 September 1939.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "ipn",
+     "vindplaats": "https://eng.ipn.gov.pl/en/news/3921,Katyn-Massacre-Basic-Facts.html",
+     "plek": "Section 2, first paragraph",
+     "steunt": "Soviet forces invaded Poland on the morning of 17 September 1939.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "On 17 September 1939 the Soviet Union invaded Poland from the east."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Red Army invaded eastern Poland in September 1939."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Soviet Union invaded Poland in September 1939."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Op 17 september 1939 viel de Sovjet-Unie Polen vanuit het oosten binnen."
+    },
+    {
+     "taal": "de",
+     "tekst": "Am 17. September 1939 marschierte die Sowjetunion von Osten her in Polen ein."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le 17 septembre 1939, l'Union soviétique a envahi la Pologne par l'est."
+    },
+    {
+     "taal": "es",
+     "tekst": "El 17 de septiembre de 1939, la Unión Soviética invadió Polonia por el este."
+    },
+    {
+     "taal": "en",
+     "tekst": "On 17 September 1939, the USSR attacked Poland from the eastern side.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "From the east, the Soviet Union entered Poland as an invader on 17 September 1939.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El 17 de septiembre de 1939, la URSS atacó Polonia desde el oriente.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 17 de setembro de 1939, a União Soviética invadiu a Polônia pelo leste.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il 17 settembre 1939 l'Unione Sovietica ha attaccato la Polonia da oriente.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "17 Eylül 1939'da Sovyetler Birliği Polonya'ya doğudan saldırdı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada 17 September 1939, Uni Soviet menyerbu Polandia dari arah timur.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في 17 سبتمبر 1939 غزا الاتحاد السوفيتي بولندا من الشرق.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "molotov-ribbentrop-protocol",
+   "zin": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/German-Soviet-Nonaggression-Pact",
+     "plek": "Lead; paragraph on the secret protocol",
+     "steunt": "The 23 August 1939 pact had a secret protocol splitting eastern Europe into German and Soviet spheres.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact",
+     "plek": "Lead, first paragraph",
+     "steunt": "The pact of 23 August 1939 had a secret protocol setting Soviet and German spheres of influence.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-127684",
+     "plek": "Janowiec and Others v. Russia [GC], The Facts, para. 14",
+     "steunt": "Its secret protocol fixed each side's sphere of influence in Eastern Europe.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "iwm",
+     "vindplaats": "https://www.iwm.org.uk/history/second-world-war/causes",
+     "plek": "Section 'The Nazi-Soviet Pact'",
+     "steunt": "Signed 23 August 1939 with a secret protocol dividing eastern Europe into spheres of influence.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "avalon",
+     "vindplaats": "https://avalon.law.yale.edu/20th_century/addsepro.asp",
+     "plek": "Secret Additional Protocol, Moscow, 23 August 1939, articles 1-3",
+     "steunt": "The protocol text sets German and Soviet spheres in the Baltic, Poland and Bessarabia.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Volgens Wikipedia ondertekend op 24 augustus en geantedateerd; alle bronnen dateren het pact op 23 augustus.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Molotov-Ribbentrop Pact had a secret protocol dividing Eastern Europe between Hitler and Stalin."
+    },
+    {
+     "taal": "en",
+     "tekst": "Nazi Germany and the Soviet Union secretly agreed in 1939 to split Poland and the Baltic states."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Het Molotov-Ribbentroppact van 23 augustus 1939 bevatte een geheim protocol dat Oost-Europa verdeelde in een Duitse en een Sovjet-invloedssfeer."
+    },
+    {
+     "taal": "de",
+     "tekst": "Der Hitler-Stalin-Pakt vom 23. August 1939 enthielt ein geheimes Zusatzprotokoll, das Osteuropa in deutsche und sowjetische Interessensphären aufteilte."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le pacte germano-soviétique du 23 août 1939 comportait un protocole secret partageant l'Europe de l'Est en sphères d'influence allemande et soviétique."
+    },
+    {
+     "taal": "es",
+     "tekst": "El pacto Ribbentrop-Mólotov del 23 de agosto de 1939 incluía un protocolo secreto que dividía Europa del Este en esferas de influencia alemana y soviética."
+    },
+    {
+     "taal": "en",
+     "tekst": "On 23 August 1939, the Molotov–Ribbentrop Pact contained a classified protocol that partitioned Eastern Europe into German and Soviet zones of influence.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "A confidential appendix to the Molotov–Ribbentrop Pact of 23 August 1939 assigned Eastern European territories to German and Soviet spheres of influence.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El 23 de agosto de 1939, el pacto Mólotov-Ribbentrop incluía un anexo confidencial que repartía Europa del Este en zonas de influencia alemana y soviética.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "O Pacto Molotov–Ribbentrop, de 23 de agosto de 1939, continha um protocolo confidencial que repartia a Europa Oriental em zonas de influência alemã e soviética.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il Patto Molotov–Ribbentrop del 23 agosto 1939 comprendeva un protocollo segreto che spartiva l'Europa orientale in sfere d'influenza tedesca e sovietica.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "23 Ağustos 1939 tarihli Molotov–Ribbentrop Paktı, Doğu Avrupa'yı Alman ve Sovyet nüfuz alanlarına bölen gizli bir protokol içeriyordu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pakta Molotov–Ribbentrop tanggal 23 Agustus 1939 memuat protokol rahasia yang membagi Eropa Timur menjadi wilayah pengaruh Jerman dan Soviet.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "تضمّن ميثاق مولوتوف–ريبنتروب المبرم في 23 أغسطس 1939 بروتوكولاً سرياً قسّم أوروبا الشرقية إلى مناطق نفوذ ألمانية وسوفيتية.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "katyn-1940",
+   "zin": "In the spring of 1940 the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "bronnen": [
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Katyn_massacre",
+     "plek": "Lead, first paragraph; infobox",
+     "steunt": "The NKVD executed nearly 22,000 Polish officers and others in April-May 1940.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "echr",
+     "vindplaats": "https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id=001-127684",
+     "plek": "Janowiec and Others v. Russia [GC], The Facts, paras. 18-19 and 23",
+     "steunt": "NKVD executions in April-May 1940; a KGB note counts 21,857 shot.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "ipn",
+     "vindplaats": "https://eng.ipn.gov.pl/en/news/3921,Katyn-Massacre-Basic-Facts.html",
+     "plek": "Introduction; sections 1 and 4",
+     "steunt": "In spring 1940 the NKVD killed almost 22,000 Polish prisoners.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.co.uk/news/world-europe-11845315",
+     "plek": "Report of 26 November 2010",
+     "steunt": "Roughly 22,000 Polish prisoners were killed at Katyn and other Soviet sites on orders of 1940.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Britannica noemt 'mogelijk meer dan 20.000'; het IPN werkt met een juridisch minimum van 21.768. 'Katyn' staat voor de hele operatie, ook Charkiv en Tver.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "In the spring of 1940 the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Katyn massacre was committed by the Soviet NKVD, not by the Germans."
+    },
+    {
+     "taal": "en",
+     "tekst": "About 22,000 Polish prisoners were shot by the Soviets at Katyn in 1940."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In het voorjaar van 1940 vermoordde de Sovjet-NKVD bij het bloedbad van Katyn ongeveer 22.000 Poolse officieren en andere gevangenen."
+    },
+    {
+     "taal": "de",
+     "tekst": "Im Frühjahr 1940 ermordete der sowjetische NKWD beim Massaker von Katyn etwa 22.000 polnische Offiziere und andere Gefangene."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Au printemps 1940, le NKVD soviétique a tué environ 22 000 officiers et autres prisonniers polonais lors du massacre de Katyn."
+    },
+    {
+     "taal": "es",
+     "tekst": "En la primavera de 1940, la NKVD soviética mató a unos 22.000 oficiales y otros prisioneros polacos en la masacre de Katyn."
+    },
+    {
+     "taal": "en",
+     "tekst": "Around 22,000 Polish officers and other captives were executed by the Soviet secret police, the NKVD, during the Katyn massacre in spring 1940.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "During the spring of 1940, Soviet NKVD agents shot roughly 22,000 Polish officers and other detainees at Katyn.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Durante la primavera de 1940, la policía secreta soviética NKVD ejecutó a cerca de 22.000 oficiales y otros detenidos polacos en la matanza de Katyn.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Na primavera de 1940, a polícia secreta soviética NKVD matou cerca de 22.000 oficiais e outros detidos poloneses no massacre de Katyn.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nella primavera del 1940, la polizia segreta sovietica NKVD uccise circa 22.000 ufficiali e altri detenuti polacchi nel massacro di Katyn.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "1940 baharında Sovyet gizli polisi NKVD, Katyn katliamında yaklaşık 22.000 Polonyalı subay ve diğer tutukluyu öldürdü.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada musim semi 1940, polisi rahasia Soviet NKVD membunuh sekitar 22.000 perwira Polandia dan tahanan lainnya dalam pembantaian Katyn.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "فيربيع عام 1940، قتلت الشرطة السرية السوفيتية NKVD نحو 22000 ضابط بولندي وسجناء آخرين في مذبحة كاتين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "holodomor-millions",
+   "zin": "The famine of 1932–1933 in Soviet Ukraine, known as the Holodomor, killed millions of people.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Holodomor",
+     "plek": "Lead; section 'From famine to extermination'",
+     "steunt": "A man-made famine in Soviet Ukraine in 1932-33; at least 3.9 million Ukrainians died.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Holodomor",
+     "plek": "Lead, first and second paragraphs",
+     "steunt": "A man-made famine in Soviet Ukraine, 1932-1933, that killed millions; estimates 3.5 to 5 million.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "hrec",
+     "vindplaats": "https://www.holodomor.ca/resource/holodomor-basic-facts/",
+     "plek": "Opening paragraph",
+     "steunt": "The 1932-33 famine in Ukraine killed millions of Ukrainians.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.co.uk/news/world-europe-60353677",
+     "plek": "Report of 12 February 2022",
+     "steunt": "An estimated four million people died in Ukraine's 1932-33 famine, the Holodomor.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Schattingen 3,5 tot 5 miljoen; of het genocide was, is een aparte vraag en geen deel van dit feit.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The famine of 1932–1933 in Soviet Ukraine, known as the Holodomor, killed millions of people."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Holodomor really happened."
+    },
+    {
+     "taal": "en",
+     "tekst": "Millions of Ukrainians died in the Soviet famine of 1932-33."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De hongersnood van 1932-1933 in Sovjet-Oekraïne, de Holodomor, kostte miljoenen mensen het leven."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Hungersnot von 1932–1933 in der sowjetischen Ukraine, der Holodomor, tötete Millionen Menschen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La famine de 1932-1933 en Ukraine soviétique, l'Holodomor, a fait des millions de morts."
+    },
+    {
+     "taal": "es",
+     "tekst": "La hambruna de 1932-1933 en la Ucrania soviética, el Holodomor, causó millones de muertes."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Holodomor, the famine in Soviet Ukraine during 1932 and 1933, caused the deaths of millions of people.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Between 1932 and 1933, a famine in Soviet Ukraine, called the Holodomor, took the lives of millions.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "La hambruna que azotó la Ucrania soviética entre 1932 y 1933, conocida como Holodomor, acabó con la vida de millones de personas.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "A grande fome de 1932 e 1933 na Ucrânia Soviética, chamada Holodomor, matou milhões de pessoas.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "La carestia del 1932-1933 nell'Ucraina sovietica, nota come Holodomor, ha causato la morte di milioni di persone.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Sovyet Ukraynası'nda 1932-1933 yıllarında yaşanan ve Holodomor olarak bilinen kıtlık milyonlarca insanın ölümüne yol açtı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Kelaparan tahun 1932–1933 di Ukraina Soviet, yang dikenal sebagai Holodomor, menewaskan jutaan orang.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "المجاعة التي شهدتها أوكرانيا السوفيتية في الفترة 1932-1933، والمعروفة باسم هولودومور، أودت بحياة الملايين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "nanjing-1937",
+   "zin": "After capturing Nanjing in December 1937, Japanese troops killed large numbers of Chinese civilians.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Nanjing-Massacre",
+     "plek": "Opening paragraph; section 'The massacre'",
+     "steunt": "After taking Nanjing on 13 December 1937, Japanese soldiers mass-killed civilians and surrendered soldiers.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Nanjing_Massacre",
+     "plek": "Lead",
+     "steunt": "From 13 December 1937 Japanese soldiers murdered civilians and executed captured Chinese soldiers.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "treccani",
+     "vindplaats": "https://www.treccani.it/enciclopedia/massacro-di-nanchino/",
+     "plek": "Section 'Storia'",
+     "steunt": "From 13 December 1937 Japanese forces carried out executions and killings of civilians in Nanjing.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.com/news/world-europe-49524779",
+     "plek": "Section 'What did Sindberg do?' (2 September 2019)",
+     "steunt": "Japanese troops took Nanjing in December 1937 and murdered civilians and captured soldiers for six weeks.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Aantallen lopen uiteen (100.000 tot meer dan 300.000); de zin noemt geen getal. Het Japanse ministerie van Buitenlandse Zaken erkent doden onder niet-strijders, zonder aantal; niet meegeteld.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "After capturing Nanjing in December 1937, Japanese troops killed large numbers of Chinese civilians."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Nanjing massacre happened in 1937."
+    },
+    {
+     "taal": "en",
+     "tekst": "Japanese soldiers massacred civilians in Nanking in 1937."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Na de inname van Nanjing in december 1937 doodden Japanse troepen grote aantallen Chinese burgers."
+    },
+    {
+     "taal": "de",
+     "tekst": "Nach der Einnahme Nankings im Dezember 1937 töteten japanische Truppen eine große Zahl chinesischer Zivilisten."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Après la prise de Nankin en décembre 1937, les troupes japonaises ont tué un grand nombre de civils chinois."
+    },
+    {
+     "taal": "es",
+     "tekst": "Tras tomar Nankín en diciembre de 1937, las tropas japonesas mataron a un gran número de civiles chinos."
+    },
+    {
+     "taal": "en",
+     "tekst": "Following the seizure of Nanjing in December 1937, Japanese forces murdered vast numbers of Chinese non-combatants.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "In December 1937, once Nanjing had fallen to them, Japanese soldiers slaughtered a great many Chinese noncombatants.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Después de apoderarse de Nankín en diciembre de 1937, fuerzas japonesas asesinaron a una gran cantidad de civiles chinos.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Depois de conquistar Nanquim em dezembro de 1937, tropas japonesas assassinaram um grande número de civis chineses.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Dopo aver conquistato Nanchino nel dicembre 1937, le truppe giapponesi uccisero un gran numero di civili cinesi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Aralık 1937'de Nanjing'i ele geçirdikten sonra Japon birlikleri çok sayıda Çinli sivili öldürdü.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Setelah merebut Nanjing pada Desember 1937, pasukan Jepang membunuh banyak sekali warga sipil Tionghoa.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "بعد الاستيلاء على نانجينغ في ديسمبر 1937، قتلت القوات اليابانية أعدادا كبيرة من المدنيين الصينيين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "bucha-2022",
+   "zin": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "bronnen": [
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Bucha_massacre",
+     "plek": "Lead, first paragraph",
+     "steunt": "Russian armed forces killed Ukrainian civilians during the occupation of Bucha, March 2022.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Russia-Ukraine-War",
+     "plek": "Section on evidence of Russian war crimes, Bucha",
+     "steunt": "Russian soldiers occupying Bucha for about a month killed hundreds of civilians.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "un",
+     "vindplaats": "https://www.ohchr.org/en/press-releases/2022/12/un-report-details-summary-executions-civilians-russian-troops-northern",
+     "plek": "OHCHR press release, 7 December 2022, third paragraph",
+     "steunt": "The UN documented 73 civilians killed in Bucha while Russian troops controlled it, 5-30 March 2022.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "hrw",
+     "vindplaats": "https://www.hrw.org/news/2022/04/21/ukraine-russian-forces-trail-death-bucha",
+     "plek": "Introduction; 'Summary Executions'",
+     "steunt": "During the March 2022 occupation, Russian forces summarily executed and killed civilians in Bucha.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "amnesty",
+     "vindplaats": "https://www.amnesty.org/en/latest/news/2022/05/ukraine-russian-forces-must-face-justice-for-war-crimes-in-kyiv-oblast-new-investigation/",
+     "plek": "Section 'Unlawful killings northwest of Kyiv'",
+     "steunt": "Russian forces killed residents of Bucha in apparent extrajudicial executions in March 2022.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Aantallen lopen uiteen (de VN documenteerde 73, HRW telde 278 lichamen); de zin noemt geen getal.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Bucha massacre was committed by Russian troops."
+    },
+    {
+     "taal": "en",
+     "tekst": "The killings in Bucha were not staged."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Russische troepen doodden burgers in Boetsja, Oekraïne, toen ze de stad in maart 2022 bezetten."
+    },
+    {
+     "taal": "de",
+     "tekst": "Russische Truppen töteten Zivilisten in Butscha in der Ukraine, als sie die Stadt im März 2022 besetzt hielten."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les forces russes ont tué des civils à Boutcha, en Ukraine, pendant qu'elles occupaient la ville en mars 2022."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las fuerzas rusas mataron a civiles en Bucha, Ucrania, mientras ocupaban la ciudad en marzo de 2022."
+    },
+    {
+     "taal": "en",
+     "tekst": "Civilians in Bucha, Ukraine, were killed by Russian forces during the period in March 2022 when those forces held the town.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "In March 2022, while Russian troops controlled the Ukrainian town of Bucha, they murdered local residents.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Durante marzo de 2022, tropas rusas dieron muerte a personas civiles en Bucha, en Ucrania, mientras controlaban esa localidad.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Forças russas mataram civis em Bucha, na Ucrânia, enquanto ocupavam a cidade em março de 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Le forze russe hanno ucciso civili a Bucha, in Ucraina, durante l'occupazione della città nel marzo 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Mart 2022'de Rus güçleri, Bucha'yı işgal ederken Ukrayna'daki bu kasabada sivilleri öldürdü.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pasukan Rusia membunuh warga sipil di Bucha, Ukraina, selama mereka menduduki kota itu pada Maret 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "قتلت القوات الروسية مدنيين في بوتشا بأوكرانيا أثناء سيطرتها على المدينة في مارس 2022.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "skripal-novichok",
+   "zin": "In March 2018 Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Poisoning-of-Sergei-and-Yulia-Skripal",
+     "plek": "Introduction; 'The poisoning'",
+     "steunt": "On 4 March 2018 in Salisbury the Skripals were poisoned with the nerve agent Novichok.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal",
+     "plek": "Lead",
+     "steunt": "The Skripals were poisoned with a Novichok nerve agent in Salisbury on 4 March 2018.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "uk-gov",
+     "vindplaats": "https://www.gov.uk/government/speeches/pm-commons-statement-on-salisbury-incident-12-march-2018",
+     "plek": "Prime Minister's statement, 12 March 2018",
+     "steunt": "Skripal and his daughter were poisoned on 4 March with a Novichok-group nerve agent.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "dawn-sturgess-inquiry",
+     "vindplaats": "https://dsiweb-prod.s3.eu-west-2.amazonaws.com/uploads/E03283426_Project-Orbit_Accessible_v2.pdf",
+     "plek": "Report HC 1525 (December 2025), para 1.2 and 4.99",
+     "steunt": "On 4 March 2018 the Skripals collapsed in Salisbury from exposure to Novichok.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.co.uk/news/articles/c9dl999d82no",
+     "plek": "Third paragraph (13 November 2024)",
+     "steunt": "The Skripals were poisoned by Novichok in Salisbury in March 2018.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De OPCW bevestigde de stof, maar noemt in haar openbare berichten nooit de naam Novitsjok.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "In March 2018 Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Skripals were poisoned with Novichok."
+    },
+    {
+     "taal": "en",
+     "tekst": "A Novichok nerve agent was used against Sergei Skripal in Salisbury."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In maart 2018 werden Sergej en Joelia Skripal in Salisbury vergiftigd met een novitsjok-zenuwgas."
+    },
+    {
+     "taal": "de",
+     "tekst": "Im März 2018 wurden Sergej und Julija Skripal in Salisbury mit einem Nervenkampfstoff der Nowitschok-Gruppe vergiftet."
+    },
+    {
+     "taal": "fr",
+     "tekst": "En mars 2018, Sergueï et Ioulia Skripal ont été empoisonnés à Salisbury avec un agent neurotoxique Novitchok."
+    },
+    {
+     "taal": "es",
+     "tekst": "En marzo de 2018, Serguéi y Yulia Skripal fueron envenenados en Salisbury con un agente nervioso Novichok."
+    },
+    {
+     "taal": "en",
+     "tekst": "Sergei and Yulia Skripal were poisoned with a Novichok nerve agent in Salisbury in March 2018.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Back in March 2018, the Skripals, Sergei and Yulia, were exposed to a Novichok nerve agent poisoning in Salisbury.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Sergei y Yulia Skripal sufrieron un envenenamiento con el agente nervioso Novichok en Salisbury, en marzo de 2018.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em março de 2018, Sergei e Yulia Skripal foram envenenados em Salisbury por meio de um agente nervoso Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel marzo 2018 Sergei e Yulia Skripal sono stati avvelenati a Salisbury con un agente nervino Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Mart 2018'de Salisbury'de Sergei ve Yulia Skripal, Novichok sinir gazı ile zehirlendi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada Maret 2018, Sergei dan Yulia Skripal diracuni di Salisbury menggunakan agen saraf Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في مارس 2018 تعرّض سيرغي ويوليا سكريبال للتسمم في سالزبوري بغاز الأعصاب نوفيتشوك.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "navalny-novichok-2020",
+   "zin": "In August 2020 Alexei Navalny was poisoned with a nerve agent of the Novichok group.",
+   "bronnen": [
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Poisoning_of_Alexei_Navalny",
+     "plek": "Lead",
+     "steunt": "On 20 August 2020 Navalny was poisoned with the Novichok nerve agent.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/Poisoning-of-Sergei-and-Yulia-Skripal",
+     "plek": "'Other victims and fallout', last paragraph",
+     "steunt": "Navalny fell ill in August 2020; tests confirmed exposure to Novichok.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bundesregierung",
+     "vindplaats": "https://www.bundesregierung.de/breg-en/service/archive/statement-by-the-federal-government-on-the-navalny-case-1781882",
+     "plek": "Press release 306, 2 September 2020",
+     "steunt": "A Bundeswehr laboratory found unequivocal proof of a Novichok-group nerve agent in Navalny's samples.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "uk-gov",
+     "vindplaats": "https://www.gov.uk/government/news/russia-uk-sanctions-fsb-operatives-over-poisoning-of-alexey-navalny",
+     "plek": "Press release 20 August 2021",
+     "steunt": "Navalny was attacked on 20 August 2020 with a nerve agent of the Novichok group.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De OPCW vond een cholinesteraseremmer verwant aan stoffen op lijst 1.A.14/1.A.15, zonder de naam Novitsjok.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "In August 2020 Alexei Navalny was poisoned with a nerve agent of the Novichok group."
+    },
+    {
+     "taal": "en",
+     "tekst": "Navalny was poisoned with Novichok."
+    },
+    {
+     "taal": "en",
+     "tekst": "Alexei Navalny's illness in 2020 was caused by a nerve agent, not by low blood sugar."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In augustus 2020 werd Aleksej Navalny vergiftigd met een novitsjok-zenuwgas."
+    },
+    {
+     "taal": "de",
+     "tekst": "Im August 2020 wurde Alexej Nawalny mit einem Nervenkampfstoff der Nowitschok-Gruppe vergiftet."
+    },
+    {
+     "taal": "fr",
+     "tekst": "En août 2020, Alexeï Navalny a été empoisonné avec un agent neurotoxique Novitchok."
+    },
+    {
+     "taal": "es",
+     "tekst": "En agosto de 2020, Alexéi Navalni fue envenenado con un agente nervioso Novichok."
+    },
+    {
+     "taal": "en",
+     "tekst": "Alexei Navalny was exposed to a Novichok-class nerve agent through poisoning in August 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Back in August 2020, Alexei Navalny suffered a poisoning involving a nerve agent from the Novichok family.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "En agosto de 2020, Alexéi Navalni sufrió un envenenamiento con un neurotóxico del grupo Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em agosto de 2020, Alexei Navalny foi envenenado com um agente neurotóxico do grupo Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nell'agosto 2020, Alexei Navalny è stato avvelenato con un agente nervino appartenente al gruppo Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Ağustos 2020'de Aleksey Navalny, Novichok grubuna ait bir sinir gazı ile zehirlendi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada Agustus 2020, Alexei Navalny diracuni menggunakan agen saraf dari golongan Novichok.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "في أغسطس 2020، تعرّض أليكسي نافالني للتسميم بعامل أعصاب من مجموعة نوفيتشوك.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "annexation-2022-invalid",
+   "zin": "In October 2022 the UN General Assembly, with 143 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions.",
+   "bronnen": [
+    {
+     "bron": "un",
+     "vindplaats": "https://press.un.org/en/2022/ga12458.doc.htm",
+     "plek": "GA/12458, 12 October 2022, opening paragraphs",
+     "steunt": "The Assembly condemned the attempted illegal annexation of four regions, adopted 143-5 with 35 abstentions.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/4",
+     "plek": "Lead",
+     "steunt": "The resolution of 12 October 2022 declares the annexation invalid; 143 for, 5 against.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.co.uk/news/world-63237669",
+     "plek": "Opening paragraphs (13 October 2022)",
+     "steunt": "The General Assembly condemned Russia's attempts to annex four regions, with 143 in favour.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "le-monde",
+     "vindplaats": "https://www.lemonde.fr/international/article/2022/10/13/guerre-en-ukraine-l-onu-condamne-l-escalade-de-poutine_6145626_3210.html",
+     "plek": "First paragraph",
+     "steunt": "On 12 October 2022, 143 states at the UN condemned Russia's annexations of four Ukrainian regions.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De resolutie zelf (A/RES/ES-11/4) verklaart de annexatie ook zonder geldigheid naar internationaal recht.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "In October 2022 the UN General Assembly, with 143 votes in favour, condemned Russia's attempted annexation of four Ukrainian regions."
+    },
+    {
+     "taal": "en",
+     "tekst": "The UN rejected Russia's annexation of four Ukrainian regions in 2022."
+    },
+    {
+     "taal": "en",
+     "tekst": "143 countries at the UN condemned Russia's attempt to annex four Ukrainian regions in 2022."
+    },
+    {
+     "taal": "nl",
+     "tekst": "In oktober 2022 veroordeelde de Algemene Vergadering van de VN met 143 stemmen voor de poging van Rusland om vier Oekraïense regio's te annexeren."
+    },
+    {
+     "taal": "de",
+     "tekst": "Im Oktober 2022 verurteilte die UN-Generalversammlung mit 143 Stimmen Russlands versuchte Annexion von vier ukrainischen Regionen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "En octobre 2022, l'Assemblée générale de l'ONU a condamné, par 143 voix, la tentative d'annexion de quatre régions ukrainiennes par la Russie."
+    },
+    {
+     "taal": "es",
+     "tekst": "En octubre de 2022, la Asamblea General de la ONU condenó, con 143 votos a favor, el intento de Rusia de anexionarse cuatro regiones ucranianas."
+    },
+    {
+     "taal": "en",
+     "tekst": "Russia's bid to seize four Ukrainian regions was denounced by the UN General Assembly in October 2022, as 143 member states voted in favour of the resolution.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Membership of the UN General Assembly voted 143 to support a resolution in October 2022 that censured Moscow's effort to take over four regions of Ukraine.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "En octubre de 2022, la Asamblea General de Naciones Unidas censuró la pretendida anexión de cuatro regiones de Ucrania por parte de Rusia, tras obtener 143 votos favorables.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em outubro de 2022, a Assembleia Geral da ONU reprovou a tentativa russa de anexar quatro regiões ucranianas, com 143 votos a favor.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nell'ottobre 2022 l'Assemblea Generale delle Nazioni Unite ha biasimato il tentativo della Russia di annettere quattro regioni ucraine, ottenendo 143 voti favorevoli.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Ekim 2022'de BM Genel Kurulu, 143 olumlu oyla Rusya'nın Ukrayna'nın dört bölgesini ilhak etme girişimini kınadı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Pada Oktober 2022, Majelis Umum PBB mengecam upaya Rusia mencaplok empat wilayah Ukraina, dengan 143 suara mendukung.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "smoking-lung-cancer",
+   "zin": "Smoking tobacco causes lung cancer.",
+   "bronnen": [
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/lung-cancer",
+     "plek": "Section 'Causes and symptoms', first paragraph",
+     "steunt": "Smoking causes 80 to 90 percent of lung cancer cases in countries with long tobacco use.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Lung_cancer",
+     "plek": "Section 'Causes', subsection 'Smoking'",
+     "steunt": "Tobacco smoking is blamed for 80 to 90 percent of cases.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nih",
+     "vindplaats": "https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/cessation-fact-sheet",
+     "plek": "Question on health problems caused by cigarette smoking",
+     "steunt": "The NCI states that smoking causes lung cancer.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "cancer-research-uk",
+     "vindplaats": "https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/smoking-and-cancer/how-does-smoking-cause-cancer",
+     "plek": "Section 'What causes lung cancer?'",
+     "steunt": "Smoking is the biggest cause of lung cancer.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "De WHO zegt 'toe te schrijven aan' en 'belangrijkste risicofactor'; niet meegeteld.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Smoking tobacco causes lung cancer."
+    },
+    {
+     "taal": "en",
+     "tekst": "Cigarette smoking causes lung cancer."
+    },
+    {
+     "taal": "en",
+     "tekst": "Cigarettes cause lung cancer."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Roken veroorzaakt longkanker."
+    },
+    {
+     "taal": "de",
+     "tekst": "Rauchen verursacht Lungenkrebs."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le tabagisme provoque le cancer du poumon."
+    },
+    {
+     "taal": "es",
+     "tekst": "Fumar tabaco causa cáncer de pulmón."
+    },
+    {
+     "taal": "en",
+     "tekst": "Tobacco use leads to lung cancer.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Lung cancer is caused by puffing on tobacco products.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El consumo de tabaco al fumar produce cáncer pulmonar.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "O hábito de fumar tabaco provoca câncer de pulmão.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il fumo di tabacco provoca il tumore ai polmoni.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Tütün içmek akciğer kanserine yol açar.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Merokok tembakau menyebabkan kanker paru-paru.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "يسبب تدخين التبغ سرطان الرئة.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "gezondheid"
+   ]
+  },
+  {
+   "id": "smallpox-eradicated",
+   "zin": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign.",
+   "bronnen": [
+    {
+     "bron": "who",
+     "vindplaats": "https://www.who.int/health-topics/smallpox",
+     "plek": "Section 'Overview'",
+     "steunt": "WHO intensified eradication in 1967 with worldwide immunization and declared smallpox eradicated in 1980.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Smallpox",
+     "plek": "Lead; section 'Prevention'",
+     "steunt": "WHO certified global eradication in 1980 after a global vaccination campaign.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/smallpox",
+     "plek": "Introduction; section 'History'",
+     "steunt": "WHO began a global vaccination program in 1967; smallpox was declared eradicated in 1980.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rivm",
+     "vindplaats": "https://www.rivm.nl/pokken",
+     "plek": "Main text 'Pokken', history paragraph",
+     "steunt": "WHO started a programme with ring vaccination in 1967; in 1980 the world was declared smallpox-free.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Gecertificeerd in december 1979, verklaard in mei 1980; laatste natuurlijke geval in 1977.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign."
+    },
+    {
+     "taal": "en",
+     "tekst": "Vaccination eradicated smallpox."
+    },
+    {
+     "taal": "en",
+     "tekst": "Smallpox no longer exists in nature since 1980."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Pokken werden in 1980 uitgeroeid verklaard na een wereldwijde vaccinatiecampagne."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Pocken wurden 1980 nach einer weltweiten Impfkampagne für ausgerottet erklärt."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La variole a été déclarée éradiquée en 1980 après une campagne mondiale de vaccination."
+    },
+    {
+     "taal": "es",
+     "tekst": "La viruela fue declarada erradicada en 1980 tras una campaña mundial de vacunación."
+    },
+    {
+     "taal": "en",
+     "tekst": "In 1980, smallpox was officially certified as wiped out worldwide, following a global immunization drive.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Following a worldwide inoculation program, the disease smallpox was pronounced eradicated in 1980.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "En 1980 se dio por erradicada la viruela tras una campaña de inmunización a escala mundial.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Em 1980, a varíola foi dada como erradicada após uma campanha de vacinação em escala mundial.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Nel 1980 il vaiolo è stato dichiarato sradicato dopo una campagna di vaccinazione su scala mondiale.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Dünya genelinde yürütülen bir aşılama kampanyasının ardından çiçek hastalığı 1980 yılında yok edilmiş ilan edildi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Cacar dinyatakan berhasil dibasmi pada tahun 1980 setelah program vaksinasi yang dilakukan di seluruh dunia.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "أُعلن القضاء على مرض الجدري في عام 1980 بعد حملة تطعيم عالمية واسعة النطاق.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "vaccins"
+   ]
+  },
+  {
+   "id": "ivermectin-covid",
+   "zin": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19.",
+   "bronnen": [
+    {
+     "bron": "nejm",
+     "vindplaats": "https://www.nejm.org/doi/full/10.1056/NEJMoa2115869",
+     "plek": "TOGETHER trial, NEJM 2022;386:1721-1731, Abstract and secondary outcomes",
+     "steunt": "In 1,358 randomised outpatients, ivermectin did not cut hospitalisation or speed recovery.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "jama",
+     "vindplaats": "https://jamanetwork.com/journals/jama/fullarticle/2797483",
+     "plek": "ACTIV-6, JAMA 2022;328(16):1595-1603, Conclusions",
+     "steunt": "In 1,591 outpatients, ivermectin did not significantly shorten time to sustained recovery.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "j-infect",
+     "vindplaats": "https://www.journalofinfection.com/article/S0163-4453(24)00064-1/fulltext",
+     "plek": "PRINCIPLE trial, J Infect 2024;88(4):106130, Findings and Interpretation",
+     "steunt": "In 8,811 participants, ivermectin was unlikely to give clinically meaningful improvement in recovery.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "who",
+     "vindplaats": "https://www.bmj.com/content/370/bmj.m3379",
+     "plek": "WHO living guideline, 'Ivermectin (updated 10 November 2023)', Recommendation 1",
+     "steunt": "WHO strongly advises against ivermectin; it probably does not meaningfully shorten symptoms.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Ivermectin_during_the_COVID-19_pandemic",
+     "plek": "Lead; section 'Research'",
+     "steunt": "The large randomised ACTIV-6 trial found ivermectin not effective against COVID-19.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "PRINCIPLE vond ongeveer twee dagen sneller herstel, onder de vooraf vastgelegde drempel voor een betekenisvol effect.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ivermectin does not cure COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "Ivermectin is not an effective treatment for COVID-19."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Grote gerandomiseerde studies vonden dat ivermectine het herstel van covid-19 niet betekenisvol verbetert."
+    },
+    {
+     "taal": "de",
+     "tekst": "Große randomisierte Studien ergaben, dass Ivermectin die Genesung von COVID-19 nicht nennenswert verbessert."
+    },
+    {
+     "taal": "fr",
+     "tekst": "De grands essais randomisés ont montré que l'ivermectine n'améliore pas de manière significative la guérison de la COVID-19."
+    },
+    {
+     "taal": "es",
+     "tekst": "Grandes ensayos aleatorizados encontraron que la ivermectina no mejora de forma significativa la recuperación de la COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "Major randomized controlled studies showed that ivermectin fails to meaningfully enhance how well patients recover from COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Trials with large numbers of randomised participants concluded that ivermectin produces no meaningful improvement in recovery from COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Ensayos clínicos aleatorizados de gran tamaño concluyeron que la ivermectina no produce una mejora relevante en la recuperación de la COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Grandes ensaios clínicos randomizados concluíram que a ivermectina não melhora de forma relevante a recuperação da COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Ampi studi clinici randomizzati hanno concluso che l'ivermectina non migliora in modo rilevante la guarigione dal COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Geniş kapsamlı rastgele kontrollü klinik çalışmalar, ivermektinin COVID-19'dan iyileşmeyi anlamlı şekilde artırmadığını ortaya koymuştur.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Uji klinis acak berskala besar menyimpulkan bahwa ivermektin tidak memberikan peningkatan yang berarti pada pemulihan dari COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "covid-19"
+   ]
+  },
+  {
+   "id": "sars-cov-2-covid",
+   "zin": "COVID-19 is caused by the SARS-CoV-2 coronavirus.",
+   "bronnen": [
+    {
+     "bron": "who",
+     "vindplaats": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+     "plek": "Key facts, first bullet",
+     "steunt": "The SARS-CoV-2 coronavirus causes COVID-19.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "cdc",
+     "vindplaats": "https://www.cdc.gov/covid/about/index.html",
+     "plek": "Key points",
+     "steunt": "COVID-19 is a disease caused by the SARS-CoV-2 virus.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "ecdc",
+     "vindplaats": "https://www.ecdc.europa.eu/en/covid-19",
+     "plek": "Section 'What is COVID-19?'",
+     "steunt": "COVID-19 is an illness caused by SARS-CoV-2.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rivm",
+     "vindplaats": "https://www.rivm.nl/coronavirus-covid-19",
+     "plek": "Section 'Corona'",
+     "steunt": "The coronavirus SARS-CoV-2 causes the disease COVID-19.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/COVID-19",
+     "plek": "Lead, first sentence",
+     "steunt": "COVID-19 is a contagious illness caused by the coronavirus SARS-CoV-2.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/COVID-19",
+     "plek": "Paragraph after the introduction",
+     "steunt": "COVID-19 is caused by the coronavirus SARS-CoV-2.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "COVID-19 is caused by the SARS-CoV-2 coronavirus."
+    },
+    {
+     "taal": "en",
+     "tekst": "The coronavirus SARS-CoV-2 causes COVID-19."
+    },
+    {
+     "taal": "en",
+     "tekst": "COVID-19 is caused by a virus."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Covid-19 wordt veroorzaakt door het coronavirus SARS-CoV-2."
+    },
+    {
+     "taal": "de",
+     "tekst": "COVID-19 wird durch das Coronavirus SARS-CoV-2 verursacht."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La COVID-19 est causée par le coronavirus SARS-CoV-2."
+    },
+    {
+     "taal": "es",
+     "tekst": "La COVID-19 está causada por el coronavirus SARS-CoV-2."
+    },
+    {
+     "taal": "en",
+     "tekst": "SARS-CoV-2, a coronavirus, is the agent responsible for COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The disease COVID-19 originates from infection with the SARS-CoV-2 coronavirus.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El SARS-CoV-2, un coronavirus, es el agente responsable de la COVID-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "A COVID-19 tem como origem o coronavírus SARS-CoV-2.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Il COVID-19 ha origine nel coronavirus SARS-CoV-2.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "COVID-19, SARS-CoV-2 koronavirüsü tarafından oluşturulur.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "COVID-19 disebabkan oleh virus korona SARS-CoV-2.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "يُسببه فيروس كورونا SARS-CoV-2 مرض كوفيد-19.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "covid-19"
+   ]
+  },
+  {
+   "id": "measles-mmr-97",
+   "zin": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles.",
+   "bronnen": [
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/MMR_vaccine",
+     "plek": "Lead",
+     "steunt": "After two doses, 97 percent of people are protected against measles.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/measles",
+     "plek": "Top Questions: 'Can you get measles if you had a vaccine?'",
+     "steunt": "The MMR vaccine is about 97 percent effective against measles after two doses.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nhs",
+     "vindplaats": "https://www.nhs.uk/vaccinations/mmr-vaccine/",
+     "plek": "Section 'How well the MMR vaccine works'",
+     "steunt": "After two doses, about 99 percent of people are protected against measles.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rivm",
+     "vindplaats": "https://www.rivm.nl/mazelen",
+     "plek": "Section 'Prik tegen mazelen'",
+     "steunt": "After two shots, 99 percent of vaccinated people are protected against measles.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Het getal 97 procent is van de CDC, die op vaccins niet meetelt; de NHS en het RIVM zeggen 99 procent.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles."
+    },
+    {
+     "taal": "en",
+     "tekst": "The MMR vaccine protects against measles."
+    },
+    {
+     "taal": "en",
+     "tekst": "Two MMR doses protect 97 to 99 percent of people against measles."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Twee doses van het BMR-vaccin beschermen ongeveer 97 tot 99 procent van de gevaccineerden tegen mazelen."
+    },
+    {
+     "taal": "de",
+     "tekst": "Zwei Dosen des MMR-Impfstoffs schützen etwa 97 bis 99 Prozent der Geimpften vor Masern."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Deux doses du vaccin ROR protègent environ 97 à 99 % des personnes vaccinées contre la rougeole."
+    },
+    {
+     "taal": "es",
+     "tekst": "Dos dosis de la vacuna triple vírica protegen a entre el 97 y el 99 % de los vacunados contra el sarampión."
+    },
+    {
+     "taal": "en",
+     "tekst": "Vaccination with a full two-dose MMR series gives roughly 97 to 99 percent of recipients immunity against measles.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Measles immunity of about 97 to 99 percent is achieved among vaccinated individuals who receive both doses of MMR.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Con dos dosis, la vacuna SRP logra que entre el 97 y el 99 % de quienes la reciben queden protegidos frente al sarampión.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Duas doses da vacina tríplice viral conferem proteção contra o sarampo a cerca de 97 a 99 por cento dos vacinados.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Due somministrazioni del vaccino MPR assicurano una protezione contro il morbillo a circa il 97-99 per cento delle persone vaccinate.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "İki doz MMR aşısı, aşılananların yaklaşık yüzde 97 ila 99'unu kızamığa karşı korur.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Dua dosis vaksin MMR memberikan perlindungan terhadap campak kepada sekitar 97 hingga 99 persen orang yang divaksinasi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "تمنح جرعتان من لقاح الحصبة والنكاف والحصبة الألمانية الحماية من الحصبة لنحو 97 إلى 99 في المئة من الأشخاص الملقحين.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ],
+   "onderwerpen": [
+    "vaccins"
+   ]
+  },
+  {
+   "id": "earth-age",
+   "zin": "The Earth is about 4.5 billion years old.",
+   "bronnen": [
+    {
+     "bron": "usgs",
+     "vindplaats": "https://pubs.usgs.gov/gip/geotime/age.html",
+     "plek": "Section 'Age of the Earth'",
+     "steunt": "Gives 4.54 billion years as the best age for the Earth.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "nhm-london",
+     "vindplaats": "https://www.nhm.ac.uk/discover/factfile-earth.html",
+     "plek": "Opening text under 'Planet Earth'",
+     "steunt": "Our planet is 4.54 billion years old.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Age_of_Earth",
+     "plek": "Lead, first sentence",
+     "steunt": "Earth's age is 4.54 billion years, plus or minus 0.05 billion.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "geolsoc",
+     "vindplaats": "https://blog.geolsoc.org.uk/2018/12/19/announcing-our-theme-for-2020-the-year-of-life/",
+     "plek": "Section 'Early life', third paragraph",
+     "steunt": "Scientists put Earth's age at about 4.54 billion years.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Britannica en Treccani zeggen 'bijna 4,6 miljard'; niet meegeteld voor 'ongeveer 4,5'.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The Earth is about 4.5 billion years old."
+    },
+    {
+     "taal": "en",
+     "tekst": "The Earth is billions of years old, not a few thousand."
+    },
+    {
+     "taal": "en",
+     "tekst": "Our planet formed about 4.5 billion years ago."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De aarde is ongeveer 4,5 miljard jaar oud."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die Erde ist etwa 4,5 Milliarden Jahre alt."
+    },
+    {
+     "taal": "fr",
+     "tekst": "La Terre a environ 4,5 milliards d'années."
+    },
+    {
+     "taal": "es",
+     "tekst": "La Tierra tiene unos 4.500 millones de años."
+    },
+    {
+     "taal": "en",
+     "tekst": "Earth's age is roughly 4.5 billion years.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Our world has existed for approximately 4.5 billion years.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "La Tierra existe desde hace aproximadamente 4.500 millones de años.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "A Terra tem cerca de 4,5 bilhões de anos de idade.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "La Terra ha circa 4,5 miliardi di anni.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Dünya yaklaşık 4,5 milyar yaşındadır.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Bumi berusia sekitar 4,5 miliar tahun.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "عمر الأرض نحو 4.5 مليار سنة.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "co2-rise",
+   "zin": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today.",
+   "bronnen": [
+    {
+     "bron": "noaa",
+     "vindplaats": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+     "plek": "Sections 'Past and future carbon dioxide' and 'Carbon dioxide levels in 2024'",
+     "steunt": "CO2 was 280 ppm or less before the Industrial Revolution and averaged 422.8 ppm in 2024.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "scripps",
+     "vindplaats": "https://scripps.ucsd.edu/research/climate-change-resources/faq-ocean-warming",
+     "plek": "Question 'How does climate change cause ocean warming?'",
+     "steunt": "Atmospheric CO2 rose from roughly 280 ppm in 1750 to 430 ppm in 2025.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wmo",
+     "vindplaats": "https://wmo.int/sites/default/files/2025-10/GHG-21_en.pdf",
+     "plek": "Greenhouse Gas Bulletin No. 21, section 'Carbon dioxide'",
+     "steunt": "Pre-industrial level 278.3 ppm; global mean CO2 in 2024 was 423.9 ppm.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "metoffice",
+     "vindplaats": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2021/2021-carbon-dioxide-forecast",
+     "plek": "Section 'Carbon dioxide will continue to build up', paragraph 2",
+     "steunt": "The 2021 peak above 417 ppm is 50% higher than the late-18th-century level of 278 ppm.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Carbon_dioxide_in_the_atmosphere_of_Earth",
+     "plek": "Lead",
+     "steunt": "CO2 reached 432 ppm in 2026, up from 280 ppm before the mid-18th century.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Uitgangswaarden 278 tot 280 ppm; recente waarden 423 tot 432 ppm.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today."
+    },
+    {
+     "taal": "en",
+     "tekst": "Atmospheric CO2 is now above 400 ppm."
+    },
+    {
+     "taal": "en",
+     "tekst": "The amount of CO2 in the air has risen sharply since the Industrial Revolution."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Kooldioxide in de atmosfeer is gestegen van ongeveer 280 deeltjes per miljoen vóór de industrialisatie tot meer dan 400 nu."
+    },
+    {
+     "taal": "de",
+     "tekst": "Das Kohlendioxid in der Atmosphäre ist von etwa 280 ppm vor der Industrialisierung auf heute mehr als 400 ppm gestiegen."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Le dioxyde de carbone dans l'atmosphère est passé d'environ 280 ppm avant l'industrialisation à plus de 400 ppm aujourd'hui."
+    },
+    {
+     "taal": "es",
+     "tekst": "El dióxido de carbono en la atmósfera ha pasado de unas 280 partes por millón antes de la industrialización a más de 400 hoy."
+    },
+    {
+     "taal": "en",
+     "tekst": "Atmospheric carbon dioxide has climbed from roughly 280 parts per million prior to industrialisation to over 400 parts per million at present.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Before industry took off, CO2 in the air stood at about 280 ppm; today it exceeds 400 ppm.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "El CO2 presente en la atmósfera ha subido de alrededor de 280 ppm antes de la industrialización a más de 400 ppm en la actualidad.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "O dióxido de carbono na atmosfera subiu de cerca de 280 partes por milhão antes da industrialização para mais de 400 partes por milhão nos dias de hoje.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "L'anidride carbonica nell'atmosfera è salita da circa 280 parti per milione prima dell'industrializzazione a oltre 400 parti per milione oggi.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Atmosferdeki karbondioksit miktarı, sanayileşmeden önceki yaklaşık 280 milyonda parçadan bugün 400 milyonda parçanın üzerine yükselmiştir.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Karbon dioksida di atmosfer telah naik dari sekitar 280 bagian per juta sebelum industrialisasi menjadi lebih dari 400 bagian per juta saat ini.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "ارتفع ثاني أكسيد الكربون في الغلاف الجوي من نحو 280 جزءًا في المليون قبل الثورة الصناعية إلى أكثر من 400 جزء في المليون اليوم.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "contrails",
+   "zin": "The white trails behind high-flying aircraft are condensation trails: water vapour from the engine exhaust that condenses and freezes into ice crystals.",
+   "bronnen": [
+    {
+     "bron": "noaa",
+     "vindplaats": "https://www.nesdis.noaa.gov/about/k-12-education/atmosphere/contrail-simulation",
+     "plek": "Opening explanation",
+     "steunt": "Contrail is short for condensation trail; exhaust water vapour condenses and freezes into ice crystals.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "metoffice",
+     "vindplaats": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations/contrails",
+     "plek": "Introduction and 'How do contrails form?'",
+     "steunt": "Engine water vapour condenses in sub-freezing air and freezes into trails of ice crystals.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "rmets",
+     "vindplaats": "https://www.metlink.org/fieldwork-resource/contrails/",
+     "plek": "'What are contrails?' and 'What is the Science behind Contrails?'",
+     "steunt": "Condensation trails are ice-crystal trails from the water vapour of fuel combustion.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/science/vapor-trail",
+     "plek": "Article 'contrail', first paragraph",
+     "steunt": "Water vapour from fuel combustion condenses on exhaust particles, forming a plume of ice crystals.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/Contrail",
+     "plek": "Lead",
+     "steunt": "Contrails are line-shaped clouds of ice crystals formed from exhaust water vapour in cold air.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Een deel van het water komt uit de omringende lucht.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "The white trails behind high-flying aircraft are condensation trails: water vapour from the engine exhaust that condenses and freezes into ice crystals."
+    },
+    {
+     "taal": "en",
+     "tekst": "Contrails are made of ice crystals, not chemicals."
+    },
+    {
+     "taal": "en",
+     "tekst": "Aircraft trails are condensation, not chemicals sprayed into the sky."
+    },
+    {
+     "taal": "nl",
+     "tekst": "De witte strepen achter hoogvliegende vliegtuigen zijn condensstrepen: waterdamp uit de uitlaat die condenseert en bevriest tot ijskristallen."
+    },
+    {
+     "taal": "de",
+     "tekst": "Die weißen Streifen hinter hoch fliegenden Flugzeugen sind Kondensstreifen: Wasserdampf aus den Abgasen, der kondensiert und zu Eiskristallen gefriert."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Les traînées blanches derrière les avions à haute altitude sont des traînées de condensation : la vapeur d'eau des gaz d'échappement qui se condense et gèle en cristaux de glace."
+    },
+    {
+     "taal": "es",
+     "tekst": "Las estelas blancas detrás de los aviones que vuelan alto son estelas de condensación: vapor de agua de los gases de escape que se condensa y se congela en cristales de hielo."
+    },
+    {
+     "taal": "en",
+     "tekst": "Vapour from jet engine exhaust condenses and then freezes into ice crystals, forming the white lines seen behind planes flying at great height.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "The visible lines left by planes cruising at high altitude are condensation trails, formed when exhaust water vapour turns to ice crystals.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Los rastros blancos que dejan los aviones en gran altitud son producto de vapor de agua de la combustión que se condensa y se convierte en cristales de hielo.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Os rastros brancos deixados por aviões em grande altitude são formados por vapor d'água dos gases de escape que condensa e congela em cristais de gelo.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Le scie bianche lasciate dagli aerei che volano ad alta quota sono formate dal vapore acqueo dei gas di scarico che si condensa e si trasforma in cristalli di ghiaccio.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Yüksek irtifada uçan uçakların arkasında bıraktığı beyaz izler, egzoz gazındaki su buharının yoğunlaşıp buz kristallerine dönüşmesiyle oluşan yoğunlaşma izleridir.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Garis putih yang tertinggal di belakang pesawat terbang tinggi adalah jejak kondensasi, yaitu uap air dari gas buang mesin yang mengembun lalu membeku menjadi kristal es.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "الخطوط البيضاء التي تتركها الطائرات المحلّقة على ارتفاعات عالية هي آثار تكاثف ناتجة عن بخار الماء في عادم المحرك، الذي يتكثّف ثم يتجمّد إلى بلورات ثلجية.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "biden-2020",
+   "zin": "Joe Biden won the 2020 United States presidential election.",
+   "bronnen": [
+    {
+     "bron": "nara",
+     "vindplaats": "https://www.archives.gov/electoral-college/2020",
+     "plek": "'2020 Electoral College Results', Electoral Vote",
+     "steunt": "Joseph R. Biden Jr. won with 306 electoral votes against Trump's 232.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "congress",
+     "vindplaats": "https://www.govinfo.gov/content/pkg/CREC-2021-01-06/pdf/CREC-2021-01-06-pt1-PgH76-4.pdf",
+     "plek": "Congressional Record, 6 January 2021, joint session, page H115",
+     "steunt": "Biden received 306 votes, Trump 232; declared elected President.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/event/United-States-presidential-election-of-2020",
+     "plek": "Opening paragraph",
+     "steunt": "Joe Biden defeated Donald Trump on 3 November 2020, 306 to 232 in the Electoral College.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "plek": "Lead",
+     "steunt": "Biden defeated Trump with 306 electoral votes and 51.3% of the popular vote.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.com/news/world-us-canada-55568621",
+     "plek": "Report of 7 January 2021",
+     "steunt": "Congress certified Biden's victory, 306 electoral votes against 232.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Verkiezing 3 november 2020; bevestigd door het Congres op 6 en 7 januari 2021.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Joe Biden won the 2020 United States presidential election."
+    },
+    {
+     "taal": "en",
+     "tekst": "Biden won the 2020 election."
+    },
+    {
+     "taal": "en",
+     "tekst": "Donald Trump lost the 2020 US presidential election."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Joe Biden won de Amerikaanse presidentsverkiezingen van 2020."
+    },
+    {
+     "taal": "de",
+     "tekst": "Joe Biden gewann die US-Präsidentschaftswahl 2020."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Joe Biden a remporté l'élection présidentielle américaine de 2020."
+    },
+    {
+     "taal": "es",
+     "tekst": "Joe Biden ganó las elecciones presidenciales de Estados Unidos de 2020."
+    },
+    {
+     "taal": "en",
+     "tekst": "Joe Biden emerged victorious in the 2020 U.S. presidential contest.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "In the 2020 American presidential vote, Joe Biden came out on top.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Joe Biden resultó vencedor en la contienda presidencial estadounidense de 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Joe Biden saiu vitorioso na eleição presidencial dos Estados Unidos em 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Joe Biden ha vinto le elezioni presidenziali statunitensi del 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Joe Biden, 2020 Amerika Birleşik Devletleri başkanlık seçimini kazandı.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Joe Biden memenangkan pemilihan presiden Amerika Serikat tahun 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "فاز جو بايدن بالانتخابات الرئاسية الأمريكية عام 2020.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  },
+  {
+   "id": "zelensky-2019",
+   "zin": "Volodymyr Zelensky was elected president of Ukraine in April 2019.",
+   "bronnen": [
+    {
+     "bron": "cvk-ukraine",
+     "vindplaats": "https://www.cvk.gov.ua/wp-content/uploads/2019/10/2019-VPU-ua-Analytical-report.pdf",
+     "plek": "Analytical report on the 2019 presidential election, page 2",
+     "steunt": "After the second round of 21 April 2019, Zelensky was elected President of Ukraine.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "osce-odihr",
+     "vindplaats": "https://odihr.osce.org/sites/default/files/f/documents/8/3/439631_0.pdf",
+     "plek": "Final report, page 16 and Annex I (page 43)",
+     "steunt": "The 21 April 2019 runoff gave Zelenskyy 73.22% against Poroshenko's 24.45%.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "britannica",
+     "vindplaats": "https://www.britannica.com/biography/Volodymyr-Zelensky",
+     "plek": "Lead; section 'Presidency of Ukraine'",
+     "steunt": "Zelensky was elected president on 21 April 2019 with about 73 percent of the vote.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "wikipedia",
+     "vindplaats": "https://en.wikipedia.org/wiki/2019_Ukrainian_presidential_election",
+     "plek": "Lead",
+     "steunt": "The runoff was held on 21 April 2019; Zelenskyy won with 73.22%.",
+     "nagelopen": "2026-10-17"
+    },
+    {
+     "bron": "bbc",
+     "vindplaats": "https://www.bbc.com/news/world-europe-48007487",
+     "plek": "Report of 22 April 2019",
+     "steunt": "Zelensky won a landslide in the runoff on 21 April with more than 73%.",
+     "nagelopen": "2026-10-17"
+    }
+   ],
+   "kanttekening": "Tweede ronde 21 april 2019; uitslag vastgesteld 30 april, beëdigd 20 mei.",
+   "oormerk": {
+    "door": "Claude",
+    "datum": "2026-10-17",
+    "werkwijze": "elke bron op de pagina zelf gelezen, in Chrome of met WebFetch, door vier agenten en Claude"
+   },
+   "formuleringen": [
+    {
+     "taal": "en",
+     "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019."
+    },
+    {
+     "taal": "en",
+     "tekst": "Zelensky became president of Ukraine through an election in 2019."
+    },
+    {
+     "taal": "en",
+     "tekst": "Zelensky won the 2019 Ukrainian presidential election."
+    },
+    {
+     "taal": "nl",
+     "tekst": "Volodymyr Zelensky werd in april 2019 gekozen tot president van Oekraïne."
+    },
+    {
+     "taal": "de",
+     "tekst": "Wolodymyr Selenskyj wurde im April 2019 zum Präsidenten der Ukraine gewählt."
+    },
+    {
+     "taal": "fr",
+     "tekst": "Volodymyr Zelensky a été élu président de l'Ukraine en avril 2019."
+    },
+    {
+     "taal": "es",
+     "tekst": "Volodímir Zelenski fue elegido presidente de Ucrania en abril de 2019."
+    },
+    {
+     "taal": "en",
+     "tekst": "In April 2019, Volodymyr Zelensky was voted into the presidency of Ukraine.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "en",
+     "tekst": "Ukraine's presidency went to Volodymyr Zelensky after his election in April 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "es",
+     "tekst": "Volodímir Zelenski accedió a la presidencia de Ucrania tras ser elegido en abril de 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "pt",
+     "tekst": "Volodymyr Zelensky foi eleito para a presidência da Ucrânia em abril de 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "it",
+     "tekst": "Volodymyr Zelensky è stato eletto alla presidenza dell'Ucraina nell'aprile 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "tr",
+     "tekst": "Volodimir Zelenski, Nisan 2019'da seçilerek Ukrayna Cumhurbaşkanı oldu.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "id",
+     "tekst": "Volodymyr Zelensky terpilih sebagai presiden Ukraina pada April 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    },
+    {
+     "taal": "ar",
+     "tekst": "انتُخب فولوديمير زيلينسكي رئيسًا لأوكرانيا في أبريل 2019.",
+     "rol": "poort",
+     "prompt": "kernpoort-v1"
+    }
+   ]
+  }
+ ]
+}

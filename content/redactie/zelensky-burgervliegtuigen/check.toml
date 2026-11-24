@@ -1,0 +1,246 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/zelensky-burgervliegtuigen/dossier.md.
+
+sleutel = "zelensky-burgervliegtuigen"
+status = "gepubliceerd"
+taal = "nl"
+adres = "zelensky-dreigt-vliegtuigen-neer-te-halen"
+adres_en = "zelensky-threatens-to-down-airliners"
+kop = "Zelensky waarschuwde luchtvaartmaatschappijen voor drones boven Rusland, hij dreigde niet vliegtuigen neer te schieten"
+oordeel = "onwaar"
+reikwijdte = "internationaal"
+oordeel_zin = "Zelensky waarschuwde dat Oekraïense drones het Russische luchtruim onveilig maken, maar zei er uitdrukkelijk bij dat Oekraïne geen enkel burgervliegtuig bedreigt [2] [3]."
+soort = "context"
+
+bewering = "Zelensky dreigt nu zelfs burgervliegtuigen uit de lucht te schieten, waar Oekraïne natuurlijk al ervaring mee heeft... #MH17"
+platform = "X"
+eerst_gezien = "2026-09-05"
+posts = 1
+bereik = "14.721 keer bekeken op 18 november"
+
+kort = """
+Op 5 september ging op X een post rond die zegt dat Zelensky dreigt burgervliegtuigen neer te schieten, met de hashtag \
+MH17 erbij [1]. Zelensky waarschuwde op 1 september luchtvaartmaatschappijen dat Oekraïense drones het Russische \
+luchtruim onveilig maken, en zei in dezelfde toespraak dat Oekraïne geen enkel burgervliegtuig bedreigt [2] [3]. Voor \
+MH17 wees de raad van de ICAO in 2025 Rusland aan als verantwoordelijke [10] [11]."""
+
+tekst = """
+De post verscheen op zaterdag 5 september om 12:51 op X [1]. Ze haalt een Engelse post van een dag eerder aan, met een \
+video van 51 seconden en de bewering dat Zelensky burgervliegtuigen bedreigt [1]. De Nederlandse post maakt daarvan dat \
+hij dreigt ze uit de lucht te schieten, en verwijst met de hashtag MH17 naar de ramp van 2014 [1]. Op 18 november was de \
+post 14.721 keer bekeken [1].
+
+Het gaat om de avondtoespraak van Zelensky van dinsdag 1 september, met de video op Telegram en een deel van de tekst \
+om 19:59 in het Engels op X [13] [2]. Daarin waarschuwde \
+hij elke luchtvaartmaatschappij die het Russische luchtruim gebruikt, elke verzekeraar en iedereen die de grote Russische \
+vliegvelden nog gebruikt: het luchtruim wordt volledig onveilig [2] [3]. De reden die hij gaf, zijn Oekraïense \
+drones, die op zo'n schaal boven Rusland zullen vliegen dat de luchtvaart er rekening mee moet houden [3] [4]. Drie \
+dagen eerder had hij opdracht gegeven tot 1.000 drones per dag tegen Rusland [4].
+
+In dezelfde toespraak zei Zelensky dat Oekraïne de burgerluchtvaart niet bedreigt, "not a single civilian aircraft" [2]. \
+In zijn eigen tekst, in het Engels en het Oekraïens, volgt die zin direct op de waarschuwing [2] [13]. \
+Euronews en Meduza geven die woorden ook weer [3] [4]. Oekraïne wil volgens hem niet dat er onschuldige levens verloren \
+gaan [2].
+
+Een dag later liet Oekraïne de ICAO, de luchtvaartorganisatie van de Verenigde Naties, formeel weten dat het Russische \
+luchtruim onveilig is [6]. De Turkse maatschappijen Pegasus en Turkish Airlines schrapten vluchten van en naar Moskou \
+[6]. Dezelfde dag waarschuwde de ICAO in het algemeen dat het risico groeit dat burgervliegtuigen door wapens worden \
+geraakt of in een kruisvuur komen; Rusland of Oekraïne noemt ze niet [7].
+
+Een dreiging zag ook Poetin erin: hij noemde de waarschuwing op 1 september staatsterrorisme [5]. De plannen van Oekraïne \
+waarover is bericht, gaan over het sluiten van het luchtruim, niet over het neerschieten van vliegtuigen. Volgens The \
+Atlantic, aangehaald door The Insider, bereidde Oekraïne een plan voor om het luchtruim boven Moskou met tot 1.000 drones \
+in één nacht dicht te leggen, en was Zelensky bang dat een geraakt passagiersvliegtuig als piraterij zou worden gezien \
+[8]. Het bureau van Zelensky noemde dat verslag volgens Meduza complete onzin [14]. Volgens The Wall Street Journal, \
+aangehaald door The Week, wil Oekraïne drones bij Russische vliegvelden laten \
+rondvliegen, zodat starts en landingen stil komen te liggen [9]. Dat maakt vliegen boven Rusland gevaarlijker. Een \
+dreigement om vliegtuigen neer te schieten is het niet.
+
+MH17 werd op 17 juli 2014 boven Oost-Oekraïne neergeschoten met een Russische luchtdoelraket, boven gebied in handen van \
+pro-Russische separatisten [11]. Er kwamen 298 mensen om, onder wie 196 Nederlanders [11]. De raad van de ICAO oordeelde \
+op 12 mei 2025, in een zaak van Nederland en Australië, dat Rusland verantwoordelijk is [10]. Wel wezen Russische en \
+Oekraïense functionarissen in oktober 2001 een raket aan als oorzaak van de ramp met een Russisch passagiersvliegtuig \
+boven de Zwarte Zee, met 78 doden [12]. De Oekraïense functionaris zei dat het waarschijnlijk per ongeluk een raket van \
+een Oekraïense oefening was [12]."""
+
+niet_weten = """
+De eerste zin van de post, over \
+welke doelen Rusland en Oekraïne raken, is een eigen bewering die we hier niet checken. Een factcheck van een andere \
+redactie over deze bewering vonden we niet, in zeven talen en op ruim twintig sites."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+# De archiefkopieën van de posts [1] en [2] (19 november) zijn de openbare gegevens van X (cdn.syndication.twimg.com), met
+# de tekst, de datum en bij [1] de aangehaalde Engelse post; X zelf laat de Wayback Machine niet binnen. Van de lange tekst
+# op X [2] geven die gegevens alleen het begin; de hele toespraak staat in de kopie van Telegram [13]. NL Times [11] liet
+# zich niet archiveren (403).
+nog_doen = []
+
+nog_uitzoeken = [
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 5 september 2026, 12:51."
+alt = "Screenshot van de post op X die zegt dat Zelensky dreigt burgervliegtuigen neer te schieten, met de hashtag MH17 en de aangehaalde Engelse post. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://t.me/V_Zelenskiy_official/20660"
+stempel = false
+bijschrift = "Volodymyr Zelensky op Telegram, 1 september 2026: de video van de avondtoespraak met de waarschuwing aan luchtvaartmaatschappijen."
+alt = "De video van de avondtoespraak van Zelensky van 1 september 2026."
+
+[[tijdlijn]]
+datum = "2026-08-28"
+wat = "Zelensky zegt dat hij opdracht gaf tot 1.000 drones per dag tegen Rusland [4]."
+
+[[tijdlijn]]
+datum = "2026-09-01"
+wat = "Zelensky waarschuwt luchtvaartmaatschappijen in zijn avondtoespraak, met de video op Telegram en de tekst op X [13] [2]."
+
+[[tijdlijn]]
+datum = "2026-09-01"
+wat = "Poetin noemt de waarschuwing staatsterrorisme [5]."
+
+[[tijdlijn]]
+datum = "2026-09-02"
+wat = "Oekraïne meldt bij de ICAO dat het Russische luchtruim onveilig is; de ICAO waarschuwt in het algemeen voor wapens tegen burgervliegtuigen [6] [7]."
+
+[[tijdlijn]]
+datum = "2026-09-04"
+tijd = "06:52"
+wat = "Een Engelse post zegt dat Zelensky burgervliegtuigen bedreigt [1]."
+
+[[tijdlijn]]
+datum = "2026-09-05"
+tijd = "12:51"
+wat = "De Nederlandse post met de hashtag MH17 [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post met de bewering en de aangehaalde Engelse post"
+datum = "2026-09-05"
+prive = true
+archief = "https://web.archive.org/web/20261119125311/https://cdn.syndication.twimg.com/tweet-result?id=2096189441446395931&token=52xdfv9jbf&lang=nl"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Volodymyr Zelensky op X"
+titel = "Avondtoespraak met de waarschuwing aan luchtvaartmaatschappijen"
+datum = "2026-09-01"
+url = "https://x.com/ZelenskyyUa/status/2094847676848480297"
+archief = "https://web.archive.org/web/20261119125331/https://cdn.syndication.twimg.com/tweet-result?id=2094847676848480297&token=52t5ov7yzd&lang=nl"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "Zelenskyy warns 'Russian airspace will effectively be closing'"
+datum = "2026-09-01"
+url = "https://www.euronews.com/2026/09/01/zelenskyy-warns-russian-airspace-will-effectively-be-closing"
+archief = "https://web.archive.org/web/20261103014019/https://www.euronews.com/2026/09/01/zelenskyy-warns-russian-airspace-will-effectively-be-closing"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "'Drone-infested skies are no place for civilian aviation': Zelensky tells airlines still flying into Moscow to get out, days after ordering 1,000 drone attacks a day"
+datum = "2026-09-01"
+url = "https://meduza.io/en/news/2026/09/01/drone-infested-skies-are-no-place-for-civilian-aviation-zelensky-tells-airlines-still-flying-into-moscow-to-get-out-days-after-ordering-1-000-drone-attacks-a-day"
+archief = "https://web.archive.org/web/20260901210148/https://meduza.io/en/news/2026/09/01/drone-infested-skies-are-no-place-for-civilian-aviation-zelensky-tells-airlines-still-flying-into-moscow-to-get-out-days-after-ordering-1-000-drone-attacks-a-day"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "Putin says Zelensky's warning to civilian airlines operating in Russian airspace 'amounts to state terrorism'"
+datum = "2026-09-01"
+url = "https://meduza.io/en/news/2026/09/01/putin-says-zelensky-s-warning-to-civilian-airlines-operating-in-russian-airspace-is-a-bid-for-state-terrorism"
+archief = "https://web.archive.org/web/20260905000947/https://meduza.io/en/news/2026/09/01/putin-says-zelensky-s-warning-to-civilian-airlines-operating-in-russian-airspace-is-a-bid-for-state-terrorism"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "Ukraine formally warns airlines that Russian airspace is unsafe"
+datum = "2026-09-02"
+url = "https://www.euronews.com/2026/09/02/ukraine-formally-warns-airlines-that-russian-airspace-is-unsafe"
+archief = "https://web.archive.org/web/20261031010443/https://www.euronews.com/2026/09/02/ukraine-formally-warns-airlines-that-russian-airspace-is-unsafe"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "ICAO"
+titel = "ICAO statement on the safety and security of international civil aviation"
+datum = "2026-09-02"
+url = "https://www.icao.int/news/icao-statement-safety-and-security-international-civil-aviation"
+archief = "https://web.archive.org/web/20260905230629/https://www.icao.int/news/icao-statement-safety-and-security-international-civil-aviation"
+
+[[bron]]
+nr = 8
+soort = "nieuws"
+uitgever = "The Insider"
+titel = "'The war Russia started is closing its own sky': Zelensky warns airlines and insurers against flying to Russia"
+datum = "2026-09-02"
+url = "https://theins.press/en/news/296714"
+archief = "https://web.archive.org/web/20260906185824/https://theins.press/en/news/296714"
+
+[[bron]]
+nr = 9
+soort = "nieuws"
+uitgever = "The Week"
+titel = "All eyes on Russian airspace as Ukraine threatens commercial travel"
+datum = "2026-09-08"
+url = "https://theweek.com/world-news/ukraine-zelenskyy-threatens-russian-airports-drone-swarm"
+archief = "https://web.archive.org/web/20261112195635/https://theweek.com/world-news/ukraine-zelenskyy-threatens-russian-airports-drone-swarm"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "Rijksoverheid"
+titel = "ICAO Council: Russian Federation responsible for downing of flight MH17"
+datum = "2025-05-12"
+url = "https://www.government.nl/latest/news/2025/05/12/icao-council-russian-federation-responsible-for-downing-of-flight-mh17"
+archief = "https://web.archive.org/web/20261009161019/https://www.government.nl/latest/news/2025/05/12/icao-council-russian-federation-responsible-for-downing-of-flight-mh17"
+
+[[bron]]
+nr = 11
+soort = "nieuws"
+uitgever = "NL Times"
+titel = "UN Council: Russia responsible for downing MH17, killing 298, including 196 Dutch"
+datum = "2025-05-12"
+url = "https://nltimes.nl/2025/05/12/un-council-russia-responsible-downing-mh17-killing-298-including-196-dutch"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "ABC News"
+titel = "Russian and Ukrainian Officials: Missile Downed Plane"
+datum = "2001-10-12"
+url = "https://abcnews.com/International/story?id=80485"
+archief = "https://web.archive.org/web/20241206134844/https://abcnews.go.com/International/story?id=80485"
+
+[[bron]]
+nr = 13
+soort = "bron"
+uitgever = "Volodymyr Zelensky op Telegram"
+titel = "Avondtoespraak met de waarschuwing aan luchtvaartmaatschappijen, met de video"
+datum = "2026-09-01"
+url = "https://t.me/V_Zelenskiy_official/20660"
+archief = "https://web.archive.org/web/20261113062311/https://t.me/V_Zelenskiy_official/20660"
+
+[[bron]]
+nr = 14
+soort = "nieuws"
+uitgever = "Meduza"
+titel = "The Atlantic: Zelensky authorized a plan to swarm Moscow's airports with 1,000 drones; his office calls the account 'total nonsense'"
+datum = "2026-08-21"
+url = "https://meduza.io/en/feature/2026/08/21/the-atlantic-zelensky-authorized-a-plan-to-swarm-moscow-s-airports-with-1-000-drones-after-warning-it-could-harm-civilian-aircraft-and-passengers-his-office-calls-the-account-total-nonsense"

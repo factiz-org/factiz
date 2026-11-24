@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck klaver-nepartikel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "3eff8a643961f4cc",
+ "veldafdrukken": {
+  "kop": "fd374f2d051f5e8d",
+  "oordeel_zin": "42d6387b35bd85f4",
+  "bewering": "e0efc4c280872430",
+  "kort": "8ea1dfd9ebe8394b",
+  "tekst": "8a5c2a405d2143a4",
+  "niet_weten": "24db3e1caf4be548",
+  "bereik": "5d4825a68770a9f3",
+  "nog_uitzoeken": "c37e4f4c6f0cdc8d",
+  "tijdlijn": "21a857bf6de35b2b",
+  "beeld_bijschrift": "9baaab6bd1d2f66c",
+  "beeld_alt": "dd10deddbc08b495"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Jesse Klaver從未說過他想廢除私人財產,該引述出自2020年",
+  "oordeel_zin": "該引述出自2020年10月Medium上的一個匿名部落格,據他的發言人表示,Klaver從未說過這句話 [2] [7]。",
+  "bewering": "Jesse Klaver (GL): 「如果我贏得選舉,我就廢除私人財產。」",
+  "kort": "10月5日,X上流傳一張截圖,內容是Jesse Klaver說如果他贏得選舉就會廢除私人財產 [1]。Klaver從未說過這句話:該引述出自一名匿名作者於2020年10月發在Medium上的部落格 [2] [7]。該部落格已不存在,但這句引述在2022年、2025年和2026年一再重現 [1] [7] [8]。",
+  "tekst": "這張截圖於10月5日(星期一)14:37出現在X上,配文為「你看,這才是真正的共產主義者。」[1]。到11月18日,這則貼文有953個讚和186則留言 [1]。同一天下午,貼文被補充了背景說明 [1]。\n\n這句引述比這則貼文更早出現。2020年10月14日(星期三),X上的一個帳號分享了一個Medium部落格的連結,Medium是任何人都可以寫作的平台 [2]。該部落格的標題就是這句引述 [2]。幾小時後,以色列資訊與文獻中心(CIDI)寫道,Klaver因為一篇反猶太的文章而登上熱門話題,該文章聲稱他想廢除私人財產 [3]。據CIDI表示,作者還在文中寫道Klaver的母親是猶太人 [3]。\n\n不存在任何訪談、演講或政綱中Klaver說過這句話。2022年,dpa找不到任何一家媒體記錄過這句話;所有引用都追溯到那個部落格,而作者此時已將其刪除 [7]。Klaver的發言人對dpa表示,他從未說過這句話 [7]。GroenLinks 2021年的選舉政綱名為《Tijd voor nieuw realisme》,領銜候選人是Klaver [5]。據dpa表示,「privébezit」(私人財產)與「privé-eigendom」(私有財產)這兩個詞並未出現在其中 [7]。\n\n此後這句引述一再重現。2022年2月,它出現在Facebook上 [7]。2025年10月,在10月29日眾議院選舉的競選期間,截圖再度流傳,發言人稱之為假新聞 [8]。在2026年10月5日那則貼文之後,Knack也寫道,沒有證據顯示存在這句引述 [9]。\n\n2020年時,Klaver是GroenLinks的黨團主席 [4]。GroenLinks與PvdA於2026年6月13日合併為Progressief Nederland(PRO)[6]。Klaver現為PRO在眾議院的黨團主席 [4]。",
+  "niet_weten": "我們不知道這篇部落格文章是誰寫的，也不知道它是否原本就是開玩笑。",
+  "bereik": "11月18日有953個讚和186則留言",
+  "nog_uitzoeken": [
+   "該引述在2021年3月和2023年11月是否也曾流傳。",
+   "Klaver 的發言人對 PRO 就2026年那則貼文的回應。"
+  ],
+  "tijdlijn": [
+   "X上的一個帳號分享了該Medium部落格的連結,標題即為這句引述 [2]。",
+   "CIDI稱該文章為反猶太且是假的 [3]。",
+   "dpa:這句話是捏造的 [7]。",
+   "AFP Factcheck Nederland,由deCheckers轉載:錯誤 [8]。",
+   "GroenLinks與PvdA合併為PRO [6]。",
+   "X上附有截圖的貼文 [1]。",
+   "Knack:沒有證據顯示存在這句引述 [9]。"
+  ],
+  "beeld_bijschrift": [
+   "X上的貼文,2026年10月5日14:37。"
+  ],
+  "beeld_alt": [
+   "一篇文章的截圖,內含捏造的Jesse Klaver廢除私人財產的引述。印章:錯誤。"
+  ]
+ }
+}

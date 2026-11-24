@@ -1,0 +1,19 @@
+{
+ "toelichting": "Labels op de vlaggen van de batchcontrole op mC4 (PLAN.md #21.9, BENCHMARK §97), gelabeld door Claude op 2026-10-13 met zin en claim naast elkaar. Terecht: de zin brengt de weerlegde bewering echt als waar (de zwarte panter in Kenia 'voor het eerst in 100 jaar'; een glas water voor het slapen tegen hartaanvallen). Vals: zeven keer een vage claimtekst van YouTurn ('Something to think about.' vijf keer, een Arabische dankzegging, 'Miraculous moment is going viral'), en vijf zinnen over hetzelfde onderwerp maar niet dezelfde bewering (misdaad die stijgt, een nieuwskop over de Krim uit 2014, benzineprijzen na verkiezingen zonder de bedragen, 'Disease X' zonder 'plandemic', 'versterkt het immuunsysteem'). Bij twijfel vals: twijfel versoepelt nooit.",
+ "labels": {
+  "en-013879|gfc-e347e82986ce0076": "vals",
+  "en-018090|gfc-4a5167f7993c8df3": "vals",
+  "en-019708|gfc-4a5167f7993c8df3": "vals",
+  "en-019709|gfc-4a5167f7993c8df3": "vals",
+  "en-022307|gfc-2e983a2b2c7cb105": "vals",
+  "en-027377|gfc-4a5167f7993c8df3": "vals",
+  "en-031056|gfc-4a5167f7993c8df3": "vals",
+  "en-078622|gfc-fbeafd54a0f4d4de": "vals",
+  "es-014990|gfc-5120de525bd4dd0a": "vals",
+  "te-000676|gfc-34119b98c52649cc": "vals",
+  "ta-000906|gfc-bd6a88ad37b5a7a3": "vals",
+  "ta-006020|gfc-c84392d2f65d3e7c": "terecht",
+  "hi-005834|gfc-8e206477b11dfdc3": "terecht",
+  "bn-004351|gfc-a2f8bea4510a1390": "vals"
+ }
+}

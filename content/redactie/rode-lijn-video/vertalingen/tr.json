@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck rode-lijn-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "5a03cfe556a847d2",
+ "veldafdrukken": {
+  "kop": "0da8c99392f3bb89",
+  "oordeel_zin": "7be181dac08f5978",
+  "bewering": "98977b5cf259a51d",
+  "kort": "f2a40d31e5894f42",
+  "tekst": "89f863d40f1449e5",
+  "niet_weten": "6830d7f7826bf6aa",
+  "bereik": "ed2b0cf251a6714b",
+  "nog_uitzoeken": "f22951579e8e6701",
+  "tijdlijn": "b224949b83b3ca4f",
+  "beeld_bijschrift": "e0fde6f91e659ee2",
+  "beeld_alt": "6d518cd6edca6234"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "'Rode Lijn aktivistleri' ve polisi gösteren video, Sloterdijk'taki veri merkezi protestosunda çekilmiş",
+  "oordeel_zin": "Video gerçek, ancak 6 Kasım'daki şantiye işgalinden geliyor ve Rode Lijn başlamadan önce X'te zaten yer alıyordu [8].",
+  "bewering": "Rode lijn aktivistleri polisi uyarıyor.",
+  "kort": "8 Kasım'da, bir göstericinin bir polise seslendiği bir video, Rode Lijn aktivistlerinin görüntüsü olarak dolaşıma girdi. Sahne iki gün önce, Sloterdijk'ta Microsoft için yapılacak bir veri merkezinin şantiyesinin işgali sırasında çekilmişti [1] [2]. Video, Museumplein'deki Rode Lijn gösterisi başlamadan önce X'te zaten yer alıyordu [5] [8].",
+  "tekst": "8 Kasım Pazar günü saat 12:23'te X'te, \"Rode lijn activisten waarschuwen de politie.\" yazısıyla 28 saniyelik bir video göründü [8]. Yarım saat sonra Amsterdam'da Museumplein'de dördüncü Rode Lijn gösterisi başladı [5].\n\nSahnenin kendisi AT5'te de var. AT5 bunu 6 Kasım Cuma günü saat 15:49'da X'te, bir polis ile bir gösterici arasındaki gergin tartışma olarak paylaştı [2]. O öğleden sonranın canlı yayın blogunda AT5, bir göstericinin bir polise dikkat etmesi gerektiğini söylediğini, polisin de bunun üzerine tehdit edilip edilmediğini sorduğunu anlatıyor [1]. Bu, ME alanı boşaltırken Plimsollweg'deki şantiyenin çitlerinin dışında yaşandı [1].\n\nO işgal, Geef Tegengas grubunun Microsoft için bir veri merkezi yapılmasına karşı düzenlediği bir eylemdi [3]. Filistin yanlısı göstericiler de katıldı ve alanda Filistin bayrakları asılıydı [3] [9]. ME copları ve biber spreyi kullandı [9]. Polis 218 kişiyi gözaltına aldı, hepsi bir gün sonra yeniden serbestti [4].\n\nGönderideki video, 7 Kasım Cumartesi günü saat 18:46'da başka bir hesapla X'te zaten yer alıyordu. Bunu, X'in her videoya verdiği numaradan çıkarıyoruz, çünkü bu numara yüklenme anını içeriyor. Aynı hesap, AT5'in videosu için tam olarak onların gönderi saatini veriyor [2] [8].\n\nRode Lijn'de de polis müdahale etti. Saat 15:34'te Overtoom'da bir gözaltı sırasında cop kullandı [6]. Gönderideki video bu olamaz, çünkü o bundan üç saat önce zaten oradaydı [8]. Polis gösteriyi sakin ve kontrollü olarak niteledi, dört gözaltı yapıldı [6]. Organizasyona göre en az 200.000 kişi yürüdü [7]. Güzergah Museumplein'den Oud-West'ten geçip geri dönüyordu, Sloterdijk'tan geçmiyordu [5].",
+  "niet_weten": "Videoya ilk kez kimin farklı bir anlam yüklediğini bilmiyoruz. Videoyu 7 Kasım'da X'e koyan hesabı bulduk, ancak gönderinin kendisini bulamadık, dolayısıyla yanında ne yazdığını da bilmiyoruz. Göstericinin daha sonra Rode Lijn'de yürüyüp yürümediğini bilmiyoruz. Gönderi de bununla ilgili değil: 6 Kasım'a ait bir sahneyi 8 Kasım'dan gibi gösteriyor.",
+  "bereik": "18 Kasım itibarıyla 68.296 kez izlendi",
+  "nog_uitzoeken": [
+   "7 Kasım tarihli paylaşımda ne yazdığı. Hesabı bulduk, ancak paylaşımı bulamadık.",
+   "Paylaşımı \"bu olay Kırmızı Hat'ta yaşandı\" diye okuyan biri, yanlış kararını savunabilir. Biz yanıltıcı kararını verdik."
+  ],
+  "tijdlijn": [
+   "AT5, şantiyedeki tartışmanın videosunu X'te paylaşıyor [2].",
+   "Gözaltına alınan 218 gösterici yeniden serbest [4].",
+   "Gönderideki video, başka bir hesapla X'te yer alıyor [8].",
+   "Rode Lijn aktivistleri hakkındaki yazıyla gönderi [8].",
+   "Rode Lijn gösterisi Museumplein'de başlıyor [5].",
+   "Polis Overtoom'da bir gözaltı sırasında cop kullanıyor [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te gönderi, 8 Kasım 2026, 12:23.",
+   "AT5 X'te, 6 Kasım 2026, 15:49: Sloterdijk'taki şantiyede aynı tartışma."
+  ],
+  "beeld_alt": [
+   "Videodan bir durağan görüntü: bir çitin yanında bir gösterici ve bir polis. Damga: YANILTICI.",
+   "AT5'in bir gösterici ile bir polis arasındaki tartışmanın videosu."
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck zelensky-83-woningen-nepkrant van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "258bc8cd7a0fcb29",
+ "veldafdrukken": {
+  "kop": "8333e22cf577ae58",
+  "oordeel_zin": "78108081cbfc0e71",
+  "bewering": "54a13059e8d2990c",
+  "kort": "e9a0b8cf00354a54",
+  "tekst": "f6fff83855e118af",
+  "niet_weten": "f821f2e45c9cfde9",
+  "bereik": "3bcfb46d32eb5f4e",
+  "nog_uitzoeken": "92b9391908ff1ac6",
+  "tijdlijn": "7b4cefec3eab0353",
+  "beeld_bijschrift": "1b0a42ebf9f5ad3f",
+  "beeld_alt": "c3e89ee60646a5ec"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky'nin yurt dışında 83 mülkü olduğu hikâyesi, taklit bir İngiliz haber sitesinden çıkıyor",
+  "oordeel_zin": "Kaynak, haberden on iki gün önce kaydedilen bir site ve NABU, videodaki kadının orada çalışmadığını söylüyor [3] [6].",
+  "bewering": "Ukrayna Yolsuzlukla Mücadele Dairesi'nin eski başkanı: Zelensky'nin İspanya'da 6, Birleşik Krallık'ta 14, Fransa'da 21, İtalya'da 8 ve Birleşik Arap Emirlikleri'nde 34 mülkü var.",
+  "kort": "7 Eylül'de X'te, Ukrayna yolsuzlukla mücadele kurumunun eski bir çalışanının Zelensky'nin beş ülkede 83 mülkü olduğunu ifşa ettiği öne sürülen bir video dolaştı [1]. Hikâye Ağustos 2025'te londontelegraph.uk sitesinde başladı; bu site on iki gün önce kaydedilmişti ve yazarın adının yanına çalıntı bir fotoğraf koymuştu [3] [4]. Kurum, videodaki kadının orada çalışmadığını söylüyor ve Zelensky'nin mal varlığı beyanında yurt dışında 83 mülkün izi yok [6] [9] [10].",
+  "tekst": "Gönderi, 7 Eylül Pazartesi günü saat 05:58'de X'te, 77 saniyelik bir videoyla paylaşıldı [1]. Metne göre Ukrayna yolsuzlukla mücadele kurumunun eski bir başkanı, Zelensky'nin İspanya'da 6, Birleşik Krallık'ta 14, Fransa'da 21, İtalya'da 8 ve Birleşik Arap Emirlikleri'nde 34 mülkü olduğunu söylüyor [1]. Toplam 83 ediyor. Gönderi 18 Kasım'da 39.340 kez görüntülenmişti [1]. Videodaki görüntüde kadının adı Olena K. olarak geçiyor ve National Anti-Corruption Bureau of Ukraine'e bağlı olduğu yazıyor; Fransızca altyazı ise o kurumun bir araştırmacısı olduğunu belirtiyor [1]. Onu eski bir başkan yapan yalnızca gönderinin metni [1].\n\nHikâye gönderiden daha eski. 26 Ağustos 2025'te X'te, Ukrayna Ulusal Yolsuzlukla Mücadele Bürosu NABU'nun eski bir araştırmacısı olan Olena K. hakkında İngilizce bir video dolaştı [2]. Kadının binlerce sayfalık belgeyle Avrupa'ya kaçtığı ve Zelensky'nin paravan şirketler aracılığıyla toplam değeri 1,2 milyar dolar olan 100'den fazla mülk satın aldığına dair kanıt taşıdığı öne sürülüyordu [5]. Video kaynak olarak The London Telegraph'taki bir makaleyi gösteriyordu [2]. Bu makale, İspanya dışında gönderideki sayıların aynısını veriyordu: 6 yerine 26, toplam 103 [2]. Nisan 2026'da, 83 mülklü daha kısa bir sürüm geri döndü; önce Lehçe ve Almanca olarak [6] [13].\n\nThe London Telegraph bir gazete değil. londontelegraph.uk adı 14 Ağustos 2025'te, makaleden on iki gün önce kaydedildi [3]. Yazarın adının yanında, The Daily Telegraph dahil çeşitli yayınlara yazan ve makaleyle hiçbir ilgisi olmayan İngiliz gazeteci Helen Brown'ın fotoğrafı duruyordu [4]. Euronews'e göre sitede bu tek yazı dışında neredeyse hiçbir şey yoktu ve 2025 videosundaki İngilizce ses bilgisayarla üretilmiş gibi duyuluyordu [5]. Kayıt 14 Ağustos 2026'da sona erdi [3].\n\nVideodaki kadın NABU'da çalışmadı. Bunu NABU, Correctiv'e söyledi; bir sözcü de AFP'ye aynısını söyledi [6] [13]. NABU'ya göre mevcut ya da eski hiçbir çalışan, Zelensky'nin yurt dışındaki mülkleri hakkında belge yayımlamadı [6]. Görüntüde bulanık görünen belgeler, Myth Detector'a göre Ukrayna savcılığının ve güvenlik servisi SBU'nun 22 Temmuz 2025'te gösterdiği belgeler [8]. Bunlar, NABU'dan sızdırılan verilere ilişkin bir dosyada milletvekili Fedir Khrystenko'nun ailesinde yapılan bir aramadan çıktı ve Zelensky ile ilgili değil [7].\n\nZelensky'nin neye sahip olduğu, her yıl kamuoyuna açıkladığı mal varlığı beyanında yazıyor. 2025 beyanı 30 Mart 2026'da yayımlandı [10]. Beyanda Kyiv'de, ikisi ortak mülkiyette olmak üzere daireler var [9] [10]. Ukrayna dışında Slovo i Dilo ve Fakty ICTV tek bir konut anıyor: Olena Zelenska adına kayıtlı, Büyük Britanya'da bir daire [9] [10]. Slovo i Dilo'ya göre çift bu daireye 2014'ten beri leasehold, yani bir Birleşik Krallık kullanım hakkı ile sahip [9]. 2025'te mülklerde esaslı bir değişiklik olmadı [9] [10]. Öte yandan Zelensky'nin beyanında yer alan İtalyan şirketi San Tommaso 2017'de Forte dei Marmi'de bir villa satın aldı; bunu RFE/RL 2019'da Slidstvo.info'ya dayanarak bildirdi [14]. Slovo i Dilo'ya göre Olena Zelenska hâlâ bu şirketin nihai faydalanıcısı [9]. Şirketin villayı hâlâ elinde tutup tutmadığını bilmiyoruz. Bu villa hesaba katılsa bile İtalya'da en fazla bir mülk eder, sekiz değil.\n\n2025 hikâyesi, Kvartal 95 yapım şirketinin ortak sahibi ve Zelensky'nin eski bir tanıdığı olan Timur Mindich'in adını da anıyordu [2] [12]. Mindich hakkında Kasım 2025'ten beri devlet şirketi Energoatom'daki rüşvete ilişkin gerçek bir NABU soruşturması yürüyor [12]. NABU Direktörü Semen Kryvonos 12 Mayıs 2026'da, Zelensky'nin bu soruşturmada yer almadığını ve hiç yer almadığını söyledi [11]. Yani Mindich'in şüpheli olması, 83 mülk hikâyesini doğru yapmıyor.\n\nLead Stories, Euronews, Myth Detector, Demagog ve Correctiv hikâyeye daha önce yanlış dedi [2] [5] [6] [8] [13]. Hollandaca bir doğrulama bulamadık.",
+  "niet_weten": "Videoları kimin yaptığını bilmiyoruz. Demagog'un aktardığına göre NewsGuard, sitenin Rusya'ya ait bir etki operasyonu olan Storm-1516'nın işine benzediğini belirtiyor; bunu kendimiz doğrulayamadık [13]. Slovo i Dilo'ya göre Olena Zelenska, Kıbrıs'taki, İtalya'daki ve Belize'deki şirketlerin de nihai yararlanıcısıdır [9]. İtalya'daki şirket 2017'de bir villa satın aldı; villanın hâlâ şirketin elinde olup olmadığı bu haberlerde yer almıyor [14]. Ayrıca Hollandaca tek bir paylaşım bulduk; kaç tane olduğunu bilmiyoruz.",
+  "bereik": "18 Kasım'da 39.340 kez görüntülendi",
+  "nog_uitzoeken": [
+   "NABU'nun video hakkında kendi açıklamasının olup olmadığı. Şu an açıklama yalnızca CORRECTIV ve AFP üzerinden geliyor; NABU'nun sitesinde bir açıklama bulamadık."
+  ],
+  "tijdlijn": [
+   "Savcılık ve SBU, milletvekili Fedir Khrystenko'nun ailesinde yapılan bir aramadan çıkan, NABU ile ilgili belgeleri gösteriyor [7].",
+   "londontelegraph.uk adı kaydediliyor [3].",
+   "londontelegraph.uk üzerindeki makale ve Olena K. hakkındaki İngilizce video yayımlanıyor [2].",
+   "Lead Stories hikâyeye yanlış diyor [2].",
+   "NABU, Energoatom'daki rüşvet soruşturmasını duyuruyor; Mindich şüpheli [12].",
+   "83 mülklü sürüm X'te Lehçe ve Almanca olarak çıkıyor [6] [13].",
+   "NABU, Zelensky'nin Energoatom soruşturmasında yer almadığını söylüyor [11].",
+   "londontelegraph.uk kaydı sona eriyor [3].",
+   "83 mülk iddiasını içeren Hollandaca gönderi [1]."
+  ],
+  "beeld_bijschrift": [
+   "X'te gönderi, 7 Eylül 2026, 05:58."
+  ],
+  "beeld_alt": [
+   "X'teki gönderinin ekran görüntüsü: Zelensky'nin beş ülkede 83 mülkü olduğunu söyleyen metin ve videodan, yüzü tanınmaz hâle getirilmiş bir kadını gösteren, altında Olena K., National Anti-Corruption Bureau of Ukraine yazan bir görüntü. Damga: YANLIŞ."
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck gas-europa-weigert-zelf van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "f62c0665022453cf",
+ "veldafdrukken": {
+  "kop": "819174bd7fcabd84",
+  "oordeel_zin": "50efbb5e701245d3",
+  "bewering": "566f67427b37634a",
+  "kort": "f738a785d6d85dc3",
+  "tekst": "7fb9546975273471",
+  "niet_weten": "d6d20531e56079cc",
+  "bereik": "41ec1bc0cca7100f",
+  "nog_uitzoeken": "f220f114674df2b5",
+  "tijdlijn": "9992cc7012f4fa30",
+  "beeld_bijschrift": "90bbb65e1ba184cc",
+  "beeld_alt": "344aba80ac43f3a7"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Gazprom 2022'de gazı Nord Stream 1 üzerinden kendisi kesti, AB yasağı 2026'da geldi",
+  "oordeel_zin": "Gazprom 2022'de Nord Stream 1 üzerinden tedariki kendisi düşürdü ve hattı Ağustos sonundaki bakımın ardından kapalı tuttu; Rus gazına yönelik Avrupa yasağı ise ancak Ocak 2026'da geldi [3] [7] [14] [16].",
+  "bewering": "Bu siyasi yalan v Van der Leyen'e ait: Rusya'yı gazın kesilmesinden sorumlu tutuyor, ama bunu gerçekte AB'nin kendisi yaptı.",
+  "kort": "Hollandaca bir X paylaşımı, Ursula von der Leyen'in yalan söylediğini öne sürüyor: gazı Rusya'nın değil, AB'nin kestiğini iddia ediyor [12]. 2022'de Nord Stream 1 üzerinden tedariki düşüren ve hattı Ağustos sonundaki bakımın ardından kapalı tutan, ayrıca Hollandalı gaz tüccarı GasTerra'ya da artık gaz vermeyen, Rusya'nın devlet şirketi Gazprom'du [3] [5]. Rus gazına yönelik bir Avrupa yasağı ise ancak Ocak 2026'da geldi [7].",
+  "tekst": "22 Eylül 2026 Salı günü saat 23:30'da X'te, Ursula von der Leyen'i siyasi yalanla suçlayan bir paylaşım yayımlandı [12]. Paylaşıma göre Rusya, gazın kesilmesinin suçunu haksız yere taşıyor, çünkü bunu AB'nin kendisi yapmış [12]. Paylaşım, Von der Leyen'in bir sözünü içeren başka bir paylaşımı alıntılıyor [13]. O diğer paylaşım da Rusya'nın AB'nin gazını kesmediğini söylüyor [13].\n\nAvrupa Komisyonu Başkanı bu sözü 17 Eylül'de Strazburg'da, yıllık Birliğin Durumu konuşmasında söyledi [1]. Rusya gazı kestiğinde biz de karşılık verdik, dedi; ardından Avrupa, gazını ona göre daha fazla tedarikçiden almaya başladı [1].\n\nGazprom'un 2022'de yaptıkları\n\n31 Mayıs 2022'de Gazprom, GasTerra'ya gaz vermeyi durdurdu [5] [6]. GasTerra, Devlet Başkanı Vladimir Putin'in bir kararnamesinin istediği gibi rublle ödeme yapmayı reddetti [5]. Şirkete göre bu, Avrupa yaptırımlarını ihlal etmek olurdu [6]. Bu nedenle Ekim'e kadar gelmeyen 2 milyar metreküp gazı GasTerra başka yerden satın aldı [5] [6].\n\nHaziran ortasında Gazprom, Baltık Denizi'nden Almanya'ya uzanan Nord Stream 1 hattındaki tedariki iki adımda günde 167 milyon metreküpten 67 milyon metreküpe, yani yaklaşık yüzde 40'a düşürdü [14] [15]. Gazprom'a göre Siemens, türbinleri onarımdan geç geri gönderdi [14]. 27 Temmuz'da tedarik günde 33 milyon metreküpe indi; bu, hattın kaldırabildiği miktarın yüzde 20'siydi [16] [17]. Gazprom, bir türbinin geri gelmemesinin nedeni olarak Kanada, AB ve Birleşik Krallık'ın yaptırımlarını ancak 3 Ağustos'ta andı [18]. Polonyalı araştırma merkezi OSW bunun arkasında siyasi bir karar gördü: Rusya gazı başka hatlar üzerinden de gönderebilirdi ve göndermedi [2]. 31 Ağustos'ta hat, üç günlük bakım için kapatıldı [3].\n\n2 Eylül 2022'de Gazprom, Portovaya kompresör istasyonundaki bir türbinde yağ sızıntısı olduğu gerekçesiyle hattın tümüyle kapalı kalacağını bildirdi [3] [19]. Siemens Energy, böyle bir sızıntının durmak için teknik bir neden olmadığını söyledi [3]. Avrupa Komisyonu bunu bir bahane olarak niteledi [3]. Üç gün sonra Kremlin Sözcüsü Dmitri Peskov, sorunların yaptırımlardan kaynaklandığını ve yaptırımlar kalkarsa gazın yeniden akabileceğini söyledi [4]. 26 Eylül 2022'de su altındaki patlamalar hattı kullanılamaz hale getirdi [9].\n\nAB'nin kararı\n\nMart 2022'de Avrupa hükümet başkanları, AB'nin Rus fosil yakıtlarına daha az bağımlı hale gelmesi gerektiği konusunda anlaştı [7]. Rus gazına yönelik yasak neredeyse dört yıl sonra geldi: üye devletler bunu 26 Ocak 2026'da kabul etti [7]. Yasak aşamalı olarak işliyor. Rusya'dan sıvılaştırılmış gaz (LNG) girişi 2027 başından itibaren, boru hattıyla gaz ise 2027 sonbaharından itibaren yasak [7]. 2026'nın ikinci çeyreğinde AB'nin boru hattıyla ithal ettiği gazın yüzde 10,2'si ve LNG'nin yüzde 17,3'ü hâlâ Rusya'dan geldi [8].\n\nDoğru olan ve olmayan\n\nAB, Rus gazından kurtulmak istiyor ve bunu kayda da geçirdi [7]. Ama 2022'de herhangi bir Avrupa yasağı yoktu ve tedariki düşüren ve durduran Gazprom'du [3] [7]. GasTerra örneğinde Gazprom, alıcı yeni ödeme kuralını reddettiği için durdu; o durumda da artık gaz vermeme kararı Gazprom'dan geldi [5]. Von der Leyen'in sözü bu nedenle 2022'de yaşananlarla uyuşuyor [1] [3].\n\nAvrupa'nın gazı kendine yasakladığı yönündeki söylem yeni değil. 2022'de VOA ve Correctiv, Rusya'nın türbin açıklamasını yanlış ve yanıltıcı buldu [10] [11]. 9 Eylül 2026'da Kremlin Sözcüsü Peskov, Reuters'e göre Avrupa'nın Rus gazından kaçınmanın bedelini ödediğini söyledi [20]. Ekim sonunda Putin aynı söylemi Moskova'daki gaz ihraç eden ülkeler forumunda dile getirdi; The Insider bunu rakamlarla karşılaştırdı [9].",
+  "niet_weten": "Yazarın 2022 yılını mı yoksa 2026 yasağını mı kastettiğini bilmiyoruz; Von der Leyen'in açıklaması 2022 ile ilgilidir [1]. Eylül 2022'deki patlamalardan kimin sorumlu olduğu bu doğrulamanın kapsamı dışındadır: patlamalar, tedarikin durmasından sonra meydana geldi [3] [9].",
+  "bereik": "18 Kasım'da 100 beğeni ve 25 yanıt",
+  "nog_uitzoeken": [
+   "Gönderiyi \"Avrupa artık Rus gazını kendisi reddediyor\" şeklinde okuyan kişi, içinde doğru olan daha fazla şey bulur. Bu yüzden yanlış ile yanıltıcı arasında kararsız kaldık."
+  ],
+  "tijdlijn": [
+   "Gazprom, rublle ödeme yapmak istemeyen GasTerra'ya gaz vermeyi durdurur [5] [6].",
+   "Gazprom, Nord Stream 1'i günde 167 milyon metreküpten 67 milyon metreküpe, yaklaşık yüzde 40'a düşürür [14] [15].",
+   "Gazprom, Nord Stream 1'i günde 33 milyon metreküpe, yani yüzde 20'ye düşürür [16] [17].",
+   "Nord Stream 1, üç günlük bakım için kapatılır [3].",
+   "Gazprom, Nord Stream 1'in kapalı kalacağını bildirir [3].",
+   "Peskov, durmanın nedenini Batı yaptırımlarına bağlar [4].",
+   "AB üye devletleri, 2027 sonbaharına kadar aşamalı olarak uygulanacak Rus gazı yasağını kabul eder [7].",
+   "Von der Leyen Strazburg'da: Rusya gazı kestiğinde biz de karşılık verdik [1].",
+   "Onu yalanla suçlayan X paylaşımı [12].",
+   "The Insider, Putin'in Moskova'daki gaz forumunda söylediklerini doğrular [9]."
+  ],
+  "beeld_bijschrift": [
+   "X paylaşımı, 22 Eylül 2026, 23:30."
+  ],
+  "beeld_alt": [
+   "Ursula von der Leyen'i Rus gazının kesilmesi konusunda yalanla suçlayan bir X paylaşımının ekran görüntüsü; altında onun sözünü içeren alıntılanmış paylaşım var. Damga: YANLIŞ."
+  ]
+ }
+}

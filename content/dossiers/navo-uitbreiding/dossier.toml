@@ -1,0 +1,279 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-15, PO: "Alle dossiers zijn akkoord, behalve: Beelden van een aardbeving bij de verkeerde ramp"'
+thema = "world"
+onderdeel = "nato"
+verwant = ["biolabs-oekraine", "nazi-oekraine"]
+
+[naam]
+nl = "Het verhaal over de NAVO-uitbreiding als oorzaak van de oorlog"
+en = "The story of NATO expansion as the cause of the war"
+de = "Die Erzählung über die NATO-Osterweiterung als Ursache des Krieges"
+es = "El relato de la ampliación de la OTAN como causa de la guerra"
+fr = "Le récit de l’élargissement de l’OTAN comme cause de la guerre"
+pt = "A história da expansão da OTAN como causa da guerra"
+ru = "История о расширении НАТО как причине войны"
+uk = "Історія про розширення НАТО як причину війни"
+id = "Kisah perluasan NATO sebagai penyebab perang"
+tr = "NATO'nun genişlemesinin savaşın nedeni olduğu anlatısı"
+zh = "北約東擴是戰爭起因的說法"
+ja = "NATO拡大が戦争の原因だったとする説"
+hi = "नाटो के विस्तार की कहानी: क्या यही युद्ध की वजह थी"
+ar = "رواية توسع الناتو بوصفه سبب الحرب"
+fa = "روایت گسترش ناتو به‌عنوان علت جنگ"
+
+[inleiding]
+nl = """
+Eén verhaal komt terug sinds de jaren negentig: dat het Westen Gorbatsjov beloofde dat de NAVO niet naar het oosten zou uitbreiden, dat de NAVO Rusland omsingelt, en dat de Russische inval in Oekraïne daarom een verdediging was. Of de uitbreiding de oorlog uitlokte, is een debat onder onderzoekers; Factiz beslist dat niet. Stukken uit dat debat staan in de tijdlijn, van beide kanten. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+One story has been coming back since the 1990s: that the West promised Gorbachev NATO would not expand to the east, that NATO is encircling Russia, and that Russia's invasion of Ukraine was therefore a defence. Whether NATO expansion provoked the war is a debate among scholars; Factiz does not settle it. Pieces from that debate, from both sides, are on the timeline. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung kehrt seit den 1990er-Jahren zurück: Der Westen habe Gorbatschow versprochen, die NATO werde sich nicht nach Osten ausdehnen, die NATO kreise Russland ein, und der russische Einmarsch in die Ukraine sei deshalb Verteidigung gewesen. Ob die Erweiterung den Krieg provozierte, ist eine Debatte unter Forschenden; Factiz entscheidet sie nicht. Beiträge aus dieser Debatte stehen auf der Zeitleiste, von beiden Seiten. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato vuelve desde los años noventa: que Occidente prometió a Gorbachov que la OTAN no se ampliaría hacia el este, que la OTAN rodea a Rusia y que, por eso, la invasión rusa de Ucrania fue una defensa. Si la ampliación provocó la guerra es un debate entre investigadores; Factiz no lo decide. En la cronología hay textos de ese debate, de ambas partes. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Un récit revient depuis les années 1990 : l’Occident aurait promis à Gorbatchev que l’OTAN ne s’étendrait pas vers l’est, l’OTAN encerclerait la Russie, et l’invasion russe de l’Ukraine aurait donc été une défense. Savoir si l’élargissement a provoqué la guerre est un débat entre chercheurs ; Factiz ne le tranche pas. Des textes de ce débat, des deux côtés, figurent sur la chronologie. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Uma história volta desde os anos 1990: a de que o Ocidente prometeu a Gorbachev que a OTAN não se expandiria para o leste, que a OTAN está cercando a Rússia e que a invasão da Ucrânia pela Rússia seria, por isso, uma defesa. Se a expansão da OTAN provocou a guerra é um debate entre estudiosos; o Factiz não decide essa questão. Textos desse debate, dos dois lados, estão na linha do tempo. Este dossiê coloca na linha do tempo as versões que as agências checaram. Cada checagem diz o que aquela agência concluiu; o Factiz não acrescenta nenhuma classificação própria. A lista inclui apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+С 1990-х годов постоянно возвращается одна история: будто Запад пообещал Горбачёву, что НАТО не будет расширяться на восток, что НАТО окружает Россию и что вторжение России в Украину поэтому было обороной. Спровоцировало ли расширение НАТО войну, остаётся предметом споров among учёных; Factiz этот спор не решает. Материалы из этой дискуссии, с обеих сторон, есть на временной шкале. В этом досье версии, которые проверяли редакции, расположены на временной шкале. Каждый фактчек говорит о том, что нашла эта редакция; Factiz не добавляет собственного вердикта. В список входят только фактчеки, которые мы вправе републиковать, поэтому он не полный.'''
+uk = '''
+З 1990-х років повертається одна історія: нібито Захід пообіцяв Горбачову, що НАТО не розширюватиметься на схід, що НАТО оточує Росію і що тому вторгнення Росії в Україну було обороною. Чи спровокувало розширення НАТО війну, є предметом дискусії серед науковців; Factiz цього питання не розв'язує. Матеріали з цієї дискусії, з обох боків, є на часовій шкалі. Це досьє розміщує на часовій шкалі версії, які перевіряли редакції. Кожен фактчек показує, що виявила ця редакція; Factiz не додає власного вердикту. У списку лише ті фактчеки, які ми маємо право републікувати, тож він неповний.'''
+id = '''
+Satu kisah terus muncul kembali sejak 1990-an: bahwa Barat berjanji kepada Gorbachev bahwa NATO tidak akan meluas ke timur, bahwa NATO mengepung Rusia, dan bahwa invasi Rusia ke Ukraina karena itu merupakan tindakan pembelaan diri. Apakah perluasan NATO memicu perang adalah bahan perdebatan di kalangan akademisi; Factiz tidak memutuskannya. Tulisan dari perdebatan itu, dari kedua belah pihak, ada di lini masa. Dosir ini menempatkan berbagai versi yang diperiksa oleh redaksi pada sebuah lini masa. Setiap cek fakta menyampaikan apa yang ditemukan oleh redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, sehingga tidak lengkap.'''
+tr = '''
+1990'lardan beri tekrar tekrar karşımıza çıkan bir anlatı var: Batı'nın Gorbaçov'a NATO'nun doğuya doğru genişlemeyeceği sözünü verdiği, NATO'nun Rusya'yı çevrelediği ve bu yüzden Rusya'nın Ukrayna'yı işgalinin bir savunma olduğu söyleniyor. NATO'nun genişlemesinin savaşı tetikleyip tetiklemediği akademisyenler arasında bir tartışma konusudur; Factiz bu konuda karar vermez. Bu tartışmadan, her iki tarafın görüşlerini yansıtan yazılar zaman çizelgesinde yer alıyor. Bu dosya, doğrulama kuruluşlarının incelediği anlatı biçimlerini bir zaman çizelgesine yerleştirir. Her doğrulama, ilgili doğrulama kuruluşunun ne bulduğunu belirtir; Factiz kendi adına bir karar eklemez. Liste yalnızca yeniden yayımlama iznimiz olan doğrulamaları içerir, bu nedenle eksiksiz değildir.'''
+zh = '''
+自 1990 年代以來，有一種說法一再出現：西方曾向戈巴契夫承諾北約不會向東擴張，北約正在包圍俄羅斯，所以俄羅斯入侵烏克蘭是出於防衛。北約東擴是否引發這場戰爭，學者之間仍有爭論，Factiz 不對此下定論。時間軸上收錄了這場爭論中雙方的文章。這個專題把各查核機構查核過的不同說法放在一條時間軸上。每份查核報告都說明該查核機構的發現，Factiz 不另外加上任何查核結果。這份清單只收錄我們可以轉載的查核報告，因此並不完整。'''
+ja = '''
+1990年代から繰り返し語られてきた説があります。西側はゴルバチョフに、NATOは東へ拡大しないと約束した、NATOはロシアを包囲している、だからロシアのウクライナ侵攻は防衛だった、というものです。NATOの拡大が戦争を引き起こしたのかどうかは、研究者の間でも議論が分かれており、Factizは結論を出しません。その議論から、双方の立場の文章を年表に載せています。この特集では、報道機関が検証した説を年表に並べています。それぞれのファクトチェックには、その報道機関が確認した内容が書かれています。Factizが独自の判定を加えることはありません。一覧には、再掲載が認められているファクトチェックだけを載せているため、すべてを網羅しているわけではありません。'''
+hi = '''
+1990 के दशक से एक कहानी बार-बार लौटती रही है: पश्चिम ने गोर्बाचोव से वादा किया था कि नाटो पूर्व की ओर नहीं बढ़ेगा, नाटो रूस को घेर रहा है, और इसलिए यूक्रेन पर रूस का हमला एक बचाव था। क्या नाटो के विस्तार ने युद्ध को भड़काया, यह विद्वानों के बीच बहस का विषय है। Factiz इसका फ़ैसला नहीं करता। इस बहस के दोनों पक्षों की सामग्री टाइमलाइन पर है। यह डोसियर उन संस्करणों को टाइमलाइन पर रखता है जिन्हें न्यूज़रूम ने जाँचा। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपना कोई निष्कर्ष नहीं जोड़ता। सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+منذ تسعينيات القرن الماضي تعود رواية واحدة باستمرار: أن الغرب وعد غورباتشوف بأن الناتو لن يتوسع شرقًا، وأن الناتو يحاصر روسيا، وأن غزو روسيا لأوكرانيا كان لذلك دفاعًا. أما هل استفز توسع الناتو الحرب فهو موضع نقاش بين الباحثين، وFactiz لا تحسم هذا النقاش. وعلى الخط الزمني مواد من هذا النقاش، من الجانبين. يضع هذا الملف على خط زمني النسخ التي دققتها منصات صحفية. يبيّن كل تدقيق ما توصلت إليه تلك المنصة، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي غير كاملة.'''
+fa = '''
+از دهه ۱۹۹۰ یک روایت دوباره و دوباره مطرح شده است: غرب به گورباچف قول داده بود که ناتو به شرق گسترش نمی‌یابد، ناتو روسیه را محاصره می‌کند و بنابراین حمله روسیه به اوکراین یک اقدام دفاعی بوده است. اینکه آیا گسترش ناتو جنگ را برانگیخته یا نه، میان پژوهشگران محل بحث است و Factiz درباره آن داوری نمی‌کند. نوشته‌هایی از این بحث، از هر دو طرف، روی خط زمانی آمده است. این پرونده روایت‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه به چه نتیجه‌ای رسیده است و Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه انتشار دوباره‌شان را داریم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "besluit"
+datum = "1990-09-12"
+bron = "Two Plus Four Treaty (German History in Documents and Images)"
+url = "https://germanhistorydocs.org/en/a-new-germany-1990-2023/two-plus-four-treaty-on-germany-september-12-1990"
+[item.titel]
+nl = "Het Twee-plus-Vierverdrag verbiedt buitenlandse troepen en kernwapens in het voormalige Oost-Duitsland en laat het verenigde Duitsland vrij lid te zijn van bondgenootschappen"
+en = "The Two Plus Four Treaty bars foreign troops and nuclear weapons from former East Germany and leaves united Germany free to belong to alliances"
+de = "Der Zwei-plus-Vier-Vertrag schließt ausländische Truppen und Atomwaffen in der früheren DDR aus und lässt dem vereinten Deutschland die Freiheit, Bündnissen anzugehören"
+es = "El Tratado Dos más Cuatro prohíbe tropas extranjeras y armas nucleares en la antigua Alemania del Este y deja a la Alemania unida libre de pertenecer a alianzas"
+fr = "Le traité deux plus quatre interdit troupes étrangères et armes nucléaires dans l’ex-RDA et laisse l’Allemagne unie libre d’appartenir à des alliances"
+pt = "O Tratado Dois Mais Quatro proíbe tropas estrangeiras e armas nucleares na antiga Alemanha Oriental e deixa a Alemanha unificada livre para fazer parte de alianças"
+ru = "Договор «два плюс четыре» запрещает размещать иностранные войска и ядерное оружие на территории бывшей ГДР и оставляет объединённой Германии свободу вступать в союзы"
+uk = "Договір «Два плюс чотири» забороняє розміщення іноземних військ і ядерної зброї на території колишньої НДР і залишає об'єднаній Німеччині свободу вступати до союзів"
+id = "Perjanjian Dua Plus Empat melarang pasukan asing dan senjata nuklir berada di bekas Jerman Timur dan membiarkan Jerman yang bersatu bebas bergabung dengan aliansi"
+tr = "İkiye Dört Antlaşması, eski Doğu Almanya topraklarında yabancı askerlerin ve nükleer silahların bulunmasını yasaklar ve birleşik Almanya'nın ittifaklara katılma özgürlüğünü korur"
+zh = "《二加四條約》禁止外國軍隊和核武進駐前東德地區，並讓統一後的德國可以自由加入聯盟"
+ja = "2プラス4条約により、旧東ドイツには外国軍と核兵器を置かないことが定められ、統一ドイツは同盟に加盟する自由を持つ"
+hi = "टू प्लस फ़ोर संधि पूर्व पूर्वी जर्मनी में विदेशी सेनाओं और परमाणु हथियारों पर रोक लगाती है और एकीकृत जर्मनी को गठबंधनों में शामिल होने की आज़ादी देती है"
+ar = "معاهدة اثنين زائد أربعة تمنع القوات الأجنبية والأسلحة النووية من أراضي ألمانيا الشرقية السابقة، وتترك لألمانيا الموحدة حرية الانضمام إلى التحالفات"
+fa = "پیمان دو به‌علاوه چهار حضور نیروهای خارجی و سلاح‌های هسته‌ای را در آلمان شرقی پیشین ممنوع می‌کند و آلمان متحد را در پیوستن به پیمان‌های نظامی آزاد می‌گذارد"
+
+[[item]]
+soort = "besluit"
+datum = "2008-04-03"
+bron = "NATO"
+url = "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2008/04/03/bucharest-summit-declaration"
+[item.titel]
+nl = "Op de top in Boekarest verwelkomen de leiders van de NAVO de wens van Oekraïne en Georgië om lid te worden, en spreken af dat beide landen lid worden"
+en = "At the Bucharest summit, NATO leaders welcome the membership hopes of Ukraine and Georgia and agree that both will become members of NATO"
+de = "Auf dem Gipfel in Bukarest begrüßen die NATO-Staats- und Regierungschefs die Beitrittswünsche der Ukraine und Georgiens und vereinbaren, dass beide Mitglieder werden"
+es = "En la cumbre de Bucarest, los líderes de la OTAN acogen las aspiraciones de Ucrania y Georgia y acuerdan que ambos países serán miembros"
+fr = "Au sommet de Bucarest, les dirigeants de l’OTAN saluent les aspirations de l’Ukraine et de la Géorgie et conviennent que les deux pays deviendront membres"
+pt = "Na cúpula de Bucareste, os líderes da OTAN acolhem as aspirações de adesão da Ucrânia e da Geórgia e concordam que os dois países se tornarão membros da OTAN"
+ru = "На саммите в Бухаресте лидеры НАТО приветствуют стремление Украины и Грузии вступить в альянс и соглашаются, что обе страны станут членами НАТО"
+uk = "На саміті в Бухаresті лідери НАТО вітають прагнення України та Грузії до членства й погоджуються, що обидві країни стануть членами НАТО"
+id = "Pada KTT Bucharest, para pemimpin NATO menyambut harapan keanggotaan Ukraina dan Georgia dan sepakat bahwa keduanya akan menjadi anggota NATO"
+tr = "Bükreş zirvesinde NATO liderleri Ukrayna ve Gürcistan'ın üyelik umutlarını memnuniyetle karşılar ve her iki ülkenin de NATO üyesi olacağı konusunda anlaşır"
+zh = "在布加勒斯特峰會上，北約領袖歡迎烏克蘭和喬治亞想加入的期望，並同意兩國將成為北約成員"
+ja = "ブカレスト首脳会議で、NATOの首脳たちはウクライナとジョージアの加盟への希望を歓迎し、両国がNATO加盟国になることで合意する"
+hi = "बुखारेस्ट शिखर सम्मेलन में नाटो के नेता यूक्रेन और जॉर्जिया की सदस्यता की आकांक्षाओं का स्वागत करते हैं और सहमत होते हैं कि दोनों नाटो के सदस्य बनेंगे"
+ar = "في قمة بوخارست، يرحب قادة الناتو بتطلعات أوكرانيا وجورجيا إلى العضوية، ويتفقون على أن البلدين سيصبحان عضوين في الناتو"
+fa = "در نشست بخارست، رهبران ناتو از آرزوی عضویت اوکراین و گرجستان استقبال می‌کنند و توافق می‌کنند که هر دو کشور عضو ناتو خواهند شد"
+
+[[item]]
+soort = "onderzoek"
+datum = "2014-08-18"
+bron = "Foreign Affairs"
+url = "https://www.foreignaffairs.com/articles/russia-fsu/2014-08-18/why-ukraine-crisis-west-s-fault"
+[item.titel]
+nl = "Politicoloog John Mearsheimer betoogt dat de Verenigde Staten en hun Europese bondgenoten de meeste schuld dragen aan de crisis in Oekraïne, met de uitbreiding van de NAVO als wortel"
+en = "Political scientist John Mearsheimer argues that the United States and its European allies share most of the responsibility for the Ukraine crisis, rooted in NATO enlargement"
+de = "Der Politologe John Mearsheimer argumentiert, die USA und ihre europäischen Verbündeten trügen die Hauptverantwortung für die Ukraine-Krise, mit der NATO-Erweiterung als Wurzel"
+es = "El politólogo John Mearsheimer sostiene que EE. UU. y sus aliados europeos tienen la mayor responsabilidad de la crisis de Ucrania, con la ampliación de la OTAN como raíz"
+fr = "Le politologue John Mearsheimer soutient que les États-Unis et leurs alliés européens portent l’essentiel de la responsabilité de la crise ukrainienne, née de l’élargissement de l’OTAN"
+pt = "O cientista político John Mearsheimer argumenta que os Estados Unidos e seus aliados europeus têm a maior parte da responsabilidade pela crise na Ucrânia, com raízes na ampliação da OTAN"
+ru = "Политолог Джон Миршаймер утверждает, что США и их европейские союзники несут основную долю ответственности за украинский кризис, корни которого в расширении НАТО"
+uk = "Політолог Джон Міршаймер стверджує, що Сполучені Штати та їхні європейські союзники несуть більшу частину відповідальності за кризу в Україні, коріння якої в розширенні НАТО"
+id = "Ilmuwan politik John Mearsheimer berpendapat bahwa Amerika Serikat dan sekutu Eropanya memikul sebagian besar tanggung jawab atas krisis Ukraina, yang berakar pada perluasan NATO"
+tr = "Siyaset bilimci John Mearsheimer, kökeni NATO'nun genişlemesine dayanan Ukrayna krizinin sorumluluğunun büyük bölümünün Amerika Birleşik Devletleri'nde ve Avrupalı müttefiklerinde olduğunu savunur"
+zh = "政治學者約翰·米爾斯海默認為，美國及其歐洲盟友對烏克蘭危機負有大部分責任，根源在於北約擴大"
+ja = "政治学者のジョン・ミアシャイマーは、ウクライナ危機の責任の大半は米国とその欧州の同盟国にあり、その根源はNATOの拡大にあると主張する"
+hi = "राजनीतिक विज्ञानी जॉन मियरशाइमर का तर्क है कि यूक्रेन संकट की ज़्यादातर ज़िम्मेदारी अमेरिका और उसके यूरोपीय सहयोगियों की है, जिसकी जड़ नाटो का विस्तार है"
+ar = "يرى عالم السياسة جون ميرشايمر أن الولايات المتحدة وحلفاءها الأوروبيين يتحملون معظم المسؤولية عن الأزمة الأوكرانية، وأن جذورها في توسع الناتو"
+fa = "جان مرشایمر، پژوهشگر علوم سیاسی، استدلال می‌کند که ایالات متحده و متحدان اروپایی‌اش بیشتر مسئولیت بحران اوکراین را بر عهده دارند و ریشه آن در گسترش ناتو است"
+
+[[item]]
+soort = "pers"
+datum = "2014-10-16"
+bron = "Russia Beyond"
+url = "https://www.rbth.com/international/2014/10/16/mikhail_gorbachev_i_am_against_all_walls_40673.html"
+[item.titel]
+nl = "Gorbatsjov zegt dat uitbreiding van de NAVO in 1990 helemaal niet ter sprake kwam, maar noemt het latere besluit tot uitbreiding een schending van de geest van de toezeggingen"
+en = "Gorbachev says NATO expansion was not discussed at all in 1990, but calls the later decision to expand a violation of the spirit of the 1990 assurances"
+de = "Gorbatschow sagt, eine NATO-Erweiterung sei 1990 gar nicht besprochen worden, nennt den späteren Beschluss zur Erweiterung aber einen Verstoß gegen den Geist der Zusagen"
+es = "Gorbachov dice que la ampliación de la OTAN no se discutió en absoluto en 1990, pero llama a la decisión posterior de ampliarla una violación del espíritu de las garantías"
+fr = "Gorbatchev dit que l’élargissement de l’OTAN n’a pas du tout été discuté en 1990, mais qualifie la décision ultérieure d’élargir de violation de l’esprit des assurances"
+pt = "Gorbachev diz que a expansão da OTAN não foi discutida em 1990, mas afirma que a decisão posterior de expandir violou o espírito das garantias de 1990"
+ru = "Горбачёв говорит, что в 1990 году расширение НАТО вообще не обсуждалось, но называет последующее решение о расширении нарушением духа заверений 1990 года"
+uk = "Горбачов каже, що питання розширення НАТО у 1990 році взагалі не обговорювали, але називає пізніше рішення про розширення порушенням духу запевнень 1990 року"
+id = "Gorbachev mengatakan perluasan NATO sama sekali tidak dibahas pada 1990, tetapi menyebut keputusan untuk meluas di kemudian hari sebagai pelanggaran terhadap semangat jaminan 1990"
+tr = "Gorbaçov, 1990'da NATO'nun genişlemesinin hiç konuşulmadığını söyler, ancak sonradan genişleme yönünde alınan kararı 1990'daki güvencelerin ruhunun ihlali olarak niteler"
+zh = "戈巴契夫表示 1990 年時完全沒有討論過北約東擴，但稱後來決定擴張違背了 1990 年那些保證的精神"
+ja = "ゴルバチョフは、1990年にはNATOの拡大は全く議論されなかったと述べる一方、のちの拡大の決定は1990年の保証の精神に反するものだと語る"
+hi = "गोर्बाचोव कहते हैं कि 1990 में नाटो के विस्तार पर बिल्कुल चर्चा नहीं हुई थी, लेकिन बाद में विस्तार के फ़ैसले को 1990 के आश्वासनों की भावना का उल्लंघन बताते हैं"
+ar = "يقول غورباتشوف إن توسع الناتو لم يُناقش إطلاقًا في عام 1990، لكنه يصف قرار التوسع لاحقًا بأنه انتهاك لروح التطمينات التي قُدمت عام 1990"
+fa = "گورباچف می‌گوید در سال ۱۹۹۰ اصلاً درباره گسترش ناتو صحبت نشد، اما تصمیم بعدی برای گسترش را نقض روح تضمین‌های ۱۹۹۰ می‌خواند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2017-12-12"
+bron = "National Security Archive (George Washington University)"
+url = "https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early"
+[item.titel]
+nl = "Het National Security Archive publiceert vrijgegeven stukken waaruit blijkt dat westerse leiders Gorbatsjov in 1990 en 1991 een reeks toezeggingen deden over de veiligheid van de Sovjet-Unie"
+en = "The National Security Archive publishes declassified documents showing that Western leaders gave Gorbachev a cascade of assurances about Soviet security in 1990 and 1991"
+de = "Das National Security Archive veröffentlicht freigegebene Dokumente, wonach westliche Politiker Gorbatschow 1990 und 1991 eine Reihe von Zusagen zur sowjetischen Sicherheit machten"
+es = "El National Security Archive publica documentos desclasificados que muestran que líderes occidentales dieron a Gorbachov en 1990 y 1991 una serie de garantías sobre la seguridad soviética"
+fr = "Le National Security Archive publie des documents déclassifiés montrant que des dirigeants occidentaux ont donné à Gorbatchev en 1990 et 1991 une série d’assurances sur la sécurité soviétique"
+pt = "O National Security Archive publica documentos que deixaram de ser sigilosos e mostram que líderes ocidentais deram a Gorbachev uma série de garantias sobre a segurança soviética em 1990 e 1991"
+ru = "Архив национальной безопасности США публикует рассекреченные документы: в 1990 и 1991 годах западные лидеры давали Горбачёву множество заверений о безопасности СССР"
+uk = "Архів національної безпеки США публікує розсекречені документи, які показують, що західні лідери в 1990 і 1991 роках давали Горбачову низку запевнень щодо безпеки СРСР"
+id = "National Security Archive menerbitkan dokumen yang tidak lagi dirahasiakan, menunjukkan para pemimpin Barat memberi Gorbachev banyak jaminan tentang keamanan Soviet pada 1990 dan 1991"
+tr = "Ulusal Güvenlik Arşivi, Batılı liderlerin 1990 ve 1991'de Gorbaçov'a Sovyet güvenliği konusunda art arda güvence verdiğini gösteren gizliliği kaldırılmış belgeleri yayımlar"
+zh = "國家安全檔案館公布解密文件，顯示 1990 年和 1991 年西方領導人曾多次向戈巴契夫保證蘇聯的安全"
+ja = "国家安全保障アーカイブが機密解除された文書を公開し、西側の指導者たちが1990年から1991年にかけて、ソ連の安全保障についてゴルバチョフに何度も保証を与えていたことが示される"
+hi = "नेशनल सिक्योरिटी आर्काइव गोपनीयता-मुक्त दस्तावेज़ प्रकाशित करता है, जिनसे पता चलता है कि पश्चिमी नेताओं ने 1990 और 1991 में गोर्बाचोव को सोवियत सुरक्षा के बारे में कई आश्वासन दिए थे"
+ar = "ينشر أرشيف الأمن القومي وثائق رُفعت عنها السرية تبيّن أن قادة غربيين قدموا لغورباتشوف سلسلة من التطمينات بشأن الأمن السوفياتي في عامي 1990 و1991"
+fa = "National Security Archive اسنادی را از طبقه‌بندی خارج و منتشر می‌کند که نشان می‌دهد رهبران غرب در سال‌های ۱۹۹۰ و ۱۹۹۱ تضمین‌های پیاپی درباره امنیت شوروی به گورباچف دادند"
+
+[[item]]
+soort = "onderzoek"
+datum = "2021-11-30"
+bron = "Yale University Press"
+url = "https://yalebooks.yale.edu/book/9780300268034/not-one-inch/"
+[item.titel]
+nl = "In Not One Inch volgt historica M. E. Sarotte hoe het idee dat James Baker in 1990 opperde, plaatsmaakte voor de Amerikaanse opvatting dat geen gebied voor de NAVO verboden hoefde te zijn"
+en = "In Not One Inch, historian M. E. Sarotte traces how the idea James Baker floated in 1990 gave way to the US view that no territory need be off limits to NATO"
+de = "In Not One Inch zeichnet die Historikerin M. E. Sarotte nach, wie Bakers Idee von 1990 der US-Sicht wich, kein Gebiet müsse für die NATO tabu sein"
+es = "En Not One Inch, la historiadora M. E. Sarotte reconstruye cómo la idea que James Baker planteó en 1990 dio paso a la visión de EE. UU. de que ningún territorio estaba vedado a la OTAN"
+fr = "Dans Not One Inch, l’historienne M. E. Sarotte retrace comment l’idée avancée par James Baker en 1990 a cédé la place à la vision américaine d’aucun territoire interdit à l’OTAN"
+pt = "Em Not One Inch, a historiadora M. E. Sarotte mostra como a ideia lançada por James Baker em 1990 deu lugar à visão dos EUA de que nenhum território precisava ficar fora do alcance da OTAN"
+ru = "В книге «Ни на дюйм» историк М. Э. Сароте прослеживает, как идея, высказанная Джеймсом Бейкером в 1990 году, уступила место позиции США, что для НАТО не должно быть закрытых территорий"
+uk = "У книзі «Not One Inch» історикиня М. Е. Сарроте простежує, як ідея, яку Джеймс Бейкер озвучив у 1990 році, поступилася американському підходу, що жодна територія не має бути закритою для НАТО"
+id = "Dalam Not One Inch, sejarawan M. E. Sarotte menelusuri bagaimana gagasan yang dilontarkan James Baker pada 1990 tergeser oleh pandangan AS bahwa tidak ada wilayah yang perlu dilarang bagi NATO"
+tr = "Tarihçi M. E. Sarotte, Not One Inch adlı kitabında James Baker'ın 1990'da ortaya attığı fikrin yerini, hiçbir bölgenin NATO'ya kapalı olması gerekmediği yönündeki ABD görüşüne nasıl bıraktığını izler"
+zh = "歷史學者 M. E. 薩羅蒂在《一寸也不》一書中，追溯詹姆斯·貝克 1990 年提出的想法，如何被美國「北約不必排除任何領土」的立場取代"
+ja = "歴史学者のM・E・サロッティは著書『Not One Inch』で、1990年にジェームズ・ベーカーが示した構想が、NATOにとって立ち入り禁止の領土はないという米国の見方に取って代わられていった経緯をたどる"
+hi = "अपनी किताब Not One Inch में इतिहासकार एम. ई. सारोट्टे बताती हैं कि 1990 में जेम्स बेकर का रखा विचार कैसे पीछे छूट गया और अमेरिका का यह मत आगे आया कि नाटो के लिए कोई भी क्षेत्र वर्जित नहीं होना चाहिए"
+ar = "في كتاب «ولا بوصة واحدة»، تتتبع المؤرخة م. إ. ساروتي كيف تراجعت الفكرة التي طرحها جيمس بيكر عام 1990 أمام الموقف الأمريكي القائل إنه لا ينبغي أن تُستثنى أي أراضٍ من توسع الناتو"
+fa = "م. ا. ساروت، تاریخ‌نگار، در کتاب «یک اینچ هم نه» بررسی می‌کند که چگونه ایده‌ای که جیمز بیکر در سال ۱۹۹۰ مطرح کرد جای خود را به دیدگاه آمریکا داد که هیچ سرزمینی نباید از دایره ناتو بیرون بماند"
+
+[[item]]
+soort = "besluit"
+datum = "2021-12-17"
+bron = "Russian Ministry of Foreign Affairs"
+url = "https://mid.ru/ru/foreign_policy/rso/nato/1790803/?lang=en"
+[item.titel]
+nl = "Het Russische ministerie van Buitenlandse Zaken publiceert een ontwerpakkoord waarin de leden van de NAVO zich verplichten tot geen enkele verdere uitbreiding van het bondgenootschap"
+en = "Russia's Foreign Ministry publishes a draft agreement under which the members of NATO would commit to refrain from any further enlargement of the alliance"
+de = "Das russische Außenministerium veröffentlicht einen Vertragsentwurf, nach dem sich die NATO-Mitglieder verpflichten, auf jede weitere Erweiterung des Bündnisses zu verzichten"
+es = "El Ministerio de Exteriores ruso publica un borrador de acuerdo por el que los miembros de la OTAN se comprometerían a renunciar a toda nueva ampliación de la alianza"
+fr = "Le ministère russe des Affaires étrangères publie un projet d’accord par lequel les membres de l’OTAN s’engageraient à renoncer à tout nouvel élargissement de l’alliance"
+pt = "O Ministério das Relações Exteriores da Rússia publica uma minuta de acordo pela qual os membros da OTAN se comprometeriam a não ampliar mais a aliança"
+ru = "МИД России публикует проект соглашения, по которому члены НАТО обязались бы воздерживаться от любого дальнейшего расширения альянса"
+uk = "МЗС Росії публікує проєкт угоди, за яким члени НАТО зобов'язалися б утриматися від будь-якого подальшого розширення альянсу"
+id = "Kementerian Luar Negeri Rusia menerbitkan rancangan perjanjian yang akan mewajibkan anggota NATO untuk tidak melakukan perluasan aliansi lebih lanjut"
+tr = "Rusya Dışişleri Bakanlığı, NATO üyelerinin ittifakı daha fazla genişletmekten kaçınmayı taahhüt edeceği bir anlaşma taslağı yayımlar"
+zh = "俄羅斯外交部公布一份協議草案，依草案北約成員將承諾不再進一步擴大該聯盟"
+ja = "ロシア外務省が協定案を公表し、NATO加盟国は同盟のこれ以上の拡大を控えると約束するよう求める"
+hi = "रूस का विदेश मंत्रालय एक मसौदा समझौता प्रकाशित करता है, जिसके तहत नाटो के सदस्य गठबंधन का और विस्तार न करने की प्रतिबद्धता जताएँगे"
+ar = "تنشر وزارة الخارجية الروسية مسودة اتفاق تلتزم بموجبه الدول الأعضاء في الناتو بالامتناع عن أي توسع إضافي للحلف"
+fa = "وزارت خارجه روسیه پیش‌نویس توافقی را منتشر می‌کند که بر اساس آن اعضای ناتو متعهد می‌شوند از هرگونه گسترش بیشتر این پیمان خودداری کنند"
+
+[[item]]
+soort = "besluit"
+datum = "2023-04-04"
+bron = "NATO"
+url = "https://www.nato.int/en/news-and-events/articles/news/2023/04/04/finland-joins-nato-as-31st-ally"
+[item.titel]
+nl = "Finland wordt het 31ste lid van de NAVO; secretaris-generaal Jens Stoltenberg zegt dat Poetin minder NAVO wilde en het omgekeerde heeft bereikt"
+en = "Finland becomes the 31st member of NATO; Secretary General Jens Stoltenberg says Putin wanted less NATO and has achieved the opposite"
+de = "Finnland wird 31. Mitglied der NATO; Generalsekretär Jens Stoltenberg sagt, Putin habe weniger NATO gewollt und das Gegenteil erreicht"
+es = "Finlandia se convierte en el miembro 31 de la OTAN; el secretario general Jens Stoltenberg dice que Putin quería menos OTAN y ha logrado lo contrario"
+fr = "La Finlande devient le 31e membre de l’OTAN ; le secrétaire général Jens Stoltenberg dit que Poutine voulait moins d’OTAN et a obtenu l’inverse"
+pt = "A Finlândia se torna o 31º membro da OTAN; o secretário-geral Jens Stoltenberg diz que Putin queria menos OTAN e conseguiu o oposto"
+ru = "Финляндия становится 31-м членом НАТО; генеральный секретарь Йенс Столтенберг говорит, что Путин хотел меньше НАТО, а добился обратного"
+uk = "Фінляндія стає 31-м членом НАТО; генеральний секретар Єнс Столтенберг каже, що Путін хотів менше НАТО, а домігся протилежного"
+id = "Finlandia menjadi anggota ke-31 NATO; Sekretaris Jenderal Jens Stoltenberg mengatakan Putin menginginkan NATO yang lebih kecil dan justru mendapatkan sebaliknya"
+tr = "Finlandiya NATO'nun 31. üyesi olur; Genel Sekreter Jens Stoltenberg, Putin'in daha az NATO istediğini ancak tam tersini elde ettiğini söyler"
+zh = "芬蘭成為北約第 31 個成員國；秘書長史托騰柏格表示，普丁想要的是更少的北約，結果卻得到相反的局面"
+ja = "フィンランドがNATO31番目の加盟国になる。イェンス・ストルテンベルグ事務総長は、プーチン氏はNATOを小さくしたかったが、結果は逆になったと述べる"
+hi = "फ़िनलैंड नाटो का 31वाँ सदस्य बनता है; महासचिव येन्स स्टोल्टेनबर्ग कहते हैं कि पुतिन नाटो को कम करना चाहते थे और नतीजा इसका उलटा निकला"
+ar = "تصبح فنلندا العضو الحادي والثلاثين في الناتو، ويقول الأمين العام ينس ستولتنبرغ إن بوتين أراد ناتو أصغر وحصل على العكس"
+fa = "فنلاند سی‌ویکمین عضو ناتو می‌شود؛ ینس استولتنبرگ، دبیرکل ناتو، می‌گوید پوتین ناتوی کمتری می‌خواست و به نتیجه‌ای عکس رسیده است"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "NATO",
+  "NAVO",
+  "OTAN",
+  "НАТО",
+  "ناتو",
+  "नाटो",
+  "北约",
+  "北約",
+  "나토",
+  "Gorbachev",
+  "Gorbatschow",
+  "Gorbatsjov",
+  "Gorbatchev",
+  "Gorbachov",
+  "Горбачев",
+  "not one inch",
+]
+omschrijving = """
+Claims that the West promised Mikhail Gorbachev or Russia that NATO would not expand to the east; that NATO expansion, NATO bases, troops or exercises near Russia encircle or threaten Russia; that NATO provoked the war in Ukraine or forced Russia to invade; or that Russia's invasion was a defence or a pre-emptive strike against NATO. It includes claims about Ukraine, Georgia, Finland or Sweden joining NATO when they are presented as a threat that caused or justifies the war. It does not include other claims about NATO (weapons deliveries, NATO soldiers fighting in Ukraine, summits, Article 5) unless they make this argument. It also does not include a general threat of a NATO attack without expansion, bases or troops near Russia, 'Russia is fighting NATO in Ukraine', the 2014 'coup' or a planned Ukrainian attack as other causes, or 'Russia will never let Ukraine or Georgia join'; it does include the claimed broken promise to dissolve NATO, and EU expansion presented as the provocation (afbakening van de PO, 2026-11-12)."""

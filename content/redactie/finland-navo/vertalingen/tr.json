@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Rusya'nın Abu Dabi'de Finlandiya'nın NATO'dan ayrılmasını talep ettiğine dair bir doğrulama yok",
+  "oordeel_zin": "İddia, adı verilmeyen kaynaklara dayanan bir Bild haberinden çıkıyor; Kremlin bunu yalanlıyor, Finlandiya Cumhurbaşkanı ile Savunma Bakanı ise böyle bir talepten haberdar olmadıklarını söylüyor [7] [8] [10] [17].",
+  "bewering": "SON DAKİKA: Rusya, Ukrayna savaşını BİTİRMEK için koşullarının bir kısmını dile getirdi:  - Finlandiya NATO'dan çıksın.  - Baltık ülkelerinde NATO üssü olmasın.  - Donbas'ın tamamı Rusya'ya devredilsin.  Karşılığında Rusya, Belarus'taki nükleer silahlarını ÇEKECEK.",
+  "kort": "13 Kasım'da X'teki paylaşımlar, Rusya'nın Abu Dabi'deki barış görüşmelerinde Finlandiya'nın NATO'dan ayrılmasını talep ettiğini bir olgu gibi sundu [2] [4] [5]. İddia, o sabah Alman Bild gazetesinde çıkan ve kaynaklarını belirtmeyen bir haberden geliyor; haberde Başkan Putin'in öneriyi destekleyip desteklemediğinin bilinmediği söylendi [1] [7]. Kremlin bunu yalanlıyor, Finlandiya Cumhurbaşkanı ise bir Rus'tan böyle bir talep duymadığını söylüyor [8] [17] [18].",
+  "tekst": "13 Kasım sabahı Bild, Rusya'nın Finlandiya'nın NATO'dan çıkmasını, Estonya, Letonya ve Litvanya'da NATO üssü bulunmamasını ve Donbas bölgesinin tamamını istediğini, karşılığında Belarus'taki nükleer silahlarını çekeceğini bildirdi [1] [6] [7]. Finlandiya'nın kamu yayıncısı Yle'ye göre Bild, önerinin Putin'in yakın çevresinden geldiğini ve Abu Dabi'de Avrupalı temsilcilere gayriresmi olarak sunulduğunu söyledi [6]. Bild, Rusça kanalında bunu rakip arabulucu gruplarının sunduğu birkaç öneriden biri olarak niteledi [1].\n\n11:03 UTC'de Bedouin Report adlı bir hesap, Rusya'nın sözde koşullarını SON DAKİKA ibaresiyle, kaynak göstermeden paylaştı [2]. O sırada Kremlin yalanlamasını yapmıştı [8]. 10:48 UTC'de Azerbaycan haber ajansı APA, sözcü Dmitry Peskov'un böyle bir talepte bulunulmadığını söylediğini aktardı [8] [9].\n\nFinlandiya Savunma Bakanı Antti Häkkänen 13 Kasım'da, talebin iletilip iletilmediğine dair bilgisi olmadığını söyledi [10]. Ilta-Sanomat gazetesine göre Cumhurbaşkanı Alexander Stubb 17 Kasım'da bunun hiçbir biçimde ciddiye alınacak bir iddia olmadığını ve bunu tek bir Rus'tan bile duymadığını söyledi [17] [18].\n\nRusça yayın yapan Echo da adı verilmeyen kaynaklara dayanarak, bir müzakere grubunun Avrupalılara, Finlandiya'nın NATO öncesi statüsüne dönmesini de içeren bir liste verdiğini yazdı [12]. The New York Times, 10 Kasım tarihli bir Rus belgesine ulaştı; belge NATO'dan asker ve üslerini 1997'deki konumlarına çekmesini istiyor, ancak gazetenin haberinde Finlandiya'dan söz edilmiyor [13] [14].\n\nFinlandiya Nisan 2023'te NATO'ya katıldı ve Kuzey Atlantik Antlaşması uyarınca ayrılma bildirimini yalnızca üyenin kendisi yapabilir [9] [16].",
+  "niet_weten": "Bild'in kaynaklarının kim olduğunu ya da Abu Dabi'de birinin Avrupalılara böyle bir talebi iletip iletmediğini bilmiyoruz [6] [7]. Bild'in haberinin tamamı abonelere açık; girişinde önerinin gayriresmi görüşmelerden ve Putin'in çevresinden geldiği belirtiliyor [19], gerisini Rusça kanalından ve diğer medyadan biliyoruz [1] [6] [7]. Kremlin görüşmelerin bir tarafıdır, bu nedenle yalanlaması meseleyi çözmez [8].",
+  "bereik": "Gösterilen paylaşımda 1.580 beğeni, okuduğumuz en çok beğenilen paylaşımda ise 23 Kasım itibarıyla 4.987 beğeni",
+  "nog_uitzoeken": [
+   "Bild'in kaynaklarının kim olduğu ve Abu Dabi'de bulunan bir Avrupa hükümetinin böyle bir listeyi aldığını doğrulayıp doğrulamadığı.",
+   "The New York Times'ın ulaştığı Rus belgesinin tamamında Finlandiya'dan söz edilip edilmediği. Belgeyle ilgili haberde söz edilmiyor.",
+   "Kanıtlanmamış ile Yanıltıcı arasında kararsız kaldık. Paylaşımlar, adı verilmeyen kaynaklara dayanan ve Kremlin'in yalanladığı bir haberi olguya dönüştürüyor, bu da Yanıltıcı'yı işaret ediyor; talebin iletilip iletilmediği bilinmiyor, bu da bizi Kanıtlanmamış'ı seçmeye yöneltti."
+  ],
+  "tijdlijn": [
+   "Rusya, Ukrayna ve Amerika Birleşik Devletleri arasındaki görüşmeler Abu Dabi'de başlıyor [15].",
+   "Görüşmeler sona eriyor. İngiltere, Fransa, Almanya ve İtalya oradaydı, ancak Ruslarla doğrudan müzakere etmedi [10] [15].",
+   "Bild, Rusya'nın Finlandiya'nın NATO'dan çıkmasını istediğini, kaynaklarını belirtmeden bildiriyor [1] [6] [7].",
+   "APA, Peskov'un yalanlamasını aktarıyor: böyle bir talepte bulunulmadı [8].",
+   "Bedouin Report, Rusya'nın sözde koşullarını SON DAKİKA ibaresiyle, kaynak göstermeden paylaşıyor [2].",
+   "Visegrád 24 iddiayı paylaşıyor ve Bild'i kaynak gösteriyor [3].",
+   "Häkkänen mecliste: talebin iletildiğine dair bilgi yok [10].",
+   "Başbakan Orpo: bu tür sorular müzakere masasına ait değil [11].",
+   "The New York Times, NATO'nun 1997'deki konumlarına dönmesini isteyen bir Rus belgesini haberleştiriyor; haberde Finlandiya'dan söz edilmiyor [14].",
+   "Stubb Berlin'de: ciddiye alınacak bir iddia değil, bunu hiçbir Rus'tan duymadı [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 13 Kasım 2026, 11:03 UTC."
+  ],
+  "beeld_alt": [
+   "Bedouin Report adlı hesabın X'te SON DAKİKA ibaresiyle yaptığı, Ukrayna'daki savaşı bitirmek için Rusya'nın koşulları dediği maddeleri sıralayan ve ilk maddesi Finlandiya'nın NATO'dan çıkması olan bir paylaşım. Damga: KANITLANMAMIŞ."
+  ]
+ }
+}

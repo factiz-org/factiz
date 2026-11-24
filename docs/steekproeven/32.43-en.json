@@ -1,0 +1,245 @@
+{
+ "toelichting": "PLAN #32.43, Engels: elk rood en oranje en elk groen bij O, gelabeld tegen de genoemde bronnen; blind gelezen door drie deelagenten met dezelfde regels, elk 20, waar nodig met de bron zelf. Bij W en W-merk was er geen alarm en geen niet bevestigd. Een deelagent opende Snopes, de Houston Chronicle en het ICC door zich als gewone browser voor te doen; dat had niet gemogen en gebeurt niet meer (BENCHMARK §225).",
+ "labels": {
+  "O:gfc-0a9d5ffbf8d18e37#C": {
+   "label": "bewijst",
+   "toelichting": "GMA News (opent) citeert de woordvoerder: Legarda is 'eager to come home' na haar behandeling, terugkeer in november niet uitgesloten en 'there's no reason' dat ze niet kan komen, zonder enige voorwaarde over de zaken tegen haar zoon; dat kan niet samen met een weigering terug te keren tot die zaken vervallen."
+  },
+  "O:gfc-0bbcd862fd53408e#C": {
+   "label": "bewijst",
+   "toelichting": "Inquirer meldt in de titel dat het ministerie van Binnenlandse Zaken (DILG) zegt dat Dela Rosa niet gearresteerd is, en GMA dat Justitie en DILG geen informatie over een arrestatie hebben; dat spreekt 'is gearresteerd' direct tegen."
+  },
+  "O:gfc-166cfdd3de7be1d8#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact zegt al in de titel dat de foto van de brandende USS Abraham Lincoln met AI gemaakt is, en Naval Today meldt dat de VS een raketinslag ontkent; samen gaat dat niet met 'een foto toont het schip in brand na Iraanse raketten'."
+  },
+  "O:gfc-169ae665ba5f1bd6#C": {
+   "label": "bewijst",
+   "toelichting": "Het AFP-stuk op Yahoo (9 oktober 2026) zegt dat de president niet naar de hoogniveauweek van de Algemene Vergadering van 2026 kwam en dat minister Herath Sri Lanka toesprak; dat gaat niet samen met een video van Dissanayake die de zitting van 2026 toespreekt."
+  },
+  "O:gfc-2029c105e2f14a2a#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact legt uit dat sharia-raden in het VK geen rechtbanken zijn, alleen religieuze uitspraken of vrijwillige arbitrage binnen het Engelse recht geven en geen gewone rechtbank kunnen overrulen. Ze handhaven dus geen wetten (pagina geopend)."
+  },
+  "O:gfc-27fda29f65a362a8#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News (opent) kopt dat de video waarin Tharoor de regering-Modi afkraakt en de Pakistaanse diplomatie prijst met AI is gemaakt; de Express Tribune noemt dezelfde video bewerkt."
+  },
+  "O:gfc-2ba2525f71c4b551#C": {
+   "label": "bewijst",
+   "toelichting": "SSBCrack zegt in de titel dat Jenna Ortega niet door de Iraanse politie is gedood, en Variety meldt in 2026 dat ze het derde seizoen van Wednesday afrondt, dus ze leeft."
+  },
+  "O:gfc-32d22497e7362d1c#C": {
+   "label": "bewijst",
+   "toelichting": "Het artikel op MSN heeft als titel dat dieven geen parfum gebruiken om slachtoffers te verdoven, ondanks de hardnekkige geruchten, en de X-post van Snopes zegt hetzelfde."
+  },
+  "O:gfc-3307443322d4ca70#C": {
+   "label": "bewijst",
+   "toelichting": "The Conversation (opent) bespreekt precies deze bewering: onderzoek naar huidopname en de anatomie van de hals 'do not support the idea of a direct, selective route to the thyroid', en parfum op de hals geeft de schildklier geen bijzondere blootstelling."
+  },
+  "O:gfc-36497ea37cb66cc0#C": {
+   "label": "vals",
+   "toelichting": "De bronnen bevestigen alleen dat Trump dit in Davos zei; het bericht is de bewering zelf (eigendom nodig om Groenland te verdedigen, met een pacht 'legally not defensible'), en die klopt niet: de VS heeft al een verdrag met Denemarken met ruime militaire toegang, en FactCheck.org en MBFC weerspreken het, dus groen is onterecht."
+  },
+  "O:gfc-38a9aadf5f9d633f#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen gaan over een ander voorval, een jongen die in augustus 2023 bij station Bandra werd geslagen, terwijl de video volgens de factcheck van NewsMeter (februari 2026) uit Hyderabad komt; over deze video zeggen de bronnen dus niets."
+  },
+  "O:gfc-3e2e33d6ae0c581a#C": {
+   "label": "bewijst",
+   "toelichting": "Alt News meldt in de titel dat het een oude video van Ahmadinejad is die ten onrechte werd gedeeld als bewijs dat hij nog leeft, wat niet samengaat met een verschijning na de berichten over zijn dood."
+  },
+  "O:gfc-456ff3ea46e34917#C": {
+   "label": "bewijst",
+   "toelichting": "De titel van Full Fact zegt dat Kent Police niet heeft gezegd dat 76% van de demonstranten in Dover eerdere veroordelingen heeft."
+  },
+  "O:gfc-46c6864c2c78e667#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes (via Digg) en PolitiFact zeggen dat Evan Kilgore geen federaal agent is en op dat moment thuis in Ohio was, en ProPublica en The Guardian noemen twee andere agenten als schutters."
+  },
+  "O:gfc-47cd66aabae8080b#C": {
+   "label": "bewijst",
+   "toelichting": "Miami Herald, Kansas City Star, Charlotte Observer en KRCR melden dat het verhaal nep is en dat de sheriff van Lee County verklaart dat niemand door dolfijnen ontvoerd is; zo'n verklaring is er dus nooit geweest."
+  },
+  "O:gfc-4b57492215e89f55#C": {
+   "label": "bewijst",
+   "toelichting": "De titel van Full Fact zegt dat de video van de vrouw die door mannen in uniform wordt weggesleept geen gedwongen dienstplicht in Oekraïne toont."
+  },
+  "O:gfc-4dcd7bde855e96d9#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (opent) kopt 'A £10 airfryer offer from Currys is fake', precies het aanbod uit het bericht."
+  },
+  "O:gfc-5ec5846035b84057#C": {
+   "label": "bewijst",
+   "toelichting": "De X-post van VERA Files zegt letterlijk dat de rondgaande graphic waarin Claire Castro Ivana Alawi bekritiseert nep is (\"Peke ang pahayag\"), dus de bron noemt de bewering onwaar."
+  },
+  "O:gfc-60f04c702d2b98d1#C": {
+   "label": "bewijst",
+   "toelichting": "Newsweek (pagina geopend) meldt dat het MTA-bestuur de tariefverhoging op 30 september 2025 goedkeurde, vóór het aantreden van Mamdani, en dat het bestuur de tarieven bepaalt. Mamdani verhoogde ze dus niet zelf."
+  },
+  "O:gfc-6340f862d8d9be6b#C": {
+   "label": "bewijst niet",
+   "toelichting": "De ICC-berichten (6 maart en 27 mei 2026) en Reuters (22 april, opent niet) melden dat Duterte vast blijft en dat zijn proces op 30 november begint, allemaal van vóór de SONA eind juli; geen bron zegt iets over wat Marcos in die toespraak zei, dus alleen achtergrond."
+  },
+  "O:gfc-65291df5176b5b33#C": {
+   "label": "bewijst",
+   "toelichting": "De tag- en verzamelpagina's van Snopes (openen met een gewone browser) tonen het artikel van 26 mei 2026 'Video of Pope Leo XIV saying that Islam is a religion of peace we can learn from isn't real', met de toelichting dat dit citaat niet van Leo is."
+  },
+  "O:gfc-6a43289584551b77#C": {
+   "label": "bewijst",
+   "toelichting": "De titel van het Yahoo-stuk zegt dat de foto van de Australische vlag niets met het bezoek van koning Charles aan Washington te maken heeft; dat spreekt 'toont echt de vergissing bij dat bezoek' direct tegen."
+  },
+  "O:gfc-6aef90177fc671fc#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (opent) kopt dat de olifantenclip niet de overstroming in Nepal van die week toont; de video stond al eerder online, dus een andere datum dan beweerd."
+  },
+  "O:gfc-6c194fac0d7c0f58#C": {
+   "label": "bewijst",
+   "toelichting": "Hindustan Times (opent) zegt dat de foto bewerkt is: een still uit protestbeelden van een andere vrouw met het gezicht van Good erop geplakt; de Yahoo-links geven 404, maar HT alleen volstaat."
+  },
+  "O:gfc-732aef6e43e09cf5#C": {
+   "label": "bewijst niet",
+   "toelichting": "De enige bron is een archieflijst van VERA Files die nu alleen berichten van 9 oktober tot 5 november 2026 toont en de foto van Romualdez en Duterte nergens noemt; de echte factcheck (21 september 2026, AI-beeld) bestaat wel, maar zit niet achter de genoemde link."
+  },
+  "O:gfc-73ac7391bdba0455#C": {
+   "label": "bewijst",
+   "toelichting": "PTI meldt in de titel dat het een oude video uit Colombia is die ten onrechte als voorval in India werd gedeeld: een andere plaats."
+  },
+  "O:gfc-82662f4f8a4f7b8f#C": {
+   "label": "bewijst niet",
+   "toelichting": "BBC en Scientific American (2023) gaan over asteroïde 2023 DW en een kleine kans op 14 februari 2046: dat legt uit waar het bericht vandaan komt, maar zegt niet dat NASA voor 2026 niets meldde; news.am geeft 404 en de tweet van Hoops Crave verspreidt de bewering juist."
+  },
+  "O:gfc-851e1ef2f9b4f74f#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact vond geen bewijs dat paus Leo XIV dit citaat over 'woke' gaf, en de weblog van Jerz noemt zulke memes zonder bron; bij een toegeschreven citaat is dat de gewone ontkrachting."
+  },
+  "O:gfc-86896cd26d9feb8b#C": {
+   "label": "bewijst",
+   "toelichting": "Times of India (opent) citeert Wiseman na de vlucht met 'I'm not really a religious person', de Christian Post noemt hem 'non-religious', en Snopes zegt op X en Threads 'No, ... didn't say he converted'; een bekering kan dus niet."
+  },
+  "O:gfc-8737df760760b6d1#C": {
+   "label": "bewijst",
+   "toelichting": "De Washington Post zegt in de titel 'No, Tim Walz didn't give Minnesota a Somali flag', en de minister van Staat van Minnesota meldt dat een commissie de vlag koos."
+  },
+  "O:gfc-8af01af6d0a318cb#C": {
+   "label": "bewijst",
+   "toelichting": "Het Pew-rapport van maart 2024 (opent) meldt dat India de op één na hoogste sociale vijandigheid rond religie had van alle landen in de studie, wat niet samengaat met India als het enige land met religieuze harmonie; de algemene Pew-pagina en het tandfonline-artikel zijn alleen achtergrond."
+  },
+  "O:gfc-8c446de1e63279c1#C": {
+   "label": "bewijst",
+   "toelichting": "Het stuk van People (via europesays) zegt in de titel dat de originele video het geluid niet bevat en dat het later is toegevoegd; dat spreekt 'echt geluid van Hegseth' direct tegen."
+  },
+  "O:gfc-8cd9c3dadb0968f4#C": {
+   "label": "bewijst",
+   "toelichting": "UIS Journal (opent, zonder band) zegt dat het datacenter in Los Lunas geen water uit de Rio Grande haalt maar uit vier diepe putten, volgens de State Engineer, en dat de droogte van de rivier door klimaat en vroege sneeuwsmelt komt; KOB en ScienceDaily geven alleen die droogte als achtergrond."
+  },
+  "O:gfc-90831f13fdfcf38e#C": {
+   "label": "bewijst",
+   "toelichting": "De X-post van Snopes zegt dat het beeld van Hegseths 'emo-fase' nep is en dat ze zijn echte jaarboekfoto's vonden, en GFCN noemt het beeld verzonnen."
+  },
+  "O:gfc-95ea09d972e76f3c#C": {
+   "label": "bewijst niet",
+   "toelichting": "India Today en Deccan Herald (openen) melden een bevalling langs de weg bij het districtsziekenhuis van Bhadohi op 30 september, maar noemen Unnao niet en leggen geen verband met de beelden uit het bericht; in die week was er ook een vergelijkbaar geval in Raebareli, dus een andere plaats is hier niet bewezen."
+  },
+  "O:gfc-961d5e5c1ddf4d29#C": {
+   "label": "bewijst",
+   "toelichting": "De X-post van Snopes gaat precies over deze bewering (mensenhandelaars die zich als Walmart-medewerkers voordoen en klanten naar de parkeerplaats lokken) en zegt dat er geen bewijs is. Dat is een ontkrachting, geen stilte. WKBW en de sheriff van Raleigh County gaan over andere posts."
+  },
+  "O:gfc-961f551b45d02e7c#C": {
+   "label": "bewijst",
+   "toelichting": "De posts van Snopes op Threads en X noemen het verhaal over de Florida-vrouw die met een douchegordijn als zeil in een winkelwagen over de snelweg reed satirische fictie. De details komen overeen, al staat de naam Jessica Marino er niet in."
+  },
+  "O:gfc-a6e0265a1d843fc3#C": {
+   "label": "bewijst",
+   "toelichting": "De X-post van Snopes zegt dat Pam Bondi geen naaktbeelden van Trump heeft vrijgegeven als wraak voor haar ontslag, en het artikel op MSN waarschuwt 'Don't be fooled'."
+  },
+  "O:gfc-a794dda95c971f79#C": {
+   "label": "bewijst",
+   "toelichting": "Snopes schrijft dat er geen geloofwaardig bewijs is dat iemand in de dossiers 'pizza' voor iets anders dan eten gebruikte, en verklaart de gedeelde mails (onder meer een voetbalteam); Mother Jones en NYMag komen tot hetzelfde."
+  },
+  "O:gfc-afb390ec81902bc2#C": {
+   "label": "bewijst",
+   "toelichting": "Times of India (opent) kopt dat Jamia Millia Islamia naar de politie ging over een nepkennisgeving over de Ramadan, en NDTV meldt dat de universiteit de kennisgeving nep noemt."
+  },
+  "O:gfc-b3ebe7216c78f910#C": {
+   "label": "bewijst",
+   "toelichting": "Explained PH noemt precies deze post met 45% in Luzon, 70% in Visayas en 80% in Mindanao ONWAAR, en Inquirer geeft andere cijfers per regio."
+  },
+  "O:gfc-b7853cf642545f81#C": {
+   "label": "bewijst niet",
+   "toelichting": "Hindustan Times en Wikipedia geven alleen de loopbaan van Stalin (eerste verkiezing 1984, wat het bericht zelf al zegt); ze zeggen niets over het gesprek met '1989' en '14 jaar', dus ze tonen niet dat dit verzonnen is."
+  },
+  "O:gfc-b811c239ce1c2622#C": {
+   "label": "bewijst",
+   "toelichting": "De Threads-post van Snopes zegt dat de foto's Pattinson niet in de verzenddoosoutfit van Balenciaga tonen, en India Today zegt dat de jurk door AI is gemaakt en niet van Balenciaga is."
+  },
+  "O:gfc-b97d9c60bafb34a0#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (opent) checkt deze uitspraak van Paul Waugh letterlijk en oordeelt Incorrect: het aantal starts per jaar steeg na 2020/21, de grote daling zat in de jaren vóór 2020."
+  },
+  "O:gfc-c16b05e8a27b4950#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact (opent) kopt 'Toolstation is not offering £10 power tool kits', precies het aanbod uit het bericht."
+  },
+  "O:gfc-cb25dca4cff6faf9#C": {
+   "label": "bewijst",
+   "toelichting": "De titel op MSN zegt dat de Democraten in Massachusetts geen beeld van Molech onthulden bij het Capitool van de staat, ondanks de beweringen."
+  },
+  "O:gfc-cd55108f9f75240d#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact zegt dat de oversteken met kleine boten niet pas na het Brexitreferendum begonnen, met bevestigde gevallen van vóór juni 2016; dat is het tegendeel van 'geen enkele boot'."
+  },
+  "O:gfc-cf8b9423fab554df#C": {
+   "label": "bewijst",
+   "toelichting": "De forumpost op usmessageboard noemt de NDA-bewering vals en verzonnen, afkomstig uit een satirische Facebookpost. De Snopes-teaser opent wel maar geeft het oordeel niet, dus het bewijs rust op een zwakke bron."
+  },
+  "O:gfc-d0b8e8a54fd78bf7#C": {
+   "label": "bewijst",
+   "toelichting": "De X-post van Snopes zegt dat er geen man bij een Barnes & Noble inbrak om een boek uit te lezen en dat het om een satirisch verhaal gaat."
+  },
+  "O:gfc-d84724b0bc992c83#C": {
+   "label": "bewijst",
+   "toelichting": "PTI Fact Check zegt dat het een oude video uit Deoband in Uttar Pradesh is die ten onrechte aan Afghanistan wordt gekoppeld: een andere plaats, dus geen moslims in Afghanistan."
+  },
+  "O:gfc-ebef04603a220a22#C": {
+   "label": "bewijst",
+   "toelichting": "Indian Express en NDTV zeggen in de titel dat het verhaal over zeven gestolen honden die aan vleeshandelaren ontsnapten nep is. Er was dus geen illegale transportwagen."
+  },
+  "O:gfc-ec794574e4d63691#C": {
+   "label": "bewijst niet",
+   "toelichting": "Hindustan Times en The Statesman geven de officiële reactie van het ministerie (India betreurt aanvallen op koopvaardij en roept op tot dialoog), maar geen bron zegt dat de video vals is of dat Jaiswal dit niet zei; de factchecks noemen het een deepfake van de briefing van 11 maart."
+  },
+  "O:gfc-ece0b4e57727468c#C": {
+   "label": "bewijst",
+   "toelichting": "De Threads-post van Snopes zegt dat het hele verhaal over Caitlin Clark die met een opbeurende toespraak op Trumps 'too woke' reageerde verzonnen is."
+  },
+  "O:gfc-ed92b0022078982f#C": {
+   "label": "bewijst",
+   "toelichting": "Full Fact en de Bournemouth Echo zeggen dat de politie van Dorset geen 44% noemde en dat de bewering onwaar is."
+  },
+  "O:gfc-f103f408aa6c466e#C": {
+   "label": "bewijst",
+   "toelichting": "Wired zegt in de titel dat Trump ten onrechte beweert dat Iran Tomahawks heeft, en NBC en Arab News melden dat hij geen bewijs gaf of dat media de bewering weerleggen."
+  },
+  "O:gfc-fa1dcb6b70e49bfe#C": {
+   "label": "bewijst",
+   "toelichting": "SEE Check, hibrid.info en La Vanguardia (openen) zeggen dat Spanje geen celstraf van vijf jaar invoerde en dat Sánchez die niet aankondigde; de wet bestaat niet en de foto is bewerkt."
+  },
+  "O:gfc-fa20d675595b88b5#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen tonen Trump en Melania op het oudejaarsfeest in Mar-a-Lago op 31 december; dat sluit een bezoek op nieuwjaarsdag zelf niet uit, en geen bron noemt een weeshuis of hun dag op 1 januari (de Palm Beach Post opent niet, de rest is YouTube en een laag blog)."
+  },
+  "O:gfc-fa7bed1a8af01b2e#C": {
+   "label": "bewijst niet",
+   "toelichting": "De bronnen zeggen alleen dat de UGC-regels van 2026 regulations zijn en door het Hooggerechtshof geschorst, niet of Amit Shah iets zei; dat het een oude toespraak over de Waqf-wet uit april 2025 is, staat alleen in de factchecks, niet in de bronnen."
+  },
+  "O:gfc-fb998ebf6de1db20#C": {
+   "label": "bewijst",
+   "toelichting": "De titel van Full Fact zegt dat inkomstenbelasting en de staatsschuld 100 jaar geleden allebei al bestonden, wat beide delen van de bewering tegenspreekt."
+  },
+  "O:gfc-fd6bd937c312077c#C": {
+   "label": "bewijst",
+   "toelichting": "De PolitiFact-check in de Houston Chronicle (opent met een gewone browser) oordeelt False: niets in de wet 'would build houses for' mensen die illegaal in de VS zijn, en de wet verandert de bestaande uitsluiting van federale huursteun niet."
+  }
+ }
+}

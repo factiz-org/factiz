@@ -1,0 +1,1608 @@
+{
+ "_meta": "Labels van feitstap-v2 (PLAN #31.9), 2026-10-26, gelezen door Claude. Per uitkomst (stand en feit): 'terecht', 'fout' of 'set fout'. Een K of K2 op 10 bij het eigen feit is goed volgens de vaste regel, een Dw op 10 bij het eigen feit is geen fout maar telt in 'op 10', en een gelezen V2 op 0 bij het eigen feit is terecht (steekproef van 12 nagelezen). Een uitkomst die gelijk is aan v1 houdt het label uit 31.9-feitstap-labels.json.",
+ "labels": [
+  {
+   "id": "V2-009",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-010",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-001",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-000",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-004",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-005",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-002",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-007",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-003",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-006",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-186",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-185",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-142",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-038",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-154",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-132",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-152",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-083",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-184",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-139",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-213",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-018",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-042",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-126",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-118",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-222",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-097",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-095",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-053",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-017",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-174",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-119",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-165",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-223",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-208",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-159",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-136",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-115",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-187",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-051",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-093",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-031",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-094",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-227",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-092",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-191",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-153",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-072",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-101",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-081",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-168",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-203",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-207",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-189",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-121",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-239",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-120",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-013",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-044",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-229",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-201",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-163",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-059",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-035",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-114",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-202",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-089",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-032",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-130",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-077",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-040",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-048",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-146",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-212",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-088",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-162",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-050",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-016",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-060",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-061",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-055",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-220",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-192",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-179",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-134",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-047",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-067",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-041",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-117",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-079",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-173",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-219",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-176",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-155",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-064",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-084",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-039",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-108",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-150",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-177",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-124",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-171",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-086",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-021",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-106",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-023",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-112",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-217",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-024",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-028",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-156",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-105",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-129",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-157",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-221",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-034",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-065",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-073",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-158",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-071",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-012",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-225",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-137",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-080",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-107",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-014",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-056",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-078",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-091",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-022",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-216",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-090",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-087",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-054",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-052",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-160",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-069",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-233",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-045",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-109",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-019",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-068",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-167",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-100",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-238",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-123",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-066",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-196",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-149",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-143",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-215",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-199",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-140",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-214",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-027",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-141",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-200",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-231",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-026",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-145",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-033",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-076",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-063",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-085",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-096",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-226",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-172",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-058",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-127",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-144",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-133",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-183",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-030",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-166",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-138",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-099",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-210",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-011",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-135",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-103",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-029",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-113",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-206",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-082",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-195",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-098",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-169",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-232",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-131",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-070",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-025",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-178",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-204",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-075",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-228",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-161",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-234",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-148",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-111",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-125",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-062",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-218",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-046",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-151",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-102",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-235",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-147",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-074",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-237",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V2-015",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "K0121",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "strengere regel: 'Malaysia Airlines' gold als eigen detail, terwijl MH17 een vlucht van Malaysia Airlines is; in v1 op 10"
+  },
+  {
+   "id": "K0152",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "strengere regel: 'gekaapte vliegtuigen, New York en Washington' golden als eigen details; in v1 op 10"
+  },
+  {
+   "id": "K0024",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "strengere regel: 'ongewapende' burgers gold als eigen detail; in v1 op 10"
+  },
+  {
+   "id": "K2-187",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "fout",
+   "waarom": "een juiste Portugese formulering op 0: Sonnet las 'Na primavera de 1940' (in de lente) als 'na de lente'"
+  },
+  {
+   "id": "V060",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "fout",
+   "waarom": "vals bericht, maar 'pas in 1900 een bol geworden' spreekt de zin 'de aarde is ongeveer 4,5 miljard jaar oud' niet tegen"
+  },
+  {
+   "id": "V105",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "valse variant (vaccins veroorzaken autisme) op 0 bij het eigen feit"
+  },
+  {
+   "id": "V2-211",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "'mensen bestaan al 4,5 miljard jaar' kan niet waar zijn als mensen over miljarden jaren uit gemeenschappelijke voorouders evolueerden"
+  },
+  {
+   "id": "S330",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "de hoofdbewering (5G-masten verspreiden COVID-19) spreekt dit feit tegen"
+  },
+  {
+   "id": "Dn-005",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "proefstuk; 'de oorlog begon in 1812' spreekt de zin 'begon op 1 september 1939' tegen"
+  },
+  {
+   "id": "Dn-007",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "proefstuk; 'alleen waterkanonnen' spreekt 'opende het vuur' in de zin tegen"
+  },
+  {
+   "id": "Dn-009",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "proefstuk; '1801' spreekt 'juli 1995' in de zin tegen"
+  },
+  {
+   "id": "Dn-063",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "een campagne die in 1995 begon kan niet vóór de uitroeiing in 1980 liggen; spreekt de zin tegen"
+  },
+  {
+   "id": "Dn-075",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "'alleen op de startbaan' spreekt 'achter hoogvliegende vliegtuigen' in de zin tegen"
+  },
+  {
+   "id": "Pw016",
+   "stand": 10,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "de ware zin zegt dat de aarde bij benadering een bol is: het feit"
+  },
+  {
+   "id": "Pw017",
+   "stand": 10,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "de ware zin zegt dat de aarde bij benadering een bol is: het feit"
+  },
+  {
+   "id": "O161",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "fout",
+   "waarom": "historische bewering over 1783 en 1954; spreekt de annexatie in 2014 niet tegen (in v1 terecht 'geen')"
+  },
+  {
+   "id": "O2-005",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "beweert fentanyl in plaats van Novichok"
+  },
+  {
+   "id": "O2-114",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "beweert dat Oekraïne nooit onafhankelijk was"
+  },
+  {
+   "id": "O2-219",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "beweert dat Moskou Oekraïne niet aanvalt; de invasie van 24 februari 2022 spreekt dat tegen"
+  }
+ ]
+}

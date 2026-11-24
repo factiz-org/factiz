@@ -1,0 +1,347 @@
+{
+ "toelichting": "Leesbaarheid van de gelezen tekst van de 19 gemiste screenshots van §209, per variant (PLAN #32.34), 2026-11-03, gelezen door Claude zonder de top 5 ernaast. ja = wat de tekst van het screenshot zegt, is te volgen (zit de bewering alleen in het beeld, dan telt of de tekst die er staat goed gelezen is); deels = er staan herkenbare woorden van de inhoud, maar de bewering niet; nee = brij of alleen knoppen. Openbare beelden uit M4FC; alleen ids en labels.",
+ "oordelen": [
+  {
+   "id": "n-sn-002",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "de kerk en het college staan er, de naam en 'Andhra Pradesh' niet ('Ananra vracesn')"
+  },
+  {
+   "id": "n-sn-002",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "de kerk en het college staan er, de naam en 'Andhra Pradesh' niet ('Ananra vracesn')"
+  },
+  {
+   "id": "n-sn-002",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "de kerk en het college staan er, de naam en 'Andhra Pradesh' niet ('Ananra vracesn')"
+  },
+  {
+   "id": "n-sn-008",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "'Indian Railways', 'After', 'This is Acche din'; de bewering zit in de foto's ervoor en erna"
+  },
+  {
+   "id": "n-sn-008",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "'Indian Railways', 'After', 'This is Acche din'; de bewering zit in de foto's ervoor en erna"
+  },
+  {
+   "id": "n-sn-008",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "'Indian Railways', 'After', 'This is Acche din'; de bewering zit in de foto's ervoor en erna"
+  },
+  {
+   "id": "n-sn-014",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "losse reacties in Hinglish; de bewering (een verklede student bij de protesten) niet"
+  },
+  {
+   "id": "n-sn-014",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "losse reacties in Hinglish; de bewering (een verklede student bij de protesten) niet"
+  },
+  {
+   "id": "n-sn-014",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "losse reacties in Hinglish; de bewering (een verklede student bij de protesten) niet"
+  },
+  {
+   "id": "n-sn-017",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "V0 en V1 lezen 'पाप जारी' in plaats van 'पुजारी', dus 'dit zijn de priesters van de Balaji-tempel' valt weg; V2 leest het"
+  },
+  {
+   "id": "n-sn-017",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "V0 en V1 lezen 'पाप जारी' in plaats van 'पुजारी', dus 'dit zijn de priesters van de Balaji-tempel' valt weg; V2 leest het"
+  },
+  {
+   "id": "n-sn-017",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "V0 en V1 lezen 'पाप जारी' in plaats van 'पुजारी', dus 'dit zijn de priesters van de Balaji-tempel' valt weg; V2 leest het"
+  },
+  {
+   "id": "n-sn-018",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "'Swim to reach your home! Hyderabad the Global City': de tekst is gelezen; de bewering zit verder in de foto"
+  },
+  {
+   "id": "n-sn-018",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "'Swim to reach your home! Hyderabad the Global City': de tekst is gelezen; de bewering zit verder in de foto"
+  },
+  {
+   "id": "n-sn-018",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "'Swim to reach your home! Hyderabad the Global City': de tekst is gelezen; de bewering zit verder in de foto"
+  },
+  {
+   "id": "n-sn-019",
+   "variant": "V0",
+   "label": "nee",
+   "reden": "V0 brij; V1 'ik heb op Congress gestemd' zonder Dhoni; V2 met 'महेंद्र सिंह धोनी ने कहा है'"
+  },
+  {
+   "id": "n-sn-019",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "V0 brij; V1 'ik heb op Congress gestemd' zonder Dhoni; V2 met 'महेंद्र सिंह धोनी ने कहा है'"
+  },
+  {
+   "id": "n-sn-019",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "V0 brij; V1 'ik heb op Congress gestemd' zonder Dhoni; V2 met 'महेंद्र सिंह धोनी ने कहा है'"
+  },
+  {
+   "id": "n-sn-024",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "Bajwa, 'Jai Baba' en Pakistan staan er, half verminkt; wie op de foto staat niet te volgen"
+  },
+  {
+   "id": "n-sn-024",
+   "variant": "V1",
+   "label": "deels",
+   "reden": "Bajwa, 'Jai Baba' en Pakistan staan er, half verminkt; wie op de foto staat niet te volgen"
+  },
+  {
+   "id": "n-sn-024",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "Bajwa, 'Jai Baba' en Pakistan staan er, half verminkt; wie op de foto staat niet te volgen"
+  },
+  {
+   "id": "n-sn-031",
+   "variant": "V0",
+   "label": "nee",
+   "reden": "V0 brij; V1 en V2: 'dit is de grootste moskee van Turkije'"
+  },
+  {
+   "id": "n-sn-031",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "V0 brij; V1 en V2: 'dit is de grootste moskee van Turkije'"
+  },
+  {
+   "id": "n-sn-031",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "V0 brij; V1 en V2: 'dit is de grootste moskee van Turkije'"
+  },
+  {
+   "id": "n-sn-032",
+   "variant": "V0",
+   "label": "nee",
+   "reden": "alleen knoppen van Facebook ('Hide Translation'); V2 daarbij 'DainikBhaskar'; de bewering zit in het reclamebord"
+  },
+  {
+   "id": "n-sn-032",
+   "variant": "V1",
+   "label": "nee",
+   "reden": "alleen knoppen van Facebook ('Hide Translation'); V2 daarbij 'DainikBhaskar'; de bewering zit in het reclamebord"
+  },
+  {
+   "id": "n-sn-032",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "alleen knoppen van Facebook ('Hide Translation'); V2 daarbij 'DainikBhaskar'; de bewering zit in het reclamebord"
+  },
+  {
+   "id": "n-sn-034",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "het bericht over Chilima, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-034",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "het bericht over Chilima, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-034",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "het bericht over Chilima, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-035",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "Patanjali, de baba aan de beademing, gelezen"
+  },
+  {
+   "id": "n-sn-035",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "Patanjali, de baba aan de beademing, gelezen"
+  },
+  {
+   "id": "n-sn-035",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "Patanjali, de baba aan de beademing, gelezen"
+  },
+  {
+   "id": "n-sn-037",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "China noemde de islam een virus, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-037",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "China noemde de islam een virus, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-037",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "China noemde de islam een virus, helemaal gelezen"
+  },
+  {
+   "id": "n-sn-040",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "'wat ligt er op het bord' in het Hindi; de bewering zit in het beeld; V2 las Latijnse brij"
+  },
+  {
+   "id": "n-sn-040",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "'wat ligt er op het bord' in het Hindi; de bewering zit in het beeld; V2 las Latijnse brij"
+  },
+  {
+   "id": "n-sn-040",
+   "variant": "V2",
+   "label": "nee",
+   "reden": "'wat ligt er op het bord' in het Hindi; de bewering zit in het beeld; V2 las Latijnse brij"
+  },
+  {
+   "id": "n-sn-041",
+   "variant": "V0",
+   "label": "nee",
+   "reden": "V0 brij; V1 en V2: 'is dit hem of verbeeld ik het me, #Rahul'"
+  },
+  {
+   "id": "n-sn-041",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "V0 brij; V1 en V2: 'is dit hem of verbeeld ik het me, #Rahul'"
+  },
+  {
+   "id": "n-sn-041",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "V0 brij; V1 en V2: 'is dit hem of verbeeld ik het me, #Rahul'"
+  },
+  {
+   "id": "n-sn-043",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "de tweet over infiltranten, gelezen"
+  },
+  {
+   "id": "n-sn-043",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "de tweet over infiltranten, gelezen"
+  },
+  {
+   "id": "n-sn-043",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "de tweet over infiltranten, gelezen"
+  },
+  {
+   "id": "n-sn-044",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "de lathi op de rug van de rijken, gelezen; V2 ook 'vliegvelden zonder controle'"
+  },
+  {
+   "id": "n-sn-044",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "de lathi op de rug van de rijken, gelezen; V2 ook 'vliegvelden zonder controle'"
+  },
+  {
+   "id": "n-sn-044",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "de lathi op de rug van de rijken, gelezen; V2 ook 'vliegvelden zonder controle'"
+  },
+  {
+   "id": "n-sn-050",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "V0 alleen 'Desh drohi gaddar h ye gandhi'; V1 'de chef met Rahul Gandhi in Dubai, de broer van Dawood'; V2 Latijnse brij en Engelse reacties"
+  },
+  {
+   "id": "n-sn-050",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "V0 alleen 'Desh drohi gaddar h ye gandhi'; V1 'de chef met Rahul Gandhi in Dubai, de broer van Dawood'; V2 Latijnse brij en Engelse reacties"
+  },
+  {
+   "id": "n-sn-050",
+   "variant": "V2",
+   "label": "deels",
+   "reden": "V0 alleen 'Desh drohi gaddar h ye gandhi'; V1 'de chef met Rahul Gandhi in Dubai, de broer van Dawood'; V2 Latijnse brij en Engelse reacties"
+  },
+  {
+   "id": "n-sn-054",
+   "variant": "V0",
+   "label": "deels",
+   "reden": "V0 alleen '252-272'; V1 en V2 'de peiling van gisteravond, BSP 252-272'"
+  },
+  {
+   "id": "n-sn-054",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "V0 alleen '252-272'; V1 en V2 'de peiling van gisteravond, BSP 252-272'"
+  },
+  {
+   "id": "n-sn-054",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "V0 alleen '252-272'; V1 en V2 'de peiling van gisteravond, BSP 252-272'"
+  },
+  {
+   "id": "n-sn-057",
+   "variant": "V0",
+   "label": "ja",
+   "reden": "de vraag over de straatnamen, gelezen; de bewering zit in het bord"
+  },
+  {
+   "id": "n-sn-057",
+   "variant": "V1",
+   "label": "ja",
+   "reden": "de vraag over de straatnamen, gelezen; de bewering zit in het bord"
+  },
+  {
+   "id": "n-sn-057",
+   "variant": "V2",
+   "label": "ja",
+   "reden": "de vraag over de straatnamen, gelezen; de bewering zit in het bord"
+  }
+ ]
+}

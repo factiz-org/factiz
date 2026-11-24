@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "La «reivindicación iraní» de la parada en tierra en EE. UU. es una publicación con dos emojis",
+  "oordeel_zin": "Una cuenta llamada Iran Military Media publicó un avión y una cruz después de que comenzara la parada en tierra, pero no reivindicó nada, y la FAA atribuyó la parada a una avalancha de datos en su propia red [1] [3] [11].",
+  "bewering": "Cuentas iraníes están tuiteando ahora sugiriendo que son responsables de la detención de vuelos en tierra en EE. UU. hoy.   Es hora de que el presidente Trump acabe con el régimen iraní.",
+  "kort": "El 13 de noviembre, Laura Loomer escribió en X que cuentas iraníes sugerían que estaban detrás de la parada en tierra en todo el país en EE. UU., e instó al presidente Trump a acabar con el régimen iraní [2]. La publicación que citó muestra solo un avión y una cruz, publicados por una cuenta llamada Iran Military Media después de que comenzara la parada en tierra [3] [6]. La FAA atribuyó la parada a una avalancha de datos en su propia red, y funcionarios estadounidenses dijeron que no veían señales de un actor extranjero [1] [9] [13].",
+  "tekst": "El viernes 13 de noviembre, el control del tráfico aéreo de EE. UU. empezó a perder enlaces de radar y de radio a las 15:36, hora del Este (20:36 UTC), según el secretario de Transporte, Sean Duffy [5]. Poco antes de las 16:00, la Administración Federal de Aviación (FAA) detuvo todas las salidas desde los aeropuertos de EE. UU., lo que se conoce como ground stop (parada en tierra) [6]. Los aviones que ya estaban en el aire pudieron aterrizar; Duffy dijo que en ese momento había más de 3.500 en vuelo [7] [8]. La FAA levantó la parada hacia las 20:15, hora del Este, las 01:15 UTC del 14 de noviembre [5].\n\nFue la primera parada en tierra en todo el país desde enero de 2023, y la segunda desde los atentados del 11 de septiembre de 2001 [6].\n\nA las 21:20 UTC, unos 45 minutos después de que empezaran los problemas, una cuenta llamada Iran Military Media publicó en X dos emojis: un avión y una cruz [3] [5]. La publicación no tiene palabras, ni imagen, ni enlace [3]. No menciona a la FAA, ni un ciberataque, ni un dron, y no dice quién hizo qué [3]. A las 23:00 UTC, Laura Loomer la citó, con el texto de que cuentas iraníes sugerían que eran responsables de la parada en tierra [2]. Su publicación tenía 19.468 me gusta y 1.842 respuestas el 19 de noviembre [2].\n\nLa cuenta no lleva en X ninguna etiqueta de gobierno ni de organización oficial, y no encontramos ninguna fuente que la vincule con las fuerzas armadas de Irán [3]. La Guardia Revolucionaria de Irán sí reivindica ataques públicamente: ese mismo día reivindicó un ataque con drones contra una instalación de radar de EE. UU. en Baréin, y el Comando Central de EE. UU. dijo que interceptó los drones [15]. Ninguno de los informes sobre la parada en tierra que leímos menciona una reivindicación de responsabilidad por parte de Irán [9] [14] [15].\n\nCuando Loomer publicó, los funcionarios ya habían dicho que no veían señales de un ataque [4] [7]. A las 16:53, hora del Este, dos funcionarios policiales dijeron a CNN que, según la información preliminar, no se trataba de un ciberataque [7]. El secretario de Seguridad Nacional, Markwayne Mullin, dijo a los periodistas en la Casa Blanca que no había indicios de un ataque con intención maliciosa, y lo calificó de interrupción de las telecomunicaciones [4].\n\nLas primeras conclusiones de la FAA, publicadas el 15 de noviembre, apuntan a su propia red de telecomunicaciones, que gestiona el contratista L3Harris [1]. La red fue inundada con datos procedentes de dos sitios: una instalación de radar en Amarillo, Texas, y una instalación de radio en El Dorado, Arkansas, donde L3Harris había instalado un nuevo router [1] [11]. El equipo más antiguo recibió unos 1.000 intentos de conexión cada cuatro o cinco segundos y se volvió inestable [11]. El tráfico se estabilizó después de que L3Harris cortara los dos sitios [11]. Duffy dijo que el trabajo en El Dorado sustituía antiguas líneas de cobre por fibra [9] [11].\n\nEl 14 de noviembre, Duffy dijo: «No fue un actor extranjero». [9] El administrador de la FAA, Bryan Bedford, dijo que la Sala de Crisis de la Casa Blanca y el FBI habían participado, y que todos los implicados concluyeron que no era un problema cibernético [9]. El 17 de noviembre, el director de Inteligencia Nacional, Jay Clayton, dijo en Fox Business que no veía señales de un ciberataque coordinado detrás de la reciente serie de interrupciones, y las atribuyó a parches y mejoras de los sistemas [13]. En un reportaje de Reuters de ese día, una portavoz de la Casa Blanca dijo que no había pruebas de un ciberataque detrás de ellas [12].\n\nIrán salió a relucir por un motivo: Estados Unidos está en guerra con Irán, e Irán había advertido que respondería en el ciberespacio [9]. El 18 de noviembre, Mullin dijo al Congreso por escrito que el gobierno iraní y grupos respaldados por Teherán han atacado infraestructuras de EE. UU., pero no vinculó a Irán con la parada en tierra [14].\n\nLa causa exacta aún no está establecida: la FAA y L3Harris siguen investigando si un error de instalación, un dispositivo defectuoso u otra cosa desencadenó la avalancha de datos [11]. El 15 de noviembre, Duffy dijo que no tenía indicios de un hackeo, y que el FBI estaba ayudando y compartiría cualquier hallazgo [10].\n\nNo encontramos ninguna verificación de otra redacción sobre la afirmación relativa a Irán; el verificador austriaco Mimikama confirmó el 14 de noviembre que la FAA había detenido las salidas en todo el país, y no encontró pruebas de un ciberataque [16]. PolitiFact comprobó el 17 de noviembre quién tenía la culpa política de la interrupción, no un vínculo con Irán [17].",
+  "niet_weten": "No sabemos quién gestiona la cuenta Iran Military Media, desde qué país opera, ni qué quería decir con el avión y la cruz [3]. Loomer escribió sobre cuentas iraníes, en plural; solo encontramos la publicación que ella citó [2] [3]. La causa final de la parada en tierra aún no se conoce [10] [11].",
+  "bereik": "19.468 me gusta y 1.842 respuestas el 19 de noviembre",
+  "nog_uitzoeken": [
+   "Quién gestiona la cuenta Iran Military Media y qué país muestra X para ella.",
+   "Si otras cuentas que se presentan como iraníes reivindicaron la parada en tierra ese día, en persa o en inglés.",
+   "Qué concluye la investigación final de la FAA: un error de instalación, un router defectuoso u otra cosa, y el papel de la sede de Amarillo.",
+   "Dudamos entre Engañoso y Falso. La publicación con emojis existe, lo que nos hizo elegir Engañoso; no afirma nada y no hay indicios de que Irán estuviera implicado, lo que apunta a Falso."
+  ],
+  "tijdlijn": [
+   "Los enlaces de radar y de radio del control del tráfico aéreo de EE. UU. se vuelven inestables, según Duffy [5].",
+   "Poco antes de las 16:00, hora del Este, la FAA detiene todas las salidas desde los aeropuertos de EE. UU. [6].",
+   "Iran Military Media publica en X un avión y una cruz [3].",
+   "Dos funcionarios policiales dicen a CNN que no es un ciberataque, según la información preliminar [7].",
+   "NPR recoge las palabras de Mullin: ningún indicio de un ataque con intención maliciosa, una interrupción de las telecomunicaciones [4].",
+   "Laura Loomer cita la publicación de los emojis: cuentas iraníes sugieren que son responsables [2].",
+   "La FAA levanta la parada en tierra, a las 20:15, hora del Este, del 13 de noviembre [5].",
+   "Duffy: la causa está en trabajos de un contratista de L3Harris, y no fue un actor extranjero [9].",
+   "Primeras conclusiones de la FAA: una avalancha de datos desde dos sitios, en Amarillo y El Dorado [1] [11].",
+   "El director de Inteligencia Nacional, Clayton, no ve señales de un ciberataque coordinado [13].",
+   "Mullin al Congreso: Irán ataca infraestructuras de EE. UU., sin vínculo con la parada en tierra [14]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 13 de noviembre de 2026, 23:00 UTC."
+  ],
+  "beeld_alt": [
+   "Una publicación en X de Laura Loomer que dice que cuentas iraníes sugieren que son responsables de la parada en tierra en EE. UU., y que cita una publicación de Iran Military Media con un avión y una cruz. Sello: ENGAÑOSO."
+  ]
+ }
+}

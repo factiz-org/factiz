@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van het overzicht poland-airspace-missile-false-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "2118c2af8b4f207c",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "網路上流傳的一段影片和一張圖片,被說成是 2026 年 11 月 20 日進入波蘭領空的飛彈,其中一張圖顯示波蘭 F-16 戰機正在追擊其中一枚飛彈。",
+  "kern": [
+   "波蘭通報,在 2026 年 11 月 20 日俄羅斯攻擊烏克蘭期間,有物體墜落在其領土上,其中包括在 Nowy Lipowiec 村附近發現的一枚巡航飛彈殘骸。[1] [2]",
+   "那段被當作當晚畫面的飛行物體影片,早在 2024 年 11 月就已在網路上出現,當時與俄羅斯對烏克蘭的一次攻擊有關。[1]",
+   "根據不可見的 SynthID 浮水印,那張三架 F-16 戰機追擊飛彈的圖片是用 AI 製作的,而最早已知貼文的發布者已為分享該圖片道歉。[2]"
+  ],
+  "rondgang": "2026 年 11 月 20 日當天及之後,這段影片在波蘭的 X 上傳播,這張圖片則在波蘭的 Facebook 和 X 上傳播;該圖片最早已知的版本發布於 X,後來已被刪除。[1] [2]"
+ }
+}

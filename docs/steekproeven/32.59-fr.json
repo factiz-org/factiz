@@ -1,0 +1,161 @@
+{
+ "toelichting": "PLAN #32.59, het Frans, lezer-v16: elk rood en oranje en elk groen bij O, elk alarm bij W en elke niet bevestigd bij G, gelabeld tegen de genoemde bronnen en wat de lezer ervan zag, door twee deelagenten (elk de helft). Geen andere User-Agent, geen browser nadoen, een pagina die niet opent telt niet. K met de eigen check als bron bewijst zichzelf (automatisch).",
+ "labels": {
+  "O:gfc-0609c128677fd955#C": {
+   "label": "bewijst",
+   "toelichting": "Franceinfo/Radio France ('La France n'a pas de troupes en Ukraine'), Ouest-France en Europe 1 melden dat Parijs het sturen van troepen ontkent en het desinformatie noemt. Geen pagina geopend."
+  },
+  "O:gfc-61eed05801091ea1#C": {
+   "label": "bewijst",
+   "toelichting": "RFI ('accusée à tort'), TF1 Info, CBS News en de factcheck op Yahoo weerleggen dat Harris audio-oorbellen van Nova droeg. Geen pagina geopend."
+  },
+  "O:gfc-7d9aaa61735bd23a#C": {
+   "label": "bewijst",
+   "toelichting": "PressAfrik en Senego geven de echte reden: 'offense au chef de l'État' om het woord 'gougnafier' over de Senegalese president, de Assembleevoorzitter en de premier, niet Traoré. PressAfrik geopend: Traoré en Burkina komen er niet in voor."
+  },
+  "O:gfc-3c301a7b9ffe4080#C": {
+   "label": "bewijst",
+   "toelichting": "20 Minutes ('Non, le Japon n'a pas déclaré l'état d'urgence') met de Japanse ambassade, en RVH-Synergie, weerleggen de noodtoestand. Geen pagina geopend."
+  },
+  "O:gfc-598f4dea10137a1e#C": {
+   "label": "bewijst",
+   "toelichting": "NigerCheck noemt de site die een online werving van de IOM voor 2025 aankondigt een canular; de eigen wervingspagina van de IOM staat erbij. Geen pagina geopend."
+  },
+  "O:gfc-7d39b07025659280#C": {
+   "label": "bewijst",
+   "toelichting": "Lokutamabe en Radio Okapi melden dat de foto van Tshisekedi en Kagame uit 2019 stamt en uit zijn context is gehaald. Geen pagina geopend."
+  },
+  "O:gfc-38b975412625753b#C": {
+   "label": "bewijst",
+   "toelichting": "TF1 Info, Franceinfo, France 24, RFI en BFMTV noemen de bevriezing van het Rafale-contract een fausse info, met een nagemaakte Al Jazeera-video. Geen pagina geopend."
+  },
+  "O:gfc-4e3bab4fae594923#C": {
+   "label": "bewijst",
+   "toelichting": "Censor.net, Ukranews, NV en LIGA tonen dat Tyshchenko parlementslid is en dat de NABU-zaak gaat over afpersing van callcenters en witwassen, niet over hulpgeld. Dat weerlegt het hulpgeld indirect, want geen bron zegt letterlijk 'geen hulpgeld'. Geen pagina geopend."
+  },
+  "O:gfc-623f354f8bbb23a2#C": {
+   "label": "bewijst",
+   "toelichting": "20 Minutes, Ouest-France, Franceinfo, CNN en Variety melden dat De Niro niet tegen betogers schreeuwde maar een Netflix-serie opnam. Geen pagina geopend."
+  },
+  "O:gfc-19411427fc694d5b#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het punt is of Nostradamus dit schreef. Rue241 zegt alleen in het algemeen dat sommige rondgaande kwatrijnen niet in de echte Prophéties staan, en Wikipedia en La Croix tonen alleen dat Prevost paus werd. Rue241 geopend: dit citaat staat er niet in. Le Soir opende niet en telt daarom niet."
+  },
+  "O:gfc-e76297dd5543118a#C": {
+   "label": "bewijst",
+   "toelichting": "De titel van 20 Minutes ('Non, ce magazine avec Jésus et des drapeaux arc-en-ciel n'est pas destiné aux enfants') raakt het kernpunt: het is geen kinderboek. De pagina zelf opende niet."
+  },
+  "O:gfc-df1b87703bd74098#C": {
+   "label": "bewijst",
+   "toelichting": "Le Soir en Sudinfo rekenen met Statbel-cijfers uit dat de rijkste 10% zo'n 36,9% van de personenbelasting betaalt, niet 50%. Geen pagina geopend."
+  },
+  "O:gfc-fae06967f0c7b7a6#C": {
+   "label": "bewijst",
+   "toelichting": "Le Monde en Copernicus melden dat juni 2024 wereldwijd de warmste juni ooit was. Dat weerlegt de suggestie dat een sombere juni in Frankrijk de opwarming tegenspreekt. Geen pagina geopend."
+  },
+  "O:gfc-b152f33e6b016644#C": {
+   "label": "bewijst",
+   "toelichting": "Africheck (video uit zijn context) en IvoireCheck (video uit 2020, clandestiene binnenkomst) tonen dat het niet om een arrestatie in 2024 gaat. Geen pagina geopend."
+  },
+  "O:gfc-ed4d83191a0d223b#C": {
+   "label": "bewijst",
+   "toelichting": "Wikipedia en BBC Afrique tonen dat het Constitutioneel Hof Ouattara's kandidatuur aanhield en dat hij in oktober 2025 werd herkozen. Hij stond dus op de kiezerslijst. Geen pagina geopend."
+  },
+  "O:gfc-f7181f2945e102d8#C": {
+   "label": "bewijst",
+   "toelichting": "TF1 Info meldt dat de video van een huiszoeking bij P. Diddy, met badkamer en flessen, door AI is gemaakt. Geen pagina geopend."
+  },
+  "O:gfc-f916619ed322cf0d#C": {
+   "label": "bewijst",
+   "toelichting": "20 Minutes (een verspreking die tegenstanders uitbuiten) en Antidisinfo ('does not advocate depopulation') tonen dat Harris 'pollution' bedoelde en geen bevolkingsplan aankondigde. Geen pagina geopend."
+  },
+  "O:gfc-fa0a8e72f6878eb8#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews, Yahoo ('isn't trans'), TF1 Info, Le Monde en The Conspiratory noemen het gerucht vals; volgens The Conspiratory bestaat het 'bewijs' uit hergebruikte foto's. Geen pagina geopend."
+  },
+  "W:wikinews:fr:14553#C": {
+   "label": "vals",
+   "toelichting": "Het artikel klopt: de Wikipedia-pagina die Factiz zelf noemt, toont dat Morgenstern op 1 december 2007 in Kuusamo won, voor Romøren en Hilde. Factiz las de afwezigheid van bevestiging als tegenspraak. Wikipedia geopend."
+  },
+  "G:fr-002292#C": {
+   "label": "vals",
+   "toelichting": "Dit is een navigatielink ('Suivant') met een kop die wel bevestigd is: Factiz' eigen resultaat [13] toont een oefenwedstrijd van de futsal-Lions de l'Atlas tegen Servië. Het A-team speelde ook een vriendschappelijke wedstrijd tegen Servië (maart 2018, Turijn), maar dat is uit eigen kennis en niet gecontroleerd. Strikt genomen bevat de tekst wel een nieuwsbewering; 'niet bevestigd' past toch niet, dus vals ligt het dichtst bij. Geen pagina geopend."
+  },
+  "O:gfc-3bb59d2d2741ca05#C": {
+   "label": "bewijst",
+   "toelichting": "BFMTV (\"Non, des supporters de la Roumanie n'ont pas scandé 'Poutine'\"), CEDMO en 20minutes zeggen in hun koppen dat het gezang nep was. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-424e4dbb3d273c39#C": {
+   "label": "bewijst",
+   "toelichting": "20minutes, TF1 Info en France 24 zeggen in hun koppen dat Zelensky geen palace in Courchevel kocht. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-48632f26f87ab56d#C": {
+   "label": "bewijst",
+   "toelichting": "Het Rode Kruis zelf (redcross.org, 2024: 'Those Who Receive COVID-19 Vaccine Are Able to Donate Blood') en MedPage Today zeggen dat gevaccineerden gewoon bloed mogen geven, wat de bewering onderuit haalt. redcross.org (403) en medpagetoday.com wilden niet openen, dus beoordeeld op de koppen."
+  },
+  "O:gfc-5cfde3ca79afb57a#C": {
+   "label": "bewijst niet",
+   "toelichting": "De drie bronnen zijn eigen pagina's van het WEF over de groei van digitale valuta's; daar staat geen toegeving in, maar geen enkele bron zegt dat de bewering vals is (de weerlegging van 20minutes staat niet bij de bronnen). Geen pagina geopend."
+  },
+  "O:gfc-2411239df89a88d0#C": {
+   "label": "bewijst niet",
+   "toelichting": "Het enige stuk van Ivoire Check is van 30 maart 2026 en gaat over andere AI-foto's (Ouattara aan de beademing, gedeeld op 27 maart 2026); het noemt geen bezoek van Dominique Ouattara en kan het bericht van maart 2025 dus niet weerleggen. Pagina geopend."
+  },
+  "O:gfc-6ea3801f8b9d29b4#C": {
+   "label": "bewijst",
+   "toelichting": "De factcheck van USA Today (via Yahoo) noemt de bewering dat het WEF koffie wil rantsoeneren misinformatie, en Tech ARP zegt hetzelfde. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-28be688f5d750a63#C": {
+   "label": "bewijst",
+   "toelichting": "Radio Okapi meldt in de kop dat de foto van Tshisekedi en Museveni bewerkt is; volgens de uitleg is het opschrift M23 achteraf toegevoegd. Op de kop beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-373fdb5c80a75d54#C": {
+   "label": "bewijst",
+   "toelichting": "AllSides (band goed) meldt dat de foto van de rood gekleurde rivier tijdens de DNC bewerkt is, en de post van Snopes zegt dat de rivier niet rood gekleurd werd. Fox News gaat over iets anders, maar de andere twee volstaan. Geen pagina geopend."
+  },
+  "O:gfc-064b6c724ff938d4#C": {
+   "label": "bewijst",
+   "toelichting": "De rapporten van het IPCC zijn de wetenschappelijke consensus zelf en stellen dat CO2 de belangrijkste drijver van de opwarming is; dat weerlegt de kern, namelijk dat er 'geen consensus' is. De WMO meldt recordniveaus. Geen pagina geopend."
+  },
+  "O:gfc-a6a5902ddc00a36e#C": {
+   "label": "bewijst",
+   "toelichting": "De uitlegstukken van TF1 Info en Le Parisien geven de stelling van het IOC weer (als vrouw geboren en geregistreerd) en laten zien dat de bewering steunt op betwiste tests; dat draagt *misleidend* voor een stellige bewering. Kanttekening: het zijn uitlegstukken over de polemiek, geen weerlegging, en de discussie liep in 2025 verder. Geen pagina geopend."
+  },
+  "O:gfc-be03bc1dac8f2b47#C": {
+   "label": "bewijst",
+   "toelichting": "RFI ('Non, Kim Jong-un n'a pas menacé la France et l'Otan') en Sudinfo (een misleidende vertaling bij een oude toespraak) laten zien dat de video vervalst is. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-f64031ae5897e9fa#C": {
+   "label": "bewijst",
+   "toelichting": "Verywell Health, McGill en Business Insider ('mostly a myth') laten zien dat het extra calorieverbruik tijdens de menstruatie klein is, dus calorieën tellen gewoon mee. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-d8994e96c741a186#C": {
+   "label": "bewijst",
+   "toelichting": "Radio-Canada ('Non, Meta ne vous abonne pas automatiquement'), AP, BBC en andere goede media leggen uit dat alleen de officiële ambtsaccounts (@POTUS en andere) naar de nieuwe ambtsdragers overgingen. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-bcf0681e1b005f79#C": {
+   "label": "bewijst",
+   "toelichting": "Meduza, Delfi en andere bronnen melden dat de geluidsopname van de moeder van Navalny nep is; TF1 Info noemt het onderdeel van een desinformatiecampagne. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-b63e111228a0cdf6#C": {
+   "label": "bewijst",
+   "toelichting": "RFI ('Le faux crash'), Business News ('Crash inexistant') en GuinéeCheck melden dat er geen vliegtuig met Mauritaanse pelgrims is neergestort, wat Mauritania Airlines ook ontkende. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-96e134fc62f11b01#C": {
+   "label": "bewijst",
+   "toelichting": "Euronews ('No, Switzerland hasn't banned mammograms'), TF1 Info en 20minutes zeggen dat mammografie in Zwitserland niet verboden is. Op de koppen beoordeeld, geen pagina geopend."
+  },
+  "O:gfc-f673519cf0f974db#C": {
+   "label": "bewijst",
+   "toelichting": "HuffPost, BFMTV, Le Devoir en de video's van NBC en de BBC tonen de evacuatie van Netanyahu tijdens een verkiezingsbijeenkomst in Ashdod in september 2019, vóór de verkiezingen van 17 september. De video is dus oud, niet van 2024. Het jaartal staat niet in de koppen; de uitleg zegt het ook niet met zoveel woorden. Geen pagina geopend."
+  },
+  "O:gfc-c949bee9f0fc6926#C": {
+   "label": "bewijst niet",
+   "toelichting": "Geen bron gaat over dit beeld. Studio Hirondelle (25 februari 2025, geopend) weerlegt alleen een tekstbericht over een inzet van de EU, zonder foto en zonder Noord-Kivu. De andere twee gaan over andere geruchten: Belgische soldaten op het vliegveld van Goma, en gevangen Franse soldaten (een stuk uit 2026)."
+  },
+  "W:wikinews:fr:68177#C": {
+   "label": "vals",
+   "toelichting": "De 'misstap bij Osasuna' is een kop uit de lijst 'Voir aussi' met andere Wikinews-artikelen (daar staat ook Vinicius uit 2024), geen bewering van dit artikel. Dat Real op deze speeldag bij Osasuna won (L'Équipe), maakt het artikel niet onjuist. Geen pagina geopend."
+  }
+ }
+}

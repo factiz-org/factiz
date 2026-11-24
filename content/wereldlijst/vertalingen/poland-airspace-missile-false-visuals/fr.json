@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van het overzicht poland-airspace-missile-false-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "2118c2af8b4f207c",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Une vidéo et une image partagées en ligne montreraient les missiles entrés dans l'espace aérien polonais le 20 novembre 2026, avec des F-16 polonais en train de poursuivre l'un d'eux.",
+  "kern": [
+   "La Pologne a signalé la chute d'objets sur son territoire lors des attaques russes contre l'Ukraine le 20 novembre 2026, notamment des débris d'un missile de croisière près du village de Nowy Lipowiec. [1] [2]",
+   "La vidéo d'objets volants présentée comme des images de cette nuit-là était déjà en ligne en novembre 2024, où elle était liée à une frappe russe contre l'Ukraine. [1]",
+   "L'image de trois F-16 poursuivant un missile a été créée avec l'IA, selon un filigrane invisible SynthID, et la personne à l'origine de la première publication connue a présenté ses excuses pour l'avoir partagée. [2]"
+  ],
+  "rondgang": "Le 20 novembre 2026 et après cette date, la vidéo s'est répandue sur X et l'image sur Facebook et X en Pologne ; la première copie connue de l'image a été publiée sur X, puis supprimée. [1] [2]"
+ }
+}

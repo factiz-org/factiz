@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren mencionó al OMT, no a Pieter Omtzigt, en su audiencia sobre el toque de queda",
+  "oordeel_zin": "En su audiencia del 2 de septiembre, Ollongren dijo que el consejo del OMT la convenció, y el nombre Omtzigt no aparece [2].",
+  "bewering": "Ollongren admite: Omtzigt la convenció de la utilidad del toque de queda.",
+  "kort": "El 6 de septiembre circuló en X una imagen sobre la audiencia de Kajsa Ollongren, con la afirmación de que admitió que Pieter Omtzigt la convenció de la utilidad del toque de queda [1]. En la audiencia, Ollongren habló del OMT, el Outbreak Management Team que asesoró al gobierno durante la época del coronavirus, y no de Omtzigt [2] [4]. El consejo del OMT sobre el efecto del toque de queda fue decisivo para ella [2].",
+  "tekst": "El domingo 6 de septiembre a las 17:08 horas, una cuenta de X publicó una imagen sobre la audiencia de la exministra Kajsa Ollongren, con el texto de que admitió que Omtzigt la había convencido de la utilidad del toque de queda [1]. La publicación se burlaba de que primero estaba en contra y después le echó la culpa a otro [1]. El 18 de noviembre tenía 200 me gusta y 61 respuestas [1].\n\nOllongren fue interrogada el miércoles 2 de septiembre, de 10:00 a 12:50 horas, por la comisión parlamentaria de investigación Corona [2] [3]. Durante la época del coronavirus fue ministra de Interior y viceprimera ministra por D66 [2] [3]. El ANP informó esa mañana sobre su audiencia [6].\n\nOMT significa Outbreak Management Team: los expertos que asesoraron al gobierno durante la época del coronavirus. El RIVM publica sus consejos [4]. En el acta de la audiencia, la sigla OMT aparece 65 veces y el nombre Omtzigt ninguna [2].\n\nSobre el toque de queda, Ollongren contó que ella y su ministerio estuvieron mucho tiempo en contra, porque la medida interfiere tan profundamente en la libertad de movimiento de todos [2]. Según ella, el toque de queda estuvo sobre la mesa tres o cuatro veces y cada vez volvió a retirarse [2]. Lo decisivo fue el OMT. En enero de 2021 estimó el efecto sobre la propagación del virus entre el 8 y el 13 por ciento, y dijo que ninguna otra medida podía lograr lo mismo [2]. Entonces aceptó a regañadientes, y dijo que en ese momento estaba convencida [2].\n\nEsto concuerda con lo que contaron antes otros testigos. Según la NOS, el OMT ya había mencionado antes el toque de queda como opción, el gobierno al principio no quería saber nada, y un consejo urgente posterior del OMT dijo que la medida podía tener efecto [5]. El toque de queda entró en vigor el 23 de enero de 2021 y se prorrogó cinco veces [2].\n\nEl acta que leímos aún no ha sido corregida. Por eso reproducimos lo que dijo Ollongren, y no la citamos literalmente [2].",
+  "niet_weten": "No sabemos si el autor de la publicación leyó mal OMT o si convirtió a propósito la sigla en Omtzigt. Que el nombre Omtzigt no aparezca en el informe es nuestro recuento.",
+  "bereik": "200 me gusta y 61 respuestas el 18 de noviembre",
+  "nog_uitzoeken": [
+   "Quien lea la publicación como una broma sobre una sigla mal leída podría defender que es engañosa. Nosotros optamos por falsa."
+  ],
+  "tijdlijn": [
+   "Un toque de queda regional aparece por primera vez en un consejo del OMT [2].",
+   "El toque de queda entra en vigor, tras un consejo urgente del OMT [2] [5].",
+   "Tras audiencias anteriores, la NOS describe cómo se llegó a imponer el toque de queda [5].",
+   "Comienza la audiencia de Ollongren [2] [3].",
+   "La publicación en X con la imagen y la afirmación sobre Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 6 de septiembre de 2026, 17:08 horas.",
+   "La audiencia pública de Kajsa Ollongren ante la comisión parlamentaria de investigación Corona, 2 de septiembre de 2026, 10:00 horas. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Imagen sobre la audiencia de Kajsa Ollongren acerca del toque de queda, compartida como si ella hubiera mencionado a Pieter Omtzigt. Sello: FALSO.",
+   "El vídeo de la audiencia de Kajsa Ollongren en la Enquêtezaal de la Tweede Kamer."
+  ]
+ }
+}

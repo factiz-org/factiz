@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Yanan okul otobüsünün videosu, öğrenci protestolarında değil, Ocak 2023'te Nîmes'de çekildi",
+  "oordeel_zin": "Video gerçek, ancak 13 Ocak 2023'te Nîmes'de motorda çıkan yangın nedeniyle alev alan bir okul otobüsünü gösteriyor, ortada bir protesto yok [1] [10].",
+  "bewering": "Fransa'daki öğrenci protestolarında yanan bir otobüs.",
+  "kort": "2 Ekim'de X'te, Fransa'daki öğrenci protestolarının görüntüsü olarak yanan bir otobüsün videosu dolaşıma girdi [7]. Video, 13 Ocak 2023'te Nîmes'de, bir okul otobüsünün motorunun seyir halindeyken alev aldığı sırada çekildi [1] [2]. Yakınında protesto yoktu ve otobüsteki çocuklar yara almadan indi [1] [8].",
+  "tekst": "2 Ekim Cuma günü saat 09.18'de X'te, sokakta yanarak ilerleyen bir otobüsün videosunu içeren, Hollandaca bir paylaşım yayımlandı; paylaşım videoyu Fransa'daki öğrenci protestolarından bir sahne olarak sunuyordu [7]. Aynı görüntüler o gün Arapça bir metinle de dolaştı [8]. Amerikalı yorumcu Benny Johnson videoyu 4,1 milyon takipçisiyle, bunun kitlesel göçün sonucu olduğunu belirten bir metinle paylaştı [10].\n\nVideo neredeyse dört yıllık: 13 Ocak 2023 Cuma günü öğle saatlerinde Fransa'nın güneyindeki Nîmes'de route de Sauve üzerinde bir okul otobüsü alev aldı [1]. Motor, otobüs giderken aniden alev aldı [1]. Yerel haber sitesi Objectif Gard o gün yanan otobüsün bir videosunu yayımladı [1]. Paylaşımdaki görüntüler, An-Nahar ve ZDFheute'nin doğrulama haberlerine göre buradan geliyor [8] [10].\n\nOtobüste, 11 ile 15 yaş arasındaki çocuklara yönelik bir okul olan collège'in on öğrencisi vardı [2]. İtfaiye geldiğinde onlar ve şoför otobüsten çoktan inmişti ve kimse yaralanmadı [1] [8]. Boş otobüs yaklaşık 20 metre daha ilerledi ve bir duvara dayanarak durdu [8]. Gard departmanı itfaiyesi yangını o öğleden sonra X'te duyurdu [4]. Midi Libre görüntüleri aynı akşam, TF1 Info ertesi gün yayımladı [2] [3]. Objectif Gard neden olarak yalnızca motordaki yangını belirtiyor, ZDFheute ise teknik bir arıza [1] [10].\n\nÖğrenci protestolarının kendisi gerçek: Eylül ayının ikinci yarısından beri Fransa genelinde öğrenciler, kalabalık sınıfları, öğretmen eksikliğini ve harap binaları protesto etmek için lycée'lerini bloke ediyor [6]. Bu sırada bir otobüs de alevler içinde kaldı: Marsilya'da 1 Ekim Perşembe günü blokajlar sırasında bir otobüs ateşe verildi ve şoföre saldırıldı [5]. Bu otobüs videoda yok, çünkü video Ocak 2023'e ait ve Nîmes'den [1].\n\nLübnan gazetesi An-Nahar, 3 Ekim'de bulduğumuz ilk doğrulama kuruluşuydu [8]. AFP Factcheck Nederland 7 Ekim'de aynı sonuca vardı [9].",
+  "niet_weten": "Videoyu 2026 protestolarıyla ilk kez kimin ilişkilendirdiğini bilmiyoruz. Motorun neden alev aldığına dair vardığımız bir sonuç yok. Videonun 2023'ten sonra daha önce de protesto görüntüsü olarak dolaşıp dolaşmadığını bilmiyoruz.",
+  "nog_uitzoeken": [
+   "Videonun Ocak 2023'ten sonra daha önce de protesto görüntüsü olarak dolaşıp dolaşmadığı. Öyleyse bu, yinelenen bir iddiadır."
+  ],
+  "tijdlijn": [
+   "Nîmes'de route de Sauve üzerinde bir okul otobüsü seyir halindeyken alev alıyor; çocuklar yara almadan çıkıyor [1].",
+   "Gard itfaiyesi yangını X'te duyuruyor [4].",
+   "TF1 Info görüntüleri yayımlıyor: on çocuk tahliye edildi [2].",
+   "Marsilya'da lycée blokajları sırasında bir otobüs ateşe veriliyor [5].",
+   "Nîmes'deki videoyu içeren Hollandaca paylaşım [7].",
+   "An-Nahar: video Ocak 2023'e ait [8].",
+   "AFP Factcheck Nederland: video öğrenci protestolarını göstermiyor [9].",
+   "ZDFheute: otobüs 2023'te teknik bir arıza nedeniyle yandı [10]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 2 Ekim 2026, 09.18.",
+   "Objectif Gard (şimdiki adıyla Objectif Sud), 13 Ocak 2023: Nîmes'de route de Sauve üzerinde yanan okul otobüsünün videosu."
+  ],
+  "beeld_alt": [
+   "Videodan sabit görüntü: sokakta yanan bir otobüs. Damga: YANLIŞ.",
+   "Objectif Gard'ın Nîmes'de alev alan okul otobüsü videosu."
+  ]
+ }
+}

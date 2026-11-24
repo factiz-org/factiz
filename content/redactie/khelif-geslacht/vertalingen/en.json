@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Imane Khelif has the SRY gene, but it has not been established that she is biologically male",
+  "oordeel_zin": "Khelif said herself in February 2026 that she has the SRY gene, but no test result is public, and no sports body or court has established that she is biologically male [4] [7] [8].",
+  "bewering": "OMG. A biological male boxer fighting women must and shall be celebrated as a sporting highlight. But anyone who calls that violence against women must and shall be cancelled. Apparently only one view is allowed to prevail.",
+  "kort": "A post on X calls a boxer who boxes against women, presumably Imane Khelif, biologically male [1] [3]. Khelif said herself in February 2026 that she has the SRY gene, which according to the IOC points to male sex development, and that she was raised as a girl and is not transgender [4] [8]. Whether she counts as a man in sport depends on a test and a medical judgment, none of which is public, and no sports body or court has decided on it [6] [7] [8].",
+  "tekst": "The post names no one and quotes the account's own post of November 9 about something HLN called a sporting highlight [1] [2]. That it is about Khelif, we infer from the timing: on November 6 she announced her first pro fight [3]. That same week, an English-language post also circulated about a man in Olympic women's boxing [11].\n\nKhelif, an Algerian boxer, won Olympic gold in the women's category in 2024 [3]. In the French sports newspaper L'Équipe on February 4, 2026, she confirmed that she has the SRY gene, a gene that usually sits on the Y chromosome [4] [8]. Her answer: \"Yes, and that is natural.\" [4] She also said that before competitions she lowered her testosterone with hormones, and that she was raised as a girl and is not a trans woman [4]. She did not name a diagnosis [4].\n\nSince August 2025, World Boxing has counted a boxer with the SRY gene as male, except in the case of complete insensitivity to male hormones [4] [6]. In March 2026, the IOC decided that from the 2028 Games only women without the SRY gene compete in the women's category, except in the case of rare conditions in which testosterone gives no advantage [8]. That rule is not retroactive and, according to the IOC, says nothing about a person's legal sex [8].\n\nIn 2025, World Boxing stopped letting Khelif take part until she had taken a genetic test, and the sports tribunal TAS refused on September 1, 2025 to suspend that decision [7]. The case is proceeding confidentially, and we found no ruling [7]. Khelif said in February that she sent World Boxing her medical file, without a reply [4].\n\nDocuments in a French magazine that in 2024 were said to prove she is a man were called unverified by the IOC [9]. In August 2024, before the interview, RTBF and FactCheck.org called the claim that Khelif is a man false [12] [13].",
+  "niet_weten": "We do not know whether Khelif took a test for the SRY gene for World Boxing or the IOC, and what doctors found in her. Nor do we know for certain that the post is about her.",
+  "bereik": "437 likes and 18 replies on November 22",
+  "nog_uitzoeken": [
+   "How the TAS will decide in Khelif's case against World Boxing.",
+   "Whether Khelif took a test for the SRY gene for World Boxing or the IOC, and with what result.",
+   "Which post of the account X withheld in the European Union, and at whose request.",
+   "Which HLN article the post of November 9 refers to.",
+   "We hesitated between Unproven and Misleading. Misleading, because the post presents as established what no sports body or court has established; Unproven, because Khelif herself said she has the SRY gene, which under the rules of World Boxing and the IOC counts as male sex development, except for an exception about which nothing is public. We chose Unproven."
+  ],
+  "tijdlijn": [
+   "The IOC: at the Paris Games, the sex in the passport applies [5].",
+   "Khelif appeals to the TAS against the World Boxing decision [7].",
+   "World Boxing's rules on sex, with a test for the SRY gene, take effect [6].",
+   "The TAS refuses to suspend the World Boxing decision until the case has been heard [7].",
+   "Khelif says in L'Équipe that she has the SRY gene and lowered her testosterone with hormones [4].",
+   "The IOC limits the women's category from the 2028 Games to those without the SRY gene, with an exception [8].",
+   "Khelif announces her first pro fight, on December 15 in Paris against Clarida Sarabia [3].",
+   "The account writes that HLN called something a sporting highlight [2].",
+   "The post on X [1].",
+   "NOS reports that Clarida Sarabia withdraws from the fight with Khelif [10]."
+  ],
+  "beeld_bijschrift": [
+   "Post on X, November 12, 2026, 8:42 p.m."
+  ],
+  "beeld_alt": [
+   "A post on X saying that a biologically male boxer boxes against women, with a screenshot of a notice that a post has been withheld in the European Union and a quoted post about a sporting highlight according to HLN. Stamp: UNPROVEN."
+  ]
+ }
+}

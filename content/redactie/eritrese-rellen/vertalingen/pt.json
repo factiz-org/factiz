@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck eritrese-rellen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "35732b3e97b1f052",
+ "veldafdrukken": {
+  "kop": "ececa8710b1c4815",
+  "oordeel_zin": "fa2de3b12ca3da08",
+  "bewering": "588a90a75201bcd9",
+  "kort": "df785e233be58cfe",
+  "tekst": "ee517c4a5204ca60",
+  "niet_weten": "99e8064aa79ed649",
+  "nog_uitzoeken": "85006e7de6ecede5",
+  "tijdlijn": "72caa9554a611a4d",
+  "beeld_bijschrift": "0796daec76d5d0d3",
+  "beeld_alt": "99cb9613e705d3eb"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de tumultos em um encontro eritreu em Haia é de fevereiro de 2024",
+  "oordeel_zin": "Os tumultos foram reais, mas aconteceram em 17 de fevereiro de 2024, e o mesmo vídeo, com um texto quase igual, já circulava no X naquela época [1] [4].",
+  "bewering": "Imagens de tumultos com viaturas policiais em chamas em Haia, compartilhadas como se estivessem acontecendo agora.",
+  "kort": "Em 27 de outubro, uma conta em holandês no X compartilhou imagens de tumultos em Haia como se tivessem acabado de acontecer [5]. As imagens são de sábado, 17 de fevereiro de 2024, quando um grupo de opositores tentou invadir um encontro eritreu no centro de eventos Opera, na Fruitweg [1] [3]. O mesmo vídeo já estava no X naquela noite de 2024, com um texto quase igual ao das publicações em inglês do fim de outubro de 2026 [4] [6].",
+  "tekst": "Na terça-feira, 27 de outubro, às 02h26, uma conta em holandês no X compartilhou imagens de tumultos em Haia [5]. Poucas horas depois, alguém acrescentou contexto à publicação [5]. A conta já foi suspensa, então não pudemos mais ler o que a publicação dizia exatamente [5].\n\nAlgumas horas antes, na segunda-feira, 26 de outubro, às 22h01, apareceu em inglês um vídeo de 24 segundos sobre uma grande agitação em Haia [6]. Segundo o texto, migrantes eritreus invadiram o prédio Opera e incendiaram viaturas policiais [6]. Outras contas reproduziram o vídeo na mesma noite, uma delas como sinal de protestos em vários países [6].\n\nEsse texto e essas imagens não são novos. Em sábado, 17 de fevereiro de 2024, às 19h42, a conta Visegrád 24 publicou no X um texto quase igual, com um vídeo da mesma duração e do mesmo formato [4]. Essa publicação teve mais de 10 milhões de visualizações [4].\n\nO que aconteceu naquela noite está bem documentado. No centro de eventos Opera, na Fruitweg, de 500 a 600 eritreus celebravam o Ano Novo [1]. Segundo a prefeitura, a festa havia sido organizada por apoiadores do governo da Eritreia [1]. Um grupo de opositores tentou invadir o prédio e atirou pedras e paralelepípedos [1] [3]. Viaturas policiais, carros de moradores e um ônibus de turismo foram incendiados [1] [3].\n\nA tropa de choque (ME) foi acionada, e o prefeito Jan van Zanen autorizou o uso de gás lacrimogêneo e emitiu uma ordem de emergência [1]. A polícia deteve 13 homens naquela noite, número que depois subiu para 16 [2] [7]. Segundo o prefeito, 26 policiais ficaram feridos [7]. O Ministério Público processou dez suspeitos, e os pedidos de indenização somaram mais de 775.000 euros [3].\n\nO vídeo que circula agora é, portanto, real, mas tem mais de dois anos e oito meses [1] [4].",
+  "niet_weten": "Não sabemos o que a publicação em holandês afirmava exatamente, porque a conta foi suspensa e não encontramos nenhuma cópia. Por isso, também não temos certeza de que o vídeo dela seja o mesmo de 26 de outubro. Não sabemos quem filmou as imagens em fevereiro de 2024; a Visegrád 24 não citou nenhum autor. Não investigamos por que as imagens voltaram a circular justamente no fim de outubro.",
+  "nog_uitzoeken": [
+   "O que exatamente a postagem holandesa afirmava, e se o vídeo nela continha os mesmos 24 segundos. A conta foi suspensa, e não encontramos uma cópia.",
+   "Se houve tumultos por volta de 26 de outubro de 2026 em um encontro eritreu em Haia. Ainda não perguntamos isso à polícia nem à Omroep West."
+  ],
+  "tijdlijn": [
+   "A NOS informa tumultos em torno de um encontro eritreu na Fruitweg, com viaturas policiais em chamas [1].",
+   "A Visegrád 24 publica o vídeo no X [4].",
+   "13 homens detidos, seis policiais feridos [2].",
+   "O conselho municipal quer uma investigação externa; já são 16 detenções e 26 policiais feridos [7].",
+   "O Ministério Público pede penas de prisão contra dez suspeitos [3].",
+   "Uma publicação em inglês apresenta como novo o mesmo vídeo, com texto quase igual [6].",
+   "A publicação em holandês com as imagens [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X em inglês, 26 de outubro de 2026, 22h01. A publicação em holandês de 27 de outubro foi removida, e a conta foi suspensa.",
+   "Visegrád 24 no X, 17 de fevereiro de 2024, 19h42: o mesmo vídeo, na noite dos tumultos na Fruitweg."
+  ],
+  "beeld_alt": [
+   "Imagem congelada do vídeo: uma viatura policial em chamas em uma rua de Haia. Carimbo: ENGANOSO.",
+   "O vídeo da Visegrád 24 dos tumultos no centro de eventos Opera, em Haia, em fevereiro de 2024."
+  ]
+ }
+}

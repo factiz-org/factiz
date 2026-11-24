@@ -1,0 +1,2322 @@
+{
+ "_meta": "Labels van de nulfoutenmeting (feitstap-v1, PLAN #31.9), 2026-10-26, gelezen door Claude. Per uitkomst (stand en feit): 'terecht', 'fout', of 'set fout' (de zin zelf is geen valse bewering of geen bewering; telt apart). Een K op 10 bij het eigen feit en een gelezen V op 0 bij het eigen feit zijn goed volgens de vaste regel.",
+ "labels": [
+  {
+   "id": "K0090",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "niet opgehaald: gelijkenis 0,585 met het eigen feit, onder de vloer van 0,60"
+  },
+  {
+   "id": "V000",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V001",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V002",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V003",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V004",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V005",
+   "stand": 0,
+   "feit": "hiroshima-1945",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V010",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V011",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V012",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V013",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V014",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V015",
+   "stand": 0,
+   "feit": "pearl-harbor-1941",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V020",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V021",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V022",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V023",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V024",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V025",
+   "stand": 0,
+   "feit": "holocaust",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V030",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V031",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V032",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V033",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V034",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V035",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S030",
+   "stand": 0,
+   "feit": "tiananmen-1989",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V040",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V041",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V042",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V043",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V044",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V045",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S040",
+   "stand": 0,
+   "feit": "srebrenica-1995",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V050",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V051",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V052",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V053",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V054",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V055",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S050",
+   "stand": 0,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V060",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V061",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V063",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V064",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V065",
+   "stand": 0,
+   "feit": "earth-round",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V070",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V071",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V072",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V073",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V074",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V075",
+   "stand": 0,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V080",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V081",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V082",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V083",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V084",
+   "stand": 0,
+   "feit": "evolution",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V090",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V091",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V092",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V093",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V095",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S090",
+   "stand": 0,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V100",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V101",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V102",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V103",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V104",
+   "stand": 0,
+   "feit": "vaccines-autism",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V110",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V111",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V112",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V113",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V114",
+   "stand": 0,
+   "feit": "hiv-aids",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V120",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V121",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V122",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V123",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V124",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V125",
+   "stand": 0,
+   "feit": "mrna-dna",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V130",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V131",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V132",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V133",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V134",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V135",
+   "stand": 0,
+   "feit": "5g-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V140",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V141",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V143",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V144",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V145",
+   "stand": 0,
+   "feit": "obama-hawaii",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V150",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V151",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V152",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V153",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V155",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S150",
+   "stand": 0,
+   "feit": "mh17-buk",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V160",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V161",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V163",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V164",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V165",
+   "stand": 0,
+   "feit": "crimea-annexation",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V170",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V171",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V172",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V173",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V174",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V175",
+   "stand": 0,
+   "feit": "russia-invasion-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V180",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V181",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V182",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V183",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V184",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V185",
+   "stand": 0,
+   "feit": "ukraine-independence-1991",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V190",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V191",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V193",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V194",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S190",
+   "stand": 0,
+   "feit": "sept-11-alqaeda",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V200",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V201",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V203",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V204",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V205",
+   "stand": 0,
+   "feit": "ww2-start-poland",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V210",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V211",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V213",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V214",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V215",
+   "stand": 0,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V220",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V221",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V222",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V223",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V224",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V225",
+   "stand": 0,
+   "feit": "molotov-ribbentrop-protocol",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V230",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V231",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V232",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V233",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V234",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V235",
+   "stand": 0,
+   "feit": "katyn-1940",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V240",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V241",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V242",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V243",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V244",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V245",
+   "stand": 0,
+   "feit": "holodomor-millions",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V250",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V251",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V252",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V253",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V254",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V255",
+   "stand": 0,
+   "feit": "nanjing-1937",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V260",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V261",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V263",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V264",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V265",
+   "stand": 0,
+   "feit": "bucha-2022",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V270",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V271",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V272",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V273",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V274",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V275",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V280",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V281",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V282",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V283",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V284",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V285",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S280",
+   "stand": 0,
+   "feit": "navalny-novichok-2020",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V290",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V291",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V292",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V293",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V295",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S290",
+   "stand": 0,
+   "feit": "annexation-2022-invalid",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V303",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V304",
+   "stand": 0,
+   "feit": "smoking-lung-cancer",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V310",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V311",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V312",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V313",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V314",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V315",
+   "stand": 0,
+   "feit": "smallpox-eradicated",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V320",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V321",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V323",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V324",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V325",
+   "stand": 0,
+   "feit": "ivermectin-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V330",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V331",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V332",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V333",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V334",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V335",
+   "stand": 0,
+   "feit": "sars-cov-2-covid",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V340",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V341",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V342",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V343",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V344",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V345",
+   "stand": 0,
+   "feit": "measles-mmr-97",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V350",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V351",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V352",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V353",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V354",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V355",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S350",
+   "stand": 0,
+   "feit": "earth-age",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V360",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V361",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V362",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V363",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V364",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V365",
+   "stand": 0,
+   "feit": "co2-rise",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V370",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V371",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V372",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V373",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V374",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V375",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "S370",
+   "stand": 0,
+   "feit": "contrails",
+   "label": "terecht",
+   "waarom": "gelezen: de hoofdbewering spreekt het feit tegen"
+  },
+  {
+   "id": "V380",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V381",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V382",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V383",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V384",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V385",
+   "stand": 0,
+   "feit": "biden-2020",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V390",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V391",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V393",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V394",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "V395",
+   "stand": 0,
+   "feit": "zelensky-2019",
+   "label": "terecht",
+   "waarom": "vaste regel: een gelezen valse variant van dit feit op 0 bij dit feit (steekproef van 12 nagelezen)"
+  },
+  {
+   "id": "Pw011",
+   "stand": 10,
+   "feit": "apollo-11",
+   "label": "terecht",
+   "waarom": "de landing op 20 juli 1969 met juiste details"
+  },
+  {
+   "id": "Pn011",
+   "stand": 10,
+   "feit": "apollo-11",
+   "label": "fout",
+   "waarom": "vervalsing: de eerste stap om 20:56 in plaats van 02:56 UTC; met stand 10 heet de hele zin vastgesteld feit"
+  },
+  {
+   "id": "Pn016",
+   "stand": 10,
+   "feit": "earth-round",
+   "label": "set fout",
+   "waarom": "vandalisme ('pler'): de valse zin is geen valse bewering"
+  },
+  {
+   "id": "Pw018",
+   "stand": 10,
+   "feit": "dinosaurs-66",
+   "label": "terecht",
+   "waarom": "uitgestorven bij de K–Pg-grens, ~66 miljoen jaar geleden: hetzelfde feit"
+  },
+  {
+   "id": "Pn018",
+   "stand": 10,
+   "feit": "dinosaurs-66",
+   "label": "set fout",
+   "waarom": "standpunt ('Most scientists'): de zin is niet onwaar"
+  },
+  {
+   "id": "Pw023",
+   "stand": 10,
+   "feit": "climate-human",
+   "label": "terecht",
+   "waarom": "de opwarming door menselijke activiteit en fossiele brandstof: hetzelfde feit"
+  },
+  {
+   "id": "Pn023",
+   "stand": 10,
+   "feit": "climate-human",
+   "label": "set fout",
+   "waarom": "stijl ('average'): de zin is niet onwaar"
+  },
+  {
+   "id": "O006",
+   "stand": 0,
+   "feit": "skripal-novichok",
+   "label": "terecht",
+   "waarom": "'Salisbury was een provocatie' spreekt de vergiftiging met Novichok tegen"
+  },
+  {
+   "id": "K0018",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0021",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0024",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0027",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0032",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0042",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0047",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0048",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0049",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0050",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0051",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0052",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0053",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0054",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0055",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0056",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0057",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0061",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0062",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0064",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0072",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0073",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0079",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0080",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0085",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0088",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0089",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0095",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0096",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0098",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0099",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0103",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0104",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0105",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0112",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0114",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0116",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0120",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0129",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0152",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0158",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0170",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0172",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0174",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0176",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0177",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0178",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0180",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0182",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0188",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0189",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0190",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0199",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0200",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0231",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0234",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0235",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0236",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0237",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0239",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0243",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0245",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0250",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0251",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0252",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0253",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0261",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0262",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0263",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0266",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0270",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0271",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0273",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0275",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0276",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0278",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0289",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0294",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0295",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0296",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0297",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0298",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0300",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "K0314",
+   "stand": null,
+   "feit": null,
+   "label": "fout",
+   "waarom": "de lokale feitenlaag herkende het eigen feit niet"
+  },
+  {
+   "id": "V004",
+   "stand": 10,
+   "feit": "hiroshima-1945",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V091",
+   "stand": 10,
+   "feit": "climate-human",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V214",
+   "stand": 10,
+   "feit": "soviet-invasion-poland-1939",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V232",
+   "stand": 10,
+   "feit": "katyn-1940",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V281",
+   "stand": 10,
+   "feit": "navalny-novichok-2020",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V352",
+   "stand": 10,
+   "feit": "earth-age",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "V354",
+   "stand": 10,
+   "feit": "earth-age",
+   "label": "fout",
+   "waarom": "een gelezen valse variant op 10"
+  },
+  {
+   "id": "Pw035",
+   "stand": 10,
+   "feit": "crimea-annexation",
+   "label": "set fout",
+   "waarom": "een doorverwijzing van Wikipedia ('#REDIRECT ...'), geen bewering"
+  }
+ ]
+}

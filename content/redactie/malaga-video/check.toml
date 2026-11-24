@@ -1,0 +1,163 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/malaga-video/dossier.md.
+
+sleutel = "malaga-video"
+status = "gepubliceerd"
+taal = "nl"
+adres = "video-dief-tegengehouden-milaan"
+adres_en = "video-thief-stopped-milan"
+kop = "Video van een menigte die een vermeende dief tegenhoudt komt uit Málaga, niet uit Milaan"
+oordeel = "onwaar"
+oordeel_zin = "De video toont een poging tot overval op een juwelier in Málaga op 16 juli, geen bende in Milaan op 17 oktober [1] [4]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Een video toont Italianen in Milaan die op 17 oktober een pro-Palestijnse bende tegenhouden."
+platform = "X"
+eerst_gezien = "2026-10-20"
+posts = 1
+bereik = "105.671 keer bekeken op 18 november"
+
+kort = """
+Sinds 20 oktober gaat op X een video rond als beeld van Italianen die in Milaan een pro-Palestijnse bende tegenhouden \
+[4]. De beelden komen uit Málaga in Spanje, waar buurtbewoners op 16 juli een man vasthielden die een juwelier had \
+willen beroven [1]. De rellen in Milaan op 17 oktober begonnen bij een protest tegen de hoge kosten van \
+levensonderhoud, en de relschoppers droegen volgens Avvenire geen vlag of politiek symbool [2] [3]."""
+
+tekst = """
+In de nacht van 19 op 20 oktober, om 02:07, verscheen op X een Nederlandstalige post met een video van 79 seconden \
+[4]. De tekst spreekt van bendes met keffiyehs in Italiaanse steden en van Italianen in Milaan die zich niet laten \
+onderwerpen door de anarchisten van "fripalestin" [4]. Daaronder staan de hashtags #Milano en #17octobre [4]. Op 18 \
+november was de post 105.671 keer bekeken [4].
+
+Dezelfde video ging een paar uur eerder in het Engels rond. Het account Visegrád 24 bracht haar op 19 oktober om \
+23:07 als Italiaanse burgers die een buitenlandse rover te pakken krijgen [5]. Een Franse post van 20 oktober deed \
+hetzelfde, met een video van dezelfde lengte [6].
+
+De scène is niet in Italië gefilmd. Op donderdag 16 juli, rond 21:00, probeerde een man in Málaga een juwelier aan de \
+Calle Martínez Maldonado te beroven, schreef El Español een dag later [1]. Hij vluchtte te voet naar een handlanger op \
+een motor, kreeg onderweg een beentje en werd door iemand op een step aangereden [1]. Daarna hielden buurtbewoners hem \
+vast, terwijl de handlanger wegreed [1]. Een buurtbewoner filmde het [1]. De Policía Nacional hield de man aan en zocht \
+nog naar de tweede verdachte [1].
+
+In Milaan was op zaterdag 17 oktober wel onrust. Een mars van ongeveer 5.000 mensen tegen de hoge kosten van \
+levensonderhoud liep rond de Piazza del Duomo uit op rellen [2]. Een deel van de betogers, vooral jongeren met bedekte \
+gezichten, gooide met stenen en plunderde winkels [2]. De politie hield er ongeveer vijftig mensen aan [2] [3]. \
+Volgens Avvenire waren de relschoppers heel jong, in het zwart gekleed en zonder vlag of politiek symbool [3]. Over \
+Palestijnse groepen schrijven Il Post en Avvenire niets [2] [3].
+
+De post brengt dus een aanhouding in Spanje van drie maanden eerder als een scène uit de rellen in Milaan [1] [4]. De \
+beelden zelf zijn echt [1]."""
+
+niet_weten = """
+We weten niet wie de video als eerste een Italiaanse uitleg gaf. De oudste kopie die we vonden, stond op 19 oktober \
+om 22:40 op X, maar die post is niet meer te zien, dus we weten niet wat erbij stond. We weten niet wie de video in juli \
+filmde."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat er bij de oudste kopie stond, de post van 19 oktober om 22:40. Die is niet meer te zien.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 20 oktober 2026, 02:07."
+alt = "Stilstaand beeld uit de video: een menigte op straat rond een man. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.elespanol.com/malaga/malaga-ciudad/20260717/barrio-entero-ladron-malaga-intento-robar-joyeria-detenido-gracias-vecindario/1003744324843_0.html"
+stempel = false
+bijschrift = "El Español, 17 juli 2026: de vluchtpoging na de overval op een juwelier in Málaga. Foto van El Español."
+alt = "Foto van El Español van de man die na de poging tot overval in Málaga wegvlucht."
+
+[[tijdlijn]]
+datum = "2026-07-16"
+tijd = "21:00"
+wat = "Poging tot overval op een juwelier in Málaga; buurtbewoners houden de man vast tot de politie komt [1]."
+
+[[tijdlijn]]
+datum = "2026-07-17"
+tijd = "11:50"
+wat = "El Español schrijft over de overval en de aanhouding [1]."
+
+[[tijdlijn]]
+datum = "2026-10-17"
+wat = "Een mars tegen de hoge kosten van levensonderhoud loopt in Milaan uit op rellen [2] [3]."
+
+[[tijdlijn]]
+datum = "2026-10-19"
+tijd = "23:07"
+wat = "Visegrád 24 brengt de video in het Engels als Italiaanse burgers die een rover te pakken krijgen [5]."
+
+[[tijdlijn]]
+datum = "2026-10-20"
+tijd = "02:07"
+wat = "De Nederlandse post over Milaan en 17 oktober [4]."
+
+[[tijdlijn]]
+datum = "2026-10-20"
+tijd = "15:46"
+wat = "Een Franse post met dezelfde video van 79 seconden [6]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "El Español"
+titel = "Un barrio entero contra un ladrón en Málaga: entró a robar en una joyería y fue detenido gracias al vecindario"
+datum = "2026-07-17"
+url = "https://www.elespanol.com/malaga/malaga-ciudad/20260717/barrio-entero-ladron-malaga-intento-robar-joyeria-detenido-gracias-vecindario/1003744324843_0.html"
+archief = "https://web.archive.org/web/20260721213636/https://www.elespanol.com/malaga/malaga-ciudad/20260717/barrio-entero-ladron-malaga-intento-robar-joyeria-detenido-gracias-vecindario/1003744324843_0.html"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "Il Post"
+titel = "Gli scontri a Milano intorno a piazza del Duomo"
+datum = "2026-10-17"
+url = "https://www.ilpost.it/2026/10/17/scontri-milano-manifestazione-carovita/"
+archief = "https://web.archive.org/web/20261028180102/https://www.ilpost.it/2026/10/17/scontri-milano-manifestazione-carovita/"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Avvenire"
+titel = "Giovanissimi, vestiti di nero, senza bandiere: chi ha incendiato Piazza Duomo"
+datum = "2026-10-17"
+url = "https://www.avvenire.it/attualita/giovanissimi-vestiti-di-nero-senza-bandiere-chi-ha-incendiato-piazza-duomo_114479"
+archief = "https://web.archive.org/web/20261105145316/https://www.avvenire.it/attualita/giovanissimi-vestiti-di-nero-senza-bandiere-chi-ha-incendiato-piazza-duomo_114479"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandse post met de video"
+datum = "2026-10-20"
+prive = true
+archief = "https://web.archive.org/web/20261119144130/https://cdn.syndication.twimg.com/tweet-result?id=2112334966549864783&token=54c3gfkowuv&lang=nl"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Visegrád 24 op X"
+titel = "Engelstalige post met dezelfde video, als Italiaanse burgers"
+datum = "2026-10-19"
+url = "https://x.com/visegrad24/status/2112289524013249015"
+archief = "https://web.archive.org/web/20261119150950/https://cdn.syndication.twimg.com/tweet-result?id=2112289524013249015&token=54bybevgdd6&lang=nl"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "X"
+titel = "Franstalige post met dezelfde video van 79 seconden"
+datum = "2026-10-20"
+prive = true
+archief = "https://web.archive.org/web/20261119144205/https://cdn.syndication.twimg.com/tweet-result?id=2112540917231997365&token=54cqqymbwwt&lang=nl"

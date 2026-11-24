@@ -1,0 +1,6504 @@
+{
+ "_meta": "De nieuwe delen van feitstap-v2 (PLAN #31.9), vastgelegd 2026-10-26 vóór de eerste vraag aan het oordeel. K2 (nieuwe kernformuleringen), V2 (nieuwe valse varianten), Dw (het feit met een waar eigen detail) en Dn (het feit met een vals eigen detail), geschreven door Haiku 5.5 (feitstap-varianten-v2); alle 720 zinnen gelezen door Claude, afgewezen met reden. O2 komt uit de rondes 4, 6 en 7; de delen van v1 uit 31.9-feitstap-set.json.",
+ "zinnen": [
+  {
+   "id": "K2-000",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "On August 6, 1945, the United States dropped an atomic bomb on Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-001",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Aug 6, 1945 - the US dropped an atomic bomb on Hiroshima. We should never forget.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-002",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El 6 de agosto de 1945, Estados Unidos lanzó una bomba atómica sobre Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-003",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 6 de agosto de 1945, os Estados Unidos lançaram uma bomba atômica sobre Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-004",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 6 agosto 1945 gli Stati Uniti sganciarono una bomba atomica su Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-005",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Amerika Birleşik Devletleri, 6 Ağustos 1945'te Hiroşima'ya bir atom bombası attı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-006",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 6 Agustus 1945, Amerika Serikat menjatuhkan bom atom di Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-007",
+   "deel": "K2",
+   "feit": "hiroshima-1945",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 6 أغسطس 1945 ألقت الولايات المتحدة قنبلة ذرية على هيروشيما.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-000",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The United States dropped an atomic bomb on Hiroshima on 6 August 1950.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-001",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Soviet Union dropped an atomic bomb on Hiroshima on 6 August 1945.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-002",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The United States dropped three atomic bombs on Hiroshima on 6 August 1945.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-003",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The United States never dropped an atomic bomb on Hiroshima.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-004",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il 6 agosto 1945 gli Stati Uniti sganciarono una bomba atomica su Nagasaki.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-005",
+   "deel": "V2",
+   "feit": "hiroshima-1945",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Sovyetler Birliği 6 Ağustos 1945'te Hiroşima'ya bir atom bombası attı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-000",
+   "deel": "Dw",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "On 6 August 1945, the United States dropped an atomic bomb on Hiroshima at about 8:15 in the morning.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-001",
+   "deel": "Dw",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "On 6 August 1945, the United States dropped an atomic bomb on Hiroshima, Japan, during World War II.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-000",
+   "deel": "Dn",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 6 August 1945, the United States dropped an atomic bomb on Hiroshima at midnight.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-001",
+   "deel": "Dn",
+   "feit": "hiroshima-1945",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 6 August 1945, the United States dropped an atomic bomb on Hiroshima, which was then the capital of Korea.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-008",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Japan launched an attack on the American naval base at Pearl Harbor, Hawaii, on 7 December 1941.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-009",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can you believe Japan attacked the US naval base at Pearl Harbor back on 7 December 1941? History never forgets!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-010",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El 7 de diciembre de 1941, Japón atacó la base naval estadounidense de Pearl Harbor, en Hawái.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-011",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 7 de dezembro de 1941, o Japão atacou a base naval dos Estados Unidos em Pearl Harbor, no Havaí.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-012",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 7 dicembre 1941 il Giappone attaccò la base navale statunitense di Pearl Harbor, nelle Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-013",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "7 Aralık 1941'de Japonya, Hawaii'deki Pearl Harbor'da bulunan ABD deniz üssüne saldırdı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-014",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 7 Desember 1941, Jepang menyerang pangkalan angkatan laut AS di Pearl Harbor, Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-015",
+   "deel": "K2",
+   "feit": "pearl-harbor-1941",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 7 ديسمبر 1941 هاجمت اليابان القاعدة البحرية الأمريكية في بيرل هاربر بهاواي.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-006",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japan attacked the US naval base at Pearl Harbor in Hawaii on 7 December 1944.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-007",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Germany attacked the US naval base at Pearl Harbor in Hawaii on 7 December 1941.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-008",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japan attacked the US army base at Pearl Harbor in Hawaii on 7 December 1941.",
+   "oordeel": "afgewezen",
+   "reden": "dubbelzinnig: bij de aanval op Pearl Harbor werden ook legervliegvelden (Hickam, Wheeler) getroffen"
+  },
+  {
+   "id": "V2-009",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japan did not attack the US naval base at Pearl Harbor in Hawaii on 7 December 1941.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-010",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pada 7 Desember 1944, Jepang menyerang pangkalan angkatan laut AS di Pearl Harbor, Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-011",
+   "deel": "V2",
+   "feit": "pearl-harbor-1941",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "هاجمت ألمانيا القاعدة البحرية الأمريكية في بيرل هاربر في 7 ديسمبر 1941.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-002",
+   "deel": "Dw",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Japan's surprise attack on the US naval base at Pearl Harbor in Hawaii took place on 7 December 1941, which was a Sunday.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-003",
+   "deel": "Dw",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Japan attacked the US naval base at Pearl Harbor in Hawaii on 7 December 1941, bringing the United States into World War II.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-002",
+   "deel": "Dn",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Japan attacked the US naval base at Pearl Harbor in Hawaii on 7 December 1941, and the attack was launched from a base in Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-003",
+   "deel": "Dn",
+   "feit": "pearl-harbor-1941",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Japan attacked the US naval base at Pearl Harbor in Hawaii on 7 December 1941, the same day the first moon landing took place.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-016",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Nazi Germany and its collaborators murdered roughly six million Jews during the Second World War.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-017",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Nazi Germany and its helpers killed around six million Jews in WWII. Never forget.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-018",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Durante la Segunda Guerra Mundial, la Alemania nazi y sus colaboradores asesinaron a unos seis millones de judíos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-019",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Durante a Segunda Guerra Mundial, a Alemanha nazista e seus colaboradores assassinaram cerca de seis milhões de judeus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-020",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Durante la Seconda guerra mondiale, la Germania nazista e i suoi collaboratori uccisero circa sei milioni di ebrei.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-021",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "İkinci Dünya Savaşı sırasında Nazi Almanyası ve işbirlikçileri yaklaşık altı milyon Yahudi'yi katletti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-022",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Selama Perang Dunia II, Nazi Jerman dan kolaborator-kolaboratornya membunuh sekitar enam juta orang Yahudi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-023",
+   "deel": "K2",
+   "feit": "holocaust",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "خلال الحرب العالمية الثانية، قتلت ألمانيا النازية والمتعاونون معها نحو ستة ملايين يهودي.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-012",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the First World War, Nazi Germany and its collaborators murdered about six million Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-013",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Imperial Japan and its collaborators murdered about six million Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-014",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six thousand Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-015",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators did not murder any Jews.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-016",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Durante la Segunda Guerra Mundial, la Alemania nazi y sus colaboradores salvaron a seis millones de judíos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-017",
+   "deel": "V2",
+   "feit": "holocaust",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Durante a Segunda Guerra Mundial, a Alemanha nazista assassinou cerca de seis mil judeus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-004",
+   "deel": "Dw",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews, most of them in occupied Europe.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-005",
+   "deel": "Dw",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews, and the war in Europe ended in May 1945.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-004",
+   "deel": "Dn",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews, mostly in Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-005",
+   "deel": "Dn",
+   "feit": "holocaust",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "During the Second World War, Nazi Germany and its collaborators murdered about six million Jews, and the war began in 1812.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-024",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "On 3 and 4 June 1989, Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square.",
+   "oordeel": "afgewezen",
+   "reden": "letterlijk de zin van het feit (op leestekens na), geen nieuwe formulering"
+  },
+  {
+   "id": "K2-025",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Back in June 1989, Chinese troops opened fire on civilians in Beijing to end the Tiananmen Square protests. We must never forget it.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-026",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En los días 3 y 4 de junio de 1989, tropas chinas dispararon contra civiles en Pekín para acabar con las protestas en la plaza de Tiananmén.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-027",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Nos dias 3 e 4 de junho de 1989, tropas chinesas abriram fogo contra civis em Pequim para pôr fim aos protestos na Praça Tiananmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-028",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 3 e il 4 giugno 1989 le truppe cinesi aprirono il fuoco sui civili a Pechino per porre fine alle proteste in piazza Tienanmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-029",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "3 ve 4 Haziran 1989'da Çin askerleri, Tiananmen Meydanı'ndaki protestoları bitirmek için Pekin'de sivillere ateş açtı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-030",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 3 dan 4 Juni 1989, pasukan Tiongkok menembaki warga sipil di Beijing untuk mengakhiri protes di Lapangan Tiananmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-031",
+   "deel": "K2",
+   "feit": "tiananmen-1989",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 3 و4 يونيو 1989، فتحت القوات الصينية النار على المدنيين في بكين لإنهاء الاحتجاجات في ساحة تيانانمين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-018",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1992, Chinese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-019",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1989, Japanese troops opened fire on civilians in Beijing to end the protests on Tiananmen Square.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-020",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 3 and 4 June 1989, Chinese troops opened fire on only twelve civilians in Beijing to end the protests on Tiananmen Square.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-021",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Chinese troops never opened fire on civilians in Beijing on 3 and 4 June 1989.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-022",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il 3 e il 4 giugno 1992 le truppe cinesi aprirono il fuoco sui civili a Pechino per porre fine alle proteste in piazza Tienanmen.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-023",
+   "deel": "V2",
+   "feit": "tiananmen-1989",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "3 ve 4 Haziran 1989'da Japon askerleri, Tiananmen Meydanı'ndaki protestoları bitirmek için Pekin'de sivillere ateş açtı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-006",
+   "deel": "Dw",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Chinese troops opened fire on civilians in Beijing on 3 and 4 June 1989 to end the protests on Tiananmen Square, which had begun in April 1989.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-007",
+   "deel": "Dw",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Chinese troops opened fire on civilians in Beijing on 3 and 4 June 1989 to end the protests on Tiananmen Square, a crackdown that Chinese leader Deng Xiaoping had authorised.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-006",
+   "deel": "Dn",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Chinese troops opened fire on civilians in Beijing on 3 and 4 June 1989 to end the protests on Tiananmen Square, which had begun in 1949 with the founding of the People's Republic.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-007",
+   "deel": "Dn",
+   "feit": "tiananmen-1989",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Chinese troops opened fire on civilians in Beijing on 3 and 4 June 1989 to end the protests on Tiananmen Square, and the army used only water cannons.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-032",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "In July 1995, Bosnian Serb forces murdered more than 7,000 Bosniak men and boys in Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-033",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can't believe what happened in July 1995. Bosnian Serb forces killed more than 7,000 Bosniak men and boys in Srebrenica. #NeverForget",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-034",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En julio de 1995, fuerzas serbobosnias asesinaron a más de 7.000 hombres y niños bosniacos en Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-035",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em julho de 1995, forças sérvio-bósnias mataram mais de 7.000 homens e rapazes bósnios em Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-036",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Nel luglio 1995 le forze serbo-bosniache uccisero più di 7.000 uomini e ragazzi bosniaci a Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-037",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Temmuz 1995'te Bosnalı Sırp güçleri Srebrenitsa'da 7.000'den fazla Boşnak erkek ve erkek çocuğu öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-038",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada Juli 1995, pasukan Serbia Bosnia membunuh lebih dari 7.000 pria dan anak laki-laki Bosniak di Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-039",
+   "deel": "K2",
+   "feit": "srebrenica-1995",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في يوليو 1995 قتلت القوات الصربية البوسنية أكثر من 7000 من الرجال والصبية البوشناق في سريبرينيتسا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-024",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1992, Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-025",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1995, Croatian forces killed more than 7,000 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-026",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1995, Bosnian Serb forces killed fewer than 70 Bosniak men and boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-027",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In July 1995, Bosnian Serb forces did not kill any Bosniak men or boys at Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-028",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pada Juli 1992, pasukan Kroasia membunuh lebih dari 7.000 pria dan anak laki-laki Bosniak di Srebrenica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-029",
+   "deel": "V2",
+   "feit": "srebrenica-1995",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "في يوليو 1995 لم تقتل القوات الصربية البوسنية أي رجل أو صبي بوشناقي في سريبرينيتسا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-008",
+   "deel": "Dw",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "In July 1995, Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica, which had been declared a UN safe area.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-009",
+   "deel": "Dw",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica in July 1995, under the command of General Ratko Mladić.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-008",
+   "deel": "Dn",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In July 1995, Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica, a town located in Finland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-009",
+   "deel": "Dn",
+   "feit": "srebrenica-1995",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In July 1995, Bosnian Serb forces killed more than 7,000 Bosniak men and boys at Srebrenica, with the killings taking place on a Sunday afternoon in 1801.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-040",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Neil Armstrong and Buzz Aldrin touched down on the Moon on July 20, 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-041",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can you believe Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969? Apollo 11 made history!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-042",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El 20 de julio de 1969, los astronautas del Apolo 11 Neil Armstrong y Buzz Aldrin aterrizaron en la Luna.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-043",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 20 de julho de 1969, os astronautas da Apollo 11 Neil Armstrong e Buzz Aldrin pousaram na Lua.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-044",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 20 luglio 1969 gli astronauti dell'Apollo 11 Neil Armstrong e Buzz Aldrin atterrarono sulla Luna.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-045",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "20 Temmuz 1969'da Apollo 11 astronotları Neil Armstrong ve Buzz Aldrin Ay'a indi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-046",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 20 Juli 1969, astronot Apollo 11 Neil Armstrong dan Buzz Aldrin mendarat di Bulan.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-047",
+   "deel": "K2",
+   "feit": "apollo-11",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 20 يوليو 1969 هبط رائدا الفضاء نيل أرمسترونغ وباز ألدرين من مهمة أبولو 11 على سطح القمر.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-030",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1974.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-031",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on Mars on 20 July 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-032",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Four astronauts landed on the Moon on 20 July 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-033",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Neil Armstrong and Buzz Aldrin never landed on the Moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-034",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Neil Armstrong y Buzz Aldrin aterrizaron en Marte el 20 de julio de 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-035",
+   "deel": "V2",
+   "feit": "apollo-11",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Neil Armstrong e Buzz Aldrin nunca pousaram na Lua.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-010",
+   "deel": "Dw",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969, while Michael Collins orbited above in the command module.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-011",
+   "deel": "Dw",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969 at 20:17 UTC.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-010",
+   "deel": "Dn",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969, and their lunar module was powered by a steam engine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-011",
+   "deel": "Dn",
+   "feit": "apollo-11",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969, and they walked back to Earth across the Atlantic Ocean the next day.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-048",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Our planet is shaped roughly like a ball.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-049",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Fun fact: Earth isn't flat, it's almost a perfect sphere! 🌍",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-050",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "La Tierra es redonda: es un planeta casi esférico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-051",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A Terra é redonda: é um planeta quase esférico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-052",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La Terra è rotonda: è un pianeta quasi sferico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-053",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Dünya yuvarlaktır: neredeyse küresel bir gezegendir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-054",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Bumi itu bulat: planet yang hampir berbentuk bola.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-055",
+   "deel": "K2",
+   "feit": "earth-round",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "الأرض مستديرة: إنها كوكب شبه كروي.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-036",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Moon is round: it is a nearly spherical planet.",
+   "oordeel": "afgewezen",
+   "reden": "de hoofdbewering (de maan is rond) is waar; alleen 'planeet' klopt niet"
+  },
+  {
+   "id": "V2-037",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is round: it is a nearly spherical planet that takes ten days to orbit the Sun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-038",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is flat: it is a nearly flat disk.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-039",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is a cube: it is a nearly cubic planet.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-040",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "La Terra è piatta: è un disco quasi piatto.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-041",
+   "deel": "V2",
+   "feit": "earth-round",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Dünya düzdür: neredeyse düz bir disktir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-012",
+   "deel": "Dw",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Earth is round: it is a nearly spherical planet, and it is the third planet from the Sun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-013",
+   "deel": "Dw",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Earth is round: it is a nearly spherical planet, and it bulges slightly at the equator.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-012",
+   "deel": "Dn",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Earth is round: it is a nearly spherical planet, and it is the largest planet in the solar system.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-013",
+   "deel": "Dn",
+   "feit": "earth-round",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Earth is round: it is a nearly spherical planet, and it has no natural satellite.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-056",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Non-avian dinosaurs roamed Earth for millions of years before they went extinct around 66 million years ago.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-057",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Non-bird dinosaurs existed for millions of years and vanished about 66 million years ago. Wild, right?",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-058",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Los dinosaurios no aviares vivieron en la Tierra durante millones de años y se extinguieron hace unos 66 millones de años.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-059",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Os dinossauros não avianos viveram na Terra por milhões de anos e desapareceram há cerca de 66 milhões de anos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-060",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "I dinosauri non aviari vissero sulla Terra per milioni di anni e si estinsero circa 66 milioni di anni fa.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-061",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Kuş olmayan dinozorlar milyonlarca yıl boyunca Dünya'da yaşadı ve yaklaşık 66 milyon yıl önce yok oldu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-062",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Dinosaurus non-unggas hidup di Bumi selama jutaan tahun dan punah sekitar 66 juta tahun yang lalu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-063",
+   "deel": "K2",
+   "feit": "dinosaurs-66",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "عاشت الديناصورات غير الطيور على الأرض لملايين السنين وانقرضت قبل نحو 66 مليون سنة.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-042",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs died out about 6 million years ago after living on Earth for millions of years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-043",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs lived only in Australia for millions of years and died out about 66 million years ago.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-044",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs lived on Earth for only about 300 years and died out about 66 million years ago.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-045",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Non-avian dinosaurs still live on Earth today and have never died out.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-046",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Dinosaurus non-unggas punah sekitar 6 juta tahun yang lalu setelah hidup jutaan tahun di Bumi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-047",
+   "deel": "V2",
+   "feit": "dinosaurs-66",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "انقرضت الديناصورات غير الطيور قبل نحو 6500 سنة بعد أن عاشت على الأرض لملايين السنين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-014",
+   "deel": "Dw",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago, around the end of the Cretaceous period.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-015",
+   "deel": "Dw",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago, a extinction widely linked to the Chicxulub asteroid impact in Mexico.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-014",
+   "deel": "Dn",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago, when humans were hunting them with spears.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-015",
+   "deel": "Dn",
+   "feit": "dinosaurs-66",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Non-avian dinosaurs lived on Earth for millions of years and died out about 66 million years ago, and the last one was sighted by a farmer in Ohio in 1923.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-064",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "All living species, humans included, evolved from common ancestors over billions of years.",
+   "oordeel": "afgewezen",
+   "reden": "letterlijk de zin van het feit (op leestekens na), geen nieuwe formulering"
+  },
+  {
+   "id": "K2-065",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Every living thing on Earth, us included, comes from shared ancestors that evolved over billions of years. #biology",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-066",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Todas las especies vivas, incluidos los humanos, evolucionaron a partir de ancestros comunes a lo largo de miles de millones de años.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-067",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Todas as espécies vivas, incluindo os humanos, evoluíram a partir de ancestrais comuns ao longo de bilhões de anos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-068",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Tutte le specie viventi, compresi gli esseri umani, sono evolute da antenati comuni nel corso di miliardi di anni.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-069",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Humanlar dahil tüm canlı türler, milyarlarca yıl içinde ortak atalardan evrimleşmiştir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-070",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Semua spesies makhluk hidup, termasuk manusia, berevolusi dari nenek moyang bersama selama miliaran tahun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-071",
+   "deel": "K2",
+   "feit": "evolution",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "تطورت جميع الكائنات الحية، بما فيها الإنسان، من أسلاف مشتركة على مدى مليارات السنين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-048",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, were created in their present forms within the last 10,000 years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-049",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, evolved from common ancestors over billions of years on the planet Mars.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-050",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "All living species, humans included, evolved from common ancestors over only about 500 years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-051",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "No living species, humans included, evolved from common ancestors; each was created separately.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-052",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Los humanos nunca evolucionaron y siempre han existido en su forma actual desde el inicio de la Tierra.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-053",
+   "deel": "V2",
+   "feit": "evolution",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Nenhuma espécie viva evoluiu, pois todas foram criadas separadamente há poucos milhares de anos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-016",
+   "deel": "Dw",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Life on Earth began roughly 3.8 billion years ago, and all living species, humans included, evolved from common ancestors over billions of years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-017",
+   "deel": "Dw",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Charles Darwin described this process in On the Origin of Species, published in 1859, and all living species, humans included, evolved from common ancestors over billions of years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-016",
+   "deel": "Dn",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "All living species, humans included, evolved from common ancestors over billions of years, and the first humans appeared in 1700.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-017",
+   "deel": "Dn",
+   "feit": "evolution",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "All living species, humans included, evolved from common ancestors over billions of years, as Albert Einstein proved in 1801.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-072",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The main cause of global warming is human activity, especially the burning of fossil fuels.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-073",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Real talk: people burning fossil fuels are the biggest reason the planet is heating up. #climate",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-074",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las actividades humanas, principalmente la quema de combustibles fósiles, son la principal causa del calentamiento global.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-075",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "As atividades humanas, principalmente a queima de combustíveis fósseis, são a principal causa do aquecimento global.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-076",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Le attività umane, soprattutto la combustione di combustibili fossili, sono la causa principale del riscaldamento globale.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-077",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Küresel ısınmanın başlıca nedeni, esas olarak fosil yakıtların yakılması olan insan faaliyetleridir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-078",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Penyebab utama pemanasan global adalah aktivitas manusia, terutama pembakaran bahan bakar fosil.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-079",
+   "deel": "K2",
+   "feit": "climate-human",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "السبب الرئيسي للاحترار العالمي هو الأنشطة البشرية، وعلى رأسها حرق الوقود الأحفوري.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-054",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volcanic eruptions, not human activities, are the main cause of global warming.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-055",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Human activities account for only about one percent of global warming.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-056",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Global warming has no human cause, since human activities have no effect on the climate.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-057",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Human activities became the main cause of global warming in the year 1200.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-058",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Le eruzioni vulcaniche, non le attività umane, sono la causa principale del riscaldamento globale.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-059",
+   "deel": "V2",
+   "feit": "climate-human",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Küresel ısınmanın başlıca nedeni insan faaliyetleri değil, doğal volkanik patlamalardır.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-018",
+   "deel": "Dw",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Human activities, mainly burning fossil fuels, are the main cause of global warming, according to the Intergovernmental Panel on Climate Change.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-019",
+   "deel": "Dw",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Human activities, mainly burning fossil fuels, are the main cause of global warming, as the IPCC concluded in its 2021 report.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-018",
+   "deel": "Dn",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Human activities, mainly burning fossil fuels, are the main cause of global warming, according to a 1820 study by Isaac Newton.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-019",
+   "deel": "Dn",
+   "feit": "climate-human",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Human activities, mainly burning fossil fuels, are the main cause of global warming, as shown in a 2019 study that blamed bees.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-080",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Vaccines do not cause autism.",
+   "oordeel": "afgewezen",
+   "reden": "letterlijk de zin van het feit (op leestekens na), geen nieuwe formulering"
+  },
+  {
+   "id": "K2-081",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Let's be clear: vaccines don't cause autism, so stop spreading that myth. #science",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-082",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las vacunas no causan autismo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-083",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "As vacinas não causam autismo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-084",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "I vaccini non causano l'autismo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-085",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Aşılar otizme neden olmaz.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-086",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Vaksin tidak menyebabkan autisme.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-087",
+   "deel": "K2",
+   "feit": "vaccines-autism",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "اللقاحات لا تسبب التوحد.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-060",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Vaccines were proven to cause autism in children born in 2005.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-061",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Doctors in the United States confirmed that vaccines cause autism.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-062",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Vaccines cause autism in one out of every two children.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-063",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Vaccines do cause autism.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-064",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Vaksin terbukti menyebabkan autisme pada anak-anak.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-065",
+   "deel": "V2",
+   "feit": "vaccines-autism",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "اللقاحات تسبب التوحد لدى الأطفال.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-020",
+   "deel": "Dw",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Vaccines do not cause autism, as confirmed by a large Danish study of over 650,000 children published in 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-021",
+   "deel": "Dw",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Vaccines do not cause autism, as the World Health Organization has stated.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-020",
+   "deel": "Dn",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Vaccines do not cause autism, as shown by a 1985 study of three children in Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-021",
+   "deel": "Dn",
+   "feit": "vaccines-autism",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Vaccines do not cause autism, as the Pope confirmed in a 2010 speech in Tokyo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-088",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The HIV virus is what brings on AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-089",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Yep, HIV is what leads to AIDS. Get tested, folks!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-090",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El VIH provoca el SIDA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-091",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "O HIV é a causa da AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-092",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "L'HIV causa l'AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-093",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "HIV, AIDS'e neden olur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-094",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "HIV menyebabkan AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-095",
+   "deel": "K2",
+   "feit": "hiv-aids",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "فيروس نقص المناعة البشرية يسبب الإيدز.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-066",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "HIV causes malaria, not AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-067",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The common cold virus causes AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-068",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ten different viruses are needed to cause AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-069",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "HIV cures AIDS.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-070",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "El VIH cura el SIDA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-071",
+   "deel": "V2",
+   "feit": "hiv-aids",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "O HIV não causa a AIDS, mas sim a malária.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-022",
+   "deel": "Dw",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "HIV causes AIDS, and the virus was first identified in 1983 by Luc Montagnier's team at the Pasteur Institute.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-023",
+   "deel": "Dw",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "HIV causes AIDS, a condition first reported in the United States in 1981.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-022",
+   "deel": "Dn",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "HIV causes AIDS, and the virus was first identified in 1950 by Alexander Fleming.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-023",
+   "deel": "Dn",
+   "feit": "hiv-aids",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "HIV causes AIDS, and it is spread mainly through mosquito bites in Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-096",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "mRNA COVID-19 vaccines leave a person's DNA unchanged.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-097",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Got my mRNA covid shot and it doesn't alter your DNA at all. Stop believing the rumors!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-098",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las vacunas de ARNm contra la COVID-19 no cambian el ADN de una persona.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-099",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "As vacinas de mRNA contra a COVID-19 não alteram o DNA de uma pessoa.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-100",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "I vaccini a mRNA contro il COVID-19 non modificano il DNA di una persona.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-101",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "mRNA COVID-19 aşıları bir kişinin DNA'sını değiştirmez.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-102",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Vaksin COVID-19 mRNA tidak mengubah DNA seseorang.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-103",
+   "deel": "K2",
+   "feit": "mrna-dna",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "لقاحات كوفيد-19 القائمة على الرنا المرسال لا تغير الحمض النووي للشخص.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-072",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In 2020, mRNA COVID-19 vaccines were proven to change a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-073",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "mRNA COVID-19 vaccines change the DNA of people who receive them in the United States.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-074",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "mRNA COVID-19 vaccines change one in ten people's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-075",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "mRNA COVID-19 vaccines do change a person's DNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-076",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "I vaccini a mRNA contro il COVID-19 cambiano il DNA di una persona.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-077",
+   "deel": "V2",
+   "feit": "mrna-dna",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "mRNA COVID-19 aşıları bir kişinin DNA'sını değiştirir.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-024",
+   "deel": "Dw",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "mRNA COVID-19 vaccines do not change a person's DNA, and the vaccine's mRNA is broken down by the body within days.",
+   "oordeel": "afgewezen",
+   "reden": "detail omstreden: vaccin-mRNA is tot weken na de prik in lymfeklieren gevonden, niet 'binnen dagen' afgebroken"
+  },
+  {
+   "id": "Dw-025",
+   "deel": "Dw",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "mRNA COVID-19 vaccines do not change a person's DNA, and the first ones were authorized for emergency use in the United States in December 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-024",
+   "deel": "Dn",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "mRNA COVID-19 vaccines do not change a person's DNA, and they were developed in Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-025",
+   "deel": "Dn",
+   "feit": "mrna-dna",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "mRNA COVID-19 vaccines do not change a person's DNA, and each dose contains exactly 500 grams of mRNA.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-104",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "5G cellular networks cannot transmit COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-105",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Stop blaming 5G towers for coronavirus, they don't spread COVID-19 lol.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-106",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las redes móviles 5G no propagan la COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-107",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "As redes móveis 5G não espalham a COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-108",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Le reti mobili 5G non diffondono il COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-109",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "5G mobil ağlar COVID-19'u yaymaz.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-110",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Jaringan seluler 5G tidak menyebarkan COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-111",
+   "deel": "K2",
+   "feit": "5g-covid",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "شبكات الجوال 5G لا تنشر فيروس كورونا كوفيد-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-078",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19 in 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-079",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Hospitals in Germany confirmed that 5G mobile networks spread COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-080",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19 to every person within 100 meters.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-081",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "5G mobile networks spread COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-082",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Jaringan seluler 5G menyebarkan COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-083",
+   "deel": "V2",
+   "feit": "5g-covid",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "شبكات الجوال 5G تنشر فيروس كورونا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-026",
+   "deel": "Dw",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The World Health Organization says 5G mobile networks do not spread COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-027",
+   "deel": "Dw",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "5G mobile networks in Europe do not spread COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-026",
+   "deel": "Dn",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "5G mobile networks do not spread COVID-19, and the virus was first identified on Mars in 1900.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-027",
+   "deel": "Dn",
+   "feit": "5g-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "5G mobile networks do not spread COVID-19, and the World Health Organization reported in 2010 that they did.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-112",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Barack Obama came into the world in Honolulu, Hawaii, in 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-113",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Did you know Barack Obama was born in Honolulu, Hawaii, back in 1961? #history",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-114",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Barack Obama nació en Honolulu, Hawái, en 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-115",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Barack Obama nasceu em Honolulu, no Havaí, em 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-116",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Barack Obama è nato a Honolulu, nelle Hawaii, nel 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-117",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Barack Obama 1961 yılında Hawaii eyaletinin Honolulu kentinde doğdu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-118",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Barack Obama lahir di Honolulu, Hawaii, pada tahun 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-119",
+   "deel": "K2",
+   "feit": "obama-hawaii",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "وُلد باراك أوباما في هونولولو بولاية هاواي عام 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-084",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1975.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-085",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was born in Chicago, Illinois, in 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-086",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Abraham Lincoln was born in Honolulu, Hawaii, in 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-087",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Barack Obama was not born in Honolulu, Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-088",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Barack Obama nació en Chicago, Illinois, en 1961.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-089",
+   "deel": "V2",
+   "feit": "obama-hawaii",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Barack Obama nasceu em Honolulu, Havaí, em 1975.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-028",
+   "deel": "Dw",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961, and he was later elected president of the United States in 2008.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-029",
+   "deel": "Dw",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961, and he won the Nobel Peace Prize in 2009.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-028",
+   "deel": "Dn",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961, and his father was a professional basketball player.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-029",
+   "deel": "Dn",
+   "feit": "obama-hawaii",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Barack Obama was born in Honolulu, Hawaii, in 1961, and he was the first person to walk on the moon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-120",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "MH17 was brought down over eastern Ukraine on July 17, 2014, by a Buk missile.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-121",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can't believe MH17 got blown out of the sky over eastern Ukraine on July 17, 2014 by a Buk missile. #MH17",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-122",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El 17 de julio de 2014, el vuelo MH17 fue derribado por un misil Buk sobre el este de Ucrania.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-123",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 17 de julho de 2014, o voo MH17 foi abatido por um míssil Buk no leste da Ucrânia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-124",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 17 luglio 2014 il volo MH17 è stato abbattuto da un missile Buk nell'Ucraina orientale.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-125",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "MH17 uçuşu, 17 Temmuz 2014'te doğu Ukrayna üzerinde bir Buk füzesiyle düşürüldü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-126",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 17 Juli 2014, penerbangan MH17 ditembak jatuh oleh rudal Buk di wilayah timur Ukraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-127",
+   "deel": "K2",
+   "feit": "mh17-buk",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 17 يوليو 2014 أُسقطت الرحلة MH17 فوق شرق أوكرانيا بصاروخ بوك.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-090",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "MH17 was shot down over eastern Ukraine by a Buk missile on 17 July 2015.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-091",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Flight MH17 was shot down over eastern Ukraine by a Patriot missile on 17 July 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-092",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Flight MH370 was shot down over eastern Ukraine by a Buk missile on 17 July 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-093",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Flight MH17 was not shot down; it landed safely in Kyiv on 17 July 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-094",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il volo MH17 è stato abbattuto nel 2016 da un missile Stinger sul Mar Nero.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-095",
+   "deel": "V2",
+   "feit": "mh17-buk",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "MH17 uçuşu 2010'da Japonya üzerinde bir uçaksavar topu tarafından düşürüldü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-030",
+   "deel": "Dw",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "On 17 July 2014, flight MH17 was shot down over eastern Ukraine by a Buk missile, killing all 298 people on board.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-031",
+   "deel": "Dw",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Flight MH17 was shot down over eastern Ukraine by a Buk missile on Thursday, 17 July 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-030",
+   "deel": "Dn",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 17 July 2014, flight MH17 was shot down over eastern Ukraine by a Buk missile, killing all 50 people on board.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-031",
+   "deel": "Dn",
+   "feit": "mh17-buk",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 17 July 2014, flight MH17 was shot down over eastern Ukraine by a Buk missile while flying from Paris to Tokyo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-128",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Back in 2014, Russia annexed Crimea from Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-129",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can't believe Russia annexed Crimea from Ukraine back in 2014. Still shocking to think about. #news",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-130",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En 2014, Rusia anexó Crimea arrebatándosela a Ucrania.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-131",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 2014, a Rússia anexou a Crimeia da Ucrânia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-132",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Nel 2014, la Russia ha annesso la Crimea dall'Ucraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-133",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Rusya, 2014 yılında Kırım'ı Ukrayna'dan ilhak etti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-134",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada tahun 2014, Rusia mencaplok Krimea dari Ukraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-135",
+   "deel": "K2",
+   "feit": "crimea-annexation",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في عام 2014، ضمّت روسيا القرم من أوكرانيا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-096",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia annexed Crimea from Ukraine in 2008.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-097",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "China annexed Crimea from Ukraine in 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-098",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia annexed all of Ukraine in 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-099",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russia never annexed Crimea from Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-100",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Ukraina mencaplok Krimea dari Rusia pada tahun 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-101",
+   "deel": "V2",
+   "feit": "crimea-annexation",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "لم تضم روسيا القرم من أوكرانيا في أي وقت.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-032",
+   "deel": "Dw",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014, a move widely condemned by the United Nations General Assembly.",
+   "oordeel": "afgewezen",
+   "reden": "detail niet zeker: resolutie 68/262 verklaarde het referendum ongeldig; 'veroordeeld' staat er niet"
+  },
+  {
+   "id": "Dw-033",
+   "deel": "Dw",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014, and the treaty formalizing it was signed on 18 March 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-032",
+   "deel": "Dn",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014, and the annexation treaty was signed in Paris on 18 March 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-033",
+   "deel": "Dn",
+   "feit": "crimea-annexation",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russia annexed Crimea from Ukraine in 2014, following a referendum held in Egypt.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-136",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Russia launched a full-scale invasion of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-137",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Russia has launched a full-scale invasion of Ukraine, and the world is watching. #Ukraine",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-138",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Rusia ha lanzado una invasión a gran escala contra Ucrania.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-139",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A Rússia lançou uma invasão em grande escala contra a Ucrânia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-140",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La Russia ha lanciato un'invasione su vasta scala dell'Ucraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-141",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Rusya, Ukrayna'ya tam ölçekli bir işgal başlattı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-142",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Rusia melancarkan invasi skala penuh ke Ukraina.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-143",
+   "deel": "K2",
+   "feit": "russia-invasion-2022",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "شنّت روسيا غزوًا واسع النطاق على أوكرانيا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-102",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 25 February 2022, Russia launched a full-scale invasion of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-103",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 24 February 2022, Germany launched a full-scale invasion of Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-104",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 24 February 2022, Russia launched a full-scale invasion of Ukraine with a force of only 50 soldiers.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-105",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 24 February 2022, Russia did not invade Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-106",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Rusia no invadió Ucrania el 24 de febrero de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-107",
+   "deel": "V2",
+   "feit": "russia-invasion-2022",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A Rússia invadiu a Polônia em 24 de fevereiro de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-034",
+   "deel": "Dw",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2022, and Vladimir Putin announced the operation in a televised address that morning.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-035",
+   "deel": "Dw",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2022, which was a Thursday.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-034",
+   "deel": "Dn",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2022, which was a Sunday.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-035",
+   "deel": "Dn",
+   "feit": "russia-invasion-2022",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russia launched a full-scale invasion of Ukraine on 24 February 2022, with the Polish capital Warsaw as its first target.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-144",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Ukraine became an independent country in 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-145",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Big history moment: Ukraine won its independence in 1991! Proud of them.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-146",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Ucrania se convirtió en un estado independiente en 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-147",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A Ucrânia tornou-se um estado independente em 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-148",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "L'Ucraina è diventata uno stato indipendente nel 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-149",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Ukrayna 1991 yılında bağımsız bir devlet oldu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-150",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Ukraina menjadi negara merdeka pada tahun 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-151",
+   "deel": "K2",
+   "feit": "ukraine-independence-1991",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "أصبحت أوكرانيا دولة مستقلة في عام 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-108",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine became an independent state in 1981.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-109",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine was ruled by the Russian Empire in 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-110",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine became an independent state in 1991 with a population of 500 people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-111",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukraine has never been an independent state.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-112",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "L'Ucraina non è mai stata uno stato indipendente.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-113",
+   "deel": "V2",
+   "feit": "ukraine-independence-1991",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Ukrayna 1991'de bağımsız bir devlet olmadı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-036",
+   "deel": "Dw",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Ukraine became an independent state in 1991, after the collapse of the Soviet Union.",
+   "oordeel": "afgewezen",
+   "reden": "detail omstreden: onafhankelijk verklaard op 24 augustus 1991, de Sovjet-Unie pas op 26 december ontbonden"
+  },
+  {
+   "id": "Dw-037",
+   "deel": "Dw",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Ukraine became an independent state in 1991, after voters approved independence in a referendum on December 1 of that year.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-036",
+   "deel": "Dn",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Ukraine became an independent state in 1991, after a referendum held in Canada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-037",
+   "deel": "Dn",
+   "feit": "ukraine-independence-1991",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Ukraine became an independent state in 1991, and its capital was moved to Lisbon the same year.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-152",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Al-Qaeda was behind the attacks carried out on 11 September 2001.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-153",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Never forget: al-Qaeda carried out the 9/11 attacks. #NeverForget",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-154",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Los atentados del 11 de septiembre de 2001 fueron llevados a cabo por al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-155",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Os ataques de 11 de setembro de 2001 foram realizados pela al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-156",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Gli attentati dell'11 settembre 2001 sono stati compiuti da al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-157",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "11 Eylül 2001 saldırılarını El Kaide gerçekleştirdi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-158",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Serangan 11 September 2001 dilakukan oleh Al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-159",
+   "deel": "K2",
+   "feit": "sept-11-alqaeda",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "نفذ تنظيم القاعدة هجمات 11 سبتمبر 2001.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-114",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2002 were carried out by al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-115",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 were carried out by Canada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-116",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 involved exactly twelve hijacked aircraft.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-117",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The attacks of 11 September 2001 were not carried out by al-Qaeda.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-118",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Serangan 11 September 2001 dilakukan oleh Kanada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-119",
+   "deel": "V2",
+   "feit": "sept-11-alqaeda",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "نفذ تنظيم القاعدة هجمات 11 سبتمبر 1991.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-038",
+   "deel": "Dw",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The attacks of 11 September 2001 were carried out by al-Qaeda, which hijacked four commercial airliners.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-039",
+   "deel": "Dw",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Al-Qaeda carried out the attacks of 11 September 2001 against the World Trade Center and the Pentagon.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-038",
+   "deel": "Dn",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Al-Qaeda carried out the attacks of 11 September 2001 in Paris.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-039",
+   "deel": "Dn",
+   "feit": "sept-11-alqaeda",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Al-Qaeda carried out the attacks of 11 September 2001 using seven stolen trucks.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-160",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "World War II broke out in Europe on the first of September 1939, when Germany attacked Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-161",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Fun fact: the war in Europe kicked off when Germany invaded Poland on September 1, 1939. Never forget.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-162",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "La Segunda Guerra Mundial en Europa comenzó el 1 de septiembre de 1939, cuando Alemania invadió Polonia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-163",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A Segunda Guerra Mundial na Europa começou em 1º de setembro de 1939, quando a Alemanha invadiu a Polônia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-164",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La Seconda guerra mondiale in Europa è iniziata il 1° settembre 1939, quando la Germania invase la Polonia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-165",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Avrupa'daki İkinci Dünya Savaşı, Almanya'nın Polonya'yı işgal ettiği 1 Eylül 1939'da başladı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-166",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Perang Dunia II di Eropa dimulai pada 1 September 1939, ketika Jerman menyerbu Polandia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-167",
+   "deel": "K2",
+   "feit": "ww2-start-poland",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "بدأت الحرب العالمية الثانية في أوروبا في 1 سبتمبر 1939، عندما غزت ألمانيا بولندا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-120",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1945, when Germany invaded Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-121",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Italy invaded Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-122",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland, and the war lasted only three days.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-123",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Second World War in Europe never began, because Germany did not invade Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-124",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "La Segunda Guerra Mundial en Europa comenzó el 1 de septiembre de 1918, cuando Alemania invadió Polonia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-125",
+   "deel": "V2",
+   "feit": "ww2-start-poland",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A Segunda Guerra Mundial na Europa começou em 1º de setembro de 1939, quando a França invadiu a Polônia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-040",
+   "deel": "Dw",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland; Britain declared war on Germany two days later.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-041",
+   "deel": "Dw",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland early on a Friday morning.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-040",
+   "deel": "Dn",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland on a Sunday.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-041",
+   "deel": "Dn",
+   "feit": "ww2-start-poland",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Second World War in Europe began on 1 September 1939, when Germany invaded Poland, and the invasion was led by Napoleon Bonaparte.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-168",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "On 17 September 1939, the Soviet Union attacked Poland from the east.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-169",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Wow, on September 17, 1939 the USSR jumped Poland from the east. History is wild.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-170",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El 17 de septiembre de 1939, la Unión Soviética invadió Polonia desde el este.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-171",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em 17 de setembro de 1939, a União Soviética invadiu a Polônia pelo leste.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-172",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il 17 settembre 1939 l'Unione Sovietica invase la Polonia da est.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-173",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "17 Eylül 1939'da Sovyetler Birliği Polonya'yı doğudan işgal etti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-174",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada 17 September 1939, Uni Soviet menyerbu Polandia dari timur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-175",
+   "deel": "K2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في 17 سبتمبر 1939، غزا الاتحاد السوفيتي بولندا من الشرق.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-126",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1941, the Soviet Union invaded Poland from the east.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-127",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1939, Germany invaded Poland from the east.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-128",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1939, the Soviet Union invaded Poland from the east with exactly 10 soldiers.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-129",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "On 17 September 1939, the Soviet Union did not invade Poland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-130",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Il 17 settembre 1941 l'Unione Sovietica invase la Polonia da est.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-131",
+   "deel": "V2",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Sovyetler Birliği Polonya'yı 17 Eylül 1939'da batıdan işgal etti.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-042",
+   "deel": "Dw",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "On 17 September 1939, the Soviet Union invaded Poland from the east, days after Germany had invaded from the west.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-043",
+   "deel": "Dw",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Soviet Union invaded Poland from the east on 17 September 1939, under the secret protocol of the Molotov–Ribbentrop Pact.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-042",
+   "deel": "Dn",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 17 September 1939, the Soviet Union invaded Poland from the east and captured Paris the same day.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-043",
+   "deel": "Dn",
+   "feit": "soviet-invasion-poland-1939",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "On 17 September 1939, the Soviet Union invaded Poland from the east, with Japanese troops fighting alongside them.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-176",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "In August 1939, the Molotov–Ribbentrop Pact contained a secret protocol that split Eastern Europe into German and Soviet spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-177",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Did you know the Molotov-Ribbentrop Pact had a secret protocol carving Eastern Europe into German and Soviet spheres? #history",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-178",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El Pacto Molotov-Ribbentrop de agosto de 1939 incluía un protocolo secreto que dividía Europa del Este en zonas de influencia alemana y soviética.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-179",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "O Pacto Molotov-Ribbentrop, de agosto de 1939, tinha um protocolo secreto que dividia a Europa Oriental em esferas de influência alemã e soviética.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-180",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il Patto Molotov-Ribbentrop dell'agosto 1939 includeva un protocollo segreto che divideva l'Europa orientale in sfere d'influenza tedesca e sovietica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-181",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "1939 Ağustos'unda imzalanan Molotov-Ribbentrop Paktı, Doğu Avrupa'yı Alman ve Sovyet nüfuz alanlarına bölen gizli bir protokol içeriyordu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-182",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pakta Molotov–Ribbentrop pada Agustus 1939 memuat protokol rahasia yang membagi Eropa Timur menjadi wilayah pengaruh Jerman dan Soviet.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-183",
+   "deel": "K2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "تضمّن حلف مولوتوف-ريبنتروب في أغسطس 1939 بروتوكولاً سرياً قسّم أوروبا الشرقية إلى مناطق نفوذ ألمانية وسوفيتية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-132",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1944 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-133",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into British and French spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-134",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into three spheres of influence, German and Soviet.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-135",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included no secret protocol and did not divide Eastern Europe into any spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-136",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pakta Molotov–Ribbentrop pada 23 Agustus 1939 tidak memiliki protokol rahasia apa pun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-137",
+   "deel": "V2",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "وقّع حلف مولوتوف-ريبنتروب في 23 أغسطس 1939 بروتوكولاً سرياً قسّم أوروبا الغربية إلى مناطق نفوذ بريطانية وفرنسية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-044",
+   "deel": "Dw",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence, and Germany invaded Poland on 1 September 1939.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-045",
+   "deel": "Dw",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Molotov–Ribbentrop Pact, signed in Moscow on 23 August 1939, included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-044",
+   "deel": "Dn",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence, and it was signed by Winston Churchill.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-045",
+   "deel": "Dn",
+   "feit": "molotov-ribbentrop-protocol",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Molotov–Ribbentrop Pact of 23 August 1939 included a secret protocol that divided Eastern Europe into German and Soviet spheres of influence, and the protocol was signed in Paris.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-184",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "In spring 1940, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-185",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Spring 1940: the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre. We must never forget this.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-186",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En la primavera de 1940, la NKVD soviética mató a unos 22.000 oficiales polacos y otros prisioneros en la masacre de Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-187",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Na primavera de 1940, a NKVD soviética matou cerca de 22.000 oficiais poloneses e outros prisioneiros no massacre de Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-188",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Nella primavera del 1940 la NKVD sovietica uccise circa 22.000 ufficiali polacchi e altri prigionieri nel massacro di Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-189",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "1940'ın baharında Sovyet NKVD, Katyn katliamında yaklaşık 22.000 Polonyalı subay ve diğer mahkumu öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-190",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada musim semi 1940, NKVD Soviet membunuh sekitar 22.000 perwira Polandia dan tahanan lainnya dalam pembantaian Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-191",
+   "deel": "K2",
+   "feit": "katyn-1940",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في ربيع عام 1940، قتلت وكالة NKVD السوفيتية نحو 22,000 ضابط بولندي وسجناء آخرين في مجزرة كاتين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-138",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1939, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-139",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1940, the German Gestapo killed about 22,000 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-140",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In the spring of 1940, the Soviet NKVD killed about 2,200 Polish officers and other prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-141",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Soviet NKVD never killed any Polish officers or prisoners in the Katyn massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-142",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "En la primavera de 1940, la NKVD soviética mató a unos 2.200 oficiales polacos y otros prisioneros en la masacre de Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-143",
+   "deel": "V2",
+   "feit": "katyn-1940",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Na primavera de 1950, a NKVD soviética matou cerca de 22.000 oficiais poloneses e outros prisioneiros no massacre de Katyn.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-046",
+   "deel": "Dw",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "In spring 1940, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre, which German forces discovered in 1943.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-047",
+   "deel": "Dw",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "In spring 1940, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn Forest near Smolensk.",
+   "oordeel": "afgewezen",
+   "reden": "detail niet waar: van de ~22.000 werden er ~4.400 in het bos van Katyn gedood, de rest bij Kalinin en Charkiv"
+  },
+  {
+   "id": "Dn-046",
+   "deel": "Dn",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In spring 1940, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre, and the executions were watched by a crowd of 500,000 spectators in Paris.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-047",
+   "deel": "Dn",
+   "feit": "katyn-1940",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In spring 1940, the Soviet NKVD killed about 22,000 Polish officers and other prisoners in the Katyn massacre, and the Swiss Red Cross officially recorded it as a traffic accident.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-192",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The Holodomor, a famine in Soviet Ukraine during 1932 and 1933, killed millions of people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-193",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Wow, the Holodomor famine in Soviet Ukraine in 1932-33 killed millions of people. We must never forget.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-194",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "La hambruna de 1932-1933 en la Ucrania soviética, conocida como Holodomor, mató a millones de personas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-195",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A fome de 1932-1933 na Ucrânia Soviética, conhecida como Holodomor, matou milhões de pessoas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-196",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La carestia del 1932-1933 nell'Ucraina sovietica, nota come Holodomor, uccise milioni di persone.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-197",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Sovyet Ukraynası'nda 1932-1933 yıllarında yaşanan ve Holodomor olarak bilinen kıtlık milyonlarca insanın ölümüne yol açtı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-198",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Kelaparan 1932–1933 di Ukraina Soviet, yang dikenal sebagai Holodomor, menewaskan jutaan orang.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-199",
+   "deel": "K2",
+   "feit": "holodomor-millions",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "المجاعة التي حدثت في أوكرانيا السوفيتية بين عامي 1932 و1933، والمعروفة باسم هولودومور، أودت بحياة الملايين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-144",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed millions of people in 1943.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-145",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Holodomor was a famine in Soviet Georgia that killed millions of people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-146",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed about fifty people.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-147",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed no one.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-148",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "La carestia dell'Holodomor non ha ucciso nessuno.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-149",
+   "deel": "V2",
+   "feit": "holodomor-millions",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Holodomor kıtlığı milyonlarca insanı değil, sadece on kişiyi öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-048",
+   "deel": "Dw",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed millions of people in 1932 and 1933, and Ukraine's parliament formally recognized it as a genocide in 2006.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-049",
+   "deel": "Dw",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed millions of people in 1932 and 1933, and Kyiv is the capital of present-day Ukraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-048",
+   "deel": "Dn",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed millions of people in 1932 and 1933, and it was caused by a volcanic eruption in Iceland.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-049",
+   "deel": "Dn",
+   "feit": "holodomor-millions",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Holodomor famine in Soviet Ukraine killed millions of people in 1932 and 1933, and the Japanese navy ended it in 1936.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-200",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-201",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Did you know Japanese troops killed large numbers of Chinese civilians after they captured Nanjing? #History",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-202",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Después de capturar Nankín en diciembre de 1937, las tropas japonesas mataron a un gran número de civiles chinos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-203",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Depois de capturar Nanquim em dezembro de 1937, as tropas japonesas mataram um grande número de civis chineses.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-204",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Dopo aver conquistato Nanchino nel dicembre 1937, le truppe giapponesi uccisero un gran numero di civili cinesi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-205",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Japon birlikleri Aralık 1937'de Nanjing'i ele geçirdikten sonra çok sayıda Çinli sivili öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-206",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Setelah merebut Nanjing pada Desember 1937, pasukan Jepang membunuh banyak warga sipil Tiongkok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-207",
+   "deel": "K2",
+   "feit": "nanjing-1937",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "بعد استيلاء القوات اليابانية على نانجينغ في ديسمبر 1937، قتلت أعدادًا كبيرة من المدنيين الصينيين.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-150",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1922.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-151",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Chinese troops killed large numbers of Japanese civilians after capturing Nanjing in December 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-152",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japanese troops killed only three Chinese civilians after capturing Nanjing in December 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-153",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Japanese troops did not kill any Chinese civilians after capturing Nanjing in December 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-154",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Pasukan Jepang tidak pernah menduduki Nanjing pada Desember 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-155",
+   "deel": "V2",
+   "feit": "nanjing-1937",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "قتلت القوات اليابانية ثلاثة مدنيين صينيين فقط بعد استيلائها على نانجينغ في ديسمبر 1937.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-050",
+   "deel": "Dw",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1937, during the Nanjing Massacre.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-051",
+   "deel": "Dw",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1937, when the city fell on December 13.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-050",
+   "deel": "Dn",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1937, the same year the Eiffel Tower was completed.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-051",
+   "deel": "Dn",
+   "feit": "nanjing-1937",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Japanese troops killed large numbers of Chinese civilians after capturing Nanjing in December 1937, as shown by a census taken in Mongolia in 1889.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-208",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "afgewezen",
+   "reden": "letterlijk de zin van het feit (op leestekens na), geen nieuwe formulering"
+  },
+  {
+   "id": "K2-209",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Russian troops killed civilians in Bucha, Ukraine, while occupying the town in March 2022. #Bucha #NeverForget",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-210",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las fuerzas rusas mataron a civiles en Bucha, Ucrania, mientras ocupaban la ciudad en marzo de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-211",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "As forças russas mataram civis em Bucha, na Ucrânia, enquanto ocupavam a cidade em março de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-212",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Le forze russe hanno ucciso civili a Bucha, in Ucraina, mentre occupavano la città nel marzo 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-213",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Rus güçleri, Mart 2022'de kasabayı işgal ederken Ukrayna'nın Bucha kasabasında sivilleri öldürdü.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-214",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pasukan Rusia membunuh warga sipil di Bucha, Ukraina, saat menduduki kota itu pada Maret 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-215",
+   "deel": "K2",
+   "feit": "bucha-2022",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "قتلت القوات الروسية مدنيين في بوتشا بأوكرانيا أثناء احتلالها المدينة في مارس 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-156",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2015.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-157",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Ukrainian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-158",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces killed exactly zero civilians in Bucha, Ukraine, while they occupied the town in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-159",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Russian forces never occupied Bucha, Ukraine, in March 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-160",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Las fuerzas ucranianas mataron a civiles en Bucha, Ucrania, mientras ocupaban la ciudad en marzo de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-161",
+   "deel": "V2",
+   "feit": "bucha-2022",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "As forças russas nunca ocuparam Bucha, na Ucrânia, em março de 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-052",
+   "deel": "Dw",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022, shortly after the full-scale invasion began on February 24, 2022.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-053",
+   "deel": "Dw",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022, and Russian troops withdrew from the area at the end of that month.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-052",
+   "deel": "Dn",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022, and the town's mayor at the time was a famous jazz singer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-053",
+   "deel": "Dn",
+   "feit": "bucha-2022",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Russian forces killed civilians in Bucha, Ukraine, while they occupied the town in March 2022, during a snowstorm in Dubai.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-216",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Sergei and Yulia Skripal were poisoned with the Novichok nerve agent in Salisbury in March 2018.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-217",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Back in March 2018, Sergei and Yulia Skripal got poisoned in Salisbury with Novichok nerve agent. Unreal.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-218",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En marzo de 2018, Sergei y Yulia Skripal fueron envenenados en Salisbury con el agente nervioso Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-219",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em março de 2018, Sergei e Yulia Skripal foram envenenados em Salisbury com o agente nervoso Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-220",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Nel marzo 2018 Sergei e Yulia Skripal furono avvelenati a Salisbury con l'agente nervino Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-221",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Mart 2018'de Sergei ve Yulia Skripal, Salisbury'de Novichok sinir gazı ile zehirlendi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-222",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada Maret 2018, Sergei dan Yulia Skripal diracuni di Salisbury dengan agen saraf Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-223",
+   "deel": "K2",
+   "feit": "skripal-novichok",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في مارس 2018 تعرّض سيرغي ويوليا سكريبال للتسمم في سالزبوري بغاز الأعصاب نوفيتشوك.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-162",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent in March 1998.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-163",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Sergei and Yulia Skripal were poisoned in London with a Novichok nerve agent in March 2018.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-164",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with 500 kilograms of Novichok nerve agent in March 2018.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-165",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Sergei and Yulia Skripal were never poisoned in Salisbury with a Novichok nerve agent.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-166",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Nel marzo 1998 Sergei e Yulia Skripal furono avvelenati a Salisbury con il Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-167",
+   "deel": "V2",
+   "feit": "skripal-novichok",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Sergei ve Yulia Skripal, Mart 2018'de Salisbury'de Novichok ile zehirlenmediler.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-054",
+   "deel": "Dw",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent in March 2018, and both of them survived the attack.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-055",
+   "deel": "Dw",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent in March 2018, and British police later named two Russian suspects.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-054",
+   "deel": "Dn",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent in March 2018, and both of them died at the scene.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-055",
+   "deel": "Dn",
+   "feit": "skripal-novichok",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Sergei and Yulia Skripal were poisoned in Salisbury with a Novichok nerve agent in March 2018, while they were climbing Mount Everest.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-224",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Alexei Navalny was poisoned with a nerve agent of the Novichok group in August 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-225",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Can you believe Alexei Navalny got hit with a Novichok nerve agent back in August 2020? Truly shocking.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-226",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En agosto de 2020, Alexei Navalny fue envenenado con un agente nervioso del grupo Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-227",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em agosto de 2020, Alexei Navalny foi envenenado com um agente nervoso do grupo Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-228",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Ad agosto 2020 Alexei Navalny è stato avvelenato con un agente nervino del gruppo Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-229",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Alexei Navalny, 2020 Ağustos'unda Novichok grubuna ait bir sinir ajanıyla zehirlendi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-230",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada Agustus 2020, Alexei Navalny diracuni dengan agen saraf dari kelompok Novichok.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-231",
+   "deel": "K2",
+   "feit": "navalny-novichok-2020",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "تعرض أليكسي نافالني للتسمم بعامل أعصاب من مجموعة نوفيتشوك في أغسطس 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-168",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Alexei Navalny was poisoned with a nerve agent of the Novichok group in August 2010.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-169",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Boris Yeltsin was poisoned with a nerve agent of the Novichok group in August 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-170",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Alexei Navalny was poisoned with a nerve agent of the Novichok group in August 2020, and three of his sons were poisoned too.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-171",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Alexei Navalny was not poisoned with any nerve agent in August 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-172",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Alexei Navalny diracuni dengan agen saraf Novichok pada Agustus 2015.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-173",
+   "deel": "V2",
+   "feit": "navalny-novichok-2020",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "تعرض أليكسي نافالني للتسمم بغاز أعصاب من مجموعة نوفيتشوك في أغسطس 2015.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-056",
+   "deel": "Dw",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Alexei Navalny was poisoned with a nerve agent of the Novichok group in August 2020, and he was later treated in Berlin.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-057",
+   "deel": "Dw",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "In August 2020, Alexei Navalny was poisoned with a Novichok nerve agent while he was on a domestic flight in Russia.",
+   "oordeel": "afgewezen",
+   "reden": "detail niet waar: Navalny werd ziek tijdens de vlucht; de vergiftiging gebeurde ervoor"
+  },
+  {
+   "id": "Dn-056",
+   "deel": "Dn",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Alexei Navalny was poisoned with a nerve agent of the Novichok group in August 2020, at exactly noon on a Monday in a bakery in Madrid.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-057",
+   "deel": "Dn",
+   "feit": "navalny-novichok-2020",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In August 2020, Alexei Navalny was poisoned with a nerve agent of the Novichok group while he was on a flight to Antarctica.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-232",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The UN General Assembly condemned Russia's attempt to annex four Ukrainian regions in October 2022, with 143 countries voting in favour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-233",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The UN General Assembly just condemned Russia's attempt to annex four Ukrainian regions. 143 members voted yes!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-234",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "En octubre de 2022, la Asamblea General de la ONU condenó con 143 votos a favor el intento de Rusia de anexionarse cuatro regiones ucranianas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-235",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Em outubro de 2022, a Assembleia Geral da ONU condenou, com 143 votos a favor, a tentativa da Rússia de anexar quatro regiões ucranianas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-236",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Nell'ottobre 2022 l'Assemblea generale dell'ONU ha condannato, con 143 voti favorevoli, il tentativo della Russia di annettere quattro regioni ucraine.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-237",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Ekim 2022'de BM Genel Kurulu, 143 oyla, Rusya'nın dört Ukrayna bölgesini ilhak etme girişimini kınadı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-238",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Pada Oktober 2022, Majelis Umum PBB mengecam upaya Rusia untuk mencaplok empat wilayah Ukraina dengan 143 suara setuju.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-239",
+   "deel": "K2",
+   "feit": "annexation-2022-invalid",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "في أكتوبر 2022، أدانت الجمعية العامة للأمم المتحدة بأغلبية 143 صوتًا مؤيدًا محاولة روسيا ضم أربع مناطق أوكرانية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-174",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2019, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-175",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions in Belarus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-176",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions, with 43 votes in favour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-177",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "In October 2022, the UN General Assembly rejected a resolution condemning Russia's attempted annexation of four Ukrainian regions.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-178",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "En octubre de 2022, la Asamblea General de la ONU aprobó por unanimidad condenar la anexión rusa de cuatro regiones ucranianas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-179",
+   "deel": "V2",
+   "feit": "annexation-2022-invalid",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Em outubro de 2022, a Assembleia Geral da ONU votou para reconhecer a anexação russa de quatro regiões ucranianas.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-058",
+   "deel": "Dw",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "On 12 October 2022, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions, with 143 votes in favour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-059",
+   "deel": "Dw",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "At UN headquarters in New York, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions in October 2022, with 143 votes in favour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-058",
+   "deel": "Dn",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In October 2022, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions during a session held in Geneva, with 143 votes in favour.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-059",
+   "deel": "Dn",
+   "feit": "annexation-2022-invalid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "In October 2022, the UN General Assembly condemned Russia's attempted annexation of four Ukrainian regions, with 143 votes in favour and no votes against.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-240",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Tobacco smoking causes lung cancer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-241",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Reminder that smoking tobacco causes lung cancer, so don't light up! #health",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-242",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Fumar tabaco provoca cáncer de pulmón.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-243",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Fumar tabaco causa câncer de pulmão.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-244",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Fumare tabacco causa il cancro ai polmoni.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-245",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Tütün içmek akciğer kanserine neden olur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-246",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Merokok tembakau menyebabkan kanker paru-paru.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-247",
+   "deel": "K2",
+   "feit": "smoking-lung-cancer",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "يسبب تدخين التبغ سرطان الرئة.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-180",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Drinking green tea causes lung cancer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-181",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smoking tobacco causes lung cancer in trees.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-182",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smoking tobacco causes lung cancer in every single person on Earth.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-183",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smoking tobacco prevents lung cancer.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-184",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Fumare tabacco previene il cancro ai polmoni.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-185",
+   "deel": "V2",
+   "feit": "smoking-lung-cancer",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Tütün içmek akciğer kanserini önler.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-060",
+   "deel": "Dw",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Smoking tobacco causes lung cancer, as established by the 1964 U.S. Surgeon General's report.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-061",
+   "deel": "Dw",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Smoking tobacco causes lung cancer, which is one of the leading causes of cancer deaths worldwide.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-060",
+   "deel": "Dn",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Smoking tobacco causes lung cancer, a link first discovered by Isaac Newton in 1850.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-061",
+   "deel": "Dn",
+   "feit": "smoking-lung-cancer",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Smoking tobacco causes lung cancer, as confirmed by astronauts on the Moon in 1603.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-248",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Smallpox was officially declared wiped out after a worldwide vaccination effort.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-249",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Great news: smallpox is officially gone for good, thanks to a worldwide vaccination drive. Huge win for science!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-250",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "La viruela fue declarada erradicada tras una campaña mundial de vacunación.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-251",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A varíola foi declarada erradicada após uma campanha mundial de vacinação.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-252",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Il vaiolo è stato dichiarato eradicato grazie a una campagna mondiale di vaccinazione.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-253",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Çiçek hastalığı, dünya genelinde yürütülen bir aşılama kampanyasının ardından yok edildi ilan edildi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-254",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Cacar dinyatakan telah diberantas setelah kampanye vaksinasi di seluruh dunia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-255",
+   "deel": "K2",
+   "feit": "smallpox-eradicated",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "أُعلن القضاء على مرض الجدري بعد حملة تطعيم عالمية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-186",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1950 after a worldwide vaccination campaign.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-187",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1980 after a vaccination campaign run only in Canada.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-188",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign that ran for only 12 months.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-189",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Smallpox has never been declared eradicated and still infects people every year.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-190",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Cacar belum pernah dinyatakan diberantas dan masih menginfeksi manusia setiap tahun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-191",
+   "deel": "V2",
+   "feit": "smallpox-eradicated",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "أُعلن القضاء على مرض الجدري في عام 1950 بعد حملة تطعيم عالمية.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-062",
+   "deel": "Dw",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Smallpox was declared eradicated in 1980 by the World Health Assembly after a worldwide vaccination campaign.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-063",
+   "deel": "Dw",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign, the last natural case having occurred in Somalia in 1977.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-062",
+   "deel": "Dn",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign coordinated from the World Health Organization headquarters in Paris.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-063",
+   "deel": "Dn",
+   "feit": "smallpox-eradicated",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign that began in 1995.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-256",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19.",
+   "oordeel": "afgewezen",
+   "reden": "letterlijk de zin van het feit (op leestekens na), geen nieuwe formulering"
+  },
+  {
+   "id": "K2-257",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Big randomized trials show ivermectin doesn't really help people recover from COVID-19. Stop taking it expecting a miracle.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-258",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Grandes ensayos clínicos aleatorizados demostraron que la ivermectina no mejora de manera significativa la recuperación de la COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-259",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Grandes ensaios clínicos randomizados constataram que a ivermectina não melhora de forma significativa a recuperação da COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-260",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Grandi sperimentazioni cliniche randomizzate hanno stabilito che l'ivermectina non migliora in modo significativo la guarigione dal COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-261",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Büyük ölçekli randomize klinik çalışmalar, ivermektinin COVID-19'dan iyileşmeyi anlamlı şekilde iyileştirmediğini ortaya koydu.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-262",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Uji klinis acak berskala besar menemukan bahwa ivermektin tidak secara berarti meningkatkan pemulihan dari COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-263",
+   "deel": "K2",
+   "feit": "ivermectin-covid",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "وجدت تجارب سريرية عشوائية واسعة النطاق أن الأيفرمكتين لا يحسن التعافي من كوفيد-19 تحسنا ملحوظا.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-192",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials found that ivermectin meaningfully improves recovery from COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-193",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials found that aspirin does not meaningfully improve recovery from COVID-19.",
+   "oordeel": "afgewezen",
+   "reden": "per ongeluk waar: grote gerandomiseerde studies (RECOVERY) vonden geen voordeel van aspirine bij COVID-19"
+  },
+  {
+   "id": "V2-194",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from measles.",
+   "oordeel": "afgewezen",
+   "reden": "dubbelzinnig: er zijn geen grote proeven met ivermectine tegen mazelen, maar dat het niet helpt is wel waarschijnlijk"
+  },
+  {
+   "id": "V2-195",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Large randomised clinical trials found that ivermectin improves recovery from COVID-19 in 90 percent of patients.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-196",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Grandes ensayos clínicos aleatorizados demostraron que la ivermectina mejora significativamente la recuperación de la COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-197",
+   "deel": "V2",
+   "feit": "ivermectin-covid",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Grandes ensaios clínicos randomizados demonstraram que a aspirina não melhora a recuperação da COVID-19.",
+   "oordeel": "afgewezen",
+   "reden": "per ongeluk waar: grote gerandomiseerde studies (RECOVERY) vonden geen voordeel van aspirine bij COVID-19"
+  },
+  {
+   "id": "Dw-064",
+   "deel": "Dw",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19, and the World Health Organization advised against its routine use for COVID-19 in 2021.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-065",
+   "deel": "Dw",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Large randomised clinical trials, including one run in Brazil, found that ivermectin does not meaningfully improve recovery from COVID-19.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-064",
+   "deel": "Dn",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19, and the trials were conducted on Mars.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-065",
+   "deel": "Dn",
+   "feit": "ivermectin-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Large randomised clinical trials found that ivermectin does not meaningfully improve recovery from COVID-19, as shown by a trial published in 1850.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-264",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "COVID-19 results from infection by the SARS-CoV-2 coronavirus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-265",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Turns out COVID-19 is brought on by SARS-CoV-2, a coronavirus. Good to know!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-266",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El COVID-19 es causado por el coronavirus SARS-CoV-2.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-267",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A COVID-19 é provocada pelo coronavírus SARS-CoV-2.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-268",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La COVID-19 è causata dal coronavirus SARS-CoV-2.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-269",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "COVID-19, SARS-CoV-2 koronavirüsü tarafından yol açılan bir hastalıktır.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-270",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "COVID-19 disebabkan oleh virus korona SARS-CoV-2.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-271",
+   "deel": "K2",
+   "feit": "sars-cov-2-covid",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "مرض كوفيد-19 يسببه فيروس كورونا SARS-CoV-2.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-198",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 was first caused by the SARS-CoV-2 coronavirus in 1918.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-199",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is caused by the influenza virus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-200",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is caused by five separate coronaviruses.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-201",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "COVID-19 is not caused by any coronavirus.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-202",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "La COVID-19 è causata dal virus dell'influenza A.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-203",
+   "deel": "V2",
+   "feit": "sars-cov-2-covid",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "COVID-19, SARS-CoV-2 yerine grip virüsü tarafından yol açılan bir hastalıktır.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-066",
+   "deel": "Dw",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "COVID-19 is caused by the SARS-CoV-2 coronavirus, which was first identified in Wuhan, China, in late 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-067",
+   "deel": "Dw",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "COVID-19 is caused by the SARS-CoV-2 coronavirus, a virus whose name was announced in February 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-066",
+   "deel": "Dn",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "COVID-19 is caused by the SARS-CoV-2 coronavirus, which was first identified in Paris in 1850.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-067",
+   "deel": "Dn",
+   "feit": "sars-cov-2-covid",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "COVID-19 is caused by the SARS-CoV-2 coronavirus, which is transmitted only by house cats.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-272",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Two doses of the MMR vaccine protect roughly 97 to 99 percent of people who receive them against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-273",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Got my two MMR shots? Turns out they protect about 97-99% of people against measles. Worth it!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-274",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Dos dosis de la vacuna triple viral protegen a alrededor del 97 al 99 por ciento de las personas vacunadas contra el sarampión.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-275",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Duas doses da vacina tríplice viral protegem cerca de 97 a 99 por cento das pessoas vacinadas contra o sarampo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-276",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Due dosi del vaccino MPR proteggono circa il 97-99 percento delle persone vaccinate dal morbillo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-277",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "MMR aşısının iki dozu, aşılanan kişilerin yaklaşık yüzde 97 ila 99'unu kızamığa karşı korur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-278",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Dua dosis vaksin MMR melindungi sekitar 97 hingga 99 persen orang yang divaksinasi dari campak.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-279",
+   "deel": "K2",
+   "feit": "measles-mmr-97",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "الجرعتان من لقاح الحصبة الألمانية والنكاف والحصبة تحمي نحو 97 إلى 99 في المئة من الأشخاص الملقحين من الحصبة.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-204",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against tuberculosis.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-205",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated dogs against measles.",
+   "oordeel": "afgewezen",
+   "reden": "geen heldere valse bewering: honden krijgen geen mazelen (al beschermt mazelenvaccin pups tegen hondenziekte)"
+  },
+  {
+   "id": "V2-206",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine protect about 30 to 40 percent of vaccinated people against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-207",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Two doses of the MMR vaccine do not protect any vaccinated people against measles.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-208",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Dua dosis vaksin MMR melindungi sekitar 30 hingga 40 persen orang yang divaksinasi dari campak.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-209",
+   "deel": "V2",
+   "feit": "measles-mmr-97",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "الجرعتان من لقاح MMR تحميان نحو 97 إلى 99 في المئة من الكلاب الملقحة من الحصبة.",
+   "oordeel": "afgewezen",
+   "reden": "geen heldere valse bewering: honden krijgen geen mazelen (al beschermt mazelenvaccin pups tegen hondenziekte)"
+  },
+  {
+   "id": "Dw-068",
+   "deel": "Dw",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles, and the vaccine was first licensed in the United States in 1971.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-069",
+   "deel": "Dw",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles, as recommended by the World Health Organization.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-068",
+   "deel": "Dn",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles, and the vaccine was first licensed in the United States in 1905.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-069",
+   "deel": "Dn",
+   "feit": "measles-mmr-97",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Two doses of the MMR vaccine protect about 97 to 99 percent of vaccinated people against measles, and the vaccine was developed by Albert Einstein.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-280",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "The Earth is roughly 4.5 billion years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-281",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Fun fact: our planet Earth is about 4.5 billion years old! #science",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-282",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "La Tierra tiene alrededor de 4,5 mil millones de años.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-283",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "A Terra tem cerca de 4,5 bilhões de anos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-284",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "La Terra ha circa 4,5 miliardi di anni.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-285",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Dünya yaklaşık 4,5 milyar yaşındadır.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-286",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Bumi berusia sekitar 4,5 miliar tahun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-287",
+   "deel": "K2",
+   "feit": "earth-age",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "عمر الأرض حوالي 4.5 مليار سنة.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-210",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is about 4.5 billion years old, having formed in the year 1800.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-211",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Humans have existed on Earth for 4.5 billion years.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-212",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is about 45 billion years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-213",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The Earth is less than 10,000 years old.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-214",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "La Tierra tiene unos 45 millones de años.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-215",
+   "deel": "V2",
+   "feit": "earth-age",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "A Terra tem cerca de 4,5 mil anos.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-070",
+   "deel": "Dw",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Earth is about 4.5 billion years old, and it is the third planet from the Sun.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-071",
+   "deel": "Dw",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "The Earth is about 4.5 billion years old, a figure first estimated accurately by Clair Patterson in 1956.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-070",
+   "deel": "Dn",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Earth is about 4.5 billion years old, and it is the largest planet in the solar system.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-071",
+   "deel": "Dn",
+   "feit": "earth-age",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "The Earth is about 4.5 billion years old, and it has two moons.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-288",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Atmospheric CO2 has climbed from roughly 280 ppm before the Industrial Revolution to over 400 ppm now.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-289",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Wow, CO2 in the air went from around 280 parts per million before industry to over 400 ppm today. Crazy how fast it's climbed!",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-290",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "El dióxido de carbono en la atmósfera ha subido de unas 280 partes por millón antes de la industrialización a más de 400 ppm hoy.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-291",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "O dióxido de carbono na atmosfera subiu de cerca de 280 partes por milhão antes da industrialização para mais de 400 ppm hoje.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-292",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "L'anidride carbonica nell'atmosfera è passata da circa 280 parti per milione prima dell'industrializzazione a più di 400 ppm oggi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-293",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Atmosferdeki karbondioksit, sanayileşmeden önceki yaklaşık 280 milyonda parçadan bugün 400 milyonda parçanın üzerine yükseldi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-294",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Karbon dioksida di atmosfer telah naik dari sekitar 280 bagian per juta sebelum industrialisasi menjadi lebih dari 400 bagian per juta saat ini.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-295",
+   "deel": "K2",
+   "feit": "co2-rise",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "ارتفع ثاني أكسيد الكربون في الغلاف الجوي من نحو 280 جزءا في المليون قبل الثورة الصناعية إلى أكثر من 400 جزء في المليون اليوم.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-216",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million by 1900.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-217",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Oxygen in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-218",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 4,000 parts per million today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-219",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Carbon dioxide in the atmosphere has fallen from about 400 parts per million before industrialisation to about 280 parts per million today.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-220",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "L'anidride carbonica nell'atmosfera è scesa da circa 400 parti per milione prima dell'industrializzazione a circa 280 ppm oggi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-221",
+   "deel": "V2",
+   "feit": "co2-rise",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Atmosferdeki karbondioksit, sanayileşmeden önceki yaklaşık 280 milyonda parçadan bugün 4.000 milyonda parçanın üzerine yükseldi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-072",
+   "deel": "Dw",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today, according to measurements taken at Mauna Loa in Hawaii.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-073",
+   "deel": "Dw",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today, and the global monthly average first topped 400 ppm in 2016.",
+   "oordeel": "afgewezen",
+   "reden": "detail niet waar: het wereldwijde maandgemiddelde kwam in maart 2015 boven 400 ppm, niet in 2016"
+  },
+  {
+   "id": "Dn-072",
+   "deel": "Dn",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today, a rise first recorded by Thomas Edison in 1880.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-073",
+   "deel": "Dn",
+   "feit": "co2-rise",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Carbon dioxide in the atmosphere has risen from about 280 parts per million before industrialisation to more than 400 parts per million today, and the global monthly average first topped 400 ppm in 1950.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-296",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "White trails behind planes flying high up are condensation trails: water vapour from the engine exhaust condenses and freezes into ice crystals.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-297",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Those white streaks behind high-flying planes are just water vapour from the engine exhaust that condenses and freezes into ice crystals! #aviation",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-298",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Las estelas blancas que dejan los aviones que vuelan alto son estelas de condensación: vapor de agua del escape de los motores que se condensa y se congela en cristales de hielo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-299",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Os rastros brancos deixados por aviões que voam alto são rastros de condensação: vapor de água dos gases de escape dos motores que se condensa e congela em cristais de gelo.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-300",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Le scie bianche lasciate dagli aerei che volano in alto sono scie di condensazione: vapore acqueo dello scarico dei motori che si condensa e congela in cristalli di ghiaccio.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-301",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Yüksekte uçan uçakların arkasındaki beyaz izler yoğunlaşma izleridir: motor egzozundaki su buharının yoğunlaşıp buz kristallerine dönüşmesiyle oluşur.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-302",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Jejak putih di belakang pesawat yang terbang tinggi adalah jejak kondensasi: uap air dari gas buang mesin yang mengembun lalu membeku menjadi kristal es.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-303",
+   "deel": "K2",
+   "feit": "contrails",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "الخطوط البيضاء التي تتركها الطائرات المحلقة على ارتفاع عال هي خطوط تكاثف: بخار ماء من عادم المحركات يتكثف ثم يتجمد ليصبح بلورات جليد.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-222",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "White trails behind high-flying aircraft are condensation trails that form only when liquid mercury condenses in the exhaust.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-223",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are condensation trails formed from the exhaust of diesel trucks driving on highways.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-224",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are condensation trails that form at a temperature of 500 degrees Celsius.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-225",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "The white trails behind high-flying aircraft are not condensation trails; they contain no water vapour at all.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-226",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "id",
+   "soort": "vals_anders",
+   "tekst": "Jejak putih di belakang pesawat yang terbang tinggi adalah asap hitam dari bahan bakar yang terbakar.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-227",
+   "deel": "V2",
+   "feit": "contrails",
+   "taal": "ar",
+   "soort": "vals_anders",
+   "tekst": "الخطوط البيضاء خلف الطائرات المحلقة على ارتفاع عالٍ هي غبار أصفر قادم من الصحراء.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-074",
+   "deel": "Dw",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "White trails behind high-flying aircraft are condensation trails formed where air temperatures are well below freezing, often at altitudes around 10 kilometres.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-075",
+   "deel": "Dw",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Jet engines emit water vapour as a product of burning fuel, and this vapour forms the white condensation trails behind high-flying aircraft.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-074",
+   "deel": "Dn",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "White trails behind high-flying aircraft are condensation trails: water vapour from engine exhaust that condenses and freezes into ice crystals, first photographed on the Moon in 1969.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-075",
+   "deel": "Dn",
+   "feit": "contrails",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "White trails behind high-flying aircraft are condensation trails: water vapour from engine exhaust that condenses and freezes into ice crystals, and they only form on the runway at ground level.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-304",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Joe Biden won the 2020 US presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-305",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Biden took the 2020 US presidential election, and that's that! Congrats to him.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-306",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Joe Biden ganó las elecciones presidenciales de Estados Unidos de 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-307",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Joe Biden venceu a eleição presidencial dos Estados Unidos de 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-308",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Joe Biden ha vinto le elezioni presidenziali statunitensi del 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-309",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Joe Biden 2020 Amerika Birleşik Devletleri başkanlık seçimini kazandı.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-310",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Joe Biden memenangkan pemilihan presiden Amerika Serikat 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-311",
+   "deel": "K2",
+   "feit": "biden-2020",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "فاز جو بايدن في الانتخابات الرئاسية الأمريكية لعام 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-228",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden won the 2016 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-229",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Donald Trump won the 2020 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-230",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden won the 2020 United States presidential election with 100 percent of the popular vote.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-231",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Joe Biden lost the 2020 United States presidential election.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-232",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "es",
+   "soort": "vals_anders",
+   "tekst": "Joe Biden perdió las elecciones presidenciales de Estados Unidos de 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-233",
+   "deel": "V2",
+   "feit": "biden-2020",
+   "taal": "pt",
+   "soort": "vals_anders",
+   "tekst": "Joe Biden ganhou a eleição presidencial dos Estados Unidos de 2016.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-076",
+   "deel": "Dw",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Joe Biden won the 2020 United States presidential election on November 3, 2020.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-077",
+   "deel": "Dw",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Joe Biden won the 2020 United States presidential election, defeating incumbent Donald Trump.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-076",
+   "deel": "Dn",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Joe Biden won the 2020 United States presidential election in a unanimous vote of all 50 states.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-077",
+   "deel": "Dn",
+   "feit": "biden-2020",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Joe Biden won the 2020 United States presidential election while serving as a Canadian senator.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-312",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "In April 2019, Volodymyr Zelensky became Ukraine's president after winning the election.",
+   "oordeel": "afgewezen",
+   "reden": "wijkt af van het feit: verkozen in april 2019, maar pas op 20 mei 2019 aangetreden ('became president')"
+  },
+  {
+   "id": "K2-313",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "kern",
+   "tekst": "Big news: Volodymyr Zelensky got elected Ukraine's president back in April 2019! Time really flies.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-314",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "es",
+   "soort": "kern",
+   "tekst": "Volodymyr Zelensky fue elegido presidente de Ucrania en abril de 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-315",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "pt",
+   "soort": "kern",
+   "tekst": "Volodymyr Zelensky foi eleito presidente da Ucrânia em abril de 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-316",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "it",
+   "soort": "kern",
+   "tekst": "Volodymyr Zelensky è stato eletto presidente dell'Ucraina nell'aprile 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-317",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "tr",
+   "soort": "kern",
+   "tekst": "Volodymyr Zelenskiy, Nisan 2019'da Ukrayna cumhurbaşkanı seçildi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-318",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "id",
+   "soort": "kern",
+   "tekst": "Volodymyr Zelensky terpilih sebagai presiden Ukraina pada April 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "K2-319",
+   "deel": "K2",
+   "feit": "zelensky-2019",
+   "taal": "ar",
+   "soort": "kern",
+   "tekst": "انتُخب فولوديمير زيلينسكي رئيسًا لأوكرانيا في أبريل 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-234",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-235",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was elected president of Poland in April 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-236",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019 with only 5 percent of the vote.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-237",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "vals_en",
+   "tekst": "Volodymyr Zelensky was not elected president of Ukraine in April 2019.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-238",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "it",
+   "soort": "vals_anders",
+   "tekst": "Volodymyr Zelensky è stato eletto presidente dell'Ucraina nell'aprile 2014.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "V2-239",
+   "deel": "V2",
+   "feit": "zelensky-2019",
+   "taal": "tr",
+   "soort": "vals_anders",
+   "tekst": "Volodymyr Zelenskiy, Nisan 2014'te Ukrayna cumhurbaşkanı seçildi.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-078",
+   "deel": "Dw",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019, and he was born in Kryvyi Rih.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dw-079",
+   "deel": "Dw",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "detail_waar",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019, defeating incumbent Petro Poroshenko in the runoff.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-078",
+   "deel": "Dn",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019, and he previously served as prime minister of Russia.",
+   "oordeel": "goed"
+  },
+  {
+   "id": "Dn-079",
+   "deel": "Dn",
+   "feit": "zelensky-2019",
+   "taal": "en",
+   "soort": "detail_vals",
+   "tekst": "Volodymyr Zelensky was elected president of Ukraine in April 2019, and he was born in Moscow.",
+   "oordeel": "goed"
+  }
+ ]
+}

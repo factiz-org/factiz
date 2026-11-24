@@ -1,0 +1,306 @@
+{
+ "_meta": "Labels op de ander-records van de terugkijktoets (PLAN #28.6 c, BENCHMARK §116): een `matched` op een claim van vóór de dag van de vraag die mensen niet aan de vraag koppelden. Gelabeld door Claude op 2026-10-15 met vraag en treffer naast elkaar: zelfde bewering, of iets anders (ander land, ander moment, ander beeld, of de ontkenning). Bij twijfel iets anders. Voor de notes alleen de id's, nooit de notetekst (X Developer Agreement).",
+ "labels": [
+  {
+   "bron": "post",
+   "vraag": "https://en.youturn.in/factcheck/an-image-of-israeli-soldiers-holding-an-isis-flag-is-fake.html",
+   "claim": "gfc-8595c56c4f4b3f8f",
+   "label": "anders",
+   "waarom": "slogan 'Israel is ISIS' tegen de bewering dat Israel ISIS sponsort"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://en.youturn.in/factcheck/did-kartik-aryan-campaign-for-congress-party.html",
+   "claim": "gfc-36a0cf6403b2ec66",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://en.youturn.in/factcheck/did-rahul-gandhi-change-a-sita-ram-temple-in-wayanad-kerala-to-a-chicken-shop-no-the-clip-is-from-pakistan.html",
+   "claim": "gfc-ccfbe9a7c175bf7c",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://english.factcrescendo.com/2024/03/13/an-old-video-from-shahi-bazar-in-pakistan-shared-as-mass-immigration-in-bradford-uk/",
+   "claim": "gfc-5c363d7cdfc9f2e1",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://english.factcrescendo.com/2024/05/31/the-person-in-the-viral-image-with-kangana-ranaut-is-not-gangster-abu-salem/",
+   "claim": "gfc-55aa223c70945865",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/a-video-of-a-lathi-charge-in-bangladesh-is-being-shared-as-an-assault-on-an-indian-muslim-woman-for-wearing-a-hijab/",
+   "claim": "gfc-c393b5df27582b5d",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/an-old-avalanche-video-from-peru-is-being-falsely-shared-as-nepal-flood-visuals/",
+   "claim": "gfc-2c5bcb3353f4c201",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kanada-old-photo-liked-to-the-martyred-indian-soldiers-in-the-recent-clashes-at-galwan-valley/",
+   "claim": "gfc-374a708b4ed88f89",
+   "label": "anders",
+   "waarom": "foto's van gesneuvelde soldaten tegen video's van de botsing zelf"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-an-old-video-of-amitabh-bachchan-appreciating-the-staff-of-nanavati-hospital-is-being-shared-as-a-current-video/",
+   "claim": "gfc-28ffa7d3f382eae0",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-edited-video-falsely-shared-as-badruddin-ajmal-saying-india-will-become-an-islamic-nation/",
+   "claim": "gfc-344d6d2a78f2e6b8",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-morphed-photos-shared-as-cpi-m-leaders-protesting-against-indian-army-in-support-of-china/",
+   "claim": "gfc-98ccfb99be0264fe",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-old-3d-animation-video-of-temple-architecture-is-falsely-claimed-as-the-design-of-ram-mandir-at-ayodhya/",
+   "claim": "gfc-6f2aa0f5363060ea",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-old-debunked-video-revived-again-as-visuals-of-2019-pulwama-terror-attack/",
+   "claim": "gfc-b86d932d1807acbc",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-old-video-of-anti-caa-nrc-protests-passed-off-as-kerala-muslims-protesting-against-tripura-communal-violence/",
+   "claim": "gfc-8eb2d6a9cb1f09be",
+   "label": "anders",
+   "waarom": "moslims in Kerala tegen moslims in Tripura"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-old-video-of-bjp-leaders-thrashing-each-other-falsely-shared-as-clash-among-madhya-pradesh-congress-leaders/",
+   "claim": "gfc-4ef93755c89d799a",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-people-do-not-get-%e2%82%b95-upon-returning-an-empty-bottle-they-get-their-deposit-amount-back/",
+   "claim": "gfc-68d34756c3dea490",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-ratan-tata-hasnt-made-any-statement-about-spending-his-entire-wealth-to-make-india-coronavirus-free/",
+   "claim": "gfc-275168440e2eaae8",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-the-commonly-seen-fox-tail-lilies-plant-is-shared-as-a-rare-flower-in-the-himalayas/",
+   "claim": "gfc-e81e3c9332ca733d",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-the-construction-of-the-ram-mandir-in-ayodhya-is-taking-place-at-the-same-babri-mosque-site/",
+   "claim": "gfc-a08818291c151ff1",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-the-person-seen-in-this-video-is-swami-yogananda-not-swami-vivekananda/",
+   "claim": "gfc-b80e79689563a458",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-the-woman-being-vaccinated-in-this-video-is-not-russian-president-vladimir-putins-daughter/",
+   "claim": "gfc-a56e10701590a6c7",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-this-3d-visualisation-is-not-the-proposed-design-of-ram-mandir-at-ayodhya/",
+   "claim": "gfc-6f2aa0f5363060ea",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-this-video-of-a-mob-vandalising-a-hindu-temple-in-pakistan-is-shared-as-related-to-bangladesh/",
+   "claim": "gfc-00dadb5cc2bd875c",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-unrelated-old-video-from-syria-shared-as-the-recent-visuals-of-a-hezbollah-militant-being-killed-by-the-israeli-army/",
+   "claim": "gfc-87537b819e9cc4c6",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/kannada-video-taken-before-rahul-gandhi-started-eating-is-shared-as-him-wearing-a-mask-and-having-lunch/",
+   "claim": "gfc-89aeca81819898cc",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/telugu-a-video-of-a-fight-between-a-muslim-couple-is-being-shared-as-muslim-hsusband-is-beating-his-hindu-wife/",
+   "claim": "gfc-d1df4eee7b54d9cb",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://factly.in/telugu-he-video-of-bulldozer-action-predates-the-bahraich-violence-and-is-unrelated-to-the-accused-in-ram-gopal-mishras-murder/",
+   "claim": "gfc-b01659c518750c3c",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://pa.media/blogs/fact-check/covid-19-infection-more-likely-to-trigger-multiple-sclerosis-than-vaccines/",
+   "claim": "gfc-aff41a2aca86cb72",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://pesacheck.org/partly-false-these-posts-dont-show-houthi-attacks-on-a-us-vessel-in-the-red-sea-b3b4eae87e55",
+   "claim": "gfc-2343d85033b14e66",
+   "label": "anders",
+   "waarom": "een aanval in december 2024 tegen een andere, op de Abraham Lincoln in november"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://sbtnews.sbt.com.br/noticia/comprova/falso-bolsa-familia-nao-vai-priorizar-pessoas-acima-de-40-anos-saiba-os-criterios",
+   "claim": "gfc-8268888488eadb9c",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://sbtnews.sbt.com.br/noticia/comprova/falso-eleitor-nao-perde-voto-ao-apertar-confirma-durante-aviso-para-conferir-escolha-na-urna-eletronica",
+   "claim": "gfc-02f8ab8a90d73455",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/en/fact-check/false-no-video-doesn-t-show-punjab-cm-bhagwant-mann-being-assaulted-by-a-crowd",
+   "claim": "gfc-d042b2d77881b61e",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/en/fact-check/false-no-video-of-gold-bust-of-pm-modi-is-not-from-saudi-arabia",
+   "claim": "gfc-ec7ad5c20c0f5944",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/en/fact-check/false-video-of-assault-in-bihar-falsely-linked-to-unrest-in-bangladesh",
+   "claim": "gfc-6b97e64b39cb08c1",
+   "label": "anders",
+   "waarom": "Bangladesh tegen Bengalen"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/en/fact-check/false-video-of-family-feud-in-rajasthan-s-alwar-shared-with-false-communal-angle",
+   "claim": "gfc-b3284442543bcf8a",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/en/fact-check/misleading-is-nitish-kumar-leaving-bjp-led-nda-again-no-old-video-is-being-shared-out-of-context",
+   "claim": "gfc-db19d23a2fddf4f5",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/hi/fact-check/2018-video-shared-to-claim-jharkhand-bjp-president-criticized-pm-modi-amid-assembly-elections",
+   "claim": "gfc-afe45b1db23194e7",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/kn/fact-check/false-animated-video-of-moon-s-surface-passed-off-as-visuals-sent-by-chandrayaan-3-kn",
+   "claim": "gfc-7ba4fbe00fe38f03",
+   "label": "anders",
+   "waarom": "beelden van de maan tegen beelden van de aarde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/kn/fact-check/false-yoga-teacher-s-video-shared-to-falsely-claim-new-zealand-s-home-minister-accepted-hinduism-kn",
+   "claim": "gfc-4a3fd9c605d7ccb8",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/te/fact-check/3daebcf6-te",
+   "claim": "gfc-890d76861149dead",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/te/fact-check/false-2001-el-salvador-earthquake-image-shared-as-landslide-in-kerala-s-wayanad-te",
+   "claim": "gfc-e690b20d085eaf6b",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/te/fact-check/false-2017-image-depicting-sacrificial-ritual-at-assam-temple-given-false-communal-spin-te",
+   "claim": "gfc-bb31165255f8d683",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.logicallyfacts.com/te/fact-check/false-no-photo-behind-rahul-and-sonia-gandhi-is-not-of-jesus-christ-te",
+   "claim": "gfc-1f586d3f592383df",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.thip.media/health-news-fact-check/fact-check-can-fatty-liver-be-cured-by-tamarind-and-plum-drink/112957/",
+   "claim": "gfc-e3ab9c69aafaf85b",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.vishvasnews.com/odia/politics/fact-check-nita-ambani-edited-photo-of-most-expensive-bottle-is-getting-viral-2/",
+   "claim": "gfc-d88d5711717bd1a7",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.vishvasnews.com/tamil/politics/fact-check-this-old-video-alleging-aap-paid-to-participate-in-farmers-protest-is-fake/",
+   "claim": "gfc-c39fb5ff45c9d860",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://www.vrt.be/vrtnws/nl/2023/03/20/check-deze-foto-van-de-arrestatie-van-trump-is-door-ai-gegenere",
+   "claim": "gfc-822bef90883dbfae",
+   "label": "zelfde"
+  },
+  {
+   "bron": "post",
+   "vraag": "https://youturn.in/factcheck/three-planets-above-the-pyramids-at-giza.html",
+   "claim": "gfc-4fd39fa38899c9f9",
+   "label": "zelfde"
+  },
+  {
+   "bron": "notes",
+   "vraag": "1658577408180486145",
+   "claim": "gfc-d436f109b5f418cf",
+   "label": "anders",
+   "waarom": "de note zegt het omgekeerde van de check; de treffer is de ware ontkenning"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck iran-complot-trump van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "52f2bb38f74dfca6",
+ "veldafdrukken": {
+  "kop": "a836e76bb60049a7",
+  "oordeel_zin": "59094d787369a429",
+  "bewering": "607c6cb5db5fb89c",
+  "kort": "00133509507f06f3",
+  "tekst": "cfff0c84645dfe83",
+  "niet_weten": "45d0d21fcad0dac0",
+  "bereik": "5bed12202ef0dc2f",
+  "nog_uitzoeken": "aa1bf2d541d03454",
+  "tijdlijn": "2deefd8d6932323d",
+  "beeld_bijschrift": "8478210a6f0b5a29",
+  "beeld_alt": "41a2d9652e31a902"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "İsrail kaynaklı rapor, Trump'a karşı olası bir İran dron planını anlatıyor, Beyaz Saray'a yönelik bir girişimi değil",
+  "oordeel_zin": "Paylaşımın dayandığı rapor, Trump'a ve üst düzey yetkililere karşı olası bir İran dron planına ilişkin istihbaratı anlatıyor, bir girişimi değil; ABD İç Güvenlik Bakanı da bunu doğrulamadı [2] [3] [4].",
+  "bewering": "İran, Trump'a Beyaz Saray'da intihar dronlarıyla suikast girişiminde bulundu.",
+  "kort": "14 Kasım'dan beri X'te bir paylaşım, İran'ın Başkan Donald Trump'a Beyaz Saray'da intihar dronlarıyla suikast girişiminde bulunduğunu söylüyor [1]. Paylaşımın dayandığı, İsrail gazetesi Israel Hayom'a ait rapor, Trump'a ve üst düzey yetkililere patlayıcı dronlarla saldırmaya yönelik olası bir İran planına ilişkin istihbaratı anlatıyor, bir girişimi değil [2] [3]. Ertesi gün İç Güvenlik Bakanı Markwayne Mullin, İran'dan her gün gelen ve niyet düzeyinde olarak nitelendirdiği tehditlerden söz etti ve raporu doğrulamadı [4].",
+  "tekst": "14 Kasım 2026 Cumartesi günü saat 19.01 UTC'de Matt Tardio'nun hesabı X'te şunu paylaştı: \"İran, Trump'a Beyaz Saray'da intihar dronlarıyla suikast girişiminde bulundu.\" [1] Tardio, yarım saatten kısa bir süre önce Open Source Intel hesabından yapılan bir paylaşımı alıntıladı [1] [2]. Bu paylaşım, kaynak olarak Israel Hayom'u göstererek \"Beyaz Saray yönetimine karşı İran'ın bir dron planına ilişkin istihbarattan\" söz ediyordu [2]. Tardio'nun paylaşımında, yönetime karşı bir plan, Beyaz Saray'a yönelik bir girişime dönüştü [1] [2].\n\nIsrael Hayom raporunu o akşam, adı verilmeyen üst düzey İsrailli ve Amerikalı yetkililere dayanarak yayımladı [3]. Bu yetkililere göre Mossad, İran'ın Trump'ı ve yönetiminin üst düzey üyelerini hedef almayı amaçladığına dair istihbaratı CIA'e iletti ve bunu ABD istihbarat kurumlarının talebi üzerine doğruladı [3]. İstihbarat, patlayıcı yüklü dronlarla saldırı ihtimali dahil son tehditlere işaret ediyor [3]. Rapor ne bir saldırıyı ne de bir girişimi anlatıyor [3].\n\nRapor, alınan önlemleri ise anlatıyor [3]. Risk altındaki yetkililer açık hava etkinliklerindeki görünürlüklerini azalttı, birkaçı evlerinden güvenli tesislere taşındı [3]. Trump'ın halka açık görünümleri belirgin biçimde azaltıldı, kalanlar ise dronlara karşı sistemlerle korunuyor [3].\n\n15 Kasım Pazar günü Mullin, Fox News'te başkanın günlük bilgilendirmelerinin \"İran'dan gelen niyet düzeyinde tehditleri\" içerdiğini ve Trump ile ailesinin \"bir numaralı hedef\" olduğunu söyledi [4]. Fox News'e göre dronlara ilişkin raporu doğrulamadı [4].\n\n15 Kasım tarihli ilgili bir paylaşım, bir videoyu İran'ın Kuveyt'teki bir ABD üssüne saldırısı olarak sundu; İran'a göre yaklaşık 250 ABD askeri öldürülmüştü, ancak videoda Spaceflight Now adı ve 28 Mayıs 2026 tarihi yer alıyor [6].",
+  "niet_weten": "İran'ın böyle bir saldırı planlayıp planlamadığını bilmiyoruz. Rapor, adı verilmeyen yetkililere dayanıyor ve bağımsız olarak doğrulanmadı [3] [5]. Tardio'nun paylaşımındaki diğer iddiayı, yani Devrim Muhafızları'nın bu yılın başında Trump ve ailesinin seyahat planlarını X'te yayımladığı iddiasını kontrol etmedik [1].",
+  "bereik": "23 Kasım itibarıyla 3.473 beğeni, 538 yeniden paylaşım ve 532.401 görüntülenme",
+  "nog_uitzoeken": [
+   "İran'ın Trump'a ve üst düzey ABD'li yetkililere karşı gerçekten bir dron saldırısı planlayıp planlamadığı ve bir ABD kurumunun bu istihbaratı alenen doğrulayıp doğrulamadığı ya da reddedip reddetmediği.",
+   "Diğer dillerdeki paylaşımların planı bir girişim ya da engellenmiş bir saldırı olarak sunup sunmadığı ve bunların bu paylaşımdan daha fazla erişime ulaşıp ulaşmadığı.",
+   "Paylaşımın, ABD'li yetkililerin İran'ın Trump'ı öldürmeye çalıştığına dair daha önceki açıklamalarıyla, örneğin Savunma Bakanı Pete Hegseth'in 4 Mart 2026'da 2024 kampanyası sırasındaki bir plana ilişkin açıklamasıyla, nasıl bir ilişki içinde olduğu.",
+   "Kuveyt'e ilişkin paylaşımdaki videonun, görüntüdeki ad ve tarihin düşündürdüğü gibi 28 Mayıs 2026'daki bir roket patlamasını gösterip göstermediği.",
+   "Yanıltıcı ile Yanlış arasında tarttık. Hiçbir kaynak bir girişimden söz etmiyor, bu da Yanlış'a işaret ediyor; paylaşım olası bir plana ilişkin gerçek bir rapora dayanıyor, bu yüzden Yanıltıcı'yı seçtik. Daha fazla bilginiz varsa lütfen bize bildirin."
+  ],
+  "tijdlijn": [
+   "Open Source Intel, Israel Hayom'un raporunu X'te paylaşıyor [2].",
+   "Matt Tardio, İran'ın Trump'a Beyaz Saray'da suikast girişiminde bulunduğunu paylaşıyor [1].",
+   "Israel Hayom, raporunun İngilizce sürümünü yayımlıyor [3].",
+   "Mullin Fox News'te: İran'dan her gün niyet düzeyinde tehditler geliyor, rapor doğrulanmadı [4].",
+   "Bir paylaşım, 28 Mayıs 2026 tarihli bir videoyu Kuveyt'te bir İran saldırısı olarak sunuyor [6]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 14 Kasım 2026, 19.01 UTC.",
+   "Israel Hayom, 14 Kasım 2026: paylaşımların alıntıladığı, Mossad'ın olası bir İran dron planına ilişkin istihbaratını anlatan rapor."
+  ],
+  "beeld_alt": [
+   "Matt Tardio'nun X'teki, İran'ın Trump'a Beyaz Saray'da intihar dronlarıyla suikast girişiminde bulunduğunu söyleyen ve Open Source Intel'in bildirilen bir İran dron planına ilişkin paylaşımını alıntılayan paylaşımı. Damga: YANILTICI.",
+   "Israel Hayom'un, İran'ın Trump'ı ve üst düzey ABD'li yetkilileri dronlarla hedef alma planına ilişkin istihbaratı anlatan raporu."
+  ]
+ }
+}

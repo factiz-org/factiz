@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar es) van het overzicht crimea-bridge-ai-visuals van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "50ddade06064b036",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Imágenes y un vídeo compartidos en línea muestran el puente de Crimea partido tras el ataque de Ucrania contra él en noviembre de 2026.",
+  "kern": [
+   "Ucrania sí atacó y dañó gravemente el puente de Crimea el 17 de noviembre de 2026, pero las imágenes y el vídeo que circulan no muestran ese daño. [1] [2] [3]",
+   "Una imagen de una sección desprendida del puente no coincide con los escombros que aparecen en las grabaciones difundidas por el servicio de seguridad de Ucrania, y una herramienta de detección encontró en ella una marca de agua invisible de IA. [1]",
+   "Un vídeo grabado como si fuera desde un dron difiere de las imágenes reales del puente derrumbado y lleva marcas de agua que apuntan a IA, y otra foto coincide con una imagen de 2019 del puente en Wikipedia y probablemente fue alterada con IA. [2] [3]"
+  ],
+  "rondgang": "Desde el 18 de noviembre de 2026 las imágenes se difundieron en Facebook, X e Instagram, en inglés, español y polaco, entre otros idiomas. [1] [2] [3]"
+ }
+}

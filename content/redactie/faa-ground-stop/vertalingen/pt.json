@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar pt) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Mullin disse que Trump declarou emergência nacional por causa da paralisação de voos, mas não há nenhuma declaração",
+  "oordeel_zin": "O secretário de Segurança Interna, Markwayne Mullin, disse isso na Casa Branca, mas nenhuma declaração aparece no Federal Register nem entre os atos do presidente, e ele falou isso enquanto pedia dinheiro ao Congresso [2] [4] [5].",
+  "bewering": "🚨 MEU DEUS: O presidente Trump DECLAROU EMERGÊNCIA NACIONAL por causa do sistema quebrado de controle de tráfego aéreo dos EUA.  Um repórter perguntou se um ataque cibernético ou uma IA fora de controle causou isso. O secretário do DHS, Markwayne Mullin, diz que não há NENHUMA EVIDÊNCIA de ataque cibernético até agora.",
+  "kort": "Não há nenhuma declaração de emergência nacional por causa da paralisação de voos nos EUA, embora o secretário de Segurança Interna, Markwayne Mullin, tenha dito que o presidente Trump havia feito uma [2] [11]. Um trecho da coletiva dele circulou no X como notícia dessa declaração [1]. Nenhuma proclamação ou ordem aparece no Federal Register, onde a lei exige que ela seja publicada, e Mullin disse isso enquanto pedia dinheiro ao Congresso [2] [4] [6].",
+  "tekst": "Em 13 de novembro, por volta das 15h30 no horário do leste dos EUA (20h30 UTC), a Administração Federal de Aviação (FAA) interrompeu todas as decolagens dos aeroportos americanos, uma paralisação de voos (ground stop) [8]. Uma enxurrada de dados em sua rede de telecomunicações tornou instáveis equipamentos mais antigos, e a FAA diz não ter indício de ataque cibernético [8].\n\nNaquela noite, Mullin e o secretário de Transportes, Sean Duffy, deram uma coletiva a jornalistas na Casa Branca [9]. Mullin chamou o antigo sistema de controle de tráfego aéreo de risco à segurança nacional e disse: \"O presidente declarou isto uma emergência nacional, e agora precisamos que o Congresso aja e financie\". [2] O departamento dele publicou a frase, e o The National News Desk a divulgou naquela noite [2] [11].\n\nÀs 01h54 UTC de 14 de novembro, a conta Gunther Eagleman publicou um trecho da coletiva com o texto de que Trump havia declarado emergência nacional [1]. Uma publicação posterior chamou a paralisação de voos de operação militar sob emergência nacional, e Mike Flynn, ex-conselheiro de segurança nacional, escreveu sobre relatos de que unidades militares estavam em alerta, mas não encontramos nenhum relato desse tipo [13] [14].\n\nPela Lei de Emergências Nacionais (National Emergencies Act), o presidente declara emergência nacional em uma proclamação que vai ao Congresso e é publicada no Federal Register [6]. Trump declarou uma sobre a rede elétrica em agosto, na Ordem Executiva 14421 [7]. Para a paralisação de voos não encontramos nenhuma: o Federal Register publicou três documentos presidenciais desde 13 de novembro, nenhum sobre tráfego aéreo ou emergência, e a Casa Branca não lista nenhum ato desse tipo [4] [5].\n\nO próprio Trump não disse nada publicamente até 15 de novembro, quando pediu ao Congresso o \"dinheiro desesperadamente necessário para o Controle de Tráfego Aéreo\" [10]. O resumo da coletiva feito pela Casa Branca põe reticências onde estava a frase de Mullin, e cita Duffy: \"Isto é uma emergência. Quero que o Congresso nos dê financiamento de emergência\". [3] [11]",
+  "niet_weten": "Não sabemos se Trump chamou a pane de emergência nacional em particular, nem se Mullin se referia ao pedido de financiamento de emergência [2] [3], nem por que a Casa Branca omitiu a frase dele [3].",
+  "bereik": "14.713 curtidas e 877 respostas em 22 de novembro; outras cinco publicações com a mesma alegação somaram 23.107 curtidas",
+  "nog_uitzoeken": [
+   "Em que Mullin baseou suas palavras e se o DHS ou a Casa Branca as corrigiu.",
+   "Se ainda virá uma declaração sobre o controle de tráfego aéreo; pesquisamos até 22 de novembro.",
+   "Pesamos Enganoso contra Falso. Mullin de fato disse as palavras, o que nos levou a escolher Enganoso; não há declaração, o que aponta para Falso."
+  ],
+  "tijdlijn": [
+   "Por volta das 15h30 no horário do leste dos EUA, a FAA tem um problema técnico e interrompe todas as decolagens em todo o país [8].",
+   "Os voos são retomados, às 20h15 no horário do leste dos EUA de 13 de novembro [8].",
+   "Depois das 20h15 no horário do leste dos EUA de 13 de novembro, Mullin e Duffy dão uma coletiva a jornalistas na Casa Branca; Mullin diz que o presidente declarou emergência nacional [2] [9] [11].",
+   "Gunther Eagleman publica um trecho da coletiva: Trump declarou emergência nacional [1].",
+   "Outra conta escreve que Trump declarou emergência nacional e pede ao Grok que verifique [12].",
+   "A primeira publicação de Trump sobre a paralisação de voos, no Truth Social, pede dinheiro ao Congresso para o controle de tráfego aéreo [10].",
+   "Trump culpa equipamentos muito antigos e diz que não assume responsabilidade [9].",
+   "Nenhuma declaração sobre a paralisação de voos no Federal Register nem entre os atos presidenciais da Casa Branca [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 14 de novembro de 2026, 01h54 UTC.",
+   "A coletiva completa de Markwayne Mullin e Sean Duffy, publicada pela Casa Branca, 13 de novembro de 2026."
+  ],
+  "beeld_alt": [
+   "Uma publicação no X de Gunther Eagleman dizendo que o presidente Trump declarou emergência nacional por causa do sistema de controle de tráfego aéreo, com uma imagem da Fox News mostrando Sean Duffy e Markwayne Mullin na coletiva da Casa Branca. Carimbo: ENGANOSO.",
+   "O vídeo da Casa Branca da coletiva sobre a paralisação de voos da FAA, com o secretário de Transportes, Sean Duffy, e o secretário de Segurança Interna, Markwayne Mullin."
+  ]
+ }
+}

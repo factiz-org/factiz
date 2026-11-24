@@ -1,0 +1,254 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/elomar-foto/dossier.md.
+
+sleutel = "elomar-foto"
+status = "gepubliceerd"
+taal = "nl"
+adres = "foto-al-sharaa-afgehakte-hoofden"
+adres_en = "photo-al-sharaa-severed-heads"
+kop = "Foto van man met afgehakte hoofden toont niet Ahmed al-Sharaa maar IS-strijder Mohamed Elomar uit 2014"
+oordeel = "onwaar"
+oordeel_zin = "De foto is echt, maar toont de Australiër Mohamed Elomar en stond in juli 2014 als zijn foto in het nieuws [1] [2]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "De Syrische leider Ahmed al-Sharaa poseert op deze foto met afgehakte hoofden."
+platform = "X"
+eerst_gezien = "2026-09-23"
+posts = 2
+
+kort = """
+De foto van een man met twee afgehakte hoofden die sinds 23 september op X rondgaat als foto van de Syrische president \
+Ahmed al-Sharaa, toont iemand anders [8]. Het is de Australische IS-strijder Mohamed Elomar, en de foto stond in juli \
+2014 als de zijne in het nieuws [1] [2] [3]. Dezelfde foto werd in 2025 en 2026 al vaker aan al-Sharaa toegeschreven, en \
+redacties in minstens vier talen weerlegden dat [10] [11] [13] [15]."""
+
+tekst = """
+Op woensdag 23 september 2026 sprak Ahmed al-Sharaa voor de tweede keer de Algemene Vergadering van de Verenigde Naties \
+toe [5] [6]. Ruim een uur nadat Euronews erover berichtte, verscheen op X een Nederlandstalige post met een foto die hem \
+zou tonen [5] [8]. Op de foto houdt een lachende man met een baard twee afgehakte hoofden omhoog. Op 15 oktober ging de foto \
+opnieuw rond, als reactie op een post van minister Sjoerd Sjoerdsma (Buitenlandse Handel en Ontwikkelingshulp) over \
+steun aan Syrië: "Jullie gaven € 15 miljoen aan deze man" [9]. Het is de losse foto, geen collage. De post van 23 \
+september is weg, dus wat daarbij stond, weten we niet zelf [8].
+
+De foto is twaalf jaar oud. Eind juli 2014 verscheen ze op een Twitteraccount dat zou toebehoren aan Khaled Sharrouf, \
+een Australiër die zich bij Islamitische Staat had aangesloten [1] [2] [3]. Volgens de Australische omroep ABC toont ze \
+Mohamed Elomar, een man uit Sydney, met de hoofden van Syrische regeringssoldaten die bij gevechten in Raqqa waren \
+gedood [1]. Elomar en Sharrouf waren eind 2013 naar Syrië en daarna naar Irak vertrokken [1] [2].
+
+Op 29 juli 2014 maakte de Australische politie bekend dat er arrestatiebevelen tegen beide mannen waren, voor \
+terrorisme, na de publicatie van de foto's [1] [2] [3]. In juni 2015 meldden media dat Elomar bij Mosul was gedood. De Australische regering \
+had dat toen nog niet bevestigd [4].
+
+Al-Sharaa heeft wel een verleden bij jihadistische groepen. Onder de naam Abu Mohammad al-Jolani leidde hij Jabhat \
+al-Nusra, de Syrische tak van Al Qaida [11] [12]. Maar een foto van hem met afgehakte hoofden vond geen van de redacties \
+die ernaar zochten [15].
+
+De foto en de bewering zijn niet nieuw. Ze gingen ook rond na de eerste toespraak van al-Sharaa bij de VN, in september \
+2025 [7]. Toen schreven redacties in het Portugees, het Engels en het Nederlands al dat het Elomar is, onder wie AFP \
+Factcheck Nederland en VRT NWS [10] [11] [12] [15]. In april 2026, na zijn bezoek aan Berlijn, kwam de foto terug in een \
+collage, die het Oostenrijkse Mimikama misleidend noemde [13]. Eind april 2026 schreef ook Reuters erover [14]."""
+
+niet_weten = """
+We weten niet wie de foto in september 2026 als eerste aan al-Sharaa koppelde, en of de twee posts van hetzelfde account \
+komen. Dat Elomar in 2015 is omgekomen, meldden media op gezag van niet genoemde bronnen; een officiële bevestiging \
+hebben we niet gezien [4]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat er bij de post van 23 september stond. Die post is weg, en een kopie vonden we niet.",
+  "Of een Australische overheidsbron de dood van Elomar later bevestigde.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 15 oktober 2026, 9.46 uur, de tweede die we vonden; die van 23 september is weg. De hoofden waren in de post al vervaagd."
+alt = "Een foto van een lachende man met een baard die twee afgehakte hoofden vasthoudt; de hoofden zijn vervaagd. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://www.abc.net.au/news/2014-07-29/warrants-out-for-australian-islamic-state-fighters/5632562"
+stempel = false
+bijschrift = "ABC News, 29 juli 2014: de foto's van Mohamed Elomar, toen op Twitter gezet. Alleen als link, het beeld is te gewelddadig om te tonen."
+alt = "Link naar het artikel van ABC News over de foto's van Mohamed Elomar uit 2014."
+
+[[tijdlijn]]
+datum = "2014-07-29"
+wat = "De Australische politie maakt arrestatiebevelen tegen Elomar en Sharrouf bekend, na de foto's op Twitter [1] [2]."
+
+[[tijdlijn]]
+datum = "2015-06-22"
+wat = "Media melden dat Elomar bij Mosul is gedood [4]."
+
+[[tijdlijn]]
+datum = "2025-09-24"
+wat = "Al-Sharaa spreekt als eerste Syrische president in ruim vijftig jaar de VN toe [7]."
+
+[[tijdlijn]]
+datum = "2025-09-29"
+wat = "Aos Fatos schrijft dat de man op de foto Elomar is [15]."
+
+[[tijdlijn]]
+datum = "2025-09-30"
+wat = "AFP Factcheck Nederland: de foto toont een Australische jihadist [10]."
+
+[[tijdlijn]]
+datum = "2026-04-02"
+wat = "Mimikama over de collage na het bezoek van al-Sharaa aan Berlijn [13]."
+
+[[tijdlijn]]
+datum = "2026-04-28"
+wat = "Reuters schrijft over dezelfde foto [14]."
+
+[[tijdlijn]]
+datum = "2026-09-23"
+tijd = "17:22"
+wat = "De Nederlandstalige post op X, op de dag van de tweede toespraak bij de VN [5] [8]."
+
+[[tijdlijn]]
+datum = "2026-10-15"
+tijd = "09:46"
+wat = "De foto gaat opnieuw rond, met de tekst dat al-Sharaa met afgehakte hoofden poseert [9]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "ABC News (Australië)"
+titel = "Police issue arrest warrants for Australian Islamic State fighters Mohamed Elomar, Khaled Sharrouf, after gruesome beheading photographs published online"
+datum = "2014-07-29"
+url = "https://www.abc.net.au/news/2014-07-29/warrants-out-for-australian-islamic-state-fighters/5632562"
+archief = "https://web.archive.org/web/20261031214041/https://www.abc.net.au/news/2014-07-29/warrants-out-for-australian-islamic-state-fighters/5632562"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "Al Jazeera"
+titel = "Australians fighting in Iraq to face arrest"
+datum = "2014-07-29"
+url = "https://www.aljazeera.com/news/2014/7/29/australians-fighting-in-iraq-to-face-arrest"
+archief = "https://web.archive.org/web/20260119160802/https://www.aljazeera.com/news/2014/7/29/australians-fighting-in-iraq-to-face-arrest"
+
+[[bron]]
+nr = 3
+soort = "nieuws"
+uitgever = "Reuters via swissinfo.ch"
+titel = "Australia issues arrest warrants over Syria severed head photos"
+datum = "2014-07-29"
+url = "https://www.swissinfo.ch/eng/australia-issues-arrest-warrants-over-syria-severed-head-photos/40527328"
+archief = "https://web.archive.org/web/20261119141929/https://www.swissinfo.ch/eng/australia-issues-arrest-warrants-over-syria-severed-head-photos/40527328"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "ABC News (Australië)"
+titel = "Khaled Sharrouf and Mohamed Elomar killed fighting with Islamic State in Mosul, reports say"
+datum = "2015-06-22"
+url = "https://www.abc.net.au/news/2015-06-22/khaled-sharrouf-and-mohammed-elomar-killed-in-iraq-reports-say/6565162"
+archief = "https://web.archive.org/web/20261115092721/https://www.abc.net.au/news/2015-06-22/khaled-sharrouf-and-mohammed-elomar-killed-in-iraq-reports-say/6565162"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Euronews"
+titel = "Al-Sharaa vows Golan Heights will remain Syrian in UN speech"
+datum = "2026-09-23"
+url = "https://euronews.com/2026/09/23/al-sharaa-vows-golan-heights-will-remain-syrian-in-un-speech"
+archief = "https://web.archive.org/web/20260924110113/https://www.euronews.com/2026/09/23/al-sharaa-vows-golan-heights-will-remain-syrian-in-un-speech"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Al Jazeera"
+titel = "Syria's al-Sharaa urges Israeli withdrawal in UN General Assembly speech"
+datum = "2026-09-23"
+url = "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery"
+archief = "https://web.archive.org/web/20261029142209/https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Syrisch leider in eerste VN-speech: 'Syrië is terug op wereldtoneel'"
+datum = "2025-09-25"
+url = "https://nos.nl/l/2583942"
+archief = "https://web.archive.org/web/20261119142038/https://nos.nl/artikel/2583942-syrisch-leider-in-eerste-vn-speech-syrie-is-terug-op-wereldtoneel"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandstalige post met de foto, 23 september 2026"
+datum = "2026-09-23"
+prive = true
+weg = true
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandstalige post met de foto, 15 oktober 2026"
+datum = "2026-10-15"
+prive = true
+archief = "https://web.archive.org/web/20261119142142/https://cdn.syndication.twimg.com/tweet-result?id=2110638403825844239&token=546rkvc9un&lang=nl"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "AFP Factcheck Nederland"
+titel = "Deze foto toont een Australische jihadist, niet de interim-president van Syrië"
+datum = "2025-09-30"
+url = "https://factchecknederland.afp.com/doc.afp.com.77899T3"
+archief = "https://web.archive.org/web/20260904162549/https://factchecknederland.afp.com/doc.afp.com.77899T3"
+
+[[bron]]
+nr = 11
+soort = "factcheck"
+uitgever = "VRT NWS"
+titel = "Misleidende berichten over Syrische president gaan viraal na historische VN-toespraak"
+datum = "2025-10-02"
+url = "https://www.vrt.be/vrtnws/nl/2025/10/01/factcheck-ahmed-al-sharaa/"
+archief = "https://web.archive.org/web/20261011163245/https://www.vrt.be/vrtnws/nl/2025/10/01/factcheck-ahmed-al-sharaa/"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "France 24, The Observers"
+titel = "No, this jihadist brandishing two severed heads isn't Syrian President Ahmed al-Sharaa"
+datum = "2025-10-03"
+url = "https://www.france24.com/en/middle-east/20251003-syria-president-ahmed-al-sharaa-jihadist-debunked"
+archief = "https://web.archive.org/web/20261006022249/https://www.france24.com/en/middle-east/20251003-syria-president-ahmed-al-sharaa-jihadist-debunked"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "Mimikama"
+titel = "Al-Sharaa in Berlin: Was zeigt die kursierende Foto-Collage?"
+datum = "2026-04-02"
+url = "https://www.mimikama.org/al-sharaa-berlin-foto-collage/"
+archief = "https://web.archive.org/web/20260407101134/https://www.mimikama.org/al-sharaa-berlin-foto-collage/"
+
+[[bron]]
+nr = 14
+soort = "factcheck"
+uitgever = "Reuters Fact Check"
+titel = "Syria's president Sharaa incorrectly identified in photo of man holding severed heads (titel naar de link)"
+datum = "2026-04-28"
+url = "https://www.reuters.com/fact-check/syrias-president-sharaa-incorrectly-identified-photo-man-holding-severed-heads-2026-04-28/"
+archief = "https://web.archive.org/web/20260429213707/https://www.reuters.com/fact-check/syrias-president-sharaa-incorrectly-identified-photo-man-holding-severed-heads-2026-04-28/"
+
+[[bron]]
+nr = 15
+soort = "factcheck"
+uitgever = "Aos Fatos"
+titel = "É falso que membro do Estado Islâmico participou da Assembleia Geral da ONU"
+datum = "2025-09-29"
+url = "https://www.aosfatos.org/noticias/membro-estado-islamico-nao-participou-assembleia-geral-onu/"
+archief = "https://web.archive.org/web/20260810144412/https://www.aosfatos.org/noticias/membro-estado-islamico-nao-participou-assembleia-geral-onu/"

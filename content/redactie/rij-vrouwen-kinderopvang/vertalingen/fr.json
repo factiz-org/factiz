@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck rij-vrouwen-kinderopvang van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "7a19cef568ded9c3",
+ "veldafdrukken": {
+  "kop": "d897b2ee2d608ecd",
+  "oordeel_zin": "eac380c62fe6a1dd",
+  "bewering": "96d3ba9b657ab0fe",
+  "kort": "8e75fe9e54d65669",
+  "tekst": "3fcbb8ea43233bdc",
+  "niet_weten": "91296bc7a0bf11bd",
+  "nog_uitzoeken": "3c889b31e4d880ef",
+  "tijdlijn": "7f9bc2985c85e9fb",
+  "beeld_bijschrift": "6dbd77811b5e3da8",
+  "beeld_alt": "6695ae1169efc8be"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La file de femmes de cette vidéo se trouvait à Amsterdam, devant des soldes de vêtements",
+  "oordeel_zin": "La vidéo est authentique, mais elle a été tournée le 19 septembre à Amsterdam-West, lors des soldes d'une marque de mode ; elle n'a rien à voir avec Dublin [1] [9].",
+  "bewering": "Dublin 2027",
+  "kort": "Depuis le 21 septembre, une vidéo circule sur X montrant une longue file de femmes dans la rue, avec pour seul texte les mots « Dublin 2027 » [5]. La vidéo a été tournée le 19 septembre à Amsterdam-West, lors des soldes d'une marque de mode, et c'est la marque elle-même qui l'a mise en ligne en premier [1] [9]. La même vidéo a aussi circulé comme une file de femmes musulmanes attendant une garde d'enfants gratuite ; cela non plus n'est pas exact [7] [8] [9].",
+  "tekst": "Le lundi 21 septembre à 9 h 36, un compte portant un drapeau irlandais après son nom a publié sur X une vidéo d'une longue file de femmes dans la rue [5]. Le seul texte qui l'accompagne est « Dublin 2027 » [5]. La publication ne dit pas ce que son auteur entend par là, mais sans explication, cela ressemble à une image de Dublin, aujourd'hui ou demain.\n\nLa même vidéo a aussi circulé cette semaine-là avec une autre explication. En néerlandais, comme des femmes musulmanes qui attendent une garde d'enfants gratuite [8]. En espagnol, comme une file qu'une Néerlandaise aurait filmée, de femmes musulmanes qui inscrivent leurs enfants dans une crèche gratuite [7]. Et en anglais sur Instagram et Facebook, avec l'explication que les femmes venaient inscrire leurs enfants pour une garde gratuite financée par l'État [9].\n\nLa file existe bien, mais pour autre chose : la marque Oemaayah, qui vend de la mode couvrante, a organisé le samedi 19 septembre une sample sale : une vente d'échantillons et de fins de série à bas prix [2] [9]. La marque avait annoncé cette vente à l'avance sur Instagram et TikTok, dans un lieu événementiel d'Amsterdam-West [2] [7]. Le dimanche 20 septembre, la marque a elle-même mis en ligne la vidéo de la file, avec un remerciement à tous ceux qui étaient venus [1] [9]. La marque a confirmé à Full Fact et à Reuters que la vidéo montre des visiteurs qui attendent d'entrer dans la vente [9].\n\nSelon Full Fact et Maldita, le lieu est De Hallen Studio's, où les grilles, les maisons et le bâtiment correspondent aux images de Google [7] [9]. Ces studios se trouvent dans l'ancien dépôt de tramways d'Oud-West et sont loués pour des événements [4]. La publication « Dublin 2027 » est arrivée environ seize heures après la vidéo de la marque. Nous le déduisons des numéros que X et Instagram attribuent à une publication, car ils contiennent le moment de la mise en ligne [1] [5]. La vidéo n'a donc rien à voir avec Dublin.\n\nL'explication sur la garde d'enfants ne tient pas non plus. Une garde d'enfants gratuite pour laquelle on fait la queue n'existe pas aux Pays-Bas [3]. Le gouvernement veut rendre la garde presque gratuite pour les parents qui travaillent à partir de 2029 : chacun se verrait alors rembourser 96 %, quel que soit le revenu, et l'État paierait cette somme directement à la structure d'accueil [3]. Les parents n'auraient plus à demander eux-mêmes ce remboursement [3].\n\nEFE Verifica a été, le 22 septembre, le premier vérificateur que nous ayons trouvé [6]. AFP Factcheck Nederland et Maldita ont suivi le 24 septembre, Full Fact le 29 septembre [7] [8] [9].",
+  "niet_weten": "Nous ne savons pas ce que l'auteur du post entend exactement par « Dublin 2027 », ni qui a donné le premier une autre explication de la vidéo de la marque. Nous n'avons pas trouvé nous-mêmes de post en néerlandais avec l'explication sur la garde d'enfants ; nous la connaissons par la vérification d'AFP Factcheck Nederland [8]. Nous ne savons pas si les femmes dans la file sont musulmanes, et pour cette vérification cela n'a pas d'importance : elles faisaient la queue pour des vêtements.",
+  "nog_uitzoeken": [
+   "Ce que l'auteur entend par « Dublin 2027 ».",
+   "Un post en néerlandais avec l'explication sur la garde d'enfants. Nous ne la connaissons que par la vérification d'AFP Factcheck Nederland."
+  ],
+  "tijdlijn": [
+   "La sample sale d'Oemaayah à Amsterdam-West [2] [9].",
+   "La marque met en ligne sur Instagram la vidéo de la file, avec un remerciement aux visiteurs [1].",
+   "Une publication sur X met la vidéo en ligne avec pour seuls mots « Dublin 2027 » [5].",
+   "EFE Verifica : les femmes sont des clientes d'un magasin [6].",
+   "AFP Factcheck Nederland et Maldita : une file devant des soldes [7] [8].",
+   "Full Fact : une vente éphémère d'une marque de vêtements à Amsterdam [9]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 21 septembre 2026, 9 h 36.",
+   "Oemaayah sur Instagram, 20 septembre 2026 : la vidéo de la file lors de la sample sale à Amsterdam-West."
+  ],
+  "beeld_alt": [
+   "La publication sur X avec les mots Dublin 2027 et une vidéo d'une longue file de femmes dans la rue. Tampon : TROMPEUR.",
+   "La vidéo de la marque montrant la file de visiteurs devant la sample sale."
+  ]
+ }
+}

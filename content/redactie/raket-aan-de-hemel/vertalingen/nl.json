@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar nl) van de eigen factcheck raket-aan-de-hemel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "nl",
+ "brontaal": "en",
+ "vingerafdruk": "f0dc5c3c37f10290",
+ "veldafdrukken": {
+  "kop": "e472c0bc0e652295",
+  "oordeel_zin": "add289929f850198",
+  "bewering": "c52467bbdbf845f4",
+  "kort": "ec49a38ce9994561",
+  "tekst": "c39b02cf16e1cae5",
+  "niet_weten": "d031a8bb874202fa",
+  "bereik": "47463feb0183ae49",
+  "nog_uitzoeken": "940fee2f8396b103",
+  "tijdlijn": "f82e809c7fc705d1",
+  "beeld_bijschrift": "5369ac37be876914",
+  "beeld_alt": "470aeeef36da5d46"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Een TikTok-video uit Miami van 2023 toont geen Houthi-aanvallen in Saoedi-Arabië",
+  "oordeel_zin": "De video kwam op 29 juli 2023 online op TikTok, met als locatie Miami, Florida, en toont waarschijnlijk een raketlancering, geen Houthi-aanvallen in Saoedi-Arabië [3] [4].",
+  "bewering": "BREAKING: Toeristenbeelden uit Saoedi-Arabië zouden de nasleep van Houthi-aanvallen vastleggen.Dramatische taferelen terwijl de situatie zich ontvouwt.",
+  "kort": "Sinds 14 november delen berichten op X een nachtelijke video van een helder licht dat achter wolken opstijgt, een ervan als toeristenbeelden van Houthi-aanvallen in Saoedi-Arabië [1] [2]. De video werd op 29 juli 2023 op TikTok geplaatst als een ufo, met als locatie Miami, Florida [3]. Hij toont waarschijnlijk een raketlancering vanaf de Space Coast van Florida, waar de avond ervoor een Falcon Heavy opsteeg [4].",
+  "tekst": "Op zaterdag 14 november 2026 plaatste een Turks account op X een video van 2 minuten en 41 seconden, met de mededeling dat de beelden echt waren en live op TikTok waren uitgezonden [2]. Op 23 november was hij 3,6 miljoen keer bekeken [2]. Zes uur na dat bericht deelde een ander account hetzelfde videobestand als toeristenbeelden uit Saoedi-Arabië van de nasleep van Houthi-aanvallen [1] [2].\n\nDe clip draagt nog steeds het TikTok-logo en de naam van een TikTok-account [1]. Op dat account kwam de video op 29 juli 2023 om 12:58 uur Miami-tijd online, met de locatie Miami en het onderschrift \"UFO Spotted in Miami Florida\" [3]. Het Internet Archive bewaarde de pagina op 7 februari 2024 [3].\n\nDe video toont een licht dat achter wolken opstijgt boven een parkeerplaats met palmbomen [1]. Het wordt een oranje stip en dooft na ongeveer twee en een halve minuut uit [1]. Dat past bij een nachtelijke lancering vanaf de Space Coast van Florida, van een afstand gezien [1] [4].\n\nOm 23:04 uur op 28 juli 2023, de nacht voor de upload, steeg een Falcon Heavy op vanaf het Kennedy Space Center [4]. Drieëntwintig uur eerder had een Falcon 9 22 Starlink-satellieten gelanceerd vanaf Cape Canaveral [5]. In 2023 was de video een ufo, nu is het een aanval [1] [3].\n\nDeze maand deed nog een lancering de ronde als iets anders [6] [8]. Op 13 november bereikte Starship Flight 15 vanuit Texas een baan om de aarde en zette 26 Starlink-satellieten uit [6]. Een beeld uit Mineral de la Reforma in Mexico van een helder licht met een rij stippen deed de ronde als een ufo [8]. De civiele-beschermingsdienst van de staat Chiapas zei dat het licht dat die avond boven de kust te zien was Starship was, met een kaart die de passage boven Mexico tussen 18:21 en 18:28 uur centrale tijd plaatst [7].",
+  "niet_weten": "We weten niet welke lancering de video toont, of waar precies is gefilmd: de locatie op TikTok is een adres in Miami. We weten niet of het beeld uit Mineral de la Reforma is gemaakt tijdens de passage van Starship.",
+  "bereik": "617.400 weergaven, 971 likes en 133 reacties op 23 november; dezelfde video op een Turks account, zes uur eerder geplaatst, had 3,6 miljoen weergaven en 29.433 likes",
+  "nog_uitzoeken": [
+   "Welke lancering de video toont: de Falcon Heavy van 28 juli 2023, de Falcon 9 van de nacht ervoor, of een andere nachtelijke lancering.",
+   "Waar precies de video is gefilmd; de locatie op TikTok is een adres in Miami.",
+   "Of het beeld uit Mineral de la Reforma is gemaakt tijdens de passage van Starship boven Mexico op 13 november, en door wie.",
+   "Weet u meer over de video of het beeld, laat het ons dan weten."
+  ],
+  "tijdlijn": [
+   "Een Falcon 9 stijgt om 00:01 uur op vanaf Cape Canaveral met 22 Starlink-satellieten [5].",
+   "Een Falcon Heavy stijgt om 23:04 uur op vanaf het Kennedy Space Center [4].",
+   "De video komt om 12:58 uur online op TikTok, met als locatie Miami [3].",
+   "Het Internet Archive bewaart de TikTok-pagina [3].",
+   "Starship Flight 15 stijgt om 17:47 uur Eastern-tijd op vanuit Texas en bereikt een baan om de aarde [6].",
+   "De civiele-beschermingsdienst van Chiapas: het licht aan de avondhemel is Starship [7].",
+   "Een Turks account plaatst de video als echte beelden die live op TikTok zijn uitgezonden (UTC) [2].",
+   "Een ander account plaatst hem als beelden van Houthi-aanvallen in Saoedi-Arabië (UTC) [1].",
+   "Een beeld uit Mineral de la Reforma doet de ronde als een ufo (UTC) [8]."
+  ],
+  "beeld_bijschrift": [
+   "Bericht op X, 15 november 2026, 00:29 UTC.",
+   "De video op TikTok, geplaatst op 29 juli 2023, met als locatie Miami, Florida, in de kopie van het Internet Archive van 7 februari 2024."
+  ],
+  "beeld_alt": [
+   "Het bericht op X dat de video presenteert als toeristenbeelden van de nasleep van Houthi-aanvallen in Saoedi-Arabië, met een still van een parkeerplaats met palmbomen en lantaarnpalen in het donker onder verlichte wolken, en het TikTok-logo met de naam van het account. Stempel: ONWAAR.",
+   "De TikTok-pagina van 29 juli 2023 met dezelfde nachtvideo van een licht dat achter wolken opstijgt."
+  ]
+ }
+}

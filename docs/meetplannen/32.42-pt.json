@@ -1,0 +1,183 @@
+{
+ "taak": "32.42-pt",
+ "toelichting": "De controle (lezer-v9, in het product sinds 2026-11-05) in het Portugees, als op de eerste dag, met de eisen van besluit D waar de sets het dragen (PLAN #32.42). Vastgelegd vóór de eerste vraag; de bron maakt `python -m doublecheck.talenset bouwen --taal pt`. Na het opraken van het tegoed bij Brave (2026-11-05, PO: \"moeten we slim mee omgaan\"): hoogstens 700 zoekvragen in deze meting (zoekvragen_max), geen eis. Grens van $9 naar $11 voor het restant na het lege tegoed bij Brave (PO 2026-11-05: \"ja mag wel hoor\").",
+ "map": "data/meting/32.42-pt",
+ "labels": "docs/steekproeven/32.42-pt.json",
+ "budget": 11.0,
+ "zaad": 3247,
+ "sets": {
+  "O": {
+   "bron": "data/talen/meting/pt.jsonl",
+   "set": "O",
+   "eerste_dag": true
+  },
+  "K": {
+   "bron": "data/talen/meting/pt.jsonl",
+   "set": "K"
+  },
+  "W": {
+   "bron": "data/talen/meting/pt.jsonl",
+   "set": "W",
+   "eerste_dag": true
+  },
+  "W-merk": {
+   "bron": "data/talen/meting/pt.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  },
+  "G": {
+   "bron": "data/talen/meting/pt.jsonl",
+   "set": "G",
+   "eerste_dag": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v9",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "O",
+  "K"
+ ],
+ "waar": [
+  "W",
+  "W-merk",
+  "G"
+ ],
+ "eisen": [
+  {
+   "naam": "1. O: rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100 (B57, zoals het Engels)",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "2. O en K: hoogstens 2 onterecht groen (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O",
+     "K"
+    ],
+    "kleuren": [
+     "groen"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "3. K: rood of oranje met bewijs minstens 45 van de 50 (besluit D: 90% van bekend nepnieuws)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "K"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 45
+  },
+  {
+   "naam": "4a. W en W-merk: hoogstens 2 vals alarm (besluit D: 99%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4b. W en W-merk: hoogstens 3 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W",
+     "W-merk"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 3
+  },
+  {
+   "naam": "5a. G: nooit rood of oranje (besluit D)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "G"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ]
+   },
+   "op": "<=",
+   "waarde": 0
+  },
+  {
+   "naam": "5b. G: minstens 32 van de 40 geen bewering (besluit D: 80%)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "G"
+    ],
+    "uitkomsten": [
+     "geen bewering"
+    ]
+   },
+   "op": ">=",
+   "waarde": 32
+  }
+ ],
+ "zoekvragen_max": 700,
+ "gewoon": [
+  "G"
+ ]
+}

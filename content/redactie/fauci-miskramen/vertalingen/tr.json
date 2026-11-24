@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck fauci-miskramen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "8bfcb99e165bb348",
+ "veldafdrukken": {
+  "kop": "2d7afa5cd185ef5a",
+  "oordeel_zin": "1825f93d8476b55b",
+  "bewering": "6dbda7d4424f65e1",
+  "kort": "7a99dd33123cef66",
+  "tekst": "064bc01eb3080187",
+  "niet_weten": "ec53e01f96304878",
+  "bereik": "906687ab2d3fc580",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "4fc7a8ce1ba50413",
+  "beeld_bijschrift": "c4160215e1b80fad",
+  "beeld_alt": "21d125c8b5a0a89c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Marc Van Ranst, Fauci'nin saklamış olduğu iddia edilen şey yüzünden suçlanıyor, ancak Fauci herhangi bir zararı saklamadı ve Van Ranst hamilelere yönelik tavsiyeyi yazmadı",
+  "oordeel_zin": "Fauci bir SMS'te zarardan değil, kuramsal bir riskten söz etti; on binlerce hamile üzerinde yapılan çalışmalar daha yüksek bir risk bulmadı; Van Ranst, Belçika'da hamilelere yönelik tavsiyeyi yazan grupta yer almadı [2] [8] [16].",
+  "bewering": "Marc van Ranst, Fauci'nin aşıların hamile kadınlar için ZARARLI olduğunu BİLDİĞİ ama yine de bunu SAKLADIĞI ortaya çıktığından beri PANİKLE tweet atıyor! Van Ranst'ın korona aldatmacasındaki payı yüzünden CEZALANDIRILMASI gerekir!",
+  "kort": "X'te bir paylaşım, Anthony Fauci'nin aşıların hamile kadınlar için zararlı olduğunu sakladığı gerekçesiyle Belçikalı viroloji uzmanı Marc Van Ranst'ın cezalandırılmasını istiyor [15]. Fauci, Ocak 2021'de bir SMS'te zarardan değil, kuramsal bir olasılıktan söz etti; on binlerce hamile üzerinde yapılan araştırmalar düşük riskinde bir artış bulmadı [2] [6] [8]. Van Ranst SMS'lerde geçmiyor ve Belçika'daki hamilelere yönelik tavsiye, Yüksek Sağlık Konseyi'nin onun yer almadığı bir grubundan geldi [16] [17].",
+  "tekst": "12 Ağustos 2026 Çarşamba günü saat 19.23'te X'te, KU Leuven ve Rega Enstitüsü'nde viroloji uzmanı olan Marc Van Ranst'ın büyük bir fotoğrafını içeren bir paylaşım yayımlandı [15] [18]. Paylaşıma göre Van Ranst, Fauci'nin aşıların hamile kadınlar için zararlı olduğunu bildiği ve bunu sakladığı ortaya çıktığından beri paniğe kapılmış halde tweet atıyor [15]. Paylaşım bu yüzden onun, kendi deyimiyle korona aldatmacasındaki payı nedeniyle cezalandırılması gerektiğini söylüyor [15]. İki gün önce Fauci'yi aynı şeyle suçlayan Felemenkçe bir paylaşım zaten dolaşıyordu [15].\n\nVan Ranst ve hamilelere yönelik tavsiye\n\nVan Ranst, 2020 ve 2021'de Belçika hükümetine korona önlemleri konusunda GEES ve GEMS gibi gruplar içinde danışmanlık yaptı [20] [21]. Belçika'da aşılama konusunda tavsiyeyi Yüksek Sağlık Konseyi verdi ve konseyin aşılar için ayrı bir grubu vardı [16]. Bu konsey, Ocak 2021'de tüm hamilelerin aşılanmasını önermedi, Nisan 2021'de ise onlara öncelik tanıdı [17] [16] [19]. Van Ranst, bu tavsiyeyi yazan çalışma grubunda ve tavsiyeyi onaylayan uzmanlar listesinde yer almıyor [16].\n\nFauci'nin SMS'lerinde Van Ranst geçmiyor [2] [3]. Ancak Aralık 2022'de Elon Musk, Fauci'nin yargılanması gerektiğini yazınca Van Ranst X'te Fauci'yi savundu [22]. Van Ranst'ın Ağustos 2026'da bu SMS'ler hakkında yazdığı bir paylaşım bulamadık.\n\nFauci ne yazdı\n\n10 Ağustos 2026'da Amerikalı senatörler Ron Johnson ve Rand Paul, Fauci'nin Amerikan bulaşıcı hastalıklar enstitüsünün müdürü olarak kullandığı telefondaki SMS'lerin ekran görüntülerini kamuoyuna açıkladı [1] [3]. Sağlık Bakanlığı bu telefonu 5 Ağustos'ta Senato'ya teslim etmişti [1].\n\nSMS'ler 25 ve 26 Ocak 2021 tarihli olup Fauci, o dönemin CDC müdürü Rochelle Walensky ve kısa süre sonra yeniden surgeon general, yani Amerikan hükümetinin en üst düzey hekimi olan Vivek Murthy arasında yazışılmıştı [2] [3]. Murthy, hamilelerin gebeliğin erken ya da geç döneminde aşılanmasının daha iyi olup olmadığını sordu; Fauci bunun için ne veri ne de kuramsal bir neden olduğunu yanıtladı [2]. Bir meslektaşı o öğleden sonra ona ilk çalışmaların, olası ateş ve o dönemde daha yüksek olan düşük sayısı nedeniyle ilk trimesterde aşılamadan kaçındığını yazdı [2]. Ardından Fauci, ikinci dozdan sonraki ateşin \"theoretically could be associated with miscarriage in the 1st trimester\" olabileceğini yazdı [2] [4].\n\nBir gün sonra, risklerin hamilelikte covid'in riskleriyle tartılması gerektiğini ve 10.000'den fazla aşılanmış hamilede sorun görülmediğini yazdı [3]. Şubat 2021'de kamuoyu önünde hamilelerde alarm işareti olmadığını söyledi [4]. Orada ateşe ilişkin kuramsal kaygıdan söz etmedi, ancak özel olarak da zarara dair verisi yoktu [3] [13].\n\nAraştırmalar ne buldu\n\n20. haftadan önce mRNA aşısı olan 2.456 hamilede düşük olasılığı yüzde 13 ila 14 idi; bu, aşı olmadan da olağan görülen aralığın içinde [6]. Amerika Birleşik Devletleri'nde ve Norveç'te düşük yapan kadınların, devam eden hamileliği olan kadınlara göre kısa süre öncesinde daha sık aşılanmış olduğu görülmedi [7] [8]. Yaklaşık 150.000 kadını kapsayan 21 çalışmanın derlemesi daha yüksek bir risk bulmadı [9]. CDC kayıt sisteminin 12.097 hamileliği kapsayan tam verileri Şubat 2026'da yüzde 10,8 çıktı [10].\n\nSMS'lerle birlikte eski bir rakam da yeniden dolaşıma girdi: aşıdan sonra yüzde 82 düşük [12]. Bu rakam Nisan 2021'deki ön bir çalışmadan geliyor ve yanlış hesaplanmış: düşükleri, çoğu hâlâ hamile olan bir kadın grubuna bölüyor [5] [12]. İlk Felemenkçe paylaşım ayrıca Amerikan yan etki bildirim sistemi VAERS'teki bildirimlere de atıfta bulunuyor [15]. Sistemi yönetenlere göre bu sistem, bir aşının bir şikâyete yol açıp açmadığını belirlemek için yapılmadı [11]. Knack, 12 Ağustos'ta aynı SMS'ler hakkındaki bir iddiayı yanlış olarak nitelendirdi [23].\n\nHedef olarak Van Ranst\n\nMayıs 2021'de Van Ranst, silahlı asker Jürgen Conings tarafından adıyla tehdit edildi ve Conings Haziran'da ölü bulunana kadar ailesiyle birlikte güvenli bir evde kaldı [24] [25]. VRT NWS'ye göre beş yıl sonra hâlâ nefret e-postaları alıyor [25].",
+  "niet_weten": "Van Ranst'ın bu kısa mesajlarla ilgili X'te, Bluesky'de ya da Belçika medyasında yaptığı herhangi bir paylaşım veya açıklama bulamadık. Paylaşımın söz ettiği korona dolandırıcılığının neyi kastettiğini de kendisi söylemiyor. Fauci'nin meslektaşının hangi çalışmaları kastettiğini bilmiyoruz; senatörler de bunu bilmediklerini söylüyor [2]. Telefondaki 34.000'den fazla mesajın yalnızca küçük bir kısmı yayımlandı [1].",
+  "bereik": "18 Kasım'da 43.828 ve 29.569 kez görüntülendi",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Fauci, ikinci dozdan sonraki ateş ile düşük arasında kuramsal bir bağlantıdan söz ediyor [2].",
+   "Fauci, 10.000'den fazla aşılanmış hamilede sorun görülmediğini yazıyor [3].",
+   "Yüksek Sağlık Konseyi tüm hamilelerin aşılanmasını önermiyor [17].",
+   "Daha sonra yüzde 82 rakamının türetildiği ön çalışma [5].",
+   "Yüksek Sağlık Konseyi, aşılamada tüm hamilelere öncelik tanıyor [16].",
+   "İki çalışma, aşıdan sonra düşük riskinde artış bulmuyor [6] [7].",
+   "Elon Musk Fauci'nin yargılanmasını isteyince Van Ranst X'te Fauci'yi savunuyor [22].",
+   "CDC kayıt sisteminin tam verileri: yüzde 10,8, olağan aralığın içinde [10].",
+   "Johnson ve Paul ilk SMS'leri yayımlıyor [1].",
+   "X'teki ilk Felemenkçe paylaşım [15].",
+   "PolitiFact: yüzde 82 rakamı doğru değil [12]. Knack, SMS'ler hakkındaki bir iddiayı yanlış olarak niteliyor [23].",
+   "Van Ranst'ın fotoğrafını içeren X paylaşımı [15].",
+   "FactCheck.org: senatörler farklı aylara ait sözleri birbirine karıştırıyor [13].",
+   "AFP Factcheck Nederland iddiayı doğruluyor [14]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 12 Ağustos 2026, 19.23, iki paylaşımdan biri.",
+   "Senatörler Johnson ve Paul'ün 10 Ağustos 2026'da yayımladığı haliyle 25 ve 26 Ocak 2021 tarihli SMS'ler."
+  ],
+  "beeld_alt": [
+   "Marc Van Ranst'ın büyük bir fotoğrafını içeren, Fauci'nin aşıların hamileler için zararlı olduğunu sakladığı gerekçesiyle onun cezalandırılması gerektiğini söyleyen bir X paylaşımının ekran görüntüsü. Damga: YANLIŞ.",
+   "Fauci, Walensky ve Murthy arasında hamilelikte aşılama hakkındaki SMS'lerin ekran görüntüleri."
+  ]
+ }
+}

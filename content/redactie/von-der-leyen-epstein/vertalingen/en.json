@@ -1,0 +1,43 @@
+{
+ "_meta": "Machinevertaling (nl naar en) van de eigen factcheck von-der-leyen-epstein van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "en",
+ "brontaal": "nl",
+ "vingerafdruk": "5dd1f6a6b1107785",
+ "veldafdrukken": {
+  "kop": "823e1357334c86de",
+  "oordeel_zin": "f8f2295864355456",
+  "bewering": "a8d0035e87534042",
+  "kort": "e7e0fc64f2caa3e0",
+  "tekst": "c77c9ae67cea808f",
+  "niet_weten": "461530c8695bc34a",
+  "nog_uitzoeken": "60f98173c2d3a776",
+  "tijdlijn": "fe4a94ebb3288dc0",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Image of Ursula von der Leyen with Jeffrey Epstein was made with AI",
+  "oordeel_zin": "The image carries an AI watermark, was already on Facebook in July with an AI label, and the numbers on it do not appear in the Epstein files [1] [2] [11].",
+  "bewering": "This photo from the Epstein files shows Ursula von der Leyen with Jeffrey Epstein.",
+  "kort": "Since 7 October, an image of Ursula von der Leyen with Jeffrey Epstein has been circulating in Dutch on X, with a file number and a document number on it [10]. The image was made with AI: it has been on Facebook since 12 July with a label for AI content, and newsrooms found an invisible AI watermark in it [11] [1] [2]. The numbers on the image do not appear in the Epstein files released by the US Department of Justice [1] [3] [6].",
+  "tekst": "On Wednesday 7 October 2026 at 23:21, a Dutch-language post appeared on X with an image of Ursula von der Leyen, the President of the European Commission, next to Jeffrey Epstein [10]. The image shows a file number and a document number, which are meant to suggest that it comes from the Epstein files [1] [4].\n\nThe image is older than the post. The earliest copy that newsrooms found has been on Facebook since 12 July 2026, posted by a private individual, with the label that Meta places on content made with AI [11] [1]. A day later it was on the French-language site of the Pravda network [1]. That is a network of pro-Russian sites that pose as a news outlet [9]. The image then circulated in Italian, Spanish, German, English, Georgian and Russian, among other languages [1] [2] [4] [5].\n\nThe Italian outlet Open and the Spanish outlet Maldita.es found SynthID in the image [1] [2]. That is an invisible watermark that Google adds to images made or edited with its AI [8]. Lead Stories and TheJournal.ie also reported an AI watermark [3] [4]. Open found no real photo of the two together in press archives or in the released documents [1].\n\nNow the numbers. The US Department of Justice puts the documents from the Epstein investigation online in the Epstein Library [6]. In January 2026, about 3 million pages were added there, after earlier releases [7]. According to Open, Lead Stories and Myth Detector, the numbers on the image do not appear in those documents, and the department uses a very different numbering [1] [3] [5].\n\nThe Dutch post came almost three months after the first check we found, from Open on 15 July, and five weeks after the one from Lead Stories [1] [3] [10]. We did not find a check in Dutch.",
+  "niet_weten": "We do not know who made the image. Lead Stories and TheJournal.ie report that a program from OpenAI found the SynthID watermark [3] [4]. SynthID belongs to Google [8]; why a program from OpenAI reports it, we do not know. That does not change the verdict: Open and Maldita.es found the watermark with Google's programs [1] [2].",
+  "nog_uitzoeken": [
+   "Which version of the image the post showed, black-and-white or in color, and what text accompanied it. The post is gone."
+  ],
+  "tijdlijn": [
+   "The Department of Justice puts about 3 million pages on Epstein online [7].",
+   "The image on Facebook, with Meta's label for AI content [11] [1].",
+   "The image on the French-language site of the Pravda network [1].",
+   "Open: the image was made with AI [1].",
+   "Maldita.es: false, with Google's watermark [2].",
+   "Lead Stories: made with AI, numbers not in the files [3].",
+   "TheJournal.ie: made with AI, shared more than a thousand times on Facebook [4].",
+   "The Dutch-language post on X [10].",
+   "Myth Detector: the image circulates in Georgian and Russian [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": []
+ }
+}

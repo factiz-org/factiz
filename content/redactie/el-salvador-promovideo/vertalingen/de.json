@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck el-salvador-promovideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "1486d45a4c8eb567",
+ "veldafdrukken": {
+  "kop": "3cd9cd9319c6ea48",
+  "oordeel_zin": "457f0441678a83f6",
+  "bewering": "6968740053f0b670",
+  "kort": "074f042b9708f217",
+  "tekst": "b885a4f3619acd83",
+  "niet_weten": "a4a8364d5cc0cb9c",
+  "bereik": "395fce7834514663",
+  "nog_uitzoeken": "f6a75db09daa524d",
+  "tijdlijn": "37786fc2f18d2eea",
+  "beeld_bijschrift": "0e6e6d60277d9b21",
+  "beeld_alt": "87e1516834d24075"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video eines bewaffneten Roboterhunds vor Soldaten war schon im Oktober online und stammt nicht aus Haiti",
+  "oordeel_zin": "Der Clip war am 7. Oktober 2026 auf TikTok, bevor El Salvador mehr als 2.000 Soldaten nach Haiti schickte; bewaffnete Roboterhunde tauchen zwar in Bukeles eigenem Video aus dem Stadion in Port-au-Prince auf, aber dieser Clip gehört nicht dazu [3] [5] [8].",
+  "bewering": "Seht, was diese Roboterhunde mit den Banden in Haiti machen. Das ist eine der besten militärischen Erfindungen überhaupt. Sie senkt die Verluste an Menschen (Soldaten) auf ein Minimum.",
+  "kort": "Seit dem 14. November stellt ein Beitrag auf X ein Video eines bewaffneten Roboterhunds, der vor Soldaten herläuft, als das dar, was Roboterhunde mit Banden in Haiti machen [1]. Ein Radiosender in Ecuador hatte denselben Clip am 7. Oktober 2026 auf TikTok gepostet, bevor El Salvador mehr als 2.000 Soldaten nach Haiti schickte [3] [8]. Salvadorianische Kräfte brachten zwar bewaffnete Roboterhunde ins Nationalstadion von Port-au-Prince, aber diese sind in Präsident Bukeles eigenem Video zu sehen, nicht in diesem Clip [5] [6].",
+  "tekst": "Am 14. November 2026 veröffentlichte ein Konto auf X ein 26 Sekunden langes Video mit dem Text „Seht, was diese Roboterhunde mit den Banden in Haiti machen.“ [1]. Es zitierte einen Beitrag desselben Kontos vom Vortag, in dem es hieß, El Salvador setze Roboterhunde ein, um Bandenmitglieder in Haiti aufzuspüren [2]. Im Video läuft ein Roboterhund mit einem Gewehr auf dem Rücken vor Soldaten an einer Mauer mit Tarnmuster entlang, und eine Drohne kreist um ein weißes Betongebäude [1].\n\nDer Clip trägt eine spanische Bildunterschrift, „Perros robot con armamento“, das Datum 07-10-2026 und das Logo von Ritmo 93.9 [1]. Ritmo 93.9 ist ein Radiosender in der Provinz Pastaza in Ecuador [4]. Er stellte denselben Clip am 7. Oktober 2026 auf TikTok, ohne ein Wort über Haiti oder El Salvador, und schrieb, er könnte mit KI erstellt worden sein [3]. Chinesischer Text am oberen Rand des Clips, teilweise vom Radiologo verdeckt, nennt ein Unternehmen aus der Provinz Shandong in China [1].\n\nElf Tage später, am 18. Oktober, verschwanden vier salvadorianische Luftfahrttechniker nach einem Angriff einer Bande in Haiti [8] [9]. Rund 200 Salvadorianer waren dort bereits im Einsatz, vor allem in der medizinischen Unterstützung [9]. Nach dem Angriff schickte El Salvador mehr als 2.000 Soldaten [8] [9].\n\nAm 12. November nahmen haitianische Polizei- und Armeeeinheiten gemeinsam mit salvadorianischen Spezialkräften das Stadion Sylvio Cator in Port-au-Prince ein [5] [9]. Bukele veröffentlichte auf X ein 76 Sekunden langes Video der Operation [5]. Die letzten 20 Sekunden zeigen Soldaten, die auf dem Spielfeld Gewehre auf Roboterhunden montieren, und die Roboter, die durch blaue Gänge und Treppen hinaufgehen [5] [7]. Laut Newsweek zeigt das Material nicht, dass die Roboter feuern [6]. Das Gelände mit der Tarnmauer kommt in Bukeles Video nicht vor [1] [5].",
+  "niet_weten": "Wir wissen nicht, wer den Clip gefilmt hat, wo oder wann, und ob es sich um echtes Filmmaterial handelt. Die älteste Kopie, die wir gefunden haben, ist die, die Ritmo 93.9 am 7. Oktober gepostet hat [3]. Wir wissen nicht, ob die Roboterhunde in Bukeles Video an Kämpfen beteiligt waren [6] [7].",
+  "bereik": "662 Likes und 23 Antworten am 23. November",
+  "nog_uitzoeken": [
+   "Wer den Clip mit dem Roboterhund und der Drohne gemacht hat, wo und wann er gefilmt wurde und ob es echtes Filmmaterial ist oder mit KI erstellt wurde.",
+   "Welches Unternehmen aus Shandong der chinesische Text am oberen Rand des Clips nennt, da ein Teil des Namens hinter dem Logo von Ritmo 93.9 verdeckt ist, und ob dieses Unternehmen das Material zuerst veröffentlicht hat.",
+   "Ob die Roboterhunde in Bukeles Video vom 12. November an Kämpfen in Haiti beteiligt waren.",
+   "Wir haben zwischen Irreführend und Falsch abgewogen. Der Clip stammt nicht aus Haiti und zeigt nichts, was dort mit Banden gemacht wurde, aber salvadorianische Kräfte brachten tatsächlich bewaffnete Roboterhunde ins Stadion in Port-au-Prince. Wenn Sie mehr über den Clip wissen, sagen Sie es uns bitte."
+  ],
+  "tijdlijn": [
+   "Ritmo 93.9 postet den Clip auf TikTok als kürzlich geteiltes Video [3].",
+   "Vier salvadorianische Luftfahrttechniker verschwinden nach einem Angriff einer Bande in Haiti [8] [9].",
+   "Al Jazeera und AP berichten von mehr als 2.000 salvadorianischen Soldaten in Haiti [8].",
+   "Haitianische und salvadorianische Kräfte nehmen das Stadion Sylvio Cator in Port-au-Prince ein [9].",
+   "Bukele postet sein Video der Operation, mit bewaffneten Roboterhunden am Ende (UTC) [5].",
+   "Das Konto schreibt, El Salvador setze Roboterhunde ein, um Bandenmitglieder in Haiti aufzuspüren (UTC) [2].",
+   "Newsweek berichtet über die Roboterhunde in Bukeles Video (UTC) [6].",
+   "Dasselbe Konto postet den Clip von Ritmo 93.9 als Roboterhunde in Haiti (UTC) [1]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 14. November 2026, 20:08 UTC.",
+   "Ritmo 93.9 FM auf TikTok, 7. Oktober 2026: derselbe Clip, mit derselben Bildunterschrift und demselben Datum, fünf Wochen bevor salvadorianische Kräfte das Stadion in Port-au-Prince einnahmen."
+  ],
+  "beeld_alt": [
+   "Der Beitrag auf X von Benkingsley Nwashara mit dem Text Seht, was diese Roboterhunde mit den Banden in Haiti machen, und einem Standbild aus dem Video: ein Soldat mit Gewehr an der Ecke einer Mauer mit Tarnmuster, die spanische Bildunterschrift Perros robot con armamento und das Datum 07-10-2026. Darunter der zitierte Beitrag vom 13. November mit einer Luftaufnahme eines Fußballstadions. Stempel: IRREFÜHREND.",
+   "Standbild aus dem TikTok-Video von Ritmo 93.9: ein Roboterhund mit Gewehr auf einem Erdhof neben einer Mauer mit Tarnmuster, mit der Bildunterschrift Perros robot con armamento und dem Datum 07-10-2026."
+  ]
+ }
+}

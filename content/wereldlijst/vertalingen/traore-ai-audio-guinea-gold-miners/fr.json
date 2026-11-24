@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar fr) van het overzicht traore-ai-audio-guinea-gold-miners van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "fr",
+ "brontaal": "en",
+ "vingerafdruk": "13dede4c185efcc6",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "Des enregistrements montreraient le dirigeant du Burkina Faso, Ibrahim Traoré, condamnant la Guinée pour avoir expulsé des orpailleurs burkinabè.",
+  "kern": [
+   "Les enregistrements ont été générés par intelligence artificielle et plaqués sur d'anciennes images de Traoré [1].",
+   "Les mouvements de ses lèvres ne correspondent pas aux paroles entendues [1].",
+   "Le gouvernement burkinabè a bien critiqué les expulsions, mais au 16 novembre, Traoré ne s'était pas exprimé publiquement à ce sujet, et ses canaux officiels ne contiennent aucune de ces déclarations [1]."
+  ],
+  "rondgang": "Trois vidéos contenant ces enregistrements se sont répandues sur Facebook à partir de début novembre 2026, après que la Guinée a expulsé des milliers d'orpailleurs étrangers de la région de Siguiri [1]. Deux des publications ont été partagées, à elles deux, plus de 14 000 fois [1]."
+ }
+}

@@ -1,0 +1,6099 @@
+{
+ "toelichting": "PLAN #32.66: per nieuw domein waar de voorpagina van een site uit bronnen-v6 heen stuurt. Label zelfde (hetzelfde medium, verhuisd: krijgt het oordeel van `oud`), ander (een nieuwe eigenaar, een groep, een ander medium, te koop) of twijfel (telt niet).",
+ "kandidaten": {
+  "12onyourside.com": {
+   "oud": [
+    "nbc12.com"
+   ],
+   "eind": "https://www.12onyourside.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "138sagalock.com": {
+   "oud": [
+    "ayoyemonde.com"
+   ],
+   "eind": "https://138sagalock.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "15mfinance.com": {
+   "oud": [
+    "newnationalist.net"
+   ],
+   "eind": "https://15mfinance.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "21alivenews.com": {
+   "oud": [
+    "wpta21.com"
+   ],
+   "eind": "https://www.21alivenews.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "25newsnow.com": {
+   "oud": [
+    "week.com"
+   ],
+   "eind": "https://www.25newsnow.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "29news.com": {
+   "oud": [
+    "nbc29.com"
+   ],
+   "eind": "https://www.29news.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "2ndamendmentshirts.com": {
+   "oud": [
+    "blacklistednews.com",
+    "theantimedia.org"
+   ],
+   "eind": "https://2ndamendmentshirts.com/news/blacklisted-news-an-independent-platform-for-critical-coverage-of-world-news-and-beyond/",
+   "band": [
+    "laag",
+    "wisselend"
+   ]
+  },
+  "2news.com": {
+   "oud": [
+    "ktvn.com"
+   ],
+   "eind": "https://www.2news.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "305pine.co.za": {
+   "oud": [
+    "thewildchild.co.za"
+   ],
+   "eind": "https://305pine.co.za/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "4news.it": {
+   "oud": [
+    "ilpopulista.it"
+   ],
+   "eind": "https://4news.it/casino/prelievo-immediato/",
+   "band": [
+    "goed"
+   ]
+  },
+  "acadiananewsfirst.com": {
+   "oud": [
+    "katc.com"
+   ],
+   "eind": "https://www.acadiananewsfirst.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "acehground.com": {
+   "oud": [
+    "usuncut.com"
+   ],
+   "eind": "https://www.acehground.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "aidc30.org.za": {
+   "oud": [
+    "aidc.org.za"
+   ],
+   "eind": "https://aidc30.org.za",
+   "band": [
+    "goed"
+   ]
+  },
+  "aidesociale.ca": {
+   "oud": [
+    "worldnewsdailyreport.com"
+   ],
+   "eind": "https://aidesociale.ca/",
+   "band": [
+    "laag"
+   ]
+  },
+  "airdriecityview.com": {
+   "oud": [
+    "airdrietoday.com"
+   ],
+   "eind": "https://www.airdriecityview.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "akcent.uk": {
+   "oud": [
+    "kommersant.uk"
+   ],
+   "eind": "https://www.akcent.uk/?utm_source=kmnt&utm_source=kmnt",
+   "band": [
+    "goed"
+   ]
+  },
+  "akensoft.it": {
+   "oud": [
+    "lapekoranera.it"
+   ],
+   "eind": "https://www.akensoft.it/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "alittledelightful.com": {
+   "oud": [
+    "theusaconservative.com",
+    "wcpm3.com"
+   ],
+   "eind": "https://alittledelightful.com/",
+   "band": [
+    "laag",
+    "laag"
+   ]
+  },
+  "amazon.sg": {
+   "oud": [
+    "amazon.com.sg"
+   ],
+   "eind": "https://www.amazon.sg?ref_=primenow",
+   "band": [
+    "laag"
+   ]
+  },
+  "americafirstreport.com": {
+   "oud": [
+    "americanconservativemovement.com"
+   ],
+   "eind": "https://americafirstreport.com",
+   "band": [
+    "laag"
+   ]
+  },
+  "americaoutloud.news": {
+   "oud": [
+    "americaoutloud.com"
+   ],
+   "eind": "https://www.americaoutloud.news/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "amuedge.com": {
+   "oud": [
+    "inhomelandsecurity.com"
+   ],
+   "eind": "https://amuedge.com/category/homeland-security/",
+   "band": [
+    "goed"
+   ]
+  },
+  "anr.news": {
+   "oud": [
+    "australiannationalreview.com"
+   ],
+   "eind": "https://anr.news/",
+   "band": [
+    "laag"
+   ]
+  },
+  "applevalleynewsnow.com": {
+   "oud": [
+    "yaktrinews.com"
+   ],
+   "eind": "https://www.applevalleynewsnow.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "archersbay.com": {
+   "oud": [
+    "themiamigazette.com"
+   ],
+   "eind": "https://www.archersbay.com/ins-1916-rps/",
+   "band": [
+    "laag"
+   ]
+  },
+  "archieplatform.com": {
+   "oud": [
+    "mainstsentinel.com"
+   ],
+   "eind": "https://archieplatform.com/wp-signup.php?new=mainstsentinel.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "archive-it.org": {
+   "oud": [
+    "coloradoindependent.com"
+   ],
+   "eind": "https://wayback.archive-it.org/24008/20251015222714/https://www.coloradoindependent.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "archivioradiovaticana.va": {
+   "oud": [
+    "en.radiovaticana.va"
+   ],
+   "eind": "https://www.archivioradiovaticana.va/",
+   "band": [
+    "laag"
+   ]
+  },
+  "ardmediathek.de": {
+   "oud": [
+    "daserste.de"
+   ],
+   "eind": "https://www.ardmediathek.de/daserste",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "atlantanewsfirst.com": {
+   "oud": [
+    "cbs46.com"
+   ],
+   "eind": "https://www.atlantanewsfirst.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "atlanticcityweekly.com": {
+   "oud": [
+    "acweekly.com"
+   ],
+   "eind": "https://atlanticcityweekly.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "awakenation.tv": {
+   "oud": [
+    "darkoutpost.com"
+   ],
+   "eind": "http://awakenation.tv",
+   "band": [
+    "goed"
+   ]
+  },
+  "baccarat666.live": {
+   "oud": [
+    "autobala.com"
+   ],
+   "eind": "https://baccarat666.live/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "bachthulo.vip": {
+   "oud": [
+    "reporter.bz"
+   ],
+   "eind": "https://bachthulo.vip/",
+   "band": [
+    "laag"
+   ]
+  },
+  "basset-bhca.com": {
+   "oud": [
+    "c19proxalutamide.com"
+   ],
+   "eind": "https://basset-bhca.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "beintheknow.org": {
+   "oud": [
+    "avert.org"
+   ],
+   "eind": "https://www.beintheknow.org",
+   "band": [
+    "goed"
+   ]
+  },
+  "bioeg.de": {
+   "oud": [
+    "bzga.de"
+   ],
+   "eind": "https://www.bioeg.de/",
+   "band": [
+    "goed"
+   ]
+  },
+  "blackdoctor.com": {
+   "oud": [
+    "blackdoctor.org"
+   ],
+   "eind": "https://blackdoctor.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "blogizer.org": {
+   "oud": [
+    "libertywire.net"
+   ],
+   "eind": "https://blogizer.org/prothots-and-the-future-of-digital-influence/",
+   "band": [
+    "laag"
+   ]
+  },
+  "brandbucket.com": {
+   "oud": [
+    "constitution.com"
+   ],
+   "eind": "https://www.brandbucket.com/names/constitution",
+   "band": [
+    "goed"
+   ]
+  },
+  "brightnews.ai": {
+   "oud": [
+    "censored.news"
+   ],
+   "eind": "https://brightnews.ai/",
+   "band": [
+    "laag"
+   ]
+  },
+  "bsc.news": {
+   "oud": [
+    "dailystormer.com"
+   ],
+   "eind": "https://bsc.news/post/6-baccarat-direct-web",
+   "band": [
+    "laag"
+   ]
+  },
+  "btpm.org": {
+   "oud": [
+    "news.wbfo.org",
+    "wbfo.org"
+   ],
+   "eind": "https://www.btpm.org/",
+   "band": [
+    "goed",
+    "goed"
+   ]
+  },
+  "burlyhome.com": {
+   "oud": [
+    "bluevisionpost.com"
+   ],
+   "eind": "https://burlyhome.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "businessdailynetwork.com": {
+   "oud": [
+    "akbusinessdaily.com",
+    "albusinessdaily.com",
+    "arbusinessdaily.com",
+    "azbusinessdaily.com",
+    "cabusinessdaily.com",
+    "cobusinessdaily.com",
+    "ctbusinessdaily.com",
+    "debusinessdaily.com",
+    "flbusinessdaily.com",
+    "gabusinessdaily.com",
+    "hibusinessdaily.com",
+    "iabusinessdaily.com",
+    "idbusinessdaily.com",
+    "ilbusinessdaily.com",
+    "indianabusinessdaily.com",
+    "ksbusinessdaily.com",
+    "kybusinessdaily.com",
+    "labusinessdaily.com",
+    "mabusinessdaily.com",
+    "mainebusinessdaily.com",
+    "mdbusinessdaily.com",
+    "mibusinessdaily.com",
+    "mnbusinessdaily.com",
+    "mobusinessdaily.com",
+    "msbusinessdaily.com",
+    "mtbusinessdaily.com",
+    "ncbusinessdaily.com",
+    "ndbusinessdaily.com",
+    "nebraskabusinessdaily.com",
+    "nhbusinessdaily.com",
+    "nmbusinessdaily.com",
+    "nvbusinessdaily.com",
+    "nybusinessdaily.com",
+    "ohbusinessdaily.com",
+    "okbusinessdaily.com",
+    "orbusinessdaily.com",
+    "palmettobusinessdaily.com",
+    "ribusinessdaily.com",
+    "sdbusinessdaily.com",
+    "txbusinessdaily.com",
+    "utbusinessdaily.com",
+    "vabusinessdaily.com",
+    "vtbusinessdaily.com",
+    "wabusinessdaily.com",
+    "wibusinessdaily.com",
+    "wvbusinessdaily.com",
+    "wybusinessdaily.com"
+   ],
+   "eind": "https://businessdailynetwork.com/states/ak",
+   "band": [
+    "goed",
+    "laag",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "laag",
+    "goed",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "goed",
+    "wisselend",
+    "laag",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "laag",
+    "goed",
+    "wisselend",
+    "laag",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "goed",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "goed",
+    "laag"
+   ]
+  },
+  "businessday.co.za": {
+   "oud": [
+    "businesslive.co.za"
+   ],
+   "eind": "https://www.businessday.co.za/",
+   "band": [
+    "goed"
+   ]
+  },
+  "c19early.org": {
+   "oud": [
+    "c19early.com",
+    "c19hcq.com",
+    "c19ivermectin.com",
+    "c19study.com",
+    "c19vitamind.com",
+    "hcqmeta.com",
+    "ivmmeta.com",
+    "vdmeta.com"
+   ],
+   "eind": "https://c19early.org/",
+   "band": [
+    "laag",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "goed",
+    "wisselend",
+    "laag"
+   ]
+  },
+  "cafemom.com": {
+   "oud": [
+    "leoaffairs.com"
+   ],
+   "eind": "https://cafemom.com/tag/political-news",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "calculatrice.now": {
+   "oud": [
+    "urgence-france.com"
+   ],
+   "eind": "https://calculatrice.now/blog/urgence-france-calculatrices-services-urgence",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "canadaland.com": {
+   "oud": [
+    "canadalandshow.com"
+   ],
+   "eind": "https://www.canadaland.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "capecoralbreeze.com": {
+   "oud": [
+    "cape-coral-daily-breeze.com"
+   ],
+   "eind": "https://www.capecoralbreeze.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "cascadepbs.org": {
+   "oud": [
+    "crosscut.com"
+   ],
+   "eind": "https://www.cascadepbs.org/articles/",
+   "band": [
+    "goed"
+   ]
+  },
+  "casino-non-aams-italia061.online": {
+   "oud": [
+    "ilgiornaleitaliano.it"
+   ],
+   "eind": "https://www.casino-non-aams-italia061.online/",
+   "band": [
+    "laag"
+   ]
+  },
+  "castanetkamloops.net": {
+   "oud": [
+    "kamloopsthisweek.com"
+   ],
+   "eind": "https://www.castanetkamloops.net/?utm_source=kamloopsthisweek.com&utm_medium=redirect",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "cdm.press": {
+   "oud": [
+    "creativedestructionmedia.com"
+   ],
+   "eind": "https://cdm.press/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "celebamerica.com": {
+   "oud": [
+    "bvanews.com"
+   ],
+   "eind": "https://celebamerica.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "childrenshealthsolutions.org": {
+   "oud": [
+    "mamm.org"
+   ],
+   "eind": "https://www.childrenshealthsolutions.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "chinaglobalsouth.com": {
+   "oud": [
+    "chinaafricaproject.com"
+   ],
+   "eind": "https://chinaglobalsouth.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "chino.social": {
+   "oud": [
+    "americanpeoplenetwork.com",
+    "hardcoreusanews.com",
+    "newpoliticstoday.com"
+   ],
+   "eind": "https://chino.social",
+   "band": [
+    "laag",
+    "wisselend",
+    "laag"
+   ]
+  },
+  "chipfranklin.com": {
+   "oud": [
+    "insidethebeltway.com"
+   ],
+   "eind": "https://chipfranklin.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "chocolatebymueller.com": {
+   "oud": [
+    "newsdaily12.com"
+   ],
+   "eind": "https://chocolatebymueller.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "clemmonscourier.com": {
+   "oud": [
+    "clemmonscourier.net"
+   ],
+   "eind": "https://clemmonscourier.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "clonedcardstoreusa.com": {
+   "oud": [
+    "eddenya.com"
+   ],
+   "eind": "https://clonedcardstoreusa.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "clubinterplaya.com": {
+   "oud": [
+    "modernliberals.com"
+   ],
+   "eind": "https://clubinterplaya.com/2021/12/inter-playa-del-carmen-avanza-a-semifinales/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "cnhi.com": {
+   "oud": [
+    "glasgowdailytimes.com",
+    "mooreamerican.com"
+   ],
+   "eind": "https://www.cnhi.com/",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "co.com": {
+   "oud": [
+    "trumpvision365.com"
+   ],
+   "eind": "https://rickycasinos.co.com/en-au/",
+   "band": [
+    "laag"
+   ]
+  },
+  "coastalabc.com": {
+   "oud": [
+    "abc6.com"
+   ],
+   "eind": "https://coastalabc.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "coasttv.com": {
+   "oud": [
+    "wrde.com"
+   ],
+   "eind": "https://www.coasttv.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "coinworldmap.io": {
+   "oud": [
+    "alliedprogress.org",
+    "blacknewschannel.com"
+   ],
+   "eind": "https://coinworldmap.io/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "connectsci.au": {
+   "oud": [
+    "cosmosmagazine.com"
+   ],
+   "eind": "https://connectsci.au/news",
+   "band": [
+    "goed"
+   ]
+  },
+  "conservativefighters.co": {
+   "oud": [
+    "conservativefighters.com"
+   ],
+   "eind": "https://conservativefighters.co/",
+   "band": [
+    "laag"
+   ]
+  },
+  "conservativepolitics.com": {
+   "oud": [
+    "reviveusa.com"
+   ],
+   "eind": "https://conservativepolitics.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "contentclerks.co": {
+   "oud": [
+    "theragingpatriot.net"
+   ],
+   "eind": "https://contentclerks.co/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "contra24.com": {
+   "oud": [
+    "contra24.online"
+   ],
+   "eind": "https://contra24.com",
+   "band": [
+    "laag"
+   ]
+  },
+  "corrierealpi.it": {
+   "oud": [
+    "corrierealpi.gelocal.it",
+    "elezioni.corrierealpi.gelocal.it"
+   ],
+   "eind": "https://www.corrierealpi.it/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "cozycottagecute.com": {
+   "oud": [
+    "patriotnetwork.one",
+    "worldpoliticsnow.com"
+   ],
+   "eind": "https://www.cozycottagecute.com/",
+   "band": [
+    "laag",
+    "laag"
+   ]
+  },
+  "cpac.org": {
+   "oud": [
+    "conservative.org"
+   ],
+   "eind": "https://www.cpac.org/foundation/home",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "craig-mullins.com": {
+   "oud": [
+    "cbsnews.com.co"
+   ],
+   "eind": "https://craig-mullins.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "crosswalk.com": {
+   "oud": [
+    "christianheadlines.com"
+   ],
+   "eind": "https://www.crosswalk.com/headlines/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "crowncasino-online.com": {
+   "oud": [
+    "conspiracywire.com"
+   ],
+   "eind": "https://crowncasino-online.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "cryptocasino.co.kr": {
+   "oud": [
+    "rwnofficial.com"
+   ],
+   "eind": "https://www.cryptocasino.co.kr/",
+   "band": [
+    "laag"
+   ]
+  },
+  "csmedicus.org": {
+   "oud": [
+    "corona-solution.com"
+   ],
+   "eind": "https://www.csmedicus.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "cspii.org": {
+   "oud": [
+    "thereligionofpeace.com"
+   ],
+   "eind": "https://www.cspii.org/trop",
+   "band": [
+    "laag"
+   ]
+  },
+  "ctinsider.com": {
+   "oud": [
+    "darientimes.com",
+    "myrecordjournal.com"
+   ],
+   "eind": "https://www.ctinsider.com/news/darien/",
+   "band": [
+    "goed",
+    "goed"
+   ]
+  },
+  "culturcidal.com": {
+   "oud": [
+    "rightwingnews.com"
+   ],
+   "eind": "https://www.culturcidal.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "daltoncitizen.com": {
+   "oud": [
+    "dailycitizen.news"
+   ],
+   "eind": "https://daltoncitizen.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "damien-dufresne.com": {
+   "oud": [
+    "nostraightnews.com"
+   ],
+   "eind": "https://www.damien-dufresne.com/resume/",
+   "band": [
+    "laag"
+   ]
+  },
+  "dangdut4dom.com": {
+   "oud": [
+    "liberaldarkness.com"
+   ],
+   "eind": "https://www.dangdut4dom.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "danhdetructuyen.com": {
+   "oud": [
+    "americantoday.news"
+   ],
+   "eind": "https://danhdetructuyen.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "davidharrisjr.store": {
+   "oud": [
+    "djhjmedia.com"
+   ],
+   "eind": "https://davidharrisjr.store/",
+   "band": [
+    "laag"
+   ]
+  },
+  "dcpatriot.com": {
+   "oud": [
+    "thedcpatriot.com"
+   ],
+   "eind": "https://www.dcpatriot.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "denver7.com": {
+   "oud": [
+    "thedenverchannel.com"
+   ],
+   "eind": "https://www.denver7.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "desmog.com": {
+   "oud": [
+    "desmogblog.com"
+   ],
+   "eind": "https://www.desmog.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "deutschlandradio.de": {
+   "oud": [
+    "dradio.de"
+   ],
+   "eind": "https://www.deutschlandradio.de/",
+   "band": [
+    "goed"
+   ]
+  },
+  "docphin.com": {
+   "oud": [
+    "eaglerising.com"
+   ],
+   "eind": "https://www.docphin.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "domainagents.com": {
+   "oud": [
+    "fakeshare.com",
+    "prankmania.com",
+    "prank.link"
+   ],
+   "eind": "https://domainagents.com/offer/fakeshare.com?ncb=false&dns=1&code=635de9a96cda7bff0fd2b211d0753690",
+   "band": [
+    "laag",
+    "goed",
+    "laag"
+   ]
+  },
+  "domaindc.com": {
+   "oud": [
+    "actualite.co"
+   ],
+   "eind": "https://www.domaindc.com/name/Actualite.co",
+   "band": [
+    "laag"
+   ]
+  },
+  "dpgmedia.be": {
+   "oud": [
+    "hln.be"
+   ],
+   "eind": "https://myprivacy.dpgmedia.be/consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https%3A%2F%2Fwww.hln.be%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252F&isLoggedIn=false",
+   "band": [
+    "goed"
+   ]
+  },
+  "dpgmedia.nl": {
+   "oud": [
+    "ad.nl",
+    "volkskrant.nl"
+   ],
+   "eind": "https://myprivacy.dpgmedia.nl/consent?siteKey=V9f6VUvlHxq9wKIN&callbackUrl=https%3A%2F%2Fwww.ad.nl%2Fprivacy-gate%2Faccept-tcf2%3FredirectUri%3D%252F&isLoggedIn=false",
+   "band": [
+    "goed",
+    "goed"
+   ]
+  },
+  "dreamhosters.com": {
+   "oud": [
+    "thesussexnewspaper.com"
+   ],
+   "eind": "https://thesussexnewspaper.dreamhosters.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "dreuz.com": {
+   "oud": [
+    "dreuz.info"
+   ],
+   "eind": "https://www.dreuz.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "dropout.tv": {
+   "oud": [
+    "collegehumor.com"
+   ],
+   "eind": "https://www.dropout.tv/plans",
+   "band": [
+    "laag"
+   ]
+  },
+  "drunkamerica.net": {
+   "oud": [
+    "theragingpatriot.com"
+   ],
+   "eind": "https://drunkamerica.net/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "drwhoalliance.com": {
+   "oud": [
+    "backroombuzz.com"
+   ],
+   "eind": "https://www.drwhoalliance.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "dulichhalongquangninh.com": {
+   "oud": [
+    "usanewshome.com"
+   ],
+   "eind": "https://dulichhalongquangninh.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "dungannonnow.co.uk": {
+   "oud": [
+    "tyronecourier.co.uk"
+   ],
+   "eind": "https://www.dungannonnow.co.uk/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "dynadot.com": {
+   "oud": [
+    "viralvirus.de"
+   ],
+   "eind": "https://forsale.dynadot.com/forsale/viralvirus.de",
+   "band": [
+    "laag"
+   ]
+  },
+  "echo-des-tribunes.com": {
+   "oud": [
+    "herault-tribune.com"
+   ],
+   "eind": "https://echo-des-tribunes.com/herault-tribune",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "ecplanet.net": {
+   "oud": [
+    "ecplanet.org"
+   ],
+   "eind": "https://ecplanet.net/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "edgefurnish.com": {
+   "oud": [
+    "24wpn.com"
+   ],
+   "eind": "https://edgefurnish.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "edpost.com": {
+   "oud": [
+    "educationpost.org"
+   ],
+   "eind": "https://edpost.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "eljoybikes.com": {
+   "oud": [
+    "abriluno.com"
+   ],
+   "eind": "https://www.eljoybikes.com/uslovia",
+   "band": [
+    "laag"
+   ]
+  },
+  "enjoymachinelearning.com": {
+   "oud": [
+    "freedomfictions.com"
+   ],
+   "eind": "https://enjoymachinelearning.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "epochru.com": {
+   "oud": [
+    "epochtimes.ru"
+   ],
+   "eind": "https://epochru.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "epochtimes.kr": {
+   "oud": [
+    "epochtimes.co.kr",
+    "kr.theepochtimes.com"
+   ],
+   "eind": "https://www.epochtimes.kr/",
+   "band": [
+    "laag",
+    "wisselend"
+   ]
+  },
+  "esiliati.org": {
+   "oud": [
+    "tmcrew.org"
+   ],
+   "eind": "https://web.esiliati.org/tacticalmedia/",
+   "band": [
+    "laag"
+   ]
+  },
+  "esports-news.co.uk": {
+   "oud": [
+    "nursingnotes.co.uk"
+   ],
+   "eind": "https://esports-news.co.uk/online-casinos/non-gamstop/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "esports.net": {
+   "oud": [
+    "anewspost.com",
+    "veteransnewsnow.com"
+   ],
+   "eind": "https://www.esports.net/row/nha-cai-uy-tin/",
+   "band": [
+    "laag",
+    "laag"
+   ]
+  },
+  "eu.com": {
+   "oud": [
+    "conservativestate.com"
+   ],
+   "eind": "https://rue.eu.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "ewtnnews.com": {
+   "oud": [
+    "catholicnewsagency.com"
+   ],
+   "eind": "https://www.ewtnnews.com/?redirectedfrom=cna",
+   "band": [
+    "goed"
+   ]
+  },
+  "executiveinnmh.com": {
+   "oud": [
+    "washingtonbabylon.com"
+   ],
+   "eind": "https://www.executiveinnmh.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "expireddomains.com": {
+   "oud": [
+    "magavoter.com"
+   ],
+   "eind": "https://expireddomains.com/domain/magavoter.com?utm_source=redi",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "expiredwixdomain.com": {
+   "oud": [
+    "thecubenews.com"
+   ],
+   "eind": "https://www.expiredwixdomain.com/?redirectedFor=thecubenews.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "factandmyth.com": {
+   "oud": [
+    "to-day-news-24.com"
+   ],
+   "eind": "https://www.factandmyth.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "farmtalknews.com": {
+   "oud": [
+    "farmtalknewspaper.com"
+   ],
+   "eind": "https://www.farmtalknews.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "fb88com.icu": {
+   "oud": [
+    "freie-medien.tv"
+   ],
+   "eind": "https://fb88com.icu/",
+   "band": [
+    "laag"
+   ]
+  },
+  "fdd.org": {
+   "oud": [
+    "defenddemocracy.org"
+   ],
+   "eind": "https://www.fdd.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "felixrex.net": {
+   "oud": [
+    "blackpigeonspeaks.com"
+   ],
+   "eind": "https://felixrex.net/",
+   "band": [
+    "laag"
+   ]
+  },
+  "filae.com": {
+   "oud": [
+    "genealogy.eu"
+   ],
+   "eind": "https://www.filae.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "firstalert4.com": {
+   "oud": [
+    "kmov.com"
+   ],
+   "eind": "https://www.firstalert4.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "firstalert7.com": {
+   "oud": [
+    "cbs7.com"
+   ],
+   "eind": "https://www.firstalert7.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "floricuanews.com": {
+   "oud": [
+    "theamericanonews.com"
+   ],
+   "eind": "https://floricuanews.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "fonddulactimes.com": {
+   "oud": [
+    "fondulacnews.com"
+   ],
+   "eind": "https://fonddulactimes.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "foreignspolicyi.org": {
+   "oud": [
+    "foreignpolicyi.org"
+   ],
+   "eind": "https://foreignspolicyi.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "fox13seattle.com": {
+   "oud": [
+    "q13fox.com"
+   ],
+   "eind": "https://www.fox13seattle.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "france.tv": {
+   "oud": [
+    "francetv.fr"
+   ],
+   "eind": "https://www.france.tv/",
+   "band": [
+    "goed"
+   ]
+  },
+  "franceinfo.fr": {
+   "oud": [
+    "france3-regions.francetvinfo.fr",
+    "francetvinfo.fr"
+   ],
+   "eind": "https://france3-regions.franceinfo.fr/",
+   "band": [
+    "goed",
+    "goed"
+   ]
+  },
+  "freddythefrogcaster.com": {
+   "oud": [
+    "consjournal.com"
+   ],
+   "eind": "https://www.freddythefrogcaster.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "freedict.com": {
+   "oud": [
+    "thuglifevideos.com"
+   ],
+   "eind": "https://freedict.com/word/thug-life",
+   "band": [
+    "laag"
+   ]
+  },
+  "freedomain.com": {
+   "oud": [
+    "freedomainradio.com"
+   ],
+   "eind": "https://freedomain.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "freedomforceinternational.org": {
+   "oud": [
+    "freedomforceinternational.com"
+   ],
+   "eind": "https://freedomforceinternational.org",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "freedompress.org.uk": {
+   "oud": [
+    "freedomnews.org.uk"
+   ],
+   "eind": "https://freedompress.org.uk/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "friv.com": {
+   "oud": [
+    "islamicanews.com"
+   ],
+   "eind": "https://www.friv.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "gameshub.com": {
+   "oud": [
+    "spartareport.com"
+   ],
+   "eind": "https://www.gameshub.com/malaysia/crypto-casinos/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "gaytimes.com": {
+   "oud": [
+    "gaytimes.co.uk"
+   ],
+   "eind": "https://www.gaytimes.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "gazzettadimantova.it": {
+   "oud": [
+    "gazzettadimantova.gelocal.it"
+   ],
+   "eind": "https://www.gazzettadimantova.it",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "givesendgo.com": {
+   "oud": [
+    "unclesamsmisguidedchildren.com"
+   ],
+   "eind": "https://www.givesendgo.com/bonemarrowfortank",
+   "band": [
+    "laag"
+   ]
+  },
+  "globalhealing.com": {
+   "oud": [
+    "globalhealingcenter.com"
+   ],
+   "eind": "https://globalhealing.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "gloucesterschoonerfestival.net": {
+   "oud": [
+    "truthfeednews.com"
+   ],
+   "eind": "https://gloucesterschoonerfestival.net/",
+   "band": [
+    "laag"
+   ]
+  },
+  "godtube.com": {
+   "oud": [
+    "godupdates.com"
+   ],
+   "eind": "https://www.godtube.com/blog/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "goldsilver.com": {
+   "oud": [
+    "brotherjohnf.com"
+   ],
+   "eind": "https://goldsilver.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "governmentslaves.news": {
+   "oud": [
+    "govtslaves.info"
+   ],
+   "eind": "https://www.governmentslaves.news/",
+   "band": [
+    "laag"
+   ]
+  },
+  "greatglen.org": {
+   "oud": [
+    "abcnews.com.co"
+   ],
+   "eind": "https://greatglen.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "gulfcoastnewsnow.com": {
+   "oud": [
+    "abc-7.com",
+    "nbc-2.com"
+   ],
+   "eind": "https://gulfcoastnewsnow.com/",
+   "band": [
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "hackernoon.com": {
+   "oud": [
+    "extranewsfeed.com"
+   ],
+   "eind": "https://hackernoon.com/c/hackernoon",
+   "band": [
+    "goed"
+   ]
+  },
+  "hafizhoney.com": {
+   "oud": [
+    "bostonleader.com"
+   ],
+   "eind": "https://hafizhoney.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "hagmannpi.com": {
+   "oud": [
+    "hagmannreport.com"
+   ],
+   "eind": "https://www.hagmannpi.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "harvardhealth.org": {
+   "oud": [
+    "health.harvard.edu"
+   ],
+   "eind": "https://www.harvardhealth.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "hatingbreitbart.com": {
+   "oud": [
+    "foundingbloggers.com"
+   ],
+   "eind": "https://hatingbreitbart.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "headlinesplus.com": {
+   "oud": [
+    "thepoliticalinsider.com"
+   ],
+   "eind": "https://www.headlinesplus.com/politics",
+   "band": [
+    "laag"
+   ]
+  },
+  "hearst.com": {
+   "oud": [
+    "hearsttelevision.com"
+   ],
+   "eind": "https://www.hearst.com/television",
+   "band": [
+    "goed"
+   ]
+  },
+  "hermancainmovie.com": {
+   "oud": [
+    "hermancain.com"
+   ],
+   "eind": "https://www.hermancainmovie.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "hewany.com": {
+   "oud": [
+    "freedomsfinalstand.com"
+   ],
+   "eind": "https://hewany.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "hiddlesfashion.com": {
+   "oud": [
+    "city-herald.com"
+   ],
+   "eind": "https://hiddlesfashion.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "history.nl": {
+   "oud": [
+    "history.com"
+   ],
+   "eind": "https://www.history.nl/nl",
+   "band": [
+    "laag"
+   ]
+  },
+  "horizonactu.fr": {
+   "oud": [
+    "horizonradio.fr"
+   ],
+   "eind": "https://www.horizonactu.fr/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "hotel-du-champ-de-mars.com": {
+   "oud": [
+    "borderherald.com"
+   ],
+   "eind": "https://hotel-du-champ-de-mars.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "housestructures.com": {
+   "oud": [
+    "nunadisbereel.com"
+   ],
+   "eind": "https://housestructures.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "housethathankbuilt.com": {
+   "oud": [
+    "tomahawktake.com"
+   ],
+   "eind": "https://housethathankbuilt.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "howlonguntil.io": {
+   "oud": [
+    "countdowntozerotime.com"
+   ],
+   "eind": "https://howlonguntil.io/",
+   "band": [
+    "laag"
+   ]
+  },
+  "hssm.co.za": {
+   "oud": [
+    "eminetra.co.za"
+   ],
+   "eind": "https://hssm.co.za/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "i9bet.cx": {
+   "oud": [
+    "readconservatives.news"
+   ],
+   "eind": "https://i9bet.cx/",
+   "band": [
+    "laag"
+   ]
+  },
+  "ici.fr": {
+   "oud": [
+    "francebleu.fr"
+   ],
+   "eind": "https://www.ici.fr/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "ictnews.org": {
+   "oud": [
+    "indiancountrytoday.com"
+   ],
+   "eind": "https://ictnews.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "idgacor.info": {
+   "oud": [
+    "huffpostbrasil.com"
+   ],
+   "eind": "https://idgacor.info",
+   "band": [
+    "goed"
+   ]
+  },
+  "ifamericansknew.org": {
+   "oud": [
+    "ifamericaknew.org"
+   ],
+   "eind": "https://ifamericansknew.org/404.html?v=202611062058",
+   "band": [
+    "goed"
+   ]
+  },
+  "illustratedteacup.com": {
+   "oud": [
+    "dailysidnews.com",
+    "globalpoliticsnow.com",
+    "globalrevolutionnetwork.com"
+   ],
+   "eind": "https://illustratedteacup.com/",
+   "band": [
+    "laag",
+    "laag",
+    "laag"
+   ]
+  },
+  "ilnordest.it": {
+   "oud": [
+    "nordesteconomia.gelocal.it"
+   ],
+   "eind": "https://www.ilnordest.it/economia",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "ilovemyfreedom.com": {
+   "oud": [
+    "ilovemyfreedom.org"
+   ],
+   "eind": "https://www.ilovemyfreedom.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "ilpiccolo.it": {
+   "oud": [
+    "elezioni.ilpiccolo.gelocal.it",
+    "ilpiccolo.gelocal.it"
+   ],
+   "eind": "https://www.ilpiccolo.it/",
+   "band": [
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "imahealth.org": {
+   "oud": [
+    "covid19criticalcare.com"
+   ],
+   "eind": "https://imahealth.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "independentwomen.com": {
+   "oud": [
+    "iwf.org"
+   ],
+   "eind": "https://www.independentwomen.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "industrypace.com": {
+   "oud": [
+    "polipace.com"
+   ],
+   "eind": "https://industrypace.com/performance-marketing-insider/",
+   "band": [
+    "laag"
+   ]
+  },
+  "infonews.ca": {
+   "oud": [
+    "infotel.ca"
+   ],
+   "eind": "https://infonews.ca",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "informacion.es": {
+   "oud": [
+    "diarioinformacion.com"
+   ],
+   "eind": "https://www.informacion.es/",
+   "band": [
+    "goed"
+   ]
+  },
+  "inforos.com": {
+   "oud": [
+    "inforos.ru"
+   ],
+   "eind": "https://inforos.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "iol.pt": {
+   "oud": [
+    "poligrafo.sapo.pt"
+   ],
+   "eind": "https://poligrafo.iol.pt/",
+   "band": [
+    "goed"
+   ]
+  },
+  "iptvsuomi.se": {
+   "oud": [
+    "fabiosa.guru"
+   ],
+   "eind": "https://iptvsuomi.se",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "issaquahreporter.com": {
+   "oud": [
+    "issaquah-reporter.com"
+   ],
+   "eind": "https://www.issaquahreporter.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "janbokoi.com": {
+   "oud": [
+    "usatodaypost.com"
+   ],
+   "eind": "https://www.janbokoi.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "jasonmattera.com": {
+   "oud": [
+    "dailysurge.com"
+   ],
+   "eind": "https://jasonmattera.com",
+   "band": [
+    "laag"
+   ]
+  },
+  "jenius196.com": {
+   "oud": [
+    "libertyfrontpress.com"
+   ],
+   "eind": "https://jenius196.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "jepubliejereflechis.net": {
+   "oud": [
+    "battypost.com"
+   ],
+   "eind": "https://jepubliejereflechis.net/",
+   "band": [
+    "laag"
+   ]
+  },
+  "jimmydeyoungjr.org": {
+   "oud": [
+    "prophecytoday.com"
+   ],
+   "eind": "https://www.jimmydeyoungjr.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "joemessina.com": {
+   "oud": [
+    "therealside.com"
+   ],
+   "eind": "https://joemessina.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "johntaftindy.com": {
+   "oud": [
+    "antwerpen-indymedia.be"
+   ],
+   "eind": "https://johntaftindy.com/contact/",
+   "band": [
+    "laag"
+   ]
+  },
+  "joyn.at": {
+   "oud": [
+    "puls24.at"
+   ],
+   "eind": "https://news.joyn.at",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "keenesentinel.com": {
+   "oud": [
+    "sentinelsource.com"
+   ],
+   "eind": "https://www.keenesentinel.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "kestrel-usa.com": {
+   "oud": [
+    "strategika51.org"
+   ],
+   "eind": "https://www.kestrel-usa.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "kffhealthnews.org": {
+   "oud": [
+    "khn.org"
+   ],
+   "eind": "https://kffhealthnews.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "kioncentralcoast.com": {
+   "oud": [
+    "kion546.com"
+   ],
+   "eind": "https://kioncentralcoast.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "kkco11news.com": {
+   "oud": [
+    "nbc11news.com"
+   ],
+   "eind": "https://www.kkco11news.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "krytykapolityczna.pl": {
+   "oud": [
+    "politicalcritique.org"
+   ],
+   "eind": "https://krytykapolityczna.pl/political-critique-archive/",
+   "band": [
+    "goed"
+   ]
+  },
+  "laprovinciapavese.it": {
+   "oud": [
+    "laprovinciapavese.gelocal.it",
+    "video.laprovinciapavese.gelocal.it"
+   ],
+   "eind": "https://www.laprovinciapavese.it/",
+   "band": [
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "larryelder.com": {
+   "oud": [
+    "sebgorka.com"
+   ],
+   "eind": "https://larryelder.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "lasentinella.it": {
+   "oud": [
+    "lasentinella.gelocal.it"
+   ],
+   "eind": "https://lasentinella.it/",
+   "band": [
+    "goed"
+   ]
+  },
+  "lasvegascitywire.com": {
+   "oud": [
+    "lasvegasrecord.com"
+   ],
+   "eind": "https://lasvegascitywire.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "lawfaremedia.org": {
+   "oud": [
+    "lawfareblog.com"
+   ],
+   "eind": "https://www.lawfaremedia.org",
+   "band": [
+    "goed"
+   ]
+  },
+  "leclosdumenallen.com": {
+   "oud": [
+    "politicalears.com"
+   ],
+   "eind": "https://leclosdumenallen.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "lejdf.fr": {
+   "oud": [
+    "lalettrepatriote.com"
+   ],
+   "eind": "https://lejdf.fr/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "lespresso.it": {
+   "oud": [
+    "espresso.repubblica.it"
+   ],
+   "eind": "https://lespresso.it/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "libertyplanet.com": {
+   "oud": [
+    "libertyplanets.com"
+   ],
+   "eind": "https://libertyplanet.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "liverpoolworld.uk": {
+   "oud": [
+    "sthelensreporter.co.uk"
+   ],
+   "eind": "https://www.liverpoolworld.uk/your-merseyside/st-helens",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "livestrong.org": {
+   "oud": [
+    "livestrong.com"
+   ],
+   "eind": "https://livestrong.org/?utm_source=dotcom&utm_medium=referral",
+   "band": [
+    "laag"
+   ]
+  },
+  "livewell.com": {
+   "oud": [
+    "bullionbullscanada.com"
+   ],
+   "eind": "https://livewell.com/finance/understanding-the-bull-market-for-bullion-gold/",
+   "band": [
+    "laag"
+   ]
+  },
+  "local3news.com": {
+   "oud": [
+    "wrcbtv.com"
+   ],
+   "eind": "https://www.local3news.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "lucaeducar.com.br": {
+   "oud": [
+    "satiratribune.com"
+   ],
+   "eind": "https://lucaeducar.com.br/contato/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "m88.green": {
+   "oud": [
+    "dailyherald.news"
+   ],
+   "eind": "https://m88.green/",
+   "band": [
+    "goed"
+   ]
+  },
+  "macandarat.com": {
+   "oud": [
+    "sciencevibe.com"
+   ],
+   "eind": "https://macandarat.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "makifashion.com": {
+   "oud": [
+    "prideof-america.org"
+   ],
+   "eind": "https://makifashion.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "manhattan.institute": {
+   "oud": [
+    "manhattan-institute.org"
+   ],
+   "eind": "https://manhattan.institute/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "marketrithm.com": {
+   "oud": [
+    "dcenquirer.com"
+   ],
+   "eind": "https://marketrithm.com/domain-parked",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "markmonitor.com": {
+   "oud": [
+    "verywellfamily.com"
+   ],
+   "eind": "http://comingsoon.markmonitor.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "martindow.com": {
+   "oud": [
+    "lastresistance.com"
+   ],
+   "eind": "https://lms.martindow.com/login/index.php",
+   "band": [
+    "laag"
+   ]
+  },
+  "matsusentinel.com": {
+   "oud": [
+    "frontiersman.com"
+   ],
+   "eind": "https://www.matsusentinel.com/?src=frontiersman",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "mattinopadova.it": {
+   "oud": [
+    "elezioni.mattinopadova.gelocal.it",
+    "mattinopadova.gelocal.it"
+   ],
+   "eind": "https://www.mattinopadova.it/",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "mby.co.kr": {
+   "oud": [
+    "mbynews.com"
+   ],
+   "eind": "https://www.mby.co.kr/",
+   "band": [
+    "laag"
+   ]
+  },
+  "medianewsgroup.com": {
+   "oud": [
+    "buckslocalnews.com",
+    "delconewsnetwork.com",
+    "info.bayareanewsgroup.com",
+    "montgomerynews.com"
+   ],
+   "eind": "https://www.medianewsgroup.com/",
+   "band": [
+    "goed",
+    "wisselend",
+    "goed",
+    "wisselend"
+   ]
+  },
+  "mediatakeout.com": {
+   "oud": [
+    "mtonews.com"
+   ],
+   "eind": "https://mediatakeout.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "meidasnews.com": {
+   "oud": [
+    "meidastouch.com"
+   ],
+   "eind": "https://meidasnews.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "messaggeroveneto.it": {
+   "oud": [
+    "elezioni.messaggeroveneto.gelocal.it",
+    "messaggeroveneto.gelocal.it"
+   ],
+   "eind": "https://www.messaggeroveneto.it/",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "metrotoday.it": {
+   "oud": [
+    "metronews.it"
+   ],
+   "eind": "https://metrotoday.it/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "michiganpublic.org": {
+   "oud": [
+    "michiganradio.org"
+   ],
+   "eind": "https://www.michiganpublic.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "midmichigannow.com": {
+   "oud": [
+    "nbc25news.com"
+   ],
+   "eind": "https://midmichigannow.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "minnesotapbs.org": {
+   "oud": [
+    "nextavenue.org"
+   ],
+   "eind": "https://discover.minnesotapbs.org/nextavenue",
+   "band": [
+    "goed"
+   ]
+  },
+  "mississippivalleypublishing.com": {
+   "oud": [
+    "thehawkeye.com"
+   ],
+   "eind": "https://www.mississippivalleypublishing.com/the_hawk_eye/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "moquality.com": {
+   "oud": [
+    "newswire-24.com"
+   ],
+   "eind": "https://moquality.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "mostextremenews.com": {
+   "oud": [
+    "channel22news.com",
+    "channel23news.com",
+    "channel24news.com",
+    "channel28news.com",
+    "channel33news.com",
+    "channel34news.com",
+    "channel40news.com",
+    "channel46news.com",
+    "channel45news.com",
+    "famousviralstories.com",
+    "viralnewssocial.com"
+   ],
+   "eind": "https://mostextremenews.com",
+   "band": [
+    "laag",
+    "laag",
+    "laag",
+    "laag",
+    "laag",
+    "laag",
+    "wisselend",
+    "wisselend",
+    "laag",
+    "laag",
+    "laag"
+   ]
+  },
+  "mrcvideo.org": {
+   "oud": [
+    "mrctv.org"
+   ],
+   "eind": "https://mrcvideo.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "mrwallpaper.com": {
+   "oud": [
+    "breakingburgh.com",
+    "theantimedia.com"
+   ],
+   "eind": "https://mrwallpaper.com/breaking-bad",
+   "band": [
+    "laag",
+    "laag"
+   ]
+  },
+  "ms.now": {
+   "oud": [
+    "msnbc.com"
+   ],
+   "eind": "https://www.ms.now/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "mu88-bet-vn.com": {
+   "oud": [
+    "reedcooper.net"
+   ],
+   "eind": "https://mu88-bet-vn.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "myactionable.com": {
+   "oud": [
+    "countable.us"
+   ],
+   "eind": "https://www.myactionable.com/?utm_source=countable.us",
+   "band": [
+    "goed"
+   ]
+  },
+  "mycharisma.com": {
+   "oud": [
+    "charismamag.com",
+    "charismanews.com"
+   ],
+   "eind": "https://mycharisma.com/",
+   "band": [
+    "wisselend",
+    "laag"
+   ]
+  },
+  "mynewstoday.ca": {
+   "oud": [
+    "blackburnnews.com"
+   ],
+   "eind": "https://mynewstoday.ca",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "nasonline.org": {
+   "oud": [
+    "nationalacademyofsciences.org"
+   ],
+   "eind": "https://www.nasonline.org/directory-entry/major-m-goodman-vfirls/",
+   "band": [
+    "goed"
+   ]
+  },
+  "naturalhealthresponse.com": {
+   "oud": [
+    "allianceforadvancedhealth.com"
+   ],
+   "eind": "https://naturalhealthresponse.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "ncnewsline.com": {
+   "oud": [
+    "ncpolicywatch.com"
+   ],
+   "eind": "https://ncnewsline.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "networksolutions.com": {
+   "oud": [
+    "benjaminfulford.typepad.com",
+    "bighairynews.com"
+   ],
+   "eind": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+   "band": [
+    "wisselend",
+    "laag"
+   ]
+  },
+  "newslit.org": {
+   "oud": [
+    "thenewsliteracyproject.org"
+   ],
+   "eind": "https://newslit.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "noizz.pl": {
+   "oud": [
+    "noizz.de"
+   ],
+   "eind": "https://noizz.pl/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "northernnewsnow.com": {
+   "oud": [
+    "kbjr6.com"
+   ],
+   "eind": "https://www.northernnewsnow.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "npo.nl": {
+   "oud": [
+    "publiekeomroep.nl"
+   ],
+   "eind": "https://npo.nl/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ntdca.com": {
+   "oud": [
+    "ntdtv.ca"
+   ],
+   "eind": "https://ntdca.com",
+   "band": [
+    "laag"
+   ]
+  },
+  "numbersusa.org": {
+   "oud": [
+    "numbersusa.com"
+   ],
+   "eind": "https://numbersusa.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "nuovavenezia.it": {
+   "oud": [
+    "elezioni.nuovavenezia.gelocal.it",
+    "nuovavenezia.gelocal.it"
+   ],
+   "eind": "https://www.nuovavenezia.it/",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "objectifsud.fr": {
+   "oud": [
+    "objectifgard.com"
+   ],
+   "eind": "https://www.objectifsud.fr/",
+   "band": [
+    "goed"
+   ]
+  },
+  "oce69log.com": {
+   "oud": [
+    "navarroreport.com"
+   ],
+   "eind": "https://oce69log.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "ohiopatientsnetwork.org": {
+   "oud": [
+    "pmnightlynews.com"
+   ],
+   "eind": "https://www.ohiopatientsnetwork.org/",
+   "band": [
+    "laag"
+   ]
+  },
+  "olxcium.com": {
+   "oud": [
+    "heaviermetal.net"
+   ],
+   "eind": "https://olxcium.com/referral",
+   "band": [
+    "laag"
+   ]
+  },
+  "omacuankeras.com": {
+   "oud": [
+    "lanceurdalerte.info"
+   ],
+   "eind": "https://omacuankeras.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "onamae.com": {
+   "oud": [
+    "dayreports.xyz"
+   ],
+   "eind": "https://parking.onamae.com/?domain=dayreports.xyz",
+   "band": [
+    "laag"
+   ]
+  },
+  "onevsp.com": {
+   "oud": [
+    "brandnewtube.com"
+   ],
+   "eind": "https://onevsp.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "online-casino-malaysia.info": {
+   "oud": [
+    "realnewsrightnow.com"
+   ],
+   "eind": "https://online-casino-malaysia.info/",
+   "band": [
+    "laag"
+   ]
+  },
+  "onlinepokerthailand.com": {
+   "oud": [
+    "the-dailystar.com"
+   ],
+   "eind": "https://onlinepokerthailand.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "onlyfans.com": {
+   "oud": [
+    "drugsofficial.com"
+   ],
+   "eind": "https://onlyfans.com/princessjadenoir",
+   "band": [
+    "laag"
+   ]
+  },
+  "onlys.ky": {
+   "oud": [
+    "onlysky.media"
+   ],
+   "eind": "https://onlys.ky/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ontariofarmer.com": {
+   "oud": [
+    "todaysfarmer.ca"
+   ],
+   "eind": "https://www.ontariofarmer.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "opendoorsus.org": {
+   "oud": [
+    "opendoorsusa.org"
+   ],
+   "eind": "https://www.opendoorsus.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "panen123.xyz": {
+   "oud": [
+    "spectrumreport.com"
+   ],
+   "eind": "https://panen123.xyz/",
+   "band": [
+    "goed"
+   ]
+  },
+  "paradium.ai": {
+   "oud": [
+    "themaven.net"
+   ],
+   "eind": "https://paradium.ai",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "participant.com": {
+   "oud": [
+    "takepart.com"
+   ],
+   "eind": "https://participant.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "peoplefor.org": {
+   "oud": [
+    "pfaw.org",
+    "rightwingwatch.org"
+   ],
+   "eind": "https://www.peoplefor.org/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "perfectlygoodhome.com": {
+   "oud": [
+    "usadailypost.us"
+   ],
+   "eind": "https://perfectlygoodhome.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "persuasion.community": {
+   "oud": [
+    "americanpurpose.com"
+   ],
+   "eind": "https://www.persuasion.community/s/american-purpose",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "pfizer.de": {
+   "oud": [
+    "landdergesundheit.de"
+   ],
+   "eind": "https://www.pfizer.de/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "pickax.com": {
+   "oud": [
+    "freedomfirstnetwork.com"
+   ],
+   "eind": "https://pickax.com/freedomfirstnetwork",
+   "band": [
+    "laag"
+   ]
+  },
+  "pixellum.com": {
+   "oud": [
+    "addictinginfo.com"
+   ],
+   "eind": "https://pixellum.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "plaindealerin.com": {
+   "oud": [
+    "h-ponline.com",
+    "perutribune.com",
+    "wabashplaindealer.com"
+   ],
+   "eind": "https://www.plaindealerin.com/",
+   "band": [
+    "goed",
+    "goed",
+    "goed"
+   ]
+  },
+  "privacyitalia.eu": {
+   "oud": [
+    "informazione.it"
+   ],
+   "eind": "https://www.privacyitalia.eu/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "pryanik.co": {
+   "oud": [
+    "wlinks.co"
+   ],
+   "eind": "https://hr.pryanik.co/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "ptl.tv": {
+   "oud": [
+    "jimbakkershow.com"
+   ],
+   "eind": "https://ptl.tv/shows/the-jim-bakker-show/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "pugdogrescue.com": {
+   "oud": [
+    "francenewslive.com"
+   ],
+   "eind": "https://www.pugdogrescue.com/adoptions",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "qcnews.com": {
+   "oud": [
+    "fox46charlotte.com"
+   ],
+   "eind": "https://www.qcnews.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "rainwaterforindiana.com": {
+   "oud": [
+    "therightists.com"
+   ],
+   "eind": "https://www.rainwaterforindiana.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "rajatoto88mayo.com": {
+   "oud": [
+    "intellihub.com"
+   ],
+   "eind": "https://rajatoto88mayo.com/lite",
+   "band": [
+    "laag"
+   ]
+  },
+  "ranenetwork.com": {
+   "oud": [
+    "stratfor.com"
+   ],
+   "eind": "https://worldview.ranenetwork.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "rapporteur.com": {
+   "oud": [
+    "euractiv.com"
+   ],
+   "eind": "https://www.rapporteur.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ravallirepublic.com": {
+   "oud": [
+    "ravallinews.com"
+   ],
+   "eind": "https://ravallirepublic.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "rays-wheels.net": {
+   "oud": [
+    "allenbwest.com"
+   ],
+   "eind": "https://rays-wheels.net/about",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "rc.fr": {
+   "oud": [
+    "radiocourtoisie.fr"
+   ],
+   "eind": "https://www.rc.fr/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "readthemaple.com": {
+   "oud": [
+    "north99.org"
+   ],
+   "eind": "https://www.readthemaple.com/our-history/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "reidnewspapers.com": {
+   "oud": [
+    "grandlakenews.com"
+   ],
+   "eind": "https://www.reidnewspapers.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "republicaneagle.com": {
+   "oud": [
+    "republican-eagle.com",
+    "rivertowns.net"
+   ],
+   "eind": "https://www.republicaneagle.com/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "resistthemainstream.com": {
+   "oud": [
+    "resistthemainstream.org"
+   ],
+   "eind": "https://resistthemainstream.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "respectamerica.org": {
+   "oud": [
+    "respectidaho.com",
+    "respectnh.com"
+   ],
+   "eind": "https://www.respectamerica.org/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "reutersconnect.com": {
+   "oud": [
+    "pictures.reuters.com"
+   ],
+   "eind": "https://www.reutersconnect.com/feed",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "revivalmotorsandcoffeeco.com": {
+   "oud": [
+    "tmzcomedy.com"
+   ],
+   "eind": "https://revivalmotorsandcoffeeco.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "richardsonscanalhouse.com": {
+   "oud": [
+    "observeronline.news"
+   ],
+   "eind": "https://richardsonscanalhouse.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "rickd.com": {
+   "oud": [
+    "wisemindhealthybody.com"
+   ],
+   "eind": "https://rickd.com/eat-local-grown-has-moved/",
+   "band": [
+    "laag"
+   ]
+  },
+  "rmoutlook.com": {
+   "oud": [
+    "rmotoday.com"
+   ],
+   "eind": "https://www.rmoutlook.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "rockfordnewsfirst.com": {
+   "oud": [
+    "wifr.com",
+    "wrex.com"
+   ],
+   "eind": "https://www.rockfordnewsfirst.com/",
+   "band": [
+    "goed",
+    "wisselend"
+   ]
+  },
+  "route66post.com": {
+   "oud": [
+    "covid19reporter.com"
+   ],
+   "eind": "https://route66post.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "rsn.org": {
+   "oud": [
+    "readersupportednews.org"
+   ],
+   "eind": "https://www.rsn.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "rubikon-verlag.ch": {
+   "oud": [
+    "rubikon.news"
+   ],
+   "eind": "https://rubikon-verlag.ch/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "s4c.cymru": {
+   "oud": [
+    "s4c.co.uk"
+   ],
+   "eind": "https://www.s4c.cymru/cy/",
+   "band": [
+    "goed"
+   ]
+  },
+  "sakti123online.com": {
+   "oud": [
+    "progressivestoday.com"
+   ],
+   "eind": "https://sakti123online.com/game/pgr/3",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "sanbufarm.com": {
+   "oud": [
+    "libertywriters.com"
+   ],
+   "eind": "https://www.sanbufarm.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "sanfrancesco.org": {
+   "oud": [
+    "sanfrancescopatronoditalia.it"
+   ],
+   "eind": "https://media.sanfrancesco.org",
+   "band": [
+    "goed"
+   ]
+  },
+  "saudiworldfootball.com": {
+   "oud": [
+    "pennsylvanianewstoday.com"
+   ],
+   "eind": "https://saudiworldfootball.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "scdailypress.com": {
+   "oud": [
+    "scsun-news.com"
+   ],
+   "eind": "https://www.scdailypress.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "schiffsovereign.com": {
+   "oud": [
+    "sovereignman.com"
+   ],
+   "eind": "https://www.schiffsovereign.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "scienceandculture.com": {
+   "oud": [
+    "evolutionnews.org"
+   ],
+   "eind": "https://scienceandculture.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "scrippsnews.com": {
+   "oud": [
+    "newsy.com"
+   ],
+   "eind": "https://www.scrippsnews.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "secteurpublic.fr": {
+   "oud": [
+    "fabiosa.fr"
+   ],
+   "eind": "https://www.secteurpublic.fr",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "selvirtual.org": {
+   "oud": [
+    "liberalamerica.life"
+   ],
+   "eind": "https://selvirtual.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "seramount.com": {
+   "oud": [
+    "workingmother.com"
+   ],
+   "eind": "https://seramount.com/working-mother/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "simplehomeliving.com": {
+   "oud": [
+    "patriotusa.website"
+   ],
+   "eind": "https://simplehomeliving.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "sinomassage.at": {
+   "oud": [
+    "usatodaysun.com"
+   ],
+   "eind": "https://www.sinomassage.at/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "sky.it": {
+   "oud": [
+    "skytg24news.com"
+   ],
+   "eind": "https://www.sky.it/",
+   "band": [
+    "laag"
+   ]
+  },
+  "slot-machines.co": {
+   "oud": [
+    "msfanpage.link"
+   ],
+   "eind": "https://slot-machines.co/",
+   "band": [
+    "laag"
+   ]
+  },
+  "smilewithcaredentalcolorado.com": {
+   "oud": [
+    "acculturated.com",
+    "news4ktla.com"
+   ],
+   "eind": "https://www.smilewithcaredentalcolorado.com/",
+   "band": [
+    "wisselend",
+    "laag"
+   ]
+  },
+  "snowilee.com": {
+   "oud": [
+    "thelibertyloft.com"
+   ],
+   "eind": "https://snowilee.com/services/",
+   "band": [
+    "laag"
+   ]
+  },
+  "socolivezam.tv": {
+   "oud": [
+    "conservativebeaver.com",
+    "thedailysheeple.com"
+   ],
+   "eind": "https://socolivezam.tv/",
+   "band": [
+    "laag",
+    "laag"
+   ]
+  },
+  "spectator.com": {
+   "oud": [
+    "spectator.co.uk",
+    "spectatorworld.com"
+   ],
+   "eind": "https://spectator.com/",
+   "band": [
+    "goed",
+    "goed"
+   ]
+  },
+  "spectrumnewsnecn.com": {
+   "oud": [
+    "necn.com"
+   ],
+   "eind": "https://spectrumnewsnecn.com/?necn=true",
+   "band": [
+    "goed"
+   ]
+  },
+  "spinmagazine.com": {
+   "oud": [
+    "spin.com"
+   ],
+   "eind": "https://www.spinmagazine.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "springer.com": {
+   "oud": [
+    "aerztezeitung.de",
+    "biomedcentral.com"
+   ],
+   "eind": "https://signon.springer.com/login?service=https%3a%2f%2fwww.aerztezeitung.de%2fSso%2fSpringerSso%3fCurrentUrl%3d%252f&gateway=true",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "springerpub.com": {
+   "oud": [
+    "minoritynurse.com"
+   ],
+   "eind": "https://dailynurse.springerpub.com/minority-nurse",
+   "band": [
+    "goed"
+   ]
+  },
+  "stalbertgazette.com": {
+   "oud": [
+    "stalberttoday.ca"
+   ],
+   "eind": "https://www.stalbertgazette.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "stanlynewsjournal.com": {
+   "oud": [
+    "thesnaponline.com"
+   ],
+   "eind": "https://stanlynewsjournal.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "stansberryresearch.com": {
+   "oud": [
+    "americanconsequences.com"
+   ],
+   "eind": "https://stansberryresearch.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "steynonline.com": {
+   "oud": [
+    "marksteyn.com"
+   ],
+   "eind": "https://www.steynonline.com",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "stlpr.org": {
+   "oud": [
+    "stlpublicradio.org"
+   ],
+   "eind": "https://www.stlpr.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "studyfinds.com": {
+   "oud": [
+    "studyfinds.org"
+   ],
+   "eind": "https://studyfinds.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "stylabelparis.com": {
+   "oud": [
+    "covidinfos.net"
+   ],
+   "eind": "https://stylabelparis.com/products/jogging-mila/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "sv388vn.co": {
+   "oud": [
+    "usatoday.com.co"
+   ],
+   "eind": "https://sv388vn.co/",
+   "band": [
+    "laag"
+   ]
+  },
+  "tainews.com": {
+   "oud": [
+    "americanindependent.com"
+   ],
+   "eind": "https://tainews.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "tampabay28.com": {
+   "oud": [
+    "abcactionnews.com"
+   ],
+   "eind": "https://www.tampabay28.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "tankerenemy.it": {
+   "oud": [
+    "tankerenemymeteo.blogspot.it"
+   ],
+   "eind": "https://www.tankerenemy.it/",
+   "band": [
+    "laag"
+   ]
+  },
+  "targetfreedomusa.com": {
+   "oud": [
+    "electionnightgatekeepers.com"
+   ],
+   "eind": "https://electionnightgatekeepers.targetfreedomusa.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "tegna.com": {
+   "oud": [
+    "verifythis.com"
+   ],
+   "eind": "https://www.tegna.com/brands/",
+   "band": [
+    "goed"
+   ]
+  },
+  "teleambiente.tv": {
+   "oud": [
+    "teleambiente.it"
+   ],
+   "eind": "https://teleambiente.tv/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "telenorba.it": {
+   "oud": [
+    "norbaonline.it"
+   ],
+   "eind": "https://telenorba.it/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "teleromagna.it": {
+   "oud": [
+    "teleromagna24.it"
+   ],
+   "eind": "https://teleromagna.it/it",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "texasgrapeswinetours.com": {
+   "oud": [
+    "altermedzentrum.com"
+   ],
+   "eind": "https://www.texasgrapeswinetours.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "tgcom24news.it": {
+   "oud": [
+    "tgcom24news.com"
+   ],
+   "eind": "https://www.tgcom24news.it",
+   "band": [
+    "laag"
+   ]
+  },
+  "thebalancemoney.com": {
+   "oud": [
+    "thebalance.com"
+   ],
+   "eind": "https://www.thebalancemoney.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thebeaconnews.org": {
+   "oud": [
+    "thebeacon.media"
+   ],
+   "eind": "https://thebeaconnews.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thebeulahrestaurant.com": {
+   "oud": [
+    "democracyguardian.com"
+   ],
+   "eind": "https://thebeulahrestaurant.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "thecatholicherald.com": {
+   "oud": [
+    "catholicherald.co.uk"
+   ],
+   "eind": "https://thecatholicherald.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "thecentersquare.org": {
+   "oud": [
+    "franklinnews.org"
+   ],
+   "eind": "https://www.thecentersquare.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thecityreporter.nyc": {
+   "oud": [
+    "thecity.nyc"
+   ],
+   "eind": "https://www.thecityreporter.nyc/",
+   "band": [
+    "goed"
+   ]
+  },
+  "theharvardpoliticalreview.com": {
+   "oud": [
+    "harvardpolitics.com"
+   ],
+   "eind": "https://theharvardpoliticalreview.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "themedialeader.com": {
+   "oud": [
+    "the-media-leader.com"
+   ],
+   "eind": "https://uk.themedialeader.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thenationalnews.com": {
+   "oud": [
+    "thenational.ae"
+   ],
+   "eind": "https://www.thenationalnews.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "thenewworld.co.uk": {
+   "oud": [
+    "theneweuropean.co.uk"
+   ],
+   "eind": "https://www.thenewworld.co.uk/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "theobserver.media": {
+   "oud": [
+    "sacobserver.com"
+   ],
+   "eind": "https://www.theobserver.media/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thepeoplesvoice.tv": {
+   "oud": [
+    "newspunch.com"
+   ],
+   "eind": "https://thepeoplesvoice.tv/",
+   "band": [
+    "laag"
+   ]
+  },
+  "thepinknews.com": {
+   "oud": [
+    "pinknews.co.uk"
+   ],
+   "eind": "https://www.thepinknews.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "thepoke.com": {
+   "oud": [
+    "thepoke.co.uk"
+   ],
+   "eind": "https://www.thepoke.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "thesportsleader.com": {
+   "oud": [
+    "knbr.com"
+   ],
+   "eind": "https://www.thesportsleader.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "thestarnewsnetwork.com": {
+   "oud": [
+    "georgiastarnews.com",
+    "themichiganstar.com",
+    "theminnesotasun.com",
+    "theohiostar.com"
+   ],
+   "eind": "https://thestarnewsnetwork.com/the-georgia-star-news/",
+   "band": [
+    "wisselend",
+    "wisselend",
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "thetransmitter.org": {
+   "oud": [
+    "spectrumnews.org"
+   ],
+   "eind": "https://www.thetransmitter.org/spectrum/",
+   "band": [
+    "goed"
+   ]
+  },
+  "theuntamedtruth.com": {
+   "oud": [
+    "conservative-daily.com"
+   ],
+   "eind": "https://theuntamedtruth.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "thieme.com": {
+   "oud": [
+    "thieme-connect.com",
+    "thieme.de"
+   ],
+   "eind": "https://www.thieme.com/de-de/wen-wir-unterstuetzen",
+   "band": [
+    "wisselend",
+    "laag"
+   ]
+  },
+  "thosenerdygirls.org": {
+   "oud": [
+    "dearpandemic.org"
+   ],
+   "eind": "https://thosenerdygirls.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "torinocronaca.it": {
+   "oud": [
+    "cronacaqui.it"
+   ],
+   "eind": "https://www.torinocronaca.it/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "tpimediagroup.org": {
+   "oud": [
+    "alexcityoutlook.com",
+    "tallasseetribune.com",
+    "thewetumpkaherald.com"
+   ],
+   "eind": "https://www.tpimediagroup.org/alexcityoutlook/",
+   "band": [
+    "wisselend",
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "transpartisanreview.org": {
+   "oud": [
+    "transpartisanreview.com"
+   ],
+   "eind": "https://transpartisanreview.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "tribunatreviso.it": {
+   "oud": [
+    "elezioni.tribunatreviso.gelocal.it",
+    "tribunatreviso.gelocal.it"
+   ],
+   "eind": "https://www.tribunatreviso.it/",
+   "band": [
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "tricityrecordnm.com": {
+   "oud": [
+    "daily-times.com"
+   ],
+   "eind": "https://www.tricityrecordnm.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "trithucvn2.net": {
+   "oud": [
+    "trithucvn.net"
+   ],
+   "eind": "https://trithucvn2.net/",
+   "band": [
+    "laag"
+   ]
+  },
+  "triyaknews.com": {
+   "oud": [
+    "keprtv.com",
+    "kimatv.com",
+    "klewtv.com"
+   ],
+   "eind": "https://www.triyaknews.com/",
+   "band": [
+    "wisselend",
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "truenorthsocial.com": {
+   "oud": [
+    "freepressfront.com"
+   ],
+   "eind": "https://truenorthsocial.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "tvl.fr": {
+   "oud": [
+    "tvlibertes.com"
+   ],
+   "eind": "https://tvl.fr/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "u-report.org": {
+   "oud": [
+    "voicesofyouth.org"
+   ],
+   "eind": "https://www.u-report.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "uaesportsbetting.org": {
+   "oud": [
+    "blackmainstreet.net"
+   ],
+   "eind": "https://uaesportsbetting.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ucr.ac.cr": {
+   "oud": [
+    "doblecheck.cr"
+   ],
+   "eind": "https://radios.ucr.ac.cr/doblecheck/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ucs.org": {
+   "oud": [
+    "ucsusa.org"
+   ],
+   "eind": "https://www.ucs.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "ufabet.cards": {
+   "oud": [
+    "freakoutnation.com"
+   ],
+   "eind": "https://ufabet.cards",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "uk.com": {
+   "oud": [
+    "thebuddy.me"
+   ],
+   "eind": "https://engineeringart.uk.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "unep.org": {
+   "oud": [
+    "unenvironment.org"
+   ],
+   "eind": "https://www.unep.org/en",
+   "band": [
+    "goed"
+   ]
+  },
+  "unpacked.media": {
+   "oud": [
+    "israel21c.org"
+   ],
+   "eind": "https://unpacked.media/israel21c/?utm_source=israel21c&utm_medium=website&utm_campaign=redirect",
+   "band": [
+    "goed"
+   ]
+  },
+  "unstoppabledomains.com": {
+   "oud": [
+    "c19ns.com"
+   ],
+   "eind": "https://unstoppabledomains.com/d/c19ns.com",
+   "band": [
+    "goed"
+   ]
+  },
+  "usacrime.com": {
+   "oud": [
+    "hoodsite.com"
+   ],
+   "eind": "https://usacrime.com/hoodsite/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "vegetableseedwarehouse.com": {
+   "oud": [
+    "callthecops.net"
+   ],
+   "eind": "https://www.vegetableseedwarehouse.com/product-page/",
+   "band": [
+    "laag"
+   ]
+  },
+  "vibecity.fr": {
+   "oud": [
+    "msnbc.website"
+   ],
+   "eind": "https://vibecity.fr",
+   "band": [
+    "laag"
+   ]
+  },
+  "vinnews.com": {
+   "oud": [
+    "vosizneias.com"
+   ],
+   "eind": "https://vinnews.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "walgreens.com": {
+   "oud": [
+    "precisionvaccinations.com"
+   ],
+   "eind": "https://www.walgreens.com/topic/pharmacy/immunization-services-appointments.jsp",
+   "band": [
+    "goed"
+   ]
+  },
+  "walkfree.org": {
+   "oud": [
+    "globalslaveryindex.org"
+   ],
+   "eind": "https://www.walkfree.org/global-slavery-index/",
+   "band": [
+    "goed"
+   ]
+  },
+  "warisanluxury777.com": {
+   "oud": [
+    "thinkingmomsrevolution.com"
+   ],
+   "eind": "https://warisanluxury777.com/mobile",
+   "band": [
+    "laag"
+   ]
+  },
+  "wdrbwave.com": {
+   "oud": [
+    "wave3.com",
+    "wdrb.com"
+   ],
+   "eind": "https://www.wdrbwave.com/",
+   "band": [
+    "wisselend",
+    "goed"
+   ]
+  },
+  "wellcome.org": {
+   "oud": [
+    "mosaicscience.com"
+   ],
+   "eind": "https://wellcome.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "westernwheel.ca": {
+   "oud": [
+    "okotokstoday.ca"
+   ],
+   "eind": "https://www.westernwheel.ca/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "whitecountycitizen.com": {
+   "oud": [
+    "thedailycitizen.com"
+   ],
+   "eind": "https://www.whitecountycitizen.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "win-tk.org": {
+   "oud": [
+    "fr24news.com"
+   ],
+   "eind": "https://win-tk.org/en/",
+   "band": [
+    "laag"
+   ]
+  },
+  "windows.net": {
+   "oud": [
+    "globalintegrity.org"
+   ],
+   "eind": "https://gistorageaccount.blob.core.windows.net/$web/index.html",
+   "band": [
+    "goed"
+   ]
+  },
+  "wipo.int": {
+   "oud": [
+    "topsante.net"
+   ],
+   "eind": "https://www.wipo.int/amc/en/domains/decisions/text/2020/d2020-0493.html",
+   "band": [
+    "laag"
+   ]
+  },
+  "wmtv15news.com": {
+   "oud": [
+    "nbc15.com"
+   ],
+   "eind": "https://www.wmtv15news.com/",
+   "band": [
+    "goed"
+   ]
+  },
+  "woodmac.com": {
+   "oud": [
+    "greentechmedia.com"
+   ],
+   "eind": "https://www.woodmac.com/market-insights/power-and-renewables/discover-global-power-and-renewables-insights/",
+   "band": [
+    "goed"
+   ]
+  },
+  "worldcantwait.org": {
+   "oud": [
+    "worldcantwait.net"
+   ],
+   "eind": "https://worldcantwait.org/",
+   "band": [
+    "goed"
+   ]
+  },
+  "worldviewtube.com": {
+   "oud": [
+    "worldviewweekend.com"
+   ],
+   "eind": "https://worldviewtube.com/",
+   "band": [
+    "laag"
+   ]
+  },
+  "wow99crash.cv": {
+   "oud": [
+    "hangthebankers.com"
+   ],
+   "eind": "https://wow99crash.cv/",
+   "band": [
+    "laag"
+   ]
+  },
+  "wt.social": {
+   "oud": [
+    "wikitribune.com"
+   ],
+   "eind": "https://wt.social/",
+   "band": [
+    "goed"
+   ]
+  },
+  "xoilac2.online": {
+   "oud": [
+    "sportspickle.com"
+   ],
+   "eind": "https://xoilac2.online/",
+   "band": [
+    "laag"
+   ]
+  },
+  "xoilacvax.tv": {
+   "oud": [
+    "huffpostmaghreb.com",
+    "wearyourvoicemag.com"
+   ],
+   "eind": "https://xoilacvax.tv/",
+   "band": [
+    "wisselend",
+    "wisselend"
+   ]
+  },
+  "xoilacxco.tv": {
+   "oud": [
+    "2ndvote.com",
+    "samefacts.com",
+    "thebl.com",
+    "thetruthwins.com",
+    "westernwire.net"
+   ],
+   "eind": "https://xoilacxco.tv/",
+   "band": [
+    "wisselend",
+    "goed",
+    "laag",
+    "laag",
+    "wisselend"
+   ]
+  },
+  "xoilaczci.tv": {
+   "oud": [
+    "itccs.org"
+   ],
+   "eind": "https://xoilaczci.tv/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "yaluna.media": {
+   "oud": [
+    "yaluna.tn"
+   ],
+   "eind": "https://yaluna.media/",
+   "band": [
+    "goed"
+   ]
+  },
+  "yellowknifer.com": {
+   "oud": [
+    "nnsl.com"
+   ],
+   "eind": "https://yellowknifer.com/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "yourgreatermoncton.ca": {
+   "oud": [
+    "919thebend.ca"
+   ],
+   "eind": "https://yourgreatermoncton.ca",
+   "band": [
+    "goed"
+   ]
+  },
+  "yourquadcounties.ca": {
+   "oud": [
+    "1015thehawk.com"
+   ],
+   "eind": "https://yourquadcounties.ca",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "yoursaintjohn.ca": {
+   "oud": [
+    "thewave.ca"
+   ],
+   "eind": "https://yoursaintjohn.ca",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "yourvalley.net": {
+   "oud": [
+    "sonorannews.com"
+   ],
+   "eind": "https://www.yourvalley.net/cave-creek-carefree-independent/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "znetwork.org": {
+   "oud": [
+    "zcomm.org"
+   ],
+   "eind": "https://znetwork.org/",
+   "band": [
+    "wisselend"
+   ]
+  },
+  "zoomer.com": {
+   "oud": [
+    "everythingzoomer.com"
+   ],
+   "eind": "https://zoomer.com/",
+   "band": [
+    "wisselend"
+   ]
+  }
+ },
+ "labels": {
+  "12onyourside.com": {
+   "label": "zelfde",
+   "oud": "nbc12.com",
+   "waarom": "NBC12 Richmond, nieuwe naam"
+  },
+  "138sagalock.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "15mfinance.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "21alivenews.com": {
+   "label": "zelfde",
+   "oud": "wpta21.com",
+   "waarom": "WPTA, nieuwe naam"
+  },
+  "25newsnow.com": {
+   "label": "zelfde",
+   "oud": "week.com",
+   "waarom": "WEEK, nieuwe naam"
+  },
+  "29news.com": {
+   "label": "zelfde",
+   "oud": "nbc29.com",
+   "waarom": "NBC29, nieuwe naam"
+  },
+  "2ndamendmentshirts.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "2news.com": {
+   "label": "zelfde",
+   "oud": "ktvn.com",
+   "waarom": "KTVN, nieuwe naam"
+  },
+  "305pine.co.za": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "4news.it": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "acadiananewsfirst.com": {
+   "label": "zelfde",
+   "oud": "katc.com",
+   "waarom": "KATC, nieuwe naam"
+  },
+  "acehground.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "aidc30.org.za": {
+   "label": "zelfde",
+   "oud": "aidc.org.za",
+   "waarom": "AIDC, zelfde organisatie"
+  },
+  "aidesociale.ca": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "airdriecityview.com": {
+   "label": "zelfde",
+   "oud": "airdrietoday.com",
+   "waarom": "Airdrie Today heet Airdrie City View"
+  },
+  "akcent.uk": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Kommersant UK heet misschien Akcent; niet zeker"
+  },
+  "akensoft.it": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "alittledelightful.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "amazon.sg": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een winkel"
+  },
+  "americafirstreport.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "americaoutloud.news": {
+   "label": "zelfde",
+   "oud": "americaoutloud.com",
+   "waarom": ".com naar .news"
+  },
+  "amuedge.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "In Homeland Security ging op in AMU Edge; niet zeker hetzelfde"
+  },
+  "anr.news": {
+   "label": "zelfde",
+   "oud": "australiannationalreview.com",
+   "waarom": "Australian National Review, korter adres"
+  },
+  "applevalleynewsnow.com": {
+   "label": "zelfde",
+   "oud": "yaktrinews.com",
+   "waarom": "Yakima Tri-Cities News, nieuwe naam"
+  },
+  "archersbay.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "archieplatform.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "archive-it.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "gesloten, alleen een archief"
+  },
+  "archivioradiovaticana.va": {
+   "label": "zelfde",
+   "oud": "en.radiovaticana.va",
+   "waarom": "het archief van Radio Vaticana"
+  },
+  "ardmediathek.de": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "de mediatheek, een andere site"
+  },
+  "atlantanewsfirst.com": {
+   "label": "zelfde",
+   "oud": "cbs46.com",
+   "waarom": "CBS46, nieuwe naam"
+  },
+  "atlanticcityweekly.com": {
+   "label": "zelfde",
+   "oud": "acweekly.com",
+   "waarom": "Atlantic City Weekly, het adres voluit"
+  },
+  "awakenation.tv": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Dark Outpost stuurt naar een andere site"
+  },
+  "baccarat666.live": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "bachthulo.vip": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "basset-bhca.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "beintheknow.org": {
+   "label": "zelfde",
+   "oud": "avert.org",
+   "waarom": "Avert, nieuwe naam van hun site"
+  },
+  "bioeg.de": {
+   "label": "zelfde",
+   "oud": "bzga.de",
+   "waarom": "BZgA heet nu BIÖG, hetzelfde federale instituut"
+  },
+  "blackdoctor.com": {
+   "label": "zelfde",
+   "oud": "blackdoctor.org",
+   "waarom": ".org naar .com"
+  },
+  "blogizer.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "brandbucket.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "brightnews.ai": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "bsc.news": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "btpm.org": {
+   "label": "zelfde",
+   "oud": "wbfo.org",
+   "waarom": "WBFO, Buffalo Toronto Public Media, zelfde omroep"
+  },
+  "burlyhome.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "businessdailynetwork.com": {
+   "label": "zelfde",
+   "oud": "albusinessdaily.com",
+   "waarom": "één netwerk van gelijke sites; het strengste oordeel"
+  },
+  "businessday.co.za": {
+   "label": "zelfde",
+   "oud": "businesslive.co.za",
+   "waarom": "BusinessLIVE heet weer BusinessDay"
+  },
+  "c19early.org": {
+   "label": "zelfde",
+   "oud": "c19early.com",
+   "waarom": "zelfde site, .com naar .org; het strengste oordeel"
+  },
+  "cafemom.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "calculatrice.now": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "canadaland.com": {
+   "label": "zelfde",
+   "oud": "canadalandshow.com",
+   "waarom": "Canadaland, het adres zonder show"
+  },
+  "capecoralbreeze.com": {
+   "label": "zelfde",
+   "oud": "cape-coral-daily-breeze.com",
+   "waarom": "Cape Coral Daily Breeze, korter adres"
+  },
+  "cascadepbs.org": {
+   "label": "zelfde",
+   "oud": "crosscut.com",
+   "waarom": "Crosscut ging op in Cascade PBS, dezelfde redactie"
+  },
+  "casino-non-aams-italia061.online": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "castanetkamloops.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "cdm.press": {
+   "label": "zelfde",
+   "oud": "creativedestructionmedia.com",
+   "waarom": "Creative Destruction Media, korter adres"
+  },
+  "celebamerica.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "childrenshealthsolutions.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "chinaglobalsouth.com": {
+   "label": "zelfde",
+   "oud": "chinaafricaproject.com",
+   "waarom": "China Africa Project, nieuwe naam"
+  },
+  "chino.social": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "chipfranklin.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "chocolatebymueller.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "clemmonscourier.com": {
+   "label": "zelfde",
+   "oud": "clemmonscourier.net",
+   "waarom": ".net naar .com"
+  },
+  "clonedcardstoreusa.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "clubinterplaya.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "cnhi.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "co.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "coastalabc.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "coasttv.com": {
+   "label": "zelfde",
+   "oud": "wrde.com",
+   "waarom": "WRDE heet Coast TV"
+  },
+  "coinworldmap.io": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "connectsci.au": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "Cosmos is dicht"
+  },
+  "conservativefighters.co": {
+   "label": "zelfde",
+   "oud": "conservativefighters.com",
+   "waarom": ".com naar .co"
+  },
+  "conservativepolitics.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "contentclerks.co": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "contra24.com": {
+   "label": "zelfde",
+   "oud": "contra24.online",
+   "waarom": ".online naar .com"
+  },
+  "corrierealpi.it": {
+   "label": "zelfde",
+   "oud": "corrierealpi.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "cozycottagecute.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "cpac.org": {
+   "label": "zelfde",
+   "oud": "conservative.org",
+   "waarom": "American Conservative Union heet CPAC"
+  },
+  "craig-mullins.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "crosswalk.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Christian Headlines naar het bredere Crosswalk"
+  },
+  "crowncasino-online.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "cryptocasino.co.kr": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "csmedicus.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "cspii.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ctinsider.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "een portaal van de groep, niet een krant"
+  },
+  "culturcidal.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "daltoncitizen.com": {
+   "label": "zelfde",
+   "oud": "dailycitizen.news",
+   "waarom": "Dalton Daily Citizen"
+  },
+  "damien-dufresne.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "dangdut4dom.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "danhdetructuyen.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "davidharrisjr.store": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "dcpatriot.com": {
+   "label": "zelfde",
+   "oud": "thedcpatriot.com",
+   "waarom": "zonder 'the'"
+  },
+  "denver7.com": {
+   "label": "zelfde",
+   "oud": "thedenverchannel.com",
+   "waarom": "The Denver Channel heet Denver7"
+  },
+  "desmog.com": {
+   "label": "zelfde",
+   "oud": "desmogblog.com",
+   "waarom": "DeSmog, korter adres"
+  },
+  "deutschlandradio.de": {
+   "label": "zelfde",
+   "oud": "dradio.de",
+   "waarom": "dradio.de is Deutschlandradio"
+  },
+  "docphin.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "domainagents.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "domaindc.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "dpgmedia.be": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een pagina voor toestemming, geen verhuizing"
+  },
+  "dpgmedia.nl": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een pagina voor toestemming, geen verhuizing"
+  },
+  "dreamhosters.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een tijdelijk adres bij de hoster"
+  },
+  "dreuz.com": {
+   "label": "zelfde",
+   "oud": "dreuz.info",
+   "waarom": ".info naar .com"
+  },
+  "dropout.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "drunkamerica.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "drwhoalliance.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "dulichhalongquangninh.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "dungannonnow.co.uk": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere krant in dezelfde streek"
+  },
+  "dynadot.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "echo-des-tribunes.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, een groep"
+  },
+  "ecplanet.net": {
+   "label": "zelfde",
+   "oud": "ecplanet.org",
+   "waarom": ".org naar .net"
+  },
+  "edgefurnish.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "edpost.com": {
+   "label": "zelfde",
+   "oud": "educationpost.org",
+   "waarom": "Education Post, korter adres"
+  },
+  "eljoybikes.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "enjoymachinelearning.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "epochru.com": {
+   "label": "zelfde",
+   "oud": "epochtimes.ru",
+   "waarom": "Epoch Times in het Russisch"
+  },
+  "epochtimes.kr": {
+   "label": "zelfde",
+   "oud": "epochtimes.co.kr",
+   "waarom": "Epoch Times in het Koreaans; het strengste oordeel"
+  },
+  "esiliati.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "esports-news.co.uk": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "esports.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "eu.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ewtnnews.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "CNA ging op in EWTN News, een breder kanaal"
+  },
+  "executiveinnmh.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "expireddomains.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "expiredwixdomain.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "factandmyth.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "farmtalknews.com": {
+   "label": "zelfde",
+   "oud": "farmtalknewspaper.com",
+   "waarom": "Farm Talk, korter adres"
+  },
+  "fb88com.icu": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "fdd.org": {
+   "label": "zelfde",
+   "oud": "defenddemocracy.org",
+   "waarom": "Foundation for Defense of Democracies"
+  },
+  "felixrex.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "filae.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "firstalert4.com": {
+   "label": "zelfde",
+   "oud": "kmov.com",
+   "waarom": "KMOV, nieuwe naam"
+  },
+  "firstalert7.com": {
+   "label": "zelfde",
+   "oud": "cbs7.com",
+   "waarom": "CBS7, nieuwe naam"
+  },
+  "floricuanews.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "niet duidelijk of het dezelfde redactie is"
+  },
+  "fonddulactimes.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam; laag op een mogelijk andere krant"
+  },
+  "foreignspolicyi.org": {
+   "label": "zelfde",
+   "oud": "foreignpolicyi.org",
+   "waarom": "zelfde site, een letter erbij"
+  },
+  "fox13seattle.com": {
+   "label": "zelfde",
+   "oud": "q13fox.com",
+   "waarom": "Q13 Fox heet Fox 13 Seattle"
+  },
+  "france.tv": {
+   "label": "zelfde",
+   "oud": "francetv.fr",
+   "waarom": "France Télévisions, nieuw adres"
+  },
+  "franceinfo.fr": {
+   "label": "zelfde",
+   "oud": "francetvinfo.fr",
+   "waarom": "franceinfo, verhuisd van francetvinfo.fr"
+  },
+  "freddythefrogcaster.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "freedict.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "freedomain.com": {
+   "label": "zelfde",
+   "oud": "freedomainradio.com",
+   "waarom": "Freedomain Radio, korter adres"
+  },
+  "freedomforceinternational.org": {
+   "label": "zelfde",
+   "oud": "freedomforceinternational.com",
+   "waarom": ".com naar .org"
+  },
+  "freedompress.org.uk": {
+   "label": "zelfde",
+   "oud": "freedomnews.org.uk",
+   "waarom": "Freedom News, van Freedom Press"
+  },
+  "friv.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "gameshub.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "gaytimes.com": {
+   "label": "zelfde",
+   "oud": "gaytimes.co.uk",
+   "waarom": ".co.uk naar .com"
+  },
+  "gazzettadimantova.it": {
+   "label": "zelfde",
+   "oud": "gazzettadimantova.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "givesendgo.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "globalhealing.com": {
+   "label": "zelfde",
+   "oud": "globalhealingcenter.com",
+   "waarom": "Global Healing Center, korter adres"
+  },
+  "gloucesterschoonerfestival.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "godtube.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "goldsilver.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "governmentslaves.news": {
+   "label": "zelfde",
+   "oud": "govtslaves.info",
+   "waarom": "Government Slaves, nieuw adres"
+  },
+  "greatglen.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "gulfcoastnewsnow.com": {
+   "label": "zelfde",
+   "oud": "abc-7.com",
+   "waarom": "ABC-7 en NBC-2 Fort Myers samen, beide wisselend"
+  },
+  "hackernoon.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hafizhoney.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hagmannpi.com": {
+   "label": "zelfde",
+   "oud": "hagmannreport.com",
+   "waarom": "Hagmann Report, nieuw adres"
+  },
+  "harvardhealth.org": {
+   "label": "zelfde",
+   "oud": "health.harvard.edu",
+   "waarom": "Harvard Health Publishing"
+  },
+  "hatingbreitbart.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "headlinesplus.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hearst.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "hermancainmovie.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hewany.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hiddlesfashion.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "history.nl": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een doorverwijzing per land"
+  },
+  "horizonactu.fr": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "hotel-du-champ-de-mars.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "housestructures.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "housethathankbuilt.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "howlonguntil.io": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "hssm.co.za": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "i9bet.cx": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ici.fr": {
+   "label": "zelfde",
+   "oud": "francebleu.fr",
+   "waarom": "France Bleu heet ICI"
+  },
+  "ictnews.org": {
+   "label": "zelfde",
+   "oud": "indiancountrytoday.com",
+   "waarom": "Indian Country Today, nieuw adres"
+  },
+  "idgacor.info": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ifamericansknew.org": {
+   "label": "zelfde",
+   "oud": "ifamericaknew.org",
+   "waarom": "If Americans Knew, het juiste adres"
+  },
+  "illustratedteacup.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ilnordest.it": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "een bijlage naar een bredere site"
+  },
+  "ilovemyfreedom.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ilpiccolo.it": {
+   "label": "zelfde",
+   "oud": "ilpiccolo.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "imahealth.org": {
+   "label": "zelfde",
+   "oud": "covid19criticalcare.com",
+   "waarom": "FLCCC heet Independent Medical Alliance"
+  },
+  "independentwomen.com": {
+   "label": "zelfde",
+   "oud": "iwf.org",
+   "waarom": "Independent Women's Forum"
+  },
+  "industrypace.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "infonews.ca": {
+   "label": "zelfde",
+   "oud": "infotel.ca",
+   "waarom": "Infotel heet InfoNews"
+  },
+  "informacion.es": {
+   "label": "zelfde",
+   "oud": "diarioinformacion.com",
+   "waarom": "Diario Información, nieuw adres"
+  },
+  "inforos.com": {
+   "label": "zelfde",
+   "oud": "inforos.ru",
+   "waarom": ".ru naar .com"
+  },
+  "iol.pt": {
+   "label": "zelfde",
+   "oud": "poligrafo.sapo.pt",
+   "waarom": "Polígrafo, van sapo.pt naar iol.pt; alleen het subdomein, niet heel IOL",
+   "adres": "poligrafo.iol.pt"
+  },
+  "iptvsuomi.se": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "issaquahreporter.com": {
+   "label": "zelfde",
+   "oud": "issaquah-reporter.com",
+   "waarom": "zelfde krant, zonder streepje"
+  },
+  "janbokoi.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "jasonmattera.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "jenius196.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "jepubliejereflechis.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "jimmydeyoungjr.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "joemessina.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "johntaftindy.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "joyn.at": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een streamingdienst"
+  },
+  "keenesentinel.com": {
+   "label": "zelfde",
+   "oud": "sentinelsource.com",
+   "waarom": "The Keene Sentinel"
+  },
+  "kestrel-usa.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "kffhealthnews.org": {
+   "label": "zelfde",
+   "oud": "khn.org",
+   "waarom": "KHN heet KFF Health News"
+  },
+  "kioncentralcoast.com": {
+   "label": "zelfde",
+   "oud": "kion546.com",
+   "waarom": "KION, nieuwe naam"
+  },
+  "kkco11news.com": {
+   "label": "zelfde",
+   "oud": "nbc11news.com",
+   "waarom": "NBC11 Grand Junction, nieuwe naam"
+  },
+  "krytykapolityczna.pl": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "alleen een archief"
+  },
+  "laprovinciapavese.it": {
+   "label": "zelfde",
+   "oud": "laprovinciapavese.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "larryelder.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "lasentinella.it": {
+   "label": "zelfde",
+   "oud": "lasentinella.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "lasvegascitywire.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "lawfaremedia.org": {
+   "label": "zelfde",
+   "oud": "lawfareblog.com",
+   "waarom": "Lawfare, nieuw adres"
+  },
+  "leclosdumenallen.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "lejdf.fr": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "lespresso.it": {
+   "label": "zelfde",
+   "oud": "espresso.repubblica.it",
+   "waarom": "L'Espresso, eigen domein"
+  },
+  "libertyplanet.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "een letter anders, niet zeker"
+  },
+  "liverpoolworld.uk": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "livestrong.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere organisatie"
+  },
+  "livewell.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "local3news.com": {
+   "label": "zelfde",
+   "oud": "wrcbtv.com",
+   "waarom": "WRCB, nieuwe naam"
+  },
+  "lucaeducar.com.br": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "m88.green": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "macandarat.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "makifashion.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "manhattan.institute": {
+   "label": "zelfde",
+   "oud": "manhattan-institute.org",
+   "waarom": "Manhattan Institute"
+  },
+  "marketrithm.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "markmonitor.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een tijdelijke pagina van de registrar"
+  },
+  "martindow.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "matsusentinel.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Frontiersman naar een andere krant"
+  },
+  "mattinopadova.it": {
+   "label": "zelfde",
+   "oud": "mattinopadova.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "mby.co.kr": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "niet zeker"
+  },
+  "medianewsgroup.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "mediatakeout.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "MTO News en MediaTakeOut, niet zeker"
+  },
+  "meidasnews.com": {
+   "label": "zelfde",
+   "oud": "meidastouch.com",
+   "waarom": "MeidasTouch, nieuwsadres"
+  },
+  "messaggeroveneto.it": {
+   "label": "zelfde",
+   "oud": "messaggeroveneto.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "metrotoday.it": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "michiganpublic.org": {
+   "label": "zelfde",
+   "oud": "michiganradio.org",
+   "waarom": "Michigan Radio heet Michigan Public"
+  },
+  "midmichigannow.com": {
+   "label": "zelfde",
+   "oud": "nbc25news.com",
+   "waarom": "NBC25, nieuwe naam"
+  },
+  "minnesotapbs.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Next Avenue staat nu bij Minnesota PBS, op een pad"
+  },
+  "mississippivalleypublishing.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "moquality.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "mostextremenews.com": {
+   "label": "zelfde",
+   "oud": "channel22news.com",
+   "waarom": "één netwerk van gelijke sites; het strengste oordeel"
+  },
+  "mrcvideo.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "mrwallpaper.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ms.now": {
+   "label": "zelfde",
+   "oud": "msnbc.com",
+   "waarom": "MSNBC heet MS NOW"
+  },
+  "mu88-bet-vn.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "myactionable.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "mycharisma.com": {
+   "label": "zelfde",
+   "oud": "charismanews.com",
+   "waarom": "Charisma, beide adressen; het strengste oordeel"
+  },
+  "mynewstoday.ca": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "nasonline.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "de doorverwijzing gaat naar een losse pagina"
+  },
+  "naturalhealthresponse.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "ncnewsline.com": {
+   "label": "zelfde",
+   "oud": "ncpolicywatch.com",
+   "waarom": "NC Policy Watch heet NC Newsline"
+  },
+  "networksolutions.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "newslit.org": {
+   "label": "zelfde",
+   "oud": "thenewsliteracyproject.org",
+   "waarom": "News Literacy Project, korter adres"
+  },
+  "noizz.pl": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere editie"
+  },
+  "northernnewsnow.com": {
+   "label": "zelfde",
+   "oud": "kbjr6.com",
+   "waarom": "KBJR, nieuwe naam"
+  },
+  "npo.nl": {
+   "label": "zelfde",
+   "oud": "publiekeomroep.nl",
+   "waarom": "de publieke omroep, NPO"
+  },
+  "ntdca.com": {
+   "label": "zelfde",
+   "oud": "ntdtv.ca",
+   "waarom": "NTD Canada"
+  },
+  "numbersusa.org": {
+   "label": "zelfde",
+   "oud": "numbersusa.com",
+   "waarom": ".com naar .org"
+  },
+  "nuovavenezia.it": {
+   "label": "zelfde",
+   "oud": "nuovavenezia.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "objectifsud.fr": {
+   "label": "zelfde",
+   "oud": "objectifgard.com",
+   "waarom": "Objectif Gard heet Objectif Sud"
+  },
+  "oce69log.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ohiopatientsnetwork.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "olxcium.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "omacuankeras.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "onamae.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "onevsp.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "online-casino-malaysia.info": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "onlinepokerthailand.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "onlyfans.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "onlys.ky": {
+   "label": "zelfde",
+   "oud": "onlysky.media",
+   "waarom": "OnlySky, korter adres"
+  },
+  "ontariofarmer.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "opendoorsus.org": {
+   "label": "zelfde",
+   "oud": "opendoorsusa.org",
+   "waarom": "Open Doors US, korter adres"
+  },
+  "panen123.xyz": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "paradium.ai": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "participant.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf, TakePart is dicht"
+  },
+  "peoplefor.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "PFAW (goed) en Right Wing Watch (wisselend) samen"
+  },
+  "perfectlygoodhome.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "persuasion.community": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "pfizer.de": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "pickax.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "pixellum.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "plaindealerin.com": {
+   "label": "zelfde",
+   "oud": "wabashplaindealer.com",
+   "waarom": "Wabash Plain Dealer, met de zusterkranten, alle goed"
+  },
+  "privacyitalia.eu": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "pryanik.co": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ptl.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "pugdogrescue.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "qcnews.com": {
+   "label": "zelfde",
+   "oud": "fox46charlotte.com",
+   "waarom": "Fox 46 Charlotte, nieuwe naam"
+  },
+  "rainwaterforindiana.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "rajatoto88mayo.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ranenetwork.com": {
+   "label": "zelfde",
+   "oud": "stratfor.com",
+   "waarom": "Stratfor Worldview, nu bij RANE; alleen dat subdomein",
+   "adres": "worldview.ranenetwork.com"
+  },
+  "rapporteur.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Euractiv stuurt naar een andere naam; niet zeker"
+  },
+  "ravallirepublic.com": {
+   "label": "zelfde",
+   "oud": "ravallinews.com",
+   "waarom": "Ravalli Republic"
+  },
+  "rays-wheels.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "rc.fr": {
+   "label": "zelfde",
+   "oud": "radiocourtoisie.fr",
+   "waarom": "Radio Courtoisie"
+  },
+  "readthemaple.com": {
+   "label": "zelfde",
+   "oud": "north99.org",
+   "waarom": "North99 heet The Maple"
+  },
+  "reidnewspapers.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "republicaneagle.com": {
+   "label": "zelfde",
+   "oud": "republican-eagle.com",
+   "waarom": "Republican Eagle, zonder streepje"
+  },
+  "resistthemainstream.com": {
+   "label": "zelfde",
+   "oud": "resistthemainstream.org",
+   "waarom": ".org naar .com"
+  },
+  "respectamerica.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "twee sites met verschillende banden"
+  },
+  "reutersconnect.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "revivalmotorsandcoffeeco.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "richardsonscanalhouse.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "rickd.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "rmoutlook.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "rockfordnewsfirst.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "WIFR (goed) en WREX (wisselend) samen: niet een van de twee"
+  },
+  "route66post.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "rsn.org": {
+   "label": "zelfde",
+   "oud": "readersupportednews.org",
+   "waarom": "Reader Supported News, korter adres"
+  },
+  "rubikon-verlag.ch": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "s4c.cymru": {
+   "label": "zelfde",
+   "oud": "s4c.co.uk",
+   "waarom": "S4C, nieuw domein"
+  },
+  "sakti123online.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "sanbufarm.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "sanfrancesco.org": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "een subdomein voor media, niet zeker hetzelfde"
+  },
+  "saudiworldfootball.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "scdailypress.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker of het dezelfde krant is"
+  },
+  "schiffsovereign.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "Sovereign Man ging op in een andere dienst"
+  },
+  "scienceandculture.com": {
+   "label": "zelfde",
+   "oud": "evolutionnews.org",
+   "waarom": "Evolution News, nu Science and Culture (Discovery Institute)"
+  },
+  "scrippsnews.com": {
+   "label": "zelfde",
+   "oud": "newsy.com",
+   "waarom": "Newsy heet Scripps News"
+  },
+  "secteurpublic.fr": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "selvirtual.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "seramount.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "simplehomeliving.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "sinomassage.at": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "sky.it": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een nagemaakt adres dat naar het echte stuurt; sky.it krijgt geen laag"
+  },
+  "slot-machines.co": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "smilewithcaredentalcolorado.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "snowilee.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "socolivezam.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "spectator.com": {
+   "label": "zelfde",
+   "oud": "spectator.co.uk",
+   "waarom": "The Spectator, beide edities goed"
+  },
+  "spectrumnewsnecn.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "NECN stuurt naar een andere naam; niet zeker"
+  },
+  "spinmagazine.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "niet zeker of het dezelfde uitgever is"
+  },
+  "springer.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een pagina om in te loggen"
+  },
+  "springerpub.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "stalbertgazette.com": {
+   "label": "zelfde",
+   "oud": "stalberttoday.ca",
+   "waarom": "St. Albert Today heet St. Albert Gazette"
+  },
+  "stanlynewsjournal.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "stansberryresearch.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "steynonline.com": {
+   "label": "zelfde",
+   "oud": "marksteyn.com",
+   "waarom": "Mark Steyn"
+  },
+  "stlpr.org": {
+   "label": "zelfde",
+   "oud": "stlpublicradio.org",
+   "waarom": "St. Louis Public Radio, korter adres"
+  },
+  "studyfinds.com": {
+   "label": "zelfde",
+   "oud": "studyfinds.org",
+   "waarom": ".org naar .com"
+  },
+  "stylabelparis.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "sv388vn.co": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "tainews.com": {
+   "label": "zelfde",
+   "oud": "americanindependent.com",
+   "waarom": "The American Independent heet TAI News"
+  },
+  "tampabay28.com": {
+   "label": "zelfde",
+   "oud": "abcactionnews.com",
+   "waarom": "ABC Action News heet Tampa Bay 28"
+  },
+  "tankerenemy.it": {
+   "label": "zelfde",
+   "oud": "tankerenemymeteo.blogspot.it",
+   "waarom": "van blogspot naar eigen domein"
+  },
+  "targetfreedomusa.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "tegna.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "teleambiente.tv": {
+   "label": "zelfde",
+   "oud": "teleambiente.it",
+   "waarom": ".it naar .tv"
+  },
+  "telenorba.it": {
+   "label": "zelfde",
+   "oud": "norbaonline.it",
+   "waarom": "Telenorba"
+  },
+  "teleromagna.it": {
+   "label": "zelfde",
+   "oud": "teleromagna24.it",
+   "waarom": "Teleromagna"
+  },
+  "texasgrapeswinetours.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "tgcom24news.it": {
+   "label": "zelfde",
+   "oud": "tgcom24news.com",
+   "waarom": ".com naar .it, dezelfde site"
+  },
+  "thebalancemoney.com": {
+   "label": "zelfde",
+   "oud": "thebalance.com",
+   "waarom": "The Balance, nieuw adres"
+  },
+  "thebeaconnews.org": {
+   "label": "zelfde",
+   "oud": "thebeacon.media",
+   "waarom": "The Beacon, nieuw adres"
+  },
+  "thebeulahrestaurant.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "thecatholicherald.com": {
+   "label": "zelfde",
+   "oud": "catholicherald.co.uk",
+   "waarom": "Catholic Herald, nieuw adres"
+  },
+  "thecentersquare.org": {
+   "label": "zelfde",
+   "oud": "franklinnews.org",
+   "waarom": "Franklin News Foundation, nu The Center Square"
+  },
+  "thecityreporter.nyc": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "THE CITY stuurt naar een andere naam; niet zeker"
+  },
+  "theharvardpoliticalreview.com": {
+   "label": "zelfde",
+   "oud": "harvardpolitics.com",
+   "waarom": "Harvard Political Review"
+  },
+  "themedialeader.com": {
+   "label": "zelfde",
+   "oud": "the-media-leader.com",
+   "waarom": "The Media Leader, zonder streepjes"
+  },
+  "thenationalnews.com": {
+   "label": "zelfde",
+   "oud": "thenational.ae",
+   "waarom": "The National, nieuw adres"
+  },
+  "thenewworld.co.uk": {
+   "label": "zelfde",
+   "oud": "theneweuropean.co.uk",
+   "waarom": "The New European heet The New World"
+  },
+  "theobserver.media": {
+   "label": "zelfde",
+   "oud": "sacobserver.com",
+   "waarom": "Sacramento Observer, nieuw adres"
+  },
+  "thepeoplesvoice.tv": {
+   "label": "zelfde",
+   "oud": "newspunch.com",
+   "waarom": "News Punch heet The People's Voice"
+  },
+  "thepinknews.com": {
+   "label": "zelfde",
+   "oud": "pinknews.co.uk",
+   "waarom": "PinkNews, nieuw adres"
+  },
+  "thepoke.com": {
+   "label": "zelfde",
+   "oud": "thepoke.co.uk",
+   "waarom": ".co.uk naar .com"
+  },
+  "thesportsleader.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "thestarnewsnetwork.com": {
+   "label": "zelfde",
+   "oud": "georgiastarnews.com",
+   "waarom": "één netwerk, alle wisselend"
+  },
+  "thetransmitter.org": {
+   "label": "zelfde",
+   "oud": "spectrumnews.org",
+   "waarom": "Spectrum heet The Transmitter, dezelfde redactie"
+  },
+  "theuntamedtruth.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "thieme.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "laag op het adres van de hele uitgever"
+  },
+  "thosenerdygirls.org": {
+   "label": "zelfde",
+   "oud": "dearpandemic.org",
+   "waarom": "Dear Pandemic, van Those Nerdy Girls"
+  },
+  "torinocronaca.it": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "tpimediagroup.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "het moederbedrijf"
+  },
+  "transpartisanreview.org": {
+   "label": "zelfde",
+   "oud": "transpartisanreview.com",
+   "waarom": ".com naar .org"
+  },
+  "tribunatreviso.it": {
+   "label": "zelfde",
+   "oud": "tribunatreviso.gelocal.it",
+   "waarom": "eigen domein in plaats van gelocal.it"
+  },
+  "tricityrecordnm.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere krant"
+  },
+  "trithucvn2.net": {
+   "label": "zelfde",
+   "oud": "trithucvn.net",
+   "waarom": "zelfde site, een cijfer erbij"
+  },
+  "triyaknews.com": {
+   "label": "zelfde",
+   "oud": "keprtv.com",
+   "waarom": "KEPR, KIMA en KLEW samen, alle wisselend"
+  },
+  "truenorthsocial.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "tvl.fr": {
+   "label": "zelfde",
+   "oud": "tvlibertes.com",
+   "waarom": "TV Libertés, korter adres"
+  },
+  "u-report.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een ander programma"
+  },
+  "uaesportsbetting.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "ucr.ac.cr": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "de universiteit; Doble Check staat op een pad"
+  },
+  "ucs.org": {
+   "label": "zelfde",
+   "oud": "ucsusa.org",
+   "waarom": "Union of Concerned Scientists, korter adres"
+  },
+  "ufabet.cards": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "uk.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "unep.org": {
+   "label": "zelfde",
+   "oud": "unenvironment.org",
+   "waarom": "UN Environment Programme"
+  },
+  "unpacked.media": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "ISRAEL21c ging op in Unpacked, een breder kanaal"
+  },
+  "unstoppabledomains.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "usacrime.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "vegetableseedwarehouse.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "vibecity.fr": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "vinnews.com": {
+   "label": "zelfde",
+   "oud": "vosizneias.com",
+   "waarom": "Vos Iz Neias heet VIN News"
+  },
+  "walgreens.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "walkfree.org": {
+   "label": "zelfde",
+   "oud": "globalslaveryindex.org",
+   "waarom": "Walk Free geeft de Global Slavery Index uit"
+  },
+  "warisanluxury777.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "wdrbwave.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "WDRB (goed) en WAVE (wisselend) samen"
+  },
+  "wellcome.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "Mosaic is dicht"
+  },
+  "westernwheel.ca": {
+   "label": "zelfde",
+   "oud": "okotokstoday.ca",
+   "waarom": "Okotoks Today heet Western Wheel"
+  },
+  "whitecountycitizen.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "andere naam, niet zeker"
+  },
+  "win-tk.org": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "windows.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een opslagadres bij Microsoft"
+  },
+  "wipo.int": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "wmtv15news.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "woodmac.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "Greentech Media is dicht"
+  },
+  "worldcantwait.org": {
+   "label": "zelfde",
+   "oud": "worldcantwait.net",
+   "waarom": ".net naar .org"
+  },
+  "worldviewtube.com": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "wow99crash.cv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "wt.social": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "WikiTribune is dicht"
+  },
+  "xoilac2.online": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "xoilacvax.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "xoilacxco.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "xoilaczci.tv": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "yaluna.media": {
+   "label": "zelfde",
+   "oud": "yaluna.tn",
+   "waarom": ".tn naar .media"
+  },
+  "yellowknifer.com": {
+   "label": "twijfel",
+   "oud": "",
+   "waarom": "NNSL naar een van zijn kranten"
+  },
+  "yourgreatermoncton.ca": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "yourquadcounties.ca": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "yoursaintjohn.ca": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "yourvalley.net": {
+   "label": "ander",
+   "oud": "",
+   "waarom": "een andere site of eigenaar (te koop, een casino, spam of ongerelateerd)"
+  },
+  "znetwork.org": {
+   "label": "zelfde",
+   "oud": "zcomm.org",
+   "waarom": "Z Communications"
+  },
+  "zoomer.com": {
+   "label": "zelfde",
+   "oud": "everythingzoomer.com",
+   "waarom": "Everything Zoomer, korter adres"
+  }
+ },
+ "overgenomen": {
+  "ayoyemonde.com": "nu een gokwebsite (138sagalock.com)",
+  "ilpopulista.it": "nu een casinopagina (4news.it/casino)",
+  "constitution.com": "te koop (brandbucket.com)",
+  "alliedprogress.org": "nu een cryptosite (coinworldmap.io)",
+  "prankmania.com": "te koop (domainagents.com)",
+  "thecubenews.com": "verlopen (expiredwixdomain.com)",
+  "dailyherald.news": "nu een gokwebsite (m88.green)",
+  "huffpostbrasil.com": "nu een gokwebsite (idgacor.info)",
+  "lanceurdalerte.info": "nu een gokwebsite (omacuankeras.com)",
+  "spectrumreport.com": "nu een gokwebsite (panen123.xyz)",
+  "blackmainstreet.net": "nu een gokwebsite (uaesportsbetting.org)",
+  "samefacts.com": "nu een site voor voetbalstreams (xoilacxco.tv)",
+  "c19ns.com": "te koop (unstoppabledomains.com)",
+  "thebuddy.me": "nu een andere site (engineeringart.uk.com)"
+ }
+}

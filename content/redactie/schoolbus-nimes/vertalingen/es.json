@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck schoolbus-nimes van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "51b8e52dee4f8247",
+ "veldafdrukken": {
+  "kop": "8b68de3852ebfc7a",
+  "oordeel_zin": "439cdb5fa9966faa",
+  "bewering": "3a3b0a2d409e4a23",
+  "kort": "c2cefac4bd6f80fc",
+  "tekst": "f538bf24c46b5119",
+  "niet_weten": "b72345707cf25df5",
+  "nog_uitzoeken": "a164a647408cf9b5",
+  "tijdlijn": "aa7acf933091e9b6",
+  "beeld_bijschrift": "b0367ac67eb32e1c",
+  "beeld_alt": "3c47eb47dbe13794"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "El video del autobús escolar en llamas se grabó en Nîmes en enero de 2023, no en las protestas de escolares",
+  "oordeel_zin": "El video es real, pero muestra un autobús escolar que se incendió el 13 de enero de 2023 en Nîmes por un fuego en el motor, sin ninguna protesta alrededor [1] [10].",
+  "bewering": "Un autobús en llamas en las protestas de escolares en Francia.",
+  "kort": "El 2 de octubre circuló en X un video de un autobús en llamas, presentado como imagen de las protestas de escolares en Francia [7]. El video se grabó el 13 de enero de 2023 en Nîmes, donde el motor de un autobús escolar se incendió mientras circulaba [1] [2]. No había ninguna protesta, y los niños del autobús salieron ilesos [1] [8].",
+  "tekst": "El viernes 2 de octubre a las 9:18 apareció en X una publicación en neerlandés con un video de un autobús que circula en llamas por la calle, presentado como una escena de las protestas de escolares en Francia [7]. Ese mismo día las mismas imágenes también circularon con un texto en árabe [8]. El comentarista estadounidense Benny Johnson compartió el video con sus 4,1 millones de seguidores, con el texto de que esto es la consecuencia de la inmigración masiva [10].\n\nEl video tiene casi cuatro años: el viernes 13 de enero de 2023, hacia el mediodía, un autobús escolar se incendió en la route de Sauve, en Nîmes, en el sur de Francia [1]. El motor se incendió de repente mientras circulaba [1]. El sitio de noticias local Objectif Gard publicó ese día un video del autobús en llamas [1]. De ahí provienen las imágenes de la publicación, según las verificaciones de An-Nahar y ZDFheute [8] [10].\n\nEn el autobús viajaban diez alumnos de un collège, una escuela para niños de 11 a 15 años [2]. Ellos y el conductor ya habían salido del autobús cuando llegaron los bomberos, y nadie resultó herido [1] [8]. El autobús vacío siguió rodando unos 20 metros y se detuvo contra un muro [8]. Los bomberos del departamento del Gard informaron del incendio esa tarde en X [4]. Midi Libre publicó las imágenes esa misma noche, TF1 Info al día siguiente [2] [3]. Objectif Gard señala como causa únicamente el fuego en el motor, ZDFheute un fallo técnico [1] [10].\n\nLas protestas de escolares son reales: desde la segunda mitad de septiembre, estudiantes de toda Francia bloquean sus lycées en protesta por las aulas masificadas, la falta de profesores y los edificios deteriorados [6]. En ellas también ardió un autobús: en Marsella, el jueves 1 de octubre, durante los bloqueos, se prendió fuego a un autobús y se agredió al conductor [5]. Ese autobús no aparece en el video, porque el video es de enero de 2023 y de Nîmes [1].\n\nEl diario libanés An-Nahar fue el primer verificador que encontramos, el 3 de octubre [8]. AFP Factcheck Nederland llegó a la misma conclusión el 7 de octubre [9].",
+  "niet_weten": "No sabemos quién fue el primero en vincular el vídeo con las protestas de 2026. No hemos podido constatar por qué la moto se incendió. No sabemos si el vídeo ya circulaba antes, después de 2023, como imagen de protestas.",
+  "nog_uitzoeken": [
+   "Si el vídeo ya circulaba antes, después de enero de 2023, como imagen de protestas. En ese caso, se trataría de una afirmación recurrente."
+  ],
+  "tijdlijn": [
+   "Un autobús escolar se incendia mientras circula por la route de Sauve en Nîmes; los niños salen ilesos [1].",
+   "Los bomberos del Gard informan del incendio en X [4].",
+   "TF1 Info publica las imágenes: diez niños evacuados [2].",
+   "En Marsella, durante los bloqueos de lycées, se prende fuego a un autobús [5].",
+   "La publicación en neerlandés con el video de Nîmes [7].",
+   "An-Nahar: el video es de enero de 2023 [8].",
+   "AFP Factcheck Nederland: el video no muestra protestas de escolares [9].",
+   "ZDFheute: el autobús ardió en 2023 por un fallo técnico [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 2 de octubre de 2026, 9:18.",
+   "Objectif Gard (ahora Objectif Sud), 13 de enero de 2023: el video del autobús escolar en llamas en la route de Sauve, en Nîmes."
+  ],
+  "beeld_alt": [
+   "Imagen fija del video: un autobús en llamas en la calle. Sello: FALSO.",
+   "El video de Objectif Gard del autobús escolar que se incendió en Nîmes."
+  ]
+ }
+}

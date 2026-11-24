@@ -1,0 +1,64 @@
+---
+// Het netwerk van namen (PLAN #34.2ai, SPECS E9.S18, DESIGNSYSTEEM §4): welke namen samen voorkomen in nagetrokken
+// beweringen, en in welk thema. Het netwerk zelf is een eiland (`NetwerkKaart.jsx`); de gekozen naam en de lijst van
+// namen zijn gewone HTML van de server, zodat alles ook zonder script werkt. De lijst staat op alfabet, nooit op aantal.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import NetwerkKaart from '../NetwerkKaart.jsx';
+import ThemaTegel from '../ThemaTegel.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const zoek = Astro.url.search;
+const k = g.gekozen;
+---
+<Site titel={k ? `${k.naam} · ${g.titel}` : g.titel} omschrijving={g.inleiding} hier="verkennen" taal={taal}
+      delen={['explore', 'network']} zoekdeel={zoek} aangeboden={zoek ? [] : TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[g.verkennen, g.verkennen_href], k ? [g.titel, g.alles_href] : [g.titel], k && [k.naam]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{g.inleiding}</p>
+      <p class="nw-let-op">{g.let_op}</p>
+    </header>
+
+    <div class="mt-8 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_20rem]">
+      <NetwerkKaart client:visible knopen={g.knopen} randen={g.randen} breed={g.breed} hoog={g.hoog}
+                    gekozen={k?.id ?? null} tekst={g.tekst} />
+      {/* op een telefoon staat een gekozen naam boven het netwerk, breed ernaast */}
+      <aside class:list={['grid gap-4', k && 'order-first lg:order-none']}>
+        {k && (
+          <section class="paneel vak" aria-labelledby="nw-gekozen">
+            <div class="flex items-center gap-2.5">
+              {k.thema && <ThemaTegel thema={k.thema.sleutel} maat="groot" />}
+              <h2 id="nw-gekozen" class="kaartkop min-w-0">{k.naam}</h2>
+            </div>
+            <p class="zacht text-[13px]">{k.soort_naam} · {k.aantal_tekst}{k.thema_regel && <><br />{k.thema_regel}</>}</p>
+            <div class="flex flex-wrap gap-2">
+              <a class="knop knop-primair" href={k.lijst}>{k.lijst_tekst}</a>
+              <a class="knop" href={k.pagina}>{k.pagina_tekst}</a>
+            </div>
+            <div>
+              <p class="text-[12px] font-semibold">{k.buren_kop}</p>
+              {k.buren.length > 0
+                ? <ul class="mt-1.5 grid gap-0.5">{k.buren.map((b) => (
+                    <li><a class="nw-buur" href={b.href} title={b.samen_tekst}><span class="min-w-0 flex-1 truncate">{b.naam}</span><span class="mono flex-none" aria-hidden="true">{b.samen_getal}</span><span class="sr-only">{b.samen_tekst}</span></a></li>
+                  ))}</ul>
+                : <p class="zacht mt-1 text-[13px]">{k.geen_buren}</p>}
+            </div>
+            <a class="link text-[13px]" href={g.alles_href}>{g.alles}</a>
+          </section>
+        )}
+        {!k && <p class="paneel vak text-[13.5px] text-[var(--zacht)]">{g.kies_regel}</p>}
+      </aside>
+    </div>
+
+    <section class="mt-10" aria-labelledby="nw-namen">
+      <div class="sectiekop"><h2 id="nw-namen">{g.namen_kop}</h2></div>
+      <ul class="flex flex-wrap gap-1.5">
+        {g.namen.map((n) => <li><a class="knop" href={n.href} aria-current={n.aan ? 'true' : undefined}>{n.naam}</a></li>)}
+      </ul>
+    </section>
+  </div>
+</Site>

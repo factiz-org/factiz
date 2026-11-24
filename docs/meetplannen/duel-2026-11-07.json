@@ -1,0 +1,33 @@
+{
+ "taak": "duel-2026-11-07",
+ "toelichting": "Het duel met Gemini (PLAN #32.47): 25 berichten uit het nieuws van 19 media en 25 verse nepberichten van westerse factcheckers (vanaf 2026-09-08). Factiz zoals het product, met `lezer-v11`. Geen eisen: de keuzes van de PO zijn de labels.",
+ "map": "data/meting/duel-2026-11-07",
+ "labels": "docs/steekproeven/duel-2026-11-07-meting.json",
+ "budget": 2.0,
+ "zaad": 3254,
+ "sets": {
+  "K": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "K"
+  },
+  "F": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "F",
+   "beeld": true
+  },
+  "O": {
+   "bron": "data/duel/duel-2026-11-07-berichten.jsonl",
+   "set": "O"
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v11",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [],
+ "waar": [],
+ "eisen": [],
+ "zoekvragen_max": 250
+}

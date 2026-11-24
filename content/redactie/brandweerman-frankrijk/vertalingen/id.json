@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar id) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Petugas pemadam kebakaran di Bordeaux terluka akibat kaleng semprot yang meledak, bukan oleh pemuda dengan bensin",
+  "oordeel_zin": "Seorang petugas pemadam kebakaran sempat terkena semburan api pada 29 September ketika sebuah kaleng semprot meledak di api barikade; tidak ada yang menyiramnya dengan bensin atau membakarnya [1] [3].",
+  "bewering": "Pemuda menyiram seorang petugas pemadam kebakaran dengan bensin dan membakarnya saat protes di Prancis.",
+  "kort": "Pada 1 dan 2 Oktober beredar unggahan berbahasa Belanda di X yang menyebut bahwa pemuda di Prancis menyiram seorang petugas pemadam kebakaran dengan bensin dan membakarnya [8]. Pada 29 September di Bordeaux memang seorang petugas pemadam kebakaran sempat terkena semburan api, ketika sebuah kaleng semprot meledak di api barikade yang hendak ia padamkan [1] [3]. Bensin tidak terlibat; yang disiram bensin pada 1 Oktober di Marseille adalah seorang kepala sekolah [5] [6].",
+  "tekst": "Pada Kamis 1 Oktober pukul 21.12 muncul unggahan berbahasa Belanda di X: pemuda disebut menyiram seorang petugas pemadam kebakaran dengan bensin dan membakarnya saat protes di Prancis [8]. Unggahan kedua, pada siang hari sesudahnya, menyebut kejadian itu berlangsung di Bordeaux [8]. Sebuah akun berbahasa Inggris pada 2 Oktober mengunggah foto dengan cerita yang sama, yang menurut CORRECTIV dilihat tujuh juta kali dan ditanggapi oleh Elon Musk [11].\n\nApa yang sebenarnya terjadi tertulis di pers Prancis: pada Selasa 29 September sekitar pukul 12.30 para pelajar memblokade lycée Montaigne di rue Sainte-Catherine, Bordeaux, dan di salah satu pintu masuk sebuah barikade terbakar di jalan [1]. Seorang petugas pemadam kebakaran berjalan menuju api untuk memadamkannya, dan saat itu sesuatu meledak di dalam api: semburan api sesaat menyelimutinya [1] [2].\n\nMenurut prefektur Gironde, itu adalah kaleng semprot yang berada di dalam api [3]. Petugas itu terluka ringan, dibawa ke rumah sakit, dan sore harinya sudah kembali ke pos pemadam kebakaran [1]. Prefek mengatakan ia tidak dapat bekerja selama beberapa hari [1]. Pada video BFMTV dan Le Figaro, dari dua sudut, tidak ada yang menyulutnya, dan setelah semburan api ia sendiri berjalan mundur beberapa meter [4] [11] [12].\n\nBensin tidak disebut dalam satu pun laporan tentang Bordeaux [1] [3]. Kejaksaan Bordeaux memang membuka penyelidikan atas pembakaran yang disengaja dengan luka berat; apakah kaleng semprot itu sengaja diletakkan di dalam api, harus dijawab oleh penyelidikan tersebut [1].\n\nMemang ada kejadian dengan bensin pada pekan itu, tetapi di Marseille dan bukan menimpa petugas pemadam kebakaran: pada Kamis 1 Oktober di lycée Victor-Hugo di sana kepala sekolah disiram dengan bensin, dan menurut kejaksaan ia terluka [5] [6]. Menurut versi lain, bensin terciprat ke para guru ketika seorang siswa hendak membuangnya ke dalam tong sampah [7]. Di lycée Saint-Exupéry, pada pagi yang sama, ratusan pemuda mengepung sebuah mobil pemadam kebakaran, mengusir para petugasnya, dan membakar mobil itu [5] [7]. Tidak satu pun dari laporan itu menyebut adanya petugas pemadam kebakaran yang dibakar [5] [6] [7].\n\nPemeriksa fakta dalam bahasa lain sampai pada hasil yang sama: An-Nahar pada 5 Oktober, EFE Verifica pada 6 Oktober, CORRECTIV pada 12 Oktober, dan ZDFheute pada 14 Oktober [9] [10] [11] [12]. Menurut CORRECTIV, fotonya asli; sang fotografer mengonfirmasi hal itu kepada AFP [11]. Dalam bahasa Belanda, Knack menulis sebuah pemeriksaan fakta yang paling lambat pada 19 Oktober sudah terbit [13].",
+  "niet_weten": "Kami tidak tahu gambar mana yang muncul dalam unggahan berbahasa Belanda. CORRECTIV menyebut foto itu asli, sedangkan An-Nahar melihat gambar yang berbeda dari video-video yang ada dan kemungkinan dibuat ulang [9] [11]. Mungkin ada dua gambar yang beredar. Kami juga tidak tahu apakah ada orang yang sengaja melemparkan kaleng semprot ke dalam api, dan apa hasil penyelidikan kejaksaan.",
+  "nog_uitzoeken": [
+   "Gambar mana yang ditampilkan oleh kedua unggahan berbahasa Belanda itu: foto asli oleh Guillaume Bonnaud, versi yang dibuat ulang, atau sebuah video. Unggahan tersebut sudah dihapus.",
+   "Apakah kejaksaan Bordeaux mengumumkan sesuatu tentang penyelidikan itu, dan apakah ada orang yang sengaja melemparkan kaleng semprot ke dalam api.",
+   "Para pemeriksa fakta lain berbeda penilaian: ZDFheute dan Mimikama memilih menyesatkan, CORRECTIV, EFE Verifica dan An-Nahar memilih salah. Kami memilih salah."
+  ],
+  "tijdlijn": [
+   "Seorang petugas pemadam kebakaran terkena semburan api di sebuah barikade di depan lycée Montaigne di Bordeaux [1].",
+   "BFMTV mengunggah video kejadian itu di X [4].",
+   "Di Marseille seorang kepala sekolah disiram dengan bensin dan sebuah mobil pemadam kebakaran dibakar [5] [6].",
+   "Unggahan pertama berbahasa Belanda: disiram bensin dan dibakar [8].",
+   "Unggahan kedua berbahasa Belanda menyebut lokasinya di Bordeaux [8].",
+   "An-Nahar: klaim itu tidak benar [9].",
+   "CORRECTIV: fotonya asli, tidak ada yang membakar petugas pemadam kebakaran itu [11].",
+   "Paling lambat pada hari ini, pemeriksaan fakta Knack sudah terbit [13]."
+  ],
+  "beeld_bijschrift": [
+   "BFMTV di X, 29 September 2026: video petugas pemadam kebakaran di lycée Montaigne, Bordeaux."
+  ],
+  "beeld_alt": [
+   "Video BFMTV: seorang petugas pemadam kebakaran berjalan menuju api kecil di jalan, api menyembur ke atas dan langsung padam."
+  ]
+ }
+}

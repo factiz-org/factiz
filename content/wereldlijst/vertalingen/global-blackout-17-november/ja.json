@@ -1,0 +1,16 @@
+{
+ "_meta": "Machinevertaling (en naar ja) van het overzicht global-blackout-17-november van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ja",
+ "brontaal": "en",
+ "vingerafdruk": "329ccec2c5f04d8a",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "2026年11月17日から72時間にわたる世界規模の停電とインターネット障害が始まり、銀行やATMが機能を停止するという内容のメッセージが出回っている。",
+  "kern": [
+   "2026年11月17日に世界規模の停電が起こると警告した公的機関はない。[1] [2]",
+   "この日付は、米連邦機関FEMAが発表し、テレビとラジオで放送される予定の、米国の緊急警報の試験と一致している。[1] [2]",
+   "投稿には、欧州で勧められている72時間分の非常用備蓄に関する助言や、シンプソンズのエピソードも混ぜ込まれていたが、いずれもその日の停電を示すものではない。[1] [2]"
+  ],
+  "rondgang": "この警告はFacebook、TikTok、Xの投稿で広まり、スペインとイタリアのファクトチェック機関が検証した。EFEは、早くも2026年10月27日にXで英語の投稿を確認していた。[1] [2]"
+ }
+}

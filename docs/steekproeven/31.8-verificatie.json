@@ -1,0 +1,300 @@
+{
+ "_meta": "Labels van de toets controleren met bronnen (PLAN #31.8, 2026-10-25), alle oordelen die tellen gelezen door Claude: bij een onwaar stuk met 'klopt niet' of de bron het bewijst (bewijst / bewijst niet); bij een waar stuk of webtekst met 'klopt niet' of dat terecht is (terecht / vals). Bij twijfel het strengste label. Een 'klopt niet' zonder één bron telt vanzelf als zonder bewijs.",
+ "labels": [
+  {
+   "sleutel": "a:b-000200",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000303",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000347",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000351",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000379",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000396",
+   "label": "bewijst niet",
+   "waarom": "de bronnen tonen dat de beving van 2021 bestond; ze bewijzen niet dat het beeld verkeerd gebruikt wordt"
+  },
+  {
+   "sleutel": "a:b-000472",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000507",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000569",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-000668",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "a:b-000770",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "a:b-016057",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-016282",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-016341",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-016784",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-017105",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-017296",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-017406",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-017694",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-018267",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-018308",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-018489",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-018549",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-018981",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019067",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019075",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019107",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019170",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019203",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019232",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019255",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019369",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019393",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019411",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019449",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "a:b-019520",
+   "label": "bewijst",
+   "waarom": "een check van een redactie over dezelfde bewering, met oordeel onwaar of misleidend"
+  },
+  {
+   "sleutel": "b:b-000303",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000347",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000379",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000396",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000472",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000507",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-000669",
+   "label": "bewijst niet",
+   "waarom": "de enige bron voor 1945 is een lezersreactie die naar Corbis verwijst; te zwak"
+  },
+  {
+   "sleutel": "b:b-008847",
+   "label": "vals",
+   "waarom": "artikel uit 2020 over nieuwe sancties tegen Syrië, getoetst aan vandaag (Caesar Act ingetrokken in december 2025): de tijd, niet de bewering"
+  },
+  {
+   "sleutel": "b:b-016057",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-016282",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-016341",
+   "label": "bewijst niet",
+   "waarom": "het bericht is grotendeels een ideologische stelling; de studies weerleggen een herformulering van het model (bij twijfel bewijst niet)"
+  },
+  {
+   "sleutel": "b:b-017694",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-018267",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-018489",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-018549",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-019232",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-019255",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-019393",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-019449",
+   "label": "bewijst",
+   "waarom": "de geciteerde bron weerlegt de bewering rechtstreeks (vaak een factcheck buiten de geblokkeerde domeinen)"
+  },
+  {
+   "sleutel": "b:b-019940",
+   "label": "vals",
+   "waarom": "Data Favela: 76% heeft, had of wil een bedrijf; de redactie noemde de bewering waar, het verschil is een nuance (bij twijfel vals)"
+  },
+  {
+   "sleutel": "b:b-020106",
+   "label": "vals",
+   "waarom": "Lula won in oktober 2002 en trad in 2003 aan; de inflatie was 12,5%: muggenziften op het jaar"
+  },
+  {
+   "sleutel": "b:b-021296",
+   "label": "vals",
+   "waarom": "Palermo-Mazara: 84 km spoor tegen '100 km', reistijd klopt: muggenziften op een getal"
+  },
+  {
+   "sleutel": "b:b-025873",
+   "label": "vals",
+   "waarom": "webtekst over Ganesh Chaturthi op 2 september (klopt voor 2019), getoetst aan 2026: de tijd"
+  }
+ ]
+}

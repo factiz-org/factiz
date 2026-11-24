@@ -1,0 +1,306 @@
+{
+ "toelichting": "PLAN #33.4, de hertoets van de thema's: 60 willekeurige beweringen (zaad 11) uit de 400, met het thema van tien per vraag (B) en van één per vraag (A) naast elkaar gelezen door Claude op 2026-11-11. Per bewering alleen het nummer en het label, geen tekst. 'goed' is ook: een ander thema zou net zo goed kunnen. De lezing van de PO (200, eis 180) is de poort voor het tonen en staat er nog niet. Eigen werk.",
+ "gelezen_door": "Claude (Fable 5.2)",
+ "labels": {
+  "9743e25d27f7d426": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "b648800969c1c539": {
+   "thema_B": "fout",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "ff2b2c10d43d2b79": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "99afec346e264a0f": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "aa1e0326702aaa23": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "bdbb8ff240011749": {
+   "thema_B": "goed",
+   "thema_A": "twijfel",
+   "land_B": "goed"
+  },
+  "424e4dbb3d273c39": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "412e44305c1435a4": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "abdf2c65d4f6e9a5": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "9e4f5d63e22d69ec": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d0d6e8e2fd99f581": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "cacac0e049795a45": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "4137bd5fba7a097e": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "1e60f38dfcff80bb": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "96767ef37938c836": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "66429d215e57a793": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "30aa9ca288964c7f": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "1d4b9b704ced32d8": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "b16074a4990b66b6": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "e60dce35bc6d6167": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d28ad9be12e2aa0d": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "0ba2011c87c73744": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "c2d15bc7d43752d1": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "87cbb92df8018110": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d6f441f6feb06c1e": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "f56f4143a66a86bc": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "cbe261ce164a45b8": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d5af2b47c85bfe58": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "39c985825d3dacb3": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "cf81627aee6d0c40": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "02a903a292b6266d": {
+   "thema_B": "twijfel",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "aef7df17faa17f92": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "12f761138995f4ad": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "1171c83b85d79e56": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "096515900deddac1": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "557f6977f207d06f": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "c578e01461cd1b6d": {
+   "thema_B": "goed",
+   "thema_A": "fout",
+   "land_B": "goed"
+  },
+  "087b56f0244ccf82": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "ff26310989070ebb": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "9928270ba49cb3c5": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "70dc8fc30e5cbcd2": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "95ee28346a330250": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "c183ded154a65210": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "448d05e41e70f9b8": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "ad42f568aa7e3178": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "5303f86d14c44394": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d40a457b132a66c2": {
+   "thema_B": "goed",
+   "thema_A": "twijfel",
+   "land_B": "goed"
+  },
+  "631b763407e01d41": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "a743ee25a6c84a9a": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "009904525ede070f": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "dbd3465932026661": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "1a780cbd54a94ded": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "97d29040a7bbad86": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "d6fb05789097c84b": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "5f5ce3c43eb687e4": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "8a5cfd388dd96d14": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "b4b284c3ef165493": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "1a52eaa687a62c4a": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "ece5bc932daf3e9e": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  },
+  "59a5de92323879a6": {
+   "thema_B": "goed",
+   "thema_A": "goed",
+   "land_B": "goed"
+  }
+ }
+}

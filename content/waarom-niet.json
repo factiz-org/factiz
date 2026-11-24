@@ -1,0 +1,91 @@
+{
+ "_meta": {
+  "toelichting": "Punten van Waarom het niet klopt die in geen uitgave mogen staan, wat de regels en de lezing ook zeggen (B77, PLAN #34.2j): een fout die een bezoeker meldde, of een punt dat bij een leesproef niet gedragen bleek. Per regel de pagina, het punt woord voor woord (zonder punt: de hele pagina), de reden, door wie en wanneer. `publiceren bouwen` laat ze weg; een gemelde fout komt hier binnen een werkdag, met een nieuwe uitgave."
+ },
+ "punten": [
+  {
+   "pagina": "16df53c9ad4a2060",
+   "punt": "The EU High Representative explained that EU policy is not determined by the US and that there is no wish to start a war with Russia.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] schrijft ook 'no wish to start a war' toe aan de Hoge Vertegenwoordiger; de weerlegging koppelt de HV alleen aan de eerste zin, de tweede zegt EUvsDisinfo zelf (toeschrijving)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "a5190304541ced85",
+   "punt": "Euromaidan was falsely presented by pro-Kremlin sources as a coup; in fact the then-president Viktor Yanukovych was toppled and later fled to Russia.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] 'in fact the then-president Viktor Yanukovych was toppled' maakt van een tijdsaanduiding in de weerlegging ('when') een tegenwerping, en leest als toegeving aan 'coup'",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "16d593f3b4efe96f",
+   "punt": "According to Associated Press, the humanitarian corridor opened by the Syrian government remained unused in the first days.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] 'the corridor remained unused' leest als steun voor de bewering (terroristen houden mensen tegen); de reden van de weerlegging, dat mensen arrestatie vrezen (The Guardian), ontbreekt (toegeving)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "5c04d09bd53c683d",
+   "punt": "The Gaddafi Viagra accusation was not made only by Susan Rice; the International Criminal Court's main prosecutor Luis Moreno Ocampo made it too.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [1] laat weg dat de weerlegging de Libische Viagra-beschuldiging omstreden en niet onafhankelijk bevestigd noemt; zo leest ze als geloofwaardig (weggelaten voorbehoud)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "0d337205ed2f4a11",
+   "punt": "Opposition parties accused the president and ruling parties of vote-buying and voter intimidation, and the electoral authorities then annulled the election results.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] zegt dat de oppositie beschuldigde; de weerlegging zegt in de lijdende vorm dat de president werd beschuldigd, zonder wie (toegevoegde toeschrijving)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "04e15c5e99fa8ca7",
+   "punt": "The Open Society Foundation worked in Romania from 1990 to 2017 on projects in fields such as human rights, media freedom, democracy and justice.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] 'Open Society werkte van 1990 tot 2017 in Roemenië aan democratie en justitie' leest als steun voor de bewering dat Soros' netwerk er invloed heeft (toegeving)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "10d124846b900fa3",
+   "punt": "NATO is a defensive Alliance whose greatest responsibility is protecting and defending the territories and populations of its member countries, according to the Brussels Summit Declaration of 11 July 2018.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [1] schrijft ook 'its greatest responsibility' toe aan de verklaring van Brussel; de weerlegging koppelt de verklaring alleen aan 'NATO is a defensive Alliance' (toeschrijving over de zin heen, zoals 16df53c9)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "c488cd778d7e94e3",
+   "punt": "Poland has repeatedly stated that Nord Stream 2 is incongruent with the goals of the EU's energy policy, so it is not acting against EU policy.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom.json): [0] 'so it is not acting against EU policy' is een eigen gevolgtrekking uit wat Polen zelf zegt; die staat niet in de weerlegging en volgt er niet uit",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "c900271e1247c3e4",
+   "punt": "Russian culture, including language and literature, was not banned in Ukraine; only Communist ideology was banned.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom-v2.json): [1] 'only Communist ideology was banned': de weerlegging zegt dat Oekraïne de communistische ideologie verbood en de Russische cultuur niet, niet dat alleen die ideologie verboden is (een toegevoegd 'only')",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "fb6506c1871caa85",
+   "punt": "Oleksandr Turchynov called on high officials to give blood on the eve of World Blood Donor Day, not because of war preparations.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom-v2.json): [0] laat weg dat Turchynov opriep bloed te geven 'with the defenders of Ukraine', en voegt toe 'not because of war preparations', dat de weerlegging niet zegt (eigen gevolgtrekking)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "93aa2b659214dac2",
+   "punt": "RT France challenged the Council Regulation before the EU Court of Justice and was unsuccessful, because it did not justify serious and irreparable prejudice.",
+   "reden": "niet gedragen bij de leesproef (34.2j-waarom-v2.json): [0] 'was unsuccessful' laat weg dat het alleen ging om het opschorten van de verordening; de weerlegging zegt dat de zaak zelf nog moest komen (weggelaten voorbehoud)",
+   "door": "Claude",
+   "datum": "2026-11-12"
+  },
+  {
+   "pagina": "d1ebf71cccb7f7b6",
+   "punt": "No evidence has emerged that Drapatyi is responsible for any other war crime.",
+   "reden": "zwak bij de leesproef (35.3-waarom-2026.json): 'any other war crime' zegt los gelezen dat de genoemde generaal wel een oorlogsmisdaad beging; de weerlegging zegt dat ook voor de beschuldigde misdaad geen bewijs is",
+   "door": "Claude",
+   "datum": "2026-11-23"
+  }
+ ]
+}

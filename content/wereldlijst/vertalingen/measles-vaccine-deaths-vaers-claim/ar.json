@@ -1,0 +1,15 @@
+{
+ "_meta": "Machinevertaling (en naar ar) van het overzicht measles-vaccine-deaths-vaers-claim van de wereldlijst van Factiz, door claude-sonnet-5-5, wereldvertaling-v1; doublecheck/wereldvertaling.py, PLAN #37.12.",
+ "taal": "ar",
+ "brontaal": "en",
+ "vingerafdruk": "fbf36d2d0e39e4ac",
+ "maker": "claude-sonnet-5-5, wereldvertaling-v1",
+ "velden": {
+  "bewering": "تُظهر بيانات رسمية أمريكية أن لقاحات الحصبة ارتبطت بوفيات تزيد بنسبة 1700 في المئة عن وفيات الإصابة بالحصبة منذ عام 1995.",
+  "kern": [
+   "تقارن هذه النسبة بين البلاغات المرسلة إلى VAERS، وهي قاعدة بيانات أمريكية لسلامة اللقاحات يمكن لأي شخص أن يرسل إليها بلاغًا، وبين وفيات الحصبة المؤكدة، وقال خبراء لوكالة فرانس برس إن هذه البلاغات لا يمكنها إثبات أن اللقاح تسبب في الوفاة [1].",
+   "تُظهر دراسات السلامة الكبرى أن النتائج الضارة الخطيرة الناجمة عن لقاح الحصبة والنكاف والحصبة الألمانية نادرة [1]."
+  ],
+  "rondgang": "انتشر الادعاء، الذي ظهر في مقال على Substack، على X وFacebook وInstagram في وقت قررت فيه منظمة الصحة للبلدان الأمريكية أن الولايات المتحدة لم تعد تستوفي معايير القضاء على الحصبة [1]."
+ }
+}

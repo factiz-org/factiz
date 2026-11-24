@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>org.factiz.radar</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-c</string>
+    <string>cd "/path/to/factiz" &amp;&amp; mkdir -p data/radar &amp;&amp; { .venv/bin/python -m doublecheck.radarlijst ophalen &amp;&amp; .venv/bin/python -m doublecheck.hittewacht --log data/radar/hittewacht.log -- .venv/bin/python -m doublecheck.radarlijst lijst --melding ; } &gt;&gt; data/radar/launchd.log 2&gt;&amp;1</string>
+  </array>
+  <!-- Elke zondag om 22:00, want maandagochtend staat de Mac meestal uit (PO 2026-11-19: "start maar rond 22:00 in de avond
+op zondag"; eerder maandag 8:00, PLAN #37.1, B82; PO 2026-11-18: "Ja, bouw de radar maar"): de nieuwste export van de Community
+       Notes van X ophalen (~730 MB, er blijven er hoogstens twee staan) en de lijst van de week maken in
+       data/radar/lijst/<dag>.md, met een melding op de Mac. Alles lokaal: een notetekst gaat nooit naar een externe dienst.
+       Het model (bge-m3) staat al op de Mac, dus HF_HUB_OFFLINE. Aanzetten:
+       sed "s|/path/to/factiz|$PWD|" deploy/org.factiz.radar.plist > ~/Library/LaunchAgents/org.factiz.radar.plist && launchctl load ~/Library/LaunchAgents/org.factiz.radar.plist -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>HF_HUB_OFFLINE</key>
+    <string>1</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key>
+    <integer>0</integer>
+    <key>Hour</key>
+    <integer>22</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>10</integer>
+</dict>
+</plist>

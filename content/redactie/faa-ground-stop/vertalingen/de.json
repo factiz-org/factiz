@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar de) van de eigen factcheck faa-ground-stop van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "en",
+ "vingerafdruk": "948296e64978747c",
+ "veldafdrukken": {
+  "kop": "a7f7d2fdd902a07d",
+  "oordeel_zin": "085fde626c388641",
+  "bewering": "3e8770b6039de07c",
+  "kort": "5a312c3029f0634b",
+  "tekst": "4133c0b562e5865e",
+  "niet_weten": "d448c10bab1442b5",
+  "bereik": "3bf84c0dec824f06",
+  "nog_uitzoeken": "7d0f9cd667cc7c6a",
+  "tijdlijn": "8b8b4713ce93c913",
+  "beeld_bijschrift": "48c28d5d8af49457",
+  "beeld_alt": "31fa6cdacfeda6cd"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Mullin sagte, Trump habe wegen des Startstopps den nationalen Notstand ausgerufen, doch es gibt keine Erklärung",
+  "oordeel_zin": "Heimatschutzminister Markwayne Mullin sagte es im Weißen Haus, doch im Federal Register oder unter den Maßnahmen des Präsidenten findet sich keine Erklärung, und er sagte es, während er den Kongress um Geld bat [2] [4] [5].",
+  "bewering": "🚨 HEILIGE SCHEISSE: Präsident Trump hat den NATIONALEN NOTSTAND wegen Amerikas kaputtem Flugsicherungssystem AUSGERUFEN.  Ein Reporter fragte, ob ein Cyberangriff oder eine außer Kontrolle geratene KI dafür verantwortlich ist. Der Heimatschutzminister Markwayne Mullin sagt, es gebe bisher NULL BEWEISE für einen Cyberangriff.",
+  "kort": "Es gibt keine Erklärung eines nationalen Notstands wegen des Startstopps in den USA, obwohl Heimatschutzminister Markwayne Mullin sagte, Präsident Trump habe eine abgegeben [2] [11]. Ein Ausschnitt seines Briefings verbreitete sich auf X als Nachricht über diese Erklärung [1]. Im Federal Register, wo das Gesetz die Veröffentlichung vorschreibt, findet sich weder eine Proklamation noch eine Anordnung, und Mullin sagte es, während er den Kongress um Geld bat [2] [4] [6].",
+  "tekst": "Am 13. November gegen 15:30 Uhr Eastern Time (20:30 UTC) stoppte die Federal Aviation Administration (FAA) alle Abflüge von US-Flughäfen, einen sogenannten Ground Stop [8]. Eine Flut von Daten in ihrem Telekommunikationsnetz hatte ältere Geräte instabil gemacht, und die FAA sagt, es gebe keinen Hinweis auf einen Cyberangriff [8].\n\nAn jenem Abend informierten Mullin und Verkehrsminister Sean Duffy die Presse im Weißen Haus [9]. Mullin nannte das alte Flugsicherungssystem ein Risiko für die nationale Sicherheit und sagte: „Der Präsident hat dies zum nationalen Notstand erklärt, und nun muss der Kongress handeln und es finanzieren.“ [2] Sein Ministerium veröffentlichte den Satz, und The National News Desk berichtete noch in derselben Nacht darüber [2] [11].\n\nUm 01:54 UTC am 14. November veröffentlichte das Konto Gunther Eagleman einen Ausschnitt des Briefings mit dem Text, Trump habe den nationalen Notstand ausgerufen [1]. Ein späterer Beitrag nannte den Startstopp eine Militäroperation unter nationalem Notstand, und Mike Flynn, ein früherer Nationaler Sicherheitsberater, schrieb von Berichten, wonach Militäreinheiten in Alarmbereitschaft seien, doch wir fanden keinen solchen Bericht [13] [14].\n\nNach dem National Emergencies Act erklärt der Präsident einen nationalen Notstand in einer Proklamation, die an den Kongress geht und im Federal Register veröffentlicht wird [6]. Trump erklärte im August einen zum Stromnetz, in der Executive Order 14421 [7]. Für den Startstopp fanden wir keine: Das Federal Register hat seit dem 13. November drei Präsidialdokumente veröffentlicht, keines zur Flugsicherung oder zu einem Notstand, und das Weiße Haus führt keine solche Maßnahme auf [4] [5].\n\nTrump selbst äußerte sich bis zum 15. November nicht öffentlich, als er den Kongress um das „dringend benötigte Geld für die Flugsicherung“ bat [10]. Die Zusammenfassung des Briefings durch das Weiße Haus setzt dort, wo Mullins Satz stand, Auslassungspunkte und zitiert Duffy: „Das ist ein Notfall. Ich möchte, dass der Kongress uns Notfallmittel gibt.“ [3] [11]",
+  "niet_weten": "Wir wissen nicht, ob Trump den Ausfall privat als nationalen Notstand bezeichnet hat oder ob Mullin den Ruf nach Notfallfinanzierung meinte [2] [3], und auch nicht, warum das Weiße Haus seinen Satz wegließ [3].",
+  "bereik": "14.713 Likes und 877 Antworten am 22. November; fünf weitere Beiträge mit derselben Behauptung kamen zusammen auf 23.107 Likes",
+  "nog_uitzoeken": [
+   "Worauf Mullin seine Worte stützte und ob das Heimatschutzministerium oder das Weiße Haus sie korrigiert hat.",
+   "Ob noch eine Erklärung zur Flugsicherung folgt; wir haben bis zum 22. November nachgesehen.",
+   "Wir haben zwischen Irreführend und Falsch abgewogen. Mullin sagte die Worte tatsächlich, weshalb wir uns für Irreführend entschieden haben; es gibt keine Erklärung, was für Falsch spricht."
+  ],
+  "tijdlijn": [
+   "Gegen 15:30 Uhr Eastern Time hat die FAA ein technisches Problem und stoppt alle Abflüge im ganzen Land [8].",
+   "Die Flüge werden wieder aufgenommen, am 13. November um 20:15 Uhr Eastern Time [8].",
+   "Nach 20:15 Uhr Eastern Time am 13. November informieren Mullin und Duffy die Presse im Weißen Haus; Mullin sagt, der Präsident habe einen nationalen Notstand ausgerufen [2] [9] [11].",
+   "Gunther Eagleman veröffentlicht einen Ausschnitt des Briefings: Trump habe einen nationalen Notstand ausgerufen [1].",
+   "Ein anderes Konto schreibt, Trump habe einen nationalen Notstand ausgerufen, und bittet Grok, das zu überprüfen [12].",
+   "Trumps erster Beitrag zum Startstopp, auf Truth Social, bittet den Kongress um Geld für die Flugsicherung [10].",
+   "Trump macht sehr alte Geräte verantwortlich und sagt, er übernehme keine Verantwortung [9].",
+   "Keine Erklärung zum Startstopp im Federal Register oder unter den Präsidialmaßnahmen des Weißen Hauses [4] [5]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 14. November 2026, 01:54 UTC.",
+   "Das vollständige Briefing von Markwayne Mullin und Sean Duffy, vom Weißen Haus veröffentlicht, 13. November 2026."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag auf X von Gunther Eagleman, in dem es heißt, Präsident Trump habe wegen des Flugsicherungssystems einen nationalen Notstand ausgerufen, mit einem Standbild von Fox News, das Sean Duffy und Markwayne Mullin beim Briefing im Weißen Haus zeigt. Stempel: IRREFÜHREND.",
+   "Das Video des Weißen Hauses vom Briefing zum Ground Stop der FAA, mit Verkehrsminister Sean Duffy und Heimatschutzminister Markwayne Mullin."
+  ]
+ }
+}

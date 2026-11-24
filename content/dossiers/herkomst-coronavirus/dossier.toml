@@ -1,0 +1,162 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 als zevende, "juist omdat deze lastig is" (docs/voorstellen/2026-11-12-dossiers-
+# longlist.md, het advies over de herkomst); de tekst is een concept van Claude. Een dossier over een open vraag: de
+# eerste zin zegt dat de herkomst niet vaststaat. De PO leest hier de keuze van factchecks zelf, elke kaart.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "concept"           # concept of akkoord; alleen akkoord gaat in een uitgave
+thema = "health"
+onderdeel = "covid"
+verwant = ["gates-vaccins-chips", "biolabs-oekraine"]
+
+[naam]
+nl = "De beweringen over waar het coronavirus vandaan kwam"
+en = "Claims about where the coronavirus came from"
+de = "Die Behauptungen darüber, woher das Coronavirus kam"
+es = "Las afirmaciones sobre el origen del coronavirus"
+fr = "Les affirmations sur l’origine du coronavirus"
+pt = "Afirmações sobre a origem do coronavírus"
+ru = "Утверждения о происхождении коронавируса"
+uk = "Твердження про те, звідки взявся коронавірус"
+id = "Klaim tentang asal-usul virus corona"
+tr = "Koronavirüsün nereden geldiğine dair iddialar"
+zh = "關於新冠病毒來源的查核內容"
+ja = "新型コロナウイルスの起源をめぐる言説"
+hi = "कोरोनावायरस कहां से आया, इस बारे में दावे"
+ar = "ادعاءات حول مصدر فيروس كورونا"
+fa = "ادعاهای مربوط به منشأ ویروس کرونا"
+
+[inleiding]
+nl = """
+Hoe het coronavirus bij mensen kwam, staat niet vast. Onderzoekers en diensten houden een overloop van dier op mens en een ongeluk in een laboratorium allebei voor mogelijk, en ze zijn het er niet over eens. Wat redacties wel vaak natrokken, zijn beweringen die verder gaan: dat het virus met opzet is gemaakt of verspreid, dat het al vóór 2019 gepatenteerd was, of dat een bepaalde persoon of organisatie het plande. Een oordeel over de ene soort bewering zegt niets over een andere. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+How the coronavirus reached humans has not been established. Researchers and intelligence agencies consider both a spillover from animals and an accident in a laboratory possible, and they disagree. What newsrooms often checked are claims that go further: that the virus was made or released on purpose, that it was patented before 2019, or that a named person or organisation planned it. A verdict on one kind of claim says nothing about another. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Wie das Coronavirus auf den Menschen übergesprungen ist, steht nicht fest. Forschende und Geheimdienste halten sowohl einen Übersprung vom Tier als auch einen Unfall in einem Labor für möglich, und sie sind sich nicht einig. Was Redaktionen oft geprüft haben, sind Behauptungen, die weiter gehen: Das Virus sei absichtlich hergestellt oder verbreitet worden, es sei schon vor 2019 patentiert gewesen, oder eine bestimmte Person oder Organisation habe es geplant. Ein Urteil über die eine Art von Behauptung sagt nichts über eine andere. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Cómo llegó el coronavirus a los seres humanos no está establecido. Investigadores y servicios de inteligencia consideran posibles tanto un salto desde animales como un accidente en un laboratorio, y no se ponen de acuerdo. Lo que las redacciones verificaron a menudo son afirmaciones que van más lejos: que el virus se fabricó o se liberó a propósito, que ya estaba patentado antes de 2019 o que una persona u organización concreta lo planeó. Un veredicto sobre un tipo de afirmación no dice nada de otro. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+La façon dont le coronavirus est passé à l’humain n’est pas établie. Chercheurs et services de renseignement jugent possibles à la fois un passage de l’animal à l’humain et un accident de laboratoire, et ils ne sont pas d’accord. Ce que les rédactions ont souvent vérifié, ce sont des affirmations qui vont plus loin : le virus aurait été fabriqué ou diffusé exprès, il aurait été breveté avant 2019, ou une personne ou une organisation précise l’aurait planifié. Un verdict sur un type d’affirmation ne dit rien d’un autre. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Ainda não se sabe como o coronavírus chegou aos humanos. Pesquisadores e agências de inteligência consideram possíveis tanto a transmissão de animais para humanos quanto um acidente em laboratório, e não há consenso. O que as agências mais checaram foram afirmações que vão além: que o vírus foi criado ou liberado de propósito, que foi patenteado antes de 2019, ou que uma pessoa ou organização citada o planejou. A classificação de um tipo de afirmação não diz nada sobre outro. Este dossiê coloca em uma linha do tempo as versões que as agências checaram. Cada checagem mostra o que aquela agência encontrou; a Factiz não acrescenta nenhuma classificação própria. A lista inclui apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+Как коронавирус попал к людям, до сих пор не установлено. Исследователи и разведки считают возможными и передачу от животных, и аварию в лаборатории, и мнения у них расходятся. Редакции чаще всего проверяли утверждения, которые идут дальше: что вирус создали или выпустили намеренно, что он был запатентован до 2019 года, что его спланировал конкретный человек или организация. Вердикт по одному виду утверждений ничего не говорит о другом. В этом досье версии, которые проверяли редакции, расположены на временной шкале. В каждом фактчеке написано, что выяснила эта редакция. Factiz не добавляет собственных вердиктов. В списке только те фактчеки, которые мы вправе republish, поэтому он неполный.'''
+uk = '''
+Як саме коронавірус потрапив до людей, не встановлено. Дослідники та розвідувальні служби вважають можливими і перехід вірусу від тварин, і аварію в лабораторії, та їхні думки розходяться. Редакції найчастіше перевіряли твердження, які йдуть далі: що вірус створили або випустили навмисно, що його запатентували до 2019 року, або що його запланувала конкретна людина чи організація. Вердикт щодо одного виду тверджень нічого не говорить про інший. У цьому досьє версії, які перевіряли редакції, розміщено на часовій шкалі. Кожен фактчек показує, що знайшла саме ця редакція, а Factiz не додає власного вердикту. У списку лише ті фактчеки, які ми маємо право републікувати, тому він неповний.'''
+id = '''
+Bagaimana virus corona sampai ke manusia belum dapat dipastikan. Para peneliti dan badan intelijen menganggap penularan dari hewan dan kecelakaan di laboratorium sama-sama mungkin, dan mereka tidak sepakat. Yang sering diperiksa oleh redaksi adalah klaim yang melangkah lebih jauh: bahwa virus itu sengaja dibuat atau disebarkan, bahwa virus itu sudah dipatenkan sebelum 2019, atau bahwa seseorang atau organisasi tertentu merencanakannya. Kesimpulan atas satu jenis klaim tidak berlaku untuk jenis klaim lainnya. Dosir ini menyajikan berbagai versi klaim yang diperiksa redaksi dalam bentuk lini masa. Setiap cek fakta menyampaikan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi daftar ini belum lengkap.'''
+tr = '''
+Koronavirüsün insanlara nasıl bulaştığı kesin olarak belirlenmemiştir. Araştırmacılar ve istihbarat kuruluşları hem hayvanlardan insanlara geçişi hem de bir laboratuvar kazasını olası görüyor ve bu konuda aralarında görüş ayrılığı var. Doğrulama kuruluşlarının sıkça incelediği iddialar ise daha ileri gidiyor: virüsün bilerek üretildiği veya yayıldığı, 2019 öncesinde patentinin alındığı ya da adı geçen bir kişi veya kuruluşun bunu planladığı. Bir tür iddia hakkındaki karar, başka bir tür iddia hakkında bir şey söylemez. Bu dosya, doğrulama kuruluşlarının incelediği iddia sürümlerini bir zaman çizelgesinde sunar. Her doğrulama, ilgili doğrulama kuruluşunun ne bulduğunu belirtir; Factiz kendi adına bir karar eklemez. Liste yalnızca yeniden yayımlayabildiğimiz doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+新冠病毒究竟如何傳到人類身上，目前尚未確定。研究人員和情報機構都認為，病毒可能是從動物傳給人，也可能是實驗室發生意外，雙方看法不一。查核機構常查核的，是更進一步的說法：病毒是人為製造或蓄意釋放的、2019 年前就已取得專利，或是某個特定人士或組織策劃了這件事。針對其中一種查核內容的查核結果，無法說明另一種內容的真偽。這個專題把查核機構查核過的各種說法放在時間軸上。每篇查核報告都是在說明該查核機構的查核發現，Factiz 不另外加上任何查核結果。這份清單只收錄我們可以轉載的查核報告，所以並不完整。'''
+ja = '''
+新型コロナウイルスがどのように人間に広がったのかは、確定していません。研究者や情報機関は、動物からの感染と研究所での事故のどちらも起こりうると考えており、意見は分かれています。報道機関がよく検証してきたのは、さらに踏み込んだ言説です。たとえば、ウイルスが意図的に作られた、または意図的に放出された、2019年より前に特許が取られていた、特定の人物や組織が計画した、といったものです。ある種類の言説に対する判定は、別の種類の言説については何も語りません。この特集では、報道機関が検証したさまざまな言説を時系列にまとめています。各ファクトチェックには、その報道機関が確認した内容が示されています。Factizが独自の判定を加えることはありません。一覧に載せているのは、再掲載が認められているファクトチェックだけです。そのため、すべてを網羅しているわけではありません。'''
+hi = '''
+कोरोनावायरस इंसानों तक कैसे पहुंचा, यह अभी तय नहीं हो पाया है। शोधकर्ता और खुफिया एजेंसियां दोनों संभावनाओं को मुमकिन मानती हैं: जानवरों से इंसानों में फैलना और प्रयोगशाला में हुई कोई दुर्घटना। इस पर उनकी राय अलग-अलग है। न्यूज़रूम ने अक्सर ऐसे दावों की जांच की है जो इससे आगे जाते हैं: कि वायरस जानबूझकर बनाया या फैलाया गया, कि 2019 से पहले उसका पेटेंट हो चुका था, या कि किसी नामजद व्यक्ति या संगठन ने उसकी योजना बनाई थी। एक तरह के दावे पर आया निष्कर्ष दूसरी तरह के दावे के बारे में कुछ नहीं कहता। इस डोसियर में न्यूज़रूम द्वारा जांचे गए अलग-अलग दावे एक टाइमलाइन पर रखे गए हैं। हर फैक्ट चेक यह बताता है कि उस न्यूज़रूम ने क्या पाया। Factiz अपना कोई निष्कर्ष नहीं जोड़ता। इस सूची में सिर्फ वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह सूची पूरी नहीं है।'''
+ar = '''
+لم يُحسم بعد كيف انتقل فيروس كورونا إلى البشر. يرى باحثون ووكالات استخبارات أن الانتقال من الحيوانات وحادثًا وقع في مختبر كلاهما محتمل، وهم مختلفون في ذلك. أما ما دقّقته المنصات الإخبارية في كثير من الأحيان فهو ادعاءات تذهب أبعد من ذلك: أن الفيروس صُنع أو أُطلق عمدًا، أو أنه سُجّل ببراءة اختراع قبل عام 2019، أو أن شخصًا أو جهة بعينها خططت له. التصنيف الصادر عن ادعاء من نوع معين لا يقول شيئًا عن ادعاء من نوع آخر. يعرض هذا الملف على خط زمني النسخ التي دقّقتها المنصات. يبيّن كل تدقيق ما توصلت إليه المنصة التي أجرته، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يُسمح لنا بإعادة نشرها، ولذلك فهي غير كاملة.'''
+fa = '''
+هنوز مشخص نشده است که ویروس کرونا چگونه به انسان رسیده است. پژوهشگران و سازمان‌های اطلاعاتی هم انتقال از حیوان به انسان و هم حادثه در آزمایشگاه را ممکن می‌دانند و در این مورد اختلاف نظر دارند. آنچه رسانه‌ها اغلب بررسی کرده‌اند ادعاهایی است که فراتر می‌روند: اینکه ویروس عمداً ساخته یا پخش شده است، اینکه پیش از سال ۲۰۱۹ ثبت اختراع شده بود، یا اینکه شخص یا سازمانی مشخص آن را برنامه‌ریزی کرده است. نتیجه‌گیری درباره یک نوع ادعا چیزی درباره نوع دیگر نمی‌گوید. این پرونده نسخه‌هایی از ادعا را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی نشان می‌دهد. هر راستی‌آزمایی می‌گوید آن رسانه به چه نتیجه‌ای رسیده است. Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. این فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه بازنشر آن‌ها را داریم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn, komen na de lezing van de PO; elk wordt bij de bron zelf nagelezen.
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "Wuhan lab",
+  "Wuhan laboratory",
+  "Wuhan Institute of Virology",
+  "lab leak",
+  "lab-leak",
+  "laboratory leak",
+  "leaked from a lab",
+  "escaped from a lab",
+  "gain of function",
+  "gain-of-function",
+  "Shi Zhengli",
+  "EcoHealth",
+  "Daszak",
+  "Fort Detrick",
+  "Huanan",
+  "seafood market",
+  "wet market",
+  "pangolin",
+  "bat soup",
+  "man-made virus",
+  "man-made coronavirus",
+  "artificially created",
+  "created in a laboratory",
+  "created in a lab",
+  "coronavirus patent",
+  "patented the coronavirus",
+  "patented coronavirus",
+  "origin of the coronavirus",
+  "origin of covid",
+  "origin of the virus",
+  "laboratorio de Wuhan",
+  "laboratoire de Wuhan",
+  "Labor in Wuhan",
+  "Wuhan-lab",
+  "laboratorium in Wuhan",
+  "fuga de laboratorio",
+  "fuite de laboratoire",
+  "Laborunfall",
+  "labolek",
+  "origen del coronavirus",
+  "origine du coronavirus",
+  "Ursprung des Coronavirus",
+  "herkomst van het coronavirus",
+  "sopa de murciélago",
+  "soupe de chauve-souris",
+  "Fledermaussuppe",
+  "vleermuissoep",
+  "武汉病毒研究所",
+  "武漢病毒研究所",
+  "石正丽",
+  "石正麗",
+  "穿山甲",
+  "Wuhan Institute",
+  "lab in Wuhan",
+  "laboratory in Wuhan",
+  "made in a lab",
+  "made in a laboratory",
+  "bioweapon",
+  "bio-weapon",
+  "biological weapon",
+  "arma biológica",
+  "arme biologique",
+  "Biowaffe",
+  "biowapen",
+  "creado en un laboratorio",
+  "creado en laboratorio",
+  "créé en laboratoire",
+  "fabriqué en laboratoire",
+  "im Labor",
+  "criado em laboratório",
+  "laboratório de Wuhan",
+  "生物武器",
+  "人造病毒",
+  "实验室泄漏",
+  "實驗室洩漏",
+]
+omschrijving = """
+Claims about where the coronavirus SARS-CoV-2 came from: that it was made as a bioweapon or released on purpose (by China, the United States or anyone else), that it escaped from a laboratory by accident, that it came from the market in Wuhan, from bats, pangolins or other animals, that it was patented before 2019, or that a named person or organisation created it. It includes claims about the Wuhan Institute of Virology, gain-of-function research, Fort Detrick and EcoHealth Alliance when they are about the origin of the virus. It does not include claims about vaccines, treatments, masks, lockdowns, death numbers or the spread of the virus after it began, claims that Bill Gates planned the pandemic or profited from it (dossier gates-vaccins-chips), or claims about a network of US biolabs (dossier biolabs-oekraine)."""

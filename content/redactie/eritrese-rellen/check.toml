@@ -1,0 +1,175 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/eritrese-rellen/dossier.md.
+
+sleutel = "eritrese-rellen"
+status = "gepubliceerd"
+taal = "nl"
+adres = "video-eritrese-rellen-den-haag"
+adres_en = "video-eritrean-riots-the-hague"
+kop = "Video van rellen bij een Eritrese bijeenkomst in Den Haag is van februari 2024"
+oordeel = "misleidend"
+oordeel_zin = "De rellen waren echt, maar op 17 februari 2024, en dezelfde video met bijna dezelfde tekst stond toen al op X [1] [4]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "video"
+
+bewering = "Beelden van rellen met brandende politieauto's in Den Haag, gedeeld alsof ze nu gebeuren."
+platform = "X"
+eerst_gezien = "2026-10-27"
+posts = 1
+
+kort = """
+Op 27 oktober deelde een Nederlandstalig account op X beelden van rellen in Den Haag alsof ze net gebeurd waren [5]. \
+De beelden zijn van zaterdag 17 februari 2024, toen een groep tegenstanders een Eritrese bijeenkomst in zalencentrum \
+Opera aan de Fruitweg probeerde binnen te dringen [1] [3]. Dezelfde video stond die avond in 2024 al op X, met bijna \
+dezelfde tekst als de Engelse posts van eind oktober 2026 [4] [6]."""
+
+tekst = """
+Op dinsdag 27 oktober om 02:26 deelde een Nederlandstalig account op X beelden van rellen in Den Haag [5]. Een paar \
+uur later schreef iemand er context bij [5]. Het account is inmiddels geschorst, dus wat de post precies zei, konden we \
+niet meer lezen [5].
+
+Een paar uur eerder, op maandag 26 oktober om 22:01, verscheen in het Engels een video van 24 seconden over grote \
+onrust in Den Haag [6]. Volgens de tekst drongen Eritrese migranten het Opera-gebouw binnen en staken ze politieauto's \
+in brand [6]. Andere accounts namen de video dezelfde nacht over, een ervan als teken van protesten in meer landen \
+[6].
+
+Die tekst en die beelden zijn niet nieuw. Op zaterdag 17 februari 2024 om 19:42 zette het account Visegrád 24 bijna \
+dezelfde tekst op X, met een video van dezelfde lengte en hetzelfde formaat [4]. Die post is ruim 10 miljoen keer \
+bekeken [4].
+
+Wat er die avond gebeurde, staat goed beschreven. In zalencentrum Opera aan de Fruitweg vierden 500 tot 600 \
+Eritreeërs nieuwjaar [1]. Volgens de gemeente hadden aanhangers van de Eritrese regering het feest georganiseerd [1]. \
+Een groep tegenstanders probeerde het gebouw binnen te dringen en gooide met stenen en straattegels [1] [3]. \
+Politieauto's, auto's van bewoners en een touringcar gingen in brand [1] [3].
+
+De ME werd ingezet en burgemeester Jan van Zanen gaf toestemming voor traangas en vaardigde een noodbevel uit [1]. De \
+politie hield die nacht 13 mannen aan, later liep dat op tot 16 [2] [7]. Volgens de burgemeester raakten 26 agenten \
+gewond [7]. Het Openbaar Ministerie vervolgde tien verdachten, en de eisen tot schadevergoeding kwamen samen uit op \
+ruim 775.000 euro [3].
+
+De video die nu rondgaat, is dus echt, maar ruim twee jaar en acht maanden oud [1] [4]."""
+
+niet_weten = """
+We weten niet wat de Nederlandse post precies beweerde, want het account is geschorst en we vonden geen kopie. Of de \
+video daarin dezelfde is als die van 26 oktober, weten we dus ook niet zeker. We weten niet wie de beelden in februari \
+2024 filmde; Visegrád 24 noemde geen maker. Waarom de beelden juist eind oktober terugkwamen, hebben we niet \
+uitgezocht."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wat de Nederlandse post precies beweerde, en of de video daarin dezelfde 24 seconden waren. Het account is geschorst, en een kopie vonden we niet.",
+  "Of er rond 26 oktober 2026 rellen waren bij een Eritrese bijeenkomst in Den Haag. Bij de politie en Omroep West hebben we dat nog niet nagevraagd.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X in het Engels, 26 oktober 2026, 22:01. De Nederlandse post van 27 oktober is weg, het account geschorst."
+alt = "Stilstaand beeld uit de video: een brandende politieauto in een straat in Den Haag. Stempel: MISLEIDEND."
+
+[[beeld]]
+rol = "origineel"
+link = "https://x.com/visegrad24/status/1758924884426547501"
+stempel = false
+bijschrift = "Visegrád 24 op X, 17 februari 2024, 19:42: dezelfde video, op de avond van de rellen aan de Fruitweg."
+alt = "De video bij Visegrád 24 van de rellen bij zalencentrum Opera in Den Haag in februari 2024."
+
+[[tijdlijn]]
+datum = "2024-02-17"
+tijd = "19:21"
+wat = "De NOS meldt rellen rond een Eritrese bijeenkomst aan de Fruitweg, met politieauto's in brand [1]."
+
+[[tijdlijn]]
+datum = "2024-02-17"
+tijd = "19:42"
+wat = "Visegrád 24 zet de video op X [4]."
+
+[[tijdlijn]]
+datum = "2024-02-18"
+wat = "13 mannen aangehouden, zes agenten gewond [2]."
+
+[[tijdlijn]]
+datum = "2024-02-28"
+wat = "De gemeenteraad wil een extern onderzoek; inmiddels 16 aanhoudingen en 26 gewonde agenten [7]."
+
+[[tijdlijn]]
+datum = "2024-05-31"
+wat = "Het Openbaar Ministerie eist celstraffen tegen tien verdachten [3]."
+
+[[tijdlijn]]
+datum = "2026-10-26"
+tijd = "22:01"
+wat = "Een Engelse post brengt dezelfde video met bijna dezelfde tekst als nieuw [6]."
+
+[[tijdlijn]]
+datum = "2026-10-27"
+tijd = "02:26"
+wat = "De Nederlandse post met de beelden [5]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "NOS"
+titel = "Rellen in Den Haag rond bijeenkomst Eritreeërs, politieauto's in brand"
+datum = "2024-02-17"
+url = "https://nos.nl/artikel/2509286-rellen-in-den-haag-rond-bijeenkomst-eritreeers-politieauto-s-in-brand"
+archief = "https://web.archive.org/web/20261031143541/https://nos.nl/artikel/2509286-rellen-in-den-haag-rond-bijeenkomst-eritreeers-politieauto-s-in-brand"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "NL Times"
+titel = "13 people arrested after Eritrean groups riot in The Hague, six officers injured"
+datum = "2024-02-18"
+url = "https://nltimes.nl/2024/02/18/13-people-arrested-eritrean-groups-riot-hague-six-officers-injured"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Openbaar Ministerie"
+titel = "OM eist gevangenisstraffen tegen relschoppers Den Haag"
+datum = "2024-05-31"
+url = "https://www.om.nl/actueel/nieuws/2024/05/31/om-eist-gevangenisstraffen-tegen-relschoppers-den-haag"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Visegrád 24 op X"
+titel = "Post met de video van de rellen bij de Fruitweg"
+datum = "2024-02-17"
+url = "https://x.com/visegrad24/status/1758924884426547501"
+archief = "https://web.archive.org/web/20240609183128/https://x.com/visegrad24/status/1758924884426547501"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "X"
+titel = "De Nederlandse post, van een inmiddels geschorst account"
+datum = "2026-10-27"
+prive = true
+weg = true
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "X"
+titel = "Engelse posts met dezelfde video, 26 en 27 oktober 2026"
+datum = "2026-10-26"
+prive = true
+archief = "https://web.archive.org/web/20261119150305/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2114824774400586125&omit_script=true"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "Omroep West"
+titel = "Haagse raad is woest over rellen Eritreeërs en vraagt om extern onderzoek: 'Moet niet gekker worden'"
+datum = "2024-02-28"
+url = "https://www.omroepwest.nl/nieuws/4812505/haagse-raad-is-woest-over-rellen-eritreeers-en-vraagt-om-extern-onderzoek-moet-niet-gekker-worden"
+archief = "https://web.archive.org/web/20240422085827/https://www.omroepwest.nl/nieuws/4812505/haagse-raad-is-woest-over-rellen-eritreeers-en-vraagt-om-extern-onderzoek-moet-niet-gekker-worden"

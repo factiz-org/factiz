@@ -1,0 +1,100 @@
+{
+ "toelichting": "Labels van lezer-v7 met het beeld op echte screenshots (PLAN #32.36, B55), 2026-11-03, gelezen door Claude met de maat van §201 en §209: bij N een rood of oranje zonder de eigen check als bron ('bewijst', 'bewijst niet', 'set fout') en elk groen ('vals groen' of 'set fout'); bij W elk rood of oranje ('vals' of 'set fout'). Een check van dezelfde bewering bij een andere redactie bewijst net zo goed als de eigen check. Alleen ids en labels; openbare beelden uit M4FC.",
+ "oordelen": [
+  {
+   "id": "n-sn-004",
+   "label": "bewijst",
+   "reden": "AFP, Logically Facts en anderen: de foto van Netanyahu met zijn zoon is van 2014 (zoals §209)"
+  },
+  {
+   "id": "n-sn-006",
+   "label": "bewijst",
+   "reden": "Alt News en Fact Crescendo: de gewonde man is niet kapitein PPS Dhillon (zoals §209)"
+  },
+  {
+   "id": "n-sn-007",
+   "label": "bewijst",
+   "reden": "The Quint (Hindi): de foto is van een protest in Bangladesh in 2013 (zoals §209)"
+  },
+  {
+   "id": "n-sn-009",
+   "label": "bewijst",
+   "reden": "The Quint, AFP en FACTLY (Telugu): de nepvingers komen uit Japan (zoals §209)"
+  },
+  {
+   "id": "n-sn-018",
+   "label": "bewijst niet",
+   "reden": "grensgeval: de genoemde check van FACTLY gaat over een video van zwemmers in overstromingswater uit Pakistan, de eigen check over een foto die niet van de regen in Hyderabad is; niet aantoonbaar hetzelfde beeld. Het rood klopt, het bewijs niet"
+  },
+  {
+   "id": "n-sn-020",
+   "label": "bewijst",
+   "reden": "Logically Facts en Youturn: de beelden zijn niet van de crash van Raisi (zoals §209)"
+  },
+  {
+   "id": "n-sn-025",
+   "label": "bewijst",
+   "reden": "Vishvas News en The Quint: de foto van Aamir Khan is van 2017 (zoals §209)"
+  },
+  {
+   "id": "n-sn-029",
+   "label": "bewijst",
+   "reden": "kring 1: de check van Fact Crescendo, het reclamebord van de AAP is bewerkt (zoals §201 en §209)"
+  },
+  {
+   "id": "n-sn-030",
+   "label": "bewijst",
+   "reden": "FACTLY (Telugu), Youturn en NewsMeter: het zwaard is niet van Maharana Pratap (zoals §209)"
+  },
+  {
+   "id": "n-sn-034",
+   "label": "vals groen",
+   "reden": "de tekst klopt (Chilima kwam om), maar de foto van het wrak is volgens FACTLY niet van deze crash; ook met het beeld zegt de lezer dat de bewering over het nieuws gaat (zoals §188, §201 en §209)"
+  },
+  {
+   "id": "n-sn-036",
+   "label": "bewijst",
+   "reden": "India Today: het meisje raakte niet gewond bij luchtaanvallen op Gaza (zoals §209)"
+  },
+  {
+   "id": "n-sn-039",
+   "label": "bewijst",
+   "reden": "Fact Crescendo, The Quint en Newschecker: het zandbeeld is met AI gemaakt (zoals §209)"
+  },
+  {
+   "id": "n-sn-051",
+   "label": "bewijst",
+   "reden": "BOOM en Alt News: de foto komt uit Bihar (zoals §209)"
+  },
+  {
+   "id": "n-sn-053",
+   "label": "bewijst",
+   "reden": "de check van Youturn: precies dit verhaal, onwaar (zoals §201 en §209)"
+  },
+  {
+   "id": "n-sn-056",
+   "label": "bewijst",
+   "reden": "de check van Youturn: dezelfde foto, misleidend (zoals §201 en §209)"
+  },
+  {
+   "id": "w-03616",
+   "label": "vals",
+   "reden": "Snopes, de bron van M4FC, noemt de foto van Poetin met Fiona Hill echt; de lezer las het als tegenspraak (zoals §201 en §209)"
+  },
+  {
+   "id": "w-03796",
+   "label": "set fout",
+   "reden": "Africa Check en Fact Crescendo: geen snelweg met 48 rijstroken maar een tolplein (zoals §178, §188, §201 en §209)"
+  },
+  {
+   "id": "w-04437",
+   "label": "vals",
+   "reden": "Poligrafo, de bron van M4FC: de foto is echt; Snopes noemt het bijschrift onzeker, niet misleidend (zoals §188 en §201)"
+  },
+  {
+   "id": "w-04544",
+   "label": "vals",
+   "reden": "de bronnen gaan over een neustest van een paar centimeter; Poligrafo, de bron van M4FC, noemt de bewering waar. Streng geteld (zoals §178, §188, §201 en §209)"
+  }
+ ]
+}

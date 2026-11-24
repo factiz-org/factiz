@@ -1,0 +1,69 @@
+{
+ "_meta": "Machinevertaling (nl naar es) van de eigen factcheck eu-betaalde-rusland-energie van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "nl",
+ "vingerafdruk": "625d922210a5ae47",
+ "veldafdrukken": {
+  "kop": "038ec37e1b7fad51",
+  "oordeel_zin": "13ccb908c26f6d46",
+  "bewering": "cdd29ed19552d886",
+  "kort": "bd0f20af765bd61e",
+  "tekst": "6ac5dadaec175a68",
+  "niet_weten": "a8ce290628ec9e78",
+  "nog_uitzoeken": "85c3a9926b497ecd",
+  "tijdlijn": "140767c64a9fa20f",
+  "beeld_bijschrift": "4f53cda18c2baa0c",
+  "beeld_alt": "4f53cda18c2baa0c",
+  "rekensom": "8fd9d6fe24ed11aa"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "La UE pagó a Rusia más de 200 mil millones de euros por energía desde 2022, no 302 mil millones",
+  "oordeel_zin": "La UE compró mucha energía rusa, pero según sus propias cifras por entre 197 y 213 mil millones de euros, según el periodo, y aun incluyendo 2026 los 302 mil millones de Novak siguen siendo unos 70 mil millones demasiado altos [1] [3] [5].",
+  "bewering": "La UE pagó a Rusia 302 mil millones de euros en energía desde 2022, mucho más de lo que dicen las cifras oficiales.",
+  "kort": "Según el viceprimer ministro ruso Aleksandr Novak, la UE pagó a Rusia 302 mil millones de euros por energía desde 2022; Donald Trump habló ese mismo día de 250 mil millones de dólares [1] [4]. Las cifras de la propia UE arrojan 197 mil millones de euros desde marzo de 2022, y 213 mil millones de enero de 2022 a finales de 2025 [3] [5]. Incluso añadiendo 2026, la cifra de Novak sigue siendo unos 70 mil millones de euros demasiado alta; la de Trump se acerca más [2] [5].",
+  "tekst": "El lunes 12 de octubre, el viceprimer ministro ruso Aleksandr Novak dijo a la cadena estatal Vesti que la UE compró energía rusa por 302 mil millones de euros desde 2022 [1] [2]. No dijo qué combustibles contaba, a qué precio ni hasta qué día [1]. Ese mismo día, Donald Trump escribió en Truth Social que la UE había pagado a Rusia 250 mil millones de dólares por energía [4]. No indicó ningún periodo [4]. Según Euronews, quería demostrar que los países europeos siguen financiando a Rusia [1]. Tres días antes, Trump había anunciado un acuerdo con Putin sobre diésel ruso para Estados Unidos [6].\n\nLa Comisión Europea presentó su propia cifra el 13 de octubre. De marzo de 2022 a julio de 2026 inclusive, la UE importó energía de Rusia por 197 mil millones de euros [1] [3]. Esa cifra procede de COMEXT, la base de datos de comercio de Eurostat, la oficina de estadística de la UE [1].\n\nEsos 197 mil millones empiezan en marzo de 2022, tras la invasión. Enero y febrero de 2022 no cuentan, y fueron meses caros. En una respuesta al Parlamento Europeo, la comisaria europea Marta Kos citó 213 mil millones de euros de enero de 2022 a diciembre de 2025 inclusive [5]. De ellos, 144 mil millones correspondían solo a 2022, y 17 mil millones a 2025 [5].\n\nIncluso con esos dos meses, la UE no llega a 302 mil millones. El propio Novak dijo que Rusia suministró a Europa energía por 21,3 mil millones de dólares en los primeros nueve meses de 2026 [1] [2]. Al mismo tipo de cambio que sus 302 mil millones, son unos 20 mil millones de euros. Si se suman a los 213 mil millones, se llega a unos 233 mil millones de euros. Eso sigue siendo casi 70 mil millones menos de lo que dijo Novak.\n\nLa cifra de Trump se acerca más. Según la conversión de Euronews, 250 mil millones de dólares son 223 mil millones de euros [1]. Está entre los 213 mil millones hasta finales de 2025 y el total con 2026 incluido. Quien cuenta solo desde marzo de 2022, como hizo la Comisión, obtiene una cifra menor: 197 mil millones de euros, 26 mil millones menos [1] [3].\n\nHay, pues, algo de cierto. La UE pagó a Rusia más de 200 mil millones de euros por petróleo, gas y carbón desde 2022. Pero la cifra bajó rápidamente, de 144 mil millones en 2022 a 17 mil millones en 2025 [5]. Según el centro de investigación CREA, de finales de febrero de 2025 a finales de febrero de 2026 la UE importó combustibles rusos por 14,5 mil millones de euros, un 36% menos que el año anterior [7]. A partir del 1 de enero de 2027, la UE quiere dejar de comprar gas ruso, con excepciones para países como Hungría y Eslovaquia [1].\n\nEn las publicaciones en neerlandés en X se habló sobre todo del propio acuerdo del diésel. Una publicación del 10 de octubre lo calificó de forma de financiar la maquinaria de guerra rusa [8].",
+  "niet_weten": "No sabemos cómo calculó Novak: qué combustibles y precios, ni si con Europa se refería solo a la UE o también a países como Turquía y Serbia. Tampoco sabemos cuánto pagó la UE en lo que va de 2026; para eso usamos la cifra del propio Novak, que se refiere a toda Europa. Y no encontramos ninguna publicación en neerlandés que repitiera los 302 mil millones o los 250 mil millones de dólares.",
+  "nog_uitzoeken": [
+   "Lo que pagó la UE de enero a octubre de 2026 inclusive, según las cifras de comercio de Eurostat. Ahora usamos para ello la cifra del propio Novak.",
+   "Qué contó Novak: solo la UE, o también Turquía, Serbia y otros países europeos.",
+   "La conversión de dólares a euros con el tipo de cambio del BCE del 12 de octubre. Euronews utiliza dos tipos de cambio diferentes."
+  ],
+  "tijdlijn": [
+   "Trump anuncia un acuerdo con Putin sobre diésel ruso para Estados Unidos [6].",
+   "Una publicación neerlandesa en X califica el acuerdo del diésel de forma de financiar la maquinaria de guerra rusa [8].",
+   "Novak dice en Vesti que la UE compró energía rusa por 302 mil millones de euros desde 2022; Trump escribe en Truth Social sobre 250 mil millones de dólares [1] [4].",
+   "La Comisión Europea cita 197 mil millones de euros, de marzo de 2022 a julio de 2026 inclusive [1] [3].",
+   "Eunews informa de la respuesta de la comisaria Kos: 213 mil millones de euros de enero de 2022 a finales de 2025 [5]."
+  ],
+  "beeld_bijschrift": [],
+  "beeld_alt": [],
+  "rekensom": [
+   [
+    "La Comisión: de marzo de 2022 a julio de 2026 inclusive",
+    "importaciones de energía desde Rusia según COMEXT",
+    "197 mil millones de euros"
+   ],
+   [
+    "Comisaria Kos: de enero de 2022 a diciembre de 2025 inclusive",
+    "144 mil millones en 2022, 17 mil millones en 2025, el resto en 2023 y 2024",
+    "213 mil millones de euros"
+   ],
+   [
+    "Con 2026 incluido, contando por lo alto",
+    "213 mil millones más unos 20 mil millones, los 21,3 mil millones de dólares que citó Novak para nueve meses",
+    "unos 233 mil millones de euros"
+   ],
+   [
+    "Novak",
+    "302 menos 233 mil millones",
+    "unos 69 mil millones de euros más"
+   ],
+   [
+    "Trump",
+    "250 mil millones de dólares, convertidos por Euronews",
+    "223 mil millones de euros"
+   ]
+  ]
+ }
+}

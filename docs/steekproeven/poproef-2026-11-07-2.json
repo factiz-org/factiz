@@ -1,0 +1,180 @@
+{
+ "toelichting": "PLAN #32.45, ronde 2 (2026-11-07-2, zoals het product): de keuzes van de PO op https://claude.ai/artifact/Lu1jGzsqfcjdNgSL1115yW, teruggelezen uit `rondes/2026-11-07-2/keuzes`, met wat Factiz zei (meetplan poproef-2026-11-07-2, lezer-v9) en wat de redactie zei (BENCHMARK §231). In het openbare repo zonder de opmerkingen van de PO.",
+ "keuzes": {
+  "O:gfc-166cfdd3de7be1d8": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-2029c105e2f14a2a": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-32d22497e7362d1c": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-36497ea37cb66cc0": {
+   "keuze": "eens",
+   "kleur": "oranje",
+   "uitkomst": "misleidend",
+   "route": "database",
+   "redactie": "factcheck, Deutsche Welle"
+  },
+  "O:gfc-4dcd7bde855e96d9": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-4fa0df839851e555": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-52d3a22347050efa": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-54b4553cb044f5a3": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-60f04c702d2b98d1": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-6aef90177fc671fc": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-6c194fac0d7c0f58": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-8737df760760b6d1": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-8cd9c3dadb0968f4": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-a126c9a5061b23ec": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-af078b87bfd90b19": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-b97d9c60bafb34a0": {
+   "keuze": "weet niet",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-d9882814aefce703": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-ebef04603a220a22": {
+   "keuze": "eens",
+   "kleur": "oranje",
+   "uitkomst": "misleidend",
+   "route": "database",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-f103f408aa6c466e": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "route": "zoeken",
+   "redactie": "factcheck, PolitiFact"
+  },
+  "WM:1a25c68ec48b": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "route": "zoeken",
+   "redactie": "echte kop, France 24"
+  },
+  "WM:3f4ed1dbb703": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "route": "zoeken",
+   "redactie": "echte kop, DW"
+  },
+  "WM:6d091b9e4ab6": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "route": "zoeken",
+   "redactie": "echte kop, DW"
+  },
+  "WM:799892409f01": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "route": "zoeken",
+   "redactie": "echte kop, The Guardian"
+  },
+  "WM:c1e1f7d1cd9d": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "route": "zoeken",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:c80504c05b4e": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "onzeker",
+   "route": "zoeken",
+   "redactie": "echte kop, DW"
+  }
+ }
+}

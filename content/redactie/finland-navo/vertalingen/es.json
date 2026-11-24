@@ -1,0 +1,52 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck finland-navo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "41bc7009e019c8b6",
+ "veldafdrukken": {
+  "kop": "9df53b19efc9a6cb",
+  "oordeel_zin": "61eb8c241e01266e",
+  "bewering": "46468bc1709300bf",
+  "kort": "26e7347ba53ed713",
+  "tekst": "40fd465a27c24ee6",
+  "niet_weten": "d531a52bcd06be9a",
+  "bereik": "53e28c66ccaf4388",
+  "nog_uitzoeken": "bd84b8d7a99505ae",
+  "tijdlijn": "9315f717dd738425",
+  "beeld_bijschrift": "8900cc6753d08df0",
+  "beeld_alt": "12016b15fa386978"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "No hay confirmación de que Rusia exigiera en Abu Dabi que Finlandia saliera de la OTAN",
+  "oordeel_zin": "La afirmación procede de un reportaje de Bild con fuentes anónimas, que el Kremlin desmiente, y tanto el presidente de Finlandia como su ministro de Defensa dicen no tener conocimiento de tal exigencia [7] [8] [10] [17].",
+  "bewering": "ÚLTIMA HORA: Rusia ha expresado parte de sus condiciones para PONER FIN a la guerra de Ucrania:  - Finlandia fuera de la OTAN.  - Sin bases de la OTAN en el Báltico.  - Todo el Donbás entregado a Rusia.  A cambio, Rusia RETIRARÍA sus armas nucleares de Bielorrusia.",
+  "kort": "El 13 de noviembre, publicaciones en X presentaron como un hecho que Rusia había exigido en las conversaciones de paz de Abu Dabi que Finlandia saliera de la OTAN [2] [4] [5]. La afirmación procede de un reportaje publicado esa mañana por el periódico alemán Bild, que no citó sus fuentes y dijo que no se sabía si el presidente Putin respaldaba la propuesta [1] [7]. El Kremlin lo desmiente, y el presidente de Finlandia dice que nunca oyó a ningún ruso una exigencia así [8] [17] [18].",
+  "tekst": "En la mañana del 13 de noviembre, Bild informó de que Rusia quería que Finlandia saliera de la OTAN, que no hubiera bases de la OTAN en Estonia, Letonia y Lituania, y toda la región del Donbás, y que a cambio retiraría sus armas nucleares de Bielorrusia [1] [6] [7]. Según Yle, la emisora pública de Finlandia, Bild dijo que la propuesta procedía del círculo cercano a Putin y que se presentó de forma no oficial a representantes europeos en Abu Dabi [6]. En su canal en ruso, Bild la calificó como una de varias propuestas de grupos de intermediarios rivales [1].\n\nA las 11:03 UTC, una cuenta llamada Bedouin Report publicó las supuestas condiciones de Rusia bajo la palabra ÚLTIMA HORA, sin citar ninguna fuente [2]. Para entonces, el Kremlin ya lo había desmentido [8]. A las 10:48 UTC, la agencia de noticias azerbaiyana APA citó al portavoz Dmitry Peskov diciendo que no se había hecho ninguna exigencia de ese tipo [8] [9].\n\nEl ministro de Defensa de Finlandia, Antti Häkkänen, dijo el 13 de noviembre que no tenía información sobre si se había formulado la exigencia [10]. El 17 de noviembre, el presidente Alexander Stubb dijo que no era una afirmación que deba tomarse en serio de ninguna forma y que no se lo había oído a ningún ruso, según el periódico Ilta-Sanomat [17] [18].\n\nEl medio en ruso Echo, que también cita fuentes anónimas, escribió que un grupo negociador entregó a los europeos una lista que incluía que Finlandia volviera a su estatus anterior a la OTAN [12]. The New York Times obtuvo un documento ruso fechado el 10 de noviembre que pide a la OTAN que retire sus tropas y bases a donde estaban en 1997, pero su artículo no menciona a Finlandia [13] [14].\n\nFinlandia ingresó en la OTAN en abril de 2023 y, con arreglo al Tratado del Atlántico Norte, solo un miembro puede notificar por sí mismo su salida [9] [16].",
+  "niet_weten": "No sabemos quiénes son las fuentes de Bild, ni si alguien en Abu Dabi planteó tal exigencia a los europeos [6] [7]. El artículo completo de Bild es solo para suscriptores; su comienzo dice que la propuesta procedía de conversaciones no oficiales y del círculo de Putin [19], y el resto lo conocemos por su canal en ruso y por otros medios [1] [6] [7]. El Kremlin es parte de las conversaciones, así que su desmentido no resuelve la cuestión [8].",
+  "bereik": "1580 me gusta en la publicación mostrada y 4987 en la publicación con más me gusta que leímos, el 23 de noviembre",
+  "nog_uitzoeken": [
+   "Quiénes son las fuentes de Bild, y si algún gobierno europeo presente en Abu Dabi confirma o niega haber recibido una lista así.",
+   "Si el documento ruso completo que obtuvo The New York Times dice algo sobre Finlandia. El artículo sobre él no lo dice.",
+   "Dudamos entre No probado y Engañoso. Las publicaciones convierten en hecho un reportaje con fuentes anónimas que el Kremlin desmiente, lo que apunta a Engañoso; no se sabe si la exigencia se formuló, lo que nos hizo elegir No probado."
+  ],
+  "tijdlijn": [
+   "Comienzan en Abu Dabi las conversaciones entre Rusia, Ucrania y Estados Unidos [15].",
+   "Terminan las conversaciones. Reino Unido, Francia, Alemania e Italia estuvieron presentes, pero no negociaron directamente con los rusos [10] [15].",
+   "Bild informa de que Rusia quiere que Finlandia salga de la OTAN, sin citar sus fuentes [1] [6] [7].",
+   "APA informa del desmentido de Peskov: no se hizo ninguna exigencia de ese tipo [8].",
+   "Bedouin Report publica las supuestas condiciones de Rusia como ÚLTIMA HORA, sin fuente [2].",
+   "Visegrád 24 publica la afirmación y cita a Bild [3].",
+   "Häkkänen en el parlamento: no tiene información de que se hiciera la exigencia [10].",
+   "El primer ministro Orpo: esas cuestiones no pertenecen a la mesa de negociación [11].",
+   "The New York Times informa de un documento ruso que pide a la OTAN volver a sus posiciones de 1997; el artículo no menciona a Finlandia [14].",
+   "Stubb en Berlín: no es una afirmación que deba tomarse en serio, y nunca se lo oyó a un ruso [17] [18]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 13 de noviembre de 2026, 11:03 UTC."
+  ],
+  "beeld_alt": [
+   "Una publicación en X de la cuenta Bedouin Report bajo la palabra ÚLTIMA HORA, que enumera lo que presenta como condiciones de Rusia para poner fin a la guerra de Ucrania, empezando por Finlandia fuera de la OTAN. Sello: NO PROBADO."
+  ]
+ }
+}

@@ -1,0 +1,508 @@
+{
+ "toelichting": "De factchecks die Claude en de PO bij dit dossier goedkeurden: Claude las elke kaart, de PO besliste over zijn twijfel (PLAN #33.6, SPECS E9.S7 AC3). Geschreven door `python -m doublecheck.dossiers goedkeuren`; de hele lezing staat in docs/steekproeven/33.6-dossier-biolabs-oekraine.json.",
+ "goedgekeurd_door": "Claude en PO",
+ "datum": "2026-11-12",
+ "factchecks": [
+  {
+   "nummer": "c2f58614fe824a25"
+  },
+  {
+   "nummer": "cc9af69ebc5fd1eb"
+  },
+  {
+   "nummer": "065ba6e136c67682"
+  },
+  {
+   "nummer": "4c97df511585eed6",
+   "versie": "lugar-lab-human-experiments"
+  },
+  {
+   "nummer": "7f8307bcdbfb40a8",
+   "versie": "armenia-labs-military-purpose"
+  },
+  {
+   "nummer": "d654ad6eb6cc56a8",
+   "versie": "armenia-labs-military-purpose"
+  },
+  {
+   "nummer": "2180cbac8a8a974e",
+   "versie": "lugar-lab-human-experiments"
+  },
+  {
+   "nummer": "f68a3d78eda04dd3"
+  },
+  {
+   "nummer": "74369714deaa25b1"
+  },
+  {
+   "nummer": "496892634d1df9b9",
+   "versie": "ukraine-testing-ground"
+  },
+  {
+   "nummer": "861e2e4551f94bc3"
+  },
+  {
+   "nummer": "ef10632e07376ce4",
+   "versie": "lugar-lab-human-experiments"
+  },
+  {
+   "nummer": "f5b8fc3f3a1a749e"
+  },
+  {
+   "nummer": "a965f4871b6ab105"
+  },
+  {
+   "nummer": "8e5286527fd5f809"
+  },
+  {
+   "nummer": "d258434836646913"
+  },
+  {
+   "nummer": "f234d201eb89207a"
+  },
+  {
+   "nummer": "a439006485652353",
+   "versie": "lugar-lab-military-base"
+  },
+  {
+   "nummer": "073e89b93fce7050"
+  },
+  {
+   "nummer": "9f5fa766667f07e5"
+  },
+  {
+   "nummer": "0aa8d240b4d76479"
+  },
+  {
+   "nummer": "2006fe5ca8e9e7ee"
+  },
+  {
+   "nummer": "09f8e39822c41d59"
+  },
+  {
+   "nummer": "7ffb9737d36d4f59"
+  },
+  {
+   "nummer": "5c9fd4372f4b601b"
+  },
+  {
+   "nummer": "694db106b356cd6b"
+  },
+  {
+   "nummer": "b0dd3f6bf781391a"
+  },
+  {
+   "nummer": "a5d4d82f7b06557d"
+  },
+  {
+   "nummer": "08d07129b790685e"
+  },
+  {
+   "nummer": "c4a4d70f89c3e8c6"
+  },
+  {
+   "nummer": "1a4ca1e455f1183c",
+   "versie": "armenia-labs-military-purpose"
+  },
+  {
+   "nummer": "0c1f7d25fc9d3ed9"
+  },
+  {
+   "nummer": "5089f17b3105e038",
+   "versie": "lugar-lab-military-base"
+  },
+  {
+   "nummer": "3e81a19fb91cff14"
+  },
+  {
+   "nummer": "5dfb3bbc134760e0",
+   "versie": "armenia-coronavirus-origin"
+  },
+  {
+   "nummer": "a80df9c969d3238b"
+  },
+  {
+   "nummer": "ed391def24a7faa2",
+   "versie": "lugar-lab-military-base"
+  },
+  {
+   "nummer": "ca72803ec6377ac8"
+  },
+  {
+   "nummer": "efe4e8acfa75c0b2",
+   "versie": "armenia-coronavirus-origin"
+  },
+  {
+   "nummer": "62ea259fe1b55a3d",
+   "versie": "pentagon-expanded-lugar-research"
+  },
+  {
+   "nummer": "eab3c3b37d669aa8",
+   "versie": "v-2005-health-ministry-agreement"
+  },
+  {
+   "nummer": "95a3f4ab7733a548"
+  },
+  {
+   "nummer": "1449035f33e0f3eb",
+   "versie": "moldova-bioweapons-lab"
+  },
+  {
+   "nummer": "c26bb25674dc5ade",
+   "versie": "pentagon-expanded-lugar-research"
+  },
+  {
+   "nummer": "e8ad1247d31dcbbc"
+  },
+  {
+   "nummer": "0670ad961141888f",
+   "versie": "labs-fear-infectious-leakage"
+  },
+  {
+   "nummer": "a009ac4fd6baff14",
+   "versie": "labs-fear-infectious-leakage"
+  },
+  {
+   "nummer": "b1e78c7cba50342d",
+   "versie": "us-embassy-admits-labs"
+  },
+  {
+   "nummer": "fc24ed79afcd64c5",
+   "versie": "ukraine-testing-ground"
+  },
+  {
+   "nummer": "29a24c9822e1f4ad",
+   "versie": "ukrainian-labs-coronavirus-origin"
+  },
+  {
+   "nummer": "6e6d06422e020216"
+  },
+  {
+   "nummer": "06a2573843923e4f"
+  },
+  {
+   "nummer": "5b98fc9e9cc18509",
+   "versie": "moldova-bioweapons-lab"
+  },
+  {
+   "nummer": "5c560faa193e0fbc",
+   "versie": "labs-surround-russia-strike"
+  },
+  {
+   "nummer": "661650e3e038bc6a",
+   "versie": "v-2005-health-ministry-agreement"
+  },
+  {
+   "nummer": "7a29b884fd3efe13"
+  },
+  {
+   "nummer": "3794e78bde19eb41",
+   "versie": "labs-surround-russia-strike"
+  },
+  {
+   "nummer": "7d208ed2a1894432"
+  },
+  {
+   "nummer": "022fe0a581202e33"
+  },
+  {
+   "nummer": "c24be3d45447d77c"
+  },
+  {
+   "nummer": "ce9aa14022ba42d2"
+  },
+  {
+   "nummer": "5d1f3827995480f7"
+  },
+  {
+   "nummer": "973d02cfd9c85b28"
+  },
+  {
+   "nummer": "f230ff9cab472405"
+  },
+  {
+   "nummer": "2c4a2045967fc3f4"
+  },
+  {
+   "nummer": "49f88fb6aacf4349"
+  },
+  {
+   "nummer": "9e7564ff49cb194c"
+  },
+  {
+   "nummer": "e9db37b692f39b11"
+  },
+  {
+   "nummer": "631dba424ae905f2"
+  },
+  {
+   "nummer": "20e94f0755559dbe"
+  },
+  {
+   "nummer": "3bed63bba7a24ca6"
+  },
+  {
+   "nummer": "bdc1699964a04d09"
+  },
+  {
+   "nummer": "a67e9b7fa0749371"
+  },
+  {
+   "nummer": "95af555307767f58",
+   "versie": "us-embassy-admits-labs"
+  },
+  {
+   "nummer": "a9f196f90ea0b6b9"
+  },
+  {
+   "nummer": "3b682c51f4278814"
+  },
+  {
+   "nummer": "21dd103500a91229",
+   "versie": "ethnic-targeted-bioweapons"
+  },
+  {
+   "nummer": "a8cafa72ed748e95"
+  },
+  {
+   "nummer": "0ea53f56d20b2f69",
+   "versie": "labs-near-russian-borders"
+  },
+  {
+   "nummer": "9658b10ac87cf508"
+  },
+  {
+   "nummer": "cb1aab9f941f5954"
+  },
+  {
+   "nummer": "0c6e57853708ad09"
+  },
+  {
+   "nummer": "f6adcef90a6edd66"
+  },
+  {
+   "nummer": "0af414de1d1998af",
+   "versie": "labs-near-russian-borders"
+  },
+  {
+   "nummer": "c9652ea600419ded"
+  },
+  {
+   "nummer": "70d9fadfae82b77c"
+  },
+  {
+   "nummer": "7d298942587fa245",
+   "versie": "labs-near-russia-escape"
+  },
+  {
+   "nummer": "ab7e5bdf95904936"
+  },
+  {
+   "nummer": "5a65ab4859899489",
+   "versie": "ukraine-sixteen-labs"
+  },
+  {
+   "nummer": "6b2497f4feafba31"
+  },
+  {
+   "nummer": "bfbc6c6dd129e291",
+   "versie": "lugar-lab-human-experiments"
+  },
+  {
+   "nummer": "3667bb7dc1a02fcd"
+  },
+  {
+   "nummer": "25406594fadf114d"
+  },
+  {
+   "nummer": "364d604ace981c37"
+  },
+  {
+   "nummer": "472a0478f9f029cf"
+  },
+  {
+   "nummer": "b184df57dd723b82"
+  },
+  {
+   "nummer": "6a53f3ae549f852d",
+   "versie": "labs-near-russia-escape"
+  },
+  {
+   "nummer": "d9603064ad8bb644",
+   "versie": "labs-near-russia-escape"
+  },
+  {
+   "nummer": "b62da8d8db4dcf9c"
+  },
+  {
+   "nummer": "6a3fbf373514e9bb"
+  },
+  {
+   "nummer": "17618b1c515eaf76"
+  },
+  {
+   "nummer": "68e493b4ec2fd3d6"
+  },
+  {
+   "nummer": "fc9df25b4bdaa853",
+   "versie": "ukraine-sixteen-labs"
+  },
+  {
+   "nummer": "1853be8e7b0a9f14"
+  },
+  {
+   "nummer": "41eb852dbcfdd431",
+   "versie": "russian-documents-on-bioweapons"
+  },
+  {
+   "nummer": "6eddce8fe8a5c542",
+   "versie": "russian-documents-on-bioweapons"
+  },
+  {
+   "nummer": "845cc0fb5d3f0da4",
+   "versie": "nuland-admits-bioweapons"
+  },
+  {
+   "nummer": "a0a8e10f54b2cdfb",
+   "versie": "ethnic-targeted-bioweapons"
+  },
+  {
+   "nummer": "b5b0e157966b0184",
+   "versie": "ethnic-targeted-bioweapons"
+  },
+  {
+   "nummer": "ce8dd66ee278ad18"
+  },
+  {
+   "nummer": "9f85e55dae48e52a"
+  },
+  {
+   "nummer": "35f3646bfd96c256",
+   "versie": "nuland-admits-bioweapons"
+  },
+  {
+   "nummer": "ab028073d88b76ee",
+   "versie": "nuland-admits-bioweapons"
+  },
+  {
+   "nummer": "975c2bdb4cba29fd"
+  },
+  {
+   "nummer": "63e4bd1887e40a37",
+   "versie": "hunter-biden-lab-funding"
+  },
+  {
+   "nummer": "a7b4cad915069954",
+   "versie": "hunter-biden-lab-funding"
+  },
+  {
+   "nummer": "30f81c3d4427e8b1",
+   "versie": "hunter-biden-lab-funding"
+  },
+  {
+   "nummer": "894928da4156107e"
+  },
+  {
+   "nummer": "5c71e4de6aa38830"
+  },
+  {
+   "nummer": "36ace2672c8edd3c"
+  },
+  {
+   "nummer": "448d05e41e70f9b8",
+   "versie": "russian-documents-on-bioweapons"
+  },
+  {
+   "nummer": "1ff1ea75a0a25ef9"
+  },
+  {
+   "nummer": "87509c933138621b",
+   "versie": "pentagon-admits-46-biolabs"
+  },
+  {
+   "nummer": "c3ef079fea4fdfd9"
+  },
+  {
+   "nummer": "cacc925bd83845c9"
+  },
+  {
+   "nummer": "1a3255a1fe27a428"
+  },
+  {
+   "nummer": "4ae9d5d7cb1fc3ee"
+  },
+  {
+   "nummer": "bcfc0bc54b7f5fb2"
+  },
+  {
+   "nummer": "e2ba4bf2d43d9201",
+   "versie": "russian-documents-on-bioweapons"
+  },
+  {
+   "nummer": "17141a23650a329a",
+   "versie": "russian-documents-on-bioweapons"
+  },
+  {
+   "nummer": "a40528962f4056db",
+   "versie": "ukrainian-labs-coronavirus-origin"
+  },
+  {
+   "nummer": "1ad6ab0c18e83ab5",
+   "versie": "hunter-biden-lab-funding"
+  },
+  {
+   "nummer": "82681c2439af94a1"
+  },
+  {
+   "nummer": "8c033bbf7dd34362"
+  },
+  {
+   "nummer": "b012dc5a6b3a33d7",
+   "versie": "pentagon-admits-46-biolabs"
+  },
+  {
+   "nummer": "6380be06e891c09b"
+  },
+  {
+   "nummer": "baf5e77093c66bf1"
+  },
+  {
+   "nummer": "96c9047d4177ae40",
+   "versie": "us-created-coronavirus"
+  },
+  {
+   "nummer": "f410fdb8b534a99e"
+  },
+  {
+   "nummer": "bcb8f2b684df88ea",
+   "versie": "us-created-coronavirus"
+  },
+  {
+   "nummer": "de78331e4f632204",
+   "versie": "us-created-coronavirus"
+  },
+  {
+   "nummer": "a6a6e60a79078a8b",
+   "versie": "ukrainian-labs-coronavirus-origin"
+  },
+  {
+   "nummer": "3342f8f1c5cf5d2c"
+  },
+  {
+   "nummer": "8452f58792f02e1b"
+  },
+  {
+   "nummer": "04ceb64d0f7d91ad"
+  },
+  {
+   "nummer": "a57a07d19dd9adba"
+  },
+  {
+   "nummer": "9ab1716b62e535b6",
+   "versie": "hunter-biden-lab-funding"
+  },
+  {
+   "nummer": "88b8cb1eb9c55121"
+  }
+ ]
+}

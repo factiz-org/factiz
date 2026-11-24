@@ -1,0 +1,157 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/omt-omtzigt/dossier.md.
+
+sleutel = "omt-omtzigt"
+status = "gepubliceerd"
+taal = "nl"
+adres = "ollongren-omt-omtzigt-verhoor"
+adres_en = "ollongren-omt-omtzigt-hearing"
+kop = "Ollongren noemde in haar verhoor over de avondklok het OMT, niet Pieter Omtzigt"
+oordeel = "onwaar"
+oordeel_zin = "In haar verhoor van 2 september zei Ollongren dat het advies van het OMT haar overtuigde, en de naam Omtzigt valt er niet [2]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "Ollongren geeft toe: Omtzigt overtuigde haar van het nut van de avondklok."
+platform = "X"
+eerst_gezien = "2026-09-06"
+posts = 1
+bereik = "200 likes en 61 reacties op 18 november"
+
+kort = """
+Op 6 september ging op X een beeld rond bij het verhoor van Kajsa Ollongren, met de bewering dat zij toegaf dat \
+Pieter Omtzigt haar overtuigde van het nut van de avondklok [1]. In het verhoor sprak Ollongren over het OMT, het \
+Outbreak Management Team dat het kabinet in de coronatijd adviseerde, en niet over Omtzigt [2] [4]. Het advies van \
+het OMT over het effect van de avondklok gaf voor haar de doorslag [2]."""
+
+tekst = """
+Op zondag 6 september om 17.08 uur zette een account op X een beeld bij het verhoor van oud-minister Kajsa \
+Ollongren, met de tekst dat zij toegaf dat Omtzigt haar had overtuigd van het nut van de avondklok [1]. De post \
+spotte dat ze er eerst tegen was en het achteraf op een ander schoof [1]. Op 18 november had ze 200 likes en 61 \
+reacties [1].
+
+Ollongren werd op woensdag 2 september van 10.00 tot 12.50 uur verhoord door de parlementaire enquêtecommissie \
+Corona [2] [3]. In de coronatijd was ze minister van Binnenlandse Zaken en vicepremier namens D66 [2] [3]. Het ANP \
+berichtte die ochtend over haar verhoor [6].
+
+OMT staat voor Outbreak Management Team: de deskundigen die het kabinet in de coronatijd adviseerden. Het RIVM \
+publiceert hun adviezen [4]. In het verslag van het verhoor staat de afkorting OMT 65 keer, en de naam Omtzigt geen \
+enkele keer [2].
+
+Over de avondklok vertelde Ollongren dat zij en haar ministerie er lang tegen waren, omdat de maatregel zo diep \
+ingrijpt in de bewegingsvrijheid van iedereen [2]. De avondklok lag volgens haar drie of vier keer op tafel en ging \
+telkens weer van tafel [2]. De doorslag gaf het OMT. Dat schatte in januari 2021 het effect op de verspreiding van \
+het virus op 8 tot 13 procent, en zei dat geen andere maatregel hetzelfde kon bereiken [2]. Daarop stemde ze met \
+tegenzin in, en ze zei dat ze toen overtuigd was [2].
+
+Dat past bij wat andere getuigen eerder vertelden. Volgens de NOS noemde het OMT de avondklok al eerder als optie, \
+wilde het kabinet er eerst niet aan, en zei een later spoedadvies van het OMT dat de maatregel effect kon hebben \
+[5]. De avondklok ging in op 23 januari 2021 en werd vijf keer verlengd [2].
+
+Het verslag dat we lazen, is nog niet gecorrigeerd. Daarom geven we weer wat Ollongren zei, en citeren we haar niet \
+letterlijk [2]."""
+
+niet_weten = """
+We weten niet of de schrijver van de post OMT verkeerd las of er bewust Omtzigt van maakte. Dat de naam Omtzigt niet \
+valt, is onze telling in het verslag."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Wie de post leest als een grap over een verkeerd gelezen afkorting, kan misleidend verdedigen. Wij kozen onwaar.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post op X, 6 september 2026, 17.08 uur."
+alt = "Beeld bij het verhoor van Kajsa Ollongren over de avondklok, gedeeld alsof zij Pieter Omtzigt noemde. Stempel: ONWAAR."
+
+[[beeld]]
+rol = "origineel"
+link = "https://debatdirect.tweedekamer.nl/2026-09-02/zorg-gezondheid/enquetezaal/openbaar-verhoor-kasja-ollongren-10-00"
+stempel = false
+bijschrift = "Het openbaar verhoor van Kajsa Ollongren door de parlementaire enquêtecommissie Corona, 2 september 2026, 10.00 uur. Tweede Kamer, Debat Direct."
+alt = "De video van het verhoor van Kajsa Ollongren in de Enquêtezaal van de Tweede Kamer."
+
+[[tijdlijn]]
+datum = "2020-09-28"
+wat = "Een regionale avondklok staat voor het eerst in een advies van het OMT [2]."
+
+[[tijdlijn]]
+datum = "2021-01-23"
+wat = "De avondklok gaat in, na een spoedadvies van het OMT [2] [5]."
+
+[[tijdlijn]]
+datum = "2026-07-03"
+wat = "De NOS beschrijft na eerdere verhoren hoe de avondklok er toch kwam [5]."
+
+[[tijdlijn]]
+datum = "2026-09-02"
+tijd = "10:00"
+wat = "Het verhoor van Ollongren begint [2] [3]."
+
+[[tijdlijn]]
+datum = "2026-09-06"
+tijd = "17:08"
+wat = "De post op X met het beeld en de bewering over Omtzigt [1]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "De post met het beeld, opgevraagd op 18 november 2026"
+datum = "2026-09-06"
+prive = true
+archief = "https://web.archive.org/web/20261119150821/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2096616586413035577&omit_script=true"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "Tweede Kamer, parlementaire enquêtecommissie Corona"
+titel = "Verslag van een openbaar verhoor, mevrouw Ollongren (ongecorrigeerd stenogram)"
+datum = "2026-09-02"
+url = "https://www.tweedekamer.nl/sites/default/files/2026-09/20260902%20Ollongren%20OPENBAAR%20VERHOOR%20verslag%20definitief.pdf"
+archief = "https://web.archive.org/web/20261119144252/https://www.tweedekamer.nl/sites/default/files/2026-09/20260902%20Ollongren%20OPENBAAR%20VERHOOR%20verslag%20definitief.pdf"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Tweede Kamer"
+titel = "Parlementaire enquête Corona, verhoorweek 8"
+datum = "2026-11-18"
+url = "https://www.tweedekamer.nl/kamerleden_en_commissies/commissies/corona/openbare-verhoren/verhoorweek-8"
+archief = "https://web.archive.org/web/20261119144312/https://www.tweedekamer.nl/kamerleden_en_commissies/commissies/corona/openbare-verhoren/verhoorweek-8"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "RIVM"
+titel = "COVID-19 adviezen OMT en RT"
+datum = "2026-11-18"
+url = "https://www.rivm.nl/coronavirus-covid-19/omt"
+archief = "https://web.archive.org/web/20261119144343/https://www.rivm.nl/corona/adviezen"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "NOS"
+titel = "'Gespierde tegenzin' en botsende grondrechten: zo kwam de avondklok er toch"
+datum = "2026-07-03"
+url = "https://nos.nl/l/2621506"
+archief = "https://web.archive.org/web/20261119144509/https://nos.nl/artikel/2621506-gespierde-tegenzin-en-botsende-grondrechten-zo-kwam-de-avondklok-er-toch"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "ANP via Welingelichte Kringen"
+titel = "Ollongren: grondrechten bij alle coronamaatregelen gewogen"
+datum = "2026-09-02"
+url = "https://www.welingelichtekringen.nl/samenleving/ollongren-grondrechten-bij-alle-coronamaatregelen-gewogen"
+archief = "https://web.archive.org/web/20260904124245/https://www.welingelichtekringen.nl/samenleving/ollongren-grondrechten-bij-alle-coronamaatregelen-gewogen"

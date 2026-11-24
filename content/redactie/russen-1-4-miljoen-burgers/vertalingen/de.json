@@ -1,0 +1,76 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck russen-1-4-miljoen-burgers van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "b7b9109721c4e718",
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "veldafdrukken": {
+  "kop": "d4acd6069dca1e45",
+  "oordeel_zin": "0856169f57e5e625",
+  "bewering": "db3f250f3658a463",
+  "kort": "b31e68959bfbc7ec",
+  "tekst": "d37202599c3adc44",
+  "niet_weten": "8a52a9177fffe209",
+  "bereik": "0a5675d89e211b03",
+  "nog_uitzoeken": "e2c5d83a8152d6ad",
+  "tijdlijn": "c9ae207d950a1c10",
+  "beeld_bijschrift": "69af88d54cfe7f73",
+  "beeld_alt": "d9306b07a493bf2a",
+  "rekensom": "40eea99f35372ef1"
+ },
+ "velden": {
+  "kop": "Die Zahl von 1,4 Millionen Russen betrifft verwundete und gefallene Soldaten, nicht zivile Todesopfer",
+  "oordeel_zin": "Anderthalb Millionen ist ungefähr die Zahl russischer Soldaten, die gefallen sind, verwundet wurden oder vermisst werden; gefallen sind höchstens rund 450.000, und von den Zivilisten in Russland kamen nach der Zählung von Novaja Gazeta Europa gut 1.400 ums Leben [1] [5].",
+  "bewering": "Wo bleibt die Empörung, wenn russische Zivilisten ums Leben kommen? Fast anderthalb Millionen Russen kamen ums Leben.",
+  "kort": "Ein Beitrag auf X vom 22. Oktober besagte, fast anderthalb Millionen Russen seien ums Leben gekommen, im Vergleich mit zivilen Opfern in Gaza [7]. Die Zahl von 1,4 Millionen ist eine Schätzung russischer Soldaten, die gefallen sind, verwundet wurden oder vermisst werden; gefallen sind laut dem amerikanischen Institut CSIS 400.000 bis 450.000 [1]. Zivile Todesopfer in Russland zählte Novaja Gazeta Europa bis Mai mindestens 1.406 [5].",
+  "tekst": "Am 22. Oktober um 9:08 Uhr fragte ein Account auf X, warum um zivile Opfer in Gaza Tränen fließen, nicht aber, wenn russische Zivilisten ums Leben kommen [7]. Darauf folgte der Satz, fast anderthalb Millionen Russen seien ums Leben gekommen [7]. Der Beitrag erhielt fast 1.200 Antworten [7].\n\nEine Zahl dieser Größenordnung existiert, aber sie betrifft Soldaten, und nicht nur Tote. Das amerikanische Forschungsinstitut CSIS schätzte am 1. Juli, dass Russland von Februar 2022 bis Juni 2026 etwa 1,4 Millionen militärische Opfer hatte [1]. Darin sind Soldaten eingerechnet, die gefallen sind, verwundet wurden oder vermisst werden [1]. Gefallen sind laut CSIS 400.000 bis 450.000 [1].\n\nDer ukrainische Generalstab führt eine eigene Zählung. Am 22. Oktober stand sie bei 1.572.790 russischen Militärangehörigen [4]. Auf der Seite steht nicht, ob damit Tote und Verwundete zusammen gemeint sind [4]. Es ist die Zählung einer Kriegspartei, keine unabhängige Schätzung.\n\nWie viele russische Soldaten sicher tot sind, zählen Mediazona und der russische Dienst der BBC namentlich. Sie nutzen Todesanzeigen, Berichte von Angehörigen, lokale Medien und Mitteilungen regionaler Behörden [3]. Bis einschließlich 23. Oktober fanden sie 282.993 [2]. Sie nennen das selbst eine Untergrenze: Die tatsächliche Zahl liegt ihnen zufolge wahrscheinlich deutlich höher [2].\n\nUm Zivilisten geht es dabei also nicht. Novaja Gazeta Europa, eine russische Zeitung, die vom Ausland aus arbeitet, zählte bis zum 11. Mai 2026 mindestens 1.406 zivile Todesopfer in Russland und auf der besetzten Krim seit 2022 [5]. Davon entfielen 524 auf die Region Kursk, auf den Teil, den die Ukraine von August 2024 bis März 2025 besetzt hielt [5]. Die Zeitung nennt ihre eigene Zählung zu niedrig, weil Behörden nicht alle Opfer melden [5]. Das russische Außenministerium spricht von mehr als 8.000 zivilen Todesopfern; laut der Zeitung zählt das Ministerium wahrscheinlich auch Bewohner von Gebieten mit, die Russland nach 2022 besetzt hat [5].\n\nAuch mit dieser höchsten Zahl bleibt der Abstand groß. Anderthalb Millionen ist knapp das 190-Fache von 8.000 und gut das Tausendfache der Zählung von Novaja Gazeta Europa.\n\nDie Verwechslung von Opfern und Toten ist nicht neu. Im März 2025 prüfte Nieuwscheckers einen Beitrag, der eine Million Tote im Krieg nannte; es waren nach deren Angaben damals höchstens 344.000 [6].",
+  "niet_weten": "Wir wissen nicht, wie viele russische Soldaten tatsächlich gefallen sind: Die Zahlen reichen von den 282.993, die namentlich bekannt sind, bis zu 450.000 bei CSIS. Auch die Zahl der zivilen Todesopfer in Russland ist unsicher, und es macht viel aus, welche Gebiete man mitzählt. Wir wissen nicht, woher der Beitrag die Zahl hatte.",
+  "bereik": "234 Likes und 1.197 Antworten am 18. November",
+  "nog_uitzoeken": [
+   "Was der ukrainische Generalstab genau als Verluste zählt: Tote und Verwundete, und auch Gefangene?",
+   "Die Zahl von Mediazona auf der eigenen Seite. Deren Seite vom 6. November nennt 272.100 Fälle mit bekanntem Todesdatum.",
+   "Woher das russische Außenministerium seine 8.000 zivilen Todesopfer hat.",
+   "Die Zahl existiert, aber nicht für Tote und nicht für Zivilisten. Wir haben uns für falsch entschieden; irreführend ließe sich ebenfalls vertreten."
+  ],
+  "tijdlijn": [
+   "Novaja Gazeta Europa zählt mindestens 1.406 zivile Todesopfer in Russland und auf der Krim seit 2022 [5].",
+   "CSIS schätzt etwa 1,4 Millionen russische militärische Opfer, davon 400.000 bis 450.000 Gefallene [1].",
+   "Ein niederländischer Beitrag auf X besagt, fast anderthalb Millionen Russen seien ums Leben gekommen [7].",
+   "Die Zählung des ukrainischen Generalstabs steht bei 1.572.790 russischen Militärangehörigen [4].",
+   "Mediazona und die BBC kennen 282.993 gefallene russische Militärangehörige namentlich, bis einschließlich 23. Oktober [2]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 22. Oktober 2026, 9:08 Uhr."
+  ],
+  "beeld_alt": [
+   "Ein Beitrag auf X, der besagt, fast anderthalb Millionen Russen seien ums Leben gekommen, im Vergleich mit Gaza. Stempel: FALSCH."
+  ],
+  "rekensom": [
+   [
+    "Russische militärische Opfer, Februar 2022 bis Juni 2026 (CSIS)",
+    "Gefallene, Verwundete und Vermisste zusammen",
+    "etwa 1,4 Millionen"
+   ],
+   [
+    "Gefallene russische Militärangehörige, gleicher Zeitraum (CSIS)",
+    "Schätzung",
+    "400.000 bis 450.000"
+   ],
+   [
+    "Namentlich bekannte gefallene russische Militärangehörige, bis einschließlich 23. Oktober (Mediazona und BBC)",
+    "Zählung aus öffentlichen Quellen, eine Untergrenze",
+    "282.993"
+   ],
+   [
+    "Zivile Todesopfer in Russland und auf der Krim, bis 11. Mai 2026 (Novaja Gazeta Europa)",
+    "882 aus Berichten plus 524 in Kursk",
+    "mindestens 1.406"
+   ],
+   [
+    "Anderthalb Millionen gegenüber den zivilen Todesopfern",
+    "1.500.000 geteilt durch 1.406 und durch 8.000",
+    "gut das Tausendfache und knapp das 190-Fache"
+   ]
+  ]
+ }
+}

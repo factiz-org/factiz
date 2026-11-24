@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Lors de son audition sur le couvre-feu, Ollongren a cité l'OMT, et non Pieter Omtzigt",
+  "oordeel_zin": "Lors de son audition du 2 septembre, Ollongren a dit que l'avis de l'OMT l'avait convaincue, et le nom d'Omtzigt n'y apparaît pas [2].",
+  "bewering": "Ollongren avoue : Omtzigt l'a convaincue de l'utilité du couvre-feu.",
+  "kort": "Le 6 septembre, une image consacrée à l'audition de Kajsa Ollongren a circulé sur X, affirmant qu'elle avait admis que Pieter Omtzigt l'avait convaincue de l'utilité du couvre-feu [1]. Lors de l'audition, Ollongren a parlé de l'OMT, l'Outbreak Management Team qui conseillait le gouvernement pendant la période du covid, et non d'Omtzigt [2] [4]. L'avis de l'OMT sur l'effet du couvre-feu a été décisif pour elle [2].",
+  "tekst": "Le dimanche 6 septembre à 17 h 08, un compte sur X a publié une image liée à l'audition de l'ancienne ministre Kajsa Ollongren, avec un texte affirmant qu'elle avait admis qu'Omtzigt l'avait convaincue de l'utilité du couvre-feu [1]. La publication ironisait en disant qu'elle y était d'abord opposée et qu'elle avait ensuite rejeté la faute sur quelqu'un d'autre [1]. Le 18 novembre, elle comptait 200 likes et 61 réponses [1].\n\nOllongren a été entendue le mercredi 2 septembre, de 10 h 00 à 12 h 50, par la commission d'enquête parlementaire Corona [2] [3]. Pendant la période du covid, elle était ministre de l'Intérieur et vice-première ministre pour le parti D66 [2] [3]. L'ANP a rendu compte de son audition le matin même [6].\n\nOMT signifie Outbreak Management Team : les experts qui conseillaient le gouvernement pendant la période du covid. Le RIVM publie leurs avis [4]. Dans le compte rendu de l'audition, l'abréviation OMT apparaît 65 fois, et le nom Omtzigt pas une seule fois [2].\n\nAu sujet du couvre-feu, Ollongren a expliqué que son ministère et elle y ont longtemps été opposés, parce que cette mesure porte une atteinte profonde à la liberté de mouvement de chacun [2]. Selon elle, le couvre-feu a été mis sur la table trois ou quatre fois et en a chaque fois été retiré [2]. C'est l'OMT qui a été décisif. En janvier 2021, il a estimé son effet sur la propagation du virus à 8 à 13 %, et a dit qu'aucune autre mesure ne pouvait obtenir le même résultat [2]. Elle a alors donné son accord à contrecœur, et a dit qu'elle était alors convaincue [2].\n\nCela correspond à ce que d'autres témoins avaient déjà raconté. Selon la NOS, l'OMT avait déjà mentionné le couvre-feu comme option, le gouvernement n'en voulait d'abord pas, et un avis urgent ultérieur de l'OMT disait que la mesure pouvait avoir un effet [5]. Le couvre-feu est entré en vigueur le 23 janvier 2021 et a été prolongé cinq fois [2].\n\nLe compte rendu que nous avons lu n'a pas encore été corrigé. C'est pourquoi nous rapportons ce qu'Ollongren a dit, sans la citer mot pour mot [2].",
+  "niet_weten": "Nous ne savons pas si l'auteur de la publication a mal lu OMT ou s'il en a délibérément fait Omtzigt. Le fait que le nom Omtzigt ne soit pas prononcé résulte de notre décompte dans le compte rendu.",
+  "bereik": "200 likes et 61 réponses au 18 novembre",
+  "nog_uitzoeken": [
+   "Qui lit la publication comme une blague sur une abréviation mal lue peut défendre « trompeur ». Nous avons choisi « faux »."
+  ],
+  "tijdlijn": [
+   "Un couvre-feu régional figure pour la première fois dans un avis de l'OMT [2].",
+   "Le couvre-feu entre en vigueur, après un avis urgent de l'OMT [2] [5].",
+   "Après des auditions précédentes, la NOS décrit comment le couvre-feu a fini par être instauré [5].",
+   "L'audition d'Ollongren commence [2] [3].",
+   "La publication sur X avec l'image et l'affirmation concernant Omtzigt [1]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 6 septembre 2026, 17 h 08.",
+   "L'audition publique de Kajsa Ollongren par la commission d'enquête parlementaire Corona, 2 septembre 2026, 10 h 00. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Image liée à l'audition de Kajsa Ollongren sur le couvre-feu, partagée comme si elle avait cité Pieter Omtzigt. Tampon : FAUX.",
+   "La vidéo de l'audition de Kajsa Ollongren dans la salle d'enquête de la Tweede Kamer."
+  ]
+ }
+}

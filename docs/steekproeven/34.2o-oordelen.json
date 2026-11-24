@@ -1,0 +1,932 @@
+{
+ "toelichting": "#34.2o: mijn lezing van de oordelen die Haiku las waar de tabel van verdicts.py er geen had, en van hun letterlijke vertalingen. Gelezen door Claude, eigen werk. 'ontwikkeling' zijn de 150 die ik las voordat de kantregel er was (100 van v1, 50 van v2); die tellen niet voor de poort en komen nooit in de steekproef. 'oordelen' en 'glossen' zijn de steekproef van v2 met de kantregel (zaad 34218).",
+ "versie": "oordeel-lezer-v2",
+ "maatstaf": {
+  "goed": "het oordeel dat de redactie over de bewering gaf",
+  "fout_kant": "de andere kant op (waar tegen onwaar of misleidend)",
+  "fout_verzonnen": "een oordeel waar de redactie er geen gaf",
+  "fout_buur": "een buur (onwaar en misleidend, deels waar en waar, onbewezen en onwaar)",
+  "twijfel": "niet te zeggen"
+ },
+ "ontwikkeling": {
+  "False and Misleading": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Bauern in den Niederlanden protestieren aktuell nicht wegen steigender Lebensmittelpreise, sondern wegen dem Vorhaben der Regierung, den Ausstoß von Stickstoff zu reduzieren.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Фейк. В украинских СМИ не было сообщений о намерении Александра Лукашенко захватить ЧАЭС.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Falsi": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Mostly false - Mostly false with one minor element of truth.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "FALSO: De acordo com o atestado de óbito do jovem, que era voluntário no ensaio clínico da vacina de Oxford, ele faleceu em decorrência de uma pneumonia viral causada pela covid-19 e não pela vacina, como afirma um vídeo publicado no Facebook e YouTube": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Het bericht klopt niet. Gorgelen beschermt je niet tegen het coronavirus en is zelfs af te raden. Door druppelverspreiding bestaat de kans dat je mensen in je omgeving besmet. Bovendien is het niet bewezen dat het virus eerst 4 dagen in de keel blijft hangen voor het de longen bereikt.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "This is inaccurate": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Impreciso": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "De beleidsnota is vervalst. Dat bevestigde het Ministerie van Justitie en Veiligheid. Er zijn ook verschillende hints in het nepdocument zelf die wijzen op gesjoemel.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Polizei dementiert und warnt vor Fake News. Der Behörde zufolge hat lediglich ein alkoholisierter Mann Passanten angepöbelt, ohne dass Straftaten begangen wurden. Er trug keine Waffe bei sich.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "সম্পাদিত": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Falta evidencia": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Greta Thunberg eist niet dat iedereen met een elektrische wagen moet rijden. Kobalt wordt inderdaad gebruikt in de productie van batterijen; echter lang niet alleen voor elektrische auto's, maar ook voor onder andere smartphones en laptops. De gedeelde fotomontage toont overigens een kind in een goudmijn, geen kobaltmijn.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "නොමඟ යවන සුළු": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Enagañoso": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Dafür gibt es keine Belege. Der Beitrag ist erfunden. Er stammt von einer Webseite, die nach eigenen Angaben Satire betreibt.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Mark Rutte komt in geen enkel van de aan Epstein gelinkte documenten voor. Er is dan ook geen enkele reden om aan te nemen dat hij iets met Epstein te maken heeft. Niet alle namen die voorkomen in de Epsteindocumenten worden beschuldigd van misbruik of waren daarvan op de hoogte. De lijst met de (fout geschreven) naam van Rutte, die nu online de ronde doet, is gerecycleerd van een andere complottheorie.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Es gibt keinen Beschluss des Bundesgerichtshofs (BGH) zur Existenz von Masernviren. Das Gericht wies lediglich eine Nichtzulassungsbeschwerde zurück. Im entsprechenden Beschluss äußert sich der BGH an keiner Stelle inhaltlich zur Sache, um die es im vorangegangenen Rechtsstreit gegangen war.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Mix": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "ENGANOSO: O estudo de onde foram extraídos os dados reproduzidos no tuíte de um médico não prova que as máscaras são ineficientes. Pelo contrário, mostra que pessoas que frequentam bares e restaurantes estão mais propensas ao contágio porque não podem consumir alimentos e bebidas usando máscaras": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Der Anstieg der Syphilis-Infektionen ist nicht auf Einwanderung zurückzuführen. Der größte Teil der Erkrankten stammt dem Robert-Koch-Institut (RKI) zufolge aus Deutschland - und infizierte sich auch in Deutschland mit der sexuell übertragbaren Krankheit.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Mel Gibson hat in seinem ereignisreichen Leben schon manche Äußerung bereuen müssen. Für die ihm zugeschriebenen Enthüllungen über das pädophile Hollywood gibt es jedoch keinen Anhaltspunkt.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Claim by the user is false": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Rating by Fact Crescendo: False. The mosque being shown in the video was demolished in Myanmar during communal riots that took place almost 6 years ago.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "غير صحيح جزئياً": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Der zitierte Text belegt keine höhere Sterblichkeit nach einer Covid-19 Impfung und ist wenig aussagekräftig. Insgesamt ist die wissenschaftliche Qualität der Arbeit fragwürdig. Offizielle Daten der niederländischen Statistik- und Gesundheitsbehörden kamen zu dem Ergebnis, dass die Impfung das Todesrisiko durch Covid-19 verringert und das Sterberisiko aus anderen Gründen nicht erhöht.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Aussage von Hartmann ist prinzipiell richtig. Bayern bezog 2022 Jahr so viel Öl und Gas aus Russland wie kein anderes Bundesland. Deutschland bezog im EU-Vergleich in den vergangenen Jahren am meisten Gas aus Russland.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "fout_buur",
+   "noot": "'prinzipiell richtig' met feiten erbij is waar, niet deels waar"
+  },
+  "Überwiegend falsch. Zwar ist die Formulierung \"gestorben mit Covid-19\" bezogen auf die Zählweise des Robert-Koch-Institutes richtig. Doch daraus lässt sich nicht automatisch ableiten, die Patienten wären ohne Covid-19-Erkrankung ohnehin bald verstorben. Experten gehen davon uas, dass die offiziellen Todesfallzahlen die tatsächlichen eher unterschätzen statt überschätzen. Laut einer Untersuchung von Wissenschaftlern der Universität Palermo in Jama Internal Medicine zum Beispiel starben in Italien deutlich mehr Menschen durch Corona gestorben, als es die offiziellen Todeszahlen vermuten lassen.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Deze video is nep en werd gemaakt met hulp van ‘artificial intelligence’. Het is een deepfake. Elon Musk heeft dit nooit gezegd over Mark Rutte of Nederland.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Information disseminated by Giorgi Gigauri, as if Armenian workshop, where gravestones were artificially aged to falsify history, was discovered in the Kalbajar district lacks evidence, whereas no photo indicated by the post was taken in Kalbajar district controlled by Azerbaijan: Open sources showcased that one photo indicates a nearby territory of Sevanavank Monastery, while the other one – nearby territory of Kotavank church. The identical information was first disseminated by the Azerbaijani journalist on Twitter.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Nee, er is niets wat erop wijst dat de vrouw in de foto Taylor Swift is. De pet werd in 2016 te koop aangeboden door een Australische special effects-specialist. De collectie is inderdaad geïnspireerd door Ed Gein, maar niet gemaakt van mensenhuid. Het model op de foto uit 2016 heeft meerdere piercings in haar oor, iets wat Swift tot 2023 niet had.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "De foto is getrukeerd. De oorspronkelijke afbeelding is een stockfoto van Getty Images, waar enkel de mogelijkheden om in te loggen met emailadres of telefoonnummer in vermeld staan. Een Facebookgebruiker kan niet inloggen met een QR-code als vervanger van de gebruikersnaam.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Stimmt vermutlich. Es spricht sehr viel dafür, dass die 10H-Regel die wichtigste Ursache für den Zusammenbruch des Windenergie-Zubaus in Bayern ist. Der Rückgang des Windkraft-Ausbaus in Bayern beginnt mit Einführung der 10H-Regel. Der Schluss liegt nahe, dass dieser zeitliche Zusammenhang zugleich ein kausaler ist.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Deze berichten kloppen niet. De foto werd in augustus 2021 gemaakt van een onbekende vrouwelijke soldaat bij een repetitie voor een militaire parade.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "This claim is false.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "May ilang mali": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Uglavnom točno, Manipulacija činjenica": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Lacks evidence": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "The claim by the user is False": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Nakapanlilinlang": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Ambassadeur Bridget Brink zit nog steeds op haar post in Oekraïne. Berichten over haar arrestatie zijn verzonnen.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "La proposition de résolution est bien réelle. Toutefois, elle peut difficilement être qualifiée « d'aveu ». Les chiffres qui y sont présentés comme des effets secondaires des vaccins contre le Covid-19 nécessitent une remise en contexte.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Anwohner aus Butscha berichten davon, dass russische Soldaten die Autos umwarfen, um dahinter ihre Ausrüstung zu verstecken. Es finden sich keine Medienberichte, in denen das Bild mit Bombenangriffen in Verbindung gebracht wird.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "fout_buur",
+   "noot": "geen bericht koppelt het beeld aan bombardementen: misleidend, niet onbewezen"
+  },
+  "Fantasy math": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Exaggerates": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "In reality, BSF has rejected these reports and no land has been reclaimed.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed",
+   "glos": "vrije tekst vertaald als alleen 'Rejected'"
+  },
+  "Estudio No Dice Eso": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Enganoso: É verdade que a ideia de transposição das águas do São Francisco remonta ao Império e que o exército participou da execução das obras. O texto que viralizou no WhatsApp, no entanto, engana ao afirmar que as obras ficaram abandonadas por dez anos e que o exército teria refeito trecho inaugurado por Temer e Lula. Veja outras informações checadas pelo Comprova": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "False. ये इटली का नहीं बल्कि मई 2023 का ऑस्ट्रेलिया के सिडनी का वीडियो है।": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed",
+   "glos": "alleen 'False' vertaald, de Hindi zin valt weg"
+  },
+  "اشاعة": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Videoaufnahme entstand im Mai 2019 in Hannover. Der Fahrradfahrer war zum Zeitpunkt des Vorfalls 17 Jahre alt.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Scientists say it’s not": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "De gedeelde cijfers zijn grotendeels correct, de conclusie is dat daarentegen niet. Menselijke CO2-productie is wel degelijk een drijvende kracht achter de klimaatverandering, hoewel het procentueel kleiner is dan de natuurlijke CO2-productie.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Zwar gibt es wie bei jedem medizinischen Eingriff Risiken, Studien belegen aber, dass der Nutzen von Biopsien die Risiken bei weitem überwiegt. Eine Gewebeprobe führt zu einer genaueren Diagnose und somit auch zu einer präziseren Krebstherapie.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "fout_kant",
+   "noot": "bij 'een biopsie laat kanker uitzaaien' zegt dpa dat de voordelen zwaarder wegen; gelezen als waar"
+  },
+  "De video toont een demonstratie tegen extreemrechts in Berlijn op 21 januari. Het heeft niets te maken met de recente boerenprotesten in Duitsland.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Es handelt sich um Falschinformationen. Zwei Polizeigewerkschaften in Frankreich riefen in Presseaussendungen zu einem härteren Vorgehen gegen Protestierende auf. Vom Weltwirtschaftsforum (WEF) oder einer Solidarität mit Millionen von Franzosen ist nirgends die Rede.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Das vermeintliche Nachrichtenvideo ist gefälscht und stammt nicht von der «t-online». Die Darstellung der Original-Website wurde kopiert.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Misleading, the video is true, capturing a Palestinian woman mourning the bodies of children from the Chehadeh family, who arrived at Al-Aqsa Hospital as martyrs in yesterday’s Israeli bombardment of the Sawarha area. What appears in the woman’s hand is an electronic rosary and not a makeup product.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Falsch. CDL ist kein zugelassenes Medikament, sondern eine Chemikalie, die auch zum Bleichen von Papier verwendet wird. Nach der Einnahme kann es zu Verätzungen, Leberschäden und zugeschwollenen Atemwegen kommen. CDL ist kein zugelassenes Medikament und für Kinder besonders gefährlich, weil deren Schleimhäute noch empfindlicher sind. Verabreichen Eltern CDL an ihre Kinder, kann das rechtliche Konsequenzen haben.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "DW Faktencheck: Falsch. Zumindest in diesem Fall verbreitet der Account Fehlinformationen, denn zwei der Bilder, die er seinem Beitrag beifügt, haben nichts mit den indischen Angriffen auf Pakistan in der vergangenen Nacht zu tun. Das Bild oben rechts zeigt zwar eine in Russland gebaute MiG-29 der indischen Luftwaffe (IAF). Solch einen Jet behauptet Pakistan letzte Nacht abgeschossen zu haben. DNA India und andere Medien veröffentlichten dasselbe Foto jedoch bereits im September 2024. Diesen Quellen zufolge war der Kampfjet bei einem Routineflug im indischen Bundesstaat Rajasthan in unbewohntes Gebiet gestürzt und hatte dabei keine weiteren Schäden verursacht. Der Pilot soll sich mit dem Schleudersitz gerettet haben. Auch das linke Bild zeigt ein IAF-Flugzeug, das jedoch wie die beiden anderen nicht bei den Angriffen auf Pakistan in der vergangenen Nacht eingesetzt wurde. Times Now berichtete vor mehr als einem Monat, dass ein anglo-französisches Kampfflugzeug Typ Jaguar im nordindischen Bundesstaat Gujarat abgestürzt war und bildete dazu genau dasselbe Foto ab.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Es gibt keine Belege dafür, dass Christian Eriksen zum Zeitpunkt des Spiels am 12. Juni 2021 gegen Covid-19 geimpft war. Der Teamarzt der dänischen Nationalmannschaft widerspricht dem genauso wie der Manager des italienischen Fussballvereins Inter Mailand, für den Eriksen spielt. Auch sei Eriksen noch nicht mit Sars-CoV-2 infiziert gewesen.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "fout_buur",
+   "noot": "de teamarts spreekt het tegen: onwaar, niet onbewezen"
+  },
+  "Deze laag is een natuurlijke beschermingslaag die sommige slakroppen aanmaken tegen extreme koude, in het vakjargon \"epidermal peeling\" genoemd. Dat is een vervelling van de buitenste lagen. Deze reactie wordt vergeleken met de aanmaak van een blaar. Van gerotzooi is dus helemaal geen sprake.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Ces affirmations sont fausses. Parmi les femmes qui ont participé à l’étude du New England Journal of Medicine (NEJM), 12,6% ont fait une fausse couche. Il s’agit d’un pourcentage qui se situe dans la moyenne globale. L’étude ne fait d’ailleurs état d’aucun danger pour les femmes enceintes qui se font vacciner contre le Covid-19, ni pour leurs bébés.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Engañoso. El estudio de Mostert et al. no incluyó ningún hallazgo que vincule la vacunación contra la COVID-19 con las tendencias en el exceso de muertes.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "False. The pipe burst at State Farm Arena and affected a room where absentee ballots were being tabulated.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "old photo": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Batman n’a jamais existé. Cette photo est un montage pour valider l’histoire inventée d’un site satirique, Suffolk Gazette, il y a quatre ans.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "FALSO: Há diversos mecanismos de auditoria e de verificação dos resultados que podem ser efetuados. Além disso, Ministério Público e Polícia Federal também têm a prerrogativa de investigar o processo eleitoral brasileiro e já realizaram auditorias independentes. Em 24 anos nenhum caso de fraude foi identificado e comprovado": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "faktlarla manipulyasiya": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Altered. An altered image of the New York Times newspaper clip was shared showing that the international media is mocking PM Modi.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Zahlreiche Indizien entlarven das Video als Fake. Zugehörige Berechnungen sind unplausibel.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "The video is older, it dates back to mid December 2023": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Das angebliche Zitat vom deutschen Bundespräsident Frank-Walter Steinmeier ist frei erfunden. Verbreitet wird es mit dem Schriftzug einer Person, die dafür bekannt ist, solche Falschzitate als Satire zu bezeichnen - was aber oft missverstanden wird.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "تحقق يوب يوب من الادعاء ووجد أنه مضلل إذ أن المقطع قديم وهو لقيام زوارق حربية سريعة تابعة للحرس الثوري الإيراني بمهاجمة ناقلة نفط تحمل علم بنما أثناء عبورها مضيق هرمز في طريقها من دبي إلى ميناء الفجيرة في الإمارات العربية المتحدة، 3 مايو 2023 .": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Found guilty by jury": {
+   "versie": "oordeel-lezer-v1",
+   "label": "fout_kant",
+   "noot": "PolitiFact 'Found guilty by jury' bij 'Roger Stone was charged with alleged crimes'; gelezen als waar"
+  },
+  "False. There is no evidence to back up this claim.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed",
+   "glos": "alleen 'False' vertaald, de tweede zin valt weg"
+  },
+  "خبر كاذب - تاريخ 16 أغسطس التي أشارت له بعض المواقع الإخبارية في احتفالها غير رسمي، هو تاريخ معرفة الشعب الياباني باستسلام دولتهم لإنهاء الحرب": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Netočno, Dezinfomracija": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "ENGANOSO: Conteúdo original é de 2020 e trechos que viralizaram agora não comprovam que o governo cearense admite uso da cloroquina": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "خارج السياق": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Cette publication a tout d'une arnaque. La photo du jeune berger australien et le message qui l’accompagne sont un copier-coller utilisé à maintes reprises par différents profils Facebook. Le but de l’annonceur est a priori d’escroquer de l’argent aux personnes intéressées par l’animal en leur faisant payer des frais de transport.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Das Foto zeigt nicht Eugen Schwab. Auf dem rechten Bild ist höchstwahrscheinlich der deutsche Generalmajor Walter Dybilasz zu sehen. Es lassen sich keine Belege dafür finden, dass Schwab ein Vertrauter Hitlers war.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Weder das Bild noch der Artikel, der 1962 damit illustriert wurde, beziehen sich auf das Jahr 2022. In der Zeitungsbeilage «Domenica de Corriere» ging es damals um die Zukunft der Mobilität.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Ces affirmations sont fausses, expliquent plusieurs experts à la dpa. La protéine Spike est une protéine virale, et non une toxine, qui se trouve à la surface du virus. Les vaccins actuellement utilisés contre le Covid-19 vont stimuler une réponse immunitaire contre cette protéine. Une fois la réponse immunitaire mise en marche, les traces de la protéine Spike dans le corps disparaissent. Il n’existe par ailleurs aucune preuve que la protéine Spike fabriquée par le corps après la vaccination est toxique ou a un effet sur le lait maternel et/ou la fertilité.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Enganoso: Publicação no Twitter de um assessor do presidente Jair Bolsonaro foi feita dois dias depois de o registro do óbito ter sido alterado": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "De stelling is fout. Er zijn in de afgelopen dagen wel degelijk nieuwe ziekenhuisopnames geweest en nieuwe doden gevallen.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Biden wurde im US-Bundesstaat Pennsylvania geboren. Eine Aussage in einer seiner Reden wurde falsch übersetzt oder missverstanden.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Behauptung ist falsch. FFP2-Masken schützen vor Viren. Das bestätigt u.a. das RKI, die WHO und die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA). Manche Hersteller schreiben auf Haftungsgründen \"nicht gegen Viren\" auf die Gebrauchsanweisung, da FFP2-Masken bei der Herstellung nicht explizit auf Viren geprüft werden.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Non, les images ne sont ni actuelles, ni représentatives de la situation à Rafah. Elles ont été filmées dans le centre de la bande de Gaza, et figurent en ligne depuis novembre 2023.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Falsch. Die vermeintlichen Würmer sind Pappel-Blüten.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed",
+   "glos": "alleen 'Falsch' vertaald, de tweede zin valt weg"
+  },
+  "False, Reverend King was not a 2019 Presidential candidate": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "La maison n’est pas celle de Vladimir Poutine : elle n’existe pas. Elle a été imaginée par Roman Vlasov. Le designer architectural précise à la dpa qu’il ne s’agit pas d’une propriété existante du chef d’État russe, mais bien d’une construction imaginaire : « C'est ma vision de la maison du président de mon pays, Vladimir Poutine. »": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "McDonalds wendde zich niet tot kannibalisme. Het gaat om een oude hoax uit 2014 en werd in de laatste zeven jaar al meermaals ontkracht.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Non. Le département américain de la Défense ainsi que des pompiers locaux ont démenti la rumeur d'une explosion qui serait intervenue près du Pentagone. Tous les éléments suggèrent qu'il s'agit d'une image générée par une intelligence artificielle.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Keine Belege. Die Polizei dementiert, dass ihr Zeugenhinweise auf einen Transporter vorlägen und bittet darum, keine unbestätigten Fakten in sozialen Medien zu teilen.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Это фейк. В 2017 году в Испании прооперировали новорожденного, весившего 1300 грамм, а в Индии в том же году успешно прооперировали младенца с массой менее 500 грамм": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Фейк. О запрете на трансляцию Олимпийских игр – 2024 в 210 странах не сообщалось.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Die Aussage stammt nicht von Claudia Roth.": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Teils falsch, teils richtig": {
+   "versie": "oordeel-lezer-v1",
+   "label": "goed"
+  },
+  "Das Foto zeigt einen Schriftzug, der 1988 an einem sowjetischen Panzermonument in Schwerin angebracht wurde, um gegen das damalige DDR-Regime zu protestieren. Heute steht der Panzer vermutlich noch in einem Vorgarten in Bad Oldesloe.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "In Kamloops gab es tatsächlich ein Internat für indigene Kinder. Es gibt jedoch keine Beweise dafür, dass Elizabeth und Philip die Schule besucht haben oder mit dem Verschwinden der indigenen Kinder in Verbindung stehen.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "mialeading": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Postagem engana ao sugerir que a projeção da frase \"The world needs Lula\" (o mundo precisa de Lula, em tradução livre) no Chrysler Building, em Nova York, seja atual. Na verdade, a projeção foi feita em outubro de 2022, antes do segundo turno das eleições para presidente no Brasil, por um grupo de ativistas brasileiros, norte-americanos e ingleses.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Er klopt vrij weinig van dit lijstje. Een aantal dingen is simpelweg onwaar, onmogelijk of al eerder ontkracht. Van veel andere voorspellingen is het uiterst onwaarschijnlijk dat ze werkelijkheid worden.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Maybe. Wearing a homemade mask made of fabric may help slow the spread of the virus, but there haven’t been enough studies to know for sure. It’s still important to keep your distance and wash your hands.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Es handelte sich um kein E-Auto. Das bestätigte die Feuerwehr, die Polizei und ein Unternehmen in der Nähe.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Das Video ist echt und zeigt die Aussagen eines Busfahrers aus Thüringen in einem Schulbus. Anders als in dem Video behauptet, stellen luftdurchlässige Alltagsmasken Experten zufolge keine Gefahr für Kinder dar. Die Behauptungen zu Todesfällen von Kindern sind falsch oder unbelegt.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "fout_buur",
+   "noot": "de beweringen over maskers zijn onwaar; deels waar omdat de video echt is"
+  },
+  "Das CO2-Gerät ist nicht für eine Messung dieser Art geeignet, wodurch das Ergebnis verfälscht wird. Das Tragen von Masken ist grundsätzlich unbedenklich. Bei professionellen Masken kann der Partialdruck des Kohlendioxids (pCO2) zwischenzeitlich ansteigen, bei chirurgischen Masken ist das unwahrscheinlich.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Wrong location. The video is of an incident in Kashmir from a year ago": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "The photo provoking this speculation is from 2017.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Lawsuit pending": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "A fair summary": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "صحيح جزئيًا": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Falsch. Der gezeigte Bus ist nicht batteriebetrieben, sondern mit Diesel und Erdgas.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Non, l'ensemencement des nuages n'a rien à voir avec la théorie conspirationniste des « chemtrails », maintes fois démentie. Les opérations de la société Snowy Hydro ne sont en outre que suspendues, dans l'attente d'une évaluation de l'infrastructure et la rentabilité du programme.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Proteins are not only found in meat and dairy products, but also in plant-based diets.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Manipulado": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Only true for men": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "De naam van Baudet invullen op het stembiljet voor de Provinciale Staten zou de stem ongeldig maken. Het gaat hier dan ook niet om echte communicatie van FVD, maar eerder om een grap of vals stemadvies.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Checks out": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "“The association of sweets with femininity has historically led to a stigma against male consumption of sweets”, there is no scientific evidence to prove that they impact masculinity in anyway.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Фейк. Подоходный налог для айтишников ПВТ составлял 9%": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Nee, het poollicht boven België werd niet veroorzaakt door HAARP maar door sterke zonneactiviteit. HAARP is slechts krachtig genoeg om op een heel korte periode op één specifiek punt in de atmosfeer een artificieel poollicht te creëren.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Das Foto von Hitler und Braun ist nicht in der «Vogue» erschienen. Das bestätigte der Verlag. Zudem scheint das Bild bereits vor Jahren manipuliert worden zu sein.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Non, l'opérateur postal Ukrposhta n'a pas produit un timbre en l'honneur de Yaroslav Hunka. L'Ukrposhta l'a confirmé auprès de la Deutsche Presse-Agentur (dpa). De plus, le code-barres présent sur le timbre en question renvoie à un autre produit du service postal.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Die Sendung stammt aus dem Jahr 2007. Daher ist sie nicht mehr online auf ARD-Seiten zu finden.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Das Schreiben ist nach Angaben des Gesundheitsministeriums eine Fälschung. Über Regelungen zur Maskenpflicht entscheiden die Bundesländer.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Wie viele in der Türkei lebende Türken bei deutschen Krankenkassen mitversichert sind, ist aus Sicht der Kassen irrelevant. Denn es wird eine Pauschale pro Familie gezahlt.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "fout_buur",
+   "noot": "de kern van de bewering klopt niet: misleidend, niet deels waar"
+  },
+  "Falsch. Das Video zeigt die Bombardierung von Baghdad vor 20 Jahren.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "fout_buur",
+   "noot": "dpa zegt 'Falsch': onwaar, niet misleidend"
+  },
+  "الحساب انتحالي والفيديو المنشور يعود لمناورة “الركن الشديد” التي انطلقت بنهاية عام 2020، ولا علاقة له بالحرب.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Il n’existe aucune preuve soutenant l’idée que le Forum économique mondial préconiserait l’abattage de milliers d’animaux de compagnie. L’organisation a démenti ces allégations auprès de la dpa. Newspunch tire par ailleurs des conclusions erronées d’un article de CNN.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Gedoneerd bloed van een persoon die tegen COVID-19 is ingeënt, is even veilig voor de ontvanger dan bloed van een persoon die niet gevaccineerd is.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "fout_kant",
+   "noot": "bij 'bloedtransfusies zijn gevaarlijk door de vaccins' zegt dpa dat het bloed even veilig is; gelezen als waar"
+  },
+  "Mostly True – Mostly accurate, but there is a minor error or problem.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Enganoso: A Comissão Nacional de Saúde da China anunciou em um novo protocolo que a cloroquina, em sua forma de fosfato, pode ser usada como droga experimental no tratamento da covid-19 por pacientes entre 18 e 65 anos, no período máximo de sete dias. O órgão, no entanto, reforça que não há nenhum medicamento antiviral com eficiência cientificamente comprovada no combate à doença. A FDA, ao contrário do que afirma a publicação verificada pelo Comprova, não recomenda o uso do medicamento para a doença": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Это фейк. Рустем Умеров выступил перед украинским парламентом 16 сентября, в день своего назначения на пост главы Министерства обороны Украины. В стенограмме его выступления предложения призывать в армию 16-летних нет.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Brigitte Macron is wel degelijk een vrouw, er is geen bewijs voor het tegendeel. De gedeelde fotocollage is evenmin bewijs voor de transfobe complottheorie.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Analysis Is Flawed": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "This is exaggerated.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Das Robert Koch-Institut und weitere Behörden spielten 2012 in einer Risikoanalyse das Szenario einer Pandemie durch. Es handelt sich dabei um eine theoretische Analyse, nicht um eine konkrete Vorhersage. Von der aktuellen Pandemie ist in dem Dokument nicht die Rede.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "old vide": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "The photo being used is actually of an explosion in China's port city of Tianjin in 2015 at a warehouse containing hazardous chemicals.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Bei dem Coronavirus handelt es nicht um ein Grippe-Virus, PCR-positiv Getestete sind infiziert und in den meisten Fällen auch krank und infektiös. Die Wirksamkeit von Masken wurde mittlerweile in mehreren wissenschaftlichen Studien bestätigt.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "This claim is Mostly False.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Uglavnom točno, Potrebno više informacija": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "DW Fact check: Misleading. Mamdani has often been vague about his position on sex work and has not always publicly emphasized his stance — sex work is also not singled out as a topic on his campaign website. When asked, he confirmed being in favor of decriminalizing sex work — but not in favor of legalizing it. In an interview on NBC New York, he said: \"I have never called for the legalization of prostitution. […] My policy is to actually take on sex trafficking, to have a zero tolerance for violence against women and to follow the advice of district attorneys that we have here in New York City […] having said that, prosecuting women for prostitution is something that actually leads to less safety.\" On Fox 5 NY, he said, \"When we look at the findings of whether it be the World Health organization or the United Nations working group on the Safety of Girls and Women, we find that decriminalization is one that actually provides the most safety for sex workers.\" It becomes clear that Mamdani differentiates between decriminalization and legalization. Decriminalization for him seems to mean the removal of criminal penalties for sex work between consenting adults, so no more arrests and prosecutions of sex workers and potentially their clients. Meanwhile, a full legalization and regulation of the industry would mean a much more profound change. It is also important to emphasize that Mamdani's proposal does not seek to increase prostitution and sex trafficking, but the opposite, as he says. His claims are backed by international organizations like the World Health Organization WHO and the United Nations (UN). A UN guidance paper from 2023, for example, confirms his statements and also describes the different forms and levels of decriminalization and legalization and their advantages and disadvantages. The US civil rights organization ACLU reviewed empirical research on the impacts of decriminalization and criminalization in 2020 and confirmed that criminalization \"increases the risk of violence and threatens the safety of sex workers\" while decriminalization \"can lead to greater access to health care and improved health.\" The impact on trafficking remains unclear.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Misses the mark": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Het bericht klopt niet. Dat ivermectine bij coronapatiënten zorgt voor een 96% lagere kans op sterfte is onbewezen. De website waarnaar wordt gelinkt geeft inderdaad twee studies die dit zouden onderschrijven, maar deze zijn onbetrouwbaar. (Inter)nationale wetenschappelijke instanties wachten nader onderzoek af alvorens zij tot een definitieve conclusie over de werking van het medicijn tegen COVID-19 komen. Het is wel waar dat huisartsen die ivermectine voorschrijven in Nederland een hoge boete kunnen krijgen.": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Incompleto": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  },
+  "Hoaks/Penipuan": {
+   "versie": "oordeel-lezer-v2",
+   "label": "goed"
+  }
+ },
+ "oordelen": {
+  "False. The viral tweet has been edited in the name of Shahbaz Sharif which is completely fake.": "goed",
+  "Il s’agit d’une photo grossièrement truquée. Elle a été prise à l’origine en mars 2003 au carnaval de Düsseldorf, en Allemagne. Ce n’est pas du tout la tête de Volodymyr Zelensky qui apparaissait alors dessus, mais bien celle de la future chancelière fédérale Angela Merkel.": "goed",
+  "Die Weltgesundheitsorganisation (WHO) hat den Covid-19-Ausbruch als Pandemie eingestuft. Dafür muss keine bestimmte Mortalitätsrate überschritten werden. Der Vorwurf, die Wirtschaft sei vorsätzlich geschädigt worden, ist nicht belegt.": "goed",
+  "DW Fact check: Unproven While it's unclear whether US intelligence warned Europe about Russia lashing out disproportionately, the video shared by these accounts does not show recent movement of military equipment. The footage was originally published by Russia's Ministry of Defense on the instant messaging service Telegram on February 27, 2024: The intercontinental ballistic missile autonomous mobile launchers seen there were on a 400-kilometer (249-mile) route ahead of a military parade in Moscow, the post reads.": "goed",
+  "De foto is echt, maar dateert van 24 november 2018. Hij werd genomen tijdens een protestactie van de Gele Hesjes in Parijs. Er is nog steeds een pandemie gaande en PCR-tests zijn wel degelijk betrouwbaar en geschikt om een besmetting met het SARS-CoV-2-virus te detecteren.": "goed",
+  "De foto werd in 1991 gemaakt in Moskou. Het heeft dus absoluut niets met Frankrijk of recente demonstraties tegen coronamaatregelen te maken.": "goed",
+  "Eine mRNA-Impfung gegen das Coronavirus kann das menschliche Erbgut nicht verändern.": "goed",
+  "Ces images n’ont rien à voir avec la province d’Hatay, une zone de la Turquie lourdement touchée par les tremblements de terre du 6 février 2023. Elles ont été filmées en Chine, et remontent à novembre 2022 au moins.": "goed",
+  "False: Jobless Filipinos numbered 2.29 million as of January 2019": "goed",
+  "Did not say perfect": "goed",
+  "Diese Schlussfolgerung ist abwegig. Der Verfassungsschutz stuft die Identitären als verfassungsfeindlich ein, gerade weil deren Ansichten nicht mit dem Grundgesetz vereinbar sind.": "goed",
+  "De beweringen zijn fout. De PCR-tests worden nog steeds gebruikt in Zweden en worden als betrouwbaar gezien, zo bevestigde het Zweedse Agentschap voor Volksgezondheid.": "goed",
+  "Il s’agit d’une arnaque. La photo de ces chatons circule sur différents sites, dans divers pays, depuis au moins un an.": "goed",
+  "Der Artikel ist gefälscht und stammt nicht von der «FAZ». Die Aufmachung der Original-Website wurde kopiert.": "goed",
+  "We have not found any evidence that it is true or where the number has actually come from.": "goed",
+  "ไม่จริง ไม่ควรแชร์": "goed",
+  "Local health data shows no such massive increase in infectious diseases, contradicting Vance’s claims.": "goed",
+  "Экономика Литвы продолжила расти после введения санкций против беларусского калия.": "goed",
+  "De video is een compilatie van beelden die regelmatig gedeeld worden in verband met de samenzweringstheorieën rond chemtrails. Geen van deze beelden toont echter iets geheim dat deze theorieën zou bewijzen. Het toont verschillende (openlijk gekende) vliegtuigsystemen en normale foto's van weerfenomenen.": "goed",
+  "It's 37 Percent": "goed",
+  "Das ist falsch. Tatsache ist: Zwar führten die Richterinnen Zweifel an der Verlässlichkeit von PCR-Tests an. Doch lag das nicht in ihrem Kompetenzbereich. Der Oberste Justizrat von Portugal erklärte, mit der Entscheidung habe das nichts zu tun. Durch die Falschmeldungen entsteht der Eindruck, das Gericht habe ein aussagekräftige Entscheidung über PCR-Tests getroffen - die möglicherweise auch für Deutschland Konsequenzen haben könne. Das ist nicht richtig.": "goed",
+  "never forget to cover up with sweaters and jackets, in particular to cover one’s head, ears, neck and chest": "goed",
+  "False - The primary claims of the content are factually inaccurate.": "goed",
+  "Texto com indícios de desinformação.": "goed",
+  "La capture d'écran provient d'un article publié par Politico le 18 mai 2022. Depuis lors, aucun élément ne prouve que la Russie se soit effectivement retirée de l'OMS et de l'OMC. L'invasion russe en Ukraine a poussé certains pays membres de ces deux organisations à imposer des sanctions à la Russie, mais cela n'a jusqu'ici pas eu de conséquences sur l'adhésion de cette dernière aux deux organisations internationales.": "goed",
+  "False: The TSA does not have the authority to implement lockdowns, Dr. Anthony Fauci is retired, and President Joe Biden has not made any statements about impending mask mandates.": "goed",
+  "Nicht belegt. Die Ludwig-Maximilians-Universität (LMU) München versichert auf Anfrage: \"Unseres Wissens hat kein Virologe des LMU-Klinikums sich derart geäußert.\" Entsprechend ist unklar, ob ein Telefonat mit einem Virologen der Universität überhaupt stattfand. Ein Sprecher der LMU bezeichnet die Sprachnachricht als \"Fake News\".": "goed",
+  "Il s’agit d’arnaques, que le service de vérification des faits de la dpa dénonce régulièrement. Les escrocs tentent d’extorquer des données privées et/ou de l’argent aux internautes qui se laissent prendre à leur piège.": "goed",
+  "False: The claim parroted an erroneous headline": "goed",
+  "La vidéo, qui remonte à 2018, a été sortie de son contexte. France 3 avait rejeté à l’époque toute accusation de censure, expliquant que l’intervention de leur journaliste avait dû être interrompue en raison d’un impératif technique – celui de rendre l’antenne pour poursuivre le programme national.": "goed",
+  "DW Faktencheck: Falsch. Die Behauptung, Brasilien sei eine Diktatur, gehört zu den konstanten Narrativen der Anhänger Bolsonaros. Auch bei der jüngsten Massendemonstrationen für eine Amnestie Bolsonaros Anfang August in mehreren brasilianischen Städten, war dies auf Plakaten zu lesen (siehe Foto). Die zahlreichen Demonstrationen belegen das Gegenteil. Denn in einer Diktatur wären die Demonstrationen der Anhänger des Ex-Präsidenten nicht möglich. Auch die politische Arbeit von Volksvertretern ist in Brasilien nicht eingeschränkt. Denn im Gegensatz zu Eduardo Bolsonaro üben seine beiden Brüder Flavio (Mitglied des Senats) und Carlos (Abgeordneter im Stadtparlament von Rio de Janeiro) ihr Mandat in Brasilien aus. Auch die Ergebnisse der Ermittlungen gegen Bolsonaro, darunter auch der Abschlussbericht der brasilianischen Kriminalpolizei, sind öffentlich einsehbar, ein Zeichen für den öffentlichen Zugang zu Information, den es in Diktaturen nicht gibt. Die britische Zeitschrift \"Economist\" zollte Brasilien in seiner jüngsten Ausgabe sogar höchste Anerkennung: \"Brasilien erteilt Amerika eine Lektion in demokratischer Reife\", titelte das Magazin.": "goed",
+  "Treffen verschiedene Arten von Ameisen aufeinander, entspricht es ihrem natürlichen Verhalten, sich feindlich zu begegnen, bestätigten Biologen der Deutschen Presse-Agentur (dpa). Das passiere auch ohne zusätzliches Anstacheln.": "goed",
+  "ENGANOSO: A publicação cita estudos feitos com poucos casos e que não são conclusivos. Especialistas dizem que não há comprovação na literatura médica de que uma vacina possa causar danos neurológicos": "goed",
+  "Edinburgh heeft geen verbod op vlees, dat bevestigt de gemeente aan Deutsche Presse-Agentur (dpa). De gemeente onderschreef het internationale initiatief ‘Plant Based Treaty’. Eén van de peilers daarvan is een overgang naar plantaardig voedsel, maar dit is niet juridisch bindend.": "goed",
+  "Das Bild wurde nicht nach, auch nicht während der Apollo-16-Mondmission aufgenommen, sondern vorher. Es zeigt Astronauten, die für die Reise trainieren. Auf Farbaufnahmen kann man den Unterschied zu Bildern vom Mond deutlich erkennen.": "goed",
+  "omits key details": "goed",
+  "Mayormente verdad": "goed",
+  "De beelden tonen kloven in China, niet de provincie Hatay in Turkije. Er is dan ook geen verband met de recente aardbevingen.": "goed",
+  "Falso - O governador de Pernambuco, Paulo Câmara, anunciou em agosto de 2018 a criação de um programa para pagar uma parcela extra a beneficiários do Bolsa Família. Ideia do governo Jair Bolsonaro foi divulgada em outubro daquele ano. No Estado, serão pagos os dois benefícios.": "goed",
+  "De bewering mist context en is daardoor misleidend. Het is niet bekend hoeveel soldaten er worden ingezet rondom de WEF-bijeenkomst. Het Zwitserse Parlement heeft besloten dat er een maximum van vijfduizend soldaten beschikbaar mag worden gemaakt voor de bijeenkomst. Dat betekent niet dat er ook vijfduizend soldaten zijn ingezet, of dat die allemaal de WEF-bijeenkomst beveiligen.": "goed",
+  "Experten haben längst klargestellt, dass Deutschland keine zusätzliche Gefahr durch Asylsuchende droht. Asylunterkünfte in Hessen hätten für die Ausbreitung der Krätze \"keine große Relevanz\".": "goed",
+  "Enganoso: Apesar do livro estudantil norueguês existir, obra não chama Bolsonaro de genocida por mortes durante pandemia da Covid-19.": "goed",
+  "The World Health Organization says there is no evidence the BCG prevents Covid-19 infection": "goed",
+  "Das Gemälde hängt nicht am Flughafen Denver und wurde nicht im Jahr 1994, sondern im Februar 2020 gemalt. Es bezieht sich tatsächlich auf die Corona-Pandemie. Am Flughafen hängt ein ähnliches Bild des Künstlers Leo Tanguma, welches nichts mit Corona zu tun hat.": "goed",
+  "Falsch. Die Zahlen der Schuldunfähigen und vermindert Schuldfähigen veränderten sich in den letzten 14 Jahre nicht signifikant.": "goed",
+  "False. The video is old and the footage is from Syria, not Gaza.": "goed",
+  "Le gouvernement néerlandais et les agriculteurs s'écharpent depuis 2019 sur un projet de réduction drastique des émissions d'azote, en vertu d'engagements européens. Si le plan gouvernemental concerne bien 3.000 exploitations agricoles et entreprises polluantes, rien ne prouve que Klaus Schwab soit à la manoeuvre, ni que l’objectif de l'exécutif soit de reloger des migrants.": "goed",
+  "De bewering is onwaar. TNO concludeert weldegelijk dat koken op gas gezondheidsrisico’s met zich meebrengt. Bij het verbranden van aardgas komen namelijk ultrafijnstof en schadelijke gassen als stikstofdioxide (NO2), koolstofmonoxide (CO) en methaan vrij, die onder andere kunnen bijdragen aan de ontwikkeling van astma bij kinderen.": "goed",
+  "These comments are misleading as dying after receiving a vaccine doesn’t mean the death was caused by it.": "goed",
+  "Het bericht is fout en gedateerd. Oeganda bleef relatief gespaard, maar niet door het gebruik van hydroxychloroquine. Het geneesmiddel wordt ook al enige tijd niet meer gebruikt als eerste geneesmiddel voor de behandeling van malaria, en het is geen preventief geneesmiddel. In mei 2021 stond het totaal aantal coronadoden in het land op 346.": "goed",
+  "Montaje": "goed",
+  "Falso / Falta contexto": "goed",
+  "Das Bild stammt aus einem Artikel über den US-amerikanischen Arzt Walter Watson aus dem Jahr 2010. Er starb zwei Jahre später im Alter von 102.": "goed",
+  "De video toont een airsoftevent in België waar verschillende internationale teams aanwezig waren. Airsoft is een sport, vergelijkbaar met paintball, waarbij tegenstanders het tegen elkaar opnemen met valse wapens. Naast de Afghaanse mannen waren bijvoorbeeld ook een Duits en Nederlands team aanwezig.": "goed",
+  "Die Zahlen beziehen sich auf eine Studie, in der es nicht um das gesamte Eis in der Antarktis geht, sondern nur um das Schelfeis. Laut einer der Studienautorinnen liefert die Studie lediglich «eine kleine Momentaufnahme» und trifft keine Schlussfolgerungen über den Klimawandel. Insgesamt gingen in der Antarktis in den letzten Jahren mehrere tausend Gigatonnen an Festlandeis verloren.": "goed",
+  "Misleading. The video of the bullock cart race held in Karnataka on 5 March went viral as a public meeting of Rahul Gandhi at Maharashtra.": "goed",
+  "Non. A aucun moment lors de son intervention à l'AIM for Climate, John Kerry n'a évoqué la possibilité de saisir des exploitations agricoles pour lutter contre la crise climatique. Cette allégation, fabriquée de toutes pièces, provient d'un site web bien connu pour divulguer de fausses informations.": "goed",
+  "FALSE: No such declaration was made by Ratan Tata": "goed",
+  "FALSE : IDBI Bank Manager was attacked by Congress workers and not Shiv Sena workers": "goed",
+  "Die Website verkündet keinerlei Neuigkeiten über Cowell. Stattdessen verwendet sie ein manipuliertes Foto. Zuletzt wurde auf ähnlichen Fake-Seiten über den erfundenen Tod weiterer Prominenter berichtet.": "goed",
+  "Il n’y a pas de lien établi entre un risque accru de caillots sanguins et la consommation d’œufs. Ce n'est pas non plus ce qu'affirment les scientifiques cités. Dans l’étude, il est question d’un risque en lien avec la consommation d’un complément alimentaire appelé choline (une substance également présente dans les œufs).": "goed",
+  "В открытых источниках нет информации о причастности Валерия Залужного к коррупции": "goed",
+  "Die Illustration zeigt eine Augenbehandlung im alten Ägypten und keine Strafe für Sklaven.": "goed",
+  "Flase": "goed",
+  "In March 2020, the chief medical officer did suggest this was a risk. However a report from the government's behavioural science advisers suggests they thought people would accept restrictions.": "goed",
+  "خبرگزاری میزان با انتشار تصویری از فرهاد میثمی در درون زندان مدعی شده که این زندانی سیاسی، در اعتصاب غذا نیست. این اتفاق پس از آن رخ داد که عکس‌هایی از آقای میثمی در زندان رجایی‌شهر منتشر شد که نشان‌دهنده کاهش وزن شدید او بود و واکنش‌های زیادی را برانگیخت. فرهاد میثمی زندانی سیاسی که به اتهام مخالفت با حجاب اجباری در زندان به سر می‌برد از ۱۰ مهرماه ۱۴۰۱ و در اعتراض به آزار کلانِ ملّی و سرکوب و کشتارهای متعاقب آن اقدام به کنشی سه گانه کرد. این اقدامات به گفته خود او شامل اجتناب از صرفِ غذای جامد؛ و فقط مصرفِ مایعات غیرِمُغَذّی (نظیر آب، چای یا قهوه)، تولید متن در قالبِ ترجمه‌ و راه‌پیمودن‌های طولانیِ هر‌روزه خواهد بود. میثمی در دی‌ماه بر ادامه مسیر خود تاکید کرد و خواستار توقف اعدام‌ها و آزادی فوری چند زندانی سیاسی شد.": "goed",
+  "Das im Beitrag verwendete Bild eines Tunnels hat einen ganz anderen Ursprung. Es entstand 2018 in Thailand. Die Geschichte der vermeintlich in Washington unter dem Kapitol geretteten Kinder ist eine haltlose Verschwörungserzählung.": "goed",
+  "Merz bestreitet, dass er solch einen Satz je gesagt hat. Merz hatte 2008 eine umstrittene Sozialstudie über Hartz-IV-Sätze gelobt. Die Verfasser hatten damals berechnet, dass im Raum Chemnitz 132 Euro im Monat als soziale Mindestsicherung ohne Wohnkosten für einen gesunden Mann reichen könnten. In der Studie fordern die Wissenschaftler nirgends, 132 Euro zum Regelsatz zu machen.": "goed",
+  "Cita falsa": "goed",
+  "Das Zitat stammt nicht von Angela Merkel.": "goed",
+  "ie «Bild» titelte damals tatsächlich so, die Temperaturprognose trat dann aber nicht ein. Die heißesten Sommer in Deutschland gab es vor allem nach 1992.": "goed",
+  "لا صحة للأنباء التي أشارت إلى ارتقاء شهداء في صفوف الجرحى الذي نقلوا اليوم للجانب المصري لاستكمال العلاج، والسلطات المصرية لم تشترط عليهم إحضار جوازات السفر، وفق ما أكده لـ”تحقق” مدير الإعلام في معبر رفح وائل أبو محسن.": "goed",
+  "Altered Image": "goed",
+  "Ziekenhuizen in Duitsland moeten hun werknemers coronatesten ter beschikking stellen en die ook financieren. Het Duits ministerie van Volksgezondheid heeft ook geen plannen om die regel te veranderen.": "goed",
+  "Die mRNA-Impfung stellt der Zelle einen Bauplan für ein Virusteil zur Verfügung. Auf dieses bildet sie dann Antikörper, die dann vor dem eigentlichen Krankheitserreger schützen. Das nachgebaute Teilchen befindet sich dabei zwar in der Zelle, aber nicht im Zellkern, wo unsere DNA liegt. Daher wird die Erbinformation durch eine Impfung nicht verändert.": "goed",
+  "The video is presented in a wrong context. The video was originally posted by Donald Trump's Deputy Director of Communications Margo Martin. According to her, it shows Donald Trump arriving in Des Moines. This happened ahead of the Iowa Republican presidential caucuses.": "goed",
+  "Netočno, Manipulacija činjenicama": "goed",
+  "Er bestaat nog geen wetenschappelijke consensus over de eenduidige link tussen het binnen krijgen van asbest en darmkanker; die wordt nog onderzocht. Chitine heeft alvast niets met darmkanker te maken; de stof is veilig voor menselijke consumptie.": "goed",
+  "False. Adolescents 14 years and older still need parental consent to change their gender entry.": "goed",
+  "De bewering klopt niet. De redenering waarop deze is gebaseerd, snijdt geen hout. De minister van Volksgezondheid, Welzijn en Sport was en is bevoegd om maatregelen tegen COVID-19 te nemen. De minister voor Medische Zorg, die onder hetzelfde ministerie valt, kan ook van die bevoegdheden gebruik maken. Het gehele stuk van NineforNews is gebaseerd op één persoon, en die blijkt er ook nog eens behoorlijk naast te zitten. Je zou daarom kunnen stellen dat er context mist of dat het artikel misleidend is, met de kanttekening dat de beweringen van De Haan in geen enkele context zouden kloppen.": "goed",
+  "Falsch. Das Foto wurde mit der KI-Software Midjourney erstellt.": "goed",
+  "Die Szene zeigt Papst Franziskus bei seinem Israelbesuch 2014 in der Holocaust-Gedenkstätte Yad Vashem. Er hat dort sechs Überlebenden der NS-Zeit die Hand geküsst. Falsch ist, dass es sich auf dem Bild um Mitglieder der vermögenden Rockefeller-Familie handelt.": "goed",
+  "Deutsche Medien haben über die Kältewelle in Australien berichtet.": "goed",
+  "Einige Angaben zur Quelle sind falsch, es handelt sich um eine Einschätzung eines Arztes im Tel Aviv Sourasky Medical Center. Im ganzen Land stellen Menschen mit vollständigem Immunschutz die Minderheit an Hospitalisierungen. Generell spricht ein großer Anteil geimpfter Patienten bei einer hohen Impfquote nicht gegen die Effektivität der Impfung. Diese ist durch Daten aus Israel klar belegbar.": "goed",
+  "So hoch war die Zustimmung zur AfD in Thüringen noch nie in einer seriösen Wahlumfrage. Die jüngsten Umfrageergebnisse zur Sonntagsfrage sehen die Partei bei rund 30 Prozent. Die 41 Prozent stammen aus einer Umfrage mit einer anderen Fragestellung.": "goed",
+  "The clipping in question was used off its true context, thus we rated the claim as wrong.": "goed",
+  "Die Behauptungen stammen von einer humoristischen Website, auf der User beliebige Texte verfassen können - es sind also erfundene Behauptungen.": "goed",
+  "Die Studien belegen keinen Anstieg der Sterblichkeitsrate. Die angegebenen Werte sind niedriger als die Sterblichkeitsraten im Bevölkerungsdurchschnitt der USA und Kanadas.": "goed",
+  "et bericht is onjuist. Officier Nadine Franken is niet verwant aan één van de verdachten, zo laat het Openbaar Ministerie (OM) Midden-Nederland via Twitter weten. Ook behandelt ze deze zaak niet.": "goed",
+  "අසත්‍යයි": "goed",
+  "Spin": "goed",
+  "Cherry Picks": "goed",
+  "Twee van de zeven foto’s, met de skeletten in monnikskleed, zijn gemaakt in de crypte van de Kapucijnen. Dat is niet in Vaticaanstad, maar wel in Rome. De andere vijf, met muren en plafonds bedekt met schedels en botten, zijn van verschillende kapellen in Portugal.": "goed",
+  "Das Video zeigt Explosionen in der ukrainischen Hafenstadt Sewastopol, die von Russland besetzt ist. Die ukrainische Armee hatte die Stadt auf der Krim im März 2024 angegriffen. Das Video hat nichts mit den Spannungen zwischen Israel und Iran zu tun.": "goed",
+  "False. अरुण गोविल ने ऐसा नहीं कहा कि चुनाव जीतने के बाद मेरठ नहीं आएंगे। अरुण गोविल का क्लिपड वीडियो फर्जी दावे के साथ शेयर किया जा रहा है। उन्हों स्पष्ट तौर पर कहा है कि चुनाव जीतने के बाद वो मेरठ की जनता के बीच रहेंगे।": "goed",
+  "Der Verfassungsgerichtshof hat zwar mehrere Covid-19-Maßnahmen, die im Frühjahr 2020 gegolten hatten, im Nachhinein als gesetzwidrig eingestuft. Auf die jetzige Verordnung haben diese Entscheidungen aber keinen Einfluss.": "goed",
+  "Es gibt keine Beweise dafür, dass Nicole Schwab so etwas gesagt hat. Die Seite, die das Gerücht verbreitet, ist eine Seite voller Falschbehauptungen.": "goed",
+  "Le communiqué attribué à la Fecafoot est un faux": "goed",
+  "Le reportage en question date de décembre 2020 et concerne un candidat-vaccin contre le Covid-19 qui n’a finalement pas été distribué au grand public. Celui-ci faisait l’objet d’une étude clinique en Australie, abandonnée après des tests faussement positifs au VIH chez quelque 200 participants. Ceux-ci n’ont pas réellement contracté le VIH à cause de leur vaccination, et les 50 millions de doses évoquées n’ont pas été rappelées du marché, puisque ce vaccin n’a jamais été commercialisé.": "goed",
+  "Based on the figures, a \"disproportionate\" number would imply more than 3,150 people earning more than £150,000 worked in the public sector. But we cannot find a breakdown of how many top earners work in the public or private sector.": "goed",
+  "Indéterminé": "goed",
+  "DW Fact check: Misleading The video is old and unrelated to the current developments in Irkutsk. A reverse image search reveals that the video was initially posted on August 31 this year, claiming that it showed the Russian republic of Kabardino-Balkaria, a tourist destination around 6,000 kilometers (3,700 miiles)from Irkutsk.": "goed",
+  "Der offene Brief enthält Falschinformationen. So wurden etwa Studien falsch zitiert und Zahlen frei erfunden. Mehrere Informationen sind zudem unvollständig wiedergegeben.": "goed",
+  "De kredietkaart, die ondertussen niet meer bestaat, was een initiatief van Mastercard en een Zweeds fintechbedrijf en geen initiatief van de VN.": "goed",
+  "Nee, de beelden werden gemaakt met artificiële intelligentie. Het klopt wel dat er aanvallen plaatsvonden in de buurt van de luchthaven, maar niet zoals afgebeeld.": "goed",
+  "Vorsicht vor dieser Fälschung: Das Video hat nicht Fox News publiziert. Das bestätigte ein Sprecher gegenüber der Deutschen Presse-Agentur. Außerdem scheint das Video manipuliert zu sein, denn das verwendete Bildmaterial ist nicht aktuell.": "goed",
+  "False. There is US is no free visa for Ghanaians without criminal records with stay of no more than 30 days.": "goed",
+  "Les propos d'Albert Bourla ont été déformés. Le PDG de Pfizer ne s’est pas plaint d'une telle situation. Il a répondu à une question de son interlocuteur, en énumérant différentes problématiques liées à l’utilisation du vaccin. Dans ce cadre, il ne s’est pas référé à des « gens pas éduqués aux vaccins ».": "goed",
+  "Speculative at best": "goed",
+  "False. USAID says it has never sent an investigation team to Axum.": "goed",
+  "Es handelt sich nicht um ein Gewinnspiel von Lidl. Niemand, der dort mitmacht, kann einen E-Scooter gewinnen.": "goed",
+  "La FAA a effectué un léger changement de catégorisation pour un seul type d’arythmie cardiaque légère, sur la recommandation de cardiologues. Ces modifications ont été annoncées publiquement ; il n’y a donc rien de secret ou de dissimulé. En outre, il n’existe aucune preuve que ce changement soit lié à des problèmes de santé des pilotes de la FAA, ni que la vaccination anti-Covid ait eu un quelconque effet indésirable sur ces derniers.": "goed",
+  "False. ये एक स्क्रिप्टेड वीडियो है। अपनी बहन से प्यार और शादी करने की बात कर रहे शख्स का वीडियो असली नहीं है। वीडियो वास्तविक घटना के रूप में गलत तरीके से साझा किया जा रहा है।": "goed",
+  "Currently available evidence is not comprehensive and we need further research before advocating the use of coconut oil as a dietary intervention. Coconut oil cannot cure Alzheimer’s, heart diseases.": "goed",
+  "Во время охоты на ведьм в США расстреляли двух человек, в СССР в эпоху сталинских репрессий — 640 тысяч человек.": "goed",
+  "Это фейк. США разрешили одному из своих банков провести платежи за экспорт сельскохозяйственной продукции из России": "goed",
+  "Study Is Flawed": "goed",
+  "L'internaute, qui a posté ce tableau, s’appuie sur une base de données européenne. Mais tous les chiffres repris sont sortis de leur contexte. La base de données en question montre, en fait, des signalements d'effets indésirables susceptibles d'être liés à une prise de médicaments. Aucun lien concret et explicite n'est fait entre les décès rapportés et les différents vaccins qui ont été approuvés par l’Agence européenne des médicaments (EMA).": "goed",
+  "Ryan Allowed Them": "goed",
+  "De aflevering in kwestie gaat niet over energiewapens en wordt onterecht gelinkt aan de branden op Hawaï. De verwoesting van de Simpsons-stad Springfield wordt in de aflevering veroorzaakt door een zonnestraal die weerkaatst op een standbeeld.": "goed",
+  "Nee, de foto toont een Thais kind dat Halloween viert in een winkelcentrum in Thailand. De foto verscheen al in oktober 2022, dus voor het huidige conflict in Israël en de Palestijnse gebieden, op een Thaise website en een Facebookaccount.": "goed",
+  "В 2019 году показатели Беларуси в сфере туризма были лучше, чем в 2023-м.": "goed",
+  "The clip has been taken out of context from a longer video, filmed in August 2019. Twitter has flagged the clip on the grounds that it has been edited out of context.": "goed",
+  "Bei dem Bild handelt es sich um eine Fälschung. Das Bild des Kindes wurde in ein anderes Foto montiert.": "goed",
+  "DW fact check: Fake. This video is AI-generated, evident when looking closely at several details.": "goed",
+  "wahrscheinlich falsch": "goed",
+  "DW-Faktencheck: Falsch Trumps Behauptung kursierte bereits vor dem Staatsbesuch von Ramaphosa in den USA in den Sozialen Medien. So erklärte ein User auf X bereits am 12. Mai, dass jedes Kreuz für einen ermordeten weißen Farmer in Südafrika stehe. Der Video Postwurde knapp 55 Millionen Mal angeklickt (Stand 22.Mai). Eine Bilderrückwärtssuche zeigt, dass das von Trump verwendete Filmmaterial mit den weißen Kreuzen am Straßenrand bereits 2020und 2023in den Sozialen Medien kursierte. Es handelt sich dabei nicht, wie von Trump behauptet, um die Grabstätten von mehr als tausend ermordeten Farmern. Die Szenen zeigen stattdessen eine Protestaktion nahe der südafrikanischen Stadt Newcastle am 5. September Jahr 2020. Der Protest wurde durch die Ermordung des Ehepaars Glen und Vida Rafferty auf ihrer Farm im August 2020 ausgelöst.": "goed",
+  "Die Covid-Impfungen sind effektiv, auch die von Kickl verwendeten Daten zeigen das. In Österreich liegen zu einem sehr großen Teil Ungeimpfte auf Intensivstationen. Wie groß der Anteil Geimpfter an Testungen ist, kann derzeit nicht genau gesagt werden. Allerdings machen freiwillige Testungen in Teststraßen nur einen kleinen Teil der erfassten Fälle aus. Krankenhäuser erfassen Covid-Intensivpatienten unterschiedlich. Tatsächlich können auch zum Beispiel Unfallpatienten in die Covid-Statistik einfließen, dies ist laut kontaktierten Spitälern allerdings nur selten der Fall.": "goed",
+  "Es gibt keinen Beleg dafür, dass dieses angebliche Zitat tatsächlich von Helmut Schmidt stammt.": "goed",
+  "Video ist aus Kontext gerissen und stammt aus einem \"Welt\"-Interview 2019.": "goed",
+  "Это фейк. Первое место занимает африканское государство Лесото — 72 человека на 100 тысяч населения.": "goed",
+  "These posts are scaremongering. We can't find any evidence of people trying to use the tactics in the post below to abduct children. Likewise, there's no evidence that wearing masks somehow increases the risks.": "goed",
+  "In de video is de methode van gecontroleerd branden ('prescribed burning') te zien. Dat is een aloude manier om grotere bosbranden juist te voorkomen. Door met gecontroleerde branden een gebied in te grenzen of brandbaar materiaal al te verbranden, kunnen oncontroleerbare natuurbranden zich minder snel en makkelijk verspreiden.": "goed",
+  "DW Faktencheck: Fake.Das Video ist nicht echt, sondern KI-generiert. Die dargestellten Personen wirken stark emotional: Einige umarmen sich, andere weinen oder schreien, manche stehen still. Beim genaueren Hinsehen fallen mehrere Unstimmigkeiten auf, die typisch für KI-generierte Videos sind. So flackert und verschwindet der Zeigefinger eines Mannes, der mit erhobener Hand schreit. Die Hand eines anderen Mannes wirkt deformiert. Außerdem erscheint der Schmuck mehrerer Personen fragmentiert und unvollständig. Ein anderer auffälliger Fehler im Bild: Ein Strommast im Hintergrund scheint direkt mit den Balkonen des Hauses verbunden zu sein – eine unrealistische Darstellung.": "goed",
+  "Gall stones and kidney stones cannot be cured once formed. The ingredients carrot, bay leaf, honey and sweet orange have nutritional properties. This claim is False. but they cannot cure gall stones and kidney stones": "goed",
+  "В европейских странах предусмотрена поддержка матерей, во многих из них выплачивают пособие на детей до 18-19 лет.": "goed",
+  "Olena Zelenska kocht helemaal geen Bugatti Tourbillon, dat bevestigt Bugatti Parijs. Het nepnieuws werd gegenereerd met AI en verspreidde zich zo over de hele wereld.": "goed",
+  "Tedros erhielt seine erste Corona-Impfung am 12. Mai 2021. Im Interview erklärte der WHO-Generaldirektor, dass er damit eine Weile gewartet habe, um gegen die ungerechte Verteilung von Impfstoffen auf der ganzen Welt zu protestieren.": "goed",
+  "Это фейк, Владимир Путин признал, что в этом преступлении виноват Сталин. За эти годы по «катынскому делу» были рассекречены около четырех млн документов, а польской стороне передан 1 млн листов. Так что вопрос о том, кто стоял за этим убийством, был давно закрыт.": "goed",
+  "Falso / Engañoso": "goed",
+  "In de video zijn mamattuswolken te zien. Dit is een natuurlijk fenomeen dat vaker voorkomt en meestal een voorbode is voor een flinke storm of onweersbui. Er is geen bewijs dat de wolken in de video ontstonden door geoengineering.": "goed",
+  "Plusieurs éléments suggèrent que l'enregistrement a été mis au point à l'aide d'une intelligence artificielle. De plus, un proche d'Alexeï Navalny a affirmé auprès d'une télévision russe indépendante qu'il s'agissait d'un faux clip audio. Celui-ci semble également avoir émergé de chaînes de propagande pro-russes actives dans le domaine de la désinformation.": "goed",
+  "The user's claim is false.": "goed",
+  "C’est faux. Les enfants sont moins gravement touchés que les adultes par le Covid-19. Mais ils peuvent être porteurs du coronavirus et vecteurs de transmission de la maladie, donc contaminants.": "goed",
+  "Nee, Europa heeft weliswaar te maken met een oversterfte, maar die bedraagt volgens de meest recente cijfers (oktober 2023) slechts 3,9 procent. Waarschijnlijk liggen de cijfers voor december 2023 hoger, maar dat moet nog blijken. In Duitsland waren er geen vijf weken waarin net zoveel doden vielen als in de hele Vietnamoorlog.": "goed",
+  "Double count": "goed",
+  "É enganoso o vídeo do candidato a deputado federal por Goiás Gustavo Gayer (PL), que afirma que quem reclamar das urnas na hora da votação será preso em flagrante. A verificação concluiu que não é bem assim. O postulante usa como argumento uma reportagem, em que o presidente do Tribunal Regional Eleitoral do Rio de Janeiro, desembargador Elton Leme, afirma que quem causar tumulto no dia da eleição será preso. Como exemplo, o desembargador cita as pessoas que alegarem que, ao apertar uma tecla, a urna mostrou outro candidato. No entanto, o TRE-RJ esclarece que isso não significa que quem reclamar da urna será preso. A prisão ocorrerá apenas se a pessoa insistir em um problema que for comprovado que não existe. Caso o problema exista, ele será corrigido e a pessoa não será presa, segundo o tribunal. Especialista também lembra que a lei que penaliza tumulto no dia da eleição existe desde 1965.": "goed",
+  "В марте 2023 года в разговоре с корреспондентом телеканала «Россия-1» Путин признал, что Запад пересек красные линии, когда начал поставлять Украине тяжёлое вооружение.": "goed",
+  "Nee, de Wereldbank heeft geen verdrag getekend met landen om de landbouw af te schaffen. Integendeel, in een recent rapport pleit de Wereldbank juist voor meer investeringen om de landbouw duurzamer te maken, om uiteindelijk de broeikasgasuitstoot van de sector te reduceren tot nul.": "goed",
+  "La vidéo montre une zone située à une dizaine de kilomètres du festival de musique. Les Forces de défense israéliennes ont publié ces images le 9 octobre 2023. Plusieurs indices permettent d'affirmer que les cibles visibles sur les images sont très probablement des terroristes du Hamas.": "goed",
+  "Fals": "goed",
+  "Фейк. Все решения относительно ЦИК в Беларуси принимает президент": "goed",
+  "ข่าวปลอม": "goed",
+  "Die Hunde werden nicht eingeschläfert, die Behauptung ist falsch.": "goed",
+  "De data van de zorgverzekeraar BKK Provita ondersteunen de uitspraak van Schöfbeck niet. De analyse en conclusie zijn vertekenend. Er werd immers geen onderscheid wordt gemaakt tussen voorbijgaande symptomen na vaccinatie zoals hoofdpijn en vermoeidheid enerzijds en ernstige, aanhoudende nevenwerkingen anderzijds. Artsen in Duitsland zijn niet verplicht om die eerste soort te melden onder de Duitse Infectiewet. De data van BKK Provita verschilt van de data die het PEI gebruikt in de officiële cijfers en vertekenen dus de conclusie. Er is ook weinig bekend over de gebruikte methodologie en evaluatiemethode.": "goed",
+  "Nein, denn der zu uns gewehte Staub aus der Sahara kann durchaus magnetisch sein. Das liegt an seiner Zusammensetzung.": "goed",
+  "Une telle déclaration par le Premier ministre italien Giuseppe Conte n'existe pas sur le site du gouvernment italien. De plus, la photo en arrière-plan de la citation représente Jair Bolsonaro, président du Brésil.": "goed",
+  "De beweringen zijn onjuist. De conclusie over de miskramen wordt getrokken op basis van een verkeerde interpretatie van cijfers uit de Britse database voor vermeende bijwerkingen. Er wordt geen rekening gehouden met het feit dat er steeds meer vruchtbare vrouwen onder de gevaccineerden zijn en dat miskramen helaas een veelvoorkomende gebeurtenis zijn, ook buiten een pandemie of vaccinatiecampagne. De meldingen van miskramen betekenen tevens niet gelijk dat deze werden veroorzaakt door coronavaccins.": "goed",
+  "Это фейк. Из европейских стран китайцы едут в Великобританию": "goed",
+  "Die Betreiberfirma einer Kantine von Monsanto entschied im Jahr 1999, auf gentechnisch veränderte Lebensmittel zu verzichten. Sie gehörte nicht zu Monsanto und handelte eigenständig. Zudem war lediglich eine Monsanto-Mitarbeiterkantine betroffen. Im Jahr 2018 übernahm Bayer den Agrarchemiekonzern Monsanto - diesen gibt es seitdem nicht mehr.": "goed",
+  "In Deutschland gilt für alle dasselbe Rentenalter, auch für Geflüchtete aus der Ukraine. Sie sind im Vergleich zu deutschen Versicherten nicht bessergestellt.": "goed",
+  "Fasting is not a one-size-fits-all solution, contrary to what social media may claim. While intermittent fasting and calorie restriction have shown some health benefits, such as improved insulin sensitivity and reduced inflammation, there is no conclusive evidence to support the claim that fasting can cure cancer.": "goed",
+  "Non, l'Australie n'a décrété aucun rationnement alimentaire. Aux prises avec une épidémie de grippe aviaire, le pays fait face à une légère perturbation de l'approvisionnement en oeufs, mais pas à une pénurie.": "goed",
+  "Het pak gehakt is een grap van de website Obvious Plant en is niet echt.": "goed",
+  "الفيديو مشهد تمثيلي من فيلم “المتسللون” للمخرج الفلسطيني خالد جرار، يجسد فيه تهريب كعك القدس إلى الضفة الغربية عبر جدار الفصل العنصري، في إشارة إلى المعاناة الفلسطينية بفعل الجدار والحواجز العسكرية الإسرائيلية في الضفة الغربية والقدس.": "goed",
+  "التصريح \"غير صحيح\"، حيث إن نصيب الفرد العراقي من الإنفاق الصحي يبلغ أكثر من 200 دولار خلال 2020، و239 دولارًا في 2019، كما أن بعض البلدان الفقيرة وغير النفطية في المنطقة مثل السودان واليمن وسوريا ومصر تراوحت بين 23 و150 دولارًا للفرد، أما الدول الخليجية ففقط قطر والإمارات تجاوزت حصة الفرد فيها 2000 دولار، كما أن حصة الفرد في الولايات المتحدة تبلغ 12.5 ألف دولارًا": "goed",
+  "Misleading and partly false: Benzene is recognised as being carcinogenic, which means it does have the potential to cause certain cancers. However, benzene is not a standard ingredient in sunscreen lotions. A 2021 study did detect benzene in a number of products, including sunscreen – but these were contaminants, meaning they were not intended ingredients but there by mistake, and affected products were voluntarily recalled.": "goed",
+  "FALSO: Casa Civil nega que a voz em um áudio atribuído ao general Walter Souza Braga Netto seja dele. O Comprova também encontrou uma postagem de um homem que reivindica a autoria da gravação e fez comparações entre a voz do ministro e a que se escuta no áudio que viralizou nas redes sociais": "goed",
+  "De stellingen zijn fout. Het Nederlands Huisartsen Genootschap (NHG) heeft zijn eerdere negatieve advies niet bijgesteld: HCQ, al dan niet in combinatie met andere middelen, wordt afgeraden voor therapie tegen het nieuwe coronavirus buiten het ziekenhuis. Er wordt zelfs voor thuistherapie gewaarschuwd wegens het risico op ernstige bijwerkingen. Voor de werkzaamheid van de combinatietherapie is geen enkel bewijs. Huisartsen mogen wel HCQ voorschrijven tegen malaria, maar dat was altijd al zo.": "goed",
+  "Europe did give money": "goed",
+  "Das ist eine sinnentstellende Zuspitzung, die nicht der Tatsache entspricht. Altmaier formulierte vielmehr das Anliegen der Bundesregierung, «dass wir alles tun, dass kein Arbeitsplatz (...) verloren geht».": "goed",
+  "e tweet attribué à CNN est un faux. La photo utilisée montre bien un hôtel abandonné en Serbie, mais celle-ci n’a pas été diffusée par la chaîne américaine pour illustrer la guerre en Ukraine.": "goed",
+  "Tom Hanks lebt. Seine Hinrichtung ist ebenso erfunden wie die Behauptungen über seine angeblichen Verbrechen.": "goed",
+  "Non, cette vidéo de Keir Starmer expulsé d'un pub date d'avril 2021. A cette période, l'homme politique n'avait pas encore été élu au poste de Premier ministre.": "goed",
+  "Aucun virus de ce type ne circule actuellement. CNN, contactée par l’agence dpa, dément tout reportage sur le sujet.": "goed",
+  "False. Strict rules have also been set up for ticket sales to prevent fraud. Tickets should be bought only on the official UEFA website.": "goed",
+  "Es ist ein altes Video vom Dezember 2021. Der israelische Premierminister war damals auf dem Weg zu einer Abstimmung im Parlament. Die Bilder haben nichts mit dem jüngsten Angriff Irans zu tun.": "goed",
+  "Das Zitat stammt nicht von Voltaire, sondern von einem US-amerikanischen Neonazi.": "goed",
+  "HOAKS dari fabricated content": "goed",
+  "False. While studies show the chances of dying from Covid-19 are higher in those who are obese and over 65, it is not correct to say the virus poses no risk to people who are not in these categories.": "goed",
+  "Die Studie trifft keine generelle Aussage zu Lockdowns. Sie hat nur festgestellt, dass in der ersten Corona-Welle politisch verordnete Maßnahmen kaum mehr Tote verhindert haben als Länder, in denen freiwillig das soziale Verhalten in der Gesellschaft angepasst worden ist. An der Studie und den Autoren wird Kritik geübt.": "goed",
+  "Il n'existe aucune preuve que Taylor Swift aurait perdu cette somme à la suite de l'annonce de son soutien à Kamala Harris. A l'origine, cette assertion a été diffusée par un site satirique.": "goed",
+  "Er is geen enkele aanwijzing dat Thailand van plan is om het contract met Pfizer te annuleren. Dit werd door het departement voor Ziektebestrijding op Facebook bevestigd. prinses Bajrakitiyabha ligt volgens haar artsen in coma ten gevolge van een infectie, veroorzaakt door mycoplasma.": "goed",
+  "Not true": "goed",
+  "ENGANOSO: Ao contrário do que sugere a postagem, o Instituto Butantan comunicou a Anvisa sobre o chamado “evento adverso grave” envolvendo um dos voluntários. A notificação foi enviada no dia 6 de novembro, dentro do prazo de uma semana estabelecido pela agência": "goed",
+  "De vaccins tegen het coronavirus zijn niet experimenteel. Hoewel ze geen volledig sluitende bescherming bieden, zijn de vaccins een belangrijk instrument in het beperken van de verspreiding van COVID-19. Ten slotte is het onmogelijk en zinloos om COVID-19 en de griep op basis van hun IFR te vergelijken.": "goed",
+  "Unfounded": "goed",
+  "Das Bild wird in einem falschen Kontext verbreitet. Es zeigt ein Feuer in einem Erdöllager in Dschidda (Saudi-Arabien) im März 2022. Hintergrund war ein Angriff durch die Huthi-Rebellen.": "goed",
+  "Er is geen verband tussen het coronavirus en de straling van mobiele netwerken. Wuhan is ook maar één van vele Chinse steden waar het 5G-netwerk is uitgerold.": "goed",
+  "Het klopt dat de sketch nooit meer heruitgezonden is, maar er is geen enkel bewijs dat deze formeel verboden of gecensureerd zou zijn. Dat er geen verbod is, blijkt uit het feit dat de sketch is opgenomen in de extra's van een compilatie-DVD uit 2006.": "goed",
+  "Fabricated": "goed",
+  "It's unclear where Ms Robinson gets the 75% figure from, but it may have selectively been chosen from the rate of mild side-effects reported in one age group in an earlier phase of the trial. Full data about side-effects has not yet been published for the most recent phase of the trial, but Pfizer has confirmed they observed no serious side-effects.": "goed",
+  "در شبکه‌های اجتماعی به تناقض گزارش‌های رسمی درباره تعداد مهاجمان و حتی تعداد جان‌باختگان اشاره شده است. ممکن است دلیل تناقض‌ها، شلختگی اطلاع‌رسانی در شرایط بحرانی باشد. برخی ادعاها هم درباره هویت فرد مهاجم مطرح شده است، به جز نام و تصویری که منابع رسانه‌ای در داخل ایران منتشر کرده‌اند، تاکنون گزارش قابل استنادی درباره هویت و سابقه او ارائه نشده است.": "goed",
+  "L’initiative du « Grand rattrapage » est réelle, mais ne prévoit pas de vacciner les enfants de force. Elle vise à rattraper le retard, causé par la pandémie de Covid-19, dans la vaccination des enfants à travers le monde pour d’autres maladies, comme la rougeole et la diphtérie. Quant à Chelsea Clinton, rien ne prouve qu’elle ait tenu de tels propos. Toutes ces affirmations ont été formulées par un blog spécialisé dans la désinformation.": "goed",
+  "Nur wenn es sich um eine Qualifizierungsmaßnahme handelt und für einen konkreten Job die Notwendigkeit besteht, können die Kosten für einen Führerschein vom Jobcenter oder von der Agentur für Arbeit übernommen werden. Das gilt auch für Deutsche.": "goed",
+  "Kulang sa Konteksto": "goed",
+  "Seit April wurden dem RKI Zehntausende Covid-19-Fälle gemeldet. Die im Post genannten Zahlen stammen aus dem Influenza-Bericht des Instituts und zeigen Viren-Nachweise aus einem Grippe-Meldesystem. Diese machen aber nur einen kleinen Teil der Corona-Nachweise aus. Den überwiegenden Anteil melden die Gesundheitsämter.": "goed",
+  "Mehrere Länder auf der Liste stimmten sowohl für den Vorschlag der EU-Kommission zur Reform des europäischen Asylsystems als auch für den UN-Migrationspakt. Einige Länder waren auch dagegen, auch solche, die nicht auf der Liste stehen. Es gibt also keinen Zusammenhang zwischen den Ländern, gegen die Deutschland gebietsweise eine Reisewarnung verhängt hat und deren Haltung zur Asyl- und Migrationspolitik. Ob Deutschland eine Reisewarnung verhängt, hängt mit der jeweiligen Corona-Situation in dem betroffenen Gebiet zusammen.": "goed",
+  "زائف جزئيًا": "goed",
+  "É falsa a imagem divulgada pelo aplicativo de mensagens Whatsapp. Não é verdade que o POPULAR tenha publicado notícia com o título \"Delegado Waldir abandona candidatura ao senado e ameaça deputados.\" e com o olho \"\"Sem apoio e excluído pelo União Brasil, ele demonstra desequilíbrio: \"Traição se paga com punição\". Trata-se de uma montagem que simula o layout das publicações do POPULAR no site. A imagem falsa, inclusive, parece utilizar como base para a montagem uma notícia verdadeira publicada pelo jornal na segunda-feira (8), cujo título é \"Delegado Waldir diz que vai atuar para tirar nomes da chapa de deputado estadual do União Brasil\". O olho dessa matéria é \"Declaração foi feita após parlamentares demonstrarem apoio a candidatos ao Senado de outros partidos ou indecisão sobre o tema\".": "goed"
+ },
+ "glossen": {
+  "False: Jobless Filipinos numbered 2.29 million as of January 2019": "goed",
+  "Did not say perfect": "goed",
+  "ไม่จริง ไม่ควรแชร์": "goed",
+  "It's 37 Percent": "goed",
+  "False - The primary claims of the content are factually inaccurate.": "goed",
+  "Texto com indícios de desinformação.": "goed",
+  "False: The claim parroted an erroneous headline": "goed",
+  "omits key details": "goed",
+  "Mayormente verdad": "goed",
+  "False. The video is old and the footage is from Syria, not Gaza.": "goed",
+  "Montaje": "goed",
+  "Falso / Falta contexto": "goed",
+  "FALSE: No such declaration was made by Ratan Tata": "goed",
+  "Flase": "goed",
+  "Cita falsa": "goed",
+  "Das Zitat stammt nicht von Angela Merkel.": "goed",
+  "Altered Image": "goed",
+  "Netočno, Manipulacija činjenicama": "goed",
+  "Falsch. Das Foto wurde mit der KI-Software Midjourney erstellt.": "goed",
+  "Deutsche Medien haben über die Kältewelle in Australien berichtet.": "goed",
+  "අසත්‍යයි": "goed",
+  "Spin": "goed",
+  "Cherry Picks": "fout",
+  "Le communiqué attribué à la Fecafoot est un faux": "goed",
+  "Speculative at best": "goed",
+  "False. USAID says it has never sent an investigation team to Axum.": "goed",
+  "Study Is Flawed": "goed",
+  "Ryan Allowed Them": "goed",
+  "В 2019 году показатели Беларуси в сфере туризма были лучше, чем в 2023-м.": "goed",
+  "wahrscheinlich falsch": "goed",
+  "Video ist aus Kontext gerissen und stammt aus einem \"Welt\"-Interview 2019.": "goed",
+  "Falso / Engañoso": "goed",
+  "The user's claim is false.": "goed",
+  "Double count": "goed",
+  "Fals": "goed",
+  "Фейк. Все решения относительно ЦИК в Беларуси принимает президент": "goed",
+  "ข่าวปลอม": "goed",
+  "Die Hunde werden nicht eingeschläfert, die Behauptung ist falsch.": "goed",
+  "Это фейк. Из европейских стран китайцы едут в Великобританию": "goed",
+  "Het pak gehakt is een grap van de website Obvious Plant en is niet echt.": "goed",
+  "Europe did give money": "goed",
+  "HOAKS dari fabricated content": "goed",
+  "Not true": "goed",
+  "Unfounded": "goed",
+  "Fabricated": "goed",
+  "Kulang sa Konteksto": "goed",
+  "زائف جزئيًا": "goed",
+  "Sesat": "goed",
+  "Falso": "goed",
+  "Misleading": "goed",
+  "disinformation": "goed",
+  "ತಪ್ಪು": "goed",
+  "MISLEADING": "goed",
+  "FALSE": "goed",
+  "fake": "goed",
+  "झूठ": "goed",
+  "TRUE": "goed",
+  "不實": "goed",
+  "Disinformasi": "goed",
+  "Pants on Fire": "fout",
+  "False": "goed",
+  "صحيح": "goed",
+  "Yanlış": "goed",
+  "Keliru": "goed",
+  "مضلل": "goed",
+  "Mostly False": "goed",
+  "不正確": "goed",
+  "Satire": "goed",
+  "Verdad": "goed",
+  "Partly False": "goed",
+  "نادرست": "goed",
+  "মিছা": "goed",
+  "भ्रामक": "goed",
+  "False.": "goed",
+  "غیرقابل اثبات": "goed",
+  "Fałsz": "goed",
+  "false": "goed",
+  "Altered": "goed",
+  "شاخ‌دار": "fout",
+  "مفبرك": "goed",
+  "錯誤": "goed",
+  "This is misleading.": "goed",
+  "Half True": "goed",
+  "misleading": "goed",
+  "Engañoso": "goed",
+  "Exagerado": "goed",
+  "مش حقيقي": "goed",
+  "ಫೇಕ್": "goed",
+  "Verdadeiro": "goed",
+  "PARTLY FALSE": "goed",
+  "Mostly True": "goed",
+  "Enganoso": "goed",
+  "Mostly false": "goed",
+  "Fake": "goed",
+  "True": "goed",
+  "Unsubstantiated": "goed",
+  "Real": "goed"
+ },
+ "glossen_noten": {
+  "Cherry Picks": "letterlijk 'Kersen plukken': in het Nederlands verdwijnt de betekenis (selectief kiezen)",
+  "Pants on Fire": "letterlijk 'Broek in brand': de schaal van PolitiFact, zonder betekenis voor een lezer",
+  "شاخ‌دار": "letterlijk 'Gehoornd' (Horned): de schaal van Factnameh voor een flagrante leugen, zonder betekenis"
+ }
+}

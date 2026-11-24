@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Norveç'in Storheia ve Roan rüzgâr santralleri sökülmüyor ve şekil bozukluğu olan ren geyiklerinin bir rolü olmadı",
+  "oordeel_zin": "Mahkeme 2021'de Sami ren geyiği yetiştiricilerinin otlaklarına ilişkin karar verdi, şekil bozukluklarına değil; iki anlaşmanın ardından 151 türbin dönmeye devam ediyor [1] [2] [3].",
+  "bewering": "Norveç, türbinler yüzünden şekli bozuk ren geyikleri doğduğu için rüzgâr santrallerini söküyor.",
+  "kort": "11 Ağustos'tan beri X'te, Norveç'in şekil bozukluğu olan ren geyikleri doğduğu için iki rüzgâr santralini söktüğünü öne süren bir paylaşım dolaşıyor [9]. Norveç Yüksek Mahkemesi, Storheia ve Roan'ın izinlerini 2021'de, Sami ren geyiği yetiştiricileri kış otlaklarını kaybettiği için geçersiz saydı, hayvanların sağlığı nedeniyle değil [1]. Aralık 2023 ve Mart 2024'teki anlaşmaların ardından 151 türbin dönmeye devam ediyor [2] [3].",
+  "tekst": "X'teki paylaşım, Orta Norveç'teki Fosen yarımadasında bulunan, toplam 151 türbinli iki rüzgâr santralinden söz ediyor: Storheia ve Roan [9]. Bu santraller gerçekten var: Storheia'da 80, Roan'da 71 türbin bulunuyor ve ikisi de 2019'da açıldı [4]. Paylaşımda, Ekim 2021 tarihli bir Alman sektör dergisine bağlantı var; dergi o tarihte 151 türbinin kaldırılması gerektiğini yazmıştı [5] [9].\n\nDava gerçekti. Norveç Yüksek Mahkemesi 11 Ekim 2021'de oybirliğiyle iki santralin izinlerinin geçersiz olduğuna karar verdi [1]. Santraller, Fosen'deki Sami ren geyiği yetiştiricilerinin kendi kültürlerini yaşama hakkını ihlal ediyordu; bu hak, BM Medeni ve Siyasi Haklar Sözleşmesi'nin 27. maddesinde yer alıyor [1]. Kararın özü, ren geyiklerinin santrallerin yakınındaki kış otlaklarını fiilen kaybetmiş olması ve bunun Fosen'de ren geyiği yetiştiriciliğini tehdit etmesiydi [1].\n\nKararda ren geyiklerinin sağlığı hakkında hiçbir şey yazmıyor, şekli bozuk buzağılar hakkında da yazmıyor [1]. Mahkeme, türbinlere ne yapılması gerektiğini de söylemedi [4].\n\nSökülmediler. Aralık 2023'te Sør-Fosen ren geyiği yetiştiricileri Storheia için bir anlaşma yaptı; anlaşmada ek arazi, tazminat ve iznin bitiminden sonra yeni rüzgâr enerjisi için veto hakkı var [2]. Norveç İnsan Hakları Enstitüsü, bu anlaşmanın ihlali gideriyor göründüğünü yazdı [2]. 6 Mart 2024'te Roan için de anlaşma yapıldı: izin 2043'te bitene kadar yılda 7 milyon kron, ardından ancak ren geyiği yetiştiricileri onaylarsa yeni izin [3]. Elektrik üretimi normal şekilde sürüyor [3].\n\nŞekli bozuk ren geyikleri, Bavyera gazetesi Landshuter Zeitung'da 9 Ekim 2023 tarihinde yayımlanan bir okur mektubundan geliyor [6] [7]. Mektup, şekil bozukluklarını türbinlerin titreşimlerine bağlıyordu ve ardından Facebook ve X'te dolaştı [6]. AFP, Norveç, İsveç ve Avusturya'daki altı ren geyiği araştırmacısına sordu; hiçbiri, rüzgâr türbinlerinin şekil bozukluğuna veya düşüğe yol açtığını gösteren bir çalışma bilmiyordu [6]. Araştırmalar ise ren geyiklerinin, özellikle buzağılama döneminde, türbinlerin çevresindeki alanlardan kaçındığını gösteriyor [6].\n\nYani bu hikâye yeni değil. 2024'ün başında, Avrupa doğrulama kuruluşları ağı EDMO, hikâyenin Felemenkçe çeviriyle de dolaştığını bildirdi [11].",
+  "niet_weten": "2023 tarihli mektubu Hollandacaya ilk kimin çevirdiğini ve Ağustos ayındaki paylaşımın buna dayanıp dayanmadığını bilmiyoruz. Mektubun kendisini okumadık; içeriğini AFP ve Mimikama'nın doğrulamalarından biliyoruz. Türbinlerin şu anda hâlâ çalıştığı sonucunu Aneo, Store norske leksikon ve Euronews'ten çıkarıyoruz; Eylül 2026 sonrasına ait üretim rakamlarını görmedik.",
+  "bereik": "18 Kasım'da 101.303 kez görüntülendi",
+  "nog_uitzoeken": [
+   "2023 veya 2024'te Nieuwscheckers, Factcheck Vlaanderen ya da Knack tarafından yayımlanmış Hollandaca bir doğrulama olup olmadığı.",
+   "Dava gerçek, ancak yıkım ve şekli bozulmuş ren geyikleri gerçek değil. Biz \"yanlış\" seçtik; \"yanıltıcı\" da savunulabilir."
+  ],
+  "tijdlijn": [
+   "Norveç Yüksek Mahkemesi, Storheia ve Roan'ın izinlerini geçersiz sayıyor [1].",
+   "Agrarheute, 151 türbinin kaldırılması gerektiğini yazıyor [5].",
+   "Landshuter Zeitung'da şekli bozuk ren geyiği buzağıları hakkında bir okur mektubu [6].",
+   "AFP Faktencheck: rüzgâr türbinlerinin şekil bozukluğuna yol açtığına dair kanıt yok [6].",
+   "Mimikama aynı sonuca varıyor [7].",
+   "Norveç İnsan Hakları Enstitüsü, Storheia anlaşmasını bildiriyor [2].",
+   "Roan için anlaşma; türbinler dönmeye devam ediyor [3].",
+   "X'te söküm ve şekli bozuk ren geyikleri hakkındaki paylaşım [9].",
+   "AFP Factcheck Nederland paylaşımı kontrol ediyor [8].",
+   "Euronews: rüzgâr türbinleri yüzünden şekil bozukluğu olan ren geyikleri hiçbir yerde tarif edilmemiş [10]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 11 Ağustos 2026, 20:15, 2021 tarihli bir agrarheute bağlantısıyla."
+  ],
+  "beeld_alt": [
+   "X'teki, Norveç rüzgâr santralleri ve şekli bozuk ren geyikleri hakkındaki bir paylaşımın, Alman bir sektör dergisinin bağlantı kartıyla birlikte ekran görüntüsü. Damga: YANLIŞ."
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "_meta": "Labels van de herkomstcontrole (PLAN #32.3e), 2026-10-28, gelezen door Claude. 'set': wat ik vóór de toets las en afwees, met reden ('afgewezen'). 'oordelen': per bericht en 'wat' een label: 'verlies' bij een echt artikel met anders of niet gevonden (de reden), 'gemist' bij een vervalsing met gelijk (de reden), 'detail' bij anders in de inhoud bij een veranderd feit of een verzonnen kop ('juist' als de stap het veranderde detail met de echte waarde noemt, anders 'fout'). Alleen ids en labels; de artikelen komen uit de Sheffield-set (openbare nieuwsartikelen), de vervalsingen zijn van ons.",
+ "set": [
+  {
+   "id": "b-007107",
+   "label": "afgewezen",
+   "reden": "de vervanging Moscow naar Minsk staat niet in de tekst; het bericht is onveranderd",
+   "plek": "N-B-feit:b-007107"
+  },
+  {
+   "id": "b-010050",
+   "label": "afgewezen",
+   "reden": "origineel en nieuw zijn allebei Moldova; niets veranderd",
+   "plek": "N-B-feit:b-010050"
+  }
+ ],
+ "oordelen": [
+  {
+   "id": "B-schrijver:b-009174",
+   "wat": "gemist",
+   "label": "gemist",
+   "reden": "de zoekresultaten tonen geen schrijver; de stap kan de verzonnen naam niet toetsen en zegt dat ook"
+  },
+  {
+   "id": "B-schrijver:b-010208",
+   "wat": "gemist",
+   "label": "gemist",
+   "reden": "de zoekresultaten tonen geen schrijver; de stap kan de verzonnen naam niet toetsen en zegt dat ook"
+  },
+  {
+   "id": "N-B-schrijver:b-012410",
+   "wat": "gemist",
+   "label": "gemist",
+   "reden": "de zoekresultaten tonen geen schrijver; de stap kan de verzonnen naam niet toetsen en zegt dat ook"
+  },
+  {
+   "id": "N-B-schrijver:b-008965",
+   "wat": "gemist",
+   "label": "gemist",
+   "reden": "de zoekresultaten tonen geen schrijver; de stap kan de verzonnen naam niet toetsen en zegt dat ook"
+  },
+  {
+   "id": "N-B-schrijver:b-004811",
+   "wat": "gemist",
+   "label": "gemist",
+   "reden": "de zoekresultaten tonen geen schrijver; de stap kan de verzonnen naam niet toetsen en zegt dat ook"
+  },
+  {
+   "id": "B-feit:b-012445",
+   "wat": "detail",
+   "label": "juist",
+   "reden": "vervalst: Latvian naar Lithuanian Ministry of Foreign Affairs; de stap noemt precies dat, met de echte waarde"
+  },
+  {
+   "id": "N-A:b-009637",
+   "wat": "verlies",
+   "label": "terecht",
+   "reden": "echt artikel, maar Euronews heeft de kop zelf verbeterd: 150.000 werd 100.000 Russische troepen (Borrell noemde eerst 150.000, zijn diensten verbeterden het). Het screenshot toont de oude, foute versie; rood met het verbeterde getal is inhoudelijk juist. Telt volgens de vooraf vastgelegde regel toch als rood bij een echt artikel."
+  }
+ ]
+}

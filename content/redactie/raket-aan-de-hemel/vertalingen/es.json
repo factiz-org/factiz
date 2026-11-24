@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar es) van de eigen factcheck raket-aan-de-hemel van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "es",
+ "brontaal": "en",
+ "vingerafdruk": "f0dc5c3c37f10290",
+ "veldafdrukken": {
+  "kop": "e472c0bc0e652295",
+  "oordeel_zin": "add289929f850198",
+  "bewering": "c52467bbdbf845f4",
+  "kort": "ec49a38ce9994561",
+  "tekst": "c39b02cf16e1cae5",
+  "niet_weten": "d031a8bb874202fa",
+  "bereik": "47463feb0183ae49",
+  "nog_uitzoeken": "940fee2f8396b103",
+  "tijdlijn": "f82e809c7fc705d1",
+  "beeld_bijschrift": "5369ac37be876914",
+  "beeld_alt": "470aeeef36da5d46"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Un vídeo de TikTok grabado en Miami en 2023 no muestra ataques hutíes en Arabia Saudí",
+  "oordeel_zin": "El vídeo se publicó en TikTok el 29 de julio de 2023, con la ubicación Miami, Florida, y probablemente muestra el lanzamiento de un cohete, no ataques hutíes en Arabia Saudí [3] [4].",
+  "bewering": "ÚLTIMA HORA: Imágenes de turistas desde el interior de Arabia Saudí supuestamente captan las secuelas de los ataques hutíes.Escenas dramáticas mientras la situación se desarrolla.",
+  "kort": "Desde el 14 de noviembre, publicaciones en X han compartido un vídeo nocturno de una luz brillante que asciende tras las nubes, una de ellas como imágenes de turistas de ataques hutíes en Arabia Saudí [1] [2]. El vídeo se publicó en TikTok el 29 de julio de 2023 como un OVNI, con la ubicación Miami, Florida [3]. Probablemente muestra el lanzamiento de un cohete desde la Space Coast de Florida, donde un Falcon Heavy despegó la noche anterior [4].",
+  "tekst": "El sábado 14 de noviembre de 2026, una cuenta turca en X publicó un vídeo de 2 minutos y 41 segundos, y afirmó que las imágenes eran reales y que se habían emitido en directo en TikTok [2]. El 23 de noviembre acumulaba 3,6 millones de visualizaciones [2]. Seis horas después de esa publicación, otra cuenta compartió el mismo archivo de vídeo como imágenes de turistas desde el interior de Arabia Saudí de las secuelas de ataques hutíes [1] [2].\n\nEl clip aún lleva el logotipo de TikTok y el nombre de una cuenta de TikTok [1]. En esa cuenta, el vídeo se publicó el 29 de julio de 2023 a las 12:58 p. m., hora de Miami, con la ubicación Miami y el texto \"UFO Spotted in Miami Florida\" [3]. Internet Archive guardó la página el 7 de febrero de 2024 [3].\n\nEl vídeo muestra una luz que asciende tras las nubes sobre un aparcamiento con palmeras [1]. Se convierte en un punto naranja y se desvanece al cabo de unos dos minutos y medio [1]. Eso encaja con un lanzamiento nocturno desde la Space Coast de Florida visto desde lejos [1] [4].\n\nA las 11:04 p. m. del 28 de julio de 2023, la noche anterior a la publicación, un Falcon Heavy despegó del Centro Espacial Kennedy [4]. Veintitrés horas antes, un Falcon 9 había lanzado 22 satélites Starlink desde Cabo Cañaveral [5]. En 2023 el vídeo era un OVNI, ahora es un ataque [1] [3].\n\nEste mes otro lanzamiento circuló como si fuera otra cosa [6] [8]. El 13 de noviembre, el Starship Flight 15 alcanzó la órbita desde Texas y desplegó 26 satélites Starlink [6]. Una imagen de Mineral de la Reforma, en México, de una luz brillante con una hilera de puntos circuló como un OVNI [8]. Protección civil del estado de Chiapas dijo que la luz vista esa tarde sobre su costa era el Starship, con un mapa que sitúa el paso sobre México entre las 6:21 y las 6:28 p. m., hora del centro [7].",
+  "niet_weten": "No sabemos qué lanzamiento muestra el vídeo ni dónde se grabó exactamente: la ubicación en TikTok es una dirección de Miami. No sabemos si la imagen de Mineral de la Reforma se tomó durante el paso del Starship.",
+  "bereik": "617.400 visualizaciones, 971 me gusta y 133 respuestas el 23 de noviembre; el mismo vídeo en una cuenta turca, publicado seis horas antes, tenía 3,6 millones de visualizaciones y 29.433 me gusta",
+  "nog_uitzoeken": [
+   "Qué lanzamiento muestra el vídeo: el Falcon Heavy del 28 de julio de 2023, el Falcon 9 de la noche anterior u otro lanzamiento nocturno.",
+   "Dónde se grabó exactamente el vídeo; la ubicación en TikTok es una dirección de Miami.",
+   "Si la imagen de Mineral de la Reforma se tomó durante el paso del Starship sobre México el 13 de noviembre, y quién la tomó.",
+   "Si sabe algo más sobre el vídeo o la imagen, cuéntenoslo."
+  ],
+  "tijdlijn": [
+   "Un Falcon 9 despega de Cabo Cañaveral a las 12:01 a. m. con 22 satélites Starlink [5].",
+   "Un Falcon Heavy despega del Centro Espacial Kennedy a las 11:04 p. m. [4].",
+   "El vídeo se publica en TikTok a las 12:58 p. m., con la ubicación Miami [3].",
+   "Internet Archive guarda la página de TikTok [3].",
+   "El Starship Flight 15 despega de Texas a las 5:47 p. m., hora del este, y alcanza la órbita [6].",
+   "Protección civil de Chiapas: la luz en el cielo de la tarde es el Starship [7].",
+   "Una cuenta turca publica el vídeo como imágenes reales emitidas en directo en TikTok (UTC) [2].",
+   "Otra cuenta lo publica como imágenes de ataques hutíes en Arabia Saudí (UTC) [1].",
+   "Una imagen de Mineral de la Reforma circula como un OVNI (UTC) [8]."
+  ],
+  "beeld_bijschrift": [
+   "Publicación en X, 15 de noviembre de 2026, 00:29 UTC.",
+   "El vídeo en TikTok, publicado el 29 de julio de 2023, con la ubicación Miami, Florida, en la copia de Internet Archive del 7 de febrero de 2024."
+  ],
+  "beeld_alt": [
+   "La publicación en X que presenta el vídeo como imágenes de turistas de las secuelas de ataques hutíes en Arabia Saudí, con un fotograma de un aparcamiento con palmeras y farolas de noche bajo nubes iluminadas, y el logotipo de TikTok con el nombre de la cuenta. Sello: FALSO.",
+   "La página de TikTok del 29 de julio de 2023 con el mismo vídeo nocturno de una luz que asciende tras las nubes."
+  ]
+ }
+}

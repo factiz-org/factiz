@@ -1,0 +1,207 @@
+---
+// Verkennen (PLAN #34.2ah, SPECS E9.S17, DESIGNSYSTEEM §4): de ring van thema's, de tijd en het waar aan één keuze.
+// Overzicht eerst, dan inzoomen, dan één pagina: elk thema, jaar en land is een gewone link, en een jaar of land opent de
+// lijst met dat filter. Alles op de server getekend, zonder script en zonder bibliotheek (B75). De ring is een plaatje dat
+// een schermlezer overslaat; de legenda ernaast is dezelfde keuze in woorden.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import ThemaTegel, { THEMA } from '../ThemaTegel.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+import { boog } from '../../../lib/verkennen.js';
+// de vormen per land: Natural Earth, publiek domein, in Equal Earth (`python -m doublecheck.wereldkaart`, PLAN #34.2am)
+import wereld from '../../../kaart/wereld.json';
+import Pijl from '../Pijl.astro';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const zoek = Astro.url.search;
+const gekozen = g.gekozen;
+const FAMILIES = ['leisteen', 'nacht', 'groen', 'olijf', 'hemel'];
+const familie = (sleutel) => THEMA[sleutel]?.familie ?? '';
+
+// de ring: elk thema zo groot als zijn aantal, met een kleine opening ertussen; het gekozen thema steekt uit, en
+// daarbuiten zijn onderdelen in dezelfde verhouding tot het thema
+const MIDDEN = 170, BINNEN = 96, BUITEN = 150, UIT = 157, DEEL_BINNEN = 162, DEEL_BUITEN = 169, OPENING = 0.012;
+// de legenda per familie, en de ring in dezelfde volgorde, zodat een familie in de ring bij elkaar ligt
+const groepen = FAMILIES.map((f) => ({ familie: f, themas: g.ring.themas.filter((th) => familie(th.sleutel) === f) }))
+  .filter((gr) => gr.themas.length);
+const los = g.ring.themas.filter((th) => !FAMILIES.includes(familie(th.sleutel)));
+if (los.length) groepen.push({ familie: '', themas: los });
+const som = g.ring.themas.reduce((s, th) => s + th.aantal, 0) || 1;
+let hoek = -Math.PI / 2;
+const stukken = groepen.flatMap((gr) => gr.themas).map((th) => {
+  const breed = (th.aantal / som) * 2 * Math.PI;
+  const stuk = { ...th, familie: familie(th.sleutel), van: hoek, tot: hoek + breed,
+    d: boog(MIDDEN, BINNEN, th.aan ? UIT : BUITEN, hoek + OPENING / 2, hoek + breed - OPENING / 2) };
+  hoek += breed;
+  return stuk;
+});
+const gekozenStuk = stukken.find((s) => s.aan);
+const deelbogen = [];
+if (gekozenStuk && gekozen?.onderdelen?.length) {
+  let h = gekozenStuk.van;
+  const span = gekozenStuk.tot - gekozenStuk.van;
+  for (const o of gekozen.onderdelen) {
+    const breed = (o.aantal / gekozen.aantal) * span;
+    deelbogen.push({ ...o, d: boog(MIDDEN, DEEL_BINNEN, DEEL_BUITEN, h + OPENING / 2, h + breed - OPENING / 2) });
+    h += breed;
+  }
+}
+
+// de jaren: de hoogste staaf is de volle hoogte
+const maxJaar = Math.max(1, ...g.tijd.jaren.map((j) => j.aantal));
+const piek = g.tijd.jaren.reduce((p, j) => (j.aantal > (p?.aantal ?? 0) ? j : p), null);
+// de landen: de langste rij is de volle breedte; bij de verhouding een streep op gemiddeld (1×)
+const maxLand = Math.max(...g.waar.landen.map((r) => r.waarde), 0) * 1.05 || 1;
+const gemiddeld = g.waar.maat === 'verhouding' ? (1 / maxLand) * 100 : null;
+const kleur = gekozen ? familie(gekozen.sleutel) : '';
+// de wereldkaart (SPECS E9.S20): elk land met zijn trap; wat op deze schaal geen vorm heeft, staat eronder
+const perLand = Object.fromEntries(g.waar.kaart.map((r) => [r.code, r]));
+const teKlein = g.waar.kaart.filter((r) => !wereld.landen[r.code]).sort((a, b) => b.waarde - a.waarde);
+---
+<Site titel={g.titel} omschrijving={g.inleiding} hier="verkennen" taal={taal} delen={['explore']} zoekdeel={zoek}
+      aangeboden={zoek ? [] : TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={gekozen ? [[g.titel, g.alles_href], [gekozen.naam]] : [[g.titel]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{g.inleiding}</p>
+    </header>
+
+    {g.ring.themas.length > 0 && (
+      <section class="vk-blok mt-10 grid items-start gap-8 lg:grid-cols-[minmax(0,22rem)_minmax(0,1fr)]" aria-labelledby="vk-ring">
+        <div class="vk-ring">
+          <svg data-ring viewBox="0 0 340 340" aria-hidden="true" focusable="false">
+            {stukken.map((s) => (
+              <a href={s.href} tabindex="-1"><path class:list={['vk-stuk', gekozen && !s.aan && 'vk-stil']} data-familie={s.familie} d={s.d}><title>{s.naam}: {s.aantal_tekst}</title></path></a>
+            ))}
+            {deelbogen.map((o) => (
+              <a href={o.href} tabindex="-1"><path class="vk-deel" data-familie={kleur} d={o.d}><title>{o.naam}: {o.aantal_tekst}</title></path></a>
+            ))}
+          </svg>
+          <div class="vk-midden">
+            {gekozen
+              ? <><ThemaTegel thema={gekozen.sleutel} maat="groot" /><span class="vk-midden-naam">{gekozen.naam}</span>
+                  <span class="vk-midden-getal">{gekozen.aantal_tekst}</span></>
+              : <><span class="vk-midden-naam">{g.ring.alles}</span><span class="vk-midden-getal">{g.ring.totaal_tekst}</span></>}
+          </div>
+        </div>
+        <div class="min-w-0">
+          <div class="sectiekop"><h2 id="vk-ring">{g.ring.kop}</h2>
+            <a class="vk-alles" href={g.alles_href} aria-current={gekozen ? undefined : 'true'}>{g.ring.alles}</a></div>
+          <div class="vk-legenda">
+            {groepen.map((gr) => (
+              <div class="vk-familie">
+                {gr.familie && <p class="mono">{t(`familie_${gr.familie}`)}</p>}
+                <ul>
+                  {gr.themas.map((th) => (
+                    <li><a class="vk-thema" href={th.href} aria-current={th.aan ? 'true' : undefined}>
+                      <ThemaTegel thema={th.sleutel} maat="midden" /><span class="min-w-0 flex-1">{th.naam}</span><span class="getal">{th.getal}</span></a></li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+          {g.ring.regel && <p class="zacht mt-4 text-[12.5px]">{g.ring.regel}</p>}
+          {gekozen && (
+            <div class="paneel vak mt-5">
+              {gekozen.onderdelen.length > 0 && <>
+                <p class="text-[12px] font-semibold">{gekozen.onderdelen_kop}</p>
+                <ul class="grid gap-1 text-[13.5px]">
+                  {gekozen.onderdelen.map((o) => <li class="flex items-baseline justify-between gap-3"><a class="link min-w-0" href={o.href}>{o.naam}</a><span class="mono flex-none">{o.getal}</span></li>)}
+                </ul>
+              </>}
+              <a class="knop knop-primair justify-self-start" href={gekozen.lijst}>{gekozen.lijst_tekst}</a>
+            </div>
+          )}
+        </div>
+      </section>
+    )}
+
+    <section class="vk-blok mt-14" aria-labelledby="vk-tijd">
+      <div class="sectiekop"><h2 id="vk-tijd">{g.tijd.kop}</h2></div>
+      <p class="zacht -mt-2 mb-4 text-[13.5px]">{g.tijd.regel}</p>
+      <ol class="vk-jaren" dir="ltr" data-familie={kleur}>
+        {g.tijd.jaren.map((j) => {
+          const h = (j.aantal / maxJaar) * 100;
+          return (
+            <li><a href={j.href} aria-label={`${j.jaar}: ${j.aantal_tekst}`} class:list={['vk-jaar', j.lopend && 'vk-lopend', piek === j && 'vk-piek']}>
+              <span class="vk-jaar-getal">{j.getal}</span>
+              <svg viewBox="0 0 10 100" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+                {j.aantal > 0 && <rect x="0" y={100 - h} width="10" height={h} />}
+                <line x1="0" x2="10" y1="100" y2="100" vector-effect="non-scaling-stroke" />
+              </svg>
+              <span class="vk-jaar-naam">’{j.jaar.slice(2)}</span>
+            </a></li>
+          );
+        })}
+      </ol>
+      {g.tijd.noot && <p class="zacht mt-3 max-w-[80ch] text-[12.5px]">{g.tijd.noot}</p>}
+    </section>
+
+    <section class="vk-blok mt-14" aria-labelledby="vk-waar">
+      <div class="sectiekop"><h2 id="vk-waar">{g.waar.kop}</h2>
+        {g.waar.maten.length > 0 && (
+          <nav class="vk-maten" aria-label={g.waar.kop}>
+            {g.waar.maten.map((m) => <a href={m.href} aria-current={m.aan ? 'page' : undefined}>{m.naam}</a>)}
+          </nav>
+        )}
+      </div>
+      <p class="zacht -mt-2 mb-4 text-[13.5px]">{g.waar.regel}</p>
+      {g.waar.kaart.length > 0 && (
+        <figure class="vk-kaart mb-6" data-familie={kleur}>
+          <svg data-wereld viewBox={`0 0 ${wereld.breed} ${wereld.hoog}`} aria-hidden="true" focusable="false">
+            {Object.entries(wereld.landen).map(([code, d]) => perLand[code]
+              ? <a href={perLand[code].href} tabindex="-1"><path class="vk-vlak" data-trap={perLand[code].trap} d={d}><title>{perLand[code].naam}: {perLand[code].tekst}</title></path></a>
+              : <path class="vk-vlak" d={d} />)}
+          </svg>
+          <figcaption class="mt-3 grid gap-2 text-[12px] text-[var(--zacht)]">
+            <span class="flex flex-wrap items-center gap-x-4 gap-y-1.5">
+              <span class="inline-flex items-center gap-1.5"><span class="vk-trap vk-trap-geen"></span>{g.waar.kaart_geen}</span>
+              {g.waar.legenda.map((t) => <span class="inline-flex items-center gap-1.5"><span class="vk-trap" data-trap={t.trap}></span>{t.tekst}</span>)}
+            </span>
+            <span>{g.waar.kaart_leeg} {g.waar.kaart_bron}</span>
+            {teKlein.length > 0 && <span>{g.waar.te_klein} {teKlein.map((r, i) => <>{i > 0 && ', '}<a class="link" href={r.href}>{r.naam}</a> {r.tekst}</>)}</span>}
+          </figcaption>
+        </figure>
+      )}
+      {g.waar.leeg && <p class="paneel vak text-[13.5px]">{g.waar.leeg}</p>}
+      {g.waar.landen.length > 0 && (
+        <ol class="vk-landen" data-familie={kleur}>
+          {g.waar.landen.map((r) => (
+            <li><a class="vk-land" href={r.href}>
+              <span class="vk-land-naam">{r.naam}</span>
+              <svg viewBox="0 0 100 10" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+                <rect x="0" y="0" width={Math.max(0.6, (r.waarde / maxLand) * 100)} height="10" />
+                {gemiddeld !== null && <>
+                  <line class="vk-gemiddeld-onder" x1={gemiddeld} x2={gemiddeld} y1="-3" y2="13" vector-effect="non-scaling-stroke" />
+                  <line class="vk-gemiddeld" x1={gemiddeld} x2={gemiddeld} y1="-3" y2="13" vector-effect="non-scaling-stroke" /></>}
+              </svg>
+              <span class="vk-land-getal">{r.tekst}</span>
+            </a></li>
+          ))}
+        </ol>
+      )}
+      {gemiddeld !== null && g.waar.landen.length > 0 && (
+        <p class="zacht mt-2 flex items-center gap-2 text-[12px]"><svg class="vk-sleutel" viewBox="0 0 10 14" aria-hidden="true" focusable="false"><line x1="5" x2="5" y1="0" y2="14" /></svg>{g.waar.gemiddeld} (1×)</p>
+      )}
+      {g.waar.kaart.length > 0 && (
+        <details class="vk-alle mt-4">
+          <summary>{g.waar.alle_kop}</summary>
+          <ul class="mt-2 grid grid-cols-1 gap-x-6 gap-y-0.5 sm:grid-cols-2 lg:grid-cols-3">
+            {g.waar.kaart.map((r) => <li class="flex items-baseline justify-between gap-3 text-[13px]"><a class="link min-w-11 truncate" href={r.href}>{r.naam}</a><span class="mono flex-none">{r.tekst}</span></li>)}
+          </ul>
+        </details>
+      )}
+      {g.waar.noot && <p class="zacht mt-3 max-w-[80ch] text-[12.5px]">{g.waar.noot}</p>}
+    </section>
+
+    {g.netwerk && (
+      <a class="kaart vk-verder mt-14 flex items-center justify-between gap-4 p-5" href={g.netwerk.href}>
+        <span class="grid gap-1"><span class="text-[15px] font-semibold">{g.netwerk.titel}</span>
+          <span class="zacht text-[13.5px]">{g.netwerk.regel}</span></span>
+        <span class="text-[18px]"><Pijl /></span>
+      </a>
+    )}
+  </div>
+</Site>

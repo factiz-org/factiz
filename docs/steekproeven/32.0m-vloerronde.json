@@ -1,0 +1,21 @@
+{
+ "_meta": "Labels van de ronde van de vloerstap (PLAN #32.0m, B50), 2026-10-28, gelezen door Claude. 'valse alarmen': een waar bericht waar beide vragen van vloer-v1 'clearly false' zeiden, met 'vals' (een echt vals alarm) of 'set fout' (het bericht bleek onwaar), en de reden. 'markeringen': bij een onware zin met klopt grotendeels of het juiste detail gemarkeerd is ('juist' of 'fout'). Alleen ids en labels; de berichten komen uit de eerdere rondes (openbare checks, Wikinews, artikelen en de feitenbasis).",
+ "valse alarmen": {
+  "route:sw-259": "vals"
+ },
+ "redenen": {
+  "route:sw-259": "Woodstock (augustus 1969) viel in de Hongkonggriep van 1968-1970: de bewering is waar; beide vragen dachten dat er toen geen pandemie was",
+  "O:V2-134": "'three spheres of influence' is het veranderde detail: het geheime protocol verdeelde in twee sferen",
+  "r3-V2-102": "'25 February 2022' is het veranderde detail: de invasie begon op 24 februari"
+ },
+ "markeringen": [
+  [
+   "O:V2-134",
+   "juist"
+  ],
+  [
+   "r3-V2-102",
+   "juist"
+  ]
+ ]
+}

@@ -1,0 +1,232 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, B82, B84). Geschreven door Claude, nagelezen door de redactie
+# van Factiz, op het dossier in data/redactie/brandweerman-frankrijk/dossier.md.
+
+sleutel = "brandweerman-frankrijk"
+status = "gepubliceerd"
+taal = "nl"
+adres = "brandweerman-bordeaux-spuitbus"
+adres_en = "firefighter-bordeaux-aerosol-can"
+kop = "Brandweerman in Bordeaux raakte gewond door een ontploffende spuitbus, niet door jongeren met benzine"
+oordeel = "onwaar"
+oordeel_zin = "Een brandweerman werd op 29 september even door een steekvlam geraakt toen een spuitbus in een barricadevuur ontplofte; niemand overgoot hem met benzine of stak hem aan [1] [3]."
+soort = "context"
+reikwijdte = "internationaal"
+vorm = "beeld"
+
+bewering = "Jongeren overgoten tijdens de protesten in Frankrijk een brandweerman met benzine en staken hem in brand."
+platform = "X"
+eerst_gezien = "2026-10-02"
+posts = 2
+
+kort = """
+Op 1 en 2 oktober gingen op X Nederlandstalige posts rond die zeiden dat jongeren in Frankrijk een brandweerman met \
+benzine overgoten en in brand staken [8]. Op 29 september werd in Bordeaux wel een brandweerman even door een steekvlam \
+geraakt, toen een spuitbus ontplofte in een barricadevuur dat hij wilde blussen [1] [3]. Benzine kwam er niet aan te \
+pas; met benzine werd op 1 oktober in Marseille een schoolhoofd overgoten [5] [6]."""
+
+tekst = """
+Op donderdag 1 oktober om 21:12 verscheen op X een Nederlandstalige post: jongeren zouden tijdens de protesten in \
+Frankrijk een brandweerman met benzine hebben overgoten en in brand hebben gestoken [8]. Een tweede post, de middag \
+erna, plaatste het in Bordeaux [8]. Een Engelstalig account bracht op 2 oktober een foto \
+met hetzelfde verhaal, die volgens CORRECTIV zeven miljoen keer werd bekeken en waarop Elon Musk reageerde [11].
+
+Wat er echt gebeurde, staat in de Franse pers: op dinsdag 29 september rond 12:30 blokkeerden scholieren het lycée \
+Montaigne in de rue Sainte-Catherine in Bordeaux, en bij een ingang brandde een barricade op straat [1]. Een brandweerman \
+liep op het vuur af om het te blussen, en op dat moment ontplofte er iets in het vuur: een steekvlam omhulde hem even \
+[1] [2].
+
+Volgens de prefectuur van de Gironde was dat een spuitbus die in het vuur lag [3]. De brandweerman raakte licht gewond, \
+ging naar het ziekenhuis en was dezelfde middag terug op de kazerne [1]. De prefecte zei dat hij enkele dagen niet kan \
+werken [1]. Op video's van BFMTV en Le Figaro, uit twee hoeken, steekt niemand hem aan en loopt hij na de steekvlam zelf \
+een paar meter terug [4] [11] [12].
+
+Benzine komt in geen van de berichten over Bordeaux voor [1] [3]. Het parket van Bordeaux opende wel een onderzoek naar \
+opzettelijke brandstichting met zwaar letsel; of de spuitbus met opzet in het vuur lag, moest dat onderzoek uitwijzen [1].
+
+Er gebeurde die week wel iets met benzine, maar in Marseille en niet bij een brandweerman: op donderdag 1 oktober werd \
+daar bij het lycée Victor-Hugo het schoolhoofd met benzine overgoten, volgens het parket raakte hij gewond [5] [6]. \
+Volgens een andere lezing spatte de benzine op leraren toen een leerling haar in een vuilnisbak wilde gooien [7]. Bij \
+het lycée Saint-Exupéry omsingelden honderden jongeren dezelfde ochtend een brandweerwagen, joegen de brandweerlieden weg \
+en staken de wagen in brand [5] [7]. Een brandweerman die in brand werd gestoken, meldt geen van die berichten [5] [6] \
+[7].
+
+Factcheckers in andere talen kwamen tot dezelfde uitkomst: An-Nahar op 5 oktober, EFE Verifica op 6 oktober, CORRECTIV \
+op 12 oktober en ZDFheute op 14 oktober [9] [10] [11] [12]. Volgens CORRECTIV is de foto echt; de fotograaf bevestigde \
+dat aan AFP [11]. In het Nederlands schreef Knack een factcheck, die er uiterlijk op 19 oktober stond [13]."""
+
+niet_weten = """
+We weten niet welk beeld in de Nederlandstalige posts staat. CORRECTIV noemt de foto echt, An-Nahar zag een beeld dat \
+afwijkt van de video's en mogelijk is nagemaakt [9] [11]. Misschien gingen er twee beelden rond. We weten ook niet of \
+iemand de spuitbus met opzet in het vuur legde, en wat het onderzoek van het parket opleverde."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-19"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Welk beeld de twee Nederlandstalige posts toonden: de echte foto van Guillaume Bonnaud, een nagemaakte versie of een video. De posts zijn weg.",
+  "Of het parket van Bordeaux iets bekendmaakte over het onderzoek, en of iemand de spuitbus met opzet in het vuur legde.",
+  "Andere factcheckers verschillen van oordeel: ZDFheute en Mimikama kozen misleidend, CORRECTIV, EFE Verifica en An-Nahar onwaar. Wij kozen onwaar.",
+]
+
+[[beeld]]
+rol = "origineel"
+link = "https://x.com/BFMTV/status/2104968370193940726"
+stempel = false
+bijschrift = "BFMTV op X, 29 september 2026: de video van de brandweerman bij het lycée Montaigne in Bordeaux."
+alt = "Video van BFMTV: een brandweerman loopt op een klein vuur op straat af, de vlammen schieten op en doven meteen."
+
+[[tijdlijn]]
+datum = "2026-09-29"
+tijd = "12:30"
+wat = "Een brandweerman wordt bij een barricade voor het lycée Montaigne in Bordeaux door een steekvlam geraakt [1]."
+
+[[tijdlijn]]
+datum = "2026-09-29"
+tijd = "18:15"
+wat = "BFMTV zet de video van het moment op X [4]."
+
+[[tijdlijn]]
+datum = "2026-10-01"
+wat = "In Marseille wordt een schoolhoofd met benzine overgoten en een brandweerwagen in brand gestoken [5] [6]."
+
+[[tijdlijn]]
+datum = "2026-10-01"
+tijd = "21:12"
+wat = "De eerste Nederlandstalige post: met benzine overgoten en in brand gestoken [8]."
+
+[[tijdlijn]]
+datum = "2026-10-02"
+tijd = "16:07"
+wat = "Een tweede Nederlandstalige post plaatst het in Bordeaux [8]."
+
+[[tijdlijn]]
+datum = "2026-10-05"
+wat = "An-Nahar: de bewering klopt niet [9]."
+
+[[tijdlijn]]
+datum = "2026-10-12"
+wat = "CORRECTIV: de foto is echt, niemand stak de brandweerman aan [11]."
+
+[[tijdlijn]]
+datum = "2026-10-19"
+wat = "Uiterlijk op deze dag staat de factcheck van Knack online [13]."
+
+[[bron]]
+nr = 1
+soort = "nieuws"
+uitgever = "Le Tribunal du Net"
+titel = "'Enveloppé par les flammes' : ce pompier pris dans une explosion pendant le blocage d'un lycée à Bordeaux"
+datum = "2026-09-29"
+url = "https://www.letribunaldunet.fr/faits-divers/pompier-blesse-explosion-barricade-bordeaux-lyceens.html"
+archief = "https://web.archive.org/web/20260930101612/https://www.letribunaldunet.fr/faits-divers/pompier-blesse-explosion-barricade-bordeaux-lyceens.html"
+
+[[bron]]
+nr = 2
+soort = "nieuws"
+uitgever = "Le Figaro"
+titel = "Devant un lycée bloqué à Bordeaux, l'explosion d'une barricade transforme un pompier en torche humaine (titel naar de link)"
+datum = "2026-09-29"
+url = "https://www.lefigaro.fr/bordeaux/devant-un-lycee-bloque-a-bordeaux-l-explosion-d-une-barricade-transforme-un-pompier-en-torche-humaine-20260929"
+archief = "https://web.archive.org/web/20261114023115/https://www.lefigaro.fr/bordeaux/devant-un-lycee-bloque-a-bordeaux-l-explosion-d-une-barricade-transforme-un-pompier-en-torche-humaine-20260929"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Préfète de la région Nouvelle-Aquitaine, préfète de la Gironde"
+titel = "Bericht op Facebook over de gewonde brandweerman"
+datum = "2026-09-29"
+url = "https://www.facebook.com/PrefNouvelleAquitaine33/posts/pfbid0YbdgNyKku9LmeknjtX7sk6YkPhD2rPTeAbeNtszJRfaZZccKUKfWHvbou42wNCw3l"
+archief = "https://perma.cc/GJ7S-RDF7"
+
+[[bron]]
+nr = 4
+soort = "nieuws"
+uitgever = "BFMTV op X"
+titel = "Video van de brandweerman bij het lycée Montaigne"
+datum = "2026-09-29"
+url = "https://x.com/BFMTV/status/2104968370193940726"
+archief = "https://perma.cc/XZ93-QP8W"
+
+[[bron]]
+nr = 5
+soort = "nieuws"
+uitgever = "Reuters via Cyprus Mail"
+titel = "Attackers douse teacher in petrol as student protests rage across France"
+datum = "2026-10-01"
+url = "https://cyprus-mail.com/2026/10/01/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france"
+archief = "https://web.archive.org/web/20261009121934/https://cyprus-mail.com/2026/10/01/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france"
+
+[[bron]]
+nr = 6
+soort = "nieuws"
+uitgever = "Made in Marseille"
+titel = "Blocus lycéen à Marseille : l'appel au calme après les violences et l'arrêt des transports"
+datum = "2026-10-01"
+url = "https://madeinmarseille.net/actualite/211785-mobilisation-lyceenne-a-marseille-lappel-au-calme-apres-les-violences-et-larret-des-transports/"
+archief = "https://web.archive.org/web/20261119141548/https://madeinmarseille.net/actualite/211785-mobilisation-lyceenne-a-marseille-lappel-au-calme-apres-les-violences-et-larret-des-transports/"
+
+[[bron]]
+nr = 7
+soort = "nieuws"
+uitgever = "Al Jazeera (met AFP, AP en Reuters)"
+titel = "School protests spread as fires, blockades deepen unrest in France"
+datum = "2026-10-01"
+url = "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france"
+archief = "https://web.archive.org/web/20261111070245/https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "X"
+titel = "Twee Nederlandstalige posts, 1 en 2 oktober 2026"
+datum = "2026-10-01"
+prive = true
+weg = true
+
+[[bron]]
+nr = 9
+soort = "factcheck"
+uitgever = "An-Nahar"
+titel = "احتجاجات فرنسا... طلاب يشعلون النار برجل إطفاء؟ النهار تتحقق FactCheck"
+datum = "2026-10-05"
+url = "https://www.annahar.com/factcheck/354121/احتجاجات-فرنسا-طلاب-يشعلون-النار-برجل-إطفا-النهار-تتحقق-factcheck"
+archief = "https://web.archive.org/web/20261117095123/https://www.annahar.com/factcheck/354121/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%B7%D9%84%D8%A7%D8%A8-%D9%8A%D8%B4%D8%B9%D9%84%D9%88%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AC%D9%84-%D8%A5%D8%B7%D9%81%D8%A7-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AA%D8%AA%D8%AD%D9%82%D9%82-factcheck"
+
+[[bron]]
+nr = 10
+soort = "factcheck"
+uitgever = "EFE Verifica"
+titel = "No es cierto que estudiantes franceses prendieran fuego a un bombero durante las protestas escolares (titel naar de link)"
+datum = "2026-10-06"
+url = "https://verifica.efe.com/no-es-cierto-que-estudiantes-franceses-prendieran-fuego-a-un-bombero-durante-las-protestas-escolares/"
+archief = "https://web.archive.org/web/20261007111440/https://verifica.efe.com/no-es-cierto-que-estudiantes-franceses-prendieran-fuego-a-un-bombero-durante-las-protestas-escolares/"
+
+[[bron]]
+nr = 11
+soort = "factcheck"
+uitgever = "CORRECTIV.Faktencheck"
+titel = "Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet"
+datum = "2026-10-12"
+url = "https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/"
+archief = "https://web.archive.org/web/20261014094607/https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/"
+
+[[bron]]
+nr = 12
+soort = "factcheck"
+uitgever = "ZDFheute"
+titel = "Schulproteste in Frankreich: Fakes machen Stimmung im Netz"
+datum = "2026-10-14"
+url = "https://www.zdfheute.de/politik/ausland/frankreich-protest-schulen-gewalt-migranten-video-faktencheck-100.html"
+archief = "https://web.archive.org/web/20261116171938/https://www.zdfheute.de/politik/ausland/frankreich-protest-schulen-gewalt-migranten-video-faktencheck-100.html"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "Knack"
+titel = "Factcheck: Nee, jongeren staken geen brandweerman in brand in Bordeaux"
+datum = "2026-10-19"
+url = "https://www.knack.be/factcheck/factcheck-nee-jongeren-staken-geen-brandweerman-in-brand-in-bordeaux/"
+archief = "https://web.archive.org/web/20261008211358/https://www.knack.be/factcheck/factcheck-nee-jongeren-staken-geen-brandweerman-in-brand-in-bordeaux/"

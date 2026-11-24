@@ -1,0 +1,665 @@
+{
+ "_meta": "Labels van de leraarladder (PLAN #31.2): een 'onwaar' van een model bij gewone webtekst. `terecht` als de tekst zelf een feitelijke bewering doet die aantoonbaar onjuist of misleidend is (een hoax, pseudowetenschap als feit, een aantoonbare onjuistheid, een oplichtingsbericht); `vals` als de tekst klopt, een mening, reclamepraat of spam is, niet te controleren valt, of zelf een factcheck is. Bij twijfel `vals`. Per webtekst, niet per model: of een tekst onjuist is, hangt niet af van wie hem las. Op de toetshelft alleen om te tellen. Gelabeld door Claude (`python -m doublecheck.leraar lezen`).",
+ "labels": [
+  {
+   "sleutel": "N1:stiltetoets-vers:en-076918",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-001105",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-003632",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-078920",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-137265",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-011841",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-046034",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-002539",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-033986",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-117918",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:fa-003889",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-005741",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-004158",
+   "label": "terecht",
+   "waarom": "MRET-water zou bacteriën, virussen en kankercellen remmen: pseudowetenschap"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-010993",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-000598",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-112575",
+   "label": "terecht",
+   "waarom": "een scherm van 1280 x 720 heet full HD: onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-034152",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-011831",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-005547",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-080392",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-113741",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-081760",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-080501",
+   "label": "terecht",
+   "waarom": "een phishingbericht dat zich als systeembericht voordoet"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:pt-009132",
+   "label": "vals",
+   "waarom": "klopt: de Taramps T-60.0 KW is echt een versterker van 60.000 watt RMS"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ja-000259",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-001225",
+   "label": "vals",
+   "waarom": "klopt voor het moment van schrijven (Messi werd vader vóór zijn huwelijk)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-000981",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-070277",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-002034",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-004725",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-015958",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-026120",
+   "label": "vals",
+   "waarom": "klopt: vluchten naar Noord-Cyprus gaan via Turkije"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003757",
+   "label": "vals",
+   "waarom": "een factcheckinleiding: de tekst checkt de bewering, verspreidt haar niet"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-004862",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-001545",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-010839",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-000238",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-005067",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-002489",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:fa-006843",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-062441",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-065668",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:si-001132",
+   "label": "terecht",
+   "waarom": "krokodil-dolfijnhybride aangespoeld in Australië: een bekende hoax"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:nl-006742",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-079903",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:fr-005874",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-004629",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-114765",
+   "label": "terecht",
+   "waarom": "watermeloen als voedsel met het meeste glutathion: onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:nl-001273",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-000094",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-000131",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-094371",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-035143",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-003624",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:fa-006010",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-005089",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ml-004552",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-004399",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-084677",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-000097",
+   "label": "terecht",
+   "waarom": "Nibiru: een ontkrachte hoax"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-004829",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-012278",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:fa-007438",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-002243",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-004371",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-004836",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-100993",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-004395",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-145881",
+   "label": "vals",
+   "waarom": "klopt: de pre-release van Minecraft Beta 1.8 kwam van Notch"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-007352",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-003921",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-005819",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-001425",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-001865",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-008383",
+   "label": "vals",
+   "waarom": "klopt voor het moment van schrijven (Spanje 2009-2010)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-041690",
+   "label": "terecht",
+   "waarom": "elke macht van een Jordanblok heeft hetzelfde minimumpolynoom: wiskundig onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-001769",
+   "label": "vals",
+   "waarom": "de claimregel van een factcheckartikel: de tekst checkt de bewering, verspreidt haar niet"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-065694",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-005541",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-086398",
+   "label": "terecht",
+   "waarom": "homeopathisch middel als zekere genezing van aften bij kinderen: zonder werking"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-055946",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ar-003381",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:de-002580",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-041170",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-012223",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:si-001129",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-008522",
+   "label": "terecht",
+   "waarom": "aliens leefden met ons op aarde, bewijs in India: een ongefundeerde bewering als feit"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-001832",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-039238",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ja-000778",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-066265",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:id-003978",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-004841",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-004536",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-000212",
+   "label": "vals",
+   "waarom": "klopt voor het moment van schrijven (Axl Rose, 2018)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-002724",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-001600",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-014282",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-004986",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-129527",
+   "label": "terecht",
+   "waarom": "witte bloem als natuurlijk insecticide: onjuist"
+  },
+  {
+   "sleutel": "N1:stiltetoets:zh-003287",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:tr-001026",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-008207",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-020686",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-000355",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-009314",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-009351",
+   "label": "vals",
+   "waarom": "klopt: Karun Nair trouwde met Sanaya Tankariwala"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-079775",
+   "label": "vals",
+   "waarom": "klopt: Chiuri volgde Raf Simons op bij Dior"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:pt-014641",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:kn-001175",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-002114",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-022178",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-101934",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-054604",
+   "label": "vals",
+   "waarom": "klopt: Painted Caves is het alias van Evan Caminiti"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003022",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:zh-000552",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:de-006271",
+   "label": "vals",
+   "waarom": "klopt: Ian Ayre werd in 2017 bij 1860 München gepresenteerd"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-054175",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-016120",
+   "label": "vals",
+   "waarom": "klopt: boetseerklei die pas bij het bakken hard wordt bestaat (polymeerklei)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-008969",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-121627",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:si-002344",
+   "label": "vals",
+   "waarom": "geen aantoonbaar onjuiste bewering: reclamepraat, spam, mening, overdrijving of niet te controleren (bij twijfel vals)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-008395",
+   "label": "vals",
+   "waarom": "klopt: Billy Bob Thornton speelt in London Fields"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-085738",
+   "label": "vals",
+   "waarom": "klopt: Kojo Anim kreeg de Golden Buzzer bij Britain's Got Talent"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-033176",
+   "label": "vals",
+   "waarom": "aankondiging van een 'gechanneld' bericht; 'so called election' is een mening, de tekst zelf doet geen controleerbare bewering (bij twijfel vals); gevlagd door leerling-1 (#31.4)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-004784",
+   "label": "vals",
+   "waarom": "een nieuwskop die een politicus citeert (Rizvi: de woorden van de premier zijn een verdediging van corruptie); een mening, geen controleerbare bewering; gevlagd door leerling-2 (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:de-008398",
+   "label": "vals",
+   "waarom": "citaten tussen aanhalingstekens (haatspraak en 'Deutschland ist nicht souverän') gevolgd door een productnaam; of de tekst zelf iets beweert of verslag doet, is niet te zien (bij twijfel vals); gevlagd door leerling-2b (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:tr-002551",
+   "label": "vals",
+   "waarom": "nieuwsbericht: een VN-rapport roept Turkije op de noodtoestand te beëindigen, Ankara reageert; geen onjuiste bewering; gevlagd door leerling-2b (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-124764",
+   "label": "vals",
+   "waarom": "verslag van een krantenartikel over een plan van ICE; geen aantoonbaar onjuiste bewering; gevlagd door leerling-2c (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-019255",
+   "label": "vals",
+   "waarom": "nieuwsbericht over inlichtingen en extra beveiliging; niet te controleren (bij twijfel vals); gevlagd door leerling-2c (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-003683",
+   "label": "vals",
+   "waarom": "beschrijving van een foto van dansende eerstejaars; geen bewering om te controleren; gevlagd door leerling-2c (#31.5)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-034667",
+   "label": "vals",
+   "waarom": "een citaat uit een verhaal (fictie); geen bewering om te controleren; gevlagd door leerling-2c (#31.5)"
+  }
+ ]
+}

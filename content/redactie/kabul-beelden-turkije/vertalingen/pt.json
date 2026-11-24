@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck kabul-beelden-turkije van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "49291058a1e10941",
+ "veldafdrukken": {
+  "kop": "2f8eaae2bafdd900",
+  "oordeel_zin": "9fdeee9fad6e3384",
+  "bewering": "78cba22578fa9c0a",
+  "kort": "f0489b0486d3aec6",
+  "tekst": "be06e8a18136d46c",
+  "niet_weten": "0febbc803080a097",
+  "bereik": "46f43bf117027708",
+  "nog_uitzoeken": "c9a6342748359bd6",
+  "tijdlijn": "71a1685d2918abaf",
+  "beeld_bijschrift": "0605bdb69b6ae6ce",
+  "beeld_alt": "856248c240f3a55f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de um Apache e de um C-17 foi gravado em Cabul em 2021, não na Turquia",
+  "oordeel_zin": "As imagens são do aeroporto de Cabul em 16 de agosto de 2021, e em setembro de 2026 a Força Aérea dos EUA ainda estava em Incirlik [1] [3].",
+  "bewering": "Aviões de carga americanos estão levando tudo da base aérea na Turquia e partindo para sempre.",
+  "kort": "Em 27 de agosto, circulou no X um vídeo de aviões americanos que supostamente estariam deixando para sempre uma base na Turquia [4]. As imagens são de 16 de agosto de 2021, no aeroporto de Cabul, onde um helicóptero Apache afastava pessoas de um C-17 [1] [2]. Em setembro, a Força Aérea dos EUA ainda divulgava atividades normalmente na base de Incirlik, na Turquia [3] [6].",
+  "tekst": "Na quinta-feira, 27 de agosto, às 19:04, uma conta em neerlandês no X publicou um vídeo de 37 segundos [4]. O texto diz que aviões de carga americanos estão levando equipamentos e suprimentos de \"a base aérea na Turquia\" de volta aos Estados Unidos e deixando a base por completo [4]. A publicação não diz de qual base se trata [4]. Em 18 de novembro, ela tinha 9.252 visualizações [4].\n\nA mesma afirmação apareceu oito horas antes em inglês no X, às 11:15, com um vídeo da mesma duração [5]. Essa publicação teve 685.711 visualizações [5]. O texto em neerlandês parece ser uma tradução dela [4] [5].\n\nAs imagens têm cinco anos. Elas vêm do aeroporto de Cabul, na segunda-feira, 16 de agosto de 2021, nos dias da evacuação americana do Afeganistão [1] [2]. Grandes grupos de afegãos corriam então pela pista, em volta de um C-17 que taxiava [1]. Um helicóptero Apache do Exército dos EUA voava rente ao chão para afastá-los [1] [2]. O The War Zone publicou o vídeo no mesmo dia, com uma publicação em rede social como fonte [1]. O The Aviationist descreveu a cena um dia depois [2].\n\nO vídeo, portanto, não diz nada sobre a Turquia em 2026 [1] [4]. Um C-17 é um grande avião de transporte da Força Aérea dos EUA; esse tipo de aeronave operou a ponte aérea de Cabul em 2021 [2].\n\nOs americanos também não saíram da Turquia. Em 18 e 19 de setembro, militares da 39th Air Base Wing realizaram na base de Incirlik uma cerimônia de 24 horas em homenagem a prisioneiros de guerra e desaparecidos [3]. Em 25 de setembro, a mesma unidade reabriu ali um prédio com alojamentos para militares, após uma reforma de 949 dias [6]. As duas notícias vêm das próprias Forças Armadas dos EUA [3] [6].",
+  "niet_weten": "Não sabemos quem ligou as imagens à Turquia pela primeira vez. A publicação mais antiga com essa explicação que encontramos é a em inglês de 27 de agosto, às 11:15. Também não sabemos quem filmou o vídeo em 2021. Se algo mudou em agosto de 2026 em relação às tropas americanas na Turquia, não investigamos mais a fundo; nas duas notícias de setembro que lemos, não há nada sobre uma saída.",
+  "bereik": "9.252 visualizações em 18 de novembro",
+  "nog_uitzoeken": [
+   "Se havia, no final de agosto de 2026, notícias sobre tropas americanas na Turquia que possam explicar a publicação."
+  ],
+  "tijdlijn": [
+   "No aeroporto de Cabul, um Apache afasta pessoas de um C-17; o The War Zone publica o vídeo [1].",
+   "O The Aviationist descreve a mesma cena [2].",
+   "Uma publicação em inglês apresenta o vídeo como americanos deixando uma base na Turquia [5].",
+   "A publicação em neerlandês com a mesma afirmação [4].",
+   "Cerimônia de 24 horas na base de Incirlik [3].",
+   "Em Incirlik, reabre um prédio reformado com alojamentos para militares [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 27 de agosto de 2026, 19:04.",
+   "The War Zone, 16 de agosto de 2021: um Apache afasta afegãos de um C-17 no aeroporto de Cabul."
+  ],
+  "beeld_alt": [
+   "Imagem congelada do vídeo: um helicóptero voando baixo sobre uma pista, ao lado de um grande avião de transporte. Carimbo: FALSO.",
+   "O vídeo do The War Zone com um helicóptero Apache sobre a pista de Cabul, ao lado de um C-17."
+  ]
+ }
+}

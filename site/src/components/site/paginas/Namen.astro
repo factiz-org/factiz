@@ -1,0 +1,43 @@
+---
+// De site, het register van namen (PLAN #34.2r, DESIGN §4u): per soort de letters die namen hebben, op het alfabet van
+// de taal van de site; met een soort en een letter de namen eronder. Geen tellingen: een register, geen ranglijst.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+import Pijl from '../Pijl.astro';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+const gekozen = g.gekozen;
+const zoekdeel = gekozen ? `?letter=${encodeURIComponent(gekozen.letter)}&soort=${encodeURIComponent(gekozen.soort)}` : '';
+const titel = gekozen ? `${g.groepen.find((x) => x.soort === gekozen.soort)?.kop}: ${gekozen.teken} · ${t('nav_namen')}` : t('nav_namen');
+---
+<Site titel={titel} omschrijving={t('namen_inleiding')} hier="namen" taal={taal} delen={['names']} zoekdeel={zoekdeel} aangeboden={TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[t('nav_namen'), gekozen ? pad(taal, 'names') : '']]} />
+    <header class="paginakop">
+      {g.concept && <span class="mono">{t('dossier_concept')}</span>}
+      <h1 class="groot-kop">{t('nav_namen')}</h1>
+      <p class="text-[15.5px] leading-relaxed text-[var(--zacht)]">{t('namen_inleiding')}</p>
+      <p><a class="link text-[13.5px]" href={pad(taal, 'explore', 'network')}>{t('netwerk_titel')} <Pijl /></a></p>
+    </header>
+    <div class="mt-8 grid gap-6">
+      {g.groepen.map((groep) => (
+        <section class="paneel vak" aria-labelledby={`soort-${groep.soort}`}>
+          <div class="sectiekop"><h2 id={`soort-${groep.soort}`}>{groep.kop}</h2></div>
+          <ul class="flex flex-wrap gap-1.5" aria-label={t('namen_letters')}>
+            {groep.letters.map((l) => (
+              <li><a class="knop min-w-11 justify-center" href={l.href} aria-label={l.label || undefined}
+                     aria-current={gekozen && gekozen.soort === groep.soort && gekozen.letter === l.letter ? 'true' : undefined}>{l.teken}</a></li>
+            ))}
+          </ul>
+          {gekozen && gekozen.soort === groep.soort && (
+            <ul class="grid grid-cols-1 gap-x-6 gap-y-1.5 border-t border-[var(--lijn)] pt-3 sm:grid-cols-2 lg:grid-cols-3">
+              {g.namen.map((n) => <li class="min-w-0"><a class="link" href={n.href}>{n.naam}</a></li>)}
+            </ul>
+          )}
+        </section>
+      ))}
+    </div>
+  </div>
+</Site>

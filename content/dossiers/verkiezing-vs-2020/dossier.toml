@@ -1,0 +1,295 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Gekozen door de PO op 2026-11-12 (docs/voorstellen/2026-11-12-dossiers-longlist.md); de tekst is een concept van Claude.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-15, PO: "Alle dossiers zijn akkoord, behalve: Beelden van een aardbeving bij de verkeerde ramp"'
+thema = "elections"
+onderdeel = "results"
+verwant = []
+
+[naam]
+nl = "Het verhaal over de gestolen verkiezing in de VS van 2020"
+en = "The story of the stolen US election of 2020"
+de = "Die Erzählung über die gestohlene US-Wahl von 2020"
+es = "El relato de la elección robada de Estados Unidos en 2020"
+fr = "Le récit de l’élection volée aux États-Unis en 2020"
+pt = "A história da eleição dos EUA de 2020 supostamente roubada"
+ru = "История о «украденных» выборах в США 2020 года"
+uk = "Історія про вкрадені вибори в США 2020 року"
+id = "Kisah pemilu AS 2020 yang dicuri"
+tr = "2020 ABD seçiminin çalındığı hikâyesi"
+zh = "2020 年美國大選被「竊取」的說法"
+ja = "2020年アメリカ大統領選挙は盗まれた、という話"
+hi = "2020 के अमेरिकी चुनाव की कथित चोरी की कहानी"
+ar = "قصة سرقة الانتخابات الأمريكية لعام 2020"
+fa = "داستان سرقت انتخابات ۲۰۲۰ آمریکا"
+
+[inleiding]
+nl = """
+Eén verhaal over de Amerikaanse presidentsverkiezing van 2020 komt steeds terug: dat de uitslag gestolen was, met valse stembiljetten, stemmachines die stemmen omzetten, stemmen op naam van overleden mensen of tellingen in het geheim. Het duikt ook bij latere verkiezingen weer op. Dit dossier zet de versies die redacties hebben nagetrokken op een tijdlijn. Elke factcheck zegt wat die redactie vond; Factiz voegt geen eigen oordeel toe. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig."""
+en = """
+One story about the 2020 US presidential election keeps coming back: that the result was stolen, with fake ballots, voting machines that switched votes, votes in the name of dead people or counting in secret. It also returns at later elections. This dossier puts the versions that newsrooms checked on a timeline. Each fact-check says what that newsroom found; Factiz adds no verdict of its own. The list holds only fact-checks we may republish, so it is not complete."""
+de = """
+Eine Erzählung über die US-Präsidentschaftswahl 2020 kehrt immer wieder: Das Ergebnis sei gestohlen worden, mit gefälschten Stimmzetteln, Wahlmaschinen, die Stimmen umwandelten, Stimmen im Namen Verstorbener oder heimlichen Auszählungen. Sie taucht auch bei späteren Wahlen wieder auf. Dieses Dossier ordnet die Fassungen, die Redaktionen geprüft haben, auf einer Zeitleiste. Jeder Faktencheck sagt, was die jeweilige Redaktion herausfand; Factiz fügt kein eigenes Urteil hinzu. Die Liste enthält nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig."""
+es = """
+Un relato sobre la elección presidencial de Estados Unidos de 2020 vuelve una y otra vez: que el resultado fue robado, con papeletas falsas, máquinas de votación que cambiaban votos, votos a nombre de personas muertas o recuentos en secreto. También reaparece en elecciones posteriores. Este dosier ordena en una cronología las versiones que las redacciones han verificado. Cada verificación dice lo que encontró esa redacción; Factiz no añade un veredicto propio. La lista solo contiene verificaciones que podemos reproducir, así que no está completa."""
+fr = """
+Un récit sur l’élection présidentielle américaine de 2020 revient sans cesse : le résultat aurait été volé, avec de faux bulletins, des machines qui changeaient les votes, des votes au nom de personnes décédées ou des dépouillements en secret. Il ressurgit aussi lors d’élections plus récentes. Ce dossier place sur une chronologie les versions que des rédactions ont vérifiées. Chaque vérification dit ce que cette rédaction a trouvé ; Factiz n’ajoute aucun verdict. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc pas complète."""
+pt = '''
+Uma história sobre a eleição presidencial dos EUA de 2020 não para de voltar: a de que o resultado foi roubado, com cédulas falsas, urnas que trocaram votos, votos em nome de mortos ou contagem em segredo. Ela também reaparece em eleições seguintes. Este dossiê coloca em uma linha do tempo as versões que as agências checaram. Cada checagem diz o que aquela agência encontrou; a Factiz não acrescenta nenhuma classificação própria. A lista traz apenas checagens que podemos republicar, por isso não está completa.'''
+ru = '''
+Об одном и том же снова и снова говорят в связи с президентскими выборами в США 2020 года: будто результат украли с помощью фальшивых бюллетеней, машин для голосования, которые переключали голоса, голосов от имени умерших или тайного подсчёта. Эта история возвращается и на более поздних выборах. В этом досье версии, которые проверили редакции, расположены на временной шкале. Каждый фактчек показывает, что нашла эта редакция. Factiz не выносит собственных вердиктов. В список входят только фактчеки, которые нам разрешено republish, поэтому он неполный.'''
+uk = '''
+Одна історія про президентські вибори в США 2020 року постійно повертається: що результат вкрали за допомогою підроблених бюлетенів, машин для голосування, які перемикали голоси, голосів від імені мертвих людей або таємного підрахунку. Вона з'являється і на пізніших виборах. Це досьє розміщує на часовій шкалі версії, які перевіряли редакції. Кожен фактчек показує, що виявила ця редакція; Factiz не додає власного вердикту. У списку лише ті фактчеки, які ми можемо повторно публікувати, тому він неповний.'''
+id = '''
+Satu kisah tentang pemilihan presiden AS 2020 terus muncul kembali: bahwa hasilnya dicuri, dengan surat suara palsu, mesin pemilihan yang memindahkan suara, suara atas nama orang yang sudah meninggal, atau penghitungan secara diam-diam. Kisah ini juga muncul lagi pada pemilu berikutnya. Dosir ini menempatkan versi-versi yang diperiksa oleh redaksi dalam satu lini masa. Setiap cek fakta menyampaikan apa yang ditemukan redaksi tersebut; Factiz tidak menambahkan kesimpulan sendiri. Daftar ini hanya memuat cek fakta yang boleh kami terbitkan ulang, jadi tidak lengkap.'''
+tr = '''
+2020 ABD başkanlık seçimiyle ilgili bir hikâye sürekli geri geliyor: Sonucun sahte oy pusulalarıyla, oyları değiştiren oy verme makineleriyle, ölmüş kişiler adına kullanılan oylarla ya da gizlice yapılan sayımla çalındığı iddiası. Aynı hikâye sonraki seçimlerde de yeniden ortaya çıkıyor. Bu dosya, doğrulama kuruluşlarının incelediği farklı biçimlerini bir zaman çizelgesine koyar. Her doğrulama, o doğrulama kuruluşunun ne bulduğunu söyler; Factiz kendi başına bir karar eklemez. Liste yalnızca yeniden yayımlayabildiğimiz doğrulamaları içerir, bu yüzden eksiksiz değildir.'''
+zh = '''
+關於 2020 年美國總統大選，有一種說法一再出現：選舉結果被竊取，手法包括偽造選票、投票機轉換票數、冒用死者名義投票，或祕密計票。這種說法在後來的選舉中也一再重現。這份專題把查核機構查證過的各種版本放在時間軸上。每一則查核報告都說明該查核機構的發現，Factiz 不另外加上自己的查核結果。清單只收錄我們可以轉載的查核報告，所以並不完整。'''
+ja = '''
+2020年のアメリカ大統領選挙については、結果は盗まれたという話が繰り返し出てきます。偽の投票用紙、票を入れ替える投票機、死者の名前での投票、秘密の開票などが挙げられています。この話は、その後の選挙でも再び出てきます。この特集では、報道機関が検証した各バージョンを時系列に並べています。それぞれのファクトチェックは、その報道機関が確認した内容を示しています。Factizが独自の判定を加えることはありません。一覧に載せているのは、再掲載が認められたファクトチェックだけなので、すべてを網羅しているわけではありません。'''
+hi = '''
+2020 के अमेरिकी राष्ट्रपति चुनाव को लेकर एक कहानी बार-बार लौटती है: कि नतीजा चुरा लिया गया, जाली मतपत्रों से, वोट बदलने वाली वोटिंग मशीनों से, मृत लोगों के नाम पर पड़े वोटों से या चोरी-छिपे हुई गिनती से। यह कहानी बाद के चुनावों में भी लौटती है। इस डोसियर में उन संस्करणों को समयरेखा पर रखा गया है जिनकी न्यूज़रूम ने जांच की। हर फैक्ट चेक बताता है कि उस न्यूज़रूम ने क्या पाया; Factiz अपना कोई निष्कर्ष नहीं जोड़ता। इस सूची में केवल वही फैक्ट चेक हैं जिन्हें हम दोबारा प्रकाशित कर सकते हैं, इसलिए यह पूरी नहीं है।'''
+ar = '''
+قصة واحدة عن الانتخابات الرئاسية الأمريكية لعام 2020 تعود مرة بعد أخرى: أن النتيجة سُرقت، عبر بطاقات اقتراع مزورة، أو آلات تصويت حوّلت الأصوات، أو أصوات باسم أشخاص متوفين، أو فرز سري. وتعود القصة أيضًا في انتخابات لاحقة. يضع هذا الملف على خط زمني النسخ التي دققتها منصات إخبارية. يوضح كل تدقيق ما توصلت إليه تلك المنصة، ولا تضيف Factiz أي تصنيف من عندها. تضم القائمة فقط التدقيقات التي يحق لنا إعادة نشرها، لذلك فهي ليست كاملة.'''
+fa = '''
+یک داستان درباره انتخابات ریاست‌جمهوری ۲۰۲۰ آمریکا مدام تکرار می‌شود: اینکه نتیجه دزدیده شده است، با برگه‌های رأی جعلی، دستگاه‌های رأی‌گیری که رأی‌ها را عوض کرده‌اند، رأی به نام مردگان یا شمارش مخفیانه. این داستان در انتخابات‌های بعدی هم دوباره پیش می‌آید. این پرونده نسخه‌هایی را که رسانه‌ها بررسی کرده‌اند روی یک خط زمانی می‌گذارد. هر راستی‌آزمایی می‌گوید آن رسانه چه یافته است؛ Factiz نتیجه‌گیری خودش را اضافه نمی‌کند. این فهرست فقط شامل راستی‌آزمایی‌هایی است که اجازه بازنشر آن‌ها را داریم، پس کامل نیست.'''
+
+# Las een moedertaallezer de tekst al? (B74) Geschreven door Claude; het Nederlands is de bron voor de PO.
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+pt = false
+ru = false
+uk = false
+id = false
+tr = false
+zh = false
+ja = false
+hi = false
+ar = false
+fa = false
+
+# De items op de tijdlijn die geen factcheck zijn. Elk is op 2026-11-12 bij de bron zelf gelezen (door een helper van
+# Claude, met een citaat), nagelopen door Claude; de titels zijn van Claude, in vijf talen, niet nagelezen.
+
+[[item]]
+soort = "besluit"
+datum = "2020-11-12"
+bron = "CISA"
+url = "https://www.cisa.gov/news-events/news/joint-statement-elections-infrastructure-government-coordinating-council-election-infrastructure"
+[item.titel]
+nl = "CISA en verkiezingsfunctionarissen zeggen dat er geen bewijs is dat een stemsysteem stemmen wiste, verloor of veranderde, en noemen de verkiezing de veiligste in de Amerikaanse geschiedenis"
+en = "CISA and election officials say there is no evidence any voting system deleted, lost or changed votes, and call the 2020 election the most secure in American history"
+de = "CISA und Wahlbeamte erklären, es gebe keinen Beleg, dass ein Wahlsystem Stimmen gelöscht, verloren oder verändert habe, und nennen die Wahl die sicherste der US-Geschichte"
+es = "CISA y responsables electorales dicen que no hay pruebas de que un sistema de voto borrara, perdiera o cambiara votos, y llaman a estas elecciones las más seguras de EE. UU."
+fr = "La CISA et des responsables électoraux disent qu’aucune preuve ne montre qu’un système de vote ait effacé, perdu ou modifié des voix, et parlent de l’élection la plus sûre du pays"
+pt = "A CISA e autoridades eleitorais dizem que não há provas de que algum sistema de votação tenha apagado, perdido ou alterado votos, e chamam a eleição de 2020 de a mais segura da história dos EUA"
+ru = "CISA и избирательные органы заявляют, что нет доказательств удаления, потери или изменения голосов системами голосования, и называют выборы 2020 года самыми безопасными в истории США"
+uk = "CISA та виборчі посадовці кажуть, що жодна система голосування не видалила, не втратила і не змінила голосів, а вибори 2020 року найбезпечніші в історії Америки"
+id = "CISA dan pejabat pemilu menyatakan tidak ada bukti sistem pemungutan suara menghapus, menghilangkan, atau mengubah suara, dan menyebut pemilu 2020 paling aman dalam sejarah Amerika"
+tr = "CISA ve seçim yetkilileri, hiçbir oy verme sisteminin oyları sildiğine, kaybettiğine ya da değiştirdiğine dair kanıt olmadığını söylüyor ve 2020 seçimini ABD tarihinin en güvenli seçimi sayıyor"
+zh = "CISA 與選務官員表示，沒有證據顯示任何投票系統刪除、遺失或更改選票，並稱 2020 年大選是美國歷史上最安全的一次選舉"
+ja = "CISAと選挙管理当局は、投票システムが票を削除したり、失ったり、変更したりした証拠はないと述べ、2020年の選挙はアメリカ史上最も安全だったとしています"
+hi = "CISA और चुनाव अधिकारी कहते हैं कि इसका कोई सबूत नहीं है कि किसी वोटिंग सिस्टम ने वोट मिटाए, खोए या बदले, और 2020 के चुनाव को अमेरिकी इतिहास का सबसे सुरक्षित चुनाव बताते हैं"
+ar = "وكالة CISA ومسؤولو الانتخابات يقولون إنه لا يوجد دليل على أن أي نظام تصويت حذف أصواتًا أو أضاعها أو غيّرها، ويصفون انتخابات 2020 بأنها الأكثر أمانًا في تاريخ أمريكا"
+fa = "CISA و مسئولان انتخابات می‌گویند هیچ مدرکی وجود ندارد که نشان دهد سامانه‌ای رأی‌ها را حذف کرده، گم کرده یا تغییر داده است، و انتخابات ۲۰۲۰ را امن‌ترین انتخابات تاریخ آمریکا می‌نامند"
+
+[[item]]
+soort = "rapport"
+datum = "2020-11-19"
+bron = "VotingWorks, for the Georgia Secretary of State"
+url = "https://public-assets.voting.works/website/2020/11/georgia2020_report.pdf"
+[item.titel]
+nl = "Een handtelling van zo'n 5 miljoen stembiljetten bij de controle in Georgia bevestigt dat Biden de staat won, staat in het verslag van VotingWorks, dat de controle mee uitvoerde"
+en = "A hand count of about 5 million ballots in Georgia's audit confirms that Biden won the state, says the report of VotingWorks, which assisted the Secretary of State"
+de = "Eine Handzählung von rund 5 Millionen Stimmzetteln bei der Prüfung in Georgia bestätigt Bidens Sieg im Bundesstaat, so der Bericht von VotingWorks, das die Prüfung unterstützte"
+es = "Un recuento a mano de unos 5 millones de papeletas en la auditoría de Georgia confirma que Biden ganó el estado, según el informe de VotingWorks, que ayudó en la auditoría"
+fr = "Un recomptage manuel d’environ 5 millions de bulletins lors de l’audit en Géorgie confirme la victoire de Biden, selon le rapport de VotingWorks, qui a aidé à l’audit"
+pt = "A recontagem manual de cerca de 5 milhões de cédulas na auditoria da Geórgia confirma que Biden venceu no estado, diz o relatório da VotingWorks, que ajudou o secretário de Estado"
+ru = "Ручной пересчёт около 5 миллионов бюллетеней при аудите в Джорджии подтверждает, что в штате победил Байден, говорится в отчёте VotingWorks, которая помогала госсекретарю штата"
+uk = "Ручний підрахунок близько 5 мільйонів бюлетенів під час аудиту в Джорджії підтверджує, що Байден переміг у штаті, йдеться у звіті VotingWorks, які допомагали держсекретарю штату"
+id = "Penghitungan manual sekitar 5 juta surat suara dalam audit Georgia memastikan Biden menang di negara bagian itu, kata laporan VotingWorks, yang membantu Menteri Luar Negeri Georgia"
+tr = "Georgia'da yaklaşık 5 milyon oy pusulasının elle sayıldığı denetim, Biden'ın eyaleti kazandığını doğruladı; bunu Dışişleri Bakanı'na yardım eden VotingWorks'ün raporu belirtiyor"
+zh = "喬治亞州稽核中，約 500 萬張選票經人工重新計票，確認拜登贏得該州。協助州務卿的 VotingWorks 在報告中如此表示"
+ja = "ジョージア州の監査で約500万票の手作業での再集計を行った結果、バイデン氏の勝利が確認されたと、州務長官を支援したVotingWorksの報告書は述べています"
+hi = "जॉर्जिया में लगभग 50 लाख मतपत्रों की हाथ से गिनती वाले ऑडिट ने पुष्टि की कि राज्य में बाइडेन जीते, यह Secretary of State कार्यालय की मदद करने वाले VotingWorks की रिपोर्ट में है"
+ar = "العد اليدوي لنحو 5 ملايين بطاقة اقتراع في تدقيق ولاية جورجيا يؤكد فوز بايدن في الولاية، بحسب تقرير VotingWorks التي ساعدت وزير الولاية"
+fa = "طبق گزارش VotingWorks که به وزیر امور خارجه ایالت کمک کرد، شمارش دستی حدود ۵ میلیون برگه رأی در بازرسی ایالت جورجیا تأیید می‌کند که بایدن برنده این ایالت شده است"
+
+[[item]]
+soort = "pers"
+datum = "2020-12-01"
+bron = "AP (via PBS NewsHour)"
+url = "https://www.pbs.org/newshour/politics/barr-says-justice-department-found-no-evidence-of-fraud-that-would-change-election-outcome"
+[item.titel]
+nl = "Minister van Justitie William Barr zegt tegen AP dat zijn ministerie geen fraude heeft gezien op een schaal die de uitslag had kunnen veranderen"
+en = "Attorney General William Barr tells AP that the Justice Department has not seen fraud on a scale that could have changed the outcome of the election"
+de = "Justizminister William Barr sagt AP, das Justizministerium habe keinen Betrug in einem Ausmaß gesehen, das das Wahlergebnis hätte ändern können"
+es = "El fiscal general William Barr dice a AP que el Departamento de Justicia no ha visto fraude a una escala que pudiera cambiar el resultado de las elecciones"
+fr = "Le ministre de la Justice William Barr dit à l’AP que son ministère n’a pas constaté de fraude d’une ampleur capable de changer le résultat de l’élection"
+pt = "O procurador-geral William Barr diz à AP que o Departamento de Justiça não viu fraude em escala capaz de mudar o resultado da eleição"
+ru = "Генеральный прокурор Уильям Барр сообщает агентству AP, что Министерство юстиции не обнаружило мошенничества в масштабе, который мог бы изменить итог выборов"
+uk = "Генеральний прокурор Вільям Барр повідомляє AP, що Міністерство юстиції не бачило шахрайства в масштабі, який міг би змінити результат виборів"
+id = "Jaksa Agung William Barr mengatakan kepada AP bahwa Departemen Kehakiman tidak melihat kecurangan dalam skala yang dapat mengubah hasil pemilu"
+tr = "Başsavcı William Barr, AP'ye Adalet Bakanlığı'nın seçimin sonucunu değiştirebilecek ölçekte bir usulsüzlük görmediğini söylüyor"
+zh = "司法部長巴爾（William Barr）告訴美聯社，司法部沒有看到足以改變選舉結果的大規模舞弊"
+ja = "ウィリアム・バー司法長官はAP通信に対し、選挙結果を変え得る規模の不正を司法省は確認していないと述べています"
+hi = "अटॉर्नी जनरल विलियम बार AP से कहते हैं कि न्याय विभाग को इतने बड़े पैमाने पर धोखाधड़ी नहीं दिखी जो चुनाव का नतीजा बदल सकती थी"
+ar = "المدعي العام ويليام بار يقول لوكالة AP إن وزارة العدل لم ترَ تزويرًا بحجم يمكن أن يغيّر نتيجة الانتخابات"
+fa = "ویلیام بار، دادستان کل، به AP می‌گوید وزارت دادگستری تقلبی در مقیاسی که بتواند نتیجه انتخابات را تغییر دهد ندیده است"
+
+[[item]]
+soort = "besluit"
+datum = "2020-12-11"
+bron = "US Supreme Court"
+url = "https://www.supremecourt.gov/orders/courtorders/121120zr_p860.pdf"
+[item.titel]
+nl = "Het Amerikaanse Hooggerechtshof staat Texas niet toe Pennsylvania en andere staten aan te klagen over hun verkiezing, omdat Texas daartoe niet bevoegd is"
+en = "The US Supreme Court refuses to let Texas sue Pennsylvania and other states over how they ran the election, because Texas has no standing"
+de = "Der Oberste Gerichtshof der USA lässt eine Klage von Texas gegen Pennsylvania und andere Staaten zu deren Wahl nicht zu, weil Texas dazu nicht klagebefugt ist"
+es = "El Tribunal Supremo de EE. UU. no permite a Texas demandar a Pensilvania y otros estados por sus elecciones, porque Texas carece de legitimación"
+fr = "La Cour suprême des États-Unis refuse que le Texas poursuive la Pennsylvanie et d’autres États sur leur élection, faute d’intérêt à agir"
+pt = "A Suprema Corte dos EUA se recusa a permitir que o Texas processe a Pensilvânia e outros estados pela forma como conduziram a eleição, porque o Texas não tem legitimidade para isso"
+ru = "Верховный суд США отказывается позволить Техасу подать иск против Пенсильвании и других штатов из-за того, как они провели выборы, потому что у Техаса нет на это права"
+uk = "Верховний суд США відмовляється дозволити Техасу подати позов проти Пенсільванії та інших штатів щодо того, як вони провели вибори, бо Техас не має права на такий позов"
+id = "Mahkamah Agung AS menolak mengizinkan Texas menggugat Pennsylvania dan negara bagian lain soal cara mereka menyelenggarakan pemilu, karena Texas tidak memiliki kedudukan hukum"
+tr = "ABD Yüksek Mahkemesi, Teksas'ın dava açma hakkı olmadığı için Teksas'ın Pennsylvania'ya ve diğer eyaletlere seçimi nasıl yürüttükleri konusunda dava açmasına izin vermiyor"
+zh = "美國最高法院拒絕讓德州就賓州及其他州辦理選舉的方式提起訴訟，理由是德州沒有訴訟資格"
+ja = "アメリカ連邦最高裁は、テキサス州には訴える資格がないとして、選挙の運営方法をめぐりテキサス州がペンシルベニア州などを訴えることを認めませんでした"
+hi = "अमेरिकी सुप्रीम कोर्ट टेक्सस को चुनाव कराने के तरीके को लेकर पेंसिल्वेनिया और अन्य राज्यों पर मुकदमा करने की अनुमति देने से इनकार करता है, क्योंकि टेक्सस को इसका कानूनी अधिकार नहीं है"
+ar = "المحكمة العليا الأمريكية ترفض السماح لتكساس بمقاضاة بنسلفانيا وولايات أخرى بسبب طريقة إجراء الانتخابات، لأن تكساس لا تملك صفة التقاضي"
+fa = "دیوان عالی آمریکا اجازه نمی‌دهد تگزاس از پنسیلوانیا و ایالت‌های دیگر به‌خاطر شیوه برگزاری انتخابات شکایت کند، چون تگزاس حق طرح دعوا ندارد"
+
+[[item]]
+soort = "pers"
+datum = "2021-09-24"
+bron = "NPR"
+url = "https://www.npr.org/2021/09/24/1040327483/the-controversial-election-review-in-arizona-confirms-bidens-win"
+[item.titel]
+nl = "NPR meldt dat de controle door Cyber Ninjas voor de Senaat van Arizona uitkwam dicht bij de officiële telling in Maricopa: 99 stemmen meer voor Biden, 261 minder voor Trump"
+en = "NPR reports that the Arizona Senate's review by Cyber Ninjas found a hand count close to the official one in Maricopa: 99 more votes for Biden, 261 fewer for Trump"
+de = "NPR berichtet, die Prüfung durch Cyber Ninjas für den Senat von Arizona kam der offiziellen Zählung in Maricopa nahe: 99 Stimmen mehr für Biden, 261 weniger für Trump"
+es = "NPR informa de que la revisión de Cyber Ninjas para el Senado de Arizona quedó cerca del recuento oficial en Maricopa: 99 votos más para Biden y 261 menos para Trump"
+fr = "NPR rapporte que l’examen de Cyber Ninjas pour le Sénat de l’Arizona est proche du décompte officiel à Maricopa : 99 voix de plus pour Biden, 261 de moins pour Trump"
+pt = "A NPR informa que a revisão do Senado do Arizona feita pela Cyber Ninjas encontrou uma contagem manual próxima da oficial em Maricopa: 99 votos a mais para Biden e 261 a menos para Trump"
+ru = "NPR: проверка Cyber Ninjas по заказу Сената Аризоны показала, что ручной подсчёт в округе Марикопа близок к официальному: у Байдена на 99 голосов больше, у Трампа на 261 меньше"
+uk = "NPR повідомляє, що перевірка Сенату Аризони компанією Cyber Ninjas показала ручний підрахунок, близький до офіційного в окрузі Марікопа: на 99 голосів більше за Байдена, на 261 менше за Трампа"
+id = "NPR melaporkan tinjauan Senat Arizona oleh Cyber Ninjas menemukan hitung manual mendekati hasil resmi di Maricopa: Biden lebih 99 suara, Trump kurang 261 suara."
+tr = "NPR, Arizona Senatosu'nun Cyber Ninjas ile yaptığı incelemede Maricopa'daki elle sayımın resmi sayıma yakın çıktığını bildiriyor: Biden için 99 oy fazla, Trump için 261 oy eksik"
+zh = "NPR 報導，亞利桑那州參議院委託 Cyber Ninjas 進行的審查發現，馬里科帕郡的人工計票結果與官方結果相近：拜登多 99 票，川普少 261 票"
+ja = "NPRは、アリゾナ州上院の依頼によるCyber Ninjasの検証で、マリコパ郡の手作業での集計結果が公式の結果に近かったと報じています。バイデン氏は99票増え、トランプ氏は261票減りました"
+hi = "NPR की रिपोर्ट है कि Cyber Ninjas की ओर से की गई एरिज़ोना सीनेट की समीक्षा में मैरिकोपा की हाथ से गिनती आधिकारिक गिनती के करीब निकली: बाइडेन को 99 वोट ज़्यादा, ट्रंप को 261 कम"
+ar = "NPR تفيد بأن مراجعة مجلس شيوخ أريزونا التي أجرتها Cyber Ninjas وجدت عدًّا يدويًا قريبًا من العد الرسمي في ماريكوبا: 99 صوتًا أكثر لبايدن و261 صوتًا أقل لترامب"
+fa = "NPR گزارش می‌دهد که در بررسی سنای آریزونا توسط Cyber Ninjas، شمارش دستی در ماریکوپا به شمارش رسمی نزدیک بود: ۹۹ رأی بیشتر برای بایدن و ۲۶۱ رأی کمتر برای ترامپ"
+
+[[item]]
+soort = "rapport"
+datum = "2022-12-22"
+bron = "US House January 6th Committee"
+url = "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/es.html"
+[item.titel]
+nl = "De commissie van het Huis van Afgevaardigden over 6 januari concludeert dat Donald Trump bewust valse beschuldigingen van fraude verspreidde om de uitslag ongedaan te maken"
+en = "The House January 6th Committee concludes that Donald Trump purposely spread false allegations of fraud about the 2020 election to help overturn it"
+de = "Der Ausschuss des Repräsentantenhauses zum 6. Januar kommt zu dem Schluss, dass Donald Trump bewusst falsche Betrugsvorwürfe verbreitete, um das Ergebnis zu kippen"
+es = "La comisión de la Cámara de Representantes sobre el 6 de enero concluye que Donald Trump difundió a propósito falsas acusaciones de fraude para revertir el resultado"
+fr = "La commission de la Chambre des représentants sur le 6 janvier conclut que Donald Trump a sciemment propagé de fausses accusations de fraude pour renverser le résultat"
+pt = "O Comitê da Câmara sobre o 6 de Janeiro conclui que Donald Trump espalhou de propósito falsas acusações de fraude sobre a eleição de 2020 para ajudar a reverter o resultado"
+ru = "Комитет Палаты представителей по событиям 6 января делает вывод, что Дональд Трамп намеренно распространял ложные обвинения в фальсификациях на выборах 2020 года, чтобы помочь отменить их результат"
+uk = "Комітет Палати представників з розслідування подій 6 січня вважає, що Дональд Трамп навмисно поширював неправдиві заяви про фальсифікації на виборах 2020 року, щоб скасувати їхній результат"
+id = "Komite 6 Januari DPR menyimpulkan bahwa Donald Trump dengan sengaja menyebarkan tuduhan palsu tentang kecurangan dalam pemilu 2020 untuk membantu membatalkan hasilnya"
+tr = "Temsilciler Meclisi 6 Ocak Komitesi, Donald Trump'ın 2020 seçimiyle ilgili asılsız usulsüzlük iddialarını seçimi tersine çevirmeye yardımcı olmak için bilerek yaydığı sonucuna varıyor"
+zh = "美國眾議院 1 月 6 日調查委員會認定，川普刻意散布關於 2020 年大選的不實舞弊指控，意圖協助推翻選舉結果"
+ja = "連邦議会下院の1月6日委員会は、ドナルド・トランプ氏が、2020年の選挙を覆すために、不正があったという虚偽の主張を意図的に広めたと結論づけています"
+hi = "हाउस की 6 जनवरी समिति इस नतीजे पर पहुंचती है कि डोनाल्ड ट्रंप ने 2020 के चुनाव को पलटने में मदद के लिए जानबूझकर धोखाधड़ी के झूठे आरोप फैलाए"
+ar = "لجنة مجلس النواب للتحقيق في أحداث 6 يناير تخلص إلى أن دونالد ترامب نشر عمدًا ادعاءات كاذبة عن تزوير انتخابات 2020 للمساعدة في قلب نتيجتها"
+fa = "کمیته ۶ ژانویه مجلس نمایندگان نتیجه می‌گیرد که دونالد ترامپ عمداً ادعاهای نادرست درباره تقلب در انتخابات ۲۰۲۰ را پخش کرد تا به برگرداندن نتیجه کمک کند"
+
+[[item]]
+soort = "besluit"
+datum = "2023-03-31"
+bron = "Delaware Superior Court"
+url = "https://courts.delaware.gov/Opinions/Download.aspx?id=345820"
+[item.titel]
+nl = "In de zaak Dominion tegen Fox oordeelt een rechter in Delaware dat het glashelder is dat geen van de uitspraken van Fox over Dominion en de verkiezing waar is"
+en = "In Dominion v. Fox, a Delaware judge rules that it is crystal clear none of the Fox statements about Dominion and the 2020 election are true"
+de = "Im Fall Dominion gegen Fox urteilt ein Richter in Delaware, es sei glasklar, dass keine der Aussagen von Fox über Dominion und die Wahl 2020 wahr sei"
+es = "En el caso Dominion contra Fox, un juez de Delaware dictamina que está clarísimo que ninguna afirmación de Fox sobre Dominion y las elecciones de 2020 es cierta"
+fr = "Dans l’affaire Dominion contre Fox, un juge du Delaware estime parfaitement clair qu’aucune déclaration de Fox sur Dominion et l’élection de 2020 n’est vraie"
+pt = "No caso Dominion contra Fox, um juiz de Delaware decide que está claríssimo que nenhuma das declarações da Fox sobre a Dominion e a eleição de 2020 é verdadeira"
+ru = "В деле Dominion против Fox судья в Делавэре постановляет, что совершенно ясно: ни одно из заявлений Fox о Dominion и выборах 2020 года не соответствует действительности"
+uk = "У справі Dominion проти Fox суддя в Делавері постановляє, що цілком очевидно: жодне з тверджень Fox про Dominion і вибори 2020 року не відповідає дійсності"
+id = "Dalam kasus Dominion melawan Fox, seorang hakim Delaware memutuskan bahwa sangat jelas tidak ada satu pun pernyataan Fox tentang Dominion dan pemilu 2020 yang benar"
+tr = "Dominion v. Fox davasında Delaware'deki bir yargıç, Fox'un Dominion ve 2020 seçimi hakkındaki açıklamalarının hiçbirinin doğru olmadığının çok açık olduğuna karar veriyor"
+zh = "在 Dominion 控告福斯一案中，德拉瓦州法官裁定，福斯關於 Dominion 與 2020 年大選的說法，非常明確地沒有一項屬實"
+ja = "ドミニオン対フォックスの裁判で、デラウェア州の裁判官は、ドミニオンと2020年の選挙についてのフォックスの発言はどれも真実ではないことは明白だと判断しました"
+hi = "Dominion बनाम Fox मामले में डेलावेयर के एक जज का फैसला है कि यह बिल्कुल साफ़ है कि Dominion और 2020 के चुनाव के बारे में Fox के कोई भी बयान सच नहीं हैं"
+ar = "في قضية Dominion ضد Fox، قاضٍ في ولاية ديلاوير يحكم بأنه من الواضح تمامًا أن أيًا من تصريحات Fox عن Dominion وانتخابات 2020 ليس صحيحًا"
+fa = "در پرونده Dominion علیه Fox، قاضی ایالت دلاور حکم می‌دهد که کاملاً روشن است هیچ‌یک از اظهارات Fox درباره Dominion و انتخابات ۲۰۲۰ درست نیست"
+
+[[item]]
+soort = "pers"
+datum = "2023-04-18"
+bron = "CBS News"
+url = "https://www.cbsnews.com/news/fox-news-dominion-voting-systems-lawsuit-settlement"
+[item.titel]
+nl = "Fox News betaalt Dominion 787,5 miljoen dollar om de zaak over smaad te schikken en erkent de uitspraken van de rechter dat bepaalde beweringen over Dominion vals waren"
+en = "Fox News agrees to pay Dominion 787.5 million dollars to settle the defamation case and acknowledges the court's rulings that certain claims about Dominion were false"
+de = "Fox News zahlt Dominion 787,5 Millionen Dollar für einen Vergleich und erkennt die Urteile an, wonach bestimmte Behauptungen über Dominion falsch waren"
+es = "Fox News paga 787,5 millones de dólares a Dominion para cerrar la demanda por difamación y reconoce los fallos que declararon falsas ciertas afirmaciones sobre Dominion"
+fr = "Fox News verse 787,5 millions de dollars à Dominion pour clore le procès en diffamation et reconnaît les décisions jugeant fausses certaines affirmations sur Dominion"
+pt = "A Fox News aceita pagar 787,5 milhões de dólares à Dominion para encerrar o processo por difamação e reconhece as decisões do tribunal de que certas afirmações sobre a Dominion eram falsas"
+ru = "Fox News соглашается выплатить Dominion 787,5 миллиона долларов, чтобы урегулировать дело о клевете, и признаёт решения суда о том, что некоторые утверждения о Dominion были ложными"
+uk = "Fox News погоджується виплатити Dominion 787,5 мільйона доларів для врегулювання справи про наклеп і визнає рішення суду про те, що певні твердження про Dominion були неправдивими"
+id = "Fox News setuju membayar Dominion 787,5 juta dolar untuk menyelesaikan kasus pencemaran nama baik dan mengakui putusan pengadilan bahwa klaim tertentu tentang Dominion adalah palsu"
+tr = "Fox News, iftira davasını sonuçlandırmak için Dominion'a 787,5 milyon dolar ödemeyi kabul ediyor ve Dominion hakkındaki bazı iddiaların yanlış olduğuna dair mahkeme kararlarını kabul ediyor"
+zh = "福斯新聞同意支付 Dominion 7 億 8,750 萬美元以和解這起誹謗案，並承認法院的裁定：有關 Dominion 的某些說法是不實的"
+ja = "フォックス・ニュースは、名誉毀損の訴訟を和解するためドミニオンに7億8750万ドルを支払うことに同意し、ドミニオンに関する一部の言説は虚偽だとした裁判所の判断を認めています"
+hi = "Fox News मानहानि का मामला निपटाने के लिए Dominion को 78.75 करोड़ डॉलर देने पर सहमत होता है और अदालत के उन फैसलों को स्वीकार करता है कि Dominion के बारे में कुछ दावे झूठे थे"
+ar = "Fox News توافق على دفع 787.5 مليون دولار لشركة Dominion لتسوية قضية التشهير، وتقر بقرارات المحكمة التي رأت أن ادعاءات معينة عن Dominion كاذبة"
+fa = "Fox News می‌پذیرد برای پایان دادن به پرونده افترا ۷۸۷٫۵ میلیون دلار به Dominion بپردازد و احکام دادگاه را مبنی بر نادرست بودن برخی ادعاها درباره Dominion می‌پذیرد"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = [
+  "ballots",
+  "mail-in ballots",
+  "voting machines",
+  "voting machine",
+  "election was stolen",
+  "rigged election",
+  "dead voters",
+  "presidential election",
+  "Wahlfälschung",
+  "fraude électoral",
+  "Dominion",
+  "Smartmatic",
+  "stolen election",
+  "Stop the Steal",
+  "election fraud",
+  "voter fraud",
+  "ballot",
+  "mail-in",
+  "rigged",
+  "2020 election",
+  "Wahlbetrug",
+  "Briefwahl",
+  "Stimmzettel",
+  "fraude electoral",
+  "fraude eleitoral",
+  "fraude électorale",
+  "verkiezingsfraude",
+  "stembiljet",
+  "papeletas",
+  "cédulas",
+  "bulletins de vote",
+  "boletas",
+]
+omschrijving = """
+Claims that the 2020 presidential election in the United States was stolen, rigged or decided by fraud: fake, dumped, destroyed or duplicated ballots, voting machines (Dominion, Smartmatic) that switched votes, votes cast in the name of dead people or non-citizens, secret counting, or that Donald Trump really won. It includes such claims made later, also during the elections of 2022 and 2024 when they are about 2020. It does not include claims about elections in other countries, or about US elections other than 2020 unless they repeat this story about 2020 itself. It does not include the Senate runoff in Georgia, January 6 and the protests against the result, claims about the story (polls, reactions, rebuttals), claims of manipulation without vote fraud (censorship), Dominion in other countries, or later claims that only vaguely point back to 2020 (afbakening van de PO, 2026-11-12)."""

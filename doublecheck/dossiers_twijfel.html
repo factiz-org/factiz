@@ -1,0 +1,331 @@
+<title>Twijfel bij de dossiers</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap">
+<style>
+/* Dezelfde kaartenbak als de andere nakijkpagina's, maar een keuze per groep: Claude las elke kaart, hier staat alleen
+   zijn twijfel, met één vraag per groep. De kaarten zelf zitten in een uitklapper, voor wie wil kijken. */
+:root {
+  --bg: #eef0ec; --kaart: #fcfcf9; --inkt: #1d2320; --zacht: #5d6660; --lijn: #d6dad3; --rode-lijn: #c9584b;
+  --accent: #23566b; --accent-zacht: #dbe7ea; --groen: #2f7d4a; --grijs-zacht: #e6e9e4;
+  --serif: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+    --accent: #7fb4c7; --accent-zacht: #23353b; --groen: #6cc08a; --grijs-zacht: #2a302d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #151a18; --kaart: #1e2421; --inkt: #e6e9e4; --zacht: #9aa39d; --lijn: #333b37; --rode-lijn: #d9776b;
+  --accent: #7fb4c7; --accent-zacht: #23353b; --groen: #6cc08a; --grijs-zacht: #2a302d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--inkt); font: 15px/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.bak { max-width: 760px; margin: 0 auto; display: grid; gap: 20px; }
+header { display: grid; gap: 10px; }
+.label { font: 500 11.5px/1.3 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--zacht); }
+h1 { font: 500 28px/1.2 var(--serif); margin: 0; text-wrap: balance; }
+h2 { font: 500 22px/1.25 var(--serif); margin: 0; text-wrap: balance; }
+h3 { font: 600 17px/1.4 var(--sans); margin: 0; text-wrap: balance; }
+.uitleg { margin: 0; color: var(--zacht); max-width: 66ch; }
+.uitleg b { color: var(--inkt); font-weight: 600; }
+.stand { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; display: flex; flex-wrap: wrap; gap: 6px 18px;
+  align-items: baseline; padding: 10px 14px; border: 1px solid var(--lijn); border-radius: 6px; background: var(--kaart);
+  font-variant-numeric: tabular-nums; }
+.stand strong { font: 600 19px/1 var(--sans); }
+.stand .item { color: var(--zacht); }
+.stand button { margin-inline-start: auto; }
+.balk { flex-basis: 100%; height: 4px; background: var(--grijs-zacht); border-radius: 2px; overflow: hidden; }
+.balk span { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+.melding { font-size: 13px; color: var(--zacht); }
+.dossier { display: grid; gap: 14px; padding-top: 18px; border-top: 2px solid var(--inkt); }
+.dossier > .kopje { display: grid; gap: 6px; }
+.groep { background: var(--kaart); border: 1px solid var(--lijn); border-radius: 6px; display: grid; gap: 12px;
+  padding: 0 18px 16px; box-shadow: 0 1px 0 var(--lijn); min-width: 0; }
+.groep .kop { border-bottom: 2px solid var(--rode-lijn); padding: 10px 0 6px; display: flex; justify-content: space-between;
+  gap: 12px; flex-wrap: wrap; }
+.groep.klaar .staat { color: var(--groen); }
+.groep p { margin: 0; }
+.keus { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+button { font: 500 14px/1 var(--sans); min-height: 44px; padding: 10px 14px; border-radius: 5px; border: 1px solid var(--lijn);
+  background: var(--kaart); color: var(--inkt); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--kaart); }
+textarea { width: 100%; min-height: 38px; resize: vertical; font: 14px/1.45 var(--sans); color: var(--inkt);
+  background: var(--bg); border: 1px solid var(--lijn); border-radius: 5px; padding: 8px 10px; }
+.notitie { display: grid; gap: 4px; }
+details { border-top: 1px solid var(--lijn); padding-top: 10px; }
+summary { cursor: pointer; color: var(--accent); font-weight: 500; min-height: 32px; }
+.kaarten { display: grid; gap: 10px; margin-top: 10px; }
+.kaart { display: grid; gap: 8px; padding: 12px 14px; border-radius: 5px; background: var(--bg); min-width: 0; }
+.bewering { font: 400 16px/1.55 var(--serif); margin: 0; overflow-wrap: anywhere; }
+.vertaling { margin: 0; padding-inline-start: 10px; border-inline-start: 1px solid var(--lijn); color: var(--zacht);
+  overflow-wrap: anywhere; }
+.bron { margin: 0; color: var(--zacht); font-size: 14px; }
+.bron a { color: var(--accent); }
+.claude { margin: 0; font-size: 14px; color: var(--zacht); }
+.claude b { color: var(--inkt); font-weight: 600; }
+.kaart .keus button { min-height: 40px; padding: 8px 12px; font-size: 13.5px; }
+.kaart .volgt { font-size: 13px; color: var(--zacht); }
+footer { color: var(--zacht); font-size: 13px; max-width: 66ch; }
+@media (max-width: 480px) { h1 { font-size: 23px; } h2 { font-size: 20px; } .groep { padding: 0 14px 14px; } }
+@media (prefers-reduced-motion: reduce) { .balk span { transition: none; } }
+</style>
+
+<div class="bak">
+  <header>
+    <span class="label">Factiz · dossiers · PLAN 33.6</span>
+    <h1>Twijfel bij <span id="n-dossiers">0</span> dossiers</h1>
+    <p class="uitleg">Ik heb elke kaart gelezen. Hier staat alleen waar ik twijfelde, in groepen met één vraag: dat zijn
+      vragen over hoe breed een dossier is. Kies per groep. Wil je één kaart anders, kies dan bij die kaart; die keuze
+      gaat voor. Bij <b>kies per kaart</b> kon ik de check niet openen. Wat je niet kiest, blijft eruit.</p>
+  </header>
+  <div class="stand" aria-live="polite">
+    <strong id="stand-telling">0 van 0</strong><span class="item">beslissingen</span>
+    <button type="button" id="alleen-open" aria-pressed="false">Alleen wat nog open is</button>
+    <div class="balk"><span id="balk"></span></div>
+  </div>
+  <span class="melding" id="melding">Je keuzes worden bewaard zodra de pagina verbinding heeft.</span>
+  <main class="bak" id="dossiers"></main>
+  <footer>Je keuzes en notities worden bij elk dossier bewaard. Claude leest ze daarna terug en zet ze samen met zijn
+    eigen lezing in het dossier; de lezing houdt bij wat van hem komt en wat van jou. Van een lange bewering staan hier
+    de eerste 600 tekens.</footer>
+</div>
+
+<script type="application/json" id="data">/*DOSSIERS*/</script>
+<script>
+const DATA = JSON.parse(document.getElementById("data").textContent);
+const MAX = 600;
+const LABEL = {"onwaar": "onwaar", "misleidend": "misleidend", "onwaar-of-misleidend": "onwaar of misleidend", "waar": "waar",
+  "deels-waar": "deels waar", "omstreden": "omstreden", "satire": "satire", "onbewezen": "onbewezen"};
+const groepStaat = {};     // "dossier/sleutel" -> {oordeel, opmerking}
+const kaartStaat = {};     // "dossier/id" -> {oordeel}
+const wachtrij = {};
+const uitstel = {};
+let db = null;
+let alleenOpen = false;
+
+const taalnaam = (() => {
+  let namen = null;
+  try { namen = new Intl.DisplayNames(["nl"], {type: "language"}); } catch (e) {}
+  return code => { try { return (namen && code && code !== "und" && namen.of(code)) || "taal onbekend"; } catch (e) { return code; } };
+})();
+function datum(iso) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(iso || "")) return "zonder datum";
+  try { return new Intl.DateTimeFormat("nl", {day: "numeric", month: "long", year: "numeric", timeZone: "UTC"}).format(new Date(iso + "T00:00:00Z")); }
+  catch (e) { return iso; }
+}
+function el(tag, attrs = {}, ...kinderen) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "text") e.textContent = v; else if (v !== null && v !== undefined) e.setAttribute(k, v);
+  }
+  for (const k of kinderen) if (k) e.append(k);
+  return e;
+}
+function kort(tekst) { return (tekst || "").length > MAX ? tekst.slice(0, MAX).trimEnd() + " …" : (tekst || ""); }
+function webadres(url) { return /^https?:\/\//.test(url || "") ? url : null; }
+const SLEUTEL = "dossiers-twijfel";
+function bewaarLokaal() { try { localStorage.setItem(SLEUTEL, JSON.stringify({groepStaat, kaartStaat})); } catch (e) {} }
+function leesLokaal() {
+  try { const s = JSON.parse(localStorage.getItem(SLEUTEL) || "{}") || {}; Object.assign(groepStaat, s.groepStaat || {}); Object.assign(kaartStaat, s.kaartStaat || {}); }
+  catch (e) {}
+}
+function fout(f) {
+  document.getElementById("melding").textContent = f && (f.code === "invalid_argument" || f.code === "permission_denied")
+    ? "Je kunt hier kijken, maar niet kiezen." : "Opslaan lukte niet; probeer het zo nog eens.";
+}
+function schrijfGroep(deel, g) {
+  bewaarLokaal();
+  if (!db) return;
+  const s = groepStaat[deel.dossier + "/" + g.sleutel] || {};
+  const doc = {oordeel: s.oordeel || null, opmerking: s.opmerking || "", tijd: new Date().toISOString()};
+  const pad = "dossiers/" + deel.dossier + "/groepen";
+  const id = pad + "/" + g.sleutel;
+  wachtrij[id] = (wachtrij[id] || Promise.resolve()).then(() => db.collection(pad).doc(g.sleutel).set(doc)).catch(fout);
+}
+function schrijfKaart(deel, k) {
+  bewaarLokaal();
+  if (!db) return;
+  const s = kaartStaat[deel.dossier + "/" + k.id] || {};
+  const doc = {oordeel: s.oordeel || null, opmerking: "", tijd: new Date().toISOString()};
+  const pad = "dossiers/" + deel.dossier + "/keuzes";
+  const id = pad + "/" + k.id;
+  wachtrij[id] = (wachtrij[id] || Promise.resolve()).then(() => db.collection(pad).doc(k.id).set(doc)).catch(fout);
+}
+
+// een beslissing is een groep met een keuze, of in een groep per kaart een kaart met een keuze
+function beslissingen() {
+  let n = 0, klaar = 0;
+  for (const deel of DATA.dossiers) for (const g of deel.groepen) {
+    if (g.per_kaart) {
+      for (const k of g.kaarten) { n++; if ((kaartStaat[deel.dossier + "/" + k.id] || {}).oordeel) klaar++; }
+    } else { n++; if ((groepStaat[deel.dossier + "/" + g.sleutel] || {}).oordeel) klaar++; }
+  }
+  return [klaar, n];
+}
+function groepKlaar(deel, g) {
+  return g.per_kaart ? g.kaarten.every(k => (kaartStaat[deel.dossier + "/" + k.id] || {}).oordeel)
+                     : Boolean((groepStaat[deel.dossier + "/" + g.sleutel] || {}).oordeel);
+}
+function stand() {
+  const [klaar, n] = beslissingen();
+  document.getElementById("stand-telling").textContent = klaar + " van " + n;
+  document.getElementById("balk").style.width = (n ? 100 * klaar / n : 0) + "%";
+}
+
+function knoppen(huidig, tekst, opKlik, idVoorvoegsel, label) {
+  const keus = el("div", {class: "keus", role: "group", "aria-label": label});
+  for (const [waarde, woorden] of tekst) {
+    const knop = el("button", {type: "button", id: idVoorvoegsel + waarde, "aria-pressed": String(huidig === waarde), text: woorden});
+    knop.addEventListener("click", () => opKlik(waarde, idVoorvoegsel + waarde));
+    keus.append(knop);
+  }
+  return keus;
+}
+
+function tekenKaart(deel, g, k, gi, ki) {
+  const sk = deel.dossier + "/" + k.id;
+  const eigen = (kaartStaat[sk] || {}).oordeel || null;
+  const kaart = el("div", {class: "kaart"});
+  kaart.append(el("span", {class: "label", text: (ki + 1) + " · " + taalnaam(k.taal)}));
+  kaart.append(el("p", {class: "bewering", lang: k.taal === "und" ? null : k.taal, dir: k.richting, text: kort(k.bewering)}));
+  if (k.vertaling) kaart.append(el("p", {class: "vertaling", text: "Vertaling door een model: " + kort(k.vertaling)}));
+  const bron = el("p", {class: "bron"});
+  bron.append((k.redacties || []).join(", ") + " · " + datum(k.datum) + " · " + (LABEL[k.label] || "zonder vast label"));
+  if (webadres(k.url)) bron.append(" · ", el("a", {href: k.url, target: "_blank", rel: "noopener noreferrer", text: "Lees de factcheck"}));
+  kaart.append(bron);
+  if (k.notitie) { const c = el("p", {class: "claude"}); c.append(el("b", {text: "Claude: "}), k.notitie); kaart.append(c); }
+  const woorden = g.per_kaart ? [["ja", "Hoort erbij"], ["nee", "Hoort er niet bij"]] : [["ja", "Deze wel"], ["nee", "Deze niet"]];
+  const rij = el("div", {class: "keus"});
+  rij.append(knoppen(eigen, woorden, (waarde, focus) => {
+    kaartStaat[sk] = {oordeel: eigen === waarde ? null : waarde};
+    schrijfKaart(deel, k); herteken(deel, g, gi, focus);
+  }, "k-" + deel.dossier + "-" + k.id + "-", "Deze kaart"));
+  if (!g.per_kaart) rij.append(el("span", {class: "volgt", text: eigen ? "eigen keuze, gaat voor de groep" : "volgt de groep"}));
+  kaart.append(rij);
+  return kaart;
+}
+
+function tekenGroep(deel, g, gi) {
+  const sg = deel.dossier + "/" + g.sleutel;
+  const s = groepStaat[sg] || {};
+  const klaar = groepKlaar(deel, g);
+  const groep = el("article", {class: "groep" + (klaar ? " klaar" : ""), id: "g-" + deel.dossier + "-" + g.sleutel,
+    "aria-labelledby": "v-" + deel.dossier + "-" + g.sleutel});
+  groep.hidden = alleenOpen && klaar;
+  groep.append(el("div", {class: "kop"},
+    el("span", {class: "label", text: "Groep " + (gi + 1) + " · " + g.kaarten.length + (g.kaarten.length === 1 ? " kaart" : " kaarten") + (g.per_kaart ? " · kies per kaart" : "")}),
+    el("span", {class: "label staat", text: klaar ? "beslist" : "nog open"})));
+  groep.append(el("h3", {id: "v-" + deel.dossier + "-" + g.sleutel, text: g.vraag}));
+  groep.append(el("p", {class: "uitleg", text: g.uitleg}));
+  if (!g.per_kaart) {
+    groep.append(knoppen(s.oordeel || null, [["ja", "Hoort erbij"], ["nee", "Hoort er niet bij"]], (waarde, focus) => {
+      const nu = groepStaat[sg] || {};
+      groepStaat[sg] = {...nu, oordeel: nu.oordeel === waarde ? null : waarde};
+      schrijfGroep(deel, g); herteken(deel, g, gi, focus);
+    }, "g-" + deel.dossier + "-" + g.sleutel + "-", g.vraag));
+    const veldId = "n-" + deel.dossier + "-" + g.sleutel;
+    const veld = el("textarea", {id: veldId, rows: "1", placeholder: "Bijvoorbeeld waarom, of een grens. Hoeft niet."});
+    veld.value = s.opmerking || "";
+    veld.addEventListener("input", () => {
+      groepStaat[sg] = {...(groepStaat[sg] || {}), opmerking: veld.value};
+      clearTimeout(uitstel[sg]); uitstel[sg] = setTimeout(() => schrijfGroep(deel, g), 1200);
+    });
+    veld.addEventListener("change", () => { clearTimeout(uitstel[sg]); schrijfGroep(deel, g); });
+    groep.append(el("div", {class: "notitie"}, el("label", {class: "label", for: veldId, text: "Notitie"}), veld));
+  }
+  const open = g.per_kaart || g.kaarten.length <= 2 || g.kaarten.some(k => (kaartStaat[deel.dossier + "/" + k.id] || {}).oordeel);
+  const uit = el("details", open ? {open: ""} : {});
+  uit.append(el("summary", {text: g.per_kaart ? "De kaarten" : "Toon de " + g.kaarten.length + " kaarten"}));
+  uit.append(el("div", {class: "kaarten"}, ...g.kaarten.map((k, ki) => tekenKaart(deel, g, k, gi, ki))));
+  groep.append(uit);
+  return groep;
+}
+
+function herteken(deel, g, gi, focus) {
+  const oud = document.getElementById("g-" + deel.dossier + "-" + g.sleutel);
+  const nieuw = tekenGroep(deel, g, gi);
+  nieuw.hidden = false;                       // een groep waar je net op klikte, verdwijnt niet onder je vinger
+  const uitklap = oud && oud.querySelector("details");
+  if (uitklap && uitklap.open) nieuw.querySelector("details").open = true;   // wat je opende, blijft open
+  if (oud) oud.replaceWith(nieuw);
+  if (focus) { const doel = document.getElementById(focus); if (doel) doel.focus({preventScroll: true}); }
+  stand();
+}
+
+function tekenAlles() {
+  const main = document.getElementById("dossiers");
+  main.replaceChildren(...DATA.dossiers.map(deel => {
+    const sectie = el("section", {class: "dossier", "aria-labelledby": "d-" + deel.dossier});
+    const t = deel.telling;
+    const kopje = el("div", {class: "kopje"},
+      el("span", {class: "label", text: deel.groepen.length + (deel.groepen.length === 1 ? " groep" : " groepen")}),
+      el("h2", {id: "d-" + deel.dossier, text: deel.naam}),
+      el("p", {class: "uitleg", text: deel.omschrijving}),
+      el("p", {class: "uitleg", text: "Ik las " + t.ja + " kaarten erbij, " + t.nee + " er niet bij en twijfelde bij " + t.twijfel + "."}));
+    if (deel.afbakening) kopje.append(el("p", {class: "uitleg", text: "Afbakening: " + deel.afbakening}));
+    sectie.append(kopje, ...deel.groepen.map((g, gi) => tekenGroep(deel, g, gi)));
+    return sectie;
+  }));
+  stand();
+}
+
+document.getElementById("n-dossiers").textContent = String(DATA.dossiers.length);
+document.getElementById("alleen-open").addEventListener("click", e => {
+  alleenOpen = !alleenOpen;
+  e.currentTarget.setAttribute("aria-pressed", String(alleenOpen));
+  tekenAlles();
+});
+leesLokaal();
+tekenAlles();
+
+(async () => {
+  db = window.claude && window.claude.use ? await window.claude.use("db") : null;
+  const melding = document.getElementById("melding");
+  if (!db) { melding.textContent = "Deze weergave bewaart je keuzes alleen in deze browser."; return; }
+  const wacht = setTimeout(() => { melding.textContent = "De bewaarde keuzes zijn nog niet bereikbaar; je kunt al wel kiezen."; }, 10000);
+  const verbonden = snap => { if (!snap.metadata || !snap.metadata.fromCache) { clearTimeout(wacht); melding.textContent = "Je keuzes worden bewaard."; } };
+  const onbereikbaar = () => { clearTimeout(wacht); melding.textContent = "De bewaarde keuzes zijn nu niet bereikbaar; je kunt wel kiezen in deze browser."; };
+  const bezigMet = id => document.activeElement && document.activeElement.id === id;
+  for (const deel of DATA.dossiers) {
+    db.collection("dossiers/" + deel.dossier + "/groepen").onSnapshot(snap => {
+      verbonden(snap);
+      deel.groepen.forEach((g, gi) => {
+        const d = snap.docs.find(x => x.id === g.sleutel);
+        if (!d) return;
+        const w = d.data() || {}, sg = deel.dossier + "/" + g.sleutel, nu = groepStaat[sg] || {};
+        if ((nu.oordeel || null) === (w.oordeel || null) && (nu.opmerking || "") === (w.opmerking || "")) return;
+        const bezig = bezigMet("n-" + deel.dossier + "-" + g.sleutel);
+        groepStaat[sg] = {oordeel: w.oordeel || null, opmerking: bezig ? (nu.opmerking || "") : (w.opmerking || "")};
+        if (!bezig) herteken(deel, g, gi, null);
+      });
+      bewaarLokaal(); stand();
+    }, onbereikbaar);
+    db.collection("dossiers/" + deel.dossier + "/keuzes").onSnapshot(snap => {
+      verbonden(snap);
+      deel.groepen.forEach((g, gi) => {
+        let anders = false;
+        for (const k of g.kaarten) {
+          const d = snap.docs.find(x => x.id === k.id);
+          if (!d) continue;
+          const w = d.data() || {}, sk = deel.dossier + "/" + k.id;
+          if (((kaartStaat[sk] || {}).oordeel || null) === (w.oordeel || null)) continue;
+          kaartStaat[sk] = {oordeel: w.oordeel || null}; anders = true;
+        }
+        if (anders) herteken(deel, g, gi, null);
+      });
+      bewaarLokaal(); stand();
+    }, onbereikbaar);
+  }
+})();
+</script>

@@ -1,0 +1,664 @@
+{
+ "_meta": "Labels van P9, de modelpoort (PLAN #32.0f, BENCHMARK §168), 2026-10-28, gelezen door Claude. 'kanten': de kant van R1 zoals ik die las (links, rechts of geen). 'r2_gelezen': de claims van R2 die ik vóór de toets las; 'r2_afgewezen': wat zelf waar is of geen onware bewering, met de reden. 'oordelen': per bericht en model wat een label nodig had ('bewijs' → 'bewijst', 'bewijst via factcheck' of 'past niet'; 'groen' of 'rood' → 'vals' of 'set fout'). Alleen ids en labels, geen berichten; de onderliggende checks komen uit de ClaimReview-feed (CC BY 4.0).",
+ "kanten": {
+  "gfc-9527dd2c98888fd9": "links",
+  "gfc-b4f6ef1b66c64bb6": "geen",
+  "gfc-d28921026b02a9b9": "links",
+  "gfc-98422fb77c787dc4": "links",
+  "gfc-1a802a879f37de8d": "links",
+  "gfc-ff5c28399f85727d": "links",
+  "gfc-c70cebd586215690": "links",
+  "gfc-9e8b36702530a838": "links",
+  "gfc-61c7dc10f17d89c8": "links",
+  "gfc-321b59b5e1068539": "links",
+  "gfc-241b629810cf86a7": "links",
+  "gfc-258c4542074e797a": "links",
+  "gfc-10efe8f3cdef079e": "links",
+  "gfc-49f2e53218e00bd9": "links",
+  "gfc-57e485d091c35e57": "links",
+  "gfc-d649ccdc51027974": "geen",
+  "gfc-10ad05f0e2a85227": "links",
+  "gfc-a13968010907ffc6": "links",
+  "gfc-c77e2233449eb33f": "rechts",
+  "gfc-6798dd5a014abd6c": "links",
+  "gfc-e38a45426d233c22": "links",
+  "gfc-a5c8e525cdabea2a": "links",
+  "gfc-626876f10a840bf9": "links",
+  "gfc-5b9c9f8333bd205a": "links",
+  "gfc-49281e3baa56faa6": "links",
+  "gfc-ee1cb17ee6aa2a73": "links",
+  "gfc-e81316342601a88c": "links",
+  "gfc-eba42f96ecc09c34": "links",
+  "gfc-d2d8d80bf9fff7aa": "links",
+  "gfc-4e0b36bdb3947219": "geen",
+  "gfc-04cd325106644af5": "geen",
+  "gfc-2a9916f6ef7d3fe7": "links",
+  "gfc-e8d4f024f95a4052": "links",
+  "gfc-61289c2d1bbe7732": "geen",
+  "gfc-d4f09ba7ad1517ae": "links",
+  "gfc-aa4d39abfc819b0e": "links",
+  "gfc-86b41d66227fca25": "geen",
+  "gfc-a958769efbe307e9": "links",
+  "gfc-92dd16b286747777": "links",
+  "gfc-09e33ae3f7cf29c2": "links",
+  "gfc-2af6d56e7fc8bcca": "links",
+  "gfc-45ecc0255b1f83e6": "links",
+  "gfc-319794ce7533ff29": "links",
+  "gfc-5c783cb1c28cf0fc": "links",
+  "gfc-1440a9ed8225a590": "links",
+  "gfc-27f3995acd086850": "links",
+  "gfc-5e006221eaa120ae": "links",
+  "gfc-db755e6e547c28bd": "links",
+  "gfc-7272719ecb384f15": "rechts",
+  "gfc-315f4a7305241e44": "links",
+  "gfc-6371f67debc08620": "rechts",
+  "gfc-6d143108f0746bd8": "rechts",
+  "gfc-f173cb52d35030e8": "rechts",
+  "gfc-89d0447acc28f32b": "geen",
+  "gfc-cf1a1bbf85efd5f5": "rechts",
+  "gfc-6c7a0e3d133a64fb": "rechts",
+  "gfc-21a34c5cebc6f1d6": "rechts",
+  "gfc-4c24c2a8b2a67454": "rechts",
+  "gfc-03befd463c754a6a": "rechts",
+  "gfc-13e1c69f8db00388": "rechts",
+  "gfc-5bdd4c541da15305": "rechts",
+  "gfc-04e4b70f29cc006e": "rechts",
+  "gfc-38c3eb3b1ea3daae": "rechts",
+  "gfc-581f904610c9168e": "rechts",
+  "gfc-526d75f8d57b89bf": "rechts",
+  "gfc-9fa721b2f973dde1": "geen",
+  "gfc-18b250e2911ccb21": "rechts",
+  "gfc-6d4253f78c6701b0": "rechts",
+  "gfc-0af392ad9b1e1f57": "links",
+  "gfc-7b6bb727515713a0": "rechts",
+  "gfc-56480c4c36e8a1c0": "rechts",
+  "gfc-ca85f95c74324037": "rechts",
+  "gfc-e30f05475671fe88": "rechts",
+  "gfc-a6b5973001ca1fe0": "rechts",
+  "gfc-adb64696fd2c2d77": "geen",
+  "gfc-bbd5cd0c985f4a9b": "rechts",
+  "gfc-ebd8f90628a288f5": "rechts",
+  "gfc-d6a78b87cfc5cd43": "rechts",
+  "gfc-eb0ee7f3cc638f65": "rechts",
+  "gfc-be4e073a1ba2bfbc": "rechts",
+  "gfc-2cde71ea91fec32c": "rechts",
+  "gfc-4b83353e397e666c": "rechts",
+  "gfc-c727ded55ae4a78a": "rechts",
+  "gfc-3c545c5027302b7f": "rechts",
+  "gfc-dab9b35a81cb641f": "rechts",
+  "gfc-dea6b2b3e96e344e": "rechts",
+  "gfc-09d0248def948a61": "rechts",
+  "gfc-62ba9177ab61aba9": "rechts",
+  "gfc-c341c49d27c754ee": "rechts",
+  "gfc-ba36955802cca5be": "geen",
+  "gfc-8f55a6b5fa512b8e": "rechts",
+  "gfc-33a12fe052caef33": "rechts",
+  "gfc-42ef2dba7e2e5ce4": "rechts",
+  "gfc-78d4f805b0d281cf": "rechts",
+  "gfc-14a32d8cb51c9154": "rechts",
+  "gfc-948f195d2c4c3b99": "rechts",
+  "gfc-b6001ef55115d659": "rechts",
+  "gfc-c3c3b8255c6845a4": "rechts",
+  "gfc-a3d56afb0f95d8ba": "rechts",
+  "gfc-0146ba3a7cc28e7a": "rechts",
+  "gfc-b6c703d8b318db6d": "links",
+  "gfc-1ee3958e62ca6506": "links",
+  "gfc-c90accb02b275022": "links",
+  "gfc-05c604e8826b3155": "links",
+  "gfc-9d83b40c957ae529": "links",
+  "gfc-82897adb0d4ee9f2": "links",
+  "gfc-b22d57c65956438e": "links",
+  "gfc-a1193fc628fc78cd": "geen",
+  "gfc-868434096f4ae569": "rechts",
+  "gfc-3e286bdf520967fa": "rechts",
+  "gfc-13fd7b23761fe136": "rechts",
+  "gfc-c41fc7ccfbbbcb31": "rechts",
+  "gfc-f28f43e949931c29": "rechts"
+ },
+ "r2_gelezen": [
+  "gfc-9033674ce077e5ae",
+  "gfc-300bcf9254490086",
+  "gfc-f944c09a75cf3a4c",
+  "gfc-52c496a5f5483302",
+  "gfc-67fc193da7a658f3",
+  "gfc-f5022206d4220150",
+  "gfc-f5e76787c613af58",
+  "gfc-05e986a682544961",
+  "gfc-0c5786346400932f",
+  "gfc-51371683b0e3e528",
+  "gfc-5016c47a5cb64382",
+  "gfc-87243976e474684a",
+  "gfc-5a517552555ea0d5",
+  "gfc-43c0d7fd76f50432",
+  "gfc-6019b9717c192665",
+  "gfc-373008696896a61a",
+  "gfc-65789ee170212ffa",
+  "gfc-5b558f0520f1c3f4",
+  "gfc-68f2d72cdb7cc7f3",
+  "gfc-d6c8c6a8bc3a7509",
+  "gfc-03a6a213adce1731",
+  "gfc-cd28e44b1e794b1d",
+  "gfc-cfe7386458fe8e75",
+  "gfc-2d658499933e461c",
+  "gfc-1011c8e7cd572219",
+  "gfc-7bca8b55723736b5",
+  "gfc-67d98d7f4eefe5ae",
+  "gfc-a9addd55ae28abc0",
+  "gfc-3616269d5c806b3d",
+  "gfc-be63edb77ed66ba5",
+  "gfc-85b220f494bbe627",
+  "gfc-145dd2c8444911b5",
+  "gfc-34d9e4a95fb78b39"
+ ],
+ "r2_afgewezen": {
+  "gfc-f944c09a75cf3a4c": "de claimtekst mengt de ontkrachting en de bewering ('falsely given communal colour!')",
+  "gfc-1011c8e7cd572219": "de tekst zelf is geen onware bewering ('Mobile phone addiction is getting dangerous')",
+  "gfc-3616269d5c806b3d": "alleen een omschrijving ('Pupported photo of ...'), geen bewering"
+ },
+ "oordelen": [
+  {
+   "id": "g-B-kop:b-012099",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-002108",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-012088",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-007772",
+   "model": "sonnet",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "800 ton is het verzonnen detail; echt ~1.300 ton"
+  },
+  {
+   "id": "g-C:b-009830",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008457",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-009888",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-57a5a98f623e4bdb",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-93506dd35af6815a",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-75ee9485d0cc0142",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "de checks gaan over andere video's met dezelfde strekking"
+  },
+  {
+   "id": "t-C:b-008473",
+   "model": "sonnet",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "Lviv is het verzonnen detail; echt de hoofdstad"
+  },
+  {
+   "id": "t-C:b-008849",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "t-C:b-008801",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "t-N:05",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-012099",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-012088",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-004784",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-002218",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-008615",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-007772",
+   "model": "opus",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "800 ton is het verzonnen detail"
+  },
+  {
+   "id": "g-C:b-008269",
+   "model": "opus",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "500 km is het verzonnen detail; echt ~300 km"
+  },
+  {
+   "id": "g-C:b-009888",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008754",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-57a5a98f623e4bdb",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-93506dd35af6815a",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-1ec294cfc915039c",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "de check gaat over plaats en tijd van de video, niet over wat het bericht beweert"
+  },
+  {
+   "id": "e-R:gfc-75ee9485d0cc0142",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "de checks gaan over andere video's met dezelfde strekking"
+  },
+  {
+   "id": "t-C:b-008473",
+   "model": "opus",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "Lviv is het verzonnen detail"
+  },
+  {
+   "id": "t-C:b-008849",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-008184",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-012445",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-007833",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-012088",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008278",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-009830",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008991",
+   "model": "haiku",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "woensdag is het verzonnen detail; echt dinsdag"
+  },
+  {
+   "id": "g-C:b-009888",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008754",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-93506dd35af6815a",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-1ec294cfc915039c",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "de check gaat over plaats en tijd van de video, niet over wat het bericht beweert"
+  },
+  {
+   "id": "t-C:b-008473",
+   "model": "haiku",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "Lviv is het verzonnen detail"
+  },
+  {
+   "id": "t-N:00",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "t-N:07",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-008481",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-012445",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "alleen een EUvsDisinfo-rapport; dat bewijst niet welk ministerie de memo stuurde"
+  },
+  {
+   "id": "g-B-kop:b-002218",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-008615",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-009044",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-012006",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008278",
+   "model": "sonnet",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-008184",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-002108",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-008748",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-012006",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008278",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "t-C:b-008801",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "t-N:05",
+   "model": "opus",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "g-B-feit:b-008481",
+   "model": "haiku",
+   "wat": "groen",
+   "label": "vals",
+   "reden": "het Internationaal Gerechtshof is het veranderde feit; echt het Internationaal Strafhof"
+  },
+  {
+   "id": "g-B-kop:b-012099",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-002108",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-008748",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-004784",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-002218",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-B-kop:b-008615",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008765",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-002047",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "g-C:b-008269",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "geen passage noemt de afstand tot Damascus"
+  },
+  {
+   "id": "g-C:b-012006",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-57a5a98f623e4bdb",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  },
+  {
+   "id": "e-R:gfc-75ee9485d0cc0142",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "past niet",
+   "reden": "de checks gaan over andere video's met dezelfde strekking"
+  },
+  {
+   "id": "t-C:b-008801",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst",
+   "reden": ""
+  },
+  {
+   "id": "t-N:05",
+   "model": "haiku",
+   "wat": "bewijs",
+   "label": "bewijst via factcheck",
+   "reden": ""
+  }
+ ]
+}

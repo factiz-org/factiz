@@ -1,0 +1,761 @@
+{
+ "toelichting": "Labels op alle 84 vetoblokkades van het corpus onder bge-m3 (PLAN.md #25.14d d en g, BENCHMARK §86): paren in dezelfde taal boven cluster_same 0,91, niet in één cluster, zonder tegenspraak in getallen of ontkenningen, met een NLI-score van ten minste 0,5. onterecht = het veto trok dezelfde bewering uit elkaar; terecht = twee verschillende beweringen; twijfel = grensgeval, apart geteld. soort zegt waarin de twee verschillen (formulering, entiteit, medium, inhoud, tijd, weerlegging). Sleutel is het gesorteerde paar claim-id's; de claimteksten staan niet in dit bestand. Eén beoordelaar (Claude), gelabeld op 2026-10-12, vóór de opties werden doorgerekend. Elke versheidsronde labelt de nieuwe blokkades met haar eigen datum in `ronde` (RUNBOOK); labels uit een latere ronde zijn de achtergehouden toets voor een grens.",
+ "paren": {
+  "gfc-8e4d73bbbe80b4ef|gfc-c6545c393a930e0d": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "foto tegenover video van luchtaanvallen op Sanaa, 21 december",
+   "taal": "ar",
+   "gelijkenis": 0.9207,
+   "score": 0.7378,
+   "ronde": "2026-10-12"
+  },
+  "gfc-a4e4b75dcab7344d|gfc-d4ffad9600dc6333": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "foto tegenover video van Amerikaans-Britse aanvallen in Jemen",
+   "taal": "ar",
+   "gelijkenis": 0.9189,
+   "score": 0.8315,
+   "ronde": "2026-10-12"
+  },
+  "gfc-6c4212b6b532a624|gfc-9d9a8de16310580b": {
+   "label": "twijfel",
+   "soort": "entiteit",
+   "reden": "moslims tegenover Islami Andolan op straat na het vrijdaggebed",
+   "taal": "bn",
+   "gelijkenis": 0.9277,
+   "score": 0.7036,
+   "ronde": "2026-10-12"
+  },
+  "gfc-30d72874eda3d06f|gfc-500fe030ba3e670c": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "vrijwel letterlijk gelijk (ß tegenover ss, één werkwoord)",
+   "taal": "de",
+   "gelijkenis": 0.9997,
+   "score": 0.9722,
+   "ronde": "2026-10-12"
+  },
+  "gfc-14bc66cd81cf1053|gfc-fb24513dd78ccc07": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "vrijwel letterlijk gelijk (één woord)",
+   "taal": "de",
+   "gelijkenis": 0.9995,
+   "score": 0.9575,
+   "ronde": "2026-10-12"
+  },
+  "gfc-58f8e957390444f8|gfc-8980759da9fea9e3": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "vitamine C tegen corona, andere inleiding",
+   "taal": "de",
+   "gelijkenis": 0.993,
+   "score": 0.5928,
+   "ronde": "2026-10-12"
+  },
+  "gfc-6e13965ad9af9722|gfc-82dff1715ae999fa": {
+   "label": "twijfel",
+   "soort": "entiteit",
+   "reden": "griepvaccin met neusspray voor kinderen, de tweede met 'in Österreich'",
+   "taal": "de",
+   "gelijkenis": 0.9577,
+   "score": 0.9219,
+   "ronde": "2026-10-12"
+  },
+  "gfc-64103de94402b51a|gfc-c55f9b9e0d9d747a": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "april 2014, Oekraïne tegen Donetsk en Loehansk",
+   "taal": "en",
+   "gelijkenis": 0.984,
+   "score": 0.7344,
+   "ronde": "2026-10-12"
+  },
+  "gfc-316d741325a5968c|gfc-5619a5c239c318fc": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "airbases tegenover een air base",
+   "taal": "en",
+   "gelijkenis": 0.9798,
+   "score": 0.8901,
+   "ronde": "2026-10-12"
+  },
+  "gfc-3334bd461b64ac83|gfc-f6bdca894cf79b41": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "World Students' Day op 15 oktober",
+   "taal": "en",
+   "gelijkenis": 0.9782,
+   "score": 0.7158,
+   "ronde": "2026-10-12"
+  },
+  "gfc-cf442f4edfb9f363|gfc-e0c7c34dcfcf445d": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Zweeds establishment, één met naam minister erbij",
+   "taal": "en",
+   "gelijkenis": 0.9741,
+   "score": 0.8794,
+   "ronde": "2026-10-12"
+  },
+  "gfc-64103de94402b51a|gfc-bd31ee79d817d609": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "april 2014, Oekraïne tegen Donetsk en Loehansk",
+   "taal": "en",
+   "gelijkenis": 0.9694,
+   "score": 0.7798,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2f79de84b5f7f373|gfc-d6cd13f614730c31": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "China wil 20.000 coronapatiënten doden",
+   "taal": "en",
+   "gelijkenis": 0.9678,
+   "score": 0.8774,
+   "ronde": "2026-10-12"
+  },
+  "gfc-64103de94402b51a|gfc-e23e36b60a211193": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "april 2014, Oekraïne tegen Donetsk en Loehansk",
+   "taal": "en",
+   "gelijkenis": 0.9651,
+   "score": 0.5386,
+   "ronde": "2026-10-12"
+  },
+  "gfc-53471654ff0249a1|gfc-bb88a34c441254ca": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Nadeem in Muzaffarnagar",
+   "taal": "en",
+   "gelijkenis": 0.9639,
+   "score": 0.7251,
+   "ronde": "2026-10-12"
+  },
+  "gfc-5e0bdb04fa889526|gfc-7be93acb37b9fa9e": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "verkoopt tegenover levert wapens aan IS",
+   "taal": "en",
+   "gelijkenis": 0.9616,
+   "score": 0.522,
+   "ronde": "2026-10-12"
+  },
+  "gfc-c3d3787ad88349ff|gfc-e57c8c6e90506244": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Obama, Fauci en Melinda Gates in Wuhan",
+   "taal": "en",
+   "gelijkenis": 0.96,
+   "score": 0.542,
+   "ronde": "2026-10-12"
+  },
+  "gfc-0f3da01e10d970d7|gfc-db31ef20c826b2b9": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "video tegenover foto van de WRC in Naivasha",
+   "taal": "en",
+   "gelijkenis": 0.953,
+   "score": 0.9795,
+   "ronde": "2026-10-12"
+  },
+  "gfc-9967cfb4eb262927|gfc-ededebb05ce3d643": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "hindoegoden verbrand bij CAA-protest",
+   "taal": "en",
+   "gelijkenis": 0.9504,
+   "score": 0.9424,
+   "ronde": "2026-10-12"
+  },
+  "gfc-9bcd297a19ae9512|gfc-ea2d416a9745e595": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "Israëlische president tegenover premier: twee ontmoetingen",
+   "taal": "en",
+   "gelijkenis": 0.9481,
+   "score": 0.6133,
+   "ronde": "2026-10-12"
+  },
+  "gfc-0c0944da6fa0d8d6|gfc-9790a0eab9abf8e3": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Oekraïners en Russen één volk",
+   "taal": "en",
+   "gelijkenis": 0.9476,
+   "score": 0.7896,
+   "ronde": "2026-10-12"
+  },
+  "gfc-962dc2b0fe5b1ea3|gfc-e5726dbb54223415": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Krim-referendum 96,77%",
+   "taal": "en",
+   "gelijkenis": 0.9475,
+   "score": 0.7778,
+   "ronde": "2026-10-12"
+  },
+  "gfc-962dc2b0fe5b1ea3|gfc-ad2e441267b7e3f5": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Krim-referendum 96,77%",
+   "taal": "en",
+   "gelijkenis": 0.9465,
+   "score": 0.6909,
+   "ronde": "2026-10-12"
+  },
+  "gfc-08ec1e06b79676f4|gfc-c0ae556c894cb447": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "100 coronadoden in Ierland, één met 'direct'",
+   "taal": "en",
+   "gelijkenis": 0.9414,
+   "score": 0.8618,
+   "ronde": "2026-10-12"
+  },
+  "gfc-25b05073ee54c3aa|gfc-7bece44e20217ed6": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Trump-taks van bijna 4.000 dollar",
+   "taal": "en",
+   "gelijkenis": 0.9392,
+   "score": 0.5308,
+   "ronde": "2026-10-12"
+  },
+  "gfc-495114c08486332a|gfc-a642c5a2128f52a7": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "olie van IS via Turkije naar Oekraïne, rollen anders verwoord",
+   "taal": "en",
+   "gelijkenis": 0.9381,
+   "score": 0.978,
+   "ronde": "2026-10-12"
+  },
+  "gfc-e3d0faccea49c5c5|gfc-ef38fae76753ac42": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "levend verbrand tegenover verbrand tot de dood",
+   "taal": "en",
+   "gelijkenis": 0.938,
+   "score": 0.8774,
+   "ronde": "2026-10-12"
+  },
+  "gfc-c0b620c794cf679c|gfc-ca3e73f868825862": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "beelden tegenover video van optreden in Kasjmir",
+   "taal": "en",
+   "gelijkenis": 0.9379,
+   "score": 0.9106,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2a3f0b4072330d34|gfc-9246568c329fe7ea": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Trump over Pelosi in Chinatown, met en zonder inlas",
+   "taal": "en",
+   "gelijkenis": 0.9365,
+   "score": 0.9673,
+   "ronde": "2026-10-12"
+  },
+  "gfc-54ad65d6d5875d7b|gfc-7bbdbd5494d31015": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "MTN-actie voor Nieuwjaar tegenover Kerst: twee oplichtingen",
+   "taal": "en",
+   "gelijkenis": 0.9349,
+   "score": 0.959,
+   "ronde": "2026-10-12"
+  },
+  "gfc-5add773364d57a9c|gfc-95bd2c67bd3be032": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Krim-referendum 96,77%",
+   "taal": "en",
+   "gelijkenis": 0.9341,
+   "score": 0.7163,
+   "ronde": "2026-10-12"
+  },
+  "gfc-bfb137d520ba5613|gfc-c1fa1310ca55330d": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "ontwerp Ram-tempel in Ayodhya",
+   "taal": "en",
+   "gelijkenis": 0.9333,
+   "score": 0.7915,
+   "ronde": "2026-10-12"
+  },
+  "gfc-628be8aac8af01f8|gfc-91663df2f8fb1f7c": {
+   "label": "twijfel",
+   "soort": "tijd",
+   "reden": "brief van Modi voor Diwali 2025 tegenover 'deze Diwali'",
+   "taal": "en",
+   "gelijkenis": 0.9326,
+   "score": 0.8018,
+   "ronde": "2026-10-12"
+  },
+  "gfc-8ea81d12cf08ce11|gfc-a9a606e93a2b1c7d": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "kaart met huisstijl van The Star tegenover Kenyans.co.ke",
+   "taal": "en",
+   "gelijkenis": 0.9302,
+   "score": 0.9907,
+   "ronde": "2026-10-12"
+  },
+  "gfc-94d20527267c9380|gfc-b96701e9925568cd": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "geschenk van de VS tegenover Japan",
+   "taal": "en",
+   "gelijkenis": 0.9294,
+   "score": 0.9683,
+   "ronde": "2026-10-12"
+  },
+  "gfc-69c83dd1f8878cbc|gfc-dba72a0ff49dac1c": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "billboard in New York, Stand with Ukraine vervangen",
+   "taal": "en",
+   "gelijkenis": 0.9274,
+   "score": 0.7339,
+   "ronde": "2026-10-12"
+  },
+  "gfc-8667fc9f219f96f7|gfc-8d1684ca3ac6efd0": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "NAIA hernoemd tot Manila International Airport",
+   "taal": "en",
+   "gelijkenis": 0.9272,
+   "score": 0.8569,
+   "ronde": "2026-10-12"
+  },
+  "gfc-10f78300c12f6be5|gfc-9967cfb4eb262927": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "hindoegoden verbrand bij CAA-protest",
+   "taal": "en",
+   "gelijkenis": 0.927,
+   "score": 0.7686,
+   "ronde": "2026-10-12"
+  },
+  "gfc-cb7b8f9190e46586|gfc-cd788c276175d8f9": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "ontwikkelingssubsidie tegenover kerstgeld van 100.000 shilling",
+   "taal": "en",
+   "gelijkenis": 0.9249,
+   "score": 0.5947,
+   "ronde": "2026-10-12"
+  },
+  "gfc-25b05073ee54c3aa|gfc-45e20a29226f036a": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Trump-taks van bijna 4.000 dollar",
+   "taal": "en",
+   "gelijkenis": 0.9245,
+   "score": 0.6157,
+   "ronde": "2026-10-12"
+  },
+  "gfc-30168de6d91c394b|gfc-8a98e26651b0bf1c": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Minsk-akkoorden, inval eind februari",
+   "taal": "en",
+   "gelijkenis": 0.9228,
+   "score": 0.9189,
+   "ronde": "2026-10-12"
+  },
+  "gfc-677a6e010874b7a9|gfc-ce590a5b81d31998": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "moslims protesteren in Tripura tegenover in Kerala",
+   "taal": "en",
+   "gelijkenis": 0.9219,
+   "score": 0.9854,
+   "ronde": "2026-10-12"
+  },
+  "gfc-3cb5c40c82c72507|gfc-fe298cd1fb7a70d0": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Ocasio-Cortez die een arrestatie speelt",
+   "taal": "en",
+   "gelijkenis": 0.9197,
+   "score": 0.5986,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2254f93c1de77a77|gfc-b82579227dd8ebb0": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "menigte bij Voter Adhikar Yatra, met en zonder datum",
+   "taal": "en",
+   "gelijkenis": 0.9188,
+   "score": 0.7754,
+   "ronde": "2026-10-12"
+  },
+  "gfc-400bb1947d1c6308|gfc-659d1af78e994444": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "Murshidabad in West-Bengalen tegenover Sherpur in Bangladesh",
+   "taal": "en",
+   "gelijkenis": 0.9179,
+   "score": 0.8447,
+   "ronde": "2026-10-12"
+  },
+  "gfc-04c5bdf91915f035|gfc-814a8f463ff428e8": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "politie Hyderabad over ebola in frisdrank",
+   "taal": "en",
+   "gelijkenis": 0.9172,
+   "score": 0.7036,
+   "ronde": "2026-10-12"
+  },
+  "gfc-21dcdad8f2abb87d|gfc-c3aef17822a2cab6": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Magic Johnson geeft bloed",
+   "taal": "en",
+   "gelijkenis": 0.9166,
+   "score": 0.6211,
+   "ronde": "2026-10-12"
+  },
+  "gfc-1b661ce9b8f764f6|gfc-3405e48b6881d4ee": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "rally van Modi in Jalandhar tegenover Jalpaiguri",
+   "taal": "en",
+   "gelijkenis": 0.9155,
+   "score": 0.9688,
+   "ronde": "2026-10-12"
+  },
+  "gfc-01121263feb2cb64|gfc-1e711175d824f6ab": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "vacatures bij Kenya Power tegenover Kenya Railways",
+   "taal": "en",
+   "gelijkenis": 0.9152,
+   "score": 0.9541,
+   "ronde": "2026-10-12"
+  },
+  "gfc-316d741325a5968c|gfc-a7b31f96101ccc33": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "video tegenover fotoreeks van Iraanse raketten",
+   "taal": "en",
+   "gelijkenis": 0.9149,
+   "score": 0.6177,
+   "ronde": "2026-10-12"
+  },
+  "gfc-3b68f0c84bd46f3e|gfc-814a8f463ff428e8": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "politie Hyderabad over ebola in frisdrank",
+   "taal": "en",
+   "gelijkenis": 0.9149,
+   "score": 0.8711,
+   "ronde": "2026-10-12"
+  },
+  "gfc-782a48d43fb40cd9|gfc-f9e2b958b1c13679": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "citaat toegeschreven aan Devkinandan Thakur tegenover Rambhadracharya",
+   "taal": "en",
+   "gelijkenis": 0.9144,
+   "score": 0.8047,
+   "ronde": "2026-10-12"
+  },
+  "gfc-5619a5c239c318fc|gfc-a7b31f96101ccc33": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "video tegenover fotoreeks van Iraanse raketten",
+   "taal": "en",
+   "gelijkenis": 0.9141,
+   "score": 0.5435,
+   "ronde": "2026-10-12"
+  },
+  "gfc-b96701e9925568cd|gfc-e1466010ec7ee7ce": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "geschenk van Japan tegenover Singapore",
+   "taal": "en",
+   "gelijkenis": 0.9136,
+   "score": 0.9761,
+   "ronde": "2026-10-12"
+  },
+  "gfc-96c9cac9b9f67684|gfc-e42ff9146da6af00": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "video tegenover foto's van de aardbeving in Japan",
+   "taal": "en",
+   "gelijkenis": 0.9129,
+   "score": 0.7617,
+   "ronde": "2026-10-12"
+  },
+  "gfc-01121263feb2cb64|gfc-aa42e87f9e3d954b": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "vacatures bij Kenya Power tegenover Kenya Pipeline",
+   "taal": "en",
+   "gelijkenis": 0.9124,
+   "score": 0.7485,
+   "ronde": "2026-10-12"
+  },
+  "gfc-94d20527267c9380|gfc-e1466010ec7ee7ce": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "geschenk van de VS tegenover Singapore",
+   "taal": "en",
+   "gelijkenis": 0.9121,
+   "score": 0.9888,
+   "ronde": "2026-10-12"
+  },
+  "gfc-188dbcc6be35c15f|gfc-3f44e4e8f70c5ad2": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Europa draagt niet bij aan Oekraïne, alleen de VS",
+   "taal": "en",
+   "gelijkenis": 0.9102,
+   "score": 0.9326,
+   "ronde": "2026-10-12"
+  },
+  "gfc-4a8c09e6b87df3e4|gfc-568e2568e525db86": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "renta mínima tegenover renta básica",
+   "taal": "es",
+   "gelijkenis": 0.9582,
+   "score": 0.7734,
+   "ronde": "2026-10-12"
+  },
+  "gfc-162d42a10715364c|gfc-be033d291430ea86": {
+   "label": "onterecht",
+   "soort": "weerlegging",
+   "reden": "de bewering tegenover 'Es falso que' dezelfde bewering",
+   "taal": "es",
+   "gelijkenis": 0.9456,
+   "score": 0.9976,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2d90b2b9ef4d793e|gfc-2e3f5d6af2eebdc3": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "citroen en zuiveringszout doden tegenover genezen corona",
+   "taal": "es",
+   "gelijkenis": 0.9372,
+   "score": 0.8096,
+   "ronde": "2026-10-12"
+  },
+  "gfc-93853d26a6865fbb|gfc-9c904ef187b6bdfd": {
+   "label": "terecht",
+   "soort": "inhoud",
+   "reden": "executie tegenover begrafenis van de Kulunas",
+   "taal": "fr",
+   "gelijkenis": 0.9284,
+   "score": 0.9312,
+   "ronde": "2026-10-12"
+  },
+  "gfc-10aeea1751d1ee20|gfc-768aa0eaae7186e2": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "betogers in Kisangani tegenover Kinshasa",
+   "taal": "fr",
+   "gelijkenis": 0.9226,
+   "score": 0.5298,
+   "ronde": "2026-10-12"
+  },
+  "gfc-a39e0df1b14328c8|gfc-d93d9bd114334624": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "raketinslag bij de explosie in Beiroet",
+   "taal": "id",
+   "gelijkenis": 0.9211,
+   "score": 0.8184,
+   "ronde": "2026-10-12"
+  },
+  "gfc-9581f6a448c35183|gfc-fffdee61fd51584c": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "foto tegenover video van Erdoğan en Macron",
+   "taal": "id",
+   "gelijkenis": 0.9125,
+   "score": 0.9614,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2741c179d0f13c0b|gfc-eb414d1b33ed7fec": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "verkozen CPM-kandidaat naar de BJP",
+   "taal": "ml",
+   "gelijkenis": 0.9213,
+   "score": 0.5767,
+   "ronde": "2026-10-12"
+  },
+  "gfc-3512415e808066f1|gfc-bf1ec61d0a4bf7c3": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "ntv-artikel over Pfizer en Denemarken",
+   "taal": "nl",
+   "gelijkenis": 0.9505,
+   "score": 0.5054,
+   "ronde": "2026-10-12"
+  },
+  "gfc-9ea82a4ef700ad3b|gfc-b4543aded035bf6f": {
+   "label": "twijfel",
+   "soort": "medium",
+   "reden": "foto tegenover video als bewijs van een geënsceneerde maanlanding",
+   "taal": "nl",
+   "gelijkenis": 0.9185,
+   "score": 0.5464,
+   "ronde": "2026-10-12"
+  },
+  "gfc-0126ef45f4b25575|gfc-2a9c8a729a8772de": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "meer zelfdodingen dan verkeersdoden in Polen",
+   "taal": "pl",
+   "gelijkenis": 0.9627,
+   "score": 0.8794,
+   "ronde": "2026-10-12"
+  },
+  "gfc-a705c816c757367d|gfc-fa16c908d9312335": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Globo tegenover Globolixo, verder gelijk",
+   "taal": "pt",
+   "gelijkenis": 0.98,
+   "score": 0.5552,
+   "ronde": "2026-10-12"
+  },
+  "gfc-6018dac72c4c731d|gfc-70d81cfe63523b8d": {
+   "label": "twijfel",
+   "soort": "entiteit",
+   "reden": "dezelfde onzin over mondkapjes, toegeschreven aan Fiocruz tegenover Unicef",
+   "taal": "pt",
+   "gelijkenis": 0.9542,
+   "score": 0.9893,
+   "ronde": "2026-10-12"
+  },
+  "gfc-a88bdb1dad30682a|gfc-fb7b447c52cbc89f": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "kinderen met telefoon bij de benzinepomp",
+   "taal": "pt",
+   "gelijkenis": 0.9517,
+   "score": 0.8252,
+   "ronde": "2026-10-12"
+  },
+  "gfc-76408cceba711cc4|gfc-88778346cf87f2c7": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "WhatsApp Gold, de bekende varianten Martinelli en Gambarelli",
+   "taal": "pt",
+   "gelijkenis": 0.9426,
+   "score": 0.9106,
+   "ronde": "2026-10-12"
+  },
+  "gfc-76408cceba711cc4|gfc-bb78ce0091a88ba2": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "WhatsApp Gold, de bekende varianten Martinelli en Gambarelli",
+   "taal": "pt",
+   "gelijkenis": 0.9409,
+   "score": 0.9048,
+   "ronde": "2026-10-12"
+  },
+  "gfc-61794cd6d77b4033|gfc-6d048ef5b9be9d3a": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "Fux en de commandant van de militaire politie",
+   "taal": "pt",
+   "gelijkenis": 0.9174,
+   "score": 0.5903,
+   "ronde": "2026-10-12"
+  },
+  "gfc-69481277a1408c1a|gfc-abb3e994b5baa86c": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "leraar overleden aan corona na protest",
+   "taal": "si",
+   "gelijkenis": 0.9579,
+   "score": 0.8169,
+   "ronde": "2026-10-12"
+  },
+  "gfc-69481277a1408c1a|gfc-ce9a59bd096062b8": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "een leraar tegenover meerdere leraren",
+   "taal": "si",
+   "gelijkenis": 0.941,
+   "score": 0.6055,
+   "ronde": "2026-10-12"
+  },
+  "gfc-654f7ddf489d2c62|gfc-799eb16df62d7929": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "letterlijk gelijk op de punt na",
+   "taal": "te",
+   "gelijkenis": 0.9982,
+   "score": 0.8975,
+   "ronde": "2026-10-12"
+  },
+  "gfc-31995d1e474c72b6|gfc-ea585e9112de8794": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "letterlijk gelijk op de punt na",
+   "taal": "te",
+   "gelijkenis": 0.9977,
+   "score": 0.502,
+   "ronde": "2026-10-12"
+  },
+  "gfc-2acc2122956a7119|gfc-46d2d83a1e6a2308": {
+   "label": "terecht",
+   "soort": "inhoud",
+   "reden": "islamitische vlaggen tegenover Pakistaanse vlaggen bij Priyanka Gandhi",
+   "taal": "te",
+   "gelijkenis": 0.931,
+   "score": 0.9673,
+   "ronde": "2026-10-12"
+  },
+  "gfc-00a2904d7b9da0e8|gfc-b871942c07fb27a0": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "ziekenhuis in Telangana tegenover Andhra Pradesh",
+   "taal": "te",
+   "gelijkenis": 0.9263,
+   "score": 0.6616,
+   "ronde": "2026-10-12"
+  },
+  "gfc-65915fd029f920aa|gfc-e204ea39a59d7c8f": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "lager in BJP-staten tegenover hoger in niet-BJP-staten: dezelfde bewering omgekeerd",
+   "taal": "te",
+   "gelijkenis": 0.9153,
+   "score": 0.9639,
+   "ronde": "2026-10-12"
+  },
+  "gfc-34dae75b91c0ea5e|gfc-7216957c4e440164": {
+   "label": "terecht",
+   "soort": "entiteit",
+   "reden": "Galaxy Z Flip5 tegenover Z Fold5",
+   "taal": "vi",
+   "gelijkenis": 0.9423,
+   "score": 0.6294,
+   "ronde": "2026-10-12"
+  },
+  "gfc-1b210398cece6d72|gfc-c44e0bfcea3c2996": {
+   "label": "onterecht",
+   "soort": "formulering",
+   "reden": "minister Chen: blijf binnen tot na het Drakenbootfeest",
+   "taal": "zh",
+   "gelijkenis": 0.9319,
+   "score": 0.8105,
+   "ronde": "2026-10-12"
+  }
+ }
+}

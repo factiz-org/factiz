@@ -1,0 +1,172 @@
+# Een dossier van het platform (PLAN #33.6, SPECS E9.S7). Een mens schrijft dit bestand; de factchecks die erbij
+# horen staan in factchecks.json en komen daar alleen na goedkeuring. `python -m doublecheck.dossiers` leest en keurt.
+# Concept van Claude (PLAN #37.5): een dossier dat vooral rust op de eigen redactie van Factiz (B83), omdat het archief
+# weinig westerse factchecks over dit verhaal heeft. De PO las het en gaf akkoord op 2026-11-19.
+
+soort = "verhaal"            # verhaal of netwerk
+status = "akkoord"           # concept of akkoord; alleen akkoord gaat in een uitgave
+akkoord = '2026-11-19, PO: "Alle andere dossiers zijn ook akkoord"'
+thema = "migration"          # uit content/themas.json
+onderdeel = "asylum"
+verwant = ["migratie-europa"]
+
+[naam]
+nl = "Het verhaal dat migranten in Europa achter geweld zitten of voorrang krijgen"
+en = "The story that migrants in Europe are behind violence or get special treatment"
+de = "Die Erzählung, dass Migranten in Europa hinter Gewalt stecken oder bevorzugt werden"
+es = "El relato de que los migrantes en Europa están detrás de la violencia o tienen privilegios"
+fr = "Le récit selon lequel les migrants en Europe sont derrière la violence ou sont favorisés"
+
+[inleiding]
+nl = """
+Sinds 2015, toen het aantal asielzoekers in Europa sterk steeg, komt één verhaal steeds terug in een nieuwe vorm: dat
+migranten, vluchtelingen of moslims achter geweld, misdaad, rellen en aanslagen zitten, of dat ze voorrang krijgen bij
+een huis, een uitkering of kinderopvang. Volgens het netwerk van factcheckers van EDMO gaat het vaak om oude beelden met
+een nieuwe tekst, en soms om een verhaal dat helemaal verzonnen is. Dit dossier zet de versies die zijn nagetrokken op
+een tijdlijn, met onderzoek en rapporten erover. Uit 2025 en 2026 heeft het archief weinig factchecks over dit verhaal
+die we mogen overnemen; de recente versies checkte vooral de eigen redactie van Factiz. Elke factcheck zegt wie hem
+maakte en wat die vond. In de lijst staan alleen factchecks die we mogen overnemen; ze is dus niet volledig. Aantallen
+migranten, boten en routes, het beleid van de EU en het idee van een grote vervanging staan in een ander dossier."""
+en = """
+Since 2015, when the number of asylum seekers in Europe rose sharply, one story keeps returning in a new form: that
+migrants, refugees or Muslims are behind violence, crime, riots and attacks, or that they get priority for housing,
+benefits or childcare. According to the EDMO network of fact-checkers, it is often old footage with a new caption, and
+sometimes a story that is invented from start to finish. This dossier puts the versions that were checked on a
+timeline, with research and reports on them. For 2025 and 2026 the archive holds few fact-checks on this story that we
+may republish; the recent versions were checked mostly by Factiz's own desk. Each fact-check says who made it and what
+they found. The list holds only fact-checks we may republish, so it is not complete. Numbers of migrants, boats and
+routes, EU policy and the idea of a great replacement are in another dossier."""
+de = """
+Seit 2015, als die Zahl der Asylsuchenden in Europa stark stieg, kehrt eine Erzählung immer wieder in neuer Form
+zurück: Migranten, Geflüchtete oder Muslime steckten hinter Gewalt, Kriminalität, Krawallen und Anschlägen, oder sie
+würden bei Wohnungen, Sozialleistungen oder der Kinderbetreuung bevorzugt. Laut dem Faktencheck-Netzwerk von EDMO
+handelt es sich oft um alte Bilder mit neuem Text und manchmal um eine von Anfang bis Ende erfundene Geschichte. Dieses
+Dossier ordnet die überprüften Fassungen auf einer Zeitleiste, mit Forschung und Berichten dazu. Für 2025 und 2026 hat
+das Archiv wenige Faktenchecks zu dieser Erzählung, die wir übernehmen dürfen; die neueren Fassungen hat vor allem die
+eigene Redaktion von Factiz geprüft. Jeder Faktencheck sagt, wer ihn gemacht hat und was er ergab. Die Liste enthält
+nur Faktenchecks, die wir übernehmen dürfen; sie ist also nicht vollständig. Zahlen zu Migranten, Booten und Routen,
+die Politik der EU und die Idee eines großen Austauschs stehen in einem anderen Dossier."""
+es = """
+Desde 2015, cuando el número de solicitantes de asilo en Europa aumentó con fuerza, un relato vuelve una y otra vez con
+una forma nueva: que los migrantes, los refugiados o los musulmanes están detrás de la violencia, la delincuencia, los
+disturbios y los atentados, o que tienen prioridad para una vivienda, una ayuda o una guardería. Según la red de
+verificadores de EDMO, a menudo se trata de imágenes antiguas con un texto nuevo y a veces de una historia inventada de
+principio a fin. Este dosier ordena en una cronología las versiones que se verificaron, con investigaciones e informes
+sobre ellas. De 2025 y 2026 el archivo tiene pocas verificaciones sobre este relato que podamos reproducir; las
+versiones recientes las verificó sobre todo la redacción propia de Factiz. Cada verificación dice quién la hizo y qué
+encontró. La lista solo contiene verificaciones que podemos reproducir, así que no está completa. Las cifras de
+migrantes, barcos y rutas, la política de la UE y la idea de un gran reemplazo están en otro dosier."""
+fr = """
+Depuis 2015, quand le nombre de demandeurs d’asile en Europe a fortement augmenté, un récit revient sans cesse sous une
+forme nouvelle : les migrants, les réfugiés ou les musulmans seraient derrière la violence, la délinquance, les émeutes
+et les attentats, ou bien ils auraient la priorité pour un logement, une allocation ou une crèche. Selon le réseau de
+vérificateurs d’EDMO, il s’agit souvent d’images anciennes avec une nouvelle légende, et parfois d’une histoire
+inventée de bout en bout. Ce dossier place sur une chronologie les versions qui ont été vérifiées, avec des recherches
+et des rapports à leur sujet. Pour 2025 et 2026, l’archive contient peu de vérifications sur ce récit que nous pouvons
+reprendre ; les versions récentes ont surtout été vérifiées par la rédaction de Factiz. Chaque vérification dit qui l’a
+faite et ce qu’elle a trouvé. La liste ne contient que des vérifications que nous pouvons reprendre ; elle n’est donc
+pas complète. Les chiffres sur les migrants, les bateaux et les routes, la politique de l’UE et l’idée d’un grand
+remplacement figurent dans un autre dossier."""
+
+[nagelezen]
+nl = false
+en = false
+de = false
+es = false
+fr = false
+
+# De tijdlijn naast de factchecks: onderzoek, rapporten en pers over het verhaal, elk zelf geopend op 2026-11-19.
+
+[[item]]
+soort = "onderzoek"
+datum = "2016-01-28"
+bron = "Carnegie Europe"
+url = "https://carnegieendowment.org/europe/strategic-europe/2016/01/russias-manipulation-of-germanys-refugee-problems?lang=en"
+[item.titel]
+nl = "Carnegie Europe beschrijft hoe Russische staatsmedia het verhaal verspreidden dat asielzoekers in Berlijn een meisje van 13 verkrachtten; volgens de politie was ze niet ontvoerd en niet verkracht"
+en = "Carnegie Europe describes how Russian state media spread the story that asylum seekers in Berlin raped a 13-year-old girl; police said she was neither abducted nor raped"
+de = "Carnegie Europe beschreibt, wie russische Staatsmedien verbreiteten, Asylbewerber hätten in Berlin eine 13-Jährige vergewaltigt; laut Polizei wurde sie weder entführt noch vergewaltigt"
+es = "Carnegie Europe describe cómo los medios estatales rusos difundieron que unos solicitantes de asilo violaron a una niña de 13 años en Berlín; la policía dijo que no fue secuestrada ni violada"
+fr = "Carnegie Europe décrit comment les médias d’État russes ont dit qu’une fille de 13 ans avait été violée par des demandeurs d’asile à Berlin ; selon la police, elle n’a été ni enlevée ni violée"
+
+[[item]]
+soort = "onderzoek"
+datum = "2023-11-09"
+bron = "EDMO"
+url = "https://edmo.eu/publications/disinformers-use-similar-arguments-and-techniques-to-steer-hate-against-migrants-from-ukraine-or-the-global-south-2/"
+[item.titel]
+nl = "Het netwerk van factcheckers van EDMO ziet in meer dan twintig Europese landen dezelfde valse verhalen over migranten: geweld en misdaad, oude beelden met een nieuwe tekst en voorrechten"
+en = "EDMO's network of fact-checkers finds the same false stories about migrants in more than twenty European countries: violence and crime, old footage with a new caption, and privileges"
+de = "Das Faktencheck-Netzwerk von EDMO findet in mehr als zwanzig europäischen Ländern dieselben falschen Geschichten über Migranten: Gewalt und Kriminalität, alte Bilder mit neuem Text, Privilegien"
+es = "La red de verificadores de EDMO encuentra en más de veinte países europeos las mismas historias falsas sobre migrantes: violencia y delincuencia, imágenes antiguas con texto nuevo y privilegios"
+fr = "Le réseau de vérificateurs d’EDMO retrouve dans plus de vingt pays européens les mêmes fausses histoires sur les migrants : violence et délinquance, vieilles images légendées à neuf, privilèges"
+
+[[item]]
+soort = "pers"
+datum = "2025-07-11"
+bron = "The Register"
+url = "https://www.theregister.com/2025/07/11/online_safety_act_misinfo/"
+[item.titel]
+nl = "Een commissie van het Britse Lagerhuis stelt dat valse beweringen over de naam en het geloof van de dader in Southport de rellen van 2024 mee aanwakkerden"
+en = "A UK House of Commons committee says false claims about the name and religion of the Southport attacker helped fuel the 2024 riots"
+de = "Ein Ausschuss des britischen Unterhauses stellt fest, dass falsche Angaben zu Namen und Religion des Täters von Southport die Krawalle von 2024 mit anheizten"
+es = "Una comisión de la Cámara de los Comunes británica concluye que las afirmaciones falsas sobre el nombre y la religión del autor del ataque de Southport avivaron los disturbios de 2024"
+fr = "Une commission de la Chambre des communes britannique estime que de fausses affirmations sur le nom et la religion de l’auteur de l’attaque de Southport ont attisé les émeutes de 2024"
+
+[[item]]
+soort = "rapport"
+datum = "2025-07-24"
+bron = "Gobierno de España (OBERAXE)"
+url = "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2025/240725-sucesos-torre-pacheco.aspx"
+[item.titel]
+nl = "Het Spaanse waarnemingscentrum tegen racisme telt na Torre Pacheco meer dan 138.000 haatberichten, vooral tegen mensen uit Noord-Afrika, met verzonnen berichten en bewerkte beelden"
+en = "Spain's observatory against racism counts more than 138,000 hate messages after the events in Torre Pacheco, mostly against people from North Africa, with hoaxes and manipulated images"
+de = "Spaniens Beobachtungsstelle gegen Rassismus zählt nach Torre Pacheco über 138.000 Hassnachrichten, vor allem gegen Menschen aus Nordafrika, mit Falschmeldungen und manipulierten Bildern"
+es = "El Observatorio Español del Racismo y la Xenofobia cuenta más de 138.000 mensajes de odio tras Torre Pacheco, sobre todo contra personas del norte de África, con bulos e imágenes manipuladas"
+fr = "L’observatoire espagnol du racisme compte plus de 138 000 messages haineux après Torre Pacheco, surtout contre des personnes d’Afrique du Nord, avec des infox et des images manipulées"
+
+[[item]]
+soort = "rapport"
+datum = "2025-12-01"
+bron = "Polismyndigheten"
+url = "https://polisen.se/siteassets/dokument/organiserad_brottslighet/utsatta-omraden/lagesbild-over-utsatta-omraden-2025.pdf"
+[item.titel]
+nl = "De Zweedse politie noemt 65 wijken kwetsbaar door criminaliteit en schrijft dat ze nu in de meeste wijken van Zweden zonder problemen kan werken"
+en = "Swedish police list 65 neighbourhoods as vulnerable to crime and write that they can now work without problems in most areas of Sweden"
+de = "Die schwedische Polizei stuft 65 Viertel als durch Kriminalität gefährdet ein und schreibt, sie könne heute in den meisten Gebieten Schwedens ohne Probleme arbeiten"
+es = "La policía sueca califica 65 barrios como vulnerables por la delincuencia y escribe que ahora puede trabajar sin problemas en la mayoría de las zonas de Suecia"
+fr = "La police suédoise classe 65 quartiers comme vulnérables à la criminalité et écrit qu’elle peut aujourd’hui travailler sans problème dans la plupart des zones de Suède"
+
+[[item]]
+soort = "rapport"
+datum = "2025-12-08"
+bron = "Bundeskriminalamt"
+url = "https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Kurzmeldungen/251208_BLB_KriminalitaetImKontextZuwanderung2024.html"
+[item.titel]
+nl = "Het Duitse Bundeskriminalamt publiceert zijn jaarlijkse overzicht van misdaad rond migratie over 2024, met migranten als verdachten en als slachtoffers"
+en = "Germany's Federal Criminal Police Office publishes its annual report on crime in the context of immigration for 2024, with migrants as suspects and as victims"
+de = "Das Bundeskriminalamt veröffentlicht das Bundeslagebild Kriminalität im Kontext von Zuwanderung 2024, mit Zuwanderern als Tatverdächtigen und als Opfern"
+es = "La Oficina Federal de Policía Criminal de Alemania publica su informe anual de 2024 sobre la delincuencia en el contexto de la inmigración, con migrantes como sospechosos y como víctimas"
+fr = "L’Office fédéral de police criminelle allemand publie son rapport annuel 2024 sur la criminalité dans le contexte de l’immigration, avec des migrants comme suspects et comme victimes"
+
+# Voor het voorstellen van factchecks (`python -m doublecheck.dossiers`); dit deel gaat niet in de uitgave.
+[voorstel]
+woorden = ["migrant", "migrat", "immigr", "inmigr", "imigr", "refugee", "refugiad", "réfugié", "vluchteling", "Flüchtling",
+  "Geflüchtet", "profughi", "uchodźc", "беженц", "мигрант", "мігрант", "біженц", "لاجئ", "مهاجر", "پناهجو", "پناهنده",
+  "sığınmacı", "göçmen", "mülteci", "शरणार्थी", "asiel", "asylum", "Asyl", "asilo", "asile", "seekers", "statushouder",
+  "Ausländer", "allochto", "Zuwander", "clandestin", "sans-papiers", "illegalen", "muslim", "moslim", "moslims", "Muslime",
+  "musulm", "muçulman", "muzułm", "мусульман", "Müslüman", "मुस्लिम", "ముస్లిం", "முஸ்லிம்", "মুসলিম", "മുസ്ലിം", "ಮುಸ್ಲಿಂ",
+  "مسلمان", "islam", "sharia", "burqa", "boerka", "marroqu", "magreb", "Marokkan", "Nordafrikan", "Eritre", "Afghan",
+  "Rotherham", "grooming gang", "Silvesternacht", "Cologne", "Southport", "Molenbeek", "Malmö", "banlieue", "non-droit",
+  "No-Go", "Solingen", "Magdeburg", "Mannheim", "Epping", "Bürgergeld"]
+omschrijving = """
+Claims, images and videos from 2015 onwards that blame migrants, refugees, asylum seekers or Muslims in Europe for
+crime, violence, riots, terror attacks, sexual assault, or attacks on police and firefighters; claims that migrants or
+refugees in Europe get privileges such as free housing, money, benefits, healthcare, childcare or priority over natives;
+old or foreign footage presented as migrants or Muslims causing trouble in Europe now; crime statistics about migrants in
+Europe; and "no-go zones" or sharia zones in European cities. Europe here means the EU, the UK, Ireland, Norway,
+Switzerland and the Balkans. Say "nee" when the claim is set in another country (India, Pakistan, Bangladesh, Iran,
+Turkey, Russia, Japan, the United States, Latin America, Africa), even if it is about migrants or Muslims. It does not
+include: numbers of arrivals, boats, routes, rescue ships, EU migration policy or deals with other countries, or the
+"great replacement" and claims that Muslims are taking over Europe (another dossier); attacks on migrants or Muslims;
+and claims about Gaza or pro-Palestinian protests unless they blame migrants or Muslims in Europe."""

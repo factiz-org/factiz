@@ -1,0 +1,49 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck trump-poetin-xi-verklaring van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "9ce048fccbb65b10",
+ "veldafdrukken": {
+  "kop": "c819d8b116205daf",
+  "oordeel_zin": "06a72015262c64bd",
+  "bewering": "8114d5623a06a128",
+  "kort": "bd68417202b819e2",
+  "tekst": "469af6912b32a5cd",
+  "niet_weten": "60deae92ec310c23",
+  "bereik": "91cc290196d3df18",
+  "nog_uitzoeken": "4c4293470da0519f",
+  "tijdlijn": "0563191833ccd753",
+  "beeld_bijschrift": "a4f87ca87b1efda0",
+  "beeld_alt": "cc78ac8147daf24f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Putin tidak mengumumkan gencatan senjata setelah bertemu Trump dan Xi di Shenzhen",
+  "oordeel_zin": "Tidak ada gencatan senjata yang diumumkan: deklarasi bersama dari Shenzhen tidak menyebut Ukraina, Putin mengatakan pada hari itu bahwa Rusia akan membalas serangan terhadap Jembatan Krimea, dan pada malam harinya Rusia menembakkan 84 rudal jelajah ke Ukraina [2] [4] [6].",
+  "bewering": "BREAKING: PRESIDEN RUSIA VLADIMIR PUTIN BARU SAJA MENGUMUMKAN GENCATAN SENJATA DAN MENARIK SELURUH PASUKANNYA DARI PERBATASAN UKRAINA SETELAH PERTEMUANNYA KEMARIN.",
+  "kort": "Pada 19 November, sebuah unggahan di X mengklaim bahwa Vladimir Putin telah mengumumkan gencatan senjata dan menarik semua pasukannya dari perbatasan Ukraina setelah bertemu Donald Trump dan Xi Jinping [1]. Ketiga pemimpin itu memang bertemu di Shenzhen pada hari tersebut, tetapi deklarasi bersama mereka tidak menyebut Ukraina, dan Putin mengatakan Rusia akan membalas serangan Ukraina terhadap Jembatan Krimea [2] [3] [4]. Pada malam itu Rusia menyerang Ukraina dengan 84 rudal jelajah dan 404 drone [6].",
+  "tekst": "Pada pukul 10.21 UTC tanggal 19 November 2026, sebuah akun di X menulis dengan huruf kapital bahwa Putin baru saja mengumumkan gencatan senjata dan menarik semua pasukannya dari perbatasan Ukraina [1]. Unggahan itu memberikan pujian kepada Trump dan mengutip Putin yang disebut mengatakan bahwa ia menginginkan perdamaian dan bahwa Zelenskyy terus mendesaknya [1]. Unggahan itu tidak menyebut sumber apa pun [1].\n\nPada hari itu, di sela-sela KTT APEC di Shenzhen, Trump, Putin, dan Xi menggelar pertemuan tiga pihak, dan Trump serta Putin juga bertemu secara terpisah [5]. Ketiganya mengadopsi Deklarasi menuju Perdamaian yang terdiri atas empat poin, yang dipublikasikan oleh Kremlin dan Kementerian Luar Negeri Tiongkok [2] [3]. Di dalamnya mereka berkomitmen untuk mereformasi Perserikatan Bangsa-Bangsa, menambah pasokan produk minyak bumi olahan, dan menggelar pembicaraan tentang risiko nuklir, serta menyatakan bahwa Mahkamah Pidana Internasional tidak boleh menyalahgunakan yurisdiksinya [2] [3]. Deklarasi itu tidak menyebut apa pun tentang Ukraina, gencatan senjata, atau pasukan [2] [3]. Associated Press melaporkan tidak ada terobosan [5].\n\nDalam konferensi persnya pada hari itu, Putin mengatakan Rusia tidak berkeinginan melanjutkan konflik, dan bahwa Ukraina sebaiknya menerima kompromi yang diusulkan pihak Amerika sebelum pembicaraan di Anchorage [4]. Ketika ditanya tentang serangan Ukraina terhadap Jembatan Krimea, ia mengatakan kini tidak akan ada pembicaraan tentang jeda serangan di laut atau di sektor energi, dan bahwa balasan Rusia akan menyusul [4]. Ia mengatakan Rusia akan memperluas kehadirannya di wilayah Zaporizhzhia dan Kherson serta mendorong pasukan Ukraina lebih jauh ke belakang [4]. Kata-kata yang diletakkan unggahan itu di mulutnya tidak ada dalam transkrip Kremlin [4].\n\nPada malam menjelang 20 November, Rusia menyerang Ukraina dengan rudal balistik, 84 rudal jelajah, dan 404 drone, menurut Angkatan Udara Ukraina [6]. Sedikitnya sembilan orang tewas, tujuh di antaranya di Kyiv, tempat tiga jembatan rusak [7]. Pada malam berikutnya, Angkatan Udara mencatat 3 rudal balistik dan 148 drone [8].",
+  "niet_weten": "Kami tidak tahu siapa yang menjalankan akun tersebut atau di mana kutipan yang dikaitkan dengan Putin itu pertama kali muncul [1]. Kami tidak menemukan pernyataan dari Kremlin atau Beijing, maupun laporan berita, yang menyebut adanya gencatan senjata setelah pertemuan di Shenzhen [2] [3] [4] [5].",
+  "bereik": "895 suka, 260 unggah ulang, dan 99 balasan per 23 November",
+  "nog_uitzoeken": [
+   "Radar kami pertama kali menangkap KTT ini lewat unggahan lain tanggal 19 November yang beredar bersama sebuah gambar. Penulisnya menghapusnya sebelum kami sempat membacanya, jadi kami tidak tahu persis apa yang diklaimnya.",
+   "Sebuah unggahan berbahasa Rusia mengklaim hasil yang sebaliknya: bahwa Trump dan Xi memberi Putin waktu tiga hari untuk menyerah dan bahwa Zelenskyy telah terbang ke Tiongkok. Kami tidak memeriksanya secara terpisah.",
+   "Apakah kutipan yang dikaitkan dengan Putin, yang menyebut Zelenskyy terus mendesaknya, muncul lebih awal di unggahan lain atau di platform lain.",
+   "Kami memilih Salah dan bukan Menyesatkan karena unggahan itu menyajikan gencatan senjata dan penarikan pasukan sebagai sesuatu yang sudah terjadi, padahal keduanya tidak terjadi. Jika Anda tahu lebih banyak, silakan beri tahu kami."
+  ],
+  "tijdlijn": [
+   "Trump, Putin, dan Xi menggelar pertemuan tiga pihak di Shenzhen, di sela-sela KTT APEC [5].",
+   "Ketiga pemimpin mengadopsi Deklarasi menuju Perdamaian; deklarasi itu tidak menyebut Ukraina [2] [3].",
+   "Sebuah unggahan di X mengklaim Putin telah mengumumkan gencatan senjata dan menarik pasukannya [1].",
+   "Konferensi pers Putin di Shenzhen: tidak ada pembicaraan setelah serangan terhadap Jembatan Krimea, balasan akan menyusul [4].",
+   "Pada malam harinya, Rusia menyerang Ukraina dengan 84 rudal jelajah dan 404 drone; sedikitnya sembilan orang tewas [6] [7].",
+   "Pada malam harinya, Rusia menyerang Ukraina dengan 3 rudal balistik dan 148 drone [8]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 19 November 2026, pukul 10.21 UTC."
+  ],
+  "beeld_alt": [
+   "Unggahan di X dari akun madrid_xtraq yang menulis dengan huruf kapital bahwa Putin telah mengumumkan gencatan senjata dan menarik semua pasukannya dari perbatasan Ukraina, dengan tangkapan layar Putin di depan mikrofon dan foto Trump di podium, di atas unggahan kutipan yang menampilkan Trump dan Putin berjabat tangan. Cap: SALAH."
+  ]
+ }
+}

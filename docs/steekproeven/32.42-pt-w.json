@@ -1,0 +1,73 @@
+{
+  "toelichting": "PLAN #32.42, Portugees, de herstelde set W (32.42-pt-w): elke niet bevestigd bij W, blind gelezen door een deelagent tegen de genoemde bronnen, met dezelfde regels als 32.42-pt.",
+  "labels": {
+    "W:wikinews:pt:32434#C": {
+      "label": "vals",
+      "toelichting": "UNICEF zelf en UNFPA, door de machine geciteerd, melden het rapport Children and AIDS van 30 november 2010 in New York."
+    },
+    "W:wikinews:pt:47911#C": {
+      "label": "vals",
+      "toelichting": "Een echte uitspraak van Dilma Rousseff op 9 mei 2016 over het impeachment, die Braziliaanse media zoals Agência Brasil meldden; de machine vond alleen geen bron."
+    },
+    "W:wikinews:pt:35364#C": {
+      "label": "set fout",
+      "toelichting": "Alleen de kop van een uitslagenoverzicht van het Paulistão 2012 en 'hier volgen de uitslagen', zonder uitslagen of andere bewering."
+    },
+    "W:wikinews:pt:58467#C": {
+      "label": "vals",
+      "toelichting": "De officiële site van Premiership Rugby, The Telegraph en RugbyPass, door de machine zelf geciteerd, melden ronde 20 in het weekend van 26 tot 28 april 2019."
+    },
+    "W:wikinews:pt:18670#C": {
+      "label": "vals",
+      "toelichting": "O Globo, Gazeta do Povo en andere Braziliaanse kranten, door de machine zelf geciteerd, melden dat Correa in september 2008 dreigde de BNDES-lening niet terug te betalen."
+    },
+    "W:wikinews:pt:32948#C": {
+      "label": "vals",
+      "toelichting": "Een gewone speelronde van de Aviva Premiership in maart 2011 met een datum, die sportmedia als BBC Sport melden; de machine vond alleen geen uitslagen."
+    },
+    "W:wikinews:pt:54310#C": {
+      "label": "vals",
+      "toelichting": "Agência Brasil en Fecomércio SP zelf, door de machine geciteerd, melden de 1.137 banen in de groothandel van São Paulo in november 2017."
+    },
+    "W:wikinews:pt:48763#C": {
+      "label": "vals",
+      "toelichting": "Een gewoon bericht uit september 2016 over de oppositie in Angola die het kiezersregister aanvocht bij het Constitutioneel Hof, het soort nieuws dat VOA Português en Angolese media melden; de machine vond zelf de twijfels over het register."
+    },
+    "W:wikinews:pt:37762#C": {
+      "label": "vals",
+      "toelichting": "De Câmara dos Deputados zelf (verslag van de zitting van 9 april 2013 en eigen nieuws), door de machine geciteerd, bevestigt Erundina en het wetsvoorstel voor 30 uur."
+    },
+    "W:wikinews:pt:23106#C": {
+      "label": "vals",
+      "toelichting": "JCNET en Diário de Notícias, door de machine zelf geciteerd, melden dat Lula in augustus 2009 ontkende dat de PT in crisis was."
+    },
+    "W:wikinews:pt:43474#C": {
+      "label": "vals",
+      "toelichting": "Club-K, door de machine zelf geciteerd, meldt in februari 2015 de uitspraak van de UNITA-deputada over de macht van Eduardo dos Santos."
+    },
+    "W:wikinews:pt:52265#C": {
+      "label": "vals",
+      "toelichting": "Agência Brasil en Terra, door de machine zelf geciteerd, melden dat Rogéria op 15 juli 2017 weer zonder apparaten ademde."
+    },
+    "W:wikinews:pt:71198#C": {
+      "label": "vals",
+      "toelichting": "De resolutie van de Jucema van 30 maart 2021 (via LegisWeb) en Fenaju, door de machine zelf geciteerd, bevestigen de vrijstelling van 5 april tot 4 juni 2021."
+    },
+    "W:wikinews:pt:72750#C": {
+      "label": "vals",
+      "toelichting": "Agência Brasil, CNN Brasil en R7, door de machine zelf geciteerd, melden dat 59,7% van de loononderhandelingen in april 2021 onder de inflatie bleef."
+    },
+    "W:wikinews:pt:77720#C": {
+      "label": "vals",
+      "toelichting": "Veja, door de machine geciteerd, meldt de ruim 3,1 miljoen gevallen in januari 2022; de doden stegen ook ten opzichte van december, en de 82.266 doden gaan over april 2021, dus de tegenwerping van de machine klopt niet."
+    },
+    "W:wikinews:pt:83893#C": {
+      "label": "vals",
+      "toelichting": "De Câmara en Senado Notícias, door de machine zelf geciteerd, melden de beëdiging van de 513 deputados op woensdag 1 februari 2023, wat de tekst ook zegt; 2 februari is alleen de publicatiedatum."
+    },
+    "W:wikinews:pt:70173#C": {
+      "label": "vals",
+      "toelichting": "De Câmara dos Deputados en Senado Notícias, door de machine zelf geciteerd, meldden op 10 maart 2021 dat het TCU-rapport vier werken in de begroting van 2021 wilde blokkeren."
+    }
+  }
+}

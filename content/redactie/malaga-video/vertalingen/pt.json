@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Vídeo de multidão detendo um suposto ladrão é de Málaga, não de Milão",
+  "oordeel_zin": "O vídeo mostra uma tentativa de assalto a uma joalheria em Málaga em 16 de julho, não uma gangue em Milão em 17 de outubro [1] [4].",
+  "bewering": "Um vídeo mostra italianos em Milão detendo uma gangue pró-palestina em 17 de outubro.",
+  "kort": "Desde 20 de outubro circula no X um vídeo apresentado como imagens de italianos detendo uma gangue pró-palestina em Milão [4]. As imagens são de Málaga, na Espanha, onde moradores seguraram um homem que tentou assaltar uma joalheria em 16 de julho [1]. Os distúrbios em Milão em 17 de outubro começaram num protesto contra o alto custo de vida, e os baderneiros não usavam bandeira nem símbolo político, segundo o Avvenire [2] [3].",
+  "tekst": "Na noite de 19 para 20 de outubro, às 02:07, apareceu no X uma publicação em holandês com um vídeo de 79 segundos [4]. O texto fala de gangues de keffiyeh em cidades italianas e de italianos em Milão que não se deixam subjugar pelos anarquistas de \"fripalestin\" [4]. Abaixo estão as hashtags #Milano e #17octobre [4]. Em 18 de novembro, a publicação tinha sido vista 105.671 vezes [4].\n\nO mesmo vídeo já circulava em inglês algumas horas antes. A conta Visegrád 24 o divulgou em 19 de outubro, às 23:07, como se mostrasse cidadãos italianos pegando um assaltante estrangeiro [5]. Uma publicação em francês de 20 de outubro fez o mesmo, com um vídeo da mesma duração [6].\n\nA cena não foi filmada na Itália. Na quinta-feira, 16 de julho, por volta das 21:00, um homem tentou assaltar uma joalheria na Calle Martínez Maldonado, em Málaga, escreveu o El Español um dia depois [1]. Ele fugiu a pé em direção a um cúmplice numa moto, levou uma rasteira no caminho e foi atingido por alguém numa patinete [1]. Em seguida, moradores o seguraram, enquanto o cúmplice fugia de moto [1]. Um morador filmou a cena [1]. A Policía Nacional prendeu o homem e ainda procurava o segundo suspeito [1].\n\nEm Milão, de fato houve tumulto no sábado, 17 de outubro. Uma marcha de cerca de 5.000 pessoas contra o alto custo de vida, em torno da Piazza del Duomo, terminou em distúrbios [2]. Parte dos manifestantes, sobretudo jovens com o rosto coberto, atirou pedras e saqueou lojas [2]. A polícia deteve cerca de cinquenta pessoas [2] [3]. Segundo o Avvenire, os baderneiros eram muito jovens, vestidos de preto e sem bandeira nem símbolo político [3]. O Il Post e o Avvenire não escrevem nada sobre grupos palestinos [2] [3].\n\nA publicação, portanto, apresenta uma detenção na Espanha de três meses antes como se fosse uma cena dos distúrbios em Milão [1] [4]. As imagens em si são reais [1].",
+  "niet_weten": "Não sabemos quem foi o primeiro a dar uma explicação italiana para o vídeo. A cópia mais antiga que encontramos estava no X, em 19 de outubro, às 22h40, mas essa publicação não está mais disponível, então não sabemos o que havia nela. Não sabemos quem filmou o vídeo em julho.",
+  "bereik": "105.671 visualizações em 18 de novembro",
+  "nog_uitzoeken": [
+   "O que havia na cópia mais antiga, a publicação de 19 de outubro às 22h40. Ela não está mais disponível."
+  ],
+  "tijdlijn": [
+   "Tentativa de assalto a uma joalheria em Málaga; moradores seguram o homem até a polícia chegar [1].",
+   "O El Español escreve sobre o assalto e a detenção [1].",
+   "Uma marcha contra o alto custo de vida termina em distúrbios em Milão [2] [3].",
+   "A Visegrád 24 divulga o vídeo em inglês como cidadãos italianos pegando um assaltante [5].",
+   "A publicação holandesa sobre Milão e o dia 17 de outubro [4].",
+   "Uma publicação em francês com o mesmo vídeo de 79 segundos [6]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 20 de outubro de 2026, 02:07.",
+   "El Español, 17 de julho de 2026: a tentativa de fuga após o assalto a uma joalheria em Málaga. Foto do El Español."
+  ],
+  "beeld_alt": [
+   "Imagem parada do vídeo: uma multidão na rua em volta de um homem. Carimbo: FALSO.",
+   "Foto do El Español do homem fugindo após a tentativa de assalto em Málaga."
+  ]
+ }
+}

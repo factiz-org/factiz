@@ -1,0 +1,246 @@
+# Een eigen factcheck van Factiz (PLAN #37.4, #37.10, B82, B84, B85), in het Engels, uit de weekradar van 20 november.
+# Geschreven door Claude op het dossier in data/redactie/army-cadets-video/dossier.md, ingekort tot ~400 woorden,
+# nagelezen en goedgekeurd door de redactie van Factiz (2026-11-22, PO: "innkorten is goed, , ik heb ze nagelezen, akkoord").
+
+sleutel = "army-cadets-video"
+status = "gepubliceerd"
+taal = "en"
+adres = "army-cadets-whitehall-remembrance-video"
+kop = "Video of marchers on Whitehall shows teenage army cadets on Remembrance Sunday, not British soldiers"
+oordeel = "misleidend"
+oordeel_zin = "The first clip shows Army Cadet Force volunteers in the Remembrance Sunday march past on Whitehall, young people who are not part of the armed forces, not British soldiers [3] [4] [5]."
+soort = "context"
+vorm = "video"
+reikwijdte = "internationaal"
+
+bewering = "Compare the British and Russian methods of marching. The first 3 clips are from England. Disgrace!"
+platform = "X"
+eerst_gezien = "2026-11-14"
+posts = 4
+bereik = "2,612 likes and 308 replies on November 22; the first post with the Whitehall clip, of November 14, had 9,494 likes and 1,355 replies"
+
+kort = """
+Since November 14, posts on X have shown a column in camouflage uniform marching out of step in London [2]. On \
+November 15 an account set the clip next to Russian soldiers on Red Square as an example of British marching [1]. \
+The marchers are cadets, typically 12 to 18 years old and not part of the armed forces, in the march past on Whitehall \
+on Remembrance Sunday, November 8, 2026 [3] [5]. We know this from the monument they pass and a photo of the same \
+group by Suffolk Army Cadet Force [4] [8]."""
+
+tekst = """
+On Sunday, November 15, 2026, the account Alternative News posted a video on X with the text "Compare the British and \
+Russian methods of marching. The first 3 clips are from England." [1]. The rest of the video shows Russian troops on \
+Red Square in Moscow [1]. The first clip went round a day earlier, when the account RadioGenoa posted it as "British \
+Army cadets in London don't seem very in sync." [2]. In the comparison with Russia, the word cadets is gone [1].
+
+The clip was filmed on Whitehall. The column passes the Monument to the Women of World War II, which stands in the \
+middle of Whitehall [2] [8]. A cadet at the front carries a poppy wreath [2]. On Sunday, November 8, the National \
+Service of Remembrance was held at the Cenotaph on Whitehall [6]. Serving personnel are not eligible to march in the \
+Cenotaph march past [7].
+
+One of the groups that marched was a contingent of Suffolk Army Cadet Force and the Combined Cadet Force of Westbourne \
+Academy [3]. A photo in the gallery of Suffolk ACF shows the contingent on Whitehall in the same order as in the video: \
+an adult with medals at the front left, and at the front right a cadet carrying a wreath of the Army Cadet Force [4]. \
+We think the video shows this group. The Spanish fact-checker Maldita compared the video with the same gallery on \
+November 16 and reached the same conclusion [13].
+
+According to the Ministry of Defence, which sponsors both cadet forces, cadets are typically 12 to 18 years old and \
+are not part of the armed forces [5]."""
+
+niet_weten = """
+We do not know who filmed the video on Whitehall or where it was first posted. We matched the group by the order of \
+the column and the wreath, not by faces. We could not identify the second and third British clips in the \
+compilation [1]."""
+
+auteur = "Claude (AI)"
+nalezer = "De redactie van Factiz"
+gepubliceerd = "2026-11-22"
+
+nog_doen = []
+
+nog_uitzoeken = [
+  "Who filmed the video on Whitehall on November 8, and where it was first posted.",
+  "Who the young people in black dress uniform with red sashes are, in the second clip of the compilation, and where and when the third clip was filmed.",
+  "Whether the second video of RadioGenoa was filmed at the Royal Courts of Justice during the Lord Mayor's Show of November 14, 2026, and which cadets march in it.",
+  "We weighed Misleading against Missing context. RadioGenoa still called the marchers cadets, but the post with the Russian soldiers presents the clips as British marching without saying who marches. If you know more about any of the clips, please tell us.",
+]
+
+[[beeld]]
+rol = "rondgaat"
+bestand = "beeld-1.jpg"
+stempel = true
+bijschrift = "Post on X, November 15, 2026, 11:42 UK time."
+alt = "The post on X by Alternative News comparing British and Russian marching, with a still from the video on Whitehall in London: a man in naval uniform in front, a column of cadets in camouflage uniform behind him, a police officer and spectators at the side. Stamp: MISLEADING."
+
+[[beeld]]
+rol = "origineel"
+link = "https://armycadets.com/gallery/suffolk-cadets-attend-remembrance-events-with-pride/"
+stempel = false
+bijschrift = "Suffolk Army Cadet Force on armycadets.com, November 11, 2026: the gallery of its weekend in London, with its contingent marching on Whitehall on Remembrance Sunday."
+alt = "Photo by Suffolk Army Cadet Force of its contingent marching on Whitehall on November 8, 2026, an adult with medals in front and a cadet carrying a wreath of the Army Cadet Force."
+
+[[tijdlijn]]
+datum = "2026-11-05"
+wat = "Suffolk Army Cadet Force arrives in London and rehearses in ranks of six [3]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+tijd = "11:00"
+wat = "Two minutes of silence at the National Service of Remembrance at the Cenotaph [6]."
+
+[[tijdlijn]]
+datum = "2026-11-08"
+wat = "Suffolk ACF and Westbourne Academy CCF march on Whitehall [3] [4]."
+
+[[tijdlijn]]
+datum = "2026-11-11"
+wat = "Suffolk ACF publishes its report and photos of the weekend [3] [4]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "12:37"
+wat = "RadioGenoa posts the video from Whitehall as British Army cadets [2]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+tijd = "14:00"
+wat = "Mario Nawfal reposts it as the future of UK warriors [9]."
+
+[[tijdlijn]]
+datum = "2026-11-14"
+wat = "The Lord Mayor's Show procession goes to the Royal Courts of Justice [12]."
+
+[[tijdlijn]]
+datum = "2026-11-15"
+tijd = "11:42"
+wat = "Alternative News posts the clip next to Russian soldiers on Red Square [1]."
+
+[[tijdlijn]]
+datum = "2026-11-16"
+wat = "Maldita: the British marchers are volunteers of the Army Cadet Force [13]."
+
+[[tijdlijn]]
+datum = "2026-11-17"
+tijd = "19:57"
+wat = "RadioGenoa posts a second video of cadets in London [10]."
+
+[[tijdlijn]]
+datum = "2026-11-18"
+tijd = "4:11"
+wat = "Another account shares the second video [11]."
+
+[[bron]]
+nr = 1
+soort = "bron"
+uitgever = "X"
+titel = "The post by Alternative News comparing British and Russian marching"
+datum = "2026-11-15"
+prive = true
+archief = "https://web.archive.org/web/20261115114226/https://twitter.com/AlternatNews/status/2121931828076458312"
+
+[[bron]]
+nr = 2
+soort = "bron"
+uitgever = "X"
+titel = "The post by RadioGenoa with the 33-second video from Whitehall"
+datum = "2026-11-14"
+prive = true
+archief = "https://web.archive.org/web/20261114123747/https://twitter.com/RadioGenoa/status/2121583371272786285"
+
+[[bron]]
+nr = 3
+soort = "bron"
+uitgever = "Suffolk Army Cadet Force (Army Cadets UK)"
+titel = "Suffolk Cadets Honoured to Play Part In London Remembrance Events"
+datum = "2026-11-11"
+url = "https://armycadets.com/news/suffolk-cadets-play-part-in-london-remembrance-events/"
+archief = "https://web.archive.org/web/20261122222701/https://armycadets.com/news/suffolk-cadets-play-part-in-london-remembrance-events/"
+
+[[bron]]
+nr = 4
+soort = "bron"
+uitgever = "Suffolk Army Cadet Force (Army Cadets UK)"
+titel = "Suffolk Cadets Attend Remembrance Events With Pride (gallery)"
+datum = "2026-11-11"
+url = "https://armycadets.com/gallery/suffolk-cadets-attend-remembrance-events-with-pride/"
+archief = "https://web.archive.org/web/20261116093400/https://armycadets.com/gallery/suffolk-cadets-attend-remembrance-events-with-pride/"
+
+[[bron]]
+nr = 5
+soort = "bron"
+uitgever = "Ministry of Defence (GOV.UK)"
+titel = "The cadet forces and MOD's youth work (last updated May 26, 2021)"
+datum = "2021-05-26"
+url = "https://www.gov.uk/guidance/the-cadet-forces-and-mods-youth-work"
+archief = "https://web.archive.org/web/20261105220412/https://www.gov.uk/guidance/the-cadet-forces-and-mods-youth-work"
+
+[[bron]]
+nr = 6
+soort = "bron"
+uitgever = "GOV.UK (Department for Culture, Media and Sport and Ministry of Defence)"
+titel = "National Service of Remembrance: Sunday 8 November 2026"
+datum = "2026-10-08"
+url = "https://www.gov.uk/guidance/national-service-of-remembrance-sunday-8-november-2026"
+archief = "https://web.archive.org/web/20261111090409/https://www.gov.uk/guidance/national-service-of-remembrance-sunday-8-november-2026"
+
+[[bron]]
+nr = 7
+soort = "bron"
+uitgever = "Royal British Legion"
+titel = "Remembrance Sunday: Cenotaph Parade 2026 (consulted November 22, 2026)"
+datum = "2026-11-22"
+url = "https://www.britishlegion.org.uk/get-involved/remembrance/remembrance-events/remembrance-sunday"
+archief = "https://web.archive.org/web/20261122222746/https://www.britishlegion.org.uk/get-involved/events/remembrance-events/remembrance-sunday"
+
+[[bron]]
+nr = 8
+soort = "bron"
+uitgever = "War Memorials Online (War Memorials Trust)"
+titel = "Women of World War Two (consulted November 22, 2026)"
+datum = "2026-11-22"
+url = "https://warmemorialsonline.org.uk/memorial/74057"
+archief = "https://web.archive.org/web/20260612081918/https://www.warmemorialsonline.org.uk/memorial/74057"
+
+[[bron]]
+nr = 9
+soort = "bron"
+uitgever = "Mario Nawfal on X"
+titel = "Repost of the video from Whitehall: Welcome to the future of UK warriors"
+datum = "2026-11-14"
+url = "https://x.com/MarioNawfal/status/2121604063825674558"
+archief = "https://web.archive.org/web/20261114140000/https://twitter.com/MarioNawfal/status/2121604063825674558"
+
+[[bron]]
+nr = 10
+soort = "bron"
+uitgever = "X"
+titel = "The second post by RadioGenoa: British cadets march in London"
+datum = "2026-11-17"
+prive = true
+archief = "https://web.archive.org/web/20261122222555/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122781169615880303&omit_script=true"
+
+[[bron]]
+nr = 11
+soort = "bron"
+uitgever = "X"
+titel = "A post that shares the second video of RadioGenoa"
+datum = "2026-11-18"
+prive = true
+archief = "https://web.archive.org/web/20261122222627/https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2Fi%2Fstatus%2F2122905479550570935&omit_script=true"
+
+[[bron]]
+nr = 12
+soort = "nieuws"
+uitgever = "Time Out"
+titel = "London Lord Mayor's Show 2026: Route, Schedule, Road Closures and Best Viewing Spots"
+datum = "2026-11-13"
+url = "https://www.timeout.com/london/news/london-lord-mayor-show-2026-schedule-route-guide-111126"
+archief = "https://web.archive.org/web/20261114111753/https://www.timeout.com/london/news/london-lord-mayor-show-2026-schedule-route-guide-111126"
+
+[[bron]]
+nr = 13
+soort = "factcheck"
+uitgever = "Maldita"
+titel = "Cuidado con los vídeos que comparan desfiles de un supuesto ejército británico con desfiles del ejército ruso: los británicos son una unidad de menores voluntarios"
+datum = "2026-11-16"
+url = "https://maldita.es/desinfo/20261116/este-video-compara-un-desfile-del-ejercito-britanico-sin-ninguna-nocion-de-coordinacion-y-disciplina-y-un-desfile-del-ejercito-ruso/"
+archief = "https://web.archive.org/web/20261116135032/https://maldita.es/desinfo/20261116/este-video-compara-un-desfile-del-ejercito-britanico-sin-ninguna-nocion-de-coordinacion-y-disciplina-y-un-desfile-del-ejercito-ruso/"

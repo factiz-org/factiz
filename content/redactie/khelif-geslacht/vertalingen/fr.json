@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck khelif-geslacht van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v2; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "97ddfbba468dd7bc",
+ "veldafdrukken": {
+  "kop": "b5e19ad958636654",
+  "oordeel_zin": "154601fd890f00d0",
+  "bewering": "e3d69f06c5d08f32",
+  "kort": "1ae24446bac96f7f",
+  "tekst": "f0ea724fa0e1b709",
+  "niet_weten": "23557009448877cc",
+  "bereik": "cd269a2c0aa1d20a",
+  "nog_uitzoeken": "2c271b4fac6028f3",
+  "tijdlijn": "132999da69a03c63",
+  "beeld_bijschrift": "244feb346c85584f",
+  "beeld_alt": "35a390bc273c0b47"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v2",
+ "velden": {
+  "kop": "Imane Khelif a le gène SRY, mais il n'est pas établi qu'elle soit biologiquement un homme",
+  "oordeel_zin": "Khelif a dit elle-même en février 2026 qu'elle avait le gène SRY, mais aucun résultat de test n'est public, et ni une fédération sportive ni un tribunal n'a établi qu'elle était biologiquement un homme [4] [7] [8].",
+  "bewering": "OMG. Qu'un boxeur biologiquement masculin boxe contre des femmes doit absolument être célébré comme un sommet sportif. Mais celui qui appelle cela de la violence contre les femmes doit absolument être annulé. Apparemment, une seule vision a le droit de triompher.",
+  "kort": "Une publication sur X qualifie de biologiquement masculin un boxeur qui boxe contre des femmes, vraisemblablement Imane Khelif [1] [3]. Khelif a dit elle-même en février 2026 qu'elle avait le gène SRY, qui selon le CIO indique un développement sexuel masculin, qu'elle avait été élevée comme une fille et qu'elle n'était pas transgenre [4] [8]. La question de savoir si elle compte comme un homme dans le sport dépend d'un test et d'un avis médical dont rien n'est public, et ni une fédération sportive ni un tribunal n'a statué à ce sujet [6] [7] [8].",
+  "tekst": "La publication ne cite aucun nom et reprend une publication du même compte du 9 novembre sur quelque chose que HLN a qualifié de temps fort sportif [1] [2]. Qu'elle concerne Khelif, nous le déduisons du moment : le 6 novembre, elle a annoncé son premier combat professionnel [3]. Cette semaine-là, une publication en anglais a aussi circulé au sujet d'un homme dans la boxe féminine olympique [11].\n\nKhelif, une boxeuse algérienne, a remporté l'or olympique chez les femmes en 2024 [3]. Dans le quotidien sportif français L'Équipe, elle a confirmé le 4 février 2026 qu'elle avait le gène SRY, un gène qui se trouve généralement sur le chromosome Y [4] [8]. Sa réponse : « Oui, et c'est naturel. » [4] Elle a aussi dit qu'avant les compétitions, elle abaissait sa testostérone avec des hormones, qu'elle avait été élevée comme une fille et qu'elle n'était pas une femme transgenre [4]. Elle n'a pas parlé de diagnostic [4].\n\nDepuis août 2025, World Boxing compte comme un homme une boxeuse ayant le gène SRY, sauf en cas d'insensibilité complète aux hormones masculines [4] [6]. En mars 2026, le CIO a décidé qu'à partir des Jeux de 2028, seules les femmes sans le gène SRY concourront dans la catégorie féminine, sauf en cas de rares affections où la testostérone ne procure aucun avantage [8]. Cette règle n'a pas d'effet rétroactif et, selon le CIO, ne dit rien du sexe légal d'une personne [8].\n\nEn 2025, World Boxing n'a plus laissé Khelif participer tant qu'elle n'avait pas passé un test génétique, et le tribunal sportif TAS a refusé le 1er septembre 2025 de suspendre cette décision [7]. L'affaire est instruite de façon confidentielle, et nous n'avons trouvé aucune décision [7]. Khelif a dit en février qu'elle avait envoyé son dossier médical à World Boxing, sans réponse [4].\n\nDes documents parus dans un magazine français en 2024, censés prouver qu'elle est un homme, ont été qualifiés par le CIO de non vérifiés [9]. En août 2024, avant l'entretien, RTBF et FactCheck.org ont qualifié de fausse l'affirmation selon laquelle Khelif est un homme [12] [13].",
+  "niet_weten": "Nous ne savons pas si Khelif a passé un test du gène SRY pour World Boxing ou le CIO, ni ce que des médecins ont constaté chez elle. Nous ne savons pas non plus avec certitude que la publication parle d'elle.",
+  "bereik": "437 likes et 18 réponses le 22 novembre",
+  "nog_uitzoeken": [
+   "Comment le TAS tranchera dans l'affaire Khelif contre World Boxing.",
+   "Si Khelif a passé un test du gène SRY pour World Boxing ou le CIO, et avec quel résultat.",
+   "Quel post du compte X a masqué dans l'Union européenne, et à la demande de qui.",
+   "Quel article de HLN la publication du 9 novembre vise.",
+   "Nous avons hésité entre Non prouvé et Trompeur. Trompeur, parce que la publication présente comme établi ce qu'aucune fédération sportive ni aucun tribunal n'a établi ; Non prouvé, parce que Khelif a dit elle-même qu'elle avait le gène SRY, ce qui, selon les règles de World Boxing et du CIO, compte comme un développement sexuel masculin, sauf exception dont rien n'est public. Nous avons choisi Non prouvé."
+  ],
+  "tijdlijn": [
+   "Le CIO : aux Jeux de Paris, c'est le sexe indiqué sur le passeport qui compte [5].",
+   "Khelif fait appel devant le TAS de la décision de World Boxing [7].",
+   "Les règles de World Boxing sur le sexe, avec un test du gène SRY, entrent en vigueur [6].",
+   "Le TAS refuse de suspendre la décision de World Boxing jusqu'à l'examen de l'affaire [7].",
+   "Khelif dit dans L'Équipe qu'elle a le gène SRY et qu'elle a abaissé sa testostérone avec des hormones [4].",
+   "À partir des Jeux de 2028, le CIO limite la catégorie féminine à celles qui n'ont pas le gène SRY, avec une exception [8].",
+   "Khelif annonce son premier combat professionnel, le 15 décembre à Paris contre Clarida Sarabia [3].",
+   "Le compte écrit que HLN a qualifié quelque chose de temps fort sportif [2].",
+   "La publication sur X [1].",
+   "La NOS annonce que Clarida Sarabia se retire du combat contre Khelif [10]."
+  ],
+  "beeld_bijschrift": [
+   "Publication sur X, 12 novembre 2026, 20 h 42."
+  ],
+  "beeld_alt": [
+   "Une publication sur X qui dit qu'un boxeur biologiquement masculin boxe contre des femmes, avec une capture d'écran d'un avis indiquant qu'une publication est masquée dans l'Union européenne et une publication citée sur un temps fort sportif selon HLN. Tampon : NON PROUVÉ."
+  ]
+ }
+}

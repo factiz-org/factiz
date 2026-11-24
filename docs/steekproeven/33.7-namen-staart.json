@@ -1,0 +1,1243 @@
+{
+ "_meta": {
+  "taak": "PLAN #33.7, eis (a)",
+  "gelezen_door": "Claude",
+  "datum": "2026-11-11",
+  "wat": "Alle 127 personen met de minste pagina's die de regels halen (5 pagina's), en de 48 personen met hoogstens 6 talen van Wikipedia en meer dan 5 pagina's. Per persoon de naam, de omschrijving van Wikidata en een bewering gelezen. Label: publiek of prive.",
+  "uitslag": "175 gelezen, 175 publiek, 0 privé. Zes zijn vooral bekend door een misdrijf of een veroordeling; die staan met een opmerking, voor de juridische blik bij de livegang (PLAN 33.9).",
+  "daarna": "Na de aanscherping van 2026-11-12 (een titel is geen deel van een naam) vielen 4 van deze personen onder de 5 pagina's en staan zij niet in de uitgave; er kwam niemand bij."
+ },
+ "personen": {
+  "Q5006920": {
+   "naam": "C. V. Shanmugam",
+   "omschrijving": "Member of the Tamil Nadu legislative assembly",
+   "paginas": 5,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q7117157": {
+   "naam": "P. C. George",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q96591139": {
+   "naam": "Silvio Almeida",
+   "omschrijving": "Brazilian lawyer, philosopher and university professor",
+   "paginas": 5,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q133083214": {
+   "naam": "Avimukteshwaranand Saraswati",
+   "omschrijving": "current Shankaracharya of Jyotir Math",
+   "paginas": 5,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q7117360": {
+   "naam": "P. K. Kunhalikutty",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q8045769": {
+   "naam": "Y. S. Sharmila",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q12419629": {
+   "naam": "Kirodi Lal Meena",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q13113169": {
+   "naam": "U. Muthuramalingam Thevar",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q19604780": {
+   "naam": "Amanatullah Khan",
+   "omschrijving": "Member of the Legislative Assembly (India)",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q27975637": {
+   "naam": "Sudhir Gadgil",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q107759975": {
+   "naam": "Deolane Bezerra",
+   "omschrijving": "Brazilian lawyer, digital influencer and former singer",
+   "paginas": 5,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q10327090": {
+   "naam": "Marília Gabriela",
+   "omschrijving": "Brazilian journalist and actor",
+   "paginas": 5,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q56391957": {
+   "naam": "Yaqut Cholil Qoumas",
+   "omschrijving": "24th Minister of Religious Affairs and politician",
+   "paginas": 5,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q92441908": {
+   "naam": "Aileen Cannon",
+   "omschrijving": "Colombian-American federal judge (born 1981)",
+   "paginas": 5,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q99362838": {
+   "naam": "Gopal Italia",
+   "omschrijving": "Indian Politician and Social Activist",
+   "paginas": 5,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q2600921": {
+   "naam": "Marc Van Ranst",
+   "omschrijving": "Belgian virologist",
+   "paginas": 5,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q22279012": {
+   "naam": "Nawab Malik",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q64010346": {
+   "naam": "Vico Sotto",
+   "omschrijving": "Filipino politician; mayor of Pasig City since 2019",
+   "paginas": 5,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q105459066": {
+   "naam": "Fani Willis",
+   "omschrijving": "American attorney and District Attorney of Fulton County (born 1971)",
+   "paginas": 5,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q201408": {
+   "naam": "Andimuthu Raja",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 8,
+   "label": "publiek"
+  },
+  "Q7285875": {
+   "naam": "Rajat Sharma",
+   "omschrijving": "Indian journalist",
+   "paginas": 5,
+   "wikis": 8,
+   "label": "publiek"
+  },
+  "Q1158102": {
+   "naam": "Dalveer Bhandari",
+   "omschrijving": "Indian judge",
+   "paginas": 5,
+   "wikis": 9,
+   "label": "publiek"
+  },
+  "Q7937583": {
+   "naam": "Vivek Agnihotri",
+   "omschrijving": "Indian director, screenwriter and author",
+   "paginas": 5,
+   "wikis": 9,
+   "label": "publiek"
+  },
+  "Q17385739": {
+   "naam": "Sudhir Chaudhary",
+   "omschrijving": "Indian journalist",
+   "paginas": 5,
+   "wikis": 9,
+   "label": "publiek"
+  },
+  "Q57274835": {
+   "naam": "Wilson José Witzel",
+   "omschrijving": "Former Governor of the State of Rio de Janeiro (2019–2021)",
+   "paginas": 5,
+   "wikis": 9,
+   "label": "publiek"
+  },
+  "Q4017976": {
+   "naam": "Walter Molino",
+   "omschrijving": "Italian illustrator",
+   "paginas": 5,
+   "wikis": 10,
+   "label": "publiek"
+  },
+  "Q4807349": {
+   "naam": "Asle Toje",
+   "omschrijving": "Norwegian foreign policy scholar",
+   "paginas": 5,
+   "wikis": 10,
+   "label": "publiek"
+  },
+  "Q7532374": {
+   "naam": "Sivakumar",
+   "omschrijving": "Indian actor",
+   "paginas": 5,
+   "wikis": 10,
+   "label": "publiek"
+  },
+  "Q99732629": {
+   "naam": "Samay Raina",
+   "omschrijving": "Indian stand-up comedian",
+   "paginas": 5,
+   "wikis": 10,
+   "label": "publiek"
+  },
+  "Q19899404": {
+   "naam": "Raghav Chadha",
+   "omschrijving": "Indian politician (born 1988)",
+   "paginas": 5,
+   "wikis": 11,
+   "label": "publiek"
+  },
+  "Q609950": {
+   "naam": "Herschel Walker",
+   "omschrijving": "American diplomat and former football player (born 1962)",
+   "paginas": 5,
+   "wikis": 12,
+   "label": "publiek"
+  },
+  "Q4699799": {
+   "naam": "Ajit Pawar",
+   "omschrijving": "former Deputy Chief Minister of Maharashtra (1959–2026)",
+   "paginas": 5,
+   "wikis": 12,
+   "label": "publiek"
+  },
+  "Q20745304": {
+   "naam": "Dasun Shanaka",
+   "omschrijving": "Sri Lankan cricketer",
+   "paginas": 5,
+   "wikis": 12,
+   "label": "publiek"
+  },
+  "Q21663083": {
+   "naam": "Anjana Om Kashyap",
+   "omschrijving": "Indian journalist and anchor",
+   "paginas": 5,
+   "wikis": 12,
+   "label": "publiek"
+  },
+  "Q28370220": {
+   "naam": "Pushkar Singh Dhami",
+   "omschrijving": "Indian politician (born 1975)",
+   "paginas": 5,
+   "wikis": 12,
+   "label": "publiek"
+  },
+  "Q1749070": {
+   "naam": "Nasser Al-Kharafi",
+   "omschrijving": "businessman (1943-2011)",
+   "paginas": 5,
+   "wikis": 13,
+   "label": "publiek"
+  },
+  "Q3524453": {
+   "naam": "Heath Streak",
+   "omschrijving": "Zimbabwean cricketer",
+   "paginas": 5,
+   "wikis": 13,
+   "label": "publiek"
+  },
+  "Q5208549": {
+   "naam": "Daggubati Purandeswari",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 13,
+   "label": "publiek"
+  },
+  "Q24049119": {
+   "naam": "Trupti Desai",
+   "omschrijving": "Indian activist for women's rights",
+   "paginas": 5,
+   "wikis": 13,
+   "label": "publiek"
+  },
+  "Q6288876": {
+   "naam": "Josh Frydenberg",
+   "omschrijving": "Australian politician and federal treasurer",
+   "paginas": 5,
+   "wikis": 14,
+   "label": "publiek"
+  },
+  "Q21091478": {
+   "naam": "Hamza Bendelladj",
+   "omschrijving": "Algerian hacker",
+   "paginas": 5,
+   "wikis": 14,
+   "label": "publiek",
+   "opmerking": "Algerijnse hacker, veroordeeld in de VS"
+  },
+  "Q2982419": {
+   "naam": "M. S. Golwalkar",
+   "omschrijving": "Second Sarsanghchalak of the Rashtriya Swayamsevak Sangh",
+   "paginas": 5,
+   "wikis": 15,
+   "label": "publiek"
+  },
+  "Q4720120": {
+   "naam": "Alexander Soros",
+   "omschrijving": "American investor and philanthropist",
+   "paginas": 5,
+   "wikis": 15,
+   "label": "publiek"
+  },
+  "Q24941815": {
+   "naam": "Fernando Simón",
+   "omschrijving": "Spanish epidemiologist (born 1963)",
+   "paginas": 5,
+   "wikis": 15,
+   "label": "publiek"
+  },
+  "Q113453688": {
+   "naam": "Jyothi Yarraji",
+   "omschrijving": "Indian hurdler",
+   "paginas": 5,
+   "wikis": 15,
+   "label": "publiek"
+  },
+  "Q550879": {
+   "naam": "Clive Palmer",
+   "omschrijving": "Australian businessman and politician (born 1954)",
+   "paginas": 5,
+   "wikis": 16,
+   "label": "publiek"
+  },
+  "Q27048853": {
+   "naam": "Urfi Javed",
+   "omschrijving": "Indian actress (born 1997)",
+   "paginas": 5,
+   "wikis": 16,
+   "label": "publiek"
+  },
+  "Q96376333": {
+   "naam": "Dhruv Rathee",
+   "omschrijving": "Indian influencer and activist",
+   "paginas": 5,
+   "wikis": 16,
+   "label": "publiek"
+  },
+  "Q28840013": {
+   "naam": "Shubman Gill",
+   "omschrijving": "Indian cricketer",
+   "paginas": 5,
+   "wikis": 17,
+   "label": "publiek"
+  },
+  "Q3633236": {
+   "naam": "Amarinder Singh",
+   "omschrijving": "Politician from Punjab, India",
+   "paginas": 5,
+   "wikis": 18,
+   "label": "publiek"
+  },
+  "Q5620175": {
+   "naam": "Gurmeet Ram Rahim Singh",
+   "omschrijving": "social reformer, preacher, and spiritual master",
+   "paginas": 5,
+   "wikis": 18,
+   "label": "publiek"
+  },
+  "Q3135561": {
+   "naam": "Grace Poe",
+   "omschrijving": "Filipino politician, Senator",
+   "paginas": 5,
+   "wikis": 19,
+   "label": "publiek"
+  },
+  "Q3595131": {
+   "naam": "Ghulam Nabi Azad",
+   "omschrijving": "Indian politician",
+   "paginas": 5,
+   "wikis": 19,
+   "label": "publiek"
+  },
+  "Q12181439": {
+   "naam": "Ayman Odeh",
+   "omschrijving": "Arab-Israeli lawyer and member of the Knesset",
+   "paginas": 5,
+   "wikis": 19,
+   "label": "publiek"
+  },
+  "Q2964885": {
+   "naam": "Chris Wallace",
+   "omschrijving": "American broadcast journalist",
+   "paginas": 5,
+   "wikis": 20,
+   "label": "publiek"
+  },
+  "Q50506085": {
+   "naam": "Maria Butina",
+   "omschrijving": "Russian political activist, pleaded guilty to conspiracy to act as an unregistered foreign agent",
+   "paginas": 5,
+   "wikis": 20,
+   "label": "publiek",
+   "opmerking": "Russische activiste, in de VS veroordeeld; nu politica"
+  },
+  "Q1190856": {
+   "naam": "Naveen Patnaik",
+   "omschrijving": "14th Chief Minister of Odisha",
+   "paginas": 5,
+   "wikis": 21,
+   "label": "publiek"
+  },
+  "Q6533414": {
+   "naam": "Letitia James",
+   "omschrijving": "Attorney General of New York since 2019",
+   "paginas": 5,
+   "wikis": 21,
+   "label": "publiek"
+  },
+  "Q7983764": {
+   "naam": "Wes Streeting",
+   "omschrijving": "British Labour politician (born 1983)",
+   "paginas": 5,
+   "wikis": 21,
+   "label": "publiek"
+  },
+  "Q1227076": {
+   "naam": "Diosdado Cabello",
+   "omschrijving": "Venezuelan politician, military officer",
+   "paginas": 5,
+   "wikis": 22,
+   "label": "publiek"
+  },
+  "Q7929207": {
+   "naam": "Vijay Sethupathi",
+   "omschrijving": "Indian actor and Indian film producer",
+   "paginas": 5,
+   "wikis": 22,
+   "label": "publiek"
+  },
+  "Q27924832": {
+   "naam": "Sonam Wangchuk",
+   "omschrijving": "Indian engineer, innovator and education reformist",
+   "paginas": 5,
+   "wikis": 22,
+   "label": "publiek"
+  },
+  "Q16227998": {
+   "naam": "Jasprit Bumrah",
+   "omschrijving": "Indian cricketer (born 1993)",
+   "paginas": 5,
+   "wikis": 23,
+   "label": "publiek"
+  },
+  "Q2723790": {
+   "naam": "Yuvraj Singh",
+   "omschrijving": "Indian cricketer (born 1981)",
+   "paginas": 5,
+   "wikis": 24,
+   "label": "publiek"
+  },
+  "Q13786674": {
+   "naam": "Inés Arrimadas",
+   "omschrijving": "Spanish politician",
+   "paginas": 5,
+   "wikis": 25,
+   "label": "publiek"
+  },
+  "Q105319569": {
+   "naam": "Abd al-Hamid Al-Dabiba",
+   "omschrijving": "Libyan politician, architect and Prime Minister of Libya since 2021",
+   "paginas": 5,
+   "wikis": 25,
+   "label": "publiek"
+  },
+  "Q472649": {
+   "naam": "Ricky Ponting",
+   "omschrijving": "Australian cricketer",
+   "paginas": 5,
+   "wikis": 26,
+   "label": "publiek"
+  },
+  "Q713479": {
+   "naam": "Jimmy Savile",
+   "omschrijving": "English media personality and sex offender (1926–2011)",
+   "paginas": 5,
+   "wikis": 27,
+   "label": "publiek",
+   "opmerking": "Britse presentator, na zijn dood bekend als zedendelinquent"
+  },
+  "Q50410280": {
+   "naam": "Jagdeep Dhankhar",
+   "omschrijving": "Vice President of India from 2022 to 2025",
+   "paginas": 5,
+   "wikis": 27,
+   "label": "publiek"
+  },
+  "Q2720141": {
+   "naam": "Ilaiyaraaja",
+   "omschrijving": "Indian film composer & singer",
+   "paginas": 5,
+   "wikis": 28,
+   "label": "publiek"
+  },
+  "Q86294": {
+   "naam": "Jens Spahn",
+   "omschrijving": "German politician",
+   "paginas": 5,
+   "wikis": 29,
+   "label": "publiek"
+  },
+  "Q1161024": {
+   "naam": "Taro Kono",
+   "omschrijving": "Japanese politician (born 1963)",
+   "paginas": 5,
+   "wikis": 29,
+   "label": "publiek"
+  },
+  "Q2739159": {
+   "naam": "Maneka Gandhi",
+   "omschrijving": "Indian politician and activist",
+   "paginas": 5,
+   "wikis": 29,
+   "label": "publiek"
+  },
+  "Q7320290": {
+   "naam": "Rhea Chakraborty",
+   "omschrijving": "Indian actress and former VJ",
+   "paginas": 5,
+   "wikis": 29,
+   "label": "publiek"
+  },
+  "Q4419809": {
+   "naam": "Margarita Simonyan",
+   "omschrijving": "Russian journalist",
+   "paginas": 5,
+   "wikis": 31,
+   "label": "publiek"
+  },
+  "Q6373552": {
+   "naam": "Kartik Aaryan",
+   "omschrijving": "Indian actor",
+   "paginas": 5,
+   "wikis": 31,
+   "label": "publiek"
+  },
+  "Q6289368": {
+   "naam": "Josh Shapiro",
+   "omschrijving": "American politician (born 1973)",
+   "paginas": 5,
+   "wikis": 32,
+   "label": "publiek"
+  },
+  "Q20081051": {
+   "naam": "Sai Pallavi",
+   "omschrijving": "Indian actress and influencer",
+   "paginas": 5,
+   "wikis": 32,
+   "label": "publiek"
+  },
+  "Q293260": {
+   "naam": "Megyn Kelly",
+   "omschrijving": "American journalist",
+   "paginas": 5,
+   "wikis": 34,
+   "label": "publiek"
+  },
+  "Q2128757": {
+   "naam": "Rajaraja I",
+   "omschrijving": "Chola Emperor",
+   "paginas": 5,
+   "wikis": 34,
+   "label": "publiek"
+  },
+  "Q10357885": {
+   "naam": "Rebeca Andrade",
+   "omschrijving": "Brazilian artistic gymnast",
+   "paginas": 5,
+   "wikis": 36,
+   "label": "publiek"
+  },
+  "Q158175": {
+   "naam": "Kid Rock",
+   "omschrijving": "American musician (born 1971)",
+   "paginas": 5,
+   "wikis": 37,
+   "label": "publiek"
+  },
+  "Q316997": {
+   "naam": "Anderson Cooper",
+   "omschrijving": "American journalist (born 1967)",
+   "paginas": 5,
+   "wikis": 38,
+   "label": "publiek"
+  },
+  "Q529294": {
+   "naam": "Chuck Grassley",
+   "omschrijving": "United States Senator from Iowa since 1981",
+   "paginas": 5,
+   "wikis": 38,
+   "label": "publiek"
+  },
+  "Q10283057": {
+   "naam": "Flávio Bolsonaro",
+   "omschrijving": "Brazilian politician",
+   "paginas": 5,
+   "wikis": 39,
+   "label": "publiek"
+  },
+  "Q144719": {
+   "naam": "Zakir Hussain",
+   "omschrijving": "Indian tabla player, musical producer, film actor, and composer (1951–2024)",
+   "paginas": 5,
+   "wikis": 41,
+   "label": "publiek"
+  },
+  "Q3731533": {
+   "naam": "Eric Trump",
+   "omschrijving": "American businessman and reality television personality (born 1984)",
+   "paginas": 5,
+   "wikis": 42,
+   "label": "publiek"
+  },
+  "Q162629": {
+   "naam": "Simon Cowell",
+   "omschrijving": "English television personality, businessman, producer, record executive",
+   "paginas": 5,
+   "wikis": 50,
+   "label": "publiek"
+  },
+  "Q24025631": {
+   "naam": "Dmytro Kuleba",
+   "omschrijving": "Ukrainian diplomat and politician (born 1981)",
+   "paginas": 5,
+   "wikis": 52,
+   "label": "publiek"
+  },
+  "Q215777": {
+   "naam": "Hank Aaron",
+   "omschrijving": "American baseball player (1934–2021)",
+   "paginas": 5,
+   "wikis": 53,
+   "label": "publiek"
+  },
+  "Q448360": {
+   "naam": "Pusarla Venkata Sindhu",
+   "omschrijving": "Indian badminton player",
+   "paginas": 5,
+   "wikis": 56,
+   "label": "publiek"
+  },
+  "Q84497471": {
+   "naam": "Li Wenliang",
+   "omschrijving": "Chinese ophthalmologist known for warning about the coronavirus in December 2019 (1986-2020)",
+   "paginas": 5,
+   "wikis": 56,
+   "label": "publiek"
+  },
+  "Q27975838": {
+   "naam": "Alice Weidel",
+   "omschrijving": "German politician (born 1979), AfD",
+   "paginas": 5,
+   "wikis": 57,
+   "label": "publiek"
+  },
+  "Q31919": {
+   "naam": "Vitali Klitschko",
+   "omschrijving": "Ukrainian boxer and politician (1971-)",
+   "paginas": 5,
+   "wikis": 61,
+   "label": "publiek"
+  },
+  "Q146929": {
+   "naam": "Ajay Devgn",
+   "omschrijving": "Indian film actor, director and producer",
+   "paginas": 5,
+   "wikis": 61,
+   "label": "publiek"
+  },
+  "Q333453": {
+   "naam": "Raja Ravi Varma",
+   "omschrijving": "Indian painter from Kerala (1848–1906)",
+   "paginas": 5,
+   "wikis": 61,
+   "label": "publiek"
+  },
+  "Q32620": {
+   "naam": "Tulsi Gabbard",
+   "omschrijving": "American politician (born 1981)",
+   "paginas": 5,
+   "wikis": 62,
+   "label": "publiek"
+  },
+  "Q44333953": {
+   "naam": "Bad Bunny",
+   "omschrijving": "Puerto Rican rapper, singer, and record producer (born 1994)",
+   "paginas": 5,
+   "wikis": 62,
+   "label": "publiek"
+  },
+  "Q202006": {
+   "naam": "Olusegun Obasanjo",
+   "omschrijving": "Nigerian president (1999-2007) and military leader (1976–79)",
+   "paginas": 5,
+   "wikis": 65,
+   "label": "publiek"
+  },
+  "Q312967": {
+   "naam": "Guru Gobind Singh",
+   "omschrijving": "tenth Sikh guru (1661–1708)",
+   "paginas": 5,
+   "wikis": 66,
+   "label": "publiek"
+  },
+  "Q10325366": {
+   "naam": "Marcola",
+   "omschrijving": "Brazilian drug trafficker and criminal",
+   "paginas": 6,
+   "wikis": 3,
+   "label": "publiek",
+   "opmerking": "Braziliaans bendeleider, bekend van zijn veroordelingen"
+  },
+  "Q13564486": {
+   "naam": "K. Muraleedharan",
+   "omschrijving": "Indian politician",
+   "paginas": 6,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q66776997": {
+   "naam": "Elizaldy Co",
+   "omschrijving": "Filipino politician",
+   "paginas": 6,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q7906247": {
+   "naam": "V. Senthil Balaji",
+   "omschrijving": "Member of the Tamil Nadu legislative assembly",
+   "paginas": 7,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q106091234": {
+   "naam": "Anbil Mahesh Poyyamozhi",
+   "omschrijving": "Indian politician",
+   "paginas": 7,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q5316137": {
+   "naam": "Durai Murugan",
+   "omschrijving": "Indian politician",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q5322194": {
+   "naam": "E. V. Velu",
+   "omschrijving": "Indian politician",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q6167558": {
+   "naam": "Jayant Chaudhary",
+   "omschrijving": "Indian politician",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q7387757": {
+   "naam": "S. P. Velumani",
+   "omschrijving": "Indian politician",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q10346742": {
+   "naam": "Paulo Pimenta",
+   "omschrijving": "Brazilian politician",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q60782632": {
+   "naam": "Daniel Silveira",
+   "omschrijving": "Brazilian politician and Former Brazilian Federal Deputy (2019–2023)",
+   "paginas": 8,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q5203682": {
+   "naam": "D. Jayakumar",
+   "omschrijving": "Indian politician",
+   "paginas": 11,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q3530719": {
+   "naam": "K. Veeramani",
+   "omschrijving": "Indian politician",
+   "paginas": 12,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q10327085": {
+   "naam": "Marília Arraes",
+   "omschrijving": "Brazilian politician",
+   "paginas": 14,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q16733126": {
+   "naam": "Nainar Nagendran",
+   "omschrijving": "Indian politician",
+   "paginas": 14,
+   "wikis": 3,
+   "label": "publiek"
+  },
+  "Q19547817": {
+   "naam": "Rangaraj Pandey",
+   "omschrijving": "Indian journalist",
+   "paginas": 6,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q24055566": {
+   "naam": "Palanivel Thiaga Rajan",
+   "omschrijving": "Indian politician",
+   "paginas": 6,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q25999502": {
+   "naam": "Salvador Panelo",
+   "omschrijving": "Philippine defense lawyer and government official",
+   "paginas": 6,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q56222551": {
+   "naam": "Kafeel Khan",
+   "omschrijving": "Indian Physician",
+   "paginas": 6,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q97097387": {
+   "naam": "Vikas Dubey",
+   "omschrijving": "Indian criminal",
+   "paginas": 6,
+   "wikis": 4,
+   "label": "publiek",
+   "opmerking": "Indiase crimineel, in 2020 gedood"
+  },
+  "Q9014183": {
+   "naam": "Datena",
+   "omschrijving": "Brazilian journalist (born 1957)",
+   "paginas": 7,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q117355767": {
+   "naam": "Juan Merchan",
+   "omschrijving": "American judge and former prosecutor",
+   "paginas": 8,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q13110345": {
+   "naam": "E. P. Jayarajan",
+   "omschrijving": "Indian politician",
+   "paginas": 12,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q6324044": {
+   "naam": "K. Sudhakaran",
+   "omschrijving": "Indian politician",
+   "paginas": 13,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q23303083": {
+   "naam": "Harry Roque",
+   "omschrijving": "Philippine lawyer and neonationalist politician",
+   "paginas": 20,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q119851862": {
+   "naam": "Pablo Marçal",
+   "omschrijving": "Brazilian businessman and politician",
+   "paginas": 34,
+   "wikis": 4,
+   "label": "publiek"
+  },
+  "Q5250584": {
+   "naam": "Deepender Singh Hooda",
+   "omschrijving": "Indian politician",
+   "paginas": 6,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q7387807": {
+   "naam": "S. Ramadoss",
+   "omschrijving": "Indian Tamil Politician",
+   "paginas": 10,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q6366610": {
+   "naam": "Kapil Mishra",
+   "omschrijving": "Indian politician and Former MLA",
+   "paginas": 11,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q47539950": {
+   "naam": "Luciano Hang",
+   "omschrijving": "Brazilian businessman",
+   "paginas": 12,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q87570577": {
+   "naam": "L. Murugan",
+   "omschrijving": "Indian politician, lawyer, Union minister",
+   "paginas": 14,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q7908735": {
+   "naam": "Vaiko",
+   "omschrijving": "Indian politician",
+   "paginas": 15,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q13561072": {
+   "naam": "Nara Lokesh",
+   "omschrijving": "Indian politician",
+   "paginas": 16,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q64143189": {
+   "naam": "Bandi Sanjay Kumar",
+   "omschrijving": "Indian politician (born 1971)",
+   "paginas": 18,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q17489724": {
+   "naam": "T.Raja Singh Lodh",
+   "omschrijving": "Indian politician",
+   "paginas": 19,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q108418492": {
+   "naam": "Willie Ong",
+   "omschrijving": "Filipino cardiologist, internist, and media personality",
+   "paginas": 34,
+   "wikis": 5,
+   "label": "publiek"
+  },
+  "Q25553503": {
+   "naam": "Annie Raja",
+   "omschrijving": "Indian politician",
+   "paginas": 6,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q6187499": {
+   "naam": "Jessica Soho",
+   "omschrijving": "Filipino journalist",
+   "paginas": 7,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q47545347": {
+   "naam": "Karthik Chidambaram",
+   "omschrijving": "Member of Parliament, Lok Sabha",
+   "paginas": 7,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q1255930": {
+   "naam": "Drauzio Varella",
+   "omschrijving": "Brazilian doctor, educator, scientist, medical science popularizer in the press and TV, and best-selling author",
+   "paginas": 8,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q10346618": {
+   "naam": "Paulo Gustavo",
+   "omschrijving": "Brazilian actor",
+   "paginas": 8,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q6158744": {
+   "naam": "Randolfe Rodrigues",
+   "omschrijving": "Brazilian journalist, politician and Senator of the Republic for the state of Amapá, Brazil since 2011",
+   "paginas": 9,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q106634902": {
+   "naam": "Michael Yeadon",
+   "omschrijving": "UK researcher (1960-)",
+   "paginas": 9,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q6747952": {
+   "naam": "Mandela Barnes",
+   "omschrijving": "American politician (born 1986)",
+   "paginas": 10,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q6956446": {
+   "naam": "V. D. Satheesan",
+   "omschrijving": "Indian politician",
+   "paginas": 13,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q2362405": {
+   "naam": "Gilmar Mendes",
+   "omschrijving": "Brazilian jurist and politician",
+   "paginas": 15,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q112660482": {
+   "naam": "Sandro Marcos",
+   "omschrijving": "Filipino politician (born 1994)",
+   "paginas": 15,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q20676864": {
+   "naam": "H. Raja",
+   "omschrijving": "Indian politician",
+   "paginas": 75,
+   "wikis": 6,
+   "label": "publiek"
+  },
+  "Q2042": {
+   "naam": "Charles de Gaulle",
+   "omschrijving": "French general and statesman (1890–1970)",
+   "paginas": 5,
+   "wikis": 174,
+   "label": "publiek"
+  },
+  "Q5812": {
+   "naam": "Novak Djokovic",
+   "omschrijving": "Serbian tennis player (born 1987)",
+   "paginas": 5,
+   "wikis": 136,
+   "label": "publiek"
+  },
+  "Q8743": {
+   "naam": "Thomas Edison",
+   "omschrijving": "American inventor and businessman (1847–1931)",
+   "paginas": 5,
+   "wikis": 197,
+   "label": "publiek"
+  },
+  "Q9094": {
+   "naam": "José Mujica",
+   "omschrijving": "Uruguayan guerrilla fighter and politician",
+   "paginas": 5,
+   "wikis": 93,
+   "label": "publiek"
+  },
+  "Q10132": {
+   "naam": "Rafael Nadal",
+   "omschrijving": "Spanish tennis player (born 1986)",
+   "paginas": 5,
+   "wikis": 135,
+   "label": "publiek"
+  },
+  "Q21001": {
+   "naam": "Moon Jae-in",
+   "omschrijving": "12th President of the Republic of Korea",
+   "paginas": 5,
+   "wikis": 92,
+   "label": "publiek"
+  },
+  "Q32732": {
+   "naam": "Malala Yousafzai",
+   "omschrijving": "Pakistani children's education activist",
+   "paginas": 5,
+   "wikis": 131,
+   "label": "publiek"
+  },
+  "Q41395": {
+   "naam": "José Luis Rodríguez Zapatero",
+   "omschrijving": "Spanish politician",
+   "paginas": 5,
+   "wikis": 84,
+   "label": "publiek"
+  },
+  "Q47906": {
+   "naam": "Hermann Göring",
+   "omschrijving": "German Nazi politician, military leader, and convicted war criminal (1893–1946)",
+   "paginas": 5,
+   "wikis": 86,
+   "label": "publiek"
+  },
+  "Q48259": {
+   "naam": "Dick Cheney",
+   "omschrijving": "Vice President of the United States from 2001 to 2009 (1941–2025)",
+   "paginas": 5,
+   "wikis": 98,
+   "label": "publiek"
+  },
+  "Q48892": {
+   "naam": "Didier Drogba",
+   "omschrijving": "Ivorian and French association football player",
+   "paginas": 5,
+   "wikis": 86,
+   "label": "publiek"
+  },
+  "Q57405": {
+   "naam": "Susilo Bambang Yudhoyono",
+   "omschrijving": "6th President of Indonesia (2004—2014)",
+   "paginas": 5,
+   "wikis": 85,
+   "label": "publiek"
+  },
+  "Q78869": {
+   "naam": "Alexander Van der Bellen",
+   "omschrijving": "President of Austria since 2017 (born 1944)",
+   "paginas": 5,
+   "wikis": 85,
+   "label": "publiek"
+  },
+  "Q132899": {
+   "naam": "Vyacheslav Molotov",
+   "omschrijving": "Soviet politician, statesman and diplomat (1890–1986)",
+   "paginas": 5,
+   "wikis": 80,
+   "label": "publiek"
+  },
+  "Q134183": {
+   "naam": "Magic Johnson",
+   "omschrijving": "American basketball player and entrepreneur (born 1959)",
+   "paginas": 5,
+   "wikis": 75,
+   "label": "publiek"
+  },
+  "Q149067": {
+   "naam": "Pavel Durov",
+   "omschrijving": "technology entrepreneur (born 1984)",
+   "paginas": 5,
+   "wikis": 75,
+   "label": "publiek"
+  },
+  "Q152239": {
+   "naam": "Queen Camilla",
+   "omschrijving": "Queen consort of the United Kingdom since 2022",
+   "paginas": 5,
+   "wikis": 78,
+   "label": "publiek"
+  },
+  "Q152316": {
+   "naam": "Prince Harry, Duke of Sussex",
+   "omschrijving": "younger son of Charles III of the United Kingdom and Diana, Princess of Wales",
+   "paginas": 5,
+   "wikis": 85,
+   "label": "publiek"
+  },
+  "Q164119": {
+   "naam": "Mark Wahlberg",
+   "omschrijving": "American actor (born 1971)",
+   "paginas": 5,
+   "wikis": 89,
+   "label": "publiek"
+  },
+  "Q170572": {
+   "naam": "Alec Baldwin",
+   "omschrijving": "American actor (born 1958)",
+   "paginas": 5,
+   "wikis": 80,
+   "label": "publiek"
+  },
+  "Q174438": {
+   "naam": "Madeleine Albright",
+   "omschrijving": "United States Secretary of State from 1997 to 2001",
+   "paginas": 5,
+   "wikis": 86,
+   "label": "publiek"
+  },
+  "Q187447": {
+   "naam": "Pablo Escobar",
+   "omschrijving": "Colombian politician and drug lord (1949–1993)",
+   "paginas": 5,
+   "wikis": 102,
+   "label": "publiek",
+   "opmerking": "Colombiaanse drugsbaron (1949–1993), ook politicus"
+  },
+  "Q312556": {
+   "naam": "Jeff Bezos",
+   "omschrijving": "American business magnate (born 1964)",
+   "paginas": 5,
+   "wikis": 101,
+   "label": "publiek"
+  },
+  "Q335697": {
+   "naam": "Anthony Albanese",
+   "omschrijving": "31st prime minister of Australia",
+   "paginas": 5,
+   "wikis": 80,
+   "label": "publiek"
+  },
+  "Q373895": {
+   "naam": "Betty White",
+   "omschrijving": "American actress and comedian (1922–2021)",
+   "paginas": 5,
+   "wikis": 76,
+   "label": "publiek"
+  },
+  "Q439564": {
+   "naam": "María Corina Machado",
+   "omschrijving": "Venezuelan politician, activist and Nobel laureate (born 1967)",
+   "paginas": 5,
+   "wikis": 85,
+   "label": "publiek"
+  },
+  "Q950958": {
+   "naam": "Charles Michel",
+   "omschrijving": "Belgian politician, former Prime Minister of Belgium, President of the European Council (born 1975)",
+   "paginas": 5,
+   "wikis": 66,
+   "label": "publiek"
+  }
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "taak": "32.41",
+ "toelichting": "Eén lezing met de zoekvragen vooraf en de uitkomst niet bevestigd (B57, PLAN #32.41), tegen de vaste getallen van §217 (de speurstap) en §212 (lezer-v7 met het beeld). Vastgelegd vóór de eerste vraag. Grens van $12 naar $13,50 na de proef (PO 2026-11-05: \"run the full measurement of #32.41 with the cap at $13.50\"). Grens naar $14,50 voor N, W en de wachttijd na het opwaarderen van Brave (PO 2026-11-05: \"Rerun N and W and the wait time of #32.41 with the cap at $14.50\").",
+ "map": "data/meting/32.41",
+ "labels": "docs/steekproeven/32.41-meting.json",
+ "budget": 14.5,
+ "zaad": 3246,
+ "sets": {
+  "O'": {
+   "bron": "data/speuren/set.jsonl",
+   "set": "O'",
+   "eerste_dag": true
+  },
+  "M": {
+   "bron": "data/speuren/set.jsonl",
+   "set": "M",
+   "eerste_dag": true
+  },
+  "W2": {
+   "bron": "data/speuren/set.jsonl",
+   "set": "W2",
+   "n": 50,
+   "eerste_dag": true
+  },
+  "W-merk": {
+   "bron": "data/speuren/set.jsonl",
+   "set": "W-merk",
+   "eerste_dag": true
+  },
+  "G2": {
+   "bron": "data/uitkomsten/lezer-v7/set.jsonl",
+   "set": "G2",
+   "n": 40,
+   "eerste_dag": true
+  },
+  "N": {
+   "bron": "data/screenshotlezer/lezer-v7-beeld/set.jsonl",
+   "set": "N",
+   "beeld": true
+  },
+  "W": {
+   "bron": "data/screenshotlezer/lezer-v7-beeld/set.jsonl",
+   "set": "W",
+   "beeld": true
+  }
+ },
+ "armen": {
+  "C": {
+   "lezer": "lezer-v9",
+   "speurvraag_model": "claude-haiku-5-5"
+  }
+ },
+ "onwaar": [
+  "O'",
+  "M",
+  "N"
+ ],
+ "waar": [
+  "W2",
+  "W-merk",
+  "G2",
+  "W"
+ ],
+ "eisen": [
+  {
+   "naam": "1. O' en M: rood of oranje met bewijs minstens 57 (B in §217)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "O'",
+     "M"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 57
+  },
+  {
+   "naam": "2. O': rood of oranje met bewijs plus niet bevestigd minstens 60 van de 100",
+   "tel": [
+    {
+     "arm": "C",
+     "sets": [
+      "O'"
+     ],
+     "kleuren": [
+      "rood",
+      "oranje"
+     ],
+     "labels": [
+      "bewijst"
+     ]
+    },
+    {
+     "arm": "C",
+     "sets": [
+      "O'"
+     ],
+     "uitkomsten": [
+      "niet bevestigd"
+     ]
+    }
+   ],
+   "op": ">=",
+   "waarde": 60
+  },
+  {
+   "naam": "3a. W2, W-merk en G2: hoogstens 1 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W2",
+     "W-merk",
+     "G2"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 1
+  },
+  {
+   "naam": "3b. W2, W-merk en G2: hoogstens 2 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W2",
+     "W-merk",
+     "G2"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4a. N: rood of oranje met bewijs minstens 39 (§212)",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "N"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "bewijst"
+    ]
+   },
+   "op": ">=",
+   "waarde": 39
+  },
+  {
+   "naam": "4b. W: hoogstens 2 vals alarm",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "kleuren": [
+     "rood",
+     "oranje"
+    ],
+    "labels": [
+     "vals"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  },
+  {
+   "naam": "4c. W: hoogstens 2 keer niet bevestigd",
+   "tel": {
+    "arm": "C",
+    "sets": [
+     "W"
+    ],
+    "uitkomsten": [
+     "niet bevestigd"
+    ]
+   },
+   "op": "<=",
+   "waarde": 2
+  }
+ ],
+ "wachttijd": {
+  "arm": "C",
+  "sets": [
+   "M",
+   "O'"
+  ],
+  "n": 12,
+  "eis_p50": 7.0
+ }
+}

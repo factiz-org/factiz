@@ -1,0 +1,155 @@
+{
+ "toelichting": "PLAN #32.45, ronde 2026-11-07: de keuzes van de PO op https://claude.ai/artifact/Lu1jGzsqfcjdNgSL1115yW, teruggelezen uit `rondes/2026-11-07/keuzes`, met wat Factiz zei (meting 32.43-en, lezer-v10, als op de eerste dag) en wat de redactie zei (BENCHMARK §230). In het openbare repo zonder de opmerkingen van de PO.",
+ "keuzes": {
+  "O:gfc-094665eb2f004a78": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "niet bevestigd",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-29f3632c944a3123": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "niet bevestigd",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-5bcba6998cbf833c": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "onzeker",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-716edc0a8fb27708": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "niet bevestigd",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-8707ddb023c40bbb": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "niet bevestigd",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-961d5e5c1ddf4d29": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-99c35786a4c70500": {
+   "keuze": "eens",
+   "kleur": null,
+   "uitkomst": "beeld nodig",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-a2c264bb376a1eb4": {
+   "keuze": "oneens",
+   "kleur": null,
+   "uitkomst": "niet bevestigd",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-b811c239ce1c2622": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-c16b05e8a27b4950": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-cd55108f9f75240d": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-cf8b9423fab554df": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Snopes"
+  },
+  "O:gfc-fb998ebf6de1db20": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, Full Fact"
+  },
+  "O:gfc-fd6bd937c312077c": {
+   "keuze": "eens",
+   "kleur": "rood",
+   "uitkomst": "klopt niet",
+   "redactie": "factcheck, PolitiFact"
+  },
+  "WM:01c4f2ada101": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, NPR"
+  },
+  "WM:310f39dab6a7": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:407736a71d40": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:ab8baceaaa0e": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:abc171ee714b": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, France 24"
+  },
+  "WM:aebb04e870b0": {
+   "keuze": "eens",
+   "kleur": null,
+   "uitkomst": "klopt grotendeels",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:c66b1661e2ae": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, The Guardian"
+  },
+  "WM:dc6f665b1765": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, The Guardian"
+  },
+  "WM:e717a722f37c": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, DW"
+  },
+  "WM:ea1807508b04": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, BBC News"
+  },
+  "WM:fd02154b2cec": {
+   "keuze": "eens",
+   "kleur": "groen",
+   "uitkomst": "klopt",
+   "redactie": "echte kop, France 24"
+  }
+ }
+}

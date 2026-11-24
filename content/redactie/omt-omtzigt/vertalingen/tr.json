@@ -1,0 +1,47 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck omt-omtzigt van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "c7839db87790a225",
+ "veldafdrukken": {
+  "kop": "0f840916680203f2",
+  "oordeel_zin": "32b7f77669e524d6",
+  "bewering": "40ce591b7869480e",
+  "kort": "07599de57467e2d0",
+  "tekst": "fbc06e0158962bf5",
+  "niet_weten": "cc85e8b20dfc0190",
+  "bereik": "7085d77705a1cb87",
+  "nog_uitzoeken": "4169cc9ccc7b4b56",
+  "tijdlijn": "48fbb2bb5e42b58c",
+  "beeld_bijschrift": "fe8a359747e95319",
+  "beeld_alt": "4283f0b68f70c7e2"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Ollongren sokağa çıkma yasağı hakkındaki sorgusunda Pieter Omtzigt'ten değil, OMT'den söz etti",
+  "oordeel_zin": "Ollongren 2 Eylül'deki sorgusunda OMT'nin tavsiyesinin kendisini ikna ettiğini söyledi, Omtzigt'in adı ise sorguda geçmiyor [2].",
+  "bewering": "Ollongren itiraf ediyor: Omtzigt onu sokağa çıkma yasağının faydası konusunda ikna etti.",
+  "kort": "6 Eylül'de X'te, Kajsa Ollongren'in sorgusuna ait bir görüntü dolaşıma girdi; görüntüyle birlikte, Ollongren'in Pieter Omtzigt'in kendisini sokağa çıkma yasağının faydası konusunda ikna ettiğini itiraf ettiği iddia ediliyordu [1]. Ollongren sorguda Omtzigt'ten değil, OMT'den, yani koronavirüs döneminde kabineye danışmanlık yapan Outbreak Management Team'den söz etti [2] [4]. Onun için belirleyici olan, OMT'nin sokağa çıkma yasağının etkisine ilişkin tavsiyesiydi [2].",
+  "tekst": "6 Eylül Pazar günü saat 17.08'de X'te bir hesap, eski bakan Kajsa Ollongren'in sorgusuna ait bir görüntü paylaştı; paylaşımdaki metne göre Ollongren, Omtzigt'in kendisini sokağa çıkma yasağının faydası konusunda ikna ettiğini itiraf ediyordu [1]. Gönderi, Ollongren'in önce yasağa karşı olduğu, sonra da suçu başkasına attığı yönünde alay ediyordu [1]. Gönderi 18 Kasım'da 200 beğeni ve 61 yanıt almıştı [1].\n\nOllongren, 2 Eylül Çarşamba günü saat 10.00 ile 12.50 arasında parlamentonun Corona soruşturma komisyonu tarafından sorguya çekildi [2] [3]. Koronavirüs döneminde İçişleri Bakanı ve D66 adına başbakan yardımcısıydı [2] [3]. ANP o sabah sorgusu hakkında haber verdi [6].\n\nOMT, Outbreak Management Team anlamına gelir: koronavirüs döneminde kabineye danışmanlık yapan uzmanlar. RIVM bu ekibin tavsiyelerini yayımlıyor [4]. Sorgu tutanağında OMT kısaltması 65 kez geçiyor, Omtzigt adı ise hiç geçmiyor [2].\n\nOllongren, sokağa çıkma yasağı konusunda kendisinin ve bakanlığının uzun süre karşı olduğunu, çünkü bu önlemin herkesin hareket özgürlüğüne çok derin biçimde müdahale ettiğini anlattı [2]. Ona göre sokağa çıkma yasağı üç ya da dört kez masaya geldi ve her seferinde yeniden masadan kalktı [2]. Belirleyici olan OMT oldu. OMT, Ocak 2021'de virüsün yayılması üzerindeki etkisini yüzde 8 ila 13 olarak tahmin etti ve başka hiçbir önlemin aynı etkiyi sağlayamayacağını söyledi [2]. Bunun üzerine isteksizce onay verdi ve o sırada ikna olduğunu söyledi [2].\n\nBu, diğer tanıkların daha önce anlattıklarıyla örtüşüyor. NOS'a göre OMT sokağa çıkma yasağını daha önce de bir seçenek olarak anmıştı, kabine başta buna yanaşmak istemedi ve OMT'nin sonraki bir acil tavsiyesi bu önlemin etkili olabileceğini söyledi [5]. Sokağa çıkma yasağı 23 Ocak 2021'de yürürlüğe girdi ve beş kez uzatıldı [2].\n\nOkuduğumuz sorgu tutanağı henüz düzeltilmiş değil. Bu yüzden Ollongren'in söylediklerini aktarıyoruz, kelimesi kelimesine alıntılamıyoruz [2].",
+  "niet_weten": "Gönderinin yazarının OMT'yi yanlış okuyup okumadığını ya da bilerek Omtzigt'e çevirip çevirmediğini bilmiyoruz. Tutanakta Omtzigt adının geçmemesi bizim sayımımıza göre.",
+  "bereik": "18 Kasım'da 200 beğeni ve 61 yanıt",
+  "nog_uitzoeken": [
+   "Gönderiyi yanlış okunmuş bir kısaltma üzerine yapılmış bir şaka olarak okuyan biri, bunu yanıltıcı bulunabilecek şekilde savunabilir. Biz yanlış'ı seçtik."
+  ],
+  "tijdlijn": [
+   "Bölgesel bir sokağa çıkma yasağı ilk kez OMT'nin bir tavsiyesinde yer alır [2].",
+   "Sokağa çıkma yasağı, OMT'nin acil tavsiyesinin ardından yürürlüğe girer [2] [5].",
+   "NOS, önceki sorguların ardından sokağa çıkma yasağının yine de nasıl hayata geçtiğini anlatır [5].",
+   "Ollongren'in sorgusu başlar [2] [3].",
+   "X'teki gönderi, görüntü ve Omtzigt'e ilişkin iddiayla birlikte paylaşılır [1]."
+  ],
+  "beeld_bijschrift": [
+   "X'te gönderi, 6 Eylül 2026, saat 17.08.",
+   "Kajsa Ollongren'in parlamentonun Corona soruşturma komisyonu önündeki açık sorgusu, 2 Eylül 2026, saat 10.00. Tweede Kamer, Debat Direct."
+  ],
+  "beeld_alt": [
+   "Kajsa Ollongren'in sokağa çıkma yasağı hakkındaki sorgusuna ait, sanki Pieter Omtzigt'i anmış gibi paylaşılan görüntü. Damga: YANLIŞ.",
+   "Kajsa Ollongren'in Tweede Kamer'in Enquêtezaal salonundaki sorgusunun videosu."
+  ]
+ }
+}

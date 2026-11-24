@@ -1,0 +1,60 @@
+{
+ "toelichting": "PLAN #32.32: elk rood en oranje bij G2 en W2, elk groen bij O', D en S en elke klopt grotendeels bij W2, gelezen door Claude op 2026-11-03 met dezelfde maat als #32.31 (§207). vals = een vals alarm bij een waar bericht, een onterecht groen bij nepnieuws, een verzonnen detail of satire, of een onterechte maar; terecht = het oordeel klopt voor dit bericht; set fout = het label van de set klopt niet voor deze tekst. Bij G2 telt elk rood of oranje bij een gewone tekst tegen eis 1, wat het label ook is (vooraf vastgelegd); het label van de annotatoren blijft staan. O' is dezelfde set als §207; daar hetzelfde label als in 32.31-uitkomsten.json.",
+ "oordelen": [
+  {
+   "id": "D:b-002101",
+   "label": "vals",
+   "reden": "verzonnen detail 'made in Germany' (de bronnen: Porton Down kon niet zeggen dat het in Rusland gemaakt is); de lezer zag het ('Het bericht noemt Duitsland, maar de kern klopt') en zei toch klopt, dus groen"
+  },
+  {
+   "id": "D:b-008183",
+   "label": "vals",
+   "reden": "verzonnen detail 'his son Yulia' (Yulia Skripal is zijn dochter); de lezer zag het niet en zei klopt, dus groen"
+  },
+  {
+   "id": "D:b-008883",
+   "label": "vals",
+   "reden": "verzonnen getal '60 million-member' voor de CCP; de lezer zag het niet en zei klopt, dus groen"
+  },
+  {
+   "id": "D:b-011296",
+   "label": "vals",
+   "reden": "verzonnen jaar 1991 (Litouwen verklaarde zich in 1990 onafhankelijk); de lezer zag het niet en zei klopt, dus groen"
+  },
+  {
+   "id": "G:t-03081",
+   "label": "terecht",
+   "reden": "gewone tekst volgens de drie annotatoren, maar 'mensen die op Rama Setu midden in de oceaan staan' is een bewering over wat een video toont; Factly (2019) beoordeelde precies die bewering als onwaar, kring 1 vond die check. Het rood klopt; telt bij eis 1 toch tegen, zoals vooraf vastgelegd"
+  },
+  {
+   "id": "G:t-03383",
+   "label": "terecht",
+   "reden": "gewone tekst volgens de drie annotatoren, maar 'YES Bank is gesloten, geld via PhonePe en Google Pay komt niet terug' is een bewering; Times of India en Financial Express: een moratorium en een storing bij PhonePe, de bank was niet gesloten. Oranje klopt; telt bij eis 1 toch tegen"
+  },
+  {
+   "id": "O:gfc-af31d884bf31576d",
+   "label": "set fout",
+   "reden": "de claimtekst is de conclusie van VERA Files ('term not extended until 2034'), niet de valse bewering; groen is terecht (zelfde label als #32.12, #32.30 en #32.31)"
+  },
+  {
+   "id": "O:gfc-bcf571f999d290f6",
+   "label": "vals",
+   "reden": "VERA Files: Hontiveros legde geen verklaring af dat ze president wil worden; de bronnen zeggen alleen dat ze openstaat voor en zich voorbereidt op 2028 (zelfde label als #32.30 en #32.31)"
+  },
+  {
+   "id": "W2:wikinews:en:215352",
+   "label": "terecht",
+   "reden": "terechte maar, grensgeval: de tekst begint met 'Monday, October 25, 2010' en zegt 'died this morning'; Thompson stierf op zaterdag 23 oktober 2010 (BBC, CNN, NYT). De fout zit in de datumregel van het artikel, de verbetering klopt"
+  },
+  {
+   "id": "W2:wikinews:en:2825817",
+   "label": "terecht",
+   "reden": "terechte maar: Nederland won op 10 oktober 2017 met 2-0 van Zweden (twee keer Robben), niet 2-1; de fout staat in het Wikinews-artikel zelf"
+  },
+  {
+   "id": "W2:wikinews:en:556312",
+   "label": "vals",
+   "reden": "onterechte maar: de eindbeslissing van 10 oktober 2012 gaf antidumpingtarieven van 18,32% tot 249,96%; 31% was het voorlopige tarief van mei 2012 (Grist). Een getal dat in de tijd veranderde, dus geen maar (B48)"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "_meta": "Machinevertaling (nl naar zh) van de eigen factcheck noorse-windparken van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "nl",
+ "vingerafdruk": "7e34776783556587",
+ "veldafdrukken": {
+  "kop": "29bbd94e68f7303c",
+  "oordeel_zin": "6e278ea43049be29",
+  "bewering": "7b52117b1081c740",
+  "kort": "acc2c4489ddfac7d",
+  "tekst": "936825ce5f6aad67",
+  "niet_weten": "0349bd09bef56efa",
+  "bereik": "558e1d158f5acc45",
+  "nog_uitzoeken": "b845161f3f10a563",
+  "tijdlijn": "af97b9d9ba9f53a4",
+  "beeld_bijschrift": "736ee1dd9d4279fe",
+  "beeld_alt": "555b027d23b8a49f"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "挪威的 Storheia 與 Roan 風力發電場並未被拆除,畸形馴鹿也與此無關",
+  "oordeel_zin": "法院在 2021 年裁決的是薩米馴鹿飼養者的牧場問題,不是畸形問題,而且在達成兩項協議後,151 座風車仍在運轉 [1] [2] [3]。",
+  "bewering": "挪威因為風車導致畸形馴鹿出生,而拆除風力發電場。",
+  "kort": "自 8 月 11 日起,X 上流傳一則貼文,稱挪威因為出生畸形馴鹿而拆除兩座風力發電場 [9]。挪威最高法院在 2021 年宣告 Storheia 與 Roan 的許可無效,原因是薩米馴鹿飼養者失去了冬季牧場,而不是動物的健康問題 [1]。在 2023 年 12 月與 2024 年 3 月達成協議後,151 座風車繼續運轉 [2] [3]。",
+  "tekst": "X 上的貼文提到兩座風力發電場,合計 151 座風車,即位於挪威中部 Fosen 半島的 Storheia 與 Roan [9]。這兩座風場確實存在:Storheia 有 80 座風車,Roan 有 71 座,兩者都在 2019 年啟用 [4]。貼文附有一個 2021 年 10 月德國專業雜誌的連結,該雜誌當時報導這 151 座風車必須拆除 [5] [9]。\n\n這場訴訟是真的。2021 年 10 月 11 日,挪威最高法院一致裁定,兩座風場的許可均屬無效 [1]。這兩座風場侵害了 Fosen 薩米馴鹿飼養者享有自身文化的權利,該權利載於聯合國公民權利和政治權利國際公約第 27 條 [1]。核心在於,馴鹿實際上已失去風場附近的冬季牧場,這威脅到 Fosen 的馴鹿飼養 [1]。\n\n判決書中沒有提到馴鹿的健康,也沒有提到畸形的小鹿 [1]。法院同樣沒有說明這些風車該如何處理 [4]。\n\n風車並未被拆除。2023 年 12 月,Sør-Fosen 的馴鹿飼養者就 Storheia 達成協議,內容包括額外的土地、補償,以及許可期滿後對新風能計畫的否決權 [2]。挪威人權機構表示,這項協議似乎可以彌補該項侵害 [2]。2024 年 3 月 6 日,Roan 也達成協議:直到 2043 年許可期滿為止,每年支付 700 萬克朗,之後只有在馴鹿飼養者同意時才會有新的許可 [3]。發電照常進行 [3]。\n\n畸形馴鹿的說法出自 2023 年 10 月 9 日巴伐利亞報紙 Landshuter Zeitung 上的一封讀者來信 [6] [7]。這封信把畸形歸因於風車的震動,之後在 Facebook 與 X 上流傳 [6]。AFP 詢問了挪威、瑞典與奧地利的六位馴鹿研究人員,沒有人知道有任何研究證明風車會造成畸形或流產 [6]。不過研究確實顯示,馴鹿會避開風車周圍的區域,尤其是在產仔期間 [6]。\n\n因此這個說法並不新。2024 年初,歐洲事實查核網絡 EDMO 就報導,它也以荷蘭文譯本的形式流傳 [11]。",
+  "niet_weten": "我們不知道是誰最先將2023年的那封信翻譯成荷蘭語，也不知道8月的那則貼文是否源自該譯本。信件本身我們沒有讀到；信中內容，我們是從AFP和Mimikama的查核得知的。風車目前仍在運轉，這是我們根據Aneo、Store norske leksikon和Euronews推斷出來的；2026年9月之後的產量數字，我們沒有看到。",
+  "bereik": "11 月 18 日被瀏覽 101,303 次",
+  "nog_uitzoeken": [
+   "2023年或2024年是否已有荷蘭語的查核，例如Nieuwscheckers、Factcheck Vlaanderen或Knack所做的。",
+   "訴訟是真的，拆除和畸形的馴鹿則不是真的。我們選擇了「虛假」；「誤導」也站得住腳。"
+  ],
+  "tijdlijn": [
+   "挪威最高法院宣告 Storheia 與 Roan 的許可無效 [1]。",
+   "Agrarheute 報導這 151 座風車必須拆除 [5]。",
+   "Landshuter Zeitung 刊出一封關於畸形馴鹿小鹿的讀者來信 [6]。",
+   "AFP Faktencheck:沒有證據顯示風車會造成畸形 [6]。",
+   "Mimikama 得出相同結論 [7]。",
+   "挪威人權機構通報 Storheia 的協議 [2]。",
+   "Roan 的協議達成;風車繼續運轉 [3]。",
+   "X 上關於拆除和畸形馴鹿的貼文 [9]。",
+   "AFP Factcheck Nederland 查核該貼文 [8]。",
+   "Euronews:沒有任何地方記載過因風車而畸形的馴鹿 [10]。"
+  ],
+  "beeld_bijschrift": [
+   "X 上的貼文,2026 年 8 月 11 日 20:15,附有 2021 年 agrarheute 的連結。"
+  ],
+  "beeld_alt": [
+   "X 貼文的截圖,內容關於挪威風力發電場與畸形馴鹿,附有一個德國專業雜誌的連結卡片。印章:錯誤。"
+  ]
+ }
+}

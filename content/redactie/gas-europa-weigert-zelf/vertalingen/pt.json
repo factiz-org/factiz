@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (nl naar pt) van de eigen factcheck gas-europa-weigert-zelf van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "pt",
+ "brontaal": "nl",
+ "vingerafdruk": "f62c0665022453cf",
+ "veldafdrukken": {
+  "kop": "819174bd7fcabd84",
+  "oordeel_zin": "50efbb5e701245d3",
+  "bewering": "566f67427b37634a",
+  "kort": "f738a785d6d85dc3",
+  "tekst": "7fb9546975273471",
+  "niet_weten": "d6d20531e56079cc",
+  "bereik": "41ec1bc0cca7100f",
+  "nog_uitzoeken": "f220f114674df2b5",
+  "tijdlijn": "9992cc7012f4fa30",
+  "beeld_bijschrift": "90bbb65e1ba184cc",
+  "beeld_alt": "344aba80ac43f3a7"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "A Gazprom cortou o gás por conta própria via Nord Stream 1 em 2022, a proibição da UE veio em 2026",
+  "oordeel_zin": "A Gazprom reduziu por conta própria o fornecimento via Nord Stream 1 em 2022 e manteve o gasoduto fechado após a manutenção do fim de agosto; uma proibição europeia ao gás russo só veio em janeiro de 2026 [3] [7] [14] [16].",
+  "bewering": "Essa mentira política v Van der Leyen: a Rússia leva dela a culpa pelo corte do gás, mas foi a UE mesmo que fez isso.",
+  "kort": "Uma publicação holandesa no X diz que Ursula von der Leyen mente: não teria sido a Rússia, mas a UE, que cortou o gás [12]. Foi a estatal russa Gazprom que, em 2022, reduziu o fornecimento via Nord Stream 1 e manteve o gasoduto fechado após a manutenção do fim de agosto, e que também deixou de fornecer à comercializadora de gás holandesa GasTerra [3] [5]. Uma proibição europeia ao gás russo só veio em janeiro de 2026 [7].",
+  "tekst": "Na terça-feira, 22 de setembro de 2026, às 23h30, apareceu no X uma publicação que acusa Ursula von der Leyen de uma mentira política [12]. Segundo a publicação, a Rússia leva injustamente a culpa pelo corte do gás, pois a UE teria feito isso por conta própria [12]. A publicação cita outra publicação com uma declaração de Von der Leyen [13]. Essa outra publicação também diz que a Rússia não cortou o gás da UE [13].\n\nA declaração foi feita pela presidente da Comissão Europeia em 17 de setembro, em Estrasburgo, em seu discurso anual sobre o estado da União [1]. Quando a Rússia cortou o gás, nós revidamos, disse ela; depois disso, segundo ela, a Europa passou a obter seu gás de mais fornecedores [1].\n\nO que a Gazprom fez em 2022\n\nEm 31 de maio de 2022, a Gazprom parou de fornecer à GasTerra [5] [6]. A GasTerra se recusou a pagar em rublos, como exigia um decreto do presidente Vladimir Putin [5]. Segundo a empresa, isso violaria as sanções europeias [6]. Por isso, até outubro deixaram de chegar 2 bilhões de metros cúbicos de gás, que a GasTerra comprou em outro lugar [5] [6].\n\nEm meados de junho de 2022, a Gazprom reduziu o fornecimento via Nord Stream 1, o gasoduto que atravessa o Báltico até a Alemanha, em duas etapas, de 167 para 67 milhões de metros cúbicos por dia, cerca de 40%  [14] [15]. Segundo a Gazprom, a Siemens devolveu turbinas com atraso após reparo [14]. Em 27 de julho, o fornecimento caiu para 33 milhões de metros cúbicos por dia, 20% da capacidade do gasoduto [16] [17]. Só em 3 de agosto a Gazprom apontou as sanções do Canadá, da UE e do Reino Unido como motivo de uma turbina não ter voltado [18]. O centro de estudos polonês OSW viu nisso uma decisão política: a Rússia poderia ter enviado o gás também por outros gasodutos, e não o fez [2]. Em 31 de agosto, o gasoduto foi fechado por três dias de manutenção [3].\n\nEm 2 de setembro de 2022, a Gazprom informou que o gasoduto permaneceria totalmente fechado, devido a um vazamento de óleo em uma turbina na estação compressora de Portovaya [3] [19]. A Siemens Energy disse que esse tipo de vazamento não é um motivo técnico para parar [3]. A Comissão Europeia falou em pretexto [3]. Três dias depois, o porta-voz do Kremlin, Dmitri Peskov, disse que os problemas vinham das sanções e que o gás poderia voltar a fluir se elas fossem retiradas [4]. Em 26 de setembro de 2022, explosões submarinas tornaram o gasoduto inutilizável [9].\n\nO que a UE decidiu\n\nEm março de 2022, os chefes de governo europeus combinaram que a UE deveria depender menos dos combustíveis fósseis russos [7]. Uma proibição ao gás russo veio quase quatro anos depois: os Estados-membros a aprovaram em 26 de janeiro de 2026 [7]. Ela vale em etapas. O gás liquefeito (GNL) da Rússia não poderá mais entrar a partir do início de 2027, e o gás por gasodutos a partir do outono de 2027 [7]. No segundo trimestre de 2026, ainda vinha da Rússia 10,2% do gás que a UE importava por gasoduto e 17,3% do GNL [8].\n\nO que é verdade e o que não é\n\nA UE quer abandonar o gás russo e já formalizou isso [7]. Mas em 2022 não havia nenhuma proibição europeia, e foi a Gazprom que reduziu e interrompeu o fornecimento [3] [7]. No caso da GasTerra, a Gazprom parou porque a cliente recusou a nova regra de pagamento; também aí a decisão de deixar de fornecer foi da Gazprom [5]. A declaração de Von der Leyen condiz, portanto, com o que aconteceu em 2022 [1] [3].\n\nA linha de que a Europa nega o gás a si mesma não é nova. Em 2022, a VOA e a Correctiv concluíram, sobre a explicação russa para a turbina, que era falsa e enganosa [10] [11]. Em 9 de setembro de 2026, o porta-voz do Kremlin, Peskov, disse, segundo a Reuters, que a Europa paga o preço por evitar o gás russo [20]. No fim de outubro, Putin repetiu a mesma linha em um fórum de países exportadores de gás em Moscou; o The Insider a confrontou com os números [9].",
+  "niet_weten": "Não sabemos se o autor se referia ao ano de 2022 ou à proibição de 2026; a declaração de Von der Leyen diz respeito a 2022 [1]. Quem foi o responsável pelas explosões de setembro de 2022 está fora do escopo desta verificação: elas ocorreram depois da interrupção do fornecimento [3] [9].",
+  "bereik": "100 curtidas e 25 respostas em 18 de novembro",
+  "nog_uitzoeken": [
+   "Quem lê a postagem como \"agora a Europa se recusa a comprar gás russo\" encontra nela mais coisas que procedem. Por isso ficamos em dúvida entre falso e enganoso."
+  ],
+  "tijdlijn": [
+   "A Gazprom para de fornecer à GasTerra, que não quer pagar em rublos [5] [6].",
+   "A Gazprom reduz o Nord Stream 1 de 167 para 67 milhões de metros cúbicos por dia, cerca de 40% [14] [15].",
+   "A Gazprom reduz o Nord Stream 1 para 33 milhões de metros cúbicos por dia, 20% [16] [17].",
+   "O Nord Stream 1 é fechado por três dias de manutenção [3].",
+   "A Gazprom informa que o Nord Stream 1 continuará fechado [3].",
+   "Peskov atribui a interrupção às sanções ocidentais [4].",
+   "Os Estados-membros da UE aprovam a proibição ao gás russo, em etapas até o outono de 2027 [7].",
+   "Von der Leyen em Estrasburgo: quando a Rússia cortou o gás, nós revidamos [1].",
+   "A publicação no X que a acusa de mentir [12].",
+   "O The Insider verifica a declaração de Putin no fórum do gás em Moscou [9]."
+  ],
+  "beeld_bijschrift": [
+   "Publicação no X, 22 de setembro de 2026, 23h30."
+  ],
+  "beeld_alt": [
+   "Captura de tela de uma publicação no X que acusa Ursula von der Leyen de mentir sobre o corte do gás russo, com a publicação citada, que traz a declaração dela, logo abaixo. Carimbo: FALSO."
+  ]
+ }
+}

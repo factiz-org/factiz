@@ -1,0 +1,39 @@
+name: Add a newsroom
+description: Tell us about a fact-checking newsroom whose work is missing from the archive.
+title: "Newsroom: "
+labels: ["sources"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We only publish fact-checks under an open licence or with the newsroom's written permission, so a newsroom can be welcome and still take a while to appear. If you work at the newsroom yourself, say so: that is the fastest route.
+  - type: input
+    id: name
+    attributes:
+      label: Newsroom
+    validations:
+      required: true
+  - type: input
+    id: site
+    attributes:
+      label: Website
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Languages and countries they cover
+  - type: checkboxes
+    id: signals
+    attributes:
+      label: What you know
+      options:
+        - label: They are a signatory of the IFCN or a member of the EFCSN
+        - label: Their articles carry ClaimReview markup
+        - label: Their fact-checks are published under an open licence
+        - label: I work there
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

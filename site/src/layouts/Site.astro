@@ -1,0 +1,173 @@
+---
+// De site (PLAN #34.2b, #34.2c): de kop met het menu, het zoekvenster en de taalkiezer (Over Factiz staat in de voet en de
+// menulade, niet in de kop: servicelinks apart van de hoofdnavigatie, Baymard #288), de voet in groepen (#250) met de
+// talen en de schakelaar voor licht en donker. De kop van de pagina volgt DESIGNSYSTEEM §6: canonical en hreflang alleen
+// voor de talen waarin de pagina eigen tekst heeft, en niets voor een pagina die niet vindbaar is.
+import '../styles/global.css';
+import '../styles/site.css';
+import woordmerk from '../../../factiz_site/static/merk/woordmerk-inline.svg?raw';
+import Menu from '../components/site/Menu.jsx';
+import Zoekpalet from '../components/site/Zoekpalet.jsx';
+import Taalkiezer from '../components/site/Taalkiezer.jsx';
+import Weergave from '../components/site/Weergave.jsx';
+import Meten from '../components/site/Meten.jsx';
+import { meetId } from '../lib/meetid.js';
+import { haal } from '../lib/platform.js';
+import { maakT } from '../lib/teksten.js';
+import { zoektekst } from '../lib/tekstset.js';
+import { TALEN, KIESVOLGORDE, EIGEN_NAAM, BCP47, OG_LOCALE, BASIS, pad, naamIn, richting } from '../lib/talen.js';
+import { VELDEN_VERSIE } from '../lib/versies.js';
+import { KOPSCRIPT } from '../lib/weergave.js';
+import { kort } from '../platform/tekst.ts';
+import { stand } from '../lib/vindbaar.js';
+
+// delen: het pad na de taal; aangeboden: de talen waarin de pagina naar zoekmachines gaat (leeg: niet vindbaar);
+// zoekdeel: wat na het pad bij het adres hoort en meegaat naar een andere taal (de filters); soort: wat de pagina is voor
+// wie haar deelt (een factcheck en een dossier zijn een artikel); fout: de 404, die geen eigen adres heeft om te delen.
+// paden: het adres per taal als dat per taal verschilt (een eigen check, PLAN #37.11: `/nl/radar/2026/11/<naam>/` en
+// `/radar/2026/11/<english-name>/`); dan gaan canonical, hreflang en de taalkeuze daarheen, en een taal zonder deze pagina
+// naar haar start.
+// zoeknaam: de naam van een persoon of dossier waar het zoeken meteen heen kan sturen (PLAN #34.2ac, SPECS E9.S14 AC4);
+// kwam je via zoeken (#gezocht in het adres, nooit de vraag zelf), dan staat er een knop om toch op de woorden te zoeken.
+const { titel, hier = '', taal, delen = [], aangeboden = TALEN, zoekdeel = '', omschrijving = '', soort = 'website',
+  fout = false, zoeknaam = '', beeld = '', beeldAlt = '', ld = '', paden = null } = Astro.props;
+// het pad van deze pagina in een taal
+const padIn = (code) => (paden ? (paden[code] ?? pad(code)) : pad(code, ...delen) + zoekdeel);
+const t = maakT(taal);
+// de pay-off van Factiz, in elke taal dezelfde Engelse zin (B86, PO 2026-11-21: "Ja, overal Engels"): een merk herken je
+// alleen als het overal gelijk is; gemarkeerd als Engels, zodat een schermlezer hem goed uitspreekt, en met dir="auto",
+// zodat de punt op een pagina van rechts naar links aan de goede kant staat (een vaste richting hoort niet in de layout)
+const PAYOFF = "For a world that can't be fooled.";
+const titelVol = `${titel} · Factiz`;
+// hoogstens 160 tekens, afgekapt op een woord (#34.2bq): meer laat een zoekmachine toch niet zien
+// hoogstens 160 tekens, wat een zoekmachine toont; `kort` zet er nog ' …' achter, dus 158 (#34.2bq)
+const beschrijving = kort(omschrijving || t('start_omschrijving'), 158);
+const basis = await haal(`/api/${taal}/archief`);
+const themas = basis?.filters?.lijsten?.thema ?? [];
+const tk = basis?.tellingen ?? {};
+// tot wanneer de site bij is (PLAN #34.2bz): de dag van de uitgave en van de nieuwste check, alleen als beide er zijn
+const actueel = basis?.actueel?.uitgave_tekst && basis?.actueel?.factcheck_tekst
+  ? t('voet_actueel', { uitgave: basis.actueel.uitgave_tekst, factcheck: basis.actueel.factcheck_tekst }) : '';
+const vindbaar = aangeboden.includes(taal);
+const xDefault = aangeboden.includes('en') ? 'en' : aangeboden[0];
+// Niets gaat naar zoekmachines tot de PO een stap openzet (#33.9, B73, #34.2bt); de kop zegt al wel wat er dan geldt.
+const OPEN = stand() > 0;
+const talen = KIESVOLGORDE.map((code) => ({ code, bcp47: BCP47[code], naam: EIGEN_NAAM[code], hier: naamIn(taal, code), href: padIn(code) }));
+const links = { start: pad(taal), lijst: pad(taal, 'fact-checks'), themas: pad(taal, 'themes'), dossier: pad(taal, 'dossiers'),
+  namen: pad(taal, 'names'), over: pad(taal, 'about'), database: pad(taal, 'global-fact-check-database'), bronnen: pad(taal, 'sources'),
+  platform: pad(taal, 'platform'), redacties: pad(taal, 'newsrooms'), verkennen: pad(taal, 'explore'),
+  // Factiz Radar in het menu, alleen in een taal met gepubliceerde eigen checks (PO 2026-11-19: "Ja, bouw het")
+  ...(basis?.radar?.href ? { radar: basis.radar.href } : {}) };
+const menu = { menu_naam: t('menu_naam'), menu: t('menu_knop'), start: t('nav_start'), factchecks: t('nav_lijst'), themas: t('nav_themas'),
+  dossiers: t('nav_dossiers'), verkennen: t('nav_verkennen'), radar: t('nav_radar'), namen: t('nav_namen'), alle_themas: t('menu_alle_themas'), over: t('nav_over'), sluiten: t('sluiten') };
+const palet = zoektekst(taal, { knop: t('held_label', { n: tk.paginas ?? '' }), kort: t('zoek_knop') });
+// de maker in de zin van de taal (de plek van de naam verschilt per taal) en het repo (PLAN #34.2bk)
+const maker = t('voet_maker', { maker: '\u0001' }).split('\u0001');
+const REPO = 'https://github.com/factiz-org/factiz';
+// Het repo is nog privé (PLAN #34.2bl, SPECS E9.S30 AC3): tot de PO het openbaar maakt, geen link ernaartoe en niet het
+// woord Open source in de voet; de licenties gelden wel en blijven staan. Openbaar: hier true.
+const BRONCODE_OPENBAAR = false;
+const taalTekst = { taalkeuze: t('taalkeuze'), knop: t('taal_knop', { taal: '{taal}' }), zoeken: t('taal_zoeken'), niets: t('taal_niets'),
+  voorgesteld: t('taal_voorgesteld'), alle: t('taal_alle') };
+// meten met Google Analytics, alleen na een ja (B88, SPECS E9.S36): zonder meet-ID geen banner en niets van Google
+const ga = meetId();
+const meten = { vraag: t('meten_vraag'), ja: t('meten_ja'), nee: t('meten_nee'), meer: t('meten_meer'),
+                meerHref: `${pad(taal, 'about')}#privacy`, aanpassen: t('meten_aanpassen') };
+const weergave = { kop: t('weergave_kop'), systeem: t('weergave_systeem'), licht: t('weergave_licht'), donker: t('weergave_donker'),
+  hier: t('weergave_hier') };
+---
+<!doctype html>
+<html lang={BCP47[taal]} dir={richting(taal)}>
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- Een redactie ziet alleen dat de bezoeker van factiz.org kwam, nooit welke pagina (PLAN #34.2k); binnen de site het
+     hele adres, voor Terug naar resultaten. -->
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<script is:inline set:html={KOPSCRIPT}></script>
+<title>{titelVol}</title>
+<meta name="description" content={beschrijving}>
+<meta name="robots" content={OPEN ? (vindbaar ? 'index, follow' : 'noindex, follow') : 'noindex, nofollow'}>
+{vindbaar && <>
+  <link rel="canonical" href={BASIS + padIn(taal)}>
+  {aangeboden.map((code) => <link rel="alternate" hreflang={BCP47[code]} href={BASIS + padIn(code)}>)}
+  <link rel="alternate" hreflang="x-default" href={BASIS + padIn(xDefault)}>
+</>}
+<link rel="icon" href="/static/merk/favicon.ico" sizes="48x48"><link rel="icon" type="image/svg+xml" href="/static/merk/logo.svg">
+<link rel="apple-touch-icon" href="/static/merk/apple-touch-icon.png">
+{/* bij delen (DESIGN §4o): het vaste beeld met de titel en de omschrijving van de pagina; een volledig adres, want wie
+    een link deelt, haalt het beeld van buiten op */}
+<meta property="og:site_name" content="Factiz"><meta property="og:type" content={soort}>
+<meta property="og:locale" content={OG_LOCALE[taal]}>
+<meta property="og:title" content={titelVol}><meta property="og:description" content={beschrijving}>
+{!fout && <meta property="og:url" content={BASIS + padIn(taal)}>}
+{/* een factcheck deelt haar eigen plaatje: de bewering en het oordeel in woorden (PLAN #34.2aq); de rest het vaste beeld */}
+<meta property="og:image" content={beeld ? `${BASIS}${beeld}` : `${BASIS}/static/merk/og.jpg`}><meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630"><meta property="og:image:alt" content={beeld && beeldAlt ? beeldAlt : 'Factiz'}>
+<meta name="twitter:card" content="summary_large_image">
+{/* gestructureerde gegevens van de pagina zelf (#34.2bq): een JSON-blok, geen script; elke < is al \u003c */}
+{ld && <script type="application/ld+json" is:inline set:html={ld}></script>}
+<link rel="stylesheet" href={`/static/velden.css?v=${VELDEN_VERSIE}`}>
+</head>
+<body class="fz">
+{/* de eerste link van elke pagina (#34.2bq): met het toetsenbord meteen naar de inhoud, zichtbaar zodra hij focus krijgt */}
+<a class="naar-inhoud" href="#main">{t('naar_inhoud')}</a>
+<header class="kop">
+  <div class="baan kop-in">
+    <a href={links.start} aria-label="Factiz" class="merk me-2 flex-none"><Fragment set:html={woordmerk} /></a>
+    <Menu client:load tekst={menu} themas={themas} hier={hier} links={links} />
+    <div class="ms-auto flex min-w-0 flex-1 justify-end"><Zoekpalet client:load tekst={palet} themas={themas.slice(0, 6)} taal={taal} lijst={links.lijst} /></div>
+    <Taalkiezer client:load taal={taal} talen={talen} tekst={taalTekst} />
+  </div>
+  <div class="strook" aria-hidden="true"></div>
+</header>
+<main id="main" tabindex="-1">
+  {zoeknaam && (
+    <div class="baan pt-4" data-gezocht hidden>
+      <form method="post" action={links.lijst} class="paneel flex flex-wrap items-center gap-3 px-3 py-2 text-[13.5px]">
+        <span class="zacht min-w-0 flex-1">{t('zoek_gezocht')}</span>
+        <input type="hidden" name="q" value={zoeknaam}><input type="hidden" name="letterlijk" value="1">
+        <button class="knop" type="submit">{t('zoek_gezocht_knop')}</button>
+      </form>
+    </div>
+  )}
+  <slot />
+</main>
+<script>
+  // Doorgestuurd door het zoeken (PLAN #34.2ac): de regel tonen, en #gezocht uit het adres halen zodat delen en herladen
+  // gewoon de pagina geven.
+  const gezocht = document.querySelector('[data-gezocht]');
+  if (gezocht && location.hash === '#gezocht') {
+    gezocht.hidden = false;
+    history.replaceState(history.state, '', location.pathname + location.search);
+  }
+</script>
+<footer class="voet-b mt-20 border-t border-[var(--lijn)]">
+  <div class="baan grid gap-8 py-10 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1fr_1fr]">
+    <div><a href={links.start} aria-label="Factiz" class="merk"><Fragment set:html={woordmerk} /></a><p class="zacht mt-3 max-w-[30ch]" lang="en" dir="auto">{PAYOFF}</p><p class="mono mt-3">{t(ga ? 'voet_meten' : 'voet_geen_cookies')}</p>
+      {ga && <Meten client:idle id={ga} tekst={meten} />}
+      <div class="mt-4"><Weergave client:idle tekst={weergave} /></div></div>
+    <div><p class="text-[12px] font-semibold">{t('nav_lijst')}</p><ul class="mt-2 grid gap-1.5 text-[13px] text-[var(--zacht)]">
+      <li><a href={links.lijst}>{t('lijst_titel')}</a></li><li><a href={links.dossier}>{t('nav_dossiers')}</a></li>
+      <li><a href={links.verkennen}>{t('nav_verkennen')}</a></li>
+      {links.radar && <li><a href={links.radar}>{t('nav_radar')}</a></li>}
+      {basis?.namen && <li><a href={links.namen}>{t('nav_namen')}</a></li>}<li><a href={links.redacties}>{t('nav_redacties')}</a></li></ul></div>
+    <div><p class="text-[12px] font-semibold">{t('nav_themas')}</p><ul class="mt-2 grid gap-1.5 text-[13px] text-[var(--zacht)]">
+      {themas.slice(0, 6).map((th) => <li><a href={pad(taal, 'themes', th.waarde)}>{th.naam}</a></li>)}</ul></div>
+    <div><p class="text-[12px] font-semibold">{t('nav_over')}</p><ul class="mt-2 grid gap-1.5 text-[13px] text-[var(--zacht)]">
+      <li><a href={links.over}>{t('nav_over')}</a></li><li><a href={links.database}>{t('db_naam')}</a></li><li><a href={links.bronnen}>{t('nav_bronnen')}</a></li>
+      <li><a href={links.platform}>{t('nav_platform')}</a></li>{BRONCODE_OPENBAAR && <li><a href={REPO} rel="noopener">{t('voet_broncode')}</a></li>}</ul></div>
+    <div id="talen"><p class="text-[12px] font-semibold">{t('taalkeuze')}</p><ul class="mt-2 grid grid-cols-2 gap-x-4 gap-y-1.5 text-[13px] text-[var(--zacht)]">
+      {talen.map((l) => <li>{l.code === taal
+        ? <span class="taalnaam text-[var(--inkt)]" lang={BCP47[l.code]} aria-current="true">{l.naam}</span>
+        : <a class="taalnaam" href={l.href} hreflang={BCP47[l.code]} lang={BCP47[l.code]}>{l.naam}</a>}</li>)}</ul></div>
+  </div>
+  {/* open source en de maker (PLAN #34.2bk, SPECS E9.S30): de licenties zoals in LICENSE en LICENSE-PROTOCOL.md */}
+  <div class="baan flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 border-t border-[var(--lijn)] py-5 text-[12.5px] text-[var(--zacht)]">
+    {/* platte tekst, geen <time>, en data-nosnippet: een datum die op elke pagina gelijk is, is niet de datum van een factcheck */}
+    {actueel && <p class="voet-actueel" data-nosnippet>{actueel}</p>}
+    <p class="voet-licenties">{BRONCODE_OPENBAAR && `${t('voet_open_source')}. `}{t('voet_code')}: <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0</a>{' · '}{t('voet_protocol')}: <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>{' · '}<a href={links.bronnen}>{t('voet_licentie')}</a></p>
+    <p class="voet-maker">{maker[0]}<a href="https://ideelab.nl/" rel="noopener">Ideelab</a>{maker[1]}</p>
+  </div>
+</footer>
+</body>
+</html>

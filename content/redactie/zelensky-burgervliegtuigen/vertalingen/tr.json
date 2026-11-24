@@ -1,0 +1,46 @@
+{
+ "_meta": "Machinevertaling (nl naar tr) van de eigen factcheck zelensky-burgervliegtuigen van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "nl",
+ "vingerafdruk": "0b687fa5a43702c5",
+ "veldafdrukken": {
+  "kop": "8a9503440bbe9f25",
+  "oordeel_zin": "77dfb633384eedc2",
+  "bewering": "55f4f3eea7911be3",
+  "kort": "4afacfdd59affa64",
+  "tekst": "d03ce597fc692860",
+  "niet_weten": "dbd2315df3004bfd",
+  "bereik": "a09275c1060a48da",
+  "nog_uitzoeken": "4f53cda18c2baa0c",
+  "tijdlijn": "504c46e9f0788fa2",
+  "beeld_bijschrift": "1d965a0ad6c55a81",
+  "beeld_alt": "a838d3bfd529db63"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Zelensky havayolu şirketlerini Rusya üzerindeki dronlar konusunda uyardı, uçakları düşürmekle tehdit etmedi",
+  "oordeel_zin": "Zelensky, Ukrayna dronlarının Rusya hava sahasını güvensiz hale getirdiği konusunda uyardı, ancak Ukrayna'nın hiçbir sivil uçağı tehdit etmediğini açıkça belirtti [2] [3].",
+  "bewering": "Zelensky şimdi sivil uçakları bile düşürmekle tehdit ediyor, Ukrayna'nın bu konuda zaten tecrübesi var tabii... #MH17",
+  "kort": "5 Eylül'de X'te dolaşıma giren bir paylaşım, Zelensky'nin sivil uçakları düşürmekle tehdit ettiğini öne sürüyor ve MH17 etiketini kullanıyor [1]. Zelensky 1 Eylül'de havayolu şirketlerini, Ukrayna dronlarının Rusya hava sahasını güvensiz hale getirdiği konusunda uyardı ve aynı konuşmada Ukrayna'nın hiçbir sivil uçağı tehdit etmediğini söyledi [2] [3]. MH17 için ICAO Konseyi 2025'te Rusya'yı sorumlu tuttu [10] [11].",
+  "tekst": "Paylaşım, 5 Eylül Cumartesi günü saat 12:51'de X'te yayımlandı [1]. Bir gün öncesine ait İngilizce bir paylaşımı alıntılıyor; o paylaşımda 51 saniyelik bir video ve Zelensky'nin sivil uçakları tehdit ettiği iddiası var [1]. Hollandaca paylaşım bunu, Zelensky'nin sivil uçakları düşürmekle tehdit ettiği şeklinde değiştiriyor ve MH17 etiketiyle 2014'teki felakete gönderme yapıyor [1]. Paylaşım 18 Kasım'da 14.721 kez görüntülenmişti [1].\n\nSöz konusu olan, Zelensky'nin 1 Eylül Salı günkü akşam konuşması; video Telegram'da, metnin bir bölümü ise saat 19:59'da İngilizce olarak X'te yayımlandı [13] [2]. Zelensky konuşmasında Rus hava sahasını kullanan tüm havayolu şirketlerini, tüm sigortacıları ve büyük Rus havalimanlarını hâlâ kullanan herkesi uyardı: hava sahası tamamen güvensiz hale gelecek [2] [3]. Gösterdiği gerekçe, Rusya üzerinde havacılığın hesaba katması gereken ölçekte uçacak olan Ukrayna dronlarıydı [3] [4]. Üç gün önce Rusya'ya karşı günde 1.000 dron kullanılması talimatını vermişti [4].\n\nZelensky aynı konuşmada Ukrayna'nın sivil havacılığı tehdit etmediğini söyledi: \"not a single civilian aircraft\" [2]. Kendi metninde, hem İngilizce hem Ukraynaca, bu cümle doğrudan uyarının ardından geliyor [2] [13]. Euronews ve Meduza da bu sözleri aktarıyor [3] [4]. Ona göre Ukrayna masum insanların hayatını kaybetmesini istemiyor [2].\n\nBir gün sonra Ukrayna, Birleşmiş Milletler'in havacılık kuruluşu ICAO'ya Rus hava sahasının güvensiz olduğunu resmen bildirdi [6]. Türk şirketleri Pegasus ve Turkish Airlines, Moskova'ya ve Moskova'dan yapılan seferleri iptal etti [6]. Aynı gün ICAO, sivil uçakların silahlarla vurulma veya çapraz ateşe kalma riskinin arttığı konusunda genel bir uyarı yaptı; Rusya'yı ya da Ukrayna'yı anmıyor [7].\n\nPutin de bunda bir tehdit gördü: uyarıya 1 Eylül'de devlet terörü dedi [5]. Haber verilen Ukrayna planları hava sahasının kapatılmasıyla ilgili, uçak düşürmekle değil. The Insider'ın aktardığı The Atlantic'e göre Ukrayna, tek bir gecede 1.000'e kadar dronla Moskova üzerindeki hava sahasını kapatmak için bir plan hazırlıyordu ve Zelensky, vurulan bir yolcu uçağının korsanlık olarak görülmesinden korkuyordu [8]. Meduza'ya göre Zelensky'nin ofisi bu haberi tam bir saçmalık olarak nitelendirdi [14]. The Week'in aktardığı The Wall Street Journal'a göre Ukrayna, kalkış ve inişleri durdurmak için Rus havalimanlarının çevresinde dronlar uçurmak istiyor [9]. Bu, Rusya üzerinde uçmayı daha tehlikeli hale getiriyor. Uçak düşürme tehdidi ise değil.\n\nMH17, 17 Temmuz 2014'te Doğu Ukrayna üzerinde, Rusya yanlısı ayrılıkçıların elindeki bölgede, Rus yapımı bir yerden havaya füzeyle düşürüldü [11]. 196'sı Hollandalı olmak üzere 298 kişi hayatını kaybetti [11]. ICAO Konseyi, Hollanda ve Avustralya'nın açtığı davada 12 Mayıs 2025'te Rusya'nın sorumlu olduğuna karar verdi [10]. Bununla birlikte, Rus ve Ukraynalı yetkililer Ekim 2001'de, Karadeniz üzerinde 78 kişinin öldüğü bir Rus yolcu uçağı felaketinin nedeni olarak bir füzeyi gösterdi [12]. Ukraynalı yetkili, bunun büyük olasılıkla bir Ukrayna tatbikatından kazara çıkan bir füze olduğunu söyledi [12].",
+  "niet_weten": "Gönderinin ilk cümlesi, yani Rusya ve Ukrayna'nın hangi hedefleri vurduğuna dair kısım, burada kontrol etmediğimiz bağımsız bir iddiadır. Bu iddiayla ilgili başka bir editörlük ekibinin hazırladığı bir doğrulama çalışması bulamadık; yedi dilde ve yirmiden fazla sitede arama yaptık.",
+  "bereik": "18 Kasım'da 14.721 görüntülenme",
+  "nog_uitzoeken": [],
+  "tijdlijn": [
+   "Zelensky, Rusya'ya karşı günde 1.000 dron kullanılması talimatını verdiğini söylüyor [4].",
+   "Zelensky akşam konuşmasında havayolu şirketlerini uyarıyor; video Telegram'da, metin X'te [13] [2].",
+   "Putin uyarıya devlet terörü diyor [5].",
+   "Ukrayna, ICAO'ya Rus hava sahasının güvensiz olduğunu bildiriyor; ICAO, sivil uçaklara karşı silah kullanımı konusunda genel bir uyarı yapıyor [6] [7].",
+   "Bir İngilizce paylaşım, Zelensky'nin sivil uçakları tehdit ettiğini söylüyor [1].",
+   "MH17 etiketli Hollandaca paylaşım [1]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 5 Eylül 2026, 12:51.",
+   "Telegram'da Volodymyr Zelensky, 1 Eylül 2026: havayolu şirketlerine uyarının yer aldığı akşam konuşmasının videosu."
+  ],
+  "beeld_alt": [
+   "Zelensky'nin sivil uçakları düşürmekle tehdit ettiğini söyleyen, MH17 etiketli ve alıntılanan İngilizce paylaşımı içeren X paylaşımının ekran görüntüsü. Damga: YANLIŞ.",
+   "Zelensky'nin 1 Eylül 2026 tarihli akşam konuşmasının videosu."
+  ]
+ }
+}

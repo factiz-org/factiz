@@ -1,0 +1,1605 @@
+{
+ "_meta": "Labels van de zeef (PLAN #30.1, B33). Per sleutel: bij P1 tot P3 een `matched` op een andere claim dan verwacht, `zelfde` (dezelfde bewering, telt niet als gevonden en niet als vals) of `anders` (iets anders: ander land, ander moment, ander beeld, of de ontkenning; telt als vals alarm); bij N1 een `matched` op gewone webtekst, `terecht` (de tekst doet de gecheckte bewering) of `vals`. Bij twijfel `anders` of `vals`. Een label van #28.6 c op precies hetzelfde paar geldt ook hier en staat daarom niet nog eens in dit bestand. Op de toetshelft alleen om te tellen, nooit om een regel of drempel bij te stellen. Gelabeld door Claude met vraag en treffer naast elkaar (`python -m doublecheck.zeef lezen`).",
+ "labels": [
+  {
+   "sleutel": "P3:00785",
+   "label": "zelfde",
+   "waarom": "knielende vrouwen op oudejaarsavond die vergiffenis vragen, in het Nederlands en het Engels"
+  },
+  {
+   "sleutel": "P3:00815",
+   "label": "zelfde",
+   "waarom": "het beeld is de post zelf ('Inside visuals of Turkey Famous Hotel'), als beeld van de aardbeving"
+  },
+  {
+   "sleutel": "P3:01107",
+   "label": "zelfde",
+   "waarom": "Mulayam en Akhilesh die komen feliciteren met de verkiezingswinst, in het Engels en het Hindi"
+  },
+  {
+   "sleutel": "P3:01167",
+   "label": "zelfde",
+   "waarom": "de dichtste foto van Saturnus door Cassini, in het Engels en het Indonesisch"
+  },
+  {
+   "sleutel": "P3:01217",
+   "label": "zelfde",
+   "waarom": "Khattar die zijn ambtswoning verlaat met weinig bagage"
+  },
+  {
+   "sleutel": "P3:01316",
+   "label": "zelfde",
+   "waarom": "de Mahameru-bloem die eens per 400 jaar bloeit, in het Engels en het Chinees"
+  },
+  {
+   "sleutel": "P3:01331",
+   "label": "zelfde",
+   "waarom": "Gandhi als sergeant-majoor in het Britse leger, in het Engels en het Hindi"
+  },
+  {
+   "sleutel": "P3:01371",
+   "label": "zelfde",
+   "waarom": "Netaji die het bericht van zijn eigen dood leest, in het Engels en het Tamil"
+  },
+  {
+   "sleutel": "P3:01743",
+   "label": "zelfde",
+   "waarom": "foto's van Chinese soldaten die bij Galwan omkwamen"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-004663",
+   "label": "terecht",
+   "waarom": "de kop van een blog zegt dat steden in Maranhão door de regen in noodtoestand zijn, de gecheckte bewering zelf"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-001769",
+   "label": "terecht",
+   "waarom": "de claimregel van een factcheckartikel, letterlijk de gecheckte bewering"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-006372",
+   "label": "terecht",
+   "waarom": "letterlijk de gecheckte bewering over de peiling van Thanthi TV"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-011905",
+   "label": "terecht",
+   "waarom": "de claimregel van een factcheckartikel over de maaltijden van 5 roepie in Hyderabad, letterlijk de gecheckte bewering"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-012494",
+   "label": "terecht",
+   "waarom": "een factcheckartikel dat de gedeelde video beschrijft: water uit de lucht bij Togo, de gecheckte bewering"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-012495",
+   "label": "terecht",
+   "waarom": "de claimregel van hetzelfde artikel, letterlijk de gecheckte bewering"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-056666",
+   "label": "vals",
+   "waarom": "advertentie: aloë vera tegen veroudering en acne, tegenover 'maakt je huid stralend'"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-096491",
+   "label": "vals",
+   "waarom": "hypotheekrentes dalen in een ander jaar; de gecheckte claim is vaag en tijdgebonden"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-108111",
+   "label": "vals",
+   "waarom": "hypotheekrentes zijn laag, niet dat ze dalen; ander moment"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-112129",
+   "label": "terecht",
+   "waarom": "Trump: vrouwen moeten gestraft worden voor abortus, dezelfde uitspraak"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-014990",
+   "label": "vals",
+   "waarom": "het WHO-begrip 'ziekte X', niet de bewering dat het een plandemie is"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-006020",
+   "label": "terecht",
+   "waarom": "zwarte luipaard in Kenia, voor het eerst in 100 jaar"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-005834",
+   "label": "terecht",
+   "waarom": "een glas water voor het slapen voorkomt een hartaanval"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-003341",
+   "label": "vals",
+   "waarom": "het nieuwsbericht van destijds over ruziënde artsen, niet de bewering dat de video recent is"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-086820",
+   "label": "terecht",
+   "waarom": "veel water drinken is de sleutel tot afvallen"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-005977",
+   "label": "terecht",
+   "waarom": "staand water drinken schaadt de nieren"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-009912",
+   "label": "terecht",
+   "waarom": "een factcheckkop over precies deze bewering (gezin pleegde zelfmoord door honger in de lockdown)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-012498",
+   "label": "terecht",
+   "waarom": "Modi: geen enkele bomaanslag in vijf jaar"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-000882",
+   "label": "terecht",
+   "waarom": "een telefoontje van 777888999 laat je telefoon ontploffen"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-001183",
+   "label": "terecht",
+   "waarom": "het internet ligt wereldwijd 48 uur plat"
+  },
+  {
+   "sleutel": "P1:https://cambodia.factcrescendo.com/english/cambodias-premier-hun-sen-still-healthy-as-normal/",
+   "label": "anders",
+   "waarom": "een andere versie van het gerucht: Calmette en gestopte behandeling tegenover overgebracht naar Singapore"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/ai-video-showing-fish-with-human-faces-claiming-to-be-from-samsara-lake-karanji-is-viral.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/an-old-and-clipped-video-of-kanhaiya-kumar-is-shared-as-him-asking-people-to-embrace-islam/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-assaulted-bjp-party-worker-in-west-bengal-is-being-portrayed-as-the-union-health-minister-harsh-vardhan/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-bhagat-singh-rajguru-and-sukhdev-were-executed-on-23-march-1931-not-on-valentines-day/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-drone-boy-pratap-has-not-been-appointed-as-a-scientist-in-drdo-by-pm-modi/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-google-maps-removed-loc-no-it-appears-so-only-when-searched-from-india/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-incident-related-to-a-family-dispute-in-rajasthan-is-given-a-false-communal-colour/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-indonesian-currency-note-carrying-the-image-of-lord-ganesha-was-withdrawn-in-2008/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-nirav-modi-did-not-make-any-statement-in-a-london-court-about-bribing-bjp-leaders-to-abscond-from-india/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-old-video-from-jammu-kashmir-is-shared-as-visuals-of-a-mob-pelting-stones-on-police-in-rajasthan/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-old-video-of-a-muslim-procession-in-up-is-passed-off-as-muslim-protest-in-tripura-against-the-recent-communal-violence/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-old-video-of-international-fleet-review-is-passed-off-as-diwali-celebrations-by-indian-navy/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-there-is-no-article-30a-in-the-constitution-which-bans-teaching-gita-and-ramayana-in-schools/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-there-is-no-evidence-that-the-congress-party-has-adopted-the-symbol-of-islam-as-its-election-symbol/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-these-visuals-of-ranbir-kapoor-throwing-away-a-phone-were-shot-as-part-of-a-commercial/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-video-does-not-show-taliban-hanging-a-man-from-a-black-hawk-helicopter/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-up-police-thrashed-the-person-in-this-video-over-charges-of-theft-not-for-saying-pakistan-zindabad/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-woman-in-this-video-is-not-messis-mother-she-is-the-team-cook-antonia-farias/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/these-photos-are-not-related-to-the-latest-sporadic-forest-fires-in-uttarakhand/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/unrelated-visuals-and-scripted-videos-are-being-shared-with-false-child-kidnapping-rumours/",
+   "label": "anders",
+   "waarom": "kinderroof met organenhandel tegenover een bende die kinderen ontvoert en doodt"
+  },
+  {
+   "sleutel": "P1:https://factly.in/viral-videos-and-photos-do-not-show-the-deportation-of-indian-immigrants-from-the-u-s/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://pa.media/blogs/fact-check/footage-shared-online-shows-volodymyr-zelenskys-bodyguard/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://pesacheck.org/altered-this-image-claiming-to-show-coffins-of-british-soldiers-killed-in-ukraine-is-doctored-d6d82ded8cbc",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/enganoso-lula-nao-assumiu-ser-comunista-diferentemente-do-que-afirma-post",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://theprint.in/hoaxposed/fact-check-video-of-iaf-plane-crash-in-rajasthan-shared-with-false-claim-that-it-was-carrying-assad/2399085/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.lighthousejournalism.com/politics/fact-check-readers-comment-dating-back-to-2009-shared-on-social-media-as-new-york-times-article-on-indian-elections-with-misleading-claims-2014/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/bulgaria-road-image-india",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/false-no-pm-modi-did-not-oppose-reservation-in-parliament-viral-video-is-edited",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/false-no-the-new-york-times-did-not-publish-a-cartoon-mocking-indian-pm-narendra-modi",
+   "label": "anders",
+   "waarom": "de ontkenning over de taalgrens: de NYT bespotte Modi tegenover de NYT prees Modi (Gujarati)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/false-video-of-large-crowd-at-rahul-gandhi-s-rally-is-from-religious-event-in-andhra",
+   "label": "anders",
+   "waarom": "een recente rally tegenover de Bharat Jodo Nyay Yatra in Nashik; bij twijfel anders"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/hi/fact-check/983d00d3-hi",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/hi/fact-check/false-2022-video-of-uttarakhand-woman-s-murder-shared-with-false-communal-claims-hi",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/hi/fact-check/false-video-of-bjp-s-dinesh-lal-yadav-blaming-population-growth-for-unemployment-is-not-a-deepfake-hi",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/clipped-video-falsely-shared-to-claim-narendra-modi-supports-ballots-over-evms",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/false-no-cash-worth-rs-8-crores-was-not-seized-from-andhra-pradesh-politician-nara-lokesh-s-car-kn",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/false-unrelated-video-shared-as-people-burning-chandrababu-naidu-s-photo-for-supporting-modi-kn",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/old-footage-from-delhi-shared-as-protest-against-evms-in-maharashtra",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/video-hathras-stampede-shared-as-hindus-killed-in-bangladesh",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-schedule-for-karnataka-secondary-level-exam-shared-with-a-false-communal-twist-te",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/video-of-boat-capsizing-in-democratic-republic-of-congo-shared-as-goa",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.univision.com/noticias/biden-dormido-reunion-incendios-hawaii-falso",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.vishvasnews.com/assamese/viral/fact-check-this-post-regarding-february-month-is-not-true/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.vishvasnews.com/gujarati/viral/fact-check-nita-ambani-edited-photo-of-most-expensive-bottle-is-getting-viral-3/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.vrt.be/vrtnws/nl/2023/03/20/check-deze-foto-van-de-arrestatie-van-trump-is-door-ai-gegenere",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://youturn.in/factcheck/the-viral-video-showing-capsules-with-iron-nails-claiming-new-jihad-is-not-from-india-html.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:01139",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:01236",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:01253",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:01286",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:01495",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "P3:04880",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met de rechter, #30.3)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-115324",
+   "label": "terecht",
+   "waarom": "opiniestuk: Medicare for All bespaart gezinnen geld"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-006532",
+   "label": "terecht",
+   "waarom": "video van een rat die zich wast als een mens"
+  },
+  {
+   "sleutel": "N1:stiltetoets:es-016726",
+   "label": "vals",
+   "waarom": "een algemene vraag of leerlingen moeten blijven zitten, niet de gecheckte bewering in haar context; bij twijfel vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-000878",
+   "label": "terecht",
+   "waarom": "BBC: de kandidatuur van Tej Bahadur tegen Modi afgewezen"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-001711",
+   "label": "vals",
+   "waarom": "activa niet online publiceren tegenover activa niet opgeven"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-005648",
+   "label": "vals",
+   "waarom": "#GoBackModi trending tegenover vooral getweet door Pakistanen"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-008080",
+   "label": "terecht",
+   "waarom": "factcheckkop over precies deze bewering (geen erfrecht bij trouwen zonder toestemming)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-008081",
+   "label": "terecht",
+   "waarom": "dezelfde vraag over precies deze bewering"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-005832",
+   "label": "vals",
+   "waarom": "water drinken op het juiste moment, zonder de bewering over hartaanvallen"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-006390",
+   "label": "vals",
+   "waarom": "een vage kop ('Wat gebeurt er?') naast een vage claim"
+  },
+  {
+   "sleutel": "N1:stiltetoets:fa-000017",
+   "label": "terecht",
+   "waarom": "lang mobiel bellen geeft hersenkanker"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-003342",
+   "label": "vals",
+   "waarom": "het nieuwsbericht van destijds over ruziënde artsen, niet de bewering dat de video recent is"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-004623",
+   "label": "terecht",
+   "waarom": "de RBI brengt een nieuw biljet van 50 roepie uit"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-027200",
+   "label": "vals",
+   "waarom": "meer diagnoses van autisme tegenover een autismecrisis; bij twijfel vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-000132",
+   "label": "vals",
+   "waarom": "Modi deelt een sportvideo tegenover deze video is zijn yoga; bij twijfel vals"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-003302",
+   "label": "terecht",
+   "waarom": "de Tata-groep ontkent precies deze bewering (geen JNU-studenten aannemen)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-003683",
+   "label": "terecht",
+   "waarom": "factcheckkop: de prijs van peulvruchten gehalveerd onder Modi"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-011924",
+   "label": "terecht",
+   "waarom": "factcheckkop: scholiere verbrandde haar vader levend"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-006378",
+   "label": "terecht",
+   "waarom": "GOOGLE als afkorting van 'Global Organization of Oriented Group Language of Earth'"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-006465",
+   "label": "vals",
+   "waarom": "het nieuws van de klap destijds, zonder de bewering dat het na zijn overstap naar de BJP was"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-001184",
+   "label": "terecht",
+   "waarom": "het internet ligt wereldwijd 48 uur plat"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-002532",
+   "label": "terecht",
+   "waarom": "een rugbyspeler uit Nieuw-Zeeland bekeert zich tot de islam"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-003757",
+   "label": "terecht",
+   "waarom": "Ambani schonk 500 crore voor de Ram-tempel, factcheckinleiding"
+  },
+  {
+   "sleutel": "P1:https://cambodia.factcrescendo.com/english/who-is-the-woman-in-a-ukrainian-military-uniform/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://dpa-factchecking.com/switzerland/201006-99-847007",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/an-old-image-of-isis-burning-2-turkish-soldiers-is-mispresented-as-hamas-killing-israeli-soldiers.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/old-meeting-pictures-of-chandrababu-naidu-with-akhilesh-yadav-and-dk-shivkumar-were-falsely-shared.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://english.factcrescendo.com/2024/03/13/an-old-video-from-shahi-bazar-in-pakistan-shared-as-mass-immigration-in-bradford-uk/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://english.factcrescendo.com/2024/05/31/the-person-in-the-viral-image-with-kangana-ranaut-is-not-gangster-abu-salem/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-edited-clip-from-a-movie-is-wrongly-shared-as-the-video-of-worlds-first-train/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-image-of-mask-clad-rahul-gandhi-is-being-shared-with-a-sarcastic-claim/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-images-of-meals-contributed-by-donors-to-this-school-students-are-being-shared-as-that-of-government-mid-day-meal-menu/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-italy-pm-giorgia-melonis-old-statements-on-compatibility-challenges-between-islam-and-europe-shared-as-a-recent-one/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-no-the-man-in-this-video-who-saved-two-children-from-drowning-in-floods-is-not-their-father/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-old-firing-exercise-video-from-maharashtra-is-shared-as-a-recent-attack-by-the-indian-army-on-pok/",
+   "label": "anders",
+   "waarom": "het leger schiet op POK tegenover een aanval van de luchtmacht"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-display-of-lord-rama-on-the-clock-tower-seen-in-this-video-was-in-dehradun-not-srinagar/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-new-york-times-did-not-call-narendra-modi-the-last-best-hope-of-earth/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-plant-in-the-image-is-sikkim-rhubarb-it-blooms-every-year-in-the-himalayas/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-3d-visualisation-is-not-the-proposed-design-of-ram-mandir-at-ayodhya/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-photograph-of-pm-narendra-modi-clicking-pictures-with-the-lens-cap-on-is-morphed/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-video-is-related-to-a-light-show-in-china-not-jodhpur-rajasthan/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-unrelated-old-videos-shared-as-the-recent-footage-of-devastating-floods-in-libya/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-video-shows-a-market-in-langowan-indonesia-not-in-wuhan-china/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/old-video-from-andhra-pradesh-shared-as-the-recent-visuals-of-muslims-disrupting-a-hindu-rally-in-maharashtra/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/photo-of-a-militant-arrested-in-2015-is-shared-as-burqa-clad-man-caught-at-the-shaheen-bagh-protests/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/enganoso-declaracao-de-barroso-nao-configura-exercicio-de-atividade-politico-partidaria-diferentemente-do-que-alega-post",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/enganoso-transplantes-com-hiv-laboratorio-nao-foi-contratado-pelo-governo-federal-e-portarias-revogadas-nao-tem-relacao-com-testagens",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/falso-e-falso-que-numero-de-apostas-na-mega-sena-tenha-caido-apos-crescimento-das-bets",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://sbtnews.sbt.com.br/noticia/comprova/falso-eleitor-nao-perde-voto-ao-apertar-confirma-durante-aviso-para-conferir-escolha-na-urna-eletronica",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.amarujala.com/fact-check/attempt-to-give-communal-colour-to-pm-modi-s-speech-of-2023-by-calling-it-recent-2025-03-29",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.amarujala.com/fact-check/old-videos-of-cheating-in-a-law-college-in-barabanki-shared-by-linking-them-to-the-upsc-exam-2025-03-25",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.factcheckcenter.jp/fact-check/disasters/false-information-great-kanto-quake/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.factcrescendo.com/jaiprakash-majumdars-2019-video-went-viral-by-linking-it-to-the-recent-lok-sabha-elections/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.factcrescendo.com/the-broken-road-outside-the-road-department-office-is-not-from-india-but-from-nepal/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.lighthousejournalism.com/politics/fact-check-is-this-a-recent-video-of-a-protest-against-pm-modi-during-2024-general-elections-1967/",
+   "label": "anders",
+   "waarom": "een recente rally tegen Modi tegenover een protest na zijn bezoek aan Karnataka; bij twijfel anders"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/false-no-ukrainian-president-has-not-bought-highgrove-mansion-from-the-british-royal-family",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/misleading-2022-photo-shared-as-ex-india-cricketer-ms-dhoni-visiting-gurudwara-amid-farmer-protests",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/hi/fact-check/false-indian-artist-s-video-passed-off-as-man-from-pakistan-urging-people-to-support-pm-modi-hi",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/f5b85f96-kn",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/false-video-of-brutal-murder-in-andhra-pradesh-shared-with-false-communal-claim-kn",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/ic814-hijackers-names-changed-hindu-names-false-kandahar-hijacking-indian-airways-terrorists",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/7f455ede-te",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-2001-el-salvador-earthquake-image-shared-as-landslide-in-kerala-s-wayanad-te",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-old-video-from-assam-shared-as-go-back-rahul-gandhi-slogans-raised-in-manipur-te",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-timelapse-of-flash-flood-in-china-shared-as-recent-landslides-in-kerala-s-wayanad-te",
+   "label": "anders",
+   "waarom": "een video van de aardverschuiving in Wayanad tegenover beelden ervan: ander beeld"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/video-of-kolkata-stabbing-shared-with-a-communal-spin",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.manoramaonline.com/fact-check/politics/2024/05/20/swaraj-criticizes-udf-not-chief-minister-in-viral-video-factcheck.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.manoramaonline.com/fact-check/politics/2024/05/20/viral-video-is-not-related-to-swati-maliwal-fact-check.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.manoramaonline.com/fact-check/politics/2024/05/21/annie-raja-has-not-campaigned-for-rahul-gandhi-in-raebareli-factcheck.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.thip.media/health-news-fact-check/fact-check-can-fatty-liver-be-cured-by-tamarind-and-plum-drink/112957/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.thip.media/health-news-fact-check/fact-check-can-fluoride-toothpaste-lower-iq-and-damage-cells/92634/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.thip.media/health-news-fact-check/fact-check-does-drinking-coconut-water-with-lemon-juice-dissolve-kidney-stones/92729/",
+   "label": "anders",
+   "waarom": "kokoswater met citroen tegenover granaatappelwater tegen nierstenen"
+  },
+  {
+   "sleutel": "P1:https://www.vishvasnews.com/telugu/politics/fact-check-false-tweet-goes-viral-as-bjp-allies-with-mim-in-west-bengal/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P2:https://lt.sputniknews.ru/20210520/troyanskie-kotiki-zachem-spetsnaz-nato-uchitsya-shturmovat-krym-16428429.html#gfc-7fb37e5a46b5d940",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P2:https://www.interfax.ru/world/644041#gfc-d20c3dab524c8318",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:00773",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01260",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01297",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01465",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01582",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01604",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01870",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D3, #30.3)"
+  },
+  {
+   "sleutel": "P3:01890",
+   "label": "anders",
+   "waarom": "WikiLeaks onthult een geheim huwelijk tegenover getrouwd met twee kinderen in Londen; bij twijfel anders"
+  },
+  {
+   "sleutel": "P1:https://factly.in/a-video-of-a-burqa-clad-woman-hitting-a-muslim-man-for-misbehaving-with-her-is-shared-with-a-false-communal-narrative/",
+   "label": "anders",
+   "waarom": "een vrouw in boerka slaat een hindoe-man in Kanpur tegenover hindoe-vrouwen slaan een moslim-man in Kerala: rollen en plaats om"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-a-fake-hospital-ward-was-not-created-for-pms-visit-to-leh-military-hospital/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-edited-video-shared-as-pm-modi-asking-the-man-who-asked-about-petrol-prices-to-sit/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-the-girl-in-this-photo-who-lost-her-life-to-cancer-is-not-south-african-cricketer-david-millers-daughter/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://factly.in/kannada-this-claim-that-somalia-bananas-have-a-worm-called-helicobacter-which-will-cause-brain-death-in-12-hours-is-not-true/",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/en/fact-check/misleading-is-nitish-kumar-leaving-bjp-led-nda-again-no-old-video-is-being-shared-out-of-context",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/te/fact-check/false-2017-image-depicting-sacrificial-ritual-at-assam-temple-given-false-communal-spin-te",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "P1:https://youturn.in/factcheck/actress-rashmika-mandanna-deepfake-ai-video-viral.html",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D4, #30.3)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-002703",
+   "label": "vals",
+   "waarom": "Rahul Gandhi biedt excuses aan voor 'een uitspraak' tegenover in de Rafale-zaak; welke uitspraak staat er niet; bij twijfel vals"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/false-animated-video-of-apollo-11-model-shared-to-show-chandrayaan-3-landing-on-the-moon-kn",
+   "label": "anders",
+   "waarom": "de landing van Chandrayaan-3 tegenover beelden van de maan gemaakt door Chandrayaan-3"
+  },
+  {
+   "sleutel": "P1:https://www.logicallyfacts.com/kn/fact-check/false-viral-video-depicts-restaurant-on-fire-in-bangladesh-not-a-hindu-temple-kn",
+   "label": "anders",
+   "waarom": "een tempel in brand tegenover een tempel vernield"
+  },
+  {
+   "sleutel": "P3:01115",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D5, #30.3)"
+  },
+  {
+   "sleutel": "P3:01648",
+   "label": "zelfde",
+   "waarom": "dezelfde bewering bij een andere redactie of in een andere taal (zeef met D5, #30.3)"
+  },
+  {
+   "sleutel": "P2:https://www.globalresearch.ca/operation-barbarossa-ii-setting-stage-war/5703197#gfc-ea57c168a4987c83",
+   "label": "zelfde",
+   "waarom": "het artikel beweert dat de NAVO een aanval op Rusland voorbereidt, zoals de gevonden claim (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P2:https://www.globalresearch.ca/is-nato-preparing-for-war-on-russia/5615139#gfc-1d23c1eb988a3628",
+   "label": "zelfde",
+   "waarom": "de NAVO bereidt een oorlog met Rusland voor, in beide (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01051",
+   "label": "anders",
+   "waarom": "de gevonden claim zegt alleen dat vluchtelingen eisten het kruis te verwijderen; de verwachte voegt toe dat ze de vlag verbrandden. Een toevoeging is verwant, bij twijfel anders (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01206",
+   "label": "zelfde",
+   "waarom": "Netanyahu stuurt zijn zoon naar de oorlog, in beide (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01423",
+   "label": "anders",
+   "waarom": "beelden van de plek van de crash tegenover een video van de crash zelf: een andere bewering over het beeld, bij twijfel anders (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01607",
+   "label": "zelfde",
+   "waarom": "een schilderij van Raja Ravi Varma, in beide (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01627",
+   "label": "zelfde",
+   "waarom": "het rode boek van Rahul Gandhi is de Chinese grondwet, in het Malayalam (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P3:01717",
+   "label": "anders",
+   "waarom": "de gevonden claimtekst is een uitroep (Praise the Lord Shiva!), geen bewering over de tempel of de petjes (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-001918",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-002115",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this real???'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-003603",
+   "label": "vals",
+   "waarom": "oceanen warmen op en de zeespiegel stijgt, niet de gecheckte oorzaak (opwarming); bij twijfel vals (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-016786",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('अब वो क्या करना चाहते होंगे?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-019429",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-022119",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-022988",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-023854",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-023993",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('ஹாய் மீன்களே !'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-025372",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-033571",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-036596",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Oh my goodness…'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-046427",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-067211",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this real???'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-075483",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-087955",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-094317",
+   "label": "vals",
+   "waarom": "een productlijst van brekers tegenover een bowlingmachine (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-099080",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('अब वो क्या करना चाहते होंगे?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-099586",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Now who did this?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-100798",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Spot the difference'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-118664",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-127421",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-133667",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-142700",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-143781",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Life is too short'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-002129",
+   "label": "terecht",
+   "waarom": "het internet ligt over 48 uur plat, de gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-002357",
+   "label": "terecht",
+   "waarom": "moslim geslagen en gedwongen 'Jai Shri Ram' te roepen, de gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-006108",
+   "label": "terecht",
+   "waarom": "Rajamouli ontwerpt de hoofdstad Amaravati, de gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-010378",
+   "label": "terecht",
+   "waarom": "de RBI brengt een nieuw biljet van 50 roepie uit (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:zh-002070",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:tr-000337",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-012135",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('What should be done with them?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-015306",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-036497",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Oh my goodness…'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-036686",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this real???'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-044988",
+   "label": "vals",
+   "waarom": "een kop over een kankermedicijn tegenover de vage claim 'Is this possible?' (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-051063",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('ஹாய் மீன்களே !'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-056875",
+   "label": "vals",
+   "waarom": "Trump staat ver achter tegenover Trump staat ver voor (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-058893",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-070086",
+   "label": "terecht",
+   "waarom": "appelazijn laat je afvallen, de gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:en-080771",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Oh my goodness…'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-000771",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('What is happening?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-006708",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-000642",
+   "label": "vals",
+   "waarom": "arrestaties in een zaak over een samenzwering tegen Modi tegenover een doodsbedreiging; bij twijfel vals (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-002587",
+   "label": "vals",
+   "waarom": "Rahul Gandhi loopt weg uit het parlement tegenover zijn aftreden (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-002896",
+   "label": "terecht",
+   "waarom": "factcheckkop over precies deze bewering (sap geneest kanker in 42 uur) (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-002897",
+   "label": "terecht",
+   "waarom": "factcheckartikel dat precies deze bewering beschrijft (sap geneest kanker in 42 uur) (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-007415",
+   "label": "vals",
+   "waarom": "een horoscoop tegenover de vage claim 'Incomes are up.' (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-012144",
+   "label": "terecht",
+   "waarom": "factcheckkop over precies deze bewering (Pakistan steunt Rahul in Wayanad) (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:de-003144",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:de-004926",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:nl-002434",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Now who did this?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:si-004064",
+   "label": "vals",
+   "waarom": "een tekst over lage inkomens tegenover de vage claim 'Incomes are up.' (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ml-000881",
+   "label": "terecht",
+   "waarom": "een telefoontje van 777888999 laat je telefoon ontploffen (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ja-004117",
+   "label": "vals",
+   "waarom": "een losse zin naast een vage claimtekst ('Is this possible?'), geen gecheckte bewering (zeef met een artikel per zin, #30.11)"
+  },
+  {
+   "sleutel": "P1:https://dpa-factchecking.com/belgium/200522-99-150637",
+   "label": "zelfde",
+   "waarom": "handgel in de auto ontbrandt, dezelfde bewering in het Frans (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/The-image-claiming-to-show-a-sadhu-getting-arrested-in-Kumbh-Mela-of-Uttar-Pradesh-is-AIgenerated.html",
+   "label": "zelfde",
+   "waarom": "terrorist Ayub Khan als sadhoe gearresteerd op de Kumbh Mela (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/The-video-shows-Usman-Mirza-and-his-four-associatesand-not-Pakistan-minister.html",
+   "label": "zelfde",
+   "waarom": "video van de Pakistaanse minister Rana Sikandar Hayat, dezelfde bewering (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/The-woman-flogged-in-public-is-not-a-Muslim.html",
+   "label": "zelfde",
+   "waarom": "vrouw gegeseld onder de sharia omdat ze verkrachting meldde (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/rumor-has-it-that-a-kerala-office-was-launched-by-sporting-a-pakistan-cricket-jersey.html",
+   "label": "zelfde",
+   "waarom": "Pakistaanse cricketshirts bij de opening van het kantoor van de Muslim League in Kasaragod (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://en.youturn.in/factcheck/the-wriggling-broccoli.html",
+   "label": "zelfde",
+   "waarom": "broccoli uit het laboratorium, dezelfde virale bewering (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://www.dw.com/de/faktencheck-blieb-trumps-ohr-beim-anschlag-unversehrt/a-69691962",
+   "label": "zelfde",
+   "waarom": "Trumps oor zonder wond na de aanslag (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://www.dw.com/de/faktencheck-boxerin-imane-khelif-ist-nicht-von-wettbewerben-ausgeschlossen/a-71976541",
+   "label": "zelfde",
+   "waarom": "Imane Khelif levenslang geschorst en als man erkend, in het Spaans (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://novorosinform.org/829199#gfc-3fbce18bfeb0dc85",
+   "label": "zelfde",
+   "waarom": "Oekraïne onder extern bestuur, dezelfde bewering (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://www.kachaf.com/details.php?n=5ecd85f8283e3328823872be#gfc-7d208ed2a1894432",
+   "label": "zelfde",
+   "waarom": "verdachte Amerikaanse biologisch-militaire activiteiten in het Lugar-lab in Georgië; een staand verhaal, geen gebeurtenis (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://russian.rt.com/world/article/741923-kitai-ssha-biolaboratorii-strany-byvshii-sssr#gfc-14b6e63a8747f809",
+   "label": "zelfde",
+   "waarom": "Washington ontwikkelt biowapens in labs op de grens met Rusland en China (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://russian.rt.com/world/article/714983-siriya-belye-kaski-provokaciya#gfc-c847675d30ad318e",
+   "label": "zelfde",
+   "waarom": "Witte Helmen filmden een geënsceneerde gifgasaanval, dezelfde dag en hetzelfde bericht (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://russian.rt.com/ussr/news/868670-nato-oruzhie-ukraine-ucheniya#gfc-424caae2b29010a6",
+   "label": "zelfde",
+   "waarom": "NAVO levert onder dekking van Sea Breeze 2021 wapens aan Kyiv (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://tsargrad.tv/news/ssha-i-evropa-unichtozhili-ukrainu-putin-zajavil-o-proizoshedshem-bez-kupjur_371689#gfc-dc8c68f154bef9de",
+   "label": "zelfde",
+   "waarom": "de VS organiseerden in 2014 een staatsgreep in Oekraïne, gesteund door Europa (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://ru.armeniasputnik.am/world/20191218/21454407/NATO-gotovitsya-k-masshtabnomu-konfliktu-Genshtab-Rossii.html#gfc-d4b8f38bad5d9f16",
+   "label": "zelfde",
+   "waarom": "de NAVO bereidt zich voor op oorlog met Rusland (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://www.almalath-news.net/postid=768245#gfc-7a9f8dff798b637f",
+   "label": "zelfde",
+   "waarom": "Oekraïne is een proeftuin voor Amerikaanse biowapens (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://regnum.ru/news/polit/3203084.html#gfc-214ce1c3848aaa2a",
+   "label": "zelfde",
+   "waarom": "geen annexatie van de Krim maar hereniging (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://iz.ru/1172737/2021-06-02/v-minoborony-rf-zaiavili-ob-opasnykh-posledstviiakh-uchenii-nato#gfc-424caae2b29010a6",
+   "label": "zelfde",
+   "waarom": "NAVO levert onder dekking van Sea Breeze 2021 wapens aan Kyiv (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://rg.ru/2020/01/28/v-idlibe-boeviki-gotoviat-provokacii-s-primeneniem-hlora.html#gfc-2a8cfc65944aea51",
+   "label": "anders",
+   "waarom": "ander moment: de treffer is een aangekondigde gifgasprovocatie uit februari 2018, het artikel gaat over een in januari 2020 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://rg.ru/2020/04/24/ssha-priznali-nalichie-na-ukraine-sekretnyh-biologicheskih-laboratorij.html#gfc-b1e78c7cba50342d",
+   "label": "anders",
+   "waarom": "het artikel zegt dat de VS geheime biolabs erkenden; de treffer zegt biowapenlabs, en de check zegt 'labs ja, wapens nee' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://www.rt.com/russia/499732-novichok-developers-navalny-symptoms/#gfc-c225f99214748333",
+   "label": "zelfde",
+   "waarom": "Navalny's symptomen passen niet bij novitsjok, volgens de makers (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://cont.ws/@plohoyzyalt/1250541#gfc-c3f3e79b053e780b",
+   "label": "zelfde",
+   "waarom": "Ruslands betrokkenheid bij de zaak-Skripal nooit bewezen (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://sa24.co/article/14538127#gfc-b3d891664bb7192f",
+   "label": "zelfde",
+   "waarom": "de OPCW is een werktuig van vijandige landen geworden (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://www.aden-hura.com/news/8946#gfc-7a9f8dff798b637f",
+   "label": "zelfde",
+   "waarom": "Oekraïne is een proeftuin voor Amerikaanse biowapens (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P2:https://bwabtk.com/833306.html#gfc-7a9f8dff798b637f",
+   "label": "zelfde",
+   "waarom": "Oekraïne is een proeftuin voor Amerikaanse biowapens (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:00792",
+   "label": "zelfde",
+   "waarom": "dezelfde foto, als massamoord in het vakbondsgebouw van Odessa in 2014; zelfde dag, Knack en Factcheck Vlaanderen (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01071",
+   "label": "zelfde",
+   "waarom": "christelijk gezin naakt rondgeleid omdat het het evangelie preekte (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01075",
+   "label": "anders",
+   "waarom": "zelfde tekst over Sonal Patel, maar de check uit 2019 gaat over een ander beeld (een meisje uit Bangladesh); dit beeld is een foto uit 2016 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01186",
+   "label": "zelfde",
+   "waarom": "tien soldaten gedood bij de busaanslag in Reasi (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01532",
+   "label": "anders",
+   "waarom": "Nepal schoot een Indiaas toestel neer, tegenover een Indiase luchtaanval in Nepal (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01580",
+   "label": "anders",
+   "waarom": "Yechury bood Indira Gandhi excuses aan, tegenover Indira liet Yechury aftuigen: een andere bewering bij dezelfde foto (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01659",
+   "label": "zelfde",
+   "waarom": "de dochter van David Miller overleden (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01780",
+   "label": "zelfde",
+   "waarom": "de eerste iftar van het onafhankelijke India (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01805",
+   "label": "zelfde",
+   "waarom": "Swapna Suresh op de bruiloft van de dochter van Pinarayi; de tekst op het beeld is letterlijk de treffer (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01812",
+   "label": "zelfde",
+   "waarom": "portret van Ambedkar in het kantoor van Poetin (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01830",
+   "label": "zelfde",
+   "waarom": "Droupadi Murmu bij Mohan Bhagwat in het RSS-hoofdkwartier (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:01858",
+   "label": "anders",
+   "waarom": "gewond Palestijns meisje tegenover bombardementen met witte fosfor (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P3:04133",
+   "label": "zelfde",
+   "waarom": "politieagente in Amritsar verkracht en vermoord (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-006233",
+   "label": "vals",
+   "waarom": "een ontvoering van dertig jaar geleden; de treffer is de vage claim 'kinderontvoering' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-007731",
+   "label": "vals",
+   "waarom": "zonnebrand als een van de risicofactoren, niet dat zonnebrand een tekort veroorzaakt (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-083394",
+   "label": "terecht",
+   "waarom": "vaccins zijn veilig, en de check zegt waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-088957",
+   "label": "vals",
+   "waarom": "een stuk over vondsten van reuzenskeletten dat ze in twijfel trekt (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-136999",
+   "label": "vals",
+   "waarom": "vapen als alternatief, niet als veilig alternatief (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:en-147049",
+   "label": "vals",
+   "waarom": "protest tegen Modi bij een eerder bezoek; de check gaat over een oude video als recent in 2021 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-004664",
+   "label": "vals",
+   "waarom": "noodtoestand in Maranhão in een ander jaar; de check gaat over oude foto's in 2024 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:pt-016906",
+   "label": "vals",
+   "waarom": "het kernarsenaal versterken, geen kernproeven (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-000355",
+   "label": "vals",
+   "waarom": "een andere aanslag; de treffer is de vage claim 'terreuraanval in Jammu en Kasjmir' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-001433",
+   "label": "vals",
+   "waarom": "een andere vrouw die aan corona stierf; vage claim (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:te-001601",
+   "label": "vals",
+   "waarom": "een andere aanslag; de treffer is de vage claim 'terreuraanval in Jammu en Kasjmir' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-007458",
+   "label": "vals",
+   "waarom": "een Pakistaanse drone neergeschoten, tegenover een Indiaas toestel in Pakistan (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ta-008082",
+   "label": "terecht",
+   "waarom": "factcheckinleiding over precies deze bewering (geen erfrecht bij trouwen zonder toestemming), zoals ta-008080 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-000869",
+   "label": "vals",
+   "waarom": "een andere aanslag; de treffer is de vage claim 'terreuraanval in Jammu en Kasjmir' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-003065",
+   "label": "vals",
+   "waarom": "corona uit China in 2020; de check gaat over een nieuw mysterievirus in 2024 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-004875",
+   "label": "vals",
+   "waarom": "een echte moord in Kerala; de check gaat over een video uit Mexico (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:hi-006931",
+   "label": "terecht",
+   "waarom": "Ayushman Bharat: 5 lakh per gezin voor 50 crore mensen; de check zegt waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-000056",
+   "label": "vals",
+   "waarom": "de tekst trekt in twijfel of Trump die macht heeft (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ar-004510",
+   "label": "vals",
+   "waarom": "17.000 betogers, het politiecijfer; de gecheckte bewering is de opgeblazen versie (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:ml-003852",
+   "label": "vals",
+   "waarom": "36 zakenlieden vertrokken, niet dat het door Modi kwam (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:bn-000544",
+   "label": "vals",
+   "waarom": "coronadoden in China; vage claim (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets:id-001311",
+   "label": "terecht",
+   "waarom": "het HPV-vaccin beschermt tegen kanker; de check zegt waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:es-007199",
+   "label": "vals",
+   "waarom": "het nieuwe virus in China in 2020; de check gaat over een mysterievirus in 2024 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-007390",
+   "label": "vals",
+   "waarom": "Uddhav Thackeray wordt minister-president; de treffer is de vage claim 'huidige CM van Maharashtra' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:te-010055",
+   "label": "vals",
+   "waarom": "Jagan zegt dat corona op griep lijkt; de check gaat over een uitspraak van Trump (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-000709",
+   "label": "terecht",
+   "waarom": "BJP-parlementariërs bovenaan bij misdrijven tegen vrouwen; de check zegt waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:ta-011925",
+   "label": "terecht",
+   "waarom": "factcheckinleiding over precies deze bewering (scholiere verbrandde haar vader), zoals ta-011924 (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-004636",
+   "label": "vals",
+   "waarom": "een raketaanval op Tel Aviv in een bericht over Gaza; de treffer is een vage claim (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-004684",
+   "label": "terecht",
+   "waarom": "Apple en Google bouwen een volgsysteem voor elke telefoon; de check zegt half waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-007229",
+   "label": "vals",
+   "waarom": "de BJP won in Gujarat; de treffer zegt dat Congress voorlag (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:hi-011065",
+   "label": "vals",
+   "waarom": "een andere moord; de treffer is de vage claim 'BJP-werker vermoord in West-Bengalen' (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-002904",
+   "label": "terecht",
+   "waarom": "droneaanval op Aramco in 2019; de check zegt waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:bn-003296",
+   "label": "vals",
+   "waarom": "Oekraïens is de officiële taal; de treffer zegt twee officiële talen (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:id-001105",
+   "label": "terecht",
+   "waarom": "mondkapjes zijn de beste manier tegen verspreiding; de check zegt grotendeels waar (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-001185",
+   "label": "vals",
+   "waarom": "de tekst weerlegt de bewering van Trump over geboorterecht (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:zh-004219",
+   "label": "vals",
+   "waarom": "de eerste keer in 25 jaar, niet de eerste keer ooit (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "N1:stiltetoets-vers:kn-001513",
+   "label": "vals",
+   "waarom": "verkiezingsdata bekendgemaakt; vage claim (zeef met de lezer, #30.11b)"
+  },
+  {
+   "sleutel": "P1:https://www.dw.com/en/fact-check-trumps-evidence-videos-do-not-show-genocide/a-72642309",
+   "label": "zelfde",
+   "waarom": "dezelfde uitspraak van Trump over begraafplaatsen van witte boeren bij Ramaphosa, 21 mei 2025, bij DW en PolitiFact (zeef met lezer B, #30.11c)"
+  },
+  {
+   "sleutel": "P2:https://www.pravda.ru/news/politics/1758066-jadernoe_oruzhie_rossija_zapad/#gfc-a6a82685b4038094",
+   "label": "zelfde",
+   "waarom": "Rusland dreigt niemand met kernwapens, twee EUvsDisinfo-zaken uit 2022 over hetzelfde narratief (zeef met lezer B, #30.11c)"
+  },
+  {
+   "sleutel": "P2:https://cont.ws/@re1x4fhvvh6j4/1264454#gfc-7b7469c59cc94cad",
+   "label": "zelfde",
+   "waarom": "de kop is de bewering ('НАТО готовит вторжение в Россию'), zoals de doelzaak van 2019 zelf heet; de treffer heeft een zaak uit 2019 (zeef met lezer B, #30.11c)"
+  },
+  {
+   "sleutel": "P3:01527",
+   "label": "zelfde",
+   "waarom": "hindoevrouw aangevallen door RSS omdat ze sehri gaf aan een moslimmeisje, dezelfde bewering (zeef met lezer B, #30.11c)"
+  },
+  {
+   "sleutel": "P3:01676",
+   "label": "zelfde",
+   "waarom": "Moinuddin, 47, studeert sinds 1989 aan JNU, dezelfde bewering in het Telugu (zeef met lezer B, #30.11c)"
+  }
+ ]
+}

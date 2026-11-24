@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar fr) van de eigen factcheck brandweerman-frankrijk van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "fr",
+ "brontaal": "nl",
+ "vingerafdruk": "3a1c230604133f1b",
+ "veldafdrukken": {
+  "kop": "45225b5802a58b81",
+  "oordeel_zin": "2be9122d752b09cb",
+  "bewering": "693574e28015878a",
+  "kort": "c0f4e1de1160be6b",
+  "tekst": "b4588c824b154c5a",
+  "niet_weten": "791a44df3ffa9fcd",
+  "nog_uitzoeken": "f2382387e1beefdb",
+  "tijdlijn": "57c86dbda1301900",
+  "beeld_bijschrift": "5f28dc83e262f095",
+  "beeld_alt": "01eff7b830ed9325"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Le pompier de Bordeaux a été blessé par l'explosion d'une bombe aérosol, pas par des jeunes avec de l'essence",
+  "oordeel_zin": "Le 29 septembre, un pompier a été brièvement touché par un jet de flamme lorsqu'une bombe aérosol a explosé dans un feu de barricade ; personne ne l'a aspergé d'essence ni ne l'a enflammé [1] [3].",
+  "bewering": "Des jeunes ont aspergé un pompier d'essence et l'ont enflammé lors des manifestations en France.",
+  "kort": "Les 1er et 2 octobre, des publications en néerlandais ont circulé sur X affirmant que des jeunes en France avaient aspergé un pompier d'essence et l'avaient enflammé [8]. Le 29 septembre, à Bordeaux, un pompier a bien été brièvement touché par un jet de flamme, lorsqu'une bombe aérosol a explosé dans un feu de barricade qu'il voulait éteindre [1] [3]. L'essence n'y était pour rien ; c'est à Marseille, le 1er octobre, qu'un chef d'établissement a été aspergé d'essence [5] [6].",
+  "tekst": "Le jeudi 1er octobre à 21 h 12, une publication en néerlandais est apparue sur X : des jeunes auraient aspergé un pompier d'essence et l'auraient enflammé lors des manifestations en France [8]. Une deuxième publication, l'après-midi suivant, situait les faits à Bordeaux [8]. Le 2 octobre, un compte anglophone a diffusé une photo accompagnée de la même histoire ; selon CORRECTIV, elle a été vue sept millions de fois et Elon Musk y a réagi [11].\n\nCe qui s'est réellement passé figure dans la presse française : le mardi 29 septembre vers 12 h 30, des lycéens bloquaient le lycée Montaigne, rue Sainte-Catherine à Bordeaux, et à une entrée une barricade brûlait dans la rue [1]. Un pompier s'est avancé vers le feu pour l'éteindre, et à ce moment quelque chose a explosé dans le feu : un jet de flamme l'a brièvement enveloppé [1] [2].\n\nSelon la préfecture de la Gironde, il s'agissait d'une bombe aérosol qui se trouvait dans le feu [3]. Le pompier a été légèrement blessé, s'est rendu à l'hôpital et était de retour à la caserne dans l'après-midi [1]. La préfète a dit qu'il ne pourrait pas travailler pendant quelques jours [1]. Sur les vidéos de BFMTV et du Figaro, prises sous deux angles, personne ne l'enflamme et, après le jet de flamme, il recule lui-même de quelques mètres [4] [11] [12].\n\nL'essence n'apparaît dans aucun des articles sur Bordeaux [1] [3]. Le parquet de Bordeaux a toutefois ouvert une enquête pour incendie volontaire ayant causé des blessures graves ; c'était à cette enquête de déterminer si la bombe aérosol avait été placée volontairement dans le feu [1].\n\nIl s'est bien passé quelque chose avec de l'essence cette semaine-là, mais à Marseille et pas avec un pompier : le jeudi 1er octobre, le chef d'établissement du lycée Victor-Hugo y a été aspergé d'essence ; selon le parquet, il a été blessé [5] [6]. Selon une autre version, l'essence a éclaboussé des enseignants lorsqu'un élève a voulu la jeter dans une poubelle [7]. Au lycée Saint-Exupéry, des centaines de jeunes ont encerclé le même matin un camion de pompiers, chassé les pompiers et incendié le camion [5] [7]. Aucun de ces articles ne mentionne un pompier enflammé [5] [6] [7].\n\nDes vérificateurs d'autres langues sont parvenus à la même conclusion : An-Nahar le 5 octobre, EFE Verifica le 6 octobre, CORRECTIV le 12 octobre et ZDFheute le 14 octobre [9] [10] [11] [12]. Selon CORRECTIV, la photo est authentique ; le photographe l'a confirmé à l'AFP [11]. En néerlandais, Knack a publié une vérification, en ligne au plus tard le 19 octobre [13].",
+  "niet_weten": "Nous ne savons pas quelle image figurait dans les publications en néerlandais. CORRECTIV qualifie la photo d'authentique, An-Nahar a vu une image qui diffère des vidéos et qui a peut-être été reconstituée [9] [11]. Il se peut que deux images aient circulé. Nous ne savons pas non plus si quelqu'un a mis la bombe aérosol dans le feu intentionnellement, ni ce que l'enquête du parquet a donné.",
+  "nog_uitzoeken": [
+   "Quelle image les deux publications en néerlandais montraient : la vraie photo de Guillaume Bonnaud, une version reconstituée ou une vidéo. Les publications ont disparu.",
+   "Si le parquet de Bordeaux a communiqué quelque chose sur l'enquête, et si quelqu'un a mis la bombe aérosol dans le feu intentionnellement.",
+   "Les autres vérificateurs de faits ne sont pas d'accord : ZDFheute et Mimikama ont retenu « trompeur », CORRECTIV, EFE Verifica et An-Nahar ont retenu « faux ». Nous avons retenu « faux »."
+  ],
+  "tijdlijn": [
+   "Un pompier est touché par un jet de flamme près d'une barricade devant le lycée Montaigne à Bordeaux [1].",
+   "BFMTV publie sur X la vidéo du moment [4].",
+   "À Marseille, un chef d'établissement est aspergé d'essence et un camion de pompiers est incendié [5] [6].",
+   "La première publication en néerlandais : aspergé d'essence et enflammé [8].",
+   "Une deuxième publication en néerlandais situe les faits à Bordeaux [8].",
+   "An-Nahar : l'affirmation est inexacte [9].",
+   "CORRECTIV : la photo est authentique, personne n'a enflammé le pompier [11].",
+   "Au plus tard ce jour-là, la vérification de Knack est en ligne [13]."
+  ],
+  "beeld_bijschrift": [
+   "BFMTV sur X, 29 septembre 2026 : la vidéo du pompier devant le lycée Montaigne à Bordeaux."
+  ],
+  "beeld_alt": [
+   "Vidéo de BFMTV : un pompier s'approche d'un petit feu dans la rue, les flammes jaillissent puis s'éteignent aussitôt."
+  ]
+ }
+}

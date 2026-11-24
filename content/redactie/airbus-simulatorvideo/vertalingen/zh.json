@@ -1,0 +1,50 @@
+{
+ "_meta": "Machinevertaling (en naar zh) van de eigen factcheck airbus-simulatorvideo van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "zh",
+ "brontaal": "en",
+ "vingerafdruk": "8e32611f7db2a913",
+ "veldafdrukken": {
+  "kop": "51a211161f7e831e",
+  "oordeel_zin": "1cb9d85a1534a059",
+  "bewering": "fd7fec0a0d68fccf",
+  "kort": "a9b1657ecc1feb8e",
+  "tekst": "917810ba0ab1d4ae",
+  "niet_weten": "07cf016a20fe1241",
+  "bereik": "53c0ffe5c40c336c",
+  "nog_uitzoeken": "ccc2517f81c54c9b",
+  "tijdlijn": "222f7e4ddb77525f",
+  "beeld_bijschrift": "18f822d6d385140d",
+  "beeld_alt": "7958d9204fca97ca"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Saba 小機場跑道上空中巴士 Beluga 掉頭的影片，是用 Microsoft Flight Simulator 製作的",
+  "oordeel_zin": "該影片於2025年8月出現在 YouTube，並被列在遊戲 Microsoft Flight Simulator 2024 之下，影片中位於 Saba 的跑道長401公尺、寬18公尺；BelugaXL 長63.1公尺 [5] [7] [8]。",
+  "bewering": "這太難以置信了...這麼大的飛機怎麼能在這麼小的路上掉頭...對飛行員致上最高敬意",
+  "kort": "自11月11日起，X 上的貼文不斷分享一段影片，內容是一架空中巴士 BelugaXL 在懸崖上方的小跑道上掉頭並起飛，彷彿是真實的飛行 [1] [3]。這段影片來自飛行模擬器。它於2025年8月出現在 YouTube，並被列在遊戲 Microsoft Flight Simulator 2024 之下 [5]。影片中的跑道是 Saba 的跑道，長401公尺、寬18公尺，而 BelugaXL 長63.1公尺 [7] [8]。",
+  "tekst": "2026年11月16日，帳號 Amelia Collins 在 X 上寫道，「這麼大的飛機」怎麼能「在這麼小的路上」掉頭，並說「對飛行員致上最高敬意」 [1]。她的貼文連結到一段長2分41秒的影片，該影片由另一個帳號於2026年3月9日在 X 上發布，配文為「飛機必須降落的最短跑道之一」 [2]。該帳號後來已刪除這則貼文 [2]。從11月11日至19日，我們統計到47個帳號在 X 上發布了55則連結到該影片的貼文 [1] [3]。11月22日，一個帳號上傳了縮短版的副本 [4]。\n\n影片中是一架白色的大型貨機，機身側面寫著 BELUGA XL 和 AIRBUS [2]。它在一排排太陽能板旁邊，於標示為30的跑道上掉頭，飛越海面起飛，然後在別處降落 [2]。\n\nYouTube 頻道 Smilo Fly 於2025年8月6日發布了同一段影片，鏡頭相同、時間點也相同，標題為「Airbus Beluga XL Impossible takeoff from SABA Airport」 [5]。YouTube 將遊戲 Microsoft Flight Simulator 2024 列在該影片之下 [5]。\n\nSaba 是加勒比海的一座荷蘭島嶼，其太陽能發電場就緊鄰機場 [6] [7]。根據 Saba 的官方航空資訊，跑道長401公尺、寬18公尺，而且只有經荷蘭政府授權的飛機才可使用該機場 [7]。空中巴士表示，BelugaXL 長63.1公尺，其六架 BelugaXL 在歐洲11個目的地之間運送飛機零件 [8]。\n\n我們在 Aviation Safety Network 的資料庫中找到的唯一一起 BelugaXL 事件發生在法國 [9]。2022年11月18日，一架 BelugaXL 在 Albert 降落後進行180度轉彎時，部分機身駛出了鋪面 [9]。",
+  "niet_weten": "我們不知道是誰在模擬器中錄製了這次飛行：Smilo Fly 於2025年8月6日的上傳是我們找到的最早版本，但該頻道可能是從別處複製的 [5]。我們不知道 X 上的那個帳號為何刪除了3月9日的貼文 [2]。",
+  "bereik": "連結到該影片的55則貼文，在11月23日合計獲得4,229個讚和2,151則回覆；11月16日的貼文獲得70個讚和27,300次觀看",
+  "nog_uitzoeken": [
+   "是誰在 Microsoft Flight Simulator 2024 中錄製了這次飛行，以及 Smilo Fly 是自己製作了這段影片，還是取自其他創作者。",
+   "那些在連結旁發布相同句子的帳號，例如「It really goes unplanned」，是否彼此協同運作。",
+   "如果您對這段影片最早出現在哪裡有更多了解，請告訴我們。"
+  ],
+  "tijdlijn": [
+   "一架真實的 BelugaXL 在法國 Albert 進行180度轉彎時，部分機身駛出鋪面 [9]。",
+   "Smilo Fly 在 YouTube 上發布該影片，並被列在 Microsoft Flight Simulator 2024 之下 [5]。",
+   "一個帳號在 X 上發布同一段影片，稱其為最短的跑道之一 [2]。",
+   "我們在11月找到的第一則貼文連結到該影片 [3]。",
+   "Amelia Collins：對飛行員致上最高敬意 [1]。",
+   "一個帳號上傳了該影片的縮短版副本 [4]。"
+  ],
+  "beeld_bijschrift": [
+   "X 貼文中的影片副本，2026年11月22日 04:12 UTC。",
+   "Smilo Fly 於2025年8月6日在 YouTube 上發布：同一段長2分41秒的影片，被列在遊戲 Microsoft Flight Simulator 2024 之下。"
+  ],
+  "beeld_alt": [
+   "一則 X 貼文，內容說這是世界上最短的跑道之一，飛行員必須完美降落，並附有影片截圖：一架空中巴士 BelugaXL 停在太陽能發電場和標示為30的短跑道旁的停機坪上。印章：假。",
+   "Smilo Fly 的 YouTube 影片截圖：一架空中巴士 BelugaXL 停在 Saba 機場太陽能發電場旁的停機坪上，標示為30的跑道位於懸崖上方。"
+  ]
+ }
+}

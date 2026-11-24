@@ -1,0 +1,48 @@
+{
+ "_meta": "Machinevertaling (nl naar de) van de eigen factcheck malaga-video van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "de",
+ "brontaal": "nl",
+ "vingerafdruk": "a17dbe52194d5451",
+ "veldafdrukken": {
+  "kop": "fa38bc372f7c65cf",
+  "oordeel_zin": "cd97090d38a192aa",
+  "bewering": "755f8335704293cb",
+  "kort": "eff7a66f634c0b78",
+  "tekst": "90b454a03801a5f9",
+  "niet_weten": "f9995ce44119da6c",
+  "bereik": "a73d1a1da0db9bf8",
+  "nog_uitzoeken": "000efd5663b9697f",
+  "tijdlijn": "db2435625d000355",
+  "beeld_bijschrift": "1c95ceaa1d315c12",
+  "beeld_alt": "b54b406d7a26a30c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "Video einer Menge, die einen mutmaßlichen Dieb aufhält, stammt aus Málaga, nicht aus Mailand",
+  "oordeel_zin": "Das Video zeigt einen versuchten Raubüberfall auf einen Juwelier in Málaga am 16. Juli, keine Bande in Mailand am 17. Oktober [1] [4].",
+  "bewering": "Ein Video zeigt Italiener in Mailand, die am 17. Oktober eine pro-palästinensische Bande aufhalten.",
+  "kort": "Seit dem 20. Oktober kursiert auf X ein Video als Aufnahme von Italienern, die in Mailand eine pro-palästinensische Bande aufhalten [4]. Die Aufnahmen stammen aus Málaga in Spanien, wo Anwohner am 16. Juli einen Mann festhielten, der einen Juwelier hatte ausrauben wollen [1]. Die Krawalle in Mailand am 17. Oktober begannen bei einem Protest gegen die hohen Lebenshaltungskosten, und die Randalierer trugen laut Avvenire keine Fahne und kein politisches Symbol [2] [3].",
+  "tekst": "In der Nacht vom 19. auf den 20. Oktober, um 02:07 Uhr, erschien auf X ein niederländischsprachiger Beitrag mit einem 79 Sekunden langen Video [4]. Der Text spricht von Banden mit Keffiyehs in italienischen Städten und von Italienern in Mailand, die sich nicht von den Anarchisten von „fripalestin“ unterwerfen lassen [4]. Darunter stehen die Hashtags #Milano und #17octobre [4]. Am 18. November war der Beitrag 105.671 Mal angesehen worden [4].\n\nDasselbe Video kursierte schon einige Stunden früher auf Englisch. Das Konto Visegrád 24 brachte es am 19. Oktober um 23:07 Uhr als italienische Bürger, die einen ausländischen Räuber fassen [5]. Ein französischer Beitrag vom 20. Oktober tat dasselbe, mit einem Video derselben Länge [6].\n\nDie Szene wurde nicht in Italien gefilmt. Am Donnerstag, dem 16. Juli, gegen 21:00 Uhr versuchte ein Mann in Málaga, einen Juwelier in der Calle Martínez Maldonado auszurauben, schrieb El Español einen Tag später [1]. Er floh zu Fuß zu einem Komplizen auf einem Motorrad, wurde unterwegs gestolpert und von jemandem auf einem Tretroller angefahren [1]. Danach hielten Anwohner ihn fest, während der Komplize davonfuhr [1]. Ein Anwohner filmte das Geschehen [1]. Die Policía Nacional nahm den Mann fest und suchte noch nach dem zweiten Verdächtigen [1].\n\nIn Mailand gab es am Samstag, dem 17. Oktober, tatsächlich Unruhen. Ein Marsch von etwa 5.000 Menschen gegen die hohen Lebenshaltungskosten mündete rund um die Piazza del Duomo in Krawalle [2]. Ein Teil der Demonstranten, vor allem Jugendliche mit verhüllten Gesichtern, warf mit Steinen und plünderte Geschäfte [2]. Die Polizei nahm etwa fünfzig Menschen fest [2] [3]. Laut Avvenire waren die Randalierer sehr jung, schwarz gekleidet und ohne Fahne oder politisches Symbol [3]. Über palästinensische Gruppen schreiben Il Post und Avvenire nichts [2] [3].\n\nDer Beitrag gibt also eine Festnahme in Spanien von drei Monaten zuvor als Szene aus den Krawallen in Mailand aus [1] [4]. Die Aufnahmen selbst sind echt [1].",
+  "niet_weten": "Wir wissen nicht, wer dem Video als Erster eine italienische Erklärung gab. Die älteste Kopie, die wir gefunden haben, stand am 19. Oktober um 22:40 Uhr auf X, doch dieser Beitrag ist nicht mehr zu sehen, daher wissen wir nicht, was dabei stand. Wir wissen nicht, wer das Video im Juli gefilmt hat.",
+  "bereik": "105.671 Mal angesehen am 18. November",
+  "nog_uitzoeken": [
+   "Was bei der ältesten Kopie stand, dem Beitrag vom 19. Oktober um 22:40 Uhr. Er ist nicht mehr zu sehen."
+  ],
+  "tijdlijn": [
+   "Versuchter Raubüberfall auf einen Juwelier in Málaga; Anwohner halten den Mann fest, bis die Polizei kommt [1].",
+   "El Español schreibt über den Überfall und die Festnahme [1].",
+   "Ein Marsch gegen die hohen Lebenshaltungskosten mündet in Mailand in Krawalle [2] [3].",
+   "Visegrád 24 bringt das Video auf Englisch als italienische Bürger, die einen Räuber fassen [5].",
+   "Der niederländische Beitrag über Mailand und den 17. Oktober [4].",
+   "Ein französischer Beitrag mit demselben 79 Sekunden langen Video [6]."
+  ],
+  "beeld_bijschrift": [
+   "Beitrag auf X, 20. Oktober 2026, 02:07 Uhr.",
+   "El Español, 17. Juli 2026: die Flucht nach dem Überfall auf einen Juwelier in Málaga. Foto von El Español."
+  ],
+  "beeld_alt": [
+   "Standbild aus dem Video: eine Menschenmenge auf der Straße um einen Mann. Stempel: FALSCH.",
+   "Foto von El Español von dem Mann, der nach dem versuchten Überfall in Málaga flieht."
+  ]
+ }
+}

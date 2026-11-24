@@ -1,0 +1,35 @@
+fastapi
+# Direct geïmporteerd voor BaseHTTPMiddleware (de rate-limiter, #20.2);
+# komt met fastapi mee, maar een schone kloon mag daar niet van afhangen.
+starlette
+python-multipart
+uvicorn
+pydantic
+sentence-transformers
+# Meegebracht door sentence-transformers, maar wij importeren ze zelf: het
+# NLI-veto draait op transformers/torch. Een schone kloon mag daar niet van
+# afhangen dat een ánder pakket ze toevallig meeneemt (#15.3).
+transformers
+torch
+# Clopper-Pearson-bovengrenzen in de benchmark.
+scipy
+imagehash
+pdqhash
+Pillow
+# Lokale punten met een geometrische controle (SIFT), alleen in de puntenproef van #32.15.
+opencv-python-headless
+pytesseract
+numpy
+# Begrenst de rekenthreads bij het clusteren, zodat het de laptop niet heet
+# loopt (#25.4). Komt mee met scikit-learn, maar wij importeren hem zelf.
+threadpoolctl
+py3langid
+# De conformantiesuite praat HTTP met een willekeurige resolver.
+httpx
+# Alleen offline: claimvarianten aan de kant van de index (#25.17, B26). Het
+# aanvraagpad importeert het nooit; een gebruikersvraag gaat niet naar buiten.
+anthropic
+# Alleen offline: de stiltetoets haalt mC4 van de Hub (#28.6 g). Komt mee
+# met sentence-transformers, maar wij importeren hem zelf.
+huggingface_hub
+pytest

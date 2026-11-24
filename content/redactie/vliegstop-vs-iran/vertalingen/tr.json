@@ -1,0 +1,54 @@
+{
+ "_meta": "Machinevertaling (en naar tr) van de eigen factcheck vliegstop-vs-iran van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "tr",
+ "brontaal": "en",
+ "vingerafdruk": "e8b48747ac977033",
+ "veldafdrukken": {
+  "kop": "7a39c2d7e6eddb39",
+  "oordeel_zin": "8a6301bad60d4c72",
+  "bewering": "4afe7b2e8e4fd993",
+  "kort": "fd89083e6f31ca30",
+  "tekst": "54239101d7870dfe",
+  "niet_weten": "27ae34fb5dff9da9",
+  "bereik": "a743180a8c138cb0",
+  "nog_uitzoeken": "86489e64b6bbf918",
+  "tijdlijn": "17af7573c6d51542",
+  "beeld_bijschrift": "6e92a79fddfbcce5",
+  "beeld_alt": "00215d3be2a53725"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "ABD'deki kalkış durdurmasıyla ilgili \"İran iddiası\", iki emojiden oluşan bir paylaşım",
+  "oordeel_zin": "Iran Military Media adlı bir hesap, kalkış durdurması başladıktan sonra bir uçak ve bir çarpı emojisi paylaştı, ancak hiçbir şey iddia etmedi; FAA ise durdurmanın nedenini kendi ağındaki veri seline bağladı [1] [3] [11].",
+  "bewering": "İranlı hesaplar şu anda bugün ABD'deki kalkış durdurmasından (ground stop) kendilerinin sorumlu olduğunu ima eden tweetler atıyor.   Başkan Trump'ın İran rejimini bitirme zamanı.",
+  "kort": "13 Kasım'da Laura Loomer, X'te İranlı hesapların ABD genelindeki kalkış durdurmasının arkasında olduklarını ima ettiğini yazdı ve Başkan Trump'ı İran rejimini bitirmeye çağırdı [2]. Alıntıladığı paylaşımda yalnızca bir uçak ve bir çarpı var; paylaşımı Iran Military Media adlı bir hesap, kalkış durdurması başladıktan sonra yaptı [3] [6]. FAA durdurmanın nedenini kendi ağındaki bir veri seline bağladı; ABD'li yetkililer yabancı bir aktöre dair bir işaret görmediklerini söyledi [1] [9] [13].",
+  "tekst": "13 Kasım Cuma günü, Ulaştırma Bakanı Sean Duffy'ye göre ABD hava trafik kontrolü Doğu saatiyle 15.36'da (UTC 20.36) radar ve telsiz bağlantılarını kaybetmeye başladı [5]. Saat 16.00'dan kısa süre önce Federal Havacılık İdaresi (FAA), ABD havalimanlarından tüm kalkışları durdurdu; buna kalkış durdurma (ground stop) deniyor [6]. Havada olan uçaklar iniş yapabildi; Duffy o sırada havada 3.500'den fazla uçak bulunduğunu söyledi [7] [8]. FAA durdurmayı Doğu saatiyle yaklaşık 20.15'te, yani 14 Kasım'da UTC 01.15'te kaldırdı [5].\n\nBu, Ocak 2023'ten bu yana ülke genelindeki ilk kalkış durdurmasıydı ve 11 Eylül 2001 saldırılarından bu yana ikincisiydi [6].\n\nSorunların başlamasından yaklaşık 45 dakika sonra, UTC 21.20'de Iran Military Media adlı bir hesap X'te iki emoji paylaştı: bir uçak ve bir çarpı [3] [5]. Paylaşımda kelime, görsel ya da bağlantı yok [3]. FAA'dan, bir siber saldırıdan ya da bir dronedan söz etmiyor ve kimin ne yaptığını belirtmiyor [3]. UTC 23.00'te Laura Loomer, İranlı hesapların kalkış durdurmasından sorumlu olduklarını ima ettiğini yazarak bu paylaşımı alıntıladı [2]. Loomer'ın paylaşımı 19 Kasım'da 19.468 beğeni ve 1.842 yanıt almıştı [2].\n\nHesapta X üzerinde bir hükümet ya da resmi kuruluş etiketi yok ve hesabı İran silahlı kuvvetlerine bağlayan bir kaynak bulamadık [3]. İran Devrim Muhafızları saldırıları kamuya açık biçimde üstleniyor: aynı gün Bahreyn'deki bir ABD radar tesisine dron saldırısı düzenlediğini açıkladı ve ABD Merkez Komutanlığı dronları engellediğini bildirdi [15]. Kalkış durdurmasıyla ilgili okuduğumuz haberlerin hiçbirinde İran'ın sorumluluğu üstlendiğine dair bir açıklamadan söz edilmiyor [9] [14] [15].\n\nLoomer paylaşım yaptığında yetkililer bir saldırıya dair işaret görmediklerini zaten söylemişti [4] [7]. Doğu saatiyle 16.53'te iki kolluk yetkilisi CNN'e, ilk bilgilere göre bunun bir siber saldırı olmadığını söyledi [7]. İç Güvenlik Bakanı Markwayne Mullin Beyaz Saray'da gazetecilere kötü niyetli bir saldırıya dair bir belirti olmadığını söyledi ve olayı bir telekomünikasyon kesintisi olarak niteledi [4].\n\nFAA'nın 15 Kasım'da yayımlanan ilk bulguları, yüklenici L3Harris'in işlettiği kendi telekomünikasyon ağına işaret ediyor [1]. Ağ iki noktadan gelen veri seline maruz kaldı: Teksas'ın Amarillo kentindeki bir radar tesisi ve L3Harris'in yeni bir yönlendirici kurduğu Arkansas'ın El Dorado kentindeki bir telsiz tesisi [1] [11]. Daha eski ekipman her dört ila beş saniyede yaklaşık 1.000 bağlantı denemesi aldı ve kararsız hale geldi [11]. L3Harris iki noktanın bağlantısını kestikten sonra trafik dengelendi [11]. Duffy, El Dorado'daki çalışmanın eski bakır hatların yerine fiber getirdiğini söyledi [9] [11].\n\nDuffy 14 Kasım'da şunu söyledi: \"Yabancı bir aktör değildi.\" [9] FAA Başkanı Bryan Bedford, Beyaz Saray Durum Odası'nın ve FBI'ın sürece dahil olduğunu ve ilgili herkesin bunun bir siber sorun olmadığı sonucuna vardığını söyledi [9]. 17 Kasım'da Ulusal İstihbarat Direktörü Jay Clayton Fox Business'ta, son dönemdeki kesinti dizisinin arkasında koordineli bir siber saldırıya dair işaret görmediğini söyledi ve kesintileri yama çalışmalarına ve sistem yükseltmelerine bağladı [13]. Aynı gün yayımlanan bir Reuters haberinde bir Beyaz Saray sözcüsü, bunların arkasında bir siber saldırıya dair kanıt bulunmadığını söyledi [12].\n\nİran'ın gündeme gelmesinin bir nedeni var: Amerika Birleşik Devletleri İran ile savaş halinde ve İran siber alanda karşılık vereceği uyarısında bulunmuştu [9]. 18 Kasım'da Mullin Kongre'ye yazılı olarak, İran hükümetinin ve Tahran destekli grupların ABD altyapısını hedef aldığını bildirdi, ancak İran'ı kalkış durdurmasıyla ilişkilendirmedi [14].\n\nTam neden henüz netleşmedi: FAA ve L3Harris, veri selini bir kurulum hatasının, arızalı bir cihazın ya da başka bir şeyin tetikleyip tetiklemediğini hâlâ araştırıyor [11]. 15 Kasım'da Duffy bir saldırıya dair bir belirti görmediğini, FBI'ın yardım ettiğini ve bulduğu her şeyi paylaşacağını söyledi [10].\n\nİran iddiasına ilişkin başka bir editörlüğün doğrulama çalışması bulamadık; Avusturyalı doğrulama kuruluşu Mimikama 14 Kasım'da FAA'nın ülke genelinde kalkışları durdurduğunu doğruladı ve bir siber saldırıya dair kanıt bulamadı [16]. PolitiFact 17 Kasım'da kesintiden siyasi olarak kimin sorumlu olduğunu inceledi, İran bağlantısını değil [17].",
+  "niet_weten": "Iran Military Media hesabını kimin yönettiğini, hangi ülkeden yönetildiğini ve uçak ile haç işaretiyle neyi kastettiğini bilmiyoruz [3]. Loomer, çoğul olarak İran'a ait hesaplardan söz etti; biz yalnızca onun alıntıladığı tek bir paylaşım bulabildik [2] [3]. Yer hizmetleri durdurmasının (ground stop) kesin nedeni henüz bilinmiyor [10] [11].",
+  "bereik": "19 Kasım'da 19.468 beğeni ve 1.842 yanıt",
+  "nog_uitzoeken": [
+   "Iran Military Media hesabını kimin yönettiği ve X'in bu hesap için hangi ülkeyi gösterdiği.",
+   "O gün, kendilerini İranlı olarak tanıtan başka hesapların, Farsça ya da İngilizce olarak, yer hizmetleri durdurmasını üstlenip üstlenmediği.",
+   "FAA'nın nihai soruşturmasının neyi ortaya koyacağı: bir kurulum hatası mı, arızalı bir yönlendirici mi, yoksa başka bir şey mi; ayrıca Amarillo'daki tesisin rolü.",
+   "Yanıltıcı ile Yanlış arasında kararsız kaldık. Emojili paylaşım gerçekten var; bu, Yanıltıcı'yı seçmemize yol açtı. Paylaşım hiçbir şey iddia etmiyor ve İran'ın olaya karıştığına dair hiçbir işaret yok; bu ise Yanlış'a işaret ediyor."
+  ],
+  "tijdlijn": [
+   "Duffy'ye göre ABD hava trafik kontrolünün radar ve telsiz bağlantıları kararsız hale geliyor [5].",
+   "Doğu saatiyle 16.00'dan kısa süre önce FAA, ABD havalimanlarından tüm kalkışları durduruyor [6].",
+   "Iran Military Media, X'te bir uçak ve bir çarpı paylaşıyor [3].",
+   "İki kolluk yetkilisi CNN'e, ilk bilgilere göre bunun bir siber saldırı olmadığını söylüyor [7].",
+   "NPR, Mullin'in şu sözlerini aktarıyor: kötü niyetli bir saldırıya dair belirti yok, bir telekomünikasyon kesintisi [4].",
+   "Laura Loomer emoji paylaşımını alıntılıyor: İranlı hesaplar sorumlu olduklarını ima ediyor [2].",
+   "FAA, 13 Kasım'da Doğu saatiyle 20.15'te kalkış durdurmasını kaldırıyor [5].",
+   "Duffy: neden bir L3Harris yüklenicisinin çalışmasında yatıyor ve yabancı bir aktör değildi [9].",
+   "FAA'nın ilk bulguları: Amarillo ve El Dorado'daki iki noktadan gelen bir veri seli [1] [11].",
+   "Ulusal İstihbarat Direktörü Clayton, koordineli bir siber saldırıya dair işaret görmüyor [13].",
+   "Mullin Kongre'ye: İran ABD altyapısını hedef alıyor, kalkış durdurmasıyla bir bağlantı kurulmadan [14]."
+  ],
+  "beeld_bijschrift": [
+   "X'te paylaşım, 13 Kasım 2026, UTC 23.00."
+  ],
+  "beeld_alt": [
+   "Laura Loomer'ın X'te yaptığı, İranlı hesapların ABD'deki kalkış durdurmasından sorumlu olduklarını ima ettiğini söyleyen ve Iran Military Media'nın bir uçak ile bir çarpı içeren paylaşımını alıntılayan bir paylaşım. Damga: YANILTICI."
+  ]
+ }
+}

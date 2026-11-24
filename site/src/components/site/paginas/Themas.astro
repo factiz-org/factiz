@@ -1,0 +1,36 @@
+---
+// De site, de thema's (PLAN #34.2u, DESIGN §4w): elk thema als kaart met zijn veld (leeg: nooit tekst op een veld, D11),
+// de naam en het aantal, en eronder de onderdelen met hun aantal. De kaart en elk onderdeel zijn een eigen link.
+import Site from '../../../layouts/Site.astro';
+import Kruimel from '../Kruimel.astro';
+import ThemaTegel from '../ThemaTegel.jsx';
+import Plaat from '../Plaat.jsx';
+import { maakT } from '../../../lib/teksten.js';
+import { TALEN, pad } from '../../../lib/talen.js';
+const { taal, g } = Astro.props;
+const t = maakT(taal);
+---
+<Site titel={g.titel} omschrijving={g.inleiding} taal={taal} delen={['themes']} aangeboden={TALEN}>
+  <div class="baan pt-4">
+    <Kruimel taal={taal} stappen={[[g.titel]]} />
+    <header class="paginakop">
+      <h1 class="groot-kop">{g.titel}</h1>
+    </header>
+    <ul class="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {g.themas.map((th) => (
+        <li class="kaart flex flex-col overflow-hidden">
+          <a class="grid" href={th.href}>
+            <span class={`kaartveld veld-klein-thema-${th.sleutel} block aspect-[16/6] rounded-none`} aria-hidden="true"><Plaat sleutel={th.sleutel} /></span>
+            <span class="flex items-center justify-between gap-3 px-4 pt-3"><span class="flex min-w-0 items-center gap-2.5"><ThemaTegel thema={th.sleutel} maat="groot" /><span class="text-[15px] font-semibold">{th.naam}</span></span><span class="mono flex-none">{th.aantal}</span></span>
+          </a>
+          {th.onderdelen.length > 0 && (
+            <ul class="grid grid-cols-1 gap-1 px-4 pt-2 pb-4 text-[13.5px]">
+              {th.onderdelen.map((o) => <li class="flex items-baseline justify-between gap-3"><a class="link min-w-11 truncate" href={o.href}>{o.naam}</a><span class="mono flex-none">{o.aantal}</span></li>)}
+            </ul>
+          )}
+          {th.onderdelen.length === 0 && <span class="pb-4"></span>}
+        </li>
+      ))}
+    </ul>
+  </div>
+</Site>

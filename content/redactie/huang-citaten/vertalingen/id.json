@@ -1,0 +1,53 @@
+{
+ "_meta": "Machinevertaling (en naar id) van de eigen factcheck huang-citaten van Factiz, eigen werk van de redactie (B82, B84), door claude-sonnet-5-5, eigenvertaling-v1; doublecheck/eigenvertaling.py, PLAN #37.8.",
+ "taal": "id",
+ "brontaal": "en",
+ "vingerafdruk": "f6c108d1598d69c5",
+ "veldafdrukken": {
+  "kop": "8352433f95dc153b",
+  "oordeel_zin": "7fe4e7e4003d7324",
+  "bewering": "7a68058bd4c0c68d",
+  "kort": "419b49c08384fd84",
+  "tekst": "859bdcf1a7f3cfeb",
+  "niet_weten": "16a6e002a397d90a",
+  "bereik": "ede32074295547d0",
+  "nog_uitzoeken": "7c2957ecf1bbeee9",
+  "tijdlijn": "4f215e483240391a",
+  "beeld_bijschrift": "3e9e876c810b3ee8",
+  "beeld_alt": "130ae89ac139bc3c"
+ },
+ "maker": "claude-sonnet-5-5, eigenvertaling-v1",
+ "velden": {
+  "kop": "\"Pernyataan resmi\" Jensen Huang ini rekayasa: Nvidia tidak pernah menerbitkannya",
+  "oordeel_zin": "Nvidia tidak pernah menerbitkan pernyataan ini, dan email dari Huang yang memang diterbitkan Nvidia, tiga hari sebelum tanggal yang tertera pada surat itu, justru mengatakan sebaliknya: ia meminta maaf dan mengambil tanggung jawab penuh [1] [5].",
+  "bewering": "BREAKING: JENSEN HUANG AKHIRNYA BUKA SUARA [...]",
+  "kort": "Pada 12 November, sebuah unggahan di X menampilkan \"pernyataan resmi\" dari Nvidia, bertanggal 11 November, yang berisi bantahan Jensen Huang atas berita-berita tentang dirinya [6]. Nvidia tidak pernah menerbitkannya: ruang redaksinya tidak memiliki satu pun item bertanggal 11 November, dan satu-satunya pesan dari Huang yang diterbitkan adalah email tanggal 8 November yang berisi permintaan maafnya [1] [5]. Dalam kata-kata publik pertamanya setelah mengundurkan diri, pada 17 November, Huang menulis bahwa ia telah membuat kesalahan serius [7] [9].",
+  "tekst": "Pada 8 November, dewan direksi Nvidia memulai penyelidikan independen setelah muncul laporan bahwa Huang menjadi target upaya intelijen asing [2]. Pada hari yang sama, Nvidia menerbitkan email yang dikirim Huang kepada stafnya, yang berisi permintaan maaf, pengambilan tanggung jawab penuh, dan janji untuk bekerja sama sepenuhnya [1]. Pada 12 November, Nvidia mengumumkan bahwa ia mengundurkan diri sebagai chief executive dan anggota dewan direksi [4]. Siaran pers itu tidak memuat kata-kata darinya [4].\n\nPada pukul 03.29 UTC tanggal 12 November, sebuah akun di X mengunggah bahwa Huang \"akhirnya\" buka suara [6]. Unggahan itu disertai gambar sebuah surat berlogo Nvidia, berjudul \"Official Statement\", bertanggal 11 November dan ditandatangani Huang, yang menyebut berita-berita terbaru tentang dirinya sepenuhnya palsu [6]. Unggahan itu tidak menyebut sumber, dan penulisnya kini telah menghapusnya [6].\n\nRuang redaksi Nvidia tidak memiliki item bertanggal 11 November, dan tak satu pun dari empat itemnya tentang penyelidikan dan pergantian kepemimpinan memuat bantahan dari Huang [1] [2] [3] [4] [5]. Surat itu juga bertentangan dengan email yang memang ia kirim, tiga hari sebelum tanggal yang tertera pada surat tersebut [1]. Dan surat itu memuat salah ketik: \"cntire\" untuk \"entire\" [6].\n\nPada 17 November, di akunnya sendiri di X, Huang menulis bahwa ia telah membuat kesalahan serius dan sangat menyesali masalah yang ia timbulkan bagi dewan direksi [7] [9]. Ia menulis bahwa ia akan merasa terhormat untuk kembali sebagai chief executive jika dewan memutuskan itu yang terbaik [8] [9]. Pada hari yang sama, ketua dewan direksi Harvey Jones mengatakan bahwa dewan tidak berniat mengangkatnya kembali [8].\n\nSatu-satunya bantahan dari pihak Huang yang kami temukan datang pada 20 November, ketika juru bicaranya menepis sebagai rekayasa tuduhan dalam The New York Times tentang cara ia memperlakukan staf [13]. Itu adalah berita-berita lain, yang terbit setelah tanggal pada surat tersebut [13].",
+  "niet_weten": "Kami tidak tahu siapa yang membuat surat itu, atau apakah surat itu pertama kali muncul di tempat lain [6]. Kami melihat satu unggahan yang memuatnya [6]. Kami tidak menemukan laporan bahwa Huang berbicara kepada wartawan antara 8 dan 17 November [8] [9] [10].",
+  "bereik": "90 suka dan 21 balasan pada 19 November; dihapus oleh penulisnya per 23 November",
+  "nog_uitzoeken": [
+   "Siapa yang membuat surat itu, dan di mana surat itu pertama kali muncul, dalam bahasa Inggris atau bahasa lain.",
+   "Berapa banyak unggahan yang memuat surat itu. Kami melihat satu, yang kini telah dihapus penulisnya; satu unggahan kedua tentang topik yang sama dari 12 November juga dihapus.",
+   "Apakah pesan-pesan lain atas nama Huang, seperti pesan perpisahan, juga beredar, dan apakah itu juga rekayasa.",
+   "Apakah Huang mengatakan sesuatu kepada wartawan antara emailnya pada 8 November dan unggahannya pada 17 November."
+  ],
+  "tijdlijn": [
+   "Dewan direksi Nvidia memulai penyelidikan independen [2]. Nvidia menerbitkan email Huang kepada karyawan, berisi permintaan maaf [1].",
+   "Anggota dewan independen menyewa seorang pengacara eksternal beserta firmanya untuk penyelidikan [3].",
+   "Sebuah unggahan di X menampilkan \"pernyataan resmi\" bertanggal 11 November, yang berisi bantahan Huang atas berita-berita tersebut [6].",
+   "Nvidia mengumumkan bahwa Huang telah mengundurkan diri; siaran pers tidak memuat kata-kata darinya [4].",
+   "Sebuah surat atas nama para eksekutif Nvidia, yang menuntut Huang kembali, ternyata hampir salinan persis dari surat karyawan OpenAI tahun 2023 [11].",
+   "Pernyataan publik pertama Huang sejak mengundurkan diri, di akunnya sendiri di X [7] [9].",
+   "Ketua dewan direksi Harvey Jones: dewan tidak berniat mengangkat Huang kembali [8].",
+   "Juru bicara Huang menyebut tuduhan dalam The New York Times tentang cara Huang memperlakukan staf sebagai rekayasa [13].",
+   "Presiden Trump mengatakan ia ingin Huang mendapat kesempatan kedua; dewan tetap tidak berencana mengangkatnya kembali [12].",
+   "Unggahan berisi surat itu tidak lagi ada di X: penulisnya menghapusnya [6]."
+  ],
+  "beeld_bijschrift": [
+   "Unggahan di X, 12 November 2026, pukul 03.29 UTC, kini telah dihapus oleh penulisnya."
+  ],
+  "beeld_alt": [
+   "Sebuah unggahan di X yang menyatakan Jensen Huang telah buka suara, dengan gambar sebuah surat berlogo Nvidia berjudul Official Statement, bertanggal 11 November 2026, yang berisi bantahan Huang atas berita-berita tentang dirinya. Cap: PALSU."
+  ]
+ }
+}

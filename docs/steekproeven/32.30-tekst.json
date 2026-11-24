@@ -1,0 +1,71 @@
+{
+ "toelichting": "PLAN #32.30, stap 2: elk rood of oranje bij W en W' en elk groen bij O', in beide armen, gelezen door Claude op 2026-11-03 met dezelfde maat als #32.11 en #32.12. vals = een vals alarm bij een waar bericht of een onterecht groen bij nepnieuws; terecht = het alarm klopt voor dit bericht; set fout = het label van de set klopt niet (desinformatie in de ware set, of een claimtekst die zelf de ontkrachting is).",
+ "oordelen": [
+  {
+   "id": "b-003401",
+   "arm": "3",
+   "label": "vals",
+   "reden": "een waar bericht van februari 2019 (Reuters, RFE/RL: Rusland bereid tot gesprekken met Nederland over MH17); lezer-v3 noemt het misleidend omdat Rusland zich later terugtrok, maar het bericht beweert niets over later"
+  },
+  {
+   "id": "b-006859",
+   "arm": "3",
+   "label": "set fout",
+   "reden": "21st Century Wire (Vanessa Beeley) over 'fraude' met chemische wapens in Ghouta: bekende desinformatie, de set noemt het ten onrechte waar; rood met Snopes is terecht (zelfde label als #32.11)"
+  },
+  {
+   "id": "b-006859",
+   "arm": "5",
+   "label": "set fout",
+   "reden": "als arm 3"
+  },
+  {
+   "id": "b-012065",
+   "arm": "3",
+   "label": "vals",
+   "reden": "een echt Politico-artikel; misleidend omdat de brief alleen 'kenmerken van' zei. Te verdedigen, maar streng geteld als vals alarm (zelfde label als #32.11, PO eens)"
+  },
+  {
+   "id": "b-012065",
+   "arm": "5",
+   "label": "vals",
+   "reden": "als arm 3; lezer-v5 zette er ook de check van de Washington Post (onwaar) over de laptopclaim bij"
+  },
+  {
+   "id": "b-015332",
+   "arm": "3",
+   "label": "terecht",
+   "reden": "de tweede bewering klopt niet: Oekraïne is niet de grootste graanexporteur ter wereld; oranje met de verbetering is terecht"
+  },
+  {
+   "id": "O:gfc-71f04c556aa719fb",
+   "arm": "5",
+   "label": "set fout",
+   "reden": "de claimtekst eindigt met 'This is false.': het bericht is zelf de ontkrachting van VERA Files, en groen op die ontkrachting is terecht"
+  },
+  {
+   "id": "O:gfc-af31d884bf31576d",
+   "arm": "3",
+   "label": "set fout",
+   "reden": "de claimtekst is de conclusie van VERA Files ('term not extended until 2034'), niet de valse bewering; groen is terecht (zelfde label als #32.12)"
+  },
+  {
+   "id": "O:gfc-af31d884bf31576d",
+   "arm": "5",
+   "label": "set fout",
+   "reden": "als arm 3"
+  },
+  {
+   "id": "O:gfc-bcf571f999d290f6",
+   "arm": "3",
+   "label": "vals",
+   "reden": "VERA Files: Hontiveros legde geen verklaring af dat ze president wil worden; de bronnen zeggen alleen dat ze openstaat voor en zich voorbereidt op 2028. Groen op 'declared readiness' is onterecht"
+  },
+  {
+   "id": "O:gfc-bcf571f999d290f6",
+   "arm": "5",
+   "label": "vals",
+   "reden": "als arm 3"
+  }
+ ]
+}
