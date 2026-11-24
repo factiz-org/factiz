@@ -303,10 +303,13 @@ taak 3.3. `ingest` vereist `GOOGLE_FACTCHECK_API_KEY` in `.env`)*
   stand: `/sitemap.xml` uit `/api/<taal>/sitemap` (Python en TypeScript gelijk), een open robots.txt, `/llms.txt` en het
   sleutelbestand van IndexNow; `uitrol live` meldt dan de nieuwe adressen (`doublecheck/indexnow.py`). Hoe het gaat:
   `docs/RUNBOOK.md`, *Open voor zoekmachines*.
-- De site op een telefoon (#34.2by): `node site/scripts/mobiel.mjs http://localhost:8796 320,414 / /fact-checks/ /#palet ...`
+- De site op een telefoon (#34.2by, #34.2ci): `node site/scripts/mobiel.mjs http://localhost:8796 320,414 / /fact-checks/ /#palet ...`
   *(headless Chrome als telefoon, elke pagina in een lege context: wat de pagina breder maakt dan het scherm, een veld
   onder 16 px (iOS zoomt dan in), een tikdoel onder 44 px en afgekapte tekst; `#palet`, `#menu`, `#taal` en `#filter`
-  openen eerst dat venster; `BEELD=<map>` maakt per pagina een schermafdruk; `tests/test_site_mobiel.py` houdt de
+  openen eerst dat venster, `#zoek=<vraag>` verstuurt het zoekformulier en meet de uitslag; een pagina zonder opmaak is een
+  fout, dus meet een lange ronde op een eigen bouw (`npx astro build --outDir node_modules/.mobiel` in `site/`, met
+  `FACTIZ_GA` om de vraag om te meten te zien), want een andere bouw in `site/dist` geeft de opmaak een nieuwe naam;
+  `BEELD=<map>` maakt per pagina een schermafdruk; `tests/test_site_mobiel.py` houdt de
   uitkomst vast zonder browser)*
 - De lettertypen van de site (#34.2bs): `npm --prefix site run lettertypen` *(schrijft `site/src/styles/lettertypen.css` uit
   de pakketten: Noto alleen voor de schriften van de sitetalen, per lettertype alleen de delen van zijn schrift; na een

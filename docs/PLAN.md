@@ -2077,11 +2077,44 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         staat telkens een lijst of een zoekveld naast met dezelfde ingangen (WCAG 2.5.8 laat dat toe).
       `tests/test_site_mobiel.py` houdt het vast zonder browser.
 
-- [ ] **34.2ci Een tweede ronde op een telefoon** *(PO 2026-11-24, bij de vraag om te meten: "deze nemen we wel mee in
-      een grote responsive sweep voor mobiel, op alle punten")*. Dezelfde meting als 34.2by (`site/scripts/mobiel.mjs` op 320
-      en 414 px, elke soort pagina en open stand, vijftien talen), op alles wat sindsdien bij kwam (de Radar, de wereldlijst,
-      de vraag om te meten). Bekend: op een factcheck met een archiefkopie loopt de knop *Archived copy from …* op 320 px
-      6 px buiten het scherm, ook live vóór de nieuwe vraag om te meten.
+- [x] **34.2ci Een tweede ronde op een telefoon** *(PO 2026-11-24, bij de vraag om te meten: "deze nemen we wel mee in
+      een grote responsive sweep voor mobiel, op alle punten")*. Dezelfde meting als 34.2by (`site/scripts/mobiel.mjs`, headless
+      Chrome als telefoon), op 32 pagina's en open standen in vijftien talen, op 320 en 414 px: 960 metingen op 480 adressen.
+      Elke soort pagina, het zoekvenster, het menu, de taalkeuze en de filterlade, en nu ook de Radar (lijst, jaar, maand en
+      twee checks), de wereldlijst, een factcheck met een archiefkopie en een voorlopige vertaling, de 404, en de uitslag van
+      een zoekvraag (`#zoek=<vraag>`: de meting verstuurt zelf het formulier, want de vraag staat nooit in het adres). De vraag
+      om te meten stond op elke pagina, zoals live (een eigen server met een nep-ID in `FACTIZ_GA`). Vóór: 11 pagina's breder
+      dan het scherm (tot 32 px) en 140 tikdoelen te klein; na: niets meer, geen veld onder 16 px en geen afgekapte tekst.
+      Wat misging en nu goed staat:
+      - *De knop Archived copy from …* bij een check die offline is, liep op 320 px tot 32 px buiten het scherm (in het
+        Spaans, Portugees, Indonesisch en Turks), en de vraag om te meten schoof mee: een vaste kaart volgt de bredere pagina.
+        Het was de tweede knop met `nowrap` die dit deed (de eerste in 34.2by, bij een naam). Nu één regel voor elke knop:
+        nooit breder dan zijn plek, en op een aanraakscherm een tweede regel als het woord niet past, minstens 44 px hoog. De
+        rij met thema's boven de lijst schuift opzij en houdt haar knoppen op één regel (`shrink-0`).
+      - *Het stempel* "ЛОЖНОЕ ИЛИ ВВОДЯЩЕЕ В ЗАБЛУЖДЕНИЕ" liep in het Russisch 16 px buiten het scherm, op de lijst, een thema
+        en een dossier, net als het grote stempel op een factcheck. Een stempel breekt nu in zijn kader, gecentreerd.
+      - *Bronnen* toonde bij de redactie en de wereldlijst van Factiz een link met alleen "/" (een pad op de site), 6 px
+        breed: nu *factiz.org*.
+      - *Het kruimelpad:* Home in het Hindi (17 px) en het Perzisch (20 px), en Namen in het Hindi (18 px) waren te smal. Nu
+        44 px; het woord blijft vooraan, op één lijn met de kop eronder (gecentreerd sprong het in).
+      - *De knop Alleen op deze woorden zoeken* staat in de zin boven de uitslag en was in het Chinees en Japans 20 px hoog. Op
+        een aanraakscherm nu 44 px tikvlak, met een negatieve marge zodat de regel niet hoger wordt.
+      - *Uit de schermafdrukken, niet uit de getallen:* een regel op een kaart begon met een losse stip ("• Video"), en is nu
+        nooit meer zo (elk stuk heeft zijn stip, de rij knipt die vooraan een regel af, ook van rechts naar links). *Altered or
+        imitated* en *according to the newsroom* stonden als twee smalle kolommen naast elkaar, en zijn nu één zin naast het
+        icoon (`kenmerk-tekst`). De loep stond links in een zoekknop zonder woord, en staat nu in het midden. In het Arabisch
+        brak "نعم، يمكن القياس" in een knop van vaste hoogte; de twee knoppen van de vraag om te meten groeien nu mee.
+      - *De meting zelf:* tijdens de ronde bouwde een andere sessie de site opnieuw in `site/dist`. De opmaak kreeg een nieuwe
+        naam, en 774 pagina's werden zonder opmaak gemeten. `mobiel.mjs` weigert zo'n pagina nu, en meet beter op een eigen
+        bouw: `npx astro build --outDir node_modules/.mobiel` in `site/`. Ook wacht het tot Chrome zijn poortbestand helemaal
+        schreef (een half bestand liet de Turkse ronde niet starten).
+      - *Bewust zo gelaten:* de wereldkaart, de ring van thema's en het netwerk van namen (zoals in 34.2by), en een placeholder
+        die in een smal zoekveld wordt afgekapt.
+      `tests/test_site_mobiel.py` houdt het vast zonder browser; de regels staan in DESIGNSYSTEEM, *De tweede ronde*. Met
+      dezelfde uitrol gingen de jaargrafieken in de contextkaarten naast een factcheck live (34.2an, commits fc00778 en
+      4c307fb: de staafjes en de lijn over de jaren op een dunne lijn, de jaartallen er 4 px onder); de meting liep met die
+      wijziging al in de bouw. Live als Worker b837bef1 op dezelfde uitgave (PO: "Ja, live en pushen"), nagekeken op
+      factiz.org: vijf pagina's op 320 px zonder overloop of te klein tikdoel, en de kaarten van een factcheck.
 
 - [x] **34.2bz Tot wanneer de site bij is** *(PO 2026-11-17: "Zullen we een versienummer met datum in de footer zetten
       zodat we zien tot wanneer de pagina up to date is? Misschien ook handig voor google?", "Ja, bouw ze allebei", en "is

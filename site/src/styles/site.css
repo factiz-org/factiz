@@ -134,17 +134,21 @@
 .fz .navlink:hover, .fz .navlink[data-state="open"], .fz .navlink[aria-current="page"] { color: var(--inkt); background: var(--vlak); }
 @media (pointer: coarse) { .fz .navlink { height: 2.75rem; } }
 
-/* Knoppen: klein, licht afgerond. Primair zwart (in donker wit), nergens anders zo. */
-.fz .knop { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; height: 2rem; padding-inline: .75rem;
-  border-radius: var(--r); border: 1px solid var(--lijn-sterk); background: var(--paneel); color: var(--inkt); font: inherit;
-  font-size: 13.5px; font-weight: 500; cursor: pointer; white-space: nowrap; transition: background .15s, border-color .15s; }
+/* Knoppen: klein, licht afgerond. Primair zwart (in donker wit), nergens anders zo. Een knop is nooit breder dan zijn plek
+   (PLAN #34.2ci). */
+.fz .knop { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; height: 2rem; max-width: 100%;
+  padding-inline: .75rem; border-radius: var(--r); border: 1px solid var(--lijn-sterk); background: var(--paneel);
+  color: var(--inkt); font: inherit; font-size: 13.5px; font-weight: 500; cursor: pointer; white-space: nowrap;
+  transition: background .15s, border-color .15s; }
 .fz .knop:hover { background: var(--vlak); }
 .fz .knop-primair { background: var(--primair); color: var(--primair-inkt); border-color: var(--primair); }
 .fz .knop-primair:hover { background: var(--primair); opacity: .88; }
 .fz .knop-stil { border-color: transparent; background: transparent; color: var(--zacht); }
 .fz .knop-stil:hover { color: var(--inkt); background: var(--vlak); }
 .fz .knop-groot { height: 2.5rem; padding-inline: 1rem; font-size: 14px; }
-@media (pointer: coarse) { .fz .knop { height: 2.75rem; } }
+/* op een aanraakscherm 44 px hoog, en wat niet op één regel past, gaat naar een tweede: de knop van een archiefkopie liep
+   op 320 px tot 30 px buiten het scherm (PLAN #34.2ci) */
+@media (pointer: coarse) { .fz .knop { height: auto; min-height: 2.75rem; padding-block: .4rem; white-space: normal; text-align: center; } }
 /* De regel onder de voet (PLAN #34.2bk): links in een zin, dus onderstreept en niet alleen een andere kleur (WCAG 1.4.1) */
 .fz .voet-b p a { color: var(--inkt); text-decoration: underline; text-decoration-color: var(--lijn-sterk); text-underline-offset: 3px; }
 .fz .voet-b p a:hover { text-decoration-color: currentColor; }
@@ -155,6 +159,9 @@
 /* Op een aanraakscherm is elke losse link minstens 44 punten hoog: het logo, het kruimelpad, de voet (DESIGN D-regels). */
 @media (pointer: coarse) {
   .fz .merk, .fz [data-kruimel] a, .fz .voet-b li a, .fz a.link { display: inline-flex; align-items: center; min-height: 2.75rem; }
+  /* een kort woord in het kruimelpad ook 44 breed: Home in het Hindi was 17 px (PLAN #34.2ci); het woord blijft links, op
+     één lijn met de kop eronder, de ruimte komt erachter */
+  .fz [data-kruimel] a { min-width: 2.75rem; }
   /* een kort woord in een lijst ("LCI", "Fiji") ook minstens 44 breed (2026-11-17, de mobiele sweep) */
   .fz .voet-b li a { min-width: 2.75rem; }
   /* een link die afkapt blijft een blok: in een flex-vak tekent de browser geen beletselteken */
@@ -235,13 +242,20 @@
 .fz .rij-bewering[dir="rtl"] { margin-left: auto; }
 /* en een bewering van links naar rechts links, ook op een pagina van rechts naar links (PLAN #34.2bd, E9.S29 AC4) */
 .fz .rij-bewering:not([dir="rtl"]) { margin-right: auto; }
-.fz .rij-voet { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 0; font-size: 12.5px; color: var(--zacht); }
+/* een stip tussen de stukken, nooit vooraan een regel (PLAN #34.2ci: op 320 px begon een regel met "• Video"): elk stuk
+   heeft zijn stip, de rij schuift één stip (met de ruimte erna) naar het begin en knipt die strook af, dus de stip vóór het
+   eerste stuk van elke regel valt weg */
+.fz .rij-voet { --stip: calc(1.55rem + 3px); display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 0;
+  margin-inline-start: calc(-1 * var(--stip)); clip-path: inset(0 0 0 var(--stip)); font-size: 12.5px; color: var(--zacht); }
+[dir="rtl"] .fz .rij-voet { clip-path: inset(0 var(--stip) 0 0); }
 .fz .rij-voet > * { display: inline-flex; align-items: center; gap: .35rem; }
-.fz .rij-voet > * + *::before { content: ""; width: 3px; height: 3px; margin-inline: .6rem; border-radius: 50%; background: var(--zwak); }
+.fz .rij-voet > *::before { content: ""; flex: none; width: 3px; height: 3px; margin-inline: .6rem; border-radius: 50%; background: var(--zwak); }
 /* Het lijnicoon van een soort of vorm (PLAN #34.2ak): een lijn in de kleur van de tekst, nooit een vlak; de soort met
    wie het zegt, zachter erachter. */
 .fz .lijnicoon { width: 14px; height: 14px; flex: none; }
 .fz .kenmerk { color: var(--zacht); }
+/* naam en wie het zegt als één zin naast het icoon (PLAN #34.2ci) */
+.fz .kenmerk-tekst { min-width: 0; }
 .fz .kenmerk-regel { color: var(--zwak); font-size: 11.5px; }
 .fz .kenmerk-knop { display: inline-flex; align-items: center; gap: .4rem; min-height: 1.75rem; padding-inline: .6rem;
   border: 1px solid var(--lijn-sterk); border-radius: 999px; font-size: 12.5px; color: var(--inkt); }
@@ -580,19 +594,22 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
 .fz .ck-kaartje .rest { fill: var(--vlak); stroke: var(--lijn-sterk); }
 .fz .ck-kaartje .aan { fill: var(--tegel); stroke: var(--paneel); }
 .fz .ck-kaartje .ring { fill: none; stroke: var(--tegel); stroke-width: 1.5px; vector-effect: non-scaling-stroke; }
-.fz .ck-reeks { position: relative; display: block; height: 44px; }
+.fz .ck-grafiek { display: block; }
+.fz .ck-reeks { position: relative; display: block; height: 44px; border-bottom: 1px solid var(--lijn-sterk); }
 .fz .ck-reeks > svg { display: block; width: 100%; height: 100%; overflow: visible; }
 .fz .ck-reeks .vlak { fill: var(--tegel); fill-opacity: .16; }
 .fz .ck-reeks .lijn { fill: none; stroke: var(--tegel); stroke-width: 1.6px; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
 .fz .ck-stip { position: absolute; width: 9px; height: 9px; margin: -4.5px 0 0 -4.5px; border-radius: 50%; background: var(--tegel);
   box-shadow: 0 0 0 2px var(--paneel); }
-.fz .ck-as { display: flex; justify-content: space-between; margin-top: -.25rem; font-family: var(--mono); font-size: 10.5px; color: var(--zacht); }
-.fz .ck-staafjes { display: flex; align-items: stretch; gap: 5px; height: 56px; }
-.fz .ck-staaf { flex: 1; min-width: 0; display: grid; grid-template-rows: minmax(0, 1fr) auto; gap: 3px; }
-.fz .ck-h { align-self: end; display: block; border-radius: 2px 2px 0 0; background: var(--tegel); opacity: .35; }
-.fz .ck-staaf.aan .ck-h { opacity: 1; }
-.fz .ck-j { font-family: var(--mono); font-size: 10px; line-height: 1; color: var(--zacht); text-align: center; white-space: nowrap; }
-.fz .ck-staaf.aan .ck-j { color: var(--inkt); font-weight: 600; }
+.fz .ck-as { display: flex; justify-content: space-between; margin-top: 4px; font-family: var(--mono); font-size: 10px; line-height: 1;
+  color: var(--zacht); }
+.fz .ck-staafjes { display: flex; align-items: flex-end; gap: 5px; height: 44px; border-bottom: 1px solid var(--lijn-sterk); }
+.fz .ck-staaf { flex: 1; min-width: 0; border-radius: 2px 2px 0 0; background: var(--tegel); opacity: .35; }
+.fz .ck-staaf.aan { opacity: 1; }
+.fz .ck-jaren { display: flex; gap: 5px; margin-top: 4px; }
+.fz .ck-j { flex: 1; min-width: 0; display: flex; justify-content: center; font-family: var(--mono); font-size: 10px; line-height: 1;
+  color: var(--zacht); white-space: nowrap; }
+.fz .ck-j.aan { color: var(--inkt); font-weight: 600; }
 .fz .ck-namen { display: grid; gap: .3rem; font-size: 13px; line-height: 1.4; }
 .fz .ck-namen a:hover { text-decoration: underline; text-underline-offset: .2em; }
 .fz .ck-namen span { color: var(--zacht); font-size: 12.5px; }
@@ -788,9 +805,11 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
    eigen check, met klein erachter wie het zegt. De eigen check houdt haar zegel en Factiz (D12). */
 @layer components {
   .fz .fz-stempelgroep { display: inline-flex; align-items: center; gap: .5rem; flex-wrap: wrap; min-width: 0; }
+  /* een lang oordeel krijgt een tweede regel in het kader, nooit breder dan de kaart: in het Russisch liep "ЛОЖНОЕ ИЛИ
+     ВВОДЯЩЕЕ В ЗАБЛУЖДЕНИЕ" op 320 px 16 px buiten het scherm (PLAN #34.2ci) */
   .fz .fz-stempel { border: 2px double var(--l-stip, var(--lijn-sterk)); color: var(--l-inkt, var(--inkt)); font-weight: 800;
     letter-spacing: .1em; text-transform: uppercase; font-size: 11px; line-height: 1.5; padding: .05rem .4rem;
-    transform: rotate(-3deg); display: inline-block; white-space: nowrap; }
+    transform: rotate(-3deg); display: inline-block; max-width: 100%; text-align: center; }
   .fz .fz-stempel-groot { font-size: 15px; border-width: 3px; padding: .1rem .55rem; }
   .fz .fz-stempel-wie { font-size: 12.5px; color: var(--zacht); font-weight: 500; letter-spacing: 0; text-transform: none; }
   /* wie het checkte en wat elk zegt (PLAN #34.2cd): per redactie het stempel en de naam, de hele regel een link naar hun
@@ -826,8 +845,10 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
   /* de link is een stuk van de zin: geen eigen regel van 44 px (dat gaf een gat in de regelafstand), wel een tikvlak van die
      hoogte via padding, die de regel niet hoger maakt */
   .fz .fz-meten a.link { display: inline; min-height: 0; padding-block: .8rem; white-space: nowrap; }
-  .fz .fz-meten-knop { flex: 1 1 0; height: 2.75rem; font-size: 14px; }
-  @media (min-width: 40rem) and (pointer: fine) { .fz .fz-meten-knop { height: 2.25rem; } }
+  /* even groot, minstens 44 px hoog; een lang antwoord krijgt een tweede regel en de knop groeit mee (PLAN #34.2ci: in het
+     Arabisch brak "نعم، يمكن القياس" in een vaste hoogte) */
+  .fz .fz-meten-knop { flex: 1 1 0; height: auto; min-height: 2.75rem; padding-inline: .5rem; font-size: 14px; line-height: 1.3; }
+  @media (min-width: 40rem) and (pointer: fine) { .fz .fz-meten-knop { min-height: 2.25rem; } }
   /* de knop in de voet om de keuze te veranderen: op een aanraakscherm 44 px hoog, zoals elke link in de voet */
   @media (pointer: coarse) { .fz .fz-meten-aanpassen { display: inline-flex; align-items: center; min-height: 2.75rem; } }
 }

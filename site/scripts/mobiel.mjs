@@ -2,6 +2,7 @@
 // 16 px (iOS zoomt dan in), een tikdoel onder 44 px en tekst die wordt afgekapt. Headless Chrome via CDP, als telefoon
 // (mobile, touch, pointer: coarse), elke pagina in een lege context. Eén regel JSON per pagina en breedte.
 //   node site/scripts/mobiel.mjs <basis> <breedtes, bv 320,414> <pad>[#staat] ...     staat: palet | menu | taal | filter
+//                                                                                      | zoek=<vraag> (de uitslag, als POST)
 // Met BEELD=<map> ook een schermafdruk per pagina. Chrome uit CHROME, anders de gewone plek op een Mac. De wereldkaart, de
 // ring van thema's en het netwerk van namen hebben kleine vlakken met een lijst ernaast; die zijn bewust klein.
 import { spawn } from 'node:child_process';
@@ -16,8 +17,12 @@ const chrome = spawn(process.env.CHROME ?? '/Applications/Google Chrome.app/Cont
   ['--headless=new', '--remote-debugging-port=0', `--user-data-dir=${profiel}`, '--no-first-run', '--disable-extensions',
    '--window-size=414,900', 'about:blank'], { stdio: 'ignore' });
 const poortbestand = join(profiel, 'DevToolsActivePort');
-for (let i = 0; i < 200 && !existsSync(poortbestand); i++) await new Promise((ok) => setTimeout(ok, 50));
-const [poort, wspad] = readFileSync(poortbestand, 'utf8').trim().split('\n');
+// wachten tot Chrome het bestand helemaal schreef: poort én pad (een half bestand gaf "Invalid URL")
+let poort, wspad;
+for (let i = 0; i < 200 && !wspad; i++) {
+  if (existsSync(poortbestand)) [poort, wspad] = readFileSync(poortbestand, 'utf8').trim().split('\n');
+  if (!wspad) await new Promise((ok) => setTimeout(ok, 50));
+}
 const ws = new WebSocket(`ws://127.0.0.1:${poort}${wspad}`);
 await new Promise((ok) => ws.addEventListener('open', ok));
 let volg = 0;
@@ -38,6 +43,8 @@ const OPEN = {
   taal: `document.querySelector('button[aria-controls="taalkiezer"]')?.click()`,
   filter: `[...document.querySelectorAll('button.knop')].find(b => b.offsetParent && /filter/i.test(b.textContent))?.click()`,
 };
+const ZOEK = (vraag) => `(() => { const f = document.createElement('form'); f.method = 'post'; f.action = location.pathname;
+  const i = document.createElement('input'); i.name = 'q'; i.value = ${JSON.stringify(vraag)}; f.append(i); document.body.append(f); f.submit(); })()`;
 
 const METEN = `(() => {
   const vw = document.documentElement.clientWidth;
@@ -88,6 +95,10 @@ const METEN = `(() => {
     if (!/(hidden|clip)/.test(s.overflowX) || s.textOverflow === 'ellipsis' || s.webkitLineClamp !== 'none') continue;
     if (el.scrollWidth > el.clientWidth + 2 && (el.textContent || '').trim()) afgekapt.push({ el: pad(el), scroll: el.scrollWidth, client: el.clientWidth });
   }
+  // een pagina zonder opmaak meet niets (PLAN #34.2ci: een bouw tijdens de meting gaf de opmaak een nieuwe naam)
+  const bladen = [...document.styleSheets].filter((s) => s.href?.includes('/_astro/'));
+  const opmaak = bladen.length > 0 && bladen.every((s) => { try { return s.cssRules.length > 0; } catch { return false; } });
+  if (!opmaak) return { fout: 'zonder opmaak: is de site opnieuw gebouwd tijdens de meting?' };
   return { grof: matchMedia('(pointer: coarse)').matches, vw, sw: document.documentElement.scrollWidth, breekt: breekt.slice(0, 12), invoer, klein, afgekapt: afgekapt.slice(0, 8) };
 })()`;
 
@@ -107,7 +118,13 @@ for (const regel of paden) {
     await stuur('Page.navigate', { url: basis + pad }, sessionId);
     for (let i = 0; i < 300 && !geladen; i++) await slaap(100);
     await slaap(1500);
-    if (staat) { await stuur('Runtime.evaluate', { expression: OPEN[staat] }, sessionId); await slaap(800); }
+    if (staat?.startsWith('zoek=')) {
+      // de uitslag van een zoekvraag: het formulier gaat als POST, de vraag staat nooit in het adres (PLAN #34.2ci)
+      geladen = false;
+      await stuur('Runtime.evaluate', { expression: ZOEK(decodeURIComponent(staat.slice(5))) }, sessionId);
+      for (let i = 0; i < 300 && !geladen; i++) await slaap(100);
+      await slaap(1500);
+    } else if (staat) { await stuur('Runtime.evaluate', { expression: OPEN[staat] }, sessionId); await slaap(800); }
     const { result } = await stuur('Runtime.evaluate', { expression: METEN, returnByValue: true }, sessionId);
     if (process.env.BEELD) {
       const { result: shot } = await stuur('Page.captureScreenshot', { format: 'png', captureBeyondViewport: false }, sessionId);

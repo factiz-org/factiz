@@ -114,6 +114,17 @@ site moet op 320 px passen zonder dat de pagina opzij schuift. Drie regels die d
   iOS in zodra je erin tikt.
 - *Een tikdoel is 44 px*, ook een kort woord in een lijst (`min-w-11`). Bewust kleiner: de wereldkaart, de ring van thema's en
   het netwerk van namen, met telkens een lijst of zoekveld ernaast.
+
+*De tweede ronde (2026-11-24, PLAN #34.2ci, PO: "een grote responsive sweep voor mobiel, op alle punten"):* dezelfde meting,
+nu ook op de Radar, de wereldlijst, de uitslag van een zoekvraag en de vraag om te meten. Wat daaruit als regel volgt:
+- *Een knop en een stempel breken, ze lopen nooit door.* `.knop` is nooit breder dan zijn plek en krijgt op een aanraakscherm
+  een tweede regel als het woord niet past (minstens 44 px hoog); `.fz-stempel` ook, gecentreerd in het kader. Alleen waar een
+  rij knoppen opzij schuift (de thema's boven de lijst), houdt `shrink-0` ze op één regel.
+- *Een stip staat tussen twee stukken, nooit vooraan een regel* (`.rij-voet`): elk stuk heeft zijn stip, de regel schuift één
+  stip naar het begin en knipt die strook af.
+- *Een woord met wie het zegt is één zin naast zijn icoon* (`.kenmerk-tekst`), geen twee smalle kolommen.
+- *Een vaste kaart (de vraag om te meten) volgt de pagina:* is de pagina te breed, dan schuift de kaart mee buiten het scherm.
+  Wie een kaart onderaan ziet weglopen, zoekt de oorzaak in de pagina.
 Nagaan met `node site/scripts/mobiel.mjs` (zie CLAUDE.md); `tests/test_site_mobiel.py` houdt het vast.
 
 ### 3.4 Onderdelen

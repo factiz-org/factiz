@@ -11,8 +11,10 @@ export default function Rij({ r, bijKlik }) {
   const voet = [
     r.thema && <span key="thema" className="thema"><ThemaTegel thema={r.thema.sleutel} />{r.thema.naam}</span>,
     // de soort volgens de redactie en de vorm (PLAN #34.2ak): een lijnicoon met het woord, de soort met wie het zegt
-    ...(r.kenmerken ?? []).map((k) => <span key={k.wat} className="kenmerk"><LijnIcoon wat={k.wat} waarde={k.waarde} />{k.naam}
-      {k.regel && <span className="kenmerk-regel">{k.regel}</span>}</span>),
+    // naam en regel in één tekstvak naast het icoon, dat breekt als een zin (PLAN #34.2ci: op 320 px stonden ze als twee
+    // smalle kolommen naast elkaar)
+    ...(r.kenmerken ?? []).map((k) => <span key={k.wat} className="kenmerk"><LijnIcoon wat={k.wat} waarde={k.waarde} />
+      <span className="kenmerk-tekst">{k.naam}{k.regel && <>{' '}<span className="kenmerk-regel">{k.regel}</span></>}</span></span>),
     r.land && <span key="land">{r.land.naam}</span>,
     // wie het oordeel draagt staat al bij het stempel; anders hier hoeveel redacties het natrokken
     r.redacties && !r.volgens && <span key="redacties">{r.redacties}</span>,

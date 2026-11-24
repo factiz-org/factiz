@@ -814,6 +814,36 @@ def test_the_context_cards_beside_a_fact_check_show_what_the_platform_counted(si
     assert soorten[:2] == ["dossier", "waar"], soorten
 
 
+def test_the_years_of_a_dossier_stand_under_a_baseline_and_not_between_the_bars(site):
+    """PO 2026-11-24, bij de dossierkaart naast een factcheck: "Ik denk dat hier een lijntje onder moet komen, heel subtiel,
+    en daaronder de jaartallen." Alle staafjes staan op één lijn; de jaartallen staan in een eigen rij eronder, met één
+    vak per jaar, ook als dat vak leeg blijft, zodat elk jaartal onder zijn staafje staat."""
+    s, nr = site
+    [dossier] = [k for k in s.api(f"/api/en/factcheck/{nr['villa']}")["context"] if k["soort"] == "dossier"]
+    assert len(dossier["jaren"]) > 1
+    _, _, html = s.haal(_pad("en", f"/fact-checks/{nr['villa']}/"))
+    kaart = re.search(r'<section class="ck"[^>]*data-soort="dossier"[^>]*>(.*?)</section>', html, re.S).group(1)
+    staafjes, jaren = kaart.index('class="ck-staafjes"'), kaart.index('class="ck-jaren"')
+    assert staafjes < jaren
+    assert kaart.count('class="ck-staaf') - kaart.count('class="ck-staafjes"') == len(dossier["jaren"])
+    vak = r'class="ck-j( aan)?"'
+    assert not re.search(vak, kaart[staafjes:jaren])                     # geen jaartal tussen de staafjes
+    assert len(re.findall(vak, kaart)) == len(dossier["jaren"])          # één vak per jaar
+    assert re.search(r'<span class="ck-jaren" dir="ltr" aria-hidden="true">', kaart)
+    css = (websitebouw.SITE / "src" / "styles" / "site.css").read_text(encoding="utf-8")
+    regel = lambda klasse: re.search(r"\.fz \." + klasse + r" \{([^}]*)\}", css).group(1)
+    assert "border-bottom: 1px solid var(--lijn-sterk)" in regel("ck-staafjes") and "align-items: flex-end" in regel("ck-staafjes")
+    # PO 2026-11-24: "afstand van cijfers tot bovenkant mag korter op de grafiek". Grafiek en jaartallen staan samen in één
+    # blok, zodat de tussenruimte van de kaart er niet tussen komt; in de staafjes en in de lijn over de jaren
+    assert re.search(r'<span class="ck-grafiek">\s*<span class="ck-staafjes".*?<span class="ck-jaren"', kaart, re.S)
+    bron = (websitebouw.SITE / "src" / "components" / "site" / "ContextKaarten.astro").read_text(encoding="utf-8")
+    assert re.search(r'<span class="ck-grafiek">\s*<span class="ck-reeks".*?<span class="ck-as"', bron, re.S)
+    assert "display: block" in regel("ck-grafiek")
+    for klasse in ("ck-jaren", "ck-as"):
+        assert re.search(r"margin-top: [1-4]px", regel(klasse)), klasse
+    assert "border-bottom: 1px solid var(--lijn-sterk)" in regel("ck-reeks")
+
+
 @pytest.mark.parametrize("taal", TALEN)
 def test_the_name_network_is_a_hidden_picture_next_to_plain_links_in_alphabetical_order(site, taal):
     """Het netwerk van namen (PLAN #34.2ai, SPECS E9.S18 AC3, AC5): het plaatje voor een schermlezer verborgen en zonder

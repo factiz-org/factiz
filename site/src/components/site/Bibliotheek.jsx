@@ -179,10 +179,11 @@ export default function Bibliotheek({ begin, tekst, beginVraag, beginParen, acti
           {a.vraag && gegevens.verbeterd && (
             <p className="zacht mt-1 text-[13.5px]">{tekst.zoek_niets_voor} <q>{a.vraag}</q>. {tekst.zoek_resultaten_voor} <q>{gegevens.verbeterd}</q>.</p>
           )}
-          {/* een land, redactie, thema of onderdeel in de vraag verruimde (SPECS E9.S14 AC3): zeggen wat we lazen */}
+          {/* een land, redactie, thema of onderdeel in de vraag verruimde (SPECS E9.S14 AC3): zeggen wat we lazen; de knop staat
+              in de zin, en krijgt op een aanraakscherm een tikvlak van 44 px zonder de regel hoger te maken (PLAN #34.2ci) */}
           {a.vraag && gegevens.gelezen?.length > 0 && (
             <p className="zacht mt-1 max-w-[var(--maat-tekst)] text-[13.5px]">{gegevens.gelezen.map((g) => g.tekst).join(' ')}{' '}
-              <button type="button" className="text-[var(--accent)] underline-offset-2 hover:underline" onClick={() => a.zoek(a.vraag, undefined, true)}>{tekst.zoek_alleen_woorden}</button></p>
+              <button type="button" className="text-[var(--accent)] underline-offset-2 hover:underline pointer-coarse:-my-3 pointer-coarse:py-3" onClick={() => a.zoek(a.vraag, undefined, true)}>{tekst.zoek_alleen_woorden}</button></p>
           )}
         </div>
       </div>
@@ -214,7 +215,7 @@ export default function Bibliotheek({ begin, tekst, beginVraag, beginParen, acti
           {stukjes.length === 0 && !vastSoorten.has('thema') && f.promotie.length > 0 && (
             <div className="-mx-1 flex gap-1.5 overflow-x-auto px-1 pb-3 md:hidden" aria-label={tekst.themas_kop} data-rij="themas">
               {f.promotie.map((p) => (
-                <button key={p.waarde} type="button" className="knop" onClick={() => a.kies('thema', p.waarde)}>
+                <button key={p.waarde} type="button" className="knop shrink-0" onClick={() => a.kies('thema', p.waarde)}>
                   <ThemaTegel thema={p.waarde} />{p.naam} <span className="getal text-[11.5px] text-[var(--zwak)]">{p.aantal}</span></button>
               ))}
             </div>

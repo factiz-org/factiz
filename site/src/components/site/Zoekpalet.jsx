@@ -38,7 +38,8 @@ export default function Zoekpalet({ tekst, themas, taal, lijst }) {
       <DialogPrimitive.Trigger asChild>
         {/* op een telefoon het korte woord, en in een knop te smal voor een woord alleen de loep (2026-11-17: op 320 px stond er "S.") */}
         <a className="zoekknop @container" href={lijst} onClick={(e) => { e.preventDefault(); zetOpen(true); }} aria-label={tekst.knop}>
-          <Loep /><span className="min-w-0 flex-1 truncate text-start max-sm:hidden" aria-hidden="true">{tekst.knop}</span>
+          {/* zonder woord staat de loep in het midden; met een woord neemt het woord de ruimte (PLAN #34.2ci) */}
+          <Loep className="size-4 shrink-0 mx-auto" /><span className="min-w-0 flex-1 truncate text-start max-sm:hidden" aria-hidden="true">{tekst.knop}</span>
           <span className="min-w-0 flex-1 truncate text-start @max-[4.5rem]:hidden sm:hidden" aria-hidden="true">{tekst.kort ?? tekst.knop}</span><kbd className="max-sm:hidden" aria-hidden="true">⌘K</kbd>
         </a>
       </DialogPrimitive.Trigger>

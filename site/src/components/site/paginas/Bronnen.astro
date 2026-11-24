@@ -7,6 +7,9 @@ import { maakT } from '../../../lib/teksten.js';
 import { TALEN, pad } from '../../../lib/talen.js';
 const { taal, g } = Astro.props;
 const t = maakT(taal);
+// een link naar factiz.org is op de site een pad (`app._link`): daar staat de naam van de site, niet een kale "/" van 6 px
+// breed (PLAN #34.2ci)
+const linktekst = (url) => (url.startsWith('/') ? `factiz.org${url === '/' ? '' : url}` : url);
 ---
 <Site titel={g.titel} omschrijving={g.inleiding} taal={taal} delen={['sources']} aangeboden={TALEN}>
   <div class="baan pt-4">
@@ -24,7 +27,7 @@ const t = maakT(taal);
             <dt class="text-[var(--zacht)]">{g.vermelding_kop}</dt><dd class="min-w-0">{b.naamsvermelding}</dd>
             {b.meting && <><dt class="text-[var(--zacht)]">{g.meting_kop}</dt><dd class="min-w-0">{b.meting}</dd></>}
           </dl>
-          {b.url && <p class="text-[13.5px]"><a class="link break-all" href={b.url} rel="noopener">{b.url}</a></p>}
+          {b.url && <p class="text-[13.5px]"><a class="link break-all" href={b.url} rel="noopener">{linktekst(b.url)}</a></p>}
         </section>
       ))}
     </div>

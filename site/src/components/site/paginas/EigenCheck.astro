@@ -87,7 +87,7 @@ const ld = e.concept ? '' : JSON.stringify({
               <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
                 {p?.thema && <span class="thema"><ThemaTegel thema={p.thema.sleutel} />{p.thema.naam}{p.land && <> · {p.land.naam}</>}</span>}
                 {p?.kenmerken?.length > 0 ? p.kenmerken.map((k) => (
-                  <a class="kenmerk-knop" href={k.href}><LijnIcoon wat={k.wat} waarde={k.waarde} />{k.naam}{k.regel && <span class="kenmerk-regel">{k.regel}</span>}</a>
+                  <a class="kenmerk-knop" href={k.href}><LijnIcoon wat={k.wat} waarde={k.waarde} /><span class="kenmerk-tekst">{k.naam}{k.regel && <> <span class="kenmerk-regel">{k.regel}</span></>}</span></a>
                 )) : e.kenmerken && <span class="zacht text-[13px]">{e.kenmerken}</span>}
               </div>
             )}
