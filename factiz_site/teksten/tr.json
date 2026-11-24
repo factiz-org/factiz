@@ -552,7 +552,7 @@
     "eigen_bron_weg": "paylaşım artık mevcut değil",
     "weggelaten": "isim gizlenmiştir",
     "weggelaten_noot": "* Factiz, bir reşit olmayanın mahremiyetini korumak için bu ismi bilerek belirtmemektedir.",
-    "meten_vraag": "Factiz'i nasıl kullandığınızı ölçebilir miyiz? Neyin işe yaradığını ve neyin iyileştirilmesi gerektiğini görmemizi sağlar. Bunun için çerezlerle birlikte Google Analytics kullanıyoruz, yalnızca siz evet derseniz.",
+    "meten_vraag": "Factiz'i nasıl kullandığınızı Google Analytics ile ölçmemize izin verir misiniz? Bu, yalnızca onay verirseniz çerez kullanır.",
     "meten_ja": "Evet, ölç",
     "meten_nee": "Hayır",
     "meten_meer": "Neleri ölçüyoruz",

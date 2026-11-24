@@ -92,3 +92,76 @@ def test_every_language_says_what_is_measured_why_and_how_to_say_no():
     nl = json.loads((WORTEL / "factiz_site" / "teksten" / "nl.json").read_text(encoding="utf-8"))["teksten"]
     for woord in ("Google Analytics", "geplakt bericht", "twee maanden", "VS", "nee"):
         assert woord in nl["over_privacy_meten"], woord
+
+
+def _keuzes(gevallen: list[tuple[str | None, bool]]) -> list:
+    """Per geval (wat er in de opslag staat, of de browser Global Privacy Control stuurt) wat `keuze()` zegt."""
+    script = ("globalThis.window = globalThis; const opslag = { w: {}, getItem(k) { return this.w[k] ?? null }, "
+              "setItem(k, v) { this.w[k] = v }, removeItem(k) { delete this.w[k] } }; globalThis.localStorage = opslag;"
+              "import('./src/lib/meten.js').then((m) => { const uit = []; const nu = Date.now(), dag = 86400000;"
+              f"for (const [waarde, gpc] of {json.dumps(gevallen)}) {{ opslag.w = {{}};"
+              "Object.defineProperty(globalThis, 'navigator', { value: { globalPrivacyControl: gpc }, configurable: true });"
+              "if (waarde !== null) opslag.setItem(m.SLEUTEL, waarde.replace(/DAGEN\\((\\d+)\\)/, (_, d) => String(nu - d * dag)));"
+              "uit.push([m.keuze(), opslag.getItem(m.SLEUTEL)]) }"
+              "console.log(JSON.stringify(uit)) })")
+    return _node(script)
+
+
+def test_a_choice_counts_for_a_year_then_the_question_comes_back():
+    """PO 2026-11-24: een keuze geldt niet eeuwig. Na twaalf maanden vragen we opnieuw (de CNIL: hoogstens dertien); een
+    keuze van vóór deze regel (alleen 'ja' of 'nee') telt vanaf nu."""
+    uit = _keuzes([('{"k":"ja","t":DAGEN(300)}', False), ('{"k":"ja","t":DAGEN(400)}', False),
+                   ('{"k":"nee","t":DAGEN(400)}', False), ("nee", False), ("onzin{", False)])
+    assert [k for k, _ in uit] == ["ja", None, None, "nee", None]
+    assert uit[1][1] is None and uit[2][1] is None                 # een verlopen keuze wordt gewist
+    assert json.loads(uit[3][1])["k"] == "nee"                     # de oude vorm krijgt een datum
+
+
+def test_global_privacy_control_counts_as_no_and_an_explicit_yes_still_wins():
+    """Stuurt de browser Global Privacy Control, dan vragen we niets en meten we niet; wie zelf ja zegt, meet wel."""
+    uit = _keuzes([(None, True), ('{"k":"ja","t":DAGEN(1)}', True), (None, False)])
+    assert [k for k, _ in uit] == ["nee", "ja", None]
+    assert uit[0][1] is None                                       # het signaal wordt niet als keuze opgeslagen
+
+
+def test_the_analytics_cookies_expire_after_thirteen_months_not_two_years():
+    meten = (BRON / "lib" / "meten.js").read_text(encoding="utf-8")
+    m = re.search(r"COOKIE_SECONDEN = (\d+) \* 24 \* 3600", meten)
+    assert m and 390 <= int(m.group(1)) <= 400 and "cookie_expires: COOKIE_SECONDEN" in meten
+
+
+def test_the_banner_is_a_small_card_that_never_hides_the_end_of_the_page():
+    """PO 2026-11-24 ("Hoe houden we hem toch subtiel"): op een groter scherm een kaart van 22rem in de hoek (in een taal van
+    rechts naar links de andere hoek), op een telefoon compact onderaan; geen grijze laag; zolang ze er staat, krijgt de pagina
+    onderaan ruimte zodat niets eronder verdwijnt (WCAG 2.4.11); inschuiven alleen zonder voorkeur voor minder beweging."""
+    css = (BRON / "styles" / "site.css").read_text(encoding="utf-8")
+    blok = css[css.index(".fz .fz-meten {"):]
+    blok = blok[:blok.index("@keyframes fz-meten-in")]
+    assert "width: 22rem" in blok and "inset-inline: auto 1.25rem" in blok and "margin: 0 auto" not in blok
+    assert "prefers-reduced-motion: reduce" in blok and "animation: none" in blok
+    assert "fz-overlay" not in blok and "backdrop" not in blok
+    assert "html.fz-meten-open { scroll-padding-bottom: var(--fz-meten-ruimte" in css
+    assert "html.fz-meten-open body.fz { padding-bottom: var(--fz-meten-ruimte" in css
+    banner = (BRON / "components" / "site" / "Meten.jsx").read_text(encoding="utf-8")
+    assert "classList.add('fz-meten-open')" in banner and "classList.remove('fz-meten-open')" in banner
+    assert "'--fz-meten-ruimte'" in banner and "ResizeObserver" in banner
+
+
+def test_the_link_in_the_banner_and_the_button_in_the_footer_are_easy_to_tap():
+    """De mobiele meting vond de knop in de voet 20 px hoog; de link in de banner is een regel in de zin, met een groter
+    tikvlak zonder de regelafstand te verstoren."""
+    css = (BRON / "styles" / "site.css").read_text(encoding="utf-8")
+    assert ".fz .fz-meten a.link { display: inline; min-height: 0; padding-block:" in css
+    assert re.search(r"\.fz \.fz-meten-aanpassen \{[^}]*min-height: 2\.75rem", css)
+    banner = (BRON / "components" / "site" / "Meten.jsx").read_text(encoding="utf-8")
+    assert 'className="link fz-meten-aanpassen' in banner
+
+
+def test_the_question_is_short_and_names_google_analytics_in_every_language():
+    """Eén zin met wie meet en dat het cookies zet; de rest staat achter "What we measure". Een ander schrift telt meer of
+    minder tekens, dus de grens is een veelvoud van het Engels (de oude vraag was 170 tekens)."""
+    en = json.loads((WORTEL / "factiz_site" / "teksten" / "en.json").read_text(encoding="utf-8"))["teksten"]["meten_vraag"]
+    assert len(en) <= 100 and "cookies" in en
+    for taal in TALEN:
+        vraag = json.loads((WORTEL / "factiz_site" / "teksten" / f"{taal}.json").read_text(encoding="utf-8"))["teksten"]["meten_vraag"]
+        assert "Google Analytics" in vraag and len(vraag) <= 1.75 * len(en), (taal, len(vraag))

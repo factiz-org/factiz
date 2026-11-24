@@ -552,7 +552,7 @@
     "eigen_bron_weg": "この投稿はすでに閲覧できません",
     "weggelaten": "氏名は非公開",
     "weggelaten_noot": "* 未成年者のプライバシーを守るため、Factizはこの氏名をあえて掲載していません。",
-    "meten_vraag": "Factizの利用状況を計測してもよろしいですか？何がうまくいっていて、何を改善すべきかが分かります。計測にはGoogle Analyticsを使い、「はい」と答えた場合にのみ、Cookieを使用します。",
+    "meten_vraag": "Google Analytics を使って、Factiz の利用状況を計測してもよろしいですか。Cookie が設定されますが、同意された場合のみです。",
     "meten_ja": "はい、計測する",
     "meten_nee": "いいえ",
     "meten_meer": "計測する内容",

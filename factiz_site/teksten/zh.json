@@ -552,7 +552,7 @@
     "eigen_bron_weg": "該貼文已無法瀏覽",
     "weggelaten": "姓名已隱去",
     "weggelaten_noot": "* Factiz 為保護未成年人的隱私，刻意不列出此姓名。",
-    "meten_vraag": "我們可以測量你如何使用 Factiz 嗎？這能讓我們知道哪些做法有效，哪些地方需要改進。我們為此使用 Google Analytics，會用到 cookie，而且只有在你同意時才會啟用。",
+    "meten_vraag": "我們可以用 Google Analytics 來了解你如何使用 Factiz 嗎?只有在你同意後,才會設定 Cookie。",
     "meten_ja": "好，可以測量",
     "meten_nee": "不用",
     "meten_meer": "我們測量哪些內容",

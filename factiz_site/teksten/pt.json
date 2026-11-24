@@ -552,7 +552,7 @@
     "eigen_bron_weg": "a publicação não está mais disponível",
     "weggelaten": "nome omitido",
     "weggelaten_noot": "* A Factiz omite este nome de propósito para proteger a privacidade de um menor.",
-    "meten_vraag": "Podemos medir como você usa o Factiz? Isso nos mostra o que funciona e o que precisa melhorar. Usamos o Google Analytics para isso, com cookies, somente se você disser sim.",
+    "meten_vraag": "Podemos medir como você usa o Factiz com o Google Analytics? Ele define cookies, somente se você disser sim.",
     "meten_ja": "Sim, pode medir",
     "meten_nee": "Não",
     "meten_meer": "O que medimos",

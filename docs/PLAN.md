@@ -1438,6 +1438,13 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         van de PO (PO 2026-11-24: ja, op het eigen account; een tweede gratis account mag bij GitHub alleen voor geautomatiseerd
         werk), met `good first issue` en waar het past `translation`, `sources`, `enhancement` of `help wanted`; het
         document wijst er nu naar.
+        De vraag om te meten subtieler (PO: "Ja, bouw het", na de vraag "Hoe houden we hem toch subtiel"): geen grijze laag;
+        op een groter scherm een kaart van 22rem in de hoek, op een telefoon compact onderaan (~140 px in plaats van ~200);
+        zolang ze er staat, krijgt de pagina onderaan ruimte (WCAG 2.4.11); zacht inschuiven, niet bij minder beweging;
+        Global Privacy Control telt als nee; een keuze geldt een jaar en de cookies van Analytics verlopen na 13 maanden; de
+        vraag in één zin in vijftien talen (vijf met de hand, tien met `sitevertaling aanvullen`, $0,03); de knop in de voet
+        44 px op een aanraakscherm. Gebouwd en getest (`tests/test_site_meten.py`); live als Worker c2c615dd op dezelfde
+        uitgave (PO: "Ja, live en pushen"), nagekeken op factiz.org in een lege browser op 390 px (`/nl/`, `/ar/`).
 
 - [ ] **34.2bm Een pagina over Factiz op ideelab.nl** *(PO 2026-11-15: "Speciale landingspagina daar maken? (roadmap)";
       roadmap)*. Een pagina op de site van Ideelab (een ander repo, `Ideelab Website`) over Factiz als eigen product: wat het
@@ -2069,6 +2076,12 @@ dan een commit. Niets gaat live zonder een ja van de PO.
       - *Bewust klein gelaten:* de landen op de wereldkaart, de ring van thema's en de punten van het netwerk van namen. Er
         staat telkens een lijst of een zoekveld naast met dezelfde ingangen (WCAG 2.5.8 laat dat toe).
       `tests/test_site_mobiel.py` houdt het vast zonder browser.
+
+- [ ] **34.2ci Een tweede ronde op een telefoon** *(PO 2026-11-24, bij de vraag om te meten: "deze nemen we wel mee in
+      een grote responsive sweep voor mobiel, op alle punten")*. Dezelfde meting als 34.2by (`site/scripts/mobiel.mjs` op 320
+      en 414 px, elke soort pagina en open stand, vijftien talen), op alles wat sindsdien bij kwam (de Radar, de wereldlijst,
+      de vraag om te meten). Bekend: op een factcheck met een archiefkopie loopt de knop *Archived copy from …* op 320 px
+      6 px buiten het scherm, ook live vóór de nieuwe vraag om te meten.
 
 - [x] **34.2bz Tot wanneer de site bij is** *(PO 2026-11-17: "Zullen we een versienummer met datum in de footer zetten
       zodat we zien tot wanneer de pagina up to date is? Misschien ook handig voor google?", "Ja, bouw ze allebei", en "is

@@ -813,13 +813,28 @@ a.fz-keuze:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
     font-size: .7em; font-weight: 600; letter-spacing: .02em; line-height: 1.55; padding: 0 .5em; border-radius: .35em;
     vertical-align: .14em; white-space: nowrap; }
   .fz .fz-weg sup { font-size: .8em; margin-inline-start: .15em; }
-  /* de vraag of we mogen meten (B88, SPECS E9.S36): onderaan, klein, ja en nee even groot; nooit over de hele pagina */
-  .fz .fz-meten { position: fixed; z-index: 40; inset-inline: 0; bottom: 0; margin: 0 auto .75rem; width: min(40rem, calc(100% - 1.5rem));
-    display: grid; gap: .75rem; padding: 1rem 1.1rem; background: var(--paneel); color: var(--inkt);
+  /* de vraag of we mogen meten (B88, SPECS E9.S36): ja en nee even groot; nooit over de hele pagina en nooit een grijze laag
+     erachter. Subtiel (PO 2026-11-24): op een telefoon compact onderaan, op een groter scherm een kaart van 22rem in de hoek
+     (`inset-inline` volgt de leesrichting, dus in het Arabisch en Perzisch de andere hoek); zacht inschuiven, behalve voor wie
+     minder beweging wil */
+  .fz .fz-meten { position: fixed; z-index: 40; inset-inline: .75rem; bottom: .75rem; display: grid; gap: .6rem;
+    padding: .8rem .9rem calc(.8rem + env(safe-area-inset-bottom, 0px)); background: var(--paneel); color: var(--inkt);
     border: 1px solid var(--lijn-sterk); border-radius: .75rem; box-shadow: 0 6px 24px rgb(0 0 0 / .12);
-    padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); }
+    font-size: 13.5px; line-height: 1.45; animation: fz-meten-in .3s ease-out both; }
+  @media (min-width: 40rem) { .fz .fz-meten { inset-inline: auto 1.25rem; bottom: 1.25rem; width: 22rem; } }
+  @media (prefers-reduced-motion: reduce) { .fz .fz-meten { animation: none; } }
+  /* de link is een stuk van de zin: geen eigen regel van 44 px (dat gaf een gat in de regelafstand), wel een tikvlak van die
+     hoogte via padding, die de regel niet hoger maakt */
+  .fz .fz-meten a.link { display: inline; min-height: 0; padding-block: .8rem; white-space: nowrap; }
   .fz .fz-meten-knop { flex: 1 1 0; height: 2.75rem; font-size: 14px; }
+  @media (min-width: 40rem) and (pointer: fine) { .fz .fz-meten-knop { height: 2.25rem; } }
+  /* de knop in de voet om de keuze te veranderen: op een aanraakscherm 44 px hoog, zoals elke link in de voet */
+  @media (pointer: coarse) { .fz .fz-meten-aanpassen { display: inline-flex; align-items: center; min-height: 2.75rem; } }
 }
+@keyframes fz-meten-in { from { opacity: 0; transform: translateY(.75rem); } }
+/* zolang de vraag er staat: onderaan ruimte ter hoogte van de kaart, ook voor wat de toetsenbordfocus krijgt (`Meten.jsx`) */
+html.fz-meten-open { scroll-padding-bottom: var(--fz-meten-ruimte, 0px); }
+html.fz-meten-open body.fz { padding-bottom: var(--fz-meten-ruimte, 0px); }
 @layer components {
   /* op de factcheckpagina draagt het stempel het oordeel; de stip en de grote letter van het oude label vallen weg */
   .fz .uitspraak-label.fz-stempelgroep { font-size: inherit; margin-bottom: .35rem; }

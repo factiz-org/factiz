@@ -3,16 +3,40 @@
 // Google zelf, nooit omgeleid via factiz.org: een adblocker die het tegenhoudt, respecteren we. Wat iemand instuurt (een
 // geplakt bericht, een screenshot) gaat nooit naar Google; een zoekvraag alleen als ze getypt en kort is.
 export const SLEUTEL = 'factiz-meten';
+// Een keuze geldt een jaar; daarna vragen we opnieuw (PO 2026-11-24; de CNIL raadt hoogstens dertien maanden aan). De
+// cookies van Analytics verlopen na dertien maanden, niet na de twee jaar die Google zelf neemt.
+export const GELDIG_DAGEN = 365;
+export const COOKIE_SECONDEN = 395 * 24 * 3600;
+const DAG = 24 * 3600 * 1000;
 
-export function keuze() {
-  try {
-    const k = localStorage.getItem(SLEUTEL);
-    return k === 'ja' || k === 'nee' ? k : null;
-  } catch { return null; }
+// Global Privacy Control: een browser die zegt dat de bezoeker niet gevolgd wil worden, krijgt geen vraag en geen meting.
+function nietVolgen() {
+  try { return globalThis.navigator?.globalPrivacyControl === true; } catch { return false; }
 }
 
-export function bewaar(k) {
-  try { localStorage.setItem(SLEUTEL, k); } catch { /* de keuze geldt dan alleen voor deze pagina */ }
+// De keuze van de bezoeker: 'ja', 'nee' of null (nog niet gevraagd). Een eigen keuze gaat voor het signaal van de browser.
+export function keuze(nu = Date.now()) {
+  let eigen = null;
+  try {
+    const ruw = localStorage.getItem(SLEUTEL);
+    if (ruw === 'ja' || ruw === 'nee') {               // de vorm van vóór de verloopdatum: telt vanaf nu
+      bewaar(ruw, nu);
+      eigen = ruw;
+    } else if (ruw) {
+      let k = null;
+      try {
+        const opgeslagen = JSON.parse(ruw);
+        if ((opgeslagen?.k === 'ja' || opgeslagen?.k === 'nee') && Number.isFinite(opgeslagen.t)
+            && nu - opgeslagen.t < GELDIG_DAGEN * DAG) k = opgeslagen.k;
+      } catch { /* onleesbaar: telt als niet gevraagd */ }
+      if (k) eigen = k; else localStorage.removeItem(SLEUTEL);
+    }
+  } catch { /* geen opslag: dan geldt alleen het signaal van de browser */ }
+  return eigen ?? (nietVolgen() ? 'nee' : null);
+}
+
+export function bewaar(k, nu = Date.now()) {
+  try { localStorage.setItem(SLEUTEL, JSON.stringify({ k, t: nu })); } catch { /* de keuze geldt dan alleen voor deze pagina */ }
 }
 
 export function vergeet() {
@@ -39,7 +63,8 @@ export function laadAnalytics(id) {
   window.gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
                                       analytics_storage: 'granted' });
   window.gtag('js', new Date());
-  window.gtag('config', id, { allow_google_signals: false, allow_ad_personalization_signals: false });
+  window.gtag('config', id, { allow_google_signals: false, allow_ad_personalization_signals: false,
+                             cookie_expires: COOKIE_SECONDEN });
   const s = document.createElement('script');
   s.async = true;
   s.src = `https://www.googletagmanager.com/gtag/js?id=${id}`;
