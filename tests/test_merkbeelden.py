@@ -106,3 +106,17 @@ def test_the_share_image_is_the_corpus_crop_with_the_wordmark_in_white():
     assert 200 < rijen.mean() < 430 and 300 < kolommen.mean() < 700  # links van het midden, in de hoogte gecentreerd
     letters = beeld[230:400, 560:950].min(axis=2) > 220
     assert letters.sum() > 3000  # de letters in wit
+
+
+@pytest.mark.parametrize("naam", sorted(mb.GITHUB))
+def test_every_github_image_is_exactly_what_the_script_draws(naam):
+    """De social preview en de banner van het openbare repo (PLAN #34.2bl): getekend, niet geplakt."""
+    pad = mb.GITHUB_MAP / naam
+    assert pad.read_bytes() == mb.GITHUB[naam](), f"{naam}: draai python -m doublecheck.merkbeelden"
+
+
+def test_the_social_preview_has_the_size_github_asks_for_and_stays_dark_behind_the_text():
+    beeld = Image.open(mb.GITHUB_MAP / "social-preview.jpg").convert("RGB")
+    assert beeld.size == (1280, 640) and (mb.GITHUB_MAP / "social-preview.jpg").stat().st_size < 1_000_000
+    grond = np.asarray(beeld).astype(int)[40:400, 40:1240].mean()
+    assert grond < 70, grond                                     # op donker: de tekst wit op een donkere grond

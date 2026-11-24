@@ -7,6 +7,7 @@ suite breekt en niet pas de launch.
 """
 
 import pathlib
+import re
 import subprocess
 
 WORTEL = pathlib.Path(__file__).resolve().parent.parent
@@ -35,7 +36,8 @@ def test_the_english_readme_is_the_front_door():
     """#22.7: de launch is Engelstalig, dus de voordeur ook. De NL-versie
     blijft bestaan en beide wijzen naar elkaar."""
     tekst = (WORTEL / "README.md").read_text(encoding="utf-8")
-    assert tekst.startswith("# Factiz")
+    # de kop is Factiz: als tekst, of als banner in de kop met Factiz voorop in de alt-tekst (PLAN #34.2bl)
+    assert tekst.startswith("# Factiz") or re.match(r'<h1[^>]*>.*?<img [^>]*alt="Factiz\b', tekst)
     assert "resolver layer" in tekst
     assert "README.nl.md" in tekst
     # De kernbeloftes staan op de voordeur zelf.

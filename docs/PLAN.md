@@ -1422,9 +1422,16 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         stand (tests in `tests/test_openbaar.py`) en weigert een thuismap, het eigen adres, een waarde uit `.env` en de
         weigerlijst in `data/openbaar/weiger.txt`. Op GitHub (PO: "Ja, hernoem en maak het nieuwe repo privé aan"): het
         oude repo heet `factiz-org/factiz-lab` (privé, de remote `origin`), het nieuwe `factiz-org/factiz` (privé tot de
-        PO het openbaar zet, de remote `openbaar`); de branch `openbaar` gaat daar naar `main`. Open: openbaar zetten,
-        Discussions en de labels voor de formulieren, of info@ en security@factiz.org werken, `BRONCODE_OPENBAAR` in de
-        voet met een uitrol; elk een eigen ja.
+        PO het openbaar zet, de remote `openbaar`); de branch `openbaar` gaat daar naar `main` (5b53237, de suite groen
+        zonder `data/`). Openbaar sinds 2026-11-24 (PO: "Zet het repo maar openbaar"), met Discussions en de labels
+        `archive`, `translation` en `sources` voor de formulieren (PO: "Ja, doe maar"). De link naar de broncode en Open
+        source in de voet van factiz.org (`BRONCODE_OPENBAAR = true`), live als Worker 679deb84 op dezelfde uitgave
+        (PO: "Ja, rol uit"). Daarna (PO: "En wil je nog een mooie readme en social preview maken (op donker)?"): de README
+        met een banner, een rij links, de cijfers van de uitgave als tabel en twee schermafdrukken van factiz.org (de
+        start en een bewering met drie redacties, boven de toestemmingsbanner afgesneden), de Nederlandse met dezelfde
+        kop; de social preview (1280×640) en de banner getekend door `python -m doublecheck.merkbeelden` op het veld
+        corpus, in `.github/assets/`. De social preview stelt GitHub alleen in via Settings, er is geen API voor. Open: of
+        info@ en security@factiz.org mail ontvangen.
 
 - [ ] **34.2bm Een pagina over Factiz op ideelab.nl** *(PO 2026-11-15: "Speciale landingspagina daar maken? (roadmap)";
       roadmap)*. Een pagina op de site van Ideelab (een ander repo, `Ideelab Website`) over Factiz als eigen product: wat het

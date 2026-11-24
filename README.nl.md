@@ -1,6 +1,12 @@
-# Factiz
+<h1 align="center"><a href="https://factiz.org"><img src=".github/assets/banner.jpg" alt="Factiz. For a world that can't be fooled. Een open archief van factchecks van redacties wereldwijd." width="100%"></a></h1>
 
-*For a world that can't be fooled.*
+<p align="center">
+  <a href="https://factiz.org"><b>factiz.org</b></a> &nbsp;·&nbsp;
+  <a href="docs/PROTOCOL.md">Resolverprotocol</a> &nbsp;·&nbsp;
+  <a href="CONTRIBUTING.md">Meedoen</a> &nbsp;·&nbsp;
+  <a href="https://github.com/factiz-org/factiz/discussions">Discussions</a> &nbsp;·&nbsp;
+  <a href="README.md">English</a>
+</p>
 
 [factiz.org](https://factiz.org) is een open archief van factchecks. Elke pagina is één bewering: de redacties die haar
 controleerden, wat ze vonden en een link naar hun artikel. Wat waar is, beslissen we nooit zelf. Het oordeel is van de

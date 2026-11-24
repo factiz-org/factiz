@@ -64,9 +64,9 @@ const palet = zoektekst(taal, { knop: t('held_label', { n: tk.paginas ?? '' }), 
 // de maker in de zin van de taal (de plek van de naam verschilt per taal) en het repo (PLAN #34.2bk)
 const maker = t('voet_maker', { maker: '\u0001' }).split('\u0001');
 const REPO = 'https://github.com/factiz-org/factiz';
-// Het repo is nog privé (PLAN #34.2bl, SPECS E9.S30 AC3): tot de PO het openbaar maakt, geen link ernaartoe en niet het
-// woord Open source in de voet; de licenties gelden wel en blijven staan. Openbaar: hier true.
-const BRONCODE_OPENBAAR = false;
+// Het repo is openbaar sinds 2026-11-24 (PLAN #34.2bl, SPECS E9.S30 AC3, PO: "Zet het repo maar openbaar"): de link naar de
+// broncode en het woord Open source staan in de voet. Weer privé: hier false.
+const BRONCODE_OPENBAAR = true;
 const taalTekst = { taalkeuze: t('taalkeuze'), knop: t('taal_knop', { taal: '{taal}' }), zoeken: t('taal_zoeken'), niets: t('taal_niets'),
   voorgesteld: t('taal_voorgesteld'), alle: t('taal_alle') };
 // meten met Google Analytics, alleen na een ja (B88, SPECS E9.S36): zonder meet-ID geen banner en niets van Google

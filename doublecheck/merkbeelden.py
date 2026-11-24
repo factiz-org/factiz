@@ -18,7 +18,7 @@ import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from PIL import Image, ImageChops, ImageColor, ImageDraw
+from PIL import Image, ImageChops, ImageColor, ImageDraw, ImageFont
 
 WORTEL = Path(__file__).resolve().parent.parent
 MERK = WORTEL / "factiz_site" / "static" / "merk"
@@ -27,6 +27,11 @@ WOORDMERK = MERK / "woordmerk.svg"  # van de PO, 2026-11-09: het logo met "facti
 INLINE = WORTEL / "factiz_site" / "static" / "merk" / "woordmerk-inline.svg"  # voor kop en voet: de letters in de tekstkleur
 DEELBASIS = WORTEL / "factiz_site" / "static" / "beeld" / "delen.jpg"  # de uitsnede van corpus (`velden`), zonder tekst
 ORANJE = "#FF5900"
+CORPUS = WORTEL / "factiz_site" / "static" / "beeld" / "corpus.webp"  # het veld corpus van `velden`, 2000×900
+GEIST = WORTEL / "factiz_site" / "fonts" / "geist-latin-wght-normal.woff2"  # de letter van de site (SIL OFL)
+GITHUB_MAP = WORTEL / ".github" / "assets"
+PAYOFF = "For a world that can't be fooled."  # B86: overal Engels, nooit vertaald
+OMSCHRIJVING = "An open archive of fact-checks from newsrooms worldwide"
 
 _SVG = "{http://www.w3.org/2000/svg}"
 _TEKENS = re.compile(r"[A-Za-z]|-?(?:\d+\.?\d*|\.\d+)(?:[eE][-+]?\d+)?")
@@ -153,6 +158,36 @@ def deelbeeld() -> bytes:
     return buf.getvalue()
 
 
+def _geist(grootte: int, gewicht: int) -> ImageFont.FreeTypeFont:
+    letter = ImageFont.truetype(str(GEIST), grootte)
+    letter.set_variation_by_axes([gewicht])
+    return letter
+
+
+def github_beeld(maat: tuple[int, int], uitsnede: tuple[int, int, int, int], merk: int, links: int, boven: int,
+                 payoff: int, omschrijving: int) -> bytes:
+    """Een beeld voor het openbare repo op donker (PLAN #34.2bl): het veld corpus met een sluier, links het woordmerk in
+    wit, de pay-off en wat Factiz is; de lichtstreep van het veld onderin blijft vrij van tekst."""
+    basis = Image.open(CORPUS).convert("RGB").crop(uitsnede).resize(maat, Image.LANCZOS)
+    basis = Image.blend(basis, Image.new("RGB", maat, (12, 13, 16)), 0.25)
+    woordmerk = teken(WOORDMERK.read_text(encoding="utf-8"), merk, letters="white")
+    basis.paste(woordmerk, (links, boven), woordmerk)
+    tekst = ImageDraw.Draw(basis)
+    y = boven + merk + round(merk * 0.42)
+    tekst.text((links + 4, y), PAYOFF, font=_geist(payoff, 560), fill=(255, 255, 255))
+    tekst.text((links + 4, y + round(payoff * 1.45)), OMSCHRIJVING, font=_geist(omschrijving, 400), fill=(196, 202, 212))
+    buf = io.BytesIO()
+    basis.save(buf, "JPEG", quality=90, optimize=True, progressive=True)  # de korrel van het veld maakt een PNG ~1 MB
+    return buf.getvalue()
+
+
+# de social preview (GitHub vraagt 1280×640, onder 1 MB) en de banner boven de README
+GITHUB = {
+    "social-preview.jpg": lambda: github_beeld((1280, 640), (200, 0, 2000, 900), 118, 96, 128, 48, 30),
+    "banner.jpg": lambda: github_beeld((1600, 520), (0, 120, 2000, 770), 112, 96, 84, 46, 29),
+}
+
+
 def inline_woordmerk() -> str:
     """Het woordmerk voor kop en voet: het oranje en wit van het logo vast, de letters in de tekstkleur, en voor een
     schermlezer verborgen (de link draagt de naam)."""
@@ -190,6 +225,9 @@ Eén plek voor de site en het platform (PLAN #34.2f): `factiz_site/static/merk/`
   - `og.jpg`: 1200×630, het beeld bij delen: `../beeld/delen.jpg` (de uitsnede van corpus) met het woordmerk in wit.
   - `apple-touch-icon.png` (180×180, het volle vierkant) en `favicon.ico` (16, 32 en 48 pixels).
   - `woordmerk-deel.png`: 34 pixels hoog, de letters zwart, voor het deelplaatje per factcheck (PLAN #34.2aq).
+- Voor het openbare repo (PLAN #34.2bl), in `.github/assets/`: `social-preview.jpg` (1280×640, in te stellen bij Settings,
+  Social preview) en `banner.jpg` (boven de README), op het veld corpus met het woordmerk in wit, de pay-off en wat Factiz
+  is, in Geist, de letter van de site.
 - In kop en voet staat het woordmerk inline, uit `factiz_site/static/merk/woordmerk-inline.svg`: de letters in de tekstkleur.
 """
 
@@ -199,6 +237,10 @@ def main() -> None:  # pragma: no cover - schrijft de bestanden
     for naam, maak in BEELDEN.items():
         (MERK / naam).write_bytes(maak())
         print(f"{naam}: {(MERK / naam).stat().st_size // 1024} KB")
+    GITHUB_MAP.mkdir(parents=True, exist_ok=True)
+    for naam, maak in GITHUB.items():
+        (GITHUB_MAP / naam).write_bytes(maak())
+        print(f".github/assets/{naam}: {(GITHUB_MAP / naam).stat().st_size // 1024} KB")
     (MERK / "HERKOMST.md").write_text(HERKOMST, encoding="utf-8")
 
 

@@ -1,17 +1,44 @@
-# Factiz
+<h1 align="center"><a href="https://factiz.org"><img src=".github/assets/banner.jpg" alt="Factiz. For a world that can't be fooled. An open archive of fact-checks from newsrooms worldwide." width="100%"></a></h1>
 
-*For a world that can't be fooled.*
+<p align="center">
+  <a href="https://factiz.org"><b>factiz.org</b></a> &nbsp;·&nbsp;
+  <a href="docs/PROTOCOL.md">Resolver protocol</a> &nbsp;·&nbsp;
+  <a href="CONTRIBUTING.md">Contributing</a> &nbsp;·&nbsp;
+  <a href="docs/GOOD-FIRST-ISSUES.md">Good first issues</a> &nbsp;·&nbsp;
+  <a href="https://github.com/factiz-org/factiz/discussions">Discussions</a> &nbsp;·&nbsp;
+  <a href="README.nl.md">Nederlands</a>
+</p>
+
+<p align="center">
+  <img alt="Code: AGPL-3.0" src="https://img.shields.io/badge/code-AGPL--3.0-1b1e24?style=flat-square">
+  <img alt="Our writing: CC BY 4.0" src="https://img.shields.io/badge/our%20writing-CC%20BY%204.0-1b1e24?style=flat-square">
+  <img alt="Python 3.12" src="https://img.shields.io/badge/python-3.12-1b1e24?style=flat-square">
+  <img alt="The site in 15 languages" src="https://img.shields.io/badge/site-15%20languages-ff5900?style=flat-square">
+</p>
 
 [factiz.org](https://factiz.org) is an open archive of fact-checks. Each page is one claim: the newsrooms that checked
 it, what they found, and a link to their article. We never decide what is true ourselves. The verdict belongs to the
 newsroom that did the work, and we show it with their name on it.
 
-The edition of 23 November 2026 holds 106,277 claims and 109,074 fact-checks from 266 newsrooms. The claims are in 49
-languages, and the site reads in 15. 829 of those claims were checked by two or more newsrooms.
+| 106,277 | 109,074 | 266 | 49 | 15 |
+|:-:|:-:|:-:|:-:|:-:|
+| claims | fact-checks | newsrooms | languages of the claims | languages of the site |
+
+<sub>The edition of 23 November 2026. 829 of those claims were checked by two or more newsrooms.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://factiz.org"><img src=".github/assets/site-start.jpg" alt="The front page of factiz.org: search 106,277 fact-checks, in 50 languages."></a></td>
+    <td width="50%" valign="top"><a href="https://factiz.org/fact-checks/780a2a56fecb094e/"><img src=".github/assets/site-factcheck.jpg" alt="One claim on factiz.org, Sunscreen causes skin cancer: three newsrooms, each verdict in its own words, each with a link to the article."></a></td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Search the archive in any of 15 languages, or paste a message you were sent.</sub></td>
+    <td valign="top"><sub>One claim, three newsrooms. Each verdict stays in the newsroom's own words, with a link to its article.</sub></td>
+  </tr>
+</table>
 
 This repository is everything behind it: the lab that builds the archive every week, the site that serves it, our own
-fact-checks, and the resolver protocol that lets any tool ask the same question we do. The code is AGPL-3.0. Dutch
-edition of this file: [README.nl.md](README.nl.md).
+fact-checks, and the resolver protocol that lets any tool ask the same question we do.
 
 ## Why this exists
 
@@ -122,9 +149,10 @@ There is a lot to do, and much of it does not need the whole lab. A sample editi
 that run on every pull request, a second reader for the translations in your language, a newsroom we are missing:
 `docs/GOOD-FIRST-ISSUES.md` lists tasks that stand on their own.
 
-Start with `CONTRIBUTING.md`. The project documents are in Dutch, the working language of the team; `docs/README.md`
+Start with `CONTRIBUTING.md`. Sign off every commit with `git commit -s` (the Developer Certificate of Origin); there is
+no agreement to sign beyond that. The project documents are in Dutch, the working language of the team; `docs/README.md`
 explains them in English and translates the words you will meet in the code. Issues and pull requests are welcome in
-English or Dutch.
+English or Dutch, and questions go to [Discussions](https://github.com/factiz-org/factiz/discussions).
 
 Found a security problem? Do not open an issue. `SECURITY.md` says where to write.
 
