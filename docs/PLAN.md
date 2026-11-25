@@ -336,6 +336,11 @@ dan een commit. Niets gaat live zonder een ja van de PO.
         pagina's: onbekend van 1.414 naar 36, Galicisch van 134 naar 1, en 50 talen in plaats van 47 (Somalisch erbij,
         90 pagina's die Swahili, Filipijns of Afrikaans heetten). De telling bij 33.3 (~350 bij zes redacties) was
         te laag: die keek alleen naar labels onder 2% bij de grootste redacties.
+      - *Een taal die een mens las (2026-11-25, PO: "Ja, zet op Russisch"):* de enige pagina in het Oekraïens, en dus de
+        hele Oekraïense sitemap, was Russisch (*ВВП Польши обвалился*, Belarusian Investigative Center); Haiku had er
+        bij onbekend Oekraïens van gemaakt. Zo'n lezing staat nu in `content/taal-gelezen.json`, per nummer met taal,
+        reden en akkoord, en gaat altijd voor op het model (`taallabels.met_gelezen`), ook als zijn leesproef dicht
+        is. Geldt vanaf de volgende uitgave: de pagina komt dan in de Russische sitemap en de Oekraïense is leeg.
       - *Uitslag stap 2 (2026-11-11, $0):* 52.086 van de 54.846 pagina's in een andere taal dan Engels hebben nu de
         Engelse vertaling (95,0%); zonder: 2.760, waarvan de 1.546 die het lab onbekend of Galicisch noemde (B32,
         §117: daar is de vertaling niet op nagelezen, ook niet nu het label hersteld is) en de rest waar geen

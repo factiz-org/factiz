@@ -66,3 +66,23 @@ def test_corrections_apply_only_after_a_reading_of_one_hundred_finds_ninety_five
     schrijf(95, 5)
     assert tl.poort(antwoorden, pad) == (True, "95 van de 100 goed")
     assert tl.poort(antwoorden[:50], pad)[0] is False                    # een andere set antwoorden, een andere proef
+
+
+def test_a_language_a_person_read_wins_over_the_model_even_while_its_reading_is_closed():
+    # het model maakte van een Russische bewering Oekraïens; een mens las haar en zegt Russisch (PO 2026-11-25)
+    model = {"34b3d58dbae23ee3": "uk", "a6fb51005e18ba22": "hi"}
+    gelezen = {"34b3d58dbae23ee3": {"taal": "ru", "reden": "Russisch: Польши, обвалился"},
+               "bedcb75e56432300": {"taal": "en", "reden": "Engels"}}
+    assert tl.met_gelezen(model, gelezen) == {"34b3d58dbae23ee3": "ru", "a6fb51005e18ba22": "hi",
+                                              "bedcb75e56432300": "en"}
+    assert tl.met_gelezen({}, gelezen)["34b3d58dbae23ee3"] == "ru"      # ook als de poort van het model dicht is
+    # alleen een bekende code, met een reden, op een echt nummer
+    fout = {"34b3d58dbae23ee3": {"taal": "Russian", "reden": "x"}, "bedcb75e56432300": {"taal": "en"},
+            "kort": {"taal": "en", "reden": "x"}, "a6fb51005e18ba22": "ru"}
+    assert tl.met_gelezen(model, fout) == model
+
+
+def test_the_languages_people_read_are_in_one_file_that_the_build_reads():
+    gelezen = tl.gelezen()
+    assert gelezen["34b3d58dbae23ee3"]["taal"] == "ru"
+    assert all(tl.met_gelezen({}, {nr: r}) == {nr: r["taal"]} for nr, r in gelezen.items())   # elke regel telt

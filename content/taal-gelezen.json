@@ -1,0 +1,15 @@
+{
+ "_meta": {
+  "toelichting": "De taal van een bewering zoals een mens haar las, waar het taalmodel het mis had (PLAN #33.5). Per nummer van de pagina de taalcode, de reden, wie las en het akkoord. `publiceren bouwen` neemt deze talen altijd over (`taallabels.met_gelezen`), ook als de leesproef van het model dicht is; het lab houdt zijn eigen label (B14)."
+ },
+ "correcties": {
+  "34b3d58dbae23ee3": {
+   "taal": "ru",
+   "was": "uk",
+   "bewering": "ВВП Польши обвалился",
+   "reden": "Russisch, geen Oekraïens: Польши en обвалился (Oekraïens: Польщі, обвалився); de check van het Belarusian Investigative Center staat onder /ru/ en zegt 'Это фейк'",
+   "gelezen_door": "Claude",
+   "akkoord": "2026-11-25, PO: \"Ja, zet op Russisch\""
+  }
+ }
+}

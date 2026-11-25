@@ -20,6 +20,7 @@ import argparse
 import json
 import math
 import random
+import re
 import sqlite3
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -29,6 +30,8 @@ WORTEL = Path(__file__).resolve().parent.parent
 MAP = WORTEL / "data" / "talen" / "labels"
 ANTWOORDEN = MAP / "antwoorden.jsonl"
 LABELS = WORTEL / "docs" / "steekproeven" / "33.5-taallabels.json"
+GELEZEN = WORTEL / "content" / "taal-gelezen.json"   # wat een mens las, gaat voor op het model
+NUMMER = re.compile(r"[0-9a-f]{16}")
 VERSIE = "taal-v1"
 GRENS = 0.50            # dollar
 SCHATTING = 0.00004     # per bewering, direct gevraagd, tien per vraag
@@ -139,11 +142,35 @@ def poort(antwoorden: list[dict], pad: str | Path = LABELS) -> tuple[bool, str]:
     return True, f"{goed} van de {len(proef)} goed"
 
 
+def met_gelezen(model: dict[str, str], gelezen: dict[str, dict]) -> dict[str, str]:
+    """De correcties van het model met daaroverheen de taal die een mens las (`content/taal-gelezen.json`, PO 2026-11-25:
+    een Russische bewering die het model Oekraïens noemde). Een gelezen taal gaat altijd voor, ook als de leesproef van
+    het model dicht is: ze hangt niet aan het model. Alleen een bekende code met een reden, op een echt nummer, telt."""
+    uit = dict(model)
+    for nr, r in gelezen.items():
+        if not (isinstance(r, dict) and NUMMER.fullmatch(nr) and str(r.get("reden") or "").strip()):
+            continue
+        taal = str(r.get("taal") or "").strip()
+        if taal in CODES:
+            uit[nr] = taal
+    return uit
+
+
+def gelezen(pad: str | Path = GELEZEN) -> dict[str, dict]:
+    """De talen die een mens las, per nummer; leeg zonder bestand."""
+    try:
+        return json.loads(Path(pad).read_text(encoding="utf-8"))["correcties"]
+    except FileNotFoundError:
+        return {}
+
+
 def geldige_correcties() -> tuple[dict[str, str], str]:  # pragma: no cover - bestanden
-    """De correcties voor de publicatiedatabase, of geen als de leesproef ze niet draagt; met de reden."""
+    """De correcties voor de publicatiedatabase: die van het model als de leesproef ze draagt, en altijd wat een mens
+    las; met de reden."""
     antwoorden = _jsonl(ANTWOORDEN)
     open_, reden = poort(antwoorden)
-    return (correcties(antwoorden) if open_ else {}), reden
+    mens = gelezen()
+    return met_gelezen(correcties(antwoorden) if open_ else {}, mens), reden + (f"; {len(mens)} door een mens gelezen" if mens else "")
 
 
 # --- bestanden en het model ------------------------------------------------------------------------------------------
